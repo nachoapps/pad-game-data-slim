@@ -1,0 +1,48 @@
+#3271 - Reincarnated Hino Kagutsuchi
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 3271
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (16208:73) 根性
+ | Survive attacks with 1 HP when HP > 75%
+ | (16209:106) 怒りで敵の行動ターンが変化した
+ | Enemy turn counter change to 1 when HP <= 75%
+ type: PREEMPT
+ | (16189:83) 蛇神の火護 + 剛炎神呪 + 黄泉の咆哮
+ | Void damage >= 10000000 for 999 turns + Reduce damage from all sources by 75% for 99 turns + Delay active skills by 10 turns
+ group:
+ | group:
+   | (16210:83) 蛇神の咆哮 + 狂獄の鳴動
+   | Player -99% HP + Poison skyfall +20% for 2 turns
+ | group:
+ | condition: hp <= 74
+   | group:
+   | condition: turn 1 while HP > 24
+     | (16196:83) 神包守炎 + 黄泉への還り火
+     | Voids status ailments for 999 turns + Absorb damage when combos <= 6 for 999 turns
+   | group:
+     | (16202:83) 狂獄の鳴動 + 命奪の神火
+     | Jammer skyfall +15% for 1 turn + Deal 120% damage (3 hits, 40% each), Deal 120% damage (3 hits, 40% each)
+ | group:
+ | condition: hp <= 24
+   | group:
+   | condition: turn 1
+     | (16192:89) 黄泉の咆哮
+     | Delay active skills by 10 turns
+   | group:
+     | (16205:15) 蛇王鏖殺極龍破
+     | Deal 800% damage (8 hits, 100% each)
+ | group:
+ | condition: hp <= 1
+   | (16206:83) 神包守炎 + 蛇神の癒炎 + 黄泉の咆哮
+   | Voids status ailments for 999 turns + Enemy recover 75% hp + Delay active skills by 10 turns
+ type: UNKNOWN_USE
+ | (16193:83) 蛇神の咆哮 + 狂獄の鳴動
+ | Player -99% HP + Mortal Poison skyfall +10% for 2 turns
+ | (16199:83) 狂獄の鳴動 + 魂縛の神火
+ | Poison skyfall +15% for 1 turn + Lock 15 random orbs, Deal 100% damage

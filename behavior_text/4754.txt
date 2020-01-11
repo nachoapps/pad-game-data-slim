@@ -1,0 +1,30 @@
+#4754 - 沖田総悟
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 4754
+approved: False
+
+level: 4
+ type: PREEMPT
+ | condition: when 4751, 4752 on team
+ | (11003:92) Let's slurp mayonnaise in that world!
+ | Spawn 3 random Light orbs
+ | (11002:83) Arrested for obstructing a Public Servant + I hurt a policeman's heart
+ | Bind 2 random subs for 1 turn + Spawn 3 random Dark orbs
+ group:
+ | group:
+   | condition: 33% chance
+   | (11004:89) Don't belittle an Earth policeman!
+   | Delay active skills by 1 turn, Deal 100% damage
+   | condition: 33% chance
+   | (11005:94) You can't go one step further!
+   | Lock 4 random orbs, Deal 100% damage
+   | condition: 34% chance
+   | (11006:15) I'll purge all of you fools!
+   | Deal 120% damage (2 hits, 60% each)
+ | group:
+ | condition: hp <= 9
+   | (11007:15) This is the end
+   | Deal 200% damage (5 hits, 40% each)

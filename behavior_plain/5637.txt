@@ -1,0 +1,124 @@
+#5637 - Super Reincarnated Venus
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 1
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 1, target rnd 7
+
+#3: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1
+
+#4: SkillSet:
+	Condition: 50% chance (ai:0 rnd:50)
+	[0] ESSkyfall(68:15041) -> Wake Up!
+	Fire, Water, Light, and Dark skyfall +100% for 1 turn
+	[1] ESBlind5(5:15036) -> Into Darkness
+	Blind all orbs on the board
+	[2] ESRandomSpawn(92:15042) -> Wood Orbs...
+	Spawn 3 random Wood orbs
+
+#5: ESSkyfall(68:15041) -> Wake Up!
+Fire, Water, Light, and Dark skyfall +100% for 1 turn
+
+#6: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#7: SkillSet:
+	Condition: One-time use (ai:0 rnd:100) (cost: 1)
+	[0] ESAbsorbCombo(67:15030) -> Ocean Vestments
+	Absorb damage when combos <= 7 for 999 turns
+	[1] ESRandomSpawn(92:15031) -> Curse of the Sea God
+	Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+
+#8: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 10, target rnd 14
+
+#9: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 50, target rnd 20
+
+#10: ESSkyfall(68:15034) -> Wake Up!
+Water, Wood, Light, and Dark skyfall +100% for 1 turn
+
+#11: ESRandomSpawn(92:15035) -> Fire Orbs...
+Condition: 50% chance (ai:50 rnd:0)
+Spawn 3 random Fire orbs
+
+#12: ESBlind5(5:15036) -> Into Darkness
+Blind all orbs on the board
+
+#13: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#14: ESBranchCounter(31:21) -> ESBranchCounter
+Branch on counter = 1, target rnd 18
+
+#15: ESSetCounter(25:15) -> ESSetCounter
+counter = 1
+
+#16: ESAbsorbCombo(67:15030) -> Ocean Vestments
+Absorb damage when combos <= 7 for 999 turns
+
+#17: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#18: ESRandomSpawn(92:15031) -> Curse of the Sea God
+Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+
+#19: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#20: ESBranchCombo(113:6528) -> ESBranchCombo
+Branch on combo >= 6, target rnd 29
+
+#21: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 2, target rnd 25
+
+#22: ESSetCounter(25:15) -> ESSetCounter
+counter = 2
+
+#23: SkillSet:
+	Condition: One-time use (ai:0 rnd:100) (cost: 1)
+	[0] ESSkyfall(68:15034) -> Wake Up!
+	Water, Wood, Light, and Dark skyfall +100% for 1 turn
+	[1] ESBlind5(5:15036) -> Into Darkness
+	Blind all orbs on the board
+	[2] ESRandomSpawn(92:15035) -> Fire Orbs...
+	Spawn 3 random Fire orbs
+
+#24: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#25: ESRandomSpawn(92:15039) -> Water Orbs...
+Spawn 3 random Water orbs
+
+#26: SkillSet:
+	Condition: 50% chance (ai:0 rnd:50)
+	[0] ESSkyfall(68:15038) -> Wake Up!
+	Fire, Wood, Light, and Dark skyfall +100% for 1 turn
+	[1] ESBlind5(5:15036) -> Into Darkness
+	Blind all orbs on the board
+	[2] ESRandomSpawn(92:15039) -> Water Orbs...
+	Spawn 3 random Water orbs
+
+#27: ESSkyfall(68:15038) -> Wake Up!
+Fire, Wood, Light, and Dark skyfall +100% for 1 turn
+
+#28: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#29: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 2, target rnd 25
+
+#30: ESSetCounter(25:15) -> ESSetCounter
+counter = 2
+
+#31: ESSkyfall(68:15032) -> Wake Up!
+Fire, Water, Wood, Light, and Dark skyfall +100% for 1 turn
+
+#32: ESEndPath(36:26) -> ESEndPath
+end_turn

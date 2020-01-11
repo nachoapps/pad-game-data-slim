@@ -1,0 +1,16 @@
+#3529 - REMDra
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 3529
+approved: False
+
+level: 1
+ type: DEATH
+ condition: when defeated
+ | (6388:69) REMDra death performance
+ | Show death effect
+ type: UNKNOWN_USE
+ | (12081:124) TAMA Vegas Light
+ | Fever Mode: clear 40 3 orbs

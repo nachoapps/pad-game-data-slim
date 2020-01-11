@@ -1,0 +1,68 @@
+  monster_id: 1766
+  levels {
+    level: 5
+    groups {
+      group_type: STANDARD
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              enemy_skill_id: 1759
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 29
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 1764
+            }
+          }
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 5
+    groups {
+      group_type: STANDARD
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              enemy_skill_id: 1759
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 29
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 1764
+            }
+          }
+        }
+      }
+    }
+  }
+  status: NEEDS_REAPPROVAL

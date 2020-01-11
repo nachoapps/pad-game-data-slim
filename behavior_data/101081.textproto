@@ -1,0 +1,116 @@
+  monster_id: 101081
+  levels {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 13631
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4253
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 4257
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4254
+        }
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4255
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 4256
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13631
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4253
+        }
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4254
+        }
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 4255
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 4256
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 4257
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES

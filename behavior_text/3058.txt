@@ -1,0 +1,18 @@
+#3058 - Life Tree Mechanical Star God, Spica
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 3058
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (15986:83) フラッシュエナジー + 突天
+ | Blind all orbs on the board + No skyfall for 1 turn
+ group:
+ | (15986:83) フラッシュエナジー + 突天
+ | Blind all orbs on the board + No skyfall for 1 turn
+ type: UNKNOWN_USE
+ | (15989:74) 鋼結の鎧
+ | Reduce damage from all sources by 99% for 3 turns

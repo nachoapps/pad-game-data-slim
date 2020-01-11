@@ -1,0 +1,37 @@
+#5788 - 闇マリク＆ラーの翼神竜-不死鳥-
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 5788
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (15805:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ | (15829:72) 水光半減
+ | Reduce damage from Water and Light attrs by 50%
+ type: PREEMPT
+ | (15803:83) さぁ、闇のゲームの始まりだ + 知らしめてやる　ラーの力をな！
+ | Absorb damage when combos <= 6 for 4 turns + Blind all orbs on the board
+ group:
+ | group:
+   | condition: 50% chance
+   | (15799:74) どんな攻撃も通用しない！
+   | Reduce damage from all sources by 75% for 1 turn, Deal 80% damage
+   | (15800:79) 灼熱の炎で焼き尽くしてやるぜぇ
+   | Change the 5th row to Fire orbs, Deal 85% damage
+ | group:
+ | condition: turn 1 while HP > 14, hp <= 49
+   | (15798:86) さぁラーよ、死より蘇生し天を舞え！
+   | Enemy recover 100% hp
+ | group:
+ | condition: hp <= 14
+   | group:
+   | condition: turn 1
+     | (15804:83) さぁて、オレの反撃だ + ゴッドフェニックスの特殊能力発動
+     | Do nothing + Increase damage to 150% for the next 1 turn
+   | group:
+     | (15800:79) 灼熱の炎で焼き尽くしてやるぜぇ
+     | Change the 5th row to Fire orbs, Deal 85% damage

@@ -1,0 +1,29 @@
+#501458 - Mystic Pentad Dragon, Folklore
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 501458
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (15511:88) 超古代の英知
+ | Bind awoken skills for 3 turns, Deal 70% damage
+ | (15513:15) ギアスピン
+ | Deal 100% damage (2 hits, 50% each)
+ group:
+ | group:
+   | (15513:15) ギアスピン
+   | Deal 100% damage (2 hits, 50% each)
+ | group:
+ | condition: always turn 1, hp <= 49
+   | (15512:39) ロストテクノロジー
+   | Movetime -2s for 5 turns
+ | group:
+ | condition: hp <= 19
+   | condition: 30% chance
+   | (15514:15) ギア・テンペスト
+   | Deal 300% damage (3 hits, 100% each)
+   | (15513:15) ギアスピン
+   | Deal 100% damage (2 hits, 50% each)

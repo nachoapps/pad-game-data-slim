@@ -1,0 +1,63 @@
+#201764 - 日出の丼龍・ガショウ
+monster size: 5
+new AI: False
+start/max counter: 1
+counter increment: 0
+monster_id: 201764
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (1775:72) 闇半減
+ | Reduce damage from Dark attrs by 50%
+ type: PREEMPT
+ | (1779:55) 祝いの宴
+ | Player recover 100% hp
+
+level: 5
+ type: PASSIVE
+ | (1775:72) 闇半減
+ | Reduce damage from Dark attrs by 50%
+ type: PREEMPT
+ | (1779:55) 祝いの宴
+ | Player recover 100% hp
+ group:
+ | group:
+ | condition: turn 1
+   | (1784:65) 見つめる
+   | Bind 1 random sub for 2~3 turns
+ | group:
+ | condition: execute repeatedly, turn 1-2 of 3
+   | (1780:66) 膨れる
+   | Do nothing
+ | group:
+ | condition: execute repeatedly, turn 3 of 3
+   | condition: 80% chance
+   | (1782:15) おもち大爆発
+   | Deal 5000% damage (5 hits, 1000% each)
+   | (1783:48) 幸運の香り
+   | Change Random to Heal, Deal 10% damage
+
+level: 10
+ type: PASSIVE
+ | (1775:72) 闇半減
+ | Reduce damage from Dark attrs by 50%
+ type: PREEMPT
+ | (1779:55) 祝いの宴
+ | Player recover 100% hp
+ group:
+ | group:
+ | condition: turn 1
+   | (1784:65) 見つめる
+   | Bind 1 random sub for 2~3 turns
+ | group:
+ | condition: execute repeatedly, turn 1-2 of 3
+   | (1781:13) 膨れる
+   | Change Random 2 to Jammer
+ | group:
+ | condition: execute repeatedly, turn 3 of 3
+   | condition: 80% chance
+   | (1782:15) おもち大爆発
+   | Deal 5000% damage (5 hits, 1000% each)
+   | (1783:48) 幸運の香り
+   | Change Random to Heal, Deal 10% damage

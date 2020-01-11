@@ -1,0 +1,18 @@
+#500789 - Cockatrice
+monster size: 2
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 500789
+approved: False
+
+level: 1
+ group:
+ | condition: 20% chance
+ | (15466:1) イビルアイ
+ | Bind 1 random card for 1 turn
+ | condition: 30% chance
+ | (15467:60) 尾蛇の毒
+ | Change Random 2 to Poison (excluding hearts)
+ | (15468:15) かみかみ
+ | Deal 100% damage (2 hits, 50% each)

@@ -1,0 +1,23 @@
+#203956 - アカホンドラ
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 203956
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (8285:92) 毒針
+ | Spawn 3 random Poison orbs, Deal 100% damage
+ group:
+ | group:
+   | condition: 40% chance, when required attributes on board
+   | (8279:92) フレイムピット
+   | Change all orbs to Jammer, Deal 100% damage
+   | (8278:15) かじる
+   | Deal 150% damage (3 hits, 50% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (8284:7) 食糧補給
+   | Enemy recover 100% hp

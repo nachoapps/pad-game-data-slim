@@ -1,0 +1,47 @@
+#4754 - 沖田総悟
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+
+#1: ESPreemptive(49:3402) -> ESPreemptive
+Enable preempt if level 4
+
+#2: ESBranchLevel(35:25) -> ESBranchLevel
+Branch on level >= 4, target rnd 4
+
+#3: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#4: ESBranchCard(90:11008) -> ESBranchCard
+Branch on player_cards HAS [4751, 4752], target rnd 6
+
+#5: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 1)
+	[0] ESBindRandomSub(65:11000) -> Arrested for obstructing a Public Servant
+	Bind 2 random subs for 1 turn
+	[1] ESRandomSpawn(92:11001) -> I hurt a policeman's heart
+	Spawn 3 random Dark orbs
+
+#6: ESRandomSpawn(92:11003) -> Let's slurp mayonnaise in that world!
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Spawn 3 random Light orbs
+
+#7: ESAttackMultihit(15:11007) -> This is the end
+Condition: When < 10% hp (ai:100 rnd:0)
+Deal 200% damage (5 hits, 40% each)
+
+#8: ESSkillDelay(89:11004) -> Don't belittle an Earth policeman!
+Condition: 33% chance (ai:0 rnd:33)
+Delay active skills by 1 turn, Deal 100% damage
+
+#9: ESOrbLock(94:11005) -> You can't go one step further!
+Condition: 33% chance (ai:0 rnd:33)
+Lock 4 random orbs, Deal 100% damage
+
+#10: ESAttackMultihit(15:11006) -> I'll purge all of you fools!
+Condition: 34% chance (ai:0 rnd:34)
+Deal 120% damage (2 hits, 60% each)
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn

@@ -1,0 +1,18 @@
+#5800 - 青眼の白龍
+monster size: 5
+new AI: True
+start/max counter: 2
+counter increment: 0
+monster_id: 5800
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (15832:72) 草闇半減
+ | Reduce damage from Wood and Dark attrs by 50%
+ type: PREEMPT
+ | (15838:74) 青眼の白龍召喚
+ | Reduce damage from all sources by 50% for 5 turns
+ group:
+ | (15794:77) 滅びのバースト・ストリーム
+ | Change the 1st, 2nd column to Water orbs, the 5th, 6th column to Light orbs, Deal 1000% damage

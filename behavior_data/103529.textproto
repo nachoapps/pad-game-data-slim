@@ -1,0 +1,23 @@
+  monster_id: 103529
+  levels {
+    level: 1
+    groups {
+      group_type: DEATH
+      condition {
+        if_defeated: true
+      }
+      children {
+        behavior {
+          enemy_skill_id: 6388
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          enemy_skill_id: 11649
+        }
+      }
+    }
+  }

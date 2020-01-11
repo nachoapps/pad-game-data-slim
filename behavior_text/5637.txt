@@ -1,0 +1,41 @@
+#5637 - Super Reincarnated Venus
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 1
+monster_id: 5637
+approved: False
+
+level: 1
+ type: PREEMPT
+ | condition: 50% chance
+ | (15040:83) Wake Up! + Into Darkness + Wood Orbs...
+ | Fire, Water, Light, and Dark skyfall +100% for 1 turn + Blind all orbs on the board + Spawn 3 random Wood orbs
+ | (15041:68) Wake Up!
+ | Fire, Water, Light, and Dark skyfall +100% for 1 turn
+ group:
+ | (15029:83) Ocean Vestments + Curse of the Sea God
+ | Absorb damage when combos <= 7 for 999 turns + Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+ type: UNKNOWN_USE
+ | (15034:68) Wake Up!
+ | Water, Wood, Light, and Dark skyfall +100% for 1 turn
+ | condition: 50% chance
+ | (15035:92) Fire Orbs...
+ | Spawn 3 random Fire orbs
+ | (15036:5) Into Darkness
+ | Blind all orbs on the board
+ | (15030:67) Ocean Vestments
+ | Absorb damage when combos <= 7 for 999 turns
+ | (15031:92) Curse of the Sea God
+ | Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+ | (15033:83) Wake Up! + Into Darkness + Fire Orbs...
+ | Water, Wood, Light, and Dark skyfall +100% for 1 turn + Blind all orbs on the board + Spawn 3 random Fire orbs
+ | (15039:92) Water Orbs...
+ | Spawn 3 random Water orbs
+ | condition: 50% chance
+ | (15037:83) Wake Up! + Into Darkness + Water Orbs...
+ | Fire, Wood, Light, and Dark skyfall +100% for 1 turn + Blind all orbs on the board + Spawn 3 random Water orbs
+ | (15038:68) Wake Up!
+ | Fire, Wood, Light, and Dark skyfall +100% for 1 turn
+ | (15032:68) Wake Up!
+ | Fire, Water, Wood, Light, and Dark skyfall +100% for 1 turn

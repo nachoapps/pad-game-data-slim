@@ -1,0 +1,24 @@
+#502641 - Gods' Enemy Monstrous Wolf, Fenrir
+monster size: 5
+new AI: True
+start/max counter: 2
+counter increment: 1
+monster_id: 502641
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (15523:83) 震天の咆哮 + 終末の刻印
+ | Absorb damage when combos <= 5 for 10 turns + Reduce damage from all sources by 50% for 5 turns
+ group:
+ | group:
+ | condition: execute repeatedly, turn 1-9 of 10
+   | condition: 50% chance
+   | (15526:104) 地獄の煙
+   | 3x1 cloud appear for 1 turn at random location, Deal 150% damage
+   | (15524:15) 神喰い
+   | Deal 98~112% damage (7~8 hits, 14% each)
+ | group:
+ | condition: execute repeatedly, turn 10 of 10
+   | (15525:17) 終末の解放
+   | Increase damage to 1000% for the next 1 turn

@@ -1,0 +1,24 @@
+  monster_id: 251
+  levels {
+    level: 6
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 718
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 5
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 718
+        }
+      }
+    }
+  }
+  status: NEEDS_REAPPROVAL

@@ -1,0 +1,34 @@
+#4615 - Llanowar Elves
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 4615
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (10247:48) Nature's Knowledge
+ | Change Random to Wood, Deal 100% damage
+ group:
+ | type: DISPEL_PLAYER
+   | (10248:6) Naturalize
+   | Voids player buff effects
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1-2 of 3
+     | (10247:48) Nature's Knowledge
+     | Change Random to Wood, Deal 100% damage
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | (10249:17) Giant Growth
+     | Increase damage to 300% for the next 1 turn
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 1
+     | (10250:92) Animist's Awakening
+     | Spawn 8 random Wood orbs
+   | group:
+     | (10251:15) Pierce the Sky
+     | Deal 240% damage (4 hits, 60% each)

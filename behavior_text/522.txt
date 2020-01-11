@@ -1,0 +1,20 @@
+#522 - Snow Globe Dragon Vert
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 522
+approved: False
+
+level: 1
+ group:
+ | (8949:66) I hope you like this!
+ | Do nothing
+
+level: 5
+ type: PREEMPT
+ | (8949:66) I hope you like this!
+ | Do nothing
+ group:
+ | (8949:66) I hope you like this!
+ | Do nothing

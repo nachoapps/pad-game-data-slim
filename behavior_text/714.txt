@@ -1,0 +1,17 @@
+#714 - The Fourth Angel - Assault Mode
+monster size: 4
+new AI: False
+start/max counter: 1
+counter increment: 0
+monster_id: 714
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (353:47) Pillar of Light
+ | Deal 50% damage
+ group:
+ condition: hp <= 74
+ | condition: 70% chance
+ | (352:15) Light Ray
+ | Deal 140% damage (2 hits, 70% each)

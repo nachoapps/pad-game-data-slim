@@ -1,0 +1,19 @@
+#5862 - トゥクトス
+monster size: 4
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 5862
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16086:74) ガイアウォール
+ | Reduce damage from all sources by 90% for 3 turns
+ group:
+ | (16087:50) のしかかる
+ | Player -99% HP
+ type: REMAINING
+ condition: when 2 enemies remain, hp <= 100
+ | (16088:92) ガイアストーム
+ | Spawn 10 random Wood orbs, Deal 500% damage

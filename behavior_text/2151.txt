@@ -1,0 +1,31 @@
+#2151 - 精霊龍ライトデュエル・煌牙
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 2151
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (2507:83) 精霊龍の煌翼 + 光明の羽
+ | Voids status ailments for 999 turns + Absorb damage when combos <= 4 for 4 turns
+ group:
+ | group:
+   | (2499:15) Ｗ・ブレイカー
+   | Deal 100% damage (2 hits, 50% each)
+ | group:
+ | condition: turn 1 while HP > 29, hp <= 79
+   | (2508:63) 白光の龍輪
+   | Bind 2 random cards for 2 turns, Deal 80% damage
+ | group:
+ | condition: hp <= 64
+   | condition: 50% chance
+   | (2509:79) エレメンタル・スラッシュ
+   | Change the 5th row to Jammer orbs, Deal 140% damage
+   | (2499:15) Ｗ・ブレイカー
+   | Deal 100% damage (2 hits, 50% each)
+ | group:
+ | condition: hp <= 29
+   | (2504:15) 精霊龍の煌牙
+   | Deal 160% damage (2 hits, 80% each)

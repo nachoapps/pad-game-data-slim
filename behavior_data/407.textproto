@@ -1,0 +1,30 @@
+  monster_id: 407
+  levels {
+    level: 10
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 101
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 10
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 101
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS

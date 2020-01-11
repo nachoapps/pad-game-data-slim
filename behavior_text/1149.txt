@@ -1,0 +1,48 @@
+#1149 - Hello Kitty World Joker
+monster size: 5
+new AI: False
+start/max counter: 1
+counter increment: 1
+monster_id: 1149
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (895:55) Let's Party!!
+ | Player recover 100% hp
+ group:
+ | group:
+ | condition: execute repeatedly, turn 1 of 2, hp <= 100
+   | condition: 30% chance
+   | (897:4) Big Lucky(?) Ribbon
+   | Change Wood to Heal
+   | condition: 40% chance
+   | (898:5) Big Lucky(?) Ribbon
+   | Blind all orbs on the board
+   | condition: 30% chance
+   | (900:4) Big Lucky(?) Ribbon
+   | Change Water to Heal
+   | condition: 30% chance
+   | (901:4) Big Lucky(?) Ribbon
+   | Change Fire to Heal
+   | (896:16) Big Lucky(?) Ribbon
+   | Do nothing
+ | group:
+ | condition: execute repeatedly, turn 1 of 2, hp <= 49
+   | condition: 30% chance
+   | (897:4) Big Lucky(?) Ribbon
+   | Change Wood to Heal
+   | condition: 40% chance
+   | (898:5) Big Lucky(?) Ribbon
+   | Blind all orbs on the board
+   | condition: 10% chance
+   | (899:7) Big Lucky(?) Ribbon
+   | Enemy recover 20% hp
+   | condition: 30% chance
+   | (900:4) Big Lucky(?) Ribbon
+   | Change Water to Heal
+   | condition: 30% chance
+   | (901:4) Big Lucky(?) Ribbon
+   | Change Fire to Heal
+   | (896:16) Big Lucky(?) Ribbon
+   | Do nothing

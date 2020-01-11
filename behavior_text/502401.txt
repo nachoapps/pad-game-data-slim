@@ -1,0 +1,34 @@
+#502401 - Hel
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 502401
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (15443:68) 死の雨
+ | Poison skyfall +10% for 3 turns
+ group:
+ | group:
+   | condition: 30% chance
+   | (15445:64) ポイズンテイル
+   | Change Random 4 to Poison, Deal 120% damage
+   | (15444:15) 削命
+   | Deal 100% damage (5 hits, 20% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (15446:109) 地獄の沼
+     | Random 2 orbs change every 1.5s for 3 turns
+   | group:
+     | condition: 30% chance
+     | (15447:39) 屍の人形
+     | Movetime -3s for 1 turn, Deal 125% damage
+     | condition: 30% chance
+     | (15445:64) ポイズンテイル
+     | Change Random 4 to Poison, Deal 120% damage
+     | (15444:15) 削命
+     | Deal 100% damage (5 hits, 20% each)

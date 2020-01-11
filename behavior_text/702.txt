@@ -1,0 +1,12 @@
+#702 - Rei&Eva Unit-00, Suicide ATK Mode
+monster size: 5
+new AI: False
+start/max counter: 0
+counter increment: 0
+monster_id: 702
+approved: False
+
+level: 1
+ group:
+ | (49:48) Curing Breath
+ | Change Poison to Heal, Deal 120% damage

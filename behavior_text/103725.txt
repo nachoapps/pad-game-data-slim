@@ -1,0 +1,40 @@
+#103725 - Alt. Dark Orb Dragon, Eyro
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 1
+monster_id: 103725
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (8211:72) Dark Jewel Halved
+ | Reduce damage from Dark attrs by 50%
+ type: UNKNOWN_USE
+ | (7701:83) Black Smokescreen + Timed Explosion
+ | Blind orbs in specific positions for 1 turn + Spawn 6 random locked Bomb orbs
+ | (7704:83) Darkened Scale Armor + Usurper's Divine Protection
+ | Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns
+ | (7706:83) Darkened Scale Armor + Fortuitous Yin and Yang
+ | Reduce damage from all sources by 75% for 4 turns + Heal and Jammer skyfall +20% for 7 turns
+ | condition: when 1 enemies remain
+ | (7707:17) Resentful Stare
+ | Increase damage to 150% for the next 999 turns
+ | (7708:74) Darkened Scale Armor
+ | Reduce damage from all sources by 75% for 4 turns
+ | (7710:108) Anarchy
+ | Change Jammer to Poison, Deal 150% damage
+ | (7709:64) Anarchy
+ | Change Random 4 to Poison, Deal 110% damage
+ | (7711:108) Gnawing Fangs
+ | Change Poison to Jammer, Deal 130% damage
+ | (7712:108) Gnawing Fangs
+ | Change Heal to Jammer, Deal 130% damage
+ | (7713:94) Black Tempered Bow
+ | Lock all Jammer orbs, Deal 100% damage
+ | (7714:50) Black Tempered Bow
+ | Player -90% HP
+ | (7715:84) Extreme Dragon Eyes
+ | Change all orbs to Jammer
+ | (7716:85) Darklight Calamity
+ | Change all orbs to Dark and Jammer, Deal 3000% damage

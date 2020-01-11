@@ -1,0 +1,16 @@
+#103528 - Sonia REMDra
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 103528
+approved: False
+
+level: 1
+ type: DEATH
+ condition: when defeated
+ | (6388:69) REMDra death performance
+ | Show death effect
+ type: UNKNOWN_USE
+ | (11650:124) TAMA Vegas Fire
+ | Fever Mode: clear 35 None orbs

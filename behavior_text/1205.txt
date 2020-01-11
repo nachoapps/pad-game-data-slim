@@ -1,0 +1,13 @@
+#1205 - The Ninth Angel - Assault Mode
+monster size: 5
+new AI: False
+start/max counter: 1
+counter increment: 0
+monster_id: 1205
+approved: False
+
+level: 5
+ group:
+ condition: turn 1, hp <= 49
+ | (937:54) Intrude
+ | Bind player leader for 3 turns

@@ -1,0 +1,33 @@
+  monster_id: 2299
+  levels {
+    level: 6
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 2606
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 6
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          condition {
+            if_attributes_available: true
+          }
+          enemy_skill_id: 2606
+        }
+      }
+    }
+  }
+  status: NEEDS_REAPPROVAL

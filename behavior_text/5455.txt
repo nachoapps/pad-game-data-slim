@@ -1,0 +1,43 @@
+#5455 - 地上最強の生物・範馬勇次郎
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+monster_id: 5455
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (14031:127) 闘いこそが至上のコミュニケーション…
+ | No skyfall for 10 turns
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1-2 of 3
+     | condition: 50% chance
+     | (14032:83) 猛獣の連撃―― + 味わってみるかいッッッッッ
+     | Do nothing + Deal 108% damage (6 hits, 18% each), Deal 108% damage (6 hits, 18% each)
+     | condition: 50% chance
+     | (14041:92) 十秒で倒してのけるわッッ
+     | Spawn 5 random Dark orbs, Deal 100% damage
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | condition: 50% chance
+     | (14040:94) 本物の闘争というものを見せてやるッッ
+     | Lock all orbs, Deal 100% damage
+     | condition: 50% chance
+     | (14042:83) 力みなくして + 解放のカタルシスはありえねェ
+     | Do nothing + Player -99% HP
+ | group:
+ | condition: always turn 1, hp <= 50
+   | (14035:83) キサマのその克己心に愛すら感じる…！ + 多くの屍を築きし鬼の正体… + 今こそ見せてやろう
+   | Reduce damage from all sources by 50% for 10 turns + Do nothing + Absorb damage when combos <= 5 for 10 turns
+ | group:
+ | condition: hp <= 20
+   | group:
+   | condition: turn 2
+     | (14045:17) ちょうしこかせてもらうぜ!!!
+     | Increase damage to 150% for the next 99 turns
+   | group:
+     | (14039:15) まだやらせてくれると言うのか…感謝!!!
+     | Deal 300% damage

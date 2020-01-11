@@ -1,0 +1,27 @@
+#1576 - 暗黒魔界の王・ダーブラ
+monster size: 5
+new AI: False
+start/max counter: 1
+counter increment: 1
+monster_id: 1576
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (1477:64) さて……やるか…
+ | Change Random 4 to Poison, Deal 50% damage
+ group:
+ | group:
+ | condition: hp <= 74
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (1478:60) ペッペッ
+     | Change Random 4 to Poison (excluding hearts)
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (1479:48) ヒョオーーーーッ
+     | Change Random to Fire, Deal 75% damage
+ | group:
+ | condition: hp <= 29
+   | (1480:15) おんのれ～～～!!!
+   | Deal 160% damage (2 hits, 80% each)

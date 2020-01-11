@@ -1,0 +1,24 @@
+  monster_id: 437
+  levels {
+    level: 1
+    groups {
+      group_type: STANDARD
+      children {
+        behavior {
+          enemy_skill_id: 170
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: STANDARD
+      children {
+        behavior {
+          enemy_skill_id: 170
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS

@@ -1,0 +1,20 @@
+#2332 - Misato TAMADRA
+monster size: 3
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 2332
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (2571:66) Emergency Launch TAMA!
+ | Do nothing
+
+level: 5
+ type: PREEMPT
+ | (2571:66) Emergency Launch TAMA!
+ | Do nothing
+ group:
+ | (2572:15) Fire TAMA!
+ | Deal 100% damage

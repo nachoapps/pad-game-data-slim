@@ -1,0 +1,37 @@
+#5452 - 地下闘技場王者・範馬刃牙
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 5452
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (14046:71) 強えなァあんた
+ | Void damage >= 8000000 for 5 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (14051:15) 転蓮華
+   | Deal 100% damage
+   | condition: 50% chance
+   | (14052:92) 図に乗りやがって…
+   | Spawn 4 random Fire orbs, Deal 95% damage
+ | group:
+ | condition: always turn 1, hp <= 74
+   | (14047:74) リハーサル通りだな オイ
+   | Reduce damage from all sources by 50% for 5 turns
+ | group:
+ | condition: always turn 2, hp <= 49
+   | (14048:83) こうまでリハーサル通りだと―― + フェアじゃない
+   | Do nothing + Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 3
+     | (14053:94) これ…最後の技です……
+     | Lock all orbs
+   | group:
+     | (14054:15) フロントネックロック
+     | Deal 200% damage

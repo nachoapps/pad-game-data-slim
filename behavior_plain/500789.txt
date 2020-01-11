@@ -1,0 +1,19 @@
+#500789 - Cockatrice
+monster size: 2
+new AI: True
+start/max counter: 1
+counter increment: 1
+
+#1: ESBindRandom(1:15466) -> イビルアイ
+Condition: One-time use (ai:20 rnd:0) (cost: 1)
+Bind 1 random card for 1 turn
+
+#2: ESPoisonChangeRandomCount(60:15467) -> 尾蛇の毒
+Condition: One-time use (ai:30 rnd:0) (cost: 1)
+Change Random 2 to Poison (excluding hearts)
+
+#3: ESAttackMultihit(15:15468) -> かみかみ
+Deal 100% damage (2 hits, 50% each)
+
+#4: ESEndPath(36:26) -> ESEndPath
+end_turn

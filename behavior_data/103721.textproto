@@ -1,0 +1,86 @@
+  monster_id: 103721
+  levels {
+    level: 1
+    groups {
+      group_type: PASSIVE
+      children {
+        behavior {
+          enemy_skill_id: 8207
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7363
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7368
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7366
+        }
+      }
+      children {
+        behavior {
+          condition {
+            trigger_enemies_remaining: 1
+          }
+          enemy_skill_id: 7369
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7370
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7371
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7372
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7373
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7374
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 7375
+        }
+      }
+    }
+  }

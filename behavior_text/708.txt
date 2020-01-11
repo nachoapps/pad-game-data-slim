@@ -1,0 +1,22 @@
+#708 - The Fifth Angel - Assault Mode
+monster size: 4
+new AI: False
+start/max counter: 1
+counter increment: 0
+monster_id: 708
+approved: False
+
+level: 5
+ group:
+ | group:
+ | condition: hp <= 74
+   | condition: 70% chance
+   | (347:15) Cut Down
+   | Deal 90~150% damage (3~5 hits, 30% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (346:3) Tentacles
+   | Bind God cards for 2~4 turns
+   | condition: 70% chance
+   | (347:15) Cut Down
+   | Deal 90~150% damage (3~5 hits, 30% each)

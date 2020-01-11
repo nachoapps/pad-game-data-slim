@@ -1,0 +1,36 @@
+  monster_id: 436
+  levels {
+    level: 1
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 29
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 30
+          }
+          enemy_skill_id: 169
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 29
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 30
+          }
+          enemy_skill_id: 169
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS

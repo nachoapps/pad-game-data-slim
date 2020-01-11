@@ -1,0 +1,19 @@
+#708 - The Fifth Angel - Assault Mode
+monster size: 4
+new AI: False
+start/max counter: 1
+counter increment: 0
+
+#1: ESBranchLevel(35:25) -> ESBranchLevel
+Branch on level >= 5, target rnd 3
+
+#2: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#3: ESBindTyping(3:346) -> Tentacles
+Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Bind God cards for 2~4 turns
+
+#4: ESAttackMultihit(15:347) -> Cut Down
+Condition: 70% chance when < 75% hp (ai:70 rnd:0)
+Deal 90~150% damage (3~5 hits, 30% each)

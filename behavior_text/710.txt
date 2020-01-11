@@ -1,0 +1,15 @@
+#710 - The Sixth Angel - Assault Mode
+monster size: 5
+new AI: False
+start/max counter: 0
+counter increment: 0
+monster_id: 710
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (350:20) Deploy A.T. Field
+ | Voids status ailments for 999 turns
+ group:
+ | (349:15) Charged Particle Beam
+ | Deal 300% damage

@@ -1,0 +1,37 @@
+#502639 - Gods' Threat Venomous Snake, Jörmungandr
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESSkyfall(68:15492) -> カオスレイン
+	Jammer and Poison skyfall +8% for 5 turns
+	[1] ESDamageShield(74:15499) -> 終末の刻印
+	Reduce damage from all sources by 75% for 2 turns
+
+#3: ESAbsorbCombo(67:15496) -> このままでは終わらんぞ
+Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Absorb damage when combos <= 6 for 2 turns
+
+#4: ESAttackMultihit(15:15497) -> オーバーフェルミングフォース
+Condition: When < 10% hp (ai:100 rnd:0)
+Deal 500% damage
+
+#5: ESAbsorbAttribute(53:15495) -> 毒蛇の大顎
+Condition: 30% chance when < 50% hp (ai:30 rnd:0)
+Absorb Wood damage for 1 turn, Deal 140% damage
+
+#6: ESBindAttack(63:15494) -> 蛇痺牙
+Condition: 30% chance (ai:30 rnd:0)
+Bind 1 random sub for 1 turn, Deal 130% damage
+
+#7: ESAttackMultihit(15:15493) -> ソーンテイル
+Deal 100% damage (2 hits, 50% each)
+
+#8: ESEndPath(36:26) -> ESEndPath
+end_turn

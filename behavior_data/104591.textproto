@@ -1,0 +1,49 @@
+  monster_id: 104591
+  levels {
+    level: 4
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 10441
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 10440
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 10441
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 10440
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES

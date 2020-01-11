@@ -1,0 +1,31 @@
+#5470 - 島田亜輝
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+monster_id: 5470
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (14105:100) はしゃぎすぎじゃねェか？
+ | Seal the 1st row for 1 turn
+ group:
+ | group:
+   | condition: 33% chance
+   | (14106:15) いじめるゾこのヤロォ！
+   | Deal 110% damage (2 hits, 55% each)
+   | condition: 33% chance
+   | (14109:15) このくそっ！
+   | Deal 100% damage
+   | condition: 34% chance
+   | (14110:48) ウダウダやってるヒマはねェぞ！
+   | Change Random to Dark, Deal 95% damage
+ | group:
+ | condition: always turn 1, hp <= 49
+   | (14107:67) まだまだこれからだぜ
+   | Absorb damage when combos <= 3 for 1 turn
+ | group:
+ | condition: turn 2, hp <= 20
+   | (14108:74) おまえは俺に勝てねェよ
+   | Reduce damage from all sources by 50% for 1 turn

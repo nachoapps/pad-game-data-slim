@@ -1,0 +1,82 @@
+  monster_id: 1079
+  levels {
+    level: 3
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 5284
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 5281
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 5283
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5282
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 3
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5284
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5281
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5283
+        }
+      }
+      children {
+        behavior {
+          condition {
+            always_after: 5281
+          }
+          enemy_skill_id: 5282
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES

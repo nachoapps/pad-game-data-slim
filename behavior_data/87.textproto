@@ -1,0 +1,46 @@
+  monster_id: 87
+  levels {
+    level: 15
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 2594
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 2596
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 15
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 2594
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 2596
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS

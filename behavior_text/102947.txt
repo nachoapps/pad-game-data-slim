@@ -1,0 +1,36 @@
+#102947 - Alt. Nocturnal Corpse Wyrm, Dragon Zombie
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 102947
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (7501:83) Cruel Malice + Lifeline + Death Miasma
+ | Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + Mortal Poison skyfall +5% for 5 turns
+ group:
+ | group:
+   | (7504:68) Death Miasma
+   | Mortal Poison skyfall +5% for 5 turns
+ | group:
+ | condition: turn 1 while HP > 9, hp <= 49
+   | (7500:17) Corpse Dragon's Wail
+   | Increase damage to 150% for the next 999 turns
+ | group:
+ | condition: hp <= 9
+   | (7514:48) Deadly Poison Breath
+   | Change Random to Mortal Poison, Deal 1200% damage
+ type: UNKNOWN_USE
+ | condition: 34% chance
+ | (7510:83) Castaway Cataract + Hellish Ambience
+ | Change the 1st, 3rd, 5th column to Jammer orbs + Player -50% HP, Deal 75% damage
+ | condition: 50% chance
+ | (7512:83) Test of Mortality + Hellish Ambience
+ | Change the 1st row to Heal orbs, the 5th row to Mortal Poison orbs + Player -50% HP
+ | condition: 50% chance
+ | (7507:98) Evil Seal of Repulsion
+ | Blind orbs in specific positions for 1 turn, Deal 100% damage
+ | (7509:98) Evil Seal of Repulsion
+ | Blind orbs in specific positions for 1 turn, Deal 100% damage

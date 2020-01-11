@@ -1,0 +1,95 @@
+  monster_id: 1707
+  levels {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 13535
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+        repeats_every: 7
+        trigger_turn: 1
+        trigger_turn_end: 7
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13539
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 13538
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13540
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13535
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+        trigger_turn: 1
+        trigger_turn_end: 15
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13539
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13538
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13540
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES

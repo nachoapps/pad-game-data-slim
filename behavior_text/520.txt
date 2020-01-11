@@ -1,0 +1,20 @@
+#520 - Snow Globe Dragon Rouge
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 520
+approved: False
+
+level: 1
+ group:
+ | (8947:66) Everyone be happy!
+ | Do nothing
+
+level: 5
+ type: PREEMPT
+ | (8947:66) Everyone be happy!
+ | Do nothing
+ group:
+ | (8947:66) Everyone be happy!
+ | Do nothing

@@ -1,0 +1,33 @@
+  monster_id: 547
+  levels {
+    level: 5
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 24
+        trigger_turn: 1
+      }
+      children {
+        behavior {
+          enemy_skill_id: 222
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 5
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 24
+        use_chance: 100
+        trigger_turn: 1
+      }
+      children {
+        behavior {
+          enemy_skill_id: 222
+        }
+      }
+    }
+  }
+  status: NEEDS_REAPPROVAL
