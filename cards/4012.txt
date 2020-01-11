@@ -1,0 +1,15 @@
+#4012 Zeus Verse
+HP: 4095 ATK: 1314 RCV: 326 LB: 0
+AWK: 21,21,21
+SAWK: 
+
+# 9313/161 - Punishment of God
+Tags: NEW_GRAVITY
+Game: Inflicts damage equal to 35% of enemies' max HP
+EN: Deal damage equal to 35% of enemies' max HP
+
+# 9316/138 - Day of Zeus
+Tags: ENHANCED_ATK_RCV
+Game: 7.5x ATK when HP is full; 2x ATK & RCV for all Att.
+EN: 7.5x ATK when HP is full; 2x ATK & RCV
+

@@ -1,0 +1,15 @@
+#2602 最高の男・坊屋春道
+HP: 3115 ATK: 2080 RCV: 108 LB: 0
+AWK: 14,14,21,28,33
+SAWK: 
+
+# 3849/116 - I'm fine with being a crow!!
+Tags: ORB_CONVERT,DROP_CHANCE
+Game: Changes Jammers, Heal & Poison Orbs to Fire Orbs; Fire Orbs slightly more likely to appear for 3 turns
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 3 turns, Fire orbs are more likely to appear by 15%
+
+# 4324/138 - Just chill and come here to fight!
+Tags: ENHANCED_HP_ATK_RCV
+Game: Attacker Type stats increase slightly; 3x ATK when erasing 6+ linked Fire Orbs
+EN: 1.25x all stats for Attacker type; 3x ATK when matching 6 or more connected Fire orbs
+

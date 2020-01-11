@@ -1,0 +1,15 @@
+#23 Volcano Dragon
+HP: 1412 ATK: 1056 RCV: 93 LB: 0
+AWK: 
+SAWK: 
+
+# 21/1 - Fire Ball
+Tags: MASSIVE_ATTACK
+Game: Inflicts 3,000 Fire Att. damage on all enemies
+EN: Deal 3000 Fire damage to all enemies
+
+# 71/17 - Fire Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Fire Att. damage
+EN: Reduce damage taken from fire att. by 30%
+

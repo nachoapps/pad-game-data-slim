@@ -1,0 +1,15 @@
+#554 Mid Dark Ninja
+HP: 115 ATK: 1197 RCV: 176 LB: 0
+AWK: 
+SAWK: 
+
+# 477/35 - Ninja Art Shadow Tag
+Tags: ATTACK_AND_HEAL
+Game: Inflict 20x your ATK on 1 enemy & heal a bit
+EN: Deal 20x ATK damage to an enemy and recover 5% of the damage as HP
+
+# 533/15 - Ninja's Stealth Walk
+Tags: EXTEND_TIME
+Game: Orb move time +1.5 seconds
+EN: Increase orb movement time by 1.5 seconds
+

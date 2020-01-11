@@ -1,0 +1,15 @@
+#4283 Mega Awoken Blue Dragon Caller, Sonia Clea
+HP: 7080 ATK: 1959 RCV: 0 LB: 20
+AWK: 52,28,56,43,43,43,60,60,63
+SAWK: 48,60,55
+
+# 10032/116 - Guardian Star Summoning Circle - Water & Dark
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
+Game: Reduces bind status by 3 turns, removes Orb locks; changes all Orbs to Water & Dark Orbs
+EN: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
+
+# 10036/138 - Crystal Dragon Tribe's Protection
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 1.5x to all stats for Dragon Type, Orb move time +2 sec; 5x ATK & reduces dmg when Water & Dark attack at once
+EN: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Water+Dark
+

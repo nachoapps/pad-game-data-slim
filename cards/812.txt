@@ -1,0 +1,15 @@
+#812 Empress of Creation, Izanami
+HP: 3287 ATK: 1239 RCV: 549 LB: 0
+AWK: 17,7,9
+SAWK: 
+
+# 693/3 - Merciful Protection
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 1 turn
+EN: For 1 turn, reduce damage taken by 35%
+
+# 758/108 - The Holy Undertaking of Genesis
+Tags: ENHANCED_ATK
+Game: 4x ATK for Balanced Type, but halves overall HP
+EN: Reduce total HP by 50%; 4x ATK for Balanced type
+

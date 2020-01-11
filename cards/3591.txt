@@ -1,0 +1,15 @@
+#3591 Dream Shredder Mechanical Star God, Hamal
+HP: 3055 ATK: 1805 RCV: 278 LB: 0
+AWK: 18,18,21,28,28,19
+SAWK: 
+
+# 3776/116 - Meteor Charge - Dark
+Tags: ORB_CONVERT
+Game: Changes Light, Heal & Poison to Dark Orbs; other allies' skills charged by 1 turn
+EN: Change Light, Heal, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
+
+# 8237/138 - Aries' Starbreak
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage with 3+ Dark combos; 4x ATK for Att. erasing 5 Orbs including enhanced
+EN: 3x ATK and reduce damage taken by 25% when matching 3+ Dark combos; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

@@ -1,0 +1,15 @@
+#4801 Ambush Master Dragon Caller, Valeria
+HP: 6130 ATK: 3002 RCV: 260 LB: 15
+AWK: 52,21,28,46,46,46,46,43,63
+SAWK: 45,43,44
+
+# 11558/116 - Refresh Order
+Tags: ENHANCED_HEAL,ORB_REFRESH
+Game: 2x RCV for 3 turns; replaces all Orbs
+EN: For 3 turns, 2x RCV; Replace all orbs
+
+# 11564/138 - Chief Guardian's Draco Summoning Seal
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 7.5x ATK when 4+ Att. attack at once, Orb move time +2 seconds; 3x ATK & RCV with 7+ combos
+EN: 7.5x ATK when matching 4 or more colors; 3x ATK & RCV when 7 or more combos; Increase orb movement time by 2 seconds
+

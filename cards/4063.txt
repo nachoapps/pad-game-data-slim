@@ -1,0 +1,15 @@
+#4063 Holy Night Guest, Gremory
+HP: 6102 ATK: 1801 RCV: 750 LB: 20
+AWK: 56,53,28,22,52,48,20,22,22
+SAWK: 57,45,55
+
+# 6780/116 - Sweet Words
+Tags: RECOVER_BIND
+Game: Creates 3 Fire & Heal Orbs each at random; reduces unmatchable Orb status & bind status by 5 turns
+EN: Create 3 Fire and Heal orbs; Reduce unable to match orbs effect by 5 turns; Reduce binds by 5 turns
+
+# 9530/138 - Well, what kind of present do you want?
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3.5x ATK for God, Devil & Balanced Types when skills used; 6x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 3.5x ATK for Balanced, God, Devil type on the turn a skill is used; 6x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

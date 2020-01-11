@@ -1,0 +1,15 @@
+#4286 King of Perdition, Satan Void
+HP: 6666 ATK: 2666 RCV: -9999 LB: 20
+AWK: 26,26,26,26,26,21,7,7,32
+SAWK: 26,58,52
+
+# 10100/116 - Vanishing World
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE
+Game: Inflicts 300x ATK Dark Att. attack on 1 enemy but HP falls to 1; changes all Orbs to Dark Orbs
+EN: Reduce HP to 1; Deal 300x Dark damage to an enemy; Change all orbs to Dark orbs
+
+# 10103/138 - Dark Lord's True Eye
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Devil Type; ATK increases with 6+ linked Dark Orbs, up to 5x
+EN: 2x HP & ATK for Devil type; 2x ATK when matching 6 or more connected Dark orbs up to 5x at 9 orbs
+

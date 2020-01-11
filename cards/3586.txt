@@ -1,0 +1,15 @@
+#3586 Flashblade Mechanical Star God, Algedi
+HP: 3210 ATK: 1933 RCV: 138 LB: 0
+AWK: 24,24,28,21,32
+SAWK: 
+
+# 3772/116 - Star Dust - Land
+Tags: EXTENDS_TIME
+Game: Creates 3 Wood Orbs & Jammers each at random; Orb move time +1 second for 1 turn
+EN: Create 3 Wood and Jammer orbs; For 1 turn, increase orb move time by 1 second
+
+# 7460/138 - Capricorn's Starslash
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK with 1 Jammer combo, 8x ATK with 2+ combos; 1.5x ATK & reduces damage with 4+ combos
+EN: 4x ATK when matching 1 Jammer combos, up to 8x at 2 Jammer combos; 1.5x ATK and reduce damage taken by 25% when 4 or more combos
+

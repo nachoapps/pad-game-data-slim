@@ -1,0 +1,15 @@
+#65 Ice Ogre
+HP: 1900 ATK: 875 RCV: 8 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 183/116 - Fire&Water Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Fire Orbs & Jammers to Water Orbs, and Heal Orbs & Poison Orbs to Fire Orbs
+EN: Change Fire, Jammer orbs to Water orbs; Change Heal, Poison, and Mortal Poison orbs to Fire orbs
+
+# 63/14 - Resolve
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

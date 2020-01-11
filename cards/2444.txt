@@ -1,0 +1,15 @@
+#2444 Hokuto Shinken's Successor, Kenshiro
+HP: 6405 ATK: 2170 RCV: 76 LB: 25
+AWK: 10,10,21,21,57,57,43,43,43
+SAWK: 46,44,21
+
+# 1835/116 - You Are Already Dead
+Tags: ENHANCED_ORBS,REDUCE_DEFENSE,EXTENDS_TIME
+Game: Voids enemies' DEF & increases Orb move time by 7 seconds for 1 turn; all Orbs enhanced
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, increase orb move time by 7 seconds; Enhance all orbs
+
+# 4035/138 - Ultimate Secret of Hokuto, Musou Tensei
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage when HP is 50% or more; 5x ATK with 7+ combos
+EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 5x ATK when 7 or more combos
+

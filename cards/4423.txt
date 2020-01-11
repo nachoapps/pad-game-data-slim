@@ -1,0 +1,15 @@
+#4423 Devil Who Emerged from the Flames, Shishio Makoto
+HP: 3508 ATK: 2813 RCV: 0 LB: 25
+AWK: 10,10,21,21,28,19,60,60,60
+SAWK: 55,46,59
+
+# 10506/116 - Final Secret Sword, Kaguzuchi
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
+Game: Changes the top row to Fire Orbs and the bottom row to Dark Orbs; 2x ATK for Dark & Fire Att. for 1 turn
+EN: Change the top row to Fire orbs and change the bottom row to Dark orbs; For 1 turn, 2x ATK for Fire, Dark Att.
+
+# 10513/138 - I don't know when I've had so much fun.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK for Dark & Fire Att.; 2.5x ATK & reduces damage with 5+ linked Dark or Fire Orbs
+EN: 5x ATK for Fire, Dark Att.; 2.5x ATK and reduce damage taken by 25% when matching 5 or more connected Fire or Dark orbs
+

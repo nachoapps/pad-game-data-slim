@@ -1,0 +1,15 @@
+#4282 Awoken Nephthys
+HP: 3553 ATK: 1455 RCV: 538 LB: 0
+AWK: 26,21,26,26,21,28,19,62
+SAWK: 
+
+# 11647/116 - Dark Terror Fog
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
+Game: 1.5x ATK for Dark Att. for 1 turn; changes the bottom row to Dark Orbs
+EN: For 1 turn, 1.5x ATK for Dark Att.; Change the bottom row to Dark orbs
+
+# 11650/138 - Trip of the Dead
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Dark Att., 3x ATK when HP is full; 3x ATK when 3+ Att. (2+Heal) attack at once
+EN: 1.5x all stats for Dark Att.; 3x ATK when HP is full; 3x ATK when matching 3 or more colors (2+heal)
+

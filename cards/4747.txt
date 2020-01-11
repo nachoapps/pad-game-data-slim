@@ -1,0 +1,15 @@
+#4747 Mega Awoken Evil Duchess, Gremory
+HP: 4702 ATK: 2001 RCV: 700 LB: 20
+AWK: 21,21,28,53,10,10,60,60,60
+SAWK: 60,43,45
+
+# 11821/116 - Dear Words
+Tags: GUARD_STANCE,RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Changes the leftmost column to Dark & rightmost to Heal Orbs; fully recovers bind status (incl. Awoken)
+EN: Change the far left column to Dark orbs and change the far right column to Heal orbs; Remove all binds and awoken skill binds
+
+# 11824/138 - Treasure Hunting Demonic Innocence
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 2x ATK & RCV for Devil Type, 2x ATK when skills used; 5x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 2x ATK & RCV for Devil type; 2x ATK on the turn a skill is used; 5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

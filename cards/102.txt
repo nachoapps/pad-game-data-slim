@@ -1,0 +1,15 @@
+#102 Mystic Stone Knight
+HP: 700 ATK: 400 RCV: 108 LB: 0
+AWK: 
+SAWK: 
+
+# 48/9 - Wood Orb Change
+Tags: ORB_CONVERT
+Game: Changes Fire Orbs to Wood Orbs
+EN: Change Fire orbs to Wood orbs
+
+# 73/17 - Wood Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Wood Att. damage
+EN: Reduce damage taken from wood att. by 30%
+

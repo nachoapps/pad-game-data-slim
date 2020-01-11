@@ -1,0 +1,15 @@
+#2515 Holy Rites Mistress, Echidna
+HP: 1277 ATK: 1349 RCV: 650 LB: 30
+AWK: 29,29,21,22,22,22,19
+SAWK: 52,43,56
+
+# 91/18 - Menace
+Tags: MENACE
+Game: Delays enemies' next move for 3 turns
+EN: Delay enemies' next attack by 3 turns
+
+# 4192/138 - Everyone, let's feast!
+Tags: AUTO_HEAL,ENHANCED_HP_ATK
+Game: 2.5x HP & 1.5x ATK for Healer Type; heals 4x RCV in HP when matching Orbs
+EN: 2.5x HP and 1.5x ATK for Healer type; 4x RCV additional heal when matching orbs
+

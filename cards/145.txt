@@ -1,0 +1,15 @@
+#145 Mechadragon Valhalla
+HP: 3050 ATK: 1356 RCV: 164 LB: 0
+AWK: 17,21
+SAWK: 
+
+# 14/116 - Holy Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Light Att. for 2 turns; inflicts 20x ATK Light Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Light Att.; Deal 20x ATK Light damage to all enemies
+
+# 79/17 - Light Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light Att. damage
+EN: Reduce damage taken from light att. by 50%
+

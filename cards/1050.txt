@@ -1,0 +1,15 @@
+#1050 Firefly + Flamethrower
+HP: 1153 ATK: 1348 RCV: 90 LB: 0
+AWK: 1,1
+SAWK: 
+
+# 126/116 - Burst Bomb
+Tags: REDUCE_DEFENSE,SINGLE_TARGET_ATTACK
+Game: Vastly reduces enemies' DEF for 2 turns; inflicts 50x ATK attack on 1 enemy
+EN: For 2 turns, reduce enemies' defense by 75%; Deal 50x ATK damage to an enemy
+
+# 895/17 - Flameproof
+Tags: REDUCE_DAMAGE
+Game: Halves Fire Att. damage
+EN: Reduce damage taken from fire att. by 50%
+

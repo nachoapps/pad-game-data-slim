@@ -1,0 +1,15 @@
+#2036 Sorceress's Successor, Rinoa
+HP: 3020 ATK: 1726 RCV: 778 LB: 25
+AWK: 32,52,45,56,46,15,15,20,28
+SAWK: 54,55,32
+
+# 2604/116 - Hey, again.
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 50% of max HP and fully recovers bind status; other allies' skills charged by 1 turn
+EN: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
+
+# 2919/138 - Angel Wing
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3.5x ATK for Water Att., Orb move time +2 seconds; 4x ATK & reduces damage with 2+ Water combos
+EN: 3.5x ATK for Water Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching 2+ Water combos
+

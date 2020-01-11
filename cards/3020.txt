@@ -1,0 +1,15 @@
+#3020 Kamiya Kaoru
+HP: 1186 ATK: 722 RCV: 50 LB: 0
+AWK: 
+SAWK: 
+
+# 5192/116 - Swords that give life
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Changes the top row to Water Orbs & the bottom row to Light Orbs; heals 50% of Max HP
+EN: Change the top row to Water orbs and change the bottom row to Light orbs; Recover 50% of max HP
+
+# 5535/129 - This is it!!
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & 1.5x RCV for Attacker Type
+EN: 2x ATK and 1.5x RCV for Attacker type
+

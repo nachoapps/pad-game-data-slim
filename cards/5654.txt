@@ -1,0 +1,15 @@
+#5654 Sousuke Sagara & Arbalest
+HP: 4075 ATK: 3033 RCV: 283 LB: 25
+AWK: 10,10,56,28,53,45,43,43,43
+SAWK: 48,57,68
+
+# 14999/116 - I'm not an amateur. I'm a specialist.
+Tags: MENACE,ORB_CONVERT
+Game: Delays enemies' next move for 1 turn; changes Jammers, Poison, Wood & Light Orbs to Dark Orbs
+EN: Delay enemies' next attack by 1 turn; Change Wood, Light, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 15011/138 - Lambda Drive
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 2x HP for Machine Type; 3x ATK with 2+ Dark combos; 6x ATK & reduces damage with 6+ combos
+EN: 2x HP for Machine type; 3x ATK when matching 2+ Dark combos; 6x ATK and reduce damage taken by 25% when 6 or more combos
+

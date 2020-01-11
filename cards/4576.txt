@@ -1,0 +1,15 @@
+#4576 Guardian of the Water City, Athena
+HP: 4575 ATK: 2711 RCV: 0 LB: 30
+AWK: 10,10,21,21,21,27,27,27,27
+SAWK: 27,43,48
+
+# 10741/116 - Vow of Aegis
+Tags: MENACE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Delays enemies' next move for 3 turns; reduces bind status (incl. Awoken) by 3 turns
+EN: Delay enemies' next attack by 3 turns; Reduce binds and awoken skill binds by 3 turns
+
+# 10744/138 - Protection of Nike
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & 4x ATK for God, Attacker & Machine Types; 4x ATK & 2x RCV when erasing 5+ linked Orbs
+EN: 4x ATK and 1.5x HP for God, Attacker, Machine type; 4x ATK and 2x RCV when matching 5 or more connected orbs
+

@@ -1,0 +1,15 @@
+#3238 Reincarnated Minerva
+HP: 4110 ATK: 2109 RCV: 503 LB: 10
+AWK: 10,12,12,10,22,14,21,4,28
+SAWK: 4,59,60
+
+# 1613/116 - Hellish Inferno
+Tags: REDUCE_DEFENSE,ORB_CONVERT
+Game: Halves enemies' DEF for 2 turns; changes Dark Orbs to Fire Orbs
+EN: For 2 turns, reduce enemies' defense by 50%; Change Dark orbs to Fire orbs
+
+# 6555/138 - Soul of the Warrior Goddess
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Fire Att.; 2x ATK when Fire & Light attack at once; halves damage from Fire, Light & Dark enemies
+EN: 3x ATK for Fire Att.; Reduce damage taken from fire, light, dark att. by 50%; 2x ATK when matching Fire+Light
+

@@ -1,0 +1,15 @@
+#202 Enchantress of the Sea, Siren
+HP: 1311 ATK: 785 RCV: 691 LB: 0
+AWK: 11,3,9
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 216/13 - Rondo of Healing
+Tags: AUTO_HEAL
+Game: Heals HP equal to 3x RCV when matching Orbs
+EN: 3x RCV additional heal when matching orbs
+

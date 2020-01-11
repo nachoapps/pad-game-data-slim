@@ -1,0 +1,15 @@
+#4431 Mega Awoken Phantom God, Odin
+HP: 4839 ATK: 2823 RCV: 154 LB: 20
+AWK: 10,10,21,21,21,28,19,48,48
+SAWK: 48,43,33
+
+# 10913/116 - Resistance of the Destroying Lance
+Tags: ATTACK_STANCE,ADD_COMBO
+Game: Changes Light & Heal Orbs to Fire Orbs; adds 2 combos for 1 turn
+EN: Change Light and Heal orbs to Fire orbs; For 1 turn, increase combo count by 2
+
+# 10916/138 - Force of Valhalla
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK & reduces damage with 6+ combos; 2.5x ATK with 4+ linked Fire Orbs
+EN: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Fire orbs
+

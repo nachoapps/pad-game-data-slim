@@ -1,0 +1,15 @@
+#4291 うしおととら【原作版】
+HP: 4853 ATK: 1908 RCV: 120 LB: 25
+AWK: 27,27,27,43,28,21,19,10,10
+SAWK: 27,55,57
+
+# 3710/116 - Beast Spear
+Tags: ORB_CONVERT,RECOVER_BIND
+Game: Changes Poison & Heal Orbs to Light Orbs; bind status reduced by 3 turns
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Reduce binds by 3 turns
+
+# 10120/138 - I won't lose anyone else!
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Game: 1.5x HP & ATK for Devil Type, 5x ATK with 6+ combos; bonus attack equal to 100x ATK when matching Orbs
+EN: 1.5x HP & ATK for Devil type; 6x ATK when 6 or more combos; 100x ATK additional damage when matching orbs
+

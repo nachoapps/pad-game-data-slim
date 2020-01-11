@@ -1,0 +1,15 @@
+#1095 Water Twin Star Leviathan
+HP: 3509 ATK: 1405 RCV: 231 LB: 20
+AWK: 23,21,23,27
+SAWK: 27,50,34
+
+# 12/116 - Blizzard Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Water Att. for 2 turns; inflicts 20x ATK Water Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
+
+# 793/119 - Twin Water Spiral
+Tags: ENHANCED_ATK
+Game: ATK increases when erasing 5+ linked Water Orbs, up to a maximum of 3x
+EN: 2.5x ATK when matching 5 or more connected Water orbs up to 3x at 6 orbs
+

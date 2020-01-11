@@ -1,0 +1,15 @@
+#3513 Ash Phantom Demon of Deliverance, Ilmina
+HP: 9010 ATK: 1505 RCV: 4 LB: 25
+AWK: 21,21,28,53,8,8,8,43,63
+SAWK: 52,48,60
+
+# 14500/116 - Grimoire Reef
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK
+Game: Inflicts 100,000 damage on all enemies; removes Orb locks, changes all Orbs to Fire & Light Orbs
+EN: Deal 100000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
+
+# 7349/138 - Hidden Sorcery
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 1.5x HP & ATK for Devil Type; 7x ATK & reduces dmg when Light & Fire attack at once
+EN: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light+Fire; 1.5x HP & ATK for Devil type
+

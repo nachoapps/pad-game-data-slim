@@ -1,0 +1,15 @@
+#5048 Sunrise Gem Princess, Ruby
+HP: 3228 ATK: 1230 RCV: 715 LB: 30
+AWK: 21,21,28,19,19,46,47,57,57
+SAWK: 52
+
+# 12602/179 - Curing Melody
+Tags: HEAL,AWOKEN_INVALID_RECOVERY
+Game: Recovers 30% of max HP for 3 turns; fully recovers Awoken Skill bind status
+EN: For 3 turns, recover 30% of max HP; Remove all awoken skill binds
+
+# 12603/138 - The liberating sky beckons again...!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x HP & RCV for Fire Att.; 6x ATK when HP is full, 4x ATK when 99% or less
+EN: 2x HP & RCV for Fire Att.; 6x ATK when HP is full; 4x ATK when below 99% HP
+

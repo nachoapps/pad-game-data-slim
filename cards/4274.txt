@@ -1,0 +1,15 @@
+#4274 Reincarnated Yamato Takeru
+HP: 5698 ATK: 1859 RCV: 175 LB: 10
+AWK: 22,20,21,28,21,27,27,43,27
+SAWK: 52,27,45
+
+# 7200/116 - The Divine Swordset, Kusanagi
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Wood Orbs to Fire, Dark Orbs to Heal, and Jammers & Poison Orbs to Water
+EN: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs
+
+# 10361/138 - Spirit of the God-Emperor
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3.5x ATK when Fire & Water attack at once; 3x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 3.5x ATK when matching Fire+Water; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

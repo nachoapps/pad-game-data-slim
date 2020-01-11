@@ -1,0 +1,15 @@
+#493 Water Deity, Holy Isis
+HP: 3038 ATK: 1097 RCV: 603 LB: 0
+AWK: 14,15,16,10
+SAWK: 
+
+# 432/117 - Quick Heal
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 5x RCV in HP; bind status reduced by 2 turns
+EN: Recover 5x RCV as HP; Reduce binds by 2 turns
+
+# 392/61 - Grace of the Nile
+Tags: ENHANCED_ATK
+Game: 3x ATK when 3+ Att. attack at once
+EN: 3x ATK when matching 3 or more colors
+

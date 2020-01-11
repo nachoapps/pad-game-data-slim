@@ -1,0 +1,15 @@
+#132 Kagutsuchi
+HP: 1538 ATK: 825 RCV: 217 LB: 0
+AWK: 
+SAWK: 
+
+# 126/116 - Burst Bomb
+Tags: REDUCE_DEFENSE,SINGLE_TARGET_ATTACK
+Game: Vastly reduces enemies' DEF for 2 turns; inflicts 50x ATK attack on 1 enemy
+EN: For 2 turns, reduce enemies' defense by 75%; Deal 50x ATK damage to an enemy
+
+# 66/12 - Purgatory
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+EN: 2x ATK additional damage when matching orbs
+

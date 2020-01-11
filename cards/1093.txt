@@ -1,0 +1,15 @@
+#1093 Tornado Holy Dragon
+HP: 2545 ATK: 1344 RCV: 404 LB: 50
+AWK: 7,6,21
+SAWK: 60,43,48
+
+# 119/116 - Holy Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Light Att. damage on all enemies; changes Water Orbs to Light Orbs
+EN: Deal 20000 Light damage to all enemies; Change Water orbs to Light orbs
+
+# 308/36 - Holy Forest Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light & Wood Att. damage
+EN: Reduce damage taken from light, wood att. by 50%
+

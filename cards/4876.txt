@@ -1,0 +1,15 @@
+#4876 Alice
+HP: 3012 ATK: 1212 RCV: 497 LB: 30
+AWK: 21,19,19,19,19,63
+SAWK: 
+
+# 11920/116 - Hey! I caught you slacking off again!
+Tags: ORB_CONVERT,ORB_LOCK
+Game: Changes Water & Poison Orbs to Light Orbs; Light Orbs Locked
+EN: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
+
+# 11923/138 - Look forward to tomorrow's lunch, okay?
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 2x RCV for Light Att.; 2.5x ATK with 2+ Light Combos
+EN: 3x ATK and 2x RCV for Light Att.; 2.5x ATK when matching 2+ Light combos
+

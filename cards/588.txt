@@ -1,0 +1,15 @@
+#588 Midnight Beast Werewolf
+HP: 301 ATK: 643 RCV: 26 LB: 0
+AWK: 
+SAWK: 
+
+# 167/42 - Dark Strike
+Tags: ATTRIBUTE_ATTACK
+Game: Inflicts 35,000 Dark damage attack on Light Att. enemies
+EN: Deal 35000 Dark damage to all Light Att. enemies
+
+# 510/48 - Dark Oath
+Tags: ENHANCED_HP
+Game: 2x HP for Dark Att.
+EN: 2x HP for Dark Att.
+

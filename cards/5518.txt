@@ -1,0 +1,15 @@
+#5518 Knight Kisaragi
+HP: 3850 ATK: 2650 RCV: 260 LB: 25
+AWK: 10,10,21,21,19,19,60,62,54
+SAWK: 48,43,60
+
+# 14303/116 - Treasure Hunt
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Inflicts 100,000 damage on 1 enemy; changes all Orbs to Wood & Light Orbs
+EN: Deal 100000 fixed damage to an enemy; Change all orbs to Wood and Light orbs
+
+# 14306/138 - I smell treasure on you...
+Tags: ENHANCED_ATK,EGG
+Game: Boosts Egg drop rate a little when entering dungeons as Leader (excl. Multiplayer Mode); 10x ATK with 9+ combos
+EN: 1.3x Egg Drop rate; 10x ATK when 9 or more combos
+

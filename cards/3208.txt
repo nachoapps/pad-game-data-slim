@@ -1,0 +1,15 @@
+#3208 Water Guardian Dragon, Naro
+HP: 1063 ATK: 2006 RCV: 2 LB: 0
+AWK: 6,6
+SAWK: 
+
+# 5463/116 - Divine Healing
+Tags: ATTACK_STANCE,ADD_COMBO
+Game: Changes Fire & Heal Orbs to Water Orbs; adds 1 combo for 1 turn
+EN: Change Fire and Heal orbs to Water orbs; For 1 turn, increase combo count by 1
+
+# 6166/138 - Dark Seal of Water
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 1.5x ATK & RCV for Water Att.; reduces damage with a cross of 5 Heal Orbs
+EN: 1.5x ATK & RCV for Water Att.; reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

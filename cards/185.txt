@@ -1,0 +1,15 @@
+#185 Drops
+HP: 53 ATK: 52 RCV: 15 LB: 0
+AWK: 
+SAWK: 
+
+# 159/9 - Attack Stance - Light
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Light Orbs
+EN: Change Heal orbs to Light orbs
+
+# 79/17 - Light Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light Att. damage
+EN: Reduce damage taken from light att. by 50%
+

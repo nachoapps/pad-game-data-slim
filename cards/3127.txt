@@ -1,0 +1,15 @@
+#3127 超人血盟軍・大将・キン肉マンソルジャー
+HP: 4463 ATK: 2040 RCV: 163 LB: 25
+AWK: 27,27,28,56,53,44,46,46,46
+SAWK: 52,46,43
+
+# 5339/116 - Even if it kills me!
+Tags: ORB_CONVERT,ADD_COMBO
+Game: Changes Dark Orbs to Wood Orbs; adds 2 combos for 1 turn
+EN: Change Dark, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, increase combo count by 2
+
+# 5827/138 - Ataru's Muscle Spark
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & RCV for Physical & Attacker Types; ATK increases with 3+ combos, up to 6x
+EN: 3x ATK & RCV for Physical, Attacker type; 3.5x ATK when 3 or more combos up to 6x at 8 combos
+

@@ -1,0 +1,15 @@
+#5202 Female Hunter, Valkyrie - Ciel Gear
+HP: 3203 ATK: 1363 RCV: 648 LB: 25
+AWK: 21,28,19,13,13,13,43,43,31
+SAWK: 27,60,52
+
+# 13132/116 - Sliding Slash
+Tags: ATTACK_STANCE,ORB_CONVERT,AWOKEN_INVALID_RECOVERY
+Game: Changes Heal Orbs to Light Orbs; reduces Awoken Skill bind status by 5 turns
+EN: Change Heal orbs to Light orbs; Reduce awoken skill binds by 5 turns
+
+# 13135/138 - Divine Wings of a White Swan
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & RCV for Healer Type; ATK increases with 4+ combos, up to 5x
+EN: 2.5x ATK & RCV for Healer type; 2x ATK when 4 or more combos up to 5x at 7 combos
+

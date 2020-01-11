@@ -1,0 +1,15 @@
+#5015 Servant, Berserker
+HP: 4298 ATK: 1745 RCV: 0 LB: 30
+AWK: 60,60,60,21,21,21,60,63
+SAWK: 60,45,52
+
+# 12533/116 - God Hand: Twelve Labors
+Tags: REDUCE_DAMAGE,HEAL,REMOVE_LOCK
+Game: Fully recovers HP, removes Orb locks; halves damage for 1 turn
+EN: Recover all HP; Unlock all orbs; For 1 turn, reduce damage taken by 50%
+
+# 12537/138 - GROOOOO!!!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces damage when HP is 80% or more; 2x ATK with 5+ linked Orbs
+EN: 4x ATK and reduce damage taken by 35% when above 80% HP; 2x ATK when matching 5 or more connected orbs
+

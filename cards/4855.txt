@@ -1,0 +1,15 @@
+#4855 Kirito
+HP: 3065 ATK: 1945 RCV: 328 LB: 0
+AWK: 52,21,21,28,27,27,63
+SAWK: 
+
+# 11830/116 - Faster! I got to go faster!
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 1 combo for 1 turn; removes Orb locks and changes all Orbs to Water & Dark Orbs
+EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Water and Dark orbs
+
+# 11834/138 - I'm gonna take all of them down tonight!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Dark Att., 3x ATK with 6+ combos; 3x ATK when Dark & Water attack at once
+EN: 1.5x all stats for Dark Att.; 3x ATK when 6 or more combos; 3x ATK when matching Dark+Water
+

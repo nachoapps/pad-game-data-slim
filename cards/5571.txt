@@ -1,0 +1,15 @@
+#5571 Ukyo Tachibana
+HP: 3835 ATK: 1910 RCV: 368 LB: 25
+AWK: 52,56,28,48,31,32,36,37,63
+SAWK: 48,46,43
+
+# 14557/116 - Concealed Sabre Snowfall Slash
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
+Game: Halves damage for 1 turn; 3x ATK for Water Att. for 1 turn
+EN: For 1 turn, reduce damage taken by 50%; For 1 turn, 3x ATK for Water Att.
+
+# 14563/138 - ......Forgive me.
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 2x HP & ATK for Water Att., Orb move time +2 sec; 7x ATK & 2x RCV with 5+ combos
+EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7x ATK and 2x RCV when 5 or more combos
+

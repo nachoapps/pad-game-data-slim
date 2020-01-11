@@ -1,0 +1,15 @@
+#5108 Balrog
+HP: 3103 ATK: 1978 RCV: 2 LB: 30
+AWK: 21,21,21,19,13,13,13,63
+SAWK: 52,43,55
+
+# 12891/37 - Screw Smash
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts 350x ATK Dark Att. attack on 1 enemy
+EN: Deal 350x ATK Dark damage to an enemy
+
+# 12894/138 - Bust you up!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x ATK for Dark Att., Orb move time +2 seconds; 4x ATK & reduces damage with 6+ combos
+EN: 2x ATK for Dark Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when 6 or more combos
+

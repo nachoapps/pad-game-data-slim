@@ -1,0 +1,15 @@
+#4782 長谷川泰三
+HP: 5047 ATK: 1015 RCV: 0 LB: 0
+AWK: 7,7,11
+SAWK: 
+
+# 11510/116 - Those shades are a part of me
+Tags: VOID_DAMAGE,ORB_LOCK
+Game: Voids Light Att. damage for 1 turn; locks Orbs of all Attributes & Heal
+EN: For 1 turn, void all Light damage; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 11513/138 - I'm already bored...
+Tags: ENHANCED_ATK,RESOLVE
+Game: 4.5x ATK, but halves overall HP; may survive when HP is reduced to 0
+EN: 4.5x ATK and 0.5x HP; May survive when HP is reduced to 0 (HP>50%)
+

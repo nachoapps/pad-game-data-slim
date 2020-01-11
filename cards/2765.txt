@@ -1,0 +1,15 @@
+#2765 One-Winged Angel, Sephiroth
+HP: 5035 ATK: 2302 RCV: 123 LB: 25
+AWK: 27,27,21,53,34,36,32,52,43
+SAWK: 34,43,32
+
+# 2602/116 - I am the chosen one.
+Tags: ENHANCED_ORBS,HEAL,AWOKEN_INVALID_RECOVERY
+Game: All Orbs enhanced, fully recovers HP & Awoken Skill bind status; other allies' skills charged by 2 turns
+EN: Enhance all orbs; Recover all HP; Remove all awoken skill binds; Charge all allies' skills by 2 turns
+
+# 4552/138 - Super Nova
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 3x ATK & RCV for Attacker, Devil & Physical Types; 7x ATK & reduces damage when 4+ Att. attack at once
+EN: 7x ATK and reduce damage taken by 25% when matching 4 or more colors; 3x ATK & RCV for Physical, Attacker, Devil type
+

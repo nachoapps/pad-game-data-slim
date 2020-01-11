@@ -1,0 +1,15 @@
+#2434 Light Dog Dragon, Chinbowdra
+HP: 2234 ATK: 1017 RCV: 326 LB: 0
+AWK: 21,25
+SAWK: 
+
+# 455/116 - Miracle of Healing
+Tags: GUARD_STANCE,VOID_DAMAGE,ALL_ORBS_CONVERT
+Game: Changes Orbs to Heal Orbs; received damage is voided for 2 turns
+EN: Change all orbs to Heal orbs; For 2 turns, reduce damage taken by 100%
+
+# 4093/129 - Dog Spirit - Light
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 2x ATK for Light Att.
+EN: 2x ATK and 1.5x HP for Light Att.
+

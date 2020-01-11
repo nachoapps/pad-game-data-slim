@@ -1,0 +1,15 @@
+#2542 Yamatogoto Playing God, Sandalphon
+HP: 2445 ATK: 1207 RCV: 555 LB: 30
+AWK: 25,17,10,17,17,17,17,8,8
+SAWK: 60,43,42
+
+# 497/116 - Performance of Judgement
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
+Game: 2x ATK for Healer Type for 2 turns; reduces damage for 2 turns
+EN: For 2 turns, 2x ATK for Healer type; For 2 turns, reduce damage taken by 35%
+
+# 4289/121 - Let's play a happy song!
+Tags: ENHANCED_HP_ATK
+Game: 3x ATK for Healer Type, plus their HP increases slightly
+EN: 3x ATK and 1.25x HP for Healer type
+

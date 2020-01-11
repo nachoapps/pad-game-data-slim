@@ -1,0 +1,15 @@
+#292 Shardran
+HP: 741 ATK: 383 RCV: 172 LB: 0
+AWK: 
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 303/36 - Fire and Water Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Water & Fire Att. damage
+EN: Reduce damage taken from water, fire att. by 30%
+

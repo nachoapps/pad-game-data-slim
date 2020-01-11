@@ -1,0 +1,15 @@
+#1208 Dragon Emperor, Buster Siegfried
+HP: 4019 ATK: 1209 RCV: 179 LB: 0
+AWK: 1,15,2,17
+SAWK: 
+
+# 157/9 - Attack Stance - Water
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Water Orbs
+EN: Change Heal orbs to Water orbs
+
+# 1264/95 - Draconic Brightness
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Physical Type when HP is 99% or less
+EN: 3.5x ATK for Physical type when below 99% HP
+

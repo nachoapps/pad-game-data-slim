@@ -1,0 +1,15 @@
+#4363 Warbeast God, Enkidu
+HP: 3023 ATK: 1448 RCV: 325 LB: 0
+AWK: 21,21,28,19
+SAWK: 
+
+# 10302/116 - Wild Senses
+Tags: ENHANCED_HEAL,DROP_CHANCE
+Game: Creates 4 Wood Orbs at random; 1.5x RCV & Wood Orbs slightly more likely to appear for 4 turns
+EN: Create 4 Wood orbs; For 4 turns, Wood orbs are more likely to appear by 15%; For 4 turns, 1.5x RCV
+
+# 10306/138 - Beast's Divinity
+Tags: AUTO_HEAL,ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for God Type, 5x ATK with 6+ combos; recovers 20x RCV as HP when matching Orbs
+EN: 1.5x HP & ATK for God type; 5x ATK when 6 or more combos; 20x RCV additional heal when matching orbs
+

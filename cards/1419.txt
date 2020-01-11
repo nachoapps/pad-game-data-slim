@@ -1,0 +1,15 @@
+#1419 White Coach Princess, Cinderella
+HP: 3030 ATK: 802 RCV: 507 LB: 0
+AWK: 17,19,27,10,21,10,20,27
+SAWK: 
+
+# 997/116 - Protection Magic - Light
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Water Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+EN: Change Water orbs to Heal orbs; Reduce binds by 3 turns
+
+# 1740/121 - Glass Magic
+Tags: ENHANCED_HP_RCV
+Game: 1.5x HP & RCV for Physical & God Types
+EN: 1.5x HP & RCV for Physical, God type
+

@@ -1,0 +1,15 @@
+#4388 Morgana
+HP: 2542 ATK: 1217 RCV: 624 LB: 0
+AWK: 21,21,28,29,29,47,47,20,20
+SAWK: 
+
+# 10467/116 - Lucky Punch
+Tags: MASSIVE_ATTACK
+Game: Inflicts random Wood Att. damage on all enemies; creates 5 Wood Orbs at random
+EN: Randomized Wood damage to all enemies(50~300x); Create 5 Wood orbs
+
+# 10470/138 - Witness my resolve!
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Game: [7x6 board]; ATK increases with 2+ Wood combos, up to 5x
+EN: [Board becomes 7x6] 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+

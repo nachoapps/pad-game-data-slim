@@ -1,0 +1,15 @@
+#3195 Pepper”サンバモード”
+HP: 2652 ATK: 1695 RCV: 254 LB: 0
+AWK: 14,10,10,16,21,24,22,27,28
+SAWK: 
+
+# 5328/116 - Vamos, Amigo!
+Tags: ENHANCED_HEAL,RECOVER_BIND
+Game: 2x RCV for 2 turns; bind status reduced by 2 turns
+EN: For 2 turns, 2x RCV; Reduce binds by 2 turns
+
+# 6507/138 - Olé!
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK for Machine Type; 2x ATK & RCV in Multiplayer Mode
+EN: 3x ATK for Machine type; 2x ATK & RCV when in multiplayer mode
+

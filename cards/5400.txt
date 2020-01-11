@@ -1,0 +1,15 @@
+#5400 Pixel Balthier
+HP: 5588 ATK: 1940 RCV: 190 LB: 25
+AWK: 60,60,60,21,21,48,48,48,52
+SAWK: 60,43,44
+
+# 13834/176 - I play the leading man, who else?
+Tags: 
+Game: Creates 2 L shapes of Wood Orbs
+EN: Create L shape of Wood orbs with center at the top row and the far right column; Create L shape of Wood orbs with center at the bottom row and the far left column
+
+# 13835/138 - Tides of Fate
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 6+ linked Wood Orbs, up to 5x; 3.5x ATK & reduces damage with an L shape of 5 Orbs
+EN: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+

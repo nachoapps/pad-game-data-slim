@@ -1,0 +1,15 @@
+#2937 Trihayate
+HP: 1046 ATK: 325 RCV: 292 LB: 0
+AWK: 
+SAWK: 
+
+# 5121/116 - Wind Spiral
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Inflicts 1,000 damage on all enemies; changes the top row to Wood Orbs
+EN: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs
+
+# 4875/138 - Extremely Fast Wings
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK for Wood Att.; 1.5x HP for Dragon Type
+EN: 2x ATK for Wood Att.; 1.5x HP for Dragon type
+

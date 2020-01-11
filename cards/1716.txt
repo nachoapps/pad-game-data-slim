@@ -1,0 +1,15 @@
+#1716 bearded deity, guan yu
+HP: 1579 ATK: 655 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 940/116 - Unwavering Faith
+Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Changes Poison & Heal Orbs to Wood Orbs; bind status reduced by 3 turns, 3000 HP recovered
+EN: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns
+
+# 1959/123 - Superior Courage
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & 1.5x RCV for Dragon Type when HP is 50% or more
+EN: 2.5x ATK and 1.5x RCV for Dragon type when above 50% HP
+

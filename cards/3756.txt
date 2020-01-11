@@ -1,0 +1,15 @@
+#3756 Cipher Dragon Caller, Ney
+HP: 4165 ATK: 1892 RCV: 339 LB: 0
+AWK: 53,28,21,10,10,43,43,47,63
+SAWK: 
+
+# 8147/116 - All Orbs Cure
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes Orbs to all Attributes & Heal
+EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 8150/175 - Draco Summoning Law
+Tags: ENHANCED_ATK_RCV
+Game: 9x ATK & 3x RCV when all sub-monsters are  non-collab Dragonbounds or Dragon Callers
+EN: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
+

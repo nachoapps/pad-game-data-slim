@@ -1,0 +1,15 @@
+#3820 Pixel Vaan
+HP: 4695 ATK: 2170 RCV: 28 LB: 25
+AWK: 27,27,25,25,21,48,48,27
+SAWK: 27,33,52
+
+# 8517/116 - Come on, show me what you're made of!
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top row to Light Orbs and the bottom row to Fire Orbs
+EN: Unlock all orbs; Change the top row to Light orbs and change the bottom row to Fire orbs
+
+# 8520/138 - White Whorl
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & 4x ATK for Light Att.; 3x ATK when Light & Fire attack at once
+EN: 4x ATK and 2x HP for Light Att.; 3x ATK when matching Light+Fire
+

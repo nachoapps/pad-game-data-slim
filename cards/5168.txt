@@ -1,0 +1,15 @@
+#5168 聖なる神魔・アギト＝ディオ
+HP: 3594 ATK: 1982 RCV: 435 LB: 0
+AWK: 10,10,21,21,28,19,58,58,31
+SAWK: 
+
+# 12933/116 - Offerings of the Demon God
+Tags: MENACE,DROP_CHANCE
+Game: Light & Dark Orbs slightly more likely to appear for 3 turns; delays enemies' next move for 2 turns
+EN: For 3 turns, Light and Dark orbs are more likely to appear by 10%; Delay enemies' next attack by 2 turns
+
+# 12936/138 - True End - Dios
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 2x HP & 3x ATK for God Type; 4x ATK & reduces damage when Light & Dark attack at once
+EN: 3x ATK and 2x HP for God type; 4x ATK and reduce damage taken by 25% when matching Light+Dark
+

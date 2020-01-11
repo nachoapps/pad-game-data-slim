@@ -1,0 +1,15 @@
+#3019 Rurouni, Himura Kenshin
+HP: 4212 ATK: 1501 RCV: 354 LB: 25
+AWK: 14,21,19,19,28,14,14,17,17
+SAWK: 52,46,54
+
+# 5189/116 - Hiten Mitsurugi-ryu: Ryushosen
+Tags: DROP_CHANCE
+Game: Fire & Light Orbs slightly more likely to appear for 2 turns; creates 2 Fire & Light Orbs each at random
+EN: For 2 turns, Fire and Light orbs are more likely to appear by 10%; Create 2 Fire and Light orbs
+
+# 5534/138 - You give strength to this one's heart.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for each cross of 5 Fire or Light Orbs; 2.5x ATK & reduces dmg when Fire & Light attack at once
+EN: 3x ATK for each cross of 5 Fire, Light orbs; 2.5x ATK and reduce damage taken by 25% when matching Fire+Light
+

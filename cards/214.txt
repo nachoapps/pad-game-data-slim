@@ -1,0 +1,15 @@
+#214 Lightning Holy Dragon
+HP: 2895 ATK: 1294 RCV: 234 LB: 0
+AWK: 7,7,21
+SAWK: 
+
+# 119/116 - Holy Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Light Att. damage on all enemies; changes Water Orbs to Light Orbs
+EN: Deal 20000 Light damage to all enemies; Change Water orbs to Light orbs
+
+# 79/17 - Light Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light Att. damage
+EN: Reduce damage taken from light att. by 50%
+

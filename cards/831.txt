@@ -1,0 +1,15 @@
+#831 Top Droidragon
+HP: 3060 ATK: 1020 RCV: 360 LB: 0
+AWK: 13,11,12,13,11,12,13,11,12
+SAWK: 
+
+# 654/19 - Search
+Tags: REDUCE_DEFENSE
+Game: Void enemies' DEF for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%
+
+# 744/41 - Super Metallic Body
+Tags: COUNTERATTACK
+Game: Massive Wood counterattack in rare cases
+EN: 25% chance to counterattack with 10x Wood damage
+

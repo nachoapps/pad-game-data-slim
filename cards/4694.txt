@@ -1,0 +1,15 @@
+#4694 Iceblade Divine Beast, Shust
+HP: 4266 ATK: 1720 RCV: 412 LB: 30
+AWK: 23,23,23,56,45,58,58,10,10
+SAWK: 58,56,54
+
+# 11246/116 - Blue Origin
+Tags: SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
+Game: 300x ATK Water attack on 1 enemy, but HP falls to 1; changes the bottom row to Water Orbs
+EN: Reduce HP to 1; Deal 300x Water damage to an enemy; Change the bottom row to Water orbs
+
+# 11249/138 - Wisdom of the Freezing Divine Beast
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK when HP is 50% or more, 9x ATK when 49% or less; 2x ATK & reduces damage with 6+ linked Water Orbs
+EN: 4x ATK when above 50% HP; 9x ATK when below 49% HP; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs
+

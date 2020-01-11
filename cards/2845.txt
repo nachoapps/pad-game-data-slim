@@ -1,0 +1,15 @@
+#2845 紅麗
+HP: 1202 ATK: 790 RCV: 142 LB: 0
+AWK: 
+SAWK: 
+
+# 5032/116 - Let's walk together for all eternity...Kurei...
+Tags: FIXED_DAMAGE
+Game: Inflicts 9,999 damage on all enemies; creates 4 Fire Orbs at random
+EN: Deal 9999 fixed damage to all enemies; Create 4 Fire orbs
+
+# 4722/138 - Incarnation of the Flame-Kurei
+Tags: ENHANCED_ATK_RCV
+Game: 1.5x ATK & RCV for Attacker Type; 2x ATK for Fire Att. when skills used
+EN: 1.5x ATK & RCV for Attacker type; 2x ATK for Fire Att. on the turn a skill is used
+

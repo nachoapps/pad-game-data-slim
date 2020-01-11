@@ -1,0 +1,15 @@
+#1706 Red Sky Wizard, Chester
+HP: 1253 ATK: 932 RCV: 199 LB: 0
+AWK: 
+SAWK: 
+
+# 1645/116 - Gravity Room
+Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT
+Game: Reduces enemies' HP by 10%; changes Jammers & Poison Orbs to Heal Orbs
+EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs
+
+# 1935/129 - Twilight Jigsaw Puzzle
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK for Fire Att.; reduces Fire Att. damage
+EN: 10x ATK for Fire Att.; Reduce damage taken from fire att. by 50%
+

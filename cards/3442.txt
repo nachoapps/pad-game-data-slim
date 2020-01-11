@@ -1,0 +1,15 @@
+#3442 佐藤寿也
+HP: 1778 ATK: 530 RCV: 12 LB: 0
+AWK: 
+SAWK: 
+
+# 7010/116 - This ain't a gamble, it's strategy!
+Tags: REDUCE_DAMAGE
+Game: Changes 3 non-Water Orbs to Heal Orbs; vastly reduces damage for 1 turn
+EN: Create 3 Heal orbs over non Water orbs; For 1 turn, reduce damage taken by 75%
+
+# 7013/151 - I'm not letting you hit this ball anymore!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

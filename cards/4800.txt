@@ -1,0 +1,15 @@
+#4800 Battle Master Dragon Caller, Valeria
+HP: 5201 ATK: 2402 RCV: 600 LB: 15
+AWK: 21,21,21,21,21,21,21,63
+SAWK: 45,43,44
+
+# 11558/116 - Refresh Order
+Tags: ENHANCED_HEAL,ORB_REFRESH
+Game: 2x RCV for 3 turns; replaces all Orbs
+EN: For 3 turns, 2x RCV; Replace all orbs
+
+# 11561/138 - Refined Knowledge's Draco Summoning Seal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 5x ATK for Fire & Light Att., Orb move time +2 seconds; 4x ATK & reduces damage when 4+ Att. attack at once
+EN: 5x ATK for Fire, Light Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching 4 or more colors
+

@@ -1,0 +1,15 @@
+#3173 Primordial God of the Underworld, Izanagi X
+HP: 3645 ATK: 1616 RCV: 415 LB: 0
+AWK: 18,27,27,28,27,21,21,28,19
+SAWK: 
+
+# 651/116 - Breath of Creation
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 2x ATK for God Type for 1 turn, plus a 30x ATK attack is made on 1 enemy
+EN: Deal 30x ATK damage to an enemy; For 1 turn, 2x ATK for God type
+
+# 5807/138 - Sacred Genesis Ritual
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 3.5x ATK & 1.5x RCV for God & Balanced Types; 2x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 3.5x ATK and 1.5x RCV for Balanced, God type; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

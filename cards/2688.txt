@@ -1,0 +1,15 @@
+#2688 Kisuke Urahara
+HP: 1490 ATK: 698 RCV: 108 LB: 0
+AWK: 
+SAWK: 
+
+# 3888/116 - Looks like you're in a bind.
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the bottom row into Wood Orbs; 3 non-Wood Orbs change to Jammers
+EN: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
+
+# 4471/138 - Good... That's the spirit.
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Wood Att.; 1.5x ATK erasing 3+ linked Jammers
+EN: 2.5x ATK for Wood Att.; 1.5x ATK when matching 3 or more connected Jammer orbs
+

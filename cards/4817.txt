@@ -1,0 +1,15 @@
+#4817 しろがね
+HP: 3605 ATK: 2053 RCV: 103 LB: 0
+AWK: 10,10,21,21,28,19
+SAWK: 
+
+# 11672/116 - Harlequin
+Tags: ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes Fire & Wood Orbs to Light Orbs
+EN: For 1 turn, increase combo count by 2; Change Fire and Wood orbs to Light orbs
+
+# 11675/138 - I'm here to protect your son
+Tags: ENHANCED_ATK_RCV
+Game: 4x ATK when HP is 80% or more, 2x ATK & RCV when 79% or less; 3x ATK with 5+ linked Orbs
+EN: 4x ATK when above 80% HP; 2x ATK & RCV when below 79% HP; 3x ATK when matching 5 or more connected orbs
+

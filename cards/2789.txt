@@ -1,0 +1,15 @@
+#2789 Gabranth
+HP: 3866 ATK: 1522 RCV: 26 LB: 30
+AWK: 8,8,21,19,28,6,6,40,40
+SAWK: 52,55,57
+
+# 3967/144 - Execution
+Tags: SINGLE_TARGET_ATTACK
+Game: Dark attack of 20x team's Wood ATK on 1 enemy
+EN: Deal Dark damage equal to 20x of team's total Wood ATK to an enemy
+
+# 4608/138 - Without power what future can you claim?
+Tags: ENHANCED_ATK,COUNTERATTACK
+Game: 2x ATK for Physical Type; Strong Dark counterattack sometimes
+EN: 2x ATK for Physical type; 50% chance to counterattack with 5x Dark damage
+

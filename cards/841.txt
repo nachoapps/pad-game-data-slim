@@ -1,0 +1,15 @@
+#841 Amitaka & Kanon & Cecil
+HP: 2603 ATK: 963 RCV: 426 LB: 0
+AWK: 24,9,21
+SAWK: 
+
+# 659/20 - Smiling Palm
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Fire Orbs to Wood Orbs & Dark Orbs to Heal Orbs
+EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
+
+# 767/13 - Amitan's Protection
+Tags: AUTO_HEAL
+Game: Heals HP equal to 3x RCV when matching Orbs
+EN: 3x RCV additional heal when matching orbs
+

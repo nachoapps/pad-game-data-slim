@@ -1,0 +1,15 @@
+#3165 邪眼大帝ラスト・ロマノフ
+HP: 3405 ATK: 1933 RCV: 262 LB: 30
+AWK: 26,56,48,26,26,19,26,28,32
+SAWK: 52,57,48
+
+# 2647/116 - 魔弾ロマノフ・ストライク
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+EN: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
+
+# 5953/138 - Sword of Wisdom and Pursuit
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Devil Type; 5x ATK with 6+ linked Dark Orbs
+EN: 2x HP & ATK for Devil type; 5x ATK when matching 6 or more connected Dark orbs
+

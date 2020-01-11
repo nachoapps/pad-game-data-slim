@@ -1,0 +1,15 @@
+#4721 Nobuno Sanada
+HP: 2178 ATK: 1338 RCV: 206 LB: 0
+AWK: 22,22,22,21,21
+SAWK: 
+
+# 11023/116 - No-Look Pass
+Tags: SINGLE_TARGET_ATTACK
+Game: Fire attack of 10x team's Fire ATK on 1 enemy; changes the 2nd row from the top to Fire Orbs
+EN: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
+
+# 11026/129 - Sanada-Style Cheerleading
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Fire Att. & Balanced Type
+EN: 1.5x all stats for Balanced type and Fire Att.
+

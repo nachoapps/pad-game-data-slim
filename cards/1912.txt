@@ -1,0 +1,10 @@
+#1912 パープルマテリアル
+HP: 50 ATK: 50 RCV: 50 LB: 0
+AWK: 
+SAWK: 
+
+# 448/116 - Forsake
+Tags: REDUCE_DEFENSE,VOID_DAMAGE
+Game: Void enemies' DEF for 1 turn; voids Dark Att. damage for 3 turns
+EN: For 1 turn, reduce enemies' defense by 100%; For 3 turns, void all Dark damage
+

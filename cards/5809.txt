@@ -1,0 +1,10 @@
+#5809 ホーリー・エルフのカード
+HP: 4008 ATK: 1220 RCV: 788 LB: 0
+AWK: 49,9,9,12,12,12,3
+SAWK: 
+
+# 15577/116 - ホーリー・エルフの祝福
+Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER
+Game: 最大HP50％分のHP回復、消せないドロップ状態を全回復。 左端縦1列を回復ドロップに変化。
+EN: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
+

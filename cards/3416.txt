@@ -1,0 +1,15 @@
+#3416 Yellow-Horned Demon Princess, Raijin
+HP: 3685 ATK: 1933 RCV: 23 LB: 0
+AWK: 27,27,21,19,19,28
+SAWK: 
+
+# 6895/116 - Purging Thunderdrums
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Orbs to all Attributes & Heal
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 6898/138 - Tempest of the Amber Princess
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Attacker Type; 3.5x ATK & reduces damage when attacking with 4+ Att.
+EN: 3x ATK for Attacker type; 3.5x ATK and reduce damage taken by 25% when matching 4 or more colors
+

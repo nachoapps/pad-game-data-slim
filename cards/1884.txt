@@ -1,0 +1,15 @@
+#1884 Curved Blade Brave, Kopis
+HP: 3101 ATK: 1708 RCV: 188 LB: 35
+AWK: 21,21,27,27,30
+SAWK: 43,27,45
+
+# 1827/116 - Style Change - Fire
+Tags: ENHANCED_ATTACK,CHANGE_ATTRIBUTE
+Game: This ally's Att. changes to Fire for 1 turn; 1.5x ATK for Attacker Type for 1 turn
+EN: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
+
+# 2490/129 - Blazing Fire Fencing
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Fire Att.
+EN: 3.5x ATK for Fire Att.
+

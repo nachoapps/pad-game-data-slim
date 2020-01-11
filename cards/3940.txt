@@ -1,0 +1,15 @@
+#3940 Investigation Dragon Caller, Nees
+HP: 7900 ATK: 1698 RCV: 96 LB: 0
+AWK: 19,28,21
+SAWK: 
+
+# 9071/116 - Vent Noir
+Tags: HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
+Game: Recovers 50% of max HP, reduces Awoken Skill bind status by 5 turns; changes Fire to Dark & Water to Wood
+EN: Recover 50% of max HP; Reduce awoken skill binds by 5 turns; Change Fire orbs to Dark orbs; Change Water orbs to Wood orbs
+
+# 9074/138 - Time Judgment's Draco Summoning Seal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces dmg when Dark & Wood attack at once; 2x ATK for each cross of 5 Wood, Light or Dark Orbs
+EN: 4x ATK and reduce damage taken by 25% when matching Dark+Wood; 2x ATK for each cross of 5 Wood, Light, Dark orbs
+

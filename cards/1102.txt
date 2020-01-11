@@ -1,0 +1,15 @@
+#1102 Creation Tree Spirit, Alraune
+HP: 2524 ATK: 1099 RCV: 518 LB: 20
+AWK: 10,9,9,28
+SAWK: 
+
+# 37/116 - Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 10x RCV in HP, bind status reduced by 3 turns; 1.5x RCV for 7 turns
+EN: Recover 10x RCV as HP; Reduce binds by 3 turns; For 7 turns, 1.5x RCV
+
+# 206/62 - Charm of Vigor
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & HP for Balanced Type
+EN: 2x HP & ATK for Balanced type
+

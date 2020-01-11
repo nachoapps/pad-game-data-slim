@@ -1,0 +1,10 @@
+#4403 Persona 3: Persona Compendium
+HP: 100 ATK: 10 RCV: 60 LB: 0
+AWK: 
+SAWK: 
+
+# 10419/116 - Diarahan
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,VOID_ATT_ABSORBS
+Game: Fully recovers HP & bind status; voids Attribute absorption for 1 turn
+EN: Recover all HP; Remove all binds; For 1 turn, bypass att. absorb shield effects
+

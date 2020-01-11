@@ -1,0 +1,15 @@
+#2228 医大生・レオリオ
+HP: 2975 ATK: 1123 RCV: 562 LB: 0
+AWK: 16,9,15,10,10,24,24,16
+SAWK: 
+
+# 904/117 - 友との約束
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: HPを3000回復、バインド状態を3ターン回復。
+EN: Recover 3000 HP; Reduce binds by 3 turns
+
+# 878/119 - 資金調達
+Tags: ENHANCED_ATK
+Game: 木を4個以上つなげて消すと攻撃力が上昇、最大3倍。
+EN: 2.5x ATK when matching 4 or more connected Wood orbs up to 3x at 5 orbs
+

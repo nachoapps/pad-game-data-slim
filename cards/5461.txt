@@ -1,0 +1,15 @@
+#5461 海賊スイートマドンナ・ココ・フェルケナ
+HP: 4023 ATK: 1860 RCV: 410 LB: 25
+AWK: 52,56,19,28,23,23,23,48,48
+SAWK: 56,48,55
+
+# 14059/176 - アリス!!
+Tags: 
+Game: 3×3の正方形に水ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
+EN: Create square of Water orbs with center at the 2nd row from the top and the 2nd column from the left
+
+# 14066/138 - ボクは海賊スイートマドンナだ！
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Game: 水属性の攻撃力が4倍。6コンボ以上でダメージを半減。 水を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+EN: 4x ATK for Water Att.; Reduce damage taken by 50% when 6 or more combos; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+

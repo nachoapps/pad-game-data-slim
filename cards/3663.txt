@@ -1,0 +1,15 @@
+#3663 Massacre Demon Diablos
+HP: 4800 ATK: 3212 RCV: 533 LB: 25
+AWK: 28,19,19,21,21,43,44,10,10
+SAWK: 43,21,55
+
+# 7950/116 - Rampaging Geyser
+Tags: ENHANCED_ORBS,NEW_GRAVITY
+Game: All Orbs enhanced; inflicts damage equal to 25% of enemies' max HP
+EN: Enhance all orbs; Deal damage equal to 25% of enemies' max HP
+
+# 7953/138 - The Brutal Tyrant
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 9x ATK & reduces damage with 8+ combos; adds 2 combos when 5 Att. + Heal attack at once
+EN: [Board becomes 7x6] 9x ATK and reduce damage taken by 25% when 8 or more combos; increase combo by 2 when matching 6 or more colors (5+heal)
+

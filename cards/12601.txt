@@ -1,0 +1,15 @@
+#12601 Voltron
+HP: 2006 ATK: 794 RCV: 5 LB: 0
+AWK: 
+SAWK: 
+
+# 7835/116 - Guardian of the Universe
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the leftmost column to Fire Orbs & the rightmost column to Heal Orbs
+EN: Unlock all orbs; Change the far left column to Fire orbs and change the far right column to Heal orbs
+
+# 7838/138 - Form Voltron!
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Machine & Physical Types; 3x ATK for each cross of 5 Fire Orbs
+EN: 1.5x HP & ATK for Physical, Machine type; 3x ATK for each cross of 5 Fire orbs
+

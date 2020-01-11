@@ -1,0 +1,15 @@
+#3341 Earth Pillar God of the Traversing Moon, Khonsu
+HP: 3575 ATK: 1543 RCV: 1000 LB: 20
+AWK: 24,24,24,24,21,28,53,10,10
+SAWK: 24,54,53
+
+# 9973/128 - Moonleaf
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the top row into Wood Orbs
+EN: Change the top row to Wood orbs
+
+# 9976/138 - Traversing Moon's Green Glow
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage with 6+ linked Wood Orbs; 5x ATK with 2 Light combos, 7x with 3+ combos
+EN: 3x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs; 5x ATK when matching 2 Light combos, up to 7x at 3 Light combos
+

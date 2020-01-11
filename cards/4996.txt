@@ -1,0 +1,15 @@
+#4996 Great Witch's Disciple, Cherun
+HP: 5002 ATK: 3488 RCV: 310 LB: 20
+AWK: 10,10,28,56,53,23,23,62,62
+SAWK: 46,48,56
+
+# 12182/116 - Freezing Storm
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 1 combo for 1 turn; removes Orb locks, changes all Orbs to Water & Heal Orbs
+EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Water and Heal orbs
+
+# 12186/138 - Blue Ice Spirit's Magic Seal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK with 5+ linked non-Water Orbs; 4x ATK & reduces damage with 4+ linked Water Orbs
+EN: 5x ATK when matching 5 or more connected non Water orbs; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs
+

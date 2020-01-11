@@ -1,0 +1,15 @@
+#5090 Akuma
+HP: 4053 ATK: 2505 RCV: 0 LB: 25
+AWK: 52,21,28,19,19,43,58,58,63
+SAWK: 58,43,55
+
+# 12804/116 - Sekia Goshoha
+Tags: SINGLE_TARGET_ATTACK,SUICIDE
+Game: Inflicts 100x ATK Dark Att. attack on 1 enemy, but halves HP; only Fr, Wt, Lt & Dk Orbs appear for 1 turn
+EN: Reduce HP by 50%; Deal 100x Dark damage to an enemy; For 1 turn, only Fire, Water, Light, and Dark orbs will appear
+
+# 12807/138 - You will feel my wrath!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2.5x ATK when HP is 99% or less, Orb move time +2 seconds; 5x ATK & reduces damage with 5+ combos
+EN: 2.5x ATK when below 99% HP; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when 5 or more combos
+

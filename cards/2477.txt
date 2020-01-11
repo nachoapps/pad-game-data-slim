@@ -1,0 +1,15 @@
+#2477 眷属器使い・モルジアナ
+HP: 3140 ATK: 1480 RCV: 124 LB: 35
+AWK: 21,14,14,14,14,27,27
+SAWK: 27,43,52
+
+# 3724/116 - I want to fight too
+Tags: ORB_CONVERT,EXTENDS_TIME
+Game: Changes Heal & Poison Orbs to Fire Orbs; extends Orb move time by 1 second for 2 turns
+EN: Change Heal, Poison, and Mortal Poison orbs to Fire orbs; For 2 turns, increase orb move time by 1 second
+
+# 4137/138 - Amol Selseila
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 2.5x ATK for Fire Att.; Fire Att. ATK increases a little when skills used
+EN: 2.5x ATK and 1.5x HP for Fire Att.; 1.3x ATK for Fire Att. on the turn a skill is used
+

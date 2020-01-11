@@ -1,0 +1,15 @@
+#451 弓使い
+HP: 1094 ATK: 545 RCV: 204 LB: 0
+AWK: 
+SAWK: 
+
+# 410/116 - Boost
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: Inflicts 30x ATK Wood Att. attack on 1 enemy; 1.5x Wood Att. ATK for 1 turn
+EN: Deal 30x Wood damage to an enemy; For 1 turn, 1.5x ATK for Wood Att.
+
+# 363/28 - Concentrate
+Tags: ENHANCED_ATK_RCV
+Game: 1.5x ATK & RCV for Wood Att.
+EN: 1.5x ATK & RCV for Wood Att.
+

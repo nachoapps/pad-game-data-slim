@@ -1,0 +1,15 @@
+#2702 Byakuya Kuchiki
+HP: 1421 ATK: 770 RCV: 94 LB: 0
+AWK: 
+SAWK: 
+
+# 3907/116 - I'll crush that power!!
+Tags: REDUCE_DAMAGE,FIXED_DAMAGE
+Game: Inflicts 1,000 damage on all enemies; reduces damage for 1 turn
+EN: Deal 1000 fixed damage to all enemies; For 1 turn, reduce damage taken by 35%
+
+# 4498/131 - Scatter Senbonzakura
+Tags: ENHANCED_ATK
+Game: 3x ATK when HP is 50% or more
+EN: 3x ATK when above 50% HP
+

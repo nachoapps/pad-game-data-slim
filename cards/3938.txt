@@ -1,0 +1,15 @@
+#3938 Barrier Dragon Caller, Rathios
+HP: 5504 ATK: 1589 RCV: 101 LB: 0
+AWK: 25,25,25,28,21,8,8,10,10
+SAWK: 
+
+# 9065/116 - Solblade Guard
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: Reduces damage for 3 turns; changes the leftmost column to Light Orbs & rightmost to Fire
+EN: For 3 turns, reduce damage taken by 35%; Change the far left column to Light orbs and change the far right column to Fire orbs
+
+# 9068/138 - Cataphract's Draco Summoning Seal
+Tags: ENHANCED_ATK_RCV
+Game: [Orb move time: 4 sec], 4x ATK when Lt & Fr attack at once; 2.5x ATK & RCV for Dragon & Physical Types
+EN: [Fixed 4 second movetime] 2.5x ATK & RCV for Physical, Dragon type; 4x ATK when matching Light+Fire
+

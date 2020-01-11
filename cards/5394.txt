@@ -1,0 +1,15 @@
+#5394 Aerith
+HP: 3763 ATK: 1323 RCV: 932 LB: 25
+AWK: 10,10,21,28,60,45,57,57,57
+SAWK: 43,46,53
+
+# 13799/126 - How about if I go out with you once?
+Tags: DROP_CHANCE
+Game: Heal Orbs more likely to appear for 1 turn
+EN: For 1 turn, Heal orbs are more likely to appear by 10%
+
+# 13800/138 - Pulse of Life
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 4x ATK for Light Att., Orb move time +2 seconds; 4x ATK when skills used
+EN: 4x ATK for Light Att.; Increase orb movement time by 2 seconds; 4x ATK on the turn a skill is used
+

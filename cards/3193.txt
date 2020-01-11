@@ -1,0 +1,15 @@
+#3193 Guardian of the Imperial Capital, Athena
+HP: 3618 ATK: 2501 RCV: 0 LB: 0
+AWK: 27,27,27,21,21,21,10,10
+SAWK: 
+
+# 6292/116 - Gorgon's Evil Gaze
+Tags: ENHANCED_ORBS,MENACE
+Game: Dark & Water Orbs enhanced; delays enemies' next move for 3 turns
+EN: Enhance all Water and Dark orbs; Delay enemies' next attack by 3 turns
+
+# 6295/138 - Victoria's Victory Song
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & 3.5x ATK for God, Devil & Attacker Types; 2x ATK & RCV when Dark & Water attack at once
+EN: 3.5x ATK and 1.5x HP for God, Attacker, Devil type; 2x ATK & RCV when matching Dark+Water
+

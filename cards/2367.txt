@@ -1,0 +1,15 @@
+#2367 ハンジ・ゾエ
+HP: 2202 ATK: 1024 RCV: 243 LB: 0
+AWK: 21,19,27,19,63
+SAWK: 
+
+# 3398/116 - Mind if I try an experiment?
+Tags: REDUCE_DEFENSE
+Game: Vastly reduces enemies' DEF for 5 turns; other allies' skills charged by 1 turn
+EN: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
+
+# 3647/129 - I'll take care of it
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Balanced Type
+EN: 4x ATK for Balanced type
+

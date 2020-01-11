@@ -1,0 +1,15 @@
+#4667 虹谷誠
+HP: 2928 ATK: 1224 RCV: 502 LB: 30
+AWK: 18,18,18,21,37,37,37
+SAWK: 52,60,55
+
+# 11100/116 - Wonderful Sharpness
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the rightmost column to Dark Orbs
+EN: Unlock all orbs; Change the far right column to Dark orbs
+
+# 11103/138 - You're charming today, too.!
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Dark Att.; 3x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2x ATK & RCV for Dark Att.; 3x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

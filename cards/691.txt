@@ -1,0 +1,15 @@
+#691 Heavy Infantry Hobgoblin
+HP: 1683 ATK: 1170 RCV: 28 LB: 0
+AWK: 1,16
+SAWK: 
+
+# 43/10 - Orb Refresh
+Tags: ORB_REFRESH
+Game: Replaces all Orbs
+EN: Replace all orbs
+
+# 259/23 - Defensive Formation
+Tags: ENHANCED_HP
+Game: 2x HP for Attacker Type
+EN: 2x HP for Attacker type
+

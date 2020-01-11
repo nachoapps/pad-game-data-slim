@@ -1,0 +1,15 @@
+#4837 Heavenly Sky Almighty God, Zeus - Giga
+HP: 6000 ATK: 2600 RCV: 240 LB: 15
+AWK: 10,10,21,21,21,28,19,19,19
+SAWK: 33,34,37,57
+
+# 11786/116 - Will of Zeus
+Tags: HEAL,ALL_ORBS_CONVERT
+Game: Fully recovers HP;  changes all Orbs to Light Orbs
+EN: Recover all HP; Change all orbs to Light orbs
+
+# 11789/138 - King Dimension
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 4x ATK when HP is full, Orb move time +2 seconds; 4x ATK & 2x RCV for Light Att.
+EN: 4x ATK when HP is full; 4x ATK and 2x RCV for Light Att.; Increase orb movement time by 2 seconds
+

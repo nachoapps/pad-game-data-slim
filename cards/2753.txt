@@ -1,0 +1,15 @@
+#2753 Whirlwind Dragon Emperor, Sevenzard
+HP: 3504 ATK: 1101 RCV: 251 LB: 0
+AWK: 24,26,21
+SAWK: 
+
+# 5077/116 - Chameleon Blast
+Tags: ENHANCED_ATTACK,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Water Orbs to Heal & Light Orbs to Lethal Poison; 2x ATK for Dragon & Balanced Types for 1 turn
+EN: Change Water orbs to Heal orbs; Change Light orbs to Mortal Poison orbs; For 1 turn, 2x ATK for Balanced and Dragon types
+
+# 4778/138 - Dragon Emperor Power of Mutation
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Dragon & Balanced Types; 2.5x ATK with 4+ linked Poison or Lethal Poison Orbs
+EN: 2x ATK & RCV for Balanced, Dragon type; 2.5x ATK when matching 4 or more connected Poison or Mortal Poison orbs
+

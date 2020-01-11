@@ -1,0 +1,15 @@
+#3472 迫田武文
+HP: 1402 ATK: 770 RCV: 34 LB: 0
+AWK: 
+SAWK: 
+
+# 7121/116 - You filthy punks!
+Tags: FIXED_DAMAGE
+Game: Inflicts 99 damage on all enemies; changes Jammers & Dark Orbs to Fire Orbs
+EN: Deal 99 fixed damage to all enemies; Change Dark and Jammer orbs to Fire orbs
+
+# 7124/129 - Time waits for no one! We fight now!
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & 1.5x ATK for Fire Att.
+EN: 2x HP and 1.5x ATK for Fire Att.
+

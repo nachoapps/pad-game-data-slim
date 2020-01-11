@@ -1,0 +1,15 @@
+#1896 Earth Dragon Swordsman
+HP: 1130 ATK: 558 RCV: 155 LB: 0
+AWK: 
+SAWK: 
+
+# 1844/116 - Dragon Strike Stance - Wood
+Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Heal Orbs to Wood Orbs, plus bind status is reduced by 3 turns
+EN: Change Heal orbs to Wood orbs; Reduce binds by 3 turns
+
+# 2515/129 - Earth Dragon's Scale
+Tags: ENHANCED_ATK
+Game: 2x ATK for Dragon Type
+EN: 2x ATK for Dragon type
+

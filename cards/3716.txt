@@ -1,0 +1,15 @@
+#3716 Awoken Seraph Lucifer
+HP: 3428 ATK: 2006 RCV: 254 LB: 0
+AWK: 27,21,28,9,19,10,10,53
+SAWK: 
+
+# 8089/116 - Eternal Vesper
+Tags: GUARD_STANCE,SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
+Game: Inflicts 200x ATK Dark Att. attack on 1 enemy, but halves HP; changes leftmost column to Dark & rightmost to Heal
+EN: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
+
+# 8092/138 - Reminiscences of the Morning Star
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK for each cross of 5 Dark or Wood Orbs; 4x ATK & reduces damage with a cross of 5 Heal Orbs
+EN: 2.5x ATK for each cross of 5 Dark, Wood orbs; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

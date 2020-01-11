@@ -1,0 +1,15 @@
+#3622 ベナレス
+HP: 1668 ATK: 636 RCV: 110 LB: 0
+AWK: 
+SAWK: 
+
+# 7572/116 - Come back when you're stronger!
+Tags: ORB_CONVERT,FIXED_DAMAGE
+Game: Inflicts 99 damage on 1 enemy;  changes Light Orbs to Dark Orbs
+EN: Deal 99 fixed damage to an enemy; Change Light orbs to Dark orbs
+
+# 7575/138 - Wu of Kaiyanwang
+Tags: AUTO_HEAL,ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Devil Type; recovers 8x RCV as HP when matching Orbs
+EN: 1.5x all stats for Devil type; 8x RCV additional heal when matching orbs
+

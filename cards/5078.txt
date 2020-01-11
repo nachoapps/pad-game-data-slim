@@ -1,0 +1,15 @@
+#5078 Ryu
+HP: 4090 ATK: 1833 RCV: 390 LB: 25
+AWK: 52,21,28,19,43,60,60,60,63
+SAWK: 48,46,43
+
+# 12753/116 - Hadoken
+Tags: REMOVE_LOCK
+Game: Removes all Orb locks; creates an L shape of Light Orbs
+EN: Unlock all orbs; Create L shape of Light orbs with center at the bottom row and the far right column
+
+# 12756/138 - Go beyond the battle!
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 1.5x to all stats for Light Att., 3x ATK when skills used; 3x ATK & reduces damage with 5+ linked Orbs
+EN: 1.5x all stats for Light Att.; 3x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
+

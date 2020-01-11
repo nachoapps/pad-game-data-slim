@@ -1,0 +1,15 @@
+#772 Omega Red Skydragon, El Dorado
+HP: 1612 ATK: 1916 RCV: 244 LB: 0
+AWK: 14,21
+SAWK: 
+
+# 111/0 - Flame Breath
+Tags: MASSIVE_ATTACK
+Game: Inflicts 5x ATK Fire Mass Attack
+EN: Deal 5x ATK Fire damage to all enemies
+
+# 56/138 - Power of Explosion
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Fire Att.; Orb move time +2 seconds
+EN: 2x ATK for Fire Att.; Increase orb movement time by 2 seconds
+

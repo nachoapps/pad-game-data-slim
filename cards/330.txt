@@ -1,0 +1,15 @@
+#330 Red Wood Fafnir
+HP: 2510 ATK: 1462 RCV: 361 LB: 0
+AWK: 24,21,24,31,35
+SAWK: 
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 319/138 - Planet of Red Forest
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & 1.5x HP for Fire & Wood Att.; 2.5x ATK when Wood & Fire attack at once
+EN: 2x ATK and 1.5x HP for Fire, Wood Att.; 2.5x ATK when matching Wood+Fire
+

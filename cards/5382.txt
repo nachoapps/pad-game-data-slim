@@ -1,0 +1,15 @@
+#5382 Solitary Peak Bride, Zela
+HP: 6002 ATK: 2302 RCV: 120 LB: 30
+AWK: 10,10,28,43,43,43,45,19,21
+SAWK: 54,55,46,47,48
+
+# 13738/116 - Blissful Storm
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 2 combos for 1 turn; removes Orb locks and changes all Orbs to Light & Heal Orbs
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Light and Heal orbs
+
+# 13742/138 - Wah, I'm so happy!
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 1.5x to all stats for Light Att., Orb move time +4 sec; 8x ATK & reduces damage with 2+ Light combos
+EN: 1.5x all stats for Light Att.; Increase orb movement time by 4 seconds; 8x ATK and reduce damage taken by 25% when matching 2+ Light combos
+

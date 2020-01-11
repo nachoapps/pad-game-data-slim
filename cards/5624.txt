@@ -1,0 +1,15 @@
+#5624 Old Castle Watchcat, Bastet
+HP: 4250 ATK: 1997 RCV: 293 LB: 30
+AWK: 10,10,21,21,28,53,53,44,43
+SAWK: 43,48,64
+
+# 14714/116 - Treat Cat
+Tags: ENHANCED_HEAL,EXTENDS_TIME
+Game: 2x Orb move time for 1 turn; 2x RCV for 1 turn
+EN: For 1 turn, 2x orb move time; For 1 turn, 2x RCV
+
+# 14717/138 - I'll treat you purfectly
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP & 3x ATK for God & Devil Types; 5x ATK & reduces damage with 7+ combos
+EN: 3x ATK and 1.5x HP for God, Devil type; 5x ATK and reduce damage taken by 25% when 7 or more combos
+

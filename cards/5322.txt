@@ -1,0 +1,15 @@
+#5322 Reincarnated Kundali
+HP: 5033 ATK: 2402 RCV: 50 LB: 10
+AWK: 27,27,19,28,28,30,30,56,43
+SAWK: 52,43,54
+
+# 11165/116 - Mantra Healing
+Tags: ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
+Game: Changes Fire & Heal Orbs to Water and Jammers & Poison Orbs to Heal Orbs; adds 1 combo for 2 turns
+EN: Change Fire, Heal orbs to Water orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs; For 2 turns, increase combo count by 1
+
+# 13574/138 - Spirit of the Healthy God
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 5x ATK & reduces damage with 2+ Wt combos; 4.5x ATK when 6 Orbs or less remain on board
+EN: [No skyfall] 4.5x ATK when there are 6 or fewer orbs remaining; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+

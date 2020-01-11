@@ -1,0 +1,15 @@
+#2387 Sacred Life Goddess of the Colored Sky, Hathor
+HP: 2760 ATK: 1281 RCV: 568 LB: 0
+AWK: 17,21,15,17,17,17,28,19
+SAWK: 
+
+# 1680/116 - Heavenly Splash
+Tags: GRAVITY,EXTENDS_TIME
+Game: Reduces enemies' HP by 25%; 2x Orb move time for 2 turns
+EN: Reduce enemies' HP by 25%; For 2 turns, 2x orb move time
+
+# 2404/138 - Exaltation of Sacred Life
+Tags: ENHANCED_HP_ATK_RCV
+Game: Light Att. HP & RCV increase a little; 4.5x ATK when attacking with 5+ Att. (4+Heal) at once
+EN: 1.35x HP & RCV for Light Att.; 4.5x ATK when matching 5 or more colors (4+heal)
+

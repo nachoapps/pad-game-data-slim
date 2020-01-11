@@ -1,0 +1,15 @@
+#5342 Draconic Songstress on Clarinet, Enola
+HP: 4175 ATK: 2555 RCV: 220 LB: 15
+AWK: 21,21,19,19,50,50,48,19,19
+SAWK: 52,57,53
+
+# 13618/176 - Natural Slur
+Tags: 
+Game: Creates a square of 3x3 Wood Orbs; creates a rectangle of 3x4 Wood Orbs when board is 7x6
+EN: Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+
+# 13619/138 - Eternal Dragon Player - Toulon
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 5+ linked Wood Orbs, up to 10x; 2x ATK & reduces damage when 4+ Att. attack at once
+EN: 6x ATK when matching 5 or more connected Wood orbs up to 10x at 9 orbs; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+

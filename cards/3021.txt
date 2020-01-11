@@ -1,0 +1,15 @@
+#3021 Kamiya Kasshin-ryu Instructor, Kamiya Kaoru
+HP: 2373 ATK: 1625 RCV: 113 LB: 0
+AWK: 23,23,15,15,15,17,17,17,21
+SAWK: 
+
+# 5192/116 - Swords that give life
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Changes the top row to Water Orbs & the bottom row to Light Orbs; heals 50% of Max HP
+EN: Change the top row to Water orbs and change the bottom row to Light orbs; Recover 50% of max HP
+
+# 5536/129 - What's the meaning of this?
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Attacker Type
+EN: 2x ATK & RCV for Attacker type
+

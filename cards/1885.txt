@@ -1,0 +1,15 @@
+#1885 Massive Blade Brave, Zweihander
+HP: 4002 ATK: 1852 RCV: 271 LB: 35
+AWK: 21,21,27,27,30
+SAWK: 43,27,45
+
+# 1828/116 - Style Change - Water
+Tags: ENHANCED_ATTACK,CHANGE_ATTRIBUTE
+Game: This ally's Att. changes to Water for 1 turn; 1.5x ATK for Attacker Type for 1 turn
+EN: Change own Att. to Water for 1 turns; For 1 turn, 1.5x ATK for Attacker type
+
+# 2491/138 - Torrent Fencing
+Tags: ENHANCED_ATK_RCV
+Game: 3.5x ATK for Water Att.; 2x ATK & RCV with 7+ combos
+EN: 3.5x ATK for Water Att.; 2x ATK & RCV when 7 or more combos
+

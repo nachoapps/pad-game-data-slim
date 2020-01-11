@@ -1,0 +1,15 @@
+#5123 Aquaman (Film)
+HP: 6477 ATK: 2010 RCV: 151 LB: 25
+AWK: 56,28,27,27,27,27,27,5,5
+SAWK: 27,52,48
+
+# 12637/116 - The Power of Atlantis
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top and bottom rows to Water Orbs
+EN: Unlock all orbs; Change the top row and the bottom row to Water orbs
+
+# 12640/138 - The Hope of Two Worlds
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 1.5x to all stats for Water Att., 5x ATK when skills used; 1.5x ATK & reduces damage with 3+ combos
+EN: 1.5x all stats for Water Att.; 5x ATK on the turn a skill is used; 1.5x ATK and reduce damage taken by 25% when 3 or more combos
+

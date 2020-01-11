@@ -1,0 +1,15 @@
+#1906 究極装備・フェンサー
+HP: 2505 ATK: 1375 RCV: 395 LB: 0
+AWK: 18,26,21,27
+SAWK: 
+
+# 448/116 - Forsake
+Tags: REDUCE_DEFENSE,VOID_DAMAGE
+Game: Void enemies' DEF for 1 turn; voids Dark Att. damage for 3 turns
+EN: For 1 turn, reduce enemies' defense by 100%; For 3 turns, void all Dark damage
+
+# 2524/138 - Rushing Combo Imrproved
+Tags: ENHANCED_HP_ATK
+Game: HP & ATK increases slightly for Balanced Type; ATK increases with 3+ combos, up to 2.5x
+EN: 1.25x HP & ATK for Balanced type; 2x ATK when 3 or more combos up to 2.5x at 4 combos
+

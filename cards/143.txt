@@ -1,0 +1,15 @@
+#143 Ice Dragon Niflheim
+HP: 3165 ATK: 1332 RCV: 153 LB: 0
+AWK: 15,21
+SAWK: 
+
+# 12/116 - Blizzard Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Water Att. for 2 turns; inflicts 20x ATK Water Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
+
+# 77/17 - Ice Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Water Att. damage
+EN: Reduce damage taken from water att. by 50%
+

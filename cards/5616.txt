@@ -1,0 +1,15 @@
+#5616 Abyssal Bewitching Dragon, Sazile
+HP: 3671 ATK: 1886 RCV: 31 LB: 40
+AWK: 21,21,15,15,15,48,32,38,30
+SAWK: 52,57,39
+
+# 14928/116 - Beard Wave
+Tags: GUARD_STANCE
+Game: Changes the 2nd columns from the left & right to Heal; changes the 2nd lines from the top & bottom to Water
+EN: Change the 2nd column from the left and the 2nd column from the right to Heal orbs; Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
+
+# 15097/138 - Gleaming Purple Dragon Eye
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3x ATK for Dragon Type, Orb move time -2.5 seconds; 7x ATK & reduces damage with 7+ combos
+EN: 3x ATK for Dragon type; Increase orb movement time by -2.5 seconds; 7x ATK and reduce damage taken by 25% when 7 or more combos
+

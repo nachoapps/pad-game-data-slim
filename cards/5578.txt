@@ -1,0 +1,15 @@
+#5578 Amnesic Wanderer, Shiki
+HP: 3115 ATK: 2645 RCV: 208 LB: 25
+AWK: 52,56,28,53,43,43,60,60,63
+SAWK: 55,43,60
+
+# 14586/116 - Skandha Avidya
+Tags: ENHANCED_ATTACK
+Game: Creates 5 Orbs of all Attributes each at random; 2x ATK for Dark Att. for 1 turn
+EN: Create 5 Fire, Water, Wood, Light, and Dark orbs over any orbs; For 1 turn, 2x ATK for Dark Att.
+
+# 14592/138 - Over already...?
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Game: 2x HP for Dark Att., 5x ATK with an L shape of 5 Orbs; 3x ATK & inflicts 50,000 dmg when 4+ Att. attack at once
+EN: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
+

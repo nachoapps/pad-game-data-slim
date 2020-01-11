@@ -1,0 +1,15 @@
+#4269 Reincarnated Krishna
+HP: 4367 ATK: 2333 RCV: 291 LB: 10
+AWK: 14,14,43,28,21,21,19,19,52
+SAWK: 60,43,48
+
+# 8275/116 - Agni Road
+Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
+Game: Fire Orbs slightly more likely to appear for 3 turns; changes the rightmost column to Fire Orbs
+EN: For 3 turns, Fire orbs are more likely to appear by 15%; Change the far right column to Fire orbs
+
+# 11801/138 - Spirit of the Divine General
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Devil & Attacker Types; ATK increases with 2+ Fire combos, up to 7.5x
+EN: 2x HP & ATK for Attacker, Devil type; 3x ATK when matching 2 Fire combos, up to 7.5x at 5 Fire combos
+

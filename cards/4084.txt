@@ -1,0 +1,15 @@
+#4084 Pixel Ryo Sakazaki
+HP: 3912 ATK: 2570 RCV: 0 LB: 25
+AWK: 25,25,25,21,28,19,48,19,30
+SAWK: 56,55,59
+
+# 9595/128 - Dis Kyokugen Karate, will you?! Now savor the pain it brings.
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the top and bottom rows to Light Orbs
+EN: Change the top row and the bottom row to Light orbs
+
+# 9598/138 - Kyokugenryu Renbu Ken
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 3x ATK for Attacker Type; ATK increases with 6+ linked Light Orbs, up to 4x
+EN: 3x ATK and 1.5x HP for Attacker type; 2.5x ATK when matching 6 or more connected Light orbs up to 4x at 9 orbs
+

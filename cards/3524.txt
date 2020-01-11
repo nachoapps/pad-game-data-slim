@@ -1,0 +1,15 @@
+#3524 Aqualily Goddess of Bliss, Uruka
+HP: 4525 ATK: 2274 RCV: 885 LB: 25
+AWK: 52,20,19,19,56,28,43,43,63
+SAWK: 51,27,43
+
+# 7224/116 - Smiles All Around
+Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS
+Game: Changes Orbs to all Attributes & Heal; voids damage absorption for 1 turn
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield effects
+
+# 7227/138 - Dance of the Dark Heavens
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
+

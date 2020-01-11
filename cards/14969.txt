@@ -1,0 +1,15 @@
+#14969 Mighty Morphin Yellow Ranger
+HP: 4823 ATK: 2068 RCV: 330 LB: 30
+AWK: 10,10,37,37,21,21,19,19,43
+SAWK: 54,43,60
+
+# 14849/116 - Sabertooth Tiger Power!
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes Fire Orbs to Light and Wood Orbs to Heal
+EN: Reduce binds and awoken skill binds by 5 turns; Change Fire orbs to Light orbs; Change Wood orbs to Heal orbs
+
+# 14852/138 - Not Backing Down!
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 3x ATK & 2x RCV for Light Att.; 4x ATK & reduces damage when Light & Water attack at once
+EN: 3x ATK and 2x RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Light+Water
+

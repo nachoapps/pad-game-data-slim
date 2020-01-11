@@ -1,0 +1,15 @@
+#1797 ラディッツ
+HP: 1627 ATK: 808 RCV: 116 LB: 0
+AWK: 
+SAWK: 
+
+# 1816/116 - ダブル気功波
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: 敵全体に10000の固定ダメージ。 全ドロップを火、木、闇ドロップに変化。
+EN: Deal 10000 fixed damage to all enemies; Change all orbs to Fire, Wood, and Dark orbs
+
+# 2463/61 - ゴミめ…
+Tags: ENHANCED_ATK
+Game: 火木闇の同時攻撃で攻撃力が3倍。
+EN: 3x ATK when matching Fire, Wood, Dark at once
+

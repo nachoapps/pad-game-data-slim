@@ -1,0 +1,15 @@
+#2511 Mistress of the Sanctuary, Kali
+HP: 4025 ATK: 2324 RCV: 405 LB: 30
+AWK: 21,52,19,43,21,19,27,28,20
+SAWK: 43,57,54
+
+# 1647/71 - Orb Transformation
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to all Attributes & Heal
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 4180/138 - Which one do you want?
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 2.5x ATK, 1.5x HP & RCV for God & Dragon Types; 6x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+EN: 2.5x ATK and 1.5x HP & RCV for Dragon, God type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
+

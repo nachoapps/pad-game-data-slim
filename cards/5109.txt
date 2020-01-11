@@ -1,0 +1,15 @@
+#5109 Blanka
+HP: 3406 ATK: 1303 RCV: 314 LB: 30
+AWK: 28,28,21,43,11,11,11,63
+SAWK: 52,43,54
+
+# 12897/116 - Electric Thunder
+Tags: DROP_CHANCE
+Game: Wood Orbs slightly more likely to appear for 99 turns; creates 3 Wood Orbs at random
+EN: For 99 turns, Wood orbs are more likely to appear by 7%; Create 3 Wood orbs
+
+# 12900/138 - Experience the wild...the hard way!
+Tags: ENHANCED_HP_ATK
+Game: [Orb move time: 4 sec], 2x HP & ATK for Wood Att.; 4x ATK with 2 Wood combos, 5x ATK with 3+ combos
+EN: [Fixed 4 second movetime] 2x HP & ATK for Wood Att.; 4x ATK when matching 2 Wood combos, up to 5x at 3 Wood combos
+

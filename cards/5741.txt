@@ -1,0 +1,15 @@
+#5741 ドット・ホノりん
+HP: 3077 ATK: 1807 RCV: 122 LB: 40
+AWK: 48,48,48,19,4,4,4,4
+SAWK: 52,53,56
+
+# 606/116 - Attack Enhancement
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 3x ATK for Attacker Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Attacker type
+
+# 15152/138 - ドットストライク・火
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: 火を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 火を9個以上つなげて消すと、固定1ダメージ。
+EN: 6x ATK when matching 6 or more connected Fire orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Fire orbs
+

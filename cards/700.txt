@@ -1,0 +1,15 @@
+#700 Mari&Eva Unit-08
+HP: 2135 ATK: 1900 RCV: 162 LB: 0
+AWK: 24,16,24
+SAWK: 
+
+# 622/116 - All right, understood!
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: Inflicts 30x ATK attack on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
+EN: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
+
+# 600/64 - WILLE Custom
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Attacker Type
+EN: 2x ATK & RCV for Attacker type
+

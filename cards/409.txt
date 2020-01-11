@@ -1,0 +1,15 @@
+#409 Glacialdragon Niflheim
+HP: 3165 ATK: 1432 RCV: 153 LB: 0
+AWK: 15,21
+SAWK: 
+
+# 422/116 - God Blizzard Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Water Att. for 4 turns; inflicts 40x ATK Water Att. Mass Attack
+EN: For 4 turns, 1.5x ATK for Water Att.; Deal 40x ATK Water damage to all enemies
+
+# 77/17 - Ice Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Water Att. damage
+EN: Reduce damage taken from water att. by 50%
+

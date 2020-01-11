@@ -1,0 +1,15 @@
+#4376 Yu Narukami
+HP: 3445 ATK: 1860 RCV: 293 LB: 0
+AWK: 10,10,56,19,28,29
+SAWK: 
+
+# 10399/116 - Myriad Arrows
+Tags: REDUCE_DEFENSE
+Game: Voids enemies' DEF for 1 turn; creates 8 Light Orbs at random
+EN: For 1 turn, reduce enemies' defense by 100%; Create 8 Light orbs
+
+# 10402/138 - Transfer Student from the City
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & ATK for Light Att., Orb move time +2 seconds; 5x ATK with 6+ linked Light Orbs
+EN: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 6 or more connected Light orbs
+

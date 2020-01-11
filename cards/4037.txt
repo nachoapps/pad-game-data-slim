@@ -1,0 +1,15 @@
+#4037 Envy
+HP: 2222 ATK: 1639 RCV: 466 LB: 100
+AWK: 9,9,30
+SAWK: 56,43,52
+
+# 9487/116 - I'll fight you using my true strength.
+Tags: ENHANCED_ATTACK,HEAL
+Game: 1.5x ATK for Devil Type for 4 turns; recovers 20% of max HP for 4 turns
+EN: For 4 turns, 1.5x ATK for Devil type; For 4 turns, recover 20% of max HP
+
+# 9490/138 - Who should I take care of first?
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & 2x ATK for Devil Type; 2.5x RCV when HP is 50% or more
+EN: 2x ATK and 1.5x HP for Devil type; 2.5x RCV when above 50% HP
+

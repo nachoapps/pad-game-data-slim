@@ -1,0 +1,15 @@
+#4999 Scholarly God of Treasure, Ganesha
+HP: 3418 ATK: 1723 RCV: 498 LB: 30
+AWK: 10,10,28,21,21,21,19,43,43
+SAWK: 60,44,57
+
+# 12442/116 - Unburdening Mallet
+Tags: VOID_DAMAGE,SINGLE_TARGET_ATTACK
+Game: Voids damage for 1 turn; inflicts 150,000 damage on 1 enemy three times
+EN: For 1 turn, reduce damage taken by 100%; Deal 150000 damage to an enemy 3 times
+
+# 12445/138 - Overflowing Treasure!!
+Tags: ENHANCED_ATK,COIN
+Game: 4x Coins when entering a dungeon as a Leader; 4x ATK with 5+ combos
+EN: 4x Coin Drop rate; 4x ATK when 5 or more combos
+

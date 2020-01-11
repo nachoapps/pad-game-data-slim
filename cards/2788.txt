@@ -1,0 +1,15 @@
+#2788 Shadow Lord
+HP: 3497 ATK: 1514 RCV: 142 LB: 30
+AWK: 18,26,26,26,18,18,8,8,8
+SAWK: 52,54,57
+
+# 3964/116 - Implosion
+Tags: REDUCE_DEFENSE,GRAVITY
+Game: Reduces enemies' HP by 15%; voids enemies' DEF for 1 turn
+EN: Reduce enemies' HP by 15%; For 1 turn, reduce enemies' defense by 100%
+
+# 4605/138 - Until the fires of wrath consume me!
+Tags: ENHANCED_HP_RCV,RESOLVE
+Game: 1.5x HP & RCV for Dark Att.; may survive when HP is reduced to 0
+EN: 1.5x HP & RCV for Dark Att.; May survive when HP is reduced to 0 (HP>70%)
+

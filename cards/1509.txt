@@ -1,0 +1,15 @@
+#1509 Mephistopheles
+HP: 1008 ATK: 765 RCV: 267 LB: 0
+AWK: 
+SAWK: 
+
+# 1612/115 - Soul Drain
+Tags: ATTACK_AND_HEAL
+Game: Makes a 8x ATK Light Att. attack on 1 enemy, plus half of the damage is recovered as HP
+EN: Deal 8x ATK Light damage to an enemy and recover 50% of the damage as HP
+
+# 1757/122 - Devil's Bargain
+Tags: ENHANCED_ATK
+Game: 4x ATK for Devil Type when HP is 80% or less
+EN: 4x ATK for Devil type when below 80% HP
+

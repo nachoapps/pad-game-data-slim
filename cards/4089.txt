@@ -1,0 +1,15 @@
+#4089 Alluring Kunoichi, Mai Shiranui
+HP: 3883 ATK: 1873 RCV: 426 LB: 25
+AWK: 27,27,27,21,28,19,19,29,29
+SAWK: 52,61,59
+
+# 9616/116 - How was it? The power of Shiranui ninjutsu!
+Tags: DROP_CHANCE
+Game: 50% chance of Enhanced Orbs appearing for 5 turns; creates 3 Fire Orbs at random
+EN: For 5 turns, enhanced orbs are more likely to appear by 50%; Create 3 Fire orbs
+
+# 9622/138 - Chou Hissatsu Shinobi-Bachi
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x ATK for Fire & Light Att.; 4.5x ATK & reduces damage with 7+ combos
+EN: [Board becomes 7x6] 2x ATK for Fire, Light Att.; 4.5x ATK and reduce damage taken by 25% when 7 or more combos
+

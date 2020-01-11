@@ -1,0 +1,15 @@
+#2335 Thunder Armor Dragon, Albireo
+HP: 2718 ATK: 1225 RCV: 50 LB: 0
+AWK: 9,9
+SAWK: 
+
+# 698/116 - Heal Barrier
+Tags: VOID_DAMAGE,HEAL
+Game: Voids Dark Att. damage for 2 turns; heals 25% of Max HP
+EN: For 2 turns, void all Dark damage; Recover 25% of max HP
+
+# 3667/138 - Lightning Condenser
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK Machine Type when HP is 50% or more; 2x RCV Machine Type when HP is 50% or less
+EN: 2x ATK for Machine type when above 50% HP; 2x RCV for Machine type when below 50% HP
+

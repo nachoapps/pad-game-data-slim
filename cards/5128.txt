@@ -1,0 +1,15 @@
+#5128 Bright Dracoblader of Thunderstrikes, Kio
+HP: 5720 ATK: 2916 RCV: 139 LB: 15
+AWK: 10,10,21,21,28,19,48,48,31
+SAWK: 48,56,31
+
+# 12672/116 - Dragon Roar of the Rebellious Child
+Tags: EXTENDS_TIME
+Game: Creates 2 Light Orbs at random; Orb move time +1 second for 1 turn
+EN: Create 2 Light orbs; For 1 turn, increase orb move time by 1 second
+
+# 12678/138 - A Blank Mind's Strike
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 4+ linked Light Orbs, up to 8x; 3x ATK & reduces damage when 3+ Att. attack at once
+EN: 4x ATK when matching 4 or more connected Light orbs up to 8x at 8 orbs; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
+

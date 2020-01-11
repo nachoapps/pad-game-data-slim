@@ -1,0 +1,15 @@
+#294 Toytops
+HP: 483 ATK: 160 RCV: 92 LB: 0
+AWK: 
+SAWK: 
+
+# 161/9 - Guard Stance - Wood
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Water Orbs to Heal Orbs
+EN: Change Water orbs to Heal orbs
+
+# 305/36 - Water and Wood Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Wood & Water Att. damage
+EN: Reduce damage taken from wood, water att. by 30%
+

@@ -1,0 +1,15 @@
+#3893 Dark Sword Dragon Knight God, Sherias
+HP: 3728 ATK: 1883 RCV: 230 LB: 0
+AWK: 21,28,19,21,11,11,44,38,33
+SAWK: 
+
+# 3990/116 - Harmonic Feather
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to all Attributes; other allies' skills charged by 1 turn
+EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
+
+# 8882/138 - Element Wave
+Tags: ENHANCED_ATK_RCV
+Game: ATK increases with 4+ combos, up to 3x;  2.5x ATK & RCV when erasing 5+ linked Water Orbs
+EN: 2x ATK when 4 or more combos up to 3x at 6 combos; 2.5x ATK & RCV when matching 5 or more connected Water orbs
+

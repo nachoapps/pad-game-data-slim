@@ -1,0 +1,15 @@
+#4180 Dagda
+HP: 3418 ATK: 1328 RCV: 283 LB: 0
+AWK: 27,27,27,27
+SAWK: 
+
+# 9758/116 - Recovery Storm
+Tags: ORB_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
+Game: Removes Orb locks, reduces Awoken Skill bind status by 3 turns; changes Water, Poison & Jammers to Wood Orbs
+EN: Unlock all orbs; Reduce awoken skill binds by 3 turns; Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 9762/138 - Cauldron's Magic Power
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & 3x ATK for Wood Att., Orb move time +3 sec; 2x ATK with 2 Wood combos, 3x ATK with 3+ combos
+EN: 3x ATK and 1.5x HP for Wood Att.; Increase orb movement time by 3 seconds; 2x ATK when matching 2 Wood combos, up to 3x at 3 Wood combos
+

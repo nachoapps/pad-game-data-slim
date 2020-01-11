@@ -1,0 +1,15 @@
+#5471 赤城直巳
+HP: 2021 ATK: 2004 RCV: 307 LB: 30
+AWK: 46,46,60,60,60,60
+SAWK: 52,46,60
+
+# 14121/116 - 伝家の宝刀――復活!!
+Tags: ENHANCED_ORBS,EXTENDS_TIME
+Game: L字型に光ドロップを1つ生成。光ドロップを強化。 1ターンの間、ドロップ操作を2秒延長。
+EN: Create L shape of Light orbs with center at the top row and the far right column; Enhance all Light orbs; For 1 turn, increase orb move time by 2 seconds
+
+# 14125/138 - この右腕一本で十分だぜ
+Tags: ENHANCED_HP_ATK
+Game: 攻撃タイプのHPと攻撃力が2倍。 光の5個L字消しで、攻撃力が4.5倍。
+EN: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in L shape
+

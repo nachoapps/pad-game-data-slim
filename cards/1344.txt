@@ -1,0 +1,15 @@
+#1344 Sword-Wielding God of Victory, Freyr
+HP: 3355 ATK: 1402 RCV: 437 LB: 0
+AWK: 22,29,22,21,33,28
+SAWK: 
+
+# 172/116 - Flame Enhancement
+Tags: ENHANCED_ATTACK
+Game: 1.5x Fire Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
+EN: For 3 turns, 1.5x ATK for Fire Att.; Charge all allies' skills by 1 turn
+
+# 1553/121 - Wild Dragon Sword's Guidance
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK for Dragon Type, plus their RCV increases a little
+EN: 3x ATK and 1.35x RCV for Dragon type
+

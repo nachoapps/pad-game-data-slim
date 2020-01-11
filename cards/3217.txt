@@ -1,0 +1,15 @@
+#3217 魔砲士
+HP: 1910 ATK: 847 RCV: 46 LB: 0
+AWK: 
+SAWK: 
+
+# 5475/160 - Ether Boost
+Tags: ADD_COMBO
+Game: Adds 1 combo for 2 turns
+EN: For 2 turns, increase combo count by 1
+
+# 6534/138 - Magnum Charge
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK, but unable to erase 4 Orbs or less;  9x ATK when attacking with 3+ Att. (2+Heal)
+EN: [Unable to erase 4 orbs or less] 2x HP & ATK; 9x ATK when matching 3 or more colors (2+heal)
+

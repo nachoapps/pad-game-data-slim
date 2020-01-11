@@ -1,0 +1,15 @@
+#126 Ceres
+HP: 1388 ATK: 750 RCV: 317 LB: 0
+AWK: 
+SAWK: 
+
+# 40/117 - Shower of Healing
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status
+EN: Recover all HP; Remove all binds
+
+# 78/17 - Tree Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Wood Att. damage
+EN: Reduce damage taken from wood att. by 50%
+

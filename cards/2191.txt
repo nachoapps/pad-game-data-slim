@@ -1,0 +1,15 @@
+#2191 Frost-Fanged CyberBeast, Alfecca
+HP: 4046 ATK: 1309 RCV: 33 LB: 40
+AWK: 10,10,21,27,27,28,21,27
+SAWK: 27,45
+
+# 2685/116 - Blizzard Signal
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the rightmost column into Water Orbs; other allies' skills charged by 1 turn
+EN: Change the far right column to Water orbs; Charge all allies' skills by 1 turn
+
+# 3259/138 - Sapphire Converter
+Tags: ENHANCED_ATK
+Game: 3x ATK for Machine Type; 1.5x ATK for Water Att. when skills used
+EN: 3x ATK for Machine type; 1.5x ATK for Water Att. on the turn a skill is used
+

@@ -1,0 +1,15 @@
+#5511 Omega [Dark Color]
+HP: 4150 ATK: 2540 RCV: 260 LB: 25
+AWK: 10,10,21,21,28,45,58,58,58
+SAWK: 48,54,53
+
+# 14254/116 - Power Burst
+Tags: SUICIDE,LINE_ORBS_CONVERTER
+Game: Halves HP; changes the top row to Fire Orbs and the bottom row to Dark Orbs
+EN: Reduce HP by 50%; Change the top row to Fire orbs and change the bottom row to Dark orbs
+
+# 14257/138 - I am the one who stands above all others!
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 6x ATK for Fire Att., 2x HP for Dark Att.; 3x ATK & reduces damage when HP is 50% or less
+EN: 6x ATK for Fire Att.; 2x HP for Dark Att.; 3x ATK and reduce damage taken by 25% when below 50% HP
+

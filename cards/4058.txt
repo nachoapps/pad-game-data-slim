@@ -1,0 +1,15 @@
+#4058 Blazing Hands War Goddess, Macha
+HP: 3710 ATK: 1605 RCV: 410 LB: 0
+AWK: 21,28,19,19,10,10
+SAWK: 
+
+# 9512/116 - Raging Shift
+Tags: REDUCE_DAMAGE,THE_SWITCH
+Game: Switches places with Leader Monster, use again to switch back; vastly reduces damage for 1 turn
+EN: Becomes Team leader, changes back when used again; For 1 turn, reduce damage taken by 75%
+
+# 9515/44 - Ferocious Augur
+Tags: ENHANCED_ATK
+Game: 10x ATK when HP is 80% or more
+EN: 10x ATK when above 80% HP
+

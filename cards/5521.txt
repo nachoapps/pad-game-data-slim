@@ -1,0 +1,15 @@
+#5521 White Feathered Knight, Bradamante
+HP: 5720 ATK: 2160 RCV: 12 LB: 25
+AWK: 10,10,21,21,28,19,19,48,61
+SAWK: 48,54,43
+
+# 14323/116 - La Bella Paladina
+Tags: ORB_CONVERT,ORB_LOCK
+Game: Changes Bombs, Jammers & Water Orbs to Light Orbs; locks all Orbs
+EN: Change Water, Jammer, and Bomb orbs to Light orbs; Lock all orbs
+
+# 14327/138 - I don't fraternize with weaklings
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 4x ATK with 2 Light combos, 5x ATK with 3+ combos; 2x ATK & reduces damage with 7+ combos
+EN: [Board becomes 7x6] 4x ATK when matching 2 Light combos, up to 5x at 3 Light combos; 2x ATK and reduce damage taken by 25% when 7 or more combos
+

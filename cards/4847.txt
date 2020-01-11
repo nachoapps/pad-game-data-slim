@@ -1,0 +1,15 @@
+#4847 Uesugi Kenshin
+HP: 3515 ATK: 1715 RCV: 28 LB: 0
+AWK: 21,21,21,19,28
+SAWK: 
+
+# 11756/116 - Merciless Strike
+Tags: SINGLE_TARGET_ATTACK,SUICIDE,VOID_DAMAGE_ABSORBS
+Game: Inflicts 200x ATK Water Att. attack on 1 enemy but HP falls to 1; voids damage absorption for 1 turn
+EN: Reduce HP to 1; Deal 200x Water damage to an enemy; For 1 turn, bypass damage absorb shield effects
+
+# 11759/138 - Uesugi Bamboo Protective Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
+Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Water & Fire attack at once
+EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Water+Fire
+

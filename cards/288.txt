@@ -1,0 +1,15 @@
+#288 Drall
+HP: 431 ATK: 166 RCV: 100 LB: 0
+AWK: 
+SAWK: 
+
+# 160/9 - Guard Stance - Fire
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Wood Orbs to Heal Orbs
+EN: Change Wood orbs to Heal orbs
+
+# 301/36 - Fire and Wood Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Fire & Wood Att. damage
+EN: Reduce damage taken from fire, wood att. by 30%
+

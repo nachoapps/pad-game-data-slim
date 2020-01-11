@@ -1,0 +1,15 @@
+#5215 Tumultuous School Dragon, Viper Orochi
+HP: 7760 ATK: 1100 RCV: 312 LB: 30
+AWK: 27,27,27,27,56,56,28,28,53
+SAWK: 27,52,58
+
+# 3349/18 - Eight-Headed Suppression
+Tags: MENACE
+Game: Delays enemies' next move for 4 turns
+EN: Delay enemies' next attack by 4 turns
+
+# 13154/138 - So, wanna fight?
+Tags: ENHANCED_ATK,RESOLVE
+Game: ATK increases with 4+ combos, up to 14x; may survive when HP is reduced to 0
+EN: 2x ATK when 4 or more combos up to 14x at 10 combos; May survive when HP is reduced to 0 (HP>50%)
+

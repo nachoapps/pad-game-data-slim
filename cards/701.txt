@@ -1,0 +1,15 @@
+#701 Rei&Eva Unit-00
+HP: 918 ATK: 684 RCV: 183 LB: 0
+AWK: 
+SAWK: 
+
+# 623/3 - I will protect you
+Tags: REDUCE_DAMAGE
+Game: Halves damage for 2 turns
+EN: For 2 turns, reduce damage taken by 50%
+
+# 599/63 - Retrofit Specifications
+Tags: ENHANCED_HP_RCV
+Game: 2x HP & RCV for Attacker Type
+EN: 2x HP & RCV for Attacker type
+

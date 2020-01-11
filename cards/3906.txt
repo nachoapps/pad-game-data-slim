@@ -1,0 +1,15 @@
+#3906 Piercing-Eyed Dragon Monk, Xuanzang
+HP: 3415 ATK: 1416 RCV: 511 LB: 0
+AWK: 25,28,9,9,21,25
+SAWK: 
+
+# 942/116 - Dragon Heart Sutra
+Tags: HEAL,ENHANCED_HEAL
+Game: 2x RCV for 4 turns, plus 3000 HP recovered
+EN: For 4 turns, 2x RCV; Recover 3000 HP
+
+# 9390/138 - Twin Jewel Dragon's Exorcising Light
+Tags: ENHANCED_HP_ATK
+Game: [Orb move time: 4 sec], 3x ATK with 6+ linked Light Orbs; 2.5x ATK & 1.5x HP for Dragon Type
+EN: [Fixed 4 second movetime] 2.5x ATK and 1.5x HP for Dragon type; 3x ATK when matching 6 or more connected Light orbs
+

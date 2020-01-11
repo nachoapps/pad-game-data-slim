@@ -1,0 +1,15 @@
+#3994 Norn of Excursions, Verdandi
+HP: 4055 ATK: 2117 RCV: 522 LB: 30
+AWK: 21,21,19,19,28,10,10,43,43
+SAWK: 55,45,57
+
+# 9222/116 - Holiday Tuning Circle - Wood, Dark & Life
+Tags: HEAL,ALL_ORBS_CONVERT
+Game: HP fully recovers; changes Orbs to Wood, Dark & Heal Orbs
+EN: Recover all HP; Change all orbs to Wood, Dark, and Heal orbs
+
+# 9225/138 - Well, let's hurry♪
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK when HP is 80% or more, 5x when full; 4x ATK & reduces damage with a cross of 5 Heal Orbs
+EN: 5x ATK when HP is full; 3x ATK when above 80% HP; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

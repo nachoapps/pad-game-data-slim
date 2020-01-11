@@ -1,0 +1,15 @@
+#734 緑チョコボ&チョコボ士
+HP: 2648 ATK: 1010 RCV: 280 LB: 0
+AWK: 27,16
+SAWK: 
+
+# 629/7 - Choco Cure
+Tags: HEAL,ENHANCED_HEAL
+Game: Recovers 15x your RCV in HP
+EN: Recover 15x RCV as HP
+
+# 361/16 - Choco Barrier
+Tags: REDUCE_DAMAGE
+Game: Slightly reduces damage
+EN: Reduce damage taken by 10%
+

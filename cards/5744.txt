@@ -1,0 +1,15 @@
+#5744 ドット・ヒカりん
+HP: 2733 ATK: 1230 RCV: 574 LB: 40
+AWK: 48,48,48,19,7,7,7,7
+SAWK: 52,53,56
+
+# 603/116 - Recovery Enhancement
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 3x ATK for Healer Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Healer type
+
+# 15161/138 - ドットストライク・光
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: 光を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 光を9個以上つなげて消すと、固定1ダメージ。
+EN: 6x ATK when matching 6 or more connected Light orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Light orbs
+

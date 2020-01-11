@@ -1,0 +1,15 @@
+#225 Valkyrie
+HP: 1000 ATK: 555 RCV: 256 LB: 0
+AWK: 
+SAWK: 
+
+# 159/9 - Attack Stance - Light
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Light Orbs
+EN: Change Heal orbs to Light orbs
+
+# 232/22 - Pride of the Valkyrie
+Tags: ENHANCED_ATK
+Game: 2x ATK for Healer Type
+EN: 2x ATK for Healer type
+

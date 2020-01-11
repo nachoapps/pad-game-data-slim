@@ -1,0 +1,10 @@
+#4166 Legiana Wing
+HP: 100 ATK: 100 RCV: 100 LB: 0
+AWK: 
+SAWK: 
+
+# 9831/116 - Guard Thrust
+Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
+Game: Vastly reduces damage for 1 turn; inflicts 100,000 damage on 1 enemy three times
+EN: For 1 turn, reduce damage taken by 75%; Deal 100000 damage to an enemy 3 times
+

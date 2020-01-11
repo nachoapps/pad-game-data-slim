@@ -1,0 +1,15 @@
+#2294 Red Puppet Master of Destruction, Pure Machina
+HP: 2885 ATK: 1386 RCV: 358 LB: 40
+AWK: 14,16,22,19,19,44,21,60,60
+SAWK: 6,55,60
+
+# 3361/153 - Elemental Jammer - Wood
+Tags: CHANGE_ENEMIES_ATTRIBUTE
+Game: All enemies' Attributes change to Wood (Ignores Barriers)
+EN: Change all enemies to Wood Att.
+
+# 3492/138 - Flame Demon Puppetry
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Machine Type, 2x ATK for Fire Att.; 2.5x ATK with 5+ linked Fire Orbs
+EN: 2x ATK for Fire Att.; 1.5x all stats for Machine type; 2.5x ATK when matching 5 or more connected Fire orbs
+

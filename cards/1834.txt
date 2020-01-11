@@ -1,0 +1,15 @@
+#1834 Dark Angel, Lumiel
+HP: 1584 ATK: 945 RCV: 116 LB: 0
+AWK: 
+SAWK: 
+
+# 1825/116 - Demon-Vanquishing Hymn
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Changes all Orbs to Fire, Water, Wood & Dark Orbs; inflicts 100,000 damage on all enemies
+EN: Change all orbs to Fire, Water, Wood, and Dark orbs; Deal 100000 fixed damage to all enemies
+
+# 2472/138 - Summoning Order
+Tags: ENHANCED_ATK_RCV
+Game: Devil Type ATK & RCV increase slightly; 3x ATK with 2+ Dk+Dk or Dk+Wt combos
+EN: 1.25x ATK & RCV for Devil type; 3x ATK when matching Water+Dark(Dark+Dark)
+

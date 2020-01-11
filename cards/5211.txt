@@ -1,0 +1,15 @@
+#5211 Elena Brilliante (Dark Color)
+HP: 4790 ATK: 1804 RCV: 503 LB: 25
+AWK: 10,10,21,28,19,48,57,57,57
+SAWK: 31,32,33
+
+# 13060/116 - Wall of Light
+Tags: HEAL,DROP_CHANCE
+Game: Fire Orbs slightly more likely to appear for 99 turns; recovers 50% of max HP for 2 turns
+EN: For 99 turns, Fire orbs are more likely to appear by 7%; For 2 turns, recover 50% of max HP
+
+# 13063/138 - I'll crush you.
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP for Fire Att., 4x ATK with 2+ Fire combos; 4x ATK & reduces damage when HP is 80% or more
+EN: 1.5x HP for Fire Att.; 4x ATK when matching 2+ Fire combos; 4x ATK and reduce damage taken by 35% when above 80% HP
+

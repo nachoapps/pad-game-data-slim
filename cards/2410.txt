@@ -1,0 +1,15 @@
+#2410 Moonlit Prowler, Vampire Lord
+HP: 2996 ATK: 1368 RCV: 463 LB: 30
+AWK: 26,27,21,28,27,32,32,10,10
+SAWK: 27,21,54
+
+# 45/9 - Attack Stance - Dark
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Dark Orbs
+EN: Change Heal orbs to Dark orbs
+
+# 4028/129 - The Moon is Beautiful Tonight
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK & 2x HP for Dark Att.
+EN: 2.5x ATK and 2x HP for Dark Att.
+

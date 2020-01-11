@@ -1,0 +1,15 @@
+#1429 青銅聖闘士・白鳥星座の氷河
+HP: 2855 ATK: 1309 RCV: 302 LB: 0
+AWK: 23,15,21,15
+SAWK: 
+
+# 985/116 - ダイヤモンドダスト
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: 敵1体に10000の固定ダメージ。 2ターンの間、バランスタイプの攻撃力が2倍。
+EN: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Balanced type
+
+# 1704/121 - 舞え白鳥!!
+Tags: ENHANCED_ATK
+Game: 水属性とバランスタイプの攻撃力が2.5倍。
+EN: 2.5x ATK for Balanced type and Water Att.
+

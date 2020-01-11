@@ -1,0 +1,15 @@
+#2865 相良猛
+HP: 1594 ATK: 754 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 5060/3 - I'll take you one on one!
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 1 turn
+EN: For 1 turn, reduce damage taken by 35%
+
+# 4757/138 - You'll regret opposing me!!
+Tags: ENHANCED_HP_ATK,COUNTERATTACK
+Game: 2x ATK & 1.5x HP for Attacker Type; Dark Att. counterattack
+EN: 2x ATK and 1.5x HP for Attacker type; 1x Dark counterattack
+

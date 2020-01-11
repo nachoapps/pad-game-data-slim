@@ -1,0 +1,15 @@
+#2162 死鬼者デスワルツ
+HP: 2238 ATK: 1158 RCV: 71 LB: 0
+AWK: 27,11,21
+SAWK: 
+
+# 2640/116 - デーモン・ダンス
+Tags: ENHANCED_ATTACK,ATTACK_CHANGER
+Game: 3ターンの間、攻撃が全体攻撃になる。 3ターンの間、悪魔タイプの攻撃力がほんの少し上昇。
+EN: For 3 turns, all attacks become mass attack; For 3 turns, 1.2x ATK for Devil type
+
+# 3213/138 - Orchestra of Death
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 1.5x ATK & RCV for Devil Type; Orb move time +1 second
+EN: 1.5x ATK & RCV for Devil type; Increase orb movement time by 1 seconds
+

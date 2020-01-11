@@ -1,0 +1,15 @@
+#2169 蒼神龍スペル・グレートブルー
+HP: 3210 ATK: 1515 RCV: 235 LB: 0
+AWK: 19,21,15,15,15,9,9,5,5
+SAWK: 
+
+# 2644/116 - スペル・シュトローム
+Tags: ENHANCED_ATTACK
+Game: 2ターンの間、ドラゴンと悪魔タイプの攻撃力が3.5倍。 自分以外の味方スキルが1ターン溜まる。
+EN: For 2 turns, 3.5x ATK for Dragon and Devil types; Charge all allies' skills by 1 turn
+
+# 3220/185 - Howl of the Blue Divine Dragon
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 5x ATK for Dragon Type; Orb move time +2 seconds
+EN: 5x ATK for Dragon type; Increase orb movement time by 2 seconds
+

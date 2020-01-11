@@ -1,0 +1,15 @@
+#5472 御堂筋翔
+HP: 3535 ATK: 1763 RCV: 277 LB: 30
+AWK: 21,21,19,19,45,58,58
+SAWK: 52,55,58
+
+# 14128/116 - キモッ!!
+Tags: SUICIDE,LINE_ORBS_CONVERTER,EXTENDS_TIME
+Game: HPが50％減少。右端縦2列を闇ドロップに変化。 1ターンの間、ドロップ操作時間が3倍。
+EN: Reduce HP by 50%; Change the 2nd column from the right and the far right column to Dark orbs; For 1 turn, 3x orb move time
+
+# 14132/138 - 欲しいもんのためには全てを捨てる!!
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: HP50％以下でダメージを軽減、攻撃力が6倍。 闇属性のHPが1.5倍、攻撃力は2倍。
+EN: 6x ATK and reduce damage taken by 25% when below 50% HP; 2x ATK and 1.5x HP for Dark Att.
+

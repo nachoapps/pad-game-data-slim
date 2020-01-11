@@ -1,0 +1,15 @@
+#4894 Awoken Lumiel
+HP: 3968 ATK: 1932 RCV: 127 LB: 0
+AWK: 21,10,10,19,27,28,48,48
+SAWK: 
+
+# 12008/116 - Demon-Vanquishing Chant
+Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
+Game: Halves damage for 1 turn; changes all Orbs to Fire, Water, Wood & Dark Orbs
+EN: For 1 turn, reduce damage taken by 50%; Change all orbs to Fire, Water, Wood, and Dark orbs
+
+# 12011/138 - Divine Summoning Order
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & RCV for Dark Att.; 6x ATK with 6+ linked Orbs
+EN: 2.5x ATK & RCV for Dark Att.; 6x ATK when matching 6 or more connected orbs
+

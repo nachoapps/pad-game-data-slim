@@ -1,0 +1,15 @@
+#5286 gudetama omelette rice
+HP: 3731 ATK: 1570 RCV: 387 LB: 30
+AWK: 10,10,11,11,11,21,28,32,37
+SAWK: 38,31,64
+
+# 13418/116 - gude gude power...
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top row to Light Orbs
+EN: Unlock all orbs; Change the top row to Light orbs
+
+# 13430/138 - eat it while it's hot
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 2x ATK & RCV for Light Att., 2x ATK when skills used; 3x ATK & reduces damage with an L shape of 5 Light Orbs
+EN: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+

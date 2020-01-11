@@ -1,0 +1,15 @@
+#2626 スネイク・ヘッズ幹部・大島智之
+HP: 2665 ATK: 1903 RCV: 0 LB: 100
+AWK: 10,18
+SAWK: 58,43,10
+
+# 3844/116 - Oraa! Come and fight!
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: For 1 turn, 2.5x ATK for Attacker Type and vastly reduces Orb move time
+EN: For 1 turn, 2.5x ATK for Attacker type; For 1 turn, 0.25x orb move time
+
+# 4362/138 - We are Yakuzas too!
+Tags: ENHANCED_ATK_RCV,RESOLVE
+Game: ATK & RCV increase slightly for Attacker Type; may survive when HP is reduced to 0
+EN: 1.2x ATK & RCV for Attacker type; May survive when HP is reduced to 0 (HP>70%)
+

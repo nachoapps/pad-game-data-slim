@@ -1,0 +1,15 @@
+#2778 Lightning
+HP: 3675 ATK: 1890 RCV: 488 LB: 0
+AWK: 21,21,21,19,28,10,10,25,25
+SAWK: 
+
+# 3949/116 - No room for doubt.
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK
+Game: Inflicts 10,000 damage on all enemies; removes Orb locks, changes Orbs to all Attributes & Heal
+EN: Deal 10000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 4579/138 - Army of One
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 4x ATK when 4+ Att. attack at once, Orb move time +2 seconds; 3x ATK with 5+ linked Light Orbs
+EN: 4x ATK when matching 4 or more colors; 3x ATK when matching 5 or more connected Light orbs; Increase orb movement time by 2 seconds
+

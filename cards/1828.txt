@@ -1,0 +1,15 @@
+#1828 Blue Angel, Famiel
+HP: 1229 ATK: 840 RCV: 309 LB: 0
+AWK: 
+SAWK: 
+
+# 1822/116 - Holy Water Hymn
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Changes all Orbs to Water, Wood, Light & Dark Orbs; inflicts 100,000 damage on all enemies
+EN: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
+
+# 2469/138 - Rallying Order
+Tags: ENHANCED_HP_ATK
+Game: Healer Type ATK & HP increase slightly; 3x ATK with 2+ Wt+Wt or Wt+Lt combos
+EN: 1.25x HP & ATK for Healer type; 3x ATK when matching Water+Water(Water+Light)
+

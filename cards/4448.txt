@@ -1,0 +1,15 @@
+#4448 Resolute Goddess of Valor, Inahime
+HP: 4669 ATK: 1633 RCV: 65 LB: 0
+AWK: 10,10,28,28,21,19,43
+SAWK: 
+
+# 7676/116 - Bold Prayer
+Tags: ALL_ORBS_CONVERT,ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes all Orbs to Fire, Wood & Heal Orbs
+EN: For 1 turn, increase combo count by 2; Change all orbs to Fire, Wood, and Heal orbs
+
+# 10708/138 - Fowlknot Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 3x ATK but unable to erase 3 Orbs or less; 4x ATK & reduces damage with 2+ Fire combos
+EN: [Board becomes 7x6][Unable to erase 3 orbs or less] 3x ATK; 4x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+

@@ -1,0 +1,15 @@
+#881 覚醒オーディン＆オーディンネコ
+HP: 3470 ATK: 1395 RCV: 426 LB: 0
+AWK: 10,9,10,9,9
+SAWK: 
+
+# 671/116 - gungnir nya!
+Tags: ATTACK_AND_HEAL,RECOVER_BIND
+Game: Inflicts 10x ATK attack on 1 enemy, recovers damage as HP; reduces bind status by 5 turns
+EN: Deal 10x ATK damage to an enemy and recover the same amount as HP; Reduce binds by 5 turns
+
+# 786/138 - Monster Hunter 4G Collab Series
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: Greatly reduces damage when HP is full; 3x ATK for each cross of 5 Wood Orbs
+EN: Reduce damage taken by 75% when HP is full; 3x ATK for each cross of 5 Wood orbs
+

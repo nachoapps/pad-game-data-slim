@@ -1,0 +1,15 @@
+#5206 Blazing Hellhorse Goddess, Macha
+HP: 4010 ATK: 2455 RCV: 330 LB: 0
+AWK: 21,28,19,19,10,10,43,58,58
+SAWK: 
+
+# 9512/116 - Raging Shift
+Tags: REDUCE_DAMAGE,THE_SWITCH
+Game: Switches places with Leader Monster, use again to switch back; vastly reduces damage for 1 turn
+EN: Becomes Team leader, changes back when used again; For 1 turn, reduce damage taken by 75%
+
+# 13027/138 - Demented Augur
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 8x ATK when HP is 80% or less, 10x when 50% or less; 1.5x ATK & reduces damage with 7+ combos
+EN: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos
+

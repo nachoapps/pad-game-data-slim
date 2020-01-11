@@ -1,0 +1,15 @@
+#1656 Armored Blue Blade Knight, Arcline
+HP: 2308 ATK: 1214 RCV: 452 LB: 55
+AWK: 17,21,27,28
+SAWK: 52,43,61
+
+# 1675/116 - Holy Crest
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: Inflicts 100,000 damage on 1 enemy; 2.5x ATK for Healer Type for 2 turns
+EN: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Healer type
+
+# 1995/129 - Chivalry of the Yellow Globe
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & HP for Healer Type
+EN: 2x HP & ATK for Healer type
+

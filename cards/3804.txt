@@ -1,0 +1,15 @@
+#3804 Yiazmat
+HP: 5062 ATK: 1445 RCV: 53 LB: 30
+AWK: 28,28,28,28,21,19,21,43,48
+SAWK: 52,43,48
+
+# 8439/156 - Faith
+Tags: 
+Game: ATK increases by the number of [Resistance-Skill Bind] Awoken Skills in team for 2 turns
+EN: For 2 turns, increase ATK by 15% for each Resistance-Skill Bind awakening skill on the team
+
+# 8442/138 - Growing Threat
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK when HP is 20% or less; halves non-Dark Att. damage
+EN: 4x ATK when below 20% HP; Reduce damage taken from fire, water, wood, light att. by 50%
+

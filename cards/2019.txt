@@ -1,0 +1,15 @@
+#2019 School Gang Leader, Gigas
+HP: 4833 ATK: 1563 RCV: -200 LB: 0
+AWK: 1,14,22
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 2594/138 - Show Some Fighting Spirit!
+Tags: ENHANCED_ATK,RESOLVE
+Game: 1.5x ATK for Physical Type; may survive when HP is reduced to 0
+EN: 1.5x ATK for Physical type; May survive when HP is reduced to 0 (HP>70%)
+

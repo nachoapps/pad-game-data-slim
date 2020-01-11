@@ -1,0 +1,15 @@
+#1861 Hokuto Shinken Master, Kenshiro
+HP: 4905 ATK: 2170 RCV: 76 LB: 25
+AWK: 21,21,27,27,28,53,69,27,28
+SAWK: 46,44,21
+
+# 1835/116 - You Are Already Dead
+Tags: ENHANCED_ORBS,REDUCE_DEFENSE,EXTENDS_TIME
+Game: Voids enemies' DEF & increases Orb move time by 7 seconds for 1 turn; all Orbs enhanced
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, increase orb move time by 7 seconds; Enhance all orbs
+
+# 2499/138 - Hokuto Hyakuretsuken
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 2x ATK & RCV for Physical & Attacker Types; 8x ATK & reduces damage when 4+ Att. attack at once
+EN: 2x ATK & RCV for Physical, Attacker type; 8x ATK and reduce damage taken by 25% when matching 4 or more colors
+

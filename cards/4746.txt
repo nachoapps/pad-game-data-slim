@@ -1,0 +1,15 @@
+#4746 Mega Awoken Dragon Emperor, Sherias Roots
+HP: 5618 ATK: 2207 RCV: 298 LB: 20
+AWK: 21,28,19,10,10,45,32,32,32
+SAWK: 59,44,57
+
+# 11814/116 - Will of the Orbs
+Tags: ALL_ORBS_CONVERT,ORB_LOCK
+Game: Changes Orbs to all Attributes & Heal; locks Orbs of all Attributes & Heal
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 11817/138 - Dragon Soul Light
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Dragon Type, 2x ATK when HP is 50% or more; 4x ATK when 4+ Att. attack at once
+EN: 2x ATK when above 50% HP; 2x HP & ATK for Dragon type; 4x ATK when matching 4 or more colors
+

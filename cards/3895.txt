@@ -1,0 +1,15 @@
+#3895 Augite Dragon Emperor, Sherias Roots
+HP: 4318 ATK: 1657 RCV: 358 LB: 0
+AWK: 21,28,19,19,27,10,10,46,32
+SAWK: 
+
+# 5089/116 - Force of All Orbs 
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Inflicts 999 damage on 1 enemy; changes Orbs to all Attributes & Heal
+EN: Deal 999 fixed damage to an enemy; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 8888/138 - Dragon Senses
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 1.5x RCV for Dragon & Balanced Types; 3x ATK when attacking with 5 Att. (4+Heal), 5x ATK for 5+Heal
+EN: 3x ATK and 1.5x RCV for Balanced, Dragon type; 3x ATK when matching 5 or more colors (4+heal) up to 5x at 5 colors+heal
+

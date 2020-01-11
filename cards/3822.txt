@@ -1,0 +1,15 @@
+#3822 Pixel Y'shtola
+HP: 2608 ATK: 2105 RCV: 703 LB: 25
+AWK: 21,21,19,19,20,48,48,19
+SAWK: 43,54,55
+
+# 8529/116 - 'Tis time I arose!
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Dark Orbs to Water & Fire Orbs to Heal
+EN: Unlock all orbs; Change Dark orbs to Water orbs; Change Fire orbs to Heal orbs
+
+# 8532/138 - Fluid Aura
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: Halves damage with a cross of 5 Heal Orbs; ATK increases with 6+ linked Water Orbs, up to 10x
+EN: reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 7x ATK when matching 6 or more connected Water orbs up to 10x at 9 orbs
+

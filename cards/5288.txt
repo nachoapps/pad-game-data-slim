@@ -1,0 +1,15 @@
+#5288 gudetama rolled omelette
+HP: 3731 ATK: 1570 RCV: 387 LB: 30
+AWK: 10,10,13,13,13,21,28,33,38
+SAWK: 36,32,64
+
+# 13418/116 - gude gude power...
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top row to Light Orbs
+EN: Unlock all orbs; Change the top row to Light orbs
+
+# 13438/138 - pass me the soy sauce
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2x ATK for Light Att., 2x ATK when skills used; 3.5x ATK & reduces damage with 2+ Light combos
+EN: 2x ATK for Light Att.; 2x ATK on the turn a skill is used; 3.5x ATK and reduce damage taken by 25% when matching 2+ Light combos
+

@@ -1,0 +1,15 @@
+#1512 Distant Sea Talent, Ruka
+HP: 2170 ATK: 1364 RCV: 580 LB: 20
+AWK: 29,9,20,23,28,9,10,10
+SAWK: 
+
+# 190/116 - Double Water Guard
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Fire, Dark & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+EN: Change Fire, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+
+# 4297/138 - Guidance of the Flower Star
+Tags: ENHANCED_HP_ATK
+Game: 2.5x HP for Healer Type; 2.5x ATK with 2+ Heal combos
+EN: 2.5x HP for Healer type; 2.5x ATK when matching 2+ Heal combos
+

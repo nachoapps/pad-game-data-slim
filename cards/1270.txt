@@ -1,0 +1,15 @@
+#1270 Burning Maiden, Princess Valkyrie
+HP: 2508 ATK: 1289 RCV: 556 LB: 0
+AWK: 27,22,29
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 233/22 - Valkyrie's Soul
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Healer Type
+EN: 2.5x ATK for Healer type
+

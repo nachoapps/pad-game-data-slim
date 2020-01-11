@@ -1,0 +1,15 @@
+#1842 Wind Dragon Queen, Linthia
+HP: 3040 ATK: 1528 RCV: 300 LB: 0
+AWK: 27,19,21
+SAWK: 
+
+# 3595/71 - Natural Blossom
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to all Attributes, Heal & Poison
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs
+
+# 4210/138 - Wind Dragon's Wrath
+Tags: ENHANCED_ATK
+Game: 4x ATK when attacking with 5 Att. (4+Heal); 2x ATK when erasing Poison or Lethal Poison Orbs
+EN: 4x ATK when matching 5 or more colors (4+heal); 2x ATK when matching 3 or more connected Poison or Mortal Poison orbs
+

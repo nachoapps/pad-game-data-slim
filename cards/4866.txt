@@ -1,0 +1,10 @@
+#4866 Sinon's PGM Hecate II
+HP: 3553 ATK: 2578 RCV: 103 LB: 0
+AWK: 49,58,2
+SAWK: 
+
+# 11862/116 - The taste of the bullet that beats you.
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
+Game: Inflicts 100x ATK Lt Att. attack on 1 enemy, but halves HP; removes Orb locks, changes Orbs to all Attributes
+EN: Reduce HP by 50%; Deal 100x Light damage to an enemy; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+

@@ -1,0 +1,15 @@
+#5782 闇遊戯＆オシリスの天空竜
+HP: 5573 ATK: 3395 RCV: 498 LB: 25
+AWK: 52,56,53,68,26,26,26,26,26
+SAWK: 53,56,62
+
+# 15472/116 - 超電導波サンダー・フォース
+Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を全回復。 最上段横1列を闇に、最下段横1列を光ドロップに変化。
+EN: Remove all awoken skill binds; Change the top row to Dark orbs and change the bottom row to Light orbs
+
+# 15481/138 - 闘いの結末はカードだけが知っている！
+Tags: ENHANCED_HP_ATK
+Game: 光と闇を同時に4個以上つなげて消すと攻撃力が4倍、 2コンボ加算。闇属性のHPが2倍、攻撃力は5倍。
+EN: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
+

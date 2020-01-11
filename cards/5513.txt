@@ -1,0 +1,15 @@
+#5513 Gamayla [Dark Color]
+HP: 5260 ATK: 2320 RCV: 35 LB: 25
+AWK: 10,10,21,28,27,27,43,61,54
+SAWK: 48,60,27
+
+# 14267/116 - Draconic Rage
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Removes Orb locks, changes all Orbs to Water, Light & Dark Orbs; adds 2 combos for 1 turn
+EN: Unlock all orbs; Change all orbs to Water, Light, and Dark orbs; For 1 turn, increase combo count by 2
+
+# 14271/138 - I'm going to end this once and for all.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Dragon Type; halves damage with 7+ combos; 4x ATK & adds 1 combo when Wt, Lt & Dk attack at once
+EN: 3x ATK for Dragon type; Reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Water, Light, Dark at once
+

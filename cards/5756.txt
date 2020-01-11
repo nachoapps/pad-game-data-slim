@@ -1,0 +1,15 @@
+#5756 Kamen Rider Super-1
+HP: 3566 ATK: 2112 RCV: 380 LB: 0
+AWK: 10,10
+SAWK: 
+
+# 15389/116 - Change to Elec Hands!
+Tags: EXTENDS_TIME
+Game: 3x Orb move time for 1 turn; changes to Kamen Rider Super-1 [Elec Hands]
+EN: For 1 turn, 3x orb move time; Changes to [5757] for the duration of the dungeon
+
+# 15408/129 - Sincere Shaolin Fist: Two-Handed Chop
+Tags: ENHANCED_ATK_RCV
+Game: 6x ATK & 2x RCV for Attacker Type
+EN: 6x ATK and 2x RCV for Attacker type
+

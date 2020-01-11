@@ -1,0 +1,15 @@
+#2783 Rain
+HP: 3090 ATK: 1478 RCV: 305 LB: 0
+AWK: 14,22,22,14,21
+SAWK: 
+
+# 3954/116 - This is my duty as a knight!
+Tags: REDUCE_DAMAGE
+Game: Vastly reduces damage for 1 turn; other allies' skills charged by 1 turn
+EN: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
+
+# 4594/185 - Blazing Storm
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 2x HP & RCV and 4x ATK for Fire Att.; Orb move time +2 seconds
+EN: 4x ATK and 2x HP & RCV for Fire Att.; Increase orb movement time by 2 seconds
+

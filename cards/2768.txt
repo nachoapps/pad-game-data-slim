@@ -1,0 +1,15 @@
+#2768 Dark Knight, Cecil
+HP: 3498 ATK: 2603 RCV: 428 LB: 25
+AWK: 27,21,28,53,61,27,8,8,8
+SAWK: 52,43,27
+
+# 3939/71 - This is a fight for me and me alone
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to Light, Dark & Heal
+EN: Change all orbs to Heal, Light, and Dark orbs
+
+# 4560/138 - Darkness
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x ATK & RCV for Dark Att.; 4x ATK & reduces damage with 2+ Dark combos
+EN: [Board becomes 7x6] 2x ATK & RCV for Dark Att.; 4x ATK and reduce damage taken by 25% when matching 2+ Dark combos
+

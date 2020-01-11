@@ -1,0 +1,15 @@
+#4199 Joyful Countess, Runelis
+HP: 3505 ATK: 1845 RCV: 98 LB: 0
+AWK: 16,16,16,16,28,21
+SAWK: 
+
+# 10091/116 - Hurricane Jail
+Tags: EXTENDS_TIME
+Game: Changes Fire & Light Orbs to Wood Orbs; 1.5x Orb move time for 1 turn
+EN: Change Fire and Light orbs to Wood orbs; For 1 turn, 1.5x orb move time
+
+# 10094/138 - Evil Wind Conjuration
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Devil & Dragon Types; 2.5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 1.5x HP & ATK for Dragon, Devil type; 2.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

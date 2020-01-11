@@ -1,0 +1,15 @@
+#721 CoC Rage Barbarian
+HP: 2520 ATK: 870 RCV: 4 LB: 0
+AWK: 17,1
+SAWK: 
+
+# 175/116 - Light Enhancement
+Tags: ENHANCED_ATTACK
+Game: 1.5x Light Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
+EN: For 3 turns, 1.5x ATK for Light Att.; Charge all allies' skills by 1 turn
+
+# 54/138 - Light Power
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 1.5x ATK for Light Att.; Orb move time +2 seconds
+EN: 1.5x ATK for Light Att.; Increase orb movement time by 2 seconds
+

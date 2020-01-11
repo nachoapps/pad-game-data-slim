@@ -1,0 +1,15 @@
+#3521 Holy War Chronicler, Mito
+HP: 3015 ATK: 1263 RCV: 805 LB: 25
+AWK: 10,10,21,20,44,33,33
+SAWK: 59,57,47
+
+# 640/117 - Quick Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 7261/138 - Battleground Foresight
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 4.5x ATK for Healer Type; Orb move time +3 seconds
+EN: 4.5x ATK for Healer type; Increase orb movement time by 3 seconds
+

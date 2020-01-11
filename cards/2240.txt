@@ -1,0 +1,15 @@
+#2240 Demon Flamedragon Kagato
+HP: 2415 ATK: 2025 RCV: 130 LB: 50
+AWK: 21,27,14,14,14,21,22,10,10
+SAWK: 27,28,59
+
+# 1883/2 - Twin Pole Oni Flame Slash
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts a 200x ATK attack on 1 enemy
+EN: Deal 200x ATK damage to an enemy
+
+# 3422/129 - World-Destroying Conflagration Flash
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK & 1.5x HP for Fire Att.
+EN: 2.5x ATK and 1.5x HP for Fire Att.
+

@@ -1,0 +1,15 @@
+#5085 Emperor of Evil, M. Bison
+HP: 4020 ATK: 2520 RCV: 0 LB: 25
+AWK: 52,56,28,53,48,26,26,62,63
+SAWK: 48,50,57
+
+# 12785/116 - Ultimate Psycho Crusher
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
+Game: Changes the 2 bottom rows to Dark Orbs; inflicts 1,000 damage on 1 enemy five times
+EN: Change the 2nd row from the bottom and the bottom row to Dark orbs; Deal 1000 damage to an enemy 5 times
+
+# 12788/138 - Bow down before my Psycho Power!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 4+ linked Dark Orbs, up to 5x; 3x ATK & halves damage with 5+ linked non-Dark Orbs
+EN: 3x ATK when matching 4 or more connected Dark orbs up to 5x at 6 orbs; 3x ATK and reduce damage taken by 50% when matching 5 or more connected non Dark orbs
+

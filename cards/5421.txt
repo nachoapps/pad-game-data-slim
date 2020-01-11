@@ -1,0 +1,15 @@
+#5421 Azure Dracoblader of the Split Sky, Kyori
+HP: 3710 ATK: 3940 RCV: 130 LB: 15
+AWK: 10,10,21,28,53,60,60,60,33
+SAWK: 48,60,33
+
+# 14160/116 - Light Fog Dragon Roar
+Tags: EXTENDS_TIME
+Game: Creates 2 Water Orbs at random; Orb move time +1 second for 1 turn
+EN: Create 2 Water orbs; For 1 turn, increase orb move time by 1 second
+
+# 14168/138 - Blue Sky Shooting Star Strike
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Game: 3x ATK & halves damage with an L shape of 5 Water Orbs; 6x ATK & inflicts 50,000 damage with 6+ linked Orbs
+EN: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+

@@ -1,0 +1,15 @@
+#1435 青銅聖闘士・鳳凰星座の一輝
+HP: 1293 ATK: 2363 RCV: 464 LB: 0
+AWK: 22,10,10,21,22,26,26
+SAWK: 
+
+# 988/116 - 鳳翼天翔
+Tags: HEAL,RECOVER_BIND,FIXED_DAMAGE,HEAL_BIND_RECOVERY
+Game: 敵全体に10000の固定ダメージ。 最大HP50％分のHP回復、バインド状態を5ターン回復。
+EN: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
+
+# 1710/138 - 最後にはおまえをたおす!!
+Tags: ENHANCED_ATK_RCV
+Game: HP満タン時に攻撃力が4倍。 火を6個以上つなげて消すと攻撃力と回復力が2倍。
+EN: 4x ATK when HP is full; 2x ATK & RCV when matching 6 or more connected Fire orbs
+

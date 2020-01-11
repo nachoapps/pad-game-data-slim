@@ -1,0 +1,15 @@
+#1882 Double-Edged Blade Brave, Claymore
+HP: 2601 ATK: 1850 RCV: 300 LB: 35
+AWK: 21,21,27,27,30,27,27,68,52
+SAWK: 43,27,45
+
+# 1827/116 - Style Change - Fire
+Tags: ENHANCED_ATTACK,CHANGE_ATTRIBUTE
+Game: This ally's Att. changes to Fire for 1 turn; 1.5x ATK for Attacker Type for 1 turn
+EN: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
+
+# 2488/129 - Burning Fencing
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Fire Att.
+EN: 12x ATK for Fire Att.
+

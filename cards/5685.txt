@@ -1,0 +1,15 @@
+#5685 Draconic Songstress on Trombone, Rone
+HP: 3140 ATK: 2190 RCV: 745 LB: 15
+AWK: 56,28,19,19,60,60,36,36,36
+SAWK: 45,60,47
+
+# 15134/116 - Shiny Bell Raise
+Tags: ADD_COMBO,VOID_SKYFALLS
+Game: No Skyfall Combos for 10 turns; adds 1 combo for 10 turns
+EN: For 10 turns, no skyfall; For 10 turns, increase combo count by 1
+
+# 15137/138 - Eternal Dragon Players - Kyao & Kyari
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces dmg when Light & Dark attack at once; 4x ATK & reduces damage with an L shape of 5 Orbs
+EN: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+

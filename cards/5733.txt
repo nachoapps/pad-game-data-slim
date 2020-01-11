@@ -1,0 +1,15 @@
+#5733 ヴィーザル
+HP: 1583 ATK: 1533 RCV: 1503 LB: 0
+AWK: 21,21,28,19,19,19
+SAWK: 
+
+# 15357/116 - ストロングムーブ
+Tags: EXTENDS_TIME
+Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
+EN: For 1 turn, 3x orb move time; Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+
+# 15360/138 - ヴィージの風翼
+Tags: ENHANCED_HP_ATK
+Game: 神と攻撃タイプのHPが2倍、攻撃力は6倍。 木を9個以上つなげて消すと攻撃力が2倍、2コンボ加算。
+EN: 6x ATK and 2x HP for God, Attacker type; 2x ATK and increase combo by 2 when matching 9 or more connected Wood orbs at once
+

@@ -1,0 +1,15 @@
+#4606 Shivan Dragon
+HP: 3682 ATK: 1654 RCV: 17 LB: 0
+AWK: 21,21,34,33,33
+SAWK: 
+
+# 10829/116 - Shivan Fire
+Tags: ENHANCED_ATTACK,REDUCE_DEFENSE
+Game: Voids enemies' DEF for 1 turn; 3x ATK for Dragon Type for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, 3x ATK for Dragon type
+
+# 10832/138 - Master of the Mountains of Shiv
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Dragon Type; 2.5x ATK with 5+ linked Fire Orbs
+EN: 2x HP & ATK for Dragon type; 2.5x ATK when matching 5 or more connected Fire orbs
+

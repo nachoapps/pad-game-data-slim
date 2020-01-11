@@ -1,0 +1,15 @@
+#2860 最強コンビ・三橋＆伊藤
+HP: 3115 ATK: 1848 RCV: 55 LB: 0
+AWK: 25,25,26,26,21,25,25,26,26
+SAWK: 
+
+# 5053/116 - I'll become a delinquent from today on!!
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,SUICIDE
+Game: 10x ATK Light Att. attack on 1 enemy but HP to 1; 1.5x ATK for Attacker & Physical for 1 turn
+EN: Reduce HP to 1; Deal 10x Light damage to an enemy; For 1 turn, 1.5x ATK for Attacker and Physical types
+
+# 4748/138 - We are invincible!!
+Tags: ENHANCED_ATK_RCV
+Game: 3.5x ATK for Attacker Type, 3x RCV for Physical Type; 1.5x ATK with 5+ linked Light or Dark Orbs
+EN: 3.5x ATK for Attacker type; 3x RCV for Physical type; 1.5x ATK when matching 5 or more connected Light or Dark orbs
+

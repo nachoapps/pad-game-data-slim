@@ -1,0 +1,15 @@
+#218 Wood Skydragon, Horai
+HP: 1637 ATK: 1804 RCV: 250 LB: 0
+AWK: 16,21
+SAWK: 
+
+# 113/0 - Rock Breath
+Tags: MASSIVE_ATTACK
+Game: Inflicts 5x ATK Wood Mass Attack
+EN: Deal 5x ATK Wood damage to all enemies
+
+# 58/138 - Power of Gaia
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Wood Att.; Orb move time +2 seconds
+EN: 2x ATK for Wood Att.; Increase orb movement time by 2 seconds
+

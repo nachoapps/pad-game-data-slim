@@ -1,0 +1,15 @@
+#1432 青銅聖闘士・瞬
+HP: 1246 ATK: 762 RCV: 303 LB: 0
+AWK: 
+SAWK: 
+
+# 987/116 - ネビュラチェーン
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: 敵1体に10000の固定ダメージ。 2ターンの間、回復タイプの攻撃力が2倍。
+EN: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type
+
+# 1707/121 - ぼくはいかなければ…
+Tags: ENHANCED_ATK
+Game: 火属性と回復タイプの攻撃力が2.5倍。
+EN: 2.5x ATK for Healer type and Fire Att.
+

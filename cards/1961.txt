@@ -1,0 +1,15 @@
+#1961 Dark Cat Dragon, Black Nyadra
+HP: 1697 ATK: 1750 RCV: 99 LB: 0
+AWK: 21,18
+SAWK: 
+
+# 943/115 - Dragon Strength Spellflame
+Tags: ATTACK_AND_HEAL
+Game: Makes a 10x ATK Dark Att. attack on 1 enemy, plus the damage is recovered as HP
+EN: Deal 10x ATK Dark damage to an enemy and recover the amount as HP
+
+# 2600/138 - Cat Soul - Dark
+Tags: ENHANCED_ATK,RESOLVE
+Game: 3x ATK for Dark Att. when HP is 50% or less; may survive when HP is reduced to 0
+EN: 3x ATK for Dark Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
+

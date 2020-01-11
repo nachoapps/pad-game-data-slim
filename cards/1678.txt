@@ -1,0 +1,15 @@
+#1678 Survivor of Krypton, Supergirl (Comics)
+HP: 3885 ATK: 1101 RCV: 584 LB: 25
+AWK: 27,56,28,27,27,27,19,46,46
+SAWK: 46,52,27
+
+# 1688/116 - Arctic Breath
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the leftmost column into Lt, and the rightmost into Wt; allies' skills charged by 1 turn
+EN: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
+
+# 1937/138 - Maid of Might
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & RCV for Healer & Physical Types; 4.5x ATK when erasing 2 of these Orb types: Fire, Water or Light
+EN: 3x ATK & RCV for Physical, Healer type; 4.5x ATK when matching 2+ of Fire, Water, Light at once
+

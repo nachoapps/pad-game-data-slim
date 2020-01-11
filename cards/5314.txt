@@ -1,0 +1,15 @@
+#5314 影刻の時龍契士・ミル
+HP: 3160 ATK: 3258 RCV: 120 LB: 30
+AWK: 52,21,21,28,60,60,60,60,63
+SAWK: 60,43,48
+
+# 13588/116 - Overhaul
+Tags: HEAL,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
+Game: Removes Orb locks; fully recovers HP & Awoken Skill bind status
+EN: Unlock all orbs; Recover all HP; Remove all awoken skill binds
+
+# 13591/138 - Eternal Dragon Roar - Torvio Bull
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 1.5x to all stats for Dark Att., Orb move time +3 sec; 10x ATK & reduces damage with an L shape of 5 Dark Orbs
+EN: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+

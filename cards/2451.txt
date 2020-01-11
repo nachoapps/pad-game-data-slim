@@ -1,0 +1,15 @@
+#2451 Five Stars of Nanto, Fudo of the Mountains
+HP: 4448 ATK: 1318 RCV: 4 LB: 30
+AWK: 24,21,24,30,30,24,24,24,24
+SAWK: 52,55,43
+
+# 3563/116 - Demon Strike
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: Inflicts 30x ATK Wood Att. attack on 1 enemy; 2x ATK for Wood Att. for 4 turns
+EN: Deal 30x Wood damage to an enemy; For 4 turns, 2x ATK for Wood Att.
+
+# 4056/138 - Time to become a demon and fight!
+Tags: ENHANCED_ATK,RESOLVE
+Game: 4x ATK when HP is 20% or less; may survive when HP is reduced to 0
+EN: 4x ATK when below 20% HP; May survive when HP is reduced to 0 (HP>50%)
+

@@ -1,0 +1,15 @@
+#5188 Gore Magala
+HP: 5569 ATK: 2528 RCV: 413 LB: 25
+AWK: 10,10,21,28,19,43,48,21
+SAWK: 43,45,44
+
+# 13106/116 - Frenzied Breath
+Tags: ORB_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Fully recovers bind status (incl. Awoken); changes Jammers, Bombs & Poison Orbs to Dark Orbs
+EN: Remove all binds and awoken skill binds; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
+
+# 13109/138 - Black Eclipse Wyrm
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x ATK & RCV for Dark Att., Orb move time +2 seconds; 8x ATK & reduces damage when 4+ Att. attack at once
+EN: 8x ATK and reduce damage taken by 25% when matching 4 or more colors; 2x ATK & RCV for Dark Att.; Increase orb movement time by 2 seconds
+

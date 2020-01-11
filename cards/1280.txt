@@ -1,0 +1,15 @@
+#1280 Chika Makimura
+HP: 1402 ATK: 622 RCV: 309 LB: 0
+AWK: 
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 1521/121 - I'll do my best until the end
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & 1.5x HP for Healer Type
+EN: 2x ATK and 1.5x HP for Healer type
+

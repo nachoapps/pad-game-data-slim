@@ -1,0 +1,15 @@
+#1772 Flame Bowl Demon, Galbowl
+HP: 3095 ATK: 997 RCV: 4 LB: 0
+AWK: 
+SAWK: 
+
+# 1672/116 - Red Crest
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: Inflicts 100,000 damage on 1 enemy; 2.5x ATK for Attacker Type for 2 turns
+EN: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Attacker type
+
+# 2442/61 - Three Tastes in One - Fr, Wd & Dk
+Tags: ENHANCED_ATK
+Game: 2.5x ATK when Fire, Wood & Dark attack at once
+EN: 2.5x ATK when matching Fire, Wood, Dark at once
+

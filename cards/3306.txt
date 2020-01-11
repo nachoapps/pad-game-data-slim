@@ -1,0 +1,15 @@
+#3306 Glauca
+HP: 3404 ATK: 1615 RCV: 334 LB: 30
+AWK: 26,26,26,21,21,19,19,46,47
+SAWK: 52,46,47
+
+# 6395/161 - Abandon your prayers.
+Tags: NEW_GRAVITY
+Game: Inflicts damage equal to 25% of enemies' max HP
+EN: Deal damage equal to 25% of enemies' max HP
+
+# 6396/186 - Glaive of Regicide
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Game: [7x6 board]; 5x ATK for Balanced & Devil Types
+EN: [Board becomes 7x6] 5x ATK for Balanced, Devil type
+

@@ -1,0 +1,15 @@
+#4758 高杉晋助＆ハーデス衣装
+HP: 3820 ATK: 2108 RCV: 303 LB: 25
+AWK: 10,10,21,21,28,19,43,43,45
+SAWK: 32,48,55
+
+# 11425/116 - I just break stuff
+Tags: REDUCE_DEFENSE,ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Voids enemies' DEF for 1 turn; removes Orb locks, changes Orbs to all Attributes
+EN: For 1 turn, reduce enemies' defense by 100%; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 11432/138 - Sleep tight in hell
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 4+ combos, up to 8x; halves Fire, Light & Dark Att. damage
+EN: 3x ATK when 4 or more combos up to 8x at 9 combos; Reduce damage taken from fire, light, dark att. by 50%
+

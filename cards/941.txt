@@ -1,0 +1,15 @@
+#941 サーティワン・ダブエメリット
+HP: 1495 ATK: 1053 RCV: 206 LB: 0
+AWK: 1,6
+SAWK: 
+
+# 184/116 - Water&Wood Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Water Orbs & Jammers to Wood Orbs, and Heal Orbs & Poison Orbs to Water Orbs
+EN: Change Water, Jammer orbs to Wood orbs; Change Heal, Poison, and Mortal Poison orbs to Water orbs
+
+# 831/17 - 抹茶
+Tags: REDUCE_DAMAGE
+Game: 木属性の敵から受けるダメージを半減。
+EN: Reduce damage taken from wood att. by 50%
+

@@ -1,0 +1,15 @@
+#4822 トリプルフェイスの男・安室透
+HP: 3955 ATK: 1798 RCV: 448 LB: 30
+AWK: 10,10,21,28,43,43,55
+SAWK: 60,21,44
+
+# 11692/116 - Because I'm a private eye...detective...
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: Voids Attribute absorption for 1 turn; changes Jammers & Wood Orbs to Light and Fire & Poison Orbs to Dark
+EN: For 1 turn, bypass att. absorb shield effects; Change Wood, Jammer orbs to Light orbs; Change Fire, Poison, and Mortal Poison orbs to Dark orbs
+
+# 11699/138 - Would you please get out of my Japan?...
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Light & Dark Att., Orb move time +3 seconds; ATK increases with 3+ combos, up to 8x
+EN: 1.5x all stats for Light, Dark Att.; Increase orb movement time by 3 seconds; 2x ATK when 3 or more combos up to 8x at 9 combos
+

@@ -1,0 +1,15 @@
+#2093 Phoenix Rider
+HP: 1145 ATK: 869 RCV: 218 LB: 0
+AWK: 
+SAWK: 
+
+# 1890/3 - Immortal Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 4 turns
+EN: For 4 turns, reduce damage taken by 30%
+
+# 2944/138 - Blue Flame Sky Circle
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK for Fire Att. & 1.5x RCV for Water Att.; 1.5x ATK when skills used
+EN: 2x ATK for Fire Att.; 1.5x RCV for Water Att.; 1.5x ATK on the turn a skill is used
+

@@ -1,0 +1,15 @@
+#5185 Black Dragon, Fatalis
+HP: 4300 ATK: 4000 RCV: 60 LB: 25
+AWK: 10,10,56,28,48,48,60,60,60
+SAWK: 21,55,54
+
+# 13080/116 - Malefic Dragon's Roar
+Tags: REMOVE_LOCK
+Game: Removes all Orb locks; creates 2 L shapes of Dark Orbs
+EN: Unlock all orbs; Create L shape of Dark orbs with center at the top row and the far right column; Create L shape of Dark orbs with center at the bottom row and the far left column
+
+# 13083/138 - Legendary Black Dragon
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x HP & 5x ATK for Dark Att., Orb move time +2 seconds; 3x ATK & reduces damage with an L shape of 5 Dark Orbs
+EN: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+

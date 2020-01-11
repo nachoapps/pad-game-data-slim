@@ -1,0 +1,15 @@
+#2852 腐乱犬・石島土門
+HP: 3355 ATK: 1480 RCV: 58 LB: 35
+AWK: 26,26,26,26,21
+SAWK: 26,58,52
+
+# 5041/116 - Who wanna die come here!!
+Tags: ENHANCED_ATTACK
+Game: Creates 4 Dark Orbs at random; 2x ATK for Physical Type for 1 turn
+EN: Create 4 Dark orbs; For 1 turn, 2x ATK for Physical type
+
+# 4735/138 - Iron Ball
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Physical Type when skills used; reduces damage
+EN: 3x ATK for Physical type on the turn a skill is used; Reduce damage taken by 20%
+

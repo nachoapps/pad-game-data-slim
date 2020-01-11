@@ -1,0 +1,15 @@
+#529 最強装備・からくり士
+HP: 2465 ATK: 1268 RCV: 592 LB: 0
+AWK: 9,20,21
+SAWK: 
+
+# 447/116 - Rainbow Magnet
+Tags: STOP_TIME,RECOVER_BIND
+Game: Move Orbs freely for 7 seconds; bind status is reduced by 4 turns
+EN: Reduce binds by 4 turns; Freely move orbs for 7 seconds
+
+# 97/13 - Regenerator
+Tags: AUTO_HEAL
+Game: Heals HP equal to 2x RCV when matching Orbs
+EN: 2x RCV additional heal when matching orbs
+

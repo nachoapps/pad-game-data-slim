@@ -1,0 +1,15 @@
+#5279 Great Witch Zela Kitty
+HP: 4000 ATK: 1904 RCV: 676 LB: 25
+AWK: 10,10,21,21,28,19,43,48,48
+SAWK: 43,48,54
+
+# 13386/116 - Magical Storm
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_ATT_ABSORBS
+Game: Removes Orb locks & changes Orbs to Wood & Heal Orbs; voids Attribute absorption for 1 turn
+EN: Unlock all orbs; Change all orbs to Wood and Heal orbs; For 1 turn, bypass att. absorb shield effects
+
+# 13394/138 - Symbol of Friendship
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x to all stats for Wood Att., 6x ATK with 6+ combos; adds 1 combo with 9+ linked Wood Orbs
+EN: 2x all stats for Wood Att.; 6x ATK when 6 or more combos; Increase combo by 1 when matching 9 or more connected Wood orbs at once
+

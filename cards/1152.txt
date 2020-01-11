@@ -1,0 +1,15 @@
+#1152 Kerokerokeroppi
+HP: 1364 ATK: 536 RCV: 69 LB: 0
+AWK: 
+SAWK: 
+
+# 923/35 - Kerokero Attack!
+Tags: ATTACK_AND_HEAL
+Game: Inflicts 5x ATK attack on 1 enemy; recovers the damage as HP
+EN: Deal 5x ATK damage to an enemy and recover the same amount as HP
+
+# 1232/138 - The Power of Courage
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 3x ATK & RCV for Water Att.; Orb move time +3 seconds
+EN: 3x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds
+

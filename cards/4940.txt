@@ -1,0 +1,15 @@
+#4940 Kamen Rider Genm Zombie Action Gamer
+HP: 3710 ATK: 1723 RCV: 120 LB: 30
+AWK: 21,28,9,9,9,9,9,10,10
+SAWK: 27,50,55
+
+# 12153/116 - I... shall never perish!
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top row to Dark Orbs & the bottom row to Jammers
+EN: Unlock all orbs; Change the top row to Dark orbs and change the bottom row to Jammer orbs
+
+# 12159/138 - Dangerous Critical Strike
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 3x ATK for Dark Att.; 3x ATK with 1 Jammer combo, 4x with 2+ combos
+EN: 3x ATK and 1.5x HP for Dark Att.; 3x ATK when matching 1 Jammer combos, up to 4x at 2 Jammer combos
+

@@ -1,0 +1,15 @@
+#3576 Seventh Dragon Caller, Shapeshifter Wallace
+HP: 580 ATK: 2200 RCV: 910 LB: 20
+AWK: 19,19,19,21,28,43,29,29
+SAWK: 29,21,52
+
+# 7442/116 - Chameleonic Vision
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Light Orbs to Wood & Water Orbs to Poison; other allies' skills charged by 1 turn
+EN: Change Light orbs to Wood orbs; Change Water orbs to Poison orbs; Charge all allies' skills by 1 turn
+
+# 7445/138 - Seventh Dragon Awakening
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV with 2 Wood combos, 3x ATK with 3+ combos; 5x ATK for each cross of 5 Poison or Lethal Poison Orbs
+EN: 2x ATK & RCV when matching 2 Wood combos, up to 3x at 3 Wood combos; 5x ATK for each cross of 5 Poison, Mortal Poison orbs
+

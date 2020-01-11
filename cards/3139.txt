@@ -1,0 +1,15 @@
+#3139 魔界の王子・アシュラマン
+HP: 2853 ATK: 1970 RCV: 65 LB: 30
+AWK: 20,21,19,27,27,27,30
+SAWK: 52,27,44
+
+# 5357/116 - No escape!
+Tags: ENHANCED_ATTACK,ORB_CONVERT
+Game: 1.5x ATK for Devil Types for 1 turn; changes Jammers & Poison Orbs to Water Orbs
+EN: For 1 turn, 1.5x ATK for Devil type; Change Jammer, Poison, and Mortal Poison orbs to Water orbs
+
+# 5855/138 - Asura Buster
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats, but unable to erase 3 Orbs or less; 2x ATK when attacking with 3 Att. (3x ATK for 4+ Att.)
+EN: [Unable to erase 3 orbs or less] 1.5x all stats; 2x ATK when matching 3 or more colors up to 3x at 4 colors
+

@@ -1,0 +1,15 @@
+#2571 Holy Radiant Sky Goddess, Hikari
+HP: 2305 ATK: 1235 RCV: 641 LB: 100
+AWK: 10,10,20,21,17
+SAWK: 57,31,36
+
+# 1884/117 - Gleaming Amaterasu Ring
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 10x RCV in HP, plus bind status is reduced by 2 turns
+EN: Recover 10x RCV as HP; Reduce binds by 2 turns
+
+# 4308/138 - Oracle of the Radiant God
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x ATK & HP for Healer Type; 2x RCV for Healer Type when skills used
+EN: 2x HP & ATK for Healer type; 2x RCV for Healer type on the turn a skill is used
+

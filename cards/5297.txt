@@ -1,0 +1,15 @@
+#5297 Experimental Poison Demon Scientist, Gaslowe
+HP: 4298 ATK: 2350 RCV: 300 LB: 20
+AWK: 10,10,21,28,19,19,72,27,27
+SAWK: 27,54,48
+
+# 13784/20 - Demon Liquid
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Heal Orbs to Poison and Light Orbs to Dark
+EN: Change Heal orbs to Poison orbs; Change Light orbs to Dark orbs
+
+# 13790/138 - Devil's Detox
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x to all stats for Devil Type, voids Poison damage; 8x ATK with 5+ linked Poison or Lethal Poison Orbs
+EN: [Disable Poison & Mortal Poison orb effects] 8x ATK when matching 5 or more connected Poison or Mortal Poison orbs; 2x all stats for Devil type
+

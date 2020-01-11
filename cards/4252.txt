@@ -1,0 +1,15 @@
+#4252 Awoken Acala
+HP: 3840 ATK: 1808 RCV: 210 LB: 0
+AWK: 19,19,19,21,28,30,30,19,21
+SAWK: 
+
+# 10525/116 - Mantra Luckbringer
+Tags: ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes the second row from the bottom to Wood Orbs
+EN: For 1 turn, increase combo count by 2; Change the 2nd row from the bottom to Wood orbs
+
+# 10534/138 - Secret Seal of Salvation
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 1.5x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood Orbs
+EN: [No skyfall] 1.5x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood orbs
+

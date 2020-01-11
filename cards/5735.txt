@@ -1,0 +1,15 @@
+#5735 金靴の武術神・ヴィーザルの希石
+HP: 150 ATK: 150 RCV: 150 LB: 0
+AWK: 
+SAWK: 
+
+# 15357/116 - ストロングムーブ
+Tags: EXTENDS_TIME
+Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
+EN: For 1 turn, 3x orb move time; Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+
+# 10628/129 - Gem
+Tags: 
+Game: A special Evo Material you can obtain through [Monster Exchange]
+EN: 
+

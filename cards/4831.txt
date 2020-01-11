@@ -1,0 +1,15 @@
+#4831 Sweet Tooth Phantom Dragon King, Zaerog∞
+HP: 5084 ATK: 1933 RCV: 24 LB: 30
+AWK: 10,10,21,28,27,27,27,19,64
+SAWK: 27,43,54
+
+# 11730/116 - Rising Sweets
+Tags: LINE_ORBS_CONVERTER,ORB_LOCK
+Game: Changes the top row to Dark Orbs & the bottom row to Wood Orbs; locks Orbs of all Attributes & Heal
+EN: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 11733/138 - This is not sweet enough
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 10x ATK with exactly 7 combos; 5x ATK when 5 Orbs or less remain on the board
+EN: [No skyfall] 10x ATK when exactly 7 combos; 5x ATK when there are 5 or fewer orbs remaining
+

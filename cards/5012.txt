@@ -1,0 +1,15 @@
+#5012 Shinji Matou
+HP: 3745 ATK: 1543 RCV: 285 LB: 30
+AWK: 23,23,23,21,28,28,62,53,63
+SAWK: 23,50,52
+
+# 12515/116 - You're not getting it at all, as always!
+Tags: ADD_COMBO,ORB_LOCK
+Game: Adds 1 combo for 1 turn; all Orbs locked
+EN: For 1 turn, increase combo count by 1; Lock all orbs
+
+# 12518/138 - The teachings of Matou were all mine!
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 5x ATK when HP is full, Orb move time +2 seconds; 2x ATK & RCV for Water Att.
+EN: 5x ATK when HP is full; 2x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds
+

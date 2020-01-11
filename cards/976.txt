@@ -1,0 +1,15 @@
+#976 Green Pirate Dragon, Captain Kidd
+HP: 3138 ATK: 1514 RCV: 198 LB: 0
+AWK: 16,21
+SAWK: 
+
+# 687/116 - Verdant Sea Dragon Broadside
+Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
+Game: Reduces damage for 1 turn; inflicts 20x ATK Wood Att. attack on 1 enemy
+EN: For 1 turn, reduce damage taken by 30%; Deal 20x ATK Wood damage to an enemy
+
+# 840/96 - Green Sea King's Jolly Roger
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Wood Att. when HP is 50% or more
+EN: 2.5x ATK for Wood Att. when above 50% HP
+

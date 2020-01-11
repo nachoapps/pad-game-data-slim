@@ -1,0 +1,15 @@
+#3296 Warrior of Light, Onion Knight
+HP: 3848 ATK: 2110 RCV: 310 LB: 25
+AWK: 27,27,27,28,28,21,11,12,13
+SAWK: 43,27,52
+
+# 6347/116 - Don't underestimate me.
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,EXTENDS_TIME
+Game: Changes Wood Orbs to Fire & Dark Orbs to Light; 1.5x Orb move time for 3 turns
+EN: Change Wood orbs to Fire orbs; Change Dark orbs to Light orbs; For 3 turns, 1.5x orb move time
+
+# 6353/138 - Blade Torrent
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 6x ATK with 3+ Fire+Fire+Light combos; 3x ATK with 4+ combos, Orb move time +2 seconds
+EN: 6x ATK when matching Fire+Fire+Light; 3x ATK when 4 or more combos; Increase orb movement time by 2 seconds
+

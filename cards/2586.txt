@@ -1,0 +1,15 @@
+#2586 Wind Keeper
+HP: 1753 ATK: 1062 RCV: 16 LB: 0
+AWK: 
+SAWK: 
+
+# 1615/117 - Soul Cure
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 30% of maximum HP, plus bind status is reduced by 3 turns
+EN: Recover 30% of max HP; Reduce binds by 3 turns
+
+# 4254/129 - Aero Mist
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Machine Type
+EN: 1.5x all stats for Machine type
+

@@ -1,0 +1,15 @@
+#3464 花木九里虎
+HP: 3673 ATK: 1755 RCV: 58 LB: 0
+AWK: 22,22,22,21,21
+SAWK: 
+
+# 7085/116 - Guess I don't have a choice
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Recovers 50% of max HP; changes the top row to Fire Orbs
+EN: Recover 50% of max HP; Change the top row to Fire orbs
+
+# 7088/138 - Someone's in a good mood today
+Tags: ENHANCED_ATK,RESOLVE,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 5x ATK for Fire Att.,; may survive when HP is reduced to 0
+EN: [No skyfall] 5x ATK for Fire Att.; May survive when HP is reduced to 0 (HP>50%)
+

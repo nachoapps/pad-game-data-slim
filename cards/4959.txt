@@ -1,0 +1,15 @@
+#4959 ぬらりひょん
+HP: 4138 ATK: 2020 RCV: 260 LB: 25
+AWK: 10,10,21,21,28,19,60,60,60
+SAWK: 43,60,48
+
+# 12271/116 - Judgment Wave
+Tags: REDUCE_DEFENSE,MENACE
+Game: Voids enemies' DEF for 1 turn; delays enemies' next move for 2 turns
+EN: For 1 turn, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
+
+# 12274/138 - Yo-kai Council's Supervisor
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: 3x ATK for Devil Type, 3x ATK with 3+ combos; bonus attack equal to 100x ATK when matching Orbs
+EN: 3x ATK for Devil type; 3x ATK when 3 or more combos; 100x ATK additional damage when matching orbs
+

@@ -1,0 +1,15 @@
+#5765 Kamen Rider Zero-One
+HP: 3901 ATK: 1842 RCV: 386 LB: 25
+AWK: 52,28,21,21,21,25,25,25,25
+SAWK: 57,55,62
+
+# 15425/116 - There's only one person who can stop you. Me! 
+Tags: REDUCE_DAMAGE
+Game: ATK increases & reduces damage by the number of [Skill Boost] Awoken Skills in team for 1 turn
+EN: For 1 turn, reduce damage taken by 3% for each Skill Boost awakening skill on the team; For 1 turn, increase ATK by 10% for each Skill Boost awakening skill on the team
+
+# 15428/138 - Rising Case Strash 
+Tags: ENHANCED_ATK_RCV,ADDITIONAL_ATTACK
+Game: [Orb move time: 5 sec], 3x ATK & 2x RCV for Lt & Dk Att.; 6x ATK & 50,000 damage with 6+ linked Light Orbs
+EN: [Fixed 5 second movetime] 3x ATK and 2x RCV for Light, Dark Att.; 6x ATK when matching 6 or more connected Light orbs; 50000 additional damage when matching 6 or more Light orbs
+

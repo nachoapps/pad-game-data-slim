@@ -1,0 +1,15 @@
+#5499 永遠のリュウセイ・カイザー
+HP: 3905 ATK: 1618 RCV: 122 LB: 30
+AWK: 21,28,28,60,60,60,11,11,11
+SAWK: 52,45,54
+
+# 14243/116 - 永遠に眠れ、フォーエバー!!
+Tags: EXTENDS_TIME,ORB_LOCK
+Game: 1ターンの間、ドロップ操作時間が2倍。 全ドロップをロック。
+EN: For 1 turn, 2x orb move time; Lock all orbs
+
+# 14246/138 - 不敗の流星
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: 【落ちコンなし】火の5個L字消しで、攻撃力が5倍。 パズル後の残りドロップ数が6個以下で攻撃力が4倍。
+EN: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in L shape
+

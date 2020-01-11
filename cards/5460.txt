@@ -1,0 +1,15 @@
+#5460 ココ・フェルケナ
+HP: 4023 ATK: 1760 RCV: 410 LB: 25
+AWK: 10,10,21,21,28,43,60,60,60
+SAWK: 56,48,55
+
+# 14059/176 - アリス!!
+Tags: 
+Game: 3×3の正方形に水ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
+EN: Create square of Water orbs with center at the 2nd row from the top and the 2nd column from the left
+
+# 14063/138 - 一緒に生きていくコトなら―出来るよ
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 水属性の攻撃力と回復力が2.5倍。ドロップ操作を2秒延長。 水を5個以上つなげて消すとダメージを軽減、攻撃力が6倍。
+EN: 2.5x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+

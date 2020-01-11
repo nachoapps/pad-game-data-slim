@@ -1,0 +1,15 @@
+#5103 Ken
+HP: 3463 ATK: 1409 RCV: 386 LB: 30
+AWK: 10,10,21,28,19,27,27,43,63
+SAWK: 27,43,60
+
+# 12860/116 - Shoryuken
+Tags: ADD_COMBO
+Game: Changes the 2nd column from the left to Fire Orbs; adds 1 combo for 1 turn
+EN: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1
+
+# 12863/138 - Hey, I was waiting for you!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Fire Att., 2x ATK when skills used; ATK increases with 4+ combos, up to 4x
+EN: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 2x ATK when 4 or more combos up to 4x at 6 combos
+

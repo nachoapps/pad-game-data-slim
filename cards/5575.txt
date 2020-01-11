@@ -1,0 +1,15 @@
+#5575 Blood-Starved Savage Swordsman, Genjuro Kibagami
+HP: 3470 ATK: 2495 RCV: 190 LB: 25
+AWK: 56,56,19,28,69,48,48,48,63
+SAWK: 53,57,52
+
+# 14572/116 - Reverse Five Flash Rip
+Tags: ENHANCED_ORBS
+Game: Creates 15 Dark Orbs at random; Dark Orbs enhanced
+EN: Create 15 Dark orbs; Enhance all Dark orbs
+
+# 14578/138 - You damn fool!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Dark Att., halves dmg when HP is 80% or more; 5x ATK & adds 1 combo with 6+ linked Dark Orbs
+EN: 3x ATK for Dark Att.; Reduce damage taken by 50% when above 80% HP; 5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once
+

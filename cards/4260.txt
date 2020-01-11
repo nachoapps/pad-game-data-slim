@@ -1,0 +1,15 @@
+#4260 Double-Drum Demon Princess, Raijin
+HP: 3685 ATK: 2233 RCV: 553 LB: 0
+AWK: 27,27,21,19,19,28,27,28,44
+SAWK: 
+
+# 6895/116 - Purging Thunderdrums
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Orbs to all Attributes & Heal
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 9949/138 - Secret Thunder Technique
+Tags: ENHANCED_ATK
+Game: ATK increases when attacking with 3+ Att., up to 7x; 3x ATK for each cross of 5 Light Orbs
+EN: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
+

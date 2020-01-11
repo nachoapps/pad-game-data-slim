@@ -1,0 +1,15 @@
+#2818 Go-Home Club's Tomboy, Thumbelina
+HP: 1415 ATK: 1613 RCV: 504 LB: 0
+AWK: 16,10,10,28,21,27
+SAWK: 
+
+# 3997/116 - Youth Light
+Tags: RECOVER_BIND,FIXED_DAMAGE
+Game: Bind status reduced by 2 turns; inflicts 99 damage on 1 enemy
+EN: Reduce binds by 2 turns; Deal 99 fixed damage to an enemy
+
+# 4661/129 - Damn, I'm gonna be late!
+Tags: ENHANCED_HP_ATK
+Game: 1.5x ATK & HP for Healer & Attacker Types
+EN: 1.5x HP & ATK for Healer, Attacker type
+

@@ -1,0 +1,15 @@
+#955 AB Yellow Bird Chuck
+HP: 1855 ATK: 973 RCV: 86 LB: 0
+AWK: 17,1
+SAWK: 
+
+# 159/9 - Attack Stance - Light
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Light Orbs
+EN: Change Heal orbs to Light orbs
+
+# 852/96 - Speedster
+Tags: ENHANCED_ATK
+Game: 2x ATK for Light Att. when HP is 50% or more
+EN: 2x ATK for Light Att. when above 50% HP
+

@@ -1,0 +1,15 @@
+#4427 Flowerdragon King Brachys
+HP: 3828 ATK: 1581 RCV: 346 LB: 25
+AWK: 10,10,21,21,28,11,12,13,61
+SAWK: 54,55,48
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 10685/138 - Chief Spirit of the Flowerdragon
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 2x ATK & RCV for Wood Att., Orb move time +3 seconds; ATK increases with 5+ combos, up to 6x
+EN: 2x ATK & RCV for Wood Att.; Increase orb movement time by 3 seconds; 3x ATK when 5 or more combos up to 6x at 8 combos
+

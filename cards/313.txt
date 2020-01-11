@@ -1,0 +1,15 @@
+#313 Wood Ice Ogre
+HP: 2000 ATK: 875 RCV: 8 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 165/42 - Rock Strike
+Tags: ATTRIBUTE_ATTACK
+Game: Inflicts 35,000 Wood damage attack on Water Att. enemies
+EN: Deal 35000 Wood damage to all Water Att. enemies
+
+# 63/14 - Resolve
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

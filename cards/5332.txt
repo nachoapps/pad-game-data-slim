@@ -1,0 +1,15 @@
+#5332 Draconic Songstress on Flute, Eva
+HP: 5483 ATK: 2260 RCV: 601 LB: 15
+AWK: 10,10,56,21,53,19,59,44,61
+SAWK: 31,32,33
+
+# 13529/116 - Fresh Color Trill
+Tags: GUARD_STANCE,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks, changes Orbs to all Attributes; changes the rightmost column to Heal Orbs
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Change the far right column to Heal orbs
+
+# 13532/138 - Eternal Dragon Player - Soa
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3x ATK & RCV for Wood Att., Orb move time +2 seconds; 5x ATK & reduces damage when 4+ Att. attack at once
+EN: 3x ATK & RCV for Wood Att.; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+

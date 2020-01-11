@@ -1,0 +1,15 @@
+#3080 Five Stars of Nanto, Shuren of the Flames
+HP: 2658 ATK: 2193 RCV: 15 LB: 30
+AWK: 14,14,14,21,30,30,14,14,60
+SAWK: 52,54,43
+
+# 5265/116 - You and your ambition burn to ashes!
+Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER
+Game: Changes the rightmost column to Fire Orbs; Fire Orbs enhanced
+EN: Change the far right column to Fire orbs; Enhance all Fire orbs
+
+# 5700/138 - I'll give my life to stop you!!
+Tags: ENHANCED_ATK
+Game: 2.5x ATK with 2+ Fire combos; 1.5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2.5x ATK when matching 2+ Fire combos; 1.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

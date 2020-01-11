@@ -1,0 +1,15 @@
+#3183 Flame Spore Crusher, Hammer Troll
+HP: 3914 ATK: 1310 RCV: 7 LB: 0
+AWK: 22,21,21,21
+SAWK: 
+
+# 5425/116 - Ignis Enhancement
+Tags: ENHANCED_ATTACK
+Game: 2x ATK for Fire Att. for 3 turns; other allies' skills charged by 1 turn
+EN: For 3 turns, 2x ATK for Fire Att.; Charge all allies' skills by 1 turn
+
+# 68/14 - Perseverance
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>50%)
+

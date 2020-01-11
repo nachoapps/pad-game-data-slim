@@ -1,0 +1,15 @@
+#3440 本田吾郎
+HP: 1738 ATK: 782 RCV: 7 LB: 0
+AWK: 
+SAWK: 
+
+# 7005/116 - I'm taking on the baseball world!
+Tags: FIXED_DAMAGE
+Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd row from the bottom to Fire Orbs
+EN: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
+
+# 7008/157 - I'm gonna play on that field!!
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for each cross of 5 Fire or Wood Orbs
+EN: 2.5x ATK for each cross of 5 Fire, Wood orbs
+

@@ -1,0 +1,15 @@
+#4851 Toyotomi Hideyoshi
+HP: 3275 ATK: 1390 RCV: 293 LB: 0
+AWK: 21,21,43,43,43
+SAWK: 
+
+# 11768/116 - Mysterious Changing Orbs
+Tags: ALL_ORBS_CONVERT,ORB_LOCK
+Game: Changes all Orbs to Water & Light Orbs; Water & Light Orbs locked
+EN: Change all orbs to Water and Light orbs; Lock Water and Light orbs
+
+# 11771/138 - Five-Seven Paulownia Protective Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
+Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Light & Water attack at once
+EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Light+Water
+

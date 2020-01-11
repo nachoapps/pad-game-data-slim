@@ -1,0 +1,15 @@
+#1493 サタンマリア
+HP: 1392 ATK: 1003 RCV: 112 LB: 0
+AWK: 
+SAWK: 
+
+# 1622/116 - 超悪魔の魔炎
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 敵1体に攻撃力×200倍の火属性攻撃。 2ターンの間、悪魔タイプの攻撃力が3倍。
+EN: Deal 200x Fire damage to an enemy; For 2 turns, 3x ATK for Devil type
+
+# 1773/15 - マリアアイ
+Tags: EXTEND_TIME
+Game: ドロップ操作を5秒延長。
+EN: Increase orb movement time by 5 seconds
+

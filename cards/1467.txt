@@ -1,0 +1,15 @@
+#1467 Amaterasu Ohkami TAMADRA
+HP: 1328 ATK: 607 RCV: 597 LB: 0
+AWK: 10,10
+SAWK: 
+
+# 40/117 - Shower of Healing
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status
+EN: Recover all HP; Remove all binds
+
+# 4321/13 - miracle
+Tags: AUTO_HEAL
+Game: Heals 5x RCV in HP when matching Orbs
+EN: 5x RCV additional heal when matching orbs
+

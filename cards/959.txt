@@ -1,0 +1,15 @@
+#959 AB Black Bird Bomb
+HP: 883 ATK: 1560 RCV: 0 LB: 0
+AWK: 18,12
+SAWK: 
+
+# 193/116 - Double Dark Guard
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Fire, Light & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+EN: Change Fire, Light, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+
+# 854/41 - Exasperating Explosion
+Tags: COUNTERATTACK
+Game: Massive Dark counterattack in rare cases
+EN: 25% chance to counterattack with 10x Dark damage
+

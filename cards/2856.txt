@@ -1,0 +1,15 @@
+#2856 魔装ザガン・練白龍
+HP: 2613 ATK: 1678 RCV: 173 LB: 35
+AWK: 19,19,19,21,19,47
+SAWK: 43,47,52
+
+# 5047/116 - I'll fulfill my goal.
+Tags: ORB_CONVERT,EXTENDS_TIME
+Game: Changes Poison & Light Orbs to Wood Orbs; extends Orb move time by 1 second for 2 turns
+EN: Change Light, Poison, and Mortal Poison orbs to Wood orbs; For 2 turns, 1.5x orb move time
+
+# 4742/119 - Zaug Al-Adhra
+Tags: ENHANCED_ATK
+Game: ATK increases when erasing 5+ linked Wood Orbs, up to a maximum of 3x
+EN: 2.5x ATK when matching 5 or more connected Wood orbs up to 3x at 6 orbs
+

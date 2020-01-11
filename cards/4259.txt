@@ -1,0 +1,15 @@
+#4259 Thunderous Demon Princess, Raijin
+HP: 4885 ATK: 2033 RCV: 23 LB: 0
+AWK: 27,27,21,19,19,28,10,10
+SAWK: 
+
+# 6895/116 - Purging Thunderdrums
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Orbs to all Attributes & Heal
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 9946/138 - Cloud Barrier of the Amber Princess
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x ATK & RCV for Attacker Type, Orb move time +2 seconds; 6x ATK & reduces damage with 4+ Att.
+EN: 2x ATK & RCV for Attacker type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
+

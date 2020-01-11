@@ -1,0 +1,15 @@
+#5021 Servant, Assassin
+HP: 3559 ATK: 1942 RCV: 43 LB: 30
+AWK: 10,10,21,28,28,28,27,27,63
+SAWK: 27,21,28
+
+# 12571/116 - Tsubamegaeshi
+Tags: SINGLE_TARGET_ATTACK
+Game: Changes the 2nd row from the top & 2nd from the bottom to Wood Orbs; inflicts a 200x ATK attack on 1 enemy
+EN: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy
+
+# 12574/138 - My blade will tell me about my enemy.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: [Orb move time: 4 sec], 4x ATK for Attacker Type; 4x ATK & reduces damage with 2+ Wood combos
+EN: [Fixed 4 second movetime] 4x ATK for Attacker type; 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+

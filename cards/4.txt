@@ -1,0 +1,15 @@
+#4 Firedragon Tyrannos
+HP: 2145 ATK: 1114 RCV: 231 LB: 0
+AWK: 1,2,21,21
+SAWK: 
+
+# 11/116 - Magma Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Fire Att. for 2 turns; inflicts 20x ATK Fire Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Fire Att.; Deal 20x ATK Fire damage to all enemies
+
+# 56/138 - Power of Explosion
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Fire Att.; Orb move time +2 seconds
+EN: 2x ATK for Fire Att.; Increase orb movement time by 2 seconds
+

@@ -1,0 +1,15 @@
+#5643 Goury = Gabriev
+HP: 5805 ATK: 2495 RCV: 23 LB: 25
+AWK: 10,10,56,28,48,27,27,27,27
+SAWK: 56,43,33
+
+# 14951/116 - Light, come forth!
+Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
+Game: Light Orbs more likely to appear for 1 turn; changes the rightmost column to Light Orbs
+EN: For 1 turn, Light orbs are more likely to appear by 25%; Change the far right column to Light orbs
+
+# 14957/138 - Master Swordsman
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3x ATK & RCV for Light Att., Orb move time +2 seconds; 5x ATK & reduces damage with 4+ linked Light Orbs
+EN: 3x ATK & RCV for Light Att.; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching 4 or more connected Light orbs
+

@@ -1,0 +1,15 @@
+#2259 Sun God, Ra Dragon
+HP: 4705 ATK: 1508 RCV: 155 LB: 0
+AWK: 10,10,21,21,27,27,19,19
+SAWK: 
+
+# 3367/116 - Sunlight Crown
+Tags: EXTENDS_TIME
+Game: Orb move time extended by 5 seconds for 1 turn; other allies' skills charged by 2 turns
+EN: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns
+
+# 3601/138 - The Sun's Halo
+Tags: ENHANCED_ATK_RCV
+Game: ATK increases with 5+ Att. (4+Heal), up to 8x; 1.5x ATK & RCV for God Type
+EN: 3x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal; 1.5x ATK & RCV for God type
+

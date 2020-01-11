@@ -1,0 +1,15 @@
+#1014 緋の眼・クラピカ
+HP: 2695 ATK: 1278 RCV: 372 LB: 0
+AWK: 15,23,19,19
+SAWK: 
+
+# 903/116 - 律する小指の鎖
+Tags: GRAVITY,MENACE
+Game: 敵の行動を4ターン遅らせる。 敵のHPが10％減少。
+EN: Delay enemies' next attack by 4 turns; Reduce enemies' HP by 10%
+
+# 877/119 - 癒す親指の鎖
+Tags: ENHANCED_ATK
+Game: 水を4個以上つなげて消すと攻撃力が上昇、最大3倍。
+EN: 2.5x ATK when matching 4 or more connected Water orbs up to 3x at 5 orbs
+

@@ -1,0 +1,15 @@
+#2175 邪眼皇ロマノフI世
+HP: 3005 ATK: 1803 RCV: 202 LB: 0
+AWK: 26,21,21,26,26
+SAWK: 
+
+# 2647/116 - 魔弾ロマノフ・ストライク
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+EN: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
+
+# 3226/138 - Feast of Destruction
+Tags: ENHANCED_ATK
+Game: 1.5x ATK for Devil Type; 5x ATK with 6+ linked Dark Orbs
+EN: 1.5x ATK for Devil type; 5x ATK when matching 6 or more connected Dark orbs
+

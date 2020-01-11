@@ -1,0 +1,15 @@
+#1780 Purple Bowl Demon, Sukibowl
+HP: 3075 ATK: 1003 RCV: 4 LB: 0
+AWK: 
+SAWK: 
+
+# 1676/116 - Evil Crest
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: Inflicts 100,000 damage on 1 enemy; 2.5x ATK for Physical Type for 2 turns
+EN: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Physical type
+
+# 2446/61 - Three Tastes in One - Fr, Lt & Dk
+Tags: ENHANCED_ATK
+Game: 2.5x ATK when Fire, Light & Dark attack at once
+EN: 2.5x ATK when matching Fire, Light, Dark at once
+

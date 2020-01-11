@@ -1,0 +1,15 @@
+#5013 Servant, Archer
+HP: 3523 ATK: 1600 RCV: 320 LB: 30
+AWK: 28,21,19,19,19,44,43,63
+SAWK: 43,61,52
+
+# 12521/116 - Unlimited Blade Works
+Tags: ENHANCED_ATTACK,ORB_REFRESH
+Game: 2x ATK for Fire Att. for 1 turn; replaces all Orbs
+EN: For 1 turn, 2x ATK for Fire Att.; Replace all orbs
+
+# 12524/138 - I can't prioritize my personal business in this situation.
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Fire Att., Orb move time +3 seconds; ATK increases when attacking with 3+ Att., up to 5x
+EN: 1.5x all stats for Fire Att.; Increase orb movement time by 3 seconds; 3x ATK when matching 3 or more colors up to 5x at 5 colors
+

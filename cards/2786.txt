@@ -1,0 +1,15 @@
+#2786 Trance Kuja
+HP: 2371 ATK: 1922 RCV: 238 LB: 30
+AWK: 21,14,19,28,12,21,14,38,35
+SAWK: 52,54,57
+
+# 3959/116 - Flare Star
+Tags: SINGLE_TARGET_ATTACK
+Game: Dark attack of 10x team's Fire ATK on 1 enemy; creates 8 Fire Orbs at random
+EN: Deal Dark damage equal to 10x of team's total Fire ATK to an enemy; Create 8 Fire orbs
+
+# 4599/138 - I'll bring this to an end! 
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Attacker Type; 2x ATK when skills used
+EN: 1.5x HP & RCV for Attacker type; 2x ATK on the turn a skill is used
+

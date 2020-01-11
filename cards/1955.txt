@@ -1,0 +1,15 @@
+#1955 Awoken Lakshmi
+HP: 4897 ATK: 1436 RCV: 100 LB: 0
+AWK: 21,9,20,19,15,28,27,23
+SAWK: 
+
+# 1857/116 - Life Water Lotus Blossom
+Tags: ATTACK_AND_HEAL
+Game: 50x ATK attack on 1 enemy, recovers damage as HP; changes 5 non-Water Orbs to Heal Orbs
+EN: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 Heal orbs over non Water orbs
+
+# 2542/138 - Luck God's Divine Power
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & 1.5x RCV for Water Att.; ATK increases erasing 4+ linked Heal Orbs, up to 3x
+EN: 2.5x ATK and 1.5x RCV for Water Att.; 1.5x ATK when matching 4 or more connected Heal orbs up to 3x at 7 orbs
+

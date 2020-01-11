@@ -1,0 +1,15 @@
+#5679 Draconic Songstress on Koto, Minaka
+HP: 2625 ATK: 3130 RCV: 932 LB: 15
+AWK: 10,10,56,21,28,53,53,29,29
+SAWK: 45,29,21
+
+# 15109/116 - Elegant Twang
+Tags: GUARD_STANCE,REDUCE_DAMAGE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Wood Orbs to Water and Light Orbs to Heal; halves damage for 1 turn
+EN: Change Wood orbs to Water orbs; Change Light orbs to Heal orbs; For 1 turn, reduce damage taken by 50%
+
+# 15115/138 - Eternal Dragon Player - Myouhaku
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Dragon Type, Orb move time +5 seconds; ATK increases with 8+ combos, up to 10x
+EN: 2x HP & ATK for Dragon type; Increase orb movement time by 5 seconds; 8x ATK when 8 or more combos up to 10x at 10 combos
+

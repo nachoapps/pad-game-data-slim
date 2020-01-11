@@ -1,0 +1,15 @@
+#3848 Endless Summer's Hunting Deity, Artemis
+HP: 3440 ATK: 1905 RCV: 271 LB: 30
+AWK: 27,27,21,23,28,23,11,13,47
+SAWK: 52,47,27
+
+# 8769/116 - Lunatic Shot
+Tags: ATTACK_STANCE,VOID_ATT_ABSORBS
+Game: Voids Attribute absorption for 1 turn; changes Fire & Heal Orbs to Water Orbs
+EN: For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
+
+# 8772/138 - I'm coming for you next!
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Water Att.; 5x ATK when Water & Wood attack at once
+EN: 2x HP & ATK for Water Att.; 5x ATK when matching Water+Wood
+

@@ -1,0 +1,15 @@
+#1019 クロロ＝ルシルフル
+HP: 1287 ATK: 590 RCV: 168 LB: 0
+AWK: 
+SAWK: 
+
+# 906/118 - 盗賊の極意
+Tags: ENHANCED_ATTACK,MENACE,STOP_TIME,REDUCE_DAMAGE,SINGLE_TARGET_ATTACK,POISON,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ETC
+Game: 特定のスキルがランダムで発動。
+EN: Activate a random skill from the list: 1) Poison all enemies (10x ATK), 2) Deal 100x ATK Dark damage to an enemy, 3) Change Heal orbs to Poison orbs; Recover 3000 HP, 4) Delay enemies' next attack by 2 turns, 5) For 1 turn, 2x ATK for Dark Att., 6) Change Light orbs to Dark orbs; For 1 turn, reduce damage taken by 75%, and 7) Freely move orbs for 10 seconds
+
+# 880/119 - 天使の自動筆記
+Tags: ENHANCED_ATK
+Game: 闇を4個以上つなげて消すと攻撃力が上昇、最大3倍。
+EN: 2.5x ATK when matching 4 or more connected Dark orbs up to 3x at 5 orbs
+

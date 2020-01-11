@@ -1,0 +1,15 @@
+#4353 Spirit Numen of Water, Zapan
+HP: 4642 ATK: 1721 RCV: 26 LB: 20
+AWK: 10,10,28,60,60,60,21
+SAWK: 60,21,45
+
+# 10373/116 - Ancient Water
+Tags: ENHANCED_ORBS,DROP_CHANCE
+Game: Water Orbs enhanced; 50% chance of Enhanced Orbs appearing for 6 turns
+EN: Enhance all Water orbs; For 6 turns, enhanced orbs are more likely to appear by 50%
+
+# 10376/138 - Zapan's Beard
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Wt Att., vastly reduces RCV for Fr, Wd, Lt & Dk; 7x ATK for Att. erasing 5 Orbs incl. enhanced
+EN: 2x HP & ATK for Water Att.; 0.25x RCV for Fire, Wood, Light, Dark Att.; 7x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

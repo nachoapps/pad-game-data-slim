@@ -1,0 +1,15 @@
+#4903 怪物くん
+HP: 3645 ATK: 2138 RCV: 13 LB: 0
+AWK: 57,57,19,21,21,28
+SAWK: 
+
+# 12208/116 - Full Focus!!
+Tags: ENHANCED_ATTACK,ORB_LOCK
+Game: 2x ATK for Devil Type for 3 turns; locks all Orbs
+EN: For 3 turns, 2x ATK for Devil type; Lock all orbs
+
+# 12211/138 - I'm the prince of Monster Land
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & 3x ATK for Devil Type; 2.5x HP when HP is 80% or more, Orb move time +2 seconds
+EN: 3x ATK and 1.5x HP for Devil type; Increase orb movement time by 2 seconds; 2.5x ATK when above 80% HP
+

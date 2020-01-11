@@ -1,0 +1,15 @@
+#5527 Furious Rajang
+HP: 5090 ATK: 3005 RCV: 115 LB: 25
+AWK: 10,10,21,61,61
+SAWK: 56,53,55
+
+# 14409/37 - Photon Breath
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts 500x ATK Light Att. attack on 1 enemy
+EN: Deal 500x ATK Light damage to an enemy
+
+# 14410/138 - Golden Fury
+Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Game: [7x6 board], Orb move time +2 seconds; ATK increases with 6+ combos, up to 18x
+EN: [Board becomes 7x6] Increase orb movement time by 2 seconds; 2x ATK when 6 or more combos up to 18x at 14 combos
+

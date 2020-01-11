@@ -1,0 +1,15 @@
+#4589 All Illuminating Bride, Rushana
+HP: 4567 ATK: 1728 RCV: 602 LB: 30
+AWK: 21,21,21,53,28,10,10,48,43
+SAWK: 48,43,46
+
+# 10757/116 - Divine Touch of Beauty
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Recovers 40% of max HP; changes the top row to Wood Orbs
+EN: Recover 40% of max HP; Change the top row to Wood orbs
+
+# 10760/138 - Happiness will always be with you
+Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Game: [7x6 board], Orb move time +5 seconds; 2.5x ATK for each cross of 5 Water, Wood or Light Orbs
+EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Water, Wood, Light orbs
+

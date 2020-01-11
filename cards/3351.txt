@@ -1,0 +1,15 @@
+#3351 Sima Yi
+HP: 2615 ATK: 1063 RCV: 273 LB: 0
+AWK: 27,27,19,28
+SAWK: 
+
+# 6762/116 - Shadow Tactics
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Fire Orbs to Dark & Light Orbs to Water
+EN: Unlock all orbs; Change Fire orbs to Dark orbs; Change Light orbs to Water orbs
+
+# 6765/138 - Contemplative Wolfsight
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board]; 4x ATK & 1.5x RCV  when Dark & Water attack at once
+EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Dark+Water
+

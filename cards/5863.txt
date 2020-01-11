@@ -1,0 +1,15 @@
+#5863 樹堅龍・トゥクトス
+HP: 4313 ATK: 1463 RCV: 103 LB: 40
+AWK: 21,21,24,24,9,48,33,36,30
+SAWK: 52,71,40
+
+# 15683/141 - ストーンプレス
+Tags: 
+Game: ランダムで木とお邪魔ドロップを15個ずつ生成。
+EN: Create 15 Wood and Jammer orbs over any orbs
+
+# 15684/138 - 碧岩の龍鱗
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 【操作時間3秒】木属性の全パラメータが1.5倍。 7コンボ以上でダメージを軽減、攻撃力が20倍。
+EN: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
+

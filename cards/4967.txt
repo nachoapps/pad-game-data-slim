@@ -1,0 +1,15 @@
+#4967 ムリカベ
+HP: 4085 ATK: 1443 RCV: 28 LB: 30
+AWK: 55,21,28,10,10,46
+SAWK: 60,46,59
+
+# 12295/116 - No Way Through
+Tags: ATTACK_STANCE,REDUCE_DAMAGE
+Game: Halves damage for 1 turn; changes Fire & Heal Orbs to Wood Orbs
+EN: For 1 turn, reduce damage taken by 50%; Change Fire and Heal orbs to Wood orbs
+
+# 12298/138 - Defeating me? No Waaay!
+Tags: ENHANCED_HP_ATK_RCV,RESOLVE,EXTEND_TIME
+Game: 1.5x to all stats for Wood Att., Orb move time +5 seconds; may survive when HP is reduced to 0
+EN: 1.5x all stats for Wood Att.; Increase orb movement time by 5 seconds; May survive when HP is reduced to 0 (HP>50%)
+

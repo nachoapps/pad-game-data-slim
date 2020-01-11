@@ -1,0 +1,15 @@
+#3278 Blue-Winged Ray Dragon Caller, Navi
+HP: 3085 ATK: 1909 RCV: 292 LB: 0
+AWK: 28,28,28,28,21,21
+SAWK: 
+
+# 3990/116 - Harmonic Feather
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to all Attributes; other allies' skills charged by 1 turn
+EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
+
+# 6258/138 - Element Area
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board]; 3x ATK & 2x RCV when attacking with 3+ Att.
+EN: [Board becomes 7x6] 3x ATK and 2x RCV when matching 3 or more colors
+

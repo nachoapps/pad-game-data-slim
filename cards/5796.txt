@@ -1,0 +1,15 @@
+#5796 闇バクラ＆ダーク・ネクロフィア
+HP: 4285 ATK: 2668 RCV: 130 LB: 25
+AWK: 21,21,21,19,68,48,72,72,72
+SAWK: 52,48,55
+
+# 15534/116 - 念眼殺
+Tags: POISON,ALL_ORBS_CONVERT
+Game: 敵全体を超猛毒にする。 全ドロップを闇、回復、毒ドロップに変化。
+EN: Poison all enemies (30x ATK); Change all orbs to Dark, Heal, and Poison orbs
+
+# 15537/138 - オレの計画を邪魔する奴は消すぜ！
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: HP50％以上でダメージを軽減。毒ダメージを無効化。 毒か猛毒を4個以上つなげて消すと、攻撃力が15倍。
+EN: [Disable Poison & Mortal Poison orb effects] Reduce damage taken by 35% when above 50% HP; 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
+

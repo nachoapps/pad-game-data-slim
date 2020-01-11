@@ -1,0 +1,15 @@
+#3623 龍皇・ベナレス
+HP: 3335 ATK: 1430 RCV: 248 LB: 30
+AWK: 9,9,21,8,8,6,6,39,40
+SAWK: 52,39,40
+
+# 7572/116 - Come back when you're stronger!
+Tags: ORB_CONVERT,FIXED_DAMAGE
+Game: Inflicts 99 damage on 1 enemy;  changes Light Orbs to Dark Orbs
+EN: Deal 99 fixed damage to an enemy; Change Light orbs to Dark orbs
+
+# 7575/138 - Wu of Kaiyanwang
+Tags: AUTO_HEAL,ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Devil Type; recovers 8x RCV as HP when matching Orbs
+EN: 1.5x all stats for Devil type; 8x RCV additional heal when matching orbs
+

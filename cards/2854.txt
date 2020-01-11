@@ -1,0 +1,15 @@
+#2854 魔装フォカロル・シンドバッド
+HP: 4016 ATK: 1755 RCV: 344 LB: 25
+AWK: 56,27,27,28,28,10,10,27,19
+SAWK: 48,27,43
+
+# 5044/116 - High King of the Seven Seas
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: 1.5x ATK for Balanced & Devil Types for 2 turns; extends time to move Orbs 1.5x for 2 turns
+EN: For 2 turns, 1.5x ATK for Balanced and Devil types; For 2 turns, 1.5x orb move time
+
+# 4738/138 - First Class Singularity
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 4x ATK & 2x RCV for Wood & Dark Att.; 3x ATK & reduces dmg when Wood & Dark attack at once
+EN: 4x ATK and 2x RCV for Wood, Dark Att.; 3x ATK and reduce damage taken by 25% when matching Wood+Dark
+

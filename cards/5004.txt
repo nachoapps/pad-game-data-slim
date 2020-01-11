@@ -1,0 +1,15 @@
+#5004 Servant, Saber
+HP: 4368 ATK: 2195 RCV: 390 LB: 25
+AWK: 52,21,28,53,43,48,48,51,63
+SAWK: 48,43,32
+
+# 12473/116 - Excalibur
+Tags: HEAL,ORB_CONVERT,FIXED_DAMAGE
+Game: Fully recovers HP, inflicts 100,000 dmg on all enemies; changes Heal, Jammers & Poison Orbs to Water Orbs
+EN: Recover all HP; Deal 100000 fixed damage to all enemies; Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
+
+# 12477/138 - O wind! Enrage!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces damage when HP is 50% or more; ATK increases when attacking with 3+ Att., up to 4.5x
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
+

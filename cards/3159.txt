@@ -1,0 +1,15 @@
+#3159 Blue Sky Goddess of Dawn, Khepri
+HP: 3230 ATK: 1903 RCV: 273 LB: 0
+AWK: 19,21,28,19,20,10,10
+SAWK: 
+
+# 5370/116 - Magic Chain
+Tags: EXTENDS_TIME,ADD_COMBO
+Game: Adds 2 combos for 1 turn; Orb move time +2 seconds for 1 turn
+EN: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds
+
+# 5868/138 - Everflowing Sunlight
+Tags: ENHANCED_ATK
+Game: 5x ATK for Water Att., but unable to erase 4 Orbs or less; 2x ATK with 3 combos, 3x ATK with 4+ combos
+EN: [Unable to erase 4 orbs or less] 5x ATK for Water Att.; 2x ATK when 3 or more combos up to 3x at 4 combos
+

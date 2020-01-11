@@ -1,0 +1,15 @@
+#1528 High Wood Ninja
+HP: 1512 ATK: 1243 RCV: 201 LB: 0
+AWK: 16,11
+SAWK: 
+
+# 996/116 - Protection Magic - Wood
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Fire Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+EN: Change Fire orbs to Heal orbs; Reduce binds by 3 turns
+
+# 1788/121 - Enhanced Ninjutsu - Rei
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Balanced Type
+EN: 1.5x HP & ATK for Balanced type
+

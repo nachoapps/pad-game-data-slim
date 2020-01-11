@@ -1,0 +1,15 @@
+#4288 灰原哀
+HP: 3586 ATK: 1325 RCV: 326 LB: 30
+AWK: 10,10,21,29,29,29,13,13,13
+SAWK: 45,54,55
+
+# 10106/116 - Idiot...
+Tags: ENHANCED_HEAL,RECOVER_BIND,REMOVE_LOCK
+Game: Removes Orb locks, bind status reduced by 3 turns; 2x RCV for 5 turns
+EN: Unlock all orbs; Reduce binds by 5 turns; For 3 turns, 2x RCV
+
+# 10110/138 - It's tough, isn't it? For both of us...
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Balanced Type; 3x ATK when 3+ Att. attack at once
+EN: 2x HP & ATK for Balanced type; 3x ATK when matching 3 or more colors
+

@@ -1,0 +1,15 @@
+#4938 Kamen Rider Ouja
+HP: 3471 ATK: 1896 RCV: 80 LB: 30
+AWK: 28,28,19,4,4,10,10,31,31
+SAWK: 39,40,41
+
+# 12147/116 - This place's getting on my nerves.
+Tags: POISON,LINE_ORBS_CONVERTER
+Game: Poisons all enemies; changes the leftmost column to Dark Orbs & the rightmost column to Poison Orbs
+EN: Poison all enemies (1x ATK); Change the far left column to Dark orbs and change the far right column to Poison orbs
+
+# 12150/138 - Veno-crash
+Tags: ENHANCED_ATK_RCV
+Game: 3.5x ATK & 2x RCV for Dark Att.; 4x ATK with 4+ linked Poison or Lethal Poison Orbs
+EN: 3.5x ATK and 2x RCV for Dark Att.; 4x ATK when matching 4 or more connected Poison or Mortal Poison orbs
+

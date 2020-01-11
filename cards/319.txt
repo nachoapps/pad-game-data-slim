@@ -1,0 +1,15 @@
+#319 Machine Golem Mk.III
+HP: 4135 ATK: 1086 RCV: 10 LB: 0
+AWK: 17,10,21
+SAWK: 
+
+# 94/116 - Armor Break
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Vastly reduces enemies' DEF for 5 turns; reduces damage for 5 turns
+EN: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
+
+# 334/41 - Lightning Counter
+Tags: COUNTERATTACK
+Game: Strong Light counterattack sometimes
+EN: 50% chance to counterattack with 5x Light damage
+

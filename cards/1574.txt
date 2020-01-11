@@ -1,0 +1,15 @@
+#1574 宇宙の魔獣・ヤコン
+HP: 3195 ATK: 1165 RCV: 21 LB: 0
+AWK: 11,7
+SAWK: 
+
+# 1634/21 - 光吸収
+Tags: VOID_DAMAGE
+Game: 1ターンの間、光属性のダメージを無効化。
+EN: For 1 turn, void all Light damage
+
+# 1926/17 - いまのは最高の光だった…
+Tags: REDUCE_DAMAGE
+Game: 光属性の敵から受けるダメージを半減。
+EN: Reduce damage taken from light att. by 50%
+

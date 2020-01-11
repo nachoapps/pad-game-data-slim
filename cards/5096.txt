@@ -1,0 +1,15 @@
+#5096 Sagat
+HP: 4633 ATK: 2160 RCV: 33 LB: 25
+AWK: 52,21,28,19,27,27,57,57,63
+SAWK: 57,27,21
+
+# 12830/141 - Tiger Shot
+Tags: 
+Game: Creates 3 Fire Orbs at random
+EN: Create 3 Fire orbs
+
+# 12833/138 - Dare you challenge the King?
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK & halves damage when HP is 80% or more; 2x ATK with 2 Fire combos, 3x with 3+ combos
+EN: 5x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 2 Fire combos, up to 3x at 3 Fire combos
+

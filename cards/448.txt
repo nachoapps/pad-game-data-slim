@@ -1,0 +1,15 @@
+#448 最強装備・竜騎士
+HP: 3360 ATK: 1205 RCV: 141 LB: 0
+AWK: 23,23,21
+SAWK: 
+
+# 405/116 - Jump
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: Inflicts random Water Att. damage on 1 enemy; 2x ATK for Physical Type for 1 turn
+EN: Randomized Water damage to an enemy(1~50x); For 1 turn, 2x ATK for Physical type
+
+# 372/14 - Dragon Soul
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

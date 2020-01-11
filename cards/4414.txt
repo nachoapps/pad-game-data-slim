@@ -1,0 +1,15 @@
+#4414 Great Witch of the Solitary Peak, Zela
+HP: 3490 ATK: 2506 RCV: 751 LB: 15
+AWK: 10,10,28,24,24,50,48,53,56
+SAWK: 54,55,46,47,48
+
+# 10379/116 - Howling Storm
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 2 combos for 1 turn; removes all Orb locks & changes Orbs to Wood & Heal
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Wood and Heal orbs
+
+# 10383/138 - Ancient Wood Spirit's Magic Seal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK for Wood Att. & reduces dmg when HP is 50% or more; ATK increases with 6+ linked Wood Orbs, up to 3x
+EN: 4x ATK for Wood Att. and reduce damage taken by 35% when above 50% HP; 2x ATK when matching 6 or more connected Wood orbs up to 3x at 8 orbs
+

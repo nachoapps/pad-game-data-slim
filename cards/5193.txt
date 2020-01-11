@@ -1,0 +1,10 @@
+#5193 Ächtungsblick
+HP: 5569 ATK: 2528 RCV: 413 LB: 0
+AWK: 49,38,18,18,2
+SAWK: 
+
+# 13106/116 - Frenzied Breath
+Tags: ORB_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Fully recovers bind status (incl. Awoken); changes Jammers, Bombs & Poison Orbs to Dark Orbs
+EN: Remove all binds and awoken skill binds; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
+

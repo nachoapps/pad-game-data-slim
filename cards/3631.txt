@@ -1,0 +1,15 @@
+#3631 コラボマガジン
+HP: 2000 ATK: 1000 RCV: 100 LB: 0
+AWK: 10,10
+SAWK: 
+
+# 7588/116 - Magazine All-Stars, 1st Edition
+Tags: HEAL,RECOVER_BIND,EXTENDS_TIME,HEAL_BIND_RECOVERY
+Game: Recovers 30% of max HP, reduces bind status by 3 turns; extends Orb move time 3x for 1 turn
+EN: Recover 30% of max HP; Reduce binds by 3 turns; For 1 turn, 3x orb move time
+
+# 7591/175 - Magazine All-Stars
+Tags: ENHANCED_ATK
+Game: 8x ATK when all sub-monsters are from Magazine Collab
+EN: 8x ATK when all cards are from Magazine All Stars Collab
+

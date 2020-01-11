@@ -1,0 +1,15 @@
+#2716 Smithing God, Hephaestus Dragon
+HP: 4400 ATK: 2200 RCV: 200 LB: 15
+AWK: 21,27,27,22,27,46,47
+SAWK: 27,21,52
+
+# 3987/116 - Creation Routine
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Light Orbs to Fire Orbs & Dark Orbs to Jammers; other allies' skills charged by 2 turns
+EN: Change Light orbs to Fire orbs; Change Dark orbs to Jammer orbs; Charge all allies' skills by 2 turns
+
+# 4637/138 - Genesis Divine Flames
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK for Fire Att.; 2.5x ATK & 1.5x HP for God Type
+EN: 2x ATK for Fire Att.; 2.5x ATK and 1.5x HP for God type
+

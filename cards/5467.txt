@@ -1,0 +1,15 @@
+#5467 鳴子章吉
+HP: 2014 ATK: 1930 RCV: 355 LB: 30
+AWK: 28,28,28,58,58,58
+SAWK: 52,55,21
+
+# 14098/116 - アームストロングクライムや!!
+Tags: ENHANCED_HEAL,SUICIDE
+Game: HPが50％減少。ランダムで火ドロップを9個生成。 3ターンの間、回復力が0になる。
+EN: Reduce HP by 50%; Create 9 Fire orbs; For 3 turns, 0x RCV
+
+# 14102/138 - 派手に生きんとオモんない!!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: HP50％以下で、攻撃力が5倍。 火の2コンボ以上でダメージを軽減、攻撃力が2倍。
+EN: 5x ATK when below 50% HP; 2x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+

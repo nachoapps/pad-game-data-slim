@@ -1,0 +1,15 @@
+#5189 Seregios
+HP: 4189 ATK: 2870 RCV: 475 LB: 25
+AWK: 21,21,28,27,27,27,27,10,10
+SAWK: 27,45,21
+
+# 13099/160 - Scaleblade Swings
+Tags: ADD_COMBO
+Game: Adds 1 combo for 5 turns
+EN: For 5 turns, increase combo count by 1
+
+# 13102/138 - Thousand Blade Wyvern
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Game: 2x HP & ATK for Light Att., 5x ATK with 7+ combos; bonus attack equal to 50x ATK when matching Orbs
+EN: 2x HP & ATK for Light Att.; 5x ATK when 7 or more combos; 50x ATK additional damage when matching orbs
+

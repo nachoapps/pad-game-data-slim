@@ -1,0 +1,15 @@
+#4636 Calamitous God Machine, Ragnarok Dragon
+HP: 5530 ATK: 2155 RCV: 200 LB: 30
+AWK: 10,10,21,21,19,19,28,44,61
+SAWK: 43,54,55
+
+# 10893/116 - All Orb Flare
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Removes Orb locks, changes Orbs to all Attributes & Heal; adds 2 combos for 1 turn
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, increase combo count by 2
+
+# 10897/138 - Catastrophe Booster
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 2+ Att., up to 7x; 2.5x ATK & reduces damage with 6+ linked Orbs
+EN: 2.5x ATK when matching 2 or more colors up to 7x at 5 colors; 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
+

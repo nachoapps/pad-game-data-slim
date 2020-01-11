@@ -1,0 +1,15 @@
+#3778 ライナー・ブラウン
+HP: 4798 ATK: 1664 RCV: 120 LB: 25
+AWK: 19,21,21,24,24,24,24,54,63
+SAWK: 52,57,53
+
+# 8255/3 - We'll settle this right here and now!
+Tags: REDUCE_DAMAGE
+Game: Greatly reduces damage for 4 turns
+EN: For 4 turns, reduce damage taken by 75%
+
+# 8258/137 - We'll survive and go home...no matter what!
+Tags: ENHANCED_HP_ATK
+Game: 3.5x ATK for Physical Type; 1.5x HP for Machine Type
+EN: 6x ATK for Physical type; 2x HP for Machine type
+

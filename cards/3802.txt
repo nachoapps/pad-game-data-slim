@@ -1,0 +1,15 @@
+#3802 Reynn & Lann
+HP: 3865 ATK: 1525 RCV: 23 LB: 0
+AWK: 17,17,28,21,44
+SAWK: 
+
+# 8430/116 - Reynn. You ready? Yeah!
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,DROP_CHANCE
+Game: 50% chance of Enhanced Orbs appearing for 3 turns; changes Poison & Heal to Light, Jammers & Fire to Dark
+EN: For 3 turns, enhanced orbs are more likely to appear by 50%; Change Heal, Poison, and Mortal Poison orbs to Light orbs; Change Fire, Jammer orbs to Dark orbs
+
+# 8433/138 - Mirajewel
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & ATK for Light Att., Orb move time +2 seconds; 5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

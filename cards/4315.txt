@@ -1,0 +1,15 @@
+#4315 Kaname Hagiri
+HP: 3214 ATK: 1836 RCV: 50 LB: 30
+AWK: 27,27,27,21,19
+SAWK: 52,27,43
+
+# 10242/116 - Death Print Bull's Eye
+Tags: REDUCE_DEFENSE,REMOVE_LOCK
+Game: Removes Orb locks; voids enemies' DEF for 1 turn
+EN: Unlock all orbs; For 1 turn, reduce enemies' defense by 100%
+
+# 10245/138 - You can no longer escape from me.
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Attacker Type; 2.5x ATK for each cross of 5 Fire or Dark Orbs
+EN: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire, Dark orbs
+

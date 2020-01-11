@@ -1,0 +1,15 @@
+#1374 Life Dragon, Zhuge Liang
+HP: 1282 ATK: 852 RCV: 439 LB: 0
+AWK: 
+SAWK: 
+
+# 958/116 - Clear Water Star Astrology
+Tags: ENHANCED_ORBS,HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Water & Light Orbs enhanced; recovers 20x RCV as HP, reduces bind status (incl. Awoken) by 4 turns
+EN: Enhance all Water and Light orbs; Recover 20x RCV as HP; Reduce binds and awoken skill binds by 4 turns
+
+# 1560/139 - Eight Heavenly Positions
+Tags: ENHANCED_ATK
+Game: 7x ATK for Healer Type when HP is full (3x ATK when HP is 99% or less)
+EN: 7x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP
+

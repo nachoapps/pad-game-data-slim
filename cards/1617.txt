@@ -1,0 +1,15 @@
+#1617 Pure Water Sorcerer, Sharon
+HP: 2065 ATK: 1417 RCV: 511 LB: 50
+AWK: 27,23,28,21,31,36
+SAWK: 31,36,48
+
+# 1640/128 - Aqua Spell
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the bottom row into Water Orbs
+EN: Change the bottom row to Water orbs
+
+# 1970/100 - Magic Boost
+Tags: ENHANCED_ATK
+Game: 3x ATK on turns a skill is used
+EN: 3x ATK on the turn a skill is used
+

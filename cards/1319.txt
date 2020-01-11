@@ -1,0 +1,15 @@
+#1319 I Love PAD Bear
+HP: 2279 ATK: 915 RCV: 108 LB: 0
+AWK: 20,10,20,10,11,28,11,28
+SAWK: 
+
+# 950/116 - BEAMS Beam
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: Inflicts 10x ATK Light attack on 1 enemy; 1.5x ATK for God Type for 1 turn
+EN: Deal 10x Light damage to an enemy; For 1 turn, 1.5x ATK for God type
+
+# 1545/61 - Wonder Bear
+Tags: ENHANCED_ATK
+Game: 2.5x ATK when Fire, Water & Light attack at once
+EN: 2.5x ATK when matching Fire, Water, Light at once
+

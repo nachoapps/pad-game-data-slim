@@ -1,0 +1,15 @@
+#5017 Servant, Caster
+HP: 2582 ATK: 1639 RCV: 580 LB: 30
+AWK: 19,21,21,37,33,33,36,63
+SAWK: 37,54,52
+
+# 12546/116 - Rule Breaker
+Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
+Game: Voids Attribute absorption for 1 turn; changes the outermost columns to Dark Orbs
+EN: For 1 turn, bypass att. absorb shield effects; Change the far left column and the far right column to Dark orbs
+
+# 12549/138 - Your insolence shows that you need discipline.
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Dark Att.; 3x ATK with 2 Dark combos, 4x with 3+ combos
+EN: 2x HP & ATK for Dark Att.; 3x ATK when matching 2 Dark combos, up to 4x at 3 Dark combos
+

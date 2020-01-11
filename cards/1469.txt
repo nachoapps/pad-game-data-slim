@@ -1,0 +1,15 @@
+#1469 Voice of God, Metatron TAMADRA
+HP: 1536 ATK: 888 RCV: 414 LB: 0
+AWK: 10,10
+SAWK: 
+
+# 640/117 - Quick Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 2970/97 - crusader's charge
+Tags: ENHANCED_ATK
+Game: 3x ATK for Healer Type when HP is 80% or more
+EN: 3x ATK for Healer type when above 80% HP
+

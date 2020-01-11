@@ -1,0 +1,15 @@
+#2368 調査兵団分隊長・ハンジ・ゾエ
+HP: 3105 ATK: 1505 RCV: 285 LB: 30
+AWK: 21,19,27,19,28,43,63
+SAWK: 52,43,48
+
+# 3398/116 - Mind if I try an experiment?
+Tags: REDUCE_DEFENSE
+Game: Vastly reduces enemies' DEF for 5 turns; other allies' skills charged by 1 turn
+EN: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
+
+# 3648/185 - It's absolutely worthwhile to risk your life
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 3x ATK for Balanced Type
+EN: 4x ATK for Balanced type; Increase orb movement time by 3 seconds
+

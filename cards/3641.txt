@@ -1,0 +1,15 @@
+#3641 Azathoth
+HP: 5010 ATK: 1542 RCV: 183 LB: 0
+AWK: 10,10,19
+SAWK: 
+
+# 7610/116 - Seething Chaos
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND
+Game: Changes Orbs to all Attributes & Heal; reduces bind status by 3 turns
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Reduce binds by 3 turns
+
+# 7613/138 - The Blighted Unknown
+Tags: ENHANCED_ATK_RCV
+Game: 6x ATK when HP is full, 3x ATK when 99% or less; 2x ATK & RCV when attacking with 5 Att.
+EN: 6x ATK when HP is full; 3x ATK when below 99% HP; 2x ATK & RCV when matching 5 or more colors
+

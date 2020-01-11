@@ -1,0 +1,15 @@
+#1209 Wolf Hero, Ignis Cu Chulainn
+HP: 3007 ATK: 1261 RCV: 388 LB: 0
+AWK: 1,16,2,27
+SAWK: 
+
+# 158/154 - Attack Stance - Wood
+Tags: ORB_CONVERT
+Game: Changes Heal Orbs to Wood Orbs
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 1265/97 - Wolf's Beat
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Balanced Type when HP is 80% or more
+EN: 3.5x ATK for Balanced type when above 80% HP
+

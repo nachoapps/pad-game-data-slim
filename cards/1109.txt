@@ -1,0 +1,15 @@
+#1109 Flame Twin Star Ifrit
+HP: 2957 ATK: 1638 RCV: 220 LB: 20
+AWK: 22,21,22,27
+SAWK: 27,50,34
+
+# 11/116 - Magma Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Fire Att. for 2 turns; inflicts 20x ATK Fire Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Fire Att.; Deal 20x ATK Fire damage to all enemies
+
+# 596/119 - Twin Fire Spiral
+Tags: ENHANCED_ATK
+Game: ATK increases when erasing 5+ linked Fire Orbs, up to a maximum of 3x
+EN: 2.5x ATK when matching 5 or more connected Fire orbs up to 3x at 6 orbs
+

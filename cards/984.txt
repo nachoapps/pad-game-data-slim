@@ -1,0 +1,15 @@
+#984 Gigas the Great
+HP: 6283 ATK: 1363 RCV: -100 LB: 0
+AWK: 27,14,2
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 68/14 - Perseverance
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>50%)
+

@@ -1,0 +1,15 @@
+#3600 Heaven Scribe, Enoch
+HP: 2955 ATK: 1463 RCV: 348 LB: 0
+AWK: 28,19,21
+SAWK: 
+
+# 8059/116 - Pious Prayer
+Tags: REDUCE_DAMAGE,EXTENDS_TIME
+Game: Reduces damage for 3 turns;  extends Orb move time 1.5x for 3 turns
+EN: For 3 turns, reduce damage taken by 35%; For 3 turns, 1.5x orb move time
+
+# 8062/138 - Prophecy of Judgment
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x HP & RCV for Light Att.; 2x ATK for each cross of 5 Light Orbs
+EN: 2x HP & RCV for Light Att.; 2x ATK for each cross of 5 Light orbs
+

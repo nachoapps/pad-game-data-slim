@@ -1,0 +1,15 @@
+#123 War Deity Minerva
+HP: 2869 ATK: 1359 RCV: 418 LB: 0
+AWK: 10,12,12,10
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 76/17 - Flame Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Fire Att. damage
+EN: Reduce damage taken from fire att. by 50%
+

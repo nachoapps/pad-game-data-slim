@@ -1,0 +1,15 @@
+#82 Earth Golem
+HP: 831 ATK: 309 RCV: 38 LB: 0
+AWK: 
+SAWK: 
+
+# 27/3 - Defensive Stance
+Tags: REDUCE_DAMAGE
+Game: Halves damage for 3 turns
+EN: For 3 turns, reduce damage taken by 50%
+
+# 65/16 - Protector's Lore
+Tags: REDUCE_DAMAGE
+Game: Slightly reduces damage
+EN: Reduce damage taken by 10%
+

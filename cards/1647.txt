@@ -1,0 +1,15 @@
+#1647 Dark Knight, Gravis
+HP: 2534 ATK: 632 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 1671/116 - Zone of Darkness
+Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Heal Orbs to Dark Orbs, plus bind status is reduced by 1 turn
+EN: Change Heal orbs to Dark orbs; Reduce binds by 1 turn
+
+# 1991/138 - Dark Obsession
+Tags: ENHANCED_ATK
+Game: 4x ATK for Physical Type, but halves overall RCV
+EN: 0.5x RCV; 4x ATK for Physical type
+

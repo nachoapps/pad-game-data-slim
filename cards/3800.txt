@@ -1,0 +1,15 @@
+#3800 Prompto
+HP: 3465 ATK: 1808 RCV: 433 LB: 0
+AWK: 15,15,21,28,19,34,15,15,15
+SAWK: 
+
+# 8421/116 - Time to boogie!
+Tags: ORB_CONVERT,DROP_CHANCE
+Game: 50% chance of Enhanced Orbs appearing for 3 turns; changes Jammers, Poison & Wood Orbs to Water Orbs
+EN: For 3 turns, enhanced orbs are more likely to appear by 50%; Change Wood, Jammer, Poison, and Mortal Poison orbs to Water orbs
+
+# 8424/138 - Piercer
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Water Att., Orb move time +2 seconds; 8x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2x ATK for Water Att.; Increase orb movement time by 2 seconds; 8x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

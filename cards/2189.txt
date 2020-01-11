@@ -1,0 +1,15 @@
+#2189 Destroying CyberDragon, Diadem
+HP: 2961 ATK: 1754 RCV: 0 LB: 40
+AWK: 10,10,21,26,26,20,21,26
+SAWK: 26,50
+
+# 2679/116 - Phantom Charge
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the top row into Dark Orbs; other allies' skills charged by 1 turn
+EN: Change the top row to Dark orbs; Charge all allies' skills by 1 turn
+
+# 3234/138 - Metal Coating
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Machine & Dragon Types; 2.5x ATK for Dark Att. when skills used
+EN: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Dark Att. on the turn a skill is used
+

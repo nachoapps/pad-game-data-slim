@@ -1,0 +1,15 @@
+#712 The Tenth Angel - Assault Mode
+HP: 2970 ATK: 1125 RCV: 187 LB: 0
+AWK: 18,26
+SAWK: 
+
+# 626/55 - Critical Rejection
+Tags: FIXED_DAMAGE
+Game: Inflicts 15,000 damage on 1 enemy
+EN: Deal 15000 fixed damage to an enemy
+
+# 552/16 - Multi-layer A.T. Field
+Tags: REDUCE_DAMAGE
+Game: Reduces damage
+EN: Reduce damage taken by 20%
+

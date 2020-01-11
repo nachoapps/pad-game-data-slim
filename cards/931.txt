@@ -1,0 +1,15 @@
+#931 Batman+S. Gloves Act
+HP: 3703 ATK: 1348 RCV: 32 LB: 0
+AWK: 18,17,26,10
+SAWK: 
+
+# 679/116 - Electric Impact
+Tags: MENACE,RECOVER_BIND
+Game: Delays enemies' next move for 2 turns; bind status reduced by 2 turns
+EN: Delay enemies' next attack by 2 turns; Reduce binds by 2 turns
+
+# 822/96 - Gotham's Protector
+Tags: ENHANCED_ATK
+Game: 3.5x Light Att. ATK when HP is 80% or more
+EN: 3.5x ATK for Light Att. when above 80% HP
+

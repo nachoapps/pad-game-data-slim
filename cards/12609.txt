@@ -1,0 +1,15 @@
+#12609 Keith
+HP: 1234 ATK: 900 RCV: 2 LB: 0
+AWK: 
+SAWK: 
+
+# 7866/116 - Guardian Spirit of Core
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Recovers 50% of max HP;  changes the top row to Fire Orbs
+EN: Recover 50% of max HP; Change the top row to Fire orbs
+
+# 7869/138 - Shut up and trust me.
+Tags: ENHANCED_ATK,RESOLVE,NO_SKYFALL_COMBOS
+Game: 3x ATK for Fire Att., but no Skyfall Combos; may survive when HP is reduced to 0
+EN: [No skyfall] 3x ATK for Fire Att.; May survive when HP is reduced to 0 (HP>50%)
+

@@ -1,0 +1,10 @@
+#3939 Sword Barrier Dragon Caller, Rathios
+HP: 5504 ATK: 1589 RCV: 101 LB: 0
+AWK: 49,19,25,25,22,22,40,1
+SAWK: 
+
+# 9065/116 - Solblade Guard
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: Reduces damage for 3 turns; changes the leftmost column to Light Orbs & rightmost to Fire
+EN: For 3 turns, reduce damage taken by 35%; Change the far left column to Light orbs and change the far right column to Fire orbs
+

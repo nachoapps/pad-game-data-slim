@@ -1,0 +1,15 @@
+#3388 Reincarnated Amaterasu Ohkami
+HP: 4150 ATK: 1111 RCV: 1088 LB: 10
+AWK: 20,10,10,21,21,27,28,28,27
+SAWK: 27,57,44
+
+# 3355/116 - Divine Illumination
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
+EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
+
+# 7143/138 - Spirit of the Dancing Goddess
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: 6x ATK for Healer Type when HP is full, 3x ATK when 99% or less; recovers 10x RCV as HP when matching Orbs
+EN: 6x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
+

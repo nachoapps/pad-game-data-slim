@@ -1,0 +1,15 @@
+#924 Joker
+HP: 1296 ATK: 828 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 676/118 - Killing Joke
+Tags: ENHANCED_ATTACK,GRAVITY,STOP_TIME,MASSIVE_ATTACK,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,ORB_REFRESH,ETC
+Game: Activates a random skill
+EN: Activate a random skill from the list: 1) Reduce enemies' HP by 30%, 2) For 1 turn, 2.5x ATK for God type; Freely move orbs for 10 seconds, 3) Change all orbs to Fire, Wood, and Light orbs, 4) Change all orbs to Water, Wood, and Dark orbs, 5) Change all orbs to Wood, Light, and Dark orbs, 6) Change all orbs to Fire, Water, and Dark orbs, 7) Replace all orbs, and 8) Deal 20000 Dark damage to all enemies; Change Water orbs to Dark orbs
+
+# 819/12 - Maniac Mastermind
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: Inflicts a bonus attack equal to 5x ATK when matching Orbs
+EN: 5x ATK additional damage when matching orbs
+

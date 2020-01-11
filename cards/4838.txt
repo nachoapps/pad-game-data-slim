@@ -1,0 +1,15 @@
+#4838 Guardian of the City of Gods, Athena - Non
+HP: 3300 ATK: 3850 RCV: 0 LB: 15
+AWK: 10,10,21,21,28,27,27,27,27
+SAWK: 33,34,38,21
+
+# 11792/116 - Divine Light of Aegis
+Tags: ENHANCED_ORBS,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Dark Orbs to Light Orbs & Water Orbs to Heal Orbs; all Orbs enhanced
+EN: Change Dark orbs to Light orbs; Change Water orbs to Heal orbs; Enhance all orbs
+
+# 11795/138 - Protection of Nike
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for God Type, Orb move time +2 seconds; 6x ATK when Light & Heal attack at once
+EN: 1.5x all stats for God type; Increase orb movement time by 2 seconds; 6x ATK when matching Light+Heal
+

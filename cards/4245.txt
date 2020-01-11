@@ -1,0 +1,15 @@
+#4245 Awoken Pollux
+HP: 3973 ATK: 1785 RCV: 213 LB: 0
+AWK: 29,29,17,17,28,28,21,19,60
+SAWK: 
+
+# 10016/116 - Cosmic Charge - Light
+Tags: ENHANCED_ORBS,ORB_CONVERT
+Game: Changes Jammers, Poison & Heal Orbs to Light Orbs; Light Orbs enhanced, other allies' skills charged by 1 turn
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Enhance all Light orbs; Charge all allies' skills by 1 turn
+
+# 10020/138 - Mechanical Creation Star of Gemini
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x ATK & reduces dmg with 2+ Light combos; 4x ATK for Att. erasing 5 Orbs including enhanced
+EN: [Board becomes 7x6] 2x ATK and reduce damage taken by 25% when matching 2+ Light combos; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

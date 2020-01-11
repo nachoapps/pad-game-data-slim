@@ -1,0 +1,15 @@
+#2915 Napoleon
+HP: 3012 ATK: 1401 RCV: 48 LB: 0
+AWK: 14,14,14,14,14
+SAWK: 
+
+# 5062/116 - Tactical Flame
+Tags: REDUCE_DAMAGE
+Game: Creates 5 Fire Orbs at random; reduces damage for 3 turns
+EN: Create 5 Fire orbs; For 3 turns, reduce damage taken by 35%
+
+# 4763/138 - Emperor's Unifying Force
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & 1.5x RCV for Dragon Type; 2.5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2.5x ATK and 1.5x RCV for Dragon type; 2.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

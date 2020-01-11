@@ -1,0 +1,15 @@
+#5126 Green Dracoblader of Bold Peaks, Selica
+HP: 3079 ATK: 3026 RCV: 865 LB: 15
+AWK: 10,10,21,28,19,43,43,60,32
+SAWK: 48,43,32
+
+# 12663/116 - Dragon Roar of the Master of Nine Strikes
+Tags: EXTENDS_TIME
+Game: Creates 2 Wood Orbs at random; Orb move time +1 second for 1 turn
+EN: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
+
+# 12669/138 - Great Stormfire Multistrike
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage with 6+ combos; 5x ATK & reduces damage with 5+ linked Fire or Wood Orbs
+EN: 3x ATK and reduce damage taken by 25% when 6 or more combos; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Fire or Wood orbs
+

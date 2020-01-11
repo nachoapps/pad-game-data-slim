@@ -1,0 +1,15 @@
+#2800 究極装備・バーサーカー
+HP: 3538 ATK: 1508 RCV: 4 LB: 0
+AWK: 22,21,21,21,27,34
+SAWK: 
+
+# 409/116 - Smite of Rage
+Tags: MASSIVE_ATTACK,GRUDGE_STRIKE
+Game: The less HP you have, the more damage you cause; plus 3 Fire Orbs created at random
+EN: Deal Fire damage to all enemies depending on HP level (150x at 1 HP and 10x at 100% HP); Create 3 Fire orbs
+
+# 362/39 - Critical: Berserk
+Tags: ENHANCED_ATK
+Game: 3x ATK when HP is 30% or less
+EN: 3x ATK when below 30% HP
+

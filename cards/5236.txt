@@ -1,0 +1,15 @@
+#5236 Dream Dimension Detective, Shelling Ford
+HP: 5260 ATK: 2360 RCV: 325 LB: 15
+AWK: 52,21,21,28,53,60,60,60,63
+SAWK: 43,54,48
+
+# 13186/116 - Not a chance.
+Tags: REMOVE_LOCK
+Game: Removes Orb locks; creates 5 Fire & Heal Orbs each at random
+EN: Unlock all orbs; Create 5 Fire and Heal orbs
+
+# 13196/138 - Anytime you want a rematch...
+Tags: ENHANCED_HP_ATK
+Game: 8x ATK & adds 2 combos with 5+ linked Fire & Heal Orbs each; 2x HP & ATK for Fire Att.
+EN: 2x HP & ATK for Fire Att.; 8x ATK and increase combo by 2 when matching 5 or more connected Fire and Heal orbs at once
+

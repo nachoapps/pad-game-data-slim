@@ -1,0 +1,15 @@
+#1381 フリーザの側近・ザーボン
+HP: 2963 ATK: 1268 RCV: 151 LB: 0
+AWK: 18,2
+SAWK: 
+
+# 961/116 - 変身
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
+Game: 1ターンの間、受けるダメージを減少。 1ターンの間、ドラゴンタイプの攻撃力が1.5倍。
+EN: For 1 turn, reduce damage taken by 35%; For 1 turn, 1.5x ATK for Dragon type
+
+# 1567/121 - 笑わせるんじゃない!!
+Tags: ENHANCED_ATK
+Game: 体力タイプの攻撃力が2倍。
+EN: 2x ATK for Physical type
+

@@ -1,0 +1,15 @@
+#101 Fenrir Knight
+HP: 1213 ATK: 928 RCV: 241 LB: 0
+AWK: 
+SAWK: 
+
+# 47/9 - Water Orb Change
+Tags: ORB_CONVERT
+Game: Changes Wood Orbs to Water Orbs
+EN: Change Wood orbs to Water orbs
+
+# 72/17 - Water Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Water Att. damage
+EN: Reduce damage taken from water att. by 30%
+

@@ -1,0 +1,15 @@
+#3970 Pixel Flowerdragon Brachys
+HP: 2928 ATK: 1281 RCV: 326 LB: 0
+AWK: 1,2,21,46,47,48
+SAWK: 
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 8971/138 - Flowerdragon's Hidden Power
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Wood Att.; ATK increases when erasing 6+ linked Wood Orbs, up to 5x
+EN: 2x ATK & RCV for Wood Att.; 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs
+

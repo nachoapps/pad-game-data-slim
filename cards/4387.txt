@@ -1,0 +1,15 @@
+#4387 Goro Akechi
+HP: 2887 ATK: 1855 RCV: 134 LB: 0
+AWK: 21,21,46,47,58
+SAWK: 
+
+# 10461/116 - Kougaon
+Tags: ORB_CONVERT,NEW_GRAVITY
+Game: Inflicts damage equal to 5% of enemies' max HP; changes Water Orbs to Light Orbs
+EN: Deal damage equal to 5% of enemies' max HP; Change Water orbs to Light orbs
+
+# 10464/138 - Now, Robin!
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Attacker Type, Orb move time +4 seconds; 3x ATK with 5+ combos
+EN: 2x ATK for Attacker type; Increase orb movement time by 4 seconds; 3x ATK when 5 or more combos
+

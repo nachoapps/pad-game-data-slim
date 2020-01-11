@@ -1,0 +1,15 @@
+#3650 Cooking Club's Ace Chef, Hathor
+HP: 2860 ATK: 1881 RCV: 278 LB: 30
+AWK: 14,21,17,14,43,43
+SAWK: 43,44,52
+
+# 1680/116 - Heavenly Splash
+Tags: GRAVITY,EXTENDS_TIME
+Game: Reduces enemies' HP by 25%; 2x Orb move time for 2 turns
+EN: Reduce enemies' HP by 25%; For 2 turns, 2x orb move time
+
+# 7827/138 - The essential ingredient is love!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Fire Att.; 6x ATK when attacking with 5+ Att. (4+Heal)
+EN: 1.5x HP & RCV for Fire Att.; 6x ATK when matching 5 or more colors (4+heal)
+

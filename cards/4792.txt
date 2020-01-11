@@ -1,0 +1,15 @@
+#4792 Super Woodsie
+HP: 3604 ATK: 1567 RCV: 395 LB: 20
+AWK: 21,21,21,28,19,16
+SAWK: 52,55,21
+
+# 11531/116 - Woodsie's Power
+Tags: ENHANCED_ATTACK,ORB_REFRESH
+Game: 3x ATK for Balanced Type for 1 turn; replaces all Orbs
+EN: For 1 turn, 3x ATK for Balanced type; Replace all orbs
+
+# 11534/138 - Emerald Protection
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Balanced Type, Orb move time +3 seconds; ATK increases with 5+ combos, up to 5x
+EN: 1.5x all stats for Balanced type; Increase orb movement time by 3 seconds; 3x ATK when 5 or more combos up to 5x at 9 combos
+

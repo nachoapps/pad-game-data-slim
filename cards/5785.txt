@@ -1,0 +1,15 @@
+#5785 海馬瀬人＆オベリスクの巨神兵
+HP: 6540 ATK: 2660 RCV: 650 LB: 25
+AWK: 10,10,56,53,28,70,43,43,43
+SAWK: 56,48,53
+
+# 15488/116 - ゴッド・ハンド・クラッシャー
+Tags: REMOVE_LOCK
+Game: 全ドロップのロック状態を解除。 ランダムで水と闇ドロップを15個ずつ生成。
+EN: Unlock all orbs; Create 15 Water and Dark orbs over any orbs
+
+# 15496/138 - 神を見せてやる
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: HP50％以上でダメージを軽減、水属性の攻撃力が5倍。 水を6個以上つなげて消すと攻撃力が4倍、9個以上で2コンボ加算。
+EN: 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Water orbs; Increase combo by 2 when matching 9 or more connected Water orbs at once
+

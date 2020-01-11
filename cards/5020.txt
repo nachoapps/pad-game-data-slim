@@ -1,0 +1,15 @@
+#5020 Taiga Fujimura
+HP: 2342 ATK: 1414 RCV: 403 LB: 30
+AWK: 21,21,19,19,47,29,63
+SAWK: 47,29,52
+
+# 12565/116 - What's for dinner tonight?
+Tags: MENACE,HEAL
+Game: Recovers 30% of max HP for 2 turns; delays enemies' next move for 1 turn
+EN: For 2 turns, recover 30% of max HP; Delay enemies' next attack by 1 turn
+
+# 12568/138 - Okay, then everyone, smile!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Balanced Type; 5x ATK when Fire, Water, Wood & Light attack at once
+EN: 1.5x HP & RCV for Balanced type; 5x ATK when matching Fire, Water, Wood, Light at once
+

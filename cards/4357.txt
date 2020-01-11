@@ -1,0 +1,15 @@
+#4357 Manticore
+HP: 751 ATK: 1474 RCV: 14 LB: 0
+AWK: 
+SAWK: 
+
+# 10277/116 - Poisonous Sting Attack
+Tags: REDUCE_DAMAGE,POISON
+Game: Critically poison all enemies; halves damage for 2 turns
+EN: Poison all enemies (10x ATK); For 2 turns, reduce damage taken by 50%
+
+# 10280/138 - Hell Beast's Domain
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 3x ATK for each cross of 5 Fire Orbs; 6x ATK when 5 Orbs or less remain on the board
+EN: [No skyfall] 6x ATK when there are 5 or fewer orbs remaining; 3x ATK for each cross of 5 Fire orbs
+

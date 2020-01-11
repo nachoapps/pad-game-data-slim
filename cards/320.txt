@@ -1,0 +1,15 @@
+#320 Dark Golem Mk.III
+HP: 4045 ATK: 1119 RCV: 10 LB: 0
+AWK: 18,10,21
+SAWK: 
+
+# 94/116 - Armor Break
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Vastly reduces enemies' DEF for 5 turns; reduces damage for 5 turns
+EN: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
+
+# 335/41 - Darkness Counter
+Tags: COUNTERATTACK
+Game: Strong Dark counterattack sometimes
+EN: 50% chance to counterattack with 5x Dark damage
+

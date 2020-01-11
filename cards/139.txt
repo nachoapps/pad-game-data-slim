@@ -1,0 +1,15 @@
+#139 Amaterasu Ohkami
+HP: 2321 ATK: 1111 RCV: 652 LB: 0
+AWK: 20,10,10,21
+SAWK: 
+
+# 40/117 - Shower of Healing
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status
+EN: Recover all HP; Remove all binds
+
+# 217/13 - Miracle
+Tags: AUTO_HEAL
+Game: Heals HP equal to 5x RCV when matching Orbs
+EN: 5x RCV additional heal when matching orbs
+

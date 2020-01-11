@@ -1,0 +1,15 @@
+#4775 柳生九兵衛
+HP: 3226 ATK: 1406 RCV: 312 LB: 0
+AWK: 21,21,47,31,31
+SAWK: 
+
+# 11479/116 - I'll protect you!
+Tags: REDUCE_DAMAGE,ORB_REFRESH
+Game: Reduces damage for 3 turns; replaces all Orbs
+EN: For 3 turns, reduce damage taken by 35%; Replace all orbs
+
+# 11482/138 - I swore on my lost left eye
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK for Dark & Light Att.; 3x ATK & reduces damage when 3+ Att. attack at once
+EN: 2.5x ATK for Light, Dark Att.; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
+

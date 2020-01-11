@@ -1,0 +1,15 @@
+#385 Dragon Rider Arthur
+HP: 2206 ATK: 1507 RCV: 72 LB: 0
+AWK: 25,29,26,27
+SAWK: 
+
+# 185/116 - Light&Dark Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Dark Orbs & Jammers to Light Orbs, and Heal Orbs & Poison Orbs to Dark Orbs
+EN: Change Dark, Jammer orbs to Light orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs
+
+# 242/22 - Cut off the Retreat
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Attacker Type
+EN: 2.5x ATK for Attacker type
+

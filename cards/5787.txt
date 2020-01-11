@@ -1,0 +1,15 @@
+#5787 闇マリク＆ラーの翼神竜
+HP: 6505 ATK: 3420 RCV: 200 LB: 25
+AWK: 10,10,21,28,70,43,43,27,27
+SAWK: 44,27,53
+
+# 15500/116 - ゴッド・ブレイズ・キャノン
+Tags: ENHANCED_ATTACK,GUARD_STANCE,ORB_CONVERT,ENHANCED_HEAL,DOUBLE_ORBS_CONVERT
+Game: 1ターンの間、回復力と闇属性の攻撃力が2倍。 木ドロップを闇に、水ドロップを回復に変化。
+EN: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Dark Att.; Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
+
+# 15506/138 - さぁ、闇のゲームの始まりだ
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 悪魔と神タイプのHPが2倍、攻撃力は6倍。 闇の2コンボ以上でダメージを軽減、攻撃力が3倍。
+EN: 6x ATK and 2x HP for God, Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
+

@@ -1,0 +1,15 @@
+#2316 arbiter of judgement, metatron
+HP: 3230 ATK: 1831 RCV: 333 LB: 0
+AWK: 10,10,27,18,18,18,18,27
+SAWK: 
+
+# 1662/116 - Dispelling Breath
+Tags: ENHANCED_ORBS,REDUCE_DAMAGE
+Game: Dark Orbs enhanced; reduces damage for 1 turn
+EN: Enhance all Dark orbs; For 1 turn, reduce damage taken by 35%
+
+# 3467/138 - arbiter's word
+Tags: ENHANCED_HP_ATK
+Game: Dark Att. HP & ATK increase a little; ATK increases with low HP, up to 4x
+EN: 1.35x HP & ATK for Dark Att.; 4x ATK when below 50% HP; 3x ATK when below 80% HP
+

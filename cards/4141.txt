@@ -1,0 +1,10 @@
+#4141 Emperor Thundersword
+HP: 3520 ATK: 2650 RCV: 655 LB: 0
+AWK: 49,25,25,25,11,13,2
+SAWK: 
+
+# 7962/116 - Thunderbolt Dash
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
+Game: Adds 1 combo for 1 turn; changes the top row to Light Orbs
+EN: For 1 turn, increase combo count by 1; Change the top row to Light orbs
+

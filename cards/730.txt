@@ -1,0 +1,15 @@
+#730 CoC P.E.K.K.A
+HP: 1539 ATK: 689 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 638/35 - Nightmare Sword
+Tags: ATTACK_AND_HEAL
+Game: Inflicts 20x ATK on 1 enemy and recovers HP
+EN: Deal 20x ATK damage to an enemy and recover 10% of the damage as HP
+
+# 707/14 - Dark Armor
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

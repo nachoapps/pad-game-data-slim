@@ -1,0 +1,15 @@
+#1731 Black-Winged Goddess, Valkyrie Claire
+HP: 2708 ATK: 1639 RCV: 706 LB: 50
+AWK: 27,26,29,21,27,26,8,44,43
+SAWK: 
+
+# 45/9 - Attack Stance - Dark
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Dark Orbs
+EN: Change Heal orbs to Dark orbs
+
+# 2418/138 - Darklight Bravery
+Tags: ENHANCED_ATK
+Game: 3x ATK for Healer & God Types; 2x ATK when erasing 4+ linked Dark Orbs
+EN: 3x ATK for Healer, God type; 2x ATK when matching 4 or more connected Dark orbs
+

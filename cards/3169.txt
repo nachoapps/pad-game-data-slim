@@ -1,0 +1,15 @@
+#3169 ビクトリーモード・切札勝太
+HP: 3508 ATK: 2095 RCV: 178 LB: 30
+AWK: 27,27,21,28,14,16,14,16,19
+SAWK: 27,55,58
+
+# 5404/116 - Time for my trump card! 
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
+Game: Adds 1 combo for 1 turn; changes Dark Orbs to Fire Orbs & Heal Orbs to Wood Orbs
+EN: For 1 turn, increase combo count by 1; Change Dark orbs to Fire orbs; Change Heal orbs to Wood orbs
+
+# 5960/138 - This next draw will be intense!
+Tags: ENHANCED_ATK
+Game: 4x ATK when Dogiragon Buster & Hamukatsuman Buster on team; 4x ATK when Fire & Wood Att. attack at once
+EN: 4x ATK if [3167, 3170] is on the team; 4x ATK when matching Fire+Wood
+

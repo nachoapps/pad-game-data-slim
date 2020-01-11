@@ -1,0 +1,15 @@
+#184 Poporing
+HP: 52 ATK: 51 RCV: 13 LB: 0
+AWK: 
+SAWK: 
+
+# 158/154 - Attack Stance - Wood
+Tags: ORB_CONVERT
+Game: Changes Heal Orbs to Wood Orbs
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 78/17 - Tree Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Wood Att. damage
+EN: Reduce damage taken from wood att. by 50%
+

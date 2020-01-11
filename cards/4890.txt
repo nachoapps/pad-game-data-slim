@@ -1,0 +1,15 @@
+#4890 Awoken Rozuel
+HP: 4020 ATK: 2113 RCV: 0 LB: 0
+AWK: 21,10,10,20,21,28,61,19
+SAWK: 
+
+# 11983/116 - Healing Chant
+Tags: GUARD_STANCE,ORB_CONVERT,ADD_COMBO
+Game: Changes Light Orbs to Heal Orbs; adds 1 combo for 1 turn
+EN: Change Light orbs to Heal orbs; For 1 turn, increase combo count by 1
+
+# 11986/138 - Divine Charging Order
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP & 3x ATK for Fire Att.; 4x ATK & reduces damage with 2+ Heal combos
+EN: 3x ATK and 1.5x HP for Fire Att.; 4x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+

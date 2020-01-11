@@ -1,0 +1,15 @@
+#2012 Awoken Ra
+HP: 4355 ATK: 1300 RCV: 366 LB: 0
+AWK: 10,10,28,11,19,21,21,17
+SAWK: 
+
+# 1871/116 - Sunburst Knuckle
+Tags: FIXED_DAMAGE,EXTENDS_TIME
+Game: Inflicts 77,777 damage on all enemies; Orb move time +3 seconds for 1 turn
+EN: Deal 77777 fixed damage to all enemies; For 1 turn, increase orb move time by 3 seconds
+
+# 2561/138 - The Sun's Blood Tide
+Tags: ENHANCED_ATK
+Game: 5x ATK when attacking with 5 Att.; 2x ATK for God & Devil Types when skills used
+EN: 5x ATK when matching 5 or more colors; 2x ATK for God, Devil type on the turn a skill is used
+

@@ -1,0 +1,15 @@
+#2664 Creation Empress God, Izanami
+HP: 3487 ATK: 1339 RCV: 549 LB: 0
+AWK: 17,7,9,9,9
+SAWK: 
+
+# 693/3 - Merciful Protection
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 1 turn
+EN: For 1 turn, reduce damage taken by 35%
+
+# 4399/138 - Godly Efficiency of Creation
+Tags: ENHANCED_ATK
+Game: 4x ATK for God & Balanced Types, but reduces overall HP
+EN: 0.75x HP; 4x ATK for Balanced, God type
+

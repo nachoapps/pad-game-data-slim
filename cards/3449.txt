@@ -1,0 +1,15 @@
+#3449 Reincarnated Indra
+HP: 5650 ATK: 1667 RCV: 309 LB: 10
+AWK: 19,28,21,28,21,19,27,27,19
+SAWK: 43,27,54
+
+# 5154/116 - Heaven-Shaking Lightning Wall
+Tags: REDUCE_DAMAGE
+Game: Vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
+EN: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
+
+# 7020/138 - Soul of the Thunderdragon
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Dragon & Physical Types; 3.5x ATK when Light & Dark attack at once
+EN: 2x ATK & RCV for Physical, Dragon type; 3.5x ATK when matching Light+Dark
+

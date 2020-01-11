@@ -1,0 +1,15 @@
+#928 Robin
+HP: 1323 ATK: 518 RCV: 162 LB: 0
+AWK: 
+SAWK: 
+
+# 678/116 - Birdarangs
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: Inflicts 99 damage on 1 enemy; increases ATK a little for Balanced Type for 6 turns
+EN: Deal 99 fixed damage to an enemy; For 6 turns, 1.2x ATK for Balanced type
+
+# 821/98 - Boy Wonder
+Tags: ENHANCED_ATK
+Game: ATK increases with 8+ combos up to 8x ATK
+EN: 4x ATK when 8 or more combos up to 8x at 10 combos
+

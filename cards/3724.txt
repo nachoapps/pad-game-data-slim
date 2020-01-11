@@ -1,0 +1,15 @@
+#3724 Light Orb Dragon, Yobi
+HP: 2144 ATK: 1016 RCV: 305 LB: 0
+AWK: 27,21
+SAWK: 
+
+# 6756/116 - Moonlight Serenade
+Tags: EXTENDS_TIME,REMOVE_LOCK
+Game: Removes Orb locks; Orb move time +2 seconds for 1 turn
+EN: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds
+
+# 8118/136 - Orb Safeguard - Diva
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK for Light Att.; 1.5x HP for Dark Att.
+EN: 2x ATK for Light Att.; 1.5x HP for Dark Att.
+

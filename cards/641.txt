@@ -1,0 +1,15 @@
+#641 Voice of God, Metatron
+HP: 2354 ATK: 1280 RCV: 863 LB: 0
+AWK: 9,10,10,20,21
+SAWK: 
+
+# 640/117 - Quick Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 593/97 - Crusader's Charge
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Healer Type when HP is 80% or more
+EN: 3.5x ATK for Healer type when above 80% HP
+

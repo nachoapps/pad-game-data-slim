@@ -1,0 +1,15 @@
+#3303 Dalmascan Dancer, Penelo
+HP: 2230 ATK: 1810 RCV: 595 LB: 25
+AWK: 10,10,21,28,20,44,61
+SAWK: 54,55
+
+# 6377/116 - Don't leave me here.
+Tags: GUARD_STANCE,HEAL,ORB_CONVERT,AWOKEN_INVALID_RECOVERY
+Game: Recovers 30% of max HP, fully recovers Awoken Skill bind status; changes Jammers, Poison & Dark Orbs to Heal Orbs
+EN: Recover 30% of max HP; Remove all awoken skill binds; Change Dark, Jammer, Poison, and Mortal Poison orbs to Heal orbs
+
+# 6383/138 - Resplendence
+Tags: AUTO_HEAL,ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & 5x ATK for Wood Att., Orb move time +2 sec; recovers 10x RCV as HP when matching Orbs
+EN: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 10x RCV additional heal when matching orbs
+

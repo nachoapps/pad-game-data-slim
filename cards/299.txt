@@ -1,0 +1,15 @@
+#299 Angelion
+HP: 2176 ATK: 783 RCV: 360 LB: 0
+AWK: 8,8,10
+SAWK: 
+
+# 44/9 - Guard Stance - Light
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Dark Orbs to Heal Orbs
+EN: Change Dark orbs to Heal orbs
+
+# 308/36 - Holy Forest Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light & Wood Att. damage
+EN: Reduce damage taken from light, wood att. by 50%
+

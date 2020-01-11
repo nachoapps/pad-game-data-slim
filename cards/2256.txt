@@ -1,0 +1,15 @@
+#2256 Odin Dragon
+HP: 3222 ATK: 980 RCV: 695 LB: 0
+AWK: 10,10,21,9,9
+SAWK: 
+
+# 3343/116 - Draupnir
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 50% of max HP, fully recovers bind status (incl. Awoken); allies' skills charged by 1 turn
+EN: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
+
+# 3473/138 - Heavenly Gale
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 1.5x ATK & RCV for God Type; vastly reduces damage when HP is full
+EN: 1.5x ATK & RCV for God type; Reduce damage taken by 80% when HP is full
+

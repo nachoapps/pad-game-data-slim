@@ -1,0 +1,15 @@
+#5646 Orphen
+HP: 4293 ATK: 2490 RCV: 485 LB: 25
+AWK: 10,10,56,28,53,53,58,58,58
+SAWK: 60,21,53
+
+# 14964/116 - This is me.
+Tags: ATTACK_STANCE,ORB_CONVERT,SUICIDE,REMOVE_LOCK,ORB_LOCK
+Game: Halves HP, removes Orb locks; changes Heal Orbs to Dark Orbs, Dark Orbs locked
+EN: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
+
+# 14975/138 - I dance within thee, Heavenly Castle!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4.5x ATK & reduces damage with 4+ combos; ATK increases with 4+ linked Orbs, up to 4x
+EN: 4.5x ATK and reduce damage taken by 25% when 4 or more combos; 2x ATK when matching 4 or more connected orbs up to 4x at 6 orbs
+

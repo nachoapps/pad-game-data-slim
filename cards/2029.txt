@@ -1,0 +1,15 @@
+#2029 Cloud
+HP: 3073 ATK: 2159 RCV: 488 LB: 0
+AWK: 25,27,28,21,17,25,25,27,27
+SAWK: 
+
+# 2601/116 - It's not my problem.
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks, changes the rightmost column to Light Orbs; other allies' skills charged by 1 turn
+EN: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn
+
+# 2912/138 - Braver
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Attacker Type, Orb move time +2 seconds; 5x ATK when skills used
+EN: 2x HP & ATK for Attacker type; Increase orb movement time by 2 seconds; 5x ATK on the turn a skill is used
+

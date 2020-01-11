@@ -1,0 +1,15 @@
+#2686 Yoruichi
+HP: 1298 ATK: 804 RCV: 41 LB: 0
+AWK: 
+SAWK: 
+
+# 3885/116 - ...You are a fool.
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK,SUICIDE
+Game: 2.5x ATK for Wood Att. for 2 turns; inflicts 10x ATK Wood Att. Mass Attack, but HP falls to 1
+EN: For 2 turns, 2.5x ATK for Wood Att.; Reduce HP to 1; Deal 10x Wood damage to all enemies
+
+# 4467/130 - Did you think you could capture me?
+Tags: ENHANCED_ATK
+Game: 3x ATK when HP is 30% or less
+EN: 3x ATK when below 30% HP
+

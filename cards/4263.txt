@@ -1,0 +1,15 @@
+#4263 Reincarnated Michael
+HP: 4252 ATK: 1964 RCV: 547 LB: 10
+AWK: 28,21,24,9,21,19,24,43,43
+SAWK: 43,59,52
+
+# 8077/116 - Holy Wood's Judgment
+Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Light Orbs to Wood & Dark Orbs to Heal; recovers 30% of max HP
+EN: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+
+# 10657/138 - Spirit of the Wood Archangel
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK for Wood Att. & reduces damage when HP is 80% or more; 3.5x ATK with 2+ Heal combos
+EN: 4x ATK for Wood Att. and reduce damage taken by 35% when above 80% HP; 3.5x ATK when matching 2+ Heal combos
+

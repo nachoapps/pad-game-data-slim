@@ -1,0 +1,15 @@
+#4302 Spirit Detective, Yusuke Urameshi
+HP: 4035 ATK: 1820 RCV: 410 LB: 25
+AWK: 10,10,21,21,28,19,43,43,48
+SAWK: 43,48,54
+
+# 10165/116 - Spirit Gun
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Other allies' skills charged by 1 turn; removes locks and changes all Orbs to Water & Light Orbs
+EN: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs
+
+# 10173/138 - Take this!!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Light Att., 4x ATK with 7+ combos; 2.5x ATK when Light & Water attack at once
+EN: 1.5x all stats for Light Att.; 4x ATK when 7 or more combos; 2.5x ATK when matching Light+Water
+

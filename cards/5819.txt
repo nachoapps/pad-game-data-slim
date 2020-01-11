@@ -1,0 +1,15 @@
+#5819 リーリア
+HP: 3148 ATK: 2403 RCV: 638 LB: 25
+AWK: 52,21,28,19,24,24,24,48,48
+SAWK: 48,53,43
+
+# 15654/116 - 生命の息吹
+Tags: ADD_COMBO,ORB_LOCK
+Game: 1ターンの間、1コンボ加算される。 全ドロップをロック。
+EN: For 1 turn, increase combo count by 1; Lock all orbs
+
+# 15658/138 - 風は言っています。私に……戦えと！
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 木属性のHPが1.5倍。4コンボ以上で攻撃力が上昇、最大20倍。 木を6個以上つなげて消すとダメージを軽減、1コンボ加算。
+EN: 1.5x HP for Wood Att.; 8x ATK when 4 or more combos up to 20x at 10 combos; Increase combo by 1 when matching 6 or more connected Wood orbs at once; Reduce damage taken by 25% when matching 6 or more connected Wood orbs
+

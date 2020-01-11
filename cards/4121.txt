@@ -1,0 +1,15 @@
+#4121 Gilles Legato
+HP: 3838 ATK: 1713 RCV: 93 LB: 0
+AWK: 19,19,21,28
+SAWK: 
+
+# 9712/116 - Dark Moon
+Tags: ORB_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Heal Orbs & Poison Orbs to Dark Orbs
+EN: Unlock all orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs
+
+# 9715/138 - Dark Acolyte's Covenant
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 2x ATK & RCV for Devil Type, Orb move time +1 second; 2.5x ATK for each cross of 5 Dark or Light Orbs
+EN: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light, Dark orbs
+

@@ -1,0 +1,15 @@
+#457 時魔道士
+HP: 1166 ATK: 540 RCV: 353 LB: 0
+AWK: 
+SAWK: 
+
+# 412/18 - Slow
+Tags: MENACE
+Game: Delays enemies' next move for 2 turns
+EN: Delay enemies' next attack by 2 turns
+
+# 365/15 - Hastega
+Tags: EXTEND_TIME
+Game: Orb move time +3 seconds
+EN: Increase orb movement time by 3 seconds
+

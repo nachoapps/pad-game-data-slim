@@ -1,0 +1,15 @@
+#297 Fairlio
+HP: 437 ATK: 154 RCV: 111 LB: 0
+AWK: 
+SAWK: 
+
+# 44/9 - Guard Stance - Light
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Dark Orbs to Heal Orbs
+EN: Change Dark orbs to Heal orbs
+
+# 307/36 - Light and Wood Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Light & Wood Att. damage
+EN: Reduce damage taken from light, wood att. by 30%
+

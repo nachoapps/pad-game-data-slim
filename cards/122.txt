@@ -1,0 +1,15 @@
+#122 Minerva
+HP: 1575 ATK: 900 RCV: 192 LB: 0
+AWK: 
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 76/17 - Flame Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Fire Att. damage
+EN: Reduce damage taken from fire att. by 50%
+

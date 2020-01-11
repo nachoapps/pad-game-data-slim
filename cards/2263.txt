@@ -1,0 +1,15 @@
+#2263 Cruel Frozen Hell Demon, Indigo
+HP: 3140 ATK: 1454 RCV: 315 LB: 0
+AWK: 28,21,23
+SAWK: 
+
+# 3322/116 - Freeze Lock
+Tags: ORB_LOCK
+Game: Creates 3 Water and Dark Orbs each at random; Water & Dark Orbs locked
+EN: Create 3 Water and Dark orbs; Lock Water and Dark orbs
+
+# 3290/129 - Hailstone of Refusal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Devil Type; reduces non-Fire Att. damage
+EN: 3x ATK for Devil type; Reduce damage taken from water, wood, light, dark att. by 20%
+

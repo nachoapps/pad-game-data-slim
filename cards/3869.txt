@@ -1,0 +1,15 @@
+#3869 Pixel Mystical Forest Pixie, Alraune
+HP: 2024 ATK: 1019 RCV: 747 LB: 0
+AWK: 20,9,9,10,10,48
+SAWK: 
+
+# 37/116 - Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 10x RCV in HP, bind status reduced by 3 turns; 1.5x RCV for 7 turns
+EN: Recover 10x RCV as HP; Reduce binds by 3 turns; For 7 turns, 1.5x RCV
+
+# 8980/138 - Dance of the World Tree
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: ATK increases with 6+ linked Wood Orbs, up to 7x; recovers 5x RCV as HP when matching Orbs
+EN: 4x ATK when matching 6 or more connected Wood orbs up to 7x at 9 orbs; 5x RCV additional heal when matching orbs
+

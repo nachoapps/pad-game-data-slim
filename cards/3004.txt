@@ -1,0 +1,15 @@
+#3004 デュエルマスター・切札勝舞
+HP: 4205 ATK: 1898 RCV: 85 LB: 30
+AWK: 21,21,28,19,14,14,14,14,43
+SAWK: 43,54,57
+
+# 5169/116 - My duel is not finished!
+Tags: ENHANCED_ATTACK
+Game: 1.5x ATK for Dragon Type for 3 turns; other allies' skills charged by 1 turn
+EN: For 3 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
+
+# 4962/138 - Let's duel!!
+Tags: ENHANCED_ATK
+Game: 4x ATK when Bolshack-NEX & Maha Rupia on your team; 3x ATK with 2 Fire combos, 4x with 3+ combos
+EN: 4x ATK if [2596, 2154] is on the team; 3x ATK when matching 2 Fire combos, up to 4x at 3 Fire combos
+

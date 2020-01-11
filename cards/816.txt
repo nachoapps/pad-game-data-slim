@@ -1,0 +1,15 @@
+#816 Don Domovoi
+HP: 1818 ATK: 1085 RCV: 302 LB: 0
+AWK: 2,1
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 735/64 - Don's Survival Tips
+Tags: ENHANCED_ATK_RCV
+Game: 1.5x ATK & RCV for Balanced Type
+EN: 1.5x ATK & RCV for Balanced type
+

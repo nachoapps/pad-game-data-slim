@@ -1,0 +1,15 @@
+#1959 Wood Cat Dragon, Calico Nyadra
+HP: 2430 ATK: 1243 RCV: 182 LB: 0
+AWK: 21,16
+SAWK: 
+
+# 1827/116 - Style Change - Fire
+Tags: ENHANCED_ATTACK,CHANGE_ATTRIBUTE
+Game: This ally's Att. changes to Fire for 1 turn; 1.5x ATK for Attacker Type for 1 turn
+EN: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
+
+# 2598/138 - Cat Soul - Wood
+Tags: ENHANCED_ATK,RESOLVE
+Game: 3x ATK for Wood Att. when HP is 50% or less; may survive when HP is reduced to 0
+EN: 3x ATK for Wood Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
+

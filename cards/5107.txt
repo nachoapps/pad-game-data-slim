@@ -1,0 +1,15 @@
+#5107 Dhalsim
+HP: 3242 ATK: 1325 RCV: 353 LB: 30
+AWK: 10,10,28,34,35,33,63
+SAWK: 34,35,33
+
+# 12885/116 - Yoga Fire
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes Light Orbs to Water and Dark Orbs to Fire
+EN: Reduce binds and awoken skill binds by 5 turns; Change Light orbs to Water orbs; Change Dark orbs to Fire orbs
+
+# 12888/138 - This too is the path to achieve enlightenment.
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 2x RCV for Water Att.; 3.5x ATK with 4+ linked Fire Orbs
+EN: 3x ATK and 2x RCV for Water Att.; 3.5x ATK when matching 4 or more connected Fire orbs
+

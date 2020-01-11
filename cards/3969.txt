@@ -1,0 +1,15 @@
+#3969 Pixel Icedragon Plesios
+HP: 3195 ATK: 1206 RCV: 294 LB: 0
+AWK: 1,2,21,46,47,48
+SAWK: 
+
+# 12/116 - Blizzard Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Water Att. for 2 turns; inflicts 20x ATK Water Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
+
+# 8968/138 - Icedragon's Hidden Power
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Water Att.; ATK increases when erasing 6+ linked Water Orbs, up to 5x
+EN: 2x ATK & RCV for Water Att.; 3.5x ATK when matching 6 or more connected Water orbs up to 5x at 9 orbs
+

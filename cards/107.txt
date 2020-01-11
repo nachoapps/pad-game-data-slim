@@ -1,0 +1,15 @@
+#107 Gigas
+HP: 3150 ATK: 1163 RCV: 0 LB: 0
+AWK: 
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 63/14 - Resolve
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

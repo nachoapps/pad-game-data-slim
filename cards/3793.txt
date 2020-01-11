@@ -1,0 +1,10 @@
+#3793 Wedding Makeup Artist, Blue Gadget
+HP: 961 ATK: 506 RCV: 262 LB: 0
+AWK: 15,15
+SAWK: 
+
+# 8341/116 - Star Wedding Road
+Tags: GUARD_STANCE,DROP_CHANCE,LINE_ORBS_CONVERTER
+Game: Changes leftmost column to Light & rightmost to Heal; Light Orbs slightly more likely to appear for 4 turns
+EN: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
+

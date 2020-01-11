@@ -1,0 +1,15 @@
+#5623 Strolling Dragon Callers, Alpha & Omega
+HP: 3411 ATK: 1889 RCV: 608 LB: 30
+AWK: 10,10,21,29,29,29,29,43,43
+SAWK: 48,47,56
+
+# 14708/116 - Pumpkin Smile
+Tags: ALL_ORBS_CONVERT
+Game: ATK increases by the number of [Enhanced Combos] Awoken Skills in team for 1 turn, changes Orbs to Fr, Wd & Heal
+EN: For 1 turn, increase ATK by 30% for each Enhanced Combos awakening skill on the team; Change all orbs to Fire, Wood, and Heal orbs
+
+# 14711/138 - Have some delicious candy!
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 5x ATK for Fire Att. & 2x HP for Wood Att.; 3x ATK & reduces damage when Fr & Wd attack at once
+EN: 5x ATK for Fire Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching Fire+Wood
+

@@ -1,0 +1,15 @@
+#108 Mystic Dark Knight
+HP: 688 ATK: 406 RCV: 100 LB: 0
+AWK: 
+SAWK: 
+
+# 50/9 - Dark Orb Change
+Tags: ORB_CONVERT
+Game: Changes Light Orbs to Dark Orbs
+EN: Change Light orbs to Dark orbs
+
+# 75/17 - Dark Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Dark Att. damage
+EN: Reduce damage taken from dark att. by 30%
+

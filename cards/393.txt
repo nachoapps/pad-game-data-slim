@@ -1,0 +1,15 @@
+#393 Fertility Deity, Evil Ceres
+HP: 2574 ATK: 1161 RCV: 741 LB: 0
+AWK: 20,9,10,10,32,34
+SAWK: 
+
+# 40/117 - Shower of Healing
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status
+EN: Recover all HP; Remove all binds
+
+# 814/129 - Godly Wall of Cursed Flowers
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: Greatly reduces Wood & Dark Att. damage; 1.5x ATK for Devil Type
+EN: 1.5x ATK for Devil type; Reduce damage taken from wood, dark att. by 55%
+

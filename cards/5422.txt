@@ -1,0 +1,15 @@
+#5422 Dracoblade, Imperial Space
+HP: 5074 ATK: 2245 RCV: 139 LB: 0
+AWK: 49,34,8,8,2
+SAWK: 
+
+# 14172/116 - Imperial Space Dragon Roar
+Tags: EXTENDS_TIME
+Game: Creates 2 Dark Orbs at random; Orb move time +1 second for 1 turn
+EN: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
+
+# 14175/138 - Scattering Clouds Stance
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK & reduces damage with 5+ combos; 5x ATK & adds 1 combo with 9+ linked Dark Orbs
+EN: 5x ATK and reduce damage taken by 25% when 5 or more combos; 5x ATK and increase combo by 1 when matching 9 or more connected Dark orbs at once
+

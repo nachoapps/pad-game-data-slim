@@ -1,0 +1,15 @@
+#4655 パワプロくん
+HP: 3540 ATK: 1600 RCV: 393 LB: 25
+AWK: 10,10,53,53,21,28,14,14,30
+SAWK: 56,43,48
+
+# 11034/116 - We're the ones who are gonna win!!
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes the bottom row to Fire Orbs
+EN: For 1 turn, increase combo count by 2; Change the bottom row to Fire orbs
+
+# 11037/138 - Let's play baseball!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Fire Orbs, 2x ATK with 2+ Fire combos; 2x ATK & reduces damage with 6+ linked Fire Orbs
+EN: 3x ATK for Fire Att.; 2x ATK when matching 2+ Fire combos; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
+

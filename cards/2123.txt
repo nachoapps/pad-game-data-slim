@@ -1,0 +1,15 @@
+#2123 受継ぎし拳・水瓶座の氷河
+HP: 3055 ATK: 1359 RCV: 332 LB: 0
+AWK: 23,15,21,15,15,19
+SAWK: 
+
+# 985/116 - ダイヤモンドダスト
+Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Game: 敵1体に10000の固定ダメージ。 2ターンの間、バランスタイプの攻撃力が2倍。
+EN: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Balanced type
+
+# 2976/129 - Let's make this fist your farewell gift
+Tags: ENHANCED_HP_ATK
+Game: 1.5x ATK & 2.5x RCV for Water Att. and Balanced Type
+EN: 2.5x ATK and 1.5x HP for Balanced type and Water Att.
+

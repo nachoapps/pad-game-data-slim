@@ -1,0 +1,15 @@
+#4881 Heathcliff
+HP: 3677 ATK: 1435 RCV: 305 LB: 100
+AWK: 21,19,60,60,63
+SAWK: 
+
+# 11944/116 - Your reaction time is very impressive.
+Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
+Game: Halves damage for 1 turn; inflicts a 200x ATK attack on 1 enemy
+EN: For 1 turn, reduce damage taken by 50%; Deal 200x ATK damage to an enemy
+
+# 11947/138 - If you lose... You will join the Knights of the Blood Oath.
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces damage when HP is 80% or more; 1.5x HP for Light Att.
+EN: 4x ATK and reduce damage taken by 35% when above 80% HP; 1.5x HP for Light Att.
+

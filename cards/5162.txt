@@ -1,0 +1,15 @@
+#5162 Demon World Ruler Candidate, Mukuro
+HP: 3885 ATK: 1653 RCV: 563 LB: 25
+AWK: 10,10,21,21,21,28,19,32,33
+SAWK: 57,45,48
+
+# 12970/116 - Now, I am satisfied.
+Tags: HEAL,ADD_COMBO
+Game: Fully recovers HP; adds 2 combos for 1 turn
+EN: Recover all HP; For 1 turn, increase combo count by 2
+
+# 12976/138 - I will show you this and so much more.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & vastly reduces damage when HP is full; 4x ATK for Fire & Dark Att.
+EN: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire, Dark Att.
+

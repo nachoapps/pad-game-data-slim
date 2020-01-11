@@ -1,0 +1,15 @@
+#4687 SO135-Alastair
+HP: 4595 ATK: 1947 RCV: 464 LB: 0
+AWK: 21,21,21,28,19,57,43,30,30
+SAWK: 
+
+# 10947/116 - Pulsar 67
+Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER
+Game: Changes leftmost column to Dark & rightmost to Wood; Wood attack of 40x team's Wood ATK on all enemies
+EN: Change the far left column to Dark orbs and change the far right column to Wood orbs; Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
+
+# 10950/138 - Tactical Control
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Game: 2x HP for Wd & Dk Att., 6x ATK when Wd & Dk attack at once; bonus attack equal to 100x ATK when matching Orbs
+EN: 2x HP for Wood, Dark Att.; 6x ATK when matching Wood+Dark; 100x ATK additional damage when matching orbs
+

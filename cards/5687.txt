@@ -1,0 +1,15 @@
+#5687 Draconic Songster on Bassoon, Ruo
+HP: 4253 ATK: 2133 RCV: 463 LB: 15
+AWK: 21,28,28,19,19,48,48,57,57
+SAWK: 57,54,56
+
+# 15140/116 - Reshel Flatter
+Tags: REDUCE_DAMAGE,DROP_CHANCE
+Game: Reduces damage for 6 turns; Fire & Dark Orbs more likely to appear for 6 turns
+EN: For 6 turns, reduce damage taken by 30%; For 6 turns, Fire and Dark orbs are more likely to appear by 10%
+
+# 15143/138 - Eternal Dragon Player - Karyukt
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & adds 2 combos with 6+ linked Fr & Dk Orbs each; 3x ATK & reduces damage when HP is 50% or more
+EN: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
+

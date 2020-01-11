@@ -1,0 +1,15 @@
+#4017 星馬烈
+HP: 3298 ATK: 1458 RCV: 390 LB: 0
+AWK: 19,19,28,21,43,46
+SAWK: 
+
+# 9494/116 - Hurricane Power Drift
+Tags: ATTACK_STANCE,HEAL,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs; recovers 25% of max HP for 3 turns
+EN: Change Heal orbs to Fire orbs; For 3 turns, recover 25% of max HP
+
+# 9497/138 - I count on you, Sonic!!
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Balanced & Machine Types; ATK increases with 4+ combos, up to 4x
+EN: 2x ATK & RCV for Balanced, Machine type; 2x ATK when 4 or more combos up to 4x at 8 combos
+

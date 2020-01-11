@@ -1,0 +1,15 @@
+#4910 Kamen Rider Black
+HP: 3885 ATK: 1798 RCV: 470 LB: 25
+AWK: 10,10,56,28,19,26,26,26,48
+SAWK: 33,21,54
+
+# 12035/116 - I do not falter!
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes all Orbs to Wood, Light, Dark & Heal Orbs
+EN: Unlock all orbs; Change all orbs to Wood, Light, Dark, and Heal orbs
+
+# 12038/138 - Vital Charge
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK with 6+ linked Orbs; 4x ATK & reduces damage when 3+ Att. attack at once
+EN: 4x ATK when matching 6 or more connected orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+

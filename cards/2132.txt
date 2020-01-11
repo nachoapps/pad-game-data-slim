@@ -1,0 +1,15 @@
+#2132 歩兵兵站用輸送支援車両・ロジコマ
+HP: 1703 ATK: 1408 RCV: 50 LB: 0
+AWK: 10,10,11,11,13,13,9,9
+SAWK: 
+
+# 1898/116 - アイ、アイサー！
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 敵1体に攻撃力×10倍の火属性攻撃。 1ターンの間、マシンタイプの攻撃力が1.5倍。
+EN: Deal 10x Fire damage to an enemy; For 1 turn, 1.5x ATK for Machine type
+
+# 2997/129 - Chaarge!!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x all stats for Machine Type
+EN: 1.5x all stats for Machine type
+

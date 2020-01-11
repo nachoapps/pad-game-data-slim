@@ -1,0 +1,15 @@
+#302 Drawn Joker
+HP: 2091 ATK: 833 RCV: 342 LB: 0
+AWK: 7,7,10,10,21,21,26,26,26
+SAWK: 
+
+# 162/9 - Guard Stance - Dark
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Light Orbs to Heal Orbs
+EN: Change Light orbs to Heal orbs
+
+# 310/36 - Ice Demon Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Dark & Water Att. damage
+EN: Reduce damage taken from dark, water att. by 50%
+

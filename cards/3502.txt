@@ -1,0 +1,15 @@
+#3502 Reincarnated Umisachi & Yamasachi
+HP: 4255 ATK: 1901 RCV: 581 LB: 10
+AWK: 15,27,27,11,28,21,53,21,11
+SAWK: 60,43,46
+
+# 5398/116 - Soul of the Sea God
+Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Fire Orbs to Water, Heal to Dark, and Jammers & Poison to Wood; recovers 10,000 HP
+EN: Change Fire orbs to Water orbs; Change Heal orbs to Dark orbs; Change Jammer, Poison, and Mortal Poison orbs to Wood orbs; Recover 10000 HP
+
+# 8705/138 - Spirits of the Hunting Gods
+Tags: ENHANCED_ATK
+Game: 4x ATK when Water, Wood, Light & Dark attack at once; ATK increases with 2+ Water combos, up to 8x
+EN: 4x ATK when matching Water, Wood, Light, Dark at once; 4x ATK when matching 2 Water combos, up to 8x at 4 Water combos
+

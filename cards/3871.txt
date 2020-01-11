@@ -1,0 +1,15 @@
+#3871 Pixel Witch of the Night, Lilith
+HP: 1877 ATK: 1238 RCV: 668 LB: 0
+AWK: 9,3,19,21,19,48
+SAWK: 
+
+# 28/116 - Poison Mist
+Tags: ENHANCED_ATTACK,POISON
+Game: 1.5x ATK for Devil Type for 1 turn; poisons all enemies
+EN: For 1 turn, 1.5x ATK for Devil type; Poison all enemies (1x ATK)
+
+# 8986/138 - Dead of Night's Temptation
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: ATK increases with 6+ linked Dark Orbs, up to 7x; Orb move time +5 seconds
+EN: 4x ATK when matching 6 or more connected Dark orbs up to 7x at 9 orbs; Increase orb movement time by 5 seconds
+

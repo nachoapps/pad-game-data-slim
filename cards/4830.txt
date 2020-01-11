@@ -1,0 +1,15 @@
+#4830 Masquerade Toy Dragon Caller, Cotton
+HP: 4810 ATK: 1768 RCV: 504 LB: 30
+AWK: 21,21,28,27,27,45,43,43,43
+SAWK: 27,55,52
+
+# 11723/116 - Halloween Arrangement
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 1 combo for 1 turn; removes Orb locks & changes all Orbs to Light, Dark & Heal Orbs
+EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
+
+# 11727/138 - Ghosts are coming!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces damage with 7+ combos; 3x ATK & reduces damage when Light & Dark attack at once
+EN: 4x ATK and reduce damage taken by 25% when 7 or more combos; 3x ATK and reduce damage taken by 25% when matching Light+Dark
+

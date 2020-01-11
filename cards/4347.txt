@@ -1,0 +1,15 @@
+#4347 Late Sleeper Dragon Knight, Ishtar
+HP: 4077 ATK: 1419 RCV: 198 LB: 0
+AWK: 10,10,21,28,58,58
+SAWK: 
+
+# 10342/116 - Aid of the Heavenly Wind Dragon
+Tags: REDUCE_DEFENSE,ALL_ORBS_CONVERT
+Game: Voids enemies' DEF for 1 turn; changes Orbs to Water, Wood & Light Orbs
+EN: For 1 turn, reduce enemies' defense by 100%; Change all orbs to Water, Wood, and Light orbs
+
+# 10345/138 - We can definitely be on time!
+Tags: ENHANCED_ATK_RCV,RESOLVE
+Game: 4.5x ATK & 1.5x RCV when HP is 50% or less; may survive when HP is reduced to 0
+EN: 4.5x ATK and 1.5x RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
+

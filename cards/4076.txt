@@ -1,0 +1,15 @@
+#4076 Kyo Kusanagi
+HP: 4439 ATK: 1758 RCV: 51 LB: 0
+AWK: 19,19,28,21,21,45
+SAWK: 
+
+# 9556/116 - Hehe, fired up?
+Tags: ALL_ORBS_CONVERT,DROP_CHANCE
+Game: Changes Orbs to Fire & Heal Orbs; Fire Orbs slightly more likely to appear for 2 turns
+EN: Change all orbs to Fire and Heal orbs; For 2 turns, Fire orbs are more likely to appear by 15%
+
+# 9559/138 - 114 Shiki: Aragami
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage with 6+ combos; 2.5x ATK & reduces damage with 3+ Fire combos
+EN: 3x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK and reduce damage taken by 25% when matching 3+ Fire combos
+

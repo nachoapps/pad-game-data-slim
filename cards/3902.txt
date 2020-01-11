@@ -1,0 +1,15 @@
+#3902 Hera-Nyx
+HP: 3345 ATK: 1578 RCV: 305 LB: 0
+AWK: 21,21,26
+SAWK: 
+
+# 8927/161 - Stellar Gravity
+Tags: NEW_GRAVITY
+Game: Inflicts damage equal to 30% of enemies' max HP
+EN: Deal damage equal to 30% of enemies' max HP
+
+# 8930/138 - Divine Queen's Fighting Spirit
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 6x ATK for Devil Type when HP is 80% or more; Orb move time +10 seconds
+EN: 6x ATK for Devil type when above 80% HP; Increase orb movement time by 10 seconds
+

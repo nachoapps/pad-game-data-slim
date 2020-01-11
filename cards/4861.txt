@@ -1,0 +1,15 @@
+#4861 Leafa
+HP: 3513 ATK: 1378 RCV: 535 LB: 0
+AWK: 52,21,28,19,57,57,63
+SAWK: 
+
+# 11852/116 - I'll go anywhere...with you.
+Tags: HEAL,ORB_CONVERT
+Game: Recovers 40% of max HP; changes Jammers, Fire & Poison Orbs to Wood Orbs
+EN: Recover 40% of max HP; Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 11856/138 - If only I could've gone to one of those battles.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & halves damage when HP is 80% or more; 3x ATK with 2 Wood combos, 4x with 3+ combos
+EN: 3x ATK and reduce damage taken by 50% when above 80% HP; 3x ATK when matching 2 Wood combos, up to 4x at 3 Wood combos
+

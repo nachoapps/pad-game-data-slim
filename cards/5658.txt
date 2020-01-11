@@ -1,0 +1,16 @@
+#5658 Kaname Chidori, Whispered
+HP: 4260 ATK: 2768 RCV: 388 LB: 25
+AWK: 10,10,56,28,46,47,48,48,61
+SAWK: 53,27,70
+
+# 15020/116 - How about putting up a little more resistance?
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 2 combos for 1 turn; removes Orb locks, changes all Orbs to Water & Light Orbs
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Light orbs
+
+# 15030/138 - Black Technology
+
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 1.5x to all stats for Wt & Lt Att., Orb move time +3sec; 9x ATK, reduces dmg & adds 1 combo when Wt & Lt attack
+EN: 1.5x all stats for Water, Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water+Light; increase combo by 1 when matching Water, Light at once
+

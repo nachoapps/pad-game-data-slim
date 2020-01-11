@@ -1,0 +1,15 @@
+#3045 Juppongatana "Myo-o", Yukyuzan Anji
+HP: 3835 ATK: 1453 RCV: 65 LB: 0
+AWK: 27,21
+SAWK: 
+
+# 5224/116 - Mission of Salvation
+Tags: REDUCE_DEFENSE,MASSIVE_ATTACK
+Game: Voids enemies' DEF for 1 turn; inflicts 50x ATK Dark Att. Mass Attack
+EN: For 1 turn, reduce enemies' defense by 100%; Deal 50x ATK Dark damage to all enemies
+
+# 5592/138 - I cannot lose!
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: 2x ATK for Physical Type; inflicts bonus attack equal to 2x ATK when matching Orbs
+EN: 2x ATK for Physical type; 2x ATK additional damage when matching orbs
+

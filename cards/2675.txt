@@ -1,0 +1,15 @@
+#2675 Ichigo Kurosaki
+HP: 1565 ATK: 718 RCV: 190 LB: 0
+AWK: 
+SAWK: 
+
+# 3872/116 - This fight... is all mine!
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME
+Game: Changes Orbs to all Attributes & Heal; 1.5x Orb move time for 1 turn
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, 1.5x orb move time
+
+# 4444/138 - Then all I need to do is win!
+Tags: ENHANCED_ATK_RCV
+Game: ATK increases when 4 Att. attack (3+Heal), up to 3.5x; 1.5x ATK & RCV when skills used
+EN: 2.5x ATK when matching 4 or more colors (3+heal) up to 3.5x at 5 colors+heal; 1.5x ATK & RCV on the turn a skill is used
+

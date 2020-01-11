@@ -1,0 +1,15 @@
+#3034 Seta Sojiro
+HP: 1210 ATK: 802 RCV: 139 LB: 0
+AWK: 
+SAWK: 
+
+# 5211/116 - Shukuchi
+Tags: FIXED_DAMAGE
+Game: Inflicts 99 damage on 1 enemy; creates 2 Light Orbs at random
+EN: Deal 99 fixed damage to an enemy; Create 2 Light orbs
+
+# 5567/138 - I shan't hold back.
+Tags: ENHANCED_ATK
+Game: 1.5x ATK for Attacker Type; 3x ATK when skills used
+EN: 1.5x ATK for Attacker type; 3x ATK on the turn a skill is used
+

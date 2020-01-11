@@ -1,0 +1,15 @@
+#2518 Sanctuary Messenger, Archangel
+HP: 1530 ATK: 1110 RCV: 730 LB: 30
+AWK: 29,29,21,25,25,25,19
+SAWK: 52,43,56
+
+# 91/18 - Menace
+Tags: MENACE
+Game: Delays enemies' next move for 3 turns
+EN: Delay enemies' next attack by 3 turns
+
+# 4201/138 - This is a present for you ♪
+Tags: AUTO_HEAL,ENHANCED_HP_ATK
+Game: 2x ATK & HP for Healer Type; heals 4x RCV in HP when matching Orbs
+EN: 2x HP & ATK for Healer type; 4x RCV additional heal when matching orbs
+

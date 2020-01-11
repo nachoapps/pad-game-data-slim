@@ -1,0 +1,15 @@
+#5380 Beast-Taming Newlywed, Panera
+HP: 4074 ATK: 1861 RCV: 431 LB: 30
+AWK: 10,10,21,21,21,28,44,32,33
+SAWK: 43,48,61
+
+# 13725/116 - Pledging Hoop
+Tags: EXTENDS_TIME,VOID_DAMAGE_ABSORBS
+Game: Voids damage absorption for 2 turns; Orb move time +1 second for 2 turns
+EN: For 2 turns, bypass damage absorb shield effects; For 2 turns, increase orb move time by 1 second
+
+# 13728/138 - Let's live happily!
+Tags: ENHANCED_HP_ATK_RCV
+Game: [Orb move time: 5 sec], 2x HP & ATK for Balanced Type; 8x ATK & 2x RCV when 4+ Att. attack at once
+EN: [Fixed 5 second movetime] 2x HP & ATK for Balanced type; 8x ATK and 2x RCV when matching 4 or more colors
+

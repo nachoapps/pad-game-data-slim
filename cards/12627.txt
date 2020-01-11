@@ -1,0 +1,15 @@
+#12627 Myzax
+HP: 1222 ATK: 871 RCV: 19 LB: 0
+AWK: 
+SAWK: 
+
+# 7917/59 - Gigantic Gladiator
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts random Wood Att. damage on 1 enemy
+EN: Randomized Wood damage to an enemy(1~50x)
+
+# 7918/129 - Destructive Behavior
+Tags: ENHANCED_ATK
+Game: 2x ATK for Attacker Type
+EN: 2x ATK for Attacker type
+

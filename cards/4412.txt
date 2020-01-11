@@ -1,0 +1,15 @@
+#4412 Great Witch of the Lonely Island, Reeche
+HP: 3900 ATK: 1740 RCV: 1085 LB: 15
+AWK: 10,10,51,51,21,28,27,27,27
+SAWK: 54,55,46,47,21
+
+# 10617/116 - Fragile Aurora​
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+
+# 10621/138 - Ancient Water Spirit's Magic Seal
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK when attacking with 3+ Att. (2+Heal) at once; 4x ATK & reduces damage with 4+ linked Water Orbs
+EN: 3x ATK when matching 3 or more colors (2+heal); 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs
+

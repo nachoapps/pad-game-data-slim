@@ -1,0 +1,15 @@
+#996 Blue Moon Sea Deity, Isis
+HP: 3038 ATK: 1197 RCV: 703 LB: 0
+AWK: 14,15,16,10,21,28
+SAWK: 
+
+# 432/117 - Quick Heal
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 5x RCV in HP; bind status reduced by 2 turns
+EN: Recover 5x RCV as HP; Reduce binds by 2 turns
+
+# 857/61 - The Beckoning of the Nile
+Tags: ENHANCED_ATK
+Game: ATK increases when attacking with 3+ Att. at once, up to a maximum of 4x for 5 Att. attack
+EN: 3x ATK when matching 3 or more colors up to 4x at 5 colors
+

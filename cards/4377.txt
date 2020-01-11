@@ -1,0 +1,15 @@
+#4377 Yu Narukami & Izanagi
+HP: 3845 ATK: 1960 RCV: 383 LB: 0
+AWK: 10,10,56,19,28,29,29,48,48
+SAWK: 
+
+# 10399/116 - Myriad Arrows
+Tags: REDUCE_DEFENSE
+Game: Voids enemies' DEF for 1 turn; creates 8 Light Orbs at random
+EN: For 1 turn, reduce enemies' defense by 100%; Create 8 Light orbs
+
+# 10405/138 - Investigation Team
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Light Att., Orb move time +2 seconds; 5x ATK with 6+ linked Light Orbs
+EN: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 6 or more connected Light orbs
+

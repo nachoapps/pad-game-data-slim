@@ -1,0 +1,15 @@
+#2923 Oda Nobunaga
+HP: 2499 ATK: 1406 RCV: 201 LB: 0
+AWK: 10,10,26,26
+SAWK: 
+
+# 5074/116 - Unifying Magic Bullets
+Tags: RECOVER_BIND
+Game: Creates 6 Dark Orbs at random; reduces bind status by 3 turns
+EN: Create 6 Dark orbs; Reduce binds by 3 turns
+
+# 4775/138 - Demon's Unifying Force
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 1.5x RCV for Devil Type; 3x ATK with 8+ linked Dark Orbs
+EN: 3x ATK and 1.5x RCV for Devil type; 3x ATK when matching 8 or more connected Dark orbs
+

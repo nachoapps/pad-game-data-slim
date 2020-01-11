@@ -1,0 +1,15 @@
+#3511 Awoken Perseus
+HP: 3445 ATK: 1944 RCV: 239 LB: 0
+AWK: 24,20,21,28,19,27,27,43
+SAWK: 
+
+# 7212/116 - Bionic Green Star Blade
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Water Orbs to Wood, Fire Orbs to Heal, and Jammers & Poison Orbs to Dark
+EN: Change Water orbs to Wood orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 7215/138 - Holy Mech Liberation
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK when Wood & Dark attack at once; 3x ATK & reduces damage with a cross of 5 Heal Orbs
+EN: 3x ATK when matching Wood+Dark; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

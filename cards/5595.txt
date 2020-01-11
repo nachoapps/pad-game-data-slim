@@ -1,0 +1,15 @@
+#5595 Tamtam
+HP: 3428 ATK: 1308 RCV: 313 LB: 30
+AWK: 21,28,19,19,19,60,60,60,63
+SAWK: 52,33,48
+
+# 14648/116 - Ahaooh Gaboora
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 7 turns; creates 3 Fire Orbs at random
+EN: For 7 turns, reduce damage taken by 30%; Create 3 Fire orbs
+
+# 14654/138 - I am devoted to the gods.
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Fire Att., 2x ATK when skills used; 4x ATK with an L shape of 5 Fire Orbs
+EN: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in L shape
+

@@ -1,0 +1,15 @@
+#4102 Chin Gentsai
+HP: 3089 ATK: 1498 RCV: 287 LB: 0
+AWK: 10,10,28,19,43
+SAWK: 
+
+# 9670/116 - Well, guess I'll have a drink.
+Tags: ORB_CONVERT,EXTENDS_TIME
+Game: Extends Orb move time 1.5x for 1 turn; changes Light, Dark & Poison Orbs to Wood Orbs
+EN: For 1 turn, 1.5x orb move time; Change Light, Dark, Poison, and Mortal Poison orbs to Wood orbs
+
+# 9673/138 - Gouran Ennhou
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Wood Att. but unable to erase 3 Orbs or less; 2.5x ATK & reduces dmg when Fr, Wt & Wd attack at once
+EN: [Unable to erase 3 orbs or less] 3x ATK for Wood Att.; 2.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood at once
+

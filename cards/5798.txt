@@ -1,0 +1,15 @@
+#5798 ブラック・マジシャン
+HP: 4070 ATK: 2500 RCV: 340 LB: 25
+AWK: 10,10,21,21,28,53,48,43,43
+SAWK: 56,55,48
+
+# 15541/116 - ブラック・マジック
+Tags: MENACE,ORB_CONVERT,REMOVE_LOCK
+Game: 敵の行動を3ターン遅らせる。ドロップのロック状態を解除。 お邪魔、毒、爆弾ドロップを闇ドロップに変化。
+EN: Delay enemies' next attack by 3 turns; Unlock all orbs; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
+
+# 15545/138 - 黒き魔術師
+Tags: ENHANCED_HP_ATK
+Game: 闇属性のHPと攻撃力が2倍。スキル使用時、攻撃力が7倍。 闇を9個以上つなげて消すと、1コンボ加算。
+EN: 2x HP & ATK for Dark Att.; 7x ATK on the turn a skill is used; Increase combo by 1 when matching 9 or more connected Dark orbs at once
+

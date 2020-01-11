@@ -1,0 +1,15 @@
+#2956 White Kimono Bride, Kano
+HP: 2144 ATK: 1681 RCV: 607 LB: 30
+AWK: 29,28,20,24,9,9,9,9,56
+SAWK: 52,45,43
+
+# 191/116 - Double Wood Guard
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Water, Light & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+EN: Change Water, Light, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+
+# 4909/138 - I'm filled with happiness...
+Tags: ENHANCED_HP_ATK
+Game: 2.5x HP for Healer Type; 3x ATK when erasing 6+ linked Heal Orbs
+EN: 2.5x HP for Healer type; 3x ATK when matching 6 or more connected Heal orbs
+

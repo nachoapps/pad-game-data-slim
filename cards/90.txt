@@ -1,0 +1,15 @@
+#90 Mermaid
+HP: 313 ATK: 200 RCV: 275 LB: 0
+AWK: 
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 67/13 - Healing Song
+Tags: AUTO_HEAL
+Game: Heals HP equal to RCV when matching Orbs
+EN: 1x RCV additional heal when matching orbs
+

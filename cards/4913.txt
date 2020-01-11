@@ -1,0 +1,15 @@
+#4913 Prince of Anger, Bio Rider
+HP: 3285 ATK: 1998 RCV: 530 LB: 25
+AWK: 10,10,21,28,53,48,31,32,34
+SAWK: 33,21,54
+
+# 12055/116 - I am the Prince of Anger!
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Fully recovers HP; changes the bottom row to Water Orbs
+EN: Recover all HP; Change the bottom row to Water orbs
+
+# 12058/138 - Spark Cutter
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & halves damage when HP is 80% or more; ATK increases with 4+ linked Orbs, up to 6x
+EN: 3x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
+

@@ -1,0 +1,15 @@
+#462 アパンダ
+HP: 2215 ATK: 1438 RCV: 0 LB: 0
+AWK: 2,22
+SAWK: 
+
+# 415/19 - Shield Break
+Tags: REDUCE_DEFENSE
+Game: Halves enemies' DEF for 5 turns
+EN: For 5 turns, reduce enemies' defense by 50%
+
+# 368/41 - Counter
+Tags: COUNTERATTACK
+Game: Strong Fire counterattack sometimes
+EN: 50% chance to counterattack with 5x Fire damage
+

@@ -1,0 +1,15 @@
+#760 Sacred Dragon Beast, Angelion
+HP: 2226 ATK: 933 RCV: 570 LB: 0
+AWK: 8,8,10,10,20
+SAWK: 
+
+# 44/9 - Guard Stance - Light
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Dark Orbs to Heal Orbs
+EN: Change Dark orbs to Heal orbs
+
+# 308/36 - Holy Forest Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Light & Wood Att. damage
+EN: Reduce damage taken from light, wood att. by 50%
+

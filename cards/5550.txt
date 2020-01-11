@@ -1,0 +1,15 @@
+#5550 Reincarnated Xiahou Dun
+HP: 4335 ATK: 2593 RCV: 151 LB: 10
+AWK: 27,27,19,28,21,21,27,27,27
+SAWK: 27,52,68
+
+# 11172/116 - Lively Scowl
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes all Orbs to Fire, Wood & Dark Orbs
+EN: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs
+
+# 14431/138 - Spirit of the Brutal Warrior General
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 2.5x ATK & RCV with 8+ combos; 4x ATK & reduces damage when Fire, Wood & Dark attack at once
+EN: [Board becomes 7x6] 2.5x ATK & RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching Fire, Wood, Dark at once
+

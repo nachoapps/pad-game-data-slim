@@ -1,0 +1,15 @@
+#1159 Lilith Kuromi
+HP: 2578 ATK: 1758 RCV: 275 LB: 30
+AWK: 26,26,13,13,19,19,21
+SAWK: 52,43,56
+
+# 926/116 - Devastating Wink!
+Tags: REDUCE_DEFENSE
+Game: Voids enemies' DEF for 3 turns; other allies' skills charged by 2 turns
+EN: For 3 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
+
+# 1235/138 - Pink Heart
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 5x ATK & reduces damage with 4+ combos; Orb move time +3 seconds
+EN: 5x ATK and reduce damage taken by 25% when 4 or more combos; Increase orb movement time by 3 seconds
+

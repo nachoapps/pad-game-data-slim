@@ -1,0 +1,15 @@
+#3868 Pixel Enchantress of the Sea, Siren
+HP: 2111 ATK: 1025 RCV: 721 LB: 0
+AWK: 11,3,9,21,19,48
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 8977/138 - Dance of Wadatsumi
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: ATK increases with 6+ linked Water Orbs, up to 7x; recovers 5x RCV as HP when matching Orbs
+EN: 4x ATK when matching 6 or more connected Water orbs up to 7x at 9 orbs; 5x RCV additional heal when matching orbs
+

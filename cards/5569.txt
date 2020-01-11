@@ -1,0 +1,15 @@
+#5569 Maiden Chosen by the Kamui, Nakoruru
+HP: 3028 ATK: 2025 RCV: 605 LB: 25
+AWK: 52,56,56,28,53,22,22,22,63
+SAWK: 53,48,57
+
+# 14547/116 - Ar Retar Kamuyhum Makiri
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT
+Game: Inflicts 250x ATK Dark Att. attack on 1 enemy; changes all Orbs to Fire Orbs
+EN: Deal 250x ATK Dark damage to an enemy; Change all orbs to Fire orbs
+
+# 14554/138 - Let's go, Mamahaha!
+Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x HP & ATK for Fire Att.; 6x ATK with 7+ linked Fire Orbs
+EN: [Board becomes 7x6] 2x HP & ATK for Fire Att.; 6x ATK when matching 7 or more connected Fire orbs
+

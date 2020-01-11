@@ -1,0 +1,15 @@
+#296 Fortoytops
+HP: 2401 ATK: 810 RCV: 298 LB: 0
+AWK: 5,5,10
+SAWK: 
+
+# 161/9 - Guard Stance - Wood
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Water Orbs to Heal Orbs
+EN: Change Water orbs to Heal orbs
+
+# 306/36 - Frost Forest Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Wood & Water Att. damage
+EN: Reduce damage taken from wood, water att. by 50%
+

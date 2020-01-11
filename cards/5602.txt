@@ -1,0 +1,15 @@
+#5602 2nd Player Color Yoshitora Tokugawa
+HP: 2908 ATK: 1993 RCV: 58 LB: 30
+AWK: 21,21,21,48,48,35,36,64,63
+SAWK: 52,46,47
+
+# 14668/141 - Pink Blossoms
+Tags: 
+Game: Creates 6 Fire Orbs at random
+EN: Create 6 Fire orbs
+
+# 14672/138 - Let's make this fight a good one!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x HP & RCV for all Att.; ATK increases when 3+ Att. (2+Heal) attack at once, up to 12x
+EN: 2x HP & RCV; 3x ATK when matching 3 or more colors (2+heal) up to 12x at 5 colors+heal
+

@@ -1,0 +1,15 @@
+#182 Poring
+HP: 50 ATK: 55 RCV: 10 LB: 0
+AWK: 
+SAWK: 
+
+# 94/116 - Armor Break
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Vastly reduces enemies' DEF for 5 turns; reduces damage for 5 turns
+EN: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
+
+# 76/17 - Flame Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Fire Att. damage
+EN: Reduce damage taken from fire att. by 50%
+

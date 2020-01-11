@@ -1,0 +1,15 @@
+#5325 Reincarnated Vajrabhairava
+HP: 4605 ATK: 2440 RCV: 155 LB: 10
+AWK: 27,19,56,21,28,30,30,43,43
+SAWK: 52,43,55
+
+# 10645/116 - Mantra Blessing
+Tags: ENHANCED_ATTACK
+Game: 2x ATK for Dark Att. for 3 turns; creates 6 Dark Orbs at random
+EN: For 3 turns, 2x ATK for Dark Att.; Create 6 Dark orbs
+
+# 14921/138 - Spirit of the God of Awe and Fear
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Game: 12x ATK & reduces damage with 2+ Dark combos; bonus attack equal to 200x ATK when matching Orbs
+EN: 12x ATK and reduce damage taken by 25% when matching 2+ Dark combos; 200x ATK additional damage when matching orbs
+

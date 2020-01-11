@@ -1,0 +1,10 @@
+#3528 Sonia REMDra
+HP: 555 ATK: 555 RCV: 555 LB: 0
+AWK: 
+SAWK: 
+
+# 7149/118 - Heroine Power
+Tags: ENHANCED_ATTACK,ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,FIXED_DAMAGE,ADD_COMBO,ETC
+Game: Activates a random skill from a set pool
+EN: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
+

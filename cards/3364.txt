@@ -1,0 +1,15 @@
+#3364 Gin Ichimaru
+HP: 1483 ATK: 854 RCV: 19 LB: 0
+AWK: 
+SAWK: 
+
+# 6458/116 - You're out of moves...
+Tags: POISON,EXTENDS_TIME
+Game: Poisons all enemies; halves Orb move time for 1 turn
+EN: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
+
+# 6461/15 - Shoot to kill, Shinso...
+Tags: EXTEND_TIME
+Game: Orb move time +13 seconds
+EN: Increase orb movement time by 13 seconds
+

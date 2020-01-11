@@ -1,0 +1,15 @@
+#138 Amaterasu
+HP: 1463 ATK: 788 RCV: 283 LB: 0
+AWK: 
+SAWK: 
+
+# 40/117 - Shower of Healing
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status
+EN: Recover all HP; Remove all binds
+
+# 67/13 - Healing Song
+Tags: AUTO_HEAL
+Game: Heals HP equal to RCV when matching Orbs
+EN: 1x RCV additional heal when matching orbs
+

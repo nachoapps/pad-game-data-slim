@@ -1,0 +1,15 @@
+#2399 Heimdallr
+HP: 2107 ATK: 538 RCV: 48 LB: 0
+AWK: 
+SAWK: 
+
+# 3589/116 - Gjallarhorn
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: God Type ATK increases slightly for 3 turns; extends Orb move time by 1 second for 3 turns
+EN: For 3 turns, 1.2x ATK for God type; For 3 turns, increase orb move time by 1 second
+
+# 4094/138 - Lantern of Bifröst
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP & 2x ATK for God Type; erasing a cross of 5 Heal Orbs grants damage reduction
+EN: 2x ATK and 1.5x HP for God type; reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

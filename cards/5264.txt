@@ -1,0 +1,15 @@
+#5264 Opacho
+HP: 3445 ATK: 1490 RCV: 335 LB: 30
+AWK: 10,10,21,21,28,57,57,46,46
+SAWK: 57,54,44
+
+# 13332/116 - Me with you forever.
+Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: Voids Attribute absorption for 1 turn; changes Orbs to all Attributes
+EN: For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 13338/138 - Power to Read Minds
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: Orb move time +2 seconds, 3x ATK when 3+ Att. attack at once; 3.5x ATK & reduces damage when HP is 50% or more
+EN: 3.5x ATK and reduce damage taken by 35% when above 50% HP; 3x ATK when matching 3 or more colors; Increase orb movement time by 2 seconds
+

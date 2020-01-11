@@ -1,0 +1,15 @@
+#1869 Nanto Kokakuken Master, Juda
+HP: 3205 ATK: 1325 RCV: 373 LB: 30
+AWK: 28,26,24,26,24,26,24,48,48
+SAWK: 52,54,60
+
+# 1839/116 - Secret Technique Kessho Shi
+Tags: FIXED_DAMAGE
+Game: Inflicts 49 damage on 1 enemy; creates 2 Wood & Dark Orbs each at random
+EN: Deal 49 fixed damage to an enemy; Create 2 Wood and Dark orbs
+
+# 2507/119 - Get Angry! Get Angry!
+Tags: ENHANCED_ATK
+Game: 3.5x ATK with 7+ linked Wood Orbs
+EN: 3.5x ATK when matching 7 or more connected Wood orbs
+

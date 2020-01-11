@@ -1,0 +1,15 @@
+#4688 Kuroyuri
+HP: 5094 ATK: 2356 RCV: 71 LB: 0
+AWK: 10,10,21,28,28,19,19,55,43
+SAWK: 
+
+# 10954/116 - Nasty Darkness
+Tags: HEAL
+Game: Recovers 40% of max HP for 6 turns; other allies' skills charged by 1 turn
+EN: For 6 turns, recover 40% of max HP; Charge all allies' skills by 1 turn
+
+# 10957/138 - Wisdom of the Night Demon
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces dmg when Dark & Fire attack at once, 3x ATK when erasing Heal Orbs; 2x ATK when skills used
+EN: 3x ATK and reduce damage taken by 25% when matching Dark+Fire; 3x ATK when matching 3 or more connected Heal orbs; 2x ATK on the turn a skill is used
+

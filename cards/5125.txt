@@ -1,0 +1,15 @@
+#5125 Dracoblade, Master of Nine Strikes
+HP: 2679 ATK: 3026 RCV: 385 LB: 0
+AWK: 49,32,6,6,2
+SAWK: 
+
+# 12663/116 - Dragon Roar of the Master of Nine Strikes
+Tags: EXTENDS_TIME
+Game: Creates 2 Wood Orbs at random; Orb move time +1 second for 1 turn
+EN: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
+
+# 12666/138 - Stance of the Bold Peaks
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 8x ATK & reduces damage when HP is 50% or more; 1.5x HP & ATK for Wood Att., Orb move time +2 seconds
+EN: 8x ATK and reduce damage taken by 35% when above 50% HP; 1.5x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds
+

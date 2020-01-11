@@ -1,0 +1,15 @@
+#12624 Full Laser Strike, Drazil Robeast
+HP: 3395 ATK: 1555 RCV: 0 LB: 0
+AWK: 10,10
+SAWK: 
+
+# 7907/116 - Robotic Weapon
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: 2.5x ATK for Physical Type for 1 turn;  vastly reduces Orb move time for 1 turn
+EN: For 1 turn, 2.5x ATK for Physical type; For 1 turn, 0.25x orb move time
+
+# 7910/138 - Simultaneous Attack
+Tags: ENHANCED_ATK_RCV,RESOLVE
+Game: ATK & RCV increase slightly for Physical Type; may survive when HP is reduced to 0
+EN: 1.2x ATK & RCV for Physical type; May survive when HP is reduced to 0 (HP>70%)
+

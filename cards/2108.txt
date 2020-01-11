@@ -1,0 +1,15 @@
+#2108 Esper, No.41
+HP: 711 ATK: 446 RCV: 139 LB: 0
+AWK: 
+SAWK: 
+
+# 36/116 - Heal
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 5x RCV in HP, bind status reduced by 2 turns; 1.5x RCV for 3 turns
+EN: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
+
+# 2954/129 - Crossfire
+Tags: ENHANCED_ATK
+Game: 1.5x ATK for Light Att.
+EN: 1.5x ATK for Light Att.
+

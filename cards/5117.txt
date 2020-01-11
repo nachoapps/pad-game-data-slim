@@ -1,0 +1,15 @@
+#5117 Valentine Love Deity, Venus
+HP: 3802 ATK: 1459 RCV: 747 LB: 30
+AWK: 27,27,28,21,19,19,43,44,64
+SAWK: 27,52,59
+
+# 12657/156 - Beautiful Memories
+Tags: REDUCE_DAMAGE
+Game: Reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
+EN: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+
+# 12660/138 - May my love reach you
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Light Att., 4x ATK when 4+ Att. attack at once; halves Light & Dark Att. damage
+EN: 3x ATK for Light Att.; Reduce damage taken from light, dark att. by 50%; 4x ATK when matching 4 or more colors
+

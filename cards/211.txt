@@ -1,0 +1,15 @@
+#211 Meteor Volcano Dragon
+HP: 2825 ATK: 1330 RCV: 186 LB: 0
+AWK: 4,4,21
+SAWK: 
+
+# 116/116 - Magma Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Fire Att. damage on all enemies; changes Dark Orbs to Fire Orbs
+EN: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
+
+# 76/17 - Flame Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Fire Att. damage
+EN: Reduce damage taken from fire att. by 50%
+

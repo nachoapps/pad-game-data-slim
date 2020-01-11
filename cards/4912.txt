@@ -1,0 +1,15 @@
+#4912 Prince of Sadness, Robo Rider
+HP: 4485 ATK: 2098 RCV: 110 LB: 25
+AWK: 10,10,21,28,53,48,58,58,58
+SAWK: 33,21,54
+
+# 12048/116 - I am the Prince of Sadness!
+Tags: ATTACK_STANCE,REDUCE_DAMAGE
+Game: Vastly reduces damage for 1 turn; changes Water & Heal Orbs to Light Orbs
+EN: For 1 turn, reduce damage taken by 75%; Change Water and Heal orbs to Light orbs
+
+# 12051/138 - Hard Shot
+Tags: ENHANCED_HP_ATK
+Game: 2x HP for Light Att., 4x ATK when HP is 80% or less; 4x ATK with 6+ linked Orbs
+EN: 4x ATK when below 80% HP; 2x HP for Light Att.; 4x ATK when matching 6 or more connected orbs
+

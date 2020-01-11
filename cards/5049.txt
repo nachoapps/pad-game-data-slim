@@ -1,0 +1,15 @@
+#5049 Glistening Remain's Grand Star, Geim
+HP: 3340 ATK: 1555 RCV: 335 LB: 30
+AWK: 21,21,28,60,60,48,10,10
+SAWK: 60,53,55
+
+# 12606/116 - Glistening Remain's Flame Spear
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the leftmost column to Dark Orbs; changes 3 non-Dark Orbs to Light Orbs
+EN: Change the far left column to Dark orbs; Create 3 Light orbs over non Dark orbs
+
+# 12609/138 - Infernal Heat Shock
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 3x ATK for Devil & Balanced Types; 2.5x ATK with 5+ linked Dark or Light Orbs
+EN: 3x ATK and 1.5x HP for Balanced, Devil type; 2.5x ATK when matching 5 or more connected Light or Dark orbs
+

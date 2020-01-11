@@ -1,0 +1,15 @@
+#1555 Eight-Headed Dragon God, Viper Orochi
+HP: 3830 ATK: 1390 RCV: 222 LB: 0
+AWK: 27,27,23,21,21,23
+SAWK: 
+
+# 92/18 - Force
+Tags: MENACE
+Game: Delays enemies' next move for 5 turns
+EN: Delay enemies' next attack by 5 turns
+
+# 1792/122 - Eight-Headed Dragon's Gaze
+Tags: ENHANCED_ATK
+Game: 4x ATK for Dragon Type when HP is 80% or less
+EN: 4x ATK for Dragon type when below 80% HP
+

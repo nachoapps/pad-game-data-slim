@@ -1,0 +1,15 @@
+#1217 Keeper of the Sacred Texts, Metatron
+HP: 2454 ATK: 1330 RCV: 863 LB: 0
+AWK: 9,10,10,21,21,20
+SAWK: 
+
+# 640/117 - Quick Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 1275/121 - Crusade Leader
+Tags: ENHANCED_HP_ATK
+Game: 3.5x ATK & 1.5x HP for Healer Type
+EN: 3.5x ATK and 1.5x HP for Healer type
+

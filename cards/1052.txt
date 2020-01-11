@@ -1,0 +1,15 @@
+#1052 Solomon Grundy, Born on a Monday
+HP: 2710 ATK: 890 RCV: 0 LB: 0
+AWK: 5,5
+SAWK: 
+
+# 467/20 - Double Attack Stance-Wt
+Tags: ORB_CONVERT
+Game: Changes Wood & Heal Orbs to Water Orbs
+EN: Change Heal, Wood orbs to Water orbs
+
+# 896/14 - Self-resurrection
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>50%)
+

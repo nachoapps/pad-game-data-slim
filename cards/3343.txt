@@ -1,0 +1,15 @@
+#3343 Xiahou Dun
+HP: 3235 ATK: 1143 RCV: 100 LB: 0
+AWK: 27,27,19,28
+SAWK: 
+
+# 6738/116 - Lively Glance
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Light Orbs to Fire & Water Orbs to Dark
+EN: Unlock all orbs; Change Light orbs to Fire orbs; Change Water orbs to Dark orbs
+
+# 6741/138 - Burning Rage
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board]; 4x ATK & 1.5x RCV when Fire & Dark attack at once
+EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Fire+Dark
+

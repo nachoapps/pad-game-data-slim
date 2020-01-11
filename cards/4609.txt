@@ -1,0 +1,15 @@
+#4609 Jace Beleren
+HP: 3360 ATK: 1282 RCV: 338 LB: 0
+AWK: 19,19,19,21,43
+SAWK: 
+
+# 10847/116 - Mind Sculpt
+Tags: MENACE,POISON
+Game: Delays enemies' next move for 1 turn; all enemies mortally poisoned
+EN: Delay enemies' next attack by 1 turn; Poison all enemies (70x ATK)
+
+# 10850/138 - Mystical Tutor
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x HP & 4x ATK for Water Att., Orb move time +2 seconds; 2x RCV when erasing 4 Heal Orbs
+EN: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 2x RCV when matching 4 Heal orbs
+

@@ -1,0 +1,15 @@
+#5516 Luluna
+HP: 4350 ATK: 2200 RCV: 690 LB: 25
+AWK: 10,10,21,21,21,28,50,48,48
+SAWK: 48,43,55
+
+# 14290/116 - Meowltimate Fang
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME,ADD_COMBO
+Game: Adds 3 combos & Orb move time +1 second for 1 turn; changes the top row to Wood Orbs
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 1 second; Change the top row to Wood orbs
+
+# 14293/138 - I'm the pride of the grimalkin!
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Wd Att., Orb move time +2 seconds; 9x ATK & adds 1 combo with 6+ linked Wood Orbs
+EN: 1.5x all stats for Wood Att.; Increase orb movement time by 2 seconds; 9x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
+

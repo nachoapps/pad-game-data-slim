@@ -1,0 +1,15 @@
+#4287 九頭神竜男
+HP: 3217 ATK: 2002 RCV: 101 LB: 30
+AWK: 21,21,6,6,8,8,35,33
+SAWK: 35,43,52
+
+# 10351/127 - You think you can beat me?!
+Tags: 
+Game: Changes the 2nd column from the left to Wood Orbs; changes the 2nd column from the right to Dark Orbs
+EN: Change the 2nd column from the left to Wood orbs and change the 2nd column from the right to Dark orbs
+
+# 10352/138 - I haven't felt like this before!
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK for Attacker Type; 2.5x ATK & RCV when Wood & Dark attack at once
+EN: 3x ATK for Attacker type; 2.5x ATK & RCV when matching Wood+Dark
+

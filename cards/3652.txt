@@ -1,0 +1,15 @@
+#3652 Rathalos
+HP: 4854 ATK: 2908 RCV: 403 LB: 25
+AWK: 28,19,19,21,43,46,14,14,43
+SAWK: 43,46,52
+
+# 7968/116 - Triple Flame Breath
+Tags: ENHANCED_ORBS
+Game: Creates 6 Fire Orbs at random; Fire Orbs enhanced
+EN: Create 6 Fire orbs; Enhance all Fire orbs
+
+# 7971/138 - The King of the Skies
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK & reduces damage with 2+ Fire combos; 6x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2.5x ATK and reduce damage taken by 25% when matching 2+ Fire combos; 6x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

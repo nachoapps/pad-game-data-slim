@@ -1,0 +1,15 @@
+#5774 Holy Light Flame Angel, Uriel
+HP: 4222 ATK: 2519 RCV: 20 LB: 30
+AWK: 52,22,22,22,22,22,22,22,56
+SAWK: 48,22,64
+
+# 15453/116 - Holy Fire's Blessing
+Tags: LINE_ORBS_CONVERTER,VOID_SKYFALLS
+Game: No Skyfall Combos for 1 turn; changes the bottom row to Fire Orbs
+EN: For 1 turn, no skyfall; Change the bottom row to Fire orbs
+
+# 15457/138 - Ah, The Star! Come Back Here!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Fire Att., 2x ATK when HP is 50% or more; 6x ATK & adds 1 combo with 6+ linked Fire Orbs
+EN: 1.5x all stats for Fire Att.; 2x ATK when above 50% HP; 6x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
+

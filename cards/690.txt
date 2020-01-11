@@ -1,0 +1,15 @@
+#690 Marine Spec Ops Goblin
+HP: 1600 ATK: 1153 RCV: 32 LB: 0
+AWK: 1,15
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 277/24 - Recovery Formation
+Tags: ENHANCED_RCV
+Game: 2x RCV for Attacker Type
+EN: 2x RCV for Attacker type
+

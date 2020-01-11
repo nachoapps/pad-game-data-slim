@@ -1,0 +1,15 @@
+#497 Sun Deity Ra
+HP: 3155 ATK: 1080 RCV: 596 LB: 0
+AWK: 7,8,29,11
+SAWK: 
+
+# 434/56 - Solar Lazer
+Tags: FIXED_DAMAGE
+Game: Inflict 7777 damage on all enemies
+EN: Deal 7777 fixed damage to all enemies
+
+# 394/61 - Ray of the Sun
+Tags: ENHANCED_ATK
+Game: 6x ATK when 5 Att. attack at once
+EN: 6x ATK when matching 5 or more colors
+

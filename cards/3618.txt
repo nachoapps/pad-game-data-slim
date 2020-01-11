@@ -1,0 +1,15 @@
+#3618 陸奥圓明流継承者・陸奥九十九
+HP: 4215 ATK: 1623 RCV: 485 LB: 25
+AWK: 56,21,28,10,10,19,43,43,45
+SAWK: 58,54,44
+
+# 7551/116 - The gate's open!
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
+Game: 2x ATK for Light Att. for 1 turn; changes Orbs to all Attributes & Heal
+EN: For 1 turn, 3x ATK for Light Att.; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 7557/138 - Mutsu Enmei-ryu Hidden Art: Ryuha
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Game: 6x ATK & reduces damage when attacking with 4+ Att; bonus attack equal to 100x ATK when matching Orbs
+EN: 10x ATK and reduce damage taken by 25% when matching 4 or more colors; 100x ATK additional damage when matching orbs
+

@@ -1,0 +1,15 @@
+#2008 Awoken Sphinx
+HP: 3815 ATK: 1337 RCV: 153 LB: 0
+AWK: 27,19,21
+SAWK: 
+
+# 1885/116 - Mystic Lazer
+Tags: FIXED_DAMAGE,EXTENDS_TIME
+Game: Inflicts 6,666 damage on 1 enemy; Orb move time +2 seconds for 1 turn
+EN: Deal 6666 fixed damage to an enemy; For 1 turn, increase orb move time by 2 seconds
+
+# 2589/138 - Pharaoh's Gaze
+Tags: ENHANCED_ATK_RCV
+Game: 5x ATK when attacking with 5 Att. at once; 1.5x RCV for Physical Type
+EN: 5x ATK when matching 5 or more colors; 1.5x RCV for Physical type
+

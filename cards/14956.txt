@@ -1,0 +1,15 @@
+#14956 Dragonzord & Mighty Morphin Green Ranger
+HP: 5558 ATK: 2533 RCV: 420 LB: 25
+AWK: 10,10,21,28,29,29,48,43,43
+SAWK: 48,53,58
+
+# 14787/116 - Time to Power Up!
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
+Game: Changes the leftmost column to Wood Orbs; 2x Orb move time for 1 turn
+EN: Change the far left column to Wood orbs; For 1 turn, 2x orb move time
+
+# 14790/138 - Better as a Team
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP for Water & Wood Att., 5x ATK with 6+ combos; 3x ATK & reduces damage with 5+ linked Orbs
+EN: 1.5x HP for Water, Wood Att.; 5x ATK when 6 or more combos; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
+

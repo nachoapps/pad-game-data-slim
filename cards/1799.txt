@@ -1,0 +1,15 @@
+#1799 ビーデル
+HP: 1298 ATK: 792 RCV: 247 LB: 0
+AWK: 
+SAWK: 
+
+# 1817/116 - 舞空術
+Tags: DROP_CHANCE
+Game: 3ターンの間、火と木ドロップが少し落ちやすくなる。 ランダムで火と木ドロップを2個ずつ生成。
+EN: For 3 turns, Fire and Wood orbs are more likely to appear by 10%; Create 2 Fire and Wood orbs
+
+# 2464/124 - おとなしくつかまりなさい
+Tags: ENHANCED_ATK
+Game: 火火（火木）の2コンボ以上で攻撃力が3倍。
+EN: 3x ATK when matching Fire+Fire(Fire+Wood)
+

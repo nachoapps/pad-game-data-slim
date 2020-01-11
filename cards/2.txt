@@ -1,0 +1,15 @@
+#2 Tyran
+HP: 490 ATK: 231 RCV: 50 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 1/0 - Heat Breath
+Tags: MASSIVE_ATTACK
+Game: Inflicts 10x ATK Fire Mass Attack
+EN: Deal 10x ATK Fire damage to all enemies
+
+# 51/138 - Fire Power
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 1.5x ATK for Fire Att.; Orb move time +2 seconds
+EN: 1.5x ATK for Fire Att.; Increase orb movement time by 2 seconds
+

@@ -1,0 +1,15 @@
+#4952 コマさん
+HP: 4008 ATK: 1833 RCV: 410 LB: 25
+AWK: 10,10,21,28,20,27,27,27,27
+SAWK: 48,53,59
+
+# 12248/116 - Spirit Dance
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
+Game: Changes the leftmost column to Wood Orbs; 2x Orb move time for 1 turn
+EN: Change the far left column to Wood orbs; For 1 turn, 2x orb move time
+
+# 12251/138 - I'll do my best!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 4x ATK for Wood Att., Orb move time +2 seconds; 3x ATK & reduces damage with 4+ combos
+EN: 4x ATK for Wood Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when 4 or more combos
+

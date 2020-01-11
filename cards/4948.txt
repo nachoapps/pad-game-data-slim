@@ -1,0 +1,15 @@
+#4948 Holy Ritual Psychopomp Princess, Grida
+HP: 3826 ATK: 1718 RCV: 389 LB: 30
+AWK: 27,27,27,27,28,56,10,10,64
+SAWK: 27,55,54
+
+# 12231/116 - Christmas Geyser
+Tags: ORB_CONVERT,CHANGE_ENEMIES_ATTRIBUTE
+Game: All enemies' Att. change to Light (ignores barriers); changes Jammers, Light & Poison Orbs to Dark Orbs
+EN: Change all enemies to Light Att.; Change Light, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 12234/138 - What else will I get...
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP & 4x ATK for Devil Type; 3x ATK & reduces damage with 2+ Dark combos
+EN: 4x ATK and 1.5x HP for Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
+

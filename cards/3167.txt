@@ -1,0 +1,15 @@
+#3167 蒼き団長ドギラゴン剣
+HP: 3340 ATK: 2395 RCV: 285 LB: 25
+AWK: 22,22,24,24,56,28,22,22,24
+SAWK: 50,48,52
+
+# 5401/116 - Revolution Change
+Tags: ALL_ORBS_CONVERT
+Game: Changes all Orbs to Fire, Wood & Heal Orbs; other allies' skills charged by 1 turn
+EN: Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
+
+# 5957/138 - Final Revolution
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK with 6+ linked Fire Orbs; 5x ATK & reduces damage with 6+ linked Wood Orbs
+EN: 5x ATK when matching 6 or more connected Fire orbs; 5x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs
+

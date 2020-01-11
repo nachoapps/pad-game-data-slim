@@ -1,0 +1,15 @@
+#3200 God of Good Health, Kundali
+HP: 2855 ATK: 1698 RCV: 220 LB: 0
+AWK: 27,21,19,28,28,30
+SAWK: 
+
+# 5463/116 - Divine Healing
+Tags: ATTACK_STANCE,ADD_COMBO
+Game: Changes Fire & Heal Orbs to Water Orbs; adds 1 combo for 1 turn
+EN: Change Fire and Heal orbs to Water orbs; For 1 turn, increase combo count by 1
+
+# 6522/138 - Axiom of Nectar
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], reduces damage; ATK increases with 2+ Water combos, up to 10x
+EN: [No skyfall] Reduce damage taken by 20%; 3x ATK when matching 2 Water combos, up to 10x at 4 Water combos
+

@@ -1,0 +1,15 @@
+#2371 サシャ・ブラウス
+HP: 3154 ATK: 835 RCV: 70 LB: 0
+AWK: 28,27,16,16,21,63
+SAWK: 
+
+# 3504/116 - Here...take half...
+Tags: ENHANCED_ATTACK
+Game: ATK increases slightly for Physical Type for 6 turns; other allies' skills charged by 1 turn
+EN: For 6 turns, 1.3x ATK for Physical type; Charge all allies' skills by 1 turn
+
+# 3653/133 - No doubt we'll succeed!
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Physical Type when skills used
+EN: 6x ATK for Physical type on the turn a skill is used
+

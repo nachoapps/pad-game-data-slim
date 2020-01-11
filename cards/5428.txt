@@ -1,0 +1,15 @@
+#5428 Divine Healer Dragon Caller, Highren
+HP: 4805 ATK: 2103 RCV: 1200 LB: 15
+AWK: 10,10,48,48,48,53
+SAWK: 48,53,56
+
+# 13946/116 - Life Envisioning
+Tags: VOID_DAMAGE,HEAL,AWOKEN_INVALID_RECOVERY
+Game: Fully recovers HP & Awoken Skill bind status; voids damage for 1 turn
+EN: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage taken by 100%
+
+# 13954/138 - Precise Mechanism Draco Control Seal
+Tags: ENHANCED_HP_ATK
+Game: 2x HP for Water Att., 30x ATK with 10+ combos; adds 3 combos with 7+ linked Fire & Water Orbs each
+EN: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at once; 30x ATK when 10 or more combos; 2x HP for Water Att.
+

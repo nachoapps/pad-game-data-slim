@@ -1,0 +1,15 @@
+#3777 女型の巨人・アニ・レオンハート
+HP: 4805 ATK: 1982 RCV: 19 LB: 25
+AWK: 19,21,25,25,25,34,34,48,63
+SAWK: 52,57,53
+
+# 8246/116 - What I gambled on is only just starting!
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: Changes the top row to Light Orbs; recovers 30% of max HP for 3 turns
+EN: Change the top row to Light orbs; For 3 turns, recover 30% of max HP
+
+# 8252/138 - Yaaaaa!
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 1.5x HP & ATK for Attacker Type; ATK increases with 5+ linked Lt or Heal Orbs, up to 6x
+EN: [No skyfall] 2x HP & ATK for Attacker type; 4x ATK when matching 5 or more connected Light or Heal orbs up to 7x at 8 orbs
+

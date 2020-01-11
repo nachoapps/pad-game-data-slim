@@ -1,0 +1,15 @@
+#5159 Spirit Sword Master, Kazuma Kuwabara
+HP: 4232 ATK: 1850 RCV: 36 LB: 30
+AWK: 17,17,21,19,60,44,21,28,48
+SAWK: 52,43,53
+
+# 13015/116 - Jigen-Tou
+Tags: REDUCE_DEFENSE
+Game: Voids enemies' DEF for 1 turn; changes the 2nd columns from the left & the right to Light Orbs
+EN: For 1 turn, reduce enemies' defense by 100%; Change the 2nd column from the left and the 2nd column from the right to Light orbs
+
+# 13009/138 - I can handle you myself.
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 2.5x ATK for Light Att.; 5x ATK with 5+ linked Light Orbs
+EN: 2.5x ATK and 1.5x HP for Light Att.; 5x ATK when matching 5 or more connected Light orbs
+

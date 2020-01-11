@@ -1,0 +1,15 @@
+#3390 Asgardian Warlock, Odin
+HP: 4349 ATK: 1903 RCV: 278 LB: 15
+AWK: 56,10,10,21,9,20,27,27,27
+SAWK: 48,21,43
+
+# 168/116 - Gungnir
+Tags: ATTACK_AND_HEAL,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 50x ATK Light Att. on 1 enemy, recovers some HP; reduces bind status (incl. Awoken) by 5 turns
+EN: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; Reduce binds and awoken skill binds by 7 turns
+
+# 6489/138 - Sight of Asgard
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: Vastly reduces damage when HP is full;  2.5x ATK & RCV when erasing 4+ linked Wood Orbs
+EN: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
+

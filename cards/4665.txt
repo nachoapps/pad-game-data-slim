@@ -1,0 +1,15 @@
+#4665 矢部明雄
+HP: 3358 ATK: 1375 RCV: 283 LB: 30
+AWK: 21,21,28,60,60,57,55
+SAWK: 52,60,57
+
+# 11088/116 - High-Speed Base Running
+Tags: STOP_TIME
+Game: Changes the 2nd column from the right to Wood Orbs; move Orbs freely for 10 seconds
+EN: Change the 2nd column from the right to Wood orbs; Freely move orbs for 10 seconds
+
+# 11091/138 - Absorbed in the Game Center
+Tags: ENHANCED_HP_ATK
+Game: [Orb move time: 4 sec], 2x HP & ATK for Wood Att.; 3.5x ATK with 5+ linked Wood Orbs
+EN: [Fixed 4 second movetime] 2x HP & ATK for Wood Att.; 3.5x ATK when matching 5 or more connected Wood orbs
+

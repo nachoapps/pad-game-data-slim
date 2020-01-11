@@ -1,0 +1,10 @@
+#4759 松下村塾教科書
+HP: 3220 ATK: 2408 RCV: 303 LB: 0
+AWK: 49,28,57,1
+SAWK: 
+
+# 11425/116 - I just break stuff
+Tags: REDUCE_DEFENSE,ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Voids enemies' DEF for 1 turn; removes Orb locks, changes Orbs to all Attributes
+EN: For 1 turn, reduce enemies' defense by 100%; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+

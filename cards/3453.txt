@@ -1,0 +1,15 @@
+#3453 Soul Reclaimer God of Dark Riches, Osiris
+HP: 3290 ATK: 1667 RCV: 278 LB: 0
+AWK: 16,27,19,16,27,43
+SAWK: 
+
+# 1679/127 - Forest Sign
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the rightmost column into Wood Orbs
+EN: Change the far right column to Wood orbs
+
+# 7032/138 - Providence of the Dark Riches
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Wood Att.; ATK increases with 6+ combos, up to 6.5x
+EN: 1.5x HP & RCV for Wood Att.; 3.5x ATK when 6 or more combos up to 6.5x at 8 combos
+

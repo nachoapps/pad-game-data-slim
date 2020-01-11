@@ -1,0 +1,15 @@
+#4812 Mega Awoken Blue Dragonbound, Ryune
+HP: 4718 ATK: 2603 RCV: 325 LB: 20
+AWK: 23,23,23,23,56,28,52,62,63
+SAWK: 54,57,59
+
+# 11597/116 - Abyss Darksphere
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,ORB_LOCK
+Game: Removes Orb locks, changes all Orbs to Water & Dark Orbs; Water Orbs locked
+EN: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock Water orbs
+
+# 11601/138 - Eternal Dragon Union - Toa
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Water Att., Orb move time +2 seconds; 7x ATK with 6+ linked Water Orbs
+EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7x ATK when matching 6 or more connected Water orbs
+

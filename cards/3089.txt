@@ -1,0 +1,15 @@
+#3089 Holy Ceres Armor X Dragon Caller, Ana
+HP: 3074 ATK: 1261 RCV: 771 LB: 50
+AWK: 27,28,10,10,33,31,21
+SAWK: 31,57,59
+
+# 5271/116 - Shower of Healing X
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Fully recovers HP & bind status; other allies' skills charged by 1 turn
+EN: Recover all HP; Remove all binds; Charge all allies' skills by 1 turn
+
+# 5706/138 - Godly Wall of Holy Forest X
+Tags: ENHANCED_ATK
+Game: 1.5x ATK for each cross of 5 Wood or Light Orbs; 4x ATK when Wood & Light attack at once
+EN: 1.5x ATK for each cross of 5 Wood, Light orbs; 4x ATK when matching Wood+Light
+

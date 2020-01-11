@@ -1,0 +1,15 @@
+#3955 Busy Illuminating Dragon Caller, Myne
+HP: 3210 ATK: 1008 RCV: 842 LB: 30
+AWK: 14,15,16,17,18,19,19,21,60
+SAWK: 52,59,60
+
+# 9107/56 - Little Dragon Attack
+Tags: FIXED_DAMAGE
+Game: Inflicts 5 damage on all enemies
+EN: Deal 50 fixed damage to all enemies
+
+# 9110/138 - Benevolent Draco Protection Seal
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 4x ATK for Dragon Type when skills used; Orb move time +1 second
+EN: 4x ATK for Dragon type on the turn a skill is used; Increase orb movement time by 1 seconds
+

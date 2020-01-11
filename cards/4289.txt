@@ -1,0 +1,15 @@
+#4289 犬夜叉【原作版】
+HP: 3603 ATK: 2360 RCV: 108 LB: 25
+AWK: 27,27,19,19,21,28,10,10,33
+SAWK: 27,54,55
+
+# 3701/116 - I'll protect you with my life
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to Fire, Wood, Light, Dark and Heal Orbs; other allies' skills charged by 1 turn
+EN: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
+
+# 10113/138 - We're not missing anyone.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK for Fire Att., 2x ATK when skills used; 2x ATK & reduces damage with 4+ Att. (3+Heal)
+EN: 4x ATK for Fire Att.; 2x ATK on the turn a skill is used; 2x ATK and reduce damage taken by 25% when matching 4 or more colors (3+heal)
+

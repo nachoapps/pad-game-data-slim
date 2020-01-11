@@ -1,0 +1,15 @@
+#3273 Reincarnated Ra
+HP: 5555 ATK: 1548 RCV: 406 LB: 10
+AWK: 10,10,28,11,19,21,21,17,19
+SAWK: 46,43,55
+
+# 1871/116 - Sunburst Knuckle
+Tags: FIXED_DAMAGE,EXTENDS_TIME
+Game: Inflicts 77,777 damage on all enemies; Orb move time +3 seconds for 1 turn
+EN: Deal 77777 fixed damage to all enemies; For 1 turn, increase orb move time by 3 seconds
+
+# 6234/138 - Spirit of the Sun God
+Tags: ENHANCED_ATK_RCV
+Game: 5x ATK & 2x RCV when 5 Att. attack at once; 3x ATK for God & Devil Types when skills used
+EN: 5x ATK and 2x RCV when matching 5 or more colors; 3x ATK for God, Devil type on the turn a skill is used
+

@@ -1,0 +1,15 @@
+#4352 Spirit Numen of Fire, Borma
+HP: 3665 ATK: 2059 RCV: 115 LB: 20
+AWK: 28,19,19,21,32,43
+SAWK: 43,21,52
+
+# 10355/116 - Wondrous Fire
+Tags: ENHANCED_ATTACK,VOID_DAMAGE_ABSORBS
+Game: Voids damage absorption for 1 turn; 1.5x ATK for Fire Att. for 1 turn
+EN: For 1 turn, bypass damage absorb shield effects; For 1 turn, 1.5x ATK for Fire Att.
+
+# 10358/138 - Borma's Arm
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 5x ATK when 5 Att. attack at once; 6x ATK when 6 Orbs or less remain on the board
+EN: [No skyfall] 6x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 or more colors
+

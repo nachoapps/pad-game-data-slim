@@ -1,0 +1,15 @@
+#3815 Pixel Dark Knight, Cecil
+HP: 5302 ATK: 2303 RCV: 78 LB: 25
+AWK: 27,21,28,19,19,46,48,48,21
+SAWK: 52,43,27
+
+# 8487/116 - I won't be standing idly on the sidelines!
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes all Orbs to Light, Dark & Heal Orbs
+EN: Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
+
+# 8490/138 - Dark Flame
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & RCV for Attacker & Physical Types; 4x ATK when Dark & Light attack at once
+EN: 3x ATK & RCV for Physical, Attacker type; 4x ATK when matching Dark+Light
+

@@ -1,0 +1,15 @@
+#2647 Metallic Star Dragon, Leo
+HP: 1808 ATK: 1172 RCV: 292 LB: 0
+AWK: 21,14
+SAWK: 
+
+# 3768/116 - Star Dust - Flare
+Tags: EXTENDS_TIME
+Game: Creates 3 Fire Orbs & Jammers each at random; Orb move time +1 second for 1 turn
+EN: Create 3 Fire and Jammer orbs; For 1 turn, increase orb move time by 1 second
+
+# 4412/138 - Ruby Film
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Machine Type; 1.5x ATK for Fire Att. when skills used
+EN: 1.5x ATK for Fire Att. on the turn a skill is used; 1.5x HP & RCV for Machine type
+

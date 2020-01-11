@@ -1,0 +1,15 @@
+#3715 Awoken Raphael
+HP: 4400 ATK: 1728 RCV: 105 LB: 0
+AWK: 25,21,20,25,21,19,19,28
+SAWK: 
+
+# 8083/116 - Divine Lifeforce Barrier
+Tags: VOID_DAMAGE,HEAL
+Game: Voids damage for 1 turn; recovers 30% of max HP for 3 turns
+EN: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
+
+# 8086/138 - Radiant Angel's Divine Will
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 4x ATK when attacking with 4+ Att.; 6x ATK when 5 Orbs or less remain on the board
+EN: [No skyfall] 6x ATK when there are 5 or fewer orbs remaining; 4x ATK when matching 4 or more colors
+

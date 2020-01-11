@@ -1,0 +1,10 @@
+#70 Aqua Fighter
+HP: 360 ATK: 165 RCV: 45 LB: 0
+AWK: 
+SAWK: 
+
+# 93/19 - Guard Break
+Tags: REDUCE_DEFENSE
+Game: Halves enemies' DEF for 5 turns
+EN: For 5 turns, reduce enemies' defense by 50%
+

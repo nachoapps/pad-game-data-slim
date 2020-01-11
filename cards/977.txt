@@ -1,0 +1,15 @@
+#977 Gold Pirate Dragon, Anne & Mary
+HP: 3063 ATK: 1436 RCV: 270 LB: 0
+AWK: 17,21
+SAWK: 
+
+# 688/116 - Gilded Sea Dragon Broadside
+Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
+Game: Reduces damage for 1 turn; inflicts 20x ATK Light Att. attack on 1 enemy
+EN: For 1 turn, reduce damage taken by 30%; Deal 20x ATK Light damage to an enemy
+
+# 841/96 - Gold Sea King's Jolly Roger
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Light Att. when HP is 50% or more
+EN: 2.5x ATK for Light Att. when above 50% HP
+

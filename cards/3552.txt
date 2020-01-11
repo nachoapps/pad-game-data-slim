@@ -1,0 +1,15 @@
+#3552 Heroic Woodghost Spear, Misteltein
+HP: 2741 ATK: 2386 RCV: 146 LB: 30
+AWK: 10,10,20,21,28,30,19,19
+SAWK: 43,45
+
+# 7400/116 - Nordic Wind
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,CHANGE_ATTRIBUTE
+Game: Changes Fire Orbs to Wood & Light Orbs to Heal; this ally's Att. changes to Wood for 2 turns
+EN: Change Fire orbs to Wood orbs; Change Light orbs to Heal orbs; Change own Att. to Wood for 2 turns
+
+# 7403/138 - Woodghost Spearstyle
+Tags: ENHANCED_HP_ATK
+Game: 5x ATK for Wood Att. & 1.5x HP for Dark Att.; 1.5x ATK with 2 Wood combos, 2x ATK with 3+ combos
+EN: 5x ATK for Wood Att.; 1.5x HP for Dark Att.; 1.5x ATK when matching 2 Wood combos, up to 2x at 3 Wood combos
+

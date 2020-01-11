@@ -1,0 +1,15 @@
+#2931 Lowen
+HP: 1011 ATK: 523 RCV: 45 LB: 0
+AWK: 
+SAWK: 
+
+# 5117/116 - Inferno Blast
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Inflicts 1,000 damage on all enemies; changes the top row to Fire Orbs
+EN: Deal 1000 fixed damage to all enemies; Change the top row to Fire orbs
+
+# 4867/138 - Blazing Wolf's Claw
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK for Fire Att.; 1.5x HP for Dragon Type
+EN: 2x ATK for Fire Att.; 1.5x HP for Dragon type
+

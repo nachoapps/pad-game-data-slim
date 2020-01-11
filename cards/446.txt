@@ -1,0 +1,15 @@
+#446 チョコボ
+HP: 2148 ATK: 992 RCV: 423 LB: 0
+AWK: 27,17
+SAWK: 
+
+# 406/37 - Choco Attack
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts 40x ATK Light Att. attack on 1 enemy
+EN: Deal 40x ATK Light damage to an enemy
+
+# 361/16 - Choco Barrier
+Tags: REDUCE_DAMAGE
+Game: Slightly reduces damage
+EN: Reduce damage taken by 10%
+

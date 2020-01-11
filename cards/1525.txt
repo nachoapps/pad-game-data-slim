@@ -1,0 +1,15 @@
+#1525 Honorable Dragon General, Kanetsugu
+HP: 3353 ATK: 1615 RCV: 51 LB: 0
+AWK: 27,10,21
+SAWK: 
+
+# 1626/117 - Merciful Radiance
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 30% of your total HP, plus bind status is reduced by 1 turn
+EN: Recover 30% of max HP; Reduce binds by 1 turn
+
+# 1785/121 - Honorable Dragon Crest
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Dragon & Attacker Types
+EN: 2x HP & ATK for Dragon, Attacker type
+

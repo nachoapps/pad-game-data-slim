@@ -1,0 +1,15 @@
+#4359 Courageous Demigod, Gilgamesh
+HP: 3248 ATK: 1710 RCV: 98 LB: 0
+AWK: 21,21,28,19
+SAWK: 
+
+# 10289/116 - Vermillion Flame
+Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Game: Changes the rightmost column to Fire Orbs; voids damage absorption for 1 turn
+EN: Change the far right column to Fire orbs; For 1 turn, bypass damage absorb shield effects
+
+# 10292/138 - Kingly Dream's Guidance
+Tags: ENHANCED_ATK
+Game: 4x ATK with 5+ linked Fire or Light Orbs; ATK increases with 4+ combos, up to 6x
+EN: 4x ATK when matching 5 or more connected Fire or Light orbs; 2x ATK when 4 or more combos up to 6x at 8 combos
+

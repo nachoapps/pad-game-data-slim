@@ -1,0 +1,15 @@
+#1502 Fire Dragon Swordsman
+HP: 1094 ATK: 581 RCV: 149 LB: 0
+AWK: 10,10,21
+SAWK: 
+
+# 1608/116 - Dragon Strike Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Heal Orbs to Fire Orbs, plus bind status is reduced by 3 turns
+EN: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
+
+# 1751/121 - Fire Dragon's Scale
+Tags: ENHANCED_ATK
+Game: 2x ATK for Dragon Type
+EN: 2x ATK for Dragon type
+

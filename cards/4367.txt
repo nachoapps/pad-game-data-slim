@@ -1,0 +1,15 @@
+#4367 Chthonic Goddess, Allatu
+HP: 3465 ATK: 1545 RCV: 133 LB: 0
+AWK: 43,43,19,19
+SAWK: 
+
+# 10316/116 - Dark Liberation
+Tags: MENACE,ALL_ORBS_CONVERT
+Game: Delays enemies' next move for 3 turns; changes all Orbs to Fire, Water & Dark Orbs
+EN: Delay enemies' next attack by 3 turns; Change all orbs to Fire, Water, and Dark orbs
+
+# 10319/138 - Flame Haze of the Underworld
+Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Game: [7x6 board], Orb move time +5 seconds; 2.5x ATK for each cross of 5 Fire, Water or Dark Orbs
+EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Fire, Water, Dark orbs
+

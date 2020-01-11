@@ -1,0 +1,15 @@
+#3133 紳士超人・ロビンマスク
+HP: 3350 ATK: 1535 RCV: 173 LB: 30
+AWK: 23,23,23,23,21,47,47,62
+SAWK: 52,47,50
+
+# 5348/116 - This ain't no fun and games
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
+Game: 1.5x ATK for Physical Types for 3 turns; reduces damage for 3 turns 
+EN: For 3 turns, 2x ATK for Physical type; For 3 turns, reduce damage taken by 35%
+
+# 5843/129 - Tower Bridge
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 1.5x RCV for Physical Type
+EN: 3x ATK and 1.5x RCV for Physical type
+

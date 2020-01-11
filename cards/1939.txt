@@ -1,0 +1,15 @@
+#1939 パーフェクトセル
+HP: 4226 ATK: 1804 RCV: 202 LB: 0
+AWK: 9,21,27,19,26,27,24,24,21
+SAWK: 
+
+# 1632/116 - 超級かめはめ波
+Tags: ENHANCED_ORBS,SINGLE_TARGET_ATTACK
+Game: 敵1体に攻撃力×100倍の攻撃。 木と闇ドロップを強化。
+EN: Deal 100x ATK damage to an enemy; Enhance all Wood and Dark orbs
+
+# 1924/138 - 地球ごと消えてなくなれ!!
+Tags: ENHANCED_ATK_RCV
+Game: 悪魔、ドラゴン、マシンタイプの攻撃力が3.5倍。 木闇の同時攻撃で攻撃力と回復力が2倍。
+EN: 3.5x ATK for Dragon, Devil, Machine type; 2x ATK & RCV when matching Wood+Dark
+

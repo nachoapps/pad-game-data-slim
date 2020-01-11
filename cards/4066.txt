@@ -1,0 +1,15 @@
+#4066 Holy Night Courier, Claíomh Solais
+HP: 2914 ATK: 1860 RCV: 283 LB: 30
+AWK: 10,10,20,21,28,30,30,43,43
+SAWK: 48,55,54
+
+# 9546/116 - Sacred Fire of Claíomh Solais
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,CHANGE_ATTRIBUTE
+Game: Changes Water Orbs to Fire & Dark Orbs to Heal; this ally's Att. changes to Fire for 2 turns
+EN: Change Water orbs to Fire orbs; Change Dark orbs to Heal orbs; Change own Att. to Fire for 2 turns
+
+# 9549/138 - I'll have some fun too♪
+Tags: ENHANCED_HP_ATK
+Game: 5x ATK for Fire Att. & 1.5x HP for Wood Att.; 1.5x ATK with 2 Fire combos, 2x ATK with 3+ combos
+EN: 5x ATK for Fire Att.; 1.5x HP for Wood Att.; 1.5x ATK when matching 2 Fire combos, up to 2x at 3 Fire combos
+

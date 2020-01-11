@@ -1,0 +1,15 @@
+#1486 ヴァンＰ魔
+HP: 2080 ATK: 1135 RCV: 44 LB: 0
+AWK: 18,1
+SAWK: 
+
+# 998/116 - Protection Magic - Dark
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Wood Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+EN: Change Wood orbs to Heal orbs; Reduce binds by 3 turns
+
+# 1769/121 - 超魔眼力
+Tags: ENHANCED_ATK
+Game: 闇属性の攻撃力が2倍。
+EN: 2x ATK for Dark Att.
+

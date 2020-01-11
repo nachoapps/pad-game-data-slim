@@ -1,0 +1,15 @@
+#5010 King of Heroes, Gilgamesh
+HP: 4440 ATK: 2168 RCV: 383 LB: 25
+AWK: 52,21,21,28,19,19,19,44,63
+SAWK: 21,43,61
+
+# 12497/116 - Gate of Babylon
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 5x ATK for God Type for 1 turn; inflicts 150,000 damage on 1 enemy five times
+EN: For 1 turn, 5x ATK for God type; Deal 150000 damage to an enemy 5 times
+
+# 12504/138 - You think too highly of yourself, mongrel.
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6,NO_SKYFALL_COMBOS
+Game: [7x6 board, No Skyfall Combos], 4x ATK with 8+ combos; 4x ATK when 12 Orbs or less remain on the board
+EN: [Board becomes 7x6][No skyfall] 4x ATK when there are 12 or fewer orbs remaining; 4x ATK when 8 or more combos
+

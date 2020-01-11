@@ -1,0 +1,15 @@
+#1281 Chika & War Deity Minerva
+HP: 2805 ATK: 1058 RCV: 500 LB: 0
+AWK: 14,22,21,22,21,30
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 1522/121 - Everyone, I'm counting on you !
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK and 1.5x HP for Healer Type
+EN: 2.5x ATK and 1.5x HP for Healer type
+

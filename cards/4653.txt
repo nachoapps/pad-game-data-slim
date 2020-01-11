@@ -1,0 +1,15 @@
+#4653 Divine War Horse, Sleipnir
+HP: 5539 ATK: 1867 RCV: 835 LB: 15
+AWK: 56,28,19,9,9,9,46,47,33
+SAWK: 46,47,52
+
+# 10903/116 - Brave Sprint
+Tags: REDUCE_DAMAGE,VOID_ATT_ABSORBS
+Game: Vastly reduces damage for 1 turn; voids Attribute absorption for 1 turn
+EN: For 1 turn, reduce damage taken by 75%; For 1 turn, bypass att. absorb shield effects
+
+# 15599/138 - 神戦馬の嘶き
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 木属性のHPと攻撃力が1.5倍。ドロップ操作を2秒延長。  4コンボ以上で攻撃力が上昇、最大6倍。
+EN: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
+

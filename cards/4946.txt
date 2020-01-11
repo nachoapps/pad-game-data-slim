@@ -1,0 +1,15 @@
+#4946 Yog-Sothoth, the Holy Night One
+HP: 6668 ATK: 2315 RCV: 233 LB: 20
+AWK: 19,28,52,43,21,21,30,43,45
+SAWK: 43,48,59
+
+# 12217/116 - Overflowing Torch Flames
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Changes all Orbs to Fire & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
+EN: Change all orbs to Fire and Heal orbs; Recover 40% of max HP; Reduce binds by 4 turns
+
+# 12220/138 - The Holy Ritual Unknown
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 6x ATK when HP is 80% or more, 3x ATK & RCV when 79% or less; 3x ATK & reduces dmg with 2+ Fire combos
+EN: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+

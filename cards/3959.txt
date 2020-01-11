@@ -1,0 +1,10 @@
+#3959 White Book Dragon
+HP: 974 ATK: 342 RCV: 106 LB: 0
+AWK: 25,25
+SAWK: 
+
+# 9065/116 - Solblade Guard
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: Reduces damage for 3 turns; changes the leftmost column to Light Orbs & rightmost to Fire
+EN: For 3 turns, reduce damage taken by 35%; Change the far left column to Light orbs and change the far right column to Fire orbs
+

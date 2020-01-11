@@ -1,0 +1,15 @@
+#332 Shining Wood Fafnir
+HP: 2810 ATK: 1262 RCV: 401 LB: 0
+AWK: 24,21,24,31,38
+SAWK: 
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 321/138 - Planet of Shining Forest
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & 1.5x HP for Light & Wood Att.; 2.5x ATK when Wood & Light attack at once
+EN: 2x ATK and 1.5x HP for Wood, Light Att.; 2.5x ATK when matching Wood+Light
+

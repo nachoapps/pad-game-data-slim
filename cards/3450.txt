@@ -1,0 +1,15 @@
+#3450 Reincarnated Vritra
+HP: 4647 ATK: 2345 RCV: 201 LB: 10
+AWK: 26,21,26,28,26,21,26,19,32
+SAWK: 55,52,58
+
+# 5157/116 - Abyssal Strike
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK,GRUDGE_STRIKE
+Game: The less HP you have, the more Dark dmg caused to all enemies; 2x ATK for Dark Att. for 1 turn
+EN: Deal Dark damage to all enemies depending on HP level (200x at 1 HP and 40x at 100% HP); For 1 turn, 2x ATK for Dark Att.
+
+# 7023/138 - Soul of the Darkdragon
+Tags: ENHANCED_HP_ATK
+Game: 2x ATK & HP for Dragon & Devil Types; 3.5x ATK when Light & Dark attack at once
+EN: 2x HP & ATK for Dragon, Devil type; 3.5x ATK when matching Dark+Light
+

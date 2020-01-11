@@ -1,0 +1,15 @@
+#1299 Radiant God of Creation, Izanagi
+HP: 4245 ATK: 1466 RCV: 325 LB: 0
+AWK: 17,27,29,28,33,21,17,17
+SAWK: 
+
+# 651/116 - Breath of Creation
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 2x ATK for God Type for 1 turn, plus a 30x ATK attack is made on 1 enemy
+EN: Deal 30x ATK damage to an enemy; For 1 turn, 2x ATK for God type
+
+# 1504/138 - World of Divine Intervention
+Tags: ENHANCED_ATK_RCV
+Game: 3.5x ATK & 1.5x RCV for God Type; 1.5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 3.5x ATK and 1.5x RCV for God type; 1.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

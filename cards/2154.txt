@@ -1,0 +1,15 @@
+#2154 マッハ・ルピア
+HP: 1783 ATK: 823 RCV: 405 LB: 0
+AWK: 9,14,21
+SAWK: 
+
+# 1890/3 - Immortal Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 4 turns
+EN: For 4 turns, reduce damage taken by 30%
+
+# 3205/129 - Dragon Summoning Dance
+Tags: ENHANCED_HP_ATK_RCV
+Game: All stats increase a little for Dragon Type
+EN: 1.3x all stats for Dragon type
+

@@ -1,0 +1,15 @@
+#5212 Raizer (Dark Color)
+HP: 5864 ATK: 2110 RCV: 0 LB: 25
+AWK: 10,10,21,21,28,43,43,33,34
+SAWK: 58,54,55
+
+# 13067/116 - Rampage
+Tags: MASSIVE_ATTACK,SUICIDE,VOID_DAMAGE_ABSORBS
+Game: Inflicts 60x ATK Wood Att. Mass Attack, but halves HP; voids damage absorption for 2 turns
+EN: Reduce HP by 50%; Deal 60x Wood damage to all enemies; For 2 turns, bypass damage absorb shield effects
+
+# 13070/138 - My soul howls!
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 4x ATK for Wood Att., 1.5x HP for Dark Att.; 4x ATK & reduces damage with 6+ combos
+EN: 4x ATK for Wood Att.; 1.5x HP for Dark Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos
+

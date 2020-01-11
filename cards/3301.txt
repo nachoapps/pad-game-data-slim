@@ -1,0 +1,15 @@
+#3301 Legendary Guardian, Auron
+HP: 3000 ATK: 2255 RCV: 0 LB: 25
+AWK: 41,39,33,34,37,38,21
+SAWK: 43,52
+
+# 6368/116 - Now is the time to choose!
+Tags: REDUCE_DEFENSE
+Game: Vastly reduces enemies' DEF for 3 turns; creates 3 Fire & Dark Orbs each at random
+EN: For 3 turns, reduce enemies' defense by 75%; Create 3 Fire and Dark orbs
+
+# 6374/138 - Banishing Blade
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Attacker & Physical Types; Orb move time +2 seconds, 4x ATK when skills used
+EN: 2x HP & ATK for Physical, Attacker type; Increase orb movement time by 2 seconds; 4x ATK on the turn a skill is used
+

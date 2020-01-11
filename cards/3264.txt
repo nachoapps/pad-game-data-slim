@@ -1,0 +1,15 @@
+#3264 Original God Odin Dragon, Light Lance Form
+HP: 5400 ATK: 1800 RCV: 750 LB: 5
+AWK: 10,10,21,21,19,19,28,20,43
+SAWK: 27,37,57
+
+# 3343/116 - Draupnir
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 50% of max HP, fully recovers bind status (incl. Awoken); allies' skills charged by 1 turn
+EN: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
+
+# 6404/138 - Unrest in Asgard
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: 3.5x ATK for each cross of 5 Wood or Light Orbs; recovers 10x RCV as HP when matching Orbs
+EN: 3.5x ATK for each cross of 5 Wood, Light orbs; 10x RCV additional heal when matching orbs
+

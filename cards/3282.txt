@@ -1,0 +1,15 @@
+#3282 Sacred Texts Researcher, Mito
+HP: 2615 ATK: 1163 RCV: 775 LB: 0
+AWK: 10,10,21,33,33
+SAWK: 
+
+# 640/117 - Quick Cure
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 6277/138 - Holy War Analysis
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 4x ATK for Healer Type;  Orb move time +2 seconds
+EN: 4x ATK for Healer type; Increase orb movement time by 2 seconds
+

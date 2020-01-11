@@ -1,0 +1,15 @@
+#3429 2体で最強の妖・うしおととら
+HP: 5253 ATK: 1858 RCV: 20 LB: 25
+AWK: 10,10,28,53,27,21,28,27,33
+SAWK: 43,44,33
+
+# 3710/116 - Beast Spear
+Tags: ORB_CONVERT,RECOVER_BIND
+Game: Changes Poison & Heal Orbs to Light Orbs; bind status reduced by 3 turns
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Reduce binds by 3 turns
+
+# 6969/138 - We fight...alongside the sun!
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Physical, Attacker & Devil Types; ATK increases with 5+ combos, up to 9x
+EN: 2x ATK & RCV for Physical, Attacker, Devil type; 5x ATK when 5 or more combos up to 9x at 9 combos
+

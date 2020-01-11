@@ -1,0 +1,10 @@
+#2930 Ouka
+HP: 495 ATK: 245 RCV: 29 LB: 0
+AWK: 
+SAWK: 
+
+# 5117/116 - Inferno Blast
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Inflicts 1,000 damage on all enemies; changes the top row to Fire Orbs
+EN: Deal 1000 fixed damage to all enemies; Change the top row to Fire orbs
+

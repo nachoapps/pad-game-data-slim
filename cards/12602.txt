@@ -1,0 +1,15 @@
+#12602 Voltron & Shoulder Cannon
+HP: 4013 ATK: 1788 RCV: 13 LB: 0
+AWK: 21,21,21,28,19
+SAWK: 
+
+# 7835/116 - Guardian of the Universe
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the leftmost column to Fire Orbs & the rightmost column to Heal Orbs
+EN: Unlock all orbs; Change the far left column to Fire orbs and change the far right column to Heal orbs
+
+# 7841/138 - Form shoulder cannon!
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Machine & Physical Types; 3.5x ATK for each cross of 5 Fire Orbs
+EN: 1.5x HP & ATK for Physical, Machine type; 3.5x ATK for each cross of 5 Fire orbs
+

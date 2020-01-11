@@ -1,0 +1,15 @@
+#647 Satan, King of the Underworld
+HP: 6666 ATK: 1111 RCV: -9999 LB: 0
+AWK: 26,26,26
+SAWK: 
+
+# 483/116 - World's End
+Tags: SINGLE_TARGET_ATTACK,SUICIDE
+Game: Inflicts 300x ATK Dark Att. attack on 1 enemy but HP falls to 1; 6 Dark Orbs created at random
+EN: Reduce HP to 1; Deal 300x Dark damage to an enemy; Create 6 Dark orbs
+
+# 513/22 - Satan's Insight
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Devil Type
+EN: 3.5x ATK for Devil type
+

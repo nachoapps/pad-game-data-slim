@@ -1,0 +1,15 @@
+#3951 Bewitching Illusion Dragonbound, Kulia
+HP: 3794 ATK: 2012 RCV: 359 LB: 15
+AWK: 19,19,21,28,28,43,43
+SAWK: 47,43,54
+
+# 9101/116 - Delusion Eye
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
+Game: Orb move time +1 second for 2 turns; changes the leftmost column to Water & rightmost to Dark Orbs
+EN: For 2 turns, increase orb move time by 1 second; Change the far left column to Water orbs and change the far right column to Dark orbs
+
+# 9104/138 - Eternal Dragon Control - Morum
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 4x ATK & reduces damage when Dark & Water attack at once; Orb move time +3 seconds
+EN: 4x ATK and reduce damage taken by 25% when matching Dark+Water; Increase orb movement time by 3 seconds
+

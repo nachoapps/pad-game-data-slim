@@ -1,0 +1,15 @@
+#3774 人類を救う鍵・エレン・イェーガー
+HP: 6293 ATK: 2208 RCV: 98 LB: 25
+AWK: 52,56,22,22,28,28,43,43,63
+SAWK: 43,48,57
+
+# 3384/116 - I'll kill them all!
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 30% of max HP and reduces bind status by 3 turns; other allies' skills charged by 1 turn
+EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
+
+# 8240/138 - You damn traitors!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 6x ATK for Physical & Machine Types; Orb move time +3 seconds
+EN: 6x ATK for Physical, Machine type; Increase orb movement time by 3 seconds; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Fire orbs
+

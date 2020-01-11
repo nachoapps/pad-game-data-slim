@@ -1,0 +1,15 @@
+#4183 Blazing Sun God of Great Talent, Lugh
+HP: 3093 ATK: 1358 RCV: 513 LB: 0
+AWK: 19,28,28,21,25,25,25
+SAWK: 
+
+# 9765/173 - Sunlight Wheel
+Tags: VOID_DAMAGE_ABSORBS
+Game: Voids damage absorption for 1 turn
+EN: For 1 turn, bypass damage absorb shield effects
+
+# 9768/138 - Supreme Mystic Spear Technique
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 4x ATK & reduces dmg when Lt & Fr attack at once; 3x ATK if 8 Orbs or less remain on board
+EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when matching Light+Fire
+

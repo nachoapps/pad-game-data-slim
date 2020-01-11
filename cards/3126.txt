@@ -1,0 +1,15 @@
+#3126 キン肉マンソルジャー
+HP: 4363 ATK: 1990 RCV: 153 LB: 25
+AWK: 27,27,28,21,19,19,19,60,45
+SAWK: 52,46,43
+
+# 5339/116 - Even if it kills me!
+Tags: ORB_CONVERT,ADD_COMBO
+Game: Changes Dark Orbs to Wood Orbs; adds 2 combos for 1 turn
+EN: Change Dark, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, increase combo count by 2
+
+# 5824/138 - Napalm Stretch
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK & reduces damage with an L shape of 5 Orbs; 3x ATK and reduces damage with 6+ combos
+EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
+

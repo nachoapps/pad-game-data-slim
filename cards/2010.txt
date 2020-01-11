@@ -1,0 +1,15 @@
+#2010 Awoken Isis
+HP: 3438 ATK: 1597 RCV: 433 LB: 0
+AWK: 15,15,10,10,19,28,23,21
+SAWK: 
+
+# 1869/116 - Quick Guard
+Tags: REDUCE_DAMAGE,RECOVER_BIND
+Game: Slightly reduces damage for 1 turn; reduces bind status by 3 turns
+EN: For 1 turn, reduce damage taken by 15%; Reduce binds by 3 turns
+
+# 2559/138 - Abyss of the Nile
+Tags: ENHANCED_ATK
+Game: 3x ATK when attacking with 3+ Att.; 1.5x ATK for Water Att. when skills used
+EN: 3x ATK when matching 3 or more colors; 1.5x ATK for Water Att. on the turn a skill is used
+

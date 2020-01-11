@@ -1,0 +1,15 @@
+#5858 極醒の無尽なるもの・ヨグ＝ソトース
+HP: 6558 ATK: 2335 RCV: 233 LB: 20
+AWK: 53,28,10,10,56,21,43,43,48
+SAWK: 48,56,32
+
+# 15636/116 - 暴れ出す知識
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 全ドロップを光と回復ドロップに変化。 HPとバインド状態と覚醒無効状態を全回復。
+EN: Change all orbs to Light and Heal orbs; Recover all HP; Remove all binds and awoken skill binds
+
+# 15639/138 - 眩耀の驚異
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: HP50％以上で攻撃力が6倍、49％以下で攻撃力と回復力が4倍。 光の2コンボ以上でダメージを軽減、攻撃力が3倍。
+EN: 6x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 3x ATK and reduce damage taken by 25% when matching 2+ Light combos
+

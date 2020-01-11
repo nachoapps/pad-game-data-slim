@@ -1,0 +1,15 @@
+#1094 Cyclone Devil Dragon
+HP: 3040 ATK: 1616 RCV: 172 LB: 50
+AWK: 8,6,21
+SAWK: 60,43,48
+
+# 120/116 - Hell Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Dark Att. damage on all enemies; changes Water Orbs to Dark Orbs
+EN: Deal 20000 Dark damage to all enemies; Change Water orbs to Dark orbs
+
+# 359/36 - Cursed Flower Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Wood & Dark Att. damage
+EN: Reduce damage taken from wood, dark att. by 50%
+

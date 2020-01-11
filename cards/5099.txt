@@ -1,0 +1,15 @@
+#5099 Karin Kanzuki
+HP: 2035 ATK: 2095 RCV: 848 LB: 25
+AWK: 52,21,21,54,57,57,57,57,63
+SAWK: 57,53,21
+
+# 12842/116 - Mujinkyaku
+Tags: ADD_COMBO
+Game: Creates a cross of Light Orbs; adds 1 combo for 1 turn
+EN: Create cross of Light orbs with center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
+
+# 12845/138 - Oh-hohohoho!
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & 4x ATK for Light Att., Orb move time +2 seconds; 3x ATK for each cross of 5 Light Orbs
+EN: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Light orbs
+

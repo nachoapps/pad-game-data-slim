@@ -1,0 +1,15 @@
+#5657 Kaname Chidori
+HP: 4260 ATK: 2668 RCV: 388 LB: 25
+AWK: 10,10,56,21,28,27,27,27,27
+SAWK: 53,27,70
+
+# 15020/116 - How about putting up a little more resistance?
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 2 combos for 1 turn; removes Orb locks, changes all Orbs to Water & Light Orbs
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Light orbs
+
+# 15027/138 - Jindai High School Student Council Vice-President
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x HP & ATK for Water Att., Orb move time +2 seconds; 6x ATK & reduces dmg when Water & Light attack at once
+EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Water+Light
+

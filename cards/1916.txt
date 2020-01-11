@@ -1,0 +1,15 @@
+#1916 Music Dragon, Legelonte
+HP: 2606 ATK: 1106 RCV: 518 LB: 0
+AWK: 11,21,19
+SAWK: 
+
+# 1848/116 - Fermata
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 1 turn; other allies' skills charged by 1 turn
+EN: For 1 turn, reduce damage taken by 25%; Charge all allies' skills by 1 turn
+
+# 2529/98 - Crescendo
+Tags: ENHANCED_ATK
+Game: ATK increases with 2+ combos, up to a maximum of 3x
+EN: 1.5x ATK when 2 or more combos up to 3x at 5 combos
+

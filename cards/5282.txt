@@ -1,0 +1,15 @@
+#5282 KIRIMICHAN.
+HP: 5840 ATK: 1475 RCV: 26 LB: 25
+AWK: 10,10,56,28,23,23,23,23,62
+SAWK: 54,48,58
+
+# 13407/116 - Love Salmon!
+Tags: SUICIDE,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks, but halves HP; changes the 2 bottom rows to Water Orbs
+EN: Reduce HP by 50%; Unlock all orbs; Change the 2nd row from the bottom and the bottom row to Water orbs
+
+# 13411/138 - Bon Appétit
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 6x ATK for Water Att., Orb move time +3 seconds; 2.5x ATK with 6+ linked Water Orbs
+EN: 6x ATK for Water Att.; Increase orb movement time by 3 seconds; 2.5x ATK when matching 6 or more connected Water orbs
+

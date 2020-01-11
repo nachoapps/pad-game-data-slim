@@ -1,0 +1,15 @@
+#5768 Kamen Rider Fourze
+HP: 3814 ATK: 1964 RCV: 341 LB: 30
+AWK: 60,43,43,21,21,28,19,10,10
+SAWK: 60,69,48
+
+# 15435/141 - One-on-one, let's go! 
+Tags: 
+Game: Creates 10 Water, Light & Heal Orbs each at random
+EN: Create 10 Water, Light, and Heal orbs over any orbs
+
+# 15436/138 - Rider Rocket Drill Space Kick 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & adds 1 combo with 5+ linked Water & Light Orbs each; 4x ATK & reduces damage with 5+ combos
+EN: 4x ATK and increase combo by 1 when matching 5 or more connected Water and Light orbs at once; 4x ATK and reduce damage taken by 25% when 5 or more combos
+

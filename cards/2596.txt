@@ -1,0 +1,15 @@
+#2596 ボルシャック・NEX
+HP: 3585 ATK: 2480 RCV: 134 LB: 30
+AWK: 14,56,27,14,12,12,12,27,27
+SAWK: 52,27,48
+
+# 2643/116 - ボルシャック・ファイアー
+Tags: LINE_ORBS_CONVERTER
+Game: 右端縦1列を火ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+EN: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
+
+# 4314/137 - Dragon and Bird's Friendship
+Tags: ENHANCED_HP_ATK_RCV
+Game: 6x ATK & 2x RCV for Dragon Type; 1.5x HP & ATK for Attacker Type
+EN: 6x ATK and 2x RCV for Dragon type; 1.5x HP & ATK for Attacker type
+

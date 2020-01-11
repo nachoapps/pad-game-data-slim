@@ -1,0 +1,15 @@
+#4578 海賊トラゴン
+HP: 3523 ATK: 1406 RCV: 202 LB: 0
+AWK: 11,28,21,61
+SAWK: 
+
+# 10136/189 - Victory Road
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,COMBO_ROOT
+Game: Removes Orb locks, changes Orbs to Fr, Wt, Wd & Lt Orbs; shows 3 combo path (Norm. Dungeon & 3 linked Orbs only)
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs; Show path to 3 combos
+
+# 10137/138 - I also leave claw marks!!
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x HP & RCV for Dragon Type; 4x ATK with 2+ Att., Orb move time +4 seconds
+EN: 1.5x HP & RCV for Dragon type; Increase orb movement time by 4 seconds; 4x ATK when matching 2 or more colors
+

@@ -1,0 +1,15 @@
+#1096 Wind Twin Star Fafnir
+HP: 2960 ATK: 1512 RCV: 301 LB: 20
+AWK: 24,21,24,27,24,24
+SAWK: 27,50,34
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 794/138 - Twin Wind Spiral
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases up to 3x with 5+ linked Wd Orbs; 2x ATK & halves dmg with cross of 5 Heal Orbs
+EN: 2.5x ATK when matching 5 or more connected Wood orbs up to 3x at 6 orbs; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

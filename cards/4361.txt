@@ -1,0 +1,15 @@
+#4361 God of Wisdom, Ea
+HP: 3093 ATK: 1100 RCV: 513 LB: 0
+AWK: 27,27,21,28
+SAWK: 
+
+# 10295/116 - Whirling Spiral
+Tags: REDUCE_DAMAGE,ADD_COMBO
+Game: Adds 2 combos for 1 turn; halves damage for 1 turn
+EN: For 1 turn, increase combo count by 2; For 1 turn, reduce damage taken by 50%
+
+# 10298/138 - The Energy of the Divine Spring
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 4x ATK, Orb move time +4 seconds; 4x ATK & reduces damage when 4+ Att. attack at once
+EN: [No skyfall] 4x ATK; Increase orb movement time by 4 seconds; 4x ATK and reduce damage taken by 25% when matching 4 or more colors
+

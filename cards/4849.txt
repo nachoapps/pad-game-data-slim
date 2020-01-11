@@ -1,0 +1,15 @@
+#4849 Date Masamune
+HP: 3010 ATK: 1653 RCV: 215 LB: 0
+AWK: 21,21,58,58,58
+SAWK: 
+
+# 11762/116 - Sacrificing Sword Stroke
+Tags: SINGLE_TARGET_ATTACK,SUICIDE,ADD_COMBO
+Game: Inflicts 100x ATK Wood Att. attack on 1 enemy, but halves HP; adds 2 combos for 1 turn
+EN: Reduce HP by 50%; Deal 100x Wood damage to an enemy; For 1 turn, increase combo count by 2
+
+# 11765/138 - Sendai Bamboo Protective Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
+Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Wood & Dark attack at once
+EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Wood+Dark
+

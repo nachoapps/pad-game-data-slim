@@ -1,0 +1,15 @@
+#3372 Radiant Staff Mechdragon God, Balboa
+HP: 3824 ATK: 1574 RCV: 282 LB: 0
+AWK: 21,21,28,36,32,20,10,10
+SAWK: 
+
+# 5092/116 - Astray Mist
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Voids enemies' DEF for 1 turn; halves damage for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
+
+# 4829/138 - Hermit Soul
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Wood Att.; 3x ATK when Wood & Water attack at once
+EN: 2x ATK & RCV for Wood Att.; 3x ATK when matching Wood+Water
+

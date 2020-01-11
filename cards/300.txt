@@ -1,0 +1,15 @@
+#300 Pierdra
+HP: 420 ATK: 164 RCV: 105 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 162/9 - Guard Stance - Dark
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Light Orbs to Heal Orbs
+EN: Change Light orbs to Heal orbs
+
+# 309/36 - Dark and Water Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Dark & Water Att. damage
+EN: Reduce damage taken from dark, water att. by 30%
+

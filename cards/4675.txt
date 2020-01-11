@@ -1,0 +1,15 @@
+#4675 大豪月
+HP: 2954 ATK: 1963 RCV: 41 LB: 30
+AWK: 21,21,28,19,19,41,41,11,11
+SAWK: 52,55,43
+
+# 11146/116 - Violent Ball
+Tags: REDUCE_DEFENSE,MASSIVE_ATTACK
+Game: Vastly reduces enemies' DEF for 1 turn; inflicts random Water Att. damage on all enemies
+EN: For 1 turn, reduce enemies' defense by 75%; Randomized Water damage to all enemies(30~250x)
+
+# 11149/105 - Would you say you're dissatisfied?
+Tags: ENHANCED_ATK
+Game: 3.5x ATK, but halves overall RCV
+EN: 3.5x ATK and 0.5x RCV
+

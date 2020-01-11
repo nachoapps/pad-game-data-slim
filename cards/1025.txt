@@ -1,0 +1,15 @@
+#1025 ゲンスルー
+HP: 1098 ATK: 756 RCV: 80 LB: 0
+AWK: 
+SAWK: 
+
+# 909/116 - 一握りの火薬
+Tags: REDUCE_DEFENSE,SINGLE_TARGET_ATTACK
+Game: 1ターンの間、敵の防御力が減少。 敵1体に攻撃力×30倍の火属性攻撃。
+EN: For 1 turn, reduce enemies' defense by 25%; Deal 30x ATK Fire damage to an enemy
+
+# 883/119 - 解放
+Tags: ENHANCED_ATK
+Game: 火を4個以上つなげて消すと攻撃力が上昇、最大3倍。
+EN: 2.5x ATK when matching 4 or more connected Fire orbs up to 3x at 5 orbs
+

@@ -1,0 +1,15 @@
+#3410 Bat
+HP: 3788 ATK: 1822 RCV: 34 LB: 0
+AWK: 10,10,20,21,28,43,43
+SAWK: 
+
+# 6937/116 - Just leave it to me!
+Tags: MENACE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Delays enemies' next move for 2 turns; reduces bind status (incl. Awoken) by 7 turns
+EN: Delay enemies' next attack by 2 turns; Reduce binds and awoken skill binds by 7 turns
+
+# 6940/129 - How have you survived until now?
+Tags: ENHANCED_ATK_RCV
+Game: 4x ATK & RCV for Light Att.
+EN: 4x ATK & RCV for Light Att.
+

@@ -1,0 +1,15 @@
+#5812 クリボー
+HP: 4565 ATK: 1705 RCV: 325 LB: 25
+AWK: 21,21,28,46,46,46,11,12,13
+SAWK: 54,55,46
+
+# 15590/116 - 増殖コンボ
+Tags: REDUCE_DAMAGE,ADD_COMBO
+Game: 5ターンの間、1コンボ加算される。 5ターンの間、受けるダメージを軽減。
+EN: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
+
+# 15593/138 - 効果モンスター
+Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
+Game: 【7×6マス】木属性のHPと回復力が1.5倍。 4コンボ以上で攻撃力が上昇、最大10倍。
+EN: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos
+

@@ -1,0 +1,15 @@
+#63 Samurai Ogre
+HP: 1775 ATK: 888 RCV: 8 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 182/116 - Fire&Wood Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Wood Orbs & Jammers to Fire Orbs, and Heal Orbs & Poison Orbs to Wood Orbs
+EN: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
+
+# 63/14 - Resolve
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

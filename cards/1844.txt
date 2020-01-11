@@ -1,0 +1,15 @@
+#1844 Knight Dragon King, Nordis
+HP: 3100 ATK: 1380 RCV: 352 LB: 0
+AWK: 25,24,28
+SAWK: 
+
+# 1899/116 - Royal Gravity
+Tags: GRAVITY,HEAL
+Game: Reduces enemies' HP by 30%; recovers 30% of max HP
+EN: Reduce enemies' HP by 30%; Recover 30% of max HP
+
+# 2999/129 - Knight Dragon's Wrath
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Dragon Type; reduces Wood & Light Att. damage
+EN: 3x ATK for Dragon type; Reduce damage taken from wood, light att. by 25%
+

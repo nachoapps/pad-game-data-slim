@@ -1,0 +1,15 @@
+#2187 Gale CyberDragon, Alnair
+HP: 3339 ATK: 1246 RCV: 205 LB: 40
+AWK: 10,10,21,24,24,20,21,24
+SAWK: 24,50
+
+# 2673/116 - Wind Charge
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the top row into Wood Orbs; other allies' skills charged by 1 turn
+EN: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
+
+# 3232/138 - Emerald Coating
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Machine & Dragon Types; 2.5x ATK for Wood Att. when skills used
+EN: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
+

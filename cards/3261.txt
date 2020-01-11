@@ -1,0 +1,15 @@
+#3261 Tamazo X Tsukuyomi
+HP: 3184 ATK: 1359 RCV: 286 LB: 0
+AWK: 18,18,18,18,18,19,19,19,21
+SAWK: 
+
+# 6338/116 - Change the World X
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: 2x ATK for God Type for 1 turn; extends Orb move time 2x for 1 turn
+EN: For 1 turn, 2x ATK for God type; For 1 turn, 2x orb move time
+
+# 6341/138 - Hand of God X
+Tags: EXTEND_TIME,BOARD_CHANGE_7X6
+Game: [7x6 board]; Orb move time +10 seconds
+EN: [Board becomes 7x6] Increase orb movement time by 10 seconds
+

@@ -1,0 +1,15 @@
+#4969 フゥミン
+HP: 2205 ATK: 2048 RCV: 228 LB: 30
+AWK: 47,21,21,11,11,11,54
+SAWK: 52,43,48
+
+# 12301/116 - Tonight's another sleepless night
+Tags: ORB_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Poison & Water Orbs to Dark Orbs
+EN: Unlock all orbs; Change Water, Poison, and Mortal Poison orbs to Dark orbs
+
+# 12304/138 - You want a restless night?
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Devil Type; 2.5x ATK & reduces damage with 2+ Dark combos
+EN: 3x ATK for Devil type; 2.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
+

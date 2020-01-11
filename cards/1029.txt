@@ -1,0 +1,15 @@
+#1029 王
+HP: 1661 ATK: 788 RCV: 21 LB: 0
+AWK: 
+SAWK: 
+
+# 911/116 - 王の一手
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 敵全体に攻撃力×30倍の光属性攻撃。 1ターンの間、神タイプの攻撃力が少し上昇。
+EN: Deal 30x ATK Light damage to all enemies; For 1 turn, 1.3x ATK for God type
+
+# 885/111 - 絶対的なオーラ
+Tags: ENHANCED_HP_ATK
+Game: 光、闇属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Light, Dark Att.
+

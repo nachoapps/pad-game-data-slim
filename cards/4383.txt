@@ -1,0 +1,15 @@
+#4383 Aigis
+HP: 3540 ATK: 1582 RCV: 106 LB: 0
+AWK: 17,17,17,19,21,28,60
+SAWK: 
+
+# 10436/116 - Full Volley
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts 20 damage on 1 enemy five times; creates 5 Light Orbs at random
+EN: Deal 20 damage to an enemy 5 times; Create 5 Light orbs
+
+# 10439/138 - Orgia Mode activated!
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x HP & RCV for Light Att.; 3.5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 2x HP & RCV for Light Att.; 3.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

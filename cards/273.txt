@@ -1,0 +1,15 @@
+#273 Baby Match Plus
+HP: 100 ATK: 1765 RCV: 75 LB: 0
+AWK: 2,2
+SAWK: 
+
+# 131/116 - Quick Bomb
+Tags: REDUCE_DEFENSE,FIXED_DAMAGE
+Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+
+# 294/33 - Taiko no Tatsujin!
+Tags: ETC
+Game: A drumming sound is made when Orbs are moved
+EN: Turn orb sound effects into Taiko noises
+

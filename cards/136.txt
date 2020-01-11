@@ -1,0 +1,15 @@
+#136 Susano
+HP: 1500 ATK: 844 RCV: 142 LB: 0
+AWK: 
+SAWK: 
+
+# 32/3 - Iron Wall Stance
+Tags: REDUCE_DAMAGE
+Game: Halves damage for 5 turns
+EN: For 5 turns, reduce damage taken by 50%
+
+# 70/16 - Iron Wall Lore
+Tags: REDUCE_DAMAGE
+Game: Reduces damage
+EN: Reduce damage taken by 20%
+

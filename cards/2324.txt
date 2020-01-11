@@ -1,0 +1,15 @@
+#2324 Awoken Amaterasu Ohkami
+HP: 3821 ATK: 1011 RCV: 682 LB: 0
+AWK: 20,10,10,21,21,27,28,28
+SAWK: 
+
+# 3355/116 - Divine Illumination
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
+EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
+
+# 3486/138 - Divine Healing of the Sun
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: Healer Type ATK increases with HP; heals HP equal to 10x RCV when matching Orbs
+EN: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
+

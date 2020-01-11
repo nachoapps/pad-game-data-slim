@@ -1,0 +1,15 @@
+#3887 Imperial Prince of Dragon Conquest, Sigma
+HP: 3728 ATK: 1758 RCV: 98 LB: 30
+AWK: 27,27,21,28,31,31,9,9,9
+SAWK: 52,31
+
+# 8945/116 - Purgatory Dragon's Deadly Slice
+Tags: MENACE,ORB_CONVERT
+Game: Delays enemies' next move for 2 turns; changes Jammers, Heal & Poison Orbs to Dark Orbs
+EN: Delay enemies' next attack by 2 turns; Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 8948/138 - Dragon Slaying Radiant Sword
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK for Dark & Fire Att., 9x ATK for allies with both Att.; 1.5x ATK & RCV with 4+ linked Dark or Fire Orbs
+EN: 3x ATK for Dark Att.; 3x ATK for Fire Att.; 9x ATK for allies with both Att.; 1.5x ATK & RCV when matching 4 or more connected Fire or Dark orbs
+

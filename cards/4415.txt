@@ -1,0 +1,15 @@
+#4415 Great Witch of the Stone Fists, Zela
+HP: 6002 ATK: 2302 RCV: 120 LB: 15
+AWK: 10,10,28,43,43,43,45,19,21
+SAWK: 54,55,46,47,48
+
+# 10379/116 - Howling Storm
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 2 combos for 1 turn; removes all Orb locks & changes Orbs to Wood & Heal
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Wood and Heal orbs
+
+# 10386/138 - Ancient Wood Spirit's Battle Technique
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK for Wood Att. & reduces dmg when HP is 50% or more; 2.5x ATK with 2 Wood combos, 3.5x with 3+ combos
+EN: 4x ATK for Wood Att. and reduce damage taken by 35% when above 50% HP; 2.5x ATK when matching 2 Wood combos, up to 3.5x at 3 Wood combos
+

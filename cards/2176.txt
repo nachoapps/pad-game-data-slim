@@ -1,0 +1,15 @@
+#2176 大邪眼Ｂ・ロマノフ
+HP: 3405 ATK: 1853 RCV: 202 LB: 30
+AWK: 26,21,21,26,26,19,18,18,18
+SAWK: 52,57,48
+
+# 2647/116 - 魔弾ロマノフ・ストライク
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+EN: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
+
+# 3227/138 - Mark of Purgatory and Magic Bullets
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Devil Type; 5x ATK with 6+ linked Dark Orbs
+EN: 5x ATK when matching 6 or more connected Dark orbs; 1.5x HP & ATK for Devil type
+

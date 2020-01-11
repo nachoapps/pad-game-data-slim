@@ -1,0 +1,15 @@
+#4581 Awoken Gan Ning
+HP: 3908 ATK: 2128 RCV: 18 LB: 0
+AWK: 27,27,19,28,21,21,27,27
+SAWK: 
+
+# 11179/116 - Unyielding Arms Technique
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes all Orbs to Fire, Water & Light Orbs
+EN: Unlock all orbs; Change all orbs to Fire, Water, and Light orbs
+
+# 11182/138 - Seaside Rousing
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x ATK & 1.5x RCV with 8+ combos; 4x ATK & reduces damage when Fire, Water & Light attack at once
+EN: [Board becomes 7x6] 2x ATK and 1.5x RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching Fire, Water, Light at once
+

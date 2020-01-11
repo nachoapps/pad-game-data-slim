@@ -1,0 +1,15 @@
+#3746 Hestia
+HP: 3273 ATK: 1235 RCV: 548 LB: 0
+AWK: 10,10,45,19
+SAWK: 
+
+# 8993/116 - Fire Haze
+Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: Voids Attribute absorption for 1 turn; changes Orbs to Fire, Wood, Light & Heal Orbs
+EN: For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Wood, Light, and Heal orbs
+
+# 8999/138 - Holy Furnace's Bright Flames
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2x ATK for Fr & Wd Att., 4x for allies with both Att.; 3x ATK & reduces dmg when Fr, Wd & Lt attack at once
+EN: 2x ATK for Fire Att.; 2x ATK for Wood Att.; 4x ATK for allies with both Att.; 3x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+

@@ -1,0 +1,15 @@
+#1091 Blast Aurora Dragon
+HP: 3855 ATK: 1264 RCV: 202 LB: 50
+AWK: 5,5,21
+SAWK: 60,43,48
+
+# 117/116 - Blizzard Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Water Att. damage on all enemies; changes Light Orbs to Water Orbs
+EN: Deal 20000 Water damage to all enemies; Change Light orbs to Water orbs
+
+# 595/17 - Water Dragon's Protection
+Tags: REDUCE_DAMAGE
+Game: Greatly reduces Water Att. damage
+EN: Reduce damage taken from water att. by 55%
+

@@ -1,0 +1,15 @@
+#4173 Female Hunter, Barioth X Gear
+HP: 2986 ATK: 1637 RCV: 384 LB: 25
+AWK: 28,21,19,43,30,31
+SAWK: 43,55,52
+
+# 9825/116 - Crouching Fire
+Tags: MENACE,HEAL
+Game: Recovers 30% of max HP; delays enemies' next move for 1 turn
+EN: Recover 30% of max HP; Delay enemies' next attack by 1 turn
+
+# 9828/138 - Airborne
+Tags: ENHANCED_HP_ATK
+Game: ATK increases with 4+ Att. (3+Heal), up to 4x; 1.5x HP & 3x ATK in Multiplayer Mode
+EN: 2x ATK when matching 4 or more colors (3+heal) up to 4x at 5 colors+heal; 3x ATK and 1.5x HP when in multiplayer mode
+

@@ -1,0 +1,10 @@
+#5563 Kenshiro's Jacket
+HP: 6405 ATK: 2170 RCV: 76 LB: 0
+AWK: 49,13,13,11,12,19,1
+SAWK: 
+
+# 14524/116 - Hokuto Shinken Heavenly Destruction
+Tags: REDUCE_DEFENSE,CHANGE_ENEMIES_ATTRIBUTE
+Game: Voids enemies' DEF for 1 turn; all enemies' Att. change to Wood (Ignores Barriers)
+EN: For 1 turn, reduce enemies' defense by 100%; Change all enemies to Wood Att.
+

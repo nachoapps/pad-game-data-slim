@@ -1,0 +1,15 @@
+#3270 Reincarnated Hades
+HP: 3370 ATK: 2655 RCV: 455 LB: 10
+AWK: 18,68,56,26,27,27,18,32,28
+SAWK: 52,59,60
+
+# 1807/116 - Gravity World
+Tags: GRAVITY,EXTENDS_TIME
+Game: Reduces enemies' HP by 25%; extends Orb move time by 5 seconds for 5 turns
+EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
+
+# 6225/138 - Spirit of the Underlord
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK for Dark Att.; 2x ATK with 2+ Dark combos; vastly reduces damage from Dark Att. enemies
+EN: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
+

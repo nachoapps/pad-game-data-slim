@@ -1,0 +1,15 @@
+#144 Isle Dragon Yggdrasil
+HP: 3197 ATK: 1307 RCV: 175 LB: 0
+AWK: 16,21
+SAWK: 
+
+# 13/116 - Gaia Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Wood Att. for 2 turns; inflicts 20x ATK Wood Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Wood Att.; Deal 20x ATK Wood damage to all enemies
+
+# 78/17 - Tree Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Wood Att. damage
+EN: Reduce damage taken from wood att. by 50%
+

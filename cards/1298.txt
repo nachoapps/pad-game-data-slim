@@ -1,0 +1,15 @@
+#1298 Devoted Miko Goddess, Kushinadahime
+HP: 2805 ATK: 1382 RCV: 640 LB: 0
+AWK: 16,20,29,28,19,24,9
+SAWK: 
+
+# 650/3 - Protection of Divine Wisdom
+Tags: REDUCE_DAMAGE
+Game: Vastly reduces damage for 1 turn
+EN: For 1 turn, reduce damage taken by 75%
+
+# 723/98 - Nadeshiko's Affection
+Tags: ENHANCED_ATK
+Game: ATK increases with 3 or more combos up to 10x ATK
+EN: 1.5x ATK when 3 or more combos up to 10x at 20 combos
+

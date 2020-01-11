@@ -1,0 +1,15 @@
+#1277 Awoken Dragon
+HP: 3213 ATK: 1242 RCV: 153 LB: 0
+AWK: 18,21
+SAWK: 
+
+# 946/116 - Let's do this seriously
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 1.5x ATK for Dragon Type for 1 turn; inflicts 50x ATK attack on 1 enemy
+EN: For 1 turn, 1.5x ATK for Dragon type; Deal 50x ATK damage to an enemy
+
+# 1518/121 - Let's go, child
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Dragon Type, but halves their RCV
+EN: 3.5x ATK and 0.5x RCV for Dragon type
+

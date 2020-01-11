@@ -1,0 +1,15 @@
+#4450 Virtuous Goddess of Wisdom, Oichi
+HP: 3158 ATK: 1295 RCV: 725 LB: 0
+AWK: 10,10,28,28,21,19,43
+SAWK: 
+
+# 7688/116 - Virtuous Prayer
+Tags: ALL_ORBS_CONVERT,ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes all Orbs to Wood, Dark & Heal Orbs
+EN: For 1 turn, increase combo count by 2; Change all orbs to Wood, Dark, and Heal orbs
+
+# 10924/138 - Quince Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 3x ATK but unable to erase 3 Orbs or less; 4x ATK & reduces damage with 2+ Wood combos
+EN: [Board becomes 7x6][Unable to erase 3 orbs or less] 3x ATK; 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+

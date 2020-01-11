@@ -1,0 +1,15 @@
+#4133 Barioth
+HP: 5077 ATK: 2007 RCV: 732 LB: 25
+AWK: 19,28,21,27,27,27,27
+SAWK: 27,45,52
+
+# 9777/116 - Gliding Ice Breath
+Tags: MENACE,ALL_ORBS_CONVERT
+Game: Changes all Orbs to Water, Light & Heal Orbs; delays enemies' next move for 2 turns
+EN: Change all orbs to Water, Light, and Heal orbs; Delay enemies' next attack by 2 turns
+
+# 9780/138 - White Knight of the Tundra
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & 3x ATK for Water Att.; 4x ATK when Water & Light attack at once
+EN: 3x ATK and 1.5x HP for Water Att.; 4x ATK when matching Water+Light
+

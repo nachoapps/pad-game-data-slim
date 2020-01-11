@@ -1,0 +1,15 @@
+#2164 ボルメテウス・ホワイト・ドラゴン
+HP: 3863 ATK: 1713 RCV: 48 LB: 0
+AWK: 10,10,21,21,19
+SAWK: 
+
+# 2642/116 - ボルメテウス・W・フレア
+Tags: ORB_REFRESH
+Game: 自分以外の味方スキルが1ターン溜まる。 ランダムでドロップを入れ替える。
+EN: Charge all allies' skills by 1 turn; Replace all orbs
+
+# 3215/61 - King of Dragons
+Tags: ENHANCED_ATK
+Game: 6x ATK when 4+ Att. (3+Heal) attack at once
+EN: 6x ATK when matching 4 or more colors (3+heal)
+

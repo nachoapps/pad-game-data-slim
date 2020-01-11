@@ -1,0 +1,15 @@
+#5019 Sakura Matou
+HP: 3122 ATK: 1538 RCV: 415 LB: 30
+AWK: 10,10,28,21,21,19,19,55,63
+SAWK: 44,59,45
+
+# 12558/116 - Well, I will stay here then.
+Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces bind status (incl. Awoken) by 5 turns; 1.5x Orb move time for 1 turn
+EN: Reduce binds and awoken skill binds by 5 turns; For 1 turn, 1.5x orb move time
+
+# 12561/138 - If I became a bad person, would you forgive me?
+Tags: AUTO_HEAL,ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Fire Att., 6x ATK when skills used; recovers 10x RCV as HP when matching Orbs
+EN: 1.5x HP & ATK for Fire Att.; 6x ATK on the turn a skill is used; 10x RCV additional heal when matching orbs
+

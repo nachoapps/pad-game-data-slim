@@ -1,0 +1,15 @@
+#2279 Vigorous Hunt Gods, Umisachi & Yamasachi
+HP: 3555 ATK: 1251 RCV: 651 LB: 50
+AWK: 15,16,27,11,15,21,27,16,28
+SAWK: 52,44,43
+
+# 649/20 - Ritual of the Mountain and Sea
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Fire Orbs to Water Orbs & Heal Orbs to Wood Orbs
+EN: Change Fire orbs to Water orbs; Change Heal orbs to Wood orbs
+
+# 3690/138 - Sacred Treasure of the Mountains and Seas
+Tags: ENHANCED_ATK
+Game: 5x ATK when Water, Wood, Light & Dark attack at once; 1.5x ATK for God when skills used
+EN: 5x ATK when matching Water, Wood, Light, Dark at once; 1.5x ATK for God type on the turn a skill is used
+

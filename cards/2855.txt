@@ -1,0 +1,15 @@
+#2855 練白龍
+HP: 1306 ATK: 746 RCV: 77 LB: 0
+AWK: 
+SAWK: 
+
+# 5047/116 - I'll fulfill my goal.
+Tags: ORB_CONVERT,EXTENDS_TIME
+Game: Changes Poison & Light Orbs to Wood Orbs; extends Orb move time by 1 second for 2 turns
+EN: Change Light, Poison, and Mortal Poison orbs to Wood orbs; For 2 turns, 1.5x orb move time
+
+# 4741/119 - Metal Vessel of Zagan
+Tags: ENHANCED_ATK
+Game: 2.5x ATK with 5+ linked Wood Orbs
+EN: 2.5x ATK when matching 5 or more connected Wood orbs
+

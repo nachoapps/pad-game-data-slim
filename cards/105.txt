@@ -1,0 +1,15 @@
+#105 Verche
+HP: 1237 ATK: 887 RCV: 280 LB: 0
+AWK: 
+SAWK: 
+
+# 49/9 - Light Orb Change
+Tags: ORB_CONVERT
+Game: Changes Dark Orbs to Light Orbs
+EN: Change Dark orbs to Light orbs
+
+# 74/17 - Light Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Light Att. damage
+EN: Reduce damage taken from light att. by 30%
+

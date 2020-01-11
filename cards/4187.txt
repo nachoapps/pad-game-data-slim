@@ -1,0 +1,15 @@
+#4187 Wandering Spirit Dragonbound, Lajoa
+HP: 5805 ATK: 2510 RCV: 55 LB: 35
+AWK: 52,56,48,28,26,26,26,26,63
+SAWK: 48,56,57
+
+# 10052/116 - Field of Darkness
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Changes all Orbs to Dark & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
+EN: Change all orbs to Dark and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
+
+# 10058/138 - Eternal Dragon Control - Raddock
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & 5x ATK for Dragon & Devil Types; ATK increases with 5+ linked Dark Orbs, up to 4x
+EN: 5x ATK and 2x HP for Dragon, Devil type; 1.5x ATK when matching 5 or more connected Dark orbs up to 5x at 12 orbs
+

@@ -1,0 +1,15 @@
+#4997 Witch of the Freezing Fists, Cherun
+HP: 7702 ATK: 2588 RCV: 60 LB: 20
+AWK: 10,10,28,56,53,53,46,46,45
+SAWK: 46,48,56
+
+# 12182/116 - Freezing Storm
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 1 combo for 1 turn; removes Orb locks, changes all Orbs to Water & Heal Orbs
+EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Water and Heal orbs
+
+# 12189/138 - Blue Ice Spirit's Battle Technique
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 3x ATK for each cross of 5 Water Orbs; 10x ATK when 11 Orbs or less remain on the board
+EN: [No skyfall] 10x ATK when there are 11 or fewer orbs remaining; 3x ATK for each cross of 5 Water orbs
+

@@ -1,0 +1,15 @@
+#708 The Fifth Angel - Assault Mode
+HP: 1783 ATK: 850 RCV: 218 LB: 0
+AWK: 4,14
+SAWK: 
+
+# 432/117 - Quick Heal
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 5x RCV in HP; bind status reduced by 2 turns
+EN: Recover 5x RCV as HP; Reduce binds by 2 turns
+
+# 551/16 - A.T. Field
+Tags: REDUCE_DAMAGE
+Game: Slightly reduces damage
+EN: Reduce damage taken by 10%
+

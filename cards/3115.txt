@@ -1,0 +1,15 @@
+#3115 Goddess of Beach Volley, Lakshmi
+HP: 4897 ATK: 1436 RCV: 100 LB: 30
+AWK: 21,9,20,19,15,28,27,23,52
+SAWK: 43,56,45
+
+# 1857/116 - Life Water Lotus Blossom
+Tags: ATTACK_AND_HEAL
+Game: 50x ATK attack on 1 enemy, recovers damage as HP; changes 5 non-Water Orbs to Heal Orbs
+EN: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 Heal orbs over non Water orbs
+
+# 5784/138 - Watch out, I'm coming to get you!
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 2.5x ATK & 1.5x RCV for Water Att.; 2.5x ATK & reduces damage with a cross of 5 Heal Orbs
+EN: 2.5x ATK and 1.5x RCV for Water Att.; 2.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+

@@ -1,0 +1,15 @@
+#1641 ABE Capt'n Bomb
+HP: 2333 ATK: 1235 RCV: 29 LB: 0
+AWK: 18,1
+SAWK: 
+
+# 186/116 - Dark&Light Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Light Orbs & Jammers to Dark Orbs, and Heal Orbs & Poison Orbs to Light Orbs
+EN: Change Light, Jammer orbs to Dark orbs; Change Heal, Poison, and Mortal Poison orbs to Light orbs
+
+# 1989/12 - Pummel
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+EN: 2x ATK additional damage when matching orbs
+

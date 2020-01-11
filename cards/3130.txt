@@ -1,0 +1,15 @@
+#3130 テリーマン
+HP: 1610 ATK: 725 RCV: 12 LB: 0
+AWK: 
+SAWK: 
+
+# 5345/116 - Behold: True brotherhood!
+Tags: ENHANCED_ATTACK,MENACE
+Game: Delays enemies' next move for 1 turn; 2.5x ATK for Attacker Types for 1 turn
+EN: Delay enemies' next attack by 1 turn; For 1 turn, 2.5x ATK for Attacker type
+
+# 5836/138 - Spinning Toe Hold
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with low HP, up to 3.5x; halves enemy damage when HP is 50% or less
+EN: 3.5x ATK when below 20% HP; 2x ATK when below 50% HP; Reduce damage taken by 50% when below 50% HP
+

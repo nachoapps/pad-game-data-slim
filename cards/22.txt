@@ -1,0 +1,15 @@
+#22 Red Dragon
+HP: 545 ATK: 300 RCV: 92 LB: 0
+AWK: 
+SAWK: 
+
+# 16/1 - Heat Ball
+Tags: MASSIVE_ATTACK
+Game: Inflicts 1,000 Fire Att. damage on all enemies
+EN: Deal 1000 Fire damage to all enemies
+
+# 71/17 - Fire Guard
+Tags: REDUCE_DAMAGE
+Game: Reduces Fire Att. damage
+EN: Reduce damage taken from fire att. by 30%
+

@@ -1,0 +1,15 @@
+#3329 Serpent Steel Star Healer, Ras
+HP: 2870 ATK: 1215 RCV: 653 LB: 0
+AWK: 21,19,27
+SAWK: 
+
+# 6410/116 - Startreat Land
+Tags: ORB_CONVERT,RECOVER_BIND
+Game: Changes Light Orbs to Wood Orbs;  reduces bind status by 3 turns
+EN: Change Light orbs to Wood orbs; Reduce binds by 3 turns
+
+# 6413/138 - Green Steel Star of Ophiuchus
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x ATK & HP for Machine Type; 2.5x RCV when erasing 4 Heal Orbs
+EN: 2x HP & ATK for Machine type; 2.5x RCV when matching 4 Heal orbs
+

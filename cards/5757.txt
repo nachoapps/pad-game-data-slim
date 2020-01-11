@@ -1,0 +1,15 @@
+#5757 Kamen Rider Super-1 [Elec Hands]
+HP: 4166 ATK: 3162 RCV: 410 LB: 0
+AWK: 10,10,53,28,43,43,48,48
+SAWK: 
+
+# 15392/116 - Change to Thermal Hands!
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Heal Orbs to Fire and Dark Orbs to Water; changes to Kamen Rider Super-1 [Thermal Hands]
+EN: Change Heal orbs to Fire orbs; Change Dark orbs to Water orbs; Changes to [5758] for the duration of the dungeon
+
+# 15411/138 - Super Rider Plum Blossom Double Kick
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 2x HP for Attacker Type, up to 6x ATK with 5+ combos; 3x ATK & reduces dmg with 5+ linked non-Fire Orbs
+EN: 2x HP for Attacker type; 3x ATK when 5 or more combos up to 6x at 8 combos; 3x ATK and reduce damage taken by 25% when matching 5 or more connected non Fire orbs
+

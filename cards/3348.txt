@@ -1,0 +1,15 @@
+#3348 Shining Spear Dragoon, Ma Chao
+HP: 3413 ATK: 1755 RCV: 173 LB: 0
+AWK: 27,27,19,28,21,43,19
+SAWK: 
+
+# 6750/116 - Tempest Flash
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Dark Orbs to Wood & Fire Orbs to Light
+EN: Unlock all orbs; Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs
+
+# 6753/138 - Radiant Valor
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board]; 4x ATK & 1.5x RCV when Wood & Light attack at once
+EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Wood+Light
+

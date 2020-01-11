@@ -1,0 +1,15 @@
+#3811 Pixel Rinoa
+HP: 3020 ATK: 1726 RCV: 778 LB: 25
+AWK: 15,10,10,21,15,48,48,36
+SAWK: 54,55,32
+
+# 8463/116 - Squall, don't! I'm a sorceress.
+Tags: ORB_CONVERT,REMOVE_LOCK
+Game: Removes Orb locks; changes Jammers, Poison & Heal Orbs to Water Orbs
+EN: Unlock all orbs; Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
+
+# 8466/138 - Wishing Star
+Tags: ENHANCED_ATK
+Game: 3x ATK for Water Att.;  4x ATK with 4 combos, 5x ATK with 5+ combos
+EN: 3x ATK for Water Att.; 4x ATK when 4 or more combos up to 5x at 5 combos
+

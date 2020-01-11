@@ -1,0 +1,15 @@
+#2354 人類の希望・エレン・イェーガー
+HP: 4693 ATK: 2158 RCV: 162 LB: 25
+AWK: 52,21,22,22,22,57,57,57,63
+SAWK: 43,48,57
+
+# 3384/116 - I'll kill them all!
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 30% of max HP and reduces bind status by 3 turns; other allies' skills charged by 1 turn
+EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
+
+# 3616/138 - I'll do it!
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 4x ATK for Attacker & Machine Types when HP is 80% or more
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3x ATK & RCV when matching 6 or more connected Fire orbs
+

@@ -1,0 +1,15 @@
+#2981 Awoken Ame no Uzume
+HP: 4545 ATK: 1325 RCV: 301 LB: 0
+AWK: 14,9,9,22,22,21,10,10
+SAWK: 
+
+# 5160/116 - Recovery Encouragement
+Tags: ENHANCED_HEAL,RECOVER_BIND
+Game: 2x RCV for 4 turns; bind status reduced by 4 turns
+EN: For 4 turns, 2x RCV; Reduce binds by 4 turns
+
+# 4955/138 - Heaven's Gate Dance Performance
+Tags: ENHANCED_HP_ATK
+Game: 1.5x ATK & HP for Physical & Devil Types; 5x ATK for Fire Att. when HP is 80% or more
+EN: 1.5x HP & ATK for Physical, Devil type; 5x ATK for Fire Att. when above 80% HP
+

@@ -1,0 +1,15 @@
+#2819 Drama Club's Heroine, Cinderella
+HP: 3030 ATK: 802 RCV: 507 LB: 0
+AWK: 17,10,10,19,21,27
+SAWK: 
+
+# 3997/116 - Youth Light
+Tags: RECOVER_BIND,FIXED_DAMAGE
+Game: Bind status reduced by 2 turns; inflicts 99 damage on 1 enemy
+EN: Reduce binds by 2 turns; Deal 99 fixed damage to an enemy
+
+# 4662/129 - I got to try harder!
+Tags: ENHANCED_HP_ATK
+Game: 1.5x ATK & HP for God & Physical Types
+EN: 1.5x HP & ATK for Physical, God type
+

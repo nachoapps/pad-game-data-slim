@@ -1,0 +1,15 @@
+#1438 黄金聖闘士・星矢
+HP: 1586 ATK: 853 RCV: 199 LB: 0
+AWK: 
+SAWK: 
+
+# 990/116 - ペガサス彗星拳
+Tags: FIXED_DAMAGE
+Game: 敵1体に10万の固定ダメージ。 回復とお邪魔ドロップを光ドロップに変化。
+EN: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light orbs
+
+# 1713/123 - そこをどけ!!
+Tags: ENHANCED_ATK
+Game: HP満タン時にバランスタイプの攻撃力が4倍。
+EN: 4x ATK for Balanced type when HP is full
+

@@ -1,0 +1,15 @@
+#2850 火影の斬り込み隊長・小金井薫
+HP: 2115 ATK: 1535 RCV: 135 LB: 35
+AWK: 17,17,17,17,17,7,7,7,7
+SAWK: 60,43,52
+
+# 5038/116 - I can do it too!!
+Tags: FIXED_DAMAGE
+Game: Inflicts 50,000 damage on 1 enemy; creates 3 Light Orbs at random
+EN: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
+
+# 4731/138 - Golden Blade-6th Form Nothingness
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 3x ATK with 5+ combos; Orb move time +2 seconds
+EN: 3x ATK when 5 or more combos; Increase orb movement time by 2 seconds
+

@@ -1,0 +1,15 @@
+#2128 Dark Mech General, Hysferzen
+HP: 5045 ATK: 1119 RCV: 10 LB: 0
+AWK: 18,10,21,10,14,15,16
+SAWK: 
+
+# 94/116 - Armor Break
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Vastly reduces enemies' DEF for 5 turns; reduces damage for 5 turns
+EN: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
+
+# 2982/138 - Cuatro Generator
+Tags: ENHANCED_HP_ATK
+Game: 4x ATK when attacking with 4+ Att. (3+Heal) at once; Machine Type ATK & HP increase slightly
+EN: 4x ATK when matching 4 or more colors (3+heal); 1.25x HP & ATK for Machine type
+

@@ -1,0 +1,15 @@
+#2297 Green Puppeteer, Courage
+HP: 1464 ATK: 842 RCV: 221 LB: 0
+AWK: 
+SAWK: 
+
+# 3363/153 - Elemental Jammer - Water
+Tags: CHANGE_ENEMIES_ATTRIBUTE
+Game: All enemies' Attributes change to Water (Ignores Barriers)
+EN: Change all enemies to Water Att.
+
+# 3498/138 - Wind Demon Puppetry
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Machine Type, 2x ATK for Wood Att.; 2.5x ATK with 5+ linked Wood Orbs
+EN: 2x ATK for Wood Att.; 1.5x all stats for Machine type; 2.5x ATK when matching 5 or more connected Wood orbs
+

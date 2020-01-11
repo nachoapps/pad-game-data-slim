@@ -1,0 +1,15 @@
+#5087 Guile
+HP: 4403 ATK: 2308 RCV: 13 LB: 25
+AWK: 52,21,53,27,27,27,46,46,63
+SAWK: 27,28,48
+
+# 12791/116 - Somersault Kick
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Changes the leftmost column to Wood Orbs; inflicts 10,000 damage on all enemies
+EN: Change the far left column to Wood orbs; Deal 10000 fixed damage to all enemies
+
+# 12794/138 - Come on!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ATK increases with 4+ combos, up to 5x; 3x ATK & reduces damage with 2+ Wood combos
+EN: 2x ATK when 4 or more combos up to 5x at 7 combos; 3x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+

@@ -1,0 +1,15 @@
+#4829 Norn of Leisure, Verdandi
+HP: 4855 ATK: 2117 RCV: 582 LB: 30
+AWK: 21,21,53,57,28,10,10,43,43
+SAWK: 55,45,57
+
+# 9222/116 - Holiday Tuning Circle - Wood, Dark & Life
+Tags: HEAL,ALL_ORBS_CONVERT
+Game: HP fully recovers; changes Orbs to Wood, Dark & Heal Orbs
+EN: Recover all HP; Change all orbs to Wood, Dark, and Heal orbs
+
+# 11720/138 - It's tea time♪
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK when HP is 50% or more, 5x when HP is full; 4x ATK & halves damage with a cross of 5 Heal Orbs
+EN: 5x ATK when HP is full; 4x ATK when above 50% HP; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+

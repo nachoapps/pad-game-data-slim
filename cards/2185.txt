@@ -1,0 +1,15 @@
+#2185 Blazing CyberDragon, Thuban
+HP: 3096 ATK: 1491 RCV: 125 LB: 40
+AWK: 10,10,21,22,22,20,21,22
+SAWK: 22,50
+
+# 2667/116 - Flame Charge
+Tags: LINE_ORBS_CONVERTER
+Game: Changes the top row into Fire Orbs; other allies' skills charged by 1 turn
+EN: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
+
+# 3230/138 - Ruby Coating
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Machine Type; 1.5x ATK for Fire Att. when skills used
+EN: 2x ATK & RCV for Machine type; 1.5x ATK for Fire Att. on the turn a skill is used
+

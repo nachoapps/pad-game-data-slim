@@ -1,0 +1,15 @@
+#4884 An Incarnation of the Radius
+HP: 4958 ATK: 1285 RCV: 13 LB: 30
+AWK: 21,21,21,40,40,42,42,41,41
+SAWK: 
+
+# 11956/116 - White Great Holy Tree
+Tags: HEAL
+Game: Recovers 30% of max HP; creates 5 Wood & Light Orbs each at random
+EN: Recover 30% of max HP; Create 5 Wood and Light orbs
+
+# 11959/138 - The last boss of SAO
+Tags: ENHANCED_HP_ATK
+Game: 2x HP for Wood Att.; 4x ATK when HP is 80% or less, 6x ATK when HP is 50% or less
+EN: 2x HP for Wood Att.; 6x ATK when below 50% HP; 4x ATK when below 80% HP
+

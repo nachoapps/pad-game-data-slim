@@ -1,0 +1,15 @@
+#2359 調査兵団兵士長・リヴァイ
+HP: 3055 ATK: 2310 RCV: 113 LB: 25
+AWK: 27,27,21,19,12,12,12,12,63
+SAWK: 52,43,27
+
+# 3388/116 - Choose whatever you'll regret the least
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to Fire, Water, Light, Dark & Heal Orbs; other allies' skills charged by 1 turn
+EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
+
+# 3627/138 - Don't lose sight of the core objective
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Game: 4x ATK when 4+ Att. attack at once; ATK increases a little for Attacker & Machine Types
+EN: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker, Machine type
+

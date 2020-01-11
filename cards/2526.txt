@@ -1,0 +1,15 @@
+#2526 Awoken Machine Hera
+HP: 5000 ATK: 2000 RCV: 300 LB: 15
+AWK: 26,32,21,21,28,10,10,27,26
+SAWK: 43,21,57
+
+# 3762/116 - Charge Gravity-G
+Tags: GRAVITY
+Game: Reduces enemies' HP by 30%; other allies' skills charged by 1 turn
+EN: Reduce enemies' HP by 30%; Charge all allies' skills by 1 turn
+
+# 4213/138 - MH189 - Multi Turbo
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK when HP is 80% or more; 2.5x ATK & RCV when playing with another player
+EN: 3x ATK when above 80% HP; 2.5x ATK & RCV when in multiplayer mode
+

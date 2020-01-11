@@ -1,0 +1,15 @@
+#1675 Superman (Comics)
+HP: 1258 ATK: 1097 RCV: 68 LB: 0
+AWK: 
+SAWK: 
+
+# 1687/116 - Heat Vision
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Inflicts 10,000 damage on all enemies; changes all Orbs to Fire, Water & Light Orbs
+EN: Deal 10000 fixed damage to all enemies; Change all orbs to Fire, Water, and Light orbs
+
+# 1936/138 - Super Strength
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & 4x ATK for Light Att.; 4x ATK & 2x RCV with 4+ linked Light Orbs
+EN: 4x ATK and 1.5x HP for Light Att.; 4x ATK and 2x RCV when matching 4 or more connected Light orbs
+

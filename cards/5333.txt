@@ -1,0 +1,15 @@
+#5333 Graceful Draconic Songstress on Flute, Eva
+HP: 5583 ATK: 2560 RCV: 691 LB: 15
+AWK: 10,10,56,28,53,45,31,32,33
+SAWK: 31,32,33
+
+# 13529/116 - Fresh Color Trill
+Tags: GUARD_STANCE,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks, changes Orbs to all Attributes; changes the rightmost column to Heal Orbs
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Change the far right column to Heal orbs
+
+# 13535/138 - Eternal Dragon Echo - Soa
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 6x ATK when 5+ Att. (4+Heal) attack at once; 3x ATK & halves damage with 5+ linked Heal Orbs
+EN: 6x ATK when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+

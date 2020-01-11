@@ -1,0 +1,15 @@
+#3797 Fastest Sky Pirate, Balthier
+HP: 5588 ATK: 1940 RCV: 190 LB: 25
+AWK: 60,43,21,10,10,19,19,28,43
+SAWK: 60,43,44
+
+# 8403/116 - Pirates without a sky.
+Tags: ORB_CONVERT,DROP_CHANCE
+Game: 50% chance of Enhanced Orbs appearing for 3 turns; changes Jammers, Fire & Poison Orbs to Wood Orbs
+EN: For 3 turns, enhanced orbs are more likely to appear by 50%; Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 8409/138 - Element of Treachery
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage when 3+ Att. attack at once; 5x ATK & reduces damage with an L shape of 5 Orbs
+EN: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+

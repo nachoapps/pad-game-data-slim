@@ -1,0 +1,15 @@
+#88 Naga
+HP: 263 ATK: 244 RCV: 258 LB: 0
+AWK: 
+SAWK: 
+
+# 91/18 - Menace
+Tags: MENACE
+Game: Delays enemies' next move for 3 turns
+EN: Delay enemies' next attack by 3 turns
+
+# 61/12 - Inferno
+Tags: ADDITIONAL_ATTACK
+Game: Inflicts a bonus attack equal to 0.5x ATK when matching Orbs
+EN: 0.5x ATK additional damage when matching orbs
+

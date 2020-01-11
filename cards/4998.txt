@@ -1,0 +1,15 @@
+#4998 Enshrined Primordial Divinity, Kamimusubi
+HP: 5038 ATK: 2235 RCV: 458 LB: 30
+AWK: 52,43,28,56,53,62,22,22,50
+SAWK: 55,43,59
+
+# 9724/116 - Festive Starlight
+Tags: GUARD_STANCE,HEAL,RECOVER_BIND,LINE_ORBS_CONVERTER,HEAL_BIND_RECOVERY
+Game: Changes the bottom row to Heal Orbs; recovers 30% of max HP, reduces bind status by 3 turns
+EN: Change the bottom row to Heal orbs; Recover 30% of max HP; Reduce binds by 7 turns
+
+# 12439/138 - Let's celebrate together!
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 5x ATK when HP is 80% or more, 3x ATK & RCV when 79% or less; 3.5x ATK & reduces dmg when Fr & Lt attack at once
+EN: 5x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire+Light
+

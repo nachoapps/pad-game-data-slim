@@ -1,0 +1,15 @@
+#5745 ドット・ワルりん
+HP: 3506 ATK: 1646 RCV: 90 LB: 40
+AWK: 48,48,48,19,8,8,8,8
+SAWK: 52,53,56
+
+# 607/116 - Devilish Enhancement
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Game: 3x ATK for Devil Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Devil type
+
+# 15164/138 - ドットストライク・闇
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: 闇を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 闇を9個以上つなげて消すと、固定1ダメージ。
+EN: 6x ATK when matching 6 or more connected Dark orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Dark orbs
+

@@ -1,0 +1,15 @@
+#729 CoC Crimson Dragon
+HP: 3168 ATK: 1328 RCV: 44 LB: 0
+AWK: 22,21
+SAWK: 
+
+# 637/37 - Crimson Bomb
+Tags: SINGLE_TARGET_ATTACK
+Game: Inflicts 50x ATK Fire Att. attack on 1 enemy
+EN: Deal 50x ATK Fire damage to an enemy
+
+# 706/69 - Fire Scale
+Tags: ENHANCED_ATK
+Game: 2x ATK for Fire Att. and Dragon Type
+EN: 2x ATK for Dragon type and Fire Att.
+

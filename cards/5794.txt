@@ -1,0 +1,15 @@
+#5794 孔雀舞＆ハーピィ・レディ・SB
+HP: 5003 ATK: 2528 RCV: 0 LB: 25
+AWK: 21,21,28,19,54,59,37,37,37
+SAWK: 52,45,48
+
+# 15526/116 - スクラッチ・クラッシュ
+Tags: MENACE,REMOVE_LOCK
+Game: 敵の行動を2ターン遅らせる。ドロップのロック状態を解除。 火と木以外のドロップから回復ドロップを6個生成。
+EN: Delay enemies' next attack by 2 turns; Unlock all orbs; Create 6 Heal orbs over non Fire and Wood orbs
+
+# 15530/138 - ハーピィ・レディの華麗なる10連コンボ!!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5コンボ以上で攻撃力が上昇、最大9倍。 回復の2コンボ以上でダメージを軽減、攻撃力が2倍。
+EN: 4x ATK when 5 or more combos up to 9x at 10 combos; 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+

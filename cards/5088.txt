@@ -1,0 +1,15 @@
+#5088 Air Slasher, Guile
+HP: 3843 ATK: 2608 RCV: 0 LB: 25
+AWK: 52,21,21,21,19,48,48,62,63
+SAWK: 27,28,48
+
+# 12797/116 - Sonic Hurricane
+Tags: SINGLE_TARGET_ATTACK
+Game: Changes the 2 top rows to Wood Orbs; inflicts 100x ATK Wood Att. attack on 1 enemy
+EN: Change the top row and the 2nd row from the top to Wood orbs; Deal 100x Wood damage to an enemy
+
+# 12800/138 - No need for talk. Let's do this.
+Tags: ENHANCED_HP_ATK
+Game: 2x HP for Wood Att., 3x ATK with 5+ combos; ATK increases with 4+ linked Orbs, up to 6x
+EN: 2x HP for Wood Att.; 3x ATK when 5 or more combos; 4x ATK when matching 4 or more connected orbs up to 6x at 6 orbs
+

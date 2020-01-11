@@ -1,0 +1,15 @@
+#2017 Scholarship Student, Isis
+HP: 2538 ATK: 1655 RCV: 673 LB: 30
+AWK: 15,27,21,10,10,15,19,28,27
+SAWK: 27,43,47
+
+# 432/117 - Quick Heal
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Heals 5x RCV in HP; bind status reduced by 2 turns
+EN: Recover 5x RCV as HP; Reduce binds by 2 turns
+
+# 2593/138 - Let's Do Our Best
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Attacker & Healer Types; ATK increases when attacking with 3+ Att., up to 7x
+EN: 5x ATK when matching 3 or more colors up to 7x at 5 colors; 2x HP & ATK for Healer, Attacker type
+

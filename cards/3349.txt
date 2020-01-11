@@ -1,0 +1,15 @@
+#3349 Diaochan
+HP: 2233 ATK: 765 RCV: 570 LB: 0
+AWK: 19,28,7,7
+SAWK: 
+
+# 6756/116 - Moonlight Serenade
+Tags: EXTENDS_TIME,REMOVE_LOCK
+Game: Removes Orb locks; Orb move time +2 seconds for 1 turn
+EN: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds
+
+# 6759/138 - Chain of Collusion
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board]; 4x ATK & 1.5x RCV when Light & Dark attack at once
+EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Light+Dark
+

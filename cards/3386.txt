@@ -1,0 +1,15 @@
+#3386 Reincarnated Viper Orochi
+HP: 6760 ATK: 1100 RCV: 312 LB: 10
+AWK: 27,27,23,21,27,21,19,27,19
+SAWK: 27,44,46
+
+# 3349/18 - Eight-Headed Suppression
+Tags: MENACE
+Game: Delays enemies' next move for 4 turns
+EN: Delay enemies' next attack by 4 turns
+
+# 6944/138 - Spirit of Orochi
+Tags: ENHANCED_ATK,RESOLVE
+Game: ATK increases with 4+ combos, up to 5x; may survive when HP is reduced to 0
+EN: 2x ATK when 4 or more combos up to 5x at 10 combos; May survive when HP is reduced to 0 (HP>50%)
+

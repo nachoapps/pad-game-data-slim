@@ -1,0 +1,15 @@
+#3642 Azathoth, the Primal Chaos
+HP: 5510 ATK: 2409 RCV: 303 LB: 35
+AWK: 10,10,19,21,28,43,30,44,57
+SAWK: 43,48,57
+
+# 7610/116 - Seething Chaos
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND
+Game: Changes Orbs to all Attributes & Heal; reduces bind status by 3 turns
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Reduce binds by 3 turns
+
+# 7613/138 - The Blighted Unknown
+Tags: ENHANCED_ATK_RCV
+Game: 6x ATK when HP is full, 3x ATK when 99% or less; 2x ATK & RCV when attacking with 5 Att.
+EN: 6x ATK when HP is full; 3x ATK when below 99% HP; 2x ATK & RCV when matching 5 or more colors
+

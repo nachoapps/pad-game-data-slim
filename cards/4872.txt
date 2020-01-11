@@ -1,0 +1,15 @@
+#4872 Lisbeth
+HP: 3144 ATK: 1387 RCV: 341 LB: 30
+AWK: 27,27,21,28,28,63
+SAWK: 
+
+# 11896/116 - Let's get the lead out and kick his ass!
+Tags: 
+Game: ATK increases by number of [Two-Pronged Attack] Awoken Skills in team for 1 turn; creates 4 Fire Orbs at random
+EN: For 1 turn, increase ATK by 30% for each Two-Pronged Attack awakening skill on the team; Create 4 Fire orbs
+
+# 11899/138 - Welcome to Lisbeth's Blacksmith Shop!
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 2x ATK & reduces damage with 4+ linked Orbs; 3x ATK & RCV when skills used
+EN: 2x ATK and reduce damage taken by 25% when matching 4 or more connected orbs; 3x ATK & RCV on the turn a skill is used
+

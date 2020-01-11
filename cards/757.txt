@@ -1,0 +1,15 @@
+#757 Scorched Claw Dragon, Flare Drall
+HP: 2196 ATK: 1190 RCV: 454 LB: 0
+AWK: 6,6,10,10,20
+SAWK: 
+
+# 160/9 - Guard Stance - Fire
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Wood Orbs to Heal Orbs
+EN: Change Wood orbs to Heal orbs
+
+# 302/36 - Blazing Forest Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Fire & Wood Att. damage
+EN: Reduce damage taken from fire, wood att. by 50%
+

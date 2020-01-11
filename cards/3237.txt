@@ -1,0 +1,15 @@
+#3237 Windrunner Dragon Knight, Ishtar
+HP: 4327 ATK: 1709 RCV: 138 LB: 0
+AWK: 27,21,27,21,31
+SAWK: 
+
+# 981/116 - Blessed Blade of the Hero
+Tags: REDUCE_DEFENSE,ATTACK_AND_HEAL
+Game: Voids enemies' DEF for 1 turn; inflicts 20x ATK Wood Att.  attack on 1 enemy, recovers the damage as HP
+EN: For 1 turn, reduce enemies' defense by 100%; Deal 20x ATK Wood damage to an enemy and recover the amount as HP
+
+# 6552/138 - Heavenly Wind Dragon's Beckoning
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Dragon & Physical Types; 2x ATK when HP is 50% or more
+EN: 2x HP & ATK for Physical, Dragon type; 2x ATK when above 50% HP
+

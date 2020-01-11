@@ -1,0 +1,15 @@
+#3662 Valphalk
+HP: 4205 ATK: 2904 RCV: 595 LB: 25
+AWK: 10,10,28,21,27,43,47,27
+SAWK: 43,47,54
+
+# 7956/116 - Falling Star
+Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: Inflicts 1000 damage on all enemies; changes Orbs to all Attributes
+EN: Deal 1000 fixed damage to all enemies; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 7959/138 - The Silver Comet
+Tags: ENHANCED_HP_ATK
+Game: [Orb move time: 4 sec], 13x ATK when attacking with 5 Att.; 2x HP & ATK for Dragon Type
+EN: [Fixed 4 second movetime] 2x HP & ATK for Dragon type; 13x ATK when matching 5 or more colors
+

@@ -1,0 +1,15 @@
+#3225 Masquerade Devil, Rozuel
+HP: 3720 ATK: 1613 RCV: 90 LB: 30
+AWK: 21,10,10,20,27,27,27,21,21
+SAWK: 27,59,45
+
+# 1821/9 - Healing Hymn
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Light Orbs to Heal Orbs
+EN: Change Light orbs to Heal orbs
+
+# 6199/138 - Where's my pumpkin?
+Tags: ENHANCED_ATK_RCV
+Game: Devil & Attacker Type ATK & RCV increase a little; 3x ATK with 2+ Dark+Fire combos (or Dark+Dark)
+EN: 1.35x ATK & RCV for Attacker, Devil type; 3x ATK when matching Dark+Dark(Dark+Fire)
+

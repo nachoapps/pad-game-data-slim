@@ -1,0 +1,15 @@
+#512 Red Giant Gigas
+HP: 6283 ATK: 1363 RCV: -500 LB: 0
+AWK: 27,14,2
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 63/14 - Resolve
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>70%)
+

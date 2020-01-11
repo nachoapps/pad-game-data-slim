@@ -1,0 +1,15 @@
+#1535 Awoken Ceres
+HP: 3274 ATK: 1611 RCV: 481 LB: 0
+AWK: 20,9,10,10,29,21,24,16,28
+SAWK: 
+
+# 1615/117 - Soul Cure
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 30% of maximum HP, plus bind status is reduced by 3 turns
+EN: Recover 30% of max HP; Reduce binds by 3 turns
+
+# 1761/129 - Spirit Tree's Divine Magic
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK for Wood Att. & Balanced Type; halves Wood, Light & Dark Att. damage
+EN: 2.5x ATK for Balanced type and Wood Att.; Reduce damage taken from wood, light, dark att. by 50%
+

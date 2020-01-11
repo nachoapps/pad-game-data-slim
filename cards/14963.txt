@@ -1,0 +1,15 @@
+#14963 Mighty Morphin Black Ranger
+HP: 5445 ATK: 1820 RCV: 298 LB: 30
+AWK: 19,19,28,28,21,21,10,10,43
+SAWK: 61,43,55
+
+# 14822/116 - Mastodon Power!
+Tags: REDUCE_DAMAGE
+Game: Reduces damage for 3 turns; creates 4 Dark Orbs at random
+EN: For 3 turns, reduce damage taken by 30%; Create 4 Dark orbs
+
+# 14825/138 - In the Groove!
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & RCV for Dark Att.; 6x ATK with 3+ combos
+EN: 2.5x ATK & RCV for Dark Att.; 6x ATK when 3 or more combos
+

@@ -1,0 +1,15 @@
+#5340 Draconic Songstress on Timpani, Tilly
+HP: 6083 ATK: 1913 RCV: 33 LB: 15
+AWK: 21,21,57,57,57,57,57,10,10
+SAWK: 36,37,38
+
+# 13612/116 - Splash Roll
+Tags: ENHANCED_HEAL,DROP_CHANCE
+Game: Heal Orbs slightly more likely to appear for 99 turns; 2x RCV for 1 turn
+EN: For 99 turns, Heal orbs are more likely to appear by 7%; For 1 turn, 2x RCV
+
+# 13615/138 - Eternal Dragon Player - Fret
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK & reduces damage when HP is 50% or more; 3x ATK with 1 Heal combo, 4x with 2+ combos
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3x ATK when matching 1 Heal combos, up to 4x at 2 Heal combos
+

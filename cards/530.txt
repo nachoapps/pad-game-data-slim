@@ -1,0 +1,15 @@
+#530 フェンサー
+HP: 1152 ATK: 567 RCV: 193 LB: 0
+AWK: 
+SAWK: 
+
+# 448/116 - Forsake
+Tags: REDUCE_DEFENSE,VOID_DAMAGE
+Game: Void enemies' DEF for 1 turn; voids Dark Att. damage for 3 turns
+EN: For 1 turn, reduce enemies' defense by 100%; For 3 turns, void all Dark damage
+
+# 98/66 - Rushing Combo
+Tags: ENHANCED_ATK
+Game: 2x ATK with 3+ combos
+EN: 2x ATK when 3 or more combos
+

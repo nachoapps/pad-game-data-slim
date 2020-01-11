@@ -1,0 +1,15 @@
+#689 Rowdy Red Samurai Goblin
+HP: 1562 ATK: 1158 RCV: 38 LB: 0
+AWK: 1,14
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 241/22 - Offensive Formation
+Tags: ENHANCED_ATK
+Game: 2x ATK for Attacker Type
+EN: 2x ATK for Attacker type
+

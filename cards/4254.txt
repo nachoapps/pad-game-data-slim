@@ -1,0 +1,15 @@
+#4254 Awoken Vajrayaksa
+HP: 3693 ATK: 2055 RCV: 113 LB: 0
+AWK: 19,19,21,21,28,30,30,21,43
+SAWK: 
+
+# 10636/116 - Mantra Reckoning
+Tags: ENHANCED_ATTACK
+Game: 2x ATK for Light Att. for 3 turns; creates 6 Light Orbs at random
+EN: For 3 turns, 2x ATK for Light Att.; Create 6 Light orbs
+
+# 10639/138 - Secret Seal of Purity
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Game: 6x ATK & reduces damage with 2+ Light combos; inflicts bonus attack equal to 100x ATK when matching Orbs
+EN: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos; 100x ATK additional damage when matching orbs
+

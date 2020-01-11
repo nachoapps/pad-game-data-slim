@@ -1,0 +1,15 @@
+#5234 Interdimensional Detective, Shelling Ford
+HP: 4150 ATK: 1590 RCV: 1120 LB: 15
+AWK: 52,21,21,28,19,32,32,32,63
+SAWK: 43,54,48
+
+# 13200/116 - Checkmate!
+Tags: REMOVE_LOCK
+Game: Removes Orb locks; changes Water & Dark Orbs to Wood Orbs
+EN: Unlock all orbs; Change Water and Dark orbs to Wood orbs
+
+# 13190/138 - Time for a break.
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & ATK for Wood Att., Orb move time +2 seconds; ATK increases with 2+ Wood combos, up to 11x
+EN: 2x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 7x ATK when matching 2 Wood combos, up to 11x at 4 Wood combos
+

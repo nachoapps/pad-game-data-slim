@@ -1,0 +1,15 @@
+#1960 Light Cat Dragon, Persian Nyadra
+HP: 2700 ATK: 1400 RCV: 7 LB: 0
+AWK: 21,17
+SAWK: 
+
+# 942/116 - Dragon Heart Sutra
+Tags: HEAL,ENHANCED_HEAL
+Game: 2x RCV for 4 turns, plus 3000 HP recovered
+EN: For 4 turns, 2x RCV; Recover 3000 HP
+
+# 2599/138 - Cat Soul - Light
+Tags: ENHANCED_ATK,RESOLVE
+Game: 3x ATK for Light Att. when HP is 50% or less; may survive when HP is reduced to 0
+EN: 3x ATK for Light Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
+

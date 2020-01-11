@@ -1,0 +1,15 @@
+#2857 練紅玉
+HP: 1174 ATK: 722 RCV: 130 LB: 0
+AWK: 
+SAWK: 
+
+# 5050/116 - Be my friend.
+Tags: ORB_CONVERT,EXTENDS_TIME
+Game: Changes Poison & Dark Orbs to Water Orbs; extends Orb move time by 1 second for 2 turns
+EN: Change Dark, Poison, and Mortal Poison orbs to Water orbs; For 2 turns, increase orb move time by 1 second
+
+# 4743/129 - Metal Vessel of Vinea 
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Water Att.
+EN: 2x ATK & RCV for Water Att.
+

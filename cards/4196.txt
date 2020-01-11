@@ -1,0 +1,15 @@
+#4196 Stasis Norn, Planar
+HP: 8205 ATK: 2305 RCV: 220 LB: 15
+AWK: 52,28,21,53,19,48,45,43,63
+SAWK: 43,48,59
+
+# 14508/116 - Space-Time Speed Change Circle-Fr, Dk & Life
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 3 combos for 1 turn; removes Orb locks, changes all Orbs to Fire, Dark & Heal Orbs
+EN: For 1 turn, increase combo count by 3; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
+
+# 10079/138 - Black Divine Clock
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & RCV with 6+ combos; 3.5x ATK for each cross of 5 Dark or Fire Orbs
+EN: 3x ATK & RCV when 6 or more combos; 3.5x ATK for each cross of 5 Dark, Fire orbs
+

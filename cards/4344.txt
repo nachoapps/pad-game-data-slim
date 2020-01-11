@@ -1,0 +1,15 @@
+#4344 Campus Idol, Uruka
+HP: 4625 ATK: 1874 RCV: 485 LB: 30
+AWK: 10,10,20,53,53,21,28,27,43
+SAWK: 43,44,56
+
+# 10326/116 - All Orbs Song
+Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: Changes Orbs to all Attributes & Heal; voids Attribute absorption for 1 turn
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass att. absorb shield effects
+
+# 10329/138 - Can you feel the emotion in my song?
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: [7x6 board], 4x ATK with 8+ combos; 3x ATK & reduces dmg when Fire, Water, Wood, Dark & Heal attack at once
+EN: [Board becomes 7x6] 4x ATK when 8 or more combos; 3x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
+

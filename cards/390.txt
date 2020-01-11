@@ -1,0 +1,15 @@
+#390 Sea Deity, Heaven Neptune
+HP: 3102 ATK: 1451 RCV: 467 LB: 0
+AWK: 10,13,13,10,33,31
+SAWK: 
+
+# 128/116 - Hydra's Poison
+Tags: ENHANCED_ATTACK,POISON
+Game: 1.5x ATK for God Type for 1 turn; all enemies mortally poisoned
+EN: For 1 turn, 1.5x ATK for God type; Poison all enemies (10x ATK)
+
+# 811/129 - Godly Wall of Holy Ocean
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: Greatly reduces Water & Light Att. damage; 1.5x ATK for God Type
+EN: 1.5x ATK for God type; Reduce damage taken from water, light att. by 55%
+

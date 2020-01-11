@@ -1,0 +1,15 @@
+#4769 近藤勲
+HP: 4027 ATK: 1519 RCV: 2 LB: 0
+AWK: 21,21,21,46,46
+SAWK: 
+
+# 11465/116 - I'm a hunter, a love hunter
+Tags: HEAL
+Game: Recovers 50% of max HP; creates 6 Light Orbs at random
+EN: Recover 50% of max HP; Create 6 Light orbs
+
+# 11468/129 - Follow your own path
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 1.5x to all stats for Light & Dark Att.; halves non-Light Att. damage
+EN: 1.5x all stats for Light, Dark Att.; Reduce damage taken from fire, water, wood, dark att. by 50%
+

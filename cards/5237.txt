@@ -1,0 +1,15 @@
+#5237 Yoh Asakura
+HP: 4105 ATK: 2253 RCV: 76 LB: 25
+AWK: 10,10,21,19,28,27,27,27,27
+SAWK: 53,48,50
+
+# 13219/116 - It'll work out.
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes Dark & Fire Orbs to Wood and Water Orbs to Heal
+EN: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
+
+# 13223/138 - Integrate
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 3x ATK & RCV for Wood Att., Orb move time +2 seconds; 5x ATK when skills used
+EN: 3x ATK & RCV for Wood Att.; Increase orb movement time by 2 seconds; 5x ATK on the turn a skill is used
+

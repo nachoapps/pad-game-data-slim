@@ -1,0 +1,15 @@
+#8 Icedragon Plesios
+HP: 2195 ATK: 1056 RCV: 264 LB: 0
+AWK: 1,2,21
+SAWK: 
+
+# 12/116 - Blizzard Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Water Att. for 2 turns; inflicts 20x ATK Water Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
+
+# 57/138 - Power of Water Rapids
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2x ATK for Water Att.; Orb move time +2 seconds
+EN: 2x ATK for Water Att.; Increase orb movement time by 2 seconds
+

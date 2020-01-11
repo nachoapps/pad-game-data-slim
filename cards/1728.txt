@@ -1,0 +1,15 @@
+#1728 Phoenix Goddess, Valkyrie Femme
+HP: 2508 ATK: 1639 RCV: 766 LB: 50
+AWK: 27,22,29,21,27,22,4,44,43
+SAWK: 
+
+# 41/9 - Attack Stance - Fire
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: Changes Heal Orbs to Fire Orbs
+EN: Change Heal orbs to Fire orbs
+
+# 2415/138 - Burning Bravery
+Tags: ENHANCED_ATK
+Game: 3x ATK for Healer & God Types; 2x ATK when erasing 4+ linked Fire Orbs
+EN: 3x ATK for Healer, God type; 2x ATK when matching 4 or more connected Fire orbs
+

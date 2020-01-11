@@ -1,0 +1,15 @@
+#2738 Original Goddess of Decision, Gaia
+HP: 2465 ATK: 1840 RCV: 494 LB: 0
+AWK: 16,11,24,21,24
+SAWK: 
+
+# 137/116 - Lifestream
+Tags: REDUCE_DAMAGE,HEAL
+Game: Reduces damage for 1 turn; recovers 4000 HP
+EN: For 1 turn, reduce damage taken by 35%; Recover 4000 HP
+
+# 4528/129 - Spirit of Gaia
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Attacker Type
+EN: 3.5x ATK for Attacker type
+

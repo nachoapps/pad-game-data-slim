@@ -1,0 +1,15 @@
+#3782 木ノ宮タカオ
+HP: 3062 ATK: 1747 RCV: 151 LB: 0
+AWK: 15,15,15,15,16,16,19,21,28
+SAWK: 
+
+# 8141/116 - Storm Attack
+Tags: DROP_CHANCE
+Game: Water & Wood Orbs slightly more likely to appear for 6 turns; creates 2 Water & Wood Orbs each at random
+EN: For 6 turns, Water and Wood orbs are more likely to appear by 10%; Create 2 Water and Wood orbs
+
+# 8144/138 - Dragoon, charge!
+Tags: ENHANCED_HP_ATK
+Game: 3x ATK & 1.5x HP for Dragon Type; 2.5x ATK when Water & Wood attack at once
+EN: 3x ATK and 1.5x HP for Dragon type; 2.5x ATK when matching Water+Wood
+

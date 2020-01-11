@@ -1,0 +1,15 @@
+#4845 Takeda Shingen
+HP: 4003 ATK: 1498 RCV: 13 LB: 0
+AWK: 21,21,28,19,46
+SAWK: 
+
+# 11750/116 - Furinkazan Stance
+Tags: ALL_ORBS_CONVERT,ORB_LOCK
+Game: Changes all Orbs to Fire, Wood & Heal Orbs; Fire, Wood & Heal Orbs locked
+EN: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
+
+# 11753/138 - Takeda Diamond Protective Crest
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
+Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Fire & Wood attack at once
+EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Fire+Wood
+

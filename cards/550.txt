@@ -1,0 +1,15 @@
+#550 Mid Wood Ninja
+HP: 120 ATK: 1187 RCV: 191 LB: 0
+AWK: 
+SAWK: 
+
+# 477/35 - Ninja Art Shadow Tag
+Tags: ATTACK_AND_HEAL
+Game: Inflict 20x your ATK on 1 enemy & heal a bit
+EN: Deal 20x ATK damage to an enemy and recover 5% of the damage as HP
+
+# 533/15 - Ninja's Stealth Walk
+Tags: EXTEND_TIME
+Game: Orb move time +1.5 seconds
+EN: Increase orb movement time by 1.5 seconds
+

@@ -1,0 +1,15 @@
+#3095 Tamazo X Awoken Odin
+HP: 3601 ATK: 1103 RCV: 364 LB: 0
+AWK: 10,10,16,16,16,16,16,16,16
+SAWK: 
+
+# 5312/116 - Gungnir X
+Tags: ATTACK_AND_HEAL,RECOVER_BIND
+Game: Inflicts 50x ATK Light Att. on 1 enemy, some HP is recovered; bind status reduced by 5 turns
+EN: Deal 50x ATK Light damage to an enemy and recover 15% of the damage as HP; Reduce binds by 5 turns
+
+# 5749/138 - Robe of Protection X
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: Vastly reduces damage when HP is full; 3x ATK for each cross of 5 Wood Orbs
+EN: Reduce damage taken by 80% when HP is full; 3x ATK for each cross of 5 Wood orbs
+

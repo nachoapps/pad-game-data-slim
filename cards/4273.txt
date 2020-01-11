@@ -1,0 +1,15 @@
+#4273 Reincarnated Durga
+HP: 5403 ATK: 1940 RCV: 217 LB: 10
+AWK: 27,11,19,21,19,21,28,27,51
+SAWK: 58,43,52
+
+# 7646/116 - Divine Instrument Dance of Madness
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,SUICIDE
+Game: 2.5x ATK for Dark Att. for 3 turns; inflicts 200x ATK Dark Att. attack on 1 enemy, but halves HP
+EN: For 3 turns, 2.5x ATK for Dark Att.; Reduce HP by 50%; Deal 200x Dark damage to an enemy
+
+# 10161/138 - Spirit of the Slayer Goddess
+Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 1.5x stats for Devil Type; 5x ATK when Fr, Wt, Wd, & Dk attack, 2x ATK with 8+ combos
+EN: [No skyfall] 1.5x all stats for Devil type; 5x ATK when matching Fire, Water, Wood, Dark at once; 2x ATK when 8 or more combos
+

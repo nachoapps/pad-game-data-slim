@@ -1,0 +1,15 @@
+#235 キングゴールドネッキー
+HP: 865 ATK: 550 RCV: 468 LB: 0
+AWK: 
+SAWK: 
+
+# 102/1 - ファミ通Appの怒り
+Tags: MASSIVE_ATTACK
+Game: 832ダメージの光属性攻撃
+EN: Deal 832 Light damage to all enemies
+
+# 279/13 - ファミ通Appの加護
+Tags: AUTO_HEAL
+Game: ドロップを消した時、回復力分のHPを回復。
+EN: 1x RCV additional heal when matching orbs
+

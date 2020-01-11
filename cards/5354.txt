@@ -1,0 +1,15 @@
+#5354 Draconic Songsters' Conductor, Dioro
+HP: 3095 ATK: 1320 RCV: 248 LB: 0
+AWK: 4,5,6,21,28,27
+SAWK: 
+
+# 13652/116 - Dark Conducting
+Tags: ENHANCED_ATTACK,MENACE,SUICIDE
+Game: Delays enemies' next move for 1 turn, but reduces HP by 80%; 2.5x ATK for Dragon Type for 1 turn
+EN: Reduce HP by 80%; Delay enemies' next attack by 1 turn; For 1 turn, 2.5x ATK for Dragon type
+
+# 13656/138 - Eternal Dragon Player - Solis
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Dragon Type, Orb move time -1 second; ATK increases when 3+ Att. attack at once, up to 7x
+EN: 1.5x all stats for Dragon type; Increase orb movement time by -1 seconds; 3x ATK when matching 3 or more colors up to 7x at 5 colors
+

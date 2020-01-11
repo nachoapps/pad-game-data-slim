@@ -1,0 +1,15 @@
+#5008 Mage, Rin Tohsaka
+HP: 4565 ATK: 2060 RCV: 470 LB: 25
+AWK: 52,21,28,53,57,57,57,45,63
+SAWK: 57,43,55
+
+# 12488/116 - I'm fighting to win. That's all.
+Tags: REMOVE_LOCK
+Game: Removes Orb locks; creates 2 Fire & Light Orbs each at random
+EN: Unlock all orbs; Create 2 Fire and Light orbs
+
+# 12494/138 - I'll have you follow your Master's morals.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3.5x ATK & reduces dmg when Fr & Lt attack at once; 5x ATK & reduces dmg with 5+ linked non-Fr or non-Lt Orbs
+EN: 3.5x ATK and reduce damage taken by 25% when matching Fire+Light; 5x ATK and reduce damage taken by 25% when matching 5 or more connected non Fire, or Light orbs
+

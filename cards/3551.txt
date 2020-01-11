@@ -1,0 +1,15 @@
+#3551 Heroic Yinyang Swordpair, Gan Jiang & Mo Ye
+HP: 2870 ATK: 2211 RCV: 214 LB: 30
+AWK: 10,10,20,21,28,30,19,19
+SAWK: 43,45
+
+# 7394/116 - Spring and Autumn Shadows
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,CHANGE_ATTRIBUTE
+Game: Changes Water Orbs to Dark & Wood Orbs to Heal; this ally's Att. changes to Dark for 2 turns
+EN: Change Water orbs to Dark orbs; Change Wood orbs to Heal orbs; Change own Att. to Dark for 2 turns
+
+# 7397/138 - Yinyang Swordplay
+Tags: ENHANCED_HP_ATK
+Game: 5x ATK for Dark Att. & 1.5x HP for Light Att.; 2x ATK when erasing 6+ linked Dark Orbs
+EN: 5x ATK for Dark Att.; 1.5x HP for Light Att.; 2x ATK when matching 6 or more connected Dark orbs
+

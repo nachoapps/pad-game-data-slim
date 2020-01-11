@@ -1,0 +1,15 @@
+#937 サーティワン・ダブルビリット
+HP: 1215 ATK: 1205 RCV: 202 LB: 0
+AWK: 2,4
+SAWK: 
+
+# 182/116 - Fire&Wood Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Wood Orbs & Jammers to Fire Orbs, and Heal Orbs & Poison Orbs to Wood Orbs
+EN: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
+
+# 829/17 - ベリーベリーストロベリー
+Tags: REDUCE_DAMAGE
+Game: 火属性の敵から受けるダメージを半減。
+EN: Reduce damage taken from fire att. by 50%
+

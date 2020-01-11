@@ -1,0 +1,15 @@
+#4312 Genkai
+HP: 3408 ATK: 1368 RCV: 269 LB: 30
+AWK: 15,15,28,21,60,60
+SAWK: 60,54,52
+
+# 10224/116 - I will blast you with all of my spiritual power!
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
+Game: 2.5x ATK for Water & Light Att. for 1 turn; changes the leftmost column to Water Orbs & the rightmost to Light
+EN: For 1 turn, 2.5x ATK for Water, Light Att.; Change the far left column to Water orbs and change the far right column to Light orbs
+
+# 10227/138 - I will show no mercy to those whom I dislike!
+Tags: ENHANCED_ATK,EXTEND_TIME
+Game: 2.5x ATK for Water & Light Att., Orb move time +2 seconds; 3x ATK with 5+ linked Water or Light Orbs
+EN: 2.5x ATK for Water, Light Att.; Increase orb movement time by 2 seconds; 3x ATK when matching 5 or more connected Water or Light orbs
+

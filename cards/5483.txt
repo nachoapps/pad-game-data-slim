@@ -1,0 +1,15 @@
+#5483 Golden Gauntleted Destructor, Brahma
+HP: 3693 ATK: 1858 RCV: 355 LB: 20
+AWK: 10,10,21,21,21,28,28,28,61
+SAWK: 53,55,54
+
+# 14203/116 - Combo Creation
+Tags: ADD_COMBO
+Game: Adds 2 combos for 1 turn; halves RCV for 1 turn
+EN: For 1 turn, increase combo count by 2; For 1 turn, 0.5x RCV
+
+# 14207/138 - Beginning of the End
+Tags: ENHANCED_ATK_RCV
+Game: 4x ATK for Water Att., 3x RCV for Fire Att.; 3x ATK & adds 1 combo when Fire & Water attack at once
+EN: 4x ATK for Water Att.; 3x RCV for Fire Att.; 3x ATK and increase combo by 1 when matching Fire, Water at once
+

@@ -1,0 +1,15 @@
+#5157 Flame of Darkness Master, Hiei
+HP: 3820 ATK: 2113 RCV: 300 LB: 25
+AWK: 19,19,28,21,10,10,43,43,48
+SAWK: 45,43,48
+
+# 12957/116 - Dragon of the Darkness Flame
+Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
+Game: Dark Orbs slightly more likely to appear for 99 turns; changes the top row to Dark Orbs
+EN: For 99 turns, Dark orbs are more likely to appear by 7%; Change the top row to Dark orbs
+
+# 12960/138 - This is the power of the Darkness Flame.
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces damage when HP is 50% or more; 5x ATK with 2 Dark combos, 6x with 3+ combos
+EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 5x ATK when matching 2 Dark combos, up to 6x at 3 Dark combos
+

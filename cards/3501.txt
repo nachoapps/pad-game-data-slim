@@ -1,0 +1,15 @@
+#3501 Reincarnated Ame no Uzume
+HP: 5418 ATK: 1685 RCV: 363 LB: 10
+AWK: 14,9,9,22,22,21,10,10,43
+SAWK: 46,43,60
+
+# 5160/116 - Recovery Encouragement
+Tags: ENHANCED_HEAL,RECOVER_BIND
+Game: 2x RCV for 4 turns; bind status reduced by 4 turns
+EN: For 4 turns, 2x RCV; Reduce binds by 4 turns
+
+# 7466/138 - Spirit of the Art Goddess
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Physical & Devil Types; 6x ATK when Fire, Wood & Light attack at once
+EN: 1.5x HP & ATK for Physical, Devil type; 6x ATK when matching Fire, Wood, Light at once
+

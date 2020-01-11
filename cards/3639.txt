@@ -1,0 +1,15 @@
+#3639 Nyarlathotep
+HP: 5230 ATK: 1024 RCV: 69 LB: 0
+AWK: 19,21,28
+SAWK: 
+
+# 7604/116 - Crawling Chaos
+Tags: MENACE,ORB_CONVERT
+Game: Delays enemies' next move for 1 turn; changes Heal Orbs, Jammers & Poison Orbs to Wood Orbs
+EN: Delay enemies' next attack by 1 turn; Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+
+# 7607/138 - The Writhing Unknown
+Tags: ENHANCED_ATK_RCV
+Game: 5x ATK when HP is full, 2.5x ATK when 99% or less; 2x ATK & RCV with 2+ Wood combos
+EN: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 2+ Wood combos
+

@@ -1,0 +1,15 @@
+#379 Dino Rider Drake
+HP: 2002 ATK: 1660 RCV: 80 LB: 0
+AWK: 22,29,24,27
+SAWK: 
+
+# 182/116 - Fire&Wood Orbs Change
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Wood Orbs & Jammers to Fire Orbs, and Heal Orbs & Poison Orbs to Wood Orbs
+EN: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
+
+# 242/22 - Cut off the Retreat
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Attacker Type
+EN: 2.5x ATK for Attacker type
+

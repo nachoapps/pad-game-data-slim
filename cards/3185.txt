@@ -1,0 +1,15 @@
+#3185 Frost Spore Crusher, Hammer Troll
+HP: 4073 ATK: 1202 RCV: 24 LB: 0
+AWK: 23,21,21,21
+SAWK: 
+
+# 5428/116 - Frost Enhancement
+Tags: ENHANCED_ATTACK
+Game: 2x ATK for Water Att. for 3 turns; other allies' skills charged by 1 turn
+EN: For 3 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
+
+# 68/14 - Perseverance
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>50%)
+

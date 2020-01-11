@@ -1,0 +1,15 @@
+#4773 坂本辰馬
+HP: 2954 ATK: 1558 RCV: 302 LB: 0
+AWK: 10,10,21,19,43
+SAWK: 
+
+# 11475/179 - I'm a pleasure pirate
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 30% of max HP for 3 turns; reduces bind status (incl. Awoken) by 4 turns
+EN: For 3 turns, recover 30% of max HP; Reduce binds and awoken skill binds by 4 turns
+
+# 11476/138 - Moving people military or ideologically is profitable
+Tags: ENHANCED_ATK,COIN
+Game: 2.5x Coins when entering a dungeon as a Leader; 2x ATK for Balanced Type
+EN: 2.5x Coin Drop rate; 2x ATK for Balanced type
+

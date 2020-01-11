@@ -1,0 +1,15 @@
+#1627 Dimensional Sorcerer, Chester
+HP: 2605 ATK: 1410 RCV: 172 LB: 50
+AWK: 27,28,19,28,28,21,32,37
+SAWK: 32,37,52
+
+# 1645/116 - Gravity Room
+Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT
+Game: Reduces enemies' HP by 10%; changes Jammers & Poison Orbs to Heal Orbs
+EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs
+
+# 1972/129 - Dimensional Jigsaw Puzzle
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 2.5x ATK for Dark Att.; reduces Dark Att. damage
+EN: 2.5x ATK for Dark Att.; Reduce damage taken from dark att. by 25%
+

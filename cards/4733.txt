@@ -1,0 +1,15 @@
+#4733 Sea Dracosnake of the Dimclaws, Lindworm
+HP: 4105 ATK: 2075 RCV: 93 LB: 20
+AWK: 21,28,19,19,13,13,13,34,34
+SAWK: 45,58,57
+
+# 11027/116 - Water Crunch
+Tags: ALL_ORBS_CONVERT
+Game: Halves RCV for 2 turns; changes all Orbs to Water, Wood & Heal Orbs
+EN: For 2 turns, 0.5x RCV; Change all orbs to Water, Wood, and Heal orbs
+
+# 11030/138 - Water Fangs Whirlpool
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Water Att., 5x ATK with 6+ combos; 2x ATK with 8+ linked Water Orbs
+EN: 1.5x HP & ATK for Water Att.; 5x ATK when 6 or more combos; 2x ATK when matching 8 or more connected Water orbs
+

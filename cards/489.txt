@@ -1,0 +1,15 @@
+#489 Missionary of Time, Chrono Turtle
+HP: 3616 ATK: 852 RCV: 301 LB: 0
+AWK: 15,28,21,19,19
+SAWK: 
+
+# 134/5 - Time's Coiled Spring
+Tags: STOP_TIME
+Game: Move Orbs freely for 6 seconds
+EN: Freely move orbs for 6 seconds
+
+# 396/16 - Ancient Turtle's Shell
+Tags: REDUCE_DAMAGE
+Game: Reduces damage
+EN: Reduce damage taken by 20%
+

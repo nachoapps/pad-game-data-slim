@@ -1,0 +1,15 @@
+#4061 Morrigu
+HP: 1709 ATK: 979 RCV: 53 LB: 0
+AWK: 
+SAWK: 
+
+# 9524/160 - Destruction Song
+Tags: ADD_COMBO
+Game: Adds 3 combos for 1 turn
+EN: For 1 turn, increase combo count by 3
+
+# 9527/138 - Haunting Augur
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 4x ATK with 7+ combos; 4x ATK & reduces damage with 6+ linked Dark Orbs
+EN: 4x ATK when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+

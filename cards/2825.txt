@@ -1,0 +1,15 @@
+#2825 Invincible Heroine, Wonder Woman (Film)
+HP: 2993 ATK: 2110 RCV: 103 LB: 30
+AWK: 28,21,24,24,25,21,24,35,35
+SAWK: 35,52,62
+
+# 1693/116 - Lasso of Truth
+Tags: MENACE,EXTENDS_TIME
+Game: Delays enemies' next move for 1 turn; 1.5x Orb move time for 3 turns
+EN: Delay enemies' next attack by 1 turn; For 3 turns, 1.5x orb move time
+
+# 1942/129 - Warrior Princess
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Attacker Type
+EN: 2x ATK & RCV for Attacker type
+

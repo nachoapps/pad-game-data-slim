@@ -1,0 +1,15 @@
+#3819 Pixel Shantotto
+HP: 3035 ATK: 3053 RCV: 50 LB: 25
+AWK: 26,26,26,26,26,48,48,21
+SAWK: 62,26,52
+
+# 8511/116 - Prepare to be educated!
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the top row to Dark Orbs and the bottom row to Wood Orbs
+EN: Unlock all orbs; Change the top row to Dark orbs and change the bottom row to Wood orbs
+
+# 8514/138 - Are you in need of help?
+Tags: ENHANCED_ATK
+Game: ATK increases with 6+ linked Dark Orbs, up to 4x; 4x ATK when Dark & Wood attack at once
+EN: 2.5x ATK when matching 6 or more connected Dark orbs up to 4x at 9 orbs; 4x ATK when matching Dark+Wood
+

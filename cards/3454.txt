@@ -1,0 +1,15 @@
+#3454 Shining Fist Sacred Life Goddess, Hathor
+HP: 2860 ATK: 1881 RCV: 278 LB: 0
+AWK: 17,21,14,17,43,43
+SAWK: 
+
+# 1680/116 - Heavenly Splash
+Tags: GRAVITY,EXTENDS_TIME
+Game: Reduces enemies' HP by 25%; 2x Orb move time for 2 turns
+EN: Reduce enemies' HP by 25%; For 2 turns, 2x orb move time
+
+# 7035/138 - Deluge of Sacred Life
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x HP & RCV for Light Att.; 6x ATK when attacking with 5+ Att. (4+Heal)
+EN: 1.5x HP & RCV for Light Att.; 6x ATK when matching 5 or more colors (4+heal)
+

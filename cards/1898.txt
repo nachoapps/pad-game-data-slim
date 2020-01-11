@@ -1,0 +1,15 @@
+#1898 Dark Dragon Swordsman
+HP: 1175 ATK: 576 RCV: 128 LB: 0
+AWK: 
+SAWK: 
+
+# 1845/116 - Dragon Strike Stance - Dark
+Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Heal Orbs to Dark Orbs, plus bind status is reduced by 3 turns
+EN: Change Heal orbs to Dark orbs; Reduce binds by 3 turns
+
+# 2517/129 - Shadow Dragon's Scale
+Tags: ENHANCED_ATK
+Game: 2x ATK for Dragon Type
+EN: 2x ATK for Dragon type
+

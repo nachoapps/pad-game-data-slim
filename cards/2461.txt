@@ -1,0 +1,15 @@
+#2461 巫女の力・日暮かごめ
+HP: 2020 ATK: 1409 RCV: 515 LB: 35
+AWK: 24,21,28,28,24,46
+SAWK: 46,50,52
+
+# 3704/116 - Sit boy!
+Tags: REDUCE_DEFENSE
+Game: Vastly reduces enemies' DEF for 2 turns; other allies' skills charged by 1 turn
+EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
+
+# 4109/61 - Sacred Arrow
+Tags: ENHANCED_ATK
+Game: 4x ATK when attacking with 4+ Att. (3+Heal)
+EN: 4x ATK when matching 4 or more colors (3+heal)
+

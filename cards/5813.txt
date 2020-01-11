@@ -1,0 +1,10 @@
+#5813 クリボーのカード
+HP: 4565 ATK: 1705 RCV: 325 LB: 0
+AWK: 49,60,28,28,1
+SAWK: 
+
+# 15590/116 - 増殖コンボ
+Tags: REDUCE_DAMAGE,ADD_COMBO
+Game: 5ターンの間、1コンボ加算される。 5ターンの間、受けるダメージを軽減。
+EN: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
+

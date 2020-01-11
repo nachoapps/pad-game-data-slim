@@ -1,0 +1,15 @@
+#3872 Blazing Monstrous Wolf, Fenrir
+HP: 3005 ATK: 2270 RCV: 213 LB: 0
+AWK: 27,19,28,21,19,21,27,32
+SAWK: 
+
+# 3855/116 - Trembling Sky Roar
+Tags: DROP_CHANCE
+Game: Creates 3 Jammers & Dark Orbs each at random; Jammers slightly more likely to appear for 1 turn
+EN: Create 3 Dark and Jammer orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
+
+# 4383/138 - Apocalyptic Discharge
+Tags: ENHANCED_ATK
+Game: ATK increases when matching 3+ Jammers, up to 10x; ATK increases when attacking with 3+ Att., up to 4.5x
+EN: 4x ATK when matching 3 or more connected Jammer orbs up to 10x at 9 orbs; 1.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
+

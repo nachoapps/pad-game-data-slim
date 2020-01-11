@@ -1,0 +1,15 @@
+#2616 鳳仙学園のトップ・金山丈
+HP: 3460 ATK: 1508 RCV: 0 LB: 35
+AWK: 21,10,10,36,35
+SAWK: 36,35,43
+
+# 3829/116 - This will end it
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: Inflicts 100x ATK Light Att. attack on all enemies; 2.5x ATK for Physical & Attacker Types for 2 turns
+EN: Deal 100x Light damage to all enemies; For 2 turns, 2.5x ATK for Physical and Attacker types
+
+# 4348/138 - Fight me!
+Tags: ENHANCED_HP_ATK
+Game: ATK & HP increase slightly for Attacker Type; 2.5x ATK with　4+ combos
+EN: 1.2x HP & ATK for Physical type; 2.5x ATK when 4 or more combos
+

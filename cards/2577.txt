@@ -1,0 +1,15 @@
+#2577 Ancient Flame Dragon, Ammonite
+HP: 2915 ATK: 1093 RCV: 103 LB: 0
+AWK: 19,4
+SAWK: 
+
+# 648/116 - Healing Cheer
+Tags: ENHANCED_HEAL,RECOVER_BIND
+Game: 1.5x RCV for 4 turns, plus bind status is reduced by 4 turns
+EN: For 4 turns, 1.5x RCV; Reduce binds by 4 turns
+
+# 4240/138 - Flame Dragon's Mainspring Key
+Tags: ENHANCED_ATK_RCV,COUNTERATTACK
+Game: 1.5x RCV & 2x ATK for Machine Type; Fire Att. counterattack sometimes
+EN: 2x ATK and 1.5x RCV for Machine type; 50% chance to counterattack with 2x Fire damage
+

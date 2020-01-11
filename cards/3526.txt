@@ -1,0 +1,15 @@
+#3526 Silent Mechdragon Technician, Julie
+HP: 3512 ATK: 1664 RCV: 321 LB: 0
+AWK: 21,28,19,36,31,32
+SAWK: 
+
+# 5092/116 - Astray Mist
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Voids enemies' DEF for 1 turn; halves damage for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
+
+# 7230/138 - Hermit Energy
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 1.5x HP & ATK for Water Att.; 4x ATK & reduces damage when Water & Wood attack at once
+EN: 1.5x HP & ATK for Water Att.; 4x ATK and reduce damage taken by 25% when matching Water+Wood
+

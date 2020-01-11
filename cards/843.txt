@@ -1,0 +1,15 @@
+#843 DD・ドラゴン
+HP: 3038 ATK: 1780 RCV: 126 LB: 0
+AWK: 22,21,22,19
+SAWK: 
+
+# 656/58 - Blaze Breath
+Tags: MASSIVE_ATTACK
+Game: Fire Mass Attack with randomized damage
+EN: Randomized Fire damage to all enemies(50~100x)
+
+# 751/138 - 翼竜の使命
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドラゴンタイプの攻撃力が2.5倍。 火を6個以上つなげて消すとダメージを軽減、攻撃力が2倍。
+EN: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
+

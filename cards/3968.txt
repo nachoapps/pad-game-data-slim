@@ -1,0 +1,15 @@
+#3968 Pixel Firedragon Tyrannos
+HP: 3045 ATK: 1264 RCV: 301 LB: 0
+AWK: 1,2,21,46,47,48
+SAWK: 
+
+# 11/116 - Magma Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Fire Att. for 2 turns; inflicts 20x ATK Fire Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Fire Att.; Deal 20x ATK Fire damage to all enemies
+
+# 8965/138 - Firedragon's Hidden Power
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Fire Att.; ATK increases when erasing 6+ linked Fire Orbs, up to 5x
+EN: 2x ATK & RCV for Fire Att.; 3.5x ATK when matching 6 or more connected Fire orbs up to 5x at 9 orbs
+

@@ -1,0 +1,15 @@
+#3709 Female Hunter, Kirin X Gear
+HP: 3532 ATK: 1835 RCV: 107 LB: 25
+AWK: 27,27,21,28,30,31
+SAWK: 27,43,52
+
+# 8035/160 - Demon Mode
+Tags: ADD_COMBO
+Game: Adds 1 combo for 3 turns
+EN: For 3 turns, increase combo count by 1
+
+# 8038/138 - Elemental Crit
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats when all sub-monsters are from Monster Hunter Collab; 7x ATK with 7+ combos
+EN: 1.5x all stats when all cards are from Monster Hunter Collab; 7x ATK when 7 or more combos
+

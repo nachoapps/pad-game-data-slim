@@ -1,0 +1,15 @@
+#1244 Valiant & Loyal Deity, Guan Yu
+HP: 4345 ATK: 1537 RCV: 303 LB: 20
+AWK: 43,9,10,21,9,21,10,28,43
+SAWK: 54,48,53
+
+# 941/116 - Solid Fortitude
+Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status by 5 turns
+EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
+
+# 1286/129 - Flying Dragon's Decorum
+Tags: ENHANCED_ATK_RCV
+Game: 4x ATK & 2x RCV for Dragon & Balanced Types
+EN: 4x ATK and 2x RCV for Balanced, Dragon type
+

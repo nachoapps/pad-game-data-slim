@@ -1,0 +1,15 @@
+#1827 Red-Winged Star Angel, Rozuel
+HP: 3620 ATK: 1613 RCV: 0 LB: 0
+AWK: 21,10,10,20
+SAWK: 
+
+# 1821/9 - Healing Hymn
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Light Orbs to Heal Orbs
+EN: Change Light orbs to Heal orbs
+
+# 2468/138 - Charging Order
+Tags: ENHANCED_ATK_RCV
+Game: Attacker Type ATK & RCV increase slightly; 3x ATK with 2+ Fr+Fr or Fr+Wt combos
+EN: 1.25x ATK & RCV for Attacker type; 3x ATK when matching Fire+Fire(Fire+Water)
+

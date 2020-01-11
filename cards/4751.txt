@@ -1,0 +1,15 @@
+#4751 土方十四郎
+HP: 4213 ATK: 2400 RCV: 13 LB: 25
+AWK: 10,10,21,28,19,19,19,46,46
+SAWK: 43,21,54
+
+# 11407/116 - Not enough Mayonnaise!
+Tags: ALL_ORBS_CONVERT,VOID_SKYFALLS
+Game: No Skyfall Combos for 1 turn; changes all Orbs to Wood & Dark Orbs
+EN: For 1 turn, no skyfall; Change all orbs to Wood and Dark orbs
+
+# 11410/138 - It's the Shisengumiiiii!!
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 4x ATK & reduces dmg when Wd & Dk attack; ATK increases when 8 or less on board, up to 7x
+EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood+Dark
+

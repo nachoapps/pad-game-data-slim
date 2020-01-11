@@ -1,0 +1,15 @@
+#3713 Awoken Gabriel
+HP: 3888 ATK: 1819 RCV: 203 LB: 0
+AWK: 28,21,23,9,23,21,19,43
+SAWK: 
+
+# 8071/116 - Holy Water's Judgment
+Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Changes Light Orbs to Water & Dark Orbs to Heal; recovers 30% of max HP
+EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+
+# 8074/138 - Water Angel's Divine Will
+Tags: ENHANCED_ATK
+Game: 4x ATK for Water Att. when HP is 80% or more; 3.5x ATK with 2+ Heal combos
+EN: 4x ATK for Water Att. when above 80% HP; 3.5x ATK when matching 2+ Heal combos
+

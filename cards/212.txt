@@ -1,0 +1,15 @@
+#212 Crystal Aurora Dragon
+HP: 3055 ATK: 1264 RCV: 202 LB: 0
+AWK: 5,5,21
+SAWK: 
+
+# 117/116 - Blizzard Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Water Att. damage on all enemies; changes Light Orbs to Water Orbs
+EN: Deal 20000 Water damage to all enemies; Change Light orbs to Water orbs
+
+# 77/17 - Ice Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Water Att. damage
+EN: Reduce damage taken from water att. by 50%
+

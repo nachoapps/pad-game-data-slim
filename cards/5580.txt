@@ -1,0 +1,15 @@
+#5580 Yashamaru Kurama
+HP: 3945 ATK: 1880 RCV: 333 LB: 25
+AWK: 52,56,28,53,55,58,58,58,63
+SAWK: 48,56,53
+
+# 14597/116 - Azure Gale
+Tags: MENACE,SUICIDE,EXTENDS_TIME
+Game: Halves HP, 2x Orb move time for 1 turn; delays enemies' next move for 2 turns
+EN: Reduce HP by 50%; For 1 turn, 2x orb move time; Delay enemies' next attack by 2 turns
+
+# 14604/138 - Now you face me!
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 1.5x to all stats for Wd Att., Orb move time +2 seconds; ATK increases with 4+ linked Orbs, up to 9x
+EN: 1.5x all stats for Wood Att.; Increase orb movement time by 2 seconds; 3x ATK when matching 4 or more connected orbs up to 9x at 6 orbs
+

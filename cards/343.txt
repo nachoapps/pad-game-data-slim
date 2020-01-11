@@ -1,0 +1,15 @@
+#343 ECO Salamander Alma
+HP: 1604 ATK: 805 RCV: 251 LB: 0
+AWK: 22,1
+SAWK: 
+
+# 160/9 - Guard Stance - Fire
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Wood Orbs to Heal Orbs
+EN: Change Wood orbs to Heal orbs
+
+# 280/28 - Spirit of Fire
+Tags: ENHANCED_ATK_RCV
+Game: 1.5x ATK & RCV for Fire Att.
+EN: 1.5x ATK & RCV for Fire Att.
+

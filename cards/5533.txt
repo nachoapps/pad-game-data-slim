@@ -1,0 +1,15 @@
+#5533 烈空の紅龍喚士・ソニア
+HP: 5097 ATK: 2425 RCV: 165 LB: 20
+AWK: 43,43,43,20,21,21,21,53,28
+SAWK: 52,54,55
+
+# 14455/116 - Draco Oath Circle - Fire & Dark
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: Adds 1 combo for 1 turn; removes Orb locks and changes all Orbs to Fire & Dark Orbs
+EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Fire and Dark orbs
+
+# 14459/138 - Magic Dragon Tribe's Belief
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Game: 4x ATK & 3x RCV for Dragon & Devil Types; 4x ATK & reduces damage with 6+ combos
+EN: 4x ATK and 3x RCV for Dragon, Devil type; 4x ATK and reduce damage taken by 25% when 6 or more combos
+

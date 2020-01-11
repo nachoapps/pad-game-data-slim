@@ -1,0 +1,15 @@
+#3495 Reincarnated Apollo
+HP: 3057 ATK: 2243 RCV: 738 LB: 10
+AWK: 29,29,27,21,17,27,28,17,19
+SAWK: 48,60,52
+
+# 3924/116 - Sunlight Harmony
+Tags: ATTACK_STANCE,DROP_CHANCE
+Game: Changes Dark & Heal Orbs to Light Orbs; Light Orbs slightly more likely to appear for 2 turns
+EN: Change Dark and Heal orbs to Light orbs; For 2 turns, Light orbs are more likely to appear by 15%
+
+# 7191/138 - Spirit of the Solar Deity
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Light Att.; 3.5x ATK when Light & Wood attack at once
+EN: 1.5x all stats for Light Att.; 3.5x ATK when matching Light+Wood
+

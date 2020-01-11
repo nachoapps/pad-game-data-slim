@@ -1,0 +1,15 @@
+#5100 Perfect Victor, Karin Kanzuki
+HP: 2035 ATK: 2295 RCV: 728 LB: 25
+AWK: 52,21,21,28,19,45,46,46,63
+SAWK: 57,53,21
+
+# 12848/116 - Kanzuki-Ryu Hadorokushiki Hasha No Kata
+Tags: EXTENDS_TIME
+Game: Creates 5 Fire, Light & Heal Orbs each at random; 1.5x Orb move time for 1 turn
+EN: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
+
+# 12851/138 - I'll show you the divide in our class!
+Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light Orbs
+EN: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire, Light orbs
+

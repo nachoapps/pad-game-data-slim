@@ -1,0 +1,15 @@
+#3265 Almighty God, Ra Dragon
+HP: 5605 ATK: 1880 RCV: 340 LB: 10
+AWK: 10,10,21,21,27,27,19,19,28
+SAWK: 27,33,57
+
+# 3367/116 - Sunlight Crown
+Tags: EXTENDS_TIME
+Game: Orb move time extended by 5 seconds for 1 turn; other allies' skills charged by 2 turns
+EN: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns
+
+# 6219/138 - Solar Barrage
+Tags: ENHANCED_HP_ATK_RCV
+Game: ATK increases when 4+ Att. attack at once (3+Heal), up to 8x; 1.5x to all stats for God Type
+EN: 2x ATK when matching 4 or more colors (3+heal) up to 8x at 5 colors+heal; 1.5x all stats for God type
+

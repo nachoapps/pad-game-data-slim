@@ -1,0 +1,15 @@
+#201 Empress of Serpents, Echidna
+HP: 1277 ATK: 949 RCV: 650 LB: 0
+AWK: 11,3,2
+SAWK: 
+
+# 91/18 - Menace
+Tags: MENACE
+Game: Delays enemies' next move for 3 turns
+EN: Delay enemies' next attack by 3 turns
+
+# 66/12 - Purgatory
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+EN: 2x ATK additional damage when matching orbs
+

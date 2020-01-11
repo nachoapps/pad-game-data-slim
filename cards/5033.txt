@@ -1,0 +1,15 @@
+#5033 Great Witch of the Dark Flowers, Reeche
+HP: 4395 ATK: 2450 RCV: 510 LB: 25
+AWK: 10,10,51,51,21,28,19,43,43
+SAWK: 54,55,46,47,21
+
+# 10617/116 - Fragile Aurora​
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+
+# 12202/138 - Peculiar Dark Spirit's Whirling Technique
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 4x ATK & reduces damage with 7+ combos; 4x ATK when 4+ Att. attack at once, Orb move time +2 seconds
+EN: 4x ATK and reduce damage taken by 25% when 7 or more combos; 4x ATK when matching 4 or more colors; Increase orb movement time by 2 seconds
+

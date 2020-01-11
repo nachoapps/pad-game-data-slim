@@ -1,0 +1,15 @@
+#4674 暗黒スバル
+HP: 3555 ATK: 1443 RCV: 340 LB: 30
+AWK: 26,26,21,28,19,13,13,46,30
+SAWK: 52,46,62
+
+# 11137/116 - Stardrive
+Tags: ALL_ORBS_CONVERT,ORB_LOCK
+Game: Changes all Orbs to Water, Light & Dark Orbs; Water, Light & Dark Orbs locked
+EN: Change all orbs to Water, Light, and Dark orbs; Lock Water, Light, and Dark orbs
+
+# 11143/138 - I'll show you my dark power!
+Tags: ENHANCED_HP_ATK
+Game: 3x ATK for Dark Att., 1.5x HP for Water Att.; 2x ATK when Dark & Water attack at once
+EN: 3x ATK for Dark Att.; 1.5x HP for Water Att.; 2x ATK when matching Dark+Water
+

@@ -1,0 +1,15 @@
+#2181 Sha Wujing
+HP: 1058 ATK: 761 RCV: 164 LB: 0
+AWK: 
+SAWK: 
+
+# 2650/116 - Staff of the Four Waters
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT
+Game: Inflicts 30x ATK Water Att. attack on 1 enemy; changes Orbs to Fire, Water, Light & Dark Orbs
+EN: Deal 30x Water damage to an enemy; Change all orbs to Fire, Water, Light, and Dark orbs
+
+# 3228/125 - Tenryousen Protection
+Tags: ENHANCED_ATK_RCV
+Game: Revered Monkey King, Sun Wukong & Dark-Eyed Dragon Monk, Xuanzang for 3x ATK & 2x RCV
+EN: 3x ATK and 2x RCV if [1248, 1735] is on the team
+

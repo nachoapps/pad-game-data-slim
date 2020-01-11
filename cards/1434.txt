@@ -1,0 +1,15 @@
+#1434 青銅聖闘士・一輝
+HP: 646 ATK: 1273 RCV: 255 LB: 0
+AWK: 
+SAWK: 
+
+# 988/116 - 鳳翼天翔
+Tags: HEAL,RECOVER_BIND,FIXED_DAMAGE,HEAL_BIND_RECOVERY
+Game: 敵全体に10000の固定ダメージ。 最大HP50％分のHP回復、バインド状態を5ターン回復。
+EN: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
+
+# 1709/123 - 今度はおまえの番だぜ
+Tags: ENHANCED_ATK
+Game: HP満タン時に攻撃タイプの攻撃力が4倍。
+EN: 4x ATK for Attacker type when HP is full
+

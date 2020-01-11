@@ -1,0 +1,15 @@
+#1412 Red Riding Hood
+HP: 1541 ATK: 500 RCV: 315 LB: 0
+AWK: 
+SAWK: 
+
+# 994/116 - Protection Magic - Fire
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Water Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+EN: Change Water orbs to Heal orbs; Reduce binds by 3 turns
+
+# 1733/121 - The Sprite's Basket
+Tags: ENHANCED_HP_RCV
+Game: 1.5x HP & RCV for Healer Type
+EN: 1.5x HP & RCV for Healer type
+

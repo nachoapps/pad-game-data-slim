@@ -1,0 +1,15 @@
+#4435 鷹村守
+HP: 4025 ATK: 1226 RCV: 7 LB: 35
+AWK: 14,14,21,21,27,43
+SAWK: 52,27,43
+
+# 10572/116 - This is going to hurt, you fool!!!
+Tags: LINE_ORBS_CONVERTER
+Game: Fire attack of 20x team's overall HP on all enemies; changes the rightmost column to Fire Orbs
+EN: Deal Fire damage equal to 20x of team's total HP to all enemies; Change the far right column to Fire orbs
+
+# 10575/138 - I'll return when I'm king!!
+Tags: ENHANCED_HP_ATK
+Game: 3.5x ATK, but halves overall RCV; 2x HP & ATK for Fire Att.
+EN: 3.5x ATK and 0.5x RCV; 2x HP & ATK for Fire Att.
+

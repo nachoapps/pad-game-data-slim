@@ -1,0 +1,15 @@
+#2912 awoken bastet
+HP: 3160 ATK: 1407 RCV: 425 LB: 0
+AWK: 40,37,36,35,21
+SAWK: 
+
+# 1870/116 - Wild Cats
+Tags: ATTACK_CHANGER,EXTENDS_TIME
+Game: Mass Attacks for 3 turns; Orb move time +2 seconds for 1 turn
+EN: For 3 turns, all attacks become mass attack; For 1 turn, increase orb move time by 2 seconds
+
+# 4801/138 - cat-scratch fever
+Tags: ENHANCED_ATK
+Game: ATK increases with 5+ combos, up to 4x; 1.5x ATK for Wood Att. when skills used
+EN: 3x ATK when 5 or more combos up to 4x at 7 combos; 1.5x ATK for Wood Att. on the turn a skill is used
+

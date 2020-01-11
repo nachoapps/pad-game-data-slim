@@ -1,0 +1,15 @@
+#2944 Balboa
+HP: 1012 ATK: 795 RCV: 135 LB: 0
+AWK: 
+SAWK: 
+
+# 5092/116 - Astray Mist
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Voids enemies' DEF for 1 turn; halves damage for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
+
+# 4829/138 - Hermit Soul
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Wood Att.; 3x ATK when Wood & Water attack at once
+EN: 2x ATK & RCV for Wood Att.; 3x ATK when matching Wood+Water
+

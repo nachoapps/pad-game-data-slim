@@ -1,0 +1,15 @@
+#758 Drilling Shark Dragon, Megalodran
+HP: 2695 ATK: 963 RCV: 440 LB: 0
+AWK: 4,4,10,10,20
+SAWK: 
+
+# 42/9 - Guard Stance - Water
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: Changes Fire Orbs to Heal Orbs
+EN: Change Fire orbs to Heal orbs
+
+# 304/36 - Ice Flame Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Water & Fire Att. damage
+EN: Reduce damage taken from water, fire att. by 50%
+

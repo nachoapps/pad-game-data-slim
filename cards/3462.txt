@@ -1,0 +1,15 @@
+#3462 月島花
+HP: 4228 ATK: 1503 RCV: 38 LB: 0
+AWK: 21,21,21,28,19
+SAWK: 
+
+# 7076/116 - No hard feelings, asshole!
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Game: Removes Orb locks; changes the leftmost column to Fire Orbs and the rightmost to Heal Orbs
+EN: Unlock all orbs; Change the far left column to Fire orbs and change the far right column to Heal orbs
+
+# 7079/138 - You can change!
+Tags: ENHANCED_HP_ATK
+Game: 1.5x ATK & HP for Attacker & Physical Types; 3.5x ATK for each cross of 5 Fire Orbs
+EN: 1.5x HP & ATK for Physical, Attacker type; 3.5x ATK for each cross of 5 Fire orbs
+

@@ -1,0 +1,15 @@
+#3597 Dark Winged Machine, Demonius
+HP: 4176 ATK: 1728 RCV: 108 LB: 0
+AWK: 27,21,28,19
+SAWK: 
+
+# 7483/116 - Hellish Noise
+Tags: DROP_CHANCE
+Game: Dark Orbs more likely to appear for 1 turn; creates 3 Dark Orbs at random
+EN: For 1 turn, Dark orbs are more likely to appear by 25%; Create 3 Dark orbs
+
+# 7486/138 - Disaster Energy
+Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 1.5x to all stats for Machine Type; ATK increases with 2+ Dark combos, up to 7.5x
+EN: [No skyfall] 1.5x all stats for Machine type; 2.5x ATK when matching 2 Dark combos, up to 7.5x at 4 Dark combos
+

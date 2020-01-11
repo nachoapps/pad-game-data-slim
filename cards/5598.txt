@@ -1,0 +1,15 @@
+#5598 Charlotte
+HP: 4285 ATK: 1373 RCV: 15 LB: 30
+AWK: 21,28,19,46,47,48,43,45,63
+SAWK: 52,48,43
+
+# 14658/116 - Tri-Slash
+Tags: GUARD_STANCE,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
+Game: Changes all Orbs to Water & Wood Orbs; changes the leftmost column to Heal Orbs
+EN: Change all orbs to Water and Wood orbs; Change the far left column to Heal orbs
+
+# 14664/138 - Would you like to taste my blade?
+Tags: ENHANCED_HP_ATK_RCV
+Game: 2x HP & ATK for Water Att., 2x RCV when erasing 4 Heal Orbs; ATK increases with 4+ linked Wt Orbs, up to 5.5x
+EN: 2x HP & ATK for Water Att.; 2x RCV when matching 4 Heal orbs; 3.5x ATK when matching 4 or more connected Water orbs up to 5.5x at 6 orbs
+

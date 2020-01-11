@@ -1,0 +1,15 @@
+#3091 Great Scorching Heat, Kurenai Goukami
+HP: 2351 ATK: 1761 RCV: 64 LB: 0
+AWK: 14,22,21
+SAWK: 
+
+# 5117/116 - Inferno Blast
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Inflicts 1,000 damage on all enemies; changes the top row to Fire Orbs
+EN: Deal 1000 fixed damage to all enemies; Change the top row to Fire orbs
+
+# 5721/138 - Crimson Roaring Burning Tail
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK for Fire Att.; 2x HP for Dragon Type
+EN: 2.5x ATK for Fire Att.; 2x HP for Dragon type
+

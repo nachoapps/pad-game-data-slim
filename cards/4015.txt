@@ -1,0 +1,15 @@
+#4015 Calm Dragonbound, Rikuu
+HP: 902 ATK: 403 RCV: 110 LB: 0
+AWK: 49,28,21
+SAWK: 
+
+# 9384/116 - Orb Cataclysm
+Tags: REDUCE_DEFENSE,ALL_ORBS_CONVERT
+Game: Vastly reduces enemies' DEF for 1 turn; changes Orbs to all Attributes & Heal
+EN: For 1 turn, reduce enemies' defense by 75%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 9387/138 - Eternal Dragon Descent - Ryoen
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3x ATK & RCV for Dragon Type, Orb move time +2 seconds; 6x ATK & reduces dmg when attacking with 5+ Att. (4+Heal)
+EN: 3x ATK & RCV for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching 5 or more colors (4+heal)
+

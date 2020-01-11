@@ -1,0 +1,15 @@
+#5498 Ｓ級不死デッドゾーン
+HP: 4906 ATK: 1978 RCV: 0 LB: 30
+AWK: 10,10,21,21,21,55,26,26,26
+SAWK: 31,32,35
+
+# 14236/116 - S級侵略「不死」
+Tags: ENHANCED_ATTACK,AWOKEN_INVALID_RECOVERY
+Game: 1ターンの間、マシンタイプの攻撃力が5倍。 覚醒無効状態を全回復。
+EN: For 1 turn, 5x ATK for Machine type; Remove all awoken skill binds
+
+# 14240/138 - 蘇った侵略者
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: マシンタイプの全パラメータが2倍。ドロップ操作を2秒延長。 ドロップを4個以上つなげて消すと攻撃力が上昇、最大7倍。
+EN: 2x all stats for Machine type; Increase orb movement time by 2 seconds; 3x ATK when matching 4 or more connected orbs up to 7x at 8 orbs
+

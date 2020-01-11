@@ -1,0 +1,15 @@
+#3186 Scorched Forest Blade, Samurai Troll
+HP: 4241 ATK: 1140 RCV: 10 LB: 0
+AWK: 24,21,21,21
+SAWK: 
+
+# 5431/116 - Earth Enhancement
+Tags: ENHANCED_ATTACK
+Game: 2x ATK for Wood Att. for 3 turns; other allies' skills charged by 1 turn
+EN: For 3 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
+
+# 68/14 - Perseverance
+Tags: RESOLVE
+Game: May survive when HP is reduced to 0
+EN: May survive when HP is reduced to 0 (HP>50%)
+

@@ -1,0 +1,15 @@
+#2369 クリスタ・レンズ
+HP: 1602 ATK: 708 RCV: 595 LB: 0
+AWK: 20,21,27,21,63
+SAWK: 
+
+# 3501/116 - Are you ok!?
+Tags: REDUCE_DAMAGE,HEAL
+Game: Recovers 5x team's RCV as HP;  halves damage for 1 turn
+EN: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
+
+# 3649/129 - Better drink water first...
+Tags: ENHANCED_ATK_RCV
+Game: 2.5x ATK & 1.5x RCV for Healer Type
+EN: 3.5x ATK and 2x RCV for Healer type
+

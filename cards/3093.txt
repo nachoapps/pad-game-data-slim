@@ -1,0 +1,15 @@
+#3093 Green Whirlwind, Adekazakiri
+HP: 2012 ATK: 1022 RCV: 611 LB: 0
+AWK: 16,24,21
+SAWK: 
+
+# 5121/116 - Wind Spiral
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Game: Inflicts 1,000 damage on all enemies; changes the top row to Wood Orbs
+EN: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs
+
+# 5727/138 - Charming Phoenix Whirlwind Dust
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK for Wood Att.; 2x HP for Dragon Type
+EN: 2.5x ATK for Wood Att.; 2x HP for Dragon type
+

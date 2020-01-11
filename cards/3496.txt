@@ -1,0 +1,15 @@
+#3496 Reincarnated Persephone
+HP: 3039 ATK: 2432 RCV: 630 LB: 10
+AWK: 29,29,27,21,18,28,27,18,19
+SAWK: 48,60,52
+
+# 3927/116 - Netherworld Star
+Tags: ATTACK_STANCE,DROP_CHANCE
+Game: Changes Light & Heal Orbs to Dark Orbs; Dark Orbs slightly more likely to appear for 2 turns
+EN: Change Light and Heal orbs to Dark orbs; For 2 turns, Dark orbs are more likely to appear by 15%
+
+# 7194/138 - Spirit of the Hell Queen
+Tags: ENHANCED_HP_ATK_RCV
+Game: 1.5x to all stats for Dark Att.; 3.5x ATK when Dark & Water attack at once
+EN: 1.5x all stats for Dark Att.; 3.5x ATK when matching Dark+Water
+

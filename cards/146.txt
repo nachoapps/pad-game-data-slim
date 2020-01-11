@@ -1,0 +1,15 @@
+#146 Evil Dragon Helheim
+HP: 3002 ATK: 1322 RCV: 131 LB: 0
+AWK: 18,21
+SAWK: 
+
+# 15/116 - Inferno Breath
+Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
+Game: 1.5x ATK for Dark Att. for 2 turns; inflicts 20x ATK Dark Att. Mass Attack
+EN: For 2 turns, 1.5x ATK for Dark Att.; Deal 20x ATK Dark damage to all enemies
+
+# 80/17 - Dark Barrier
+Tags: REDUCE_DAMAGE
+Game: Halves Dark Att. damage
+EN: Reduce damage taken from dark att. by 50%
+

@@ -1,0 +1,15 @@
+#2151 精霊龍ライトデュエル・煌牙
+HP: 3654 ATK: 1310 RCV: 277 LB: 50
+AWK: 17,17,17,17,60,60,17,8,8
+SAWK: 52,54,60
+
+# 2648/116 - 精霊龍の煌牙
+Tags: ENHANCED_ORBS
+Game: ランダムで光ドロップを2個生成。 光ドロップを強化。
+EN: Create 2 Light orbs; Enhance all Light orbs
+
+# 3203/138 - Dragon Heart of Hope
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK when Light & Dark attack at once; 1.5x RCV for Dragon Type
+EN: 3x ATK when matching Light, Dark at once; 1.5x RCV for Dragon type
+

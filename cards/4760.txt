@@ -1,0 +1,15 @@
+#4760 神威
+HP: 2890 ATK: 3013 RCV: 38 LB: 25
+AWK: 21,21,28,19,61,46,46,47,47
+SAWK: 52,46,47
+
+# 11435/116 - I'm gonna kill you
+Tags: VOID_DAMAGE_ABSORBS
+Game: Halves RCV for 2 turns; voids damage absorption for 2 turns
+EN: For 2 turns, 0.5x RCV; For 2 turns, bypass damage absorb shield effects
+
+# 11438/138 - No one interferes with my hobby
+Tags: ENHANCED_ATK
+Game: 6x ATK for Fire Att.; 2x ATK with 2 Fire combos, 3.5x ATK with 3+ combos
+EN: 6x ATK for Fire Att.; 2x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
+

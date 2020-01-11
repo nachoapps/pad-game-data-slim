@@ -1,0 +1,15 @@
+#2428 獅子丸
+HP: 4400 ATK: 440 RCV: 440 LB: 0
+AWK: 17,17,17,53,21,13,13
+SAWK: 
+
+# 3588/55 - Raging Fireball
+Tags: FIXED_DAMAGE
+Game: Inflicts 440 damage on 1 enemy
+EN: Deal 440 fixed damage to an enemy
+
+# 4082/104 - Chikuwa! Woof!
+Tags: ENHANCED_ATK
+Game: 2x ATK for Light Att. with 3+ combos
+EN: 2x ATK for Light Att. when 3 or more combos
+

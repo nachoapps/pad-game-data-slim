@@ -1,0 +1,15 @@
+#3492 Reincarnated Ares
+HP: 3831 ATK: 2649 RCV: 262 LB: 10
+AWK: 27,21,11,22,27,14,14,28,19
+SAWK: 48,60,52
+
+# 3915/116 - Raging Blaze
+Tags: ATTACK_STANCE,DROP_CHANCE
+Game: Changes Water & Heal Orbs to Fire Orbs; Fire Orbs slightly more likely to appear for 2 turns
+EN: Change Water and Heal orbs to Fire orbs; For 2 turns, Fire orbs are more likely to appear by 15%
+
+# 7182/138 - Spirit of the War Deity
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Fire Att.; 3.5x ATK when Fire & Wood attack at once
+EN: 2x HP & ATK for Fire Att.; 3.5x ATK when matching Fire+Wood
+

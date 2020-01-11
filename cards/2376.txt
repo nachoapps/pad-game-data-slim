@@ -1,0 +1,15 @@
+#2376 超大型巨人・戦闘状態
+HP: 5050 ATK: 1038 RCV: 0 LB: 100
+AWK: 14,14,19
+SAWK: 52,43,54
+
+# 3510/116 - Overwhelming Fear
+Tags: MENACE,MASSIVE_ATTACK
+Game: Inflicts 100x ATK Fire Att. Mass Attack; delays enemies' next move for 1 turn
+EN: Deal 100x ATK Fire damage to all enemies; Delay enemies' next attack by 1 turn
+
+# 3658/129 - Scorching Vapor
+Tags: ENHANCED_HP_ATK
+Game: 2.5x ATK for Physical Type, plus their HP increases slightly
+EN: 2.5x ATK and 1.25x HP for Physical type
+

@@ -1,0 +1,15 @@
+#4080 Howling Wolf, Terry Bogard
+HP: 4045 ATK: 2398 RCV: 60 LB: 25
+AWK: 14,14,19,19,21,21,28,10,10
+SAWK: 55,43,46
+
+# 9571/116 - OK! That was a heated fight!
+Tags: RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces bind status (incl. Awoken) by 3 turns; changes the leftmost column to Fire & the rightmost to Light Orbs
+EN: Reduce binds and awoken skill binds by 3 turns; Change the far left column to Fire orbs and change the far right column to Light orbs
+
+# 9577/138 - Power Geyser
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 3x ATK & reduces dmg when Fire & Light attack at once; 5x ATK for Att. erasing 5 Orbs including enhanced
+EN: 3x ATK and reduce damage taken by 25% when matching Fire+Light; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

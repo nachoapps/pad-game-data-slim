@@ -1,0 +1,15 @@
+#5457 小野田坂道
+HP: 5205 ATK: 1768 RCV: 33 LB: 25
+AWK: 10,10,21,28,19,19,45,58,58
+SAWK: 48,53,54
+
+# 14046/116 - もう30回転ケイデンス!!
+Tags: DROP_CHANCE
+Game: ランダムで木ドロップを1個生成。 1ターンの間、木ドロップが少し落ちやすくなる。
+EN: Create 1 Wood orb; For 1 turn, Wood orbs are more likely to appear by 10%
+
+# 14052/138 - ボクは信じてペダルを回す
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 木属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 木の2コンボで攻撃力が4倍、3コンボ以上で7倍。
+EN: 2x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 2 Wood combos, up to 7x at 3 Wood combos
+

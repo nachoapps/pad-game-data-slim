@@ -1,0 +1,15 @@
+#3548 Heroic Firelight Sword, Claíomh Solais
+HP: 2964 ATK: 2450 RCV: 43 LB: 30
+AWK: 10,10,20,21,28,30,19,19
+SAWK: 43,45
+
+# 7376/116 - Celtic Light
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,CHANGE_ATTRIBUTE
+Game: Changes Water Orbs to Light & Dark Orbs to Heal; this ally's Att. changes to Light for 2 turns
+EN: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs; Change own Att. to Light for 2 turns
+
+# 7379/138 - Firelight Swordplay
+Tags: ENHANCED_HP_ATK
+Game: 5x ATK for Light Att. & 1.5x HP for Fire Att.; 1.5x ATK with 2 Light combos, 2x ATK with 3+ combos
+EN: 5x ATK for Light Att.; 1.5x HP for Fire Att.; 1.5x ATK when matching 2 Light combos, up to 2x at 3 Light combos
+

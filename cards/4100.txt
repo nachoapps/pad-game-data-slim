@@ -1,0 +1,15 @@
+#4100 Athena Asamiya
+HP: 2751 ATK: 1563 RCV: 351 LB: 0
+AWK: 27,27,21,10,10
+SAWK: 
+
+# 9664/116 - It's time for my encore!
+Tags: REDUCE_DAMAGE,ADD_COMBO
+Game: Adds 1 combo for 2 turns; halves damage for 2 turns
+EN: For 2 turns, increase combo count by 1; For 2 turns, reduce damage taken by 50%
+
+# 9667/138 - Crystal Shoot
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Game: 2x ATK & RCV for Light Att., Orb move time +2 seconds; 2.5x ATK when Light & Dark attack at once
+EN: 2x ATK & RCV for Light Att.; Increase orb movement time by 2 seconds; 2.5x ATK when matching Light+Dark
+

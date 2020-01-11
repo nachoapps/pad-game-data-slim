@@ -1,0 +1,15 @@
+#5046 Wondrous Heaven's Grand Star, En
+HP: 3483 ATK: 1920 RCV: 65 LB: 30
+AWK: 21,28,19,19,19,43,44,57,57
+SAWK: 57,52
+
+# 12587/116 - Wondrous Heaven's Compliant Rod
+Tags: ENHANCED_HEAL,EXTENDS_TIME
+Game: 1.5x RCV for 1 turn; Orb move time +1 second for 1 turn
+EN: For 1 turn, 1.5x RCV; For 1 turn, increase orb move time by 1 second
+
+# 12593/138 - Golden Lion's Roar
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 5x ATK with 2 Water combos, 7x with 3+ combos; 2x ATK & reduces damage with 5+ combos
+EN: 5x ATK when matching 2 Water combos, up to 7x at 3 Water combos; 2x ATK and reduce damage taken by 25% when 5 or more combos
+

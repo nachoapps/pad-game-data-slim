@@ -1,0 +1,15 @@
+#4313 Koenma
+HP: 3005 ATK: 1157 RCV: 518 LB: 30
+AWK: 21,28,28,10,10
+SAWK: 45,54,55
+
+# 10230/116 - You see things quite well.
+Tags: REDUCE_DAMAGE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces bind status (incl. Awoken) by 4 turns; halves damage for 3 turns
+EN: Reduce binds and awoken skill binds by 4 turns; For 3 turns, reduce damage taken by 50%
+
+# 10233/186 - The real trial begins now.
+Tags: ENHANCED_HP_RCV,BOARD_CHANGE_7X6
+Game: [7x6 board], 2x HP & RCV for Water Att.
+EN: [Board becomes 7x6] 2x HP & RCV for Water Att.
+

@@ -1,0 +1,15 @@
+#2163 幻想妖精カチュア
+HP: 3249 ATK: 1436 RCV: 275 LB: 30
+AWK: 28,56,24,27,19,28,13,12,11
+SAWK: 52,55,43
+
+# 2641/116 - ドラゴン・サポート
+Tags: ENHANCED_ATTACK
+Game: 2ターンの間、ドラゴンタイプの攻撃力が1.5倍。 自分以外の味方スキルが1ターン溜まる。
+EN: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
+
+# 3214/138 - Dragon Friend
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP for Dragon Type; 5x ATK for Dragon Type when skills used
+EN: 2x HP & ATK for Dragon type; 5x ATK for Dragon type on the turn a skill is used
+

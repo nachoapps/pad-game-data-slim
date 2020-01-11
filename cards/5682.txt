@@ -1,0 +1,15 @@
+#5682 Draconic Songster on Electric Guitar, Marthis
+HP: 3550 ATK: 3790 RCV: 258 LB: 15
+AWK: 10,10,56,53,27,27,27,27,27
+SAWK: 27,55,21
+
+# 15121/116 - Thunder Cutting
+Tags: ENHANCED_HEAL
+Game: Recovers HP & ATK increases by the number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
+EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+
+# 15130/138 - Eternal Dragon Players - Give & Gave
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Game: 2x HP for Dragon Type, 2x ATK when 2+ Att. attack at once; 8x ATK & reduces damage with 6+ combos
+EN: 2x HP for Dragon type; 2x ATK when matching 2 or more colors; 8x ATK and reduce damage taken by 25% when 6 or more combos
+

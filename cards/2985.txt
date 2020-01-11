@@ -1,0 +1,15 @@
+#2985 Awoken Okuninushi
+HP: 5145 ATK: 1479 RCV: 54 LB: 0
+AWK: 18,19,21,28,28,21,27,19
+SAWK: 
+
+# 5166/116 - Masterful Foundation
+Tags: ENHANCED_ATTACK,MENACE,EXTENDS_TIME
+Game: Delays enemies' next move for 2 turns; 1.5x ATK for Dark Att. for 2 turns
+EN: Delay enemies' next attack by 2 turns; For 2 turns, 1.5x ATK for Dark Att.; For 2 turns, 1.5x orb move time
+
+# 4959/138 - Powerful Technique Connection
+Tags: ENHANCED_ATK
+Game: ATK increases with 6+ combos, up to 6x; 1.5x ATK with 2 Dark combos, 2x ATK with 3+ combos
+EN: 4x ATK when 6 or more combos up to 6x at 10 combos; 1.5x ATK when matching 2 Dark combos, up to 2x at 3 Dark combos
+

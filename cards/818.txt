@@ -1,0 +1,15 @@
+#818 Bronzed Grendel
+HP: 3858 ATK: 1033 RCV: -100 LB: 0
+AWK: 4,1
+SAWK: 
+
+# 32/3 - Iron Wall Stance
+Tags: REDUCE_DAMAGE
+Game: Halves damage for 5 turns
+EN: For 5 turns, reduce damage taken by 50%
+
+# 736/22 - Soul of the Giant
+Tags: ENHANCED_ATK
+Game: 2x ATK for Physical Type
+EN: 2x ATK for Physical type
+

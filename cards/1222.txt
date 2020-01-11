@@ -1,0 +1,15 @@
+#1222 Gaia
+HP: 1082 ATK: 1136 RCV: 342 LB: 0
+AWK: 
+SAWK: 
+
+# 137/116 - Lifestream
+Tags: REDUCE_DAMAGE,HEAL
+Game: Reduces damage for 1 turn; recovers 4000 HP
+EN: For 1 turn, reduce damage taken by 35%; Recover 4000 HP
+
+# 1287/121 - Call of Gaia
+Tags: ENHANCED_ATK
+Game: 3.5x ATK for Attacker Type, but halves their RCV
+EN: 3.5x ATK and 0.5x RCV for Attacker type
+

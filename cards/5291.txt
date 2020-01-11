@@ -1,0 +1,15 @@
+#5291 Ra Pochacco
+HP: 3506 ATK: 1529 RCV: 284 LB: 30
+AWK: 21,28,19,57,57,57,51,30
+SAWK: 57,54,52
+
+# 13445/116 - Pocha Pocha Walking
+Tags: FIXED_DAMAGE
+Game: Inflicts 77,777 damage on all enemies; creates 3 Orbs of all Attributes each at random
+EN: Deal 77777 fixed damage to all enemies; Create 3 Fire, Water, Wood, Light, and Dark orbs over any orbs
+
+# 13451/138 - Sunny♪ Milk Vetch
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 2x HP & RCV for Fire & Light Att., Orb move time +5 seconds; 7x ATK when 5 Att. attack at once
+EN: 2x HP & RCV for Fire, Light Att.; Increase orb movement time by 5 seconds; 7x ATK when matching 5 or more colors
+

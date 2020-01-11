@@ -1,0 +1,15 @@
+#3373 Steel Chronicle Mechdragon God, Balboa
+HP: 4524 ATK: 1824 RCV: 252 LB: 0
+AWK: 21,21,28,36,32,19
+SAWK: 
+
+# 5092/116 - Astray Mist
+Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
+Game: Voids enemies' DEF for 1 turn; halves damage for 1 turn
+EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
+
+# 6953/138 - Hermit Eyes
+Tags: ENHANCED_ATK_RCV
+Game: 2x ATK & RCV for Wood Att.; 3.5x ATK when Wood & Water attack at once
+EN: 2x ATK & RCV for Wood Att.; 3.5x ATK when matching Wood+Water
+

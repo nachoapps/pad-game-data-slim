@@ -1,0 +1,15 @@
+#2544 Prayer's Sacred Bird, Yatagarasu
+HP: 50 ATK: 50 RCV: 50 LB: 0
+AWK: 
+SAWK: 
+
+# 3355/116 - Divine Illumination
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
+EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
+
+# 4300/13 - Cah!!!
+Tags: AUTO_HEAL
+Game: Heals 10x RCV in HP when matching Orbs
+EN: 10x RCV additional heal when matching orbs
+

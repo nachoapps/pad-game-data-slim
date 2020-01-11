@@ -1,0 +1,15 @@
+#1090 Hurricane Volcano Dragon
+HP: 2825 ATK: 1680 RCV: 186 LB: 50
+AWK: 4,4,21
+SAWK: 60,43,48
+
+# 116/116 - Magma Ball
+Tags: MASSIVE_ATTACK,ORB_CONVERT
+Game: Inflicts 20,000 Fire Att. damage on all enemies; changes Dark Orbs to Fire Orbs
+EN: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
+
+# 594/17 - Fire Dragon's Protection
+Tags: REDUCE_DAMAGE
+Game: Greatly reduces Fire Att. damage
+EN: Reduce damage taken from fire att. by 55%
+

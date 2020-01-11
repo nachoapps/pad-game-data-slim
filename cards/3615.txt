@@ -1,0 +1,15 @@
+#3615 三只眼
+HP: 3610 ATK: 2173 RCV: 335 LB: 25
+AWK: 10,10,21,43,43,20,53,48,28
+SAWK: 45,55,59
+
+# 7536/116 - Live by my side!!
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND
+Game: Changes Fire Orbs to Wood & Dark Orbs to Heal; reduces bind status by 3 turns
+EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Reduce binds by 5 turns; Reduce unable to match orbs effect by 5 turns
+
+# 7542/138 - Don't push your luck, fool!
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 1.5x HP & 3x ATK for Wood Att.; ATK increases when erasing 4+ linked Heal Orbs, up to 3x
+EN: 4x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 4 or more connected Heal orbs
+

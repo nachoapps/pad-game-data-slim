@@ -1,0 +1,15 @@
+#5458 天性のクライマー・小野田坂道
+HP: 5255 ATK: 1868 RCV: 33 LB: 25
+AWK: 52,56,53,28,24,24,24,24,24
+SAWK: 48,53,54
+
+# 14046/116 - もう30回転ケイデンス!!
+Tags: DROP_CHANCE
+Game: ランダムで木ドロップを1個生成。 1ターンの間、木ドロップが少し落ちやすくなる。
+EN: Create 1 Wood orb; For 1 turn, Wood orbs are more likely to appear by 10%
+
+# 14055/138 - ヒメなのだ!!
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Game: 木属性のHPが2倍、攻撃力は3倍。スキル使用時、攻撃力が1.5倍。 木を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+EN: 3x ATK and 2x HP for Wood Att.; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs; 1.5x ATK on the turn a skill is used
+

@@ -1,0 +1,15 @@
+#702 Rei&Eva Unit-00, Suicide ATK Mode
+HP: 1935 ATK: 1690 RCV: 347 LB: 0
+AWK: 25,17,9
+SAWK: 
+
+# 623/3 - I will protect you
+Tags: REDUCE_DAMAGE
+Game: Halves damage for 2 turns
+EN: For 2 turns, reduce damage taken by 50%
+
+# 599/63 - Retrofit Specifications
+Tags: ENHANCED_HP_RCV
+Game: 2x HP & RCV for Attacker Type
+EN: 2x HP & RCV for Attacker type
+

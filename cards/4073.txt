@@ -1,0 +1,15 @@
+#4073 Serene Princess of Hell, Sitri
+HP: 3806 ATK: 1742 RCV: 1055 LB: 0
+AWK: 21,19,28,15,15,15,47,47,47
+SAWK: 
+
+# 5233/116 - Water Ring Jail
+Tags: EXTENDS_TIME
+Game: Changes Fire & Wood Orbs to Water Orbs; 1.5x Orb move time for 1 turn
+EN: Change Fire and Wood orbs to Water orbs; For 1 turn, 1.5x orb move time
+
+# 5602/138 - Evil Water's Charm
+Tags: ENHANCED_HP_ATK
+Game: HP & ATK increase a little for Devil Type; 3x ATK for each cross of 5 Water Orbs
+EN: 1.35x HP & ATK for Devil type; 3x ATK for each cross of 5 Water orbs
+

@@ -1,0 +1,15 @@
+#1523 Flame Knight Areon
+HP: 2076 ATK: 708 RCV: 251 LB: 0
+AWK: 14,4
+SAWK: 
+
+# 954/116 - Mirage Flare
+Tags: ENHANCED_ATTACK,ATTACK_AND_HEAL
+Game: 20x ATK attack on 1 enemy, recovers half of dmg in HP; 2x ATK for Dragon & Devil for 1 turn
+EN: Deal 20x ATK Fire damage to an enemy and recover 50% of the damage as HP; For 1 turn, 2x ATK for Dragon and Devil types
+
+# 1763/43 - Super Armor
+Tags: REDUCE_DAMAGE
+Game: Halves damage when HP is full
+EN: Reduce damage taken by 50% when HP is full
+

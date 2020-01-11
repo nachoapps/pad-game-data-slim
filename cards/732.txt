@@ -1,0 +1,15 @@
+#732 赤チョコボ&チョコボ士
+HP: 2248 ATK: 1292 RCV: 223 LB: 0
+AWK: 27,14
+SAWK: 
+
+# 627/58 - Choco Meteor
+Tags: MASSIVE_ATTACK
+Game: Inflicts a mass attack with randomized damage
+EN: Randomized Fire damage to all enemies(10~100x)
+
+# 361/16 - Choco Barrier
+Tags: REDUCE_DAMAGE
+Game: Slightly reduces damage
+EN: Reduce damage taken by 10%
+

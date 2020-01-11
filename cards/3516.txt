@@ -1,0 +1,15 @@
+#3516 Inquisitive Hell Phantom Heiress, Romia
+HP: 5380 ATK: 1562 RCV: 449 LB: 25
+AWK: 19,19,19,19,21,28,43,31,31
+SAWK: 60,31,43
+
+# 1864/71 - Chaotic Call
+Tags: ALL_ORBS_CONVERT
+Game: Changes Orbs to Fire, Wood, and Dark Orbs
+EN: Change all orbs to Fire, Wood, and Dark orbs
+
+# 7246/138 - Abyssal Transfiguration
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Game: [7x6 board]; 5x ATK with 3+ Wood+Wood+Dark or Wood+Dark+Dark combos
+EN: [Board becomes 7x6] 5x ATK when matching Wood+Wood+Dark(Wood+Dark+Dark)
+

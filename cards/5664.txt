@@ -1,0 +1,15 @@
+#5664 Melissa Mao
+HP: 4135 ATK: 1795 RCV: 401 LB: 30
+AWK: 10,10,21,46,47,34,34,35,35
+SAWK: 35,46,47
+
+# 15056/116 - Rock 'n' roll!
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes all Orbs to Fire, Dark & Heal Orbs
+EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
+
+# 15060/138 - AI "Friday" integrated M9
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: 3x ATK & RCV for Machine Type, Orb move time +2 seconds; 4.5x ATK & reduces dmg when Fire & Dark attack at once
+EN: 3x ATK & RCV for Machine type; Increase orb movement time by 2 seconds; 4.5x ATK and reduce damage taken by 25% when matching Fire+Dark
+

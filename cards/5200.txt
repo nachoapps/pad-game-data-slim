@@ -1,0 +1,15 @@
+#5200 Male Hunter, Zeus - Giga Gear
+HP: 3010 ATK: 1960 RCV: 348 LB: 25
+AWK: 21,21,19,12,12,12,39,33,31
+SAWK: 40,41,52
+
+# 13118/116 - Spirit Reckoning
+Tags: GRAVITY,VOID_ATT_ABSORBS
+Game: Reduces enemies' HP by 35%; voids Attribute absorption for 1 turn
+EN: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects
+
+# 13121/138 - Thunderblade Strike
+Tags: AUTO_HEAL,ENHANCED_ATK
+Game: 7.5x ATK when HP is full, 2x ATK with 2+ combos; recovers 10x RCV as HP when matching Orbs
+EN: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+

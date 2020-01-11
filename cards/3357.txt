@@ -1,0 +1,15 @@
+#3357 Head Captain of 13 Court Guard Squads, Genryusai
+HP: 5113 ATK: 1474 RCV: 131 LB: 0
+AWK: 22,22,22,22,22,21,21
+SAWK: 
+
+# 6426/116 - You have not learned your lesson.
+Tags: ATTACK_STANCE,ADD_COMBO
+Game: Changes Water & Heal Orbs to Fire Orbs;  adds 1 combo for 2 turns
+EN: Change Water and Heal orbs to Fire orbs; For 2 turns, increase combo count by 1
+
+# 6432/138 - All things in the universe turn to ash! Ryujinjakka!
+Tags: ENHANCED_ATK
+Game: 2.5x ATK for Fire Att.; 4x ATK when erasing 6+ linked Fire Orbs
+EN: 2.5x ATK for Fire Att.; 4x ATK when matching 6 or more connected Fire orbs
+

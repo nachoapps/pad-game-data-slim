@@ -1,0 +1,15 @@
+#2370 兵団の女神・クリスタ・レンズ
+HP: 2655 ATK: 1030 RCV: 705 LB: 30
+AWK: 20,21,27,21,43,27,57,63
+SAWK: 52,27,57
+
+# 3501/116 - Are you ok!?
+Tags: REDUCE_DAMAGE,HEAL
+Game: Recovers 5x team's RCV as HP;  halves damage for 1 turn
+EN: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
+
+# 3650/138 - We must hurry back into formation.
+Tags: AUTO_HEAL,ENHANCED_ATK_RCV
+Game: 2.5x ATK & 1.5x RCV for Healer Type; heals HP (2x RCV) when matching Orbs
+EN: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
+

@@ -1,0 +1,15 @@
+#4171 Male Hunter, Brachydios X Gear
+HP: 2746 ATK: 1963 RCV: 259 LB: 25
+AWK: 27,27,27,28,30,31
+SAWK: 27,55,52
+
+# 9813/116 - Kinsect: Harvest Extract
+Tags: REDUCE_DAMAGE,ATTACK_AND_HEAL
+Game: Inflicts 20x ATK attack on 1 enemy, recovers half the dmg as HP; reduces damage for 1 turn
+EN: Deal 20x ATK damage to an enemy and recover 50% of the damage as HP; For 1 turn, reduce damage taken by 35%
+
+# 9816/138 - Challenger +2
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & RCV when all subs from Monster Hunter Collab; 3x ATK when attacking with 2+ Light combos
+EN: 3x ATK & RCV when all cards are from Monster Hunter Collab; 3x ATK when matching 2+ Light combos
+

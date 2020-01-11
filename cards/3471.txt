@@ -1,0 +1,15 @@
+#3471 七代目武装戦線副頭・藤代拓海
+HP: 2933 ATK: 1625 RCV: 255 LB: 30
+AWK: 21,21,19,28,36
+SAWK: 38,61,52
+
+# 7112/116 - Pathetic, aren't you!
+Tags: REMOVE_LOCK
+Game: Removes Orb locks; creates 3 Dark & Fire Orbs each at random
+EN: Unlock all orbs; Create 3 Fire and Dark orbs
+
+# 7118/138 - We're The Front of Armament, 7th Gen!
+Tags: ENHANCED_HP_ATK,COUNTERATTACK
+Game: 1.5x HP & 3x ATK for Devil Type; Dark counterattack
+EN: 3x ATK and 1.5x HP for Devil type; 2x Dark counterattack
+

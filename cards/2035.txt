@@ -1,0 +1,15 @@
+#2035 Rinoa
+HP: 2820 ATK: 1626 RCV: 728 LB: 0
+AWK: 15,10,10,21,15,15,15,20,28
+SAWK: 
+
+# 2604/116 - Hey, again.
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Game: Recovers 50% of max HP and fully recovers bind status; other allies' skills charged by 1 turn
+EN: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
+
+# 2918/138 - Angelo
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Game: 2x ATK for Water Att., Orb move time +2 seconds; 4x ATK & reduces damage with 2+ Water combos
+EN: 2x ATK for Water Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching 2+ Water combos
+

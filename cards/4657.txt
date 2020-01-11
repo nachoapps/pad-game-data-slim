@@ -1,0 +1,15 @@
+#4657 猪狩守
+HP: 3595 ATK: 2203 RCV: 13 LB: 25
+AWK: 21,21,28,28,19,19,15,15,30
+SAWK: 52,43,48
+
+# 11045/116 - Raging Cannon
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,REMOVE_LOCK
+Game: Orb move time +2 seconds for 1 turn; removes all Orb locks and changes Orbs to Fire & Water Orbs
+EN: For 1 turn, increase orb move time by 2 seconds; Unlock all orbs; Change all orbs to Fire and Water orbs
+
+# 11049/138 - You're getting in the way of my training!
+Tags: ENHANCED_ATK
+Game: 4x ATK for Water Att.; ATK increases with 5+ combos, up to 4x
+EN: 4x ATK for Water Att.; 1.5x ATK when 5 or more combos up to 4x at 10 combos
+

@@ -1,0 +1,15 @@
+#4104 King
+HP: 3062 ATK: 1398 RCV: 356 LB: 0
+AWK: 21,21,19,36,36
+SAWK: 
+
+# 9676/116 - Is that all? How disappointing.
+Tags: MENACE,ADD_COMBO
+Game: Adds 1 combo for 2 turns; delays enemies' next move for 2 turns
+EN: For 2 turns, increase combo count by 1; Delay enemies' next attack by 2 turns
+
+# 9679/138 - Illusion Dance
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 1.5x ATK for Water Att. & slightly reduces damage; ATK increases with 4+ combos, up to 4x
+EN: 1.5x ATK for Water Att.; Reduce damage taken by 10%; 2.5x ATK when 4 or more combos up to 4x at 7 combos
+

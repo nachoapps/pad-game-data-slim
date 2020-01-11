@@ -1,0 +1,15 @@
+#5566 Wandering Great Swordsman, Haohmaru
+HP: 4045 ATK: 2353 RCV: 98 LB: 25
+AWK: 52,56,53,25,25,25,62,62,63
+SAWK: 43,48,54
+
+# 14533/116 - Judgement Blast Slash
+Tags: ALL_ORBS_CONVERT,ADD_COMBO
+Game: Adds 2 combos for 1 turn; changes all Orbs to Fire, Light & Heal Orbs
+EN: For 1 turn, increase combo count by 2; Change all orbs to Fire, Light, and Heal orbs
+
+# 14539/138 - Don't expect me to go easy on you!
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Game: 1.5x to all stats for Light Att., 2x ATK with 4+ combos; 5x ATK & inflicts 50,000 dmg with 6+ linked Light Orbs
+EN: 1.5x all stats for Light Att.; 2x ATK when 4 or more combos; 5x ATK when matching 6 or more connected Light orbs; 50000 additional damage when matching 6 or more Light orbs
+

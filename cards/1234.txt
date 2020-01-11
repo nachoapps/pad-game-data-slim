@@ -1,0 +1,15 @@
+#1234 Courageous Divine General, Sun Quan
+HP: 2795 ATK: 1183 RCV: 530 LB: 0
+AWK: 23,15,11,21
+SAWK: 
+
+# 936/116 - Honest Insight
+Tags: ENHANCED_ATTACK,MENACE
+Game: Delays enemies' next move for 2 turns; 2.5x ATK for Healer Type for 2 turns
+EN: Delay enemies' next attack by 2 turns; For 2 turns, 2.5x ATK for Healer type
+
+# 1281/123 - Tiger Cub's Boldness
+Tags: ENHANCED_ATK_RCV
+Game: 3x ATK & 1.5x RCV for Healer Type when HP is 50% or more
+EN: 3x ATK and 1.5x RCV for Healer type when above 50% HP
+

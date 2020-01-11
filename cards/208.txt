@@ -1,0 +1,15 @@
+#208 Earth Light Carbuncle
+HP: 945 ATK: 572 RCV: 465 LB: 0
+AWK: 9,21
+SAWK: 
+
+# 138/8 - Light of Mighty Healing
+Tags: HEAL
+Game: Recovers 2,000 HP
+EN: Recover 2000 HP
+
+# 62/13 - Healing Prayer
+Tags: AUTO_HEAL
+Game: Heals HP equal to half RCV when matching Orbs
+EN: 0.5x RCV additional heal when matching orbs
+

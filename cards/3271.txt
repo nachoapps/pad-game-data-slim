@@ -1,0 +1,15 @@
+#3271 Reincarnated Hino Kagutsuchi
+HP: 5550 ATK: 1960 RCV: 160 LB: 10
+AWK: 27,27,22,21,10,10,27,27,28
+SAWK: 27,54,60
+
+# 1697/116 - Yomi Wave
+Tags: REDUCE_DEFENSE,ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Vastly reduces enemies' DEF for 2 turns; changes Water Orbs to Fire & Heal to Dark
+EN: For 2 turns, reduce enemies' defense by 75%; Change Water orbs to Fire orbs; Change Heal orbs to Dark orbs
+
+# 6228/138 - Spirit of the Burning Snake God
+Tags: ENHANCED_ATK_RCV,ADDITIONAL_ATTACK
+Game: 3x ATK & 1.5x RCV when Fire & Dark attack at once; inflicts bonus attack equal to 40x ATK when matching Orbs
+EN: 3x ATK and 1.5x RCV when matching Fire+Dark; 40x ATK additional damage when matching orbs
+

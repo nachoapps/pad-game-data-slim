@@ -1,0 +1,15 @@
+#4386 Makoto Niijima
+HP: 3415 ATK: 1349 RCV: 278 LB: 0
+AWK: 27,27,27,43,21
+SAWK: 
+
+# 10454/116 - Freidyne
+Tags: SINGLE_TARGET_ATTACK,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: Inflicts 80x ATK Fire Att. attack on 1 enemy; changes Jammers & Light to Fire and Dark & Poison to Water
+EN: Deal 80x ATK Fire damage to an enemy; Change Light, Jammer orbs to Fire orbs; Change Dark, Poison, and Mortal Poison orbs to Water orbs
+
+# 10458/138 - Fist of Justice!
+Tags: ENHANCED_ATK
+Game: 3x ATK for Fire Att.; 2.5x ATK when Fire & Water attack at once
+EN: 3x ATK for Fire Att.; 2.5x ATK when matching Fire+Water
+

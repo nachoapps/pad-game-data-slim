@@ -1,0 +1,15 @@
+#4366 Solar Goddess of Justice, Shamash
+HP: 3453 ATK: 1535 RCV: 383 LB: 0
+AWK: 10,10,28,19,19,21,51
+SAWK: 
+
+# 10310/116 - Sun of Judgment
+Tags: GRAVITY,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Reduces enemies' HP by 30%; reduces bind status (incl. Awoken) by 3 turns
+EN: Reduce enemies' HP by 30%; Reduce binds and awoken skill binds by 3 turns
+
+# 10313/138 - Heavenly Light Beams
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & 3x ATK for God Type; 3x ATK when attacking with 4 Att. (4x ATK for 5 Att.)
+EN: 3x ATK and 2x HP for God type; 3x ATK when matching 4 or more colors up to 4x at 5 colors
+

@@ -1,0 +1,15 @@
+#4907 Kamen Rider 1
+HP: 3040 ATK: 2293 RCV: 130 LB: 25
+AWK: 21,21,28,28,27,27,45,33,33
+SAWK: 27,55,52
+
+# 12026/116 - I WILL protect mankind's peace!
+Tags: MENACE,ORB_REFRESH
+Game: Delays enemies' next move for 2 turns; replaces all Orbs
+EN: Delay enemies' next attack by 2 turns; Replace all orbs
+
+# 12029/138 - Rider Kick
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Game: 2x HP & 3x ATK for all Att., Orb move time +3 seconds; ATK increases with 4+ combos, up to 3x
+EN: 3x ATK and 2x HP; Increase orb movement time by 3 seconds; 2x ATK when 4 or more combos up to 3x at 6 combos
+

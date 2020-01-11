@@ -1,0 +1,15 @@
+#4206 Sweet Dianthus, Kushinadahime
+HP: 3905 ATK: 1532 RCV: 610 LB: 30
+AWK: 10,10,21,21,20,19,29,29,46
+SAWK: 46,43,44
+
+# 9891/116 - Loving Perception
+Tags: REDUCE_DAMAGE,ADD_COMBO
+Game: Vastly reduces damage for 1 turn; adds 2 combos for 1 turn
+EN: For 1 turn, reduce damage taken by 75%; For 1 turn, increase combo count by 2
+
+# 9894/138 - Please come here
+Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
+Game: [No Skyfall Combos], 1.5x to all stats for God Type; ATK increases with 5+ combos, up to 12x
+EN: [No skyfall] 1.5x all stats for God type; 2x ATK when 5 or more combos up to 12x at 10 combos
+

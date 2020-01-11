@@ -1,0 +1,15 @@
+#3400 Rei Ayanami (temp. name) & Awoken Mark.09
+HP: 2363 ATK: 1293 RCV: 465 LB: 0
+AWK: 10,10,9,9,9,9,9,9
+SAWK: 
+
+# 6839/116 - What would Rei Ayanami do?
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: Changes the top row to Dark Orbs; halves damage for 1 turn
+EN: Change the top row to Dark orbs; For 1 turn, reduce damage taken by 50%
+
+# 6842/129 - AAA Wunder's Original Master
+Tags: ENHANCED_HP_ATK
+Game: 2x HP & ATK for Healer & Machine Types
+EN: 2x HP & ATK for Healer, Machine type
+

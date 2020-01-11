@@ -1,0 +1,15 @@
+#5213 天地寿
+HP: 3746 ATK: 2081 RCV: 55 LB: 30
+AWK: 10,10,21,21,19,45,57,57,60
+SAWK: 60,54,57
+
+# 13150/141 - オレが一番つえー！
+Tags: 
+Game: 回復以外のドロップから火と光ドロップを5個ずつ生成。
+EN: Create 5 Fire and Light orbs over non Heal orbs
+
+# 13151/138 - どいつもこいつもムカつくから ぶちのめす！
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: HP50％以上でダメージを軽減、攻撃力が3.5倍。 火か光を5個以上つなげて消すと、攻撃力が3倍。
+EN: 3.5x ATK and reduce damage taken by 35% when above 50% HP; 3x ATK when matching 5 or more connected Fire or Light orbs
+

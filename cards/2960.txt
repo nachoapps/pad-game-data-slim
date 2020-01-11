@@ -1,0 +1,15 @@
+#2960 Miracle Heroine, Cinderella
+HP: 3030 ATK: 802 RCV: 507 LB: 30
+AWK: 17,10,10,19,21,27
+SAWK: 27,59,45
+
+# 997/116 - Protection Magic - Light
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Water Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+EN: Change Water orbs to Heal orbs; Reduce binds by 3 turns
+
+# 4921/129 - Is it possible to be this happy?
+Tags: ENHANCED_ATK_RCV
+Game: 1.5x ATK & RCV for Physical & God Types
+EN: 1.5x ATK & RCV for Physical, God type
+

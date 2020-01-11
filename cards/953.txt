@@ -1,0 +1,15 @@
+#953 AB Green Bird Hal
+HP: 1225 ATK: 933 RCV: 271 LB: 0
+AWK: 16,20
+SAWK: 
+
+# 191/116 - Double Wood Guard
+Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
+Game: Changes Water, Light & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+EN: Change Water, Light, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+
+# 851/62 - Wandering Drifter
+Tags: ENHANCED_HP_ATK
+Game: 1.5x HP & ATK for Balanced Type
+EN: 1.5x HP & ATK for Balanced type
+

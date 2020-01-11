@@ -1,0 +1,15 @@
+#2006 Avowed Thief, Ishikawa Goemon
+HP: 4678 ATK: 1259 RCV: 217 LB: 0
+AWK: 22,22,14,21
+SAWK: 
+
+# 1867/116 - True Ninja Art Fireworks
+Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,SUICIDE
+Game: Changes Orbs to Fire Orbs; inflicts a critical Fire attack on all enemies but HP reduced to 1
+EN: Change all orbs to Fire orbs; Reduce HP to 1; Deal 200000 Fire damage to all enemies
+
+# 2557/138 - What a View! What a View!
+Tags: ENHANCED_ATK
+Game: Physical & Dragon Type ATK increases slightly; ATK increases with low HP, up to a max of 5x
+EN: 1.2x ATK for Physical, Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
+
