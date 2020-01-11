@@ -36,11 +36,11 @@ Voids status ailments for 999 turns
 
 #11: ESColumnSpawnMulti(77:3085) -> Flame Road
 Condition: When < 20% hp (ai:100 rnd:0)
-Change the 3rd, 4th column to Fire orbs, Deal 300% damage
+Change the 3rd and 4th columns to Fire orbs, Deal 300% damage
 
 #12: ESColumnSpawnMulti(77:3084) -> Flame Curse
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change the 1st column to Fire orbs, the 3rd column to Poison orbs, Deal 80% damage
+Change the 1st column to Fire orbs and the 3rd column to Poison orbs, Deal 80% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

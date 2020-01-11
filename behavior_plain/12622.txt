@@ -29,11 +29,11 @@ Seal the 1st column for 1 turn, Deal 100% damage
 
 #8: ESColumnSpawnMulti(76:6938) -> Astral Deception
 Condition: 30% chance (ai:0 rnd:30)
-Change the 1st column to Poison orbs, the 6th column to Jammer orbs
+Change the 1st column to Poison orbs and the 6th column to Jammer orbs
 
 #9: ESColumnSpawnMulti(77:6935) -> Black Magic
 Condition: 40% chance (ai:0 rnd:40)
-Change the 3rd column to Light orbs, the 4th column to Dark orbs, Deal 120% damage
+Change the 3rd column to Light orbs and the 4th column to Dark orbs, Deal 120% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

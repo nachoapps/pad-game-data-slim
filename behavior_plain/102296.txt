@@ -57,7 +57,7 @@ end_turn
 	Bind both leaders for 1 turn
 
 #12: ESRowSpawnMulti(79:3838) -> Blue-to-Red Stitch Puppetry
-Change the 1st, 3rd, 5th row to Water orbs, the 2nd, 4th row to Fire orbs, Deal 220% damage
+Change the 1st, 3rd, and 5th rows to Water orbs and the 2nd and 4th rows to Fire orbs, Deal 220% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

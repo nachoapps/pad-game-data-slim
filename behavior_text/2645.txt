@@ -24,7 +24,7 @@ level: 4
  | group:
  | condition: always turn 1, hp <= 49
    | (2715:76) Bright Child's Timbre
-   | Change the 5th, 6th column to Light orbs
+   | Change the 5th and 6th columns to Light orbs
  | group:
  | condition: hp <= 9
    | (2719:50) Gemini's Crest - Cosmos

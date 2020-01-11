@@ -44,7 +44,7 @@ Branch on counter >= 5, target rnd 22
 #11: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)
 	[0] ESColumnSpawnMulti(76:10833) -> Blót Gandr
-	Change the 1st column to Water orbs, the 6th column to Dark orbs
+	Change the 1st column to Water orbs and the 6th column to Dark orbs
 	[1] ESAttackMultihit(15:10835) -> Yule Hörgr
 	Deal 100% damage (2 hits, 50% each)
 

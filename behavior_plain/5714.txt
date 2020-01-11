@@ -40,7 +40,7 @@ Lock all orbs
 end_turn
 
 #11: ESRowSpawnMulti(79:15241) -> パンタグラフアロー
-Change the 1st, 5th row to Fire orbs, the 3rd row to Wood orbs, Deal 100% damage
+Change the 1st and 5th rows to Fire orbs and the 3rd row to Wood orbs, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

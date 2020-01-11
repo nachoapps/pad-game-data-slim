@@ -31,10 +31,10 @@ level: 1
      | Spawn 1 random Light orb, Deal 100% damage
      | condition: 30% chance
      | (3186:79) Bolt Impact
-     | Change the 4th, 5th row to Wood and Light orbs, Deal 120% damage
+     | Change the 4th and 5th rows to Wood and Light orbs, Deal 120% damage
      | condition: 30% chance
      | (3188:77) Swing
-     | Change the 2nd, 3rd column to Wood and Jammer orbs, Deal 150% damage
+     | Change the 2nd and 3rd columns to Wood and Jammer orbs, Deal 150% damage
    | group:
    | condition: execute repeatedly, turn 1-4 of 6
      | condition: 10% chance
@@ -45,10 +45,10 @@ level: 1
      | Spawn 1 random Light orb, Deal 100% damage
      | condition: 30% chance
      | (3186:79) Bolt Impact
-     | Change the 4th, 5th row to Wood and Light orbs, Deal 120% damage
+     | Change the 4th and 5th rows to Wood and Light orbs, Deal 120% damage
      | condition: 30% chance
      | (3188:77) Swing
-     | Change the 2nd, 3rd column to Wood and Jammer orbs, Deal 150% damage
+     | Change the 2nd and 3rd columns to Wood and Jammer orbs, Deal 150% damage
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (3189:15) Earth God's Rage
@@ -63,10 +63,10 @@ level: 1
      | Spawn 1 random Light orb, Deal 100% damage
      | condition: 30% chance
      | (3186:79) Bolt Impact
-     | Change the 4th, 5th row to Wood and Light orbs, Deal 120% damage
+     | Change the 4th and 5th rows to Wood and Light orbs, Deal 120% damage
      | condition: 30% chance
      | (3188:77) Swing
-     | Change the 2nd, 3rd column to Wood and Jammer orbs, Deal 150% damage
+     | Change the 2nd and 3rd columns to Wood and Jammer orbs, Deal 150% damage
  | group:
  | condition: turn 1, hp <= 49
    | condition: when 1347 on team

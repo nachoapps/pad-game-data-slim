@@ -34,7 +34,7 @@ Branch on hp > 51, target rnd 11
 #10: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESColumnSpawnMulti(77:13223) -> You're in my world now,
-	Change the 1st, 3rd, 5th column to Water orbs, Deal 55% damage
+	Change the 1st, 3rd, and 5th columns to Water orbs, Deal 55% damage
 	[1] ESOrbLock(94:13224) -> and here I'm the fittest.
 	Lock all Water orbs, Deal 55% damage
 

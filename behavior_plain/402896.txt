@@ -28,7 +28,7 @@ Branch on hp < 35, target rnd 9
 
 #7: ESColumnSpawnMulti(77:4542) -> Wild Frozen Poison
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 2nd, 5th column to Water, Dark, and Poison orbs, Deal 120% damage
+Change the 2nd and 5th columns to Water, Dark, and Poison orbs, Deal 120% damage
 
 #8: ESAttackMultihit(15:4541) -> Rampage
 Deal 150% damage (3 hits, 50% each)

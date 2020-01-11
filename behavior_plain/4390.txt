@@ -46,7 +46,7 @@ Branch on counter >= 3, target rnd 14
 
 #12: SkillSet:
 	[0] ESRowSpawnMulti(79:10006) -> Blazing Hell
-	Change the 2nd, 3rd, 4th row to Fire and Jammer orbs, Deal 50% damage
+	Change the 2nd, 3rd, and 4th rows to Fire and Jammer orbs, Deal 50% damage
 	[1] ESOrbLock(94:10007) -> Ice Age
 	Lock all orbs, Deal 50% damage
 

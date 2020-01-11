@@ -42,4 +42,4 @@ level: 4
  | group:
  | condition: hp <= 14
    | (12401:77) Guren Enjinkyaku
-   | Change the 4th, 5th column to Fire orbs, Deal 400% damage
+   | Change the 4th and 5th columns to Fire orbs, Deal 400% damage

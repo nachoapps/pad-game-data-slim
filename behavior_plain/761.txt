@@ -37,7 +37,7 @@ flag SET 0b11
 
 #9: SkillSet:
 	[0] ESColumnSpawnMulti(77:4453) -> Frost Left
-	Change the 1st column to Water orbs, the 2nd column to Water and Dark orbs, Deal 100% damage
+	Change the 1st column to Water orbs and the 2nd column to Water and Dark orbs, Deal 100% damage
 	[1] ESOrbLock(94:4454) -> Chilled Aqua
 	Lock all Water orbs
 
@@ -49,7 +49,7 @@ flag SET 0b111
 
 #12: SkillSet:
 	[0] ESColumnSpawnMulti(77:4456) -> Nightmare Right
-	Change the 5th column to Water and Dark orbs, the 6th column to Dark orbs, Deal 100% damage
+	Change the 5th column to Water and Dark orbs and the 6th column to Dark orbs, Deal 100% damage
 	[1] ESOrbLock(94:4457) -> Chilled Darkness
 	Lock all Dark orbs
 
@@ -61,7 +61,7 @@ flag SET 0b1111
 
 #15: SkillSet:
 	[0] ESColumnSpawnMulti(77:4459) -> Median Joker
-	Change the 3rd column to Dark orbs, the 4th column to Water orbs, Deal 100% damage
+	Change the 3rd column to Dark orbs and the 4th column to Water orbs, Deal 100% damage
 	[1] ESOrbLock(94:4460) -> Chilled Shuffle
 	Lock 12 random Fire, Water, Wood, Light, and Dark orbs
 
@@ -70,11 +70,11 @@ flag UNSET 0b1110
 
 #17: SkillSet:
 	[0] ESColumnSpawnMulti(77:4453) -> Frost Left
-	Change the 1st column to Water orbs, the 2nd column to Water and Dark orbs, Deal 100% damage
+	Change the 1st column to Water orbs and the 2nd column to Water and Dark orbs, Deal 100% damage
 	[1] ESColumnSpawnMulti(77:4456) -> Nightmare Right
-	Change the 5th column to Water and Dark orbs, the 6th column to Dark orbs, Deal 100% damage
+	Change the 5th column to Water and Dark orbs and the 6th column to Dark orbs, Deal 100% damage
 	[2] ESColumnSpawnMulti(77:4459) -> Median Joker
-	Change the 3rd column to Dark orbs, the 4th column to Water orbs, Deal 100% damage
+	Change the 3rd column to Dark orbs and the 4th column to Water orbs, Deal 100% damage
 
 #18: ESAttributeResist(72:4463) -> Water/Light/Dark Halved
 Reduce damage from Water, Light, and Dark attrs by 50%

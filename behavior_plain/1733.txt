@@ -69,7 +69,7 @@ end_turn
 
 #20: ESRowSpawnMulti(78:9082) -> How about this?
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
 
 #21: ESSpinnersRandom(109:9081) -> Blue Metal Flash
 Condition: 50% chance (ai:50 rnd:0)
@@ -94,7 +94,7 @@ Seal the 1st and 6th columns for 1 turn
 end_turn
 
 #28: ESColumnSpawnMulti(76:9090) -> Binding Azure Bladewings
-Change the 2nd column to Water and Jammer orbs, the 5th column to Water and Jammer orbs
+Change the 2nd column to Water and Jammer orbs and the 5th column to Water and Jammer orbs
 
 #29: ESEndPath(36:26) -> ESEndPath
 end_turn

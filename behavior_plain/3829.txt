@@ -55,7 +55,7 @@ flag SET 0b11
 #14: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESRowSpawnMulti(78:7739) -> Deadly Scorpion Poison
-	Change the 1st, 5th row to Heal and Poison orbs, the 3rd row to Mortal Poison orbs
+	Change the 1st and 5th rows to Heal and Poison orbs and the 3rd row to Mortal Poison orbs
 	[1] ESAttackUPRemainingEnemies(17:7740) -> Order of Destruction
 	Increase damage to 150% for the next 999 turns
 

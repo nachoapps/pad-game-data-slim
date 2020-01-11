@@ -69,7 +69,7 @@ Deal 120% damage (10 hits, 12% each)
 counter = 0
 
 #18: ESColumnSpawnMulti(77:14699) -> Waterfall Cascade
-Change the 1st, 3rd, 5th column to Dark orbs, Deal 115% damage
+Change the 1st, 3rd, and 5th columns to Dark orbs, Deal 115% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

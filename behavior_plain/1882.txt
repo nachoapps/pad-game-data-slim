@@ -61,7 +61,7 @@ Change the 3rd row to Heal orbs, Deal 120% damage
 
 #17: ESRowSpawnMulti(79:10980) -> One Sword, Two Outcomes
 Condition: 25% chance (ai:0 rnd:25)
-Change the 2nd row to Fire orbs, the 4th row to Water orbs, Deal 100% damage
+Change the 2nd row to Fire orbs and the 4th row to Water orbs, Deal 100% damage
 
 #18: ESAttackMultihit(15:10981) -> Sublime Sword Technique
 Condition: 25% chance (ai:0 rnd:25)

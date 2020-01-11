@@ -28,4 +28,4 @@ level: 1
  | group:
  | condition: hp <= 4
    | (10781:77) Crimson & Blue Flames
-   | Change the 1st, 3rd, 5th column to Fire orbs, the 2nd, 4th, 6th column to Water orbs, Deal 250% damage
+   | Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Water orbs, Deal 250% damage

@@ -32,7 +32,7 @@ Change Fire to Jammer, Deal 140% damage
 
 #9: ESColumnSpawnMulti(77:3522) -> Guiding White Dog
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 3rd, 4th column to Jammer orbs, Deal 140% damage
+Change the 3rd and 4th columns to Jammer orbs, Deal 140% damage
 
 #10: ESOrbLock(94:3517) -> Miracle
 Condition: 50% chance (ai:50 rnd:0)

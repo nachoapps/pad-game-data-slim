@@ -47,7 +47,7 @@ end_turn
 	[0] ESDebuffMovetime(39:11914) -> うふっ　ごめんねぇ～？
 	Movetime -1s for 3 turns
 	[1] ESColumnSpawnMulti(76:11915) -> おじゃましま～す♪
-	Change the 3rd, 4th column to Jammer orbs
+	Change the 3rd and 4th columns to Jammer orbs
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 18

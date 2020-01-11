@@ -47,7 +47,7 @@ Player -99% HP
 
 #13: ESRowSpawnMulti(79:3506) -> Towako
 Condition: 50% chance (ai:0 rnd:50)
-Change the 2nd, 3rd row to Fire orbs, Deal 150% damage
+Change the 2nd and 3rd rows to Fire orbs, Deal 150% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

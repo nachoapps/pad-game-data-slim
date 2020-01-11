@@ -31,4 +31,4 @@ level: 1
  | group:
  | condition: hp <= 29
    | (2253:79) Dance of the Dragon War Princess
-   | Change the 1st row to Water orbs, the 3rd row to Wood orbs, the 5th row to Water orbs, Deal 200% damage
+   | Change the 1st row to Water orbs, the 3rd row to Wood orbs, and the 5th row to Water orbs, Deal 200% damage

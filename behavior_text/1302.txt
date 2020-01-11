@@ -20,4 +20,4 @@ level: 1
  | group:
  | condition: hp <= 19
    | (12079:77) Icicle Flare
-   | Change the 6th column to Water orbs, the 1st column to Fire orbs, Deal 200% damage
+   | Change the 6th column to Water orbs and the 1st column to Fire orbs, Deal 200% damage

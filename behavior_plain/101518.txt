@@ -41,7 +41,7 @@ Branch on flag & 4, target rnd 14
 flag SET 0b111
 
 #13: ESRowSpawnMulti(79:3122) -> Here I go!
-Change the 1st, 2nd, 3rd, 4th, 5th row to Water orbs, Deal 100% damage
+Change the 1st, 2nd, 3rd, 4th, and 5th rows to Water orbs, Deal 100% damage
 
 #14: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 17
@@ -65,7 +65,7 @@ flag SET 0b11111
 	[0] ESBoardChange(84:3124) -> Next let's split watermelons!
 	Change all orbs to Wood
 	[1] ESColumnSpawnMulti(77:3128) -> Ha!
-	Change the 3rd, 4th column to Fire orbs, Deal 150% damage
+	Change the 3rd and 4th columns to Fire orbs, Deal 150% damage
 
 #20: ESBranchCard(90:3130) -> ESBranchCard
 Branch on player_cards HAS [1118], target rnd 24

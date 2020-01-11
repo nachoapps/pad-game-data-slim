@@ -34,11 +34,11 @@ Deal 120% damage (2 hits, 60% each)
 
 #9: ESColumnSpawnMulti(77:11505) -> Haaaaaaaa!
 Condition: 33% chance (ai:0 rnd:33)
-Change the 1st column to Water orbs, the 6th column to Dark orbs, Deal 100% damage
+Change the 1st column to Water orbs and the 6th column to Dark orbs, Deal 100% damage
 
 #10: ESRowSpawnMulti(79:11506) -> Haaargh!
 Condition: 33% chance (ai:0 rnd:33)
-Change the 1st row to Water orbs, the 5th row to Dark orbs, Deal 100% damage
+Change the 1st row to Water orbs and the 5th row to Dark orbs, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

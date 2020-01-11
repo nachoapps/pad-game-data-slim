@@ -75,7 +75,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Spawn 12 random Poison orbs, Deal 50% damage
 
 #19: ESColumnSpawnMulti(77:6322) -> Agahara
-Change the 1st, 2nd column to Fire, Water, and Jammer orbs, the 3rd, 4th column to Wood, Light, and Jammer orbs, the 5th, 6th column to Dark, Heal, and Jammer orbs, Deal 150% damage
+Change the 1st and 2nd columns to Fire, Water, and Jammer orbs, the 3rd and 4th columns to Wood, Light, and Jammer orbs, and the 5th and 6th columns to Dark, Heal, and Jammer orbs, Deal 150% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

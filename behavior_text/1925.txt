@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (11407:79) Demonic Dual Spears
- | Change the 1st row to Dark orbs, the 5th row to Heal orbs, Deal 90% damage
+ | Change the 1st row to Dark orbs and the 5th row to Heal orbs, Deal 90% damage
  group:
  | group:
    | condition: 50% chance

@@ -27,13 +27,13 @@ level: 1
    | condition: turns 3-4 while HP > 49
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -45,13 +45,13 @@ level: 1
    | condition: turns 6-7 while HP > 4
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -63,13 +63,13 @@ level: 1
    | condition: turns 9-10 while HP > 4
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -85,13 +85,13 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -117,13 +117,13 @@ level: 1
    | condition: turns 13-14 while HP > 49
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -139,13 +139,13 @@ level: 1
    | condition: turn 17 while HP > 49
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -156,13 +156,13 @@ level: 1
    | group:
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -184,13 +184,13 @@ level: 1
    | condition: turn 5 while HP > 4
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -202,13 +202,13 @@ level: 1
    | condition: turn 8 while HP > 4
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -220,13 +220,13 @@ level: 1
    | condition: turn 11 while HP > 4
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage
@@ -242,13 +242,13 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Blind random 7~10 orbs for 1 turn, Deal 52% damage
      | condition: 25% chance
      | (12267:83) Seven Lands and Seas + Torch Light
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Blind random 7~10 orbs for 1 turn, Deal 50% damage
      | condition: 25% chance
      | (12268:83) Seven Lands and Seas + Starlight Road
-     | Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
+     | Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs + Lock 15 random orbs, Deal 52% damage
      | condition: 25% chance
      | (12269:83) Seven Lands and Seas + Starlight Road
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison + Lock 15 random orbs, Deal 50% damage

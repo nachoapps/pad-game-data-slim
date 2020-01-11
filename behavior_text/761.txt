@@ -21,16 +21,16 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 4
    | (4455:83) Frost Left + Chilled Aqua
-   | Change the 1st column to Water orbs, the 2nd column to Water and Dark orbs + Lock all Water orbs, Deal 100% damage
+   | Change the 1st column to Water orbs and the 2nd column to Water and Dark orbs + Lock all Water orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 4
    | (4458:83) Nightmare Right + Chilled Darkness
-   | Change the 5th column to Water and Dark orbs, the 6th column to Dark orbs + Lock all Dark orbs, Deal 100% damage
+   | Change the 5th column to Water and Dark orbs and the 6th column to Dark orbs + Lock all Dark orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 3 of 4
    | (4461:83) Median Joker + Chilled Shuffle
-   | Change the 3rd column to Dark orbs, the 4th column to Water orbs + Lock 12 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
+   | Change the 3rd column to Dark orbs and the 4th column to Water orbs + Lock 12 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 4 of 4
    | (4462:83) Frost Left + Nightmare Right + Median Joker
-   | Change the 1st column to Water orbs, the 2nd column to Water and Dark orbs + Change the 5th column to Water and Dark orbs, the 6th column to Dark orbs + Change the 3rd column to Dark orbs, the 4th column to Water orbs, Deal 100% damage
+   | Change the 1st column to Water orbs and the 2nd column to Water and Dark orbs + Change the 5th column to Water and Dark orbs and the 6th column to Dark orbs + Change the 3rd column to Dark orbs and the 4th column to Water orbs, Deal 100% damage

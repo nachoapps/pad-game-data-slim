@@ -54,7 +54,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Spawn Bomb orbs in the specified positions, Deal 120% damage
 
 #14: ESColumnSpawnMulti(77:5637) -> Cruel Flare
-Change the 2nd, 5th column to Jammer orbs, Deal 150% damage
+Change the 2nd and 5th columns to Jammer orbs, Deal 150% damage
 
 #15: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 13

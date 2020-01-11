@@ -36,7 +36,7 @@ Change Poison to Heal, Deal 200% damage
 
 #8: ESColumnSpawnMulti(77:2210) -> Trishula
 Condition: 25% chance (ai:0 rnd:25)
-Change the 2nd column to Fire orbs, the 4th column to Fire orbs, the 6th column to Fire orbs, Deal 100% damage
+Change the 2nd column to Fire orbs, the 4th column to Fire orbs, and the 6th column to Fire orbs, Deal 100% damage
 
 #9: ESAttackMultihit(15:2211) -> Pinaka
 Condition: 25% chance (ai:0 rnd:25)

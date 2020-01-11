@@ -35,4 +35,4 @@ level: 1
  | group:
  | condition: hp <= 14
    | (5174:77) Hydro Cannon
-   | Change the 3rd, 4th column to Water orbs, Deal 750% damage
+   | Change the 3rd and 4th columns to Water orbs, Deal 750% damage

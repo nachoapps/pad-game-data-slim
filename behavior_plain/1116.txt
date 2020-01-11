@@ -45,7 +45,7 @@ counter = 0
 	[0] ESBindAwoken(88:7829) -> Go, Tiggie!
 	Bind awoken skills for 1 turn
 	[1] ESColumnSpawnMulti(77:7830) -> Tagrah Ahgu
-	Change the 3rd, 4th column to Fire orbs, Deal 500% damage
+	Change the 3rd and 4th columns to Fire orbs, Deal 500% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

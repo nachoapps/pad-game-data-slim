@@ -66,7 +66,7 @@ flag SET 0b11
 	[0] ESMaxHPChange(111:12322) -> Evil Eye of the Gorgon
 	Change player HP to 50% for 2 turns
 	[1] ESRowSpawnMulti(79:12323) -> Shining Spear
-	Change the 2nd, 4th row to Light orbs, Deal 80% damage
+	Change the 2nd and 4th rows to Light orbs, Deal 80% damage
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -31,7 +31,7 @@ level: 1
      | (7636:92) Shenisa
      | Spawn 7 random Mortal Poison orbs, Deal 50% damage
      | (7634:77) Erythra
-     | Change the 1st, 2nd column to Fire, Water, and Poison orbs, the 3rd, 4th column to Wood, Light, and Poison orbs, the 5th, 6th column to Dark, Heal, and Poison orbs, Deal 120% damage
+     | Change the 1st and 2nd columns to Fire, Water, and Poison orbs, the 3rd and 4th columns to Wood, Light, and Poison orbs, and the 5th and 6th columns to Dark, Heal, and Poison orbs, Deal 120% damage
  | group:
  | condition: hp <= 49
    | group:

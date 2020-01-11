@@ -34,7 +34,7 @@ level: 4
    | group:
      | condition: 40% chance
      | (4230:77) Blue Ice Revival
-     | Change the 1st column to Dark orbs, the 2nd column to Water orbs, Deal 100% damage
+     | Change the 1st column to Dark orbs and the 2nd column to Water orbs, Deal 100% damage
      | condition: 50% chance
      | (4232:15) Abyss Hole
      | Deal 120% damage (4 hits, 30% each)

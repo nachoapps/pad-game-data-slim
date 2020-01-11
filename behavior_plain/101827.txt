@@ -24,7 +24,7 @@ end_turn
 
 #6: ESRowSpawnMulti(79:6567) -> Lotus Sky Blades
 Condition: When < 15% hp (ai:100 rnd:0)
-Change the 1st, 3rd, 5th row to Fire orbs, the 2nd, 4th row to Water orbs, Deal 1500% damage
+Change the 1st, 3rd, and 5th rows to Fire orbs and the 2nd and 4th rows to Water orbs, Deal 1500% damage
 
 #7: ESSkyfall(68:6566) -> Full Punishment
 Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
@@ -45,7 +45,7 @@ Branch on hp < 70, target rnd 13
 	[0] ESOrbChangeSingle(4:6561) -> Healing Hymn
 	Change Random to Heal
 	[1] ESRowSpawnMulti(79:6562) -> Scarlet Azure Blade
-	Change the 2nd, 3rd row to Fire and Water orbs, Deal 170% damage
+	Change the 2nd and 3rd rows to Fire and Water orbs, Deal 170% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

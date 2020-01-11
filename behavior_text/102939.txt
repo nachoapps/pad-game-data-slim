@@ -40,7 +40,7 @@ level: 1
  | group:
  | condition: hp <= 14
    | (5183:77) Sky Dashing Hundred Dragon Blades
-   | Change the 1st, 3rd, 5th column to Fire orbs, the 2nd, 4th, 6th column to Wood orbs, Deal 750% damage
+   | Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Wood orbs, Deal 750% damage
  type: UNKNOWN_USE
  | condition: at most 2 times
  | (5185:74) Parade

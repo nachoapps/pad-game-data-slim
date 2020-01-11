@@ -18,7 +18,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:8001) -> Silver Armor
 	Voids status ailments for 999 turns
 	[1] ESColumnSpawnMulti(77:8002) -> Burning Grudge
-	Change the 1st, 2nd, 5th, 6th column to Fire and Mortal Poison orbs, Deal 100% damage
+	Change the 1st, 2nd, 5th, and 6th columns to Fire and Mortal Poison orbs, Deal 100% damage
 	[2] ESSkyfallLocked(96:8003) -> Immortal Ambition
 	Locked random skyfall +50% for 10 turns
 

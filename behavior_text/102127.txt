@@ -20,7 +20,7 @@ level: 1
    | Deal 120% damage (6 hits, 20% each)
    | condition: 40% chance
    | (3198:77) Keen Edge
-   | Change the 2nd column to Jammer orbs, the 4th column to Poison orbs, Deal 100% damage
+   | Change the 2nd column to Jammer orbs and the 4th column to Poison orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (3230:83) High-End Booster + Energy Counter

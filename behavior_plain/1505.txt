@@ -48,7 +48,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 2x3 cloud appear for 1 turn at random location
 
 #13: ESColumnSpawnMulti(77:13380) -> Water Dragon Sword
-Change the 1st column to Water orbs, the 6th column to Water orbs, Deal 300% damage
+Change the 1st column to Water orbs and the 6th column to Water orbs, Deal 300% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

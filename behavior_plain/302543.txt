@@ -37,11 +37,11 @@ Branch on hp < 20, target rnd 18
 
 #11: ESColumnSpawnMulti(77:3685) -> ふぁんたすてぃっく・やまたいこく
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 1st, 6th column to Fire orbs, Deal 130% damage
+Change the 1st and 6th columns to Fire orbs, Deal 130% damage
 
 #12: ESRowSpawnMulti(79:3674) -> おみくじ吹雪
 Condition: 50% chance (ai:50 rnd:0)
-Change the 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
+Change the 1st, 3rd, and 5th rows to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
 
 #13: ESAttackMultihit(15:3684) -> ハニたま連投
 Deal 150% damage (3 hits, 50% each)

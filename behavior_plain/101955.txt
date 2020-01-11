@@ -21,11 +21,11 @@ Change Jammer to Water, Deal 90000% damage
 
 #4: ESRowSpawnMulti(78:8135) -> Can you erase my Jammers?
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
-Change the 1st, 5th row to Water, Heal, and Jammer orbs, the 3rd row to Jammer orbs
+Change the 1st and 5th rows to Water, Heal, and Jammer orbs and the 3rd row to Jammer orbs
 
 #5: ESColumnSpawnMulti(76:8136) -> Here I gooo!
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Change the 1st, 4th, 6th column to Water, Heal, and Jammer orbs, the 3rd column to Jammer orbs
+Change the 1st, 4th, and 6th columns to Water, Heal, and Jammer orbs and the 3rd column to Jammer orbs
 
 #6: ESRandomSpawn(92:8137) -> My... You're not bad!
 Condition: One-time use (ai:100 rnd:0) (cost: 4)

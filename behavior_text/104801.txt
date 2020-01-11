@@ -20,7 +20,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 49
    | (10763:83) Toughen Up + Flare Slash
-   | Reduce damage from all sources by 75% for 1 turn + Change the 3rd, 4th column to Fire orbs, Deal 130% damage
+   | Reduce damage from all sources by 75% for 1 turn + Change the 3rd and 4th columns to Fire orbs, Deal 130% damage
  | group:
  | condition: hp <= 9
    | (10764:15) Special Move

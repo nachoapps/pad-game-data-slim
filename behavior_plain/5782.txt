@@ -62,7 +62,7 @@ end_turn
 	[0] ESSpinnersRandom(109:15815) -> オレのターン、ドロー！
 	Random 1 orbs change every 1.0s for 1 turn
 	[1] ESRowSpawnMulti(79:15820) -> 超電導波サンダー・フォース
-	Change the 1st row to Dark orbs, the 2nd row to Dark orbs, Deal 200% damage
+	Change the 1st row to Dark orbs and the 2nd row to Dark orbs, Deal 200% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

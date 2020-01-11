@@ -18,7 +18,7 @@ Enable preempt if level 1
 
 #3: ESColumnSpawnMulti(77:13554) -> Ascension
 Condition: 50% chance when < 30% hp (ai:50 rnd:0)
-Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 200% damage
+Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 200% damage
 
 #4: ESRandomSpawn(92:13556) -> Brilliant Star Gem
 Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs, Deal 100% damage

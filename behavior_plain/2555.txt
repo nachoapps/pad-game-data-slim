@@ -76,7 +76,7 @@ flag SET 0b1
 	[0] ESAbsorbCombo(67:10968) -> I'm...not done...yet
 	Absorb damage when combos <= 7 for 10 turns
 	[1] ESColumnSpawnMulti(77:10964) -> Athnan Musmar
-	Change the 1st column to Water and Jammer orbs, the 6th column to Fire and Jammer orbs, Deal 100% damage
+	Change the 1st column to Water and Jammer orbs and the 6th column to Fire and Jammer orbs, Deal 100% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

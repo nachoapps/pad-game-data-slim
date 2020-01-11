@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 20% chance
    | (2538:77) Smack
-   | Change the 1st, 3rd, 5th column to Fire orbs, Deal 120% damage
+   | Change the 1st, 3rd, and 5th columns to Fire orbs, Deal 120% damage
    | condition: 20% chance
    | (1:82) Disable Skill
    | Deal 100% damage
@@ -37,4 +37,4 @@ level: 1
  | group:
  | condition: hp <= 29
    | (2541:77) Bursting Milky Way!
-   | Change the 1st, 3rd, 5th column to Fire orbs, the 2nd, 4th, 6th column to Light orbs, Deal 200% damage
+   | Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Light orbs, Deal 200% damage

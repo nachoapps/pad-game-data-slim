@@ -50,7 +50,7 @@ counter = 0
 	[0] ESInactivity66(66:13219) -> Over Soul
 	Do nothing
 	[1] ESRowSpawnMulti(79:13320) -> Ayers Rock!!!
-	Change the 4th, 5th row to Light orbs, Deal 250% damage
+	Change the 4th and 5th rows to Light orbs, Deal 250% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

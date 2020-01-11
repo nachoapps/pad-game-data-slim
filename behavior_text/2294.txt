@@ -30,7 +30,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (3831:79) Red-to-Green Stitch Puppetry
-     | Change the 1st, 3rd, 5th row to Fire orbs, the 2nd, 4th row to Wood orbs, Deal 220% damage
+     | Change the 1st, 3rd, and 5th rows to Fire orbs and the 2nd and 4th rows to Wood orbs, Deal 220% damage
  type: UNKNOWN_USE
  | (3837:83) Impassive + Hold Twin
  | Voids status ailments for 1 turn + Bind both leaders for 1 turn

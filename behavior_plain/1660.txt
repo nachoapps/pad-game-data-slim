@@ -54,7 +54,7 @@ Branch on hp < 5, target rnd 22
 #15: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESColumnSpawnMulti(77:9761) -> Athnan nar Sayf
-	Change the 2nd, 5th column to Fire orbs, Deal 100% damage
+	Change the 2nd and 5th columns to Fire orbs, Deal 100% damage
 	[1] ESBombRandomSpawn(102:9762) -> Qunbula Ainfijar
 	Spawn 5 random Bomb orbs
 

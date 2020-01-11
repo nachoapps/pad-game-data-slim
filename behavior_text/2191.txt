@@ -34,7 +34,7 @@ level: 1
    | (3711:48) Auto Freezer
    | Change Poison to Water, Deal 250% damage
    | (3720:83) Sapphire Drive + Blizzard Double Signal
-   | Absorb Water damage for 3 turns + Change the 5th, 6th column to Water orbs, Deal 160% damage
+   | Absorb Water damage for 3 turns + Change the 5th and 6th columns to Water orbs, Deal 160% damage
  | group:
  | condition: hp <= 19
    | (3710:48) Auto Sweeper
@@ -42,7 +42,7 @@ level: 1
    | (3711:48) Auto Freezer
    | Change Poison to Water, Deal 250% damage
    | (3715:79) Blizzard All Signal
-   | Change the 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
+   | Change the 1st, 2nd, 3rd, 4th, 5th, and 6th rows to Water orbs, Deal 600% damage
  | group:
  | condition: hp <= 1
    | (3710:48) Auto Sweeper
@@ -50,4 +50,4 @@ level: 1
    | (3711:48) Auto Freezer
    | Change Poison to Water, Deal 250% damage
    | (3721:83) Blizzard All Signal + Metal Repair
-   | Change the 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs + Enemy recover 76% hp, Deal 600% damage
+   | Change the 1st, 2nd, 3rd, 4th, 5th, and 6th rows to Water orbs + Enemy recover 76% hp, Deal 600% damage

@@ -46,7 +46,7 @@ Specific orbs change every 1.0s for 2 turns, Deal 170% damage
 #12: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESColumnSpawnMulti(77:9283) -> Bifröst Obligation
-	Change the 1st column to Water orbs, the 6th column to Wood orbs, Deal 155% damage
+	Change the 1st column to Water orbs and the 6th column to Wood orbs, Deal 155% damage
 	[1] ESRandomSpawn(92:9284) -> Norn's Whim
 	Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
 
@@ -97,7 +97,7 @@ end_turn
 #25: SkillSet:
 	Condition: 33% chance (ai:33 rnd:0)
 	[0] ESRowSpawnMulti(79:9289) -> Bifröst Obligation
-	Change the 1st row to Water orbs, the 5th row to Wood orbs, Deal 110% damage
+	Change the 1st row to Water orbs and the 5th row to Wood orbs, Deal 110% damage
 	[1] ESDamageShield(74:9290) -> Fighting Maiden's Protection
 	Reduce damage from all sources by 50% for 1 turn
 

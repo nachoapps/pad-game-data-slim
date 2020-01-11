@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 5
    | (3051:83) Golden Scepter + Up we get!
-   | Change the 2nd, 4th row to Light and Jammer orbs + Change the 3rd, 5th column to Light and Jammer orbs, Deal 50% damage
+   | Change the 2nd and 4th rows to Light and Jammer orbs + Change the 3rd and 5th columns to Light and Jammer orbs, Deal 50% damage
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (3052:48) Supersonic Cloud

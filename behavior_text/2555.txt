@@ -61,7 +61,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (10963:83) I'm...not done...yet + Athnan Musmar
-   | Absorb damage when combos <= 7 for 10 turns + Change the 1st column to Water and Jammer orbs, the 6th column to Fire and Jammer orbs, Deal 100% damage
+   | Absorb damage when combos <= 7 for 10 turns + Change the 1st column to Water and Jammer orbs and the 6th column to Fire and Jammer orbs, Deal 100% damage
  | group:
  | condition: hp <= 14
    | (10970:15) This is my victory!

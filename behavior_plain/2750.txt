@@ -32,7 +32,7 @@ Branch on flag & 2, target rnd 12
 
 #8: ESRowSpawnMulti(79:4092) -> Holy Tree's Staff
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 1st, 3rd, 5th row to Light orbs, the 2nd, 4th row to Wood orbs, Deal 100% damage
+Change the 1st, 3rd, and 5th rows to Light orbs and the 2nd and 4th rows to Wood orbs, Deal 100% damage
 
 #9: ESBoardChangeAttackBits(85:4093) -> Six Strings' Timbre
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

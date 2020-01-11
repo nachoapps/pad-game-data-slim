@@ -83,7 +83,7 @@ end_turn
 counter = 0
 
 #21: ESColumnSpawnMulti(77:12605) -> Sekia Kuretsuha
-Change the 3rd, 4th column to Fire orbs, Deal 350% damage
+Change the 3rd and 4th columns to Fire orbs, Deal 350% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -55,11 +55,11 @@ Change Random to Wood, Deal 110% damage
 
 #17: ESColumnSpawnMulti(77:10364) -> Double Vertical Slash
 Condition: 25% chance (ai:0 rnd:25)
-Change the 1st, 6th column to Wood and Light orbs, Deal 105% damage
+Change the 1st and 6th columns to Wood and Light orbs, Deal 105% damage
 
 #18: ESRowSpawnMulti(79:10365) -> Double Vertical Slash
 Condition: 25% chance (ai:0 rnd:25)
-Change the 1st, 5th row to Wood and Light orbs, Deal 105% damage
+Change the 1st and 5th rows to Wood and Light orbs, Deal 105% damage
 
 #19: ESAttackMultihit(15:10366) -> Forceful Rush
 Condition: 25% chance (ai:0 rnd:25)

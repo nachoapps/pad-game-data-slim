@@ -24,7 +24,7 @@ end_turn
 
 #6: ESColumnSpawnMulti(77:5183) -> Sky Dashing Hundred Dragon Blades
 Condition: When < 15% hp (ai:100 rnd:0)
-Change the 1st, 3rd, 5th column to Fire orbs, the 2nd, 4th, 6th column to Wood orbs, Deal 750% damage
+Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Wood orbs, Deal 750% damage
 
 #7: ESDamageShield(74:5186) -> Parade
 Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)

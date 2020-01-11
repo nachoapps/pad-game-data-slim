@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESDamageShield(74:12798) -> Protecting Trees
 	Reduce damage from all sources by 50% for 10 turns
 	[1] ESRowSpawnMulti(78:12799) -> Earth Mischief
-	Change the 1st, 5th row to Mortal Poison orbs
+	Change the 1st and 5th rows to Mortal Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

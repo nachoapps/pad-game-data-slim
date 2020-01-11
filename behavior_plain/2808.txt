@@ -27,7 +27,7 @@ end_turn
 #6: SkillSet:
 	Condition: When < 30% hp (ai:100 rnd:0)
 	[0] ESColumnSpawnMulti(77:8020) -> Ascension
-	Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 20000% damage
+	Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 20000% damage
 	[1] ESRecoverEnemy86(86:8018) -> Elixir of Life
 	Enemy recover 100% hp
 

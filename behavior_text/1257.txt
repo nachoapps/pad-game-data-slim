@@ -27,8 +27,8 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (3084:77) Flame Curse
-     | Change the 1st column to Fire orbs, the 3rd column to Poison orbs, Deal 80% damage
+     | Change the 1st column to Fire orbs and the 3rd column to Poison orbs, Deal 80% damage
  | group:
  | condition: hp <= 19
    | (3085:77) Flame Road
-   | Change the 3rd, 4th column to Fire orbs, Deal 300% damage
+   | Change the 3rd and 4th columns to Fire orbs, Deal 300% damage

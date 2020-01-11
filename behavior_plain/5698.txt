@@ -45,7 +45,7 @@ Unable to match Water orbs for 3 turns
 end_turn
 
 #12: ESRowSpawnMulti(79:15222) -> グランクロス！
-Change the 2nd row to Fire orbs, the 3rd row to Wood orbs, the 4th row to Fire orbs, Deal 125% damage
+Change the 2nd row to Fire orbs, the 3rd row to Wood orbs, and the 4th row to Fire orbs, Deal 125% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

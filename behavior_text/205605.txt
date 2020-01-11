@@ -31,11 +31,11 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (14699:77) Waterfall Cascade
-     | Change the 1st, 3rd, 5th column to Dark orbs, Deal 115% damage
+     | Change the 1st, 3rd, and 5th columns to Dark orbs, Deal 115% damage
  | group:
  | condition: hp <= 19
    | condition: 50% chance, at most 3 times
    | (14706:79) Quavering Drums - Vengeful Arrow
    | Change the 3rd row to Dark orbs, Deal 300% damage
    | (14705:77) Soul Storm of Enmity
-   | Change the 3rd, 4th column to Dark orbs, Deal 250% damage
+   | Change the 3rd and 4th columns to Dark orbs, Deal 250% damage

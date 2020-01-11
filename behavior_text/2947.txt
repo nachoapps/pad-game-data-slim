@@ -25,10 +25,10 @@ level: 1
  type: UNKNOWN_USE
  | condition: 34% chance
  | (7510:83) Castaway Cataract + Hellish Ambience
- | Change the 1st, 3rd, 5th column to Jammer orbs + Player -50% HP, Deal 75% damage
+ | Change the 1st, 3rd, and 5th columns to Jammer orbs + Player -50% HP, Deal 75% damage
  | condition: 50% chance
  | (7512:83) Test of Mortality + Hellish Ambience
- | Change the 1st row to Heal orbs, the 5th row to Mortal Poison orbs + Player -50% HP
+ | Change the 1st row to Heal orbs and the 5th row to Mortal Poison orbs + Player -50% HP
  | condition: 50% chance
  | (7507:98) Evil Seal of Repulsion
  | Blind orbs in specific positions for 1 turn, Deal 100% damage

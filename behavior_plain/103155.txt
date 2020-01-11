@@ -56,7 +56,7 @@ Condition: When heal orbs are on the board (ai:100 rnd:0)
 Change all orbs to Mortal Poison
 
 #15: ESColumnSpawnMulti(77:5371) -> Blitz Lanze
-Change the 3rd, 4th column to Light and Heal orbs, Deal 170% damage
+Change the 3rd and 4th columns to Light and Heal orbs, Deal 170% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

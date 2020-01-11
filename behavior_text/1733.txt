@@ -36,7 +36,7 @@ level: 4
    | group:
    | condition: turn 2 while HP > 29
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: turn 3 while HP > 29
      | condition: 50% chance
@@ -47,7 +47,7 @@ level: 4
    | group:
    | condition: turn 4 while HP > 29
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: turn 5 while HP > 29
      | condition: 50% chance
@@ -58,7 +58,7 @@ level: 4
    | group:
    | condition: turn 6 while HP > 29
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: turn 7 while HP > 29
      | condition: 50% chance
@@ -69,7 +69,7 @@ level: 4
    | group:
    | condition: turn 8 while HP > 29
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: turn 9 while HP > 29
      | condition: 50% chance
@@ -84,7 +84,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | condition: 50% chance
@@ -95,7 +95,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (9082:78) How about this?
-     | Change the 2nd row to Water and Jammer orbs, the 4th row to Water and Jammer orbs
+     | Change the 2nd row to Water and Jammer orbs and the 4th row to Water and Jammer orbs
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | condition: 50% chance
@@ -112,8 +112,8 @@ level: 4
    | group:
    | condition: turns 2-9
      | (9090:76) Binding Azure Bladewings
-     | Change the 2nd column to Water and Jammer orbs, the 5th column to Water and Jammer orbs
+     | Change the 2nd column to Water and Jammer orbs and the 5th column to Water and Jammer orbs
    | group:
    | condition: execute repeatedly, turn 1-3 of 3
      | (9090:76) Binding Azure Bladewings
-     | Change the 2nd column to Water and Jammer orbs, the 5th column to Water and Jammer orbs
+     | Change the 2nd column to Water and Jammer orbs and the 5th column to Water and Jammer orbs

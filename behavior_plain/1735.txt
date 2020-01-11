@@ -27,9 +27,9 @@ flag SET 0b11
 
 #8: SkillSet:
 	[0] ESRowSpawnMulti(79:3049) -> Golden Scepter
-	Change the 2nd, 4th row to Light and Jammer orbs, Deal 50% damage
+	Change the 2nd and 4th rows to Light and Jammer orbs, Deal 50% damage
 	[1] ESColumnSpawnMulti(77:3050) -> Up we get!
-	Change the 3rd, 5th column to Light and Jammer orbs, Deal 50% damage
+	Change the 3rd and 5th columns to Light and Jammer orbs, Deal 50% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

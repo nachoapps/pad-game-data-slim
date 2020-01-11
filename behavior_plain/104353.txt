@@ -25,7 +25,7 @@ flag SET 0b1
 	[1] ESGravity(50:9712) -> Explosive Wave
 	Player -99% HP
 	[2] ESColumnSpawnMulti(76:9713) -> Blowing Dirty Water
-	Change the 1st column to Water, Jammer, and Poison orbs, the 3rd, 4th column to Water, Jammer, and Poison orbs
+	Change the 1st column to Water, Jammer, and Poison orbs and the 3rd and 4th columns to Water, Jammer, and Poison orbs
 	[3] ESVoidShield(71:9714) -> Surging Waves
 	Void damage >= 15000000 for 999 turns
 

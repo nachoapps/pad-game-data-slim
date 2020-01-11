@@ -20,7 +20,7 @@ level: 1
    | Change Water to Fire, Deal 60% damage
    | condition: 60% chance
    | (13141:79) Don't give up!
-   | Change the 1st, 2nd row to Fire, Jammer, and Poison orbs, Deal 60% damage
+   | Change the 1st and 2nd rows to Fire, Jammer, and Poison orbs, Deal 60% damage
  | group:
  | condition: always turn 1, hp <= 79
    | condition: 16% chance

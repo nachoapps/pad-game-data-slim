@@ -39,14 +39,14 @@ Bind Water cards for 10 turns
 	[0] ESInactivity66(66:4083) -> Uses 3 Blazing Spheres
 	Do nothing
 	[1] ESRowSpawnMulti(79:4146) -> Saint Blast!
-	Change the 2nd, 4th row to Fire and Light orbs, Deal 200% damage
+	Change the 2nd and 4th rows to Fire and Light orbs, Deal 200% damage
 
 #11: SkillSet:
 	Condition: One-time use (ai:50 rnd:0) (cost: 2)
 	[0] ESInactivity66(66:4084) -> Uses 2 Blazing Spheres
 	Do nothing
 	[1] ESColumnSpawnMulti(77:4145) -> Holy Pillar!
-	Change the 3rd column to Light orbs, the 4th column to Fire orbs, Deal 150% damage
+	Change the 3rd column to Light orbs and the 4th column to Fire orbs, Deal 150% damage
 
 #12: SkillSet:
 	Condition: One-time use (ai:50 rnd:0) (cost: 1)

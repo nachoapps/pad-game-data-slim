@@ -38,11 +38,11 @@ Change Water to Heal, Deal 130% damage
 
 #11: ESRowSpawnMulti(79:2711) -> Horizontal Web
 Condition: 35% chance (ai:0 rnd:35)
-Change the 1st, 5th row to Water orbs, Deal 80% damage
+Change the 1st and 5th rows to Water orbs, Deal 80% damage
 
 #12: ESColumnSpawnMulti(77:2710) -> Vertical Web
 Condition: 35% chance (ai:0 rnd:35)
-Change the 1st, 6th column to Water orbs, Deal 80% damage
+Change the 1st and 6th columns to Water orbs, Deal 80% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

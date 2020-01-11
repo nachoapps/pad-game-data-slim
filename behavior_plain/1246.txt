@@ -50,9 +50,9 @@ flag SET 0b111
 
 #15: SkillSet:
 	[0] ESRowSpawnMulti(79:3063) -> Scriptures of the Dragon God Caste
-	Change the 1st, 5th row to Light and Jammer orbs, Deal 10% damage
+	Change the 1st and 5th rows to Light and Jammer orbs, Deal 10% damage
 	[1] ESColumnSpawnMulti(77:3064) -> Puzzle is rearranged
-	Change the 1st, 3rd, 5th column to Light, Heal, and Jammer orbs, Deal 10% damage
+	Change the 1st, 3rd, and 5th columns to Light, Heal, and Jammer orbs, Deal 10% damage
 	[2] ESDebuffMovetime(39:3065) -> Alright, let's see you get rid of the evil
 	Movetime -3s for 1 turn
 

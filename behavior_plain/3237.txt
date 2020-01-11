@@ -29,7 +29,7 @@ Deal 300% damage (5 hits, 60% each)
 
 #7: ESColumnSpawnMulti(77:8815) -> Dragon Gale
 Condition: 50% chance (ai:50 rnd:0)
-Change the 3rd, 4th column to Wood orbs, Deal 210% damage
+Change the 3rd and 4th columns to Wood orbs, Deal 210% damage
 
 #8: ESAttackMultihit(15:8814) -> Storm Slash
 Deal 240% damage (3 hits, 80% each)

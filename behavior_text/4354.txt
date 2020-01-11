@@ -82,11 +82,11 @@ level: 4
  | group:
  | condition: turn 1 while HP > 49, hp <= 74
    | (9810:83) Wrath of the Great Tree + Great Path of Destruction
-   | Change the 1st, 3rd, 5th column to Wood orbs, the 2nd, 4th, 6th column to Poison orbs + Movetime -3s for 99 turns
+   | Change the 1st, 3rd, and 5th columns to Wood orbs and the 2nd, 4th, and 6th columns to Poison orbs + Movetime -3s for 99 turns
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (9813:83) Defenders of the Sacred Tree + Wrath of the Great Tree
-   | Reduce damage from all sources by 50% for 99 turns + Change the 1st, 3rd, 5th row to Poison orbs, the 2nd, 4th row to Wood orbs
+   | Reduce damage from all sources by 50% for 99 turns + Change the 1st, 3rd, and 5th rows to Poison orbs and the 2nd and 4th rows to Wood orbs
  | group:
  | condition: hp <= 9
    | (9816:83) Forest of the Decaying Sea + Ruining Grounds

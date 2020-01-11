@@ -26,7 +26,7 @@ Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 90% damage
 
 #6: ESColumnSpawnMulti(77:15208) -> 超ダークカイサツソード
 Condition: 10% chance (ai:0 rnd:10)
-Change the 3rd column to Dark orbs, the 4th column to Fire orbs, Deal 130% damage
+Change the 3rd column to Dark orbs and the 4th column to Fire orbs, Deal 130% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

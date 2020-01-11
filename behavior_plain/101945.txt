@@ -28,7 +28,7 @@ Branch on hp < 75, target rnd 14
 
 #8: ESColumnSpawnMulti(77:1958) -> Ascension
 Condition: When < 30% hp (ai:100 rnd:0)
-Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 200% damage
+Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 200% damage
 
 #9: ESOrbChangeAttack(48:1956) -> Swallow's Cowry Shell
 Condition: 60% chance (ai:0 rnd:60)

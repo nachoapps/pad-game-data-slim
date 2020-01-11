@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: turn 2
      | (3068:83) Scriptures of the Dragon God Caste + Puzzle is rearranged + Alright, let's see you get rid of the evil
-     | Change the 1st, 5th row to Light and Jammer orbs + Change the 1st, 3rd, 5th column to Light, Heal, and Jammer orbs + Movetime -3s for 1 turn, Deal 10% damage
+     | Change the 1st and 5th rows to Light and Jammer orbs + Change the 1st, 3rd, and 5th columns to Light, Heal, and Jammer orbs + Movetime -3s for 1 turn, Deal 10% damage
    | group:
      | (3066:48) Chaos
      | Change Jammer to Light, Deal 1000% damage

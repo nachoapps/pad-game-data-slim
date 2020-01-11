@@ -26,7 +26,7 @@ level: 1
      | Change Wood to Water, Deal 60% damage
      | condition: 60% chance
      | (3094:79) Freezing Wind
-     | Change the 1st, 2nd row to Water, Jammer, and Poison orbs, Deal 60% damage
+     | Change the 1st and 2nd rows to Water, Jammer, and Poison orbs, Deal 60% damage
  | group:
  | condition: always turn 1, hp <= 79
    | condition: when 1947 on team

@@ -20,7 +20,7 @@ level: 1
    | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 90% damage
    | condition: 10% chance
    | (15208:77) 超ダークカイサツソード
-   | Change the 3rd column to Dark orbs, the 4th column to Fire orbs, Deal 130% damage
+   | Change the 3rd column to Dark orbs and the 4th column to Fire orbs, Deal 130% damage
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (15207:71) やってやる！

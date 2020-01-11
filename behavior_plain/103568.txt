@@ -52,7 +52,7 @@ flag SET 0b11
 
 #14: SkillSet:
 	[0] ESColumnSpawnMulti(77:8868) -> Double Sacrifice
-	Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+	Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
 	[1] ESAttributeBlock(107:8869) -> Twin Protection
 	Unable to match Jammer and Poison orbs for 1 turn
 
@@ -82,10 +82,10 @@ Change Jammer to Fire, Deal 150% damage
 
 #19: ESColumnSpawnMulti(77:8877) -> Double Sacrifice
 Condition: 50% chance (ai:50 rnd:0)
-Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
 
 #20: ESColumnSpawnMulti(77:8878) -> Twin Strike
-Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -116,11 +116,11 @@ Change Jammer to Fire, Deal 150% damage
 
 #26: ESRowSpawnMulti(79:8886) -> Double Sacrifice
 Condition: 33% chance (ai:33 rnd:0)
-Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
 
 #27: ESRowSpawnMulti(79:8887) -> Twin Strike
 Condition: 50% chance (ai:50 rnd:0)
-Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
 
 #28: ESAttackMultihit(15:8888) -> Cross Rush
 Deal 160% damage (4 hits, 40% each)

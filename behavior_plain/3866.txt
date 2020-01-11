@@ -74,7 +74,7 @@ Branch on hp < 15, target rnd 22
 	[0] ESInactivity66(66:7927) -> It's putting some back into it
 	Do nothing
 	[1] ESColumnSpawnMulti(77:7930) -> Summer Paradise - Aqua
-	Change the 3rd, 4th column to Water orbs, Deal 150% damage
+	Change the 3rd and 4th columns to Water orbs, Deal 150% damage
 
 #19: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)

@@ -62,7 +62,7 @@ Delay active skills by 2 turns
 
 #16: ESColumnSpawnMulti(77:4230) -> Blue Ice Revival
 Condition: 40% chance (ai:40 rnd:0)
-Change the 1st column to Dark orbs, the 2nd column to Water orbs, Deal 100% damage
+Change the 1st column to Dark orbs and the 2nd column to Water orbs, Deal 100% damage
 
 #17: ESAttackMultihit(15:4232) -> Abyss Hole
 Condition: 50% chance (ai:50 rnd:0)

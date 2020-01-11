@@ -26,7 +26,7 @@ level: 1
  | group:
  | condition: hp <= 9
    | (14924:77) Ra Tilt
-   | Change the 3rd, 4th column to Light orbs, Deal 200% damage
+   | Change the 3rd and 4th columns to Light orbs, Deal 200% damage
  | group:
  | condition: turn 1, hp <= 1
    | (14923:86) Resurrection

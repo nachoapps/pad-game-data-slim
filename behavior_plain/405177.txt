@@ -90,14 +90,14 @@ Unable to match Dark orbs for 1 turn, Deal 120% damage
 #17: SkillSet:
 	Condition: 50% chance (ai:0 rnd:50)
 	[0] ESColumnSpawnMulti(77:12834) -> Ocean Wave of the Mighty Rivals
-	Change the 1st, 6th column to Water, Jammer, and Poison orbs, Deal 50% damage
+	Change the 1st and 6th columns to Water, Jammer, and Poison orbs, Deal 50% damage
 	[1] ESDamageShield(74:12835) -> Attack and Defense Splash
 	Reduce damage from all sources by 50% for 1 turn, Deal 50% damage
 
 #18: SkillSet:
 	Condition: 50% chance (ai:0 rnd:50)
 	[0] ESRowSpawnMulti(79:12837) -> Ocean Wave of the Mighty Rivals
-	Change the 1st, 5th row to Water, Jammer, and Poison orbs, Deal 50% damage
+	Change the 1st and 5th rows to Water, Jammer, and Poison orbs, Deal 50% damage
 	[1] ESBindAttack(63:12838) -> God's Will of the Playful Dream
 	Bind 2 random subs for 1~2 turns, Deal 50% damage
 

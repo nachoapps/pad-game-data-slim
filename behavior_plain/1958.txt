@@ -34,7 +34,7 @@ Voids status ailments for 3 turns
 
 #10: ESRowSpawnMulti(79:2100) -> Poison-Dripping Claws
 Condition: 50% chance when < 30% hp (ai:50 rnd:0)
-Change the 2nd, 4th row to Water and Poison orbs, Deal 200% damage
+Change the 2nd and 4th rows to Water and Poison orbs, Deal 200% damage
 
 #11: ESAttackMultihit(15:2095) -> Triple Swat
 Condition: 50% chance when < 50% hp (ai:50 rnd:0)
@@ -42,7 +42,7 @@ Deal 180% damage (3 hits, 60% each)
 
 #12: ESRowSpawnMulti(79:2097) -> Watery Claws
 Condition: When < 30% hp (ai:100 rnd:0)
-Change the 2nd, 4th row to Water orbs, Deal 200% damage
+Change the 2nd and 4th rows to Water orbs, Deal 200% damage
 
 #13: ESPoisonChangeRandomAttack(64:2094) -> Poison Claws
 Change Random 4 to Poison, Deal 110% damage

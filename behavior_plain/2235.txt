@@ -38,7 +38,7 @@ Void damage >= 1000000 for 10 turns
 	[0] ESRecoverEnemy86(86:4004) -> Blazing Spirit
 	Enemy recover 40% hp
 	[1] ESColumnSpawnMulti(77:3999) -> Wall Eruption
-	Change the 1st, 3rd, 4th, 6th column to Fire orbs, Deal 1500% damage
+	Change the 1st, 3rd, 4th, and 6th columns to Fire orbs, Deal 1500% damage
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 15
@@ -86,7 +86,7 @@ flag UNSET 0b110
 	[0] ESAbsorbAttribute(53:3998) -> Mars Core
 	Absorb Fire damage for 1 turn
 	[1] ESColumnSpawnMulti(77:3999) -> Wall Eruption
-	Change the 1st, 3rd, 4th, 6th column to Fire orbs, Deal 1500% damage
+	Change the 1st, 3rd, 4th, and 6th columns to Fire orbs, Deal 1500% damage
 
 #22: ESResolve(73:3989) -> アレス根性
 Survive attacks with 1 HP when HP > 50%

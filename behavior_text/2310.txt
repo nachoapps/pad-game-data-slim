@@ -13,4 +13,4 @@ level: 4
  group:
  condition: turn 1, hp <= 100
  | (3319:77) Legendary Golden Horn
- | Change the 2nd, 4th column to Light orbs, Deal 80% damage
+ | Change the 2nd and 4th columns to Light orbs, Deal 80% damage

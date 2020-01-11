@@ -23,7 +23,7 @@ level: 1
      | Change the 3rd row to Heal orbs, Deal 120% damage
      | condition: 25% chance
      | (10980:79) One Sword, Two Outcomes
-     | Change the 2nd row to Fire orbs, the 4th row to Water orbs, Deal 100% damage
+     | Change the 2nd row to Fire orbs and the 4th row to Water orbs, Deal 100% damage
      | condition: 25% chance
      | (10981:15) Sublime Sword Technique
      | Deal 105% damage (3 hits, 35% each)

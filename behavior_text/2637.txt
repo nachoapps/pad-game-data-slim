@@ -37,7 +37,7 @@ level: 1
      | Absorb damage when damage >= 300,000 for 10 turns
    | group:
      | (4517:77) Twin Flame Horns
-     | Change the 1st, 6th column to Fire orbs, Deal 160% damage
+     | Change the 1st and 6th columns to Fire orbs, Deal 160% damage
  | group:
  | condition: hp <= 49
    | group:

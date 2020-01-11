@@ -14,7 +14,7 @@ level: 1
 level: 4
  type: PREEMPT
  | (5004:83) Neither of us has any reason to hold back. + There must be a winner!!
- | Voids status ailments for 999 turns + Change the 1st, 6th column to Fire orbs
+ | Voids status ailments for 999 turns + Change the 1st and 6th columns to Fire orbs
  group:
  | group:
  | condition: always turn 1

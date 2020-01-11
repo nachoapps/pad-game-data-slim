@@ -24,7 +24,7 @@ end_turn
 
 #6: ESColumnSpawnMulti(77:5174) -> Hydro Cannon
 Condition: When < 15% hp (ai:100 rnd:0)
-Change the 3rd, 4th column to Water orbs, Deal 750% damage
+Change the 3rd and 4th columns to Water orbs, Deal 750% damage
 
 #7: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 70, target rnd 14

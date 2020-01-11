@@ -86,9 +86,9 @@ end_turn
 
 #26: SkillSet:
 	[0] ESRowSpawnMulti(78:9052) -> It's only natural to get this far
-	Change the 1st, 3rd, 5th row to Light orbs, the 2nd, 4th row to Dark orbs
+	Change the 1st, 3rd, and 5th rows to Light orbs and the 2nd and 4th rows to Dark orbs
 	[1] ESColumnSpawnMulti(76:9053) -> In that case...
-	Change the 3rd, 4th column to Heal orbs
+	Change the 3rd and 4th columns to Heal orbs
 	[2] ESAbsorbCombo(67:9054) -> ...how about this?
 	Absorb damage when combos <= 6 for 1 turn
 

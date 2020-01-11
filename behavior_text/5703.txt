@@ -21,7 +21,7 @@ level: 1
      | (15234:15) 月山流手裏剣術
      | Deal 120% damage (3 hits, 40% each)
      | (15235:77) 必殺！フミキリシュリケン
-     | Change the 2nd column to Dark orbs, the 5th column to Dark orbs, Deal 100% damage
+     | Change the 2nd column to Dark orbs and the 5th column to Dark orbs, Deal 100% damage
  | group:
  | condition: hp <= 14
    | group:
@@ -30,4 +30,4 @@ level: 1
      | Increase damage to 150% for the next 3 turns
    | group:
      | (15235:77) 必殺！フミキリシュリケン
-     | Change the 2nd column to Dark orbs, the 5th column to Dark orbs, Deal 100% damage
+     | Change the 2nd column to Dark orbs and the 5th column to Dark orbs, Deal 100% damage

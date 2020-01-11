@@ -40,7 +40,7 @@ end_turn
 counter = 0
 
 #12: ESColumnSpawnMulti(77:14546) -> Night Cracking Lightning Spear
-Change the 3rd, 4th column to Light orbs, Deal 100% damage
+Change the 3rd and 4th columns to Light orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

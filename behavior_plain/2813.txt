@@ -43,7 +43,7 @@ Deal 20000% damage (2 hits, 10000% each)
 
 #11: SkillSet:
 	[0] ESColumnSpawnMulti(76:9557) -> You're excited, aren't you?
-	Change the 1st, 6th column to Light orbs, the 2nd, 5th column to Dark orbs
+	Change the 1st and 6th columns to Light orbs and the 2nd and 5th columns to Dark orbs
 	[1] ESBombFixedSpawn(103:9558) -> More, mooore!
 	Spawn Bomb orbs in the specified positions
 	[2] ESAbsorbCombo(67:9559) -> Let's go in high spirits♪

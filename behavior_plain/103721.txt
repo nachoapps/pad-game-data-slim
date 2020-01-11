@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESColumnSpawnMulti(77:7361) -> One-Eyed Hellfire
-	Change the 4th, 5th, 6th column to Fire and Jammer orbs, Deal 140% damage
+	Change the 4th, 5th, and 6th columns to Fire and Jammer orbs, Deal 140% damage
 	[1] ESAbsorbCombo(67:7362) -> Seething Fire
 	Absorb damage when combos <= 6 for 1 turn
 

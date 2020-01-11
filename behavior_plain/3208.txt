@@ -73,7 +73,7 @@ Branch on flag & 8, target rnd 23
 flag SET 0b1111
 
 #22: ESRowSpawnMulti(79:6085) -> Crystal Stream
-Change the 1st, 5th row to Water orbs, Deal 100% damage
+Change the 1st and 5th rows to Water orbs, Deal 100% damage
 
 #23: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 16, target rnd 26

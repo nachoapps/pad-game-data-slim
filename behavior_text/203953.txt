@@ -14,10 +14,10 @@ level: 4
  | group:
    | condition: 25% chance
    | (8290:77) 切り裂く
-   | Change the 2nd, 4th, 6th column to Jammer orbs, Deal 140% damage
+   | Change the 2nd, 4th, and 6th columns to Jammer orbs, Deal 140% damage
    | condition: 25% chance
    | (8291:79) 切り裂く
-   | Change the 1st, 3rd, 5th row to Jammer orbs, Deal 140% damage
+   | Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 140% damage
    | condition: 25% chance
    | (8292:50) 雷禅光
    | Player -70% HP

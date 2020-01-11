@@ -40,7 +40,7 @@ level: 1
  | condition: hp <= 39
    | condition: 70% chance
    | (9530:77) Twin Blade Dance
-   | Change the 1st, 2nd, 3rd column to Fire orbs, the 4th, 5th, 6th column to Wood orbs, Deal 180% damage
+   | Change the 1st, 2nd, and 3rd columns to Fire orbs and the 4th, 5th, and 6th columns to Wood orbs, Deal 180% damage
    | condition: 50% chance
    | (9525:77) Flame Sword
    | Change the 1st column to Fire orbs, Deal 130% damage

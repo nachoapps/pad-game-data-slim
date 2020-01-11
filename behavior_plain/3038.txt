@@ -26,7 +26,7 @@ Branch on level >= 4, target rnd 6
 	[0] ESStatusShield(20:5005) -> Neither of us has any reason to hold back.
 	Voids status ailments for 999 turns
 	[1] ESColumnSpawnMulti(76:5006) -> There must be a winner!!
-	Change the 1st, 6th column to Fire orbs
+	Change the 1st and 6th columns to Fire orbs
 
 #7: ESBranchLevel(35:25) -> ESBranchLevel
 Branch on level >= 4, target rnd 9

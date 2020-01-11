@@ -47,7 +47,7 @@ end_turn
 	[0] ESDebuffMovetime(39:14852) -> I can finish you off any time I choose!
 	Movetime -2s for 5 turns
 	[1] ESColumnSpawnMulti(76:14847) -> You're only prolonging the inevitable.
-	Change the 3rd, 4th column to Jammer orbs
+	Change the 3rd and 4th columns to Jammer orbs
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 18

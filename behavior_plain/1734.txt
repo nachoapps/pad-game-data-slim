@@ -25,7 +25,7 @@ Branch on hp < 75, target rnd 11
 
 #6: ESColumnSpawnMulti(77:13161) -> Evil Vanquishing Sword
 Condition: 25% chance (ai:0 rnd:25)
-Change the 1st, 6th column to Wood orbs, Deal 95% damage
+Change the 1st and 6th columns to Wood orbs, Deal 95% damage
 
 #7: ESSkillDelay(89:13162) -> Phantom Sword
 Condition: 25% chance (ai:0 rnd:25)

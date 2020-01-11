@@ -17,8 +17,8 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1997:79) Spiral Fire
-     | Change the 1st, 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st and 5th rows to Fire orbs, Deal 120% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1998:77) Spiral Fire
-     | Change the 1st, 6th column to Fire orbs, Deal 120% damage
+     | Change the 1st and 6th columns to Fire orbs, Deal 120% damage

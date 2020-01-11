@@ -33,7 +33,7 @@ level: 4
    | Specific orbs change every 1.0s for 2 turns, Deal 170% damage
    | condition: 50% chance
    | (9285:83) Bifröst Obligation + Norn's Whim
-   | Change the 1st column to Water orbs, the 6th column to Wood orbs + Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 155% damage
+   | Change the 1st column to Water orbs and the 6th column to Wood orbs + Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 155% damage
    | (9288:83) Norn's Mischief + Norn Slave
    | Leader changes to random sub for 1 turn + Change all orbs to Water, Wood, and Heal, Deal 180% damage
  | group:
@@ -54,7 +54,7 @@ level: 4
    | group:
      | condition: 33% chance
      | (9291:83) Bifröst Obligation + Fighting Maiden's Protection
-     | Change the 1st row to Water orbs, the 5th row to Wood orbs + Reduce damage from all sources by 50% for 1 turn, Deal 110% damage
+     | Change the 1st row to Water orbs and the 5th row to Wood orbs + Reduce damage from all sources by 50% for 1 turn, Deal 110% damage
      | condition: 50% chance
      | (9294:83) Norn Slave + Time will race on
      | Change all orbs to Water, Wood, and Jammer + Player -99% HP, Deal 90% damage

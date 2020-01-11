@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 25% chance
    | (13161:77) Evil Vanquishing Sword
-   | Change the 1st, 6th column to Wood orbs, Deal 95% damage
+   | Change the 1st and 6th columns to Wood orbs, Deal 95% damage
    | condition: 25% chance
    | (13162:89) Phantom Sword
    | Delay active skills by 2 turns, Deal 100% damage

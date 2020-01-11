@@ -17,20 +17,20 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 5
    | (1890:79) Heavenstrom
-   | Change the 1st row to Poison orbs, the 5th row to Heal orbs, Deal 25% damage
+   | Change the 1st row to Poison orbs and the 5th row to Heal orbs, Deal 25% damage
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (1891:77) Heavenstrom
-   | Change the 1st column to Poison orbs, the 6th column to Heal orbs, Deal 50% damage
+   | Change the 1st column to Poison orbs and the 6th column to Heal orbs, Deal 50% damage
  | group:
  | condition: execute repeatedly, turn 3 of 5
    | (1892:79) Heavenstrom
-   | Change the 1st row to Heal orbs, the 5th row to Poison orbs, Deal 75% damage
+   | Change the 1st row to Heal orbs and the 5th row to Poison orbs, Deal 75% damage
  | group:
  | condition: execute repeatedly, turn 4 of 5
    | (1893:77) Heavenstrom
-   | Change the 1st column to Heal orbs, the 6th column to Poison orbs, Deal 100% damage
+   | Change the 1st column to Heal orbs and the 6th column to Poison orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 5 of 5
    | (1894:79) Abysstrom
-   | Change the 1st row to Poison orbs, the 5th row to Poison orbs, Deal 200% damage
+   | Change the 1st row to Poison orbs and the 5th row to Poison orbs, Deal 200% damage

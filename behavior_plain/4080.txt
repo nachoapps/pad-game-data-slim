@@ -49,7 +49,7 @@ Deal 105% damage (7 hits, 15% each)
 end_turn
 
 #15: ESColumnSpawnMulti(76:8660) -> Power Geyser
-Change the 2nd column to Fire orbs, the 4th column to Fire orbs
+Change the 2nd column to Fire orbs and the 4th column to Fire orbs
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

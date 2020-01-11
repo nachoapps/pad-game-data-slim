@@ -23,7 +23,7 @@ Player -99% HP
 	[0] ESSkillDelay(89:14943) -> I'll blow everything away!
 	Delay active skills by 5 turns
 	[1] ESColumnSpawnMulti(77:14944) -> I construct thee, Spire of the Sun!
-	Change the 3rd, 4th column to Fire orbs, Deal 90% damage
+	Change the 3rd and 4th columns to Fire orbs, Deal 90% damage
 
 #5: ESBindAwoken(88:14945) -> It's the... final battle!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

@@ -26,19 +26,19 @@ level: 4
      | Change Mortal Poison to Heal, Deal 150% damage
      | condition: 33% chance
      | (9583:83) This flower is beautiful, right? + Those ones are splendid too
-     | Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs + Leader changes to random sub for 1 turn, Deal 50% damage
+     | Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs + Leader changes to random sub for 1 turn, Deal 50% damage
      | condition: 50% chance
      | (9584:83) This flower is beautiful, right? + This one is cute too
-     | Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs + Delay active skills by 1~2 turns, Deal 50% damage
+     | Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs + Delay active skills by 1~2 turns, Deal 50% damage
      | (9585:83) This flower is beautiful, right? + Lovely Aroma
-     | Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs + Deal 45% damage (3 hits, 15% each), Deal 50% damage
+     | Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs + Deal 45% damage (3 hits, 15% each), Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (9584:83) This flower is beautiful, right? + This one is cute too
-     | Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs + Delay active skills by 1~2 turns, Deal 50% damage
+     | Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs + Delay active skills by 1~2 turns, Deal 50% damage
      | (9585:83) This flower is beautiful, right? + Lovely Aroma
-     | Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs + Deal 45% damage (3 hits, 15% each), Deal 50% damage
+     | Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs + Deal 45% damage (3 hits, 15% each), Deal 50% damage
  | group:
  | condition: hp <= 19
    | (9587:85) Flowers in full bloom are splendid!

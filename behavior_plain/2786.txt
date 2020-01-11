@@ -41,7 +41,7 @@ Lock 3 random Fire, Water, Wood, Light, and Dark orbs, Deal 110% damage
 
 #11: ESRowSpawnMulti(79:3898) -> Holy
 Condition: 25% chance (ai:0 rnd:25)
-Change the 2nd, 4th row to Light orbs, Deal 120% damage
+Change the 2nd and 4th rows to Light orbs, Deal 120% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -56,7 +56,7 @@ Condition: When heal orbs are on the board (ai:100 rnd:0)
 Change all orbs to Mortal Poison, Deal 100% damage
 
 #15: ESColumnSpawnMulti(77:5383) -> Wirbel Lanze
-Change the 3rd, 4th column to Water, Wood, and Poison orbs, Deal 150% damage
+Change the 3rd and 4th columns to Water, Wood, and Poison orbs, Deal 150% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

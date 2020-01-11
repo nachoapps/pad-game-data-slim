@@ -33,7 +33,7 @@ level: 4
      | Change the 3rd row to Heal orbs, Deal 175% damage
      | condition: 50% chance
      | (4694:77) Purple Lightning
-     | Change the 3rd column to Dark orbs, the 5th column to Water orbs, Deal 80% damage
+     | Change the 3rd column to Dark orbs and the 5th column to Water orbs, Deal 80% damage
      | (4695:15) Dual Shade
      | Deal 120% damage (2 hits, 60% each)
  | group:
@@ -45,11 +45,11 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (4700:83) Destroying Thunder Dragon's Trial + Dark Slash
-     | Absorb Dark damage for 1 turn + Change the 2nd, 5th column to Dark orbs, Deal 100% damage
+     | Absorb Dark damage for 1 turn + Change the 2nd and 5th columns to Dark orbs, Deal 100% damage
    | group:
      | condition: 50% chance
      | (4696:83) Vesperal Gloom + Purple Lightning
-     | Blind all orbs on the board + Change the 3rd column to Dark orbs, the 5th column to Water orbs, Deal 80% damage
+     | Blind all orbs on the board + Change the 3rd column to Dark orbs and the 5th column to Water orbs, Deal 80% damage
      | (4697:83) Vesperal Gloom + Dusk Guidance
      | Blind all orbs on the board + Change the 3rd row to Heal orbs, Deal 175% damage
  | group:

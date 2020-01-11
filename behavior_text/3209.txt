@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (5808:83) Immutable Divine Power + Windy Realm of Salvation
- | Bind awoken skills for 2 turns + Change the 2nd, 5th column to Wood orbs, the 1st, 6th column to Heal and Jammer orbs, the 3rd, 4th column to Fire, Water, Light, and Dark orbs, Deal 120% damage
+ | Bind awoken skills for 2 turns + Change the 2nd and 5th columns to Wood orbs, the 1st and 6th columns to Heal and Jammer orbs, and the 3rd and 4th columns to Fire, Water, Light, and Dark orbs, Deal 120% damage
  group:
  | group:
    | group:
@@ -46,4 +46,4 @@ level: 4
  | group:
  | condition: hp <= 19
    | (5816:79) Sky Splitting Jetstream
-   | Change the 2nd, 4th row to Wood orbs, the 1st, 3rd, 5th row to Fire, Water, Light, Dark, and Heal orbs, Deal 1000% damage
+   | Change the 2nd and 4th rows to Wood orbs and the 1st, 3rd, and 5th rows to Fire, Water, Light, Dark, and Heal orbs, Deal 1000% damage

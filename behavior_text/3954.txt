@@ -30,7 +30,7 @@ level: 4
    | 2x2 cloud appear for 1 turn at random location, Deal 120% damage
    | condition: 33% chance
    | (8311:79) Neat and Tidy
-   | Change the 1st, 3rd, 5th row to Heal orbs, the 2nd row to Fire orbs, the 4th row to Fire and Jammer orbs, Deal 50% damage
+   | Change the 1st, 3rd, and 5th rows to Heal orbs, the 2nd row to Fire orbs, and the 4th row to Fire and Jammer orbs, Deal 50% damage
    | condition: 33% chance
    | (8312:92) Terrible Tumble
    | Spawn 5 random Jammer orbs, Deal 130% damage

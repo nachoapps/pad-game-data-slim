@@ -31,7 +31,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Lock 6 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
 
 #8: ESColumnSpawnMulti(77:15215) -> レーザーソード！
-Change the 3rd column to Light orbs, the 4th column to Water orbs, Deal 125% damage
+Change the 3rd column to Light orbs and the 4th column to Water orbs, Deal 125% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -53,7 +53,7 @@ Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 300% for the next 3 turns
 
 #15: ESColumnSpawnMulti(77:15215) -> レーザーソード！
-Change the 3rd column to Light orbs, the 4th column to Water orbs, Deal 125% damage
+Change the 3rd column to Light orbs and the 4th column to Water orbs, Deal 125% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

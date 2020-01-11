@@ -95,7 +95,7 @@ end_turn
 	[0] ESInactivity66(66:12608) -> Away with you!
 	Do nothing
 	[1] ESRowSpawnMulti(79:12460) -> Ultimate Psycho Crusher
-	Change the 3rd, 4th row to Dark orbs, Deal 500% damage
+	Change the 3rd and 4th rows to Dark orbs, Deal 500% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

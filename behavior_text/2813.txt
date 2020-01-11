@@ -18,7 +18,7 @@ level: 1
    | Do nothing + 3x2 cloud appear for 1 turn at 3rd row, 3rd column + Spawn 10 random Fire, Water, Wood, or Light orbs + Absorb damage when combos <= 8 for 1 turn
    | condition: when 7 combos last turn
    | (9560:83) You're excited, aren't you? + More, mooore! + Let's go in high spirits♪
-   | Change the 1st, 6th column to Light orbs, the 2nd, 5th column to Dark orbs + Spawn Bomb orbs in the specified positions + Absorb damage when combos <= 7 for 1 turn
+   | Change the 1st and 6th columns to Light orbs and the 2nd and 5th columns to Dark orbs + Spawn Bomb orbs in the specified positions + Absorb damage when combos <= 7 for 1 turn
    | (9572:15) Too bad, but come again
    | Deal 20000% damage (2 hits, 10000% each)
  | group:

@@ -38,7 +38,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Bind 1 random card for 3 turns, Deal 90% damage
 
 #11: ESColumnSpawnMulti(77:3742) -> Splash Hell Gale
-Change the 3rd, 4th column to Water and Wood orbs, Deal 100% damage
+Change the 3rd and 4th columns to Water and Wood orbs, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

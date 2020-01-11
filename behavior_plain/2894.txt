@@ -58,7 +58,7 @@ counter = 0
 	[0] ESSpinnersRandom(109:10991) -> Cauchemar Despair
 	Random 4 orbs change every 1.5s for 4 turns
 	[1] ESRowSpawnMulti(79:10992) -> Cauchemar Catastrophe
-	Change the 1st, 3rd, 5th row to Jammer orbs, Deal 110% damage
+	Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 110% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

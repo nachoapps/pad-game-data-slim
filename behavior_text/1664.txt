@@ -19,7 +19,7 @@ level: 1
    | condition: turns 1-9 while HP > 19
      | condition: 50% chance
      | (10063:79) Hudr Leaf
-     | Change the 2nd, 3rd row to Wood and Jammer orbs, Deal 120% damage
+     | Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
      | (10064:89) Uwaaba
      | Delay active skills by 3 turns, Deal 120% damage
    | group:
@@ -29,7 +29,7 @@ level: 1
    | group:
      | condition: 50% chance
      | (10063:79) Hudr Leaf
-     | Change the 2nd, 3rd row to Wood and Jammer orbs, Deal 120% damage
+     | Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
      | (10064:89) Uwaaba
      | Delay active skills by 3 turns, Deal 120% damage
  | group:

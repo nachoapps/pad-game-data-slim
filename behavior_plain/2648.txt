@@ -54,7 +54,7 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #16: ESColumnSpawnMulti(76:4038) -> Cutting Water Pincers
-Change the 3rd, 4th column to Water orbs
+Change the 3rd and 4th columns to Water orbs
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

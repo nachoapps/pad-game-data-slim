@@ -26,7 +26,7 @@ level: 4
    | Deal 100% damage
    | condition: 25% chance
    | (3467:77) Saint Corona
-   | Change the 2nd, 4th column to Light orbs, Deal 70% damage
+   | Change the 2nd and 4th columns to Light orbs, Deal 70% damage
  | group:
  | condition: always turn 1, hp <= 69
    | (3471:75) Whim

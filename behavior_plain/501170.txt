@@ -17,7 +17,7 @@ Change all orbs to Jammer
 
 #4: ESColumnSpawnMulti(77:15363) -> パープルデス
 Condition: When < 10% hp (ai:100 rnd:0)
-Change the 3rd, 4th column to Dark orbs, Deal 200% damage
+Change the 3rd and 4th columns to Dark orbs, Deal 200% damage
 
 #5: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 1, target rnd 9

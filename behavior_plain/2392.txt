@@ -39,7 +39,7 @@ Spawn 4 random Fire or Jammer orbs, Deal 100% damage
 
 #10: ESColumnSpawnMulti(77:10533) -> Glær Svalinn
 Condition: 50% chance (ai:0 rnd:50)
-Change the 2nd, 5th column to Fire and Water orbs, Deal 90% damage
+Change the 2nd and 5th columns to Fire and Water orbs, Deal 90% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

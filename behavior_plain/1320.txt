@@ -24,7 +24,7 @@ Branch on hp < 50, target rnd 12
 
 #7: ESRowSpawnMulti(79:2253) -> Dance of the Dragon War Princess
 Condition: When < 30% hp (ai:100 rnd:0)
-Change the 1st row to Water orbs, the 3rd row to Wood orbs, the 5th row to Water orbs, Deal 200% damage
+Change the 1st row to Water orbs, the 3rd row to Wood orbs, and the 5th row to Water orbs, Deal 200% damage
 
 #8: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)

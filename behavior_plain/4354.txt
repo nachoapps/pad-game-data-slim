@@ -189,7 +189,7 @@ flag SET 0b11
 
 #36: SkillSet:
 	[0] ESColumnSpawnMulti(76:9808) -> Wrath of the Great Tree
-	Change the 1st, 3rd, 5th column to Wood orbs, the 2nd, 4th, 6th column to Poison orbs
+	Change the 1st, 3rd, and 5th columns to Wood orbs and the 2nd, 4th, and 6th columns to Poison orbs
 	[1] ESDebuffMovetime(39:9809) -> Great Path of Destruction
 	Movetime -3s for 99 turns
 
@@ -206,7 +206,7 @@ flag SET 0b111
 	[0] ESDamageShield(74:9811) -> Defenders of the Sacred Tree
 	Reduce damage from all sources by 50% for 99 turns
 	[1] ESRowSpawnMulti(78:9812) -> Wrath of the Great Tree
-	Change the 1st, 3rd, 5th row to Poison orbs, the 2nd, 4th row to Wood orbs
+	Change the 1st, 3rd, and 5th rows to Poison orbs and the 2nd and 4th rows to Wood orbs
 
 #41: ESEndPath(36:26) -> ESEndPath
 end_turn

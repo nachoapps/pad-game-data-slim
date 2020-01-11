@@ -74,7 +74,7 @@ flag SET 0b111
 
 #20: SkillSet:
 	[0] ESRowSpawnMulti(79:3728) -> Delta Dead Lightning
-	Change the 1st, 5th row to Light, Jammer, and Mortal Poison orbs, Deal 180% damage
+	Change the 1st and 5th rows to Light, Jammer, and Mortal Poison orbs, Deal 180% damage
 	[1] ESAttackMultihit(15:3732) -> Sword Bit Rush
 	Deal 180% damage (6 hits, 30% each)
 

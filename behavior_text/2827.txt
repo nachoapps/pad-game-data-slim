@@ -25,4 +25,4 @@ level: 4
  | group:
  | condition: turn 2, hp <= 14
    | (4123:77) Well, here I am!
-   | Change the 3rd, 4th column to Jammer orbs, Deal 250% damage
+   | Change the 3rd and 4th columns to Jammer orbs, Deal 250% damage

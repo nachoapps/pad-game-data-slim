@@ -31,7 +31,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (14699:77) Waterfall Cascade
-     | Change the 1st, 3rd, 5th column to Dark orbs, Deal 115% damage
+     | Change the 1st, 3rd, and 5th columns to Dark orbs, Deal 115% damage
  | group:
  | condition: turn 1, hp <= 50
    | (14691:83) Bitter suffering...and hatred. + Destruction upon you! + Rrarrrrgh!!!

@@ -21,7 +21,7 @@ level: 1
  | group:
  | condition: turn 2
    | (14942:83) I'll blow everything away! + I construct thee, Spire of the Sun!
-   | Delay active skills by 5 turns + Change the 3rd, 4th column to Fire orbs, Deal 90% damage
+   | Delay active skills by 5 turns + Change the 3rd and 4th columns to Fire orbs, Deal 90% damage
  | group:
  | condition: turn 3
    | (14945:88) It's the... final battle!

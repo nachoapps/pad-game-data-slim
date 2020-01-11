@@ -39,14 +39,14 @@ Branch on hp < 40, target rnd 20
 #9: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESColumnSpawnMulti(77:1905) -> Lightning of God
-	Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 12000% damage
+	Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 12000% damage
 	[1] ESStatusShield(20:1915) -> Preening
 	Voids status ailments for 2 turns
 
 #10: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
 	[0] ESColumnSpawnMulti(77:1905) -> Lightning of God
-	Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 12000% damage
+	Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 12000% damage
 	[1] ESAttackMultihit(15:1911) -> Double Slap
 	Deal 18000% damage (3 hits, 6000% each)
 
@@ -67,7 +67,7 @@ Branch on hp < 40, target rnd 20
 #13: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
 	[0] ESColumnSpawnMulti(77:1905) -> Lightning of God
-	Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 12000% damage
+	Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 12000% damage
 	[1] ESBindAttack(63:1916) -> Diabolic Embrace
 	Bind 1 random sub for 1~2 turns, Deal 10000% damage
 

@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESRowSpawnMulti(79:7808) -> Look alive!
-	Change the 1st, 2nd, 4th, 5th row to Fire, Water, Wood, Light, Dark, and Heal orbs, the 3rd row to Mortal Poison orbs, Deal 200% damage
+	Change the 1st, 2nd, 4th, and 5th rows to Fire, Water, Wood, Light, Dark, and Heal orbs and the 3rd row to Mortal Poison orbs, Deal 200% damage
 	[1] ESStatusShield(20:7809) -> Mount Ooe's Soul Guardian
 	Voids status ailments for 5 turns
 

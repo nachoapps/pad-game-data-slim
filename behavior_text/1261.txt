@@ -15,7 +15,7 @@ level: 1
  | condition: turn 1
    | condition: when 6 combos last turn
    | (9055:83) It's only natural to get this far + In that case... + ...how about this?
-   | Change the 1st, 3rd, 5th row to Light orbs, the 2nd, 4th row to Dark orbs + Change the 3rd, 4th column to Heal orbs + Absorb damage when combos <= 6 for 1 turn
+   | Change the 1st, 3rd, and 5th rows to Light orbs and the 2nd and 4th rows to Dark orbs + Change the 3rd and 4th columns to Heal orbs + Absorb damage when combos <= 6 for 1 turn
    | (9064:15) Too bad
    | Deal 40000% damage (4 hits, 10000% each)
  | group:

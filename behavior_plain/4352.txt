@@ -118,13 +118,13 @@ end_turn
 #26: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESColumnSpawnMulti(77:9670) -> Cerulean Flame
-	Change the 2nd, 5th column to Water and Jammer orbs, Deal 115% damage
+	Change the 2nd and 5th columns to Water and Jammer orbs, Deal 115% damage
 	[1] ESSkillDelay(89:9675) -> Judgment Carving
 	Delay active skills by 1~2 turns
 
 #27: SkillSet:
 	[0] ESRowSpawnMulti(79:9671) -> Virescent Flame
-	Change the 2nd, 4th row to Wood, Heal, and Poison orbs, Deal 115% damage
+	Change the 2nd and 4th rows to Wood, Heal, and Poison orbs, Deal 115% damage
 	[1] ESLeaderSwap(75:9676) -> Judgment Carving
 	Leader changes to random sub for 1 turn
 

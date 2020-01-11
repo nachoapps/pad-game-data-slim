@@ -79,14 +79,14 @@ Branch on hp > 51, target rnd 13
 	[0] ESAbsorbAttribute(53:12293) -> Bellows of the Smelting Furnace
 	Absorb Wood and Dark damage for 1 turn
 	[1] ESRowSpawnMulti(79:12307) -> Incineration
-	Change the 2nd, 4th row to Fire orbs, Deal 95% damage
+	Change the 2nd and 4th rows to Fire orbs, Deal 95% damage
 
 #16: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESAbsorbAttribute(53:12294) -> Bellows of the Smelting Furnace
 	Absorb Light and Dark damage for 1 turn
 	[1] ESRowSpawnMulti(79:12308) -> Incineration
-	Change the 1st, 5th row to Fire orbs, Deal 95% damage
+	Change the 1st and 5th rows to Fire orbs, Deal 95% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

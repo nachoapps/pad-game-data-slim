@@ -35,10 +35,10 @@ level: 1
    | Absorb Water and Light damage for 1 turn + Change Random to Jammer, Deal 100% damage
    | condition: 25% chance
    | (12303:83) Bellows of the Smelting Furnace + Incineration
-   | Absorb Wood and Dark damage for 1 turn + Change the 2nd, 4th row to Fire orbs, Deal 95% damage
+   | Absorb Wood and Dark damage for 1 turn + Change the 2nd and 4th rows to Fire orbs, Deal 95% damage
    | condition: 25% chance
    | (12304:83) Bellows of the Smelting Furnace + Incineration
-   | Absorb Light and Dark damage for 1 turn + Change the 1st, 5th row to Fire orbs, Deal 95% damage
+   | Absorb Light and Dark damage for 1 turn + Change the 1st and 5th rows to Fire orbs, Deal 95% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 50
    | (12298:83) Ashes + Sacrifice to the Furnace

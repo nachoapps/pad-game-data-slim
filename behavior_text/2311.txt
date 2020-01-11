@@ -14,7 +14,7 @@ level: 5
  | group:
  | condition: turn 1
    | (3319:77) Legendary Golden Horn
-   | Change the 2nd, 4th column to Light orbs, Deal 80% damage
+   | Change the 2nd and 4th columns to Light orbs, Deal 80% damage
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (3320:63) First Edelweiss

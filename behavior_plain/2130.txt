@@ -16,7 +16,7 @@ flag SET 0b1
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 5)
 	[0] ESColumnSpawnMulti(77:5749) -> Burning Grudge
-	Change the 1st, 2nd, 5th, 6th column to Fire and Poison orbs, Deal 100% damage
+	Change the 1st, 2nd, 5th, and 6th columns to Fire and Poison orbs, Deal 100% damage
 	[1] ESSkyfallLocked(96:5750) -> Immortal Ambition
 	Locked random skyfall +20% for 10 turns
 

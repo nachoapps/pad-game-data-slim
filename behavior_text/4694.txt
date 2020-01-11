@@ -17,7 +17,7 @@ level: 1
    | (10732:17) I can't go easy on you
    | Increase damage to 150% for the next 2 turns
    | (10733:77) How about THIS?!
-   | Change the 3rd, 4th column to Water orbs, Deal 110% damage
+   | Change the 3rd and 4th columns to Water orbs, Deal 110% damage
  | group:
  | condition: hp <= 19
    | (10717:79) Blue Origin

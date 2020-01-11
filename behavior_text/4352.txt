@@ -52,9 +52,9 @@ level: 4
      | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer + Bind awoken skills for 1 turn, Deal 115% damage
      | condition: 50% chance
      | (9680:83) Cerulean Flame + Judgment Carving
-     | Change the 2nd, 5th column to Water and Jammer orbs + Delay active skills by 1~2 turns, Deal 115% damage
+     | Change the 2nd and 5th columns to Water and Jammer orbs + Delay active skills by 1~2 turns, Deal 115% damage
      | (9681:83) Virescent Flame + Judgment Carving
-     | Change the 2nd, 4th row to Wood, Heal, and Poison orbs + Leader changes to random sub for 1 turn, Deal 115% damage
+     | Change the 2nd and 4th rows to Wood, Heal, and Poison orbs + Leader changes to random sub for 1 turn, Deal 115% damage
  | group:
  | condition: hp <= 9
    | (9684:15) Conflagration of Hell

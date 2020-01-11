@@ -21,7 +21,7 @@ level: 4
  | Survive attacks with 1 HP when HP > 99%
  type: PREEMPT
  | (9715:83) Overcoat of Grand Style + Explosive Wave + Blowing Dirty Water + Surging Waves
- | Voids status ailments for 999 turns + Player -99% HP + Change the 1st column to Water, Jammer, and Poison orbs, the 3rd, 4th column to Water, Jammer, and Poison orbs + Void damage >= 15000000 for 999 turns
+ | Voids status ailments for 999 turns + Player -99% HP + Change the 1st column to Water, Jammer, and Poison orbs and the 3rd and 4th columns to Water, Jammer, and Poison orbs + Void damage >= 15000000 for 999 turns
  group:
  | group:
    | group:

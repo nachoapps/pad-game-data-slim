@@ -16,13 +16,13 @@ level: 1
    | (8146:48) Nope! Wroong!
    | Change Jammer to Water, Deal 90000% damage
    | (8135:78) Can you erase my Jammers?
-   | Change the 1st, 5th row to Water, Heal, and Jammer orbs, the 3rd row to Jammer orbs
+   | Change the 1st and 5th rows to Water, Heal, and Jammer orbs and the 3rd row to Jammer orbs
  | group:
  | condition: turn 2
    | (8146:48) Nope! Wroong!
    | Change Jammer to Water, Deal 90000% damage
    | (8136:76) Here I gooo!
-   | Change the 1st, 4th, 6th column to Water, Heal, and Jammer orbs, the 3rd column to Jammer orbs
+   | Change the 1st, 4th, and 6th columns to Water, Heal, and Jammer orbs and the 3rd column to Jammer orbs
  | group:
  | condition: turn 3
    | (8146:48) Nope! Wroong!

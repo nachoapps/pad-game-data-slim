@@ -42,7 +42,7 @@ Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Spawn 8 random Water orbs, Deal 250% damage
 
 #11: ESRowSpawnMulti(79:14653) -> Rupu Kamui Emyu - Tu Tu
-Change the 4th, 5th row to Water orbs, Deal 220% damage
+Change the 4th and 5th rows to Water orbs, Deal 220% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

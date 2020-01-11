@@ -13,7 +13,7 @@ Bind player leader for 1 turn
 
 #3: ESRowSpawnMulti(79:14266) -> Purrrfect Wave
 Condition: 30% chance when < 30% hp (ai:30 rnd:0)
-Change the 2nd, 3rd row to Water orbs, Deal 120% damage
+Change the 2nd and 3rd rows to Water orbs, Deal 120% damage
 
 #4: ESBlind5(5:14264) -> Looking puuuurfect!
 Condition: 50% chance (ai:50 rnd:0)

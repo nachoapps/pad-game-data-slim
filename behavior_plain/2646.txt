@@ -54,7 +54,7 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #16: ESColumnSpawnMulti(76:2698) -> Dark Child's Five Fingers
-Change the 1st, 2nd column to Dark orbs
+Change the 1st and 2nd columns to Dark orbs
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

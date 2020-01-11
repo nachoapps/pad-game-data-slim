@@ -21,7 +21,7 @@ level: 1
  | group:
  | condition: always turn 2, hp <= 61
    | (15134:83) Huh, pretty good + Don't back down now + Here, speed is important + Try to wrap this up smoothly + Here's a present
-   | Change the 1st, 3rd, 5th column to Water orbs, the 2nd column to Fire orbs + Spawn Bomb orbs in the specified positions + Seal the 5th row for 1 turn + Absorb damage when combos <= 7 for 1 turn + Row of cloud appear for 1 turn at 1st column
+   | Change the 1st, 3rd, and 5th columns to Water orbs and the 2nd column to Fire orbs + Spawn Bomb orbs in the specified positions + Seal the 5th row for 1 turn + Absorb damage when combos <= 7 for 1 turn + Row of cloud appear for 1 turn at 1st column
  | group:
  | condition: always turn 3, hp <= 39
    | (15139:83) You can do it if you try! + I'll be impressed if you can do it + Yoooo! + You'd better look out!

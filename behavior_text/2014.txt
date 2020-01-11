@@ -22,11 +22,11 @@ level: 5
  | group:
  | condition: turn 3
    | (2048:79) Two Flashes
-   | Change the 2nd, 4th row to Light orbs, Deal 100% damage
+   | Change the 2nd and 4th rows to Light orbs, Deal 100% damage
  | group:
  | condition: turn 4
    | (2049:79) Three Flashes
-   | Change the 1st, 3rd, 5th row to Light orbs, Deal 150% damage
+   | Change the 1st, 3rd, and 5th rows to Light orbs, Deal 150% damage
  | group:
    | (2028:15) The Morning Star
    | Deal 500% damage

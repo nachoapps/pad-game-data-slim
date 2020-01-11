@@ -28,7 +28,7 @@ level: 1
      | (5368:92) Windhose
      | Change all orbs to Mortal Poison
      | (5371:77) Blitz Lanze
-     | Change the 3rd, 4th column to Light and Heal orbs, Deal 170% damage
+     | Change the 3rd and 4th columns to Light and Heal orbs, Deal 170% damage
  | group:
  | condition: turns 1-3 while HP > 49, hp <= 69
    | (5373:68) Licht Regen

@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 49
      | (8870:83) Double Sacrifice + Twin Protection
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs + Unable to match Jammer and Poison orbs for 1 turn, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs + Unable to match Jammer and Poison orbs for 1 turn, Deal 120% damage
    | group:
    | condition: turn 2 while HP > 49
      | condition: 50% chance
@@ -38,9 +38,9 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
      | (8878:77) Twin Strike
-     | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+     | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
    | group:
    | condition: turn 4 while HP > 49
      | condition: 50% chance
@@ -56,9 +56,9 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
      | (8878:77) Twin Strike
-     | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+     | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
    | group:
    | condition: turn 6 while HP > 49
      | condition: 50% chance
@@ -74,9 +74,9 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
      | (8878:77) Twin Strike
-     | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+     | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
    | group:
    | condition: turn 8 while HP > 49
      | condition: 50% chance
@@ -92,9 +92,9 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
      | (8878:77) Twin Strike
-     | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+     | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
    | group:
    | condition: turn 10 while HP > 49
      | condition: 50% chance
@@ -117,9 +117,9 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
-     | Change the 1st column to Poison orbs, the 6th column to Jammer orbs, Deal 120% damage
+     | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
      | (8878:77) Twin Strike
-     | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 140% damage
+     | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 140% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -137,10 +137,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
    | group:
@@ -158,10 +158,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
    | group:
@@ -179,10 +179,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
    | group:
@@ -200,10 +200,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
    | group:
@@ -221,10 +221,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
    | group:
@@ -242,10 +242,10 @@ level: 1
      | Change Jammer to Fire, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
-     | Change the 1st row to Poison orbs, the 5th row to Jammer orbs, Deal 120% damage
+     | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
      | condition: 50% chance
      | (8887:79) Twin Strike
-     | Change the 1st row to Dark orbs, the 5th row to Fire orbs, Deal 120% damage
+     | Change the 1st row to Dark orbs and the 5th row to Fire orbs, Deal 120% damage
      | (8888:15) Cross Rush
      | Deal 160% damage (4 hits, 40% each)
  | group:

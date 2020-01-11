@@ -26,7 +26,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #8: ESRowSpawnMulti(79:1890) -> Heavenstrom
-Change the 1st row to Poison orbs, the 5th row to Heal orbs, Deal 25% damage
+Change the 1st row to Poison orbs and the 5th row to Heal orbs, Deal 25% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -38,7 +38,7 @@ Branch on flag & 4, target rnd 14
 flag SET 0b111
 
 #12: ESColumnSpawnMulti(77:1891) -> Heavenstrom
-Change the 1st column to Poison orbs, the 6th column to Heal orbs, Deal 50% damage
+Change the 1st column to Poison orbs and the 6th column to Heal orbs, Deal 50% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,7 +50,7 @@ Branch on flag & 8, target rnd 18
 flag SET 0b1111
 
 #16: ESRowSpawnMulti(79:1892) -> Heavenstrom
-Change the 1st row to Heal orbs, the 5th row to Poison orbs, Deal 75% damage
+Change the 1st row to Heal orbs and the 5th row to Poison orbs, Deal 75% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -62,7 +62,7 @@ Branch on flag & 16, target rnd 22
 flag SET 0b11111
 
 #20: ESColumnSpawnMulti(77:1893) -> Heavenstrom
-Change the 1st column to Heal orbs, the 6th column to Poison orbs, Deal 100% damage
+Change the 1st column to Heal orbs and the 6th column to Poison orbs, Deal 100% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -71,7 +71,7 @@ end_turn
 flag UNSET 0b11110
 
 #23: ESRowSpawnMulti(79:1894) -> Abysstrom
-Change the 1st row to Poison orbs, the 5th row to Poison orbs, Deal 200% damage
+Change the 1st row to Poison orbs and the 5th row to Poison orbs, Deal 200% damage
 
 #24: ESAttributeResist(72:1881) -> パッシブ・ネプチューン
 Reduce damage from Light and Dark attrs by 50%

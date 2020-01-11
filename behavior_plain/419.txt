@@ -24,7 +24,7 @@ Condition: When < 30% hp (ai:100 rnd:0)
 Blind all orbs on the board, Deal 300% damage
 
 #7: ESColumnSpawnMulti(77:2299) -> Dolphin Jump
-Change the 3rd, 4th column to Water orbs, Deal 100% damage
+Change the 3rd and 4th columns to Water orbs, Deal 100% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn

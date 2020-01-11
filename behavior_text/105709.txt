@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 25% chance
    | (15179:77) ダークフミキリシュリケン
-   | Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 90% damage
+   | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 90% damage
    | condition: 25% chance
    | (15180:108) ダークフミキリガン
    | Change Light to Dark, Deal 100% damage
@@ -23,7 +23,7 @@ level: 4
    | Deal 135% damage (3 hits, 45% each)
    | condition: 25% chance
    | (15182:77) ダークカイサツソード
-   | Change the 3rd column to Dark orbs, the 4th column to Dark orbs, Deal 125% damage
+   | Change the 3rd column to Dark orbs and the 4th column to Dark orbs, Deal 125% damage
  | group:
  | condition: hp <= 39
    | group:
@@ -32,4 +32,4 @@ level: 4
      | Bind awoken skills for 4 turns
    | group:
      | (15184:79) デスグランクロス！
-     | Change the 2nd row to Dark orbs, the 3rd row to Dark orbs, the 4th row to Dark orbs, Deal 150% damage
+     | Change the 2nd row to Dark orbs, the 3rd row to Dark orbs, and the 4th row to Dark orbs, Deal 150% damage

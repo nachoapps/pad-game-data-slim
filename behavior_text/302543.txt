@@ -24,18 +24,18 @@ level: 4
      | Spawn 3 random Heal orbs
      | condition: 50% chance
      | (3674:79) おみくじ吹雪
-     | Change the 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
+     | Change the 1st, 3rd, and 5th rows to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
      | (3684:15) ハニたま連投
      | Deal 150% damage (3 hits, 50% each)
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (3685:77) ふぁんたすてぃっく・やまたいこく
-     | Change the 1st, 6th column to Fire orbs, Deal 130% damage
+     | Change the 1st and 6th columns to Fire orbs, Deal 130% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance
      | (3674:79) おみくじ吹雪
-     | Change the 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
+     | Change the 1st, 3rd, and 5th rows to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 130% damage
      | (3684:15) ハニたま連投
      | Deal 150% damage (3 hits, 50% each)
  | group:

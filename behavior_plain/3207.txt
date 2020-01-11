@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESAbsorbCombo(67:5699) -> Bonfire of Enlightenment
 	Absorb damage when combos <= 7 for 1 turn
 	[1] ESColumnSpawnMulti(77:5700) -> Triple Fireball
-	Change the 1st column to Heal orbs, the 2nd column to Dark orbs, the 3rd column to Fire orbs, Deal 140% damage
+	Change the 1st column to Heal orbs, the 2nd column to Dark orbs, and the 3rd column to Fire orbs, Deal 140% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

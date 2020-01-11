@@ -29,7 +29,7 @@ Branch on combo >= 1, target rnd 27
 
 #6: SkillSet:
 	[0] ESColumnSpawnMulti(76:14166) -> Next!
-	Change the 1st, 2nd column to Fire orbs, the 3rd, 4th column to Water orbs
+	Change the 1st and 2nd columns to Fire orbs and the 3rd and 4th columns to Water orbs
 	[1] ESBlind5(5:14167) -> Hoho!
 	Blind all orbs on the board
 

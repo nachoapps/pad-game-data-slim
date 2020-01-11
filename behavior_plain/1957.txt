@@ -33,7 +33,7 @@ Branch on hp < 30, target rnd 13
 
 #10: ESColumnSpawnMulti(77:2055) -> Flame Meow Slash
 Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change the 4th, 6th column to Fire orbs, Deal 300% damage
+Change the 4th and 6th columns to Fire orbs, Deal 300% damage
 
 #11: ESOrbChangeAttack(48:2054) -> Surreptitious Snack
 Change Fire to Jammer, Deal 150% damage

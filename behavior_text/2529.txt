@@ -26,7 +26,7 @@ level: 5
    | (3743:63) Root Chain
    | Bind 1 random card for 3 turns, Deal 90% damage
    | (3742:77) Splash Hell Gale
-   | Change the 3rd, 4th column to Water and Wood orbs, Deal 100% damage
+   | Change the 3rd and 4th columns to Water and Wood orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 79
    | (3240:89) Absorption

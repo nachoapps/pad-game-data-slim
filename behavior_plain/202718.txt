@@ -56,35 +56,35 @@ flag SET 0b11
 #14: SkillSet:
 	Condition: One-time use (ai:0 rnd:20) (cost: 1)
 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
-	Change the 3rd, 4th column to Wood orbs, Deal 450% damage
+	Change the 3rd and 4th columns to Wood orbs, Deal 450% damage
 	[1] ESAbsorbAttribute(53:2985) -> Inhale
 	Absorb Fire and Water damage for 3 turns
 
 #15: SkillSet:
 	Condition: One-time use (ai:0 rnd:20) (cost: 1)
 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
-	Change the 3rd, 4th column to Wood orbs, Deal 450% damage
+	Change the 3rd and 4th columns to Wood orbs, Deal 450% damage
 	[1] ESAbsorbAttribute(53:2986) -> Inhale
 	Absorb Water and Wood damage for 3 turns
 
 #16: SkillSet:
 	Condition: One-time use (ai:0 rnd:20) (cost: 1)
 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
-	Change the 3rd, 4th column to Wood orbs, Deal 450% damage
+	Change the 3rd and 4th columns to Wood orbs, Deal 450% damage
 	[1] ESAbsorbAttribute(53:2987) -> Inhale
 	Absorb Wood and Light damage for 3 turns
 
 #17: SkillSet:
 	Condition: One-time use (ai:0 rnd:20) (cost: 1)
 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
-	Change the 3rd, 4th column to Wood orbs, Deal 450% damage
+	Change the 3rd and 4th columns to Wood orbs, Deal 450% damage
 	[1] ESAbsorbAttribute(53:2988) -> Inhale
 	Absorb Light and Dark damage for 3 turns
 
 #18: SkillSet:
 	Condition: One-time use (ai:0 rnd:20) (cost: 1)
 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
-	Change the 3rd, 4th column to Wood orbs, Deal 450% damage
+	Change the 3rd and 4th columns to Wood orbs, Deal 450% damage
 	[1] ESAbsorbAttribute(53:2989) -> Inhale
 	Absorb Fire and Dark damage for 3 turns
 

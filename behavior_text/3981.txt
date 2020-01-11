@@ -37,7 +37,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (8457:77) Splitting Swing
-     | Change the 3rd, 4th column to Jammer orbs, the 1st, 2nd, 5th, 6th column to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 180% damage
+     | Change the 3rd and 4th columns to Jammer orbs and the 1st, 2nd, 5th, and 6th columns to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 180% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 20% chance
@@ -75,7 +75,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (8457:77) Splitting Swing
-     | Change the 3rd, 4th column to Jammer orbs, the 1st, 2nd, 5th, 6th column to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 180% damage
+     | Change the 3rd and 4th columns to Jammer orbs and the 1st, 2nd, 5th, and 6th columns to Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 180% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 20% chance

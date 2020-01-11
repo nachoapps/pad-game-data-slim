@@ -17,7 +17,7 @@ level: 1
  | group:
  | condition: turn 1
    | (7403:76) It's go time, Sharrus!
-   | Change the 3rd, 4th column to Dark and Jammer orbs
+   | Change the 3rd and 4th columns to Dark and Jammer orbs
  | group:
  | condition: turn 2
    | (7404:50) Now get to work!

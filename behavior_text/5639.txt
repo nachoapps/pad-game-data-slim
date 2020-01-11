@@ -20,7 +20,7 @@ level: 4
    | Spawn 6 random Fire orbs, Deal 100% damage
    | condition: 34% chance
    | (14987:77) Ragna Blade
-   | Change the 3rd, 4th column to Fire and Jammer orbs, Deal 90% damage
+   | Change the 3rd and 4th columns to Fire and Jammer orbs, Deal 90% damage
  | group:
  | condition: hp <= 49
    | group:

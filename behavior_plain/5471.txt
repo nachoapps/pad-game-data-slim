@@ -60,7 +60,7 @@ Reduce damage from all sources by 50% for 5 turns
 Branch on hp > 21, target rnd 17
 
 #16: ESRowSpawnMulti(79:14136) -> うおおおおおっ！
-Change the 2nd, 4th row to Light orbs, Deal 200% damage
+Change the 2nd and 4th rows to Light orbs, Deal 200% damage
 
 #17: ESAttackMultihit(15:14132) -> っだらあ!!
 Condition: 33% chance (ai:0 rnd:33)

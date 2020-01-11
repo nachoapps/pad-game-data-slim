@@ -76,7 +76,7 @@ Increase damage to 150% for the next 5 turns
 Branch on hp > 16, target rnd 5
 
 #15: ESColumnSpawnMulti(77:12544) -> Cross Stinger Assault
-Change the 1st, 3rd, 5th column to Fire and Wood orbs, Deal 350% damage
+Change the 1st, 3rd, and 5th columns to Fire and Wood orbs, Deal 350% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

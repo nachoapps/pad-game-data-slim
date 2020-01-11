@@ -83,7 +83,7 @@ Deal 185% damage (5 hits, 37% each)
 
 #22: ESColumnSpawnMulti(77:4496) -> Orange Light's Judging Spirit
 Condition: 50% chance (ai:50 rnd:0)
-Change the 5th column to Light orbs, the 6th column to Fire orbs, Deal 170% damage
+Change the 5th column to Light orbs and the 6th column to Fire orbs, Deal 170% damage
 
 #23: ESRandomSpawn(92:4497) -> Brightness Guidance
 Spawn 8 random Light orbs, Deal 170% damage
@@ -95,7 +95,7 @@ flag SET 0b111
 	[0] ESAbsorbAttribute(53:4499) -> Gleaming Rabbit Dragon's Trial
 	Absorb Light damage for 1 turn
 	[1] ESColumnSpawnMulti(77:4500) -> Flower Piercing Light
-	Change the 2nd, 5th column to Light orbs, Deal 100% damage
+	Change the 2nd and 5th columns to Light orbs, Deal 100% damage
 
 #26: ESResolve(73:4220) -> Dragonbound's Resolve
 Survive attacks with 1 HP when HP > 50%

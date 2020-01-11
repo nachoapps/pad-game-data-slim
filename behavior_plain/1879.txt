@@ -66,7 +66,7 @@ end_turn
 flag UNSET 0b1100
 
 #21: ESRowSpawnMulti(79:1818) -> Lightning Horizon
-Change the 2nd, 3rd, 4th row to Light orbs, Deal 300% damage
+Change the 2nd, 3rd, and 4th rows to Light orbs, Deal 300% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

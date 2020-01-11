@@ -48,10 +48,10 @@ Player -99% HP
 
 #14: ESRowSpawnMulti(79:1805) -> Extra Onion Shot
 Condition: 40% chance (ai:40 rnd:0)
-Change the 2nd row to Wood orbs, the 4th row to Wood orbs, Deal 75% damage
+Change the 2nd row to Wood orbs and the 4th row to Wood orbs, Deal 75% damage
 
 #15: ESRowSpawnMulti(79:1804) -> Extra Juice
-Change the 1st row to Water orbs, the 2nd row to Heal orbs, Deal 125% damage
+Change the 1st row to Water orbs and the 2nd row to Heal orbs, Deal 125% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

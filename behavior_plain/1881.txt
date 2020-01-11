@@ -29,7 +29,7 @@ counter + 1
 
 #6: ESColumnSpawnMulti(77:9530) -> Twin Blade Dance
 Condition: 70% chance when < 40% hp (ai:70 rnd:0)
-Change the 1st, 2nd, 3rd column to Fire orbs, the 4th, 5th, 6th column to Wood orbs, Deal 180% damage
+Change the 1st, 2nd, and 3rd columns to Fire orbs and the 4th, 5th, and 6th columns to Wood orbs, Deal 180% damage
 
 #7: ESColumnSpawnMulti(77:9525) -> Flame Sword
 Condition: 50% chance (ai:50 rnd:0)

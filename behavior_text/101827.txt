@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | (6563:83) Healing Hymn + Scarlet Azure Blade
-   | Change Random to Heal + Change the 2nd, 3rd row to Fire and Water orbs, Deal 170% damage
+   | Change Random to Heal + Change the 2nd and 3rd rows to Fire and Water orbs, Deal 170% damage
  | group:
  | condition: hp <= 69
    | group:
@@ -38,4 +38,4 @@ level: 1
  | group:
  | condition: hp <= 14
    | (6567:79) Lotus Sky Blades
-   | Change the 1st, 3rd, 5th row to Fire orbs, the 2nd, 4th row to Water orbs, Deal 1500% damage
+   | Change the 1st, 3rd, and 5th rows to Fire orbs and the 2nd and 4th rows to Water orbs, Deal 1500% damage

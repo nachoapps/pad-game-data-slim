@@ -25,7 +25,7 @@ level: 1
    | group:
    | condition: turn 5 while HP > 9
      | (7741:83) Deadly Scorpion Poison + Order of Destruction
-     | Change the 1st, 5th row to Heal and Poison orbs, the 3rd row to Mortal Poison orbs + Increase damage to 150% for the next 999 turns
+     | Change the 1st and 5th rows to Heal and Poison orbs and the 3rd row to Mortal Poison orbs + Increase damage to 150% for the next 999 turns
    | group:
      | condition: 50% chance
      | (7737:102) Baleful Crimson Sword

@@ -39,19 +39,19 @@ level: 1
    | condition: turn 6 while HP > 49
      | condition: 20% chance
      | (2990:83) Gaia Beam + Inhale
-     | Change the 3rd, 4th column to Wood orbs + Absorb Fire and Water damage for 3 turns, Deal 450% damage
+     | Change the 3rd and 4th columns to Wood orbs + Absorb Fire and Water damage for 3 turns, Deal 450% damage
      | condition: 20% chance
      | (2991:83) Gaia Beam + Inhale
-     | Change the 3rd, 4th column to Wood orbs + Absorb Water and Wood damage for 3 turns, Deal 450% damage
+     | Change the 3rd and 4th columns to Wood orbs + Absorb Water and Wood damage for 3 turns, Deal 450% damage
      | condition: 20% chance
      | (2992:83) Gaia Beam + Inhale
-     | Change the 3rd, 4th column to Wood orbs + Absorb Wood and Light damage for 3 turns, Deal 450% damage
+     | Change the 3rd and 4th columns to Wood orbs + Absorb Wood and Light damage for 3 turns, Deal 450% damage
      | condition: 20% chance
      | (2993:83) Gaia Beam + Inhale
-     | Change the 3rd, 4th column to Wood orbs + Absorb Light and Dark damage for 3 turns, Deal 450% damage
+     | Change the 3rd and 4th columns to Wood orbs + Absorb Light and Dark damage for 3 turns, Deal 450% damage
      | condition: 20% chance
      | (2994:83) Gaia Beam + Inhale
-     | Change the 3rd, 4th column to Wood orbs + Absorb Fire and Dark damage for 3 turns, Deal 450% damage
+     | Change the 3rd and 4th columns to Wood orbs + Absorb Fire and Dark damage for 3 turns, Deal 450% damage
    | group:
      | (2979:89) Skill Break
      | Delay active skills by 3~5 turns, Deal 260% damage

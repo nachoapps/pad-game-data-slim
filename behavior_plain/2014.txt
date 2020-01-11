@@ -56,7 +56,7 @@ Branch on flag & 8, target rnd 20
 flag SET 0b1111
 
 #18: ESRowSpawnMulti(79:2048) -> Two Flashes
-Change the 2nd, 4th row to Light orbs, Deal 100% damage
+Change the 2nd and 4th rows to Light orbs, Deal 100% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -68,7 +68,7 @@ Branch on flag & 16, target rnd 24
 flag SET 0b11111
 
 #22: ESRowSpawnMulti(79:2049) -> Three Flashes
-Change the 1st, 3rd, 5th row to Light orbs, Deal 150% damage
+Change the 1st, 3rd, and 5th rows to Light orbs, Deal 150% damage
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

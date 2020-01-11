@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (4542:77) Wild Frozen Poison
-     | Change the 2nd, 5th column to Water, Dark, and Poison orbs, Deal 120% damage
+     | Change the 2nd and 5th columns to Water, Dark, and Poison orbs, Deal 120% damage
  | group:
  | condition: hp <= 34
    | group:

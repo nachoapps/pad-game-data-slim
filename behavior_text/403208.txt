@@ -23,7 +23,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (6085:79) Crystal Stream
-     | Change the 1st, 5th row to Water orbs, Deal 100% damage
+     | Change the 1st and 5th rows to Water orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (6086:50) Harmful Ocean

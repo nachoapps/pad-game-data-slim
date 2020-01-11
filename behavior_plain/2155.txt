@@ -19,7 +19,7 @@ Delay active skills by 1 turn
 
 #5: ESColumnSpawnMulti(77:2482) -> アクア・360°
 Condition: 50% chance when < 80% hp (ai:50 rnd:0)
-Change the 2nd, 3rd column to Water orbs, Deal 120% damage
+Change the 2nd and 3rd columns to Water orbs, Deal 120% damage
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn

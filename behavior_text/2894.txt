@@ -30,7 +30,7 @@ level: 1
      | (10998:48) Cauchemar Infinity
      | Change Jammer to Wood, Deal 240% damage
      | (10990:83) Cauchemar Despair + Cauchemar Catastrophe
-     | Random 4 orbs change every 1.5s for 4 turns + Change the 1st, 3rd, 5th row to Jammer orbs, Deal 110% damage
+     | Random 4 orbs change every 1.5s for 4 turns + Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 110% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -55,7 +55,7 @@ level: 1
      | (10998:48) Cauchemar Infinity
      | Change Jammer to Wood, Deal 240% damage
      | (10990:83) Cauchemar Despair + Cauchemar Catastrophe
-     | Random 4 orbs change every 1.5s for 4 turns + Change the 1st, 3rd, 5th row to Jammer orbs, Deal 110% damage
+     | Random 4 orbs change every 1.5s for 4 turns + Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 110% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (10998:48) Cauchemar Infinity

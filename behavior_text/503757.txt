@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (14526:77) Burning Ray
-     | Change the 3rd, 4th column to Fire orbs, Deal 100% damage
+     | Change the 3rd and 4th columns to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (14526:77) Burning Ray
-     | Change the 3rd, 4th column to Fire orbs, Deal 100% damage
+     | Change the 3rd and 4th columns to Fire orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (14525:101) Sword and Wings' Guidance

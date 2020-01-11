@@ -15,7 +15,7 @@ level: 1
  | condition: execute repeatedly, turn 4 of 4, hp <= 100
    | condition: 50% chance
    | (10710:77) Let me show you alchemy!
-   | Change the 2nd, 5th column to Wood orbs, Deal 110% damage
+   | Change the 2nd and 5th columns to Wood orbs, Deal 110% damage
    | (10711:88) This is a Sage's power!
    | Bind awoken skills for 2 turns
  | group:

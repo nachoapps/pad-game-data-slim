@@ -21,7 +21,7 @@ level: 1
      | (3552:62) Sorry, I'm tired of looking at your face
      | Blind all orbs on the board, Deal 110% damage
      | (3544:77) Vanir Rose
-     | Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+     | Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
    | group:
    | condition: turn 2 while HP > 89
      | condition: when 1950, 1951 on team
@@ -34,7 +34,7 @@ level: 1
      | (3545:15) Glass Storm
      | Deal 150% damage (3 hits, 50% each)
      | (3544:77) Vanir Rose
-     | Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+     | Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
  | group:
  | condition: hp <= 89
    | group:
@@ -47,7 +47,7 @@ level: 1
      | (3552:62) Sorry, I'm tired of looking at your face
      | Blind all orbs on the board, Deal 110% damage
      | (3544:77) Vanir Rose
-     | Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+     | Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
    | group:
    | condition: turn 3 while HP > 49
      | condition: when 1950, 1951 on team
@@ -59,7 +59,7 @@ level: 1
  | condition: hp <= 49
    | condition: 50% chance
    | (3547:77) Gale Impact
-   | Change the 3rd, 4th column to Wood orbs, Deal 150% damage
+   | Change the 3rd and 4th columns to Wood orbs, Deal 150% damage
    | (3546:62) Floral Mist
    | Blind all orbs on the board, Deal 140% damage
  | group:

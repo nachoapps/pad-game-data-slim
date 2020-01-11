@@ -25,7 +25,7 @@ level: 1
      | (3521:48) Fire Fighting Black Dog
      | Change Fire to Jammer, Deal 140% damage
      | (3522:77) Guiding White Dog
-     | Change the 3rd, 4th column to Jammer orbs, Deal 140% damage
+     | Change the 3rd and 4th columns to Jammer orbs, Deal 140% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | condition: 50% chance

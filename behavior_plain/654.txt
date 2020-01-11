@@ -21,7 +21,7 @@ Increase damage to 150% for the next 3 turns
 
 #5: ESColumnSpawnMulti(77:13193) -> Raging Earth
 Condition: When < 20% hp (ai:100 rnd:0)
-Change the 3rd, 4th column to Jammer orbs, Deal 300% damage
+Change the 3rd and 4th columns to Jammer orbs, Deal 300% damage
 
 #6: ESAttackMultihit(15:13191) -> Animal Attack
 Deal 150% damage (3 hits, 50% each)

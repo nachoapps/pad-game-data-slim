@@ -69,7 +69,7 @@ flag SET 0b111
 
 #20: SkillSet:
 	[0] ESColumnSpawnMulti(76:11170) -> Go away!
-	Change the 1st column to Mortal Poison orbs, the 6th column to Heal orbs
+	Change the 1st column to Mortal Poison orbs and the 6th column to Heal orbs
 	[1] ESDamageShield(74:11171) -> I hate p-pain...
 	Reduce damage from all sources by 50% for 99 turns
 

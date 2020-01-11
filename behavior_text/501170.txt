@@ -27,4 +27,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (15363:77) パープルデス
-   | Change the 3rd, 4th column to Dark orbs, Deal 200% damage
+   | Change the 3rd and 4th columns to Dark orbs, Deal 200% damage

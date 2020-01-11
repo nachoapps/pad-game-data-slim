@@ -46,7 +46,7 @@ Condition: 33% chance (ai:33 rnd:0)
 #12: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESColumnSpawnMulti(77:9268) -> Bifröst Generation
-	Change the 1st column to Wood orbs, the 6th column to Fire orbs, Deal 155% damage
+	Change the 1st column to Wood orbs and the 6th column to Fire orbs, Deal 155% damage
 	[1] ESRowSpawnMulti(78:9269) -> Norn's Forgotten Item
 	Change the 3rd row to Jammer orbs
 
@@ -97,7 +97,7 @@ end_turn
 #25: SkillSet:
 	Condition: 33% chance (ai:33 rnd:0)
 	[0] ESRowSpawnMulti(79:9274) -> Bifröst Generation
-	Change the 1st row to Wood orbs, the 5th row to Fire orbs, Deal 110% damage
+	Change the 1st row to Wood orbs and the 5th row to Fire orbs, Deal 110% damage
 	[1] ESBindRandom(1:9275) -> Time Restriction
 	Bind 2 random cards for 1~2 turns
 

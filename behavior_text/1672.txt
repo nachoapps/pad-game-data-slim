@@ -33,7 +33,7 @@ level: 4
    | 2x3 cloud appear for 2 turns at 2nd row, 3rd column, Deal 170% damage
    | condition: 50% chance
    | (9270:83) Bifröst Generation + Norn's Forgotten Item
-   | Change the 1st column to Wood orbs, the 6th column to Fire orbs + Change the 3rd row to Jammer orbs, Deal 155% damage
+   | Change the 1st column to Wood orbs and the 6th column to Fire orbs + Change the 3rd row to Jammer orbs, Deal 155% damage
    | (9273:83) Norn Slave + Norn's Law
    | Change all orbs to Fire, Wood, and Heal + Fix orb movement starting point to random position on the board, Deal 180% damage
  | group:
@@ -54,7 +54,7 @@ level: 4
    | group:
      | condition: 33% chance
      | (9276:83) Bifröst Generation + Time Restriction
-     | Change the 1st row to Wood orbs, the 5th row to Fire orbs + Bind 2 random cards for 1~2 turns, Deal 110% damage
+     | Change the 1st row to Wood orbs and the 5th row to Fire orbs + Bind 2 random cards for 1~2 turns, Deal 110% damage
      | condition: 50% chance
      | (9279:83) Norn Slave + Stopping time
      | Change all orbs to Fire, Wood, and Jammer + Lock 12 random orbs, Deal 90% damage

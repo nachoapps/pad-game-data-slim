@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: ESRowSpawnMulti(79:11407) -> Demonic Dual Spears
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change the 1st row to Dark orbs, the 5th row to Heal orbs, Deal 90% damage
+Change the 1st row to Dark orbs and the 5th row to Heal orbs, Deal 90% damage
 
 #3: ESAttackMultihit(15:11410) -> Bölverkr's Strike
 Condition: When < 10% hp (ai:100 rnd:0)

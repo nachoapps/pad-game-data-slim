@@ -26,7 +26,7 @@ level: 1
      | Spawn 5 random Water orbs, Deal 130% damage
      | condition: 33% chance
      | (3370:77) Twin Aqua Feather
-     | Change the 1st, 6th column to Water orbs, Deal 140% damage
+     | Change the 1st and 6th columns to Water orbs, Deal 140% damage
  | group:
  | condition: turn 1 while HP > 29, hp <= 69
    | condition: when 376, 377, 656, 1348 on team
@@ -57,4 +57,4 @@ level: 1
      | Spawn 5 random Water orbs, Deal 130% damage
      | condition: 33% chance
      | (3370:77) Twin Aqua Feather
-     | Change the 1st, 6th column to Water orbs, Deal 140% damage
+     | Change the 1st and 6th columns to Water orbs, Deal 140% damage

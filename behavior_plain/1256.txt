@@ -52,13 +52,13 @@ Branch on counter >= 2, target rnd 15
 Change the 3rd row to Fire orbs
 
 #15: ESColumnSpawnMulti(76:9072) -> Two
-Change the 2nd column to Water orbs, the 5th column to Wood orbs
+Change the 2nd column to Water orbs and the 5th column to Wood orbs
 
 #16: ESRowSpawnMulti(78:9073) -> Three
-Change the 1st row to Light orbs, the 3rd row to Dark orbs
+Change the 1st row to Light orbs and the 3rd row to Dark orbs
 
 #17: ESColumnSpawnMulti(76:9074) -> Four
-Change the 1st column to Water orbs, the 3rd column to Wood orbs
+Change the 1st column to Water orbs and the 3rd column to Wood orbs
 
 #18: ESBoardChange(84:9075) -> Five
 Change all orbs to Heal

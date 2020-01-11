@@ -18,7 +18,7 @@ level: 4
  | group:
  | condition: turn 1 while HP > 29, hp <= 74
    | (9185:76) Have a blast ♪
-   | Change the 2nd column to Jammer and Poison orbs, the 5th column to Jammer and Poison orbs
+   | Change the 2nd column to Jammer and Poison orbs and the 5th column to Jammer and Poison orbs
  | group:
  | condition: turn 1, hp <= 29
    | (9186:103) Zip it

@@ -17,15 +17,15 @@ Bind player leader for 3 turns
 
 #4: ESColumnSpawnMulti(77:5349) -> Life and Death
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Change the 1st column to Poison orbs, the 6th column to Heal orbs, Deal 50% damage
+Change the 1st column to Poison orbs and the 6th column to Heal orbs, Deal 50% damage
 
 #5: ESColumnSpawnMulti(77:5350) -> Life and Death
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 1st column to Poison orbs, the 6th column to Heal orbs, Deal 50% damage
+Change the 1st column to Poison orbs and the 6th column to Heal orbs, Deal 50% damage
 
 #6: ESColumnSpawnMulti(77:5351) -> Life and Death
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change the 1st column to Poison orbs, the 6th column to Heal orbs, Deal 50% damage
+Change the 1st column to Poison orbs and the 6th column to Heal orbs, Deal 50% damage
 
 #7: ESAttackMultihit(15:5352) -> Shredder
 Deal 400% damage (4 hits, 100% each)

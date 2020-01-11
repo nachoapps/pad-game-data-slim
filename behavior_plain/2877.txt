@@ -72,7 +72,7 @@ Deal 110% damage (2 hits, 55% each)
 
 #18: ESColumnSpawnMulti(77:4559) -> Green Wind Soul Cutter
 Condition: 50% chance (ai:50 rnd:0)
-Change the 3rd column to Light orbs, the 4th column to Wood orbs, Deal 95% damage
+Change the 3rd column to Light orbs and the 4th column to Wood orbs, Deal 95% damage
 
 #19: ESRandomSpawn(92:4560) -> Mountain Haze's Guidance
 Spawn 8 random Wood orbs, Deal 90% damage
@@ -87,7 +87,7 @@ flag SET 0b111
 	[0] ESAbsorbAttribute(53:4555) -> Storm Hawk Dragon's Trial
 	Absorb Wood damage for 1 turn
 	[1] ESRowSpawnMulti(79:4556) -> Splitting Storm Wind
-	Change the 2nd, 4th row to Wood and Jammer orbs, Deal 100% damage
+	Change the 2nd and 4th rows to Wood and Jammer orbs, Deal 100% damage
 
 #23: ESAttributeResist(72:4561) -> Fire Halven
 Reduce damage from Fire attrs by 50%

@@ -12,7 +12,7 @@ end_turn
 
 #3: ESColumnSpawnMulti(77:2002) -> Flowery Shower
 Condition: When < 50% hp (ai:100 rnd:0)
-Change the 2nd, 5th column to Wood and Heal orbs, Deal 120% damage
+Change the 2nd and 5th columns to Wood and Heal orbs, Deal 120% damage
 
 #4: ESOrbChangeAttack(48:2001) -> Energy Shower
 Change Random to Heal, Deal 100% damage

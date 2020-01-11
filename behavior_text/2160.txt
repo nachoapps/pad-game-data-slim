@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (2492:77) 高速突撃
- | Change the 2nd, 5th column to Light orbs, Deal 70% damage
+ | Change the 2nd and 5th columns to Light orbs, Deal 70% damage
  group:
  | group:
    | (2499:15) Ｗ・ブレイカー

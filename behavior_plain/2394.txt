@@ -38,20 +38,20 @@ Change Mortal Poison to Heal, Deal 150% damage
 #10: SkillSet:
 	Condition: One-time use (ai:33 rnd:0) (cost: 1)
 	[0] ESRowSpawnMulti(79:9579) -> This flower is beautiful, right?
-	Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs, Deal 50% damage
+	Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs, Deal 50% damage
 	[1] ESLeaderSwap(75:9580) -> Those ones are splendid too
 	Leader changes to random sub for 1 turn
 
 #11: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESRowSpawnMulti(79:9579) -> This flower is beautiful, right?
-	Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs, Deal 50% damage
+	Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs, Deal 50% damage
 	[1] ESSkillDelay(89:9581) -> This one is cute too
 	Delay active skills by 1~2 turns, Deal 30% damage
 
 #12: SkillSet:
 	[0] ESRowSpawnMulti(79:9579) -> This flower is beautiful, right?
-	Change the 2nd row to Wood and Dark orbs, the 4th row to Wood and Dark orbs, Deal 50% damage
+	Change the 2nd row to Wood and Dark orbs and the 4th row to Wood and Dark orbs, Deal 50% damage
 	[1] ESAttackMultihit(15:9582) -> Lovely Aroma
 	Deal 45% damage (3 hits, 15% each)
 

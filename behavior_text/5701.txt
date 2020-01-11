@@ -21,7 +21,7 @@ level: 1
      | (15225:15) うおりゃあ！
      | Deal 100% damage (2 hits, 50% each)
      | (15229:79) グランクロス！
-     | Change the 2nd row to Water orbs, the 3rd row to Wood orbs, the 4th row to Water orbs, Deal 110% damage
+     | Change the 2nd row to Water orbs, the 3rd row to Wood orbs, and the 4th row to Water orbs, Deal 110% damage
  | group:
  | condition: hp <= 49
    | group:

@@ -41,7 +41,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when damage >= 3,000,000 for 10 turns
 
 #10: ESColumnSpawnMulti(77:4517) -> Twin Flame Horns
-Change the 1st, 6th column to Fire orbs, Deal 160% damage
+Change the 1st and 6th columns to Fire orbs, Deal 160% damage
 
 #11: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 15

@@ -51,7 +51,7 @@ Branch on hp > 51, target rnd 8
 	[0] ESRandomSpawn(92:12553) -> Sonic Blade
 	Spawn 1 random Wood orb
 	[1] ESRowSpawnMulti(79:12554) -> Sonic Cross
-	Change the 3rd, 4th row to Wood orbs, Deal 200% damage
+	Change the 3rd and 4th rows to Wood orbs, Deal 200% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

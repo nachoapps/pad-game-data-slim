@@ -30,4 +30,4 @@ level: 1
  | group:
  | condition: hp <= 19
    | (15826:83) オレのターン、ドロー！ + 超電導波サンダー・フォース
-   | Random 1 orbs change every 1.0s for 1 turn + Change the 1st row to Dark orbs, the 2nd row to Dark orbs, Deal 200% damage
+   | Random 1 orbs change every 1.0s for 1 turn + Change the 1st row to Dark orbs and the 2nd row to Dark orbs, Deal 200% damage

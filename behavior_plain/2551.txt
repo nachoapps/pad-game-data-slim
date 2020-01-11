@@ -42,7 +42,7 @@ Delay active skills by 1 turn, Deal 240% damage
 
 #11: ESColumnSpawnMulti(77:2631) -> Lightning Strike
 Condition: 34% chance (ai:0 rnd:34)
-Change the 3rd, 4th column to Light orbs, Deal 240% damage
+Change the 3rd and 4th columns to Light orbs, Deal 240% damage
 
 #12: ESAttackMultihit(15:2633) -> Martial God Hell Thrust
 Condition: 33% chance (ai:0 rnd:33)
@@ -70,7 +70,7 @@ flag SET 0b111
 Blind all orbs on the board
 
 #20: ESColumnSpawnMulti(77:2636) -> Itsu-no-Ohabari's Breaking Thunder
-Change the 1st, 2nd, 5th, 6th column to Jammer orbs, Deal 1000% damage
+Change the 1st, 2nd, 5th, and 6th columns to Jammer orbs, Deal 1000% damage
 
 #21: ESResolve(73:2637) -> Takemi Resolve
 Survive attacks with 1 HP when HP > 50%

@@ -20,7 +20,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (2794:77) Hado Thirty-Three... Soukatsui.
-     | Change the 3rd column to Water orbs, the 4th column to Fire orbs, Deal 90% damage
+     | Change the 3rd column to Water orbs and the 4th column to Fire orbs, Deal 90% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (2795:15) Infinite blades attack

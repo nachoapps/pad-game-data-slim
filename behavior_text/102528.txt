@@ -44,7 +44,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | (3735:83) Delta Dead Lightning + Sword Bit Rush
-     | Change the 1st, 5th row to Light, Jammer, and Mortal Poison orbs + Deal 180% damage (6 hits, 30% each), Deal 180% damage
+     | Change the 1st and 5th rows to Light, Jammer, and Mortal Poison orbs + Deal 180% damage (6 hits, 30% each), Deal 180% damage
  | group:
  | condition: hp <= 19
    | (3730:15) Hyper Nova

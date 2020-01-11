@@ -21,7 +21,7 @@ level: 4
  | group:
  | condition: always turn 1, hp <= 49
    | (11417:78) Sweet Grudge
-   | Change the 1st row to Poison orbs, the 5th row to Jammer orbs
+   | Change the 1st row to Poison orbs and the 5th row to Jammer orbs
  | group:
  | condition: hp <= 19
    | group:

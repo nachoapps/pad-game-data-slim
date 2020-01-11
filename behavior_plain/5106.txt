@@ -37,7 +37,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Leader changes to random sub for 2 turns, Deal 250% damage
 
 #8: ESRowSpawnMulti(79:12509) -> Bolshoi Russian Suplex
-Change the 4th, 5th row to Fire orbs, Deal 300% damage
+Change the 4th and 5th rows to Fire orbs, Deal 300% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

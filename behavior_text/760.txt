@@ -30,7 +30,7 @@ level: 5
      | (2286:48) Heavenly Wing Palm
      | Change Dark to Heal, Deal 150% damage
      | (2287:79) Heavenly Wing Kick
-     | Change the 4th, 5th row to Wood and Light orbs, Deal 150% damage
+     | Change the 4th and 5th rows to Wood and Light orbs, Deal 150% damage
  | group:
  | condition: hp <= 29
    | (2289:63) Holy Tree Vine

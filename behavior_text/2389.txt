@@ -22,7 +22,7 @@ level: 1
    | group:
      | condition: 50% chance
      | (5845:77) Flame Streaker Dual Mace
-     | Change the 1st column to Fire orbs, the 6th column to Water orbs, Deal 120% damage
+     | Change the 1st column to Fire orbs and the 6th column to Water orbs, Deal 120% damage
      | (5846:104) Raging Flash Rumble
      | Column of cloud appear for 1 turn at random location, Deal 100% damage
  | group:

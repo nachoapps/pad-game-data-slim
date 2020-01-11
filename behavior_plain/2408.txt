@@ -33,7 +33,7 @@ end_turn
 
 #9: ESRowSpawnMulti(78:11417) -> Sweet Grudge
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 1st row to Poison orbs, the 5th row to Jammer orbs
+Change the 1st row to Poison orbs and the 5th row to Jammer orbs
 
 #10: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 14

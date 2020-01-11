@@ -43,7 +43,7 @@ Change Water to Fire, Deal 60% damage
 
 #11: ESRowSpawnMulti(79:13141) -> Don't give up!
 Condition: 60% chance (ai:60 rnd:0)
-Change the 1st, 2nd row to Fire, Jammer, and Poison orbs, Deal 60% damage
+Change the 1st and 2nd rows to Fire, Jammer, and Poison orbs, Deal 60% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -10,12 +10,12 @@ level: 1
  type: PREEMPT
  | condition: 34% chance
  | (5231:83) Monsters! + Dragon Summoning!!!
- | Do nothing + Change the 1st column to Fire orbs, the 6th column to Water orbs, Deal 80% damage
+ | Do nothing + Change the 1st column to Fire orbs and the 6th column to Water orbs, Deal 80% damage
  | condition: 50% chance
  | (5232:83) Monsters! + Dragon Summoning!!!
- | Do nothing + Change the 1st column to Water orbs, the 6th column to Wood orbs, Deal 80% damage
+ | Do nothing + Change the 1st column to Water orbs and the 6th column to Wood orbs, Deal 80% damage
  | (5233:83) Monsters! + Dragon Summoning!!!
- | Do nothing + Change the 1st column to Wood orbs, the 6th column to Fire orbs, Deal 80% damage
+ | Do nothing + Change the 1st column to Wood orbs and the 6th column to Fire orbs, Deal 80% damage
  group:
  | group:
    | group:
@@ -29,12 +29,12 @@ level: 1
    | condition: execute repeatedly, turn 3 of 3
      | condition: 34% chance
      | (5245:83) Dragon Summoning!!! + The Monsters block the way
-     | Change the 1st column to Fire orbs, the 6th column to Water orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
+     | Change the 1st column to Fire orbs and the 6th column to Water orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
      | condition: 50% chance
      | (5246:83) Dragon Summoning!!! + The Monsters block the way
-     | Change the 1st column to Water orbs, the 6th column to Wood orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
+     | Change the 1st column to Water orbs and the 6th column to Wood orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
      | (5247:83) Dragon Summoning!!! + The Monsters block the way
-     | Change the 1st column to Wood orbs, the 6th column to Fire orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
+     | Change the 1st column to Wood orbs and the 6th column to Fire orbs + Reduce damage from all sources by 50% for 2 turns, Deal 80% damage
  | group:
  | condition: hp <= 19
    | (5249:83) Ana starts crying + 10 combos!!

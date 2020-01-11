@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Wood attrs by 50%
  type: UNKNOWN_USE
  | (7363:83) One-Eyed Hellfire + Seething Fire
- | Change the 4th, 5th, 6th column to Fire and Jammer orbs + Absorb damage when combos <= 6 for 1 turn, Deal 140% damage
+ | Change the 4th, 5th, and 6th columns to Fire and Jammer orbs + Absorb damage when combos <= 6 for 1 turn, Deal 140% damage
  | (7368:83) Insulating Firescales + Exalted Flame
  | Reduce damage from all sources by 75% for 4 turns + Movetime 150% for 5 turns
  | (7366:83) Insulating Firescales + Brave Warrior's Divine Protection

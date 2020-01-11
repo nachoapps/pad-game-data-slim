@@ -19,7 +19,7 @@ level: 1
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 20% chance
      | (1918:83) Lightning of God + Double Slap
-     | Change the 3rd column to Light orbs, the 4th column to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 12000% damage
+     | Change the 3rd column to Light orbs and the 4th column to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 12000% damage
      | condition: 20% chance
      | (1919:83) Zeus Blade + Mischief by God
      | Change the 4th row to Light orbs + Change Light to Jammer, Deal 15000% damage
@@ -28,14 +28,14 @@ level: 1
      | Change the 4th row to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 15000% damage
      | condition: 20% chance
      | (1921:83) Lightning of God + Diabolic Embrace
-     | Change the 3rd column to Light orbs, the 4th column to Light orbs + Bind 1 random sub for 1~2 turns, Deal 12000% damage
+     | Change the 3rd column to Light orbs and the 4th column to Light orbs + Bind 1 random sub for 1~2 turns, Deal 12000% damage
      | condition: 20% chance
      | (1929:83) Zeus Blade + Ultra Gravity
      | Change the 4th row to Light orbs + Player -99% HP, Deal 15000% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (1922:83) Lightning of God + Preening
-     | Change the 3rd column to Light orbs, the 4th column to Light orbs + Voids status ailments for 2 turns, Deal 12000% damage
+     | Change the 3rd column to Light orbs and the 4th column to Light orbs + Voids status ailments for 2 turns, Deal 12000% damage
  | group:
  | condition: hp <= 39
    | group:

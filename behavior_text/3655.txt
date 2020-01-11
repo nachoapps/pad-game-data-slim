@@ -23,7 +23,7 @@ level: 1
    | Absorb damage when combos <= 6 for 1 turn, Deal 200% damage
    | condition: 25% chance
    | (7298:77) Boulder Throw
-   | Change the 1st, 3rd, 5th column to Jammer orbs, Deal 200% damage
+   | Change the 1st, 3rd, and 5th columns to Jammer orbs, Deal 200% damage
    | condition: 25% chance
    | (7299:62) Jump Strike
    | Blind all orbs on the board, Deal 200% damage

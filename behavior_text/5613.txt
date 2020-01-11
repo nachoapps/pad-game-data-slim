@@ -25,7 +25,7 @@ level: 1
      | (14769:83) Ephemeral Delight + Brilliant Bloom
      | Change Heal to Fire, Water, and Jammer + Change Random to Heal, Deal 55% damage
      | (14772:83) Prominent Ocean + Astral Meteor
-     | Change the 2nd, 4th row to Fire, Water, and Jammer orbs + Lock 15 random orbs, Deal 50% damage
+     | Change the 2nd and 4th rows to Fire, Water, and Jammer orbs + Lock 15 random orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 33% chance
@@ -74,7 +74,7 @@ level: 6
      | (14769:83) Ephemeral Delight + Brilliant Bloom
      | Change Heal to Fire, Water, and Jammer + Change Random to Heal, Deal 55% damage
      | (14772:83) Prominent Ocean + Astral Meteor
-     | Change the 2nd, 4th row to Fire, Water, and Jammer orbs + Lock 15 random orbs, Deal 50% damage
+     | Change the 2nd and 4th rows to Fire, Water, and Jammer orbs + Lock 15 random orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 33% chance

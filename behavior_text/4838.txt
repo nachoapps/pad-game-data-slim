@@ -30,7 +30,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 24
      | (12321:83) Evil Eye of the Gorgon + Shining Spear
-     | Change player HP to 50% for 2 turns + Change the 2nd, 4th row to Light orbs, Deal 80% damage
+     | Change player HP to 50% for 2 turns + Change the 2nd and 4th rows to Light orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 1-4 of 4
      | condition: 25% chance

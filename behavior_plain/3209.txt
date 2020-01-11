@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESBindAwoken(88:5809) -> Immutable Divine Power
 	Bind awoken skills for 2 turns
 	[1] ESColumnSpawnMulti(77:5810) -> Windy Realm of Salvation
-	Change the 2nd, 5th column to Wood orbs, the 1st, 6th column to Heal and Jammer orbs, the 3rd, 4th column to Fire, Water, Light, and Dark orbs, Deal 120% damage
+	Change the 2nd and 5th columns to Wood orbs, the 1st and 6th columns to Heal and Jammer orbs, and the 3rd and 4th columns to Fire, Water, Light, and Dark orbs, Deal 120% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -48,7 +48,7 @@ Branch on hp < 50, target rnd 18
 
 #14: ESRowSpawnMulti(79:5816) -> Sky Splitting Jetstream
 Condition: When < 20% hp (ai:100 rnd:0)
-Change the 2nd, 4th row to Wood orbs, the 1st, 3rd, 5th row to Fire, Water, Light, Dark, and Heal orbs, Deal 1000% damage
+Change the 2nd and 4th rows to Wood orbs and the 1st, 3rd, and 5th rows to Fire, Water, Light, Dark, and Heal orbs, Deal 1000% damage
 
 #15: ESGravity(50:5819) -> Garuda's Double Palm
 Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)

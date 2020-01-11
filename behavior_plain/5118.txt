@@ -10,7 +10,7 @@ Enable preempt if level 1
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESColumnSpawnMulti(76:12763) -> Great!
-	Change the 1st column to Fire orbs, the 2nd column to Water orbs
+	Change the 1st column to Fire orbs and the 2nd column to Water orbs
 	[1] ESRandomSpawn(92:12764) -> Sorry to keep you waiting!
 	Spawn 3 random Fire, Dark, Heal, or Jammer orbs
 	[2] ESCloud(104:12765) -> Have some piping hot food!

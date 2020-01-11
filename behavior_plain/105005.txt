@@ -58,7 +58,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Bind awoken skills for 5 turns
 
 #16: ESColumnSpawnMulti(77:12224) -> Excalibur Morgan
-Change the 3rd, 4th column to Dark orbs, Deal 250% damage
+Change the 3rd and 4th columns to Dark orbs, Deal 250% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

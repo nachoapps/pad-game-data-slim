@@ -13,7 +13,7 @@ Spawn 6 random Fire, Water, Wood, Light, or Dark orbs, Deal 50% damage
 
 #3: ESColumnSpawnMulti(77:12079) -> Icicle Flare
 Condition: When < 20% hp (ai:100 rnd:0)
-Change the 6th column to Water orbs, the 1st column to Fire orbs, Deal 200% damage
+Change the 6th column to Water orbs and the 1st column to Fire orbs, Deal 200% damage
 
 #4: ESColumnSpawnMulti(77:12077) -> Ice Rain
 Condition: 50% chance (ai:50 rnd:0)

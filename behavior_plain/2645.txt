@@ -54,7 +54,7 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #16: ESColumnSpawnMulti(76:2715) -> Bright Child's Timbre
-Change the 5th, 6th column to Light orbs
+Change the 5th and 6th columns to Light orbs
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

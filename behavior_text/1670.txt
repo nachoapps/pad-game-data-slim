@@ -33,7 +33,7 @@ level: 4
    | Blind orbs in specific positions for 2 turns, Deal 170% damage
    | condition: 50% chance
    | (9255:83) Bifröst Fate + Norn's Dropped Item
-   | Change the 1st column to Fire orbs, the 6th column to Water orbs + Spawn Bomb orbs in the specified positions, Deal 155% damage
+   | Change the 1st column to Fire orbs and the 6th column to Water orbs + Spawn Bomb orbs in the specified positions, Deal 155% damage
    | (9258:83) Bonds of the Past + Norn Slave
    | Jammer skyfall +15% for 1 turn + Change all orbs to Fire, Water, and Heal, Deal 180% damage
  | group:
@@ -54,7 +54,7 @@ level: 4
    | group:
      | condition: 33% chance
      | (9261:83) Bifröst Fate + Norn Resistance
-     | Change the 1st row to Fire orbs, the 5th row to Water orbs + Rcv 50% for 1 turn, Deal 110% damage
+     | Change the 1st row to Fire orbs and the 5th row to Water orbs + Rcv 50% for 1 turn, Deal 110% damage
      | condition: 50% chance
      | (9264:83) Norn Slave + Reverse time!
      | Change all orbs to Fire, Water, and Jammer + Delay active skills by 2 turns, Deal 90% damage

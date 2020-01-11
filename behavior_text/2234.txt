@@ -40,7 +40,7 @@ level: 1
      | Leader changes to random sub for 1 turn
      | condition: 33% chance
      | (3204:77) Rondo
-     | Change the 1st, 3rd, 5th, 7th column to Fire, Water, Wood, Light, and Dark orbs, the 2nd, 4th, 6th column to Jammer and Poison orbs, Deal 100% damage
+     | Change the 1st, 3rd, 5th, and 7th columns to Fire, Water, Wood, Light, and Dark orbs and the 2nd, 4th, and 6th columns to Jammer and Poison orbs, Deal 100% damage
      | condition: 34% chance
      | (3205:89) Requiem
      | Delay active skills by 3 turns

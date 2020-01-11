@@ -34,7 +34,7 @@ Condition: 70% chance (ai:70 rnd:0)
 Lock all Wood orbs, Deal 120% damage
 
 #10: ESColumnSpawnMulti(77:3103) -> Ice and Roses
-Change the 1st column to Water orbs, the 2nd column to Wood orbs, the 3rd column to Poison orbs, Deal 80% damage
+Change the 1st column to Water orbs, the 2nd column to Wood orbs, and the 3rd column to Poison orbs, Deal 80% damage
 
 #11: ESBoardChangeAttackBits(85:3106) -> Frozen Pain
 Change all orbs to Water and Poison, Deal 300% damage

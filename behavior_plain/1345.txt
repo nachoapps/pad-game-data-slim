@@ -42,7 +42,7 @@ Spawn 5 random Water orbs, Deal 130% damage
 
 #12: ESColumnSpawnMulti(77:3370) -> Twin Aqua Feather
 Condition: 33% chance (ai:0 rnd:33)
-Change the 1st, 6th column to Water orbs, Deal 140% damage
+Change the 1st and 6th columns to Water orbs, Deal 140% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

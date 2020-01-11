@@ -55,7 +55,7 @@ Player -1000% HP
 
 #13: SkillSet:
 	[0] ESColumnSpawnMulti(76:15135) -> Huh, pretty good
-	Change the 1st, 3rd, 5th column to Water orbs, the 2nd column to Fire orbs
+	Change the 1st, 3rd, and 5th columns to Water orbs and the 2nd column to Fire orbs
 	[1] ESBombFixedSpawn(103:15136) -> Don't back down now
 	Spawn Bomb orbs in the specified positions
 	[2] ESOrbSealRow(100:15137) -> Here, speed is important

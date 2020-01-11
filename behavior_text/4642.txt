@@ -23,10 +23,10 @@ level: 4
      | Change Random to Wood, Deal 110% damage
      | condition: 25% chance
      | (10364:77) Double Vertical Slash
-     | Change the 1st, 6th column to Wood and Light orbs, Deal 105% damage
+     | Change the 1st and 6th columns to Wood and Light orbs, Deal 105% damage
      | condition: 25% chance
      | (10365:79) Double Vertical Slash
-     | Change the 1st, 5th row to Wood and Light orbs, Deal 105% damage
+     | Change the 1st and 5th rows to Wood and Light orbs, Deal 105% damage
      | condition: 25% chance
      | (10366:15) Forceful Rush
      | Deal 120% damage (4 hits, 30% each)
@@ -47,10 +47,10 @@ level: 4
    | Change Random to Wood, Deal 110% damage
    | condition: 25% chance
    | (10364:77) Double Vertical Slash
-   | Change the 1st, 6th column to Wood and Light orbs, Deal 105% damage
+   | Change the 1st and 6th columns to Wood and Light orbs, Deal 105% damage
    | condition: 25% chance
    | (10365:79) Double Vertical Slash
-   | Change the 1st, 5th row to Wood and Light orbs, Deal 105% damage
+   | Change the 1st and 5th rows to Wood and Light orbs, Deal 105% damage
    | condition: 25% chance
    | (10366:15) Forceful Rush
    | Deal 120% damage (4 hits, 30% each)

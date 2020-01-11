@@ -22,7 +22,7 @@ level: 1
      | Deal 40% damage (2 hits, 20% each) + Deal 100% damage + Change the 4th column to Wood orbs, Deal 40% damage (2 hits, 20% each)
      | condition: 34% chance
      | (12552:83) Sonic Blade + Sonic Cross
-     | Spawn 1 random Wood orb + Change the 3rd, 4th row to Wood orbs, Deal 200% damage
+     | Spawn 1 random Wood orb + Change the 3rd and 4th rows to Wood orbs, Deal 200% damage
    | group:
    | condition: execute repeatedly, turn 10 of 10
      | (12555:15) Sonic Hurricane
@@ -42,7 +42,7 @@ level: 1
      | Deal 40% damage (2 hits, 20% each) + Deal 100% damage + Change the 4th column to Wood orbs, Deal 40% damage (2 hits, 20% each)
      | condition: 34% chance
      | (12552:83) Sonic Blade + Sonic Cross
-     | Spawn 1 random Wood orb + Change the 3rd, 4th row to Wood orbs, Deal 200% damage
+     | Spawn 1 random Wood orb + Change the 3rd and 4th rows to Wood orbs, Deal 200% damage
    | group:
    | condition: execute repeatedly, turn 10 of 10
      | (12555:15) Sonic Hurricane
@@ -66,7 +66,7 @@ level: 1
      | Deal 40% damage (2 hits, 20% each) + Deal 100% damage + Change the 4th column to Wood orbs, Deal 40% damage (2 hits, 20% each)
      | condition: 34% chance
      | (12552:83) Sonic Blade + Sonic Cross
-     | Spawn 1 random Wood orb + Change the 3rd, 4th row to Wood orbs, Deal 200% damage
+     | Spawn 1 random Wood orb + Change the 3rd and 4th rows to Wood orbs, Deal 200% damage
    | group:
    | condition: turn 11 while HP > 15
      | (12555:15) Sonic Hurricane
@@ -83,7 +83,7 @@ level: 1
      | Deal 40% damage (2 hits, 20% each) + Deal 100% damage + Change the 4th column to Wood orbs, Deal 40% damage (2 hits, 20% each)
      | condition: 34% chance
      | (12552:83) Sonic Blade + Sonic Cross
-     | Spawn 1 random Wood orb + Change the 3rd, 4th row to Wood orbs, Deal 200% damage
+     | Spawn 1 random Wood orb + Change the 3rd and 4th rows to Wood orbs, Deal 200% damage
  | group:
  | condition: hp <= 15
    | (12559:15) Sonic Tempest

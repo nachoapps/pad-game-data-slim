@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRowSpawnMulti(78:3698) -> Un!
-Change the 1st, 2nd, 3rd, 4th, 5th row to Fire, Water, Wood, Light, Dark, and Heal orbs
+Change the 1st, 2nd, 3rd, 4th, and 5th rows to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

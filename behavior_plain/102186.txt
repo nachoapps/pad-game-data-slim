@@ -31,7 +31,7 @@ Lock 15 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs, Deal 100% 
 
 #9: ESRowSpawnMulti(79:3008) -> Hydro Cyclone Beam
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Change the 1st, 2nd, 3rd, 4th, 5th row to Water, Jammer, and Poison orbs, Deal 360% damage
+Change the 1st, 2nd, 3rd, 4th, and 5th rows to Water, Jammer, and Poison orbs, Deal 360% damage
 
 #10: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)

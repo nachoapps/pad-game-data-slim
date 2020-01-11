@@ -37,7 +37,7 @@ counter = 0
 
 #11: ESColumnSpawnMulti(77:10710) -> Let me show you alchemy!
 Condition: 50% chance (ai:50 rnd:0)
-Change the 2nd, 5th column to Wood orbs, Deal 110% damage
+Change the 2nd and 5th columns to Wood orbs, Deal 110% damage
 
 #12: ESBindAwoken(88:10711) -> This is a Sage's power!
 Bind awoken skills for 2 turns

@@ -23,7 +23,7 @@ Seal the 5th row for 4 turns
 
 #6: ESColumnSpawnMulti(77:14926) -> Dug Haut
 Condition: 33% chance (ai:0 rnd:33)
-Change the 2nd, 5th column to Wood orbs, Deal 60% damage
+Change the 2nd and 5th columns to Wood orbs, Deal 60% damage
 
 #7: ESRowSpawnMulti(79:14927) -> Elmekia Flame
 Condition: 33% chance (ai:0 rnd:33)
@@ -53,7 +53,7 @@ end_turn
 Branch on hp > 21, target rnd 4
 
 #15: ESColumnSpawnMulti(77:14931) -> Ra Tilt
-Change the 3rd, 4th column to Light orbs, Deal 100% damage
+Change the 3rd and 4th columns to Light orbs, Deal 100% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -93,7 +93,7 @@ Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 1 turn
 
 #26: ESRowSpawnMulti(79:8623) -> Ura 108 Shiki: Orochinagi
-Change the 2nd row to Fire orbs, the 3rd row to Fire orbs, the 4th row to Fire orbs, Deal 100% damage
+Change the 2nd row to Fire orbs, the 3rd row to Fire orbs, and the 4th row to Fire orbs, Deal 100% damage
 
 #27: ESEndPath(36:26) -> ESEndPath
 end_turn

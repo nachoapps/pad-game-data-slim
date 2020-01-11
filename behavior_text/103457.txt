@@ -29,7 +29,7 @@ level: 1
      | (6324:92) Venomous
      | Spawn 12 random Poison orbs, Deal 50% damage
      | (6322:77) Agahara
-     | Change the 1st, 2nd column to Fire, Water, and Jammer orbs, the 3rd, 4th column to Wood, Light, and Jammer orbs, the 5th, 6th column to Dark, Heal, and Jammer orbs, Deal 150% damage
+     | Change the 1st and 2nd columns to Fire, Water, and Jammer orbs, the 3rd and 4th columns to Wood, Light, and Jammer orbs, and the 5th and 6th columns to Dark, Heal, and Jammer orbs, Deal 150% damage
  | group:
  | condition: hp <= 39
    | group:

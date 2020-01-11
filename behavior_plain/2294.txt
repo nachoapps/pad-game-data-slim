@@ -57,7 +57,7 @@ end_turn
 	Spawn 15 random Jammer orbs
 
 #12: ESRowSpawnMulti(79:3831) -> Red-to-Green Stitch Puppetry
-Change the 1st, 3rd, 5th row to Fire orbs, the 2nd, 4th row to Wood orbs, Deal 220% damage
+Change the 1st, 3rd, and 5th rows to Fire orbs and the 2nd and 4th rows to Wood orbs, Deal 220% damage
 
 #13: ESNone(0:0) -> ESNone
 nothing

@@ -23,7 +23,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (13222:83) You're in my world now, + and here I'm the fittest.
-     | Change the 1st, 3rd, 5th column to Water orbs + Lock all Water orbs, Deal 55% damage
+     | Change the 1st, 3rd, and 5th columns to Water orbs + Lock all Water orbs, Deal 55% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance

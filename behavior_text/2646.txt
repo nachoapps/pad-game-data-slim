@@ -24,7 +24,7 @@ level: 4
  | group:
  | condition: always turn 1, hp <= 49
    | (2698:76) Dark Child's Five Fingers
-   | Change the 1st, 2nd column to Dark orbs
+   | Change the 1st and 2nd columns to Dark orbs
  | group:
  | condition: hp <= 9
    | (2703:15) Gemini's Crest - Chaos

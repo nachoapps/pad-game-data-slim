@@ -72,7 +72,7 @@ Condition: 20% chance (ai:20 rnd:0)
 Lock all orbs, Deal 130% damage
 
 #21: ESRowSpawnMulti(79:3925) -> Execution
-Change the 1st, 5th row to Dark orbs, Deal 180% damage
+Change the 1st and 5th rows to Dark orbs, Deal 180% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

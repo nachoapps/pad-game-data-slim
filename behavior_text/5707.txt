@@ -18,7 +18,7 @@ level: 1
      | (15212:94) レーザーブラスター
      | Lock 6 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
      | (15215:77) レーザーソード！
-     | Change the 3rd column to Light orbs, the 4th column to Water orbs, Deal 125% damage
+     | Change the 3rd column to Light orbs and the 4th column to Water orbs, Deal 125% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (15213:101) レーザースキャナー
@@ -35,4 +35,4 @@ level: 1
      | Increase damage to 300% for the next 3 turns
    | group:
      | (15215:77) レーザーソード！
-     | Change the 3rd column to Light orbs, the 4th column to Water orbs, Deal 125% damage
+     | Change the 3rd column to Light orbs and the 4th column to Water orbs, Deal 125% damage

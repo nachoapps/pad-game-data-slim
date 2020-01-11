@@ -42,7 +42,7 @@ level: 4
      | Deal 185% damage (5 hits, 37% each)
      | condition: 50% chance
      | (4496:77) Orange Light's Judging Spirit
-     | Change the 5th column to Light orbs, the 6th column to Fire orbs, Deal 170% damage
+     | Change the 5th column to Light orbs and the 6th column to Fire orbs, Deal 170% damage
      | (4497:92) Brightness Guidance
      | Spawn 8 random Light orbs, Deal 170% damage
  | group:
@@ -50,7 +50,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (4501:83) Gleaming Rabbit Dragon's Trial + Flower Piercing Light
-     | Absorb Light damage for 1 turn + Change the 2nd, 5th column to Light orbs, Deal 100% damage
+     | Absorb Light damage for 1 turn + Change the 2nd and 5th columns to Light orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (4503:74) Big Jump
@@ -62,7 +62,7 @@ level: 4
      | Deal 185% damage (5 hits, 37% each)
      | condition: 50% chance
      | (4496:77) Orange Light's Judging Spirit
-     | Change the 5th column to Light orbs, the 6th column to Fire orbs, Deal 170% damage
+     | Change the 5th column to Light orbs and the 6th column to Fire orbs, Deal 170% damage
      | (4497:92) Brightness Guidance
      | Spawn 8 random Light orbs, Deal 170% damage
  | group:

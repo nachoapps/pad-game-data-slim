@@ -44,7 +44,7 @@ Bind awoken skills for 1 turn
 end_turn
 
 #12: ESRowSpawnMulti(79:15887) -> Dance of the Holy Flame
-Change the 1st row to Light orbs, the 5th row to Fire orbs, Deal 190% damage
+Change the 1st row to Light orbs and the 5th row to Fire orbs, Deal 190% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -17,7 +17,7 @@ level: 1
    | (14180:15) Whatcha doin'?
    | Deal 500% damage (5 hits, 100% each)
    | (14165:83) Next! + Hoho!
-   | Change the 1st, 2nd column to Fire orbs, the 3rd, 4th column to Water orbs + Blind all orbs on the board
+   | Change the 1st and 2nd columns to Fire orbs and the 3rd and 4th columns to Water orbs + Blind all orbs on the board
  | group:
  | condition: turn 2
    | condition: when 1 combos last turn

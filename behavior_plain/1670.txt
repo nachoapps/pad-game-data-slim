@@ -44,7 +44,7 @@ Blind orbs in specific positions for 2 turns, Deal 170% damage
 #12: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESColumnSpawnMulti(77:9253) -> Bifröst Fate
-	Change the 1st column to Fire orbs, the 6th column to Water orbs, Deal 155% damage
+	Change the 1st column to Fire orbs and the 6th column to Water orbs, Deal 155% damage
 	[1] ESBombFixedSpawn(103:9254) -> Norn's Dropped Item
 	Spawn Bomb orbs in the specified positions
 
@@ -93,7 +93,7 @@ end_turn
 #25: SkillSet:
 	Condition: 33% chance (ai:33 rnd:0)
 	[0] ESRowSpawnMulti(79:9259) -> Bifröst Fate
-	Change the 1st row to Fire orbs, the 5th row to Water orbs, Deal 110% damage
+	Change the 1st row to Fire orbs and the 5th row to Water orbs, Deal 110% damage
 	[1] ESDebuffRCV(105:9260) -> Norn Resistance
 	Rcv 50% for 1 turn
 

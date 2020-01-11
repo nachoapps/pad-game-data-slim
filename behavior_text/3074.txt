@@ -16,7 +16,7 @@ level: 1
    | condition: execute repeatedly, turn 1 of 4
      | condition: 50% chance
      | (5150:77) C-Shining Spear
-     | Change the 2nd column to Wood orbs, the 5th column to Light orbs, Deal 380% damage
+     | Change the 2nd column to Wood orbs and the 5th column to Light orbs, Deal 380% damage
      | (5152:46) EB & Self Convert
      | Change own attribute to random one of Wood or Light, Deal 380% damage
    | group:
@@ -30,7 +30,7 @@ level: 1
    | condition: execute repeatedly, turn 3-4 of 4
      | condition: 50% chance
      | (5150:77) C-Shining Spear
-     | Change the 2nd column to Wood orbs, the 5th column to Light orbs, Deal 380% damage
+     | Change the 2nd column to Wood orbs and the 5th column to Light orbs, Deal 380% damage
      | (5152:46) EB & Self Convert
      | Change own attribute to random one of Wood or Light, Deal 380% damage
  | group:
@@ -54,7 +54,7 @@ level: 1
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 50% chance
      | (5150:77) C-Shining Spear
-     | Change the 2nd column to Wood orbs, the 5th column to Light orbs, Deal 380% damage
+     | Change the 2nd column to Wood orbs and the 5th column to Light orbs, Deal 380% damage
      | (5152:46) EB & Self Convert
      | Change own attribute to random one of Wood or Light, Deal 380% damage
  | group:

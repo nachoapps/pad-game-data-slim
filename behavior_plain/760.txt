@@ -38,7 +38,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Change Dark to Heal, Deal 150% damage
 
 #11: ESRowSpawnMulti(79:2287) -> Heavenly Wing Kick
-Change the 4th, 5th row to Wood and Light orbs, Deal 150% damage
+Change the 4th and 5th rows to Wood and Light orbs, Deal 150% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

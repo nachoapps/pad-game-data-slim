@@ -20,4 +20,4 @@ level: 1
  | group:
  | condition: hp <= 29
    | (2372:79) Tiny Fire Breath
-   | Change the 2nd, 3rd row to Fire orbs, Deal 250% damage
+   | Change the 2nd and 3rd rows to Fire orbs, Deal 250% damage

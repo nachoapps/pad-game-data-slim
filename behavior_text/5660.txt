@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 33% chance
    | (14926:77) Dug Haut
-   | Change the 2nd, 5th column to Wood orbs, Deal 60% damage
+   | Change the 2nd and 5th columns to Wood orbs, Deal 60% damage
    | condition: 33% chance
    | (14927:79) Elmekia Flame
    | Change the 3rd row to Light orbs, Deal 65% damage
@@ -41,4 +41,4 @@ level: 1
  | group:
  | condition: hp <= 20
    | (14931:77) Ra Tilt
-   | Change the 3rd, 4th column to Light orbs, Deal 100% damage
+   | Change the 3rd and 4th columns to Light orbs, Deal 100% damage

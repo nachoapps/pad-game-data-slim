@@ -37,4 +37,4 @@ level: 1
  | group:
  | condition: hp <= 19
    | (5883:77) Kthyr Akrab
-   | Change the 1st, 3rd, 5th column to Poison orbs, the 2nd, 4th, 6th column to Mortal Poison orbs, Deal 600% damage
+   | Change the 1st, 3rd, and 5th columns to Poison orbs and the 2nd, 4th, and 6th columns to Mortal Poison orbs, Deal 600% damage

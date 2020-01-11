@@ -44,7 +44,7 @@ Deal 108% damage (6 hits, 18% each)
 
 #11: ESColumnSpawnMulti(77:14062) -> 哈ッッ
 Condition: 25% chance (ai:0 rnd:25)
-Change the 3rd, 4th column to Water orbs, Deal 95% damage
+Change the 3rd and 4th columns to Water orbs, Deal 95% damage
 
 #12: ESSkillDelay(89:14063) -> 覇ッッ
 Condition: 25% chance (ai:0 rnd:25)

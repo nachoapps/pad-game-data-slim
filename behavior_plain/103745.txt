@@ -26,7 +26,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #8: ESColumnSpawnMulti(76:7403) -> It's go time, Sharrus!
-Change the 3rd, 4th column to Dark and Jammer orbs
+Change the 3rd and 4th columns to Dark and Jammer orbs
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

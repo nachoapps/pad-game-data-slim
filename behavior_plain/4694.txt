@@ -40,7 +40,7 @@ Condition: 50% chance, when <= 2 enemies remain (ai:50 rnd:0)
 Increase damage to 150% for the next 2 turns
 
 #12: ESColumnSpawnMulti(77:10733) -> How about THIS?!
-Change the 3rd, 4th column to Water orbs, Deal 110% damage
+Change the 3rd and 4th columns to Water orbs, Deal 110% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

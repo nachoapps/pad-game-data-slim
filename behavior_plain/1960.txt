@@ -31,7 +31,7 @@ Enemy recover 100% hp
 
 #9: ESColumnSpawnMulti(77:2361) -> Cat Roll
 Condition: When < 30% hp (ai:100 rnd:0)
-Change the 2nd, 3rd, 4th, 5th column to Light, Jammer, and Poison orbs, Deal 200% damage
+Change the 2nd, 3rd, 4th, and 5th columns to Light, Jammer, and Poison orbs, Deal 200% damage
 
 #10: ESAttackUPRemainingEnemies(17:2360) -> Cat Flop
 Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)

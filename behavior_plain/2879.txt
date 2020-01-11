@@ -84,7 +84,7 @@ Change the 3rd row to Heal orbs, Deal 175% damage
 
 #21: ESColumnSpawnMulti(77:4694) -> Purple Lightning
 Condition: 50% chance (ai:50 rnd:0)
-Change the 3rd column to Dark orbs, the 5th column to Water orbs, Deal 80% damage
+Change the 3rd column to Dark orbs and the 5th column to Water orbs, Deal 80% damage
 
 #22: ESAttackMultihit(15:4695) -> Dual Shade
 Deal 120% damage (2 hits, 60% each)
@@ -99,14 +99,14 @@ flag SET 0b1111
 	[0] ESAbsorbAttribute(53:4698) -> Destroying Thunder Dragon's Trial
 	Absorb Dark damage for 1 turn
 	[1] ESColumnSpawnMulti(77:4699) -> Dark Slash
-	Change the 2nd, 5th column to Dark orbs, Deal 100% damage
+	Change the 2nd and 5th columns to Dark orbs, Deal 100% damage
 
 #26: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESBlind5(5:4690) -> Vesperal Gloom
 	Blind all orbs on the board
 	[1] ESColumnSpawnMulti(77:4694) -> Purple Lightning
-	Change the 3rd column to Dark orbs, the 5th column to Water orbs, Deal 80% damage
+	Change the 3rd column to Dark orbs and the 5th column to Water orbs, Deal 80% damage
 
 #27: SkillSet:
 	[0] ESBlind5(5:4690) -> Vesperal Gloom

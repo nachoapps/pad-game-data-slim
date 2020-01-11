@@ -90,7 +90,7 @@ Branch on hp < 15, target rnd 18
 end_turn
 
 #18: ESColumnSpawnMulti(77:12401) -> Guren Enjinkyaku
-Change the 4th, 5th column to Fire orbs, Deal 400% damage
+Change the 4th and 5th columns to Fire orbs, Deal 400% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

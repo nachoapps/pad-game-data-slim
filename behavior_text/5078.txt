@@ -43,4 +43,4 @@ level: 1
  | group:
  | condition: hp <= 14
    | (12588:77) Denjin Hadoken
-   | Change the 4th, 5th column to Light orbs, Deal 400% damage
+   | Change the 4th and 5th columns to Light orbs, Deal 400% damage

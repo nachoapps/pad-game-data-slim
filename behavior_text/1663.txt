@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1793:77) Firm Staff of Blessing
-     | Change the 2nd column to Heal orbs, the 5th column to Heal orbs, Deal 100% damage
+     | Change the 2nd column to Heal orbs and the 5th column to Heal orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | (1795:15) Invisible Protection

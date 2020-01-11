@@ -89,7 +89,7 @@ Blind orbs in specific positions for 1 turn, Deal 105% damage
 
 #25: ESColumnSpawnMulti(77:8924) -> Jumping Strike Attack
 Condition: 20% chance (ai:0 rnd:20)
-Change the 2nd, 5th column to Fire orbs, Deal 105% damage
+Change the 2nd and 5th columns to Fire orbs, Deal 105% damage
 
 #26: ESAttackMultihit(15:8925) -> Spinning Tail Attack
 Condition: 30% chance (ai:0 rnd:30)

@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (2259:79) Celestial Observation
-   | Change the 1st row to Light orbs, the 5th row to Water orbs, Deal 90% damage
+   | Change the 1st row to Light orbs and the 5th row to Water orbs, Deal 90% damage
    | condition: 50% chance
    | (2260:64) Guardian Dragon's Venomous Talons
    | Change Random 3 to Poison, Deal 75% damage
@@ -28,7 +28,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance
      | (2259:79) Celestial Observation
-     | Change the 1st row to Light orbs, the 5th row to Water orbs, Deal 90% damage
+     | Change the 1st row to Light orbs and the 5th row to Water orbs, Deal 90% damage
      | condition: 50% chance
      | (2260:64) Guardian Dragon's Venomous Talons
      | Change Random 3 to Poison, Deal 75% damage

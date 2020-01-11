@@ -12,12 +12,12 @@ level: 1
  | Survive attacks with 1 HP when HP > 80%
  type: PREEMPT
  | (8940:79) Blue Life Dance
- | Change the 2nd, 3rd row to Heal orbs, Deal 100% damage
+ | Change the 2nd and 3rd rows to Heal orbs, Deal 100% damage
  group:
  | group:
    | condition: 50% chance
    | (8942:79) Stream Fan
-   | Change the 1st, 5th row to Water orbs, Deal 150% damage
+   | Change the 1st and 5th rows to Water orbs, Deal 150% damage
    | (8944:15) Flash of Dual Water Fangs
    | Deal 360% damage (2 hits, 180% each)
  | group:
@@ -34,7 +34,7 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (8942:79) Stream Fan
-     | Change the 1st, 5th row to Water orbs, Deal 150% damage
+     | Change the 1st and 5th rows to Water orbs, Deal 150% damage
      | (8944:15) Flash of Dual Water Fangs
      | Deal 360% damage (2 hits, 180% each)
  | group:

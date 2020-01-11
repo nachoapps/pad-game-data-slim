@@ -82,7 +82,7 @@ Branch on hp < 15, target rnd 15
 end_turn
 
 #15: ESColumnSpawnMulti(77:12588) -> Denjin Hadoken
-Change the 4th, 5th column to Light orbs, Deal 400% damage
+Change the 4th and 5th columns to Light orbs, Deal 400% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

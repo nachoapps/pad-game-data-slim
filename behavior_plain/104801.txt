@@ -16,7 +16,7 @@ Voids status ailments for 999 turns
 	[0] ESDamageShield(74:10761) -> Toughen Up
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESColumnSpawnMulti(77:10762) -> Flare Slash
-	Change the 3rd, 4th column to Fire orbs, Deal 130% damage
+	Change the 3rd and 4th columns to Fire orbs, Deal 130% damage
 
 #4: ESAttackMultihit(15:10764) -> Special Move
 Condition: When < 10% hp (ai:100 rnd:0)

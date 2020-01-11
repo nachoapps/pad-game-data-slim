@@ -51,4 +51,4 @@ level: 1
  | group:
  | condition: hp <= 15
    | (12544:77) Cross Stinger Assault
-   | Change the 1st, 3rd, 5th column to Fire and Wood orbs, Deal 350% damage
+   | Change the 1st, 3rd, and 5th columns to Fire and Wood orbs, Deal 350% damage

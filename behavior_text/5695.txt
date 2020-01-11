@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1-4 of 6
      | (15198:77) カイサツブレード
-     | Change the 3rd column to Wood orbs, the 4th column to Wood orbs, Deal 175% damage
+     | Change the 3rd column to Wood orbs and the 4th column to Wood orbs, Deal 175% damage
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (15200:67) 行くよシャショット！
@@ -27,7 +27,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (15198:77) カイサツブレード
-     | Change the 3rd column to Wood orbs, the 4th column to Wood orbs, Deal 175% damage
+     | Change the 3rd column to Wood orbs and the 4th column to Wood orbs, Deal 175% damage
  | group:
  | condition: hp <= 19
    | group:
@@ -37,7 +37,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1-4 of 6
      | (15201:79) デュアルグランクロス！
-     | Change the 2nd row to Wood orbs, the 3rd row to Light orbs, the 4th row to Wood orbs, Deal 1000% damage
+     | Change the 2nd row to Wood orbs, the 3rd row to Light orbs, and the 4th row to Wood orbs, Deal 1000% damage
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (15200:67) 行くよシャショット！
@@ -45,4 +45,4 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (15201:79) デュアルグランクロス！
-     | Change the 2nd row to Wood orbs, the 3rd row to Light orbs, the 4th row to Wood orbs, Deal 1000% damage
+     | Change the 2nd row to Wood orbs, the 3rd row to Light orbs, and the 4th row to Wood orbs, Deal 1000% damage

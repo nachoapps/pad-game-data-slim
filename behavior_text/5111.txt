@@ -9,10 +9,10 @@ approved: False
 level: 1
  type: PREEMPT
  | (12607:83) Away with you! + Ultimate Psycho Crusher
- | Do nothing + Change the 3rd, 4th row to Dark orbs, Deal 500% damage
+ | Do nothing + Change the 3rd and 4th rows to Dark orbs, Deal 500% damage
  group:
  | (12607:83) Away with you! + Ultimate Psycho Crusher
- | Do nothing + Change the 3rd, 4th row to Dark orbs, Deal 500% damage
+ | Do nothing + Change the 3rd and 4th rows to Dark orbs, Deal 500% damage
  type: UNKNOWN_USE
  | condition: 33% chance
  | (12608:66) Away with you!

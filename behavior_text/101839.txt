@@ -66,13 +66,13 @@ level: 1
    | Lock all Jammer orbs, Deal 220% damage
    | condition: 33% chance
    | (3803:77) Reflection Ray
-   | Change the 1st, 4th column to Jammer orbs, Deal 160% damage
+   | Change the 1st and 4th columns to Jammer orbs, Deal 160% damage
    | condition: 33% chance
    | (3804:77) Reflection Ray
-   | Change the 2nd, 5th column to Jammer orbs, Deal 160% damage
+   | Change the 2nd and 5th columns to Jammer orbs, Deal 160% damage
    | condition: 34% chance
    | (3805:77) Reflection Ray
-   | Change the 4th, 6th column to Jammer orbs, Deal 160% damage
+   | Change the 4th and 6th columns to Jammer orbs, Deal 160% damage
  | group:
  | condition: hp <= 19
    | (3791:15) Crossing Ray

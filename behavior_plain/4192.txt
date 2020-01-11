@@ -45,7 +45,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #14: ESColumnSpawnMulti(76:9185) -> Have a blast ♪
-Change the 2nd column to Jammer and Poison orbs, the 5th column to Jammer and Poison orbs
+Change the 2nd column to Jammer and Poison orbs and the 5th column to Jammer and Poison orbs
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

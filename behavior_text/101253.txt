@@ -22,10 +22,10 @@ level: 1
      | Bind Water cards for 10 turns
      | condition: 20% chance
      | (4247:83) Uses 3 Blazing Spheres + Saint Blast!
-     | Do nothing + Change the 2nd, 4th row to Fire and Light orbs, Deal 200% damage
+     | Do nothing + Change the 2nd and 4th rows to Fire and Light orbs, Deal 200% damage
      | condition: 50% chance
      | (4246:83) Uses 2 Blazing Spheres + Holy Pillar!
-     | Do nothing + Change the 3rd column to Light orbs, the 4th column to Fire orbs, Deal 150% damage
+     | Do nothing + Change the 3rd column to Light orbs and the 4th column to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (4245:83) Uses 1 Blazing Sphere + Photon Flare!
      | Do nothing + Change Random to Jammer, Deal 100% damage
@@ -35,10 +35,10 @@ level: 1
    | condition: turns 2-3 while HP > 49
      | condition: 20% chance
      | (4247:83) Uses 3 Blazing Spheres + Saint Blast!
-     | Do nothing + Change the 2nd, 4th row to Fire and Light orbs, Deal 200% damage
+     | Do nothing + Change the 2nd and 4th rows to Fire and Light orbs, Deal 200% damage
      | condition: 50% chance
      | (4246:83) Uses 2 Blazing Spheres + Holy Pillar!
-     | Do nothing + Change the 3rd column to Light orbs, the 4th column to Fire orbs, Deal 150% damage
+     | Do nothing + Change the 3rd column to Light orbs and the 4th column to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (4245:83) Uses 1 Blazing Sphere + Photon Flare!
      | Do nothing + Change Random to Jammer, Deal 100% damage
@@ -48,7 +48,7 @@ level: 1
    | condition: turn 4 while HP > 49
      | condition: 50% chance
      | (4246:83) Uses 2 Blazing Spheres + Holy Pillar!
-     | Do nothing + Change the 3rd column to Light orbs, the 4th column to Fire orbs, Deal 150% damage
+     | Do nothing + Change the 3rd column to Light orbs and the 4th column to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (4245:83) Uses 1 Blazing Sphere + Photon Flare!
      | Do nothing + Change Random to Jammer, Deal 100% damage

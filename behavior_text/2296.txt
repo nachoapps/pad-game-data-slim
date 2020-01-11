@@ -30,7 +30,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (3838:79) Blue-to-Red Stitch Puppetry
-     | Change the 1st, 3rd, 5th row to Water orbs, the 2nd, 4th row to Fire orbs, Deal 220% damage
+     | Change the 1st, 3rd, and 5th rows to Water orbs and the 2nd and 4th rows to Fire orbs, Deal 220% damage
  type: UNKNOWN_USE
  | (3841:83) Elemental Flip + Heal-to-Green Twist Puppetry
  | Change own attribute to random one of Water or Wood + Change Heal to Wood, Deal 90% damage

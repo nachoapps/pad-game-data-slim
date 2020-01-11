@@ -17,10 +17,10 @@ level: 1
    | Deal 120% damage (2 hits, 60% each)
    | condition: 33% chance
    | (11505:77) Haaaaaaaa!
-   | Change the 1st column to Water orbs, the 6th column to Dark orbs, Deal 100% damage
+   | Change the 1st column to Water orbs and the 6th column to Dark orbs, Deal 100% damage
    | condition: 33% chance
    | (11506:79) Haaargh!
-   | Change the 1st row to Water orbs, the 5th row to Dark orbs, Deal 100% damage
+   | Change the 1st row to Water orbs and the 5th row to Dark orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (11507:88) This isn't some in-game duel.

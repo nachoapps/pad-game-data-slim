@@ -27,7 +27,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (2055:77) Flame Meow Slash
-     | Change the 4th, 6th column to Fire orbs, Deal 300% damage
+     | Change the 4th and 6th columns to Fire orbs, Deal 300% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (2054:48) Surreptitious Snack

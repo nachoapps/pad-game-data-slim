@@ -105,20 +105,20 @@ counter + 1
 
 #32: ESRowSpawnMulti(78:15055) -> Well, very pretty, right?
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Change the 1st, 5th row to Fire orbs, the 2nd, 4th row to Water orbs
+Change the 1st and 5th rows to Fire orbs and the 2nd and 4th rows to Water orbs
 
 #33: ESColumnSpawnMulti(76:15056) -> Can you do it in a hurry?
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change the 1st, 6th column to Fire orbs, the 2nd, 5th column to Water orbs
+Change the 1st and 6th columns to Fire orbs and the 2nd and 5th columns to Water orbs
 
 #34: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESBoardChange(84:15058) -> Well, show me then
 	Change all orbs to Fire
 	[1] ESColumnSpawnMulti(76:15059) -> Like this, then.....
-	Change the 2nd, 5th column to Water orbs
+	Change the 2nd and 5th columns to Water orbs
 	[2] ESRowSpawnMulti(78:15060) -> This!
-	Change the 2nd, 4th row to Wood orbs
+	Change the 2nd and 4th rows to Wood orbs
 	[3] ESDebuffMovetime(39:15061) -> That wasn't needed, right?
 	Movetime -5s for 1 turn
 

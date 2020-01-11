@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (15332:83) 教導の篝火 + 珠炎三整 + 不落の遮煙
- | Absorb damage when combos <= 7 for 1 turn + Change the 1st column to Heal orbs, the 2nd column to Dark orbs, the 3rd column to Fire orbs + No skyfall for 5 turns, Deal 140% damage
+ | Absorb damage when combos <= 7 for 1 turn + Change the 1st column to Heal orbs, the 2nd column to Dark orbs, and the 3rd column to Fire orbs + No skyfall for 5 turns, Deal 140% damage
  group:
  | group:
    | group:

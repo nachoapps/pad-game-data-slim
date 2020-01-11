@@ -25,7 +25,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 3 of 5
    | (11141:77) Let's see how you handle this!
-   | Change the 1st column to Water and Light orbs, the 6th column to Water and Light orbs, Deal 100% damage
+   | Change the 1st column to Water and Light orbs and the 6th column to Water and Light orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 4 of 5
    | (11142:88) Let's end it now...

@@ -27,15 +27,15 @@ end_turn
 
 #8: ESRowSpawnMulti(79:9960) -> Maragi
 Condition: 20% chance (ai:0 rnd:20)
-Change the 1st, 2nd row to Fire and Jammer orbs, Deal 100% damage
+Change the 1st and 2nd rows to Fire and Jammer orbs, Deal 100% damage
 
 #9: ESRowSpawnMulti(79:9961) -> Maragi
 Condition: 20% chance (ai:0 rnd:20)
-Change the 2nd, 4th row to Fire and Jammer orbs, Deal 100% damage
+Change the 2nd and 4th rows to Fire and Jammer orbs, Deal 100% damage
 
 #10: ESRowSpawnMulti(79:9962) -> Maragi
 Condition: 20% chance (ai:0 rnd:20)
-Change the 4th, 5th row to Fire and Jammer orbs, Deal 100% damage
+Change the 4th and 5th rows to Fire and Jammer orbs, Deal 100% damage
 
 #11: ESOrbChangeAttack(48:9958) -> Agidyne
 Condition: 40% chance (ai:0 rnd:40)
@@ -59,15 +59,15 @@ end_turn
 
 #17: ESRowSpawnMulti(79:9960) -> Maragi
 Condition: 10% chance (ai:0 rnd:10)
-Change the 1st, 2nd row to Fire and Jammer orbs, Deal 100% damage
+Change the 1st and 2nd rows to Fire and Jammer orbs, Deal 100% damage
 
 #18: ESRowSpawnMulti(79:9961) -> Maragi
 Condition: 10% chance (ai:0 rnd:10)
-Change the 2nd, 4th row to Fire and Jammer orbs, Deal 100% damage
+Change the 2nd and 4th rows to Fire and Jammer orbs, Deal 100% damage
 
 #19: ESRowSpawnMulti(79:9962) -> Maragi
 Condition: 10% chance (ai:0 rnd:10)
-Change the 4th, 5th row to Fire and Jammer orbs, Deal 100% damage
+Change the 4th and 5th rows to Fire and Jammer orbs, Deal 100% damage
 
 #20: ESAttackMultihit(15:9959) -> Megaton Raid
 Condition: 40% chance (ai:0 rnd:40)

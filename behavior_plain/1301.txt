@@ -29,7 +29,7 @@ Deal 120% damage (3 hits, 40% each)
 
 #7: ESColumnSpawnMulti(77:14743) -> Flare Dive
 Condition: 33% chance (ai:0 rnd:33)
-Change the 3rd, 4th column to Fire orbs, Deal 105% damage
+Change the 3rd and 4th columns to Fire orbs, Deal 105% damage
 
 #8: ESSkillDelay(89:14744) -> Sliding Tackle
 Condition: 33% chance (ai:0 rnd:33)

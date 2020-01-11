@@ -30,7 +30,7 @@ Spawn 6 random Fire orbs, Deal 100% damage
 
 #8: ESColumnSpawnMulti(77:14987) -> Ragna Blade
 Condition: 34% chance (ai:0 rnd:34)
-Change the 3rd, 4th column to Fire and Jammer orbs, Deal 90% damage
+Change the 3rd and 4th columns to Fire and Jammer orbs, Deal 90% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

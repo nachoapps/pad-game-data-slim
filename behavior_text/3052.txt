@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (8815:77) Dragon Gale
-   | Change the 3rd, 4th column to Wood orbs, Deal 210% damage
+   | Change the 3rd and 4th columns to Wood orbs, Deal 210% damage
    | (8814:15) Storm Slash
    | Deal 240% damage (3 hits, 80% each)
  | group:

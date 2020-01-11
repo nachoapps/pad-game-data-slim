@@ -24,7 +24,7 @@ level: 4
  | condition: hp <= 99
    | condition: 25% chance
    | (9763:83) Athnan nar Sayf + Qunbula Ainfijar
-   | Change the 2nd, 5th column to Fire orbs + Spawn 5 random Bomb orbs, Deal 100% damage
+   | Change the 2nd and 5th columns to Fire orbs + Spawn 5 random Bomb orbs, Deal 100% damage
    | condition: 25% chance
    | (9764:108) Yahtariq Ramad
    | Change Heal to Jammer, Deal 80% damage

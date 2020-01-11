@@ -34,7 +34,7 @@ level: 1
  | group:
  | condition: hp <= 29
    | (1958:77) Ascension
-   | Change the 3rd column to Light orbs, the 4th column to Light orbs, Deal 200% damage
+   | Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 200% damage
  | group:
  | condition: hp <= 1
    | (1957:86) Elixir of Life

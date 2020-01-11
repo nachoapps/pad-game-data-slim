@@ -17,7 +17,7 @@ level: 4
    | Lock 3 random Fire, Water, Wood, Light, and Dark orbs, Deal 110% damage
    | condition: 25% chance
    | (3898:79) Holy
-   | Change the 2nd, 4th row to Light orbs, Deal 120% damage
+   | Change the 2nd and 4th rows to Light orbs, Deal 120% damage
  | group:
  | condition: hp <= 59
    | condition: 40% chance, one time only
@@ -28,7 +28,7 @@ level: 4
    | Lock 3 random Fire, Water, Wood, Light, and Dark orbs, Deal 110% damage
    | condition: 25% chance
    | (3898:79) Holy
-   | Change the 2nd, 4th row to Light orbs, Deal 120% damage
+   | Change the 2nd and 4th rows to Light orbs, Deal 120% damage
  | group:
  | condition: hp <= 19
    | condition: 40% chance, one time only

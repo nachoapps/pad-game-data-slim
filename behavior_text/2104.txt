@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (2277:83) Besieged by Fire + Can you prevail?
-     | Change the 1st row to Fire orbs, the 5th row to Fire orbs + Change the 1st column to Fire orbs, the 6th column to Fire orbs, Deal 60% damage
+     | Change the 1st row to Fire orbs and the 5th row to Fire orbs + Change the 1st column to Fire orbs and the 6th column to Fire orbs, Deal 60% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 60% chance

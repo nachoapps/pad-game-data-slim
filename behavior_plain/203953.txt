@@ -40,11 +40,11 @@ Deal 150~250% damage (3~5 hits, 50% each)
 
 #11: ESColumnSpawnMulti(77:8290) -> 切り裂く
 Condition: 25% chance (ai:0 rnd:25)
-Change the 2nd, 4th, 6th column to Jammer orbs, Deal 140% damage
+Change the 2nd, 4th, and 6th columns to Jammer orbs, Deal 140% damage
 
 #12: ESRowSpawnMulti(79:8291) -> 切り裂く
 Condition: 25% chance (ai:0 rnd:25)
-Change the 1st, 3rd, 5th row to Jammer orbs, Deal 140% damage
+Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 140% damage
 
 #13: ESGravity(50:8292) -> 雷禅光
 Condition: 25% chance (ai:0 rnd:25)

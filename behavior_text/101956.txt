@@ -18,12 +18,12 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (2217:79) Calming Mountain Wind
-     | Change the 1st row to Heal orbs, the 3rd row to Wood orbs, the 5th row to Heal orbs, Deal 100% damage
+     | Change the 1st row to Heal orbs, the 3rd row to Wood orbs, and the 5th row to Heal orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (2218:77) Trishula
-     | Change the 1st column to Fire orbs, the 3rd column to Fire orbs, the 5th column to Fire orbs, Deal 100% damage
+     | Change the 1st column to Fire orbs, the 3rd column to Fire orbs, and the 5th column to Fire orbs, Deal 100% damage
      | (2216:15) Tiger Rush
      | Deal 90~120% damage (3~4 hits, 30% each)
  | group:

@@ -24,7 +24,7 @@ level: 1
    | (3104:94) Glass Leaf
    | Lock all Wood orbs, Deal 120% damage
    | (3103:77) Ice and Roses
-   | Change the 1st column to Water orbs, the 2nd column to Wood orbs, the 3rd column to Poison orbs, Deal 80% damage
+   | Change the 1st column to Water orbs, the 2nd column to Wood orbs, and the 3rd column to Poison orbs, Deal 80% damage
  | group:
  | condition: hp <= 19
    | (3106:85) Frozen Pain

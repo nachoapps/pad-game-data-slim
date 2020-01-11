@@ -50,10 +50,10 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (12833:83) Ocean Wave of the Mighty Rivals + Attack and Defense Splash
-     | Change the 1st, 6th column to Water, Jammer, and Poison orbs + Reduce damage from all sources by 50% for 1 turn, Deal 50% damage
+     | Change the 1st and 6th columns to Water, Jammer, and Poison orbs + Reduce damage from all sources by 50% for 1 turn, Deal 50% damage
      | condition: 50% chance
      | (12836:83) Ocean Wave of the Mighty Rivals + God's Will of the Playful Dream
-     | Change the 1st, 5th row to Water, Jammer, and Poison orbs + Bind 2 random subs for 1~2 turns, Deal 50% damage
+     | Change the 1st and 5th rows to Water, Jammer, and Poison orbs + Bind 2 random subs for 1~2 turns, Deal 50% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (12839:83) Finishing Touch Towards Accomplishment + Fury Overflow of Righteous Indignation

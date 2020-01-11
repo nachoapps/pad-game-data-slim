@@ -36,7 +36,7 @@ end_turn
 
 #11: ESColumnSpawnMulti(77:5845) -> Flame Streaker Dual Mace
 Condition: 50% chance (ai:50 rnd:0)
-Change the 1st column to Fire orbs, the 6th column to Water orbs, Deal 120% damage
+Change the 1st column to Fire orbs and the 6th column to Water orbs, Deal 120% damage
 
 #12: ESCloud(104:12144) -> Raging Flash Rumble
 2x5 cloud appear for 1 turn at random location, Deal 100% damage

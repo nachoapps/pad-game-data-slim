@@ -18,7 +18,7 @@ level: 4
      | Reduce damage from all sources by 75% for 1 turn, Deal 200% damage
    | group:
      | (15187:77) カイサツソード！
-     | Change the 3rd column to Wood orbs, the 4th column to Wood orbs, Deal 125% damage
+     | Change the 3rd column to Wood orbs and the 4th column to Wood orbs, Deal 125% damage
  | group:
  | condition: hp <= 24
    | group:
@@ -27,4 +27,4 @@ level: 4
      | Increase damage to 1000% for the next 1 turn
    | group:
      | (15190:79) グランクロス！
-     | Change the 2nd row to Wood orbs, the 3rd row to Wood orbs, the 4th row to Wood orbs, Deal 200% damage
+     | Change the 2nd row to Wood orbs, the 3rd row to Wood orbs, and the 4th row to Wood orbs, Deal 200% damage

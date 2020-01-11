@@ -22,7 +22,7 @@ level: 4
      | Player -99% HP
      | condition: 50% chance
      | (3506:79) Towako
-     | Change the 2nd, 3rd row to Fire orbs, Deal 150% damage
+     | Change the 2nd and 3rd rows to Fire orbs, Deal 150% damage
    | group:
    | condition: turn 2 while HP > 79
      | condition: 50% chance
@@ -53,7 +53,7 @@ level: 4
      | Player -99% HP
      | condition: 50% chance
      | (3506:79) Towako
-     | Change the 2nd, 3rd row to Fire orbs, Deal 150% damage
+     | Change the 2nd and 3rd rows to Fire orbs, Deal 150% damage
    | group:
    | condition: turn 3
      | condition: 50% chance

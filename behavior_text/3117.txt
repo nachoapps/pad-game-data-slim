@@ -22,7 +22,7 @@ level: 1
  | condition: hp <= 29
    | condition: 30% chance
    | (14266:79) Purrrfect Wave
-   | Change the 2nd, 3rd row to Water orbs, Deal 120% damage
+   | Change the 2nd and 3rd rows to Water orbs, Deal 120% damage
    | condition: 50% chance
    | (14264:5) Looking puuuurfect!
    | Blind all orbs on the board
@@ -44,7 +44,7 @@ level: 4
  | condition: hp <= 29
    | condition: 30% chance
    | (14266:79) Purrrfect Wave
-   | Change the 2nd, 3rd row to Water orbs, Deal 120% damage
+   | Change the 2nd and 3rd rows to Water orbs, Deal 120% damage
    | condition: 50% chance
    | (14264:5) Looking puuuurfect!
    | Blind all orbs on the board

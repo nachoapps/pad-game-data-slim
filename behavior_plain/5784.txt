@@ -55,7 +55,7 @@ Increase damage to 150% for the next 1 turn
 end_turn
 
 #16: ESColumnSpawnMulti(77:15760) -> 滅びのバースト・ストリーム
-Change the 3rd column to Water orbs, the 4th column to Water orbs, Deal 150% damage
+Change the 3rd column to Water orbs and the 4th column to Water orbs, Deal 150% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

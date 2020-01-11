@@ -33,7 +33,7 @@ Branch on hp < 40, target rnd 15
 
 #10: ESColumnSpawnMulti(77:15179) -> ダークフミキリシュリケン
 Condition: 25% chance (ai:0 rnd:25)
-Change the 1st column to Dark orbs, the 6th column to Fire orbs, Deal 90% damage
+Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 90% damage
 
 #11: ESOrbChangeAttackBits(108:15180) -> ダークフミキリガン
 Condition: 25% chance (ai:0 rnd:25)
@@ -45,7 +45,7 @@ Deal 135% damage (3 hits, 45% each)
 
 #13: ESColumnSpawnMulti(77:15182) -> ダークカイサツソード
 Condition: 25% chance (ai:0 rnd:25)
-Change the 3rd column to Dark orbs, the 4th column to Dark orbs, Deal 125% damage
+Change the 3rd column to Dark orbs and the 4th column to Dark orbs, Deal 125% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -64,7 +64,7 @@ Bind awoken skills for 4 turns
 end_turn
 
 #19: ESRowSpawnMulti(79:15184) -> デスグランクロス！
-Change the 2nd row to Dark orbs, the 3rd row to Dark orbs, the 4th row to Dark orbs, Deal 150% damage
+Change the 2nd row to Dark orbs, the 3rd row to Dark orbs, and the 4th row to Dark orbs, Deal 150% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -21,7 +21,7 @@ level: 1
  | group:
    | condition: 33% chance
    | (10123:77) ソルド・ザケルガ
-   | Change the 3rd column to Light orbs, the 4th column to Jammer orbs, Deal 110% damage
+   | Change the 3rd column to Light orbs and the 4th column to Jammer orbs, Deal 110% damage
    | condition: 66% chance
    | (10122:15) ザケルガ
    | Deal 120% damage
@@ -49,4 +49,4 @@ level: 1
      | Increase damage to 200% for the next 99 turns
    | group:
      | (10130:83) ジガディラス・ウル・ザケルガ + ZIGAAAAAAAAAA
-     | Change the 3rd, 4th column to Light orbs + Deal 400% damage (8 hits, 50% each), Deal 400% damage (8 hits, 50% each)
+     | Change the 3rd and 4th columns to Light orbs + Deal 400% damage (8 hits, 50% each), Deal 400% damage (8 hits, 50% each)

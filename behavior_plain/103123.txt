@@ -28,7 +28,7 @@ end_turn
 
 #8: ESColumnSpawnMulti(77:5345) -> Double Water Gun
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change the 1st, 6th column to Water orbs, Deal 100% damage
+Change the 1st and 6th columns to Water orbs, Deal 100% damage
 
 #9: ESOrbLock(94:5344) -> summer comet
 Lock all Water orbs

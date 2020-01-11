@@ -11,7 +11,7 @@ level: 5
  | group:
    | condition: 50% chance
    | (2879:77) Violin Tune
-   | Change the 1st column to Light orbs, the 6th column to Dark orbs, Deal 90% damage
+   | Change the 1st column to Light orbs and the 6th column to Dark orbs, Deal 90% damage
  | group:
  | condition: turn 1, hp <= 49
    | (2880:86) Ray of Healing

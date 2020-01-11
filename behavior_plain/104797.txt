@@ -27,7 +27,7 @@ Absorb damage when combos <= 6 for 3 turns
 
 #5: ESColumnSpawnMulti(77:10781) -> Crimson & Blue Flames
 Condition: When < 5% hp (ai:100 rnd:0)
-Change the 1st, 3rd, 5th column to Fire orbs, the 2nd, 4th, 6th column to Water orbs, Deal 250% damage
+Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Water orbs, Deal 250% damage
 
 #6: ESBindAttack(63:10776) -> Fire Chain of Jasmin
 Condition: 50% chance (ai:50 rnd:0)

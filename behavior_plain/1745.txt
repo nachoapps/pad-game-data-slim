@@ -32,7 +32,7 @@ Deal 240~320% damage (3~4 hits, 80% each)
 
 #9: ESRowSpawnMulti(79:2259) -> Celestial Observation
 Condition: 50% chance (ai:0 rnd:50)
-Change the 1st row to Light orbs, the 5th row to Water orbs, Deal 90% damage
+Change the 1st row to Light orbs and the 5th row to Water orbs, Deal 90% damage
 
 #10: ESPoisonChangeRandomAttack(64:2260) -> Guardian Dragon's Venomous Talons
 Condition: 50% chance (ai:0 rnd:50)

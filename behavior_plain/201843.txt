@@ -40,7 +40,7 @@ Bind 3 random cards for 3 turns
 
 #10: ESColumnSpawnMulti(77:3547) -> Gale Impact
 Condition: 50% chance when < 50% hp (ai:50 rnd:0)
-Change the 3rd, 4th column to Wood orbs, Deal 150% damage
+Change the 3rd and 4th columns to Wood orbs, Deal 150% damage
 
 #11: ESBlind62(62:3546) -> Floral Mist
 Condition: When < 50% hp (ai:100 rnd:0)
@@ -56,10 +56,10 @@ flag SET 0b11
 Branch on player_cards HAS [2508, 2509], target rnd 16
 
 #15: ESColumnSpawnMulti(77:3544) -> Vanir Rose
-Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
 
 #16: ESColumnSpawnMulti(77:3544) -> Vanir Rose
-Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
 
 #17: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 22
@@ -81,7 +81,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Deal 150% damage (3 hits, 50% each)
 
 #23: ESColumnSpawnMulti(77:3544) -> Vanir Rose
-Change the 1st column to Fire orbs, the 6th column to Wood orbs, Deal 140% damage
+Change the 1st column to Fire orbs and the 6th column to Wood orbs, Deal 140% damage
 
 #24: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 27
@@ -97,7 +97,7 @@ Branch on hp < 20, target rnd 30
 
 #28: ESColumnSpawnMulti(77:3547) -> Gale Impact
 Condition: 50% chance when < 50% hp (ai:50 rnd:0)
-Change the 3rd, 4th column to Wood orbs, Deal 150% damage
+Change the 3rd and 4th columns to Wood orbs, Deal 150% damage
 
 #29: ESBlind62(62:3546) -> Floral Mist
 Condition: When < 50% hp (ai:100 rnd:0)

@@ -76,7 +76,7 @@ Branch on counter >= 10, target rnd 28
 #19: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESRowSpawnMulti(79:12270) -> Seven Lands and Seas
-	Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs, Deal 52% damage
+	Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs, Deal 52% damage
 	[1] ESBlindStickyRandom(97:12272) -> Torch Light
 	Blind random 7~10 orbs for 1 turn, Deal 48% damage
 
@@ -90,7 +90,7 @@ Branch on counter >= 10, target rnd 28
 #21: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESRowSpawnMulti(79:12270) -> Seven Lands and Seas
-	Change the 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs, Deal 52% damage
+	Change the 2nd, 3rd, and 4th rows to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs, Deal 52% damage
 	[1] ESOrbLock(94:12273) -> Starlight Road
 	Lock 15 random orbs, Deal 50% damage
 

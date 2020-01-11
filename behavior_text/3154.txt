@@ -43,4 +43,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (5361:77) Sieg Speer
-   | Change the 3rd, 4th column to Light orbs, Deal 300% damage
+   | Change the 3rd and 4th columns to Light orbs, Deal 300% damage

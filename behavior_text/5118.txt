@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (12766:83) Great! + Sorry to keep you waiting! + Have some piping hot food!
- | Change the 1st column to Fire orbs, the 2nd column to Water orbs + Spawn 3 random Fire, Dark, Heal, or Jammer orbs + 6x5 cloud appear for 1 turn at random location
+ | Change the 1st column to Fire orbs and the 2nd column to Water orbs + Spawn 3 random Fire, Dark, Heal, or Jammer orbs + 6x5 cloud appear for 1 turn at random location
  group:
  | group:
    | condition: 20% chance

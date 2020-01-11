@@ -49,7 +49,7 @@ Deal 100% damage
 
 #14: ESColumnSpawnMulti(77:3467) -> Saint Corona
 Condition: 25% chance (ai:0 rnd:25)
-Change the 2nd, 4th column to Light orbs, Deal 70% damage
+Change the 2nd and 4th columns to Light orbs, Deal 70% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

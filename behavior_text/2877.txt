@@ -38,7 +38,7 @@ level: 4
      | Deal 110% damage (2 hits, 55% each)
      | condition: 50% chance
      | (4559:77) Green Wind Soul Cutter
-     | Change the 3rd column to Light orbs, the 4th column to Wood orbs, Deal 95% damage
+     | Change the 3rd column to Light orbs and the 4th column to Wood orbs, Deal 95% damage
      | (4560:92) Mountain Haze's Guidance
      | Spawn 8 random Wood orbs, Deal 90% damage
    | group:
@@ -50,7 +50,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (4557:83) Storm Hawk Dragon's Trial + Splitting Storm Wind
-     | Absorb Wood damage for 1 turn + Change the 2nd, 4th row to Wood and Jammer orbs, Deal 100% damage
+     | Absorb Wood damage for 1 turn + Change the 2nd and 4th rows to Wood and Jammer orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (4551:17) Raising Flap
@@ -62,7 +62,7 @@ level: 4
      | Deal 110% damage (2 hits, 55% each)
      | condition: 50% chance
      | (4559:77) Green Wind Soul Cutter
-     | Change the 3rd column to Light orbs, the 4th column to Wood orbs, Deal 95% damage
+     | Change the 3rd column to Light orbs and the 4th column to Wood orbs, Deal 95% damage
      | (4560:92) Mountain Haze's Guidance
      | Spawn 8 random Wood orbs, Deal 90% damage
  | group:
