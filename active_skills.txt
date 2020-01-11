@@ -1261,12 +1261,12 @@ EN: For 2 turns, 2x ATK for Healer type; For 2 turns, reduce damage taken by 35%
 # 498/93 - Burning Shift
 Tags: THE_SWITCH
 Game: Switches places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 499/93 - Freezing Shift
 Tags: THE_SWITCH
 Game: Switches places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 500/116 - Gravity Breath
 Tags: REDUCE_DEFENSE,GRAVITY
@@ -1356,7 +1356,7 @@ EN: Change Dark, Heal orbs to Fire orbs; Charge all allies' skills by 1 turn
 # 619/93 - The Switch
 Tags: THE_SWITCH
 Game: Switch places with Leader Monster Use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 620/5 - What are you, stupid?
 Tags: STOP_TIME
@@ -1441,7 +1441,7 @@ EN: Recover 3000 HP
 # 636/93 - Dance of the Great Tengu
 Tags: THE_SWITCH
 Game: Switches places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 637/37 - Crimson Bomb
 Tags: SINGLE_TARGET_ATTACK
@@ -1481,7 +1481,7 @@ EN: Deal 300 fixed damage to an enemy
 # 644/93 - Wisdom of the Ancients
 Tags: THE_SWITCH
 Game: Switch places with Leader Monster Use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 646/91 - Glitter of Aegis
 Tags: ENHANCED_ORBS
@@ -2206,7 +2206,7 @@ EN: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light o
 # 991/93 - Prehistoric Wisdom
 Tags: THE_SWITCH
 Game: Switch places with Leader Monster Use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 992/5 - Another Dimension
 Tags: STOP_TIME
@@ -2246,7 +2246,7 @@ EN: Change Wood orbs to Heal orbs; Reduce binds by 3 turns
 # 999/93 - Browning Shift
 Tags: THE_SWITCH
 Game: Switch places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 1000/116 - Pirate Dragon's Might
 Tags: ENHANCED_ATTACK,GRAVITY
@@ -4581,7 +4581,7 @@ EN: Reduce enemies' HP by 15%; Enhance all Fire orbs
 # 1699/93 - Magic Stone Teleportation
 Tags: THE_SWITCH
 Game: Switches places with Leader Monster Use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 1700/6 - Hokuto Iron PAW-m Wave
 Tags: GRAVITY
@@ -8886,7 +8886,7 @@ EN: Charge all allies' skills by 1 turn
 # 3805/116 - Inversion - Glitter of Aegis
 Tags: ENHANCED_ORBS
 Game: All Orbs enhanced, creates a cross of Heal Orbs; other allies' skills charged by 1 turn
-EN: Enhance all orbs; Create cross of Heal orbs with center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
+EN: Enhance all orbs; Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
 
 # 3806/140 - 
 Tags: ENHANCED_ORBS
@@ -8931,7 +8931,7 @@ EN: Charge all allies' skills by 1 turn
 # 3814/93 - Truce Negotiations
 Tags: THE_SWITCH
 Game: Switch places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 3815/116 - Don't lay your hands on him!
 Tags: 
@@ -14601,7 +14601,7 @@ EN: Change all orbs to Dark, Heal, and Jammer orbs
 # 8228/93 - Prominence Shift
 Tags: THE_SWITCH
 Game: Switches places with Leader Monster; use again to switch back
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 8246/116 - What I gambled on is only just starting!
 Tags: HEAL,LINE_ORBS_CONVERTER
@@ -15826,12 +15826,12 @@ EN: For 1 turn, increase orb move time by 1 second
 # 9095/116 - Dragon Shadow Shift
 Tags: ENHANCED_ATTACK,THE_SWITCH
 Game: Switches places with Leader Monster, use again to switch back; 3x ATK for Dragon Type for 1 turn
-EN: Becomes Team leader, changes back when used again; For 1 turn, 3x ATK for Dragon type
+EN: Becomes Team leader; changes back when used again; For 1 turn, 3x ATK for Dragon type
 
 # 9096/93 - 
 Tags: THE_SWITCH
 Game: 
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 9097/88 - 
 Tags: ENHANCED_ATTACK
@@ -16328,12 +16328,12 @@ EN: Reduce HP by 50%; Deal 100x Dark damage to all enemies
 # 9512/116 - Raging Shift
 Tags: REDUCE_DAMAGE,THE_SWITCH
 Game: Switches places with Leader Monster, use again to switch back; vastly reduces damage for 1 turn
-EN: Becomes Team leader, changes back when used again; For 1 turn, reduce damage taken by 75%
+EN: Becomes Team leader; changes back when used again; For 1 turn, reduce damage taken by 75%
 
 # 9513/93 - 
 Tags: THE_SWITCH
 Game: 
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 9514/3 - 
 Tags: REDUCE_DAMAGE
@@ -22823,7 +22823,7 @@ EN: For 1 turn, increase combo count by 1
 # 12623/176 - 
 Tags: 
 Game: 
-EN: Create cross of Heal orbs with center at the 2nd row from the bottom and the 2nd column from the right
+EN: Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right
 
 # 12624/172 - 
 Tags: REMOVE_LOCK
@@ -23033,17 +23033,17 @@ EN: For 1 turn, increase combo count by 1
 # 12738/116 - Mystic Crown
 Tags: VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; creates 1 cross of Light Orbs & 1 cross of Dark Orbs
-EN: For 1 turn, bypass att. absorb shield effects; Create cross of Light orbs with center at the 2nd row from the top and the 2nd column from the right; Create cross of Dark orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: For 1 turn, bypass att. absorb shield effects; Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right; Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12739/176 - 
 Tags: 
 Game: 
-EN: Create cross of Light orbs with center at the 2nd row from the top and the 2nd column from the right
+EN: Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right
 
 # 12740/176 - 
 Tags: 
 Game: 
-EN: Create cross of Dark orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12745/116 - Sunset Road
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
@@ -23063,7 +23063,7 @@ EN: For 1 turn, 2x ATK for Dragon type
 # 12753/116 - Hadoken
 Tags: REMOVE_LOCK
 Game: Removes all Orb locks; creates an L shape of Light Orbs
-EN: Unlock all orbs; Create L shape of Light orbs with center at the bottom row and the far right column
+EN: Unlock all orbs; Create an L shape of Light orbs with its center at the bottom row and the far right column
 
 # 12754/172 - 
 Tags: REMOVE_LOCK
@@ -23073,12 +23073,12 @@ EN: Unlock all orbs
 # 12755/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Light orbs with center at the bottom row and the far right column
+EN: Create an L shape of Light orbs with its center at the bottom row and the far right column
 
 # 12760/176 - Metsu Hadoken
 Tags: 
 Game: Creates a square of 3x3 Dark Orbs; creates a rectangle of 3x4 Dark Orbs when board is 7x6
-EN: Create square of Dark orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a square of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12761/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -23213,12 +23213,12 @@ EN: Reduce enemies' HP by 35%
 # 12817/116 - Shunpukyaku
 Tags: EXTENDS_TIME
 Game: Creates an L shape of Fire Orbs; 2x Orb move time for 1 turn
-EN: Create L shape of Fire orbs with center at the bottom row and the far left column; For 1 turn, 2x orb move time
+EN: Create an L shape of Fire orbs with its center at the bottom row and the far left column; For 1 turn, 2x orb move time
 
 # 12818/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Fire orbs with center at the bottom row and the far left column
+EN: Create an L shape of Fire orbs with its center at the bottom row and the far left column
 
 # 12819/132 - 
 Tags: EXTENDS_TIME
@@ -23273,12 +23273,12 @@ EN: For 1 turn, increase combo count by 2
 # 12842/116 - Mujinkyaku
 Tags: ADD_COMBO
 Game: Creates a cross of Light Orbs; adds 1 combo for 1 turn
-EN: Create cross of Light orbs with center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
+EN: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
 
 # 12843/176 - 
 Tags: 
 Game: 
-EN: Create cross of Light orbs with center at the 2nd row from the bottom and the 2nd column from the left
+EN: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 
 # 12844/160 - 
 Tags: ADD_COMBO
@@ -23518,7 +23518,7 @@ EN: Change the bottom row to Fire orbs
 # 12949/176 - Enormous Spirit Gun
 Tags: 
 Game: Creates a square of 3x3 Light Orbs; creates a rectangle of 3x4 Light Orbs when board is 7x6
-EN: Create square of Light orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12950/146 - 
 Tags: 
@@ -23763,7 +23763,7 @@ EN: For 1 turn, 4x ATK for Fire Att.
 # 13080/116 - Malefic Dragon's Roar
 Tags: REMOVE_LOCK
 Game: Removes all Orb locks; creates 2 L shapes of Dark Orbs
-EN: Unlock all orbs; Create L shape of Dark orbs with center at the top row and the far right column; Create L shape of Dark orbs with center at the bottom row and the far left column
+EN: Unlock all orbs; Create an L shape of Dark orbs with its center at the top row and the far right column; Create an L shape of Dark orbs with its center at the bottom row and the far left column
 
 # 13081/172 - 
 Tags: REMOVE_LOCK
@@ -23773,7 +23773,7 @@ EN: Unlock all orbs
 # 13082/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Dark orbs with center at the top row and the far right column; Create L shape of Dark orbs with center at the bottom row and the far left column
+EN: Create an L shape of Dark orbs with its center at the top row and the far right column; Create an L shape of Dark orbs with its center at the bottom row and the far left column
 
 # 13086/116 - Gas Attack
 Tags: ALL_ORBS_CONVERT,VOID_SKYFALLS
@@ -24008,7 +24008,7 @@ EN: Reduce awoken skill binds by 4 turns
 # 13185/176 - マジカルスマイル
 Tags: 
 Game: 3×3の正方形に回復ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
-EN: Create square of Heal orbs with center at the middle row and the 2nd column from the left
+EN: Create a square of Heal orbs with its center at the middle row and the 2nd column from the left
 
 # 13186/116 - Not a chance.
 Tags: REMOVE_LOCK
@@ -24223,7 +24223,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 # 13271/176 - The Five Great Nature Spirits
 Tags: 
 Game: Creates a square of 3x3 Fire Orbs; creates a rectangle of 3x4 Fire Orbs when board is 7x6
-EN: Create square of Fire orbs with center at the 2nd row from the bottom and the 2nd column from the left
+EN: Create a square of Fire orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 
 # 13272/176 - 
 Tags: 
@@ -24423,12 +24423,12 @@ EN: For 1 turn, bypass att. absorb shield effects
 # 13335/116 - First errand.
 Tags: THE_SWITCH,NEW_GRAVITY
 Game: Switches places with Leader Monster, use again to switch back; inflicts damage equal to 10% of enemies' max HP
-EN: Becomes Team leader, changes back when used again; Deal damage equal to 10% of enemies' max HP
+EN: Becomes Team leader; changes back when used again; Deal damage equal to 10% of enemies' max HP
 
 # 13336/93 - 
 Tags: THE_SWITCH
 Game: 
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 13337/161 - 
 Tags: NEW_GRAVITY
@@ -24498,12 +24498,12 @@ EN: Change all orbs to Wood, Light, Dark, and Heal orbs
 # 13362/116 - Because he's my friend.
 Tags: EXTENDS_TIME
 Game: Creates an L shape of Heal Orbs; Orb move time +2 seconds for 1 turn
-EN: Create L shape of Heal orbs with center at the top row and the far left column; For 1 turn, increase orb move time by 2 seconds
+EN: Create an L shape of Heal orbs with its center at the top row and the far left column; For 1 turn, increase orb move time by 2 seconds
 
 # 13363/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Heal orbs with center at the top row and the far left column
+EN: Create an L shape of Heal orbs with its center at the top row and the far left column
 
 # 13364/132 - 
 Tags: EXTENDS_TIME
@@ -24983,7 +24983,7 @@ EN: For 1 turn, 2x RCV
 # 13618/176 - Natural Slur
 Tags: 
 Game: Creates a square of 3x3 Wood Orbs; creates a rectangle of 3x4 Wood Orbs when board is 7x6
-EN: Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 13622/116 - Velvet Finger
 Tags: ATTACK_STANCE,HEAL,ORB_CONVERT
@@ -25268,7 +25268,7 @@ EN: Change all orbs to Fire, Water, Wood, and Dark orbs; Charge all allies' skil
 # 13709/116 - 立体機動術
 Tags: EXTENDS_TIME
 Game: L字型に木ドロップを1つ生成。 2ターンの間、ドロップ操作を5秒延長。
-EN: Create L shape of Wood orbs with center at the top row and the far right column; For 2 turns, increase orb move time by 5 seconds
+EN: Create an L shape of Wood orbs with its center at the top row and the far right column; For 2 turns, increase orb move time by 5 seconds
 
 # 13714/116 - Victory Star
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
@@ -25298,7 +25298,7 @@ EN: Charge all allies' skills by 2 turns
 # 13723/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Wood orbs with center at the top row and the far right column
+EN: Create an L shape of Wood orbs with its center at the top row and the far right column
 
 # 13724/132 - 
 Tags: EXTENDS_TIME
@@ -25528,7 +25528,7 @@ EN: Lock all orbs
 # 13834/176 - I play the leading man, who else?
 Tags: 
 Game: Creates 2 L shapes of Wood Orbs
-EN: Create L shape of Wood orbs with center at the top row and the far right column; Create L shape of Wood orbs with center at the bottom row and the far left column
+EN: Create an L shape of Wood orbs with its center at the top row and the far right column; Create an L shape of Wood orbs with its center at the bottom row and the far left column
 
 # 13838/116 - I was hoping you'd say that.
 Tags: REMOVE_LOCK
@@ -25833,7 +25833,7 @@ EN: Reduce unable to match orbs effect by 5 turns
 # 13971/116 - Jewel of Destruction
 Tags: REMOVE_LOCK
 Game: Removes Orb locks; creates 1 L shape of Light & Dark Orbs each
-EN: Unlock all orbs; Create L shape of Light orbs with center at the top row and the far left column; Create L shape of Dark orbs with center at the bottom row and the far right column
+EN: Unlock all orbs; Create an L shape of Light orbs with its center at the top row and the far left column; Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
 # 13972/172 - 
 Tags: REMOVE_LOCK
@@ -25843,12 +25843,12 @@ EN: Unlock all orbs
 # 13973/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Light orbs with center at the top row and the far left column
+EN: Create an L shape of Light orbs with its center at the top row and the far left column
 
 # 13974/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Dark orbs with center at the bottom row and the far right column
+EN: Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
 # 13978/116 - Demon Empress's Holy Tetra-formation
 Tags: LINE_ORBS_CONVERTER
@@ -26043,7 +26043,7 @@ EN: Change the bottom row to Wood orbs
 # 14059/176 - アリス!!
 Tags: 
 Game: 3×3の正方形に水ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
-EN: Create square of Water orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a square of Water orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 14060/116 - 双面の赤き屍航路を示す
 Tags: ENHANCED_HEAL,VOID_DAMAGE_ABSORBS
@@ -26183,12 +26183,12 @@ EN: For 2 turns, increase ATK by 30% for each Enhanced HP, Enhanced Attack, and 
 # 14121/116 - 伝家の宝刀――復活!!
 Tags: ENHANCED_ORBS,EXTENDS_TIME
 Game: L字型に光ドロップを1つ生成。光ドロップを強化。 1ターンの間、ドロップ操作を2秒延長。
-EN: Create L shape of Light orbs with center at the top row and the far right column; Enhance all Light orbs; For 1 turn, increase orb move time by 2 seconds
+EN: Create an L shape of Light orbs with its center at the top row and the far right column; Enhance all Light orbs; For 1 turn, increase orb move time by 2 seconds
 
 # 14122/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Light orbs with center at the top row and the far right column
+EN: Create an L shape of Light orbs with its center at the top row and the far right column
 
 # 14123/140 - 
 Tags: ENHANCED_ORBS
@@ -26223,7 +26223,7 @@ EN: For 1 turn, 3x orb move time
 # 14135/116 - チャンピオンオールスターズ
 Tags: REDUCE_DAMAGE
 Game: 1ターンの間、受けるダメージを激減。 L字型に火ドロップを1つ生成。
-EN: For 1 turn, reduce damage taken by 75%; Create L shape of Fire orbs with center at the top row and the far left column
+EN: For 1 turn, reduce damage taken by 75%; Create an L shape of Fire orbs with its center at the top row and the far left column
 
 # 14136/3 - 
 Tags: REDUCE_DAMAGE
@@ -26233,17 +26233,17 @@ EN: For 1 turn, reduce damage taken by 75%
 # 14137/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Fire orbs with center at the top row and the far left column
+EN: Create an L shape of Fire orbs with its center at the top row and the far left column
 
 # 14138/116 - わははははは
 Tags: EXTENDS_TIME
 Game: 十字型に木ドロップを1つ生成。 1ターンの間、ドロップ操作時間が2倍。
-EN: Create cross of Wood orbs with center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
+EN: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
 
 # 14139/176 - 
 Tags: 
 Game: 
-EN: Create cross of Wood orbs with center at the 2nd row from the top and the 2nd column from the right
+EN: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right
 
 # 14140/132 - 
 Tags: EXTENDS_TIME
@@ -26913,12 +26913,12 @@ EN: Change the outermost orbs of the board to Wood orbs
 # 14492/116 - 俺の怒りを受け取れ…!!
 Tags: ENHANCED_ORBS,ORB_LOCK
 Game: L字型に光ドロップを2つ生成。光ドロップを強化。 全ドロップをロック。
-EN: Create L shape of Light orbs with center at the top row and the far right column; Create L shape of Light orbs with center at the bottom row and the far left column; Enhance all Light orbs; Lock all orbs
+EN: Create an L shape of Light orbs with its center at the top row and the far right column; Create an L shape of Light orbs with its center at the bottom row and the far left column; Enhance all Light orbs; Lock all orbs
 
 # 14493/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Light orbs with center at the top row and the far right column; Create L shape of Light orbs with center at the bottom row and the far left column
+EN: Create an L shape of Light orbs with its center at the top row and the far right column; Create an L shape of Light orbs with its center at the bottom row and the far left column
 
 # 14494/140 - 
 Tags: ENHANCED_ORBS
@@ -28308,12 +28308,12 @@ EN: Create 5 Fire, Water, Wood, Light, Dark, and Heal orbs over any orbs
 # 15005/116 - Fumoffu
 Tags: ENHANCED_ORBS,THE_SWITCH
 Game: Switches places with Leader Monster, use again to switch back; all Orbs enhanced
-EN: Becomes Team leader, changes back when used again; Enhance all orbs
+EN: Becomes Team leader; changes back when used again; Enhance all orbs
 
 # 15006/93 - 
 Tags: THE_SWITCH
 Game: 
-EN: Becomes Team leader, changes back when used again
+EN: Becomes Team leader; changes back when used again
 
 # 15007/140 - 
 Tags: ENHANCED_ORBS
@@ -29133,12 +29133,12 @@ EN: Enhance all orbs
 # 15357/116 - ストロングムーブ
 Tags: EXTENDS_TIME
 Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
-EN: For 1 turn, 3x orb move time; Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 15358/176 - 
 Tags: 
 Game: 
-EN: Create square of Wood orbs with center at the 2nd row from the top and the 2nd column from the left
+EN: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 15359/132 - 
 Tags: EXTENDS_TIME
@@ -29673,7 +29673,7 @@ EN: Change the far left column and the 2nd column from the left to Wood orbs and
 # 15572/176 - 
 Tags: 
 Game: 
-EN: Create L shape of Dark orbs with center at the bottom row and the far right column
+EN: Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
 # 15577/116 - ホーリー・エルフの祝福
 Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER

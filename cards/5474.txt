@@ -6,7 +6,7 @@ SAWK: 52,55,21
 # 14138/116 - わははははは
 Tags: EXTENDS_TIME
 Game: 十字型に木ドロップを1つ生成。 1ターンの間、ドロップ操作時間が2倍。
-EN: Create cross of Wood orbs with center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
+EN: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
 
 # 14141/138 - どーやら俺の出番らしいな
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
