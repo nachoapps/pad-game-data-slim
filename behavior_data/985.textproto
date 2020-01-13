@@ -84,14 +84,20 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 1239
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -100,6 +106,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 1240
             }
           }
@@ -114,11 +122,15 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 1241
             }
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 1240
             }
           }
@@ -137,11 +149,16 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1241
                 }
               }
               children {
                 behavior {
+                  condition {
+                    global_one_time: true
+                  }
                   enemy_skill_id: 1242
                 }
               }
@@ -149,8 +166,20 @@
           }
           children {
             group {
+              condition {
+              }
               children {
                 behavior {
+                  condition {
+                    global_one_time: true
+                  }
+                  enemy_skill_id: 1242
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1243
                 }
               }
@@ -160,4 +189,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES

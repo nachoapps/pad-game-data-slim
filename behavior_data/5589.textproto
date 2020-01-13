@@ -83,3 +83,96 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 14647
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 14648
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 14649
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 14650
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 14651
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 14652
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 14
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 50
+                limited_execution: 1
+              }
+              enemy_skill_id: 14654
+            }
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 14653
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
