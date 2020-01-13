@@ -143,6 +143,7 @@
           condition {
             hp_threshold: 49
             trigger_turn: 1
+            always_trigger_above: 9
           }
           children {
             behavior {
@@ -166,4 +167,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
