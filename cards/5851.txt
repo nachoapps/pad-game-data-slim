@@ -1,15 +1,15 @@
-#5851 神速の獅子舞・バアル
+#5851 Brisk Lion Dancer, Baal
 HP: 3739 ATK: 2117 RCV: 418 LB: 30
 AWK: 10,10,21,28,19,19,43,55,44
 SAWK: 60,32,64
 
-# 15627/116 - ニューイヤーダンス
+# 15627/116 - New Year's Dance
 Tags: AWOKEN_INVALID_RECOVERY,ORB_LOCK
-Game: 覚醒無効状態を2ターン回復。 全ドロップをロック。
+Game: Reduces Awoken Skill bind status by 2 turns; locks all Orbs
 EN: Reduce awoken skill binds by 2 turns; Lock all orbs
 
-# 15630/138 - ひと噛みしてやるぜ！
+# 15630/138 - I'll take a bite out of you!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Game: 悪魔タイプの攻撃力と回復力が3倍。ドロップ操作を2秒延長。 4色以上同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: 3x ATK & RCV for Devil Type, Orb move time +2 seconds; 6x ATK & reduces damage when 4+ Att. attack at once
 EN: 3x ATK & RCV for Devil type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 

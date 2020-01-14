@@ -7760,7 +7760,7 @@ EN: Charge all allies' skills by 1 turn
 
 # 3358/116 - World of the Gleaming Moon
 Tags: ENHANCED_ORBS,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
-Game: All Orbs enhanced, reduces Awoken Skill bind status by 3 turns, Orb move time +5 seconds for 3 turns
+Game: All Orbs enhanced, reduces Awoken Skill bind status by 5 turns; Orb move time +5 seconds for 3 turns
 EN: Enhance all orbs; Reduce awoken skill binds by 5 turns; For 3 turns, increase orb move time by 5 seconds
 
 # 3359/140 - 
@@ -16782,7 +16782,7 @@ EN: Change Heal, Poison, and Mortal Poison orbs to Dark orbs
 
 # 9724/116 - Festive Starlight
 Tags: GUARD_STANCE,HEAL,RECOVER_BIND,LINE_ORBS_CONVERTER,HEAL_BIND_RECOVERY
-Game: Changes the bottom row to Heal Orbs; recovers 30% of max HP, reduces bind status by 3 turns
+Game: Changes the bottom row to Heal Orbs; recovers 30% of max HP, reduces bind status by 7 turns
 EN: Change the bottom row to Heal orbs; Recover 30% of max HP; Reduce binds by 7 turns
 
 # 9725/128 - 
@@ -22432,7 +22432,7 @@ EN: Deal 150000 damage to an enemy
 
 # 12448/116 - Arrow of Exorcism
 Tags: ORB_CONVERT,VOID_DAMAGE_ABSORBS
-Game: Voids damage absorption for 1 turn; changes Fire Orbs to Wood Orbs
+Game: Voids damage absorption for 1 turn; changes Fire Orbs to Wood Orbs, fully recovers unmatchable Orb status
 EN: For 1 turn, bypass damage absorb shield effects; Change Fire orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns
 
 # 12449/173 - 
@@ -29785,9 +29785,9 @@ Tags: REMOVE_LOCK
 Game: 
 EN: Unlock all orbs
 
-# 15619/116 - ハツナギオーロラ
+# 15619/116 - New Year's Aurora
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
-Game: 全ドロップのロックを解除し、5属性＋回復ドロップに変化。 3ターンの間、ダメージ吸収と属性吸収を無効化する。
+Game: Removes Orb locks, changes Orbs to all Att. & Heal; voids dmg absorption & Attribute absorption for 3 turns
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 3 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 15620/71 - 
@@ -29805,9 +29805,9 @@ Tags: REMOVE_LOCK
 Game: 
 EN: Unlock all orbs
 
-# 15627/116 - ニューイヤーダンス
+# 15627/116 - New Year's Dance
 Tags: AWOKEN_INVALID_RECOVERY,ORB_LOCK
-Game: 覚醒無効状態を2ターン回復。 全ドロップをロック。
+Game: Reduces Awoken Skill bind status by 2 turns; locks all Orbs
 EN: Reduce awoken skill binds by 2 turns; Lock all orbs
 
 # 15628/117 - 
@@ -29820,9 +29820,9 @@ Tags:
 Game: 
 EN: Lock all orbs
 
-# 15636/116 - 暴れ出す知識
+# 15636/116 - Rambunctious Knowledge
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 全ドロップを光と回復ドロップに変化。 HPとバインド状態と覚醒無効状態を全回復。
+Game: Changes all Orbs to Light & Heal Orbs; fully recovers HP & bind status (incl. Awoken)
 EN: Change all orbs to Light and Heal orbs; Recover all HP; Remove all binds and awoken skill binds
 
 # 15637/71 - 
@@ -29835,9 +29835,9 @@ Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_I
 Game: 
 EN: Recover all HP; Remove all binds and awoken skill binds
 
-# 15654/116 - 生命の息吹
+# 15654/116 - Breath of Life
 Tags: ADD_COMBO,ORB_LOCK
-Game: 1ターンの間、1コンボ加算される。 全ドロップをロック。
+Game: Adds 1 combo for 1 turn; locks all Orbs
 EN: For 1 turn, increase combo count by 1; Lock all orbs
 
 # 15655/160 - 
@@ -29850,9 +29850,9 @@ Tags:
 Game: 
 EN: Lock all orbs
 
-# 15662/116 - 怒りの暴風
+# 15662/116 - Furious Windstorm
 Tags: ORB_CONVERT,ORB_LOCK
-Game: 水、お邪魔、毒ドロップを木ドロップに変化。 木ドロップをロック。
+Game: Changes Water, Jammers & Poison to Wood Orbs; Wood Orbs locked
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
 
 # 15663/152 - 
@@ -29865,14 +29865,14 @@ Tags: ORB_CONVERT
 Game: 
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
-# 15669/152 - 魅了
+# 15669/152 - Fascination
 Tags: 
-Game: 火と回復ドロップをロック。
+Game: Fire & Heal Orbs locked
 EN: Lock Fire and Heal orbs
 
-# 15670/116 - 死を運ぶ者
+# 15670/116 - Death Evoker
 Tags: HEAL,DROP_CHANCE
-Game: 1ターンの間、毒ドロップが少し落ちやすくなる。 2ターンの間、最大HPの30％分回復。
+Game: Poison Orbs more likely to appear for 1 turn; recovers 30% of max HP for 2 turns
 EN: For 1 turn, Poison orbs are more likely to appear by 20%; For 2 turns, recover 30% of max HP
 
 # 15671/126 - 
@@ -29885,44 +29885,44 @@ Tags: HEAL
 Game: 
 EN: For 2 turns, recover 30% of max HP
 
-# 15673/156 - 五行占霊
+# 15673/156 - Seimei's Divination
 Tags: 
-Game: 1ターンの間、チーム内の操作不可耐性の覚醒1個につき、 攻撃力が100％上昇。
+Game: ATK increases by 100% for each [Resistance-Immobility] Awoken Skills in team for 1 turn
 EN: For 1 turn, increase ATK by 100% for each Resistance-Immobility awakening skill on the team
 
-# 15674/50 - 白兎の託宣
+# 15674/50 - White Hare's Oracle
 Tags: ENHANCED_ATTACK
-Game: 3ターンの間、火属性の攻撃力が2倍。
+Game: 2x ATK for Fire Att. for 3 turns
 EN: For 3 turns, 2x ATK for Fire Att.
 
-# 15675/3 - 堅牢の大盾
+# 15675/3 - Sturdy Mighty Shield
 Tags: REDUCE_DAMAGE
-Game: 1ターンの間、受けるダメージを半減。
+Game: Halves damage for 1 turn
 EN: For 1 turn, reduce damage taken by 50%
 
-# 15676/126 - 大地の萌芽
+# 15676/126 - Budding of the Earth
 Tags: DROP_CHANCE
-Game: 5ターンの間、回復ドロップが少し落ちやすくなる。
+Game: Heal Orbs more likely to appear for 5 turns
 EN: For 5 turns, Heal orbs are more likely to appear by 15%
 
-# 15677/180 - 精霊の力
+# 15677/180 - Spirit Power
 Tags: DROP_CHANCE
-Game: 5ターンの間、強化ドロップが50％の確率で落ちてくる。
+Game: 50% chance of Enhanced Orbs appearing for 5 turns
 EN: For 5 turns, enhanced orbs are more likely to appear by 50%
 
-# 15678/19 - 退魔の形
+# 15678/19 - Exorcising Method
 Tags: REDUCE_DEFENSE
-Game: 1ターンの間、敵の防御力が0になる。
+Game: Voids enemies' DEF for 1 turn
 EN: For 1 turn, reduce enemies' defense by 100%
 
-# 15679/117 - 微かな希望
+# 15679/117 - Faint Hope
 Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を5ターン回復。
+Game: Reduces bind status (incl. Awoken) by 5 turns
 EN: Reduce binds and awoken skill binds by 5 turns
 
-# 15680/116 - 福たまドラの初笑い
+# 15680/116 - Lucky TAMADRA's first laugh of the year
 Tags: VOID_DAMAGE,EXTENDS_TIME
-Game: 6ターンの間、闇属性ダメージを無効化。 6ターンの間、ドロップ操作を2秒延長。
+Game: Voids Dark Att. damage for 6 turns; Orb move time +2 seconds for 6 turns
 EN: For 6 turns, void all Dark damage; For 6 turns, increase orb move time by 2 seconds
 
 # 15681/21 - 

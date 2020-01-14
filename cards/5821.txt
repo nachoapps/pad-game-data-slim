@@ -3,8 +3,8 @@ HP: 3148 ATK: 2403 RCV: 638 LB: 0
 AWK: 49,24,24,24,54,9,1
 SAWK: 
 
-# 15654/116 - 生命の息吹
+# 15654/116 - Breath of Life
 Tags: ADD_COMBO,ORB_LOCK
-Game: 1ターンの間、1コンボ加算される。 全ドロップをロック。
+Game: Adds 1 combo for 1 turn; locks all Orbs
 EN: For 1 turn, increase combo count by 1; Lock all orbs
 

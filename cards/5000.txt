@@ -5,11 +5,11 @@ SAWK: 54,27,59
 
 # 12448/116 - Arrow of Exorcism
 Tags: ORB_CONVERT,VOID_DAMAGE_ABSORBS
-Game: Voids damage absorption for 1 turn; changes Fire Orbs to Wood Orbs
+Game: Voids damage absorption for 1 turn; changes Fire Orbs to Wood Orbs, fully recovers unmatchable Orb status
 EN: For 1 turn, bypass damage absorb shield effects; Change Fire orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns
 
 # 12451/138 - I will purify this maliciousness!
 Tags: ENHANCED_HP_ATK_RCV
-Game: 2x HP for Wood Att., 4x ATK with 4+ linked Wood Orbs; 3.5x ATK & 2x RCV with 4+ combos
+Game: 2x HP for Wood Att., 4x ATK with 4+ linked Wood Orbs; 4x ATK & 2x RCV with 4+ combos
 EN: 2x HP for Wood Att.; 4x ATK and 2x RCV when 4 or more combos; 4x ATK when matching 4 or more connected Wood orbs
 

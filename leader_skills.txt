@@ -25190,7 +25190,7 @@ EN: 2.5x ATK & RCV for Fire Att. on the turn a skill is used
 
 # 9721/138 - Can you not walk straight?!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: 6x ATK for Att. erasing 5 Orbs including enhanced;  3x ATK & reduces damage with 6+ combos
+Game: 6x ATK for Att. erasing 5 Orbs including enhanced;  3.5x ATK & reduces damage with 6+ combos
 EN: 6x ATK for matched Att. when matching 5 Orbs with 1+ enhanced; 3.5x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 9722/150 - 
@@ -26273,9 +26273,9 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
 EN: 3x ATK and reduce damage taken by 25% when matching Fire, Water at once
 
-# 10137/138 - I also leave claw marks!!
+# 10137/138 - I'll leave some claw-marks!
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
-Game: 1.5x HP & RCV for Dragon Type; 4x ATK with 2+ Att., Orb move time +4 seconds
+Game: 2x to all stats for Dragon Type; 4x ATK with 2+ Att., Orb move time +4 seconds
 EN: 1.5x HP & RCV for Dragon type; Increase orb movement time by 4 seconds; 4x ATK when matching 2 or more colors
 
 # 10138/185 - 
@@ -32855,7 +32855,7 @@ EN: 4x ATK when 5 or more combos
 
 # 12451/138 - I will purify this maliciousness!
 Tags: ENHANCED_HP_ATK_RCV
-Game: 2x HP for Wood Att., 4x ATK with 4+ linked Wood Orbs; 3.5x ATK & 2x RCV with 4+ combos
+Game: 2x HP for Wood Att., 4x ATK with 4+ linked Wood Orbs; 4x ATK & 2x RCV with 4+ combos
 EN: 2x HP for Wood Att.; 4x ATK and 2x RCV when 4 or more combos; 4x ATK when matching 4 or more connected Wood orbs
 
 # 12452/129 - 
@@ -36323,9 +36323,9 @@ Tags:
 Game: モンスター交換所で 【進撃の巨人コラボ】モンスターと交換できる。
 EN: 
 
-# 13717/138 - Victory is mine! Meow!
+# 13717/138 - Victory is Mine-nya!
 Tags: ENHANCED_ATK
-Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 3x ATK for each cross of 5 any Attribute
+Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 3x ATK for each cross of 5 Orbs of any Attribute
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, Wood orbs; 3x ATK for each cross of 5 Light, Dark orbs
 
 # 13718/194 - 
@@ -41299,9 +41299,9 @@ Tags: ENHANCED_ATK
 Game: 
 EN: 4x ATK for Water Att. when above 50% HP
 
-# 15622/138 - それでは、参りましょうか
+# 15622/138 - Right, shall we get started?
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 悪魔とバランスタイプのHPと攻撃力2倍。ドロップ操作を2秒延長。 7コンボ以上でダメージを軽減。4色以上同時攻撃で攻撃力が9.5倍。
+Game: 2x HP & ATK for Devil & Balanced, Orb move time +2 sec; reduces dmg with 7+ combos, 9.5x ATK when 4+ Att. Attack
 EN: 2x HP & ATK for Balanced, Devil type; Increase orb movement time by 2 seconds; Reduce damage taken by 25% when 7 or more combos; 9.5x ATK when matching 4 or more colors
 
 # 15623/185 - 
@@ -41319,9 +41319,9 @@ Tags: ENHANCED_ATK
 Game: 
 EN: 9.5x ATK when matching 4 or more colors
 
-# 15630/138 - ひと噛みしてやるぜ！
+# 15630/138 - I'll take a bite out of you!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Game: 悪魔タイプの攻撃力と回復力が3倍。ドロップ操作を2秒延長。 4色以上同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: 3x ATK & RCV for Devil Type, Orb move time +2 seconds; 6x ATK & reduces damage when 4+ Att. attack at once
 EN: 3x ATK & RCV for Devil type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 
 # 15631/185 - 
@@ -41334,9 +41334,9 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
 EN: 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 
-# 15633/138 - 豊麗神の真魂
+# 15633/138 - True Spirit of the Fertility Goddess
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Game: 木属性のHPが1.5倍、攻撃力と回復力は4倍。 木を5個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+Game: 1.5x HP and 4x ATK & RCV for Wood Att.; 3x ATK & reduces damage with 5+ linked Wood Orbs
 EN: 4x ATK & RCV and 1.5x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Wood orbs
 
 # 15634/129 - 
@@ -41349,9 +41349,9 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
 EN: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Wood orbs
 
-# 15639/138 - 眩耀の驚異
+# 15639/138 - Wonderous Dazzling Shine
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: HP50％以上で攻撃力が6倍、49％以下で攻撃力と回復力が4倍。 光の2コンボ以上でダメージを軽減、攻撃力が3倍。
+Game: 6x ATK when HP is 50% or more, 4x ATK & RCV when 49% or less; 3x ATK & reduces damage with 2+ Light combos
 EN: 6x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 3x ATK and reduce damage taken by 25% when matching 2+ Light combos
 
 # 15640/183 - 
@@ -41369,9 +41369,9 @@ Tags:
 Game: 
 EN: Increase combo by 2 when matching 9 or more connected Light orbs at once
 
-# 15643/138 - 翠天使の魂
+# 15643/138 - Spirit of the Green Angel
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Game: 木属性の全パラメータが1.5倍。HP50％以上で攻撃力が2倍。 木の2コンボ以上でダメージを軽減、攻撃力が5倍。
+Game: 1.5x to all stats for Wood Att., 2x ATK when HP is 50% or more; 5x ATK & reduces damage with 2 Wood combos
 EN: 1.5x all stats for Wood Att.; 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2x ATK when above 50% HP
 
 # 15644/129 - 
@@ -41384,9 +41384,9 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
 EN: 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos
 
-# 15646/138 - 聖天使の魂
+# 15646/138 - Spirit of the Holy Angel
 Tags: ENHANCED_ATK
-Game: 光属性の攻撃力が4倍。スキル使用時、攻撃力が1.5倍。 5コンボ以上で攻撃力が上昇、最大4倍。
+Game: 4x ATK for Light Att., 1.5x ATK when skills used; ATK increases with 5+ combos, up to 4x
 EN: 4x ATK for Light Att.; 2x ATK when 5 or more combos up to 4x at 7 combos; 1.5x ATK on the turn a skill is used
 
 # 15647/129 - 
@@ -41399,9 +41399,9 @@ Tags: ENHANCED_ATK
 Game: 
 EN: 2x ATK when 5 or more combos up to 4x at 7 combos
 
-# 15649/138 - 魔天使の魂
+# 15649/138 - Spirit of the Dark Angel
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
-Game: 闇属性の攻撃力と回復力が2.5倍。ドロップ操作を2秒延長。 ドロップを6個以上つなげて消すと攻撃力が上昇、最大8倍。
+Game: 2.5x ATK & RCV for Dark Att., Orb move time +2 sec; ATK increases with 6+ linked Orbs, up to 8x
 EN: 2.5x ATK & RCV for Dark Att.; Increase orb movement time by 2 seconds; 6x ATK when matching 6 or more connected orbs up to 8x at 8 orbs
 
 # 15650/185 - 
@@ -41429,9 +41429,9 @@ Tags: REDUCE_DAMAGE
 Game: 
 EN: Reduce damage taken by 25% when matching 6 or more connected Wood orbs
 
-# 15658/138 - 風は言っています。私に……戦えと！
+# 15658/138 - The wind whispers to me...fight!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 木属性のHPが1.5倍。4コンボ以上で攻撃力が上昇、最大20倍。 木を6個以上つなげて消すとダメージを軽減、1コンボ加算。
+Game: 1.5x HP for Wd Att., ATK increases with 4+ combos, up to 20x; adds 1 combo & reduces dmg with 6+ linked Wood Orbs
 EN: 1.5x HP for Wood Att.; 8x ATK when 4 or more combos up to 20x at 10 combos; Increase combo by 1 when matching 6 or more connected Wood orbs at once; Reduce damage taken by 25% when matching 6 or more connected Wood orbs
 
 # 15659/129 - 
@@ -41449,9 +41449,9 @@ Tags:
 Game: 
 EN: Increase combo by 1 when matching 6 or more connected Wood orbs at once
 
-# 15665/138 - 風は何でも知っているの
+# 15665/138 - The wind is omniscient
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
-Game: 木属性のHPが2倍。4コンボ以上で攻撃力が上昇、最大20倍。 木を9個以上つなげて消すと、固定1ダメージ。
+Game: 2x HP for Wood Att., ATK increases with 4+ combos, up to 20x; inflicts 1 damage with 9+ linked Wood Orbs
 EN: 2x HP for Wood Att.; 8x ATK when 4 or more combos up to 20x at 10 combos; 1 additional damage when matching 9 or more Wood orbs
 
 # 15666/129 - 
