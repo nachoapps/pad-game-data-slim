@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15388:15) ガードブレイク
+ | (15388:15) Guard Break
  | Deal 20% damage
  group:
- | (15386:15) シャインブレイク
+ | (15386:15) Shine Break
  | Deal 102% damage (6 hits, 17% each)

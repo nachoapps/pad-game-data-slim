@@ -7,22 +7,23 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESDeathCry(69:15528) -> ロキ変身
+#2: ESDeathCry(69:15528) -> Loki Transformation
 Condition: On death (ai:0 rnd:0)
-Show message: 甘いぞ|神々はすべて我にひれ伏す…
+Show message: How weak...
+All Gods shall grovel at my feet
 
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
-	[0] ESDebuffRCV(105:15529) -> 来るがいい、愚かな神どもよ
+	[0] ESDebuffRCV(105:15529) -> Bring it on, foolish Gods!
 	RCV +50% for 5 turns
-	[1] ESVoidShield(71:15530) -> 反逆の結界
+	[1] ESVoidShield(71:15530) -> Rebellion Barrier
 	Void damage >= 4000000 for 10 turns
 
-#4: ESAbsorbAttribute(53:15534) -> ぬるいぞ
+#4: ESAbsorbAttribute(53:15534) -> Pretty Weak...
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Absorb Wood damage for 2 turns
 
-#5: ESAttackUPRemainingEnemies(17:15535) -> ルーンエンハンス
+#5: ESAttackUPRemainingEnemies(17:15535) -> Rune Enhancement
 Condition: When < 20% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 130% for the next 3 turns
 
@@ -32,7 +33,7 @@ Branch on counter >= 3, target rnd 10
 #7: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#8: ESAttackMultihit(15:15532) -> 終焉の刃
+#8: ESAttackMultihit(15:15532) -> Blade of Depair
 Deal 105% damage (3 hits, 35% each)
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -41,7 +42,7 @@ end_turn
 #10: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#11: ESBlindStickyRandom(97:15533) -> ディスペアー
+#11: ESBlindStickyRandom(97:15533) -> Despair
 Blind random 3~6 orbs for 2 turns
 
 #12: ESEndPath(36:26) -> ESEndPath

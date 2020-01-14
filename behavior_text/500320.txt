@@ -8,13 +8,13 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15428:97) ブラックカーテン
+ | (15428:97) Black Curtain
  | Blind random 10 orbs for 1 turn
  group:
  | group:
-   | (15429:15) ダークレイ
+   | (15429:15) Dark Ray
    | Deal 102% damage (6 hits, 17% each)
  | group:
  | condition: turn 1, hp <= 49
-   | (15430:68) バグレイン
+   | (15430:68) Bug Rain
    | Jammer skyfall +15% for 3 turns

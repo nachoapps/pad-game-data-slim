@@ -25,7 +25,7 @@ flag SET 0b1
 end_turn
 
 #6: ESBranchCounter(32:22) -> ESBranchCounter
-Branch on counter >= 3, target rnd 15
+Branch on counter >= 2, target rnd 15
 
 #7: ESSetCounter(26:16) -> ESSetCounter
 counter + 1

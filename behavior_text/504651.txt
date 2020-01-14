@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15422:74) 燃え上がる巨体
+ | (15422:74) Huge Burning Mass
  | Reduce damage from all sources by 75% for 3 turns
  group:
  | condition: 20% chance
- | (15424:102) 爆甲
+ | (15424:102) Explosive Shell
  | Spawn 3 random Bomb orbs, Deal 100% damage
- | (15423:15) 狂熱の烈爪
+ | (15423:15) Wild Flaming Fierce Claws
  | Deal 100% damage (5 hits, 20% each)

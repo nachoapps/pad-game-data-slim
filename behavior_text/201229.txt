@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15714:71) ミーミルのいずみたまぁ！
+ | (15714:71) Mimir's Well-TAMA!
  | Void damage >= 4000000 for 5 turns
  group:
- | (15720:48) まそうぐんぐにーるたまぁ！
+ | (15720:48) Magic Spear Gungnir-TAMA!
  | Change a random attribute to Dark orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
- | (15723:48) まそうぐんぐにーるたまぁ！
+ | (15723:48) Magic Spear Gungnir-TAMA!
  | Change a random attribute to Dark orbs, Deal 150% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
  | condition: turn 1
-   | (15717:127) 秘神のちからたまぁ！
+   | (15717:127) Mysterious God Power-TAMA!
    | No skyfall for 5 turns
  | group:
-   | (15726:48) まそうぐんぐにーるたまぁ！
+   | (15726:48) Magic Spear Gungnir-TAMA!
    | Change a random attribute to Dark orbs, Deal 300% damage

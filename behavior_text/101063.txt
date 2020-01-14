@@ -1,4 +1,4 @@
-#101063 - 裏ボーンフィッシュ
+#101063 - Alt. Bone Fish
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -8,16 +8,16 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16090:104) ギョギョ！
+ | (16090:104) The Will of Destruction and Creation
  | A column of clouds appears for 3 turns at 1st row, 1st column
  group:
- | (16092:92) ボーンボーン
+ | (16092:92) Bon-bon
  | Spawn 1 random Poison orb, Deal 100% damage
 
 level: 6
  type: PREEMPT
- | (16091:99) ギョギョ！
+ | (16091:99) Gyo gyo gyo!
  | Seal the 6th column for 3 turns
  group:
- | (16092:92) ボーンボーン
+ | (16092:92) Bon-bon
  | Spawn 1 random Poison orb, Deal 100% damage

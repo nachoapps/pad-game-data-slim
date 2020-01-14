@@ -9,17 +9,17 @@ approved: False
 level: 1
  group:
  | condition: 60% chance
- | (15427:101) デーモンピック
+ | (15427:101) Demon Pick
  | Fix orb movement starting point to random position on the board, Deal 200% damage
- | (15426:15) フレアレイン
+ | (15426:15) Flare Rain
  | Deal 105% damage (3 hits, 35% each)
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
  | condition: execute repeatedly, turn 1 of 7
-   | (15425:17) 悪魔の怒り
+   | (15425:17) Devil's Rage
    | Increase damage to 200% for the next 6 turns
  | group:
  | condition: execute repeatedly, turn 2-7 of 7
-   | (15426:15) フレアレイン
+   | (15426:15) Flare Rain
    | Deal 105% damage (3 hits, 35% each)

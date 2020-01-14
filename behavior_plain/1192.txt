@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESSpinnersFixed(110:15311) -> 私と舞い踊りましょう
+	[0] ESSpinnersFixed(110:15311) -> Let's Dance
 	Specific orbs change every 1.0s for 2 turns
-	[1] ESAbsorbCombo(67:15312) -> ゲコ分身
+	[1] ESAbsorbCombo(67:15312) -> Geko Replication
 	Absorb damage when combos <= 7 for 10 turns
 
 #3: ESBranchCounter(32:22) -> ESBranchCounter
@@ -20,11 +20,11 @@ Branch on counter >= 9, target rnd 8
 #4: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#5: ESSpinnersFixed(110:15313) -> 踊扇の舞
+#5: ESSpinnersFixed(110:15313) -> Folding Fan Dance
 Condition: 50% chance (ai:0 rnd:50)
 Specific orbs change every 2.0s for 2 turns, Deal 100% damage
 
-#6: ESSpinnersFixed(110:15314) -> 踊扇の舞
+#6: ESSpinnersFixed(110:15314) -> Folding Fan Dance
 Condition: 50% chance (ai:0 rnd:50)
 Specific orbs change every 1.0s for 2 turns, Deal 100% damage
 
@@ -38,9 +38,9 @@ Branch on counter >= 10, target rnd 5
 counter + 1
 
 #10: SkillSet:
-	[0] ESVoidShield(71:15316) -> 疲れちゃった？
+	[0] ESVoidShield(71:15316) -> Are you tired?
 	Void damage >= 10000000 for 999 turns
-	[1] ESDebuffRCV(105:15317) -> まだ私踊り足りないの
+	[1] ESDebuffRCV(105:15317) -> I want to dance some more
 	RCV +25% for 10 turns
 
 #11: ESEndPath(36:26) -> ESEndPath

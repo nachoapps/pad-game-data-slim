@@ -11,7 +11,7 @@ level: 1
  | (9942:73) 50% Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (15699:83) クラウドクラスター + 雲海の防護壁 + レインボーフォッグ + 硬軟な朧雲
+ | (15699:83) Cloud Cluster + Protective Cloud Wall + Rainbow Fog + Fluid Clouds
  | A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column + Voids status ailments for 99 turns + Absorb damage when combos <= 7 for 1 turn + Reduce damage from all sources by 75% for 5 turns
  group:
  | group:

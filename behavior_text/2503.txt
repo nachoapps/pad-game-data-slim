@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15657:83) 13ターン待ってやる + さぁ、考えろ！
+ | (15657:83) I'll wait 13 turns + Think about it!
  | Voids status ailments for 999 turns + No skyfall for 13 turns
  group:
- | (15660:83) 残念だったな + 俺の勝ちだ！！
+ | (15660:83) Too bad + Victory is Mine!
  | Voids player buff effects + Deal 10000% damage (10 hits, 1000% each), Deal 10000% damage (10 hits, 1000% each)

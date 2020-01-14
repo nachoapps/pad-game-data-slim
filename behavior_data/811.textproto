@@ -5,12 +5,7 @@
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 16231
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 16232
+          enemy_skill_id: 16225
         }
       }
     }
@@ -23,6 +18,23 @@
         group {
           condition {
             trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 16231
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 16232
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 2
           }
           children {
             behavior {
@@ -39,7 +51,7 @@
       children {
         group {
           condition {
-            trigger_turn: 2
+            trigger_turn: 3
           }
           children {
             behavior {
@@ -56,7 +68,7 @@
       children {
         group {
           condition {
-            trigger_turn: 3
+            trigger_turn: 4
           }
           children {
             behavior {
@@ -73,7 +85,7 @@
       children {
         group {
           condition {
-            trigger_turn: 4
+            trigger_turn: 5
           }
           children {
             behavior {
@@ -90,7 +102,7 @@
       children {
         group {
           condition {
-            trigger_turn: 5
+            trigger_turn: 6
           }
           children {
             behavior {
@@ -114,16 +126,6 @@
               enemy_skill_id: 16255
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 16225
         }
       }
     }

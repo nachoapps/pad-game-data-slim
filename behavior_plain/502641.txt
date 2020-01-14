@@ -14,9 +14,9 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESAbsorbCombo(67:15522) -> 震天の咆哮
+	[0] ESAbsorbCombo(67:15522) -> Heavens Howl
 	Absorb damage when combos <= 5 for 10 turns
-	[1] ESDamageShield(74:15527) -> 終末の刻印
+	[1] ESDamageShield(74:15527) -> Final Seal
 	Reduce damage from all sources by 50% for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -28,11 +28,11 @@ Branch on counter >= 9, target rnd 11
 #7: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#8: ESCloud(104:15526) -> 地獄の煙
+#8: ESCloud(104:15526) -> Hell Smoke
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
 A 3×1 rectangle of clouds appears for 1 turn at a random location, Deal 150% damage
 
-#9: ESAttackMultihit(15:15524) -> 神喰い
+#9: ESAttackMultihit(15:15524) -> God Eating
 Deal 98~112% damage (7~8 hits, 14% each)
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -41,7 +41,7 @@ end_turn
 #11: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#12: ESAttackUPRemainingEnemies(17:15525) -> 終末の解放
+#12: ESAttackUPRemainingEnemies(17:15525) -> Final Release
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 1000% for the next 1 turn
 

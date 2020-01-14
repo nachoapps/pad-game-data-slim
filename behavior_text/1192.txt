@@ -8,25 +8,25 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15310:83) 私と舞い踊りましょう + ゲコ分身
+ | (15310:83) Let's Dance + Geko Replication
  | Specific orbs change every 1.0s for 2 turns + Absorb damage when combos <= 7 for 10 turns
  group:
  | group:
  | condition: turns 1-9
    | condition: 50% chance
-   | (15313:110) 踊扇の舞
+   | (15313:110) Folding Fan Dance
    | Specific orbs change every 2.0s for 2 turns, Deal 100% damage
    | condition: 50% chance
-   | (15314:110) 踊扇の舞
+   | (15314:110) Folding Fan Dance
    | Specific orbs change every 1.0s for 2 turns, Deal 100% damage
  | group:
  | condition: turn 10
-   | (15315:83) 疲れちゃった？ + まだ私踊り足りないの
+   | (15315:83) Are you tired? + I want to dance some more
    | Void damage >= 10000000 for 999 turns + RCV +25% for 10 turns
  | group:
    | condition: 50% chance
-   | (15313:110) 踊扇の舞
+   | (15313:110) Folding Fan Dance
    | Specific orbs change every 2.0s for 2 turns, Deal 100% damage
    | condition: 50% chance
-   | (15314:110) 踊扇の舞
+   | (15314:110) Folding Fan Dance
    | Specific orbs change every 1.0s for 2 turns, Deal 100% damage

@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15450:62) グランドミスト
+ | (15450:62) Grand Mist
  | Blind all orbs on the board, Deal 100% damage
  group:
  | group:
-   | (15451:15) カースボール
+   | (15451:15) Curse Ball
    | Deal 160% damage (2 hits, 80% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (15452:127) アンフォール
+     | (15452:127) No Fall Zone
      | No skyfall for 3 turns
    | group:
      | condition: 50% chance
-     | (15453:15) カースバブル
+     | (15453:15) Curse Bubble
      | Deal 100~150% damage (4~6 hits, 25% each)
-     | (15451:15) カースボール
+     | (15451:15) Curse Ball
      | Deal 160% damage (2 hits, 80% each)

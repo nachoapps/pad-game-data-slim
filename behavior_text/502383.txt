@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15460:83) 海神の雄叫び + 水縛
+ | (15460:83) Roar of the Sea God + Water Bind
  | Change all orbs to Water and Jammer + Lock 15 random orbs
  group:
  | group:
    | group:
    | condition: turn 1 while HP > 49
-     | (15462:53) 守護の神水
+     | (15462:53) Protective Water God
      | Absorb Wood damage for 2 turns
    | group:
      | condition: 30% chance
-     | (15463:105) ツラヌキ
+     | (15463:105) Tsuranuki
      | RCV +50% for 2 turns, Deal 170% damage
-     | (15461:15) 叛神のアギト
+     | (15461:15) Rebellious God's Jaws
      | Deal 100% damage (4 hits, 25% each)
  | group:
  | condition: turn 1, hp <= 29
-   | (15464:17) ヴィークエンハンス
+   | (15464:17) Wake Enhance
    | Increase damage to 200% for the next 6 turns

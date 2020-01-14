@@ -8,49 +8,49 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (15672:73) 根性
+ | (15672:73) Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | condition: 20% chance
- | (15673:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
+ | (15673:83) Pleased to meet you + Are you ready? + Here I go!
  | RCV +50% for 10 turns + Absorb Fire damage for 5 turns + Unable to match Water orbs for 5 turns
  | condition: 25% chance
- | (15674:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
+ | (15674:83) Pleased to meet you + Are you ready? + Here I go!
  | RCV +50% for 10 turns + Absorb Water damage for 5 turns + Unable to match Wood orbs for 5 turns
  | condition: 33% chance
- | (15675:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
+ | (15675:83) Pleased to meet you + Are you ready? + Here I go!
  | RCV +50% for 10 turns + Absorb Wood damage for 5 turns + Unable to match Fire orbs for 5 turns
  | condition: 50% chance
- | (15676:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
+ | (15676:83) Pleased to meet you + Are you ready? + Here I go!
  | RCV +50% for 10 turns + Absorb Light damage for 5 turns + Unable to match Dark orbs for 5 turns
- | (15677:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
+ | (15677:83) Pleased to meet you + Are you ready? + Here I go!
  | RCV +50% for 10 turns + Absorb Dark damage for 5 turns + Unable to match Light orbs for 5 turns
  group:
  | group:
    | group:
    | condition: turns 1-4 while HP > 9
      | condition: 50% chance
-     | (15689:94) 蒼鎖閃
+     | (15689:94) Blue Chain Flash
      | Lock 10 random orbs, Deal 100% damage
      | condition: 50% chance
-     | (15690:92) 星海の煌き
+     | (15690:92) Starsea Glimmer
      | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 95% damage
    | group:
    | condition: turn 5 while HP > 9
-     | (15691:83) ここまで耐えましたか + なかなかやりますね + 勝負はこれからですよ
+     | (15691:83) You held out this long? + Not too shabby... + We're only getting started
      | Voids status ailments for 999 turns + Delay active skills by 5 turns + Void damage >= 100000000 for 999 turns
    | group:
      | condition: 50% chance
-     | (15689:94) 蒼鎖閃
+     | (15689:94) Blue Chain Flash
      | Lock 10 random orbs, Deal 100% damage
      | condition: 50% chance
-     | (15690:92) 星海の煌き
+     | (15690:92) Starsea Glimmer
      | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 95% damage
  | group:
  | condition: hp <= 9
-   | (15695:15) 星海輪輝
+   | (15695:15) Starsea Halo
    | Deal 400% damage (4 hits, 100% each)
  | group:
  | condition: hp <= 1
-   | (15696:83) もう許しません + 超えられますか？
+   | (15696:83) Unforgivable + Can you overcome this?
    | Increase damage to 150% for the next 999 turns + Absorb damage when combos <= 9 for 1 turn

@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 16)
-	[0] ESVoidShield(71:15472) -> 魔狼騎士の鎧
+	[0] ESVoidShield(71:15472) -> Fenrir Knight's Armor
 	Void damage >= 100000 for 1 turn
-	[1] ESDebuffMovetime(39:15473) -> 氷の斧
+	[1] ESDebuffMovetime(39:15473) -> Ice Axe
 	Movetime -1s for 5 turns
 
 #3: ESAttackMultihit(15:4813) -> Instant Strike

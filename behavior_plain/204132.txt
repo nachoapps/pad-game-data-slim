@@ -1,4 +1,4 @@
-#204132 - 新春の福狐・コンタ
+#204132 - New Year's Fortune Fox, Konta
 monster size: 3
 new AI: True
 start/max counter: 0
@@ -19,13 +19,13 @@ Branch on counter >= 3, target rnd 10
 #5: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 2, target rnd 8
 
-#6: ESAttackMultihit(15:8771) -> おさ～んぱ～い
+#6: ESAttackMultihit(15:8771) -> Shrine Visit!
 Deal 60% damage (2 hits, 30% each)
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#8: ESRandomSpawn(92:8772) -> おさいせ～ん
+#8: ESRandomSpawn(92:8772) -> Monetary Offering!
 Spawn 2 random Light orbs, Deal 100% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -34,7 +34,7 @@ end_turn
 #10: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#11: ESAttackMultihit(15:8773) -> 一拝
+#11: ESAttackMultihit(15:8773) -> A Bow
 Deal 140% damage
 
 #12: ESEndPath(36:26) -> ESEndPath

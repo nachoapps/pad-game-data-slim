@@ -7,15 +7,15 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESBlindStickyRandom(97:15428) -> ブラックカーテン
+#2: ESBlindStickyRandom(97:15428) -> Black Curtain
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Blind random 10 orbs for 1 turn
 
-#3: ESSkyfall(68:15430) -> バグレイン
+#3: ESSkyfall(68:15430) -> Bug Rain
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Jammer skyfall +15% for 3 turns
 
-#4: ESAttackMultihit(15:15429) -> ダークレイ
+#4: ESAttackMultihit(15:15429) -> Dark Ray
 Deal 102% damage (6 hits, 17% each)
 
 #5: ESEndPath(36:26) -> ESEndPath

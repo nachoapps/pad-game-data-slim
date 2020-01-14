@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15341:39) 葬りさってくれる！
+ | (15341:39) I'm gonna bury you!
  | Movetime -3s for 3 turns
  group:
- | (15342:15) バーニングフィスト
+ | (15342:15) Burning Fist
  | Deal 200% damage (2 hits, 100% each)

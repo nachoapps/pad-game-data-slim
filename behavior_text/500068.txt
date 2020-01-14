@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15388:15) ガードブレイク
+ | (15388:15) Guard Break
  | Deal 20% damage
  group:
- | (15383:15) フレアブレイク
+ | (15383:15) Flare Break
  | Deal 96% damage (3 hits, 32% each)

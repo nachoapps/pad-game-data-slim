@@ -7,15 +7,15 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESDamageShield(74:15422) -> 燃え上がる巨体
+#2: ESDamageShield(74:15422) -> Huge Burning Mass
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 75% for 3 turns
 
-#3: ESBombRandomSpawn(102:15424) -> 爆甲
+#3: ESBombRandomSpawn(102:15424) -> Explosive Shell
 Condition: 20% chance (ai:20 rnd:0)
 Spawn 3 random Bomb orbs, Deal 100% damage
 
-#4: ESAttackMultihit(15:15423) -> 狂熱の烈爪
+#4: ESAttackMultihit(15:15423) -> Wild Flaming Fierce Claws
 Deal 100% damage (5 hits, 20% each)
 
 #5: ESEndPath(36:26) -> ESEndPath

@@ -8,18 +8,18 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15409:74) トレントの長
+ | (15409:74) Trent's Boss
  | Reduce damage from all sources by 50% for 2 turns
  group:
- | (15410:13) 邪木の実降らし
+ | (15410:13) Falling seeds from the evil tree
  | Change 1 random orb to Jammer orbs
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
  | condition: execute repeatedly, turn 1 of 6
-   | (15408:17) 怒り木
+   | (15408:17) Rage Tree
    | Increase damage to 200% for the next 5 turns
  | group:
  | condition: execute repeatedly, turn 2-6 of 6
-   | (15407:15) フォレストダンス
+   | (15407:15) Forest Dance
    | Deal 120% damage (4 hits, 30% each)

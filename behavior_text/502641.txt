@@ -8,17 +8,17 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15523:83) 震天の咆哮 + 終末の刻印
+ | (15523:83) Heavens Howl + Final Seal
  | Absorb damage when combos <= 5 for 10 turns + Reduce damage from all sources by 50% for 5 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1-9 of 10
    | condition: 50% chance
-   | (15526:104) 地獄の煙
+   | (15526:104) Hell Smoke
    | A 3×1 rectangle of clouds appears for 1 turn at a random location, Deal 150% damage
-   | (15524:15) 神喰い
+   | (15524:15) God Eating
    | Deal 98~112% damage (7~8 hits, 14% each)
  | group:
  | condition: execute repeatedly, turn 10 of 10
-   | (15525:17) 終末の解放
+   | (15525:17) Final Release
    | Increase damage to 1000% for the next 1 turn

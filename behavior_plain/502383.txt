@@ -9,23 +9,23 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESBoardChange(84:15458) -> 海神の雄叫び
+	[0] ESBoardChange(84:15458) -> Roar of the Sea God
 	Change all orbs to Water and Jammer
-	[1] ESOrbLock(94:15459) -> 水縛
+	[1] ESOrbLock(94:15459) -> Water Bind
 	Lock 15 random orbs
 
-#3: ESAttackUPRemainingEnemies(17:15464) -> ヴィークエンハンス
+#3: ESAttackUPRemainingEnemies(17:15464) -> Wake Enhance
 Condition: When < 30% HP , one-time use, when <= 6 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 6 turns
 
 #4: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 50, target rnd 7
 
-#5: ESDebuffRCV(105:15463) -> ツラヌキ
+#5: ESDebuffRCV(105:15463) -> Tsuranuki
 Condition: 30% chance (ai:30 rnd:0)
 RCV +50% for 2 turns, Deal 170% damage
 
-#6: ESAttackMultihit(15:15461) -> 叛神のアギト
+#6: ESAttackMultihit(15:15461) -> Rebellious God's Jaws
 Deal 100% damage (4 hits, 25% each)
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
@@ -34,7 +34,7 @@ Branch on flag & 1, target rnd 5
 #8: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#9: ESAbsorbAttribute(53:15462) -> 守護の神水
+#9: ESAbsorbAttribute(53:15462) -> Protective Water God
 Absorb Wood damage for 2 turns
 
 #10: ESEndPath(36:26) -> ESEndPath

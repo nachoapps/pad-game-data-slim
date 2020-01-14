@@ -17,5 +17,5 @@ end_turn
 
 #4: SkillSet:
 	Condition: On death (ai:0 rnd:0)
-	[0] ESSkillSet(83:15370) -> 最後の抵抗 + 怨撃
+	[0] ESSkillSet(83:15370) -> Final Resistance + Grudge Hit
 	Delay active skills by 1 turn + Deal 150% damage (10 hits, 15% each), Deal 150% damage (10 hits, 15% each)

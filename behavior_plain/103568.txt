@@ -20,13 +20,13 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESStatusShield(20:15327) -> オレが・・・最強だ！！！
+	[0] ESStatusShield(20:15327) -> I...am the strongest!
 	Voids status ailments for 999 turns
-	[1] ESVoidShield(71:15328) -> エクスウォール
+	[1] ESVoidShield(71:15328) -> X Wall
 	Void damage >= 25000000 for 999 turns
-	[2] ESAbsorbCombo(67:15329) -> アブソーブゼクス
+	[2] ESAbsorbCombo(67:15329) -> Absorb Sechs
 	Absorb damage when combos <= 7 for 99 turns
-	[3] ESOrbSealColumn(99:15330) -> ヒィイイイェアアア！！！
+	[3] ESOrbSealColumn(99:15330) -> Hyaaaaah!!!
 	Seal the 1st and 6th columns for 1 turn, Deal 200% damage
 
 #7: ESEndPath(36:26) -> ESEndPath

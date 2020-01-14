@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15389:50) アーマーブレイク
+ | (15389:50) Armor Break
  | Player -90% HP
  group:
- | (15390:15) ダークニードル
+ | (15390:15) Dark Needle
  | Deal 105% damage (3 hits, 35% each)

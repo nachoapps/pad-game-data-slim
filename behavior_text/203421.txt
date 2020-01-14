@@ -1,4 +1,4 @@
-#203421 - 新春の福猫・モニャコ
+#203421 - New Year's Fortune Cat, Monyako
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,14 +8,14 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (6257:94) モチッと
+ | (6257:94) So sticky!
  | Lock 3 random orbs
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2
-   | (6259:104) モチ湯気
+   | (6259:104) Mochi Steam
    | A 1×1 square of clouds appears for 2 turns at a random location
  | group:
  | condition: execute repeatedly, turn 2 of 2
-   | (6258:15) モチ突き
+   | (6258:15) Mochi Pound
    | Deal 100% damage (2 hits, 50% each)

@@ -8,33 +8,33 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (15433:106) 大きく翼を広げた
+ | (15433:106) Wide Wing Spread
  | Enemy turn counter change to 1 when HP <= 50%
  type: PREEMPT
- | (15431:67) 灼禍の覇気
+ | (15431:67) Burning Aspiration
  | Absorb damage when combos <= 6 for 3 turns
  group:
  | group:
  | condition: always turn 1
-   | (15434:74) 邪炎の巨体
+   | (15434:74) Gigantic Evil Flames
    | Reduce damage from all sources by 75% for 4 turns
  | group:
-   | (15432:15) 剛炎の吐息
+   | (15432:15) Steel Flame Breath
    | Deal 100% damage (4 hits, 25% each)
  | group:
  | condition: hp <= 49
    | condition: 50% chance
-   | (15435:15) バーストメテオ
+   | (15435:15) Meteor Burst
    | Deal 120% damage (2 hits, 60% each)
-   | (15432:15) 剛炎の吐息
+   | (15432:15) Steel Flame Breath
    | Deal 100% damage (4 hits, 25% each)
  | group:
  | condition: hp <= 19
    | condition: 20% chance
-   | (15436:17) インフェルノチャージ
+   | (15436:17) Inferno Charge
    | Increase damage to 150% for the next 1 turn
    | condition: 50% chance
-   | (15435:15) バーストメテオ
+   | (15435:15) Meteor Burst
    | Deal 120% damage (2 hits, 60% each)
-   | (15432:15) 剛炎の吐息
+   | (15432:15) Steel Flame Breath
    | Deal 100% damage (4 hits, 25% each)

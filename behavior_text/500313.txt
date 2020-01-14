@@ -9,7 +9,7 @@ approved: False
 level: 1
  group:
  | condition: 50% chance
- | (15489:104) デンジャラスアフロ
+ | (15489:104) Dangerous Afro Cut
  | A 2×2 square of clouds appears for 1 turn at a random location
- | (15488:15) 暴れる
+ | (15488:15) Rampage
  | Deal 100% damage (4 hits, 25% each)

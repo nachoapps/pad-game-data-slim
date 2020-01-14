@@ -12,7 +12,7 @@ level: 1
  | Change 2 random orbs to Jammer orbs
  group:
  | group:
-   | (15491:15) ヒートアックス
+   | (15491:15) Heat Axe
    | Deal 80% damage (2 hits, 40% each)
  | group:
  | condition: hp <= 49
@@ -24,5 +24,5 @@ level: 1
      | condition: 50% chance
      | (1152:15) Golden Hind
      | Deal 150% damage
-     | (15498:15) ハイヒートアックス
+     | (15498:15) High Heat Axe
      | Deal 105% damage (3 hits, 35% each)

@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15388:15) ガードブレイク
+ | (15388:15) Guard Break
  | Deal 20% damage
  group:
- | (15385:15) アースブレイク
+ | (15385:15) Earth Break
  | Deal 100% damage (5 hits, 20% each)

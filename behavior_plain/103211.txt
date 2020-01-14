@@ -21,11 +21,11 @@ flag SET 0b1
 
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:15337) -> 骨骸の形象
+	[0] ESStatusShield(20:15337) -> Skeletal Guise
 	Voids status ailments for 3 turns
-	[1] ESGravity(50:15338) -> 護法の冥域
+	[1] ESGravity(50:15338) -> Dark Realm of Exorcism
 	Player -99% HP
-	[2] ESSkyfall(68:15339) -> 死屍の来訪
+	[2] ESSkyfall(68:15339) -> Corpse's Call
 	Poison skyfall +20% for 5 turns
 
 #7: ESEndPath(36:26) -> ESEndPath

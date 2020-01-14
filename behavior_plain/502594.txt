@@ -14,9 +14,9 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESOrbSealColumn(99:15515) -> カタストロフィドライブ
+	[0] ESOrbSealColumn(99:15515) -> Catastrophe Drive
 	Seal the 6th column for 5 turns
-	[1] ESDamageShield(74:15499) -> 終末の刻印
+	[1] ESDamageShield(74:15499) -> Final Carving
 	Reduce damage from all sources by 75% for 2 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -25,15 +25,15 @@ end_turn
 #6: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 11
 
-#7: ESAttackUPRemainingEnemies(17:15519) -> パワーチャージ
+#7: ESAttackUPRemainingEnemies(17:15519) -> Power Charge
 Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 130% for the next 3 turns
 
-#8: ESVoidShield(71:15517) -> シールドブラスト
+#8: ESVoidShield(71:15517) -> Shield Blast
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Void damage >= 500000 for 1 turn, Deal 150% damage
 
-#9: ESAttackMultihit(15:15518) -> 一斉射撃
+#9: ESAttackMultihit(15:15518) -> Barrage Attack
 Deal 100% damage (5 hits, 20% each)
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -45,10 +45,10 @@ Branch on flag & 2, target rnd 14
 #12: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#13: ESBindAwoken(88:15520) -> パワーデリート
+#13: ESBindAwoken(88:15520) -> Power Delete
 Bind awoken skills for 1 turn
 
-#14: ESAttackMultihit(15:15521) -> カタストロフィバースト
+#14: ESAttackMultihit(15:15521) -> Catastrophe Burst
 Deal 2400% damage (8 hits, 300% each)
 
 #15: ESEndPath(36:26) -> ESEndPath

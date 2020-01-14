@@ -8,17 +8,17 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15455:17) 突撃陣形
+ | (15455:17) Offensive Formation
  | Increase damage to 200% for the next 1 turn
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2
-   | (15456:15) マジックニードル
+   | (15456:15) Magic Needle
    | Deal 100% damage (4 hits, 25% each)
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | condition: 50% chance
-   | (15457:53) リフレクトスペル
+   | (15457:53) Reflect Spell
    | Absorb Wood damage for 1 turn, Deal 120% damage
-   | (15456:15) マジックニードル
+   | (15456:15) Magic Needle
    | Deal 100% damage (4 hits, 25% each)

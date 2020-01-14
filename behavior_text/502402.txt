@@ -8,47 +8,47 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15502:83) 生と死の天秤 + 終末の刻印
+ | (15502:83) The Scales of Life and Death + Final Carving
  | Heal and Mortal Poison skyfall +10% for 5 turns + Reduce damage from all sources by 75% for 2 turns
  group:
  | group:
  | condition: always turn 2
-   | (15503:89) ナイトメア
+   | (15503:89) Nightmare
    | Delay active skills by 1~2 turns
  | group:
    | group:
    | condition: turn 1 while HP > 49
      | condition: 30% chance
-     | (15505:94) デッドジャッジメント
+     | (15505:94) Dead Judgment
      | Lock all Poison and Mortal Poison orbs, Deal 120% damage
-     | (15504:15) 死の波動
+     | (15504:15) Death Wave
      | Deal 105% damage (3 hits, 35% each)
    | group:
      | condition: 30% chance
-     | (15505:94) デッドジャッジメント
+     | (15505:94) Dead Judgment
      | Lock all Poison and Mortal Poison orbs, Deal 120% damage
-     | (15504:15) 死の波動
+     | (15504:15) Death Wave
      | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
-   | (15506:88) わらわの恨みで朽ちるがいい
+   | (15506:88) Succumb to my grudge!
    | Bind awoken skills for 2 turns
    | condition: 30% chance
-   | (15505:94) デッドジャッジメント
+   | (15505:94) Dead Judgment
    | Lock all Poison and Mortal Poison orbs, Deal 120% damage
-   | (15504:15) 死の波動
+   | (15504:15) Death Wave
    | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: hp <= 9
    | group:
    | condition: turn 1
-     | (15506:88) わらわの恨みで朽ちるがいい
+     | (15506:88) Succumb to my grudge!
      | Bind awoken skills for 2 turns
    | group:
-     | (15507:48) イートハートストライク
+     | (15507:48) Eat Heart Strike
      | Change all Heal orbs to Dark orbs, Deal 300% damage
      | condition: 30% chance
-     | (15505:94) デッドジャッジメント
+     | (15505:94) Dead Judgment
      | Lock all Poison and Mortal Poison orbs, Deal 120% damage
-     | (15504:15) 死の波動
+     | (15504:15) Death Wave
      | Deal 105% damage (3 hits, 35% each)

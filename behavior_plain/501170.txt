@@ -7,15 +7,15 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSpinnersRandom(109:15359) -> 誘惑の香り
+#2: ESSpinnersRandom(109:15359) -> Enchanting Fragrance
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Random 2 orbs change every 1.0s for 3 turns
 
-#3: ESBoardChange(84:15362) -> 華蛇の邪眼
+#3: ESBoardChange(84:15362) -> Flower Snake's Evil Eye
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Jammer
 
-#4: ESColumnSpawnMulti(77:15363) -> パープルデス
+#4: ESColumnSpawnMulti(77:15363) -> Purple Death
 Condition: When < 10% HP (ai:100 rnd:0)
 Change the 3rd and 4th columns to Dark orbs, Deal 200% damage
 
@@ -25,7 +25,7 @@ Branch on counter >= 1, target rnd 9
 #6: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#7: ESAttackMultihit(15:15360) -> ダークシードブレス
+#7: ESAttackMultihit(15:15360) -> Dark Seed Breath
 Deal 100% damage (2 hits, 50% each)
 
 #8: ESEndPath(36:26) -> ESEndPath
@@ -34,7 +34,7 @@ end_turn
 #9: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#10: ESPoisonChangeRandomCount(60:15361) -> 毒花粉
+#10: ESPoisonChangeRandomCount(60:15361) -> Poisonous Pollen
 Change 4 random orbs (excluding hearts) to Poison orbs
 
 #11: ESEndPath(36:26) -> ESEndPath

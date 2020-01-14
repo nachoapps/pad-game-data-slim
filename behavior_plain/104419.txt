@@ -14,13 +14,13 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESCloud(104:15700) -> クラウドクラスター
+	[0] ESCloud(104:15700) -> Cloud Cluster
 	A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column
-	[1] ESStatusShield(20:15701) -> 雲海の防護壁
+	[1] ESStatusShield(20:15701) -> Protective Cloud Wall
 	Voids status ailments for 99 turns
-	[2] ESAbsorbCombo(67:15702) -> レインボーフォッグ
+	[2] ESAbsorbCombo(67:15702) -> Rainbow Fog
 	Absorb damage when combos <= 7 for 1 turn
-	[3] ESDamageShield(74:15703) -> 硬軟な朧雲
+	[3] ESDamageShield(74:15703) -> Fluid Clouds
 	Reduce damage from all sources by 75% for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath

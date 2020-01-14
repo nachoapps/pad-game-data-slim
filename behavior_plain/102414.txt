@@ -20,9 +20,9 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESBoardChange(84:15152) -> バン付け
+	[0] ESBoardChange(84:15152) -> Banzuke
 	Change all orbs to Fire, Wood, Light, and Dark
-	[1] ESBombFixedSpawn(103:15153) -> マッスルボム
+	[1] ESBombFixedSpawn(103:15153) -> Muscle Bomb
 	Spawn Bomb orbs in the specified positions
 
 #7: ESEndPath(36:26) -> ESEndPath

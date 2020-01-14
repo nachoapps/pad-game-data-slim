@@ -8,13 +8,13 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15508:97) ダークフォッグ
+ | (15508:97) Dark Fog
  | Blind random 5 orbs for 5 turns
  group:
  | group:
-   | (15509:15) ヘルニードル
+   | (15509:15) Hell Needle
    | Deal 90~135% damage (6~9 hits, 15% each)
  | group:
  | condition: turn 1, hp <= 49
-   | (15510:94) 地幻陣
+   | (15510:94) Earth Circle
    | Lock all orbs

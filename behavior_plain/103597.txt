@@ -7,9 +7,10 @@ counter increment: 1
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESDeathCry(69:15309) -> ＿デモニアス変身
+#2: ESDeathCry(69:15309) -> ＿Demonius Transformation
 Condition: On death (ai:0 rnd:0)
-Show message: 天空よりパーツが現れた|デモニアスとパーツが合体していく
+Show message: Parts fall from the heavens|Demonius and the parts 
+are combining
 
 #3: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 7
@@ -18,13 +19,13 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #5: SkillSet:
-	[0] ESStatusShield(20:15304) -> ヘルズアーマー
+	[0] ESStatusShield(20:15304) -> Hell Armor
 	Voids status ailments for 999 turns
-	[1] ESBombFixedSpawn(103:15305) -> デモンフレア
+	[1] ESBombFixedSpawn(103:15305) -> Demon Flare
 	Spawn locked Bomb orbs in the specified positions
-	[2] ESSkyfallLocked(96:15306) -> カオスフィールド
+	[2] ESSkyfallLocked(96:15306) -> Chaos Field
 	Locked random skyfall +100% for 1 turn
-	[3] ESGravity(50:15307) -> ダークネスウェーブ
+	[3] ESGravity(50:15307) -> Darkness Wave
 	Player -100% HP
 
 #6: ESEndPath(36:26) -> ESEndPath

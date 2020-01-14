@@ -8,12 +8,12 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16086:74) ガイアウォール
+ | (16086:74) Gaia Wall
  | Reduce damage from all sources by 90% for 3 turns
  group:
- | (16087:50) のしかかる
+ | (16087:50) Hangover
  | Player -99% HP
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
- | (16088:92) ガイアストーム
+ | (16088:92) Green Change Press
  | Spawn 10 random Wood orbs, Deal 500% damage

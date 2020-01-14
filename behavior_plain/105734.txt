@@ -14,13 +14,13 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESStatusShield(20:16033) -> 沈黙の世界
+	[0] ESStatusShield(20:16033) -> Silence of the World
 	Voids status ailments for 999 turns
-	[1] ESDamageShield(74:16034) -> 強き靴
+	[1] ESDamageShield(74:16034) -> Firm Shoes
 	Reduce damage from all sources by 90% for 99 turns
-	[2] ESAbsorbCombo(67:16035) -> 神武の構え
+	[2] ESAbsorbCombo(67:16035) -> Poised Crocodile Jaws
 	Absorb damage when combos <= 7 for 99 turns
-	[3] ES7x6Change(126:16036) -> 広大無辺
+	[3] ES7x6Change(126:16036) -> Boundless Infinity
 	Change board size to 7x6 for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -40,34 +40,34 @@ Branch on hp < 50, target rnd 19
 
 #10: SkillSet:
 	Condition: One-time use (ai:0 rnd:33) (cost: 1)
-	[0] ESDispel(6:16054) -> 世界の鼓動
+	[0] ESDispel(6:16054) -> Pulse of the New World
 	Voids player buff effects
-	[1] ESGravity(50:16043) -> ダイブキック
+	[1] ESGravity(50:16043) -> Dive Kick
 	Player -99% HP
 
 #11: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16055) -> 復讐の業火
+	[1] ESAttackMultihit(15:16055) -> Farewell to the World
 	Deal 70% damage (5 hits, 14% each)
 
 #12: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)
-	[0] ESDebuffRCV(105:16212) -> 命の渇き
+	[0] ESDebuffRCV(105:16212) -> I...will be...immortal...
 	RCV +50% for 1 turn
-	[1] ESNoSkyfall(127:16213) -> 朽ち果てた自然
+	[1] ESNoSkyfall(127:16213) -> ＿2 moves
 	No skyfall for 1 turn
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #14: SkillSet:
-	[0] ESBindAwoken(88:16038) -> 実りなき大地
+	[0] ESBindAwoken(88:16038) -> The Will of Destruction and Creation
 	Bind awoken skills for 1 turn
-	[1] ESBombFixedSpawn(103:16039) -> 激情の崩壊
+	[1] ESBombFixedSpawn(103:16039) -> Unripened Earth
 	Spawn Bomb orbs in the specified positions
-	[2] ESDebuffMovetime(39:16040) -> 限られた生命
+	[2] ESDebuffMovetime(39:16040) -> ＿After 10 turns Action
 	Movetime +25% for 1 turn
 
 #15: ESEndPath(36:26) -> ESEndPath
@@ -77,9 +77,9 @@ end_turn
 counter = 0
 
 #17: SkillSet:
-	[0] ESRandomSpawn(92:16215) -> 恵み溢れる大地
+	[0] ESRandomSpawn(92:16215) -> It should be destroyed
 	Spawn 15 random Fire, Wood, or Mortal Poison orbs
-	[1] ES7x6Change(126:16036) -> 広大無辺
+	[1] ES7x6Change(126:16036) -> Boundless Infinity
 	Change board size to 7x6 for 5 turns
 
 #18: ESEndPath(36:26) -> ESEndPath
@@ -92,9 +92,9 @@ Branch on flag & 2, target rnd 22
 flag SET 0b11
 
 #21: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16046) -> 蹴舞・一角
+	[1] ESAttackMultihit(15:16046) -> Thirst for Life
 	Deal 80% damage
 
 #22: ESBranchFlag(43:10) -> ESBranchFlag
@@ -104,9 +104,9 @@ Branch on flag & 4, target rnd 25
 flag SET 0b111
 
 #24: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16047) -> 蹴舞・二爪
+	[1] ESAttackMultihit(15:16047) -> Judgement Shot
 	Deal 96% damage (2 hits, 48% each)
 
 #25: ESBranchFlag(43:10) -> ESBranchFlag
@@ -116,9 +116,9 @@ Branch on flag & 8, target rnd 28
 flag SET 0b1111
 
 #27: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16048) -> 蹴舞・三槌
+	[1] ESAttackMultihit(15:16048) -> Accumulating Dead Bodies
 	Deal 111% damage (3 hits, 37% each)
 
 #28: ESBranchFlag(43:10) -> ESBranchFlag
@@ -128,9 +128,9 @@ Branch on flag & 16, target rnd 31
 flag SET 0b11111
 
 #30: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16049) -> 蹴舞・四牙
+	[1] ESAttackMultihit(15:16049) -> Passionate Collapse
 	Deal 128% damage (4 hits, 32% each)
 
 #31: ESBranchFlag(43:10) -> ESBranchFlag
@@ -140,9 +140,9 @@ Branch on flag & 32, target rnd 34
 flag SET 0b111111
 
 #33: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16050) -> 蹴舞・五咆
+	[1] ESAttackMultihit(15:16050) -> Revenge's Hellfire
 	Deal 145% damage (5 hits, 29% each)
 
 #34: ESBranchFlag(43:10) -> ESBranchFlag
@@ -152,21 +152,21 @@ Branch on flag & 64, target rnd 37
 flag SET 0b1111111
 
 #36: SkillSet:
-	[0] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[0] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:16051) -> 蹴舞・六衝
+	[1] ESAttackMultihit(15:16051) -> ＿10% or less
 	Deal 162% damage (6 hits, 27% each)
 
 #37: SkillSet:
-	[0] ESDispel(6:16054) -> 世界の鼓動
+	[0] ESDispel(6:16054) -> Pulse of the New World
 	Voids player buff effects
-	[1] ESChangeAttribute(46:16045) -> 精霊のルーン
+	[1] ESChangeAttribute(46:16045) -> ＿Normal B
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[2] ESAttackMultihit(15:16052) -> 蹴舞・百刺鋲
+	[2] ESAttackMultihit(15:16052) -> Rebuilding the World
 	Deal 700% damage (7 hits, 100% each)
 
 #38: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#39: ESTypeResist(118:16089) -> 悪魔耐性
+#39: ESTypeResist(118:16089) -> Gaia Storm
 Reduce damage from Devil types by 50%

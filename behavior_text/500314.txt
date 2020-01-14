@@ -9,7 +9,7 @@ approved: False
 level: 1
  group:
  | condition: 50% chance
- | (15490:50) ショルダータックル
+ | (15490:50) Shoulder Tackle
  | Player -99% HP
- | (15488:15) 暴れる
+ | (15488:15) Rampage
  | Deal 100% damage (4 hits, 25% each)

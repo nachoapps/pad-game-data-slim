@@ -8,31 +8,31 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15500:83) カオスレイン + 終末の刻印
+ | (15500:83) Chaos Rain + Final Carving
  | Jammer and Poison skyfall +8% for 5 turns + Reduce damage from all sources by 75% for 2 turns
  group:
  | group:
    | condition: 30% chance
-   | (15494:63) 蛇痺牙
+   | (15494:63) Snake's Deadening Fang
    | Bind 1 random sub for 1 turn, Deal 130% damage
-   | (15493:15) ソーンテイル
+   | (15493:15) Thorn Tail
    | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: always turn 1
-     | (15496:67) このままでは終わらんぞ
+     | (15496:67) It can't end like this!
      | Absorb damage when combos <= 6 for 2 turns
    | group:
      | condition: 30% chance
-     | (15495:53) 毒蛇の大顎
+     | (15495:53) Venomous Snake Jaws
      | Absorb Wood damage for 1 turn, Deal 140% damage
      | condition: 30% chance
-     | (15494:63) 蛇痺牙
+     | (15494:63) Snake's Deadening Fang
      | Bind 1 random sub for 1 turn, Deal 130% damage
-     | (15493:15) ソーンテイル
+     | (15493:15) Thorn Tail
      | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 9
-   | (15497:15) オーバーフェルミングフォース
+   | (15497:15) Overwhelming Force
    | Deal 500% damage

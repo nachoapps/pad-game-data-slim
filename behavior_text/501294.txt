@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15376:112) 蒼眼
+ | (15376:112) Blue Eyes
  | Forces attacks to hit this enemy for 1 turn
  group:
- | (15377:15) ブルーパワー
+ | (15377:15) Blue Power
  | Deal 100% damage (4 hits, 25% each)
