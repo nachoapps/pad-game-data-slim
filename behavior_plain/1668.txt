@@ -45,7 +45,7 @@ Branch on counter = 3, target rnd 17
 
 #13: ESOrbChangeAttackBits(108:9835) -> It became a splendid color!
 Condition: 33% chance (ai:0 rnd:33)
-Change Fire to Dark and Poison, Deal 105% damage
+Change all Fire orbs to Dark and Poison orbs, Deal 105% damage
 
 #14: ESBombRandomSpawn(102:9836) -> I need motivation!
 Condition: 33% chance (ai:0 rnd:33)
@@ -104,7 +104,7 @@ end_turn
 
 #28: SkillSet:
 	[0] ESRecoverEnemy86(86:9847) -> It huuurts!
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESAttackMultihit(15:9848) -> I won't forgive you!
 	Deal 400% damage (4 hits, 100% each)
 

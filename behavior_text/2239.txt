@@ -24,9 +24,9 @@ level: 1
  | group:
  | condition: turn 2
    | (4017:48) Bloody Blossom - Anemone
-   | Change Mortal Poison to Heal, Deal 400% damage
+   | Change all Mortal Poison orbs to Heal orbs, Deal 400% damage
    | (4018:48) Cursed Flower - Mint
-   | Change Heal to Mortal Poison, Deal 100% damage
+   | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
    | (4013:79) Cocytus's Erosion
    | Change the 5th row to Mortal Poison orbs, Deal 50% damage
  | group:
@@ -46,9 +46,9 @@ level: 1
  | group:
  | condition: turn 5
    | (4017:48) Bloody Blossom - Anemone
-   | Change Mortal Poison to Heal, Deal 400% damage
+   | Change all Mortal Poison orbs to Heal orbs, Deal 400% damage
    | (4018:48) Cursed Flower - Mint
-   | Change Heal to Mortal Poison, Deal 100% damage
+   | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
    | (4013:79) Cocytus's Erosion
    | Change the 5th row to Mortal Poison orbs, Deal 50% damage
  | group:
@@ -68,9 +68,9 @@ level: 1
  | group:
  | condition: turn 8
    | (4017:48) Bloody Blossom - Anemone
-   | Change Mortal Poison to Heal, Deal 400% damage
+   | Change all Mortal Poison orbs to Heal orbs, Deal 400% damage
    | (4018:48) Cursed Flower - Mint
-   | Change Heal to Mortal Poison, Deal 100% damage
+   | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
    | (4013:79) Cocytus's Erosion
    | Change the 5th row to Mortal Poison orbs, Deal 50% damage
  | group:
@@ -87,9 +87,9 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 3
    | (4017:48) Bloody Blossom - Anemone
-   | Change Mortal Poison to Heal, Deal 400% damage
+   | Change all Mortal Poison orbs to Heal orbs, Deal 400% damage
    | (4018:48) Cursed Flower - Mint
-   | Change Heal to Mortal Poison, Deal 100% damage
+   | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
    | (4013:79) Cocytus's Erosion
    | Change the 5th row to Mortal Poison orbs, Deal 50% damage
  | group:

@@ -33,9 +33,9 @@ level: 1
    | group:
    | condition: turn 3 while HP > 49
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
@@ -51,9 +51,9 @@ level: 1
    | group:
    | condition: turn 5 while HP > 49
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
@@ -69,9 +69,9 @@ level: 1
    | group:
    | condition: turn 7 while HP > 49
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
@@ -87,9 +87,9 @@ level: 1
    | group:
    | condition: turn 9 while HP > 49
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
@@ -112,9 +112,9 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 50% chance
      | (8877:77) Double Sacrifice
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs, Deal 120% damage
@@ -132,9 +132,9 @@ level: 1
    | group:
    | condition: turn 2 while HP > 19
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -153,9 +153,9 @@ level: 1
    | group:
    | condition: turn 4 while HP > 19
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -174,9 +174,9 @@ level: 1
    | group:
    | condition: turn 6 while HP > 19
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -195,9 +195,9 @@ level: 1
    | group:
    | condition: turn 8 while HP > 19
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -216,9 +216,9 @@ level: 1
    | group:
    | condition: turn 10 while HP > 19
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -237,9 +237,9 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (8889:48) Sacrifice Saber
-     | Change Poison to Dark, Deal 170% damage
+     | Change all Poison orbs to Dark orbs, Deal 170% damage
      | (8890:48) Drill Break
-     | Change Jammer to Fire, Deal 150% damage
+     | Change all Jammer orbs to Fire orbs, Deal 150% damage
      | condition: 33% chance
      | (8886:79) Double Sacrifice
      | Change the 1st row to Poison orbs and the 5th row to Jammer orbs, Deal 120% damage
@@ -253,7 +253,7 @@ level: 1
    | group:
    | condition: turn 1
      | (8896:83) Aaaahhhhhh! I won't forgive you!! + I'll weaken you!!
-     | Enemy recover 30% hp + Bind awoken skills for 5 turns
+     | Enemy recover 30% HP + Bind awoken skills for 5 turns
    | group:
    | condition: turns 2-10
      | (8893:85) Twin Explosion

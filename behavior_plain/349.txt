@@ -5,12 +5,12 @@ start/max counter: 3
 counter increment: 0
 
 #1: ESAttackMultihit(15:122) -> Miraculous Star
-Condition: 50% chance when < 30% hp (ai:50 rnd:0)
+Condition: 50% chance when < 30% HP (ai:50 rnd:0)
 Deal 100~250% damage (2~5 hits, 50% each)
 
 #2: ESRecoverEnemy7(7:81) -> Heal
-Condition: When < 40% hp , one-time use (ai:60 rnd:0) (cost: 3)
-Enemy recover 30% hp
+Condition: When < 40% HP , one-time use (ai:60 rnd:0) (cost: 3)
+Enemy recover 30% HP
 
 #3: ESBindRandom(1:35) -> Poke Poke
 Condition: 15% chance (ai:0 rnd:15)

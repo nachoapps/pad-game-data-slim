@@ -16,11 +16,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Reduce damage from all sources by 75% for 3 turns
 
 #4: ESAttackUPRemainingEnemies(17:14502) -> I can keep going!
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 3 turns
 
 #5: ESRandomSpawn(92:14503) -> Ferociously Soaring Scarlet Flames
-Condition: 80% chance when < 10% hp (ai:80 rnd:0)
+Condition: 80% chance when < 10% HP (ai:80 rnd:0)
 Spawn 5 random Fire or Jammer orbs, Deal 200% damage
 
 #6: ESRandomSpawn(92:14590) -> Purgatory

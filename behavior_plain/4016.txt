@@ -89,7 +89,7 @@ end_turn
 	[0] ESBlind5(5:8575) -> I'm tired of concentrating
 	Blind all orbs on the board
 	[1] ESRecoverEnemy7(7:8576) -> Let's take a break!
-	Enemy recover 40% hp
+	Enemy recover 40% HP
 
 #19: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 16)

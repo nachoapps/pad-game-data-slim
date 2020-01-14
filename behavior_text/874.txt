@@ -17,7 +17,7 @@ level: 5
  | group:
    | condition: 40% chance
    | (620:48) Wind Breath nya!
-   | Change Random to Wood, Deal 50% damage
+   | Change a random attribute to Wood orbs, Deal 50% damage
    | condition: 10% chance
    | (621:16) Meow meeow meooow♪
    | Do nothing

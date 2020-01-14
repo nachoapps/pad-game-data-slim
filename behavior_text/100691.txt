@@ -18,4 +18,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (11640:83) Pouring Fighting Spirit + Counterattack
- | Enemy recover 100% hp + Reduce damage from all sources by 75% for 99 turns
+ | Enemy recover 100% HP + Reduce damage from all sources by 75% for 99 turns

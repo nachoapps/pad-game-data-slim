@@ -53,7 +53,7 @@ Bind Water cards for 10 turns
 	[0] ESInactivity66(66:4085) -> Uses 1 Blazing Sphere
 	Do nothing
 	[1] ESOrbChangeAttack(48:4144) -> Photon Flare!
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 
 #13: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)

@@ -62,7 +62,7 @@ Branch on combo >= 10, target rnd 17
 Branch on combo >= 6, target rnd 18
 
 #15: ESOrbChangeAttack(48:8472) -> Chaos
-Change Jammer to Light, Deal 1000% damage
+Change all Jammer orbs to Light orbs, Deal 1000% damage
 
 #16: ESAttackMultihit(15:8471) -> The Truth of Suffering
 Deal 280% damage (4 hits, 70% each)
@@ -71,7 +71,7 @@ Deal 280% damage (4 hits, 70% each)
 Spawn 3 random Heal orbs, Deal 200% damage
 
 #18: ESJammerChangeRandom(13:8470) -> Cruelty
-Change Random 1 to Jammer, Deal 230% damage
+Change 1 random orb to Jammer orbs, Deal 230% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

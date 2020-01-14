@@ -27,7 +27,7 @@ level: 4
  | group:
    | condition: 34% chance
    | (8310:104) Sweeping Duster
-   | 2x2 cloud appear for 1 turn at random location, Deal 120% damage
+   | A 2×2 square of clouds appears for 1 turn at a random location, Deal 120% damage
    | condition: 33% chance
    | (8311:79) Neat and Tidy
    | Change the 1st, 3rd, and 5th rows to Heal orbs, the 2nd row to Fire orbs, and the 4th row to Fire and Jammer orbs, Deal 50% damage

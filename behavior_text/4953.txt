@@ -20,7 +20,7 @@ level: 1
    | Player -75% HP
    | condition: 33% chance
    | (11977:48) あっちいズラよ～！
-   | Change Random to Fire, Deal 95% damage
+   | Change a random attribute to Fire orbs, Deal 95% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (11978:83) Ｓのチカラ　わいてくるズラ… + オラ　止まんないズラ～！！

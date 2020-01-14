@@ -22,7 +22,7 @@ level: 4
  | group:
  | condition: always turn 1
    | (11460:86) White Great Holy Tree
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP
  | group:
    | condition: 20% chance
    | (11456:89) Downward Sword Slash
@@ -48,11 +48,11 @@ level: 4
    | group:
    | condition: turn 2
      | (11460:86) White Great Holy Tree
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (11462:83) Massive Dust Cloud + Splitting Ground
-     | Blind orbs in specific positions for 1 turn + Change Random to Wood, Deal 120% damage
+     | Blind orbs in specific positions for 1 turn + Change a random attribute to Wood orbs, Deal 120% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 20% chance

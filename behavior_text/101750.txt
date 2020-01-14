@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (1726:48) Grimoire of Flame
-   | Change Heal to Fire, Deal 50% damage
+   | Change all Heal orbs to Fire orbs, Deal 50% damage
    | (10930:15) Pentacle of the Demonic Sword
    | Deal 60% damage (2 hits, 30% each)
  | group:
@@ -26,14 +26,14 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: 30% chance
      | (1726:48) Grimoire of Flame
-     | Change Heal to Fire, Deal 50% damage
+     | Change all Heal orbs to Fire orbs, Deal 50% damage
      | (1727:62) Volcanic Smoke
      | Blind all orbs on the board, Deal 75% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 30% chance
      | (1726:48) Grimoire of Flame
-     | Change Heal to Fire, Deal 50% damage
+     | Change all Heal orbs to Fire orbs, Deal 50% damage
      | (10930:15) Pentacle of the Demonic Sword
      | Deal 60% damage (2 hits, 30% each)
  | group:
@@ -44,6 +44,6 @@ level: 1
  | condition: hp <= 29
    | condition: 50% chance
    | (1728:48) Burning Blizzard
-   | Change Random to Fire, Deal 200% damage
+   | Change a random attribute to Fire orbs, Deal 200% damage
    | (1729:48) Burning Blizzard
-   | Change Random to Water, Deal 200% damage
+   | Change a random attribute to Water orbs, Deal 200% damage

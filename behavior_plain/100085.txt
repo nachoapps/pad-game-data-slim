@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESCloud(104:5717) -> Peaky Smog
-Column of cloud appear for 2 turns at random location
+A column of clouds appears for 2 turns at a random location
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

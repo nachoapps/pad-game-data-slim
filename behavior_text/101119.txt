@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 70% chance
    | (1000:48) Purifying Melody
-   | Change Dark to Light, Deal 80% damage
+   | Change all Dark orbs to Light orbs, Deal 80% damage
    | (999:15) Sword of Malkuth
    | Deal 120% damage (2 hits, 60% each)
  | group:
@@ -23,7 +23,7 @@ level: 1
    | Bind God cards for 10 turns
    | condition: 70% chance
    | (1000:48) Purifying Melody
-   | Change Dark to Light, Deal 80% damage
+   | Change all Dark orbs to Light orbs, Deal 80% damage
    | (999:15) Sword of Malkuth
    | Deal 120% damage (2 hits, 60% each)
  | group:

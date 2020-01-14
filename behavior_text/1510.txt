@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: turn 3
      | (1323:48) Hidden Dagger
-     | Change Random to Jammer, Deal 125% damage
+     | Change a random attribute to Jammer orbs, Deal 125% damage
    | group:
      | (1324:15) Endless Nightmare
      | Deal 360% damage (6 hits, 60% each)

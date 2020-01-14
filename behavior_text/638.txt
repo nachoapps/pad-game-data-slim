@@ -11,12 +11,12 @@ level: 1
  | (1312:2) Charismatic Evil
  | Bind Dark cards for 3 turns
  | (1313:60) I will be your opponent
- | Change Random 3 to Poison (excluding hearts)
+ | Change 3 random orbs (excluding hearts) to Poison orbs
  group:
  | group:
    | condition: 60% chance
    | (1314:48) Evil Nova
-   | Change Dark to Jammer, Deal 75% damage
+   | Change all Dark orbs to Jammer orbs, Deal 75% damage
    | (1315:15) Cursed Blade
    | Deal 100% damage
  | group:

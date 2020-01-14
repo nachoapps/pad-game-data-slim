@@ -56,11 +56,11 @@ end_turn
 
 #17: ESRecoverEnemy86(86:11899) -> ひもじインパクト
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #18: ESOrbChangeAttack(48:11900) -> ヨダレが止まら～ん！
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #19: ESOrbLock(94:11901) -> コレは　ワシのメシじゃ～！
 Condition: 50% chance (ai:0 rnd:50)

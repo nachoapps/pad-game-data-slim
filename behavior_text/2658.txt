@@ -13,18 +13,18 @@ level: 1
  type: PREEMPT
  | condition: 20% chance
  | (15673:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
- | Rcv 50% for 10 turns + Absorb Fire damage for 5 turns + Unable to match Water orbs for 5 turns
+ | RCV +50% for 10 turns + Absorb Fire damage for 5 turns + Unable to match Water orbs for 5 turns
  | condition: 25% chance
  | (15674:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
- | Rcv 50% for 10 turns + Absorb Water damage for 5 turns + Unable to match Wood orbs for 5 turns
+ | RCV +50% for 10 turns + Absorb Water damage for 5 turns + Unable to match Wood orbs for 5 turns
  | condition: 33% chance
  | (15675:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
- | Rcv 50% for 10 turns + Absorb Wood damage for 5 turns + Unable to match Fire orbs for 5 turns
+ | RCV +50% for 10 turns + Absorb Wood damage for 5 turns + Unable to match Fire orbs for 5 turns
  | condition: 50% chance
  | (15676:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
- | Rcv 50% for 10 turns + Absorb Light damage for 5 turns + Unable to match Dark orbs for 5 turns
+ | RCV +50% for 10 turns + Absorb Light damage for 5 turns + Unable to match Dark orbs for 5 turns
  | (15677:83) よろしくお願いします + 覚悟はいいですか？ + 行きますね
- | Rcv 50% for 10 turns + Absorb Dark damage for 5 turns + Unable to match Light orbs for 5 turns
+ | RCV +50% for 10 turns + Absorb Dark damage for 5 turns + Unable to match Light orbs for 5 turns
  group:
  | group:
    | group:

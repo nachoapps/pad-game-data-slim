@@ -12,19 +12,19 @@ nothing
 
 #3: ESOrbChangeAttack(48:1510) -> Fire Eating Attack
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Fire to Jammer, Deal 80% damage
+Change all Fire orbs to Jammer orbs, Deal 80% damage
 
 #4: ESOrbChangeAttack(48:1511) -> Water Eating Attack
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Water to Jammer, Deal 80% damage
+Change all Water orbs to Jammer orbs, Deal 80% damage
 
 #5: ESOrbChangeAttack(48:1512) -> Wood Eating Attack
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Wood to Jammer, Deal 80% damage
+Change all Wood orbs to Jammer orbs, Deal 80% damage
 
 #6: ESOrbChangeAttack(48:1513) -> Light Eating Attack
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Light to Jammer, Deal 80% damage
+Change all Light orbs to Jammer orbs, Deal 80% damage
 
 #7: ESAttackSinglehit(82:1) -> Disable Skill
 Deal 100% damage
@@ -33,20 +33,20 @@ Deal 100% damage
 end_turn
 
 #9: ESAttackMultihit(15:1603) -> Buster Horn
-Condition: 50% chance when < 25% hp (ai:50 rnd:0)
+Condition: 50% chance when < 25% HP (ai:50 rnd:0)
 Deal 200% damage
 
 #10: ESOrbChangeAttack(48:1583) -> Red Tackle
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Random to Fire, Deal 75% damage
+Change a random attribute to Fire orbs, Deal 75% damage
 
 #11: ESOrbChangeAttack(48:1584) -> Blue Tackle
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Random to Water, Deal 75% damage
+Change a random attribute to Water orbs, Deal 75% damage
 
 #12: ESOrbChangeAttack(48:1585) -> Green Tackle
 Condition: One-time use (ai:0 rnd:50) (cost: 1)
-Change Random to Wood, Deal 75% damage
+Change a random attribute to Wood orbs, Deal 75% damage
 
 #13: ESAttackSinglehit(82:1) -> Disable Skill
 Condition: 50% chance (ai:0 rnd:50)

@@ -23,16 +23,16 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESStatusShield(20:7481) -> Divine Wind of Suwa
 	Voids status ailments for 999 turns
 	[1] ESDamageShield(74:7482) -> Terra Firma Stance
 	Reduce damage from all sources by 75% for 99 turns
 	[2] ESCloud(104:7479) -> Minakata Fog
-	6x3 cloud appear for 1 turn at 2nd row, 1st column
+	A 6×3 rectangle of clouds appears for 1 turn at 2nd row, 1st column
 
 #7: ESAttackMultihit(15:7484) -> Divine Katana of Yasaka
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 800% damage (8 hits, 100% each)
 
 #8: ESBombRandomSpawn(102:7483) -> Firetrap Whirlwind

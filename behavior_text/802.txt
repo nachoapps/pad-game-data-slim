@@ -15,13 +15,13 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1073:48) High Tide Jewel
-     | Change Heal to Water, Deal 75% damage
+     | Change all Heal orbs to Water orbs, Deal 75% damage
      | (1072:48) Low Tide Jewel
-     | Change Water to Jammer, Deal 100% damage
+     | Change all Water orbs to Jammer orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1072:48) Low Tide Jewel
-     | Change Water to Jammer, Deal 100% damage
+     | Change all Water orbs to Jammer orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | (1074:15) Ceremony of the Mountains and Seas

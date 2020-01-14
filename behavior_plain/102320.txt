@@ -80,7 +80,7 @@ Branch on flag & 8, target rnd 9
 flag SET 0b1111
 
 #24: ESRecoverPlayer(55:3193) -> That look suits you!
-Player recover 100% hp
+Player recover 100% HP
 
 #25: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 16, target rnd 11

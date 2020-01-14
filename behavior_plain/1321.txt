@@ -12,4 +12,4 @@ end_turn
 
 #3: ESOrbChangeAttack(48:1138) -> Petit Ice
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Random to Water, Deal 80% damage
+Change a random attribute to Water orbs, Deal 80% damage

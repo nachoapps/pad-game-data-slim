@@ -20,7 +20,7 @@ Deal 85% damage
 end_turn
 
 #6: ESBoardChangeAttackBits(85:795) -> Mistral Breath
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 150% damage
 
 #7: ESAttackMultihit(15:475) -> Breath of the Wood Sky

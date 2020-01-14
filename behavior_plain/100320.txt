@@ -29,11 +29,11 @@ Spawn 4 random Mortal Poison orbs, Deal 150% damage
 end_turn
 
 #9: ESAttackUPRemainingEnemies(17:151) -> Attack Stance
-Condition: 30% chance when < 50% hp, when <= 1 enemies remain (ai:30 rnd:0)
+Condition: 30% chance when < 50% HP, when <= 1 enemies remain (ai:30 rnd:0)
 Increase damage to 125% for the next 5 turns
 
 #10: ESAttackMultihit(15:159) -> Genocide Bit
-Condition: 40% chance when < 40% hp (ai:40 rnd:0)
+Condition: 40% chance when < 40% HP (ai:40 rnd:0)
 Deal 60~180% damage (2~6 hits, 30% each)
 
 #11: ESRandomSpawn(92:9354) -> Dark Spark

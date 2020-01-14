@@ -24,7 +24,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:4838) -> Chaos Prominence
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 800% damage (8 hits, 100% each)
 
 #7: ESBindAttribute(2:4839) -> Abyss Cage
@@ -35,7 +35,7 @@ Bind Dark cards for 5~10 turns
 Branch on hp > 100, target rnd 11
 
 #9: ESOrbChangeAttack(48:4837) -> Erosion
-Change Random to Dark, Deal 80% damage
+Change a random attribute to Dark orbs, Deal 80% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -19,7 +19,7 @@ level: 5
  | group:
    | condition: 40% chance
    | (1855:64) How's this?!
-   | Change Random 3 to Poison, Deal 50% damage
+   | Change 3 random orbs to Poison orbs, Deal 50% damage
  | group:
  | condition: hp <= 49
    | group:

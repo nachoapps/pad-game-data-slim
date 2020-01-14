@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:2466) -> Last Belief
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 1000% damage (2 hits, 500% each)
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -60,11 +60,11 @@ Branch on flag & 2, target rnd 8
 flag SET 0b11
 
 #14: ESDispel(6:2467) -> Brave Resistance
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Voids player buff effects
 
 #15: ESGravity(50:2468) -> Brave Resistance
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Player -99% HP
 
 #16: ESAttributeResist(72:2456) -> 龍騎士風ドラゴン・パッシブ

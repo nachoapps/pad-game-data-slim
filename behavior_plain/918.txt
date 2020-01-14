@@ -21,15 +21,15 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESBindTyping(3:128) -> Glare of Zeus
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Bind God cards for 2~4 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #8: ESAttackMultihit(15:126) -> Super Nova
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 250% damage (10 hits, 25% each)
 
 #9: ESOrbChangeAttack(48:56) -> Black Hole
-Change Random to Jammer, Deal 80% damage
+Change a random attribute to Jammer orbs, Deal 80% damage

@@ -21,5 +21,5 @@ Increase damage to 200% for the next 999 turns
 end_turn
 
 #6: ESAttackMultihit(15:1100) -> ずあっ!!!!ずあああああっ!!!!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 140% damage (7 hits, 20% each)

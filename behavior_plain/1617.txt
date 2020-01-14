@@ -91,23 +91,23 @@ flag SET 0b111111
 #26: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESRecoverEnemy86(86:5787) -> Sharon! Take this potion!
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESInactivity66(66:5788) -> Thanks Undine!
 	Do nothing
 
 #27: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESRecoverEnemy86(86:5790) -> Drink some more potion!
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 	[1] ESMortalPoisonChangeRandom(61:5791) -> I can't drink this much...
-	Change Random 6 to Mortal Poison
+	Change 6 random orbs to Mortal Poison orbs
 
 #28: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESRecoverEnemy86(86:5793) -> If you don't drink it, you'll lose!
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESMortalPoisonChangeRandom(61:5794) -> I can't...take any more...
-	Change Random 18 to Mortal Poison
+	Change 18 random orbs to Mortal Poison orbs
 
 #29: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)

@@ -14,27 +14,27 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 6
    | (7827:108) Sonar Havar
-   | Change Light to Wood, Deal 150% damage
+   | Change all Light orbs to Wood orbs, Deal 150% damage
    | (7828:17) Sundar Pool
    | Increase damage to 200% for the next 1 turn
  | group:
  | condition: execute repeatedly, turn 2 of 6
    | (7827:108) Sonar Havar
-   | Change Light to Wood, Deal 150% damage
+   | Change all Light orbs to Wood orbs, Deal 150% damage
  | group:
  | condition: execute repeatedly, turn 3 of 6
    | (7827:108) Sonar Havar
-   | Change Light to Wood, Deal 150% damage
+   | Change all Light orbs to Wood orbs, Deal 150% damage
    | (7828:17) Sundar Pool
    | Increase damage to 200% for the next 1 turn
  | group:
  | condition: execute repeatedly, turn 4 of 6
    | (7827:108) Sonar Havar
-   | Change Light to Wood, Deal 150% damage
+   | Change all Light orbs to Wood orbs, Deal 150% damage
  | group:
  | condition: execute repeatedly, turn 5 of 6
    | (7827:108) Sonar Havar
-   | Change Light to Wood, Deal 150% damage
+   | Change all Light orbs to Wood orbs, Deal 150% damage
    | (7828:17) Sundar Pool
    | Increase damage to 200% for the next 1 turn
  | group:

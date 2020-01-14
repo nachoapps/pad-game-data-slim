@@ -17,7 +17,7 @@ level: 1
    | Player -25% HP
    | condition: 33% chance
    | (13263:48) Wanna dance punk?
-   | Change Random to Dark, Deal 90% damage
+   | Change a random attribute to Dark orbs, Deal 90% damage
    | condition: 33% chance
    | (13264:15) Hmph! Hmph! Hmph!
    | Deal 105% damage (3 hits, 35% each)

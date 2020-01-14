@@ -22,7 +22,7 @@ Bind 1 random card for 6 turns
 
 #6: ESOrbChangeAttack(48:759) -> Evil Dragon's Breath
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Dark, Deal 80% damage
+Change a random attribute to Dark orbs, Deal 80% damage
 
 #7: ESAttackMultihit(15:756) -> God Hell Breath
 Deal 150% damage (2 hits, 75% each)

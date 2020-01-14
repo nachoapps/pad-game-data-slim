@@ -25,7 +25,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESOrbChangeAttack(48:11478) -> We can win this!
-	Change Random to Wood, Deal 40% damage
+	Change a random attribute to Wood orbs, Deal 40% damage
 	[1] ESAttackMultihit(15:11479) -> Haa!
 	Deal 50% damage
 

@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 29
  | condition: 50% chance, at most 1 times
  | (82:7) Cure
- | Enemy recover 50% hp
+ | Enemy recover 50% HP

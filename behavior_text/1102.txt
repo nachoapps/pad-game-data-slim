@@ -29,4 +29,4 @@ level: 1
    | group:
    | condition: turn 2
      | (4446:86) Cure
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP

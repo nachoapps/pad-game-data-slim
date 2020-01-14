@@ -38,14 +38,14 @@ flag SET 0b11
 Bind 4 random cards for 2~4 turns, Deal 50% damage
 
 #12: ESOrbChangeAttack(48:944) -> Rose Ocean
-Change Heal to Water, Deal 300% damage
+Change all Heal orbs to Water orbs, Deal 300% damage
 
 #13: ESOrbChangeAttack(48:942) -> Beautiful Rose
-Change Random to Heal, Deal 125% damage
+Change a random attribute to Heal orbs, Deal 125% damage
 
 #14: ESOrbChangeAttack(48:902) -> Flower Tail
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 100% damage
+Change a random attribute to Heal orbs, Deal 100% damage
 
 #15: ESBindAttack(63:941) -> Thorn Whip
 Bind 1 random sub for 2 turns, Deal 75% damage

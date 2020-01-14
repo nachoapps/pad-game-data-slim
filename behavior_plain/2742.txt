@@ -32,7 +32,7 @@ flag SET 0b11
 	[0] ESGravity(50:4828) -> Saint Decision
 	Player -60% HP
 	[1] ESPoisonChangeRandomAttack(64:4829) -> Saint Poison
-	Change Random 1 to Poison, Deal 40% damage
+	Change 1 random orb to Poison orbs, Deal 40% damage
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 12
@@ -44,7 +44,7 @@ flag SET 0b111
 	[0] ESGravity(50:4828) -> Saint Decision
 	Player -60% HP
 	[1] ESPoisonChangeRandomAttack(64:4829) -> Saint Poison
-	Change Random 1 to Poison, Deal 40% damage
+	Change 1 random orb to Poison orbs, Deal 40% damage
 
 #12: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 15
@@ -56,7 +56,7 @@ flag SET 0b1111
 	[0] ESGravity(50:4828) -> Saint Decision
 	Player -60% HP
 	[1] ESPoisonChangeRandomAttack(64:4829) -> Saint Poison
-	Change Random 1 to Poison, Deal 40% damage
+	Change 1 random orb to Poison orbs, Deal 40% damage
 
 #15: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1110
@@ -66,4 +66,4 @@ Condition: When mortal poison orbs are on the board (ai:100 rnd:0)
 Change all orbs to Light, Deal 5000% damage
 
 #17: ESRecoverPlayer(55:4832) -> Heaven's Compassion
-Player recover 100% hp
+Player recover 100% HP

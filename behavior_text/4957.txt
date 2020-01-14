@@ -17,7 +17,7 @@ level: 1
    | Deal 105% damage (3 hits, 35% each)
    | condition: 25% chance
    | (12050:48) 燃えろ！　れんごくの炎！！
-   | Change Random to Fire, Deal 95% damage
+   | Change a random attribute to Fire orbs, Deal 95% damage
    | condition: 25% chance
    | (12051:39) させるかっ！
    | Movetime -2s for 1 turn, Deal 95% damage
@@ -30,7 +30,7 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (12053:104) これが大王の力だ！
-     | 2x2 cloud appear for 1 turn at random location, Deal 90% damage
+     | A 2×2 square of clouds appears for 1 turn at a random location, Deal 90% damage
      | (12054:100) ハハッ　動けるか？
      | Seal the 1st row for 1 turn, Deal 90% damage
    | group:
@@ -40,7 +40,7 @@ level: 1
      | Deal 105% damage (3 hits, 35% each)
      | condition: 25% chance
      | (12050:48) 燃えろ！　れんごくの炎！！
-     | Change Random to Fire, Deal 95% damage
+     | Change a random attribute to Fire orbs, Deal 95% damage
      | condition: 25% chance
      | (12051:39) させるかっ！
      | Movetime -2s for 1 turn, Deal 95% damage
@@ -50,7 +50,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (12055:83) 覇王閻魔玉 + 本気を出させてもらおうか…！
-   | Deal 200% damage + Enemy recover 50% hp, Deal 200% damage
+   | Deal 200% damage + Enemy recover 50% HP, Deal 200% damage
  | group:
  | condition: hp <= 19
    | group:

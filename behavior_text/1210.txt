@@ -9,13 +9,13 @@ approved: False
 level: 3
  type: PREEMPT
  | (1158:55) Gleam of the Phoenix
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-5 of 6
      | (1160:48) Immortal Flame
-     | Change Water to Heal, Deal 75% damage
+     | Change all Water orbs to Heal orbs, Deal 75% damage
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (1161:15) Eternal Flare
@@ -25,7 +25,7 @@ level: 3
    | group:
    | condition: execute repeatedly, turn 1-5 of 6
      | (1159:7) Flames of Reincarnation
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (1161:15) Eternal Flare

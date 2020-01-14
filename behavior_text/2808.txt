@@ -36,10 +36,10 @@ level: 1
      | Bind awoken skills for 3 turns
      | condition: 34% chance
      | (8023:48) Fire Rat Fur Robe
-     | Change Heal to Fire, Deal 10000% damage
+     | Change all Heal orbs to Fire orbs, Deal 10000% damage
      | condition: 50% chance
      | (8025:48) Swallow's Cowry Shell
-     | Change Random to Heal, Deal 20000% damage
+     | Change a random attribute to Heal orbs, Deal 20000% damage
      | (8024:85) Dragon Neck Jewel
      | Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 10000% damage
    | group:
@@ -57,10 +57,10 @@ level: 1
      | Bind awoken skills for 3 turns
      | condition: 34% chance
      | (8023:48) Fire Rat Fur Robe
-     | Change Heal to Fire, Deal 10000% damage
+     | Change all Heal orbs to Fire orbs, Deal 10000% damage
      | condition: 50% chance
      | (8025:48) Swallow's Cowry Shell
-     | Change Random to Heal, Deal 20000% damage
+     | Change a random attribute to Heal orbs, Deal 20000% damage
      | (8024:85) Dragon Neck Jewel
      | Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 10000% damage
    | group:
@@ -78,10 +78,10 @@ level: 1
      | Bind awoken skills for 3 turns
      | condition: 34% chance
      | (8023:48) Fire Rat Fur Robe
-     | Change Heal to Fire, Deal 10000% damage
+     | Change all Heal orbs to Fire orbs, Deal 10000% damage
      | condition: 50% chance
      | (8025:48) Swallow's Cowry Shell
-     | Change Random to Heal, Deal 20000% damage
+     | Change a random attribute to Heal orbs, Deal 20000% damage
      | (8024:85) Dragon Neck Jewel
      | Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 10000% damage
    | group:
@@ -99,10 +99,10 @@ level: 1
      | Bind awoken skills for 3 turns
      | condition: 34% chance
      | (8023:48) Fire Rat Fur Robe
-     | Change Heal to Fire, Deal 10000% damage
+     | Change all Heal orbs to Fire orbs, Deal 10000% damage
      | condition: 50% chance
      | (8025:48) Swallow's Cowry Shell
-     | Change Random to Heal, Deal 20000% damage
+     | Change a random attribute to Heal orbs, Deal 20000% damage
      | (8024:85) Dragon Neck Jewel
      | Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 10000% damage
    | group:
@@ -121,4 +121,4 @@ level: 1
  | group:
  | condition: hp <= 29
    | (8016:83) Ascension + Elixir of Life
-   | Change the 3rd column to Light orbs and the 4th column to Light orbs + Enemy recover 100% hp, Deal 20000% damage
+   | Change the 3rd column to Light orbs and the 4th column to Light orbs + Enemy recover 100% HP, Deal 20000% damage

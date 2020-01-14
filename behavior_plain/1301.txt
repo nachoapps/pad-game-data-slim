@@ -46,7 +46,7 @@ flag SET 0b1
 
 #12: SkillSet:
 	[0] ESDebuffRCV(105:14748) -> Heartbeat Overheat
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 	[1] ESGravity(50:14740) -> Jurassic Flame
 	Player -99% HP
 

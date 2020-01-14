@@ -23,10 +23,10 @@ flag SET 0b1
 end_turn
 
 #6: ESOrbChangeAttack(48:5220) -> Beauty of the Four Seasons
-Change Heal to Water, Deal 150% damage
+Change all Heal orbs to Water orbs, Deal 150% damage
 
 #7: ESRowSpawnMulti(79:5222) -> Mirage Blade
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change the 1st row to Water orbs, Deal 200% damage
 
 #8: ESRandomSpawn(92:5221) -> Ice Sword

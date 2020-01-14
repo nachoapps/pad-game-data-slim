@@ -35,7 +35,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1-5 of 6
      | (1896:7) Soul Cure
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (1900:81) Soul Burst

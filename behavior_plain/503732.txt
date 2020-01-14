@@ -17,7 +17,7 @@ Enable preempt if level 1
 	Random 1 orbs change every 1.0s for 10 turns
 
 #3: ESSkyfallLocked(96:14581) -> Indelible Flare
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Locked random skyfall +20% for 5 turns
 
 #4: ESBranchCounter(32:22) -> ESBranchCounter
@@ -32,7 +32,7 @@ Spawn 3 random Bomb orbs, Deal 98% damage
 
 #7: ESOrbChangeAttack(48:14577) -> Flare Breath
 Condition: 20% chance (ai:0 rnd:20)
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #8: ESOrbLock(94:14578) -> Nova
 Condition: 20% chance (ai:0 rnd:20)
@@ -40,7 +40,7 @@ Lock 4 random orbs, Deal 103% damage
 
 #9: ESCloud(104:14579) -> Heat Haze
 Condition: 20% chance (ai:0 rnd:20)
-1x1 cloud appear for 1 turn at random location, Deal 101% damage
+A 1×1 square of clouds appears for 1 turn at a random location, Deal 101% damage
 
 #10: ESAttackMultihit(15:14580) -> Meteor
 Condition: 20% chance (ai:0 rnd:20)

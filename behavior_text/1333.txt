@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 29
      | (11866:83) Drought + Lost Water of Life
-     | Player -99% HP + Rcv 50% for 10 turns
+     | Player -99% HP + RCV +50% for 10 turns
    | group:
      | condition: 25% chance
      | (11869:65) Torrential Downpour
@@ -28,7 +28,7 @@ level: 1
      | Delay active skills by 2 turns, Deal 100% damage
      | condition: 25% chance
      | (11871:48) High Water
-     | Change Random to Water, Deal 95% damage
+     | Change a random attribute to Water orbs, Deal 95% damage
      | condition: 25% chance
      | (11872:15) Overflowing
      | Deal 105% damage (3 hits, 35% each)
@@ -44,7 +44,7 @@ level: 1
  | group:
  | condition: hp <= 1
    | (11876:83) Spring of Life + Arrested
-   | Enemy recover 100% hp + Lock all orbs, Deal 100% damage
+   | Enemy recover 100% HP + Lock all orbs, Deal 100% damage
  type: UNKNOWN_USE
  | (11874:65) Torrential Downpour
  | Bind 4 random subs for 1 turn

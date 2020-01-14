@@ -28,7 +28,7 @@ level: 1
    | group:
    | condition: turn 3 while HP > 34
      | (6543:83) Goudenbel + Cure
-     | Blind all orbs on the board + Player recover 100% hp, Deal 100% damage
+     | Blind all orbs on the board + Player recover 100% HP, Deal 100% damage
    | group:
    | condition: turn 4 while HP > 49
      | (6569:83) Another Fate + Arentillia
@@ -79,7 +79,7 @@ level: 1
    | group:
    | condition: turn 4 while HP > 19
      | (6543:83) Goudenbel + Cure
-     | Blind all orbs on the board + Player recover 100% hp, Deal 100% damage
+     | Blind all orbs on the board + Player recover 100% HP, Deal 100% damage
    | group:
    | condition: turn 5 while HP > 19
      | (6570:83) Apotheosis Omen + Arentillia
@@ -91,7 +91,7 @@ level: 1
  | group:
  | condition: hp <= 1
    | (6532:83) Divine Cure + Sage Wisdom
-   | Enemy recover 15% hp + Absorb damage when combos <= 6 for 999 turns
+   | Enemy recover 15% HP + Absorb damage when combos <= 6 for 999 turns
  type: UNKNOWN_USE
  | condition: at most 7 times
  | (6545:74) Sanctuary

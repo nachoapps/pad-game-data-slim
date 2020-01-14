@@ -12,7 +12,7 @@ Branch on hp > 50, target rnd 8
 
 #3: ESOrbChangeAttack(48:479) -> White Light
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 70% damage
+Change a random attribute to Jammer orbs, Deal 70% damage
 
 #4: ESAttackMultihit(15:476) -> Breath of the Holy Sky
 Deal 100~120% damage (5~6 hits, 20% each)

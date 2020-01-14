@@ -12,11 +12,11 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (723:60) Devilit Poison
-     | Change Random 6 to Poison (excluding hearts)
+     | Change 6 random orbs (excluding hearts) to Poison orbs
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (724:48) Heart Break
-     | Change Heal to Jammer, Deal 100% damage
+     | Change all Heal orbs to Jammer orbs, Deal 100% damage
  | group:
  | condition: hp <= 19
    | (722:15) Hell & Heaven

@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: turn 2 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 3-4 while HP > 49
      | condition: 25% chance
@@ -40,7 +40,7 @@ level: 1
    | group:
    | condition: turn 5 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 6-7 while HP > 4
      | condition: 25% chance
@@ -58,7 +58,7 @@ level: 1
    | group:
    | condition: turn 8 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 9-10 while HP > 4
      | condition: 25% chance
@@ -80,7 +80,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 25% chance
@@ -112,7 +112,7 @@ level: 1
    | group:
    | condition: turn 12 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 13-14 while HP > 49
      | condition: 25% chance
@@ -130,7 +130,7 @@ level: 1
    | group:
    | condition: turn 15 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 16 while HP > 49
      | (12282:109) Flowing Agony
@@ -152,7 +152,7 @@ level: 1
    | group:
    | condition: turn 18 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
      | condition: 25% chance
      | (12266:83) Seven Lands and Seas + Torch Light
@@ -179,7 +179,7 @@ level: 1
    | group:
    | condition: turn 4 while HP > 4
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 5 while HP > 4
      | condition: 25% chance
@@ -197,7 +197,7 @@ level: 1
    | group:
    | condition: turn 7 while HP > 4
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 8 while HP > 4
      | condition: 25% chance
@@ -215,7 +215,7 @@ level: 1
    | group:
    | condition: turn 10 while HP > 4
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 11 while HP > 4
      | condition: 25% chance
@@ -237,7 +237,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (12274:83) Value of Freedom + Independent Assembly
-     | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
+     | Movetime +25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 25% chance

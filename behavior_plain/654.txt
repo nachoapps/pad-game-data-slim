@@ -16,11 +16,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Bind awoken skills for 1 turn
 
 #4: ESAttackUPRemainingEnemies(17:13192) -> Enhancing Earth
-Condition: When < 20% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 3 turns
 
 #5: ESColumnSpawnMulti(77:13193) -> Raging Earth
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change the 3rd and 4th columns to Jammer orbs, Deal 300% damage
 
 #6: ESAttackMultihit(15:13191) -> Animal Attack

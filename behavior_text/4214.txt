@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 4
    | (12651:104) Puffy Fluffy Meat Bun
-   | Row of cloud appear for 3 turns at random location
+   | A row of clouds appears for 3 turns at a random location
  | group:
  | condition: execute repeatedly, turn 2 of 4
    | (12652:66) Munch Munch

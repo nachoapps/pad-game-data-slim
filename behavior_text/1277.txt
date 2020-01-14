@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (1038:55) Here I come, human child
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1039:48) Take this!
-   | Change Random to Jammer, Deal 60% damage
+   | Change a random attribute to Jammer orbs, Deal 60% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (1040:67) This is a dragon's true might!

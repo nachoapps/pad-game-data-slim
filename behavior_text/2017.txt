@@ -19,10 +19,10 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (13074:48) Here I go!
-     | Change Heal to Jammer, Deal 75% damage
+     | Change all Heal orbs to Jammer orbs, Deal 75% damage
      | condition: 30% chance
      | (13077:48) You can do it!
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 40% chance
      | (13076:50) Are you already struggling?
      | Player -99% HP
@@ -32,7 +32,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 30% chance
      | (13077:48) You can do it!
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 40% chance
      | (13076:50) Are you already struggling?
      | Player -99% HP

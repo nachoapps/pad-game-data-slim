@@ -15,14 +15,14 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (14874:105) Terror and desperation. I love it.
-     | Rcv 50% for 3 turns
+     | RCV +50% for 3 turns
    | group:
      | condition: 40% chance
      | (14872:15) Your efforts are futile.
      | Deal 110% damage
      | condition: 40% chance
      | (14873:48) I am invincible!
-     | Change Random to Jammer, Deal 90% damage
+     | Change a random attribute to Jammer orbs, Deal 90% damage
  | group:
  | condition: hp <= 19
    | group:

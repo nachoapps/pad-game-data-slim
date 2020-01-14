@@ -21,7 +21,7 @@ flag SET 0b1
 	[2] ESAbsorbCombo(67:9554) -> Here I come!
 	Absorb damage when combos <= 6 for 1 turn
 	[3] ESDebuffMovetime(39:9555) -> Let's get excited ♪
-	Movetime 200% for 5 turns
+	Movetime +200% for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -69,7 +69,7 @@ Deal 20000% damage (2 hits, 10000% each)
 
 #18: SkillSet:
 	[0] ESCloud(104:9561) -> Everyone's enthusiasm is great!
-	3x2 cloud appear for 1 turn at 3rd row, 3rd column
+	A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column
 	[1] ESRandomSpawn(92:9562) -> I'm not done yet!
 	Spawn 10 random Fire, Water, Wood, or Light orbs
 	[2] ESAbsorbCombo(67:9563) -> I wonder if you can make it to the end!
@@ -154,7 +154,7 @@ counter + 1
 	[0] ESInactivity66(66:9569) -> Good Soprano
 	Do nothing
 	[1] ESCloud(104:9561) -> Everyone's enthusiasm is great!
-	3x2 cloud appear for 1 turn at 3rd row, 3rd column
+	A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column
 	[2] ESRandomSpawn(92:9562) -> I'm not done yet!
 	Spawn 10 random Fire, Water, Wood, or Light orbs
 	[3] ESAbsorbCombo(67:9563) -> I wonder if you can make it to the end!

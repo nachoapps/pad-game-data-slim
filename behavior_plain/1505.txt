@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: ESDebuffMovetime(39:13375) -> Affliction of the Water Dragon
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Movetime 50% for 2 turns
+Movetime +50% for 2 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 7
@@ -45,7 +45,7 @@ end_turn
 
 #12: ESCloud(104:13379) -> Gathering Steam
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-2x3 cloud appear for 1 turn at random location
+A 2×3 rectangle of clouds appears for 1 turn at a random location
 
 #13: ESColumnSpawnMulti(77:13380) -> Water Dragon Sword
 Change the 1st column to Water orbs and the 6th column to Water orbs, Deal 300% damage

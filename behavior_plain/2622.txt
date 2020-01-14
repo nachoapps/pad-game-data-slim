@@ -59,7 +59,7 @@ flag SET 0b1111
 Change the 5th row to Poison orbs, Deal 100% damage
 
 #18: ESOrbChangeAttack(48:2677) -> あんまり調子にのんなよてめー
-Change Heal to Fire, Deal 100% damage
+Change all Heal orbs to Fire orbs, Deal 100% damage
 
 #19: ESRandomSpawn(92:2678) -> あんまり調子にのんなよてめー
 Spawn 6 random Fire orbs, Deal 100% damage

@@ -23,7 +23,7 @@ Blind all orbs on the board
 
 #5: ESOrbChangeAttackBits(108:15221) -> くらえ！
 Condition: 33% chance (ai:0 rnd:33)
-Change Fire, Water, and Wood to Fire, Deal 80% damage
+Change all Fire, Water, and Wood orbs to Fire orbs, Deal 80% damage
 
 #6: ESAttackMultihit(15:15218) -> Ｅ６の機動性を見せてやる！
 Condition: 33% chance (ai:0 rnd:33)

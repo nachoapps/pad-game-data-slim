@@ -10,4 +10,4 @@ level: 5
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (402:48) Pillage
- | Change Random to Jammer, Deal 70% damage
+ | Change a random attribute to Jammer orbs, Deal 70% damage

@@ -35,10 +35,10 @@ Branch on counter >= 1, target rnd 14
 counter + 1
 
 #11: ESOrbChangeAttack(48:9121) -> I don't need this!
-Change Light to Jammer, Deal 80% damage
+Change all Light orbs to Jammer orbs, Deal 80% damage
 
 #12: ESOrbChangeAttack(48:9224) -> Don't need this!
-Change Heal to Poison, Deal 80% damage
+Change all Heal orbs to Poison orbs, Deal 80% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

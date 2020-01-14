@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (652:48) Wisteria Branch of Rust
-   | Change Random to Jammer, Deal 130% damage
+   | Change a random attribute to Jammer orbs, Deal 130% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (653:17) Unforgivable Revision
@@ -24,7 +24,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (652:48) Wisteria Branch of Rust
-     | Change Random to Jammer, Deal 130% damage
+     | Change a random attribute to Jammer orbs, Deal 130% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (654:15) Divine Katana of Yasaka

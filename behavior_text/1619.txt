@@ -32,7 +32,7 @@ level: 1
      | (4879:92) Thanks for taking care of it ♪
      | Change all orbs to Heal
      | (4880:86) I told you to take care of it...
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (4881:85) Magic Circle Anomaly

@@ -24,14 +24,14 @@ Absorb damage when combos <= 4 for 99 turns
 end_turn
 
 #7: ESRecoverEnemy86(86:3345) -> Super Regeneration
-Condition: When < 30% hp (ai:100 rnd:0)
-Enemy recover 50% hp
+Condition: When < 30% HP (ai:100 rnd:0)
+Enemy recover 50% HP
 
 #8: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 80, target rnd 13
 
 #9: ESDamageShield(74:3346) -> Defensive Water Position
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 1 turn
 
 #10: ESRowSpawnMulti(79:3344) -> Water Flash

@@ -10,7 +10,7 @@ level: 5
  group:
  | group:
    | (1760:48) MugMug Blue
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 29
    | (1764:1) Quiet Tea Time!

@@ -14,7 +14,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1651:64) Poison Needle
-   | Change Random 4 to Poison, Deal 50% damage
+   | Change 4 random orbs to Poison orbs, Deal 50% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (1650:1) Honey Honey Bind
@@ -22,7 +22,7 @@ level: 5
  | group:
  | condition: always turn 2, hp <= 49
    | (1653:7) Dragon Royal Jelly
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP
  | group:
  | condition: hp <= 29
    | (1652:15) Honeybee Swarm
@@ -36,7 +36,7 @@ level: 10
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1651:64) Poison Needle
-   | Change Random 4 to Poison, Deal 50% damage
+   | Change 4 random orbs to Poison orbs, Deal 50% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (1650:1) Honey Honey Bind
@@ -44,7 +44,7 @@ level: 10
  | group:
  | condition: always turn 2, hp <= 49
    | (1653:7) Dragon Royal Jelly
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP
  | group:
  | condition: hp <= 29
    | (1652:15) Honeybee Swarm

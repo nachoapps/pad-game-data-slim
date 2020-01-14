@@ -26,7 +26,7 @@ level: 1
  | group:
  | condition: turn 4
    | (868:60) Hydra's Poison Dart
-   | Change Random 7 to Poison (excluding hearts)
+   | Change 7 random orbs (excluding hearts) to Poison orbs
  | group:
  | condition: turn 5
    | (866:15) Million Punches

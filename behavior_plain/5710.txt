@@ -52,9 +52,9 @@ flag SET 0b11
 
 #14: SkillSet:
 	[0] ESRecoverEnemy7(7:15205) -> させるか！
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESDebuffMovetime(39:15206) -> まだだ！
-	Movetime 50% for 1 turn
+	Movetime +50% for 1 turn
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

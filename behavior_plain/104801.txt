@@ -12,14 +12,14 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Voids status ailments for 999 turns
 
 #3: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESDamageShield(74:10761) -> Toughen Up
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESColumnSpawnMulti(77:10762) -> Flare Slash
 	Change the 3rd and 4th columns to Fire orbs, Deal 130% damage
 
 #4: ESAttackMultihit(15:10764) -> Special Move
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 240% damage (6 hits, 40% each)
 
 #5: ESBombRandomSpawn(102:10760) -> Burst of Dust

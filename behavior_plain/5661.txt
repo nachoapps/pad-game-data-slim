@@ -33,7 +33,7 @@ end_turn
 
 #8: ESRecoverEnemy86(86:14923) -> Resurrection
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #9: ESColumnSpawnMulti(77:14924) -> Ra Tilt
 Change the 3rd and 4th columns to Light orbs, Deal 200% damage

@@ -22,7 +22,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (10546:108) Call of a Jealous God
-   | Change Heal to Jammer, Deal 100% damage
+   | Change all Heal orbs to Jammer orbs, Deal 100% damage
    | condition: 50% chance
    | (10547:15) Crunch
    | Deal 120% damage (3 hits, 40% each)

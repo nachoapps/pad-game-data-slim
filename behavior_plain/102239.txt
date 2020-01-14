@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESDamageShield(74:12156) -> Harbinger of Corrosion
 	Reduce damage from all sources by 50% for 10 turns
 	[1] ESDebuffMovetime(39:12157) -> Realm of Hades's Law
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -122,10 +122,10 @@ Branch on flag & 4, target rnd 26
 flag SET 0b111
 
 #23: ESOrbChangeAttack(48:4017) -> Bloody Blossom - Anemone
-Change Mortal Poison to Heal, Deal 400% damage
+Change all Mortal Poison orbs to Heal orbs, Deal 400% damage
 
 #24: ESOrbChangeAttack(48:4018) -> Cursed Flower - Mint
-Change Heal to Mortal Poison, Deal 100% damage
+Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
 
 #25: ESRowSpawnMulti(79:4013) -> Cocytus's Erosion
 Change the 5th row to Mortal Poison orbs, Deal 50% damage

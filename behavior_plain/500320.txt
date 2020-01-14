@@ -12,7 +12,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Blind random 10 orbs for 1 turn
 
 #3: ESSkyfall(68:15430) -> バグレイン
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Jammer skyfall +15% for 3 turns
 
 #4: ESAttackMultihit(15:15429) -> ダークレイ

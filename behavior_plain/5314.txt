@@ -27,7 +27,7 @@ end_turn
 counter = 0
 
 #8: ESRecoverEnemy86(86:13012) -> オーバーホール
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

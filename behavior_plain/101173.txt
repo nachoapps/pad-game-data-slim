@@ -23,7 +23,7 @@ end_turn
 Branch on hp > 100, target rnd 9
 
 #7: ESOrbChangeAttack(48:5472) -> Flower Tail
-Change Random to Heal, Deal 70% damage
+Change a random attribute to Heal orbs, Deal 70% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn

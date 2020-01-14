@@ -20,7 +20,7 @@ level: 1
    | group:
    | condition: turns 1-2 while HP > 49
      | (11663:108) Chaostrom
-     | Change Poison to Mortal Poison, Deal 150% damage
+     | Change all Poison orbs to Mortal Poison orbs, Deal 150% damage
      | condition: 50% chance
      | (11664:92) Abysstrom
      | Spawn 8 random Poison orbs, Deal 100% damage
@@ -33,7 +33,7 @@ level: 1
      | Absorb damage when combos <= 7 for 99 turns
    | group:
      | (11663:108) Chaostrom
-     | Change Poison to Mortal Poison, Deal 150% damage
+     | Change all Poison orbs to Mortal Poison orbs, Deal 150% damage
      | condition: 50% chance
      | (11664:92) Abysstrom
      | Spawn 8 random Poison orbs, Deal 100% damage
@@ -45,11 +45,11 @@ level: 1
    | group:
    | condition: turn 1
      | (11666:83) Finally, you will struggle... + Prepare yourself!
-     | Reduce damage from all sources by 50% for 99 turns + Movetime 50% for 10 turns
+     | Reduce damage from all sources by 50% for 99 turns + Movetime +50% for 10 turns
    | group:
      | (11672:15) Abyss Maelstrom
      | Deal 1000% damage (5 hits, 200% each)
  | group:
  | condition: turn 1, hp <= 1
    | (11669:83) How regrettable + Finally, you will struggle
-   | Enemy recover 50% hp + Reduce damage from all sources by 75% for 99 turns
+   | Enemy recover 50% HP + Reduce damage from all sources by 75% for 99 turns

@@ -20,7 +20,7 @@ Bind 1 random card for 5 turns
 end_turn
 
 #6: ESBindRandom(1:5494) -> Ninja Trick Shadow Tagging
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random card for 5 turns
 
 #7: ESAttackMultihit(15:5493) -> Shuriken Strike

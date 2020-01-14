@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (9341:48) Wisteria Branch of Rust
-   | Change Random to Jammer, Deal 1000% damage
+   | Change a random attribute to Jammer orbs, Deal 1000% damage
  | group:
  | condition: always turn 2
    | (9348:83) Dead Leaves of the God Tree + Divine Katana of Yasaka

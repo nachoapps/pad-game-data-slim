@@ -11,9 +11,9 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESBlind62(62:1348) -> Time to go to sleep!
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Blind all orbs on the board, Deal 50% damage
 
 #4: ESAttackMultihit(15:1349) -> You and you, get out of here!
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 200% damage (2 hits, 100% each)

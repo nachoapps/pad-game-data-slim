@@ -72,7 +72,7 @@ flag SET 0b1111
 	[0] ESRandomSpawn(92:9452) -> Remaining at top strength is demanding...
 	Spawn 6 random Jammer orbs
 	[1] ESRecoverEnemy86(86:9453) -> ...and my body gets an impulse to devour.
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

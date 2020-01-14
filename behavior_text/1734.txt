@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 1
      | (13165:39) Constraining Martial Art
-     | Movetime 25% for 1 turn
+     | Movetime +25% for 1 turn
    | group:
      | (13166:15) Hero's Sword
      | Deal 420% damage (6 hits, 70% each)
@@ -45,8 +45,8 @@ level: 1
    | group:
    | condition: turn 1
      | (13167:83) Unbreakable Will + Sacred Treasures' Protection
-     | Enemy recover 75% hp + Reduce damage from all sources by 75% for 10 turns
+     | Enemy recover 75% HP + Reduce damage from all sources by 75% for 10 turns
    | group:
    | condition: turn 2
      | (13165:39) Constraining Martial Art
-     | Movetime 25% for 1 turn
+     | Movetime +25% for 1 turn

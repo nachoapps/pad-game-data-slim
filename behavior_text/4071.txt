@@ -24,7 +24,7 @@ level: 1
    | Blind random 4 orbs for 1 turn + Change the 3rd row to Fire orbs, Deal 100% damage
    | condition: 25% chance
    | (13893:83) The black puppet starts to move + Oblivion Flame
-   | Blind random 4 orbs for 1 turn + Change Random to Jammer, Deal 95% damage
+   | Blind random 4 orbs for 1 turn + Change a random attribute to Jammer orbs, Deal 95% damage
    | condition: 25% chance
    | (13894:83) The white puppet starts to move + Misconversion
    | Random 2 orbs change every 1.0s for 1 turn + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison, Deal 90% damage

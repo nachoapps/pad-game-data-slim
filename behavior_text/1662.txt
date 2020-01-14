@@ -17,12 +17,12 @@ level: 4
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (10109:83) Swirling Black Emotions + Threat Removal + Quat Dafiea Easifah
- | Movetime 50% for 10 turns + Change Heal to Jammer + Voids status ailments for 999 turns, Deal 120% damage
+ | Movetime +50% for 10 turns + Change all Heal orbs to Jammer orbs + Voids status ailments for 999 turns, Deal 120% damage
  group:
  | group:
  | condition: always turn 1
    | (10112:83) Exploding Heresy + Look of False Evil
-   | Spawn locked Bomb orbs in the specified positions + Rcv 50% for 10 turns, Deal 100% damage
+   | Spawn locked Bomb orbs in the specified positions + RCV +50% for 10 turns, Deal 100% damage
  | group:
    | condition: 33% chance
    | (10113:102) Khunbala Rogzu

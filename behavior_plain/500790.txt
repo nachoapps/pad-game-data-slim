@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESJammerChangeRandom(13:503) -> Chaos Eye
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

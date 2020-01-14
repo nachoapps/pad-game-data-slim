@@ -26,7 +26,7 @@ counter = 1
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESRecoverEnemy86(86:14399) -> Hmm, not bad!
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESVoidShield(71:14400) -> Ready yourself for the onslaught
 	Void damage >= 5000000 for 999 turns
 
@@ -35,7 +35,7 @@ Branch on hp < 20, target rnd 14
 
 #8: ESOrbChangeAttack(48:14401) -> Silencing Slice
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #9: ESAttackMultihit(15:14402) -> Destructive Lingering Light
 Condition: 33% chance (ai:0 rnd:33)

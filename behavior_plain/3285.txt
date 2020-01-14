@@ -63,7 +63,7 @@ Condition: 60% chance (ai:60 rnd:0)
 Change the 1st row to Jammer orbs, Deal 120% damage
 
 #18: ESMortalPoisonChangeRandom(61:5961) -> Dead Gift
-Change Random 2 to Mortal Poison
+Change 2 random orbs to Mortal Poison orbs
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -77,15 +77,15 @@ end_turn
 
 #21: ESMortalPoisonChangeRandom(61:5965) -> 3
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Change Random 3 to Mortal Poison
+Change 3 random orbs to Mortal Poison orbs
 
 #22: ESMortalPoisonChangeRandom(61:5966) -> 2
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Random 3 to Mortal Poison
+Change 3 random orbs to Mortal Poison orbs
 
 #23: ESMortalPoisonChangeRandom(61:5967) -> 1
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random 3 to Mortal Poison
+Change 3 random orbs to Mortal Poison orbs
 
 #24: ESAttackMultihit(15:5968) -> Catastrophe
 Deal 2000% damage (2 hits, 1000% each)

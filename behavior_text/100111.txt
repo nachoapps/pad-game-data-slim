@@ -10,7 +10,7 @@ level: 9
  group:
  | condition: 50% chance
  | (9126:86) Bloody Stealing
- | Enemy recover 10% hp, Deal 70% damage
+ | Enemy recover 10% HP, Deal 70% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (9125:15) Nightmare Crush
@@ -18,7 +18,7 @@ level: 9
  type: UNKNOWN_USE
  | condition: when 1 enemies remain
  | (9127:52) Bloody Sharing
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP
 
 level: 10
  type: PREEMPT
@@ -27,7 +27,7 @@ level: 10
  group:
  | condition: 50% chance
  | (9126:86) Bloody Stealing
- | Enemy recover 10% hp, Deal 70% damage
+ | Enemy recover 10% HP, Deal 70% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (9125:15) Nightmare Crush
@@ -35,4 +35,4 @@ level: 10
  type: UNKNOWN_USE
  | condition: when 1 enemies remain
  | (9127:52) Bloody Sharing
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP

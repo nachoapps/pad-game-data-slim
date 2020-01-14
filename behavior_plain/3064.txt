@@ -18,7 +18,7 @@ Branch on hp < 40, target rnd 6
 Branch on flag & 1, target rnd 9
 
 #5: ESOrbChangeAttack(48:5057) -> Blue Sphere
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #6: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 9

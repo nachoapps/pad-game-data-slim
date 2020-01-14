@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDebuffMovetime(39:9048) -> Show me your highest combo!
-	Movetime 150% for 4 turns
+	Movetime +150% for 4 turns
 	[1] ESFixedStart(101:9049) -> Let's have a trial first
 	Fix orb movement starting point to random position on the board
 	[2] ESAbsorbCombo(67:9050) -> You can do it, right?!

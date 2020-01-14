@@ -23,8 +23,8 @@ end_turn
 Branch on hp > 100, target rnd 15
 
 #7: ESRecoverEnemy7(7:8555) -> Reforge
-Condition: When < 15% hp (ai:100 rnd:0)
-Enemy recover 60% hp
+Condition: When < 15% HP (ai:100 rnd:0)
+Enemy recover 60% HP
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 23
@@ -38,7 +38,7 @@ Change the 3rd column to Wood orbs, Deal 250% damage
 
 #11: ESDebuffRCV(105:8547) -> Flower Cutter
 Condition: 25% chance (ai:0 rnd:25)
-Rcv 50% for 1 turn, Deal 220% damage
+RCV +50% for 1 turn, Deal 220% damage
 
 #12: ESSpinnersRandom(109:8548) -> Uzu Tomoe
 Condition: 25% chance (ai:0 rnd:25)
@@ -79,7 +79,7 @@ flag SET 0b111
 end_turn
 
 #23: ESDamageShield(74:8554) -> Forge Folding
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 75% for 3 turns
 
 #24: ESAttackUPRemainingEnemies(17:8553) -> Sharpening

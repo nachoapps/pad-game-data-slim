@@ -14,14 +14,14 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESJammerChangeRandom(13:1307) -> Hell Howl
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: ESAttackMultihit(15:1309) -> Trinity Fang
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Deal 150% damage (3 hits, 50% each)
 
 #7: ESPoisonChangeRandomAttack(64:1308) -> Death Bite
-Change Random 3 to Poison, Deal 25% damage
+Change 3 random orbs to Poison orbs, Deal 25% damage

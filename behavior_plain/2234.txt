@@ -33,8 +33,8 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 120% damage
 
 #10: ESRecoverEnemy86(86:3207) -> Arabesque Repair
-Condition: 20% chance when < 80% hp (ai:20 rnd:0)
-Enemy recover 30% hp, Deal 80% damage
+Condition: 20% chance when < 80% HP (ai:20 rnd:0)
+Enemy recover 30% HP, Deal 80% damage
 
 #11: ESAttackMultihit(15:3208) -> Allegro Step
 Deal 150% damage (3 hits, 50% each)
@@ -56,7 +56,7 @@ flag SET 0b11
 
 #17: ESRecoverPlayer(55:3211) -> Homogeneity Check
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Player recover 100% hp
+Player recover 100% HP
 
 #18: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 9

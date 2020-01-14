@@ -27,7 +27,7 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #8: ESOrbChangeAttack(48:13270) -> Scalpel! She will carve the skins from her enemies.
-Change Random to Dark, Deal 90% damage
+Change a random attribute to Dark orbs, Deal 90% damage
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 12

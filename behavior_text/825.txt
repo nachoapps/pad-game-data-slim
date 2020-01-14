@@ -18,9 +18,9 @@ level: 1
  group:
  | group:
    | (4345:48) Conviction
-   | Change Jammer to Light, Deal 220% damage
+   | Change all Jammer orbs to Light orbs, Deal 220% damage
    | (4344:48) Justice Spear
-   | Change Dark to Jammer, Deal 110% damage
+   | Change all Dark orbs to Jammer orbs, Deal 110% damage
    | (4349:92) Force Lightning
    | Spawn 4 random Light orbs, Deal 90% damage
  | group:

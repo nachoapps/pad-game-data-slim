@@ -67,7 +67,7 @@ flag SET 0b11
 
 #18: SkillSet:
 	[0] ESRecoverEnemy86(86:12820) -> Resolve
-	Enemy recover 51% hp
+	Enemy recover 51% HP
 	[1] ESAttackUPRemainingEnemies(17:12819) -> Frost Enhancement
 	Increase damage to 200% for the next 99 turns
 

@@ -20,13 +20,13 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESOrbChangeAttack(48:3691) -> 初日の出の鳴報
-Change Random to Light, Deal 120% damage
+Change a random attribute to Light orbs, Deal 120% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #8: ESSkillDelay(89:3692) -> 謹賀舞
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 2 turns
 
 #9: ESAttackMultihit(15:3693) -> 羽突き

@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1671:64) Dragon Blade - Poison Attack
-     | Change Random 5 to Poison, Deal 40% damage
+     | Change 5 random orbs to Poison orbs, Deal 40% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1672:50) Dragon Blade - Steel Cutting Strike

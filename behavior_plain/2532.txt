@@ -30,7 +30,7 @@ Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #9: ESAttackMultihit(15:3745) -> Water Heaven Ray
-Condition: When < 99% hp (ai:100 rnd:0)
+Condition: When < 99% HP (ai:100 rnd:0)
 Deal 65% damage
 
 #10: ESBlind62(62:3746) -> Flash

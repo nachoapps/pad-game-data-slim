@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESBoardChange(84:15131) -> Let me have some more fun
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 	[2] ESCloud(104:15127) -> Well, this is a start!
-	2x5 cloud appear for 1 turn at 1st row, 3rd column
+	A 2×5 rectangle of clouds appears for 1 turn at 1st row, 3rd column
 	[3] ESAbsorbCombo(67:15128) -> Okay, try to beat me!
 	Absorb damage when combos <= 5 for 1 turn
 
@@ -63,7 +63,7 @@ Player -1000% HP
 	[3] ESAbsorbCombo(67:15138) -> Try to wrap this up smoothly
 	Absorb damage when combos <= 7 for 1 turn
 	[4] ESCloud(104:15151) -> Here's a present
-	Row of cloud appear for 1 turn at 1st column
+	A row of clouds appears for 1 turn at 3rd row, 1st column
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

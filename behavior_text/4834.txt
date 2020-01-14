@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (11548:83) White Valkyrie Shield + Fylgja's Clothing + Discerning Lifechains + Fighting Maiden's Appearance
- | Voids status ailments for 999 turns + Absorb damage when damage >= 30,000,000 for 999 turns + Rcv 50% for 10 turns + Delay active skills by 10 turns
+ | Voids status ailments for 999 turns + Absorb damage when damage >= 30,000,000 for 999 turns + RCV +50% for 10 turns + Delay active skills by 10 turns
  group:
  | group:
    | group:
@@ -22,13 +22,13 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 10 of 10
      | (11558:83) Discerning Lifechains + Mighty Bash
-     | Rcv 50% for 10 turns + Player -75% HP
+     | RCV +50% for 10 turns + Player -75% HP
  | group:
  | condition: hp <= 49
    | group:
    | condition: always turn 1
      | (11553:83) Resurrection + Heavenly Decision
-     | Enemy recover 100% hp + Locked random skyfall +100% for 99 turns
+     | Enemy recover 100% HP + Locked random skyfall +100% for 99 turns
    | group:
    | condition: turns 2-10 while HP > 7
      | (11557:15) Triple Slash
@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 11 while HP > 7
      | (11558:83) Discerning Lifechains + Mighty Bash
-     | Rcv 50% for 10 turns + Player -75% HP
+     | RCV +50% for 10 turns + Player -75% HP
    | group:
      | (11557:15) Triple Slash
      | Deal 150% damage (3 hits, 50% each)

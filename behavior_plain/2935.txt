@@ -20,15 +20,15 @@ Reduce damage from all sources by 50% for 3 turns
 end_turn
 
 #6: ESBindAttack(63:4618) -> Freezing Feather
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 4 random subs for 3 turns, Deal 50% damage
 
 #7: ESRowSpawnMulti(79:4619) -> Mirage Blade
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change the 1st row to Water orbs, Deal 300% damage
 
 #8: ESOrbChangeAttack(48:4616) -> Beauty of the Four Seasons
-Change Heal to Water, Deal 100% damage
+Change all Heal orbs to Water orbs, Deal 100% damage
 
 #9: ESRandomSpawn(92:4617) -> Ice Sword
 Spawn 9 random Water orbs, Deal 130% damage

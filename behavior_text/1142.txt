@@ -20,7 +20,7 @@ level: 5
    | Do nothing
    | condition: 30% chance
    | (891:4) Lemon Drop!
-   | Change Dark to Light
+   | Change all Dark orbs to Light orbs
  | group:
  | condition: hp <= 29
    | condition: 70% chance
@@ -31,4 +31,4 @@ level: 5
    | Do nothing
    | condition: 30% chance
    | (891:4) Lemon Drop!
-   | Change Dark to Light
+   | Change all Dark orbs to Light orbs

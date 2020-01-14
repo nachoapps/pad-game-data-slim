@@ -11,13 +11,13 @@ Deal 75% damage
 Voids status ailments for 999 turns
 
 #3: ESBindTyping(3:328) -> Glare of Zeus
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind God cards for 2~4 turns
 
 #4: ESAttackMultihit(15:327) -> Jupiter Genesis
-Condition: 75% chance when < 30% hp (ai:75 rnd:0)
+Condition: 75% chance when < 30% HP (ai:75 rnd:0)
 Deal 200% damage
 
 #5: ESAttackMultihit(15:326) -> Dios Blade
-Condition: 75% chance when < 70% hp (ai:75 rnd:0)
+Condition: 75% chance when < 70% HP (ai:75 rnd:0)
 Deal 120~180% damage (4~6 hits, 30% each)

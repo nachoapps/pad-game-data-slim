@@ -13,7 +13,7 @@ Show message: Armor Drop set on D-Gear! |Divine Law Goddess, Valkyrie Rose's Ene
 Ana new powers
 
 #3: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESSkillDelay(89:5250) -> Ana starts crying
 	Delay active skills by 3 turns
 	[1] ESAttackMultihit(15:5251) -> 10 combos!!
@@ -117,20 +117,20 @@ Branch on flag & 16, target rnd 30
 
 #27: SkillSet:
 	[0] ESOrbChangeAttack(48:5241) -> Ice Blade
-	Change Random to Water, Deal 60% damage
+	Change a random attribute to Water orbs, Deal 60% damage
 	[1] ESAttackMultihit(15:5244) -> 3 combos ♪
 	Deal 60% damage (3 hits, 20% each)
 
 #28: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESOrbChangeAttack(48:5241) -> Ice Blade
-	Change Random to Water, Deal 60% damage
+	Change a random attribute to Water orbs, Deal 60% damage
 	[1] ESAttackMultihit(15:5244) -> 3 combos ♪
 	Deal 60% damage (3 hits, 20% each)
 
 #29: SkillSet:
 	[0] ESOrbChangeAttack(48:5243) -> Gale
-	Change Random to Jammer, Deal 50% damage
+	Change a random attribute to Jammer orbs, Deal 50% damage
 	[1] ESAttackMultihit(15:5244) -> 3 combos ♪
 	Deal 60% damage (3 hits, 20% each)
 
@@ -143,6 +143,6 @@ Branch on flag & 16, target rnd 30
 
 #31: SkillSet:
 	[0] ESOrbChangeAttack(48:5243) -> Gale
-	Change Random to Jammer, Deal 50% damage
+	Change a random attribute to Jammer orbs, Deal 50% damage
 	[1] ESAttackMultihit(15:5244) -> 3 combos ♪
 	Deal 60% damage (3 hits, 20% each)

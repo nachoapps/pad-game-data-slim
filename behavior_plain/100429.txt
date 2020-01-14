@@ -33,7 +33,7 @@ end_turn
 
 #10: ESRecoverEnemyAlly(52:15027) -> Queen's Will
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
-Enemy ally recover 100% hp
+Enemy ally recover 100% HP
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

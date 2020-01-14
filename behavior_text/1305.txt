@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (1611:48) Magic Blood Spear Mac an Luin
-   | Change Random to Jammer, Deal 125% damage
+   | Change a random attribute to Jammer orbs, Deal 125% damage
    | condition: 70% chance
    | (1612:62) Dark Turbulence
    | Blind all orbs on the board, Deal 100% damage
@@ -28,7 +28,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance
      | (1611:48) Magic Blood Spear Mac an Luin
-     | Change Random to Jammer, Deal 125% damage
+     | Change a random attribute to Jammer orbs, Deal 125% damage
      | condition: 70% chance
      | (1612:62) Dark Turbulence
      | Blind all orbs on the board, Deal 100% damage

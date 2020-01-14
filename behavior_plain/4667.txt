@@ -35,19 +35,19 @@ Bind 4 random subs for 1 turn
 
 #10: ESOrbChangeAttack(48:10608) -> Slider
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #11: ESOrbChangeAttack(48:10609) -> Curve
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #12: ESOrbChangeAttack(48:10612) -> Shoot
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #13: ESOrbChangeAttack(48:10610) -> Fork
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

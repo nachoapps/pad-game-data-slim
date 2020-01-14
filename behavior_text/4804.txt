@@ -18,11 +18,11 @@ level: 1
    | group:
    | condition: turn 1 while HP > 24
      | (11164:83) G-Go back! + It's d-d-dangerous!
-     | Poison skyfall +15% for 10 turns + Rcv 50% for 10 turns
+     | Poison skyfall +15% for 10 turns + RCV +50% for 10 turns
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (11168:108) P-Please be patient!
-     | Change Poison to Heal, Deal 150% damage
+     | Change all Poison orbs to Heal orbs, Deal 150% damage
      | condition: 50% chance
      | (11167:92) B-Be careful!
      | Spawn 3 random Heal or Mortal Poison orbs

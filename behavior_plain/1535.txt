@@ -25,12 +25,12 @@ Condition: One-time use (ai:100 rnd:0) (cost: 5)
 Change all orbs to Wood and Heal, Deal 300% damage
 
 #7: ESRecoverEnemy7(7:1896) -> Soul Cure
-Condition: When < 50% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 50% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #8: ESRecoverEnemy7(7:1896) -> Soul Cure
-Condition: When < 50% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 50% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #9: ESBindAttack(63:1897) -> Bonds of the Sacred Tree
 Condition: 20% chance (ai:0 rnd:20)

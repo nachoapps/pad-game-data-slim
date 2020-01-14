@@ -14,10 +14,10 @@ level: 4
  | group:
    | condition: 50% chance
    | (3758:48) Target Predation - Fire
-   | Change Fire to Jammer, Deal 100% damage
+   | Change all Fire orbs to Jammer orbs, Deal 100% damage
    | condition: 20% chance
    | (3618:48) Target Predation - Heal
-   | Change Heal to Jammer, Deal 120% damage
+   | Change all Heal orbs to Jammer orbs, Deal 120% damage
    | condition: 30% chance
    | (3759:92) Green Whip
    | Spawn 4 random Wood orbs, Deal 120% damage

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2258:13) I won't let you interfere with Zhou Yu!
- | Change Random 2 to Jammer
+ | Change 2 random orbs to Jammer orbs
  group:
  | group:
    | condition: 50% chance
@@ -17,7 +17,7 @@ level: 1
    | Change the 1st row to Light orbs and the 5th row to Water orbs, Deal 90% damage
    | condition: 50% chance
    | (2260:64) Guardian Dragon's Venomous Talons
-   | Change Random 3 to Poison, Deal 75% damage
+   | Change 3 random orbs to Poison orbs, Deal 75% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -31,7 +31,7 @@ level: 1
      | Change the 1st row to Light orbs and the 5th row to Water orbs, Deal 90% damage
      | condition: 50% chance
      | (2260:64) Guardian Dragon's Venomous Talons
-     | Change Random 3 to Poison, Deal 75% damage
+     | Change 3 random orbs to Poison orbs, Deal 75% damage
  | group:
  | condition: hp <= 29
    | group:

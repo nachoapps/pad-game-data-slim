@@ -30,7 +30,7 @@ Deal 100% damage
 
 #7: ESOrbChangeAttack(48:11988) -> アッチアチだニャーン！
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #8: ESAttackMultihit(15:11989) -> ニャニャニャニャニャー！
 Condition: 34% chance (ai:0 rnd:34)

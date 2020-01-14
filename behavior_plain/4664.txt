@@ -76,7 +76,7 @@ Delay active skills by 2 turns, Deal 100% damage
 end_turn
 
 #21: ESRecoverEnemy86(86:10623) -> Swelling Energy
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

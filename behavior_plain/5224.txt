@@ -6,7 +6,7 @@ counter increment: 0
 
 #1: ESOrbChangeAttack(48:13196) -> 中はしっとりふっくら
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Water, Deal 90% damage
+Change a random attribute to Water orbs, Deal 90% damage
 
 #2: ESAttackMultihit(15:13197) -> 外はサクサク
 Condition: 50% chance (ai:0 rnd:50)

@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: when 12 combos last turn
    | (8397:104) Fotiá Xíphos
-   | Column of cloud appear for 1 turn at random location, Deal 260% damage
+   | A column of clouds appears for 1 turn at a random location, Deal 260% damage
    | condition: 50% chance, when 9 combos last turn
    | (8396:17) Theós Thymós
    | Increase damage to 150% for the next 1 turn

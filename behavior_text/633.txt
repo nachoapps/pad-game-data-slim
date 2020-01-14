@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 70% chance
    | (669:48) Grovel before me!
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | condition: 70% chance
@@ -22,4 +22,4 @@ level: 1
    | Deal 105% damage (3 hits, 35% each)
    | condition: 70% chance
    | (669:48) Grovel before me!
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage

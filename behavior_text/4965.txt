@@ -15,7 +15,7 @@ level: 1
  | Deal 110% damage (2 hits, 55% each)
  | condition: 50% chance
  | (11966:48) そこは飲み込んでくれ！
- | Change Random to Wood, Deal 95% damage
+ | Change a random attribute to Wood orbs, Deal 95% damage
  group:
  | group:
    | condition: 50% chance
@@ -23,13 +23,13 @@ level: 1
    | Deal 110% damage (2 hits, 55% each)
    | condition: 50% chance
    | (11966:48) そこは飲み込んでくれ！
-   | Change Random to Wood, Deal 95% damage
+   | Change a random attribute to Wood orbs, Deal 95% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 19
      | (11967:86) ガッツをチャージしないとな…！
-     | Enemy recover 30% hp
+     | Enemy recover 30% HP
    | group:
      | condition: 25% chance
      | (11968:77) ど根性…　左肉球！
@@ -42,7 +42,7 @@ level: 1
      | Deal 110% damage (2 hits, 55% each)
      | condition: 25% chance
      | (11966:48) そこは飲み込んでくれ！
-     | Change Random to Wood, Deal 95% damage
+     | Change a random attribute to Wood orbs, Deal 95% damage
  | group:
  | condition: hp <= 19
    | (11971:15) ど根性ストレート肉球

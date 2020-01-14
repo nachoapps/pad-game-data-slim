@@ -31,7 +31,7 @@ level: 1
    | group:
    | condition: turn 5 while HP > 4
      | (8041:83) Don't mess with a demon! + Steel Demonskin
-     | Rcv 50% for 7 turns + Reduce damage from all sources by 75% for 7 turns
+     | RCV +50% for 7 turns + Reduce damage from all sources by 75% for 7 turns
    | group:
    | condition: turns 6-11 while HP > 4
      | condition: 33% chance

@@ -25,14 +25,14 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 30% hp (ai:100 rnd:0)
+	Condition: When < 30% HP (ai:100 rnd:0)
 	[0] ESColumnSpawnMulti(77:8020) -> Ascension
 	Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 20000% damage
 	[1] ESRecoverEnemy86(86:8018) -> Elixir of Life
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 
 #7: ESBindAttack(63:8017) -> Moon Purification
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Bind 2 random subs for 1 turn, Deal 7500% damage
 
 #8: ESBindAwoken(88:8013) -> I'll punish you, insolent fool!
@@ -51,11 +51,11 @@ Player -99% HP
 
 #12: ESOrbChangeAttack(48:8023) -> Fire Rat Fur Robe
 Condition: 34% chance (ai:34 rnd:0)
-Change Heal to Fire, Deal 10000% damage
+Change all Heal orbs to Fire orbs, Deal 10000% damage
 
 #13: ESOrbChangeAttack(48:8025) -> Swallow's Cowry Shell
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Heal, Deal 20000% damage
+Change a random attribute to Heal orbs, Deal 20000% damage
 
 #14: ESBoardChangeAttackBits(85:8024) -> Dragon Neck Jewel
 Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 10000% damage

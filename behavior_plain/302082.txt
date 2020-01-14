@@ -19,19 +19,19 @@ Reduce damage from all sources by 50% for 1 turn
 	Absorb damage when combos <= 4 for 5 turns
 
 #4: ESOrbSealColumn(99:10146) -> Godly Treasure Scales
-Condition: When < 20% hp , one-time use (ai:50 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use (ai:50 rnd:0) (cost: 1)
 Seal the 6th column for 3 turns
 
 #5: ESOrbSealColumn(99:10145) -> Godly Treasure Scales
-Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Seal the 1st column for 3 turns
 
 #6: ESBoardChangeAttackBits(85:10144) -> Dhahab Ankusha
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change all orbs to Light, Deal 600% damage
 
 #7: ESOrbChangeAttack(48:10147) -> Vighnesvara
-Change Jammer to Light, Deal 300% damage
+Change all Jammer orbs to Light orbs, Deal 300% damage
 
 #8: ESRandomSpawn(92:10148) -> Vinayaka
 Spawn 4 random Jammer orbs, Deal 200% damage

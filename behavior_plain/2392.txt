@@ -31,7 +31,7 @@ Branch on counter >= 1, target rnd 18
 Branch on hp < 50, target rnd 12
 
 #8: ESOrbChangeAttackBits(108:10531) -> Sæhrimnir
-Change Jammer to Heal, Deal 140% damage
+Change all Jammer orbs to Heal orbs, Deal 140% damage
 
 #9: ESRandomSpawn(92:10532) -> Drómi Call
 Condition: 50% chance (ai:0 rnd:50)

@@ -19,9 +19,9 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (13173:108) Useless things go in the trash can!
-     | Change Poison to Dark, Deal 250% damage
+     | Change all Poison orbs to Dark orbs, Deal 250% damage
      | (13174:108) Useless things go in the trash can!
-     | Change Jammer to Dark, Deal 250% damage
+     | Change all Jammer orbs to Dark orbs, Deal 250% damage
      | (13170:83) It's pitch black + Take this!
      | Blind all orbs on the board + Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs, Deal 100% damage
    | group:

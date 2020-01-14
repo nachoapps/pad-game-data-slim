@@ -14,13 +14,13 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:707) -> Want some ice cream?
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: ESAttackUPRemainingEnemies(17:705) -> Challenge the Triple
-Condition: When < 50% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 300% for the next 999 turns
 
 #7: ESBranchHP(29:19) -> ESBranchHP
@@ -34,20 +34,20 @@ end_turn
 
 #10: ESOrbChangeAttack(48:700) -> Very Berry Strawberry
 Condition: One-time use (ai:10 rnd:0) (cost: 1)
-Change Random to Fire, Deal 80% damage
+Change a random attribute to Fire orbs, Deal 80% damage
 
 #11: ESOrbChangeAttack(48:701) -> Pop Rock Ice Cream
 Condition: One-time use (ai:15 rnd:0) (cost: 1)
-Change Random to Water, Deal 80% damage
+Change a random attribute to Water orbs, Deal 80% damage
 
 #12: ESOrbChangeAttack(48:702) -> Green Tea
 Condition: One-time use (ai:20 rnd:0) (cost: 1)
-Change Random to Wood, Deal 80% damage
+Change a random attribute to Wood orbs, Deal 80% damage
 
 #13: ESOrbChangeAttack(48:703) -> Pineapple Nuts
 Condition: One-time use (ai:25 rnd:0) (cost: 1)
-Change Random to Light, Deal 80% damage
+Change a random attribute to Light orbs, Deal 80% damage
 
 #14: ESOrbChangeAttack(48:704) -> Chopped Chocolate
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Random to Dark, Deal 80% damage
+Change a random attribute to Dark orbs, Deal 80% damage

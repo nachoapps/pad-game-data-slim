@@ -19,55 +19,55 @@ flag SET 0b1
 	[1] ESDamageShield(74:4405) -> Mucus Skin
 	Reduce damage from all sources by 75% for 7 turns
 	[2] ESPoisonChangeRandomAttack(64:4406) -> Poison Claw
-	Change Random 4 to Poison, Deal 70% damage
+	Change 4 random orbs to Poison orbs, Deal 70% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: SkillSet:
-	Condition: When < 16% hp (ai:100 rnd:0)
+	Condition: When < 16% HP (ai:100 rnd:0)
 	[0] ESBindRandomSub(65:4410) -> Paralyzing Vine
 	Bind 1 random sub for 7 turns
 	[1] ESPoisonChangeRandomAttack(64:4416) -> Deadly Poison Rave
-	Change Random 14 to Poison, Deal 140% damage
+	Change 14 random orbs to Poison orbs, Deal 140% damage
 
 #7: ESOrbChangeAttack(48:4434) -> Hell Bloom
-Change Poison to Jammer, Deal 210% damage
+Change all Poison orbs to Jammer orbs, Deal 210% damage
 
 #8: SkillSet:
-	Condition: When < 86% hp , one-time use (ai:100 rnd:0) (cost: 16)
+	Condition: When < 86% HP , one-time use (ai:100 rnd:0) (cost: 16)
 	[0] ESVoidShield(71:4408) -> Temporal Stealth
 	Void damage >= 100000 for 1 turn
 	[1] ESPoisonChangeRandomAttack(64:4411) -> Hell Poison Claw
-	Change Random 7 to Poison, Deal 70% damage
+	Change 7 random orbs to Poison orbs, Deal 70% damage
 
 #9: SkillSet:
-	Condition: When < 72% hp , one-time use (ai:100 rnd:0) (cost: 8)
+	Condition: When < 72% HP , one-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESChangeAttribute(46:4409) -> Urgency Mimic
 	Change own attribute to random one of Water or Wood
 	[1] ESPoisonChangeRandomAttack(64:4412) -> Venom Claw
-	Change Random 4 to Poison, Deal 70% damage
+	Change 4 random orbs to Poison orbs, Deal 70% damage
 
 #10: SkillSet:
-	Condition: When < 58% hp , one-time use (ai:100 rnd:0) (cost: 4)
+	Condition: When < 58% HP , one-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESBindRandomSub(65:4410) -> Paralyzing Vine
 	Bind 1 random sub for 7 turns
 	[1] ESPoisonChangeRandomAttack(64:4413) -> Hell Venom Claw
-	Change Random 5 to Poison, Deal 70% damage
+	Change 5 random orbs to Poison orbs, Deal 70% damage
 
 #11: SkillSet:
-	Condition: When < 44% hp , one-time use (ai:100 rnd:0) (cost: 2)
+	Condition: When < 44% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESVoidShield(71:4408) -> Temporal Stealth
 	Void damage >= 100000 for 1 turn
 	[1] ESPoisonChangeRandomAttack(64:4414) -> Poison Rave
-	Change Random 4 to Poison, Deal 140% damage
+	Change 4 random orbs to Poison orbs, Deal 140% damage
 
 #12: SkillSet:
-	Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESChangeAttribute(46:4409) -> Urgency Mimic
 	Change own attribute to random one of Water or Wood
 	[1] ESPoisonChangeRandomAttack(64:4415) -> Hell's Poison Rave
-	Change Random 7 to Poison, Deal 140% damage
+	Change 7 random orbs to Poison orbs, Deal 140% damage
 
 #13: SkillSet:
 	Condition: 15% chance (ai:0 rnd:15)
@@ -95,15 +95,15 @@ Change Poison to Jammer, Deal 210% damage
 	[0] ESChangeAttribute(46:4423) -> Energy Mimic
 	Change own attribute to random one of Fire, Water, or Wood
 	[1] ESPoisonChangeRandomAttack(64:4425) -> Poison Blow
-	Change Random 5 to Poison, Deal 70% damage
+	Change 5 random orbs to Poison orbs, Deal 70% damage
 
 #17: ESRecoverEnemy86(86:4427) -> Draining Nails
 Condition: 15% chance (ai:0 rnd:15)
-Enemy recover 7% hp, Deal 70% damage
+Enemy recover 7% HP, Deal 70% damage
 
 #18: ESPoisonChangeRandomAttack(64:4429) -> Venom Blow
 Condition: 10% chance (ai:0 rnd:10)
-Change Random 3 to Poison, Deal 70% damage
+Change 3 random orbs to Poison orbs, Deal 70% damage
 
 #19: ESOrbLock(94:4430) -> Clotting Nails
 Condition: 15% chance (ai:0 rnd:15)

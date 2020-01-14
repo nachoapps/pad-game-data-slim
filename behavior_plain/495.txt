@@ -20,7 +20,7 @@ Absorb damage when combos <= 3 for 99 turns
 end_turn
 
 #6: ESAttackMultihit(15:2427) -> Cat Combination
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 200% damage (4 hits, 50% each)
 
 #7: ESRandomSpawn(92:2426) -> Spread Cat

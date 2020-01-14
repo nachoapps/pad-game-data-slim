@@ -44,13 +44,13 @@ flag SET 0b111
 Absorb Fire damage for 3 turns
 
 #13: ESOrbChangeAttack(48:5228) -> Lightning
-Change Jammer to Light, Deal 150% damage
+Change all Jammer orbs to Light orbs, Deal 150% damage
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 16
 
 #15: ESOrbChangeAttack(48:5229) -> Gale
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #16: ESBoardChangeAttackBits(85:5225) -> Feather Rain
 Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer, Deal 80% damage

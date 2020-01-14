@@ -31,8 +31,8 @@ end_turn
 
 #9: ESOrbChangeAttack(48:717) -> Main Battery Discharge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Fire, Deal 125% damage
+Change a random attribute to Fire orbs, Deal 125% damage
 
 #10: ESAttackMultihit(15:716) -> Royal Fortune
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 160% damage (4 hits, 40% each)

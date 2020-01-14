@@ -20,13 +20,13 @@ Movetime -1s for 5 turns
 end_turn
 
 #6: ESRecoverEnemy7(7:876) -> Resurrection
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 100% HP
 
 #7: ESOrbChangeAttack(48:874) -> Shining Ray
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Light, Deal 75% damage
+Change a random attribute to Light orbs, Deal 75% damage
 
 #8: ESOrbChangeAttack(48:875) -> Heart Break
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Heal to Jammer, Deal 50% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change all Heal orbs to Jammer orbs, Deal 50% damage

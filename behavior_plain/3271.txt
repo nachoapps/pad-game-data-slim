@@ -99,7 +99,7 @@ end_turn
 	[0] ESStatusShield(20:16197) -> 神包守炎
 	Voids status ailments for 999 turns
 	[1] ESRecoverEnemy86(86:16207) -> 蛇神の癒炎
-	Enemy recover 75% hp
+	Enemy recover 75% HP
 	[2] ESSkillDelay(89:16192) -> 黄泉の咆哮
 	Delay active skills by 10 turns
 

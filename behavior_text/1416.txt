@@ -10,4 +10,4 @@ level: 1
  group:
  condition: turn 1, hp <= 49
  | (1642:7) Resurrection
- | Enemy recover 100% hp
+ | Enemy recover 100% HP

@@ -22,4 +22,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (15027:52) Queen's Will
- | Enemy ally recover 100% hp
+ | Enemy ally recover 100% HP

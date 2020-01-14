@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (15621:83) Have you prepared yourself? + Follow my moves + I'm gonna beat you up!
-     | Rcv 50% for 3 turns + Absorb damage when combos <= 6 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
+     | RCV +50% for 3 turns + Absorb damage when combos <= 6 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
@@ -52,7 +52,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (15623:83) Have you prepared yourself? + Follow my moves + I'm gonna beat you up!
-     | Movetime 50% for 3 turns + Absorb damage when combos <= 4 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
+     | Movetime +50% for 3 turns + Absorb damage when combos <= 4 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
@@ -71,7 +71,7 @@ level: 1
  | group:
  | condition: hp <= 1
    | (15625:83) That worked! + Are you ready? + I'm going to give it my all!
-   | Enemy recover 75% hp + Absorb damage when combos <= 6 for 999 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
+   | Enemy recover 75% HP + Absorb damage when combos <= 6 for 999 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
 
 level: 6
  type: PASSIVE
@@ -85,7 +85,7 @@ level: 6
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (15593:83) Have you prepared yourself? + Follow my moves + I'm gonna beat you up!
-     | Rcv 50% for 3 turns + Absorb damage when combos <= 7 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
+     | RCV +50% for 3 turns + Absorb damage when combos <= 7 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
@@ -119,7 +119,7 @@ level: 6
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (15601:83) Have you prepared yourself? + Follow my moves + I'm gonna beat you up!
-     | Movetime 50% for 3 turns + Absorb damage when combos <= 5 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
+     | Movetime +50% for 3 turns + Absorb damage when combos <= 5 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
@@ -138,4 +138,4 @@ level: 6
  | group:
  | condition: hp <= 1
    | (15617:83) That worked! + Are you ready? + I'm going to give it my all!
-   | Enemy recover 75% hp + Absorb damage when combos <= 7 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
+   | Enemy recover 75% HP + Absorb damage when combos <= 7 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage

@@ -32,7 +32,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (1817:48) Pouring Light Blade
-     | Change Random to Light, Deal 85% damage
+     | Change a random attribute to Light orbs, Deal 85% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (1818:79) Lightning Horizon

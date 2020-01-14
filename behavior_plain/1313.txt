@@ -11,9 +11,9 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESBindRandomSub(65:1052) -> Hold Web
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random sub for 3 turns
 
 #4: ESOrbChangeAttack(48:1053) -> Jupiter's Thunder
-Condition: 70% chance when < 75% hp (ai:70 rnd:0)
-Change Random to Light, Deal 120% damage
+Condition: 70% chance when < 75% HP (ai:70 rnd:0)
+Change a random attribute to Light orbs, Deal 120% damage

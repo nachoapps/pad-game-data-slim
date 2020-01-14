@@ -15,7 +15,7 @@ level: 1
  | condition: execute repeatedly, turn 1-9 of 10
    | condition: 50% chance
    | (15526:104) 地獄の煙
-   | 3x1 cloud appear for 1 turn at random location, Deal 150% damage
+   | A 3×1 rectangle of clouds appears for 1 turn at a random location, Deal 150% damage
    | (15524:15) 神喰い
    | Deal 98~112% damage (7~8 hits, 14% each)
  | group:

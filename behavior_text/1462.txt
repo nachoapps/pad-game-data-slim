@@ -15,13 +15,13 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1259:48) Yaah!!
-     | Change Dark to Heal, Deal 100% damage
+     | Change all Dark orbs to Heal orbs, Deal 100% damage
      | (1267:48) Take that!
-     | Change Light to Heal, Deal 100% damage
+     | Change all Light orbs to Heal orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1267:48) Take that!
-     | Change Light to Heal, Deal 100% damage
+     | Change all Light orbs to Heal orbs, Deal 100% damage
  | group:
  | condition: hp <= 19
    | (1260:15) Heliacal Rising
@@ -29,4 +29,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (1261:52) Ceremony of Rebirth
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP

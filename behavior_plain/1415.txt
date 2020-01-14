@@ -24,7 +24,7 @@ Branch on hp < 20, target rnd 10
 
 #7: ESOrbChangeSingle(4:10881) -> Bitten Fruit
 Condition: 50% chance (ai:0 rnd:50)
-Change Heal to Poison
+Change all Heal orbs to Poison orbs
 
 #8: ESBindRandom(1:10882) -> Completely Consumed Fruit
 Condition: 50% chance (ai:0 rnd:50)
@@ -35,7 +35,7 @@ end_turn
 
 #10: ESRecoverEnemy86(86:10883) -> Dwarven Rebirth
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #11: ESAttackMultihit(15:10884) -> Raging Dwarf
 Deal 350% damage (7 hits, 50% each)

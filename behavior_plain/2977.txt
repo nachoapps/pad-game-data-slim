@@ -20,8 +20,8 @@ Bind 1 random card for 1 turn
 end_turn
 
 #6: ESRecoverEnemy86(86:4746) -> Fool...
-Condition: When < 10% hp (ai:100 rnd:0)
-Enemy recover 50% hp
+Condition: When < 10% HP (ai:100 rnd:0)
+Enemy recover 50% HP
 
 #7: ESBindSkill(14:4747) -> Silence!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

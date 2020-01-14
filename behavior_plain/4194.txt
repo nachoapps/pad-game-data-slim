@@ -27,7 +27,7 @@ Branch on flag & 1, target rnd 10
 flag SET 0b1
 
 #8: ESCloud(104:9191) -> Flapping
-2x2 cloud appear for 1 turn at random location
+A 2×2 square of clouds appears for 1 turn at a random location
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

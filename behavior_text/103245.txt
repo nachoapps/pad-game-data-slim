@@ -38,4 +38,4 @@ level: 1
  | group:
  | condition: turns 1-2, hp <= 1
    | (5676:83) Death Avoidance + Nampulse
-   | Enemy recover 100% hp + Bind 1 random card for 9 turns, Deal 200% damage
+   | Enemy recover 100% HP + Bind 1 random card for 9 turns, Deal 200% damage

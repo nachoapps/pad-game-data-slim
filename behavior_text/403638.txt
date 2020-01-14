@@ -14,7 +14,7 @@ level: 1
  | Reduce damage from Water and Wood attrs by 50%
  type: PREEMPT
  | (6789:83) Concept of Boundless Worlds + Dormant Oceanic Evil
- | Voids status ailments for 999 turns + Row of cloud appear for 30 turns at 1st column
+ | Voids status ailments for 999 turns + A row of clouds appears for 30 turns at 5th row, 1st column
  group:
  | group:
    | group:
@@ -35,7 +35,7 @@ level: 1
      | Deal 400% damage (8 hits, 50% each)
      | condition: 25% chance
      | (6795:39) Sealing Silence of the Deep
-     | Movetime 25% for 1 turn, Deal 360% damage
+     | Movetime +25% for 1 turn, Deal 360% damage
      | condition: 25% chance
      | (6796:94) Dreaded Celestial
      | Lock 15 random orbs, Deal 380% damage
@@ -52,7 +52,7 @@ level: 1
      | Deal 400% damage (8 hits, 50% each)
      | condition: 25% chance
      | (6795:39) Sealing Silence of the Deep
-     | Movetime 25% for 1 turn, Deal 360% damage
+     | Movetime +25% for 1 turn, Deal 360% damage
      | condition: 25% chance
      | (6796:94) Dreaded Celestial
      | Lock 15 random orbs, Deal 380% damage
@@ -63,4 +63,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (6798:83) Eternal Cell Regeneration + Veracity of the Cosmic Grotesque
-   | Enemy recover 100% hp + Deal 30000% damage (10 hits, 3000% each), Deal 30000% damage (10 hits, 3000% each)
+   | Enemy recover 100% HP + Deal 30000% damage (10 hits, 3000% each), Deal 30000% damage (10 hits, 3000% each)

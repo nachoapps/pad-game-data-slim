@@ -50,7 +50,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 9
      | (9248:83) The cogs of fate are now in motion + Nornil Curse
-     | Voids status ailments for 999 turns + Movetime 50% for 12 turns
+     | Voids status ailments for 999 turns + Movetime +50% for 12 turns
    | group:
      | condition: 33% chance
      | (9291:83) Bifröst Obligation + Fighting Maiden's Protection
@@ -74,7 +74,7 @@ level: 4
    | group:
    | condition: turn 1
      | (9250:83) Healing Scratch + The cogs of fate are now in motion + Nornil Curse
-     | Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50% for 12 turns
+     | Enemy recover 50% HP + Voids status ailments for 999 turns + Movetime +50% for 12 turns
    | group:
    | condition: turn 2
      | (9251:88) End of Time

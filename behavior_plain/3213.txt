@@ -43,7 +43,7 @@ flag UNSET 0b10
 
 #13: ESOrbChangeAttack(48:5697) -> Enchanted Flute
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 75% damage
+Change a random attribute to Heal orbs, Deal 75% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

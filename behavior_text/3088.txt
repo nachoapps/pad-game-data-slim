@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (5252:83) Cross On! + Mercy Flash
- | Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
+ | Voids status ailments for 3 turns + Change a random attribute to Heal orbs, Deal 130% damage
  group:
  | group:
    | group:
@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (5266:48) Life Cutting Flash
-     | Change Heal to Light, Deal 100% damage
+     | Change all Heal orbs to Light orbs, Deal 100% damage
      | (5267:63) Thorn Shackles
      | Bind 1 random sub for 3 turns, Deal 50% damage
    | group:
@@ -32,7 +32,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
-     | Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
+     | Voids status ailments for 3 turns + Change a random attribute to Heal orbs, Deal 130% damage
  | group:
  | condition: hp <= 79
    | group:
@@ -42,7 +42,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (5266:48) Life Cutting Flash
-     | Change Heal to Light, Deal 100% damage
+     | Change all Heal orbs to Light orbs, Deal 100% damage
      | (5268:63) Double Thorn Shackles
      | Bind 2 random subs for 3 turns, Deal 50% damage
    | group:
@@ -52,7 +52,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
-     | Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
+     | Voids status ailments for 3 turns + Change a random attribute to Heal orbs, Deal 130% damage
  | group:
  | condition: hp <= 59
    | group:
@@ -62,7 +62,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (5266:48) Life Cutting Flash
-     | Change Heal to Light, Deal 100% damage
+     | Change all Heal orbs to Light orbs, Deal 100% damage
      | (5269:63) Scattering Thorn Shackles
      | Bind 3 random subs for 3 turns, Deal 50% damage
    | group:
@@ -72,7 +72,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
-     | Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
+     | Voids status ailments for 3 turns + Change a random attribute to Heal orbs, Deal 130% damage
  | group:
  | condition: hp <= 39
    | group:
@@ -82,7 +82,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (5266:48) Life Cutting Flash
-     | Change Heal to Light, Deal 100% damage
+     | Change all Heal orbs to Light orbs, Deal 100% damage
      | (5270:63) Deadly Thorn Shackles
      | Bind 4 random subs for 3 turns, Deal 50% damage
    | group:
@@ -92,26 +92,26 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
-     | Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
+     | Voids status ailments for 3 turns + Change a random attribute to Heal orbs, Deal 130% damage
  | group:
  | condition: hp <= 34
    | group:
    | condition: always turn 1
      | (5255:86) Resurrection
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
    | condition: always turn 2
      | (5277:83) Resurrection + Life Cutting Flash
-     | Enemy recover 79% hp + Change Heal to Light, Deal 100% damage
+     | Enemy recover 79% HP + Change all Heal orbs to Light orbs, Deal 100% damage
    | group:
    | condition: always turn 3
      | (5279:83) Resurrection + Mercy Flash
-     | Enemy recover 59% hp + Change Random to Heal, Deal 130% damage
+     | Enemy recover 59% HP + Change a random attribute to Heal orbs, Deal 130% damage
    | group:
    | condition: always turn 4
      | (5256:83) Resurrection + Pure Plumage
-     | Enemy recover 19% hp + Reduce damage from all sources by 75% for 3 turns
+     | Enemy recover 19% HP + Reduce damage from all sources by 75% for 3 turns
  | group:
  | condition: hp <= 19
    | (5259:83) 10 combos!! + Life Cutting Flash
-   | Deal 200% damage (10 hits, 20% each) + Change Heal to Light, Deal 200% damage (10 hits, 20% each)
+   | Deal 200% damage (10 hits, 20% each) + Change all Heal orbs to Light orbs, Deal 200% damage (10 hits, 20% each)

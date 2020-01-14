@@ -18,7 +18,7 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #5: ESCloud(104:12651) -> Puffy Fluffy Meat Bun
-Row of cloud appear for 3 turns at random location
+A row of clouds appears for 3 turns at a random location
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn

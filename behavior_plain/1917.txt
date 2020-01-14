@@ -20,12 +20,12 @@ Absorb Fire damage for 5 turns
 end_turn
 
 #6: ESRowSpawnMulti(79:2372) -> Tiny Fire Breath
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 2nd and 3rd rows to Fire orbs, Deal 250% damage
 
 #7: ESOrbChangeAttack(48:2370) -> I'm starving...Chomp!
 Condition: 50% chance (ai:50 rnd:0)
-Change Fire to Jammer, Deal 150% damage
+Change all Fire orbs to Jammer orbs, Deal 150% damage
 
 #8: ESAttackMultihit(15:2371) -> Mineral Throw
 Deal 210% damage (3 hits, 70% each)

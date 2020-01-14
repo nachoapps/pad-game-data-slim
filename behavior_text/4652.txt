@@ -48,7 +48,7 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (10823:104) Enshrouding Miasma
-     | 3x3 cloud appear for 1 turn at random location, Deal 108% damage
+     | A 3×3 square of clouds appears for 1 turn at a random location, Deal 108% damage
      | (10824:92) Rotting Desire
      | Spawn 8 random Jammer orbs, Deal 108% damage
  | group:

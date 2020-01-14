@@ -14,7 +14,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (655:48) Nine-Tails Five Spirit Formation
-   | Change Random to Random, Deal 80% damage
+   | Change a random attribute to a random attribute, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -23,7 +23,7 @@ level: 5
      | (657:15) Burning Heavens Strike
      | Deal 160% damage (4 hits, 40% each)
      | (655:48) Nine-Tails Five Spirit Formation
-     | Change Random to Random, Deal 80% damage
+     | Change a random attribute to a random attribute, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance

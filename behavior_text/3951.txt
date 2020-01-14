@@ -13,7 +13,7 @@ level: 1
  group:
  | condition: 50% chance
  | (14002:48) Delusion Eye
- | Change Random to Dark, Deal 95% damage
+ | Change a random attribute to Dark orbs, Deal 95% damage
  | condition: 50% chance
  | (14003:15) Distorted Force
  | Deal 100% damage (4 hits, 25% each)

@@ -42,7 +42,7 @@ Branch on flag & 2, target rnd 16
 flag SET 0b11
 
 #13: ESOrbChangeAttack(48:9954) -> Hee-ho!
-Change Random to Water, Deal 115% damage
+Change a random attribute to Water orbs, Deal 115% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,9 +50,9 @@ end_turn
 #15: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESOrbChangeAttack(48:9954) -> Hee-ho!
-	Change Random to Water, Deal 115% damage
+	Change a random attribute to Water orbs, Deal 115% damage
 	[1] ESDebuffRCV(105:9955) -> Rakunda
-	Rcv 50% for 3 turns
+	RCV +50% for 3 turns
 
 #16: ESOrbLock(94:9957) -> Mabufu
 Condition: 30% chance (ai:0 rnd:30)
@@ -60,7 +60,7 @@ Lock all orbs, Deal 130% damage
 
 #17: ESOrbChangeAttack(48:9954) -> Hee-ho!
 Condition: 30% chance (ai:0 rnd:30)
-Change Random to Water, Deal 115% damage
+Change a random attribute to Water orbs, Deal 115% damage
 
 #18: ESOrbLock(94:9953) -> Bufu
 Condition: 40% chance (ai:0 rnd:40)

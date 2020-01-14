@@ -15,7 +15,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1181:48) 往生際の悪いヤツだ！
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 29
    | (1182:15) 積尸気冥界波!!
@@ -29,7 +29,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1181:48) 往生際の悪いヤツだ！
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 29
    | (1182:15) 積尸気冥界波!!

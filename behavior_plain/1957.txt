@@ -32,11 +32,11 @@ Branch on hp < 1, target rnd 17
 Branch on hp < 30, target rnd 13
 
 #10: ESColumnSpawnMulti(77:2055) -> Flame Meow Slash
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change the 4th and 6th columns to Fire orbs, Deal 300% damage
 
 #11: ESOrbChangeAttack(48:2054) -> Surreptitious Snack
-Change Fire to Jammer, Deal 150% damage
+Change all Fire orbs to Jammer orbs, Deal 150% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -48,7 +48,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #15: ESBoardChangeAttackBits(85:2056) -> Lick Lick Meow!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change all orbs to Fire, Deal 200% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
@@ -61,11 +61,11 @@ Branch on flag & 4, target rnd 20
 flag SET 0b101
 
 #19: ESBindAttack(63:2092) -> 9 Lives!
-Condition: When < 1% hp (ai:100 rnd:0)
+Condition: When < 1% HP (ai:100 rnd:0)
 Bind 6 random cards for 1 turn, Deal 200% damage
 
 #20: ESAttackMultihit(15:2052) -> Irritated Swat
-Condition: When < 1% hp (ai:100 rnd:0)
+Condition: When < 1% HP (ai:100 rnd:0)
 Deal 1000% damage
 
 #21: ESResolve(73:1829) -> パッシブ

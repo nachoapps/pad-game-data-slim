@@ -26,7 +26,7 @@ level: 1
      | Deal 180% damage (2 hits, 90% each) + Blind all orbs on the board, Deal 180% damage (2 hits, 90% each)
      | condition: 25% chance
      | (2410:83) Svadhishthana + Vishuddha
-     | Deal 180% damage (2 hits, 90% each) + Change Random 3 to Poison (excluding hearts), Deal 180% damage (2 hits, 90% each)
+     | Deal 180% damage (2 hits, 90% each) + Change 3 random orbs (excluding hearts) to Poison orbs, Deal 180% damage (2 hits, 90% each)
      | condition: 25% chance
      | (2411:83) Svadhishthana + Ajna
      | Deal 180% damage (2 hits, 90% each) + Player -99% HP, Deal 180% damage (2 hits, 90% each)
@@ -46,7 +46,7 @@ level: 1
      | Deal 180% damage (2 hits, 90% each) + Blind all orbs on the board, Deal 180% damage (2 hits, 90% each)
      | condition: 25% chance
      | (2410:83) Svadhishthana + Vishuddha
-     | Deal 180% damage (2 hits, 90% each) + Change Random 3 to Poison (excluding hearts), Deal 180% damage (2 hits, 90% each)
+     | Deal 180% damage (2 hits, 90% each) + Change 3 random orbs (excluding hearts) to Poison orbs, Deal 180% damage (2 hits, 90% each)
      | condition: 25% chance
      | (2411:83) Svadhishthana + Ajna
      | Deal 180% damage (2 hits, 90% each) + Player -99% HP, Deal 180% damage (2 hits, 90% each)

@@ -18,7 +18,7 @@ Branch on counter >= 1, target rnd 7
 counter + 1
 
 #5: ESOrbChangeAttack(48:14511) -> Fire Eating
-Change Fire to Jammer, Deal 50% damage
+Change all Fire orbs to Jammer orbs, Deal 50% damage
 
 #6: ESAttackMultihit(15:14512) -> Colossal Fireball
 Deal 100% damage
@@ -31,7 +31,7 @@ counter + 1
 
 #9: ESOrbChangeAttack(48:14511) -> Fire Eating
 Condition: 30% chance (ai:30 rnd:0)
-Change Fire to Jammer, Deal 50% damage
+Change all Fire orbs to Jammer orbs, Deal 50% damage
 
 #10: ESSetCounter(25:15) -> ESSetCounter
 counter = 0

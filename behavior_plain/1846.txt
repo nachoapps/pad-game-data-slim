@@ -54,15 +54,15 @@ flag SET 0b11
 Blind all orbs on the board, Deal 600% damage
 
 #15: ESAttackUPRemainingEnemies(17:2327) -> Here I go!
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 999 turns
 
 #16: ESAttackMultihit(15:2328) -> Chaotic Ball
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Deal 105% damage (3 hits, 35% each)
 
 #17: ESBindAttack(63:2329) -> Steel Tail
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Bind 1 random card for 2 turns, Deal 60% damage
 
 #18: ESAttackMultihit(15:2322) -> Not good enough

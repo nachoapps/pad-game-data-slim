@@ -51,7 +51,7 @@ Branch on counter >= 3, target rnd 26
 
 #16: ESOrbChangeAttack(48:10314) -> Soppy Flame
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 110% damage
+Change a random attribute to Fire orbs, Deal 110% damage
 
 #17: ESAttackMultihit(15:10315) -> Flame Rush
 Condition: 33% chance (ai:0 rnd:33)

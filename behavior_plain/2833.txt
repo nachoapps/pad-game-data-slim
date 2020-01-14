@@ -27,19 +27,19 @@ Condition: One-time use (ai:30 rnd:0) (cost: 1)
 Spawn 3 random Poison orbs, Deal 100% damage
 
 #8: ESRecoverEnemy86(86:4135) -> Crushing Blow
-Condition: When < 10% hp (ai:100 rnd:0)
-Enemy recover 10% hp, Deal 200% damage
+Condition: When < 10% HP (ai:100 rnd:0)
+Enemy recover 10% HP, Deal 200% damage
 
 #9: ESAttackMultihit(15:4134) -> Bone Spikes
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 160% damage (4 hits, 40% each)
 
 #10: ESAttackMultihit(15:4133) -> Clone Strength
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 150% damage (3 hits, 50% each)
 
 #11: ESAttackMultihit(15:4130) -> Energy Beams
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Deal 120% damage (2 hits, 60% each)
 
 #12: ESStorePower(8:4131) -> Transformation

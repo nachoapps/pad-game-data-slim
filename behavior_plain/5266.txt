@@ -51,7 +51,7 @@ Branch on flag & 8, target rnd 17
 flag SET 0b1111
 
 #16: ESOrbChangeAttack(48:13252) -> Brat.
-Change Random to Wood, Deal 95% damage
+Change a random attribute to Wood orbs, Deal 95% damage
 
 #17: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 16, target rnd 21

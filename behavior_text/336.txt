@@ -23,6 +23,6 @@ level: 1
    | group:
      | condition: 40% chance
      | (639:48) Divine Dragon of Arbor Breath
-     | Change Random to Wood, Deal 80% damage
+     | Change a random attribute to Wood orbs, Deal 80% damage
      | (231:15) God Gaia Breath
      | Deal 150% damage (2 hits, 75% each)

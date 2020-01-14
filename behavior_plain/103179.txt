@@ -33,7 +33,7 @@ Branch on hp < 50, target rnd 13
 
 #9: ESOrbChangeAttack(48:12895) -> Life Flame Torch
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Heal to Fire, Deal 95% damage
+Change all Heal orbs to Fire orbs, Deal 95% damage
 
 #10: ESRandomSpawn(92:12896) -> Burning Horn
 Condition: 50% chance (ai:0 rnd:50)
@@ -54,9 +54,9 @@ flag SET 0b11
 
 #15: SkillSet:
 	[0] ESRecoverPlayer(55:12899) -> Praise
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESDebuffRCV(105:12900) -> Falsehood
-	Rcv 25% for 4 turns
+	RCV +25% for 4 turns
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -75,9 +75,9 @@ counter + 1
 
 #21: SkillSet:
 	[0] ESRecoverEnemy86(86:12903) -> Burn Up Life
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESDebuffMovetime(39:12904) -> Limited Survival
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

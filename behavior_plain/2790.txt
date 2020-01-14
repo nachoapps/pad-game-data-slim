@@ -24,7 +24,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:3952) -> Our name is Orphan.
 	Voids status ailments for 999 turns
 	[1] ESRecoverPlayer(55:3982) -> By our hand, the world shall know redemption.
-	Player recover 100% hp
+	Player recover 100% HP
 
 #7: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 511)
@@ -70,7 +70,7 @@ Deal 40~100% damage (2~5 hits, 20% each)
 
 #16: ESPoisonChangeRandomAttack(64:3942) -> Chains of Torment
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Change Random 5 to Poison, Deal 20% damage
+Change 5 random orbs to Poison orbs, Deal 20% damage
 
 #17: ESAttackMultihit(15:3941) -> Black Ruin
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
@@ -78,7 +78,7 @@ Deal 120% damage
 
 #18: ESRecoverEnemy86(86:3943) -> Vile Exploitation
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Enemy recover 10% hp, Deal 130% damage
+Enemy recover 10% HP, Deal 130% damage
 
 #19: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 22
@@ -95,7 +95,7 @@ flag SET 0b11
 
 #22: ESRecoverEnemy86(86:3948) -> Vile Exploitation
 Condition: 65% chance (ai:0 rnd:65)
-Enemy recover 10% hp, Deal 200% damage
+Enemy recover 10% HP, Deal 200% damage
 
 #23: ESAttackUPRemainingEnemies(17:3949) -> Dies Irae
 Condition: 20% chance, when <= 1 enemies remain (ai:0 rnd:20)

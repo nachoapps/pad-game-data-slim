@@ -32,7 +32,7 @@ level: 4
    | condition: turns 1-4 while HP > 9
      | condition: 33% chance
      | (10101:48) White Out
-     | Change Heal to Light, Deal 110% damage
+     | Change all Heal orbs to Light orbs, Deal 110% damage
      | condition: 33% chance
      | (10102:94) Restraining Star
      | Lock all Water and Dark orbs, Deal 105% damage
@@ -43,7 +43,7 @@ level: 4
    | condition: turns 6-9 while HP > 9
      | condition: 33% chance
      | (10101:48) White Out
-     | Change Heal to Light, Deal 110% damage
+     | Change all Heal orbs to Light orbs, Deal 110% damage
      | condition: 33% chance
      | (10102:94) Restraining Star
      | Lock all Water and Dark orbs, Deal 105% damage
@@ -53,7 +53,7 @@ level: 4
    | group:
      | condition: 33% chance
      | (10101:48) White Out
-     | Change Heal to Light, Deal 110% damage
+     | Change all Heal orbs to Light orbs, Deal 110% damage
      | condition: 33% chance
      | (10102:94) Restraining Star
      | Lock all Water and Dark orbs, Deal 105% damage

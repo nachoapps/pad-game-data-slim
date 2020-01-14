@@ -14,12 +14,12 @@ Show message: Little ones|Show me your strength
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESCloud(104:14564) -> Well, let's get things started
-	2x2 cloud appear for 3 turns at 4th row, 4th column
+	A 2×2 square of clouds appears for 3 turns at 4th row, 4th column
 	[1] ESFixedStart(101:14565) -> Frolicking Flame Tail
 	Fix orb movement starting point to random position on the board, Deal 100% damage
 
 #4: ESSkyfall(68:14571) -> Molten Rock Downpour
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Fire and Jammer skyfall +15% for 5 turns
 
 #5: ESBranchCombo(113:6528) -> ESBranchCombo

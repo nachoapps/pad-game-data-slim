@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:1779) -> 祝いの宴
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESAttributeResist(72:1775) -> 闇半減
 Reduce damage from Dark attrs by 50%
@@ -64,7 +64,7 @@ Condition: 80% chance (ai:80 rnd:0)
 Deal 5000% damage (5 hits, 1000% each)
 
 #20: ESOrbChangeAttack(48:1783) -> 幸運の香り
-Change Random to Heal, Deal 10% damage
+Change a random attribute to Heal orbs, Deal 10% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -76,7 +76,7 @@ Branch on flag & 2, target rnd 26
 flag SET 0b11
 
 #24: ESJammerChangeRandom(13:1781) -> 膨れる
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #25: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -88,7 +88,7 @@ Branch on flag & 4, target rnd 30
 flag SET 0b111
 
 #28: ESJammerChangeRandom(13:1781) -> 膨れる
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #29: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -101,4 +101,4 @@ Condition: 80% chance (ai:80 rnd:0)
 Deal 5000% damage (5 hits, 1000% each)
 
 #32: ESOrbChangeAttack(48:1783) -> 幸運の香り
-Change Random to Heal, Deal 10% damage
+Change a random attribute to Heal orbs, Deal 10% damage

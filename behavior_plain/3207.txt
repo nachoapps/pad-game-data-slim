@@ -72,11 +72,11 @@ end_turn
 flag SET 0b111
 
 #22: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESAbsorbCombo(67:5699) -> Bonfire of Enlightenment
 	Absorb damage when combos <= 7 for 1 turn
 	[1] ESDebuffMovetime(39:5704) -> Blazing Brand of Retribution
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -20,7 +20,7 @@ level: 1
  | condition: hp <= 19
    | condition: 70% chance, one time only
    | (83:7) Resurrection
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
    | condition: 70% chance
    | (110:15) Nightmare Slash
    | Deal 180% damage (3 hits, 60% each)

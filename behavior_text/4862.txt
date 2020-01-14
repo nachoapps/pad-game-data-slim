@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (11477:83) We can win this! + Haa!
-     | Change Random to Wood + Deal 50% damage, Deal 40% damage
+     | Change a random attribute to Wood orbs + Deal 50% damage, Deal 40% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (11480:83) Next time you're going down. + Errgh Yaa!

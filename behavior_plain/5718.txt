@@ -23,11 +23,11 @@ Deal 80% damage (2 hits, 40% each)
 
 #6: ESCloud(104:15252) -> ぶち面白れぇ！
 Condition: 33% chance (ai:0 rnd:33)
-2x1 cloud appear for 1 turn at random location
+A 2×1 rectangle of clouds appears for 1 turn at a random location
 
 #7: ESOrbChangeAttackBits(108:15253) -> カンカンガン
 Condition: 33% chance (ai:0 rnd:33)
-Change Fire, Water, and Wood to Light, Deal 100% damage
+Change all Fire, Water, and Wood orbs to Light orbs, Deal 100% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn

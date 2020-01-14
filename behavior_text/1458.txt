@@ -19,7 +19,7 @@ level: 1
      | Player -99% HP
      | condition: 20% chance
      | (540:48) Glyph of Plunder, Monkey
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
      | condition: 30% chance
      | (600:15) Crystal Fang
      | Deal 120% damage (2 hits, 60% each)
@@ -37,7 +37,7 @@ level: 1
      | Player -99% HP
      | condition: 20% chance
      | (540:48) Glyph of Plunder, Monkey
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
      | condition: 30% chance
      | (600:15) Crystal Fang
      | Deal 120% damage (2 hits, 60% each)
@@ -61,7 +61,7 @@ level: 1
      | Player -99% HP
      | condition: 20% chance
      | (540:48) Glyph of Plunder, Monkey
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
      | condition: 30% chance
      | (600:15) Crystal Fang
      | Deal 120% damage (2 hits, 60% each)

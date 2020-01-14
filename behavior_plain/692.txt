@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: ESRecoverPlayer(55:459) -> En Garde!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 100, target rnd 12
@@ -33,7 +33,7 @@ Deal 88% damage
 end_turn
 
 #10: ESOrbChangeAttack(48:451) -> Splash Blade
-Change Random to Water, Deal 70% damage
+Change a random attribute to Water orbs, Deal 70% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: turn 1
      | (15413:104) 天空の龍雲
-     | Row of cloud appear for 3 turns at 1st column
+     | A row of clouds appears for 3 turns at 1st row, 1st column
    | group:
      | condition: 10% chance
      | (15412:15) ゴッドガイアブレス

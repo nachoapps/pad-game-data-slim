@@ -11,7 +11,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1134:48) Rose Balsam Blaze
-   | Change Random to Fire, Deal 80% damage
+   | Change a random attribute to Fire orbs, Deal 80% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (1135:2) Fire Flight - Circle of Drought

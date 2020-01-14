@@ -34,11 +34,11 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #9: ESOrbChangeAttack(48:7420) -> Agonizing Sacrifice
-Change Poison to Mortal Poison, Deal 200% damage
+Change all Poison orbs to Mortal Poison orbs, Deal 200% damage
 
 #10: SkillSet:
 	[0] ESRecoverPlayer(55:7421) -> A Reward For Your Agony
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESBindAwoken(88:7422) -> Ominous Sorcery
 	Bind awoken skills for 1 turn
 
@@ -50,35 +50,35 @@ end_turn
 	[0] ESAbsorbAttribute(53:7424) -> Desperation
 	Absorb Fire damage for 3 turns
 	[1] ESOrbChangeAttack(48:7429) -> Acid Breath
-	Change Random to Jammer, Deal 170% damage
+	Change a random attribute to Jammer orbs, Deal 170% damage
 
 #13: SkillSet:
 	Condition: One-time use (ai:25 rnd:0) (cost: 2)
 	[0] ESAbsorbAttribute(53:7425) -> Desperation
 	Absorb Water damage for 3 turns
 	[1] ESOrbChangeAttack(48:7429) -> Acid Breath
-	Change Random to Jammer, Deal 170% damage
+	Change a random attribute to Jammer orbs, Deal 170% damage
 
 #14: SkillSet:
 	Condition: One-time use (ai:33 rnd:0) (cost: 2)
 	[0] ESAbsorbAttribute(53:7426) -> Desperation
 	Absorb Wood damage for 3 turns
 	[1] ESOrbChangeAttack(48:7429) -> Acid Breath
-	Change Random to Jammer, Deal 170% damage
+	Change a random attribute to Jammer orbs, Deal 170% damage
 
 #15: SkillSet:
 	Condition: One-time use (ai:50 rnd:0) (cost: 2)
 	[0] ESAbsorbAttribute(53:7427) -> Desperation
 	Absorb Light damage for 3 turns
 	[1] ESOrbChangeAttack(48:7429) -> Acid Breath
-	Change Random to Jammer, Deal 170% damage
+	Change a random attribute to Jammer orbs, Deal 170% damage
 
 #16: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESAbsorbAttribute(53:7428) -> Desperation
 	Absorb Dark damage for 3 turns
 	[1] ESOrbChangeAttack(48:7429) -> Acid Breath
-	Change Random to Jammer, Deal 170% damage
+	Change a random attribute to Jammer orbs, Deal 170% damage
 
 #17: ESRowSpawnMulti(79:7437) -> Green Dragon Liquid
 Condition: 40% chance (ai:0 rnd:40)
@@ -111,7 +111,7 @@ end_turn
 	[0] ESBindAwoken(88:7441) -> Virulent Sorcery
 	Bind awoken skills for 10 turns
 	[1] ESOrbChangeAttack(48:7442) -> Deadly Poison
-	Change Random to Mortal Poison, Deal 1200% damage
+	Change a random attribute to Mortal Poison orbs, Deal 1200% damage
 
 #26: ESEndPath(36:26) -> ESEndPath
 end_turn

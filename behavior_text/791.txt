@@ -10,7 +10,7 @@ level: 5
  group:
  | condition: 70% chance
  | (533:48) Wind Lance
- | Change Random to Wood, Deal 80% damage
+ | Change a random attribute to Wood orbs, Deal 80% damage
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (270:17) Lone Force
@@ -23,7 +23,7 @@ level: 10
  group:
  | condition: 70% chance
  | (533:48) Wind Lance
- | Change Random to Wood, Deal 80% damage
+ | Change a random attribute to Wood orbs, Deal 80% damage
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (270:17) Lone Force

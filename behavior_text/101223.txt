@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (971:48) Clod of Blessing
-     | Change Random to Heal, Deal 100% damage
+     | Change a random attribute to Heal orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (972:50) Earth Gravity

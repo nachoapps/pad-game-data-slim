@@ -16,7 +16,7 @@ level: 1
    | condition: execute repeatedly, turn 1-5 of 6
      | condition: 34% chance
      | (5752:48) Work of the Devil
-     | Change Random to Jammer, Deal 170% damage
+     | Change a random attribute to Jammer orbs, Deal 170% damage
      | condition: 33% chance
      | (5753:15) Devil Dragon's Blade
      | Deal 190% damage (2 hits, 95% each)
@@ -37,7 +37,7 @@ level: 1
    | condition: execute repeatedly, turn 1-4 of 6
      | condition: 34% chance
      | (5752:48) Work of the Devil
-     | Change Random to Jammer, Deal 170% damage
+     | Change a random attribute to Jammer orbs, Deal 170% damage
      | condition: 33% chance
      | (5753:15) Devil Dragon's Blade
      | Deal 190% damage (2 hits, 95% each)
@@ -52,7 +52,7 @@ level: 1
    | condition: execute repeatedly, turn 6 of 6
      | condition: 34% chance
      | (5752:48) Work of the Devil
-     | Change Random to Jammer, Deal 170% damage
+     | Change a random attribute to Jammer orbs, Deal 170% damage
      | condition: 33% chance
      | (5753:15) Devil Dragon's Blade
      | Deal 190% damage (2 hits, 95% each)

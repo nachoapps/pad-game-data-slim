@@ -17,12 +17,12 @@ level: 5
  | Reduce damage from Wood attrs by 50%
  type: PREEMPT
  | (1765:13) Opening Howl
- | Change Random 1 to Jammer
+ | Change 1 random orb to Jammer orbs
  group:
  | group:
    | condition: 40% chance
    | (1766:48) Shrimp Horn Charge
-   | Change Random to Water, Deal 75% damage
+   | Change a random attribute to Water orbs, Deal 75% damage
    | condition: 70% chance
    | (1767:15) Cabbage Chase
    | Deal 90~120% damage (3~4 hits, 30% each)
@@ -35,12 +35,12 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1769:48) Hot Quail Bomb
-     | Change Random to Fire, Deal 200% damage
+     | Change a random attribute to Fire orbs, Deal 200% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 40% chance
      | (1766:48) Shrimp Horn Charge
-     | Change Random to Water, Deal 75% damage
+     | Change a random attribute to Water orbs, Deal 75% damage
      | condition: 70% chance
      | (1767:15) Cabbage Chase
      | Deal 90~120% damage (3~4 hits, 30% each)
@@ -49,7 +49,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1769:48) Hot Quail Bomb
-     | Change Random to Fire, Deal 200% damage
+     | Change a random attribute to Fire orbs, Deal 200% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1770:15) Water Dragon Chop Suey

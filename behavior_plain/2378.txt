@@ -38,7 +38,7 @@ Branch on hp < 20, target rnd 28
 Branch on player_cards HAS [2363, 2364, 2361, 2362], target rnd 23
 
 #12: ESDamageShield(74:3307) -> Hard Form
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 30% for 2 turns
 
 #13: ESSkillDelay(89:3305) -> Quick Low Kick

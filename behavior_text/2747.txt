@@ -16,7 +16,7 @@ level: 1
    | condition: turns 1-10 while HP > 49
      | condition: 30% chance
      | (7848:83) Burn Drive + Cure Flame
-     | Change Random to Fire + Enemy recover 5% hp, Deal 250% damage
+     | Change a random attribute to Fire orbs + Enemy recover 5% HP, Deal 250% damage
      | condition: 14% chance
      | (7855:83) Heat Rush + God Breath
      | Deal 300% damage (3 hits, 100% each) + Absorb Fire damage for 1 turn, Deal 300% damage (3 hits, 100% each)
@@ -39,7 +39,7 @@ level: 1
    | group:
      | condition: 30% chance
      | (7848:83) Burn Drive + Cure Flame
-     | Change Random to Fire + Enemy recover 5% hp, Deal 250% damage
+     | Change a random attribute to Fire orbs + Enemy recover 5% HP, Deal 250% damage
      | condition: 14% chance
      | (7855:83) Heat Rush + God Breath
      | Deal 300% damage (3 hits, 100% each) + Absorb Fire damage for 1 turn, Deal 300% damage (3 hits, 100% each)
@@ -65,7 +65,7 @@ level: 1
    | condition: turn 11 while HP > 9
      | condition: 30% chance
      | (7848:83) Burn Drive + Cure Flame
-     | Change Random to Fire + Enemy recover 5% hp, Deal 250% damage
+     | Change a random attribute to Fire orbs + Enemy recover 5% HP, Deal 250% damage
      | condition: 14% chance
      | (7855:83) Heat Rush + God Breath
      | Deal 300% damage (3 hits, 100% each) + Absorb Fire damage for 1 turn, Deal 300% damage (3 hits, 100% each)

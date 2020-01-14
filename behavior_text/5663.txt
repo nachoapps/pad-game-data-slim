@@ -25,7 +25,7 @@ level: 1
  | group:
  | condition: turn 3
    | (14907:104) Our schemes are fool-proof!
-   | Row of cloud appear for 2 turns at 5th column, Deal 50% damage
+   | A row of clouds appears for 2 turns at 1st row, 5th column, Deal 50% damage
  | group:
  | condition: turn 4
    | (14908:110) You're mine!

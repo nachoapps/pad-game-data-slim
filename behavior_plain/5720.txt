@@ -19,7 +19,7 @@ Branch on hp < 15, target rnd 7
 
 #4: ESOrbChangeAttackBits(108:15256) -> やるしかねぇっちゃ
 Condition: 50% chance (ai:50 rnd:0)
-Change Light to Water, Deal 50% damage
+Change all Light orbs to Water orbs, Deal 50% damage
 
 #5: ESAttackMultihit(15:15257) -> 今っちゃ！
 Deal 60% damage

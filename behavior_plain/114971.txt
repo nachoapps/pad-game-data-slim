@@ -56,11 +56,11 @@ end_turn
 
 #17: ESRecoverEnemy86(86:11899) -> Hungry Impact
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #18: ESOrbChangeAttack(48:11900) -> I can't stop drooling!
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #19: ESOrbLock(94:11901) -> This is my snack!
 Condition: 50% chance (ai:0 rnd:50)

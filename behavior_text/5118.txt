@@ -9,12 +9,12 @@ approved: False
 level: 1
  type: PREEMPT
  | (12766:83) Great! + Sorry to keep you waiting! + Have some piping hot food!
- | Change the 1st column to Fire orbs and the 2nd column to Water orbs + Spawn 3 random Fire, Dark, Heal, or Jammer orbs + 6x5 cloud appear for 1 turn at random location
+ | Change the 1st column to Fire orbs and the 2nd column to Water orbs + Spawn 3 random Fire, Dark, Heal, or Jammer orbs + A 6×5 rectangle of clouds appears for 1 turn at a random location
  group:
  | group:
    | condition: 20% chance
    | (12769:104) Zheng
-   | 1x1 cloud appear for 1 turn at random location, Deal 90% damage
+   | A 1×1 square of clouds appears for 1 turn at a random location, Deal 90% damage
    | condition: 25% chance
    | (12768:94) Chao
    | Lock 5 random orbs, Deal 90% damage

@@ -23,7 +23,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #5: ESOrbChangeAttackBits(108:15046) -> Too bad
-Change Fire to Light, Deal 1000% damage
+Change all Fire orbs to Light orbs, Deal 1000% damage
 
 #6: SkillSet:
 	[0] ESSkyfall(68:15038) -> Wake Up!
@@ -43,7 +43,7 @@ Branch on flag & 2, target rnd 13
 flag SET 0b11
 
 #10: ESOrbChangeAttackBits(108:15047) -> Too bad
-Change Water to Light, Deal 1000% damage
+Change all Water orbs to Light orbs, Deal 1000% damage
 
 #11: SkillSet:
 	[0] ESSkyfall(68:15041) -> Wake Up!
@@ -63,7 +63,7 @@ Branch on flag & 4, target rnd 18
 flag SET 0b111
 
 #15: ESOrbChangeAttackBits(108:15048) -> Too bad
-Change Wood to Light, Deal 1000% damage
+Change all Wood orbs to Light orbs, Deal 1000% damage
 
 #16: SkillSet:
 	[0] ESSkyfall(68:15044) -> Wake Up!
@@ -77,7 +77,7 @@ Change Wood to Light, Deal 1000% damage
 end_turn
 
 #18: ESOrbChangeAttackBits(108:15049) -> Too bad
-Change Dark to Light, Deal 1000% damage
+Change all Dark orbs to Light orbs, Deal 1000% damage
 
 #19: ESEndBattle(40:15050) -> Good Job...
 Reduce self HP to 0

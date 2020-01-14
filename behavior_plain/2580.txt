@@ -26,24 +26,24 @@ Player -50% HP
 end_turn
 
 #8: ESRecoverEnemy86(86:3602) -> Longevity Invasion
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 9% hp, Deal 160% damage
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 9% HP, Deal 160% damage
 
 #9: ESAttackUPRemainingEnemies(17:3613) -> Wind-Up Full Throttle
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #10: ESBlind62(62:3626) -> Attack from the Deep Sea
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Blind all orbs on the board, Deal 150% damage
 
 #11: ESAttackMultihit(15:3621) -> Screw Headbutt
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 300% damage (3 hits, 100% each)
 
 #12: ESRecoverEnemy86(86:3623) -> Longevity Attack
 Condition: 40% chance (ai:0 rnd:40)
-Enemy recover 10% hp, Deal 90% damage
+Enemy recover 10% HP, Deal 90% damage
 
 #13: ESRandomSpawn(92:3665) -> Single Shadow
 Condition: 40% chance (ai:0 rnd:40)

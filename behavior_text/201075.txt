@@ -12,7 +12,7 @@ level: 3
  | Spawn 3 random Fire orbs
  group:
  | (4260:48) Clean when you're done!
- | Change Jammer to Heal, Deal 150% damage
+ | Change all Jammer orbs to Heal orbs, Deal 150% damage
  | condition: when required attributes on board
  | (4259:92) Let's eat one!
  | Spawn 1 random Jammer orb, Deal 100% damage

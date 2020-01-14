@@ -20,16 +20,16 @@ Branch on level >= 6, target rnd 11
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 16)
 	[0] ESOrbChangeAttack(48:11377) -> Gimme some sweets!
-	Change Random to Jammer, Deal 110% damage
+	Change a random attribute to Jammer orbs, Deal 110% damage
 	[1] ESRecoverEnemy86(86:11378) -> Zzzz
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #5: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESOrbChangeAttack(48:11380) -> More!
-	Change Random to Jammer, Deal 115% damage
+	Change a random attribute to Jammer orbs, Deal 115% damage
 	[1] ESRecoverEnemy86(86:11381) -> Zzzz
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
@@ -41,20 +41,20 @@ Branch on level >= 6, target rnd 11
 #7: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESOrbChangeAttack(48:11386) -> Hyah!
-	Change Random to Heal, Deal 90% damage
+	Change a random attribute to Heal orbs, Deal 90% damage
 	[1] ESRandomSpawn(92:11387) -> Mysterious Light of the Underworld
 	Spawn 5 random Poison orbs
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESOrbChangeAttack(48:11389) -> Take that!
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 	[1] ESRandomSpawn(92:11390) -> Path to Hell
 	Spawn 5 random Mortal Poison orbs
 
 #9: SkillSet:
 	[0] ESOrbChangeAttack(48:11392) -> Yaaah!
-	Change Random to Poison, Deal 110% damage
+	Change a random attribute to Poison orbs, Deal 110% damage
 	[1] ESBombRandomSpawn(102:11393) -> Pumpkin Magic Bomb
 	Spawn 8 random Bomb orbs
 

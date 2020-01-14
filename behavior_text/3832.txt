@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: always turn 5
    | (7815:83) How about that, eh? Still wanna fight? + War Cycle
-   | Void damage >= 10000000 for 99 turns + Enemy recover 15% hp
+   | Void damage >= 10000000 for 99 turns + Enemy recover 15% HP
  | group:
    | group:
    | condition: turns 1-4 while HP > 32

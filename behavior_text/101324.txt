@@ -24,7 +24,7 @@ level: 5
  | condition: execute repeatedly, turn 1-5 of 6
    | condition: 40% chance
    | (1246:48) Lick!
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: execute repeatedly, turn 6 of 6
    | (1247:15) Chomp!

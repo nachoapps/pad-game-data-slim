@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Fire attrs by 50%
  type: PREEMPT
  | (5377:83) To think it would come to this.... + Baum Biene
- | Voids status ailments for 10 turns + Change Random to Wood, Deal 80% damage
+ | Voids status ailments for 10 turns + Change a random attribute to Wood orbs, Deal 80% damage
  group:
  | group:
    | group:
@@ -44,4 +44,4 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 1 times
  | (5381:39) Zeit Radieren
- | Movetime 25% for 5 turns
+ | Movetime +25% for 5 turns

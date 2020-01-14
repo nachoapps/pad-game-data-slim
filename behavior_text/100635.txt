@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (672:48) No healing for you!
-     | Change Heal to Random, Deal 50% damage
+     | Change all Heal orbs to a random attribute, Deal 50% damage
      | (670:50) Here I come!
      | Player -75% HP
    | group:

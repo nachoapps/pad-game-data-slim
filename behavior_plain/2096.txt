@@ -55,7 +55,7 @@ end_turn
 	[0] ESBindAwoken(88:11618) -> Losing Power
 	Bind awoken skills for 2 turns
 	[1] ESRecoverEnemy86(86:11619) -> Predation
-	Enemy recover 14% hp
+	Enemy recover 14% HP
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

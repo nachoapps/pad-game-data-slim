@@ -24,7 +24,7 @@ level: 1
      | (12926:88) Overrun Nappé
      | Bind awoken skills for 2 turns, Deal 80% damage
      | (12927:104) Cream Dolce
-     | 3x2 cloud appear for 4 turns at random location, Deal 80% damage
+     | A 3×2 rectangle of clouds appears for 4 turns at a random location, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 33% chance
@@ -32,7 +32,7 @@ level: 1
      | Change player HP to 50000 for 1 turn + Deal 90% damage (3 hits, 30% each), Deal 90% damage (3 hits, 30% each)
      | condition: 33% chance
      | (12923:105) Tranche Compote
-     | Rcv 50% for 2 turns, Deal 80% damage
+     | RCV +50% for 2 turns, Deal 80% damage
      | condition: 34% chance
      | (12924:46) Fraise Brulée
      | Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 84% damage

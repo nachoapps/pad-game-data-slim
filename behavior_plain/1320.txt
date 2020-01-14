@@ -23,7 +23,7 @@ end_turn
 Branch on hp < 50, target rnd 12
 
 #7: ESRowSpawnMulti(79:2253) -> Dance of the Dragon War Princess
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 1st row to Water orbs, the 3rd row to Wood orbs, and the 5th row to Water orbs, Deal 200% damage
 
 #8: SkillSet:
@@ -58,7 +58,7 @@ flag SET 0b11
 
 #14: SkillSet:
 	[0] ESRecoverEnemy86(86:2251) -> Brood, are you ok?
-	Enemy recover 40% hp
+	Enemy recover 40% HP
 	[1] ESAttackUPRemainingEnemies(17:2252) -> Dragon Howling
 	Increase damage to 200% for the next 999 turns
 

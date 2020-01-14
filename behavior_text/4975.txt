@@ -23,7 +23,7 @@ level: 1
    | Deal 105% damage (3 hits, 35% each)
    | condition: 34% chance
    | (12022:48) 旋風斬りっ！！
-   | Change Random to Wood, Deal 95% damage
+   | Change a random attribute to Wood orbs, Deal 95% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (12024:83) こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！

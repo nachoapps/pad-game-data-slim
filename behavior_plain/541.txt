@@ -17,5 +17,5 @@ end_turn
 Voids status ailments for 999 turns
 
 #5: ESAttackMultihit(15:360) -> Boisterous Dance of Bishamon
-Condition: 70% chance when < 50% hp (ai:70 rnd:0)
+Condition: 70% chance when < 50% HP (ai:70 rnd:0)
 Deal 180% damage (3 hits, 60% each)

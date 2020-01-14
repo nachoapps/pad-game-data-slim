@@ -25,14 +25,14 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:7592) -> Simple Repairs
-	Enemy recover 51% hp
+	Enemy recover 51% HP
 	[1] ESLeaderSwap(75:7593) -> Pipe Impact
 	Leader changes to random sub for 99 turns
 
 #7: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESChangeAttribute(46:7595) -> Karakuri Change
 	Change own attribute to random one of Fire or Light
 	[1] ESBoardChangeAttackBits(85:7596) -> Type 5 Karakuri Cannon

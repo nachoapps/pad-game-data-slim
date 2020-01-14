@@ -14,7 +14,7 @@ level: 1
  | Enemy turn counter change to 1 when HP <= 20%
  type: PREEMPT
  | (9502:83) Crimson Giant + Underworld Charity + Swirling Fire
- | Absorb damage when combos <= 7 for 10 turns + Movetime 150% for 10 turns + Random 1 orbs change every 1.5s for 10 turns
+ | Absorb damage when combos <= 7 for 10 turns + Movetime +150% for 10 turns + Random 1 orbs change every 1.5s for 10 turns
  group:
  | group:
    | group:
@@ -41,7 +41,7 @@ level: 1
  | group:
  | condition: turn 2, hp <= 49
    | (9511:104) Eruption
-   | 2x3 cloud appear for 4 turns at 2nd row, 3rd column, Deal 120% damage
+   | A 2×3 rectangle of clouds appears for 4 turns at 2nd row, 3rd column, Deal 120% damage
  | group:
  | condition: hp <= 19
    | group:
@@ -58,4 +58,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (9516:83) Self Healing + Flare up
-   | Enemy recover 50% hp + Increase damage to 120% for the next 99 turns
+   | Enemy recover 50% HP + Increase damage to 120% for the next 99 turns

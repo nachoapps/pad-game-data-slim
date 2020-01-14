@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 30% chance
    | (2695:48) Flame Sterilization
-   | Change Poison to Fire, Deal 150% damage
+   | Change all Poison orbs to Fire orbs, Deal 150% damage
    | condition: 35% chance
    | (2694:65) Tail Stroke
    | Bind 1 random sub for 1 turn, Deal 100% damage

@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (1014:48) Crimson Slash
-   | Change Heal to Fire, Deal 80% damage
+   | Change all Heal orbs to Fire orbs, Deal 80% damage
    | (1015:15) Fenghuang Sword Dance
    | Deal 100~125% damage (4~5 hits, 25% each)
  | group:
@@ -20,7 +20,7 @@ level: 1
    | Bind Light cards for 3~4 turns
    | condition: 50% chance
    | (1014:48) Crimson Slash
-   | Change Heal to Fire, Deal 80% damage
+   | Change all Heal orbs to Fire orbs, Deal 80% damage
    | (1015:15) Fenghuang Sword Dance
    | Deal 100~125% damage (4~5 hits, 25% each)
  | group:

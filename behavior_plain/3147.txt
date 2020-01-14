@@ -29,7 +29,7 @@ flag SET 0b1
 end_turn
 
 #8: ESAttackMultihit(15:5464) -> Muscle Revenger
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 360% damage (6 hits, 60% each)
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
@@ -39,23 +39,23 @@ Branch on flag & 2, target rnd 21
 flag SET 0b11
 
 #11: ESVoidShield(71:5466) -> God of Flight's Power
-Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 384)
+Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 384)
 Void damage >= 500000 for 1 turn
 
 #12: ESVoidShield(71:5456) -> God of Flight's Power
-Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 128)
+Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 128)
 Void damage >= 500000 for 1 turn
 
 #13: ESAbsorbCombo(67:5458) -> God of Technique's Power
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 32)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 32)
 Absorb damage when combos <= 6 for 1 turn
 
 #14: ESAttackUPRemainingEnemies(17:5460) -> God of Brute Strength's Power
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 8)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 8)
 Increase damage to 200% for the next 1 turn
 
 #15: ESBindTarget(54:5462) -> God of Brutality's Power
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Bind both leaders for 1 turn
 
 #16: ESFlagOperation(24:14) -> ESFlagOperation
@@ -66,14 +66,14 @@ Branch on player_cards HAS [3124, 3125, 3850], target rnd 26
 
 #18: ESOrbChangeAttack(48:5452) -> Face Flash
 Condition: 20% chance (ai:20 rnd:0)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #19: ESOrbChangeAttack(48:5453) -> Face Flash
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #20: ESOrbChangeAttack(48:5454) -> Face Flash
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #21: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b10
@@ -99,7 +99,7 @@ Bind active skills for 3 turns, Deal 150% damage
 	[0] ESInactivity66(66:5451) -> Yo, Kinnikuman!
 	Do nothing
 	[1] ESOrbChangeAttack(48:5454) -> Face Flash
-	Change Random to Light, Deal 100% damage
+	Change a random attribute to Light orbs, Deal 100% damage
 
 #27: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 18

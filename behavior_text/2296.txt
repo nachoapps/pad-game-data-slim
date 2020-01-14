@@ -9,15 +9,15 @@ approved: False
 level: 1
  type: PREEMPT
  | (3832:83) Sangen Mechanism + Heal-to-Blue Twist Puppetry
- | Absorb Light and Dark damage for 5 turns + Change Heal to Water, Deal 90% damage
+ | Absorb Light and Dark damage for 5 turns + Change all Heal orbs to Water orbs, Deal 90% damage
  group:
  | group:
    | condition: 40% chance
    | (3833:83) Elemental Flip + Green-to-Red Twist Puppetry
-   | Change own attribute to random one of Fire or Water + Change Wood to Fire, Deal 110% damage
+   | Change own attribute to random one of Fire or Water + Change all Wood orbs to Fire orbs, Deal 110% damage
    | condition: 25% chance
    | (3834:83) Elemental Flip + Heal-to-Blue Twist Puppetry
-   | Change own attribute to random one of Fire or Water + Change Heal to Water, Deal 90% damage
+   | Change own attribute to random one of Fire or Water + Change all Heal orbs to Water orbs, Deal 90% damage
    | condition: 35% chance
    | (3835:83) Elemental Flip + Red Line Stitch Puppetry
    | Change own attribute to random one of Fire or Water + Change the 3rd row to Fire orbs, Deal 100% damage
@@ -33,4 +33,4 @@ level: 1
      | Change the 1st, 3rd, and 5th rows to Water orbs and the 2nd and 4th rows to Fire orbs, Deal 220% damage
  type: UNKNOWN_USE
  | (3841:83) Elemental Flip + Heal-to-Green Twist Puppetry
- | Change own attribute to random one of Water or Wood + Change Heal to Wood, Deal 90% damage
+ | Change own attribute to random one of Water or Wood + Change all Heal orbs to Wood orbs, Deal 90% damage

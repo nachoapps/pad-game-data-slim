@@ -9,14 +9,14 @@ approved: False
 level: 1
  type: PREEMPT
  | (12589:105) Bow down before my Psycho Power!
- | Rcv 50% for 10 turns
+ | RCV +50% for 10 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-9 of 10
      | condition: 33% chance
      | (12449:48) Somersault Skull Diver
-     | Change Random to Dark, Deal 110% damage
+     | Change a random attribute to Dark orbs, Deal 110% damage
      | condition: 33% chance
      | (12448:15) Head Press
      | Deal 100% damage
@@ -36,7 +36,7 @@ level: 1
      | Deal 120% damage (4 hits, 30% each)
      | condition: 33% chance
      | (12449:48) Somersault Skull Diver
-     | Change Random to Dark, Deal 110% damage
+     | Change a random attribute to Dark orbs, Deal 110% damage
      | condition: 33% chance
      | (12448:15) Head Press
      | Deal 100% damage
@@ -60,7 +60,7 @@ level: 1
      | Deal 120% damage (4 hits, 30% each)
      | condition: 33% chance
      | (12449:48) Somersault Skull Diver
-     | Change Random to Dark, Deal 110% damage
+     | Change a random attribute to Dark orbs, Deal 110% damage
      | condition: 33% chance
      | (12448:15) Head Press
      | Deal 100% damage
@@ -78,7 +78,7 @@ level: 1
      | Deal 120% damage (4 hits, 30% each)
      | condition: 33% chance
      | (12449:48) Somersault Skull Diver
-     | Change Random to Dark, Deal 110% damage
+     | Change a random attribute to Dark orbs, Deal 110% damage
      | condition: 33% chance
      | (12448:15) Head Press
      | Deal 100% damage

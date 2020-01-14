@@ -5,7 +5,7 @@ start/max counter: 0
 counter increment: 0
 
 #1: ESAttackMultihit(15:199) -> Evil Slash
-Condition: 40% chance when < 35% hp (ai:40 rnd:0)
+Condition: 40% chance when < 35% HP (ai:40 rnd:0)
 Deal 180% damage (6 hits, 30% each)
 
 #2: ESBindAttribute(2:43) -> Leaf Bind

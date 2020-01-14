@@ -9,12 +9,12 @@ approved: False
 level: 1
  type: PREEMPT
  | (1102:48) スキありーっ!!!!!
- | Change Random to Jammer, Deal 75% damage
+ | Change a random attribute to Jammer orbs, Deal 75% damage
  group:
  | group:
  | condition: hp <= 74
    | (1103:48) ミルキーキャノン
-   | Change Random to Light, Deal 125% damage
+   | Change a random attribute to Light orbs, Deal 125% damage
  | group:
  | condition: turn 1, hp <= 49
    | (1800:75) Change!!

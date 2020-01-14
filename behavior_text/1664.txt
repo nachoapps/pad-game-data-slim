@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Fire attrs by 50%
  type: PREEMPT
  | (10058:83) Crown of Death + Dark Cloud
- | Absorb damage when damage >= 4,000,000 for 10 turns + 1x2 cloud appear for 10 turns at random location
+ | Absorb damage when damage >= 4,000,000 for 10 turns + A 1×2 rectangle of clouds appears for 10 turns at a random location
  group:
  | group:
    | group:
@@ -25,7 +25,7 @@ level: 1
    | group:
    | condition: turn 10 while HP > 19
      | (10062:83) The Malice of Rebellion + Aaru's Throne
-     | Movetime 50% for 10 turns + Increase damage to 150% for the next 99 turns
+     | Movetime +50% for 10 turns + Increase damage to 150% for the next 99 turns
    | group:
      | condition: 50% chance
      | (10063:79) Hudr Leaf

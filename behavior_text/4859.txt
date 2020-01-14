@@ -20,7 +20,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance
      | (11498:48) Fire!
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 50% chance
      | (11499:92) Yaa!
      | Spawn 3 random Fire or Light orbs, Deal 100% damage

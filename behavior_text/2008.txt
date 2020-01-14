@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (1992:48) Sandstorm Howl
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 49, hp <= 79
    | (1993:89) Beast-King's Gaze

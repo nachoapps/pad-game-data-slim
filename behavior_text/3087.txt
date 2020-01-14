@@ -24,7 +24,7 @@ level: 1
      | (5238:83) Heat Breath + 3 combos ♪
      | Player -50% HP + Deal 60% damage (3 hits, 20% each), Deal 60% damage (3 hits, 20% each)
      | (5242:83) Gale + 3 combos ♪
-     | Change Random to Jammer + Deal 60% damage (3 hits, 20% each), Deal 50% damage
+     | Change a random attribute to Jammer orbs + Deal 60% damage (3 hits, 20% each), Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | condition: 34% chance
@@ -41,4 +41,4 @@ level: 1
    | Delay active skills by 3 turns + Deal 200% damage (10 hits, 20% each), Deal 200% damage (10 hits, 20% each)
  type: UNKNOWN_USE
  | (5240:83) Ice Blade + 3 combos ♪
- | Change Random to Water + Deal 60% damage (3 hits, 20% each), Deal 60% damage
+ | Change a random attribute to Water orbs + Deal 60% damage (3 hits, 20% each), Deal 60% damage

@@ -28,7 +28,7 @@ Branch on hp < 40, target rnd 12
 
 #8: ESOrbChangeAttack(48:3521) -> Fire Fighting Black Dog
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
-Change Fire to Jammer, Deal 140% damage
+Change all Fire orbs to Jammer orbs, Deal 140% damage
 
 #9: ESColumnSpawnMulti(77:3522) -> Guiding White Dog
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
@@ -48,10 +48,10 @@ Branch on flag & 2, target rnd 15
 flag SET 0b11
 
 #14: ESRecoverEnemy86(86:3518) -> Amenotamu-zake
-Enemy recover 30% hp
+Enemy recover 30% HP
 
 #15: ESOrbChangeAttack(48:3520) -> Behold my Magnificent Strength!
-Change Random to Water, Deal 160% damage
+Change a random attribute to Water orbs, Deal 160% damage
 
 #16: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 19

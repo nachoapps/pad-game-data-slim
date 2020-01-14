@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (15256:108) やるしかねぇっちゃ
-   | Change Light to Water, Deal 50% damage
+   | Change all Light orbs to Water orbs, Deal 50% damage
    | (15257:15) 今っちゃ！
    | Deal 60% damage
  | group:

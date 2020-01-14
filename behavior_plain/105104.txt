@@ -76,7 +76,7 @@ Change the 5th column to Light orbs, Deal 130% damage
 
 #22: ESOrbChangeAttack(48:12441) -> Bloody Kiss - Azul
 Condition: 30% chance (ai:0 rnd:30)
-Change Random to Jammer, Deal 120% damage
+Change a random attribute to Jammer orbs, Deal 120% damage
 
 #23: ESAttackMultihit(15:12437) -> Matador Blitz
 Condition: 10% chance (ai:0 rnd:10)

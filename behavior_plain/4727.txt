@@ -34,7 +34,7 @@ Branch on hp < 50, target rnd 14
 
 #10: ESOrbChangeSingle(4:10662) -> Predation Chain
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Heal to Wood
+Change all Heal orbs to Wood orbs
 
 #11: ESGravity(50:10661) -> Rush
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

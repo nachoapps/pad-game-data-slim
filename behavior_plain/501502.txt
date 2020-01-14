@@ -16,7 +16,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Deal 100% damage
 
 #4: ESAttackUPRemainingEnemies(17:13954) -> Not finish yet!
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 1 turn
 
 #5: ESColumnSpawnMulti(77:13952) -> Blade of Flame

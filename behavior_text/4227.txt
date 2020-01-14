@@ -27,7 +27,7 @@ level: 1
    | group:
      | condition: 25% chance
      | (9160:48) Rotting Pain
-     | Change Random to Jammer, Deal 250% damage
+     | Change a random attribute to Jammer orbs, Deal 250% damage
      | (9159:15) Four Resonating Guns
      | Deal 340% damage (4 hits, 85% each)
  | group:
@@ -43,7 +43,7 @@ level: 1
    | group:
      | condition: 30% chance
      | (9163:83) Rotting Pain + Wave
-     | Change Random to Jammer + Player -99% HP, Deal 250% damage
+     | Change a random attribute to Jammer orbs + Player -99% HP, Deal 250% damage
      | (9162:83) Four Resonating Guns + Wave
      | Deal 340% damage (4 hits, 85% each) + Player -99% HP, Deal 340% damage (4 hits, 85% each)
  | group:
@@ -61,7 +61,7 @@ level: 1
  | (9182:66) Wait and See
  | Do nothing
  | (9140:104) Dragon Cloud
- | 6x2 cloud appear for 3 turns at random location, Deal 100% damage
+ | A 6×2 rectangle of clouds appears for 3 turns at a random location, Deal 100% damage
  | condition: 25% chance
  | (9141:99) Sealing Pulse
  | Seal the 1st column for 3 turns, Deal 100% damage

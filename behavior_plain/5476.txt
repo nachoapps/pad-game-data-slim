@@ -12,7 +12,7 @@ Enable preempt if level 1
 	[0] ESInactivity66(66:14066) -> 愚地流の空手というものを――
 	Do nothing
 	[1] ESDebuffRCV(105:14067) -> キミタチにお見せしよう
-	Rcv 50% for 5 turns
+	RCV +50% for 5 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 13

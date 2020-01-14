@@ -35,15 +35,15 @@ end_turn
 Branch on hp < 40, target rnd 24
 
 #9: ESBindRandom(1:3549) -> Petal Chain
-Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 3 random cards for 3 turns
 
 #10: ESColumnSpawnMulti(77:3547) -> Gale Impact
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Change the 3rd and 4th columns to Wood orbs, Deal 150% damage
 
 #11: ESBlind62(62:3546) -> Floral Mist
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Blind all orbs on the board, Deal 140% damage
 
 #12: ESBranchFlag(43:10) -> ESBranchFlag
@@ -96,11 +96,11 @@ Bind active skills for 10 turns
 Branch on hp < 20, target rnd 30
 
 #28: ESColumnSpawnMulti(77:3547) -> Gale Impact
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Change the 3rd and 4th columns to Wood orbs, Deal 150% damage
 
 #29: ESBlind62(62:3546) -> Floral Mist
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Blind all orbs on the board, Deal 140% damage
 
 #30: ESAttackMultihit(15:3548) -> Ventus Anima

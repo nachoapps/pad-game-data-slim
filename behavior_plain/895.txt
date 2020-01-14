@@ -20,7 +20,7 @@ Player -99% HP
 end_turn
 
 #6: ESBindAttribute(2:1391) -> Dark Emperor's Shadow
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Dark cards for 3 turns
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -28,7 +28,7 @@ Branch on hp < 50, target rnd 10
 
 #8: ESOrbChangeAttack(48:1390) -> Freeze Pain
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Water, Deal 75% damage
+Change a random attribute to Water orbs, Deal 75% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

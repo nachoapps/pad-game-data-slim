@@ -8,9 +8,9 @@ counter increment: 0
 Voids status ailments for 999 turns
 
 #2: ESAttackUPRemainingEnemies(17:262) -> Frantic Thunder
-Condition: When < 75% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 75% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #3: ESAttackMultihit(15:261) -> Ignite!
-Condition: 75% chance when < 50% hp (ai:75 rnd:0)
+Condition: 75% chance when < 50% HP (ai:75 rnd:0)
 Deal 125% damage (5 hits, 25% each)

@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (10662:4) 捕食連鎖
-     | Change Heal to Wood
+     | Change all Heal orbs to Wood orbs
      | (10661:50) 速攻
      | Player -99% HP
  | group:
@@ -29,7 +29,7 @@ level: 4
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (10662:4) 捕食連鎖
-     | Change Heal to Wood
+     | Change all Heal orbs to Wood orbs
      | (10661:50) 速攻
      | Player -99% HP
    | group:

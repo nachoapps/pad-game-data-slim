@@ -29,17 +29,17 @@ end_turn
 Branch on hp < 50, target rnd 12
 
 #9: SkillSet:
-	Condition: When < 25% hp (ai:100 rnd:0)
+	Condition: When < 25% HP (ai:100 rnd:0)
 	[0] ESOrbChangeAttack(48:2574) -> Fear Gas
-	Change Random to Jammer, Deal 70% damage
+	Change a random attribute to Jammer orbs, Deal 70% damage
 	[1] ESOrbChangeAttack(48:2574) -> Fear Gas
-	Change Random to Jammer, Deal 70% damage
+	Change a random attribute to Jammer orbs, Deal 70% damage
 	[2] ESOrbChangeAttack(48:2574) -> Fear Gas
-	Change Random to Jammer, Deal 70% damage
+	Change a random attribute to Jammer orbs, Deal 70% damage
 
 #10: ESOrbChangeAttack(48:2574) -> Fear Gas
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 70% damage
+Change a random attribute to Jammer orbs, Deal 70% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -51,11 +51,11 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #14: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESGravity(50:2575) -> Pay!
 	Player -75% HP
 	[1] ESPoisonChangeRandomCount(60:2576) -> For what you did to me!
-	Change Random 7 to Poison
+	Change 7 random orbs to Poison orbs
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

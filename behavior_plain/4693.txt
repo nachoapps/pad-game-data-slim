@@ -20,7 +20,7 @@ Reduce damage from all sources by 50% for 3 turns
 end_turn
 
 #6: ESBombFixedSpawn(103:10709) -> Defense Training
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn Bomb orbs in the specified positions, Deal 200% damage
 
 #7: ESBranchCounter(31:21) -> ESBranchCounter

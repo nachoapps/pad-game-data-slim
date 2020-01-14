@@ -28,13 +28,13 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1-3 of 4
      | (4837:48) Erosion
-     | Change Random to Dark, Deal 80% damage
+     | Change a random attribute to Dark orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (4839:2) Abyss Cage
      | Bind Dark cards for 5~10 turns
      | (4837:48) Erosion
-     | Change Random to Dark, Deal 80% damage
+     | Change a random attribute to Dark orbs, Deal 80% damage
  | group:
  | condition: hp <= 9
    | (4838:15) Chaos Prominence

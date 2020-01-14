@@ -15,22 +15,22 @@ Enable preempt if level 1
 	Unable to match Heal orbs for 3 turns
 
 #3: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:6531) -> Divine Cure
-	Enemy recover 15% hp
+	Enemy recover 15% HP
 	[1] ESAbsorbCombo(67:6553) -> Sage Wisdom
 	Absorb damage when combos <= 6 for 999 turns
 
 #4: ESAbsorbCombo(67:6553) -> Sage Wisdom
-Condition: When < 35% hp (ai:100 rnd:0)
+Condition: When < 35% HP (ai:100 rnd:0)
 Absorb damage when combos <= 6 for 999 turns
 
 #5: ESAttackMultihit(15:6554) -> Rizentbard
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 1200% damage (4 hits, 300% each)
 
 #6: ESDamageShield(74:6544) -> Sanctuary
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 8)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 8)
 Reduce damage from all sources by 50% for 10 turns
 
 #7: ESGravity(50:6539) -> Corsier
@@ -38,7 +38,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 8)
 Player -50% HP
 
 #8: ESDamageShield(74:6545) -> Sanctuary
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 4)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 4)
 Reduce damage from all sources by 50% for 10 turns
 
 #9: ESAttackMultihit(15:6540) -> Arentillia
@@ -50,10 +50,10 @@ Deal 140% damage (2 hits, 70% each)
 	[0] ESBlind62(62:6541) -> Goudenbel
 	Blind all orbs on the board, Deal 100% damage
 	[1] ESRecoverPlayer(55:6542) -> Cure
-	Player recover 100% hp
+	Player recover 100% HP
 
 #11: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESChangeAttribute(46:6547) -> Apotheosis Omen
 	Change own attribute to Light
 	[1] ESAttackMultihit(15:6540) -> Arentillia

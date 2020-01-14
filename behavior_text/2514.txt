@@ -16,14 +16,14 @@ level: 1
    | condition: turn 1 while HP > 49
      | condition: when 1424, 1425, 1241, 1242, 1243, 1244 on team
      | (3655:55) Can you feel the heat, brother?
-     | Player recover 100% hp
+     | Player recover 100% HP
      | (3651:83) Heat! + Christmas!
      | Change the 2nd column to Fire orbs + Change the 2nd row to Wood orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 1-3 of 4
      | condition: 50% chance
      | (3653:48) Green Fire Transformation
-     | Change Wood to Fire, Deal 110% damage
+     | Change all Wood orbs to Fire orbs, Deal 110% damage
      | (3652:15) Flame Dragon Sword
      | Deal 120% damage
    | group:
@@ -36,7 +36,7 @@ level: 1
    | condition: always turn 1
      | condition: when 1424, 1425, 1241, 1242, 1243, 1244 on team
      | (3655:55) Can you feel the heat, brother?
-     | Player recover 100% hp
+     | Player recover 100% HP
      | (3656:62) Flame Dance
      | Blind all orbs on the board, Deal 130% damage
    | group:
@@ -47,7 +47,7 @@ level: 1
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 50% chance
      | (3653:48) Green Fire Transformation
-     | Change Wood to Fire, Deal 110% damage
+     | Change all Wood orbs to Fire orbs, Deal 110% damage
      | (3652:15) Flame Dragon Sword
      | Deal 120% damage
  | group:
@@ -64,7 +64,7 @@ level: 1
    | condition: execute repeatedly, turn 3 of 9
      | condition: 50% chance
      | (3653:48) Green Fire Transformation
-     | Change Wood to Fire, Deal 110% damage
+     | Change all Wood orbs to Fire orbs, Deal 110% damage
      | (3652:15) Flame Dragon Sword
      | Deal 120% damage
    | group:
@@ -75,7 +75,7 @@ level: 1
    | condition: execute repeatedly, turn 5 of 9
      | condition: 50% chance
      | (3653:48) Green Fire Transformation
-     | Change Wood to Fire, Deal 110% damage
+     | Change all Wood orbs to Fire orbs, Deal 110% damage
      | (3652:15) Flame Dragon Sword
      | Deal 120% damage
    | group:
@@ -90,6 +90,6 @@ level: 1
    | condition: execute repeatedly, turn 8-9 of 9
      | condition: 50% chance
      | (3653:48) Green Fire Transformation
-     | Change Wood to Fire, Deal 110% damage
+     | Change all Wood orbs to Fire orbs, Deal 110% damage
      | (3652:15) Flame Dragon Sword
      | Deal 120% damage

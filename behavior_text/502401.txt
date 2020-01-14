@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (15445:64) ポイズンテイル
-   | Change Random 4 to Poison, Deal 120% damage
+   | Change 4 random orbs to Poison orbs, Deal 120% damage
    | (15444:15) 削命
    | Deal 100% damage (5 hits, 20% each)
  | group:
@@ -29,6 +29,6 @@ level: 1
      | Movetime -3s for 1 turn, Deal 125% damage
      | condition: 30% chance
      | (15445:64) ポイズンテイル
-     | Change Random 4 to Poison, Deal 120% damage
+     | Change 4 random orbs to Poison orbs, Deal 120% damage
      | (15444:15) 削命
      | Deal 100% damage (5 hits, 20% each)

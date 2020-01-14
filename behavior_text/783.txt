@@ -14,7 +14,7 @@ level: 5
  | group:
    | condition: 25% chance
    | (507:48) Aquatic Star of Blessing
-   | Change Random to Water, Deal 80% damage
+   | Change a random attribute to Water orbs, Deal 80% damage
    | condition: 50% chance
    | (509:50) Malevolent Star of Disaster
    | Player -50% HP

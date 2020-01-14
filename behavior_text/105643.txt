@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (14979:48) Don't even think about it!
-     | Change Random to Light, Deal 95% damage
+     | Change a random attribute to Light orbs, Deal 95% damage
      | condition: 50% chance
      | (14980:15) I'm not done yet!
      | Deal 100% damage

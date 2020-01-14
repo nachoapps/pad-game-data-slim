@@ -21,7 +21,7 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #6: ESOrbChangeAttack(48:1106) -> ばっ!!!!
-Change Random to Fire, Deal 75% damage
+Change a random attribute to Fire orbs, Deal 75% damage
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 10

@@ -17,7 +17,7 @@ level: 4
    | Spawn 1 random Fire, Wood, or Heal orb, Deal 105% damage
    | condition: 50% chance
    | (11416:48) Super Sweet Dorayaki
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (11417:78) Sweet Grudge

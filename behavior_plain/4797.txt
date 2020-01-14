@@ -49,7 +49,7 @@ Branch on hp > 100, target rnd 15
 	[0] ESSpinnersFixed(110:11210) -> Turn and turn!
 	Specific orbs change every 2.0s for 1 turn
 	[1] ESCloud(104:11213) -> But, here comes fluffiness!
-	3x2 cloud appear for 1 turn at random location, Deal 100% damage
+	A 3×2 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
 
 #12: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
@@ -121,7 +121,7 @@ Branch on hp < 20, target rnd 31
 	[0] ESBindAwoken(88:11228) -> Shall we end this soon?
 	Bind awoken skills for 1 turn
 	[1] ESDebuffMovetime(39:11229) -> Keep the fun going!
-	Movetime 50% for 1 turn
+	Movetime +50% for 1 turn
 
 #29: ESAttackMultihit(15:11230) -> That was a blast!
 Deal 500% damage (5 hits, 100% each)
@@ -139,7 +139,7 @@ counter + 1
 	[0] ESDamageShield(74:11225) -> Oh scary, scary!
 	Reduce damage from all sources by 50% for 99 turns
 	[1] ESRecoverEnemy86(86:11226) -> Well, you can take a breather
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 
 #34: ESEndPath(36:26) -> ESEndPath
 end_turn

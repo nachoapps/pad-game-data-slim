@@ -36,7 +36,7 @@ end_turn
 	Bind active skills for 10 turns
 
 #9: ESAttackUPRemainingEnemies(17:6821) -> Indescribable Heart of Empty Space
-Condition: When < 10% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 10% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 1000% for the next 999 turns
 
 #10: ESSkyfall(68:6818) -> Source of Infinite Disorder

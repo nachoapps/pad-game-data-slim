@@ -19,12 +19,12 @@ flag SET 0b1
 	[1] ESDamageShield(74:6458) -> The Feathered Garment of Yomi
 	Reduce damage from all sources by 50% for 3 turns
 	[2] ESDebuffMovetime(39:6459) -> Malicious Laughter
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 
 #5: SkillSet:
-	Condition: When < 1% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:6510) -> Unwavering Light
-	Enemy recover 4% hp
+	Enemy recover 4% HP
 	[1] ESAbsorbCombo(67:6468) -> Protection of the Eight Thunders
 	Absorb damage when combos <= 7 for 999 turns
 	[2] ESBlindStickyFixed(98:6469) -> Boundary of Disdain
@@ -33,7 +33,7 @@ flag SET 0b1
 	Increase damage to 400% for the next 999 turns
 
 #6: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAbsorbCombo(67:6468) -> Protection of the Eight Thunders
 	Absorb damage when combos <= 7 for 999 turns
 	[1] ESBlindStickyFixed(98:6469) -> Boundary of Disdain
@@ -51,11 +51,11 @@ Branch on flag & 2, target rnd 13
 flag SET 0b11
 
 #10: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime 50% for 10 turns
+Movetime +50% for 10 turns
 
 #11: SkillSet:
 	[0] ESPoisonChangeRandomCount(60:6461) -> An Invitation to Death & Decay
-	Change Random 11 to Poison (excluding hearts)
+	Change 11 random orbs (excluding hearts) to Poison orbs
 	[1] ESOrbLock(94:6462) -> Curse of the Eternal Land
 	Lock all orbs
 
@@ -69,10 +69,10 @@ Branch on flag & 4, target rnd 19
 flag SET 0b111
 
 #15: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime 50% for 10 turns
+Movetime +50% for 10 turns
 
 #16: ESOrbChangeAttack(48:6463) -> Anguished Wailing
-Change Heal to Jammer, Deal 100% damage
+Change all Heal orbs to Jammer orbs, Deal 100% damage
 
 #17: ESAttackMultihit(15:6464) -> Fires of Deicide
 Deal 150% damage (5 hits, 30% each)
@@ -84,7 +84,7 @@ end_turn
 flag UNSET 0b110
 
 #20: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime 50% for 10 turns
+Movetime +50% for 10 turns
 
 #21: SkillSet:
 	[0] ESDamageShield(74:6458) -> The Feathered Garment of Yomi

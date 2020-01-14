@@ -11,7 +11,7 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESBindRandom(1:2000) -> Ancient Yell
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 6 random cards for 3 turns
 
 #4: ESAttackMultihit(15:1999) -> Snowball Explosion

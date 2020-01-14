@@ -33,7 +33,7 @@ Branch on hp < 30, target rnd 12
 
 #9: ESPoisonChangeRandom(57:15849) -> 罠カード「死のデッキ破壊ウイルス」
 Condition: One-time use (ai:100 rnd:0) (cost: 3)
-Change Random to Poison
+Change a random attribute to Poison orbs
 
 #10: ESAttackMultihit(15:15756) -> 行け、ブルーアイズ！
 Deal 100% damage (2 hits, 50% each)

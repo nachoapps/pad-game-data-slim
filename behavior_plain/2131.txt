@@ -20,7 +20,7 @@ Voids status ailments for 999 turns
 end_turn
 
 #6: ESEndBattle(40:2431) -> Commander! We lost our protective wall!
-Condition: When < 1% hp (ai:100 rnd:0)
+Condition: When < 1% HP (ai:100 rnd:0)
 Reduce self HP to 0
 
 #7: ESAttackMultihit(15:2429) -> Yes sir!

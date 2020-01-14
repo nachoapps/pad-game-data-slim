@@ -13,4 +13,4 @@ level: 1
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 49
  | (1097:48) クラッシャーボール!!!!!
- | Change Random to Fire, Deal 150% damage
+ | Change a random attribute to Fire orbs, Deal 150% damage

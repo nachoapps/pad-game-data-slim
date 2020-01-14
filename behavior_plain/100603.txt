@@ -21,7 +21,7 @@ Spawn 3 random Dark orbs, Deal 20% damage
 
 #6: ESOrbChangeSingle(4:5110) -> Guard Stance-Dark
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Light to Heal
+Change all Light orbs to Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

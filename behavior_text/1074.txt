@@ -13,9 +13,9 @@ level: 1
  group:
  | condition: when 9 combos last turn
  | (11883:83) Congratulations + I give you hope
- | Movetime 200% for 10 turns + Reduce self HP to 0
+ | Movetime +200% for 10 turns + Reduce self HP to 0
  | (11886:83) Too bad... + Overflowed Despair + Farewell
- | Delay active skills by 10 turns + Movetime 50% for 10 turns + Reduce self HP to 0
+ | Delay active skills by 10 turns + Movetime +50% for 10 turns + Reduce self HP to 0
 
 level: 6
  type: PREEMPT
@@ -24,6 +24,6 @@ level: 6
  group:
  | condition: when 10 combos last turn
  | (11883:83) Congratulations + I give you hope
- | Movetime 200% for 10 turns + Reduce self HP to 0
+ | Movetime +200% for 10 turns + Reduce self HP to 0
  | (11886:83) Too bad... + Overflowed Despair + Farewell
- | Delay active skills by 10 turns + Movetime 50% for 10 turns + Reduce self HP to 0
+ | Delay active skills by 10 turns + Movetime +50% for 10 turns + Reduce self HP to 0

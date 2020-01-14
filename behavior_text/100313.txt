@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (8205:104) Dangerous Afro Cut
- | 3x3 cloud appear for 3 turns at random location
+ | A 3×3 square of clouds appears for 3 turns at a random location
  group:
  | group:
  | condition: turn 1 while HP > 49, hp <= 100

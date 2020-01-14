@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: turn 2
    | (9547:83) The Second Labor + Hydra's Poison Dart
-   | Bind 6 random cards for 4 turns + Change Random 7 to Poison (excluding hearts)
+   | Bind 6 random cards for 4 turns + Change 7 random orbs (excluding hearts) to Poison orbs
  | group:
  | condition: turn 3
    | (9548:15) Double Million Punches

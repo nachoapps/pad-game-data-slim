@@ -28,7 +28,7 @@ Branch on hp < 50, target rnd 18
 
 #7: ESOrbChangeAttackBits(108:10965) -> Taghyir Zahar
 Condition: 33% chance (ai:0 rnd:33)
-Change Jammer to Heal, Deal 150% damage
+Change all Jammer orbs to Heal orbs, Deal 150% damage
 
 #8: ESRandomSpawn(92:10966) -> Sune Kaburya
 Condition: 33% chance (ai:0 rnd:33)

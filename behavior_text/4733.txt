@@ -23,22 +23,22 @@ level: 1
    | Absorb damage when damage >= 20,000,000 for 1 turn + Water and Wood skyfall +20% for 1 turn, Deal 105% damage
    | condition: 4% chance
    | (11073:83) Scaly Transformation + Required Force
-   | Absorb Fire damage for 1 turn + Change Random to Fire, Deal 102% damage
+   | Absorb Fire damage for 1 turn + Change a random attribute to Fire orbs, Deal 102% damage
    | condition: 4% chance
    | (11074:83) Scaly Transformation + Required Force
-   | Absorb Water damage for 1 turn + Change Random to Water, Deal 102% damage
+   | Absorb Water damage for 1 turn + Change a random attribute to Water orbs, Deal 102% damage
    | condition: 4% chance
    | (11075:83) Scaly Transformation + Required Force
-   | Absorb Wood damage for 1 turn + Change Random to Wood, Deal 102% damage
+   | Absorb Wood damage for 1 turn + Change a random attribute to Wood orbs, Deal 102% damage
    | condition: 4% chance
    | (11076:83) Scaly Transformation + Required Force
-   | Absorb Light damage for 1 turn + Change Random to Light, Deal 102% damage
+   | Absorb Light damage for 1 turn + Change a random attribute to Light orbs, Deal 102% damage
    | condition: 4% chance
    | (11077:83) Scaly Transformation + Required Force
-   | Absorb Dark damage for 1 turn + Change Random to Dark, Deal 102% damage
+   | Absorb Dark damage for 1 turn + Change a random attribute to Dark orbs, Deal 102% damage
    | condition: 20% chance
    | (11078:83) Withering Hope + Clouds of Yonder
-   | Absorb damage when combos <= 8 for 1 turn + Row of cloud appear for 1 turn at random location, Deal 100% damage
+   | Absorb damage when combos <= 8 for 1 turn + A row of clouds appears for 1 turn at a random location, Deal 100% damage
    | condition: 20% chance
    | (11079:83) Encasing Strongscales + Rapids of Life
    | Reduce damage from all sources by 75% for 1 turn + Change all orbs to Heal, Deal 150% damage
@@ -58,4 +58,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (11301:83) Blessed Rain + Rondo of Life and Death
-   | Enemy recover 100% hp + Leader changes to random sub for 3 turns
+   | Enemy recover 100% HP + Leader changes to random sub for 3 turns

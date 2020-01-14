@@ -16,16 +16,16 @@ level: 4
    | condition: turn 1 while HP > 89
      | condition: when 3124, 3125, 3850 on team
      | (5455:83) Yo, Kinnikuman! + Face Flash
-     | Do nothing + Change Random to Light, Deal 100% damage
+     | Do nothing + Change a random attribute to Light orbs, Deal 100% damage
    | group:
      | condition: 20% chance
      | (5452:48) Face Flash
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 50% chance
      | (5453:48) Face Flash
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | (5454:48) Face Flash
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 89
    | group:

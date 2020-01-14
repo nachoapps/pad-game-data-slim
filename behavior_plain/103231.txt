@@ -13,7 +13,7 @@ Blind random 10 orbs for 2 turns
 
 #3: ESDebuffMovetime(39:11365) -> Trick & Trick
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Movetime 25% for 2 turns, Deal 100% damage
+Movetime +25% for 2 turns, Deal 100% damage
 
 #4: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8

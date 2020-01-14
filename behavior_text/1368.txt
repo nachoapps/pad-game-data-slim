@@ -11,13 +11,13 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1139:48) Petit Wind
-   | Change Random to Wood, Deal 80% damage
+   | Change a random attribute to Wood orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1139:48) Petit Wind
-     | Change Random to Wood, Deal 80% damage
+     | Change a random attribute to Wood orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance

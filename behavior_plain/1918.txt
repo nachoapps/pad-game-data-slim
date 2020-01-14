@@ -20,7 +20,7 @@ Delay active skills by 3 turns
 end_turn
 
 #6: ESRowSpawnMulti(79:2376) -> Mandrake Beam
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 3rd row to Wood orbs, Deal 200% damage
 
 #7: ESAttackMultihit(15:2374) -> Rock of Mandragora

@@ -14,13 +14,13 @@ level: 1
  | group:
    | condition: 33% chance
    | (11958:105) オラ　負けないズラよ！
-   | Rcv 50% for 1 turn, Deal 80% damage
+   | RCV +50% for 1 turn, Deal 80% damage
    | condition: 33% chance
    | (11959:15) ズラッ！
    | Deal 100% damage
    | condition: 34% chance
    | (11960:48) いかずちの術ズラ！
-   | Change Random to Light, Deal 95% damage
+   | Change a random attribute to Light orbs, Deal 95% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (11961:96) 手かげん　してほしいズラ～

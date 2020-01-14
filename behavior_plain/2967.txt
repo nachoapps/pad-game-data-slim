@@ -24,7 +24,7 @@ Movetime -2s for 5 turns
 Blind all orbs on the board, Deal 120% damage
 
 #7: ESGravity(50:4574) -> War Claws
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Player -200% HP
 
 #8: ESBranchHP(28:18) -> ESBranchHP

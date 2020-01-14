@@ -11,13 +11,13 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 3, hp <= 100
    | (416:48) Flame Quenching Technique
-   | Change Fire to Wood, Deal 70% damage
+   | Change all Fire orbs to Wood orbs, Deal 70% damage
  | group:
  | condition: hp <= 74
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (416:48) Flame Quenching Technique
-     | Change Fire to Wood, Deal 70% damage
+     | Change all Fire orbs to Wood orbs, Deal 70% damage
      | condition: 70% chance
      | (415:15) Ninjutsu - Fuma Shuriken Attack
      | Deal 140% damage (7 hits, 20% each)

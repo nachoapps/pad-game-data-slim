@@ -39,7 +39,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Spawn 1 random Bomb orb, Deal 80% damage
 
 #12: ESOrbChangeAttack(48:5822) -> Massive Crimson Iron Spear
-Change Random to Fire, Deal 120% damage
+Change a random attribute to Fire orbs, Deal 120% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

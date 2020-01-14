@@ -18,7 +18,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (5440:48) Savanna Punch
-     | Change Random to Jammer, Deal 100% damage
+     | Change a random attribute to Jammer orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (5441:94) Thoroughbred Hook

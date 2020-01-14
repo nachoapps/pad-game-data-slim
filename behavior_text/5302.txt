@@ -23,7 +23,7 @@ level: 1
    | Reduce damage from all sources by 50% for 5 turns + Void damage >= 50000000 for 999 turns + Random 1 orbs change every 1.0s for 5 turns + Remove damage immunity effect
  | group:
    | (13342:83) Hey + Anti-Cure
-   | Player -99% HP + Rcv 50% for 2 turns
+   | Player -99% HP + RCV +50% for 2 turns
  | group:
  | condition: hp <= 94
    | group:
@@ -239,7 +239,7 @@ level: 6
    | Reduce damage from all sources by 50% for 5 turns + Void damage >= 50000000 for 999 turns + Random 4 orbs change every 1.0s for 5 turns + Remove damage immunity effect
  | group:
    | (13342:83) Hey + Anti-Cure
-   | Player -99% HP + Rcv 50% for 2 turns
+   | Player -99% HP + RCV +50% for 2 turns
  | group:
  | condition: hp <= 94
    | group:

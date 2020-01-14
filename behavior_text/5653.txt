@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (14966:104) Battle, commence.
- | 2x2 cloud appear for 3 turns at random location
+ | A 2×2 square of clouds appears for 3 turns at a random location
  group:
  | group:
    | condition: 33% chance

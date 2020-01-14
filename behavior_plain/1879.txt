@@ -57,7 +57,7 @@ Branch on flag & 8, target rnd 20
 flag SET 0b1111
 
 #18: ESOrbChangeAttack(48:1817) -> Pouring Light Blade
-Change Random to Light, Deal 85% damage
+Change a random attribute to Light orbs, Deal 85% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

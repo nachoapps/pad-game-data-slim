@@ -51,7 +51,7 @@ Branch on counter >= 3, target rnd 27
 
 #16: ESOrbChangeAttack(48:10363) -> Wind Pillar
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Wood, Deal 110% damage
+Change a random attribute to Wood orbs, Deal 110% damage
 
 #17: ESColumnSpawnMulti(77:10364) -> Double Vertical Slash
 Condition: 25% chance (ai:0 rnd:25)

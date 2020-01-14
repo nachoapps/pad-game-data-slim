@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (14566:83) Well, let's get things started + Frolicking Flame Tail
- | 2x2 cloud appear for 3 turns at 4th row, 4th column + Fix orb movement starting point to random position on the board, Deal 100% damage
+ | A 2×2 square of clouds appears for 3 turns at 4th row, 4th column + Fix orb movement starting point to random position on the board, Deal 100% damage
  group:
  | group:
    | condition: when 2 combos last turn

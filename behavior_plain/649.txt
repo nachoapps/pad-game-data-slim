@@ -37,7 +37,7 @@ end_turn
 
 #11: ESOrbChangeAttack(48:454) -> Shining Spear
 Condition: 60% chance (ai:60 rnd:0)
-Change Random to Light, Deal 80% damage
+Change a random attribute to Light orbs, Deal 80% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

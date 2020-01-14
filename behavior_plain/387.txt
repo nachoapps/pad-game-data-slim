@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESPoisonChangeRandomAttack(64:1400) -> Griffin Nail
-Change Random 3 to Poison, Deal 50% damage
+Change 3 random orbs to Poison orbs, Deal 50% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -30,15 +30,15 @@ Branch on hp < 50, target rnd 11
 
 #9: ESOrbChangeAttack(48:1401) -> Old Soldier's Magic Spear
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Dark, Deal 75% damage
+Change a random attribute to Dark orbs, Deal 75% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #11: ESAttackUPCooldown(19:1402) -> Golden Knight's Awakening
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #12: ESOrbChangeAttack(48:1403) -> Mac-an-Luin
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Light, Deal 150% damage
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Change a random attribute to Light orbs, Deal 150% damage

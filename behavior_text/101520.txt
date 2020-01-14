@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (10702:13) I'm gonna get in your way.
- | Change Random 1 to Jammer
+ | Change 1 random orb to Jammer orbs
  group:
  condition: hp <= 29
  | condition: 60% chance, at most 3 times

@@ -26,11 +26,11 @@ Do nothing
 end_turn
 
 #8: ESAbsorbCombo(67:9627) -> If it's a battle, I won't lose!
-Condition: When < 2% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 2% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 1 turn
 
 #9: ESAttackMultihit(15:9629) -> School Combo
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 135% damage (3 hits, 45% each)
 
 #10: ESAttackMultihit(15:9628) -> School Axe

@@ -44,7 +44,7 @@ Player -99% HP
 
 #12: ESOrbChangeAttack(48:14884) -> Dragon Stomp
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Wood, Deal 90% damage
+Change a random attribute to Wood orbs, Deal 90% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

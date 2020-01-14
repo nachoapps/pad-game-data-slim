@@ -41,7 +41,7 @@ end_turn
 	[0] ESBindRandom(1:9545) -> The Second Labor
 	Bind 6 random cards for 4 turns
 	[1] ESPoisonChangeRandomCount(60:9546) -> Hydra's Poison Dart
-	Change Random 7 to Poison (excluding hearts)
+	Change 7 random orbs (excluding hearts) to Poison orbs
 
 #11: ESAttackMultihit(15:9548) -> Double Million Punches
 Condition: One-time use (ai:100 rnd:0) (cost: 8)

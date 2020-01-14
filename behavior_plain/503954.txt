@@ -15,11 +15,11 @@ Enable preempt if level 1
 	Deal 100% damage
 
 #3: ESRecoverEnemy86(86:13929) -> I can still do it!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 20% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 20% HP
 
 #4: ESGravity(50:13930) -> Hyaaa!
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Player -20% HP
 
 #5: ESAttackMultihit(15:13928) -> Huh?

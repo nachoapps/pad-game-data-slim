@@ -5,9 +5,9 @@ start/max counter: 3
 counter increment: 0
 
 #1: ESRecoverEnemy7(7:81) -> Heal
-Condition: When < 40% hp , one-time use (ai:60 rnd:0) (cost: 3)
-Enemy recover 30% hp
+Condition: When < 40% HP , one-time use (ai:60 rnd:0) (cost: 3)
+Enemy recover 30% HP
 
 #2: ESJammerChangeRandom(13:97) -> Random Change
 Condition: 10% chance (ai:0 rnd:10)
-Change Random 1 to Jammer
+Change 1 random orb to Jammer orbs

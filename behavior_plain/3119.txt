@@ -33,7 +33,7 @@ Branch on hp < 50, target rnd 13
 
 #10: ESOrbChangeAttackBits(108:10869) -> Grimoire Summer
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Heal to Wood, Deal 80% damage
+Change all Heal orbs to Wood orbs, Deal 80% damage
 
 #11: ESBindAttack(63:10870) -> Sunset Cage
 Bind 1 random sub for 1~2 turns, Deal 80% damage
@@ -66,7 +66,7 @@ Do nothing
 end_turn
 
 #21: ESOrbChangeAttack(48:10873) -> Summer Explosion
-Change Random to Wood, Deal 500% damage
+Change a random attribute to Wood orbs, Deal 500% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

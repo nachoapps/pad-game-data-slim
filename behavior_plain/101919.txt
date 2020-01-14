@@ -23,11 +23,11 @@ flag SET 0b1
 end_turn
 
 #6: ESDebuffMovetime(39:7614) -> Jamming Missile
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Movetime -1s for 10 turns, Deal 100% damage
 
 #7: ESAttackUPRemainingEnemies(17:7615) -> Red Device
-Condition: When < 20% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 20% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag

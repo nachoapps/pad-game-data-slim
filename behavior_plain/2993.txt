@@ -21,7 +21,7 @@ Enable preempt if level 1
 	Spawn 3 random Fire orbs
 
 #3: ESOrbChangeAttackBits(108:14811) -> No good!
-Change Jammer, Poison, and Mortal Poison to Water, Deal 100% damage
+Change all Jammer, Poison, and Mortal Poison orbs to Water orbs, Deal 100% damage
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
@@ -41,7 +41,7 @@ Change Jammer, Poison, and Mortal Poison to Water, Deal 100% damage
 	[2] ESRandomSpawn(92:14802) -> Tougher than expected?
 	Spawn 10 random Heal, Jammer, or Poison orbs
 	[3] ESDebuffRCV(105:14803) -> This'll make you better
-	Rcv 500% for 1 turn
+	RCV +500% for 1 turn
 
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)

@@ -20,7 +20,7 @@ level: 1
    | Spawn 1 random Heal orb, Deal 100% damage
    | condition: 33% chance
    | (13873:48) Hardening of Spirit
-   | Change Random to Fire, Deal 95% damage
+   | Change a random attribute to Fire orbs, Deal 95% damage
    | condition: 34% chance
    | (13874:15) Scolding Slap
    | Deal 110% damage (2 hits, 55% each)

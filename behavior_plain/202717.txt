@@ -71,7 +71,7 @@ flag SET 0b1
 end_turn
 
 #11: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:4185) -> Retreat Ark
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESDispel(6:4190) -> Fog Bow - Purge
@@ -80,7 +80,7 @@ end_turn
 	Deal 3000% damage (3 hits, 1000% each)
 
 #12: SkillSet:
-	Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 8)
+	Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESDamageShield(74:4185) -> Retreat Ark
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESBindSkill(14:4186) -> Fog Bow - Seal
@@ -89,7 +89,7 @@ end_turn
 	Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 450% damage
 
 #13: SkillSet:
-	Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 4)
+	Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESDamageShield(74:4185) -> Retreat Ark
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESBlind5(5:4187) -> Fog Bow - Haze
@@ -98,7 +98,7 @@ end_turn
 	Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 600% damage
 
 #14: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDamageShield(74:4185) -> Retreat Ark
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESSkillDelay(89:4188) -> Fog Bow - Gaze
@@ -107,7 +107,7 @@ end_turn
 	Deal 1200% damage (3 hits, 400% each)
 
 #15: SkillSet:
-	Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESDamageShield(74:4185) -> Retreat Ark
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESBindAwoken(88:4189) -> Fog Bow - Graze
@@ -123,7 +123,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4153) -> Blue Sky Rainbow
 	Absorb Fire and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4165) -> Prismatic Thunder
-	Change Random to Fire, Deal 100% damage
+	Change a random attribute to Fire orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -132,7 +132,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4153) -> Blue Sky Rainbow
 	Absorb Fire and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
-	Change Random to Light, Deal 100% damage
+	Change a random attribute to Light orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -141,7 +141,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4154) -> Blue Sky Rainbow
 	Absorb Fire and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4165) -> Prismatic Thunder
-	Change Random to Fire, Deal 100% damage
+	Change a random attribute to Fire orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -150,7 +150,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4154) -> Blue Sky Rainbow
 	Absorb Fire and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
-	Change Random to Dark, Deal 100% damage
+	Change a random attribute to Dark orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -159,7 +159,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4155) -> Blue Sky Rainbow
 	Absorb Water and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4166) -> Prismatic Thunder
-	Change Random to Water, Deal 100% damage
+	Change a random attribute to Water orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -168,7 +168,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4155) -> Blue Sky Rainbow
 	Absorb Water and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
-	Change Random to Light, Deal 100% damage
+	Change a random attribute to Light orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -177,7 +177,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4156) -> Blue Sky Rainbow
 	Absorb Water and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4166) -> Prismatic Thunder
-	Change Random to Water, Deal 100% damage
+	Change a random attribute to Water orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -186,7 +186,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4156) -> Blue Sky Rainbow
 	Absorb Water and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
-	Change Random to Dark, Deal 100% damage
+	Change a random attribute to Dark orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -195,7 +195,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4157) -> Blue Sky Rainbow
 	Absorb Wood and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4167) -> Prismatic Thunder
-	Change Random to Wood, Deal 100% damage
+	Change a random attribute to Wood orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -204,7 +204,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4157) -> Blue Sky Rainbow
 	Absorb Wood and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
-	Change Random to Light, Deal 100% damage
+	Change a random attribute to Light orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -213,7 +213,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4158) -> Blue Sky Rainbow
 	Absorb Wood and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4167) -> Prismatic Thunder
-	Change Random to Wood, Deal 100% damage
+	Change a random attribute to Wood orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -222,7 +222,7 @@ Branch on hp < 50, target rnd 30
 	[0] ESAbsorbAttribute(53:4158) -> Blue Sky Rainbow
 	Absorb Wood and Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
-	Change Random to Dark, Deal 100% damage
+	Change a random attribute to Dark orbs, Deal 100% damage
 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 
@@ -231,7 +231,7 @@ end_turn
 
 #30: SkillSet:
 	[0] ESOrbChangeAttack(48:4183) -> Rainbow Blank
-	Change Random to Jammer, Deal 150% damage
+	Change a random attribute to Jammer orbs, Deal 150% damage
 	[1] ESBindAttack(63:4170) -> Strand Sacrifice
 	Bind 1 random sub for 1 turn, Deal 50% damage
 	[2] ESGravity(50:1218) -> Ark Impact

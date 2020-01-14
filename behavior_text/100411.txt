@@ -22,14 +22,14 @@ level: 1
    | group:
    | condition: turn 5 while HP > 29
      | (10858:39) Leakage
-     | Movetime 50% for 5 turns
+     | Movetime +50% for 5 turns
    | group:
      | (10859:15) God's Holy Breath
      | Deal 400% damage (4 hits, 100% each)
  | group:
  | condition: turn 1, hp <= 29
    | (10858:39) Leakage
-   | Movetime 50% for 5 turns
+   | Movetime +50% for 5 turns
 
 level: 6
  type: PASSIVE
@@ -47,11 +47,11 @@ level: 6
    | group:
    | condition: turn 5 while HP > 29
      | (10858:39) Leakage
-     | Movetime 50% for 5 turns
+     | Movetime +50% for 5 turns
    | group:
      | (10859:15) God's Holy Breath
      | Deal 400% damage (4 hits, 100% each)
  | group:
  | condition: turn 1, hp <= 29
    | (10858:39) Leakage
-   | Movetime 50% for 5 turns
+   | Movetime +50% for 5 turns

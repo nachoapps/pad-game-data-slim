@@ -14,10 +14,10 @@ level: 1
  | group:
    | condition: 60% chance
    | (1614:64) Shield of Destruction
-   | Change Random 3 to Poison, Deal 60% damage
+   | Change 3 random orbs to Poison orbs, Deal 60% damage
    | condition: 60% chance
    | (1616:48) Magic Flame
-   | Change Light to Fire, Deal 100% damage
+   | Change all Light orbs to Fire orbs, Deal 100% damage
    | (1615:62) Darkness
    | Blind all orbs on the board, Deal 80% damage
  | group:
@@ -26,10 +26,10 @@ level: 1
    | Bind Light cards for 3 turns
    | condition: 60% chance
    | (1614:64) Shield of Destruction
-   | Change Random 3 to Poison, Deal 60% damage
+   | Change 3 random orbs to Poison orbs, Deal 60% damage
    | condition: 60% chance
    | (1616:48) Magic Flame
-   | Change Light to Fire, Deal 100% damage
+   | Change all Light orbs to Fire orbs, Deal 100% damage
    | (1615:62) Darkness
    | Blind all orbs on the board, Deal 80% damage
  | group:

@@ -11,7 +11,7 @@ Enable preempt if level 1
 	[0] ESInactivity66(66:11120) -> I know someone who needs a hand
 	Do nothing
 	[1] ESDebuffRCV(105:11121) -> And on that note!...
-	Rcv 300% for 9 turns
+	RCV +300% for 9 turns
 	[2] ESEndBattle(40:11122) -> I'll let you take care of it!
 	Reduce self HP to 0
 

@@ -93,18 +93,18 @@ end_turn
 	[0] ESBindAwoken(88:8844) -> Roar
 	Bind awoken skills for 1 turn
 	[1] ESOrbChangeAttackBits(108:8845) -> Pounce Attack
-	Change Light to Jammer, Deal 110% damage
+	Change all Light orbs to Jammer orbs, Deal 110% damage
 
 #26: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESOrbChangeAttackBits(108:8847) -> Tail Strike
-	Change Fire to Jammer, Deal 90% damage
+	Change all Fire orbs to Jammer orbs, Deal 90% damage
 	[1] ESBindTarget(54:8848) -> Binding Attack
 	Bind player leader for 1 turn, Deal 30% damage
 
 #27: SkillSet:
 	[0] ESRecoverEnemy86(86:8850) -> Spike Regeneration
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESAttackMultihit(15:8851) -> Annihilation Fist
 	Deal 130% damage
 

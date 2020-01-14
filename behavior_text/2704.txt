@@ -16,9 +16,9 @@ level: 4
  type: PREEMPT
  | condition: when 2675, 2676, 2677, 3353, 3354 on team
  | (2777:83) Amongst these swords, there is one... that is the true me. + Try to defeat me if you can!!
- | Do nothing + Player recover 100% hp
+ | Do nothing + Player recover 100% HP
  | (2770:55) Try to defeat me if you can!!
- | Player recover 100% hp
+ | Player recover 100% HP
  type: DEATH
  condition: when defeated
  | (2775:95) Can you still stand and continue?

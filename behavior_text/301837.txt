@@ -19,10 +19,10 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (1786:48) Invisible Glimpse
-     | Change Heal to Jammer, Deal 25% damage
+     | Change all Heal orbs to Jammer orbs, Deal 25% damage
      | condition: 30% chance
      | (1789:48) Medjebeam
-     | Change Random to Dark, Deal 100% damage
+     | Change a random attribute to Dark orbs, Deal 100% damage
      | condition: 40% chance
      | (1788:50) Medjebeam
      | Player -99% HP
@@ -35,7 +35,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 30% chance
      | (1789:48) Medjebeam
-     | Change Random to Dark, Deal 100% damage
+     | Change a random attribute to Dark orbs, Deal 100% damage
      | condition: 40% chance
      | (1788:50) Medjebeam
      | Player -99% HP

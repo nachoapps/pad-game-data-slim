@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (10247:48) Nature's Knowledge
- | Change Random to Wood, Deal 100% damage
+ | Change a random attribute to Wood orbs, Deal 100% damage
  group:
  | type: DISPEL_PLAYER
    | (10248:6) Naturalize
@@ -18,7 +18,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1-2 of 3
      | (10247:48) Nature's Knowledge
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (10249:17) Giant Growth

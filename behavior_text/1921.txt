@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (10521:83) Full Blooming + Withered Flowers
- | Heal skyfall +20% for 10 turns + Rcv 50% for 10 turns
+ | Heal skyfall +20% for 10 turns + RCV +50% for 10 turns
  group:
  | group:
    | condition: 33% chance
@@ -17,7 +17,7 @@ level: 1
    | Spawn 4 random Jammer orbs, Deal 90% damage
    | condition: 33% chance
    | (10523:108) Decaying Flowers
-   | Change Heal to Jammer, Deal 80% damage
+   | Change all Heal orbs to Jammer orbs, Deal 80% damage
    | condition: 34% chance
    | (10524:15) Gaia Flame
    | Deal 105% damage (3 hits, 35% each)

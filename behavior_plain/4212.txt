@@ -18,11 +18,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Blind all orbs on the board
 
 #5: ESAbsorbAttribute(53:8981) -> Genbu's Perception
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb Wood damage for 2 turns
 
 #6: ESBoardChangeAttackBits(85:8984) -> Genbu Seven-Star Perception
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Change all orbs to Wood, Light, and Dark, Deal 180% damage
 
 #7: ESBranchCounter(32:22) -> ESBranchCounter

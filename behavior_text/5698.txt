@@ -17,7 +17,7 @@ level: 1
    | Blind all orbs on the board
    | condition: 33% chance
    | (15221:108) くらえ！
-   | Change Fire, Water, and Wood to Fire, Deal 80% damage
+   | Change all Fire, Water, and Wood orbs to Fire orbs, Deal 80% damage
    | condition: 33% chance
    | (15218:15) Ｅ６の機動性を見せてやる！
    | Deal 120% damage (2 hits, 60% each)

@@ -14,10 +14,10 @@ level: 1
  | group:
    | condition: 40% chance
    | (1662:48) Wind-Calling Prayer
-   | Change Random to Wood, Deal 75% damage
+   | Change a random attribute to Wood orbs, Deal 75% damage
    | condition: 80% chance
    | (1663:48) Fiery Counterattack Strategy
-   | Change Random to Fire, Deal 75% damage
+   | Change a random attribute to Fire orbs, Deal 75% damage
  | group:
  | condition: hp <= 29
    | group:

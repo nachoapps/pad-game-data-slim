@@ -13,13 +13,13 @@ level: 1
  group:
  | group:
    | (1240:48) Black Nightmare
-   | Change Light to Jammer, Deal 90% damage
+   | Change all Light orbs to Jammer orbs, Deal 90% damage
  | group:
  | condition: turn 1 while HP > 29, hp <= 49
    | (1241:3) Divine Queen's Breath
    | Bind God cards for 5 turns
    | (1240:48) Black Nightmare
-   | Change Light to Jammer, Deal 90% damage
+   | Change all Light orbs to Jammer orbs, Deal 90% damage
  | group:
  | condition: hp <= 29
    | group:

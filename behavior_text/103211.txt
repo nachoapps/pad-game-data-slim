@@ -27,7 +27,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (5913:48) Jaws of Divine Justice
-     | Change Jammer to Light, Deal 150% damage
+     | Change all Jammer orbs to Light orbs, Deal 150% damage
      | (5912:92) Six-Bone Sickle
      | Spawn 6 random Jammer orbs, Deal 100% damage
    | group:
@@ -37,7 +37,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (5913:48) Jaws of Divine Justice
-     | Change Jammer to Light, Deal 150% damage
+     | Change all Jammer orbs to Light orbs, Deal 150% damage
      | (5912:92) Six-Bone Sickle
      | Spawn 6 random Jammer orbs, Deal 100% damage
  | group:
@@ -49,7 +49,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (5913:48) Jaws of Divine Justice
-     | Change Jammer to Light, Deal 150% damage
+     | Change all Jammer orbs to Light orbs, Deal 150% damage
      | condition: 50% chance, when required attributes on board
      | (5914:92) Roar in the Black Mist
      | Spawn 2 random Jammer orbs, Deal 80% damage
@@ -62,7 +62,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (5913:48) Jaws of Divine Justice
-     | Change Jammer to Light, Deal 150% damage
+     | Change all Jammer orbs to Light orbs, Deal 150% damage
      | condition: 50% chance, when required attributes on board
      | (5914:92) Roar in the Black Mist
      | Spawn 2 random Jammer orbs, Deal 80% damage

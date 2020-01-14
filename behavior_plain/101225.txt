@@ -26,7 +26,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #8: ESOrbChangeAttack(48:1411) -> Crimson Dragonflame
-Change Random to Fire, Deal 10% damage
+Change a random attribute to Fire orbs, Deal 10% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -38,7 +38,7 @@ Branch on flag & 4, target rnd 14
 flag SET 0b111
 
 #12: ESOrbChangeAttack(48:1412) -> Crimson Dragonflame
-Change Random to Fire, Deal 25% damage
+Change a random attribute to Fire orbs, Deal 25% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,7 +50,7 @@ Branch on flag & 8, target rnd 18
 flag SET 0b1111
 
 #16: ESOrbChangeAttack(48:1413) -> Crimson Dragonflame
-Change Random to Fire, Deal 50% damage
+Change a random attribute to Fire orbs, Deal 50% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -62,7 +62,7 @@ Branch on flag & 16, target rnd 22
 flag SET 0b11111
 
 #20: ESOrbChangeAttack(48:1414) -> Crimson Dragonflame
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -71,7 +71,7 @@ end_turn
 flag UNSET 0b11110
 
 #23: ESOrbChangeAttack(48:1415) -> Flame Emperor
-Change Random to Fire, Deal 500% damage
+Change a random attribute to Fire orbs, Deal 500% damage
 
 #24: ESAttributeResist(72:8246) -> Lifive Fire Halved
 Reduce damage from Fire attrs by 50%

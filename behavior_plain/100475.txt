@@ -20,7 +20,7 @@ Delay active skills by 1~3 turns
 end_turn
 
 #6: ESAttackMultihit(15:5564) -> Evil Slash
-Condition: 40% chance when < 35% hp (ai:40 rnd:0)
+Condition: 40% chance when < 35% HP (ai:40 rnd:0)
 Deal 180% damage (6 hits, 30% each)
 
 #7: ESBindAttribute(2:5563) -> Water Bind

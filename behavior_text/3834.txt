@@ -35,11 +35,11 @@ level: 1
    | group:
    | condition: turn 6 while HP > 49
      | (7886:104) Hmph!
-     | 2x1 cloud appear for 1 turn at random location, Deal 190% damage
+     | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
    | group:
    | condition: turn 7 while HP > 49
      | (7890:83) Whoa... + Tough guy, huh! + Now we're getting somewhere!
-     | Do nothing + Player recover 100% hp + Increase damage to 150% for the next 999 turns
+     | Do nothing + Player recover 100% HP + Increase damage to 150% for the next 999 turns
    | group:
      | (7891:94) Left yourself wide open!
      | Lock all Jammer orbs, Deal 250% damage
@@ -56,13 +56,13 @@ level: 1
      | (7895:109) Hyah!
      | Random 2 orbs change every 1.0s for 1 turn, Deal 180% damage
      | (7896:104) I don't think so!
-     | 2x1 cloud appear for 1 turn at random location, Deal 190% damage
+     | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 39
      | (7890:83) Whoa... + Tough guy, huh! + Now we're getting somewhere!
-     | Do nothing + Player recover 100% hp + Increase damage to 150% for the next 999 turns
+     | Do nothing + Player recover 100% HP + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 2 while HP > 39
      | (7881:50) Have at you!
@@ -86,17 +86,17 @@ level: 1
    | group:
    | condition: turn 7 while HP > 39
      | (7886:104) Hmph!
-     | 2x1 cloud appear for 1 turn at random location, Deal 190% damage
+     | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
  | group:
  | condition: hp <= 39
    | group:
    | condition: always turn 1
      | (7880:83) I'm no pushover, you know. Scared yet? + Well, let's continue!
-     | Enemy recover 30% hp + Lock all orbs
+     | Enemy recover 30% HP + Lock all orbs
    | group:
    | condition: turn 2 while HP > 4
      | (7890:83) Whoa... + Tough guy, huh! + Now we're getting somewhere!
-     | Do nothing + Player recover 100% hp + Increase damage to 150% for the next 999 turns
+     | Do nothing + Player recover 100% HP + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 3 while HP > 4
      | (7885:109) Hah!
@@ -104,7 +104,7 @@ level: 1
    | group:
    | condition: turn 4 while HP > 4
      | (7886:104) Hmph!
-     | 2x1 cloud appear for 1 turn at random location, Deal 190% damage
+     | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
  | group:
  | condition: hp <= 4
    | group:

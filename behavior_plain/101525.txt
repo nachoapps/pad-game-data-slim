@@ -20,7 +20,7 @@ Voids status ailments for 10 turns
 end_turn
 
 #6: ESAttackUPCooldown(19:1379) -> Honorable Dragon's Roar
-Condition: When < 85% hp (ai:100 rnd:0)
+Condition: When < 85% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -28,7 +28,7 @@ Branch on hp < 50, target rnd 10
 
 #8: ESOrbChangeAttack(48:1378) -> Honorable Dragon Cannon
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 300% damage
+Change a random attribute to Heal orbs, Deal 300% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -47,8 +47,8 @@ end_turn
 
 #14: ESOrbChangeAttack(48:1378) -> Honorable Dragon Cannon
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 300% damage
+Change a random attribute to Heal orbs, Deal 300% damage
 
 #15: ESOrbChangeAttack(48:1380) -> Gold Coin Throw
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Heal to Jammer, Deal 50% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change all Heal orbs to Jammer orbs, Deal 50% damage

@@ -21,7 +21,7 @@ Spawn 3 random Water orbs, Deal 20% damage
 
 #6: ESOrbChangeSingle(4:5107) -> Guard Stance-Water
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Fire to Heal
+Change all Fire orbs to Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

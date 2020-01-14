@@ -37,7 +37,7 @@ end_turn
 
 #11: ESRecoverEnemy86(86:9951) -> Dia
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
-Enemy recover 30% hp
+Enemy recover 30% HP
 
 #12: ESBindAttack(63:9950) -> Zio
 Condition: 50% chance (ai:50 rnd:0)

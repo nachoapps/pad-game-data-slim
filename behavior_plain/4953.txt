@@ -38,7 +38,7 @@ Player -75% HP
 
 #10: ESOrbChangeAttack(48:11977) -> あっちいズラよ～！
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

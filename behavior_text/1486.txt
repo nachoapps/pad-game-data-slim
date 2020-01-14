@@ -11,7 +11,7 @@ level: 5
  | group:
    | condition: 50% chance
    | (1358:48) ワープホイッスル
-   | Change Random to Jammer, Deal 75% damage
+   | Change a random attribute to Jammer orbs, Deal 75% damage
  | group:
  | condition: turn 1, hp <= 49
    | (1357:65) 超魔眼力

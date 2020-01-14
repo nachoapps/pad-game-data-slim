@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (5495:104) Giant Smoke Bomb
- | Row of cloud appear for 1 turn at random location
+ | A row of clouds appears for 1 turn at a random location
  group:
  | group:
    | (5496:77) Fire Flight

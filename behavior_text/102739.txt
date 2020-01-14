@@ -20,7 +20,7 @@ level: 1
  | group:
  | condition: hp <= 74
    | (4805:83) Flame Eating Net + Scold
-   | Enemy recover 10% hp + Player -99% HP
+   | Enemy recover 10% HP + Player -99% HP
  | group:
  | condition: hp <= 49
    | group:

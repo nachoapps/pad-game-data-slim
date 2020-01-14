@@ -13,14 +13,14 @@ Branch on player_cards HAS [2744], target rnd 4
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13686) -> Miséricorde
-	Movetime 150% for 20 turns
+	Movetime +150% for 20 turns
 	[1] ESAbsorbCombo(67:13687) -> Diadème de la Reine
 	Absorb damage when combos <= 8 for 999 turns
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13686) -> Miséricorde
-	Movetime 150% for 20 turns
+	Movetime +150% for 20 turns
 	[1] ESAbsorbCombo(67:13689) -> Your humanity is meaningless to me.
 	Absorb damage when combos <= 8 for 999 turns
 
@@ -36,7 +36,7 @@ Branch on hp < 10, target rnd 23
 
 #7: ESCloud(104:5980) -> Siège de Brouillard
 Condition: One-time use (ai:100 rnd:0) (cost: 32)
-2x2 cloud appear for 1 turn at random location, Deal 140% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 140% damage
 
 #8: ESBlindStickyFixed(98:5981) -> Lame Foncée
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
@@ -50,21 +50,21 @@ flag SET 0b1
 
 #11: ESRecoverEnemy86(86:5982) -> Got tired and fell asleep
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #12: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
 
 #13: ESRecoverEnemy86(86:5983) -> Sound asleep
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Enemy recover 20% hp
+Enemy recover 20% HP
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
 
 #15: ESRecoverEnemy86(86:5984) -> Sound asleep
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Enemy recover 20% hp
+Enemy recover 20% HP
 
 #16: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
@@ -73,7 +73,7 @@ Branch on hp < 20, target rnd 25
 flag SET 0b11
 
 #18: SkillSet:
-	Condition: When < 99% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 99% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESInactivity66(66:5985) -> Woke up
 	Do nothing
 	[1] ESAttackUPRemainingEnemies(17:5987) -> Sorry about that, let's continue!
@@ -88,7 +88,7 @@ flag SET 0b11
 
 #20: ESCloud(104:5994) -> Siège de Brouillard
 Condition: 50% chance (ai:50 rnd:0)
-2x2 cloud appear for 1 turn at random location, Deal 140% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 140% damage
 
 #21: ESBlindStickyFixed(98:5995) -> Lame Foncée
 Blind orbs in specific positions for 1 turn, Deal 140% damage

@@ -23,7 +23,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (5512:104) Giant Smoke Screen
-     | 6x2 cloud appear for 1 turn at random location
+     | A 6×2 rectangle of clouds appears for 1 turn at a random location
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | (5513:15) Coin Throw

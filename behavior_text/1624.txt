@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 49
      | (4601:83) Time Illusion + Termination's Guidance
-     | Movetime -1s for 5 turns + Change Random 3 to Poison, Deal 100% damage
+     | Movetime -1s for 5 turns + Change 3 random orbs to Poison orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | condition: when required attributes on board
@@ -26,7 +26,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4600:64) Termination's Guidance
-     | Change Random 3 to Poison, Deal 100% damage
+     | Change 3 random orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 2 while HP > 9
      | (4601:83) Time Illusion + Termination's Guidance
-     | Movetime -1s for 5 turns + Change Random 3 to Poison, Deal 100% damage
+     | Movetime -1s for 5 turns + Change 3 random orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: hp <= 9
    | (4607:15) Space-Time Destruction

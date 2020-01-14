@@ -27,13 +27,13 @@ end_turn
 
 #8: ESRecoverEnemyAlly(52:3422) -> Friendly Thought
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
-Enemy ally recover 45% hp
+Enemy ally recover 45% HP
 
 #9: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 70, target rnd 16
 
 #10: ESGravity(50:3428) -> Wonder Bark
-Condition: When < 10% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 10% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Player -100% HP
 
 #11: ESBindAttack(63:3423) -> Play-Bite
@@ -62,5 +62,5 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #18: ESDamageShield(74:3425) -> Stay
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Reduce damage from all sources by 30% for 5 turns

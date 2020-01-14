@@ -65,7 +65,7 @@ Absorb Dark damage for 3 turns
 end_turn
 
 #19: ESDebuffMovetime(39:8701) -> Guardian Flame
-Movetime 150% for 5 turns
+Movetime +150% for 5 turns
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

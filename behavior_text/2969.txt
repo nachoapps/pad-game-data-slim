@@ -41,7 +41,7 @@ level: 1
    | group:
    | condition: turn 6 while HP > 49
      | (4586:86) Time Leap
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: turn 7 while HP > 49
      | (4587:83) Continuous Border + Time Warp
@@ -86,7 +86,7 @@ level: 1
    | group:
    | condition: turn 7 while HP > 19
      | (4586:86) Time Leap
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: turn 8 while HP > 19
      | (4587:83) Continuous Border + Time Warp
@@ -139,7 +139,7 @@ level: 7
    | group:
    | condition: turn 6 while HP > 49
      | (4586:86) Time Leap
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: turn 7 while HP > 49
      | (4587:83) Continuous Border + Time Warp
@@ -184,7 +184,7 @@ level: 7
    | group:
    | condition: turn 7 while HP > 19
      | (4586:86) Time Leap
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: turn 8 while HP > 19
      | (4587:83) Continuous Border + Time Warp

@@ -32,7 +32,7 @@ level: 1
    | Absorb Water and Wood damage for 1 turn + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
    | condition: 25% chance
    | (12302:83) Bellows of the Smelting Furnace + Sacred Fire Dust
-   | Absorb Water and Light damage for 1 turn + Change Random to Jammer, Deal 100% damage
+   | Absorb Water and Light damage for 1 turn + Change a random attribute to Jammer orbs, Deal 100% damage
    | condition: 25% chance
    | (12303:83) Bellows of the Smelting Furnace + Incineration
    | Absorb Wood and Dark damage for 1 turn + Change the 2nd and 4th rows to Fire orbs, Deal 95% damage
@@ -42,7 +42,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 9, hp <= 50
    | (12298:83) Ashes + Sacrifice to the Furnace
-   | Jammer skyfall +20% for 10 turns + Rcv 50% for 10 turns
+   | Jammer skyfall +20% for 10 turns + RCV +50% for 10 turns
  | group:
  | condition: hp <= 9
    | (12309:85) Burn it all!

@@ -35,7 +35,7 @@ level: 4
      | (5960:79) Scythe of Divine Judgment
      | Change the 1st row to Jammer orbs, Deal 120% damage
      | (5961:61) Dead Gift
-     | Change Random 2 to Mortal Poison
+     | Change 2 random orbs to Mortal Poison orbs
  | group:
  | condition: hp <= 49
    | group:
@@ -45,15 +45,15 @@ level: 4
    | group:
    | condition: turn 2
      | (5965:61) 3
-     | Change Random 3 to Mortal Poison
+     | Change 3 random orbs to Mortal Poison orbs
    | group:
    | condition: turn 3
      | (5966:61) 2
-     | Change Random 3 to Mortal Poison
+     | Change 3 random orbs to Mortal Poison orbs
    | group:
    | condition: turn 4
      | (5967:61) 1
-     | Change Random 3 to Mortal Poison
+     | Change 3 random orbs to Mortal Poison orbs
    | group:
      | (5968:15) Catastrophe
      | Deal 2000% damage (2 hits, 1000% each)

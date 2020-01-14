@@ -9,12 +9,12 @@ approved: False
 level: 1
  type: PREEMPT
  | (826:55) しっかり体調を戻せ
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 60% chance
    | (828:48) まぁよいわ
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 24, hp <= 74
    | (827:8) おぬし　なかなか強いな

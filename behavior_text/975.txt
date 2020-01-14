@@ -9,20 +9,20 @@ approved: False
 level: 5
  type: PREEMPT
  | (740:48) I'll Stomp You Under My Heel!
- | Change Random to Heal, Deal 150% damage
+ | Change a random attribute to Heal orbs, Deal 150% damage
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (741:56) Honey Poison
-     | Change Heal to Poison
+     | Change all Heal orbs to Poison orbs
      | (738:48) Blue Slash
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (740:48) I'll Stomp You Under My Heel!
-     | Change Random to Heal, Deal 150% damage
+     | Change a random attribute to Heal orbs, Deal 150% damage
  | group:
  | condition: hp <= 59
    | group:
@@ -32,14 +32,14 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (740:48) I'll Stomp You Under My Heel!
-     | Change Random to Heal, Deal 150% damage
+     | Change a random attribute to Heal orbs, Deal 150% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (741:56) Honey Poison
-     | Change Heal to Poison
+     | Change all Heal orbs to Poison orbs
      | (738:48) Blue Slash
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | group:

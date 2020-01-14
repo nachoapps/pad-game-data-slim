@@ -31,7 +31,7 @@ level: 2
  | condition: hp <= 79
    | condition: 20% chance
    | (7933:83) It's putting some back into it + Sundial
-   | Do nothing + Change Random to Heal, Deal 150% damage
+   | Do nothing + Change a random attribute to Heal orbs, Deal 150% damage
    | condition: 20% chance
    | (7934:83) It's putting some back into it + Sea Draco Summon-Wt & Wd
    | Do nothing + Change all orbs to Water and Wood, Deal 150% damage

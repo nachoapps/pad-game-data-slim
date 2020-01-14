@@ -32,7 +32,7 @@ flag SET 0b11
 
 #8: SkillSet:
 	[0] ESJammerChangeRandom(13:6444) -> Fragile Fantasy
-	Change Random 3 to Jammer
+	Change 3 random orbs to Jammer orbs
 	[1] ESBindSkill(14:6445) -> Request for Peace
 	Bind active skills for 10 turns
 
@@ -40,25 +40,25 @@ flag SET 0b11
 end_turn
 
 #10: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDamageShield(74:6441) -> Merciful Protection
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESBindAwoken(88:6447) -> Sweet Slumber
 	Bind awoken skills for 1 turn
 
 #11: ESBindSkill(14:6448) -> Request for Peace
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind active skills for 10 turns
 
 #12: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESJammerChangeRandom(13:6444) -> Fragile Fantasy
-	Change Random 3 to Jammer
+	Change 3 random orbs to Jammer orbs
 	[1] ESOrbLock(94:6450) -> World Cleansing
 	Lock all orbs
 
 #13: ESAttackMultihit(15:6451) -> Creation
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)
 
 #14: ESBranchFlag(43:10) -> ESBranchFlag
@@ -68,11 +68,11 @@ Branch on flag & 4, target rnd 19
 flag SET 0b111
 
 #16: ESOrbChangeAttack(48:6452) -> Celestial Purification
-Change Jammer to Heal, Deal 360% damage
+Change all Jammer orbs to Heal orbs, Deal 360% damage
 
 #17: SkillSet:
 	[0] ESOrbChangeAttack(48:6454) -> First Ripples of Life
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 	[1] ESBombFixedSpawn(103:6475) -> Young Dragon's Explosive Array
 	Spawn Bomb orbs in the specified positions
 
@@ -86,13 +86,13 @@ Branch on flag & 8, target rnd 24
 flag SET 0b1111
 
 #21: ESOrbChangeAttack(48:6452) -> Celestial Purification
-Change Jammer to Heal, Deal 360% damage
+Change all Jammer orbs to Heal orbs, Deal 360% damage
 
 #22: SkillSet:
 	[0] ESDamageShield(74:6441) -> Merciful Protection
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESJammerChangeRandom(13:6444) -> Fragile Fantasy
-	Change Random 3 to Jammer
+	Change 3 random orbs to Jammer orbs
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -101,11 +101,11 @@ end_turn
 flag UNSET 0b1100
 
 #25: ESOrbChangeAttack(48:6452) -> Celestial Purification
-Change Jammer to Heal, Deal 360% damage
+Change all Jammer orbs to Heal orbs, Deal 360% damage
 
 #26: SkillSet:
 	[0] ESOrbChangeAttack(48:6454) -> First Ripples of Life
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 	[1] ESSkillDelay(89:6455) -> Young Dragon Blast
 	Delay active skills by 4 turns
 

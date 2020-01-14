@@ -24,7 +24,7 @@ Branch on hp < 30, target rnd 11
 
 #7: ESOrbChangeAttack(48:2833) -> Aqua Sphere
 Condition: 40% chance (ai:0 rnd:40)
-Change Random to Water, Deal 130% damage
+Change a random attribute to Water orbs, Deal 130% damage
 
 #8: ESSkillDelay(89:2834) -> Cold Scythe
 Condition: 40% chance (ai:0 rnd:40)

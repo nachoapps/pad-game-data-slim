@@ -23,10 +23,10 @@ flag SET 0b1
 Branch on player_cards HAS [650, 651, 2948], target rnd 8
 
 #7: ESRecoverPlayer(55:4725) -> I am very happy!
-Player recover 100% hp
+Player recover 100% HP
 
 #8: ESRecoverPlayer(55:4732) -> Please make me happy ♪
-Player recover 100% hp
+Player recover 100% HP
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

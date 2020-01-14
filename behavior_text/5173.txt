@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: turn 1
      | (12702:83) The beginning is one thought + So old, everyone has forgotten
-     | 2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -3s for 3 turns, Deal 100% damage
    | group:
    | condition: turn 2
      | (12705:83) From many seas swirling together + The world was born
@@ -38,7 +38,7 @@ level: 1
    | group:
    | condition: turn 6
      | (12717:83) Time flows again... + And I could dream
-     | Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+     | Reduce damage from all sources by 50% for 5 turns + Change a random attribute to Jammer orbs, Deal 100% damage
    | group:
    | condition: turn 7
      | (12720:83) Outside this cage I grasped thoughts + And pursued a visible truth
@@ -54,7 +54,7 @@ level: 1
    | group:
    | condition: turn 10
      | (12702:83) The beginning is one thought + So old, everyone has forgotten
-     | 2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -3s for 3 turns, Deal 100% damage
    | group:
    | condition: turn 11
      | (12705:83) From many seas swirling together + The world was born
@@ -74,7 +74,7 @@ level: 1
    | group:
    | condition: turn 15
      | (12717:83) Time flows again... + And I could dream
-     | Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+     | Reduce damage from all sources by 50% for 5 turns + Change a random attribute to Jammer orbs, Deal 100% damage
    | group:
    | condition: turn 16
      | (12720:83) Outside this cage I grasped thoughts + And pursued a visible truth
@@ -89,4 +89,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (12762:86) One Thousand and One Nights
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

@@ -10,7 +10,7 @@ level: 4
  type: PREEMPT
  | condition: when 789, 790, 2404, 3122 on team
  | (8597:105) Resonance of Cockatrice
- | Rcv 200% for 5 turns
+ | RCV +200% for 5 turns
  | (8598:66) ♪
  | Do nothing
  group:
@@ -27,7 +27,7 @@ level: 4
    | (1:82) Disable Skill
    | Deal 100% damage
    | (8600:104) Sweet Temptation
-   | 2x1 cloud appear for 1 turn at random location
+   | A 2×1 rectangle of clouds appears for 1 turn at a random location
  | group:
    | condition: 80% chance
    | (1:82) Disable Skill

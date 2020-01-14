@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESOrbChangeAttack(48:9958) -> Agidyne
-Change Random to Jammer, Deal 130% damage
+Change a random attribute to Jammer orbs, Deal 130% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -39,7 +39,7 @@ Change the 4th and 5th rows to Fire and Jammer orbs, Deal 100% damage
 
 #11: ESOrbChangeAttack(48:9958) -> Agidyne
 Condition: 40% chance (ai:0 rnd:40)
-Change Random to Jammer, Deal 130% damage
+Change a random attribute to Jammer orbs, Deal 130% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -75,7 +75,7 @@ Deal 120% damage
 
 #21: ESOrbChangeAttack(48:9958) -> Agidyne
 Condition: 30% chance (ai:0 rnd:30)
-Change Random to Jammer, Deal 130% damage
+Change a random attribute to Jammer orbs, Deal 130% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -35,7 +35,7 @@ counter = 8
 	[0] ESRandomSpawn(92:10455) -> The second one...
 	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
 	[1] ESCloud(104:10456) -> Some Clouds...
-	1x3 cloud appear for 1 turn at random location
+	A 1×3 rectangle of clouds appears for 1 turn at a random location
 
 #8: ESSetCounter(25:15) -> ESSetCounter
 counter = 2
@@ -45,7 +45,7 @@ counter = 2
 	[0] ESRandomSpawn(92:10455) -> The second one...
 	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
 	[1] ESCloud(104:10456) -> Some Clouds...
-	1x3 cloud appear for 1 turn at random location
+	A 1×3 rectangle of clouds appears for 1 turn at a random location
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -129,7 +129,7 @@ Branch on counter <= 0, target rnd 32
 	[0] ESInvulnerableOff(121:10461) -> The examination is over!
 	Remove damage immunity effect
 	[1] ESCloud(104:10464) -> You seem to hate Clouds
-	2x3 cloud appear for 15 turns at random location
+	A 2×3 rectangle of clouds appears for 15 turns at a random location
 	[2] ESVoidShield(71:10472) -> Let's overcome this!
 	Void damage >= 20000000 for 30 turns
 
@@ -138,7 +138,7 @@ Branch on counter <= 0, target rnd 32
 	[0] ESInvulnerableOff(121:10461) -> The examination is over!
 	Remove damage immunity effect
 	[1] ESCloud(104:10465) -> You seem to hate changing Orbs & Clouds
-	1x2 cloud appear for 15 turns at 3rd row, 2nd column
+	A 1×2 rectangle of clouds appears for 15 turns at 3rd row, 2nd column
 	[2] ESSpinnersFixed(110:10473) -> Bring it together
 	Specific orbs change every 1.0s for 15 turns
 	[3] ESVoidShield(71:10479) -> Let's overcome this!
@@ -171,19 +171,19 @@ Branch on counter <= 0, target rnd 32
 	[1] ESBlindStickyFixed(98:10468) -> You seem to hate Darkness & Clouds
 	Blind orbs in specific positions for 15 turns
 	[2] ESCloud(104:10476) -> Bring it together
-	2x1 cloud appear for 15 turns at 2nd row, 2nd column
+	A 2×1 rectangle of clouds appears for 15 turns at 2nd row, 2nd column
 	[3] ESVoidShield(71:10479) -> Let's overcome this!
 	Void damage >= 20000000 for 30 turns
 
 #36: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESChangeAttribute(46:10496) -> That's all for now!
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 	[1] ESAttackMultihit(15:10497) -> Please come again!
 	Deal 12000% damage (2 hits, 6000% each)
 
 #37: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESInactivity66(66:10493) -> You're in great condition!
 	Do nothing
 	[1] ESDebuffMovetime(39:10494) -> I'm going to mess with you a little
@@ -213,14 +213,14 @@ end_turn
 	Delay active skills by 99 turns
 
 #43: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESChangeAttribute(46:10496) -> That's all for now!
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 	[1] ESAttackMultihit(15:10497) -> Please come again!
 	Deal 12000% damage (2 hits, 6000% each)
 
 #44: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESInactivity66(66:10493) -> You're in great condition!
 	Do nothing
 	[1] ESDebuffMovetime(39:10494) -> I'm going to mess with you a little
@@ -248,14 +248,14 @@ end_turn
 	Delay active skills by 99 turns
 
 #49: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESChangeAttribute(46:10496) -> That's all for now!
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 	[1] ESAttackMultihit(15:10497) -> Please come again!
 	Deal 12000% damage (2 hits, 6000% each)
 
 #50: ESOrbSealRow(100:10499) -> Time to sleep!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Seal the 1st and 5th rows for 5 turns
 
 #51: ESBlindStickyRandom(97:10501) -> Get used to the dark!
@@ -264,7 +264,7 @@ Blind random 5 orbs for 1 turn, Deal 330% damage
 
 #52: ESCloud(104:10502) -> Get used to the Clouds!
 Condition: 20% chance (ai:0 rnd:20)
-2x2 cloud appear for 1 turn at random location, Deal 330% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 330% damage
 
 #53: ESSpinnersRandom(109:10503) -> Get used to the changing Orbs!
 Condition: 20% chance (ai:0 rnd:20)

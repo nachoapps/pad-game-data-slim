@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: turn 2
    | (14387:48) Shadowed Moon
-   | Change Random to Dark, Deal 100% damage
+   | Change a random attribute to Dark orbs, Deal 100% damage
  | group:
  | condition: turn 3
    | (14388:15) Nocturnal Blades

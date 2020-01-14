@@ -32,19 +32,19 @@ Reduce damage from all sources by 50% for 3 turns
 end_turn
 
 #10: ESBindAttack(63:5443) -> Flying Headbutt
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 4)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 4)
 Bind player leader for 1 turn, Deal 100% damage
 
 #11: ESBlindStickyFixed(98:5444) -> Flying Headbutt
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Blind orbs in specific positions for 1 turn
 
 #12: ESBindAttack(63:5445) -> Brutal Art: Canvas Presser
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind both leaders for 1 turn, Deal 100% damage
 
 #13: ESRowSpawnMulti(79:5446) -> Muscle Inferno
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change the 3rd row to Fire orbs, Deal 250% damage
 
 #14: ESBranchFlag(43:10) -> ESBranchFlag
@@ -54,7 +54,7 @@ Branch on flag & 2, target rnd 17
 flag SET 0b11
 
 #16: ESOrbChangeAttack(48:5440) -> Savanna Punch
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #17: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 20

@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESAbsorbAttribute(53:3811) -> Sangen Mechanism
 	Absorb Light and Dark damage for 5 turns
 	[1] ESOrbChangeAttack(48:3819) -> Heal-to-Blue Twist Puppetry
-	Change Heal to Water, Deal 90% damage
+	Change all Heal orbs to Water orbs, Deal 90% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -30,14 +30,14 @@ Branch on hp < 50, target rnd 11
 	[0] ESChangeAttribute(46:3813) -> Elemental Flip
 	Change own attribute to random one of Fire or Water
 	[1] ESOrbChangeAttack(48:3817) -> Green-to-Red Twist Puppetry
-	Change Wood to Fire, Deal 110% damage
+	Change all Wood orbs to Fire orbs, Deal 110% damage
 
 #8: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESChangeAttribute(46:3813) -> Elemental Flip
 	Change own attribute to random one of Fire or Water
 	[1] ESOrbChangeAttack(48:3819) -> Heal-to-Blue Twist Puppetry
-	Change Heal to Water, Deal 90% damage
+	Change all Heal orbs to Water orbs, Deal 90% damage
 
 #9: SkillSet:
 	Condition: 35% chance (ai:0 rnd:35)
@@ -81,4 +81,4 @@ nothing
 	[0] ESChangeAttribute(46:3814) -> Elemental Flip
 	Change own attribute to random one of Water or Wood
 	[1] ESOrbChangeAttack(48:3820) -> Heal-to-Green Twist Puppetry
-	Change Heal to Wood, Deal 90% damage
+	Change all Heal orbs to Wood orbs, Deal 90% damage

@@ -39,7 +39,7 @@ Branch on flag & 1, target rnd 12
 flag SET 0b1
 
 #11: ESPoisonChangeRandomAttack(64:4401) -> APTX4869
-Change Random 5 to Poison, Deal 10% damage
+Change 5 random orbs to Poison orbs, Deal 10% damage
 
 #12: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1

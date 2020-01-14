@@ -31,7 +31,7 @@ level: 1
    | group:
    | condition: turn 1
      | (15942:83) The All-in-One + The One-in-All
-     | Enemy recover 50% hp + Increase damage to 500% for the next 1 turn
+     | Enemy recover 50% HP + Increase damage to 500% for the next 1 turn
    | group:
      | (15940:85) Overflowing Lights
      | Change all orbs to Fire, Heal, Jammer, and Poison, Deal 200% damage

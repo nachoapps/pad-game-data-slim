@@ -29,7 +29,7 @@ end_turn
 Branch on hp < 50, target rnd 11
 
 #9: ESOrbChangeAttackBits(108:10659) -> Devotion to a Great Man
-Change Heal to Dark, Deal 80% damage
+Change all Heal orbs to Dark orbs, Deal 80% damage
 
 #10: ESAttackMultihit(15:10692) -> Swordsmanship
 Deal 100% damage

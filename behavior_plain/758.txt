@@ -29,7 +29,7 @@ Branch on hp < 60, target rnd 11
 
 #8: ESOrbChangeAttack(48:3098) -> Aqua Jet
 Condition: 70% chance (ai:70 rnd:0)
-Change Random to Water, Deal 120% damage
+Change a random attribute to Water orbs, Deal 120% damage
 
 #9: ESAttackMultihit(15:3100) -> Crunch Fang
 Condition: 70% chance (ai:70 rnd:0)

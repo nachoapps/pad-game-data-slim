@@ -20,7 +20,7 @@ flag SET 0b1
 Absorb Wood damage for 3 turns
 
 #6: ESBlind62(62:2300) -> Deep Blue
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Blind all orbs on the board, Deal 300% damage
 
 #7: ESColumnSpawnMulti(77:2299) -> Dolphin Jump

@@ -20,7 +20,7 @@ flag SET 0b1
 	[0] ESAbsorbCombo(67:11096) -> Don't get in my way...
 	Absorb damage when combos <= 5 for 999 turns
 	[1] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[2] ESSkyfallLocked(96:11098) -> Warrior God's Call
 	Locked Water and Light skyfall +100% for 10 turns
 
@@ -36,42 +36,42 @@ Branch on hp < 50, target rnd 18
 #9: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11099) -> Thunder!!
 	Change the 2nd column to Light orbs, Deal 95% damage
 
 #10: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11100) -> Thunder!!
 	Change the 3rd column to Light orbs, Deal 95% damage
 
 #11: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11101) -> Thunder!!
 	Change the 4th column to Light orbs, Deal 95% damage
 
 #12: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11102) -> Thunder!!
 	Change the 5th column to Light orbs, Deal 95% damage
 
 #13: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESOrbLock(94:11103) -> Roar, Mjölnir!
 	Lock 10 random orbs, Deal 100% damage
 
 #14: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESCloud(104:11305) -> Harbinger of Thunder
-	Row of cloud appear for 1 turn at random location
+	A row of clouds appears for 1 turn at a random location
 	[1] ESAttackMultihit(15:11104) -> Give me power, Megingjörd!
 	Deal 105% damage (3 hits, 35% each)
 
@@ -125,7 +125,7 @@ flag SET 0b1
 	[0] ESAbsorbCombo(67:11096) -> Don't get in my way...
 	Absorb damage when combos <= 5 for 999 turns
 	[1] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[2] ESSkyfallLocked(96:11098) -> Warrior God's Call
 	Locked Water and Light skyfall +100% for 10 turns
 
@@ -141,42 +141,42 @@ Branch on hp < 50, target rnd 39
 #32: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11099) -> Thunder!!
 	Change the 2nd column to Light orbs, Deal 95% damage
 
 #33: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11100) -> Thunder!!
 	Change the 3rd column to Light orbs, Deal 95% damage
 
 #34: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11101) -> Thunder!!
 	Change the 4th column to Light orbs, Deal 95% damage
 
 #35: SkillSet:
 	Condition: 10% chance (ai:0 rnd:10)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESColumnSpawnMulti(77:11102) -> Thunder!!
 	Change the 5th column to Light orbs, Deal 95% damage
 
 #36: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESOrbLock(94:11103) -> Roar, Mjölnir!
 	Lock 10 random orbs, Deal 100% damage
 
 #37: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESCloud(104:11097) -> Harbinger of Thunder
-	6x2 cloud appear for 1 turn at random location
+	A 6×2 rectangle of clouds appears for 1 turn at a random location
 	[1] ESAttackMultihit(15:11104) -> Give me power, Megingjörd!
 	Deal 105% damage (3 hits, 35% each)
 

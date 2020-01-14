@@ -16,14 +16,14 @@ Branch on level >= 5, target rnd 4
 end_turn
 
 #4: ESAttackUPCooldown(19:1492) -> もうオレこうげきしていいか？
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #5: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8
 
 #6: ESAttackMultihit(15:1491) -> はあっ!!!!
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Deal 150% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -42,5 +42,5 @@ Absorb damage when combos <= 3 for 3 turns
 end_turn
 
 #12: ESAttackMultihit(15:1491) -> はあっ!!!!
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Deal 150% damage

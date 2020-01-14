@@ -26,4 +26,4 @@ level: 5
  | group:
  | condition: hp <= 1
    | (2032:86) Guts!
-   | Enemy recover 49% hp
+   | Enemy recover 49% HP

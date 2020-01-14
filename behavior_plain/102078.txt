@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:2417) -> Ushnisha-Kamala
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Deal 1500% damage
 
 #7: ESBranchHP(29:19) -> ESBranchHP

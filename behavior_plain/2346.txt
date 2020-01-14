@@ -26,7 +26,7 @@ Player -75% HP
 end_turn
 
 #8: ESSkillDelay(89:2590) -> Nyaa!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 1 turn
 
 #9: ESBranchHP(28:18) -> ESBranchHP
@@ -38,7 +38,7 @@ Deal 100% damage
 
 #11: ESJammerChangeRandom(13:2593) -> Monster Hunter 4G Collab Series
 Condition: 20% chance (ai:0 rnd:20)
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

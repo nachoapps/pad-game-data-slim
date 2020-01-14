@@ -18,7 +18,7 @@ level: 1
  | group:
    | condition: 60% chance
    | (8093:48) Shine Blast
-   | Change Dark to Light, Deal 280% damage
+   | Change all Dark orbs to Light orbs, Deal 280% damage
    | (8094:39) Resting Pulse
    | Movetime -1s for 1 turn, Deal 280% damage
  | group:

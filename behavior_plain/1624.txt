@@ -23,11 +23,11 @@ flag SET 0b1
 end_turn
 
 #6: ESSkyfallLocked(96:4606) -> Time Sealing Lock
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Locked random skyfall +30% for 5 turns
 
 #7: ESAttackMultihit(15:4607) -> Space-Time Destruction
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 400% damage (4 hits, 100% each)
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
@@ -40,7 +40,7 @@ flag SET 0b11
 	[0] ESDebuffMovetime(39:4597) -> Time Illusion
 	Movetime -1s for 5 turns
 	[1] ESPoisonChangeRandomAttack(64:4600) -> Termination's Guidance
-	Change Random 3 to Poison, Deal 100% damage
+	Change 3 random orbs to Poison orbs, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -68,7 +68,7 @@ Branch on flag & 8, target rnd 21
 flag SET 0b1111
 
 #19: ESPoisonChangeRandomAttack(64:4600) -> Termination's Guidance
-Change Random 3 to Poison, Deal 100% damage
+Change 3 random orbs to Poison orbs, Deal 100% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

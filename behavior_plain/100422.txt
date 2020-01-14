@@ -31,7 +31,7 @@ Condition: 40% chance (ai:40 rnd:0)
 Deal 200% damage (2 hits, 100% each)
 
 #9: ESOrbChangeAttack(48:645) -> Autumn Leave Dance
-Change Random to Wood, Deal 175% damage
+Change a random attribute to Wood orbs, Deal 175% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

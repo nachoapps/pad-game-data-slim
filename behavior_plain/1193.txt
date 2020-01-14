@@ -34,7 +34,7 @@ Deal 80~120% damage (4~6 hits, 20% each)
 
 #9: ESOrbChangeAttack(48:3874) -> Spiritual Ninja Art: Wt to Wd
 Condition: 25% chance (ai:0 rnd:25)
-Change Water to Wood, Deal 100% damage
+Change all Water orbs to Wood orbs, Deal 100% damage
 
 #10: ESColumnSpawnMulti(77:3875) -> Fuma Shuriken Attack - Twin Shuriken
 Condition: 25% chance (ai:0 rnd:25)

@@ -12,7 +12,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Absorb Wood damage for 3 turns
 
 #3: ESAttackUPRemainingEnemies(17:15349) -> ここで終わらせてくれる
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 5 turns
 
 #4: ESAttackMultihit(15:15348) -> 噛み砕く

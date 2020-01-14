@@ -21,15 +21,15 @@ Branch on level <= 3, target rnd 15
 	Bind active skills for 3 turns
 
 #5: ESVoidShield(71:8524) -> How sad
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Void damage >= 500000 for 3 turns
 
 #6: ESAttackUPRemainingEnemies(17:8531) -> Disappear from my sight.
-Condition: When < 30% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 1000% for the next 999 turns
 
 #7: ESBoardChangeAttackBits(85:8532) -> Nuclear Fusion
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change all orbs to Fire, Deal 1000% damage
 
 #8: ESColumnSpawnMulti(77:8525) -> Stationary Transmutation

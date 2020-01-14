@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (10881:4) Bitten Fruit
-   | Change Heal to Poison
+   | Change all Heal orbs to Poison orbs
    | condition: 50% chance
    | (10882:1) Completely Consumed Fruit
    | Bind 1 random card for 10 turns
@@ -26,7 +26,7 @@ level: 1
    | group:
    | condition: turn 1
      | (10883:86) Dwarven Rebirth
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | (10884:15) Raging Dwarf
      | Deal 350% damage (7 hits, 50% each)

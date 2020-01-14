@@ -23,12 +23,12 @@ end_turn
 Branch on hp < 50, target rnd 11
 
 #7: ESBoardChangeAttackBits(85:14537) -> Flamboyant Flower Flourish
-Condition: 50% chance when < 10% hp (ai:50 rnd:0)
+Condition: 50% chance when < 10% HP (ai:50 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison, Deal 150% damage
 
 #8: ESOrbChangeAttackBits(108:14535) -> Antivenom Shot
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Poison to Heal, Deal 120% damage
+Change all Poison orbs to Heal orbs, Deal 120% damage
 
 #9: ESAttackMultihit(15:14534) -> Vivid Thorn
 Deal 90% damage (3 hits, 30% each)

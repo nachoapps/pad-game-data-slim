@@ -15,7 +15,7 @@ level: 3
  | condition: hp <= 74
    | condition: 70% chance
    | (693:48) Freezing Breath
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
    | (249:15) Blizzard Breath
    | Deal 100% damage (2 hits, 50% each)
  | group:

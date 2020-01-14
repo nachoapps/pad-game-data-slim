@@ -45,7 +45,7 @@ Branch on flag & 8, target rnd 15
 flag SET 0b1111
 
 #14: ESPoisonChangeRandomCount(60:868) -> Hydra's Poison Dart
-Change Random 7 to Poison (excluding hearts)
+Change 7 random orbs (excluding hearts) to Poison orbs
 
 #15: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 16, target rnd 18

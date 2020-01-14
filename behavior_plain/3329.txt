@@ -23,25 +23,25 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 25% hp , one-time use (ai:100 rnd:0) (cost: 3)
+	Condition: When < 25% HP , one-time use (ai:100 rnd:0) (cost: 3)
 	[0] ESAttackUPRemainingEnemies(17:6108) -> Glitter Force
 	Increase damage to 200% for the next 999 turns
 	[1] ESRecoverEnemy86(86:6109) -> Remedy
-	Enemy recover 20% hp
+	Enemy recover 20% HP
 
 #7: SkillSet:
-	Condition: When < 25% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 25% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAttackUPRemainingEnemies(17:6108) -> Glitter Force
 	Increase damage to 200% for the next 999 turns
 	[1] ESRecoverEnemy86(86:6109) -> Remedy
-	Enemy recover 20% hp
+	Enemy recover 20% HP
 
 #8: ESAttackMultihit(15:6112) -> Stardust Comet
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 900% damage (9 hits, 100% each)
 
 #9: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESSkyfall(68:6105) -> Mournful Meteor
 	Poison skyfall +30% for 1 turn
 	[1] ESOrbSealRow(100:6106) -> Forbidden Area

@@ -12,15 +12,15 @@ level: 1
  | Reduce damage from Water and Wood attrs by 50%
  type: PREEMPT
  | (3839:83) Sangen Mechanism + Heal-to-Green Twist Puppetry
- | Absorb Light and Dark damage for 5 turns + Change Heal to Wood, Deal 90% damage
+ | Absorb Light and Dark damage for 5 turns + Change all Heal orbs to Wood orbs, Deal 90% damage
  group:
  | group:
    | condition: 40% chance
    | (3840:83) Elemental Flip + Red-to-Blue Twist Puppetry
-   | Change own attribute to random one of Water or Wood + Change Fire to Water, Deal 110% damage
+   | Change own attribute to random one of Water or Wood + Change all Fire orbs to Water orbs, Deal 110% damage
    | condition: 25% chance
    | (3841:83) Elemental Flip + Heal-to-Green Twist Puppetry
-   | Change own attribute to random one of Water or Wood + Change Heal to Wood, Deal 90% damage
+   | Change own attribute to random one of Water or Wood + Change all Heal orbs to Wood orbs, Deal 90% damage
    | condition: 35% chance
    | (3842:83) Elemental Flip + Blue Line Stitch Puppetry
    | Change own attribute to random one of Water or Wood + Change the 3rd row to Water orbs, Deal 100% damage

@@ -17,10 +17,10 @@ level: 1
  | group:
    | condition: 50% chance
    | (11355:86) Bloody Fangs
-   | Enemy recover 10% hp, Deal 110% damage
+   | Enemy recover 10% HP, Deal 110% damage
    | condition: 50% chance
    | (11353:48) Blood Pain
-   | Change Random to Dark, Deal 115% damage
+   | Change a random attribute to Dark orbs, Deal 115% damage
    | (11354:15) Nightmare Raid
    | Deal 130% damage (2 hits, 65% each)
  | group:
@@ -39,4 +39,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (11361:83) I can't be defeated + Don't underestimate me
-   | Enemy recover 100% hp + Mortal Poison skyfall +20% for 1 turn
+   | Enemy recover 100% HP + Mortal Poison skyfall +20% for 1 turn

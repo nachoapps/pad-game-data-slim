@@ -19,10 +19,10 @@ Lock 1 random orb
 
 #5: ESOrbChangeAttack(48:8965) -> Sweeeet Gift
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Heal, Deal 100% damage
+Change a random attribute to Heal orbs, Deal 100% damage
 
 #6: ESOrbChangeAttack(48:8966) -> Bitteeer Gift
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

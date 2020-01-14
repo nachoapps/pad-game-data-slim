@@ -81,7 +81,7 @@ Branch on flag & 8, target rnd 23
 flag SET 0b1111
 
 #22: ESOrbChangeAttack(48:7554) -> Hushed Windweaver
-Change Heal to Wood, Deal 130% damage
+Change all Heal orbs to Wood orbs, Deal 130% damage
 
 #23: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1100
@@ -99,7 +99,7 @@ Branch on flag & 16, target rnd 29
 flag SET 0b11111
 
 #28: ESDebuffMovetime(39:7556) -> Eye of the Storm Dragon
-Movetime 50% for 5 turns
+Movetime +50% for 5 turns
 
 #29: ESBoardChangeAttackBits(85:7557) -> Valiant Gale
 Change all orbs to Wood and Jammer, Deal 3000% damage

@@ -32,11 +32,11 @@ end_turn
 Branch on hp < 50, target rnd 14
 
 #10: ESAttackMultihit(15:2024) -> Decisive Lead
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 200% damage (2 hits, 100% each)
 
 #11: ESAttackMultihit(15:2021) -> Hmm?
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Deal 100% damage
 
 #12: ESAttackMultihit(15:2022) -> You wanna fight?
@@ -52,5 +52,5 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #16: ESGravity(50:2023) -> Revenge Attack
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Player -99% HP

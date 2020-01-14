@@ -112,7 +112,7 @@ Player -99% HP
 flag UNSET 0b100
 
 #26: ESOrbChangeAttack(48:4644) -> Beauty of the Four Seasons
-Change Heal to Water, Deal 80% damage
+Change all Heal orbs to Water orbs, Deal 80% damage
 
 #27: ESRandomSpawn(92:4645) -> Ice Sword
 Spawn 9 random Water orbs, Deal 110% damage

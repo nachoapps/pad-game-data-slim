@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (907:55) Fruity Goodness
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 10
    | (908:48) Strawberry Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 10
    | (909:15) Fruit Basket
@@ -22,7 +22,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 3 of 10
    | (908:48) Strawberry Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 4 of 10
    | (910:15) Fruit Basket
@@ -30,7 +30,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 5 of 10
    | (908:48) Strawberry Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 6 of 10
    | (911:15) Fruit Basket
@@ -38,7 +38,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 7 of 10
    | (908:48) Strawberry Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 8 of 10
    | (912:15) Fruit Basket
@@ -46,7 +46,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 9 of 10
    | (908:48) Strawberry Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 10 of 10
    | (913:15) Fruit Basket

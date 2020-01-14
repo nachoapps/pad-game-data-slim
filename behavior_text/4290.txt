@@ -19,7 +19,7 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 1 times
  | (7327:83) Roar + Enter Fury State + Burrow
- | Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from all sources by 75% for 1 turn
+ | Bind active skills for 3 turns + Enemy recover 60% HP + Reduce damage from all sources by 75% for 1 turn
  | condition: 33% chance
  | (7254:15) Body Slam
  | Deal 1100% damage
@@ -34,25 +34,25 @@ level: 1
  | (7261:15) Burrowed Assault
  | Deal 1500% damage
  | (7278:83) Rage + Horn Gouge
- | Increase damage to 150% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 150% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7279:83) Rage + Springing Burrow
  | Increase damage to 150% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7280:83) Rage + Combo Horn Thrash
  | Increase damage to 150% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7275:83) Rage + Horn Gouge
- | Increase damage to 140% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 140% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7276:83) Rage + Springing Burrow
  | Increase damage to 140% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7277:83) Rage + Combo Horn Thrash
  | Increase damage to 140% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7272:83) Rage + Horn Gouge
- | Increase damage to 130% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 130% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7273:83) Rage + Springing Burrow
  | Increase damage to 130% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7274:83) Rage + Combo Horn Thrash
  | Increase damage to 130% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7269:83) Rage + Horn Gouge
- | Increase damage to 120% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 120% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7270:83) Rage + Springing Burrow
  | Increase damage to 120% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7271:83) Rage + Combo Horn Thrash
@@ -117,7 +117,7 @@ level: 4
  type: UNKNOWN_USE
  | condition: at most 1 times
  | (7327:83) Roar + Enter Fury State + Burrow
- | Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from all sources by 75% for 1 turn
+ | Bind active skills for 3 turns + Enemy recover 60% HP + Reduce damage from all sources by 75% for 1 turn
  | condition: 33% chance
  | (7254:15) Body Slam
  | Deal 1100% damage
@@ -132,25 +132,25 @@ level: 4
  | (7261:15) Burrowed Assault
  | Deal 1500% damage
  | (7278:83) Rage + Horn Gouge
- | Increase damage to 150% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 150% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7279:83) Rage + Springing Burrow
  | Increase damage to 150% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7280:83) Rage + Combo Horn Thrash
  | Increase damage to 150% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7275:83) Rage + Horn Gouge
- | Increase damage to 140% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 140% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7276:83) Rage + Springing Burrow
  | Increase damage to 140% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7277:83) Rage + Combo Horn Thrash
  | Increase damage to 140% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7272:83) Rage + Horn Gouge
- | Increase damage to 130% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 130% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7273:83) Rage + Springing Burrow
  | Increase damage to 130% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7274:83) Rage + Combo Horn Thrash
  | Increase damage to 130% for the next 1 turn + Deal 1000~1500% damage (2~3 hits, 500% each), Deal 1000~1500% damage (2~3 hits, 500% each)
  | (7269:83) Rage + Horn Gouge
- | Increase damage to 120% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+ | Increase damage to 120% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
  | (7270:83) Rage + Springing Burrow
  | Increase damage to 120% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
  | (7271:83) Rage + Combo Horn Thrash

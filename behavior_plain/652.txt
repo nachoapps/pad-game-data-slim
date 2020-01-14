@@ -21,7 +21,7 @@ Reduce damage from all sources by 50% for 2 turns
 end_turn
 
 #6: ESAttackMultihit(15:3279) -> Volcanic Blade
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 400% damage (4 hits, 100% each)
 
 #7: ESAttackMultihit(15:3275) -> Gullinbursti's Charge
@@ -53,4 +53,4 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #15: ESRecoverPlayer(55:3274) -> I'm always on your side!
-Player recover 100% hp
+Player recover 100% HP

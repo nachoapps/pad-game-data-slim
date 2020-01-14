@@ -14,7 +14,7 @@ level: 3
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1171:48) Draconic Blade
-   | Change Water to Fire, Deal 120% damage
+   | Change all Water orbs to Fire orbs, Deal 120% damage
  | group:
  | condition: hp <= 29
    | (1173:15) Mars Daylight

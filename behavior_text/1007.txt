@@ -9,14 +9,14 @@ approved: False
 level: 5
  type: PREEMPT
  | (854:4) Light Orb change
- | Change Dark to Light
+ | Change all Dark orbs to Light orbs
  | (855:4) Light Orb change
- | Change Fire to Light
+ | Change all Fire orbs to Light orbs
  | (861:4) Light Orb change
- | Change Water to Light
+ | Change all Water orbs to Light orbs
  | (862:4) Light Orb change
- | Change Wood to Light
+ | Change all Wood orbs to Light orbs
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (856:48) Flash Edge
- | Change Random to Light, Deal 80% damage
+ | Change a random attribute to Light orbs, Deal 80% damage

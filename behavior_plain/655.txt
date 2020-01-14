@@ -23,7 +23,7 @@ end_turn
 Branch on hp < 50, target rnd 14
 
 #7: ESRandomSpawn(92:3441) -> Heaven Lightning
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn 15 random Jammer orbs, Deal 200% damage
 
 #8: ESBranchCard(90:3454) -> ESBranchCard
@@ -53,7 +53,7 @@ flag SET 0b111
 
 #16: ESRecoverEnemy86(86:3443) -> Megingjord
 Condition: 50% chance (ai:0 rnd:50)
-Enemy recover 30% hp
+Enemy recover 30% HP
 
 #17: ESAbsorbCombo(67:3444) -> Bilskirnir's Divine Protection
 Condition: 50% chance (ai:0 rnd:50)

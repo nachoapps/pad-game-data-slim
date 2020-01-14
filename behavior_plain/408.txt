@@ -5,9 +5,9 @@ start/max counter: 0
 counter increment: 0
 
 #1: ESAttackUPCooldown(19:226) -> Wrath of Flame
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 99 turns
 
 #2: ESAttackMultihit(15:227) -> God Magma Breath
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Deal 150% damage (2 hits, 75% each)

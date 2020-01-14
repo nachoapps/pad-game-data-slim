@@ -17,7 +17,7 @@ level: 4
    | Player -75% HP
    | condition: 50% chance
    | (14884:48) Dragon Stomp
-   | Change Random to Wood, Deal 90% damage
+   | Change a random attribute to Wood orbs, Deal 90% damage
  | group:
  | condition: hp <= 50
    | condition: 50% chance
@@ -28,7 +28,7 @@ level: 4
    | Player -75% HP
    | condition: 50% chance
    | (14884:48) Dragon Stomp
-   | Change Random to Wood, Deal 90% damage
+   | Change a random attribute to Wood orbs, Deal 90% damage
  | group:
  | condition: hp <= 19
    | (14886:15) Planet-Destroying Thunder Breath

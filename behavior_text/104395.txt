@@ -11,7 +11,7 @@ level: 4
  | group:
  | condition: turn 1
    | (9958:48) Agidyne
-   | Change Random to Jammer, Deal 130% damage
+   | Change a random attribute to Jammer orbs, Deal 130% damage
  | group:
    | condition: 20% chance
    | (9960:79) Maragi
@@ -24,7 +24,7 @@ level: 4
    | Change the 4th and 5th rows to Fire and Jammer orbs, Deal 100% damage
    | condition: 40% chance
    | (9958:48) Agidyne
-   | Change Random to Jammer, Deal 130% damage
+   | Change a random attribute to Jammer orbs, Deal 130% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
@@ -46,4 +46,4 @@ level: 4
    | Deal 120% damage
    | condition: 30% chance
    | (9958:48) Agidyne
-   | Change Random to Jammer, Deal 130% damage
+   | Change a random attribute to Jammer orbs, Deal 130% damage

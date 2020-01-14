@@ -20,4 +20,4 @@ level: 4
  | group:
  | condition: turn 1, hp <= 49
    | (8284:7) 食糧補給
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

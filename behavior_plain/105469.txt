@@ -22,7 +22,7 @@ Branch on hp < 50, target rnd 14
 
 #6: ESCloud(104:14138) -> レッドスケル!!出航用意だ！
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-2x2 cloud appear for 3 turns at random location
+A 2×2 square of clouds appears for 3 turns at a random location
 
 #7: ESBindSkill(14:14139) -> 右舷全砲点火用意！
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
@@ -41,7 +41,7 @@ Deal 100% damage (2 hits, 50% each)
 counter = 0
 
 #12: ESOrbChangeAttack(48:14142) -> 撃てェエ!!
-Change Random to Fire, Deal 200% damage
+Change a random attribute to Fire orbs, Deal 200% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

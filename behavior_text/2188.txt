@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Light attrs by 50%
  type: PREEMPT
  | (7834:83) Balance the World + Esenshi
- | Voids status ailments for 999 turns + 1x3 cloud appear for 30 turns at random location
+ | Voids status ailments for 999 turns + A 1×3 rectangle of clouds appears for 30 turns at a random location
  group:
  | group:
    | condition: 33% chance

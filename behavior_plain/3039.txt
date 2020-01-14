@@ -56,9 +56,9 @@ end_turn
 Branch on hp < 10, target rnd 24
 
 #14: SkillSet:
-	Condition: When < 65% hp , one-time use (ai:100 rnd:0) (cost: 4)
+	Condition: When < 65% HP , one-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESRecoverEnemy86(86:5041) -> Is that...
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESDamageShield(74:5042) -> ..all you have?!
 	Reduce damage from all sources by 50% for 2 turns
 

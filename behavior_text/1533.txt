@@ -24,6 +24,6 @@ level: 1
    | Increase damage to 300% for the next 999 turns
  | group:
    | (1887:48) Divine Prison's Searing Heat
-   | Change Dark to Fire, Deal 200% damage
+   | Change all Dark orbs to Fire orbs, Deal 200% damage
    | (1888:48) Divine Prison's Searing Heat
-   | Change Random to Fire, Deal 200% damage
+   | Change a random attribute to Fire orbs, Deal 200% damage

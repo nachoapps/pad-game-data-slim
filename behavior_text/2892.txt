@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 49
      | (7683:83) Keshuon Ring + Painful Retribution
-     | Void damage >= 10000000 for 999 turns + Change Dark and Heal to Jammer and Poison, Deal 290% damage
+     | Void damage >= 10000000 for 999 turns + Change all Dark and Heal orbs to Jammer and Poison orbs, Deal 290% damage
    | group:
    | condition: execute repeatedly, turn 1 of 6
      | (7686:88) Unyielding Chains
@@ -32,7 +32,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (7684:83) Keshuon Ring + Angelus + Painful Retribution
-   | Void damage >= 10000000 for 999 turns + Reduce damage from all sources by 50% for 10 turns + Change Dark and Heal to Jammer and Poison, Deal 290% damage
+   | Void damage >= 10000000 for 999 turns + Reduce damage from all sources by 50% for 10 turns + Change all Dark and Heal orbs to Jammer and Poison orbs, Deal 290% damage
  | group:
  | condition: always turn 1, hp <= 19
    | condition: 20% chance

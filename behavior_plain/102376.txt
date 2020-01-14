@@ -40,7 +40,7 @@ Spawn 10 random Fire orbs, Deal 180% damage
 
 #12: ESDebuffMovetime(39:7562) -> Raises hand
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Movetime 50% for 1 turn
+Movetime +50% for 1 turn
 
 #13: ESAttackMultihit(15:7560) -> Severe Blow
 Deal 1000% damage

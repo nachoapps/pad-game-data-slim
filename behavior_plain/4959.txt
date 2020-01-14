@@ -34,7 +34,7 @@ Bind 1 random sub for 2 turns, Deal 85% damage
 
 #9: ESRecoverEnemy86(86:12036) -> ぬるいぞ！
 Condition: 20% chance (ai:0 rnd:20)
-Enemy recover 5% hp, Deal 90% damage
+Enemy recover 5% HP, Deal 90% damage
 
 #10: ESAttackMultihit(15:12037) -> フンッ！
 Condition: 20% chance (ai:0 rnd:20)
@@ -42,7 +42,7 @@ Deal 100% damage
 
 #11: ESOrbChangeAttack(48:12038) -> 闇に染まるがいい！
 Condition: 20% chance (ai:0 rnd:20)
-Change Random to Dark, Deal 95% damage
+Change a random attribute to Dark orbs, Deal 95% damage
 
 #12: ESRowSpawnMulti(79:12039) -> 我が妖術を受けよ！
 Condition: One-time use (ai:0 rnd:20) (cost: 1)
@@ -59,9 +59,9 @@ flag SET 0b11
 
 #16: SkillSet:
 	[0] ESDebuffMovetime(39:12041) -> 貴様を甘く見ていたようだな…
-	Movetime 50% for 5 turns
+	Movetime +50% for 5 turns
 	[1] ESDebuffRCV(105:12042) -> 全力でいかせてもらう！
-	Rcv 50% for 5 turns
+	RCV +50% for 5 turns
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -73,7 +73,7 @@ Branch on flag & 4, target rnd 22
 flag SET 0b111
 
 #20: ESRecoverEnemy86(86:12043) -> ここまで追いつめられるとは…
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

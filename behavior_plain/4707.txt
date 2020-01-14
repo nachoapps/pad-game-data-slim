@@ -20,12 +20,12 @@ Heal skyfall +20% for 5 turns
 end_turn
 
 #6: ESAbsorbAttribute(53:10728) -> Robe of the Night Sky
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Absorb Dark damage for 3 turns
 
 #7: ESDebuffRCV(105:10730) -> White Rabbit Rumble
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Rcv 50% for 5 turns
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
+RCV +50% for 5 turns
 
 #8: ESColumnSpawnMulti(77:10727) -> Crescent Moon Katana
 Condition: 30% chance (ai:30 rnd:0)

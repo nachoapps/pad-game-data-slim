@@ -23,11 +23,11 @@ level: 4
    | group:
    | condition: turn 1
      | (11899:86) ひもじインパクト
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | condition: 50% chance
      | (11900:48) ヨダレが止まら～ん！
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 50% chance
      | (11901:94) コレは　ワシのメシじゃ～！
      | Lock 10 random orbs, Deal 110% damage

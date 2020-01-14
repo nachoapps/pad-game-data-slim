@@ -9,13 +9,13 @@ approved: False
 level: 1
  type: PREEMPT
  | (14337:83) Sorcery's Aftermath + Are you challenging me? + Grovel before me
- | Voids status ailments for 999 turns + Reduce damage from all sources by 75% for 10 turns + Rcv 0% for 3 turns
+ | Voids status ailments for 999 turns + Reduce damage from all sources by 75% for 10 turns + RCV +0% for 3 turns
  group:
  | group:
    | group:
    | condition: turns 1-9 while HP > 49
      | (14341:83) Magical Power Transformation + Evil Restriction
-     | Change Random to Dark + Lock 15 random orbs, Deal 50% damage
+     | Change a random attribute to Dark orbs + Lock 15 random orbs, Deal 50% damage
    | group:
    | condition: turn 10 while HP > 9
      | (14347:83) Devil's Restraint + Devil Unleashed!

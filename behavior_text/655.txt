@@ -28,7 +28,7 @@ level: 1
  | condition: always turn 1, hp <= 49
    | condition: 50% chance
    | (3443:86) Megingjord
-   | Enemy recover 30% hp
+   | Enemy recover 30% HP
    | condition: 50% chance
    | (3444:67) Bilskirnir's Divine Protection
    | Absorb damage when combos <= 5 for 2 turns

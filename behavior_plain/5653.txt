@@ -15,7 +15,7 @@ end_turn
 
 #4: ESCloud(104:14966) -> Battle, commence.
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-2x2 cloud appear for 3 turns at random location
+A 2×2 square of clouds appears for 3 turns at a random location
 
 #5: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 12

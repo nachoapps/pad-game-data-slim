@@ -19,19 +19,19 @@ Branch on hp < 30, target rnd 11
 
 #5: ESOrbChangeAttack(48:750) -> Young Holy Dragon's Breath
 Condition: 50% chance (ai:50 rnd:0)
-Change Wood to Fire, Deal 90% damage
+Change all Wood orbs to Fire orbs, Deal 90% damage
 
 #6: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 50, target rnd 9
 
 #7: ESOrbChangeAttack(48:752) -> Mother Ocean
-Change Fire to Water, Deal 110% damage
+Change all Fire orbs to Water orbs, Deal 110% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #9: ESOrbChangeAttack(48:751) -> Exalted Light
-Change Dark to Light, Deal 100% damage
+Change all Dark orbs to Light orbs, Deal 100% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -43,8 +43,8 @@ Branch on flag & 1, target rnd 14
 flag SET 0b1
 
 #13: ESJammerChangeRandom(13:753) -> Fragile Fantasy
-Condition: When < 50% hp (ai:100 rnd:0)
-Change Random 3 to Jammer
+Condition: When < 50% HP (ai:100 rnd:0)
+Change 3 random orbs to Jammer orbs
 
 #14: ESAttackMultihit(15:754) -> Creation
 Deal 250% damage (5 hits, 50% each)

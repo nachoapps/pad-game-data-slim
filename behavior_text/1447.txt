@@ -14,7 +14,7 @@ level: 1
    | Deal 50% damage
  | group:
    | (1184:48) ライトニングボルト!!
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -32,7 +32,7 @@ level: 5
  group:
  | group:
    | (1184:48) ライトニングボルト!!
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:

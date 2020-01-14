@@ -20,7 +20,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (6127:83) Double Slash + Auto-recover
-     | Deal 160% damage (2 hits, 80% each) + Enemy recover 10% hp, Deal 160% damage (2 hits, 80% each)
+     | Deal 160% damage (2 hits, 80% each) + Enemy recover 10% HP, Deal 160% damage (2 hits, 80% each)
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (6134:79) Divide Blast
@@ -37,7 +37,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (6133:83) Triple Slash + Auto-recover
-     | Deal 180% damage (3 hits, 60% each) + Enemy recover 10% hp, Deal 180% damage (3 hits, 60% each)
+     | Deal 180% damage (3 hits, 60% each) + Enemy recover 10% HP, Deal 180% damage (3 hits, 60% each)
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (6135:79) Divide Poison

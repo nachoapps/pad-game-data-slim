@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (13421:48) Sword Sharpening
-   | Change Dark to Water, Deal 90% damage
+   | Change all Dark orbs to Water orbs, Deal 90% damage
  | group:
  | condition: hp <= 19
    | (13422:15) Wrath from the Skies

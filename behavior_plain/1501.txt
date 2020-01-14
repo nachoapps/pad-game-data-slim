@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:1359) -> 遊んでくれてありがとう！
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -8,5 +8,5 @@ counter increment: 0
 nothing
 
 #2: ESRecoverEnemy7(7:1642) -> Resurrection
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 100% HP

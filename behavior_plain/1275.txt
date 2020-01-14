@@ -26,9 +26,9 @@ Bind active skills for 3 turns
 end_turn
 
 #8: ESAttackMultihit(15:1034) -> Anomaly Detected
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 125% damage (5 hits, 25% each)
 
 #9: ESOrbChangeAttack(48:1033) -> I will unleash my power
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Wood, Deal 85% damage
+Change a random attribute to Wood orbs, Deal 85% damage

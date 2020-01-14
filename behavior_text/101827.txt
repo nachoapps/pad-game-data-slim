@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | (6563:83) Healing Hymn + Scarlet Azure Blade
-   | Change Random to Heal + Change the 2nd and 3rd rows to Fire and Water orbs, Deal 170% damage
+   | Change a random attribute to Heal orbs + Change the 2nd and 3rd rows to Fire and Water orbs, Deal 170% damage
  | group:
  | condition: hp <= 69
    | group:
@@ -26,7 +26,7 @@ level: 1
    | group:
    | condition: turn 2 while HP > 14
      | (6535:83) Angel's Holy Grail + Battle Anthem
-     | Enemy recover 100% hp + Increase damage to 150% for the next 999 turns
+     | Enemy recover 100% HP + Increase damage to 150% for the next 999 turns
  | group:
  | condition: turn 1 while HP > 29, hp <= 49
    | (6565:68) Moderate Punishment

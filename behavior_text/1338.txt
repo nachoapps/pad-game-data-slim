@@ -48,13 +48,13 @@ level: 1
    | group:
    | condition: turn 1 while HP > 9
      | (10229:83) Protect me! + Let me get rid of these!
-     | Reduce damage from all sources by 50% for 999 turns + Change Dark to Jammer, Deal 100% damage
+     | Reduce damage from all sources by 50% for 999 turns + Change all Dark orbs to Jammer orbs, Deal 100% damage
    | group:
      | (10230:108) It suits you!
-     | Change Jammer to Mortal Poison, Deal 100% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 100% damage
      | condition: 33% chance
      | (10228:108) Let me get rid of these!
-     | Change Dark to Jammer, Deal 100% damage
+     | Change all Dark orbs to Jammer orbs, Deal 100% damage
      | condition: 33% chance
      | (10224:50) You're OK with this, right?
      | Player -99% HP

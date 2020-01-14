@@ -11,10 +11,10 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (1629:48) Wild Card
-   | Change Heal to Jammer, Deal 50% damage
+   | Change all Heal orbs to Jammer orbs, Deal 50% damage
    | (1628:48) Mad Love
-   | Change Random to Heal, Deal 150% damage
+   | Change a random attribute to Heal orbs, Deal 150% damage
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (1628:48) Mad Love
-   | Change Random to Heal, Deal 150% damage
+   | Change a random attribute to Heal orbs, Deal 150% damage

@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 74
  | condition: 30% chance
  | (75:4) Dark Orb change
- | Change Light to Dark
+ | Change all Light orbs to Dark orbs

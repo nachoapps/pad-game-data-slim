@@ -20,9 +20,9 @@ Movetime -1s for 3 turns
 end_turn
 
 #6: ESAttackMultihit(15:1182) -> 積尸気冥界波!!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 120% damage (3 hits, 40% each)
 
 #7: ESOrbChangeAttack(48:1181) -> 往生際の悪いヤツだ！
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 80% damage
+Change a random attribute to Jammer orbs, Deal 80% damage

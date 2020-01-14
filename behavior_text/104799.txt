@@ -20,7 +20,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 49
    | (10770:83) Abomination + Black Pain
-   | Movetime 50% for 2 turns + Player -99% HP
+   | Movetime +50% for 2 turns + Player -99% HP
  | group:
  | condition: hp <= 9
    | (10771:15) The Destroyer

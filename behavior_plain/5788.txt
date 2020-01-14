@@ -50,7 +50,7 @@ Branch on counter >= 1, target rnd 6
 
 #13: ESRecoverEnemy86(86:15798) -> さぁラーよ、死より蘇生し天を舞え！
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #14: ESDamageShield(74:15799) -> どんな攻撃も通用しない！
 Condition: 50% chance (ai:50 rnd:0)

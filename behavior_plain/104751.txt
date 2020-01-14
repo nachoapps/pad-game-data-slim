@@ -32,11 +32,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 4)
 Absorb damage when combos <= 3 for 3 turns
 
 #9: ESDamageShield(74:11012) -> Looks like it's gonna be an fun fight!
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Reduce damage from all sources by 50% for 2 turns
 
 #10: ESAttackUPRemainingEnemies(17:11016) -> Let's exchange our life force!!
-Condition: When < 30% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 300% for the next 99 turns
 
 #11: ESAttackMultihit(15:11013) -> I'll slay all the enemies who stand before me

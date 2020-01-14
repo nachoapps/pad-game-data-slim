@@ -9,12 +9,12 @@ approved: False
 level: 4
  type: PREEMPT
  | (3559:55) Christmas is so fun, isn't it? ♪
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 30% chance
    | (3560:48) Christmas of Aqua
-   | Change Fire to Water, Deal 120% damage
+   | Change all Fire orbs to Water orbs, Deal 120% damage
    | (3561:92) Holy Rain
    | Spawn 5 random Light orbs, Deal 120% damage
  | group:

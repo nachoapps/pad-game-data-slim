@@ -23,9 +23,9 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:4339) -> Healing Wind
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESGravity(50:4340) -> Evil Eye
 	Player -500% HP
 

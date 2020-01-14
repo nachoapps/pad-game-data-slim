@@ -20,10 +20,10 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10339:48) Träne Gerinnsel
-     | Change Random to Water, Deal 105% damage
+     | Change a random attribute to Water orbs, Deal 105% damage
      | condition: 33% chance
      | (10340:108) Veränderung
-     | Change Dark to Water, Deal 110% damage
+     | Change all Dark orbs to Water orbs, Deal 110% damage
      | condition: 34% chance
      | (10341:15) Claw Slasher
      | Deal 120% damage (3 hits, 40% each)
@@ -41,10 +41,10 @@ level: 4
  | condition: execute repeatedly, turn 1-2 of 3
    | condition: 33% chance
    | (10339:48) Träne Gerinnsel
-   | Change Random to Water, Deal 105% damage
+   | Change a random attribute to Water orbs, Deal 105% damage
    | condition: 33% chance
    | (10340:108) Veränderung
-   | Change Dark to Water, Deal 110% damage
+   | Change all Dark orbs to Water orbs, Deal 110% damage
    | condition: 34% chance
    | (10341:15) Claw Slasher
    | Deal 120% damage (3 hits, 40% each)
@@ -61,4 +61,4 @@ level: 4
  | group:
  | condition: turn 2 while HP > 14, hp <= 100
    | (10344:83) Groß Wolke + Calm Fighting Spirit
-   | 3x3 cloud appear for 1 turn at random location + Increase damage to 200% for the next 99 turns
+   | A 3×3 square of clouds appears for 1 turn at a random location + Increase damage to 200% for the next 99 turns

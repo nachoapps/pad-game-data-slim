@@ -21,7 +21,7 @@ Spawn 3 random Fire orbs, Deal 20% damage
 
 #6: ESOrbChangeSingle(4:5106) -> Guard Stance-Fire
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Wood to Heal
+Change all Wood orbs to Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -15,8 +15,8 @@ Enable preempt if level 1
 	Reduce damage from all sources by 75% for 3 turns
 
 #3: ESDebuffMovetime(39:15541) -> 許さんぞぉ！！
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
-Movetime 50% for 5 turns
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
+Movetime +50% for 5 turns
 
 #4: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 12
@@ -43,7 +43,7 @@ Random 2 orbs change every 1.0s for 3 turns
 end_turn
 
 #12: ESAttackUPRemainingEnemies(17:15535) -> ルーンエンハンス
-Condition: When < 20% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 130% for the next 3 turns
 
 #13: ESAttackMultihit(15:15542) -> 消え去るがいい！

@@ -26,8 +26,8 @@ Blind random 3 orbs for 2 turns
 end_turn
 
 #8: ESDebuffMovetime(39:5759) -> Trick & Trick
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Movetime 200% for 5 turns, Deal 200% damage
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Movetime +200% for 5 turns, Deal 200% damage
 
 #9: ESFixedStart(101:5757) -> Pumpkin Magic
 Condition: 20% chance (ai:20 rnd:0)

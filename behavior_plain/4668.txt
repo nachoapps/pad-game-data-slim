@@ -30,7 +30,7 @@ Branch on hp < 10, target rnd 13
 
 #9: ESOrbChangeAttack(48:10586) -> H-Shot
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Light, Deal 120% damage
+Change a random attribute to Light orbs, Deal 120% damage
 
 #10: ESDamageShield(74:10585) -> Heavy Ball
 Condition: 50% chance (ai:0 rnd:50)

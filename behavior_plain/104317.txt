@@ -47,7 +47,7 @@ end_turn
 Branch on hp < 50, target rnd 16
 
 #14: ESCloud(104:9406) -> Tornado Fist
-2x1 cloud appear for 1 turn at random location, Deal 100% damage
+A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -60,7 +60,7 @@ flag SET 0b111
 
 #18: SkillSet:
 	[0] ESCloud(104:9407) -> Been a blast playin' defender, but I think I'll get on with my attack!
-	Row of cloud appear for 1 turn at 1st column
+	A row of clouds appears for 1 turn at 3rd row, 1st column
 	[1] ESDamageShield(74:9408) -> Wall of Wind
 	Reduce damage from all sources by 50% for 1 turn
 
@@ -72,7 +72,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Deal 120% damage (2 hits, 60% each)
 
 #21: ESCloud(104:9406) -> Tornado Fist
-2x1 cloud appear for 1 turn at random location, Deal 100% damage
+A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

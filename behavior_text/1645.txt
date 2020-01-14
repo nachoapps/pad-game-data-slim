@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 70% chance
    | (1703:48) Magic Dragon Sword - Shooting Star
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 74
    | condition: 50% chance
@@ -22,7 +22,7 @@ level: 1
    | Bind 1 random card for 2 turns, Deal 50% damage
    | condition: 70% chance
    | (1703:48) Magic Dragon Sword - Shooting Star
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | condition: 40% chance
@@ -33,7 +33,7 @@ level: 1
    | Bind 1 random card for 2 turns, Deal 50% damage
    | condition: 70% chance
    | (1703:48) Magic Dragon Sword - Shooting Star
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | group:
@@ -42,4 +42,4 @@ level: 1
      | Do nothing
    | group:
      | (1707:48) Flame Emperor
-     | Change Random to Fire, Deal 500% damage
+     | Change a random attribute to Fire orbs, Deal 500% damage

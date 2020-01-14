@@ -36,7 +36,7 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #11: ESOrbChangeAttack(48:3699) -> Lightning
-Change Random to Light, Deal 70% damage
+Change a random attribute to Light orbs, Deal 70% damage
 
 #12: ESBindSkill(14:3700) -> With Rage
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

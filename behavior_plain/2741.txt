@@ -39,7 +39,7 @@ Change all orbs to Jammer, Deal 70% damage
 flag UNSET 0b10
 
 #11: ESRandomSpawn(92:4824) -> Celestial Wicked Exorcism
-Condition: When < 10% hp & when Jammer orbs are on the board (ai:100 rnd:0)
+Condition: When < 10% HP & when Jammer orbs are on the board (ai:100 rnd:0)
 Change all orbs to Wood, Deal 300% damage
 
 #12: ESRandomSpawn(92:4823) -> Nothingness Light

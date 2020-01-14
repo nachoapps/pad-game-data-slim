@@ -24,7 +24,7 @@ level: 1
      | (5821:102) Blazing Bullet
      | Spawn 1 random Bomb orb, Deal 80% damage
      | (5822:48) Massive Crimson Iron Spear
-     | Change Random to Fire, Deal 120% damage
+     | Change a random attribute to Fire orbs, Deal 120% damage
  | group:
  | condition: hp <= 19
    | group:

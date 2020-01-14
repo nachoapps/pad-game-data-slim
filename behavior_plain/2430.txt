@@ -33,7 +33,7 @@ Increase damage to 200% for the next 999 turns
 Branch on hp < 50, target rnd 15
 
 #10: ESAttackMultihit(15:3431) -> Fierce Charge
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 300% damage (3 hits, 100% each)
 
 #11: ESAttackMultihit(15:3434) -> Paw Shake

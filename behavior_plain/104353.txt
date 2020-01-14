@@ -94,7 +94,7 @@ counter = 0
 	[0] ESBoardChange(84:9723) -> Untamable Raging Waves
 	Change all orbs to Heal and Poison
 	[1] ESDebuffRCV(105:9724) -> Ocean Current Mayhem
-	Rcv 50% for 99 turns
+	RCV +50% for 99 turns
 	[2] ESBindRandom(1:9725) -> Freeze Wave
 	Bind 6 random cards for 10 turns
 
@@ -123,7 +123,7 @@ Branch on counter >= 5, target rnd 33
 
 #31: SkillSet:
 	[0] ESDebuffMovetime(39:9729) -> Sand Disaster
-	Movetime 50% for 1 turn
+	Movetime +50% for 1 turn
 	[1] ESAttackMultihit(15:9730) -> Tidal Wave
 	Deal 125% damage (5 hits, 25% each)
 

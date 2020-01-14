@@ -18,7 +18,7 @@ level: 1
      | (12490:67) Yoga Teleport
      | Absorb damage when combos <= 3 for 3 turns
      | (12491:104) Yoga Float
-     | 2x1 cloud appear for 3 turns at random location
+     | A 2×1 rectangle of clouds appears for 3 turns at a random location
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 34% chance
@@ -29,7 +29,7 @@ level: 1
      | Deal 45% damage + Seal the 1st column for 1 turn, Deal 45% damage
      | condition: 33% chance
      | (12496:83) Yoga Fire + Yoga Gale
-     | Change the 3rd row to Fire orbs + Change Random to Fire, Deal 45% damage
+     | Change the 3rd row to Fire orbs + Change a random attribute to Fire orbs, Deal 45% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (12499:79) Yoga Burner

@@ -15,4 +15,4 @@ level: 1
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (5107:4) Guard Stance-Water
- | Change Fire to Heal
+ | Change all Fire orbs to Heal orbs

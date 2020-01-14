@@ -26,9 +26,9 @@ Branch on hp > 51, target rnd 8
 #7: SkillSet:
 	Condition: 25% chance (ai:25 rnd:0)
 	[0] ESOrbChangeAttack(48:12558) -> Sonic Break
-	Change Random to Wood, Deal 100% damage
+	Change a random attribute to Wood orbs, Deal 100% damage
 	[1] ESOrbChangeAttack(48:12558) -> Sonic Break
-	Change Random to Wood, Deal 100% damage
+	Change a random attribute to Wood orbs, Deal 100% damage
 
 #8: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)

@@ -17,16 +17,16 @@ level: 4
    | condition: turn 1
      | condition: when 3706 on team
      | (7191:83) Bubble Breath + Second Bubble Breath Stance + Interrupt it with an attack!
-     | Movetime 150% for 1 turn + Absorb damage when combos <= 6 for 1 turn + Do nothing, Deal 20% damage
+     | Movetime +150% for 1 turn + Absorb damage when combos <= 6 for 1 turn + Do nothing, Deal 20% damage
      | (7190:83) Bubble Breath + Second Bubble Breath Stance + Interrupt it with an attack!
-     | 1x1 cloud appear for 1 turn at random location + Absorb damage when combos <= 6 for 1 turn + Do nothing
+     | A 1×1 square of clouds appears for 1 turn at a random location + Absorb damage when combos <= 6 for 1 turn + Do nothing
    | group:
    | condition: turn 2
      | condition: when 3706 on team
      | (7193:15) Bubble Breath
      | Deal 20% damage
      | (7192:104) Bubble Breath
-     | 4x4 cloud appear for 3 turns at random location, Deal 20% damage
+     | A 4×4 square of clouds appears for 3 turns at a random location, Deal 20% damage
    | group:
    | condition: turn 3
      | (7196:83) Roar + Rage

@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 10% chance, at most 2 times
    | (257:13) Impish Mischief
-   | Change Random 1 to Jammer
+   | Change 1 random orb to Jammer orbs
  | group:
  | condition: hp <= 74
    | condition: 40% chance
@@ -19,7 +19,7 @@ level: 1
    | Deal 140% damage (2 hits, 70% each)
    | condition: 10% chance, at most 2 times
    | (257:13) Impish Mischief
-   | Change Random 1 to Jammer
+   | Change 1 random orb to Jammer orbs
  type: REMAINING
  condition: when 1 enemies remain, always turn 1
  | (270:17) Lone Force

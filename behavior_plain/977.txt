@@ -29,7 +29,7 @@ end_turn
 Branch on hp > 50, target rnd 12
 
 #9: ESAttackUPRemainingEnemies(17:860) -> Triple Combination
-Condition: When < 50% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 150% for the next 5 turns
 
 #10: ESAttackMultihit(15:858) -> Cross Cutlass

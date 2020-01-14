@@ -20,8 +20,8 @@ Voids status ailments for 999 turns
 end_turn
 
 #6: ESRecoverEnemy86(86:3108) -> Freezing Zone
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 50% hp, Deal 80% damage
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 50% HP, Deal 80% damage
 
 #7: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 30, target rnd 11

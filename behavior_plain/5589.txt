@@ -20,7 +20,7 @@ Change the 4th column to Water orbs, Deal 95% damage
 
 #5: ESOrbChangeAttack(48:14649) -> Rupu Kuare - Nishi
 Condition: 20% chance (ai:0 rnd:20)
-Change Random to Water, Deal 95% damage
+Change a random attribute to Water orbs, Deal 95% damage
 
 #6: ESOrbLock(94:14650) -> Ruru Kuare - Tu Tu
 Condition: 20% chance (ai:0 rnd:20)

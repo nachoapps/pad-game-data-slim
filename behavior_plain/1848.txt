@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESRecoverPlayer(55:2386) -> Angel Heart
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESStatusShield(20:2387) -> A dazzling halo shines forth
 	Voids status ailments for 999 turns
 
@@ -23,20 +23,20 @@ flag SET 0b1
 end_turn
 
 #6: ESSkillDelay(89:2393) -> Sacred Intentions
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 1~2 turns, Deal 150% damage
 
 #7: ESRecoverEnemy86(86:2394) -> Judgement
-Condition: When < 20% hp (ai:100 rnd:0)
-Enemy recover 100% hp, Deal 1000% damage
+Condition: When < 20% HP (ai:100 rnd:0)
+Enemy recover 100% HP, Deal 1000% damage
 
 #8: ESRecoverEnemy86(86:2388) -> Sanctuary
 Condition: 50% chance (ai:0 rnd:50)
-Enemy recover 20% hp, Deal 60% damage
+Enemy recover 20% HP, Deal 60% damage
 
 #9: ESRecoverEnemy86(86:2389) -> Lightning Edge
 Condition: 50% chance (ai:0 rnd:50)
-Enemy recover 10% hp, Deal 90% damage
+Enemy recover 10% HP, Deal 90% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

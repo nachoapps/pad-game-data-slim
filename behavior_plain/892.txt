@@ -23,13 +23,13 @@ flag SET 0b1
 Bind Wood cards for 3 turns
 
 #7: ESOrbChangeAttack(48:1471) -> Lightning Arrow
-Change Random to Light, Deal 75% damage
+Change a random attribute to Light orbs, Deal 75% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #9: ESBindTyping(3:1457) -> Shining Lyre
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Devil cards for 3 turns
 
 #10: ESBranchHP(28:18) -> ESBranchHP
@@ -37,7 +37,7 @@ Branch on hp < 30, target rnd 13
 
 #11: ESOrbChangeAttack(48:1458) -> Sunlight Bullet
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Fire, Deal 125% damage
+Change a random attribute to Fire orbs, Deal 125% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -49,12 +49,12 @@ Branch on flag & 2, target rnd 17
 flag SET 0b11
 
 #15: ESInactivity66(66:1459) -> Burn to ashes
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Do nothing
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #17: ESAttackMultihit(15:1460) -> Grand Sun
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 1000% damage

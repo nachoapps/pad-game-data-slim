@@ -24,7 +24,7 @@ end_turn
 Branch on hp < 50, target rnd 12
 
 #7: ESBombFixedSpawn(103:5903) -> Nar Hujum
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Spawn Bomb orbs in the specified positions, Deal 220% damage
 
 #8: ESVoidShield(71:5891) -> Brilliant Fighting Spirit

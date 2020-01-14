@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Wood, Light, and Dark attrs by 30%
  type: PREEMPT
  | (2176:55) Huhu, welcome!
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 4

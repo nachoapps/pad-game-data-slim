@@ -23,13 +23,13 @@ level: 1
  | (7708:74) Darkened Scale Armor
  | Reduce damage from all sources by 75% for 4 turns
  | (7710:108) Anarchy
- | Change Jammer to Poison, Deal 150% damage
+ | Change all Jammer orbs to Poison orbs, Deal 150% damage
  | (7709:64) Anarchy
- | Change Random 4 to Poison, Deal 110% damage
+ | Change 4 random orbs to Poison orbs, Deal 110% damage
  | (7711:108) Gnawing Fangs
- | Change Poison to Jammer, Deal 130% damage
+ | Change all Poison orbs to Jammer orbs, Deal 130% damage
  | (7712:108) Gnawing Fangs
- | Change Heal to Jammer, Deal 130% damage
+ | Change all Heal orbs to Jammer orbs, Deal 130% damage
  | (7713:94) Black Tempered Bow
  | Lock all Jammer orbs, Deal 100% damage
  | (7714:50) Black Tempered Bow

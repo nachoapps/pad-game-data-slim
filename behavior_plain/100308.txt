@@ -21,7 +21,7 @@ Spawn 3 random Wood orbs, Deal 20% damage
 
 #6: ESOrbChangeSingle(4:5108) -> Guard Stance-Wood
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Water to Heal
+Change all Water orbs to Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -50,11 +50,11 @@ level: 4
    | group:
    | condition: turn 1 while HP > 9
      | (9248:83) The cogs of fate are now in motion + Nornil Curse
-     | Voids status ailments for 999 turns + Movetime 50% for 12 turns
+     | Voids status ailments for 999 turns + Movetime +50% for 12 turns
    | group:
      | condition: 33% chance
      | (9261:83) Bifröst Fate + Norn Resistance
-     | Change the 1st row to Fire orbs and the 5th row to Water orbs + Rcv 50% for 1 turn, Deal 110% damage
+     | Change the 1st row to Fire orbs and the 5th row to Water orbs + RCV +50% for 1 turn, Deal 110% damage
      | condition: 50% chance
      | (9264:83) Norn Slave + Reverse time!
      | Change all orbs to Fire, Water, and Jammer + Delay active skills by 2 turns, Deal 90% damage
@@ -74,7 +74,7 @@ level: 4
    | group:
    | condition: turn 1
      | (9250:83) Healing Scratch + The cogs of fate are now in motion + Nornil Curse
-     | Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50% for 12 turns
+     | Enemy recover 50% HP + Voids status ailments for 999 turns + Movetime +50% for 12 turns
    | group:
    | condition: turn 2
      | (9251:88) End of Time

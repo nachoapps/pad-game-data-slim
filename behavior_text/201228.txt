@@ -12,11 +12,11 @@ level: 1
  | Reduce damage from all sources by 80% for 5 turns
  group:
  | (15721:48) ぐんぐにーるたまぁ！
- | Change Random to Light, Deal 100% damage
+ | Change a random attribute to Light orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | (15724:48) ぐんぐにーるたまぁ！
- | Change Random to Light, Deal 150% damage
+ | Change a random attribute to Light orbs, Deal 150% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
@@ -25,4 +25,4 @@ level: 1
    | Absorb damage when combos <= 6 for 5 turns
  | group:
    | (15727:48) ぐんぐにーるたまぁ！
-   | Change Random to Light, Deal 300% damage
+   | Change a random attribute to Light orbs, Deal 300% damage

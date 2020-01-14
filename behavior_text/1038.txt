@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (837:48) すべては女王の為に
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: turn 1, hp <= 74
    | (836:8) 調子に乗るなよ

@@ -13,14 +13,14 @@ Branch on player_cards HAS [2015], target rnd 4
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13080) -> Nice to meet you!
-	Movetime 300% for 10 turns
+	Movetime +300% for 10 turns
 	[1] ESSpinnersRandom(109:13081) -> Thank you in advance
 	Random 1 orbs change every 1.0s for 10 turns
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13080) -> Nice to meet you!
-	Movetime 300% for 10 turns
+	Movetime +300% for 10 turns
 	[1] ESSpinnersRandom(109:13081) -> Thank you in advance
 	Random 1 orbs change every 1.0s for 10 turns
 
@@ -36,7 +36,7 @@ Branch on hp < 10, target rnd 23
 
 #7: ESCloud(104:13086) -> Do you have any probem?
 Condition: One-time use (ai:100 rnd:0) (cost: 32)
-2x2 cloud appear for 1 turn at random location, Deal 140% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 140% damage
 
 #8: ESBlindStickyFixed(98:13087) -> What's this?
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
@@ -50,21 +50,21 @@ flag SET 0b1
 
 #11: ESRecoverEnemy86(86:13088) -> Closing eyes and thinking...
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #12: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
 
 #13: ESRecoverEnemy86(86:13089) -> Ummm
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Enemy recover 20% hp
+Enemy recover 20% HP
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
 
 #15: ESRecoverEnemy86(86:13090) -> Humm!
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Enemy recover 20% hp
+Enemy recover 20% HP
 
 #16: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 25
@@ -73,7 +73,7 @@ Branch on hp < 20, target rnd 25
 flag SET 0b11
 
 #18: SkillSet:
-	Condition: When < 99% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 99% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESInactivity66(66:13091) -> Beep!
 	Do nothing
 	[1] ESAttackUPRemainingEnemies(17:13093) -> Penalty!
@@ -88,7 +88,7 @@ flag SET 0b11
 
 #20: ESCloud(104:13100) -> Disciplinary Committee Dash
 Condition: 50% chance (ai:50 rnd:0)
-1x3 cloud appear for 1 turn at random location, Deal 140% damage
+A 1×3 rectangle of clouds appears for 1 turn at a random location, Deal 140% damage
 
 #21: ESBlindStickyFixed(98:13101) -> Disciplinary Committee Spear
 Blind orbs in specific positions for 1 turn, Deal 140% damage

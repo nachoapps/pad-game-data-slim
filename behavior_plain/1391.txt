@@ -14,15 +14,15 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESOrbChangeAttack(48:1102) -> スキありーっ!!!!!
-Change Random to Jammer, Deal 75% damage
+Change a random attribute to Jammer orbs, Deal 75% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: ESLeaderSwap(75:1800) -> Change!!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Leader changes to random sub for 2 turns
 
 #7: ESOrbChangeAttack(48:1103) -> ミルキーキャノン
-Condition: When < 75% hp (ai:100 rnd:0)
-Change Random to Light, Deal 125% damage
+Condition: When < 75% HP (ai:100 rnd:0)
+Change a random attribute to Light orbs, Deal 125% damage

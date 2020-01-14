@@ -33,11 +33,11 @@ Branch on hp < 50, target rnd 13
 
 #9: ESRecoverEnemy86(86:11355) -> Bloody Fangs
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Enemy recover 10% hp, Deal 110% damage
+Enemy recover 10% HP, Deal 110% damage
 
 #10: ESOrbChangeAttack(48:11353) -> Blood Pain
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Dark, Deal 115% damage
+Change a random attribute to Dark orbs, Deal 115% damage
 
 #11: ESAttackMultihit(15:11354) -> Nightmare Raid
 Deal 130% damage (2 hits, 65% each)
@@ -81,7 +81,7 @@ end_turn
 
 #23: SkillSet:
 	[0] ESRecoverEnemy86(86:11362) -> I can't be defeated
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESSkyfall(68:11363) -> Don't underestimate me
 	Mortal Poison skyfall +20% for 1 turn
 

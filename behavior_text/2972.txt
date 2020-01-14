@@ -15,19 +15,19 @@ level: 1
    | group:
    | condition: turn 1 while HP > 19
      | (6750:48) Summit Gale
-     | Change Heal to Wood, Deal 360% damage
+     | Change all Heal orbs to Wood orbs, Deal 360% damage
      | (6751:104) Passing Spirits
-     | 4x1 cloud appear for 3 turns at random location
+     | A 4×1 rectangle of clouds appears for 3 turns at a random location
    | group:
    | condition: turn 2 while HP > 19
      | (6752:48) Holy Foundling's Endless Evergreen
-     | Change Heal to Wood, Deal 3600% damage
+     | Change all Heal orbs to Wood orbs, Deal 3600% damage
      | (6753:55) Scattering Willow Flowers
-     | Player recover 100% hp
+     | Player recover 100% HP
    | group:
    | condition: turn 3 while HP > 19
      | (6754:48) Holy Foundling's Endless Evergreen
-     | Change Heal to Wood, Deal 3600% damage
+     | Change all Heal orbs to Wood orbs, Deal 3600% damage
      | (6755:15) Wind Fang
      | Deal 400% damage (2 hits, 200% each)
    | group:
@@ -42,7 +42,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (6761:39) Thousand-Echo Windmill
-     | Movetime 50% for 1 turn, Deal 300% damage
+     | Movetime +50% for 1 turn, Deal 300% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (6760:15) Wind Fang

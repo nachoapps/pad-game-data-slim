@@ -26,19 +26,19 @@ Do nothing
 end_turn
 
 #8: ESAttackUPRemainingEnemies(17:2131) -> Haste
-Condition: When < 50% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #9: ESRecoverEnemy86(86:2157) -> Curaga
-Condition: When < 70% hp , one-time use (ai:30 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 70% HP , one-time use (ai:30 rnd:0) (cost: 1)
+Enemy recover 100% HP
 
 #10: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 90, target rnd 16
 
 #11: ESOrbChangeAttack(48:2101) -> Blaze
 Condition: 40% chance (ai:0 rnd:40)
-Change Random to Fire, Deal 90% damage
+Change a random attribute to Fire orbs, Deal 90% damage
 
 #12: ESAttackMultihit(15:2103) -> Flare
 Condition: 30% chance (ai:0 rnd:30)
@@ -62,7 +62,7 @@ Branch on flag & 2, target rnd 11
 flag SET 0b11
 
 #18: ESRowSpawnMulti(79:2155) -> Blizzaga
-Condition: When < 90% hp (ai:100 rnd:0)
+Condition: When < 90% HP (ai:100 rnd:0)
 Change the 1st and 5th rows to Water orbs, Deal 100% damage
 
 #19: ESEndPath(36:26) -> ESEndPath

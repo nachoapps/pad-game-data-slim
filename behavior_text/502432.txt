@@ -51,4 +51,4 @@ level: 4
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (3422:52) Friendly Thought
- | Enemy ally recover 45% hp
+ | Enemy ally recover 45% HP

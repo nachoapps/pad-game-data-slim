@@ -14,10 +14,10 @@ level: 5
  | group:
    | condition: 30% chance
    | (1332:48) Red Dragon Soldier Valois
-   | Change Wood to Fire, Deal 75% damage
+   | Change all Wood orbs to Fire orbs, Deal 75% damage
    | condition: 40% chance
    | (1333:48) Blue Dragon Soldier Gilles de Rais
-   | Change Fire to Water, Deal 75% damage
+   | Change all Fire orbs to Water orbs, Deal 75% damage
    | (1331:15) Charge!
    | Deal 100% damage (4 hits, 25% each)
  | group:

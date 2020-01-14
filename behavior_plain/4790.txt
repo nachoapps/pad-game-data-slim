@@ -15,7 +15,7 @@ end_turn
 
 #4: ESOrbChangeAttack(48:10864) -> You want some too?!
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Random to Dark, Deal 120% damage
+Change a random attribute to Dark orbs, Deal 120% damage
 
 #5: ESRandomSpawn(92:10865) -> I'll give you only one!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

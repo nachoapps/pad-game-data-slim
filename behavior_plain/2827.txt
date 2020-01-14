@@ -23,16 +23,16 @@ flag SET 0b1
 Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 40% damage
 
 #7: ESBindAttack(63:4121) -> Kryptonite Gas Grenade
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Bind 1 random sub for 3 turns, Deal 100% damage
 
 #8: ESColumnSpawnMulti(77:4123) -> Well, here I am!
-Condition: When < 15% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 15% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change the 3rd and 4th columns to Jammer orbs, Deal 250% damage
 
 #9: ESOrbChangeAttack(48:4120) -> Kryptonite Weaponry
 Condition: 50% chance (ai:50 rnd:0)
-Change Light to Dark, Deal 100% damage
+Change all Light orbs to Dark orbs, Deal 100% damage
 
 #10: ESOrbLock(94:4122) -> Kryptonite Spear
 Condition: 60% chance (ai:60 rnd:0)

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (8330:83) Ancient Field + Hyper Dragon Shield
- | Rcv 50% for 10 turns + Reduce damage from all sources by 99% for 5 turns
+ | RCV +50% for 10 turns + Reduce damage from all sources by 99% for 5 turns
  group:
  | type: DISPEL_PLAYER
    | (8336:6) Wave of Nothingness

@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackUPRemainingEnemies(17:6933) -> No, it will only make me more powerful.
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 999 turns
 
 #7: ESDamageShield(74:6932) -> Black Bayard, Shield Form

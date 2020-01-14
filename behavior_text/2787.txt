@@ -22,7 +22,7 @@ level: 4
      | (3907:63) Jecht Beam
      | Bind 1 random sub for 2~3 turns, Deal 110% damage
      | (3914:83) Osmose + Power Wave
-     | Delay active skills by 2 turns + Enemy recover 10% hp
+     | Delay active skills by 2 turns + Enemy recover 10% HP
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | condition: 20% chance
@@ -58,7 +58,7 @@ level: 4
      | (3907:63) Jecht Beam
      | Bind 1 random sub for 2~3 turns, Deal 110% damage
      | (3914:83) Osmose + Power Wave
-     | Delay active skills by 2 turns + Enemy recover 10% hp
+     | Delay active skills by 2 turns + Enemy recover 10% HP
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | condition: 20% chance

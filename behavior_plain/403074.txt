@@ -76,7 +76,7 @@ Branch on flag & 8, target rnd 21
 flag SET 0b1111
 
 #20: ESRecoverEnemy86(86:5156) -> AS-Overhaul
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #21: ESAttackMultihit(15:5155) -> Starburst SSE
 Deal 10000% damage (10 hits, 1000% each)

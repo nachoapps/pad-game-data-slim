@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: always turns 1-3
      | (209:7) Resurrection
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
    | condition: always turn 4
      | (161:20) Maiden's White Shield

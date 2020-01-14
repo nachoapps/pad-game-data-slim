@@ -15,11 +15,11 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1557:48) High Jump
-     | Change Random to Jammer, Deal 20% damage
+     | Change a random attribute to Jammer orbs, Deal 20% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1558:48) Locust Press
-     | Change Jammer to Water, Deal 125% damage
+     | Change all Jammer orbs to Water orbs, Deal 125% damage
      | (1561:15) Jumping Breath
      | Deal 80% damage (4 hits, 20% each)
  | group:
@@ -31,13 +31,13 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1557:48) High Jump
-     | Change Random to Jammer, Deal 20% damage
+     | Change a random attribute to Jammer orbs, Deal 20% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1560:48) Meteor Strike
-     | Change Jammer to Water, Deal 200% damage
+     | Change all Jammer orbs to Water orbs, Deal 200% damage
      | (1558:48) Locust Press
-     | Change Jammer to Water, Deal 125% damage
+     | Change all Jammer orbs to Water orbs, Deal 125% damage
      | (1561:15) Jumping Breath
      | Deal 80% damage (4 hits, 20% each)
 
@@ -50,11 +50,11 @@ level: 10
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1557:48) High Jump
-     | Change Random to Jammer, Deal 20% damage
+     | Change a random attribute to Jammer orbs, Deal 20% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1558:48) Locust Press
-     | Change Jammer to Water, Deal 125% damage
+     | Change all Jammer orbs to Water orbs, Deal 125% damage
      | (1561:15) Jumping Breath
      | Deal 80% damage (4 hits, 20% each)
  | group:
@@ -66,12 +66,12 @@ level: 10
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1557:48) High Jump
-     | Change Random to Jammer, Deal 20% damage
+     | Change a random attribute to Jammer orbs, Deal 20% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1560:48) Meteor Strike
-     | Change Jammer to Water, Deal 200% damage
+     | Change all Jammer orbs to Water orbs, Deal 200% damage
      | (1558:48) Locust Press
-     | Change Jammer to Water, Deal 125% damage
+     | Change all Jammer orbs to Water orbs, Deal 125% damage
      | (1561:15) Jumping Breath
      | Deal 80% damage (4 hits, 20% each)

@@ -5,11 +5,11 @@ start/max counter: 1
 counter increment: 0
 
 #1: ESDamageShield(74:13926) -> Not bad Tyrra!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 30% for 1 turn
 
 #2: ESRandomSpawn(92:13927) -> Heat Breath!
-Condition: 50% chance when < 50% hp (ai:50 rnd:0)
+Condition: 50% chance when < 50% HP (ai:50 rnd:0)
 Spawn 1 random Fire orb, Deal 120% damage
 
 #3: ESAttackMultihit(15:13925) -> Take this Tyrra!

@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10314:48) Soppy Flame
-     | Change Random to Fire, Deal 110% damage
+     | Change a random attribute to Fire orbs, Deal 110% damage
      | condition: 33% chance
      | (10315:15) Flame Rush
      | Deal 120% damage (3 hits, 40% each)
@@ -41,7 +41,7 @@ level: 4
  | condition: execute repeatedly, turn 1-2 of 3
    | condition: 33% chance
    | (10314:48) Soppy Flame
-   | Change Random to Fire, Deal 110% damage
+   | Change a random attribute to Fire orbs, Deal 110% damage
    | condition: 33% chance
    | (10315:15) Flame Rush
    | Deal 120% damage (3 hits, 40% each)

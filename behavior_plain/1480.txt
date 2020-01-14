@@ -26,9 +26,9 @@ Voids status ailments for 10 turns
 end_turn
 
 #8: ESSkyfall(68:1364) -> ブラック戒律発動
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Jammer skyfall +10% for 99 turns
 
 #9: ESOrbChangeAttack(48:1365) -> 重魔棒
-Condition: When < 50% hp (ai:100 rnd:0)
-Change Light to Jammer, Deal 150% damage
+Condition: When < 50% HP (ai:100 rnd:0)
+Change all Light orbs to Jammer orbs, Deal 150% damage

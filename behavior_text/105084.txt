@@ -14,16 +14,16 @@ level: 4
  | group:
    | condition: 25% chance
    | (12444:83) Psycho Axe + Disable Skill + Shadow Axe
-   | Deal 50% damage + Deal 100% damage + Change Random to Dark, Deal 50% damage
+   | Deal 50% damage + Deal 100% damage + Change a random attribute to Dark orbs, Deal 50% damage
    | condition: 25% chance
    | (12447:83) Head Press + Somersault Skull Diver
-   | Deal 100% damage + Change Random to Dark, Deal 100% damage
+   | Deal 100% damage + Change a random attribute to Dark orbs, Deal 100% damage
    | condition: 25% chance
    | (12450:83) Psycho Blast + Double Knee Press
-   | Change Random to Poison + Deal 110% damage (2 hits, 55% each), Deal 80% damage
+   | Change a random attribute to Poison orbs + Deal 110% damage (2 hits, 55% each), Deal 80% damage
    | condition: 25% chance
    | (12451:83) Psycho Blast + Psycho Inferno
-   | Change Random to Poison + Deal 120% damage (4 hits, 30% each), Deal 80% damage
+   | Change a random attribute to Poison orbs + Deal 120% damage (4 hits, 30% each), Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -39,10 +39,10 @@ level: 4
      | Change the 3rd row to Dark orbs, Deal 250% damage
      | condition: 25% chance
      | (12450:83) Psycho Blast + Double Knee Press
-     | Change Random to Poison + Deal 110% damage (2 hits, 55% each), Deal 80% damage
+     | Change a random attribute to Poison orbs + Deal 110% damage (2 hits, 55% each), Deal 80% damage
      | condition: 25% chance
      | (12451:83) Psycho Blast + Psycho Inferno
-     | Change Random to Poison + Deal 120% damage (4 hits, 30% each), Deal 80% damage
+     | Change a random attribute to Poison orbs + Deal 120% damage (4 hits, 30% each), Deal 80% damage
  | group:
  | condition: hp <= 14
    | (12607:83) Away with you! + Ultimate Psycho Crusher

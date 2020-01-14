@@ -5,9 +5,9 @@ start/max counter: 1
 counter increment: 0
 
 #1: ESBindRandom(1:839) -> 渦波(トルネイヴ)!!!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 5 random cards for 1~2 turns
 
 #2: ESOrbChangeAttack(48:840) -> 大波(ビッグウォール)!!!
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Water, Deal 80% damage
+Change a random attribute to Water orbs, Deal 80% damage

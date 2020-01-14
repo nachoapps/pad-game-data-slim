@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: turn 1
    | (4307:83) Summon Vinus + Breath of Compassion
-   | Do nothing + Player recover 100% hp
+   | Do nothing + Player recover 100% HP
  | group:
  | condition: turn 2
    | (4308:15) Brilliant World
@@ -22,7 +22,7 @@ level: 1
  | group:
  | condition: turn 3
    | (4309:83) Summon Mineva + Breath of Compassion
-   | Do nothing + Player recover 100% hp
+   | Do nothing + Player recover 100% HP
  | group:
  | condition: turn 4
    | (4310:15) Celestial Prison's Scorching Heat
@@ -30,7 +30,7 @@ level: 1
  | group:
  | condition: turn 5
    | (4311:83) Summon Seres + Breath of Compassion
-   | Do nothing + Player recover 100% hp
+   | Do nothing + Player recover 100% HP
  | group:
  | condition: turn 6
    | (4312:15) Soul Burst
@@ -38,7 +38,7 @@ level: 1
  | group:
  | condition: turn 7
    | (4313:83) Summon Neptunus + Breath of Compassion
-   | Do nothing + Player recover 100% hp
+   | Do nothing + Player recover 100% HP
  | group:
  | condition: turn 8
    | (4314:15) Abysstrom
@@ -46,7 +46,7 @@ level: 1
  | group:
  | condition: turn 9
    | (4315:83) Summon Ades + Breath of Compassion
-   | Do nothing + Player recover 100% hp
+   | Do nothing + Player recover 100% HP
  | group:
  | condition: turn 10
    | (4316:15) Death Scythe

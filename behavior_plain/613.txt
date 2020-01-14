@@ -15,7 +15,7 @@ end_turn
 
 #4: ESOrbChangeSingle(4:316) -> Sparkling
 Condition: One-time use (ai:100 rnd:100) (cost: 1)
-Change Heal to Light
+Change all Heal orbs to Light orbs
 
 #5: ESInactivity16(16:301) -> Thank you Kyulu
 Do nothing

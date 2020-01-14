@@ -16,7 +16,7 @@ Enable preempt if level 1
 	[2] ESAttributeBlock(107:15103) -> Erase everything but Jammers
 	Unable to match Jammer orbs for 4 turns
 	[3] ESDebuffMovetime(39:15105) -> Well, let's try your best
-	Movetime 200% for 4 turns
+	Movetime +200% for 4 turns
 
 #3: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 10
@@ -25,7 +25,7 @@ Branch on flag & 1, target rnd 10
 flag SET 0b1
 
 #5: ESOrbChangeAttackBits(108:15120) -> My drink got stale
-Change Fire, Water, Wood, Light, Dark, and Heal to Jammer, Deal 1000% damage
+Change all Fire, Water, Wood, Light, Dark, and Heal orbs to Jammer orbs, Deal 1000% damage
 
 #6: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 75, target rnd 8
@@ -49,7 +49,7 @@ Branch on flag & 2, target rnd 17
 flag SET 0b11
 
 #12: ESOrbChangeAttackBits(108:15121) -> My drink got stale
-Change Fire, Water, Wood, Light, Dark, and Heal to Jammer, Deal 1000% damage
+Change all Fire, Water, Wood, Light, Dark, and Heal orbs to Jammer orbs, Deal 1000% damage
 
 #13: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 15
@@ -67,7 +67,7 @@ Deal 1000% damage (5 hits, 200% each)
 end_turn
 
 #17: ESOrbChangeAttackBits(108:15122) -> My drink got stale
-Change Fire, Water, Wood, Light, Dark, and Heal to Jammer, Deal 1000% damage
+Change all Fire, Water, Wood, Light, Dark, and Heal orbs to Jammer orbs, Deal 1000% damage
 
 #18: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 25, target rnd 20

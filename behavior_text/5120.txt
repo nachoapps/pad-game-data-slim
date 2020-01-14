@@ -18,7 +18,7 @@ level: 1
  | (12381:100) Immovable Type
  | Seal the 1st row for 3 turns, Deal 90% damage
  | (12382:104) Invisible Type
- | 2x2 cloud appear for 3 turns at random location, Deal 90% damage
+ | A 2×2 square of clouds appears for 3 turns at a random location, Deal 90% damage
  | condition: 50% chance
  | (12383:92) Poison Scourge
  | Spawn 5 random Poison orbs, Deal 100% damage

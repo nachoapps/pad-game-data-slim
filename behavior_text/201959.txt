@@ -23,7 +23,7 @@ level: 5
    | Deal 60% damage (3 hits, 20% each)
    | condition: 20% chance
    | (2303:48) Calico Uppercut
-   | Change Random to Wood, Deal 120% damage
+   | Change a random attribute to Wood orbs, Deal 120% damage
    | condition: 20% chance, one time only
    | (2305:14) Calico Hook
    | Bind active skills for 2 turns

@@ -20,11 +20,11 @@ Bind player leader for 3 turns
 end_turn
 
 #6: ESBindAttack(63:2446) -> Shining Dragon's Sword
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Bind 2 random cards for 2 turns, Deal 300% damage
 
 #7: ESDamageShield(74:2445) -> Shining Dragon's Armor
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 2 turns
 
 #8: ESAttackMultihit(15:2447) -> Thunder Wave

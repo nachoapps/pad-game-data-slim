@@ -37,7 +37,7 @@ Player -75% HP
 
 #11: ESOrbChangeAttack(48:14979) -> Don't even think about it!
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Light, Deal 95% damage
+Change a random attribute to Light orbs, Deal 95% damage
 
 #12: ESAttackMultihit(15:14980) -> I'm not done yet!
 Condition: 50% chance (ai:0 rnd:50)

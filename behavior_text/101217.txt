@@ -14,7 +14,7 @@ level: 1
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (6846:83) White Wings of Divine Intervention + Trials of Heaven
- | Rcv 50% for 10 turns + Absorb damage when combos <= 5 for 999 turns
+ | RCV +50% for 10 turns + Absorb damage when combos <= 5 for 999 turns
  group:
  | group:
    | (6847:15) You've a while to go yet
@@ -23,9 +23,9 @@ level: 1
  | condition: hp <= 70
    | condition: 50% chance
    | (6848:104) Divine One's Writing
-   | Column of cloud appear for 1 turn at random location, Deal 200% damage
+   | A column of clouds appears for 1 turn at a random location, Deal 200% damage
    | (6849:104) Divine One's Writing
-   | Row of cloud appear for 1 turn at random location, Deal 200% damage
+   | A row of clouds appears for 1 turn at a random location, Deal 200% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (6852:83) Holy Throne + Prediction

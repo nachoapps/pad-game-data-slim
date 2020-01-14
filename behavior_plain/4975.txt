@@ -34,7 +34,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #8: ESOrbChangeAttack(48:12022) -> 旋風斬りっ！！
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Wood, Deal 95% damage
+Change a random attribute to Wood orbs, Deal 95% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

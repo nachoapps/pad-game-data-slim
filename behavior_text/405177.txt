@@ -57,7 +57,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (12839:83) Finishing Touch Towards Accomplishment + Fury Overflow of Righteous Indignation
-   | Blind random 15 orbs for 5 turns + 2x5 cloud appear for 10 turns at 1st row, 3rd column
+   | Blind random 15 orbs for 5 turns + A 2×5 rectangle of clouds appears for 10 turns at 1st row, 3rd column
  | group:
  | condition: hp <= 9
    | (12842:83) A Bolt Out of the Blue + Life & Death are ruled by fate

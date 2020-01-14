@@ -22,7 +22,7 @@ level: 1
  | condition: hp <= 39
    | condition: 60% chance, one time only
    | (81:7) Heal
-   | Enemy recover 30% hp
+   | Enemy recover 30% HP
    | condition: 15% chance
    | (35:1) Poke Poke
    | Bind 3 random cards for 2~4 turns
@@ -39,7 +39,7 @@ level: 1
    | Deal 100~250% damage (2~5 hits, 50% each)
    | condition: 60% chance, one time only
    | (81:7) Heal
-   | Enemy recover 30% hp
+   | Enemy recover 30% HP
    | condition: 15% chance
    | (35:1) Poke Poke
    | Bind 3 random cards for 2~4 turns

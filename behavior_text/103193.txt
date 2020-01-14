@@ -18,7 +18,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (12348:48) Darkness Spear
-   | Change Random to Dark, Deal 6% damage
+   | Change a random attribute to Dark orbs, Deal 6% damage
    | (12349:15) Punishing Mist
    | Deal 7% damage (7 hits, 1% each)
  | group:

@@ -73,10 +73,10 @@ flag SET 0b11
 	Deal 100% damage
 
 #17: ESOrbChangeAttack(48:8889) -> Sacrifice Saber
-Change Poison to Dark, Deal 170% damage
+Change all Poison orbs to Dark orbs, Deal 170% damage
 
 #18: ESOrbChangeAttack(48:8890) -> Drill Break
-Change Jammer to Fire, Deal 150% damage
+Change all Jammer orbs to Fire orbs, Deal 150% damage
 
 #19: ESColumnSpawnMulti(77:8877) -> Double Sacrifice
 Condition: 50% chance (ai:50 rnd:0)
@@ -107,10 +107,10 @@ end_turn
 	Spawn Bomb orbs in the specified positions
 
 #24: ESOrbChangeAttack(48:8889) -> Sacrifice Saber
-Change Poison to Dark, Deal 170% damage
+Change all Poison orbs to Dark orbs, Deal 170% damage
 
 #25: ESOrbChangeAttack(48:8890) -> Drill Break
-Change Jammer to Fire, Deal 150% damage
+Change all Jammer orbs to Fire orbs, Deal 150% damage
 
 #26: ESRowSpawnMulti(79:8886) -> Double Sacrifice
 Condition: 33% chance (ai:33 rnd:0)
@@ -134,7 +134,7 @@ flag SET 0b111
 
 #32: SkillSet:
 	[0] ESRecoverEnemy86(86:8894) -> Aaaahhhhhh! I won't forgive you!!
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 	[1] ESBindAwoken(88:8895) -> I'll weaken you!!
 	Bind awoken skills for 5 turns
 

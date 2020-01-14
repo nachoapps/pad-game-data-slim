@@ -13,7 +13,7 @@ level: 4
  | Bind active skills for 1 turn, Deal 95% damage
  | condition: 50% chance
  | (13457:104) Long Sound Timbre
- | 2x2 cloud appear for 1 turn at random location, Deal 95% damage
+ | A 2×2 square of clouds appears for 1 turn at a random location, Deal 95% damage
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (13462:17) Musician's Bonds

@@ -32,7 +32,7 @@ Branch on hp < 50, target rnd 12
 
 #8: ESOrbChangeAttack(48:5752) -> Work of the Devil
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Jammer, Deal 170% damage
+Change a random attribute to Jammer orbs, Deal 170% damage
 
 #9: ESAttackMultihit(15:5753) -> Devil Dragon's Blade
 Condition: 33% chance (ai:0 rnd:33)

@@ -19,7 +19,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (6003:48) Fire Spirit's Writing
-     | Change Random to Fire, Deal 80% damage
+     | Change a random attribute to Fire orbs, Deal 80% damage
  | group:
  | condition: hp <= 24
    | group:

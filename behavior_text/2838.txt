@@ -31,7 +31,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (4208:86) Aatma Yogah
-     | Enemy recover 5%~8% hp, Deal 100% damage
+     | Enemy recover 5%~8% HP, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (4209:15) Nairantarya
@@ -50,28 +50,28 @@ level: 1
    | condition: execute repeatedly, turn 1 of 4
      | condition: 15% chance
      | (4248:48) Pratisedha
-     | Change Heal to Jammer, Deal 160% damage
+     | Change all Heal orbs to Jammer orbs, Deal 160% damage
      | (4207:50) Pramaada Dukkha
      | Player -99% HP
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | condition: 15% chance
      | (4248:48) Pratisedha
-     | Change Heal to Jammer, Deal 160% damage
+     | Change all Heal orbs to Jammer orbs, Deal 160% damage
      | (4208:86) Aatma Yogah
-     | Enemy recover 5%~8% hp, Deal 100% damage
+     | Enemy recover 5%~8% HP, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | condition: 15% chance
      | (4248:48) Pratisedha
-     | Change Heal to Jammer, Deal 160% damage
+     | Change all Heal orbs to Jammer orbs, Deal 160% damage
      | (4209:15) Nairantarya
      | Deal 132% damage (3 hits, 44% each)
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | condition: 15% chance
      | (4248:48) Pratisedha
-     | Change Heal to Jammer, Deal 160% damage
+     | Change all Heal orbs to Jammer orbs, Deal 160% damage
      | (4210:67) Guruh Karma
      | Absorb damage when combos <= 6 for 1 turn, Deal 140% damage
  | group:

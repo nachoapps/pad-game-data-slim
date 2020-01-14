@@ -26,11 +26,11 @@ Jammer skyfall +10% for 15 turns
 end_turn
 
 #8: ESAttackMultihit(15:3241) -> Limit Burst
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 1000% damage (2 hits, 500% each)
 
 #9: ESSkillDelay(89:3240) -> Absorption
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 1 turn
 
 #10: ESRandomSpawn(92:3584) -> Envy Poison

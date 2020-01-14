@@ -38,7 +38,7 @@ Spawn 3 random Dark orbs, Deal 100% damage
 
 #11: ESOrbChangeAttack(48:10403) -> Dark Pillar
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Dark, Deal 105% damage
+Change a random attribute to Dark orbs, Deal 105% damage
 
 #12: ESAttackMultihit(15:10404) -> Spirit Darkness
 Condition: 34% chance (ai:0 rnd:34)
@@ -57,7 +57,7 @@ flag SET 0b11
 	[0] ESBlindStickyRandom(97:10405) -> Swallowing Darkness
 	Blind random 8 orbs for 1 turn
 	[1] ESOrbChangeAttack(48:10403) -> Dark Pillar
-	Change Random to Dark, Deal 105% damage
+	Change a random attribute to Dark orbs, Deal 105% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

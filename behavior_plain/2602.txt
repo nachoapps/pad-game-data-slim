@@ -128,11 +128,11 @@ flag SET 0b1
 end_turn
 
 #39: SkillSet:
-	Condition: When < 1% hp , one-time use (ai:100 rnd:0) (cost: 8)
+	Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESBindSkill(14:7257) -> 咆哮
 	Bind active skills for 3 turns
 	[1] ESRecoverEnemy86(86:7326) -> 暴走状態へ移行
-	Enemy recover 60% hp
+	Enemy recover 60% HP
 	[2] ESDamageShield(74:7259) -> 地中潜り
 	Reduce damage from all sources by 75% for 1 turn
 
@@ -171,84 +171,84 @@ Deal 1500% damage
 Branch on hp < 20, target rnd 60
 
 #48: SkillSet:
-	Condition: 33% chance when < 40% hp (ai:33 rnd:0)
+	Condition: 33% chance when < 40% HP (ai:33 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7268) -> 怒り
 	Increase damage to 150% for the next 1 turn
 	[1] ESOrbChangeAttack(48:7262) -> 地表角抉り攻撃
-	Change Random to Jammer, Deal 1200% damage
+	Change a random attribute to Jammer orbs, Deal 1200% damage
 
 #49: SkillSet:
-	Condition: 50% chance when < 40% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 40% HP (ai:50 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7268) -> 怒り
 	Increase damage to 150% for the next 1 turn
 	[1] ESBlind62(62:7263) -> 飛びかかり潜り
 	Blind all orbs on the board, Deal 1200% damage
 
 #50: SkillSet:
-	Condition: When < 40% hp (ai:100 rnd:0)
+	Condition: When < 40% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7268) -> 怒り
 	Increase damage to 150% for the next 1 turn
 	[1] ESAttackMultihit(15:7264) -> 連続角振り回し
 	Deal 1000~1500% damage (2~3 hits, 500% each)
 
 #51: SkillSet:
-	Condition: 33% chance when < 60% hp (ai:33 rnd:0)
+	Condition: 33% chance when < 60% HP (ai:33 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7267) -> 怒り
 	Increase damage to 140% for the next 1 turn
 	[1] ESOrbChangeAttack(48:7262) -> 地表角抉り攻撃
-	Change Random to Jammer, Deal 1200% damage
+	Change a random attribute to Jammer orbs, Deal 1200% damage
 
 #52: SkillSet:
-	Condition: 50% chance when < 60% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 60% HP (ai:50 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7267) -> 怒り
 	Increase damage to 140% for the next 1 turn
 	[1] ESBlind62(62:7263) -> 飛びかかり潜り
 	Blind all orbs on the board, Deal 1200% damage
 
 #53: SkillSet:
-	Condition: When < 60% hp (ai:100 rnd:0)
+	Condition: When < 60% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7267) -> 怒り
 	Increase damage to 140% for the next 1 turn
 	[1] ESAttackMultihit(15:7264) -> 連続角振り回し
 	Deal 1000~1500% damage (2~3 hits, 500% each)
 
 #54: SkillSet:
-	Condition: 33% chance when < 70% hp (ai:33 rnd:0)
+	Condition: 33% chance when < 70% HP (ai:33 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7266) -> 怒り
 	Increase damage to 130% for the next 1 turn
 	[1] ESOrbChangeAttack(48:7262) -> 地表角抉り攻撃
-	Change Random to Jammer, Deal 1200% damage
+	Change a random attribute to Jammer orbs, Deal 1200% damage
 
 #55: SkillSet:
-	Condition: 50% chance when < 70% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 70% HP (ai:50 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7266) -> 怒り
 	Increase damage to 130% for the next 1 turn
 	[1] ESBlind62(62:7263) -> 飛びかかり潜り
 	Blind all orbs on the board, Deal 1200% damage
 
 #56: SkillSet:
-	Condition: When < 70% hp (ai:100 rnd:0)
+	Condition: When < 70% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7266) -> 怒り
 	Increase damage to 130% for the next 1 turn
 	[1] ESAttackMultihit(15:7264) -> 連続角振り回し
 	Deal 1000~1500% damage (2~3 hits, 500% each)
 
 #57: SkillSet:
-	Condition: 33% chance when < 90% hp (ai:33 rnd:0)
+	Condition: 33% chance when < 90% HP (ai:33 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7265) -> 怒り
 	Increase damage to 120% for the next 1 turn
 	[1] ESOrbChangeAttack(48:7262) -> 地表角抉り攻撃
-	Change Random to Jammer, Deal 1200% damage
+	Change a random attribute to Jammer orbs, Deal 1200% damage
 
 #58: SkillSet:
-	Condition: 50% chance when < 90% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 90% HP (ai:50 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7265) -> 怒り
 	Increase damage to 120% for the next 1 turn
 	[1] ESBlind62(62:7263) -> 飛びかかり潜り
 	Blind all orbs on the board, Deal 1200% damage
 
 #59: SkillSet:
-	Condition: When < 90% hp (ai:100 rnd:0)
+	Condition: When < 90% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7265) -> 怒り
 	Increase damage to 120% for the next 1 turn
 	[1] ESAttackMultihit(15:7264) -> 連続角振り回し

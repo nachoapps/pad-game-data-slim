@@ -37,7 +37,7 @@ Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 90% dam
 
 #11: ESOrbChangeAttackBits(108:15180) -> ダークフミキリガン
 Condition: 25% chance (ai:0 rnd:25)
-Change Light to Dark, Deal 100% damage
+Change all Light orbs to Dark orbs, Deal 100% damage
 
 #12: ESAttackMultihit(15:15181) -> ダークシャリンドリル
 Condition: 25% chance (ai:0 rnd:25)

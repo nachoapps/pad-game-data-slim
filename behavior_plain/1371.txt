@@ -24,7 +24,7 @@ Branch on hp < 50, target rnd 10
 
 #7: ESOrbChangeAttack(48:1396) -> Hell's Charge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #8: ESAttackMultihit(15:1395) -> Ora ora ora oraah!!
 Deal 150% damage (5 hits, 30% each)
@@ -45,4 +45,4 @@ Change all orbs to Poison, Deal 10% damage
 end_turn
 
 #14: ESPoisonChangeRandomAttack(64:1398) -> Infernal Drive
-Change Random 6 to Poison, Deal 125% damage
+Change 6 random orbs to Poison orbs, Deal 125% damage

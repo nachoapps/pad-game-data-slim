@@ -18,13 +18,13 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (717:48) Main Battery Discharge
-   | Change Random to Fire, Deal 125% damage
+   | Change a random attribute to Fire orbs, Deal 125% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (717:48) Main Battery Discharge
-     | Change Random to Fire, Deal 125% damage
+     | Change a random attribute to Fire orbs, Deal 125% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (716:15) Royal Fortune

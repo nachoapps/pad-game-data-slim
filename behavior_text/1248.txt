@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (61:48) Dark Buddhist Magic
-   | Change Light to Dark, Deal 75% damage
+   | Change all Light orbs to Dark orbs, Deal 75% damage
    | (66:15) Purple Dragon Summoning
    | Deal 105% damage (3 hits, 35% each)
  | group:

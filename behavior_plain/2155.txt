@@ -14,11 +14,11 @@ end_turn
 Voids player buff effects
 
 #4: ESSkillDelay(89:2481) -> 神秘のサーフボード
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 1 turn
 
 #5: ESColumnSpawnMulti(77:2482) -> アクア・360°
-Condition: 50% chance when < 80% hp (ai:50 rnd:0)
+Condition: 50% chance when < 80% HP (ai:50 rnd:0)
 Change the 2nd and 3rd columns to Water orbs, Deal 120% damage
 
 #6: ESEndPath(36:26) -> ESEndPath

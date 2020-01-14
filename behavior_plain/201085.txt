@@ -15,7 +15,7 @@ nothing
 
 #4: ESOrbChangeAttack(48:806) -> Red Fruit
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #5: ESAttackMultihit(15:812) -> Gulp!
 Deal 160% damage (2 hits, 80% each)

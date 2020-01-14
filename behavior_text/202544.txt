@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (3691:48) 初日の出の鳴報
- | Change Random to Light, Deal 120% damage
+ | Change a random attribute to Light orbs, Deal 120% damage
  group:
  | group:
    | condition: 80% chance

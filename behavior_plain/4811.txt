@@ -73,7 +73,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #19: ESOrbChangeAttack(48:11245) -> Colorful Palette
 Condition: 17% chance (ai:0 rnd:17)
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage
 
 #20: ESDebuffMovetime(39:11246) -> Cracked Hourglass
 Condition: 17% chance (ai:0 rnd:17)

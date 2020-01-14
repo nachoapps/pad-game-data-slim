@@ -8,7 +8,7 @@ counter increment: 0
 Branch on hp > 100, target rnd 5
 
 #2: ESAttackUPCooldown(19:7454) -> Anger
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 99 turns
 
 #3: ESRandomSpawn(92:7458) -> Flash Ball

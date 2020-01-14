@@ -20,7 +20,7 @@ Deal 85% damage
 end_turn
 
 #6: ESBlind62(62:1626) -> Deep Shadow Breath
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Blind all orbs on the board, Deal 150% damage
 
 #7: ESAttackMultihit(15:477) -> Breath of the Night Sky

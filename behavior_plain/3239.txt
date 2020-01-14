@@ -29,7 +29,7 @@ Branch on counter >= 2, target rnd 15
 counter + 1
 
 #7: ESOrbChangeAttackBits(108:11663) -> Chaostrom
-Change Poison to Mortal Poison, Deal 150% damage
+Change all Poison orbs to Mortal Poison orbs, Deal 150% damage
 
 #8: ESRandomSpawn(92:11664) -> Abysstrom
 Condition: 50% chance (ai:0 rnd:50)
@@ -45,7 +45,7 @@ end_turn
 #11: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:11670) -> How regrettable
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESDamageShield(74:11671) -> Finally, you will struggle
 	Reduce damage from all sources by 75% for 99 turns
 
@@ -54,7 +54,7 @@ end_turn
 	[0] ESDamageShield(74:11667) -> Finally, you will struggle...
 	Reduce damage from all sources by 50% for 99 turns
 	[1] ESDebuffMovetime(39:11668) -> Prepare yourself!
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 
 #13: ESAttackMultihit(15:11672) -> Abyss Maelstrom
 Deal 1000% damage (5 hits, 200% each)

@@ -24,4 +24,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 39
    | (6936:86) Gathering Quintessence
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP

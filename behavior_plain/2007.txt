@@ -18,11 +18,11 @@ Increase damage to 300% for the next 999 turns
 Branch on hp > 50, target rnd 9
 
 #5: ESAttackMultihit(15:5888) -> Trample
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Deal 120% damage
 
 #6: ESAttackMultihit(15:5889) -> Trample
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Deal 120% damage
 
 #7: ESAttackMultihit(15:5890) -> Raging Charge

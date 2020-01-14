@@ -14,14 +14,14 @@ level: 4
  | group:
  | condition: always turn 1
    | (13443:105) Symphonic Harmony
-   | Rcv 50% for 3 turns
+   | RCV +50% for 3 turns
  | group:
    | condition: 50% chance
    | (13444:92) Sforzato Pesante
    | Spawn 1 random Heal orb, Deal 105% damage
    | condition: 50% chance
    | (13445:48) Adagio Calando
-   | Change Random to Light, Deal 95% damage
+   | Change a random attribute to Light orbs, Deal 95% damage
  | group:
  | condition: hp <= 19
    | (13446:92) Ritardando Ambient

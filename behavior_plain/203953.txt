@@ -35,7 +35,7 @@ Branch on hp < 50, target rnd 16
 Branch on hp < 20, target rnd 24
 
 #10: ESAttackMultihit(15:8304) -> 暴走
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 150~250% damage (3~5 hits, 50% each)
 
 #11: ESColumnSpawnMulti(77:8290) -> 切り裂く

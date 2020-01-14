@@ -15,18 +15,18 @@ Enable preempt if level 1
 	Voids status ailments for 999 turns
 
 #3: ESAbsorbCombo(67:10775) -> Burning Feather
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Absorb damage when combos <= 6 for 3 turns
 
 #4: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESSpinnersFixed(110:10778) -> Fire Knot
 	Specific orbs change every 1.0s for 3 turns
 	[1] ESBombFixedSpawn(103:10779) -> Devil Judgment
 	Spawn Bomb orbs in the specified positions
 
 #5: ESColumnSpawnMulti(77:10781) -> Crimson & Blue Flames
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Water orbs, Deal 250% damage
 
 #6: ESBindAttack(63:10776) -> Fire Chain of Jasmin

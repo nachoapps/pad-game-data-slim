@@ -56,8 +56,8 @@ Bind player leader for 2 turns
 end_turn
 
 #17: ESOrbChangeAttack(48:5688) -> Bolt Vajra
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 2)
-Change Heal to Jammer, Deal 110% damage
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 2)
+Change all Heal orbs to Jammer orbs, Deal 110% damage
 
 #18: ESRandomSpawn(92:5686) -> Thunder Vajra
 Condition: 40% chance (ai:40 rnd:0)
@@ -74,7 +74,7 @@ flag SET 0b111
 
 #22: SkillSet:
 	[0] ESRecoverEnemy86(86:5683) -> Crisis Wisdom
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESBindRandom(1:5684) -> Lightning strikes the field
 	Bind 6 random cards for 4 turns
 

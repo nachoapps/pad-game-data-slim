@@ -15,4 +15,4 @@ level: 1
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (5106:4) Guard Stance-Fire
- | Change Wood to Heal
+ | Change all Wood orbs to Heal orbs

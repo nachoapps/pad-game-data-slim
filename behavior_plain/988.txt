@@ -24,7 +24,7 @@ Branch on hp < 40, target rnd 10
 
 #7: ESOrbChangeAttack(48:1962) -> Sacred Mirror of Yata
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Dark to Light, Deal 50% damage
+Change all Dark orbs to Light orbs, Deal 50% damage
 
 #8: ESRowSpawnMulti(79:1961) -> Sacred Fertility Dance
 Change the 5th row to Heal orbs, Deal 100% damage
@@ -39,7 +39,7 @@ Branch on flag & 1, target rnd 14
 flag SET 0b1
 
 #12: ESRecoverEnemy86(86:1963) -> Shower of Healing
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

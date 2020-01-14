@@ -30,11 +30,11 @@ Branch on hp < 50, target rnd 15
 
 #9: ESOrbChangeAttack(48:1234) -> Whip of Love
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Random to Heal, Deal 125% damage
+Change a random attribute to Heal orbs, Deal 125% damage
 
 #10: ESOrbChangeAttack(48:1230) -> Water Orb Kick
 Condition: 30% chance (ai:30 rnd:0)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #11: ESAttackMultihit(15:1231) -> Blue Dragon Screw
 Condition: 40% chance (ai:40 rnd:0)

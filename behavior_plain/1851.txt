@@ -31,11 +31,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Movetime -2s for 2 turns
 
 #9: ESColumnSpawnMulti(77:1853) -> You can't see through my Nanto Seiken!
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change the 3rd column to Dark orbs, Deal 150% damage
 
 #10: ESOrbChangeAttack(48:1852) -> Hokuto Rakan Geki!!
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #11: SkillSet:
 	Condition: On death (ai:0 rnd:0)

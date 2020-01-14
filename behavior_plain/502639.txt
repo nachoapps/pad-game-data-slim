@@ -15,15 +15,15 @@ Enable preempt if level 1
 	Reduce damage from all sources by 75% for 2 turns
 
 #3: ESAbsorbCombo(67:15496) -> このままでは終わらんぞ
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 2 turns
 
 #4: ESAttackMultihit(15:15497) -> オーバーフェルミングフォース
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 500% damage
 
 #5: ESAbsorbAttribute(53:15495) -> 毒蛇の大顎
-Condition: 30% chance when < 50% hp (ai:30 rnd:0)
+Condition: 30% chance when < 50% HP (ai:30 rnd:0)
 Absorb Wood damage for 1 turn, Deal 140% damage
 
 #6: ESBindAttack(63:15494) -> 蛇痺牙

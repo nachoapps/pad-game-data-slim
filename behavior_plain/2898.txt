@@ -44,7 +44,7 @@ Player -1000% HP
 	[1] ESBoardChange(84:7098) -> Suppose we take things up a notch?
 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison
 	[2] ESCloud(104:7099) -> How's this?
-	Column of cloud appear for 1 turn at 1st row
+	A column of clouds appears for 1 turn at 1st row, 1st column
 
 #9: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 6, target rnd 11

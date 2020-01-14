@@ -26,15 +26,15 @@ end_turn
 Increase damage to 200% for the next 999 turns
 
 #7: ESAttackMultihit(15:4901) -> Justice Absolute Storm
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Deal 1600% damage (8 hits, 200% each)
 
 #8: ESDamageShield(74:4899) -> Justice Shield
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Reduce damage from all sources by 75% for 3 turns
 
 #9: ESSkyfall(68:4902) -> Justice Tempest
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Water, Jammer, and Poison skyfall +15% for 5 turns, Deal 120% damage
 
 #10: ESBranchFlag(43:10) -> ESBranchFlag

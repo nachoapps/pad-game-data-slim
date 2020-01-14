@@ -13,9 +13,9 @@ level: 5
  group:
  | group:
    | (49:48) Curing Breath
-   | Change Poison to Heal, Deal 120% damage
+   | Change all Poison orbs to Heal orbs, Deal 120% damage
    | (48:64) Poison Fog
-   | Change Random 6 to Poison, Deal 50% damage
+   | Change 6 random orbs to Poison orbs, Deal 50% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (40:65) Serpent Eye
@@ -25,7 +25,7 @@ level: 5
    | group:
    | condition: turn 2
      | (51:60) Poison Marking
-     | Change Random 3 to Poison
+     | Change 3 random orbs to Poison orbs
    | group:
      | (50:15) Purple Orbit
      | Deal 150% damage (3 hits, 50% each)

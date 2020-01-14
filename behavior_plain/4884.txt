@@ -41,7 +41,7 @@ Branch on hp > 96, target rnd 13
 Deal 110% damage (2 hits, 55% each)
 
 #13: ESRecoverEnemy86(86:11460) -> White Great Holy Tree
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -56,7 +56,7 @@ Branch on flag & 4, target rnd 20
 flag SET 0b111
 
 #18: ESRecoverEnemy86(86:11460) -> White Great Holy Tree
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -69,7 +69,7 @@ Branch on hp < 10, target rnd 28
 	[0] ESBlindStickyFixed(98:11463) -> Massive Dust Cloud
 	Blind orbs in specific positions for 1 turn
 	[1] ESOrbChangeAttack(48:11464) -> Splitting Ground
-	Change Random to Wood, Deal 120% damage
+	Change a random attribute to Wood orbs, Deal 120% damage
 
 #22: ESSkillDelay(89:11456) -> Downward Sword Slash
 Condition: 20% chance (ai:0 rnd:20)

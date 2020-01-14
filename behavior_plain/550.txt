@@ -11,5 +11,5 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESAttackUPCooldown(19:223) -> Medicine of Strength
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Increase damage to 300% for the next 5 turns

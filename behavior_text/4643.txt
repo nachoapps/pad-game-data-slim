@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 33% chance
    | (10377:48) Light Pillar
-   | Change Random to Light, Deal 110% damage
+   | Change a random attribute to Light orbs, Deal 110% damage
    | condition: 33% chance
    | (10378:89) Diminishing Rush
    | Delay active skills by 1~2 turns, Deal 100% damage

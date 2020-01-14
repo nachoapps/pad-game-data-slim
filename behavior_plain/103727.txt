@@ -32,7 +32,7 @@ Voids status ailments for 1 turn
 end_turn
 
 #10: ESOrbLock(94:7378) -> Shuishufu
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all Water orbs, Deal 50% damage
 
 #11: ESAttackUPRemainingEnemies(17:7353) -> Fennu

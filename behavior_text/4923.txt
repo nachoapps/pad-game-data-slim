@@ -17,7 +17,7 @@ level: 4
    | Random 1 orbs change every 2.0s for 1 turn, Deal 90% damage
    | condition: 33% chance
    | (11689:86) Jaguar Shock
-   | Enemy recover 5% hp, Deal 85% damage
+   | Enemy recover 5% HP, Deal 85% damage
    | condition: 34% chance
    | (11690:15) Monkey Attack
    | Deal 100% damage (2 hits, 50% each)
@@ -38,7 +38,7 @@ level: 4
      | Random 1 orbs change every 2.0s for 1 turn, Deal 90% damage
      | condition: 33% chance
      | (11689:86) Jaguar Shock
-     | Enemy recover 5% hp, Deal 85% damage
+     | Enemy recover 5% HP, Deal 85% damage
      | condition: 34% chance
      | (11690:15) Monkey Attack
      | Deal 100% damage (2 hits, 50% each)

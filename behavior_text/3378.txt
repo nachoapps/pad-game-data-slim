@@ -22,7 +22,7 @@ level: 1
    | group:
    | condition: turn 1
      | (15873:83) You're not bad... + A present for you
-     | Do nothing + Change Random 1 to Jammer
+     | Do nothing + Change 1 random orb to Jammer orbs
    | group:
      | (15871:77) Gemini Star Lord
      | Change the 1st column to Light orbs and the 6th column to Dark orbs, Deal 95% damage

@@ -20,4 +20,4 @@ level: 4
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (9304:52) Shining Life
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP

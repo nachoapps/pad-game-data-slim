@@ -19,7 +19,7 @@ Bind 6 random cards for 2~4 turns
 
 #5: ESOrbChangeAttack(48:445) -> Sword Hunt!
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Jammer, Deal 70% damage
+Change a random attribute to Jammer orbs, Deal 70% damage
 
 #6: ESAttackMultihit(15:446) -> Breath of the Thundercloud
 Deal 75~125% damage (3~5 hits, 25% each)

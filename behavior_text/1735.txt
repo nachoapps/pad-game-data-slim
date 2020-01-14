@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (3052:48) Supersonic Cloud
-   | Change Light to Poison, Deal 10% damage
+   | Change all Light orbs to Poison orbs, Deal 10% damage
  | group:
  | condition: execute repeatedly, turn 3 of 5
    | (3055:83) Alter Ego! + Alter Ego Attack

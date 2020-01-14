@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (3173:83) Welcome! + I'll do my best, too!
- | Player recover 100% hp + Voids status ailments for 999 turns
+ | Player recover 100% HP + Voids status ailments for 999 turns
  group:
  | group:
    | group:

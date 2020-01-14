@@ -27,14 +27,14 @@ end_turn
 
 #8: ESRecoverEnemyAlly(52:3235) -> Follow Repair
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
-Enemy ally recover 45% hp
+Enemy ally recover 45% HP
 
 #9: ESAttackMultihit(15:3241) -> Limit Burst
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 1000% damage (2 hits, 500% each)
 
 #10: ESSkillDelay(89:3240) -> Absorption
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Delay active skills by 1 turn
 
 #11: ESBlind62(62:3237) -> Light Beam
@@ -47,7 +47,7 @@ Bind 1 random card for 4 turns, Deal 100% damage
 
 #13: ESOrbChangeAttack(48:3239) -> Energy Ball
 Condition: 40% chance (ai:0 rnd:40)
-Change Light to Jammer, Deal 120% damage
+Change all Light orbs to Jammer orbs, Deal 120% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

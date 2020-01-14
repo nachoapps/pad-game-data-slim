@@ -28,11 +28,11 @@ Branch on counter = 3, target rnd 11
 
 #7: ESOrbChangeAttack(48:11633) -> Lame du Tonnerre
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #8: ESRecoverEnemy86(86:11634) -> Épée Consolatrice
 Condition: 33% chance (ai:0 rnd:33)
-Enemy recover 5% hp, Deal 90% damage
+Enemy recover 5% HP, Deal 90% damage
 
 #9: ESAttackMultihit(15:11635) -> Atout Durée
 Condition: 34% chance (ai:0 rnd:34)
@@ -62,7 +62,7 @@ counter = 6
 	[0] ESGravity(50:11631) -> Convicting Justice
 	Player -99% HP
 	[1] ESDebuffRCV(105:11632) -> Life Deprivation
-	Rcv 50% for 3 turns
+	RCV +50% for 3 turns
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

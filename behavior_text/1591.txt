@@ -13,10 +13,10 @@ level: 5
  group:
  | group:
    | (1506:48) Crushing Jaws
-   | Change Jammer to Fire, Deal 200% damage
+   | Change all Jammer orbs to Fire orbs, Deal 200% damage
    | condition: 70% chance
    | (1505:48) Fire Eating Sickle
-   | Change Fire to Jammer, Deal 75% damage
+   | Change all Fire orbs to Jammer orbs, Deal 75% damage
    | (1507:15) Mantis Dragon Fist
    | Deal 120% damage (3 hits, 40% each)
  | group:
@@ -35,10 +35,10 @@ level: 10
  group:
  | group:
    | (1506:48) Crushing Jaws
-   | Change Jammer to Fire, Deal 200% damage
+   | Change all Jammer orbs to Fire orbs, Deal 200% damage
    | condition: 70% chance
    | (1505:48) Fire Eating Sickle
-   | Change Fire to Jammer, Deal 75% damage
+   | Change all Fire orbs to Jammer orbs, Deal 75% damage
    | (1507:15) Mantis Dragon Fist
    | Deal 120% damage (3 hits, 40% each)
  | group:

@@ -17,14 +17,14 @@ level: 3
    | Water skyfall +25% for 99 turns
  | group:
    | (1454:48) Crystal Bullet
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 74
    | condition: 25% chance
    | (1453:63) Deucalion Flood
    | Bind 3 random subs for 1~2 turns, Deal 75% damage
    | (1454:48) Crystal Bullet
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:

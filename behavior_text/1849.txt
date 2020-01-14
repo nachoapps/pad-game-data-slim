@@ -11,7 +11,7 @@ level: 1
  | (2397:6) Fatal Gift
  | Voids player buff effects
  | (2396:61) Fatal Gift
- | Change Random 2 to Mortal Poison
+ | Change 2 random orbs to Mortal Poison orbs
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 5
@@ -20,15 +20,15 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (2399:61) 3
-   | Change Random 5 to Mortal Poison
+   | Change 5 random orbs to Mortal Poison orbs
  | group:
  | condition: execute repeatedly, turn 3 of 5
    | (2400:61) 2
-   | Change Random 5 to Mortal Poison
+   | Change 5 random orbs to Mortal Poison orbs
  | group:
  | condition: execute repeatedly, turn 4 of 5
    | (2401:61) 1
-   | Change Random 5 to Mortal Poison
+   | Change 5 random orbs to Mortal Poison orbs
  | group:
  | condition: execute repeatedly, turn 5 of 5
    | (2402:15) Catastrophe

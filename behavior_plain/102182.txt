@@ -20,7 +20,7 @@ Deal 75% damage
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESGravity(50:2531) -> Mystic Curse
 	Player -99% HP
 	[1] ESAttackMultihit(15:2532) -> Chomp
@@ -30,7 +30,7 @@ end_turn
 Absorb damage when combos <= 4 for 99 turns
 
 #8: ESBindSkill(14:2527) -> Nine Ill Winds
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind active skills for 3 turns
 
 #9: ESRandomSpawn(92:2528) -> Crescent Moon Staff

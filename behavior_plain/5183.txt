@@ -57,7 +57,7 @@ end_turn
 
 #13: SkillSet:
 	[0] ESDebuffMovetime(39:12973) -> Annihilating Life
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 	[1] ESBoardChangeAttackBits(85:12974) -> Sea of Hell
 	Change all orbs to Mortal Poison, Deal 800% damage
 

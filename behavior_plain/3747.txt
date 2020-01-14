@@ -58,7 +58,7 @@ Branch on hp > 51, target rnd 13
 	[0] ESSkyfall(68:12299) -> Ashes
 	Jammer skyfall +20% for 10 turns
 	[1] ESDebuffRCV(105:12300) -> Sacrifice to the Furnace
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 
 #13: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
@@ -72,7 +72,7 @@ Branch on hp > 51, target rnd 13
 	[0] ESAbsorbAttribute(53:12292) -> Bellows of the Smelting Furnace
 	Absorb Water and Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:12306) -> Sacred Fire Dust
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 
 #15: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)

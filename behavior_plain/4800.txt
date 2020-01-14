@@ -57,13 +57,13 @@ Branch on combo >= 8, target rnd 16
 
 #15: SkillSet:
 	[0] ESDebuffMovetime(39:11186) -> I've not had my full of training yet!
-	Movetime 200% for 3 turns
+	Movetime +200% for 3 turns
 	[1] ESAbsorbCombo(67:11187) -> Train properly!
 	Absorb damage when combos <= 7 for 10 turns
 
 #16: SkillSet:
 	[0] ESDebuffRCV(105:11189) -> Well, this has a lot of promise
-	Rcv 200% for 3 turns
+	RCV +200% for 3 turns
 	[1] ESDamageShield(74:11190) -> Come and fight me!
 	Reduce damage from all sources by 75% for 99 turns
 
@@ -96,7 +96,7 @@ end_turn
 
 #25: ESRecoverPlayer(55:11195) -> Catch your breath!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Player recover 100% hp
+Player recover 100% HP
 
 #26: ESAttackMultihit(15:11196) -> Will you survive my attack?
 Deal 280% damage (8 hits, 35% each)

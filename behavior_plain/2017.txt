@@ -23,16 +23,16 @@ end_turn
 Absorb damage when combos <= 5 for 99 turns
 
 #7: ESAttackMultihit(15:13079) -> Enough for today. See you tomorrow!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 270% damage (3 hits, 90% each)
 
 #8: ESOrbChangeAttack(48:13074) -> Here I go!
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Heal to Jammer, Deal 75% damage
+Change all Heal orbs to Jammer orbs, Deal 75% damage
 
 #9: ESOrbChangeAttack(48:13077) -> You can do it!
 Condition: 30% chance (ai:30 rnd:0)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #10: ESGravity(50:13076) -> Are you already struggling?
 Condition: 40% chance (ai:40 rnd:0)

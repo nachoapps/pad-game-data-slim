@@ -56,7 +56,7 @@ end_turn
 #14: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:13628) -> Condensed Moonlight
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 	[1] ESSkyfall(68:13629) -> Guidance of the Cursed Poison
 	Mortal Poison skyfall +20% for 5 turns
 
@@ -70,7 +70,7 @@ flag SET 0b11
 	[0] ESDamageShield(74:13624) -> Silver Disk Divine Protection
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESDebuffMovetime(39:13625) -> Magic Wand's Sealing Power
-	Movetime 50% for 1 turn
+	Movetime +50% for 1 turn
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

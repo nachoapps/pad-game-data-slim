@@ -26,13 +26,13 @@ Absorb damage when combos <= 3 for 5 turns
 end_turn
 
 #8: ESBindRandomSub(65:1484) -> はああああ…!!!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random sub for 3 turns
 
 #9: ESAttackMultihit(15:1483) -> もうおまえたちは御用済みだよ
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 200% damage
 
 #10: ESOrbChangeAttack(48:1482) -> パッパラパーー!!
-Condition: 50% chance when < 75% hp (ai:50 rnd:0)
-Change Random to Jammer, Deal 50% damage
+Condition: 50% chance when < 75% HP (ai:50 rnd:0)
+Change a random attribute to Jammer orbs, Deal 50% damage

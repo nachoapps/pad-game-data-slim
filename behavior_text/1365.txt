@@ -18,7 +18,7 @@ level: 5
  | group:
    | condition: 50% chance
    | (1406:48) Moon Heaven Strike
-   | Change Light to Dark, Deal 85% damage
+   | Change all Light orbs to Dark orbs, Deal 85% damage
    | (1407:15) Nine Dragon Claws
    | Deal 120% damage (3 hits, 40% each)
  | group:

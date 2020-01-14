@@ -33,7 +33,7 @@ Lock 20 random orbs, Deal 110% damage
 
 #9: ESOrbChangeAttack(48:11452) -> I'm impressed.
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

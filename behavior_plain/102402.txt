@@ -23,8 +23,8 @@ end_turn
 Branch on hp > 100, target rnd 12
 
 #7: ESOrbChangeAttack(48:3375) -> Eat Heart Strike
-Condition: When < 20% hp (ai:100 rnd:0)
-Change Heal to Dark, Deal 300% damage
+Condition: When < 20% HP (ai:100 rnd:0)
+Change all Heal orbs to Dark orbs, Deal 300% damage
 
 #8: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 15

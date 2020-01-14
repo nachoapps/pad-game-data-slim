@@ -22,7 +22,7 @@ level: 4
  | condition: hp <= 59
    | condition: 40% chance, one time only
    | (3901:86) Curaga
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
    | condition: 75% chance
    | (3899:94) Flare
    | Lock 3 random Fire, Water, Wood, Light, and Dark orbs, Deal 110% damage
@@ -33,6 +33,6 @@ level: 4
  | condition: hp <= 19
    | condition: 40% chance, one time only
    | (3901:86) Curaga
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
    | (3900:92) Flare Star
    | Spawn 8 random Fire orbs, Deal 250% damage

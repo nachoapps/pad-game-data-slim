@@ -38,7 +38,7 @@ flag SET 0b11
 	[0] ESSkyfall(68:11165) -> G-Go back!
 	Poison skyfall +15% for 10 turns
 	[1] ESDebuffRCV(105:11166) -> It's d-d-dangerous!
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -48,7 +48,7 @@ Branch on hp < 50, target rnd 18
 
 #14: ESOrbChangeAttackBits(108:11168) -> P-Please be patient!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Poison to Heal, Deal 150% damage
+Change all Poison orbs to Heal orbs, Deal 150% damage
 
 #15: ESRandomSpawn(92:11167) -> B-Be careful!
 Condition: 50% chance (ai:0 rnd:50)

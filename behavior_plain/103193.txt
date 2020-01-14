@@ -19,16 +19,16 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Voids status ailments for 999 turns
 
 #4: ESInactivity66(66:12350) -> I'll finish this...
-Condition: When < 15% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 15% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Do nothing
 
 #5: ESAttackMultihit(15:12351) -> Terror Burst
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Deal 30% damage (10 hits, 3% each)
 
 #6: ESOrbChangeAttack(48:12348) -> Darkness Spear
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Dark, Deal 6% damage
+Change a random attribute to Dark orbs, Deal 6% damage
 
 #7: ESAttackMultihit(15:12349) -> Punishing Mist
 Deal 7% damage (7 hits, 1% each)

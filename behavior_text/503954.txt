@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: turn 1
      | (13929:86) I can still do it!
-     | Enemy recover 20% hp
+     | Enemy recover 20% HP
    | group:
      | condition: 50% chance
      | (13930:50) Hyaaa!

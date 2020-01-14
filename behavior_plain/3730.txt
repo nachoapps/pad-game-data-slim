@@ -32,7 +32,7 @@ Voids status ailments for 1 turn
 end_turn
 
 #10: ESOrbLock(94:7381) -> Heianshufu
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all Dark orbs, Deal 50% damage
 
 #11: ESAttackUPRemainingEnemies(17:7353) -> Fennu
@@ -46,7 +46,7 @@ Branch on flag & 2, target rnd 16
 flag SET 0b11
 
 #14: ESJammerChangeRandom(13:7351) -> Yaoshu
-Change Random 2 to Jammer, Deal 80% damage
+Change 2 random orbs to Jammer orbs, Deal 80% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

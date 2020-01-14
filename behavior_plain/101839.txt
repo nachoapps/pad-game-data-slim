@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:3791) -> Crossing Ray
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 600% damage (6 hits, 100% each)
 
 #7: ESBranchCard(90:3808) -> ESBranchCard
@@ -33,15 +33,15 @@ Branch on player_cards HAS [2440, 2441], target rnd 26
 Branch on player_cards HAS [1946, 1947], target rnd 26
 
 #9: ESBindAttribute(2:3801) -> Evaporate
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Water cards for 5 turns
 
 #10: ESDispel(6:3802) -> Erase Light
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Voids player buff effects
 
 #11: ESSkyfall(68:3793) -> Poison Mist
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Mortal Poison skyfall +20% for 2 turns
 
 #12: ESBranchHP(28:18) -> ESBranchHP

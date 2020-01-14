@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (840:48) 大波(ビッグウォール)!!!
-   | Change Random to Water, Deal 80% damage
+   | Change a random attribute to Water orbs, Deal 80% damage
  | group:
  | condition: turn 1, hp <= 49
    | (839:1) 渦波(トルネイヴ)!!!

@@ -30,7 +30,7 @@ counter + 1
 
 #8: ESCloud(104:15526) -> 地獄の煙
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
-3x1 cloud appear for 1 turn at random location, Deal 150% damage
+A 3×1 rectangle of clouds appears for 1 turn at a random location, Deal 150% damage
 
 #9: ESAttackMultihit(15:15524) -> 神喰い
 Deal 98~112% damage (7~8 hits, 14% each)

@@ -22,13 +22,13 @@ level: 4
    | Do nothing + Player -99% HP
  | group:
    | (9406:104) Tornado Fist
-   | 2x1 cloud appear for 1 turn at random location, Deal 100% damage
+   | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 2
      | (9409:83) Been a blast playin' defender, but I think I'll get on with my attack! + Wall of Wind
-     | Row of cloud appear for 1 turn at 1st column + Reduce damage from all sources by 50% for 1 turn
+     | A row of clouds appears for 1 turn at 3rd row, 1st column + Reduce damage from all sources by 50% for 1 turn
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (9410:15) I can't be waitin' any more! Let's play!
@@ -36,4 +36,4 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (9406:104) Tornado Fist
-     | 2x1 cloud appear for 1 turn at random location, Deal 100% damage
+     | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage

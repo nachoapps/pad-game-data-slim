@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (6476:83) White Valkyrie Shield + Fylgja Fur + Discerning Lifechains
- | Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + Rcv 50% for 20 turns
+ | Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + RCV +50% for 20 turns
  group:
  | group:
    | (6490:83) Bash + Double Slash
@@ -24,31 +24,31 @@ level: 1
  | group:
  | condition: turn 2 while HP > 59, hp <= 79
    | (6481:104) Test of Perception
-   | 2x3 cloud appear for 10 turns at 2nd row, 3rd column
+   | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
  | group:
  | condition: turn 3 while HP > 59, hp <= 69
    | (6482:39) Test of Speed
-   | Movetime 50% for 10 turns
+   | Movetime +50% for 10 turns
  | group:
  | condition: turn 1 while HP > 49, hp <= 59
    | (6486:83) Test of Skill + Test of Perception + Test of Speed + Test of Endurance
-   | Absorb damage when combos <= 5 for 10 turns + 2x3 cloud appear for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
+   | Absorb damage when combos <= 5 for 10 turns + A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
  | group:
  | condition: hp <= 49
    | (6487:83) Resurrection + Sweeping Spirit Garments
-   | Enemy recover 100% hp + Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+   | Enemy recover 100% HP + Change own attribute to random one of Fire, Water, Wood, Light, or Dark
  type: UNKNOWN_USE
  | condition: at most 2 times
  | (6485:83) Test of Perception + Test of Speed + Test of Endurance
- | 2x3 cloud appear for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
+ | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
  | condition: at most 5 times
  | (6484:83) Test of Speed + Test of Endurance
- | Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
+ | Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
  | condition: at most 15 times
  | (6483:19) Test of Endurance
  | Increase damage to 150% for the next 10 turns
  | (6496:83) Attack Stance - Light + Philanthropy + Decision
- | Change Heal to Light + Spawn 3 random Heal orbs + Lock all orbs, Deal 150% damage
+ | Change all Heal orbs to Light orbs + Spawn 3 random Heal orbs + Lock all orbs, Deal 150% damage
  | (6500:83) Sweeping Spirit Garments + Saintly Valkyrie Blade
  | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 4000~5000% damage (4~5 hits, 1000% each), Deal 4000~5000% damage (4~5 hits, 1000% each)
  | (6493:83) Mighty Bash + Triple Slash

@@ -12,11 +12,11 @@ level: 1
  | Increase damage to 200% for the next 5 turns
  group:
  | (15722:64) めっそうぐんぐにーるたまぁ！
- | Change Random 3 to Poison, Deal 100% damage
+ | Change 3 random orbs to Poison orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | (15725:64) めっそうぐんぐにーるたまぁ！
- | Change Random 3 to Poison, Deal 150% damage
+ | Change 3 random orbs to Poison orbs, Deal 150% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
@@ -25,4 +25,4 @@ level: 1
    | Unable to match Water orbs for 5 turns
  | group:
    | (15728:64) めっそうぐんぐにーるたまぁ！
-   | Change Random 3 to Poison, Deal 300% damage
+   | Change 3 random orbs to Poison orbs, Deal 300% damage

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13375:39) Affliction of the Water Dragon
- | Movetime 50% for 2 turns
+ | Movetime +50% for 2 turns
  group:
  | group:
    | condition: 50% chance
@@ -27,7 +27,7 @@ level: 1
    | group:
    | condition: turn 2
      | (13379:104) Gathering Steam
-     | 2x3 cloud appear for 1 turn at random location
+     | A 2×3 rectangle of clouds appears for 1 turn at a random location
    | group:
      | (13380:77) Water Dragon Sword
      | Change the 1st column to Water orbs and the 6th column to Water orbs, Deal 300% damage

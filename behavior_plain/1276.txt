@@ -26,9 +26,9 @@ Do nothing
 end_turn
 
 #8: ESStorePower(8:1037) -> This won't do...
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Increase damage to 500% for the next attack
 
 #9: ESOrbChangeAttack(48:1036) -> Oh? Let's play...
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Random, Deal 100% damage
+Change a random attribute to a random attribute, Deal 100% damage

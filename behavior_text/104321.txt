@@ -31,7 +31,7 @@ level: 4
    | group:
    | condition: turn 3 while HP > 19
      | (9454:83) Remaining at top strength is demanding... + ...and my body gets an impulse to devour.
-     | Spawn 6 random Jammer orbs + Enemy recover 30% hp
+     | Spawn 6 random Jammer orbs + Enemy recover 30% HP
    | group:
      | condition: 33% chance
      | (9450:15) Thumb Bullet

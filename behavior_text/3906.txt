@@ -33,8 +33,8 @@ level: 1
    | Spawn 3 random Heal orbs, Deal 200% damage
    | condition: when 6 combos last turn
    | (8470:13) Cruelty
-   | Change Random 1 to Jammer, Deal 230% damage
+   | Change 1 random orb to Jammer orbs, Deal 230% damage
    | (8472:48) Chaos
-   | Change Jammer to Light, Deal 1000% damage
+   | Change all Jammer orbs to Light orbs, Deal 1000% damage
    | (8471:15) The Truth of Suffering
    | Deal 280% damage (4 hits, 70% each)

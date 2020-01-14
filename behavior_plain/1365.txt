@@ -42,7 +42,7 @@ Branch on hp < 50, target rnd 16
 
 #13: ESOrbChangeAttack(48:1406) -> Moon Heaven Strike
 Condition: 50% chance (ai:50 rnd:0)
-Change Light to Dark, Deal 85% damage
+Change all Light orbs to Dark orbs, Deal 85% damage
 
 #14: ESAttackMultihit(15:1407) -> Nine Dragon Claws
 Deal 120% damage (3 hits, 40% each)

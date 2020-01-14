@@ -30,7 +30,7 @@ level: 1
    | group:
    | condition: turn 3 while HP > 89
      | (13638:83) Magic of the Silver Shoes + Golden Cap Spell
-     | Absorb damage when combos <= 6 for 99 turns + Rcv 50% for 5 turns
+     | Absorb damage when combos <= 6 for 99 turns + RCV +50% for 5 turns
    | group:
      | condition: 30% chance
      | (13597:74) Straw Body
@@ -69,10 +69,10 @@ level: 1
      | No skyfall for 1 turn + Seal the 6th column for 2 turns, Deal 65% damage
      | condition: 33% chance
      | (13601:83) Nostalgic Hope + Heart Regaining Power
-     | No skyfall for 1 turn + Change Heal to Light, Deal 55% damage
+     | No skyfall for 1 turn + Change all Heal orbs to Light orbs, Deal 55% damage
      | condition: 34% chance
      | (13602:83) Nostalgic Hope + Courage without Fear
-     | No skyfall for 1 turn + Change Random to Poison, Deal 60% damage
+     | No skyfall for 1 turn + Change a random attribute to Poison orbs, Deal 60% damage
  | group:
  | condition: turn 2 while HP > 19, hp <= 49
    | (13607:83) Golden Cap Spell + Yellow Brick Road
@@ -111,7 +111,7 @@ level: 6
    | group:
    | condition: turn 3 while HP > 89
      | (13591:83) Magic of the Silver Shoes + Golden Cap Spell
-     | Absorb damage when combos <= 7 for 99 turns + Rcv 50% for 5 turns
+     | Absorb damage when combos <= 7 for 99 turns + RCV +50% for 5 turns
    | group:
      | condition: 30% chance
      | (13597:74) Straw Body
@@ -150,10 +150,10 @@ level: 6
      | No skyfall for 1 turn + Seal the 6th column for 2 turns, Deal 65% damage
      | condition: 33% chance
      | (13601:83) Nostalgic Hope + Heart Regaining Power
-     | No skyfall for 1 turn + Change Heal to Light, Deal 55% damage
+     | No skyfall for 1 turn + Change all Heal orbs to Light orbs, Deal 55% damage
      | condition: 34% chance
      | (13602:83) Nostalgic Hope + Courage without Fear
-     | No skyfall for 1 turn + Change Random to Poison, Deal 60% damage
+     | No skyfall for 1 turn + Change a random attribute to Poison orbs, Deal 60% damage
  | group:
  | condition: turn 2 while HP > 19, hp <= 49
    | (13607:83) Golden Cap Spell + Yellow Brick Road

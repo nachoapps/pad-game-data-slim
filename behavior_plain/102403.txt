@@ -10,7 +10,7 @@ Enable preempt if level 1
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffRCV(105:11337) -> Bad Halloween!
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 	[1] ESVoidShield(71:11338) -> Trick or Treat
 	Void damage >= 10000000 for 99 turns
 
@@ -52,7 +52,7 @@ flag SET 0b1
 	[0] ESSkillDelay(89:11346) -> Wicked Smile
 	Delay active skills by 2~5 turns
 	[1] ESOrbChangeAttackBits(108:11347) -> Cauchemar Pumpkin
-	Change Heal to Jammer, Deal 110% damage
+	Change all Heal orbs to Jammer orbs, Deal 110% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

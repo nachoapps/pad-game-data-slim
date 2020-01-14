@@ -59,7 +59,7 @@ flag SET 0b111
 
 #16: SkillSet:
 	[0] ESDebuffRCV(105:7141) -> Shadow of Hel! Extinguish all life!
-	Rcv 50% for 99 turns
+	RCV +50% for 99 turns
 	[1] ESGravity(50:7142) -> Deathland Rune
 	Player -99% HP
 
@@ -77,7 +77,7 @@ flag SET 0b1111
 
 #21: SkillSet:
 	[0] ESCloud(104:7145) -> Shadow of Fenrir! Seal the heavens!
-	4x2 cloud appear for 10 turns at 1st row, 2nd column
+	A 4×2 rectangle of clouds appears for 10 turns at 1st row, 2nd column
 	[1] ESGravity(50:7146) -> Death Rune
 	Player -100% HP
 
@@ -129,12 +129,12 @@ flag SET 0b11111
 	[0] ESBoardChange(84:7149) -> Hold on! It's not your turn yet!
 	Change all orbs to Light, Heal, and Jammer
 	[1] ESDebuffMovetime(39:7150) -> Oh, fine... I'll let you have your fun
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 	[2] ESSkillDelay(89:7151) -> Can you erase all the Jammers?
 	Delay active skills by 30 turns
 
 #31: ESOrbChangeAttack(48:7152) -> Nope, guess not!
-Change Jammer to Dark, Deal 1000% damage
+Change all Jammer orbs to Dark orbs, Deal 1000% damage
 
 #32: SkillSet:
 	[0] ESInactivity66(66:7154) -> Guess now's as good a time as any

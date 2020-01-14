@@ -29,7 +29,7 @@ end_turn
 Branch on player_cards HAS [2457, 2458, 2459], target rnd 14
 
 #9: ESAbsorbCombo(67:3494) -> Barrier
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 3 for 10 turns
 
 #10: ESBranchHP(28:18) -> ESBranchHP
@@ -41,7 +41,7 @@ Spawn 3 random Poison orbs
 
 #12: ESOrbChangeAttack(48:3495) -> Miasma
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Poison, Deal 120% damage
+Change a random attribute to Poison orbs, Deal 120% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

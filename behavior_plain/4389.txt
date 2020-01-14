@@ -73,7 +73,7 @@ Branch on counter = 8, target rnd 22
 
 #21: SkillSet:
 	[0] ESOrbChangeAttack(48:9981) -> Agidyne
-	Change Random to Jammer, Deal 50% damage
+	Change a random attribute to Jammer orbs, Deal 50% damage
 	[1] ESOrbLock(94:9982) -> Bufudyne
 	Lock 10 random orbs, Deal 50% damage
 
@@ -112,9 +112,9 @@ Branch on counter = 13, target rnd 31
 
 #31: SkillSet:
 	[0] ESOrbChangeAttack(48:9993) -> Kougaon
-	Change Random to Light, Deal 50% damage
+	Change a random attribute to Light orbs, Deal 50% damage
 	[1] ESOrbChangeAttack(48:9994) -> Eigaon
-	Change Random to Dark, Deal 50% damage
+	Change a random attribute to Dark orbs, Deal 50% damage
 
 #32: ESEndPath(36:26) -> ESEndPath
 end_turn

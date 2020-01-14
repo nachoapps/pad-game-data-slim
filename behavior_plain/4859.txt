@@ -31,7 +31,7 @@ Leader changes to random sub for 1 turn, Deal 90% damage
 
 #8: ESOrbChangeAttack(48:11498) -> Fire!
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #9: ESRandomSpawn(92:11499) -> Yaa!
 Condition: 50% chance (ai:0 rnd:50)

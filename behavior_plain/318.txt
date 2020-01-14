@@ -18,7 +18,7 @@ Condition: One-time use (ai:0 rnd:100) (cost: 1)
 Do nothing
 
 #5: ESAttackUPRemainingEnemies(17:158) -> Overdrive
-Condition: When < 40% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 40% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 150% for the next 15 turns
 
 #6: ESEndPath(36:26) -> ESEndPath

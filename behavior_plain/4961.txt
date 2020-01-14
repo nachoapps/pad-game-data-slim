@@ -19,7 +19,7 @@ Branch on hp < 50, target rnd 9
 
 #5: ESDebuffRCV(105:11958) -> オラ　負けないズラよ！
 Condition: 33% chance (ai:0 rnd:33)
-Rcv 50% for 1 turn, Deal 80% damage
+RCV +50% for 1 turn, Deal 80% damage
 
 #6: ESAttackMultihit(15:11959) -> ズラッ！
 Condition: 33% chance (ai:0 rnd:33)
@@ -27,7 +27,7 @@ Deal 100% damage
 
 #7: ESOrbChangeAttack(48:11960) -> いかずちの術ズラ！
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Light, Deal 95% damage
+Change a random attribute to Light orbs, Deal 95% damage
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn

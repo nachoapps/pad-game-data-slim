@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 40% chance
    | (15354:105) 鳴き声
-   | Rcv 50% for 2 turns, Deal 90% damage
+   | RCV +50% for 2 turns, Deal 90% damage
    | (15353:15) 乱れひっかき
    | Deal 105% damage (3 hits, 35% each)
  | group:

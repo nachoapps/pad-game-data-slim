@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: ESRecoverPlayer(55:460) -> Fight me with all your strength!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 50, target rnd 9
@@ -32,7 +32,7 @@ end_turn
 
 #9: ESOrbChangeAttack(48:447) -> Wolf Attack
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 70% damage
+Change a random attribute to Jammer orbs, Deal 70% damage
 
 #10: ESAttackMultihit(15:448) -> Whirlwind Barrage
 Condition: 70% chance (ai:70 rnd:0)

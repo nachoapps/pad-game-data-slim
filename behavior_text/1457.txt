@@ -16,7 +16,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1206:64) ロイヤルデモンローズ!!
-     | Change Random 6 to Poison, Deal 50% damage
+     | Change 6 random orbs to Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1207:15) ピラニアンローズ!!
@@ -35,7 +35,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1206:64) ロイヤルデモンローズ!!
-     | Change Random 6 to Poison, Deal 50% damage
+     | Change 6 random orbs to Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1207:15) ピラニアンローズ!!

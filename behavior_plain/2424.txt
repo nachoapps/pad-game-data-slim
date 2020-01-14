@@ -21,14 +21,14 @@ end_turn
 	Random 1 orbs change every 1.0s for 10 turns
 
 #5: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAbsorbCombo(67:10071) -> Gravity Dome
 	Absorb damage when combos <= 5 for 10 turns
 	[1] ESStatusShield(20:10072) -> Twin Star Protection
 	Voids status ailments for 999 turns
 
 #6: ESBombRandomSpawn(102:10075) -> Dark Matter Blast
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Spawn 8 random locked Bomb orbs, Deal 300% damage
 
 #7: ESDamageShield(74:10074) -> Grava Ursna

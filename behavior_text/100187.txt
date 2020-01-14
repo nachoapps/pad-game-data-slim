@@ -15,18 +15,18 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (4773:83) Poison Lightning + Constrain
-     | Change Random 6 to Poison + Lock all Mortal Poison orbs, Deal 50% damage
+     | Change 6 random orbs to Poison orbs + Lock all Mortal Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 30% chance
      | (4763:48) Tera Bolt
-     | Change Heal to Jammer, Deal 70% damage
+     | Change all Heal orbs to Jammer orbs, Deal 70% damage
  | group:
  | condition: hp <= 74
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (4773:83) Poison Lightning + Constrain
-     | Change Random 6 to Poison + Lock all Mortal Poison orbs, Deal 50% damage
+     | Change 6 random orbs to Poison orbs + Lock all Mortal Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 50% chance
@@ -34,13 +34,13 @@ level: 1
      | Deal 150% damage
      | condition: 30% chance
      | (4763:48) Tera Bolt
-     | Change Heal to Jammer, Deal 70% damage
+     | Change all Heal orbs to Jammer orbs, Deal 70% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 19
      | (4773:83) Poison Lightning + Constrain
-     | Change Random 6 to Poison + Lock all Mortal Poison orbs, Deal 50% damage
+     | Change 6 random orbs to Poison orbs + Lock all Mortal Poison orbs, Deal 50% damage
    | group:
    | condition: turn 2 while HP > 19
      | (4762:3) Glare of Zeus
@@ -52,11 +52,11 @@ level: 1
      | Deal 150% damage
      | condition: 30% chance
      | (4763:48) Tera Bolt
-     | Change Heal to Jammer, Deal 70% damage
+     | Change all Heal orbs to Jammer orbs, Deal 70% damage
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (4773:83) Poison Lightning + Constrain
-     | Change Random 6 to Poison + Lock all Mortal Poison orbs, Deal 50% damage
+     | Change 6 random orbs to Poison orbs + Lock all Mortal Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | condition: 50% chance
@@ -64,7 +64,7 @@ level: 1
      | Deal 150% damage
      | condition: 30% chance
      | (4763:48) Tera Bolt
-     | Change Heal to Jammer, Deal 70% damage
+     | Change all Heal orbs to Jammer orbs, Deal 70% damage
  | group:
  | condition: hp <= 19
    | (4760:15) Super Nova

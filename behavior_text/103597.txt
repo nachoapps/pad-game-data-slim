@@ -54,4 +54,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (6679:83) Cell Proliferate + Helter-Skelter
-   | Enemy recover 51% hp + Increase damage to 200% for the next 999 turns
+   | Enemy recover 51% HP + Increase damage to 200% for the next 999 turns

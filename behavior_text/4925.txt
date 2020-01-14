@@ -26,7 +26,7 @@ level: 4
    | group:
    | condition: always turn 1
      | (11744:86) Power of Amadam
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | condition: 50% chance
      | (11745:83) Jump + Punch

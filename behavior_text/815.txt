@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 70% chance
    | (527:48) Tension Stop
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 29
    | (522:8) High Tension

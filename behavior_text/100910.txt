@@ -19,6 +19,6 @@ level: 1
    | Increase damage to 200% for the next 999 turns
  | group:
    | (8798:108) Dark Slash
-   | Change Poison to Dark, Deal 290% damage
+   | Change all Poison orbs to Dark orbs, Deal 290% damage
    | (8799:15) Death Edge
    | Deal 1050% damage (7 hits, 150% each)

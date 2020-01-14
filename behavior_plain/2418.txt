@@ -42,7 +42,7 @@ Branch on hp < 10, target rnd 20
 
 #12: ESOrbChangeAttackBits(108:9688) -> Aqua☆Conversion
 Condition: 33% chance (ai:0 rnd:33)
-Change Heal to Water, Deal 125% damage
+Change all Heal orbs to Water orbs, Deal 125% damage
 
 #13: ESOrbSealRow(100:9689) -> Area☆Restriction
 Condition: 33% chance (ai:0 rnd:33)
@@ -65,7 +65,7 @@ flag SET 0b11
 	[0] ESAttackUPRemainingEnemies(17:9691) -> I'm angry!
 	Increase damage to 300% for the next 1 turn
 	[1] ESOrbChangeSingle(4:9692) -> Fight through the pain, yeah? ♪
-	Change Heal to Water
+	Change all Heal orbs to Water orbs
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

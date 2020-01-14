@@ -23,11 +23,11 @@ flag SET 0b1
 Deal 110% damage
 
 #7: ESAttackMultihit(15:561) -> Western Seven-Star Formation
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 490% damage (7 hits, 70% each)
 
 #8: ESAttackMultihit(15:559) -> Fierce Tiger Slashing Claws
-Condition: 60% chance when < 60% hp (ai:60 rnd:0)
+Condition: 60% chance when < 60% HP (ai:60 rnd:0)
 Deal 140~175% damage (4~5 hits, 35% each)
 
 #9: ESGravity(50:560) -> Disastrous Heavy Fangs

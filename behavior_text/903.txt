@@ -12,7 +12,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (709:48) Discharge
-     | Change Random to Light, Deal 80% damage
+     | Change a random attribute to Light orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (708:15) Volt Axe
@@ -26,7 +26,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2 of 6
      | (709:48) Discharge
-     | Change Random to Light, Deal 80% damage
+     | Change a random attribute to Light orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 3 of 6
      | (708:15) Volt Axe
@@ -34,7 +34,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 4 of 6
      | (709:48) Discharge
-     | Change Random to Light, Deal 80% damage
+     | Change a random attribute to Light orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (708:15) Volt Axe
@@ -42,7 +42,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (709:48) Discharge
-     | Change Random to Light, Deal 80% damage
+     | Change a random attribute to Light orbs, Deal 80% damage
  | group:
  | condition: hp <= 24
    | group:
@@ -52,4 +52,4 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2-6 of 6
      | (710:48) Thunder Weapon
-     | Change Random to Light, Deal 160% damage
+     | Change a random attribute to Light orbs, Deal 160% damage

@@ -41,7 +41,7 @@ Delay active skills by 2 turns, Deal 110% damage
 
 #12: ESOrbChangeAttack(48:8441) -> Apokaliptan Weaponry
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 130% damage
+Change a random attribute to Fire orbs, Deal 130% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

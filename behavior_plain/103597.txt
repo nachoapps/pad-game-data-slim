@@ -31,9 +31,9 @@ flag SET 0b1
 end_turn
 
 #7: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:6678) -> Cell Proliferate
-	Enemy recover 51% hp
+	Enemy recover 51% HP
 	[1] ESAttackUPRemainingEnemies(17:6675) -> Helter-Skelter
 	Increase damage to 200% for the next 999 turns
 
@@ -71,7 +71,7 @@ Branch on flag & 4, target rnd 20
 flag SET 0b111
 
 #18: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESAbsorbCombo(67:6668) -> Trauma Dimension
 	Absorb damage when combos <= 5 for 999 turns
 	[1] ESSkyfall(68:6669) -> Jamming
@@ -81,7 +81,7 @@ flag SET 0b111
 end_turn
 
 #20: ESAttackMultihit(15:6676) -> Limit Break
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 6000% damage (3 hits, 2000% each)
 
 #21: SkillSet:

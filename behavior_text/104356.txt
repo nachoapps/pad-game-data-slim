@@ -27,7 +27,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (10085:83) Black Feelings + Light Eater
-     | Delay active skills by 5 turns + Change Light to Heal, Deal 108% damage
+     | Delay active skills by 5 turns + Change all Light orbs to Heal orbs, Deal 108% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (10086:1) Fury Against a Sworn Rival

@@ -30,26 +30,26 @@ Blind all orbs on the board
 
 #8: ESPoisonChangeRandomAttack(64:15400) -> 消化液
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
-Change Random 3 to Poison, Deal 100% damage
+Change 3 random orbs to Poison orbs, Deal 100% damage
 
 #9: ESPoisonChangeRandomAttack(64:15401) -> 消化液
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Change Random 6 to Poison, Deal 100% damage
+Change 6 random orbs to Poison orbs, Deal 100% damage
 
 #10: ESPoisonChangeRandomAttack(64:15402) -> 消化液
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Change Random 9 to Poison, Deal 100% damage
+Change 9 random orbs to Poison orbs, Deal 100% damage
 
 #11: ESPoisonChangeRandomAttack(64:15403) -> 消化液
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Random 12 to Poison, Deal 100% damage
+Change 12 random orbs to Poison orbs, Deal 100% damage
 
 #12: ESPoisonChangeRandomAttack(64:15404) -> 消化液
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random 15 to Poison, Deal 100% damage
+Change 15 random orbs to Poison orbs, Deal 100% damage
 
 #13: ESPoisonChangeRandomAttack(64:15405) -> 消化液
-Change Random 30 to Poison, Deal 100% damage
+Change 30 random orbs to Poison orbs, Deal 100% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

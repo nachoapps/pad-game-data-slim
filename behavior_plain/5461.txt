@@ -34,7 +34,7 @@ Deal 100% damage
 
 #9: ESOrbChangeAttack(48:14094) -> いいかげんにしろォォ!!
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Water, Deal 95% damage
+Change a random attribute to Water orbs, Deal 95% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

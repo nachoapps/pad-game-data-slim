@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (6989:83) Demonic Eye of Truth + Lifeseal Talisman + Chime of the Demon Moon
- | Delay active skills by 10 turns + Rcv 50% for 10 turns + Bind active skills for 10 turns
+ | Delay active skills by 10 turns + RCV +50% for 10 turns + Bind active skills for 10 turns
  group:
  | type: MONSTER_STATUS
    | (6998:18) Accursed Tiara
@@ -23,7 +23,7 @@ level: 1
    | condition: execute repeatedly, turn 1-8 of 9
      | condition: 50% chance
      | (6994:48) Shadow Drop
-     | Change Water to Dark, Deal 250% damage
+     | Change all Water orbs to Dark orbs, Deal 250% damage
      | (6993:15) Concealed Mirror Kunai
      | Deal 280% damage (2 hits, 140% each)
    | group:

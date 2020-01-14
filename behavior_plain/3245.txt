@@ -28,7 +28,7 @@ end_turn
 Branch on hp < 1, target rnd 19
 
 #7: ESBombFixedSpawn(103:5641) -> Void Burn
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn Bomb orbs in the specified positions, Deal 5000% damage
 
 #8: ESBranchHP(28:18) -> ESBranchHP
@@ -63,7 +63,7 @@ Branch on flag & 4, target rnd 13
 flag SET 0b111
 
 #17: ESAbsorbCombo(67:5639) -> Nine Seek
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Absorb damage when combos <= 8 for 9 turns, Deal 20% damage
 
 #18: ESEndPath(36:26) -> ESEndPath
@@ -72,12 +72,12 @@ end_turn
 #19: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:5640) -> Death Avoidance
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESBindAttack(63:5675) -> Nampulse
 	Bind 1 random card for 9 turns, Deal 200% damage
 
 #20: ESBombFixedSpawn(103:5641) -> Void Burn
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn Bomb orbs in the specified positions, Deal 5000% damage
 
 #21: ESEndPath(36:26) -> ESEndPath

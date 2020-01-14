@@ -10,10 +10,10 @@ level: 1
  group:
  | condition: 60% chance
  | (15374:105) 碧眼
- | Rcv 50% for 1 turn, Deal 100% damage
+ | RCV +50% for 1 turn, Deal 100% damage
  | (15375:50) グリーンパワー
  | Player -99% HP
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (15373:52) 古代の力
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP

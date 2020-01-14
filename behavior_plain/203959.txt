@@ -26,8 +26,8 @@ Bind 1 random card for 1 turn, Deal 100% damage
 end_turn
 
 #8: ESRecoverEnemy7(7:8284) -> 食糧補給
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 100% HP
 
 #9: ESRandomSpawn(92:8282) -> ライトピット
 Condition: 40% chance & when Light orbs are on the board (ai:40 rnd:0)

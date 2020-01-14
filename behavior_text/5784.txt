@@ -15,7 +15,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (15757:57) 罠カード「死のデッキ破壊ウイルス」
-     | Change Random to Poison
+     | Change a random attribute to Poison orbs
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
      | (15756:15) 行け、ブルーアイズ！

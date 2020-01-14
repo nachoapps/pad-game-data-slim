@@ -18,7 +18,7 @@ level: 5
  group:
  | condition: 20% chance
  | (2144:60) Poison
- | Change Random 8 to Poison
+ | Change 8 random orbs to Poison orbs
  | condition: 30% chance
  | (2145:79) Blizzara
  | Change the 3rd row to Water orbs, Deal 100% damage

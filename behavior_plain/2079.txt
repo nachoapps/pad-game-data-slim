@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESSkillDelay(89:14232) -> Ready against incoming attack
 	Delay active skills by 3~6 turns
 	[2] ESDebuffMovetime(39:14253) -> Adowan Pakusha
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8
@@ -75,7 +75,7 @@ Branch on hp > 21, target rnd 4
 	[0] ESBindAwoken(88:14252) -> Udaaha Krtatu Kusaya
 	Bind awoken skills for 2 turns
 	[1] ESDebuffMovetime(39:14253) -> Adowan Pakusha
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 
 #14: ESAttackMultihit(15:14254) -> Kurtosuna Pulluronchee
 Deal 450% damage (3 hits, 150% each)

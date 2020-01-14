@@ -71,7 +71,7 @@ counter + 1
 
 #18: SkillSet:
 	[0] ESDebuffMovetime(39:14827) -> Fight♪
-	Movetime 500% for 99 turns
+	Movetime +500% for 99 turns
 	[1] ESRandomSpawn(92:14828) -> Don't give up!
 	Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
 

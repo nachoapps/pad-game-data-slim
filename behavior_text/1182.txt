@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (903:55) Lucky Encounter
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 50% chance
    | (959:48) Wood Spirit's Writing
-   | Change Random to Wood, Deal 80% damage
+   | Change a random attribute to Wood orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:

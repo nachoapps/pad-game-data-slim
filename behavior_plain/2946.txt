@@ -38,7 +38,7 @@ Branch on flag & 2, target rnd 14
 
 #10: ESOrbChangeAttack(48:8093) -> Shine Blast
 Condition: 60% chance (ai:60 rnd:0)
-Change Dark to Light, Deal 280% damage
+Change all Dark orbs to Light orbs, Deal 280% damage
 
 #11: ESDebuffMovetime(39:8094) -> Resting Pulse
 Movetime -1s for 1 turn, Deal 280% damage

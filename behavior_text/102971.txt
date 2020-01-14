@@ -18,19 +18,19 @@ level: 1
    | group:
    | condition: turn 1 while HP > 19
      | (6587:48) Current
-     | Change Heal to Poison, Deal 300% damage
+     | Change all Heal orbs to Poison orbs, Deal 300% damage
      | (6588:39) Vortex Cascade
      | Movetime -2s for 3 turns
    | group:
    | condition: turn 2 while HP > 19
      | (6589:48) Godspring Current
-     | Change Heal to Poison, Deal 3000% damage
+     | Change all Heal orbs to Poison orbs, Deal 3000% damage
      | (6590:55) Hidden Waters
-     | Player recover 100% hp
+     | Player recover 100% HP
    | group:
    | condition: turn 3 while HP > 19
      | (6591:48) Godspring Current
-     | Change Heal to Poison, Deal 3000% damage
+     | Change all Heal orbs to Poison orbs, Deal 3000% damage
      | (6592:15) Scale Blade
      | Deal 320% damage (2 hits, 160% each)
    | group:

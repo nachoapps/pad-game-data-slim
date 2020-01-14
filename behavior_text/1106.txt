@@ -15,10 +15,10 @@ level: 1
    | group:
    | condition: turns 1-4 while HP > 29
      | (1544:64) Poison Bouquet
-     | Change Random 5 to Poison, Deal 80% damage
+     | Change 5 random orbs to Poison orbs, Deal 80% damage
    | group:
      | (1543:48) Kiss of Death
-     | Change Random to Heal, Deal 400% damage
+     | Change a random attribute to Heal orbs, Deal 400% damage
  | group:
  | condition: hp <= 29
    | group:
@@ -28,4 +28,4 @@ level: 1
    | group:
    | condition: turn 5
      | (1544:64) Poison Bouquet
-     | Change Random 5 to Poison, Deal 80% damage
+     | Change 5 random orbs to Poison orbs, Deal 80% damage

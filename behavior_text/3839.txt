@@ -24,6 +24,6 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 9 of 9
    | (8155:108) Great Demon Serpent of the Dusk
-   | Change Poison and Mortal Poison to Dark, Deal 6000% damage
+   | Change all Poison and Mortal Poison orbs to Dark orbs, Deal 6000% damage
    | (8149:83) Dark Miasma + Poisonous Purple Butterflies
    | Absorb Dark damage for 5 turns + Poison skyfall +25% for 7 turns

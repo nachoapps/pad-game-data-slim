@@ -33,7 +33,7 @@ Bind 1 random sub for 1~2 turns, Deal 100% damage
 
 #9: ESOrbChangeAttack(48:14660) -> Ninja Windsplitter
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Dark, Deal 95% damage
+Change a random attribute to Dark orbs, Deal 95% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -59,7 +59,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #17: ESCloud(104:14661) -> Ninja Mon Dance
-2x2 cloud appear for 2 turns at random location
+A 2×2 square of clouds appears for 2 turns at a random location
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

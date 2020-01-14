@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: turns 1-9 while HP > 49
      | (14433:83) Magical Power Transformation + Heaven's Prayer
-     | Change Random to Light + Lock 15 random orbs, Deal 50% damage
+     | Change a random attribute to Light orbs + Lock 15 random orbs, Deal 50% damage
    | group:
    | condition: turn 10 while HP > 9
      | (14439:83) Offerings to the Altar + Liberated for Divine Judgement

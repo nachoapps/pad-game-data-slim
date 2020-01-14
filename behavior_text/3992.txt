@@ -40,10 +40,10 @@ level: 2
    | Do nothing + Change the 5th row to Dark orbs, Deal 150% damage
    | condition: 16% chance
    | (8377:83) It's putting some back into it + Pumpkin Season
-   | Do nothing + Change Random to Heal, Deal 150% damage
+   | Do nothing + Change a random attribute to Heal orbs, Deal 150% damage
    | condition: 16% chance
    | (8378:83) It's putting some back into it + Costume Changing Technique - Dark
-   | Do nothing + Change Wood to Dark, Deal 150% damage
+   | Do nothing + Change all Wood orbs to Dark orbs, Deal 150% damage
    | condition: 16% chance
    | (8379:83) It's putting some back into it + Holiday Tuning Circle - Wood, Dark & Life
    | Do nothing + Change all orbs to Wood, Dark, and Heal, Deal 150% damage

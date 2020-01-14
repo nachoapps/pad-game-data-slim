@@ -17,7 +17,7 @@ level: 4
  | Reduce damage from God and Machine types by 50%
  type: PREEMPT
  | (9742:83) Hehehe + Do your absolute best!
- | Voids status ailments for 999 turns + Movetime 25% for 1 turn
+ | Voids status ailments for 999 turns + Movetime +25% for 1 turn
  group:
  | group:
  | condition: always turn 1
@@ -40,7 +40,7 @@ level: 4
  | condition: hp <= 99
    | condition: 33% chance
    | (9751:48) Star Consumption
-   | Change Random to Wood, Deal 110% damage
+   | Change a random attribute to Wood orbs, Deal 110% damage
    | condition: 33% chance
    | (9752:89) Masking
    | Delay active skills by 2 turns, Deal 105% damage

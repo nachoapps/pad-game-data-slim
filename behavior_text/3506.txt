@@ -15,7 +15,7 @@ level: 1
  | condition: turn 1
    | condition: when 10 combos last turn
    | (15666:83) おめでとう + それじゃあ全力でいきますよ
-   | Movetime 110% for 99 turns + Absorb damage when combos <= 7 for 999 turns
+   | Movetime +110% for 99 turns + Absorb damage when combos <= 7 for 999 turns
    | (15669:88) ズルはダメ…
    | Bind awoken skills for 10 turns
    | (15670:65) 悪夢の贈り物

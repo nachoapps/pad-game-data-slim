@@ -85,7 +85,7 @@ flag SET 0b111
 	[0] ESStatusShield(20:9246) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[1] ESDebuffMovetime(39:9247) -> Nornil Curse
-	Movetime 50% for 12 turns
+	Movetime +50% for 12 turns
 
 #24: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -95,7 +95,7 @@ end_turn
 	[0] ESRowSpawnMulti(79:9259) -> Bifröst Fate
 	Change the 1st row to Fire orbs and the 5th row to Water orbs, Deal 110% damage
 	[1] ESDebuffRCV(105:9260) -> Norn Resistance
-	Rcv 50% for 1 turn
+	RCV +50% for 1 turn
 
 #26: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
@@ -133,11 +133,11 @@ flag SET 0b111
 
 #36: SkillSet:
 	[0] ESRecoverEnemy86(86:9249) -> Healing Scratch
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESStatusShield(20:9246) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[2] ESDebuffMovetime(39:9247) -> Nornil Curse
-	Movetime 50% for 12 turns
+	Movetime +50% for 12 turns
 
 #37: ESEndPath(36:26) -> ESEndPath
 end_turn

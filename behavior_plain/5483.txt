@@ -88,18 +88,18 @@ end_turn
 
 #21: ESDebuffRCV(105:14213) -> Pululatiyaahol Appanee
 Condition: One-time use (ai:25 rnd:0) (cost: 1)
-Rcv 50% for 1 turn, Deal 100% damage
+RCV +50% for 1 turn, Deal 100% damage
 
 #22: ESDebuffMovetime(39:14214) -> Kaala Appanee
 Condition: One-time use (ai:33 rnd:0) (cost: 1)
-Movetime 50% for 1 turn, Deal 100% damage
+Movetime +50% for 1 turn, Deal 100% damage
 
 #23: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan
 	Deal 60% damage (4 hits, 15% each)
 	[1] ESOrbChangeAttack(48:14208) -> Apu Tara
-	Change Random to Fire, Deal 45% damage
+	Change a random attribute to Fire orbs, Deal 45% damage
 
 #24: SkillSet:
 	[0] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan
@@ -112,18 +112,18 @@ end_turn
 
 #26: ESDebuffRCV(105:14213) -> Pululatiyaahol Appanee
 Condition: One-time use (ai:25 rnd:0) (cost: 1)
-Rcv 50% for 1 turn, Deal 100% damage
+RCV +50% for 1 turn, Deal 100% damage
 
 #27: ESDebuffMovetime(39:14214) -> Kaala Appanee
 Condition: One-time use (ai:33 rnd:0) (cost: 1)
-Movetime 50% for 1 turn, Deal 100% damage
+Movetime +50% for 1 turn, Deal 100% damage
 
 #28: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan
 	Deal 60% damage (4 hits, 15% each)
 	[1] ESOrbChangeAttack(48:14210) -> Agni Taara
-	Change Random to Fire, Deal 45% damage
+	Change a random attribute to Fire orbs, Deal 45% damage
 
 #29: SkillSet:
 	[0] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan
@@ -213,7 +213,7 @@ end_turn
 
 #49: SkillSet:
 	[0] ESRecoverEnemy86(86:14228) -> Kanaka Anda
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESAttackUPRemainingEnemies(17:14229) -> Jungle Oasis
 	Increase damage to 200% for the next 999 turns
 	[2] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan

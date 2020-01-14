@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 9
 flag SET 0b1
 
 #6: ESOrbChangeAttackBits(108:9035) -> Can I have this?...
-Change Mortal Poison to Heal
+Change all Mortal Poison orbs to Heal orbs
 
 #7: SkillSet:
 	[0] ESSkyfall(68:9025) -> What are you doing here?
@@ -39,14 +39,14 @@ counter + 1
 
 #11: ESOrbChangeAttack(48:9028) -> Blazing Tiger Claws
 Condition: 33% chance (ai:33 rnd:0)
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #12: ESOrbChangeAttack(48:9029) -> Water Tiger Claws
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #13: ESOrbChangeAttack(48:9030) -> Shadow Tiger Claws
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

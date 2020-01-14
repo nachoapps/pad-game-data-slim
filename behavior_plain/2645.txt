@@ -29,7 +29,7 @@ end_turn
 Branch on hp < 50, target rnd 14
 
 #9: ESGravity(50:2719) -> Gemini's Crest - Cosmos
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Player -100% HP
 
 #10: ESBindAwoken(88:2717) -> Sleep Light

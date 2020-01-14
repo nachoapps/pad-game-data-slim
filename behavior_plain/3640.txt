@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:6805) -> Enforcing Infinite Will
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 30000% damage (10 hits, 3000% each)
 
 #7: ESGravity(50:6804) -> Omen of a Faceless Calamity

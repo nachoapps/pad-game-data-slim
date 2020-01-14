@@ -12,11 +12,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Random 2 orbs change every 1.0s for 3 turns
 
 #3: ESBoardChange(84:15362) -> 華蛇の邪眼
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Jammer
 
 #4: ESColumnSpawnMulti(77:15363) -> パープルデス
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Change the 3rd and 4th columns to Dark orbs, Deal 200% damage
 
 #5: ESBranchCounter(32:22) -> ESBranchCounter
@@ -35,7 +35,7 @@ end_turn
 counter = 0
 
 #10: ESPoisonChangeRandomCount(60:15361) -> 毒花粉
-Change Random 4 to Poison (excluding hearts)
+Change 4 random orbs (excluding hearts) to Poison orbs
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

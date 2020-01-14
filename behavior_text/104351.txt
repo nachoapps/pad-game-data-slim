@@ -19,4 +19,4 @@ level: 4
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (9624:52) Stand up!
- | Enemy ally recover 100% hp
+ | Enemy ally recover 100% HP

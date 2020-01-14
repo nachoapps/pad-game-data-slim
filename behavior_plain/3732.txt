@@ -34,7 +34,7 @@ end_turn
 	[2] ESAttackMultihit(15:7522) -> X Burst
 	Deal 1500% damage (10 hits, 150% each)
 	[3] ESRecoverPlayer(55:7539) -> Dragon Tears
-	Player recover 100% hp
+	Player recover 100% HP
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 13
@@ -43,14 +43,14 @@ Branch on flag & 2, target rnd 13
 flag SET 0b11
 
 #9: SkillSet:
-	Condition: 50% chance when < 66% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 66% HP (ai:50 rnd:0)
 	[0] ESDamageShield(74:7532) -> Wall
 	Reduce damage from all sources by 50% for 3 turns
 	[1] ESLeaderSwap(75:7530) -> Rejection
 	Leader changes to random sub for 3 turns, Deal 400% damage
 
 #10: SkillSet:
-	Condition: When < 66% hp (ai:100 rnd:0)
+	Condition: When < 66% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:7533) -> Wall
 	Reduce damage from all sources by 75% for 3 turns
 	[1] ESLeaderSwap(75:7530) -> Rejection
@@ -69,14 +69,14 @@ Branch on flag & 4, target rnd 19
 flag SET 0b111
 
 #15: SkillSet:
-	Condition: 50% chance when < 31% hp (ai:50 rnd:0)
+	Condition: 50% chance when < 31% HP (ai:50 rnd:0)
 	[0] ESDamageShield(74:7532) -> Wall
 	Reduce damage from all sources by 50% for 3 turns
 	[1] ESBindAwoken(88:7531) -> Suppression
 	Bind awoken skills for 3 turns, Deal 400% damage
 
 #16: SkillSet:
-	Condition: When < 31% hp (ai:100 rnd:0)
+	Condition: When < 31% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:7533) -> Wall
 	Reduce damage from all sources by 75% for 3 turns
 	[1] ESBindAwoken(88:7531) -> Suppression
@@ -94,7 +94,7 @@ Spawn Bomb orbs in the specified positions, Deal 250% damage
 
 #20: ESOrbChangeAttack(48:7526) -> Flare Breath
 Condition: 20% chance (ai:0 rnd:20)
-Change Water to Fire, Deal 265% damage
+Change all Water orbs to Fire orbs, Deal 265% damage
 
 #21: ESOrbLock(94:7527) -> Nova
 Condition: 20% chance (ai:0 rnd:20)
@@ -102,7 +102,7 @@ Lock 4 random orbs, Deal 260% damage
 
 #22: ESCloud(104:7528) -> Heat Haze
 Condition: 20% chance (ai:0 rnd:20)
-1x1 cloud appear for 1 turn at random location, Deal 260% damage
+A 1×1 square of clouds appears for 1 turn at a random location, Deal 260% damage
 
 #23: ESAttackMultihit(15:7529) -> Meteor
 Condition: 20% chance (ai:0 rnd:20)

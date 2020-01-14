@@ -64,7 +64,7 @@ Branch on flag & 8, target rnd 21
 flag SET 0b1111
 
 #20: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESRandomSpawn(92:2648) -> こんクソが
 	Spawn 4 random Jammer orbs
 	[1] ESGravity(50:2649) -> うおらぁっ
@@ -79,4 +79,4 @@ Player -50% HP
 #23: SkillSet:
 	Condition: On death (ai:100 rnd:0)
 	[0] ESOrbChangeSingle(4:2651) -> ぐあっ
-	Change Heal to Dark
+	Change all Heal orbs to Dark orbs

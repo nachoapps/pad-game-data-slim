@@ -44,7 +44,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 49
      | (7140:83) Shadow of Hel! Extinguish all life! + Deathland Rune
-     | Rcv 50% for 99 turns + Player -99% HP
+     | RCV +50% for 99 turns + Player -99% HP
    | group:
      | (7143:94) Dead Judgment
      | Lock all Poison and Mortal Poison orbs, Deal 150% damage
@@ -67,7 +67,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 19
      | (7144:83) Shadow of Fenrir! Seal the heavens! + Death Rune
-     | 4x2 cloud appear for 10 turns at 1st row, 2nd column + Player -100% HP
+     | A 4×2 rectangle of clouds appears for 10 turns at 1st row, 2nd column + Player -100% HP
    | group:
      | condition: when required attributes on board
      | (7147:92) Chain Crunch
@@ -91,9 +91,9 @@ level: 1
    | group:
    | condition: turn 1
      | (7148:83) Hold on! It's not your turn yet! + Oh, fine... I'll let you have your fun + Can you erase all the Jammers?
-     | Change all orbs to Light, Heal, and Jammer + Movetime 25% for 1 turn + Delay active skills by 30 turns
+     | Change all orbs to Light, Heal, and Jammer + Movetime +25% for 1 turn + Delay active skills by 30 turns
    | group:
      | (7152:48) Nope, guess not!
-     | Change Jammer to Dark, Deal 1000% damage
+     | Change all Jammer orbs to Dark orbs, Deal 1000% damage
      | (7153:83) Guess now's as good a time as any + Well then, if you'll excuse me...
      | Do nothing + Reduce self HP to 0

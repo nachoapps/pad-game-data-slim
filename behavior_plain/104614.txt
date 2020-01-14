@@ -48,7 +48,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Delay active skills by 1~2 turns, Deal 100% damage
 
 #14: ESRecoverEnemy86(86:10294) -> Drain Life
-Enemy recover 10% hp, Deal 150% damage
+Enemy recover 10% HP, Deal 150% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

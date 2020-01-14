@@ -22,7 +22,7 @@ Branch on counter <= 1, target rnd 7
 
 #6: ESCloud(104:13570) -> Silk Cloak
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-3x2 cloud appear for 2 turns at random location
+A 3×2 rectangle of clouds appears for 2 turns at a random location
 
 #7: ESAttackMultihit(15:13572) -> Rapier Brooch
 Deal 100% damage (2 hits, 50% each)

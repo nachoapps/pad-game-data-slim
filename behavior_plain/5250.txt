@@ -40,7 +40,7 @@ end_turn
 	[0] ESSkillDelay(89:13317) -> It's a feast.
 	Delay active skills by 1~3 turns
 	[1] ESOrbChangeAttack(48:13318) -> Spirit of Fire
-	Change Random to Jammer, Deal 200% damage
+	Change a random attribute to Jammer orbs, Deal 200% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

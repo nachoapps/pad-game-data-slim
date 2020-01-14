@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10388:48) Flash Pillar
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 33% chance
      | (10389:92) Subjective Heart
      | Spawn 1 random Heal orb, Deal 110% damage
@@ -36,12 +36,12 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (10391:48) Trial Sin
-     | Change Random to Jammer, Deal 105% damage
+     | Change a random attribute to Jammer orbs, Deal 105% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | condition: 33% chance
      | (10388:48) Flash Pillar
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 33% chance
      | (10389:92) Subjective Heart
      | Spawn 1 random Heal orb, Deal 110% damage
@@ -63,7 +63,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10388:48) Flash Pillar
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 33% chance
      | (10389:92) Subjective Heart
      | Spawn 1 random Heal orb, Deal 110% damage
@@ -79,12 +79,12 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (10391:48) Trial Sin
-     | Change Random to Jammer, Deal 105% damage
+     | Change a random attribute to Jammer orbs, Deal 105% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | condition: 33% chance
      | (10388:48) Flash Pillar
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 33% chance
      | (10389:92) Subjective Heart
      | Spawn 1 random Heal orb, Deal 110% damage

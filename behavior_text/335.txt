@@ -23,6 +23,6 @@ level: 1
    | group:
      | condition: 40% chance
      | (757:48) Holy Water Dragon's Breath
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
      | (755:15) God Blizzard Breath
      | Deal 150% damage (2 hits, 75% each)

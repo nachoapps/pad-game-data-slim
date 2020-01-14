@@ -40,4 +40,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (13866:86) Vent Noir
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP

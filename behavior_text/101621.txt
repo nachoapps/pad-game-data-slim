@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (12109:83) Give me a hand, Baby Genie! + Leave it to me! Rub that lamp!
- | Rcv 50% for 10 turns + 2x5 cloud appear for 4 turns at 1st row, 3rd column
+ | RCV +50% for 10 turns + A 2×5 rectangle of clouds appears for 4 turns at 1st row, 3rd column
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 5
@@ -30,4 +30,4 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 5 of 5
    | (7472:83) The grand finale! Light Spell!!!!! + Need smoke! Need smoke!
-   | Change the 1st column to Light orbs + Column of cloud appear for 4 turns at 1st row, Deal 200% damage
+   | Change the 1st column to Light orbs + A column of clouds appears for 4 turns at 1st row, 3rd column, Deal 200% damage

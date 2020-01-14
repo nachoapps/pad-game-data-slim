@@ -16,7 +16,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (1281:4) Pop Rock Ice Cream
-   | Change Random to Water
+   | Change a random attribute to Water orbs
    | (1280:66) アイスクリームはおいしいたまぁ！
    | Do nothing
  | group:

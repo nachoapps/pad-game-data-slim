@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (530:48) Ice Pillar Creation
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (531:15) Ice Block Bullets

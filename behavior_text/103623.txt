@@ -28,7 +28,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 3 of 6
    | (6695:48) Shadow Fang
-   | Change Light to Jammer, Deal 130% damage
+   | Change all Light orbs to Jammer orbs, Deal 130% damage
  | group:
  | condition: execute repeatedly, turn 4 of 6
    | (6696:77) Snake Bolt

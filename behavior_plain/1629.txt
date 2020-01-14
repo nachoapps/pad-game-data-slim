@@ -23,12 +23,12 @@ end_turn
 Branch on hp < 50, target rnd 12
 
 #7: ESOrbChangeAttack(48:1554) -> Cauchemar Impact
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Random to Jammer, Deal 200% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change a random attribute to Jammer orbs, Deal 200% damage
 
 #8: ESOrbChangeAttack(48:1553) -> Cauchemar Illusion
 Condition: 40% chance (ai:40 rnd:0)
-Change Heal to Jammer, Deal 50% damage
+Change all Heal orbs to Jammer orbs, Deal 50% damage
 
 #9: ESBindAttack(63:1552) -> Cauchemar Nightmare
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

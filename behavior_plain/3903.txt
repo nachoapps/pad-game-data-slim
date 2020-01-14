@@ -17,9 +17,9 @@ Enable preempt if level 1
 	Deal 700% damage
 
 #3: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy7(7:8122) -> Demon Star's Radiance
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESAttackUPRemainingEnemies(17:8123) -> I won't let it happen!
 	Increase damage to 150% for the next 999 turns
 
@@ -33,7 +33,7 @@ Enable preempt if level 1
 	Blind all orbs on the board, Deal 100% damage
 
 #5: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 8)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESAbsorbCombo(67:8113) -> I'll have to get serious soon
 	Absorb damage when combos <= 7 for 999 turns
 	[1] ESDebuffMovetime(39:8114) -> Hurry up!!
@@ -46,15 +46,15 @@ Branch on hp < 10, target rnd 23
 Branch on flag & 8, target rnd 23
 
 #8: ESBlindStickyRandom(97:8116) -> Black Screw Blow
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 4)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 4)
 Blind random 6 orbs for 2 turns, Deal 350% damage
 
 #9: ESAttackMultihit(15:8117) -> Full Spin Kick
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Deal 480% damage (6 hits, 80% each)
 
 #10: ESAttackMultihit(15:8118) -> Hell Shot Punch
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Deal 700% damage
 
 #11: ESBranchFlag(43:10) -> ESBranchFlag

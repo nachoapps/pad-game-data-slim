@@ -64,9 +64,9 @@ Branch on counter >= 2, target rnd 19
 
 #18: SkillSet:
 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
-	Rcv 300% for 9 turns
+	RCV +300% for 9 turns
 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
-	Change Wood to Heal, Deal 500% damage
+	Change all Wood orbs to Heal orbs, Deal 500% damage
 
 #19: ESAttackMultihit(15:10937) -> Strike from the Heavens
 Deal 4999% damage
@@ -79,7 +79,7 @@ Deal 4999% damage
 
 #21: SkillSet:
 	[0] ESCloud(104:10944) -> Shrouding Mist
-	2x3 cloud appear for 1 turn at 2nd row, 3rd column
+	A 2×3 rectangle of clouds appears for 1 turn at 2nd row, 3rd column
 	[1] ESAttackMultihit(15:10945) -> Wave Pulse
 	Deal 2900% damage (4 hits, 725% each)
 
@@ -103,7 +103,7 @@ Deal 4999% damage
 
 #25: SkillSet:
 	[0] ESCloud(104:10944) -> Shrouding Mist
-	2x3 cloud appear for 1 turn at 2nd row, 3rd column
+	A 2×3 rectangle of clouds appears for 1 turn at 2nd row, 3rd column
 	[1] ESAttackMultihit(15:10945) -> Wave Pulse
 	Deal 2900% damage (4 hits, 725% each)
 
@@ -121,9 +121,9 @@ counter = 1
 
 #29: SkillSet:
 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
-	Rcv 300% for 9 turns
+	RCV +300% for 9 turns
 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
-	Change Wood to Heal, Deal 500% damage
+	Change all Wood orbs to Heal orbs, Deal 500% damage
 
 #30: ESEndPath(36:26) -> ESEndPath
 end_turn

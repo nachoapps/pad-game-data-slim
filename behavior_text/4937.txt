@@ -23,11 +23,11 @@ level: 4
    | Deal 120% damage
    | condition: 34% chance
    | (11731:48) Shadow Beam
-   | Change Random to Wood, Deal 100% damage
+   | Change a random attribute to Wood orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 49, hp <= 74
    | (11735:86) Stone of the Moon, King Stone
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
  | group:
  | condition: hp <= 49
    | group:
@@ -40,7 +40,7 @@ level: 4
      | Player -99% HP
      | condition: 33% chance
      | (11733:48) Destruction Ray 
-     | Change Random to Dark, Deal 120% damage
+     | Change a random attribute to Dark orbs, Deal 120% damage
      | condition: 34% chance
      | (11734:92) Harsh Yellow Flare
      | Spawn 5 random Light orbs, Deal 100% damage

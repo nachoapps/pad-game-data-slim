@@ -26,7 +26,7 @@ Absorb damage when combos <= 5 for 4 turns
 end_turn
 
 #8: ESBoardChangeAttackBits(85:1877) -> Dance of the Five Ingredients
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 125% damage
 
 #9: ESGravity(50:1876) -> Dark Kettle Drop Surprise

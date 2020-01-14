@@ -22,7 +22,7 @@ Branch on hp < 50, target rnd 10
 
 #6: ESOrbChangeAttack(48:14985) -> Fireball
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #7: ESRandomSpawn(92:14986) -> Burst Rondo
 Condition: 33% chance (ai:0 rnd:33)

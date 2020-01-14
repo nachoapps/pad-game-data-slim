@@ -27,7 +27,7 @@ level: 4
    | Change the 2nd and 5th columns to Fire orbs + Spawn 5 random Bomb orbs, Deal 100% damage
    | condition: 25% chance
    | (9764:108) Yahtariq Ramad
-   | Change Heal to Jammer, Deal 80% damage
+   | Change all Heal orbs to Jammer orbs, Deal 80% damage
    | condition: 25% chance
    | (9767:83) Jadhibiatan Hujum + Aiqtirah Ghadab
    | Player -75% HP + Increase damage to 150% for the next 1 turn

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (1224:55) Are you worth saving?
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | group:
@@ -23,17 +23,17 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (1220:48) Rainbow Contract
-     | Change Random to Random, Deal 75% damage
+     | Change a random attribute to a random attribute, Deal 75% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (1221:48) Twinkle Hope
-     | Change Random to Heal, Deal 100% damage
+     | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1222:13) Ark Judgement
-     | Change Random 2 to Jammer
+     | Change 2 random orbs to Jammer orbs
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1223:15) Punishment Thunder

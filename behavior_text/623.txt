@@ -23,4 +23,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 49
    | (989:7) Mystic White Lily
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

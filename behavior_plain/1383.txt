@@ -27,8 +27,8 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Do nothing
 
 #8: ESOrbChangeAttack(48:1093) -> イレイザーガン!!!!
-Condition: When < 50% hp (ai:100 rnd:0)
-Change Random to Jammer, Deal 150% damage
+Condition: When < 50% HP (ai:100 rnd:0)
+Change a random attribute to Jammer orbs, Deal 150% damage
 
 #9: ESAttackMultihit(15:1092) -> キック！
 Deal 100% damage
@@ -43,12 +43,12 @@ Branch on flag & 2, target rnd 14
 flag SET 0b11
 
 #13: ESInactivity66(66:1094) -> リクーム…ウルトラ…ファイティング…
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Do nothing
 
 #14: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b10
 
 #15: ESAttackMultihit(15:1095) -> ボンバー!!!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)

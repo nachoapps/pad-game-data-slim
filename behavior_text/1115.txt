@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2364:55) Welcome! I'm glad you're here.
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: always turn 1
@@ -18,7 +18,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (2367:48) Lotus Drop
-   | Change Heal to Water, Deal 150% damage
+   | Change all Heal orbs to Water orbs, Deal 150% damage
  | group:
  | condition: always turn 2, hp <= 69
    | (2366:75) Chanchala
@@ -26,7 +26,7 @@ level: 1
  | group:
  | condition: always turn 3, hp <= 49
    | (2368:86) Magic Absorbing Eye
-   | Enemy recover 30% hp, Deal 100% damage
+   | Enemy recover 30% HP, Deal 100% damage
  | group:
  | condition: hp <= 19
    | (2318:15) Wave Current Attack

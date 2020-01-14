@@ -39,7 +39,7 @@ Player -75% HP
 
 #10: ESOrbChangeAttack(48:14126) -> ワイの真骨頂みせたるわ!!
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

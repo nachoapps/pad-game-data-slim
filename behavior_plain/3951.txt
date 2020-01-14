@@ -13,7 +13,7 @@ Bind active skills for 10 turns
 
 #3: ESOrbChangeAttack(48:14002) -> Delusion Eye
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Dark, Deal 95% damage
+Change a random attribute to Dark orbs, Deal 95% damage
 
 #4: ESAttackMultihit(15:14003) -> Distorted Force
 Condition: 50% chance (ai:0 rnd:50)

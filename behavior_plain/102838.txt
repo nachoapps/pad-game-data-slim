@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Absorb damage when damage >= 1,000,000 for 99 turns
 
 #3: ESAttackMultihit(15:4212) -> Daurmanasya
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 300% damage (3 hits, 100% each)
 
 #4: ESSkyfall(68:4204) -> Prasaadah Tapah
@@ -49,7 +49,7 @@ Branch on flag & 2, target rnd 14
 flag SET 0b11
 
 #13: ESRecoverEnemy86(86:4208) -> Aatma Yogah
-Enemy recover 5%~8% hp, Deal 100% damage
+Enemy recover 5%~8% HP, Deal 100% damage
 
 #14: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 17
@@ -71,8 +71,8 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random card for 3 turns, Deal 150% damage
 
 #20: ESOrbChangeAttack(48:4248) -> Pratisedha
-Condition: 15% chance when < 30% hp (ai:15 rnd:0)
-Change Heal to Jammer, Deal 160% damage
+Condition: 15% chance when < 30% HP (ai:15 rnd:0)
+Change all Heal orbs to Jammer orbs, Deal 160% damage
 
 #21: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8

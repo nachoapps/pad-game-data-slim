@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRecoverPlayer(55:3403) -> Happy Halloween!
-Player recover 100% hp
+Player recover 100% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -33,7 +33,7 @@ Lock 15 random orbs
 Branch on hp < 50, target rnd 14
 
 #10: ESRandomSpawn(92:3409) -> Halloween's End
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Spawn 6 random Jammer or Poison orbs, Deal 200% damage
 
 #11: ESBranchHP(28:18) -> ESBranchHP

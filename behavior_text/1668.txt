@@ -24,7 +24,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (9835:108) It became a splendid color!
-     | Change Fire to Dark and Poison, Deal 105% damage
+     | Change all Fire orbs to Dark and Poison orbs, Deal 105% damage
      | condition: 33% chance
      | (9836:102) I need motivation!
      | Spawn 8 random Bomb orbs, Deal 60% damage
@@ -55,4 +55,4 @@ level: 4
  | group:
  | condition: hp <= 1
    | (9849:83) It huuurts! + I won't forgive you!
-   | Enemy recover 50% hp + Deal 400% damage (4 hits, 100% each), Deal 400% damage (4 hits, 100% each)
+   | Enemy recover 50% HP + Deal 400% damage (4 hits, 100% each), Deal 400% damage (4 hits, 100% each)

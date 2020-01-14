@@ -27,9 +27,9 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (5090:48) Nemesis Claw
-     | Change Random to Poison, Deal 130% damage
+     | Change a random attribute to Poison orbs, Deal 130% damage
      | (5091:48) Break Claw
-     | Change Random to Jammer, Deal 130% damage
+     | Change a random attribute to Jammer orbs, Deal 130% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
@@ -74,9 +74,9 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (5090:48) Nemesis Claw
-     | Change Random to Poison, Deal 130% damage
+     | Change a random attribute to Poison orbs, Deal 130% damage
      | (5091:48) Break Claw
-     | Change Random to Jammer, Deal 130% damage
+     | Change a random attribute to Jammer orbs, Deal 130% damage
  | group:
  | condition: hp <= 29
    | group:

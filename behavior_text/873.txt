@@ -15,7 +15,7 @@ level: 5
  | condition: hp <= 74
    | condition: 70% chance
    | (623:48) Blizzard Breath nya!
-   | Change Random to Water, Deal 120% damage
+   | Change a random attribute to Water orbs, Deal 120% damage
  | group:
  | condition: hp <= 24
    | condition: 70% chance
@@ -23,4 +23,4 @@ level: 5
    | Deal 180% damage (3 hits, 60% each)
    | condition: 70% chance
    | (623:48) Blizzard Breath nya!
-   | Change Random to Water, Deal 120% damage
+   | Change a random attribute to Water orbs, Deal 120% damage

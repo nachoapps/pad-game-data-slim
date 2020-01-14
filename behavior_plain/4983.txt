@@ -21,9 +21,9 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESRecoverPlayer(55:11926) -> ツチノコスマイル
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESDebuffMovetime(39:11927) -> しあわせ　あげちゃうっ！
-	Movetime 150% for 5 turns
+	Movetime +150% for 5 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -37,7 +37,7 @@ Deal 110% damage
 
 #10: ESOrbChangeAttack(48:11929) -> クローバー　ふやしちゃおっ！
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Wood, Deal 90% damage
+Change a random attribute to Wood orbs, Deal 90% damage
 
 #11: ESRowSpawnMulti(79:11930) -> しあわせだなぁ～
 Condition: 25% chance (ai:0 rnd:25)

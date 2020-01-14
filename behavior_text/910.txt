@@ -9,13 +9,13 @@ approved: False
 level: 1
  type: PREEMPT
  | (68:64) Poison Edge
- | Change Random 3 to Poison, Deal 85% damage
+ | Change 3 random orbs to Poison orbs, Deal 85% damage
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (67:48) Chaos Edge
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (68:64) Poison Edge
-   | Change Random 3 to Poison, Deal 85% damage
+   | Change 3 random orbs to Poison orbs, Deal 85% damage

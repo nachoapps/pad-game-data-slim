@@ -11,7 +11,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (789:48) Blizzard Ball
-   | Change Random to Water, Deal 125% damage
+   | Change a random attribute to Water orbs, Deal 125% damage
  | group:
  | condition: hp <= 49
    | (792:54) Constrict

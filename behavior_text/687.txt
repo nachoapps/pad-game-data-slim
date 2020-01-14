@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 25% chance
    | (391:4) Let There Be Light!
-   | Change Dark to Light
+   | Change all Dark orbs to Light orbs
  | group:
  | condition: turn 1, hp <= 49
    | (271:1) Halo

@@ -15,7 +15,7 @@ end_turn
 
 #4: ESOrbChangeSingle(4:1281) -> Pop Rock Ice Cream
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Water
+Change a random attribute to Water orbs
 
 #5: ESInactivity66(66:1280) -> アイスクリームはおいしいたまぁ！
 Do nothing

@@ -12,5 +12,5 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Player -50% HP
 
 #3: ESStorePower(8:522) -> High Tension
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Increase damage to 1000% for the next attack

@@ -15,7 +15,7 @@ Do nothing
 end_turn
 
 #4: ESAttackMultihit(15:887) -> Jump Attack!
-Condition: 70% chance when < 30% hp (ai:70 rnd:0)
+Condition: 70% chance when < 30% HP (ai:70 rnd:0)
 Deal 150% damage
 
 #5: ESInactivity66(66:886) -> Bouncing Merrily!
@@ -24,4 +24,4 @@ Do nothing
 
 #6: ESOrbChangeSingle(4:889) -> Blueberry Drop!
 Condition: 30% chance (ai:30 rnd:0)
-Change Wood to Water
+Change all Wood orbs to Water orbs

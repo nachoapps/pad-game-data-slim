@@ -48,16 +48,16 @@ level: 1
      | Spawn 6 random Water orbs, Deal 100% damage
    | group:
      | (10910:105) Shifa'a
-     | Rcv 50% for 3 turns
+     | RCV +50% for 3 turns
  | group:
  | condition: hp <= 9
    | (10913:104) Gunpowder Smoke
-   | Column of cloud appear for 1 turn at random location
+   | A column of clouds appears for 1 turn at a random location
  type: UNKNOWN_USE
  | (10914:83) Mhidofa Uvundukia + Gunpowder Smoke
- | Deal 108% damage (6 hits, 18% each) + Column of cloud appear for 1 turn at random location, Deal 108% damage (6 hits, 18% each)
+ | Deal 108% damage (6 hits, 18% each) + A column of clouds appears for 1 turn at a random location, Deal 108% damage (6 hits, 18% each)
  | (10314:48) Soppy Flame
- | Change Random to Fire, Deal 110% damage
+ | Change a random attribute to Fire orbs, Deal 110% damage
  | (10312:102) Affliction Bombing
  | Spawn 1 random locked Bomb orb
  | (10315:15) Flame Rush

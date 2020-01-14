@@ -12,7 +12,7 @@ Enable preempt if level 1
 	[0] ESOrbLock(94:15223) -> リンク、シンカリオン！
 	Lock 5 random Heal orbs
 	[1] ESCloud(104:15224) -> まったくもって問題ねぇ！
-	1x3 cloud appear for 1 turn at random location
+	A 1×3 rectangle of clouds appears for 1 turn at a random location
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8

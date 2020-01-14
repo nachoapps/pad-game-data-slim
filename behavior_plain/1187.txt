@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRecoverPlayer(55:903) -> Lucky Encounter
-Player recover 100% hp
+Player recover 100% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -33,11 +33,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Deal 25% damage
 
 #10: ESPoisonChangeRandomCount(60:962) -> Secret Chest
-Change Random 6 to Poison
+Change 6 random orbs to Poison orbs
 
 #11: ESOrbChangeAttack(48:963) -> Dark Spirit's Writing
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Dark, Deal 80% damage
+Change a random attribute to Dark orbs, Deal 80% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

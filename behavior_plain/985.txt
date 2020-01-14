@@ -20,14 +20,14 @@ Deal 200% damage
 end_turn
 
 #6: ESBindTyping(3:1241) -> Divine Queen's Breath
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind God cards for 5 turns
 
 #7: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 30, target rnd 10
 
 #8: ESOrbChangeAttack(48:1240) -> Black Nightmare
-Change Light to Jammer, Deal 90% damage
+Change all Light orbs to Jammer orbs, Deal 90% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -14,35 +14,35 @@ level: 1
  | group:
  | condition: turn 1
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2226:92) Can you erase my Jammers?
    | Spawn 5 random Jammer orbs
  | group:
  | condition: turn 2
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2227:92) Here I gooo!
    | Spawn 6 random Jammer orbs
  | group:
  | condition: turn 3
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2228:92) My... You're not bad!
    | Spawn 10 random Jammer orbs
  | group:
  | condition: turn 4
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2231:83) However, this here... + Can you erase these!?
    | Blind all orbs on the board + Spawn 15 random Jammer orbs
  | group:
  | condition: turn 5
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2234:83) You're impressive! + This will finish it!
    | Movetime -1s for 1 turn + Spawn 9 random Jammer orbs
  | group:
    | (2236:48) Nope! Wrooong!
-   | Change Jammer to Water, Deal 1000% damage
+   | Change all Jammer orbs to Water orbs, Deal 1000% damage
    | (2235:40) That was fun! See ya!
    | Reduce self HP to 0

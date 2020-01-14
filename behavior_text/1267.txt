@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2524:83) Welcome! + And now, Dance of the Spirit Turtle!
- | Player recover 100% hp + Reduce damage from all sources by 50% for 3 turns
+ | Player recover 100% HP + Reduce damage from all sources by 50% for 3 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 4

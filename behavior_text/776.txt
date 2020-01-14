@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (479:48) White Light
-     | Change Random to Jammer, Deal 70% damage
+     | Change a random attribute to Jammer orbs, Deal 70% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (476:15) Breath of the Holy Sky

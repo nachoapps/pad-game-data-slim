@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESBindAwoken(88:7060) -> Light Mist
 	Bind awoken skills for 1 turn
 	[1] ESBoardChangeAttackBits(85:7061) -> Light
@@ -73,7 +73,7 @@ flag SET 0b11
 #14: SkillSet:
 	Condition: One-time use (ai:0 rnd:15) (cost: 6)
 	[0] ESDebuffRCV(105:7038) -> Disturbed Forest
-	Rcv 50% for 2 turns
+	RCV +50% for 2 turns
 	[1] ESBindAttack(63:7039) -> Silk Chains
 	Bind 1 random card for 2 turns, Deal 260% damage
 

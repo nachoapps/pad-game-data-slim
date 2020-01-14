@@ -30,13 +30,13 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 7 of 7
      | (12361:83) Destructive Fighting Spririt + Seven-Star Regeneration
-     | Bind awoken skills for 5 turns + Enemy ally recover 100% hp
+     | Bind awoken skills for 5 turns + Enemy ally recover 100% HP
  | group:
  | condition: hp <= 74
    | group:
    | condition: turn 2 while HP > 49
      | (12370:83) Here I come! + Hah!!
-     | Rcv 50% for 10 turns + Player -77% HP
+     | RCV +50% for 10 turns + Player -77% HP
    | group:
    | condition: execute repeatedly, turn 1-5 of 7
      | condition: 33% chance
@@ -51,7 +51,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 6 of 7
      | (12361:83) Destructive Fighting Spririt + Seven-Star Regeneration
-     | Bind awoken skills for 5 turns + Enemy ally recover 100% hp
+     | Bind awoken skills for 5 turns + Enemy ally recover 100% HP
    | group:
    | condition: execute repeatedly, turn 7 of 7
      | condition: 33% chance
@@ -66,7 +66,7 @@ level: 1
  | group:
  | condition: turn 2 while HP > 24, hp <= 49
    | (12372:83) I'm hungry... + Chomp!
-   | Movetime 50% for 5 turns + Voids player buff effects
+   | Movetime +50% for 5 turns + Voids player buff effects
  | group:
  | condition: hp <= 24
    | group:
@@ -87,7 +87,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 7 of 7
      | (12361:83) Destructive Fighting Spririt + Seven-Star Regeneration
-     | Bind awoken skills for 5 turns + Enemy ally recover 100% hp
+     | Bind awoken skills for 5 turns + Enemy ally recover 100% HP
  | group:
  | condition: hp <= 10
    | (12377:83) Changing Armor + Strong Blade Boisterous Dance
@@ -106,9 +106,9 @@ level: 1
  | (12355:89) Double Sword Wave
  | Delay active skills by 2 turns, Deal 60% damage
  | (12371:105) Here I come!
- | Rcv 50% for 10 turns
+ | RCV +50% for 10 turns
  | (12373:39) I'm hungry...
- | Movetime 50% for 5 turns
+ | Movetime +50% for 5 turns
  | (12376:89) I won't forgive you anymore!
  | Delay active skills by 12 turns
  | (12379:15) Strong Blade Boisterous Dance

@@ -24,16 +24,16 @@ flag SET 0b1
 end_turn
 
 #6: ESRecoverEnemy7(7:2812) -> Soul of the Phoenix
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #7: ESOrbChangeAttack(48:2810) -> Orb Alteration - Flame
 Condition: One-time use (ai:100 rnd:0) (cost: 5)
-Change Water to Fire, Deal 300% damage
+Change all Water orbs to Fire orbs, Deal 300% damage
 
 #8: ESRecoverEnemy86(86:2809) -> Healing Heat
 Condition: 70% chance (ai:0 rnd:70)
-Enemy recover 10% hp, Deal 100% damage
+Enemy recover 10% HP, Deal 100% damage
 
 #9: ESRandomSpawn(92:2808) -> Flame Thrust
 Condition: 30% chance (ai:0 rnd:30)

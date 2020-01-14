@@ -43,4 +43,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 1
    | (12818:83) Resolve + Frost Enhancement
-   | Enemy recover 51% hp + Increase damage to 200% for the next 99 turns
+   | Enemy recover 51% HP + Increase damage to 200% for the next 99 turns

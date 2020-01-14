@@ -40,4 +40,4 @@ level: 5
  | group:
  | condition: hp <= 1
    | (2241:86) Golden Pipe
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

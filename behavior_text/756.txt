@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (772:48) Searing Shot
-   | Change Random to Dark, Deal 100% damage
+   | Change a random attribute to Dark orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:

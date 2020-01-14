@@ -41,7 +41,7 @@ Absorb damage when combos <= 4 for 5 turns
 end_turn
 
 #13: ESAttackUPCooldown(19:1636) -> Warsuit
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #14: ESAttackMultihit(15:1635) -> LexCorp Resources

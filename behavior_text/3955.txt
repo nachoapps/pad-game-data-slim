@@ -24,7 +24,7 @@ level: 1
    | Spawn 5 random Jammer orbs, Deal 95% damage
    | condition: 33% chance
    | (13882:104) Dust Rising Up
-   | 2x2 cloud appear for 2 turns at random location, Deal 100% damage
+   | A 2×2 square of clouds appears for 2 turns at a random location, Deal 100% damage
    | condition: 34% chance
    | (13883:110) Washcloth Flop
    | Specific orbs change every 1.0s for 2 turns, Deal 105% damage

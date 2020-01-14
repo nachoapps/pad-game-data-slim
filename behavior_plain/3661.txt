@@ -39,7 +39,7 @@ Branch on hp > 100, target rnd 17
 	Increase damage to 120% for the next 10 turns
 
 #10: ESColumnSpawnMulti(77:7202) -> Water Jet
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change the 3rd column to Water orbs, Deal 200% damage
 
 #11: ESGravity(50:7197) -> Dash Attack
@@ -76,7 +76,7 @@ Branch on player_cards HAS [3706], target rnd 21
 
 #20: SkillSet:
 	[0] ESCloud(104:7185) -> Bubble Breath
-	1x1 cloud appear for 1 turn at random location
+	A 1×1 square of clouds appears for 1 turn at a random location
 	[1] ESAbsorbCombo(67:7188) -> Second Bubble Breath Stance
 	Absorb damage when combos <= 6 for 1 turn
 	[2] ESInactivity66(66:7189) -> Interrupt it with an attack!
@@ -84,7 +84,7 @@ Branch on player_cards HAS [3706], target rnd 21
 
 #21: SkillSet:
 	[0] ESDebuffMovetime(39:7187) -> Bubble Breath
-	Movetime 150% for 1 turn
+	Movetime +150% for 1 turn
 	[1] ESAbsorbCombo(67:7188) -> Second Bubble Breath Stance
 	Absorb damage when combos <= 6 for 1 turn
 	[2] ESInactivity66(66:7189) -> Interrupt it with an attack!
@@ -100,7 +100,7 @@ flag SET 0b111
 Branch on player_cards HAS [3706], target rnd 26
 
 #25: ESCloud(104:7192) -> Bubble Breath
-4x4 cloud appear for 3 turns at random location, Deal 20% damage
+A 4×4 square of clouds appears for 3 turns at a random location, Deal 20% damage
 
 #26: ESAttackMultihit(15:7193) -> Bubble Breath
 Deal 20% damage

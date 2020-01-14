@@ -26,27 +26,27 @@ Voids status ailments for 999 turns
 end_turn
 
 #8: ESRecoverEnemy86(86:2363) -> Cat Refreshments
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #9: ESColumnSpawnMulti(77:2361) -> Cat Roll
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 2nd, 3rd, 4th, and 5th columns to Light, Jammer, and Poison orbs, Deal 200% damage
 
 #10: ESAttackUPRemainingEnemies(17:2360) -> Cat Flop
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 1 turn
 
 #11: ESAttackMultihit(15:2357) -> Cat Thrust
-Condition: 30% chance when < 99% hp (ai:30 rnd:0)
+Condition: 30% chance when < 99% HP (ai:30 rnd:0)
 Deal 120% damage (2 hits, 60% each)
 
 #12: ESBindAttack(63:2358) -> Cat Slap
-Condition: 30% chance when < 99% hp (ai:30 rnd:0)
+Condition: 30% chance when < 99% HP (ai:30 rnd:0)
 Bind both leaders for 2 turns, Deal 80% damage
 
 #13: ESBlind62(62:2359) -> Cat Surprise
-Condition: When < 99% hp (ai:100 rnd:0)
+Condition: When < 99% HP (ai:100 rnd:0)
 Blind all orbs on the board, Deal 100% damage
 
 #14: ESGravity(50:2362) -> Bon Bon Stomach Press

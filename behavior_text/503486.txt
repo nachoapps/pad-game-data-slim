@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (15531:83) 来るがいい、愚かな神どもよ + 反逆の結界
- | Rcv 50% for 5 turns + Void damage >= 4000000 for 10 turns
+ | RCV +50% for 5 turns + Void damage >= 4000000 for 10 turns
  group:
  | group:
    | group:

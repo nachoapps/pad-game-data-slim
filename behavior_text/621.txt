@@ -13,8 +13,8 @@ level: 1
    | (983:63) Punishing Chains
    | Bind 1 random sub for 2~3 turns, Deal 75% damage
    | (984:48) Miraculous Flame
-   | Change Random to Heal, Deal 150% damage
+   | Change a random attribute to Heal orbs, Deal 150% damage
  | group:
  | condition: hp <= 49
    | (985:48) Eternal Flames
-   | Change Heal to Fire, Deal 75% damage
+   | Change all Heal orbs to Fire orbs, Deal 75% damage

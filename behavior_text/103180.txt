@@ -46,4 +46,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (12858:83) Mind Concentration + Mighty Roar
-   | Enemy recover 50% hp + Delay active skills by 5 turns
+   | Enemy recover 50% HP + Delay active skills by 5 turns

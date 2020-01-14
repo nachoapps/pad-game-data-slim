@@ -20,11 +20,11 @@ Delay active skills by 1~6 turns
 end_turn
 
 #6: ESDebuffMovetime(39:12100) -> Backdraft
-Condition: When < 1% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Movetime 50% for 10 turns, Deal 150% damage
+Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Movetime +50% for 10 turns, Deal 150% damage
 
 #7: ESAttackMultihit(15:3200) -> Backward Impact
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 500% damage
 
 #8: ESBranchHP(28:18) -> ESBranchHP

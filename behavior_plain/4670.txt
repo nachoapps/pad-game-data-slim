@@ -41,7 +41,7 @@ Blind orbs in specific positions for 1 turn, Deal 100% damage
 
 #12: ESOrbChangeAttack(48:10608) -> Slider
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

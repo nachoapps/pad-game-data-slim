@@ -24,7 +24,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #7: ESPoisonChangeRandomCount(60:745) -> An Invitation to Corruption
-Change Random 8 to Poison (excluding hearts)
+Change 8 random orbs (excluding hearts) to Poison orbs
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 11
@@ -33,7 +33,7 @@ Branch on flag & 2, target rnd 11
 flag SET 0b11
 
 #10: ESOrbChangeAttack(48:747) -> Despairing Lament
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #11: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1011

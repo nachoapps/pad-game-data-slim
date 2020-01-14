@@ -11,7 +11,7 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESBindRandom(1:2568) -> I mustn't run away TAMA!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random card for 3 turns
 
 #4: ESAttackMultihit(15:2569) -> Progressive Knife TAMA!

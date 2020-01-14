@@ -17,10 +17,10 @@ level: 1
    | Deal 80% damage (2 hits, 40% each)
    | condition: 33% chance
    | (15252:104) ぶち面白れぇ！
-   | 2x1 cloud appear for 1 turn at random location
+   | A 2×1 rectangle of clouds appears for 1 turn at a random location
    | condition: 33% chance
    | (15253:108) カンカンガン
-   | Change Fire, Water, and Wood to Light, Deal 100% damage
+   | Change all Fire, Water, and Wood orbs to Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -30,7 +30,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (15253:108) カンカンガン
-     | Change Fire, Water, and Wood to Light, Deal 100% damage
+     | Change all Fire, Water, and Wood orbs to Light orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 14
    | (15249:74) ぶち無茶な奴だぜ

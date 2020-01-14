@@ -13,7 +13,7 @@ level: 1
  group:
  | condition: 50% chance
  | (11400:48) Evil Eye Trick
- | Change Random to Jammer, Deal 100% damage
+ | Change a random attribute to Jammer orbs, Deal 100% damage
  | (11401:94) Wonder Feather
  | Lock 10 random orbs, Deal 105% damage
  type: REMAINING

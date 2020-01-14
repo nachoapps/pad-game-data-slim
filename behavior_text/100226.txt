@@ -25,7 +25,7 @@ level: 1
  | group:
  | condition: hp <= 49
    | (9363:86) Resurrection
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
  type: UNKNOWN_USE
  | (9364:15) Valkyrie Blade
  | Deal 360~450% damage (4~5 hits, 90% each)

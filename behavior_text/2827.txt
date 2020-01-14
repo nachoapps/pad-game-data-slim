@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (4120:48) Kryptonite Weaponry
-   | Change Light to Dark, Deal 100% damage
+   | Change all Light orbs to Dark orbs, Deal 100% damage
    | condition: 60% chance
    | (4122:94) Kryptonite Spear
    | Lock all Dark orbs, Deal 110% damage

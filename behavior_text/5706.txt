@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (15192:83) チェンジ、シンカリオン！ + いくぞ！
- | Voids status ailments for 999 turns + 1x1 cloud appear for 1 turn at random location, Deal 50% damage
+ | Voids status ailments for 999 turns + A 1×1 square of clouds appears for 1 turn at a random location, Deal 50% damage
  group:
  | group:
  | condition: turn 1
@@ -25,4 +25,4 @@ level: 4
    | Do nothing
  | group:
    | (15177:108) ドラゴンナックル
-   | Change Fire, Water, and Wood to Water, Deal 90% damage
+   | Change all Fire, Water, and Wood orbs to Water orbs, Deal 90% damage

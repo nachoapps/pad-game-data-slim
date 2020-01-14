@@ -9,12 +9,12 @@ approved: False
 level: 1
  type: PREEMPT
  | (1003:13) Cold Angelic Smile
- | Change Random 1 to Jammer
+ | Change 1 random orb to Jammer orbs
  group:
  | group:
    | condition: 40% chance
    | (874:48) Shining Ray
-   | Change Random to Light, Deal 75% damage
+   | Change a random attribute to Light orbs, Deal 75% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (1004:17) Sadistic Switch
@@ -23,6 +23,6 @@ level: 1
  | condition: hp <= 29
    | condition: 40% chance
    | (874:48) Shining Ray
-   | Change Random to Light, Deal 75% damage
+   | Change a random attribute to Light orbs, Deal 75% damage
    | (875:48) Heart Break
-   | Change Heal to Jammer, Deal 50% damage
+   | Change all Heal orbs to Jammer orbs, Deal 50% damage

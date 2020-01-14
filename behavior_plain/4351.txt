@@ -27,7 +27,7 @@ end_turn
 
 #8: ESRecoverEnemyAlly(52:9624) -> Stand up!
 Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
-Enemy ally recover 100% hp
+Enemy ally recover 100% HP
 
 #9: ESSpinnersRandom(109:9625) -> Black Drill
 Condition: 20% chance (ai:20 rnd:0)

@@ -26,7 +26,7 @@ Absorb damage when combos <= 9 for 10 turns
 end_turn
 
 #8: ESAttackUPRemainingEnemies(17:7132) -> Dark Wolf Howl
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 1000% for the next 999 turns
 
 #9: ESBranchHP(29:19) -> ESBranchHP

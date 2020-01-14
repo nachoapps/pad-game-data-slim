@@ -37,7 +37,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (5703:83) Bonfire of Enlightenment + Blazing Brand of Retribution
-     | Absorb damage when combos <= 7 for 1 turn + Movetime 25% for 1 turn
+     | Absorb damage when combos <= 7 for 1 turn + Movetime +25% for 1 turn
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (5705:85) Fireball Destruction

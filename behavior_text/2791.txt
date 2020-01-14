@@ -16,7 +16,7 @@ level: 1
  | (3978:15) Black Ruin
  | Deal 100% damage
  | (3976:83) Surrender your will. + Rebirth
- | Reduce damage from all sources by 75% for 2 turns + Change Random to Heal, Deal 200% damage
+ | Reduce damage from all sources by 75% for 2 turns + Change a random attribute to Heal orbs, Deal 200% damage
 
 level: 4
  type: PREEMPT
@@ -78,11 +78,11 @@ level: 4
    | group:
    | condition: turn 5
      | (3975:83) Ignorant slaves of Pulse. + Rebirth
-     | Reduce damage from all sources by 75% for 2 turns + Change Random to Heal, Deal 200% damage
+     | Reduce damage from all sources by 75% for 2 turns + Change a random attribute to Heal orbs, Deal 200% damage
  type: UNKNOWN_USE
  | (3974:83) It's acting differently. + Black Ruin
  | Jammer skyfall +15% for 3 turns + Deal 100% damage, Deal 100% damage
  | (3978:15) Black Ruin
  | Deal 100% damage
  | (3976:83) Surrender your will. + Rebirth
- | Reduce damage from all sources by 75% for 2 turns + Change Random to Heal, Deal 200% damage
+ | Reduce damage from all sources by 75% for 2 turns + Change a random attribute to Heal orbs, Deal 200% damage

@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Devil types by 50%
  type: PREEMPT
  | (9895:48) Holy Jagged Horn - Purification
- | Change Jammer to Fire, Deal 500% damage
+ | Change all Jammer orbs to Fire orbs, Deal 500% damage
  | (9896:87) Holy Jagged Horn - Bewitching
  | Absorb damage when damage >= 1,000,000 for 10 turns
  group:
@@ -29,7 +29,7 @@ level: 1
    | condition: turns 2-9 while HP > 49
      | condition: 33% chance
      | (9901:83) Unicorn Neigh + Sacred Horn
-     | Delay active skills by 1~2 turns + Enemy recover 10% hp
+     | Delay active skills by 1~2 turns + Enemy recover 10% HP
      | (9898:83) Jagged Flash + Multi Attack
      | Blind random 3 orbs for 2 turns + Deal 390% damage (3 hits, 130% each), Deal 390% damage (3 hits, 130% each)
    | group:
@@ -42,7 +42,7 @@ level: 1
  | condition: always turns 2-9, hp <= 49
    | condition: 33% chance
    | (9901:83) Unicorn Neigh + Sacred Horn
-   | Delay active skills by 1~2 turns + Enemy recover 10% hp
+   | Delay active skills by 1~2 turns + Enemy recover 10% HP
    | (9904:15) Dual Heavenly Javelin Attack
    | Deal 430% damage (2 hits, 215% each)
  | group:

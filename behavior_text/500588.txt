@@ -13,4 +13,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (15449:104) 月狼の遠吠え
- | 2x2 cloud appear for 3 turns at random location
+ | A 2×2 square of clouds appears for 3 turns at a random location

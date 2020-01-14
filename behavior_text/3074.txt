@@ -62,7 +62,7 @@ level: 1
    | group:
    | condition: turn 1
      | (5156:86) AS-Overhaul
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
      | (5155:15) Starburst SSE
      | Deal 10000% damage (10 hits, 1000% each)

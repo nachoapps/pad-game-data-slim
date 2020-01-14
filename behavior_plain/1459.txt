@@ -23,10 +23,10 @@ flag SET 0b1
 end_turn
 
 #6: ESOrbChangeAttack(48:8320) -> Glitter Purge
-Change Poison to Heal, Deal 500% damage
+Change all Poison orbs to Heal orbs, Deal 500% damage
 
 #7: ESOrbChangeAttack(48:8321) -> Skull Lens
-Change Jammer to Mortal Poison, Deal 75% damage
+Change all Jammer orbs to Mortal Poison orbs, Deal 75% damage
 
 #8: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 30, target rnd 22

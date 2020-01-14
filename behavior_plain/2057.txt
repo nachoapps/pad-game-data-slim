@@ -34,7 +34,7 @@ flag SET 0b1
 end_turn
 
 #9: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAttackUPRemainingEnemies(17:2130) -> I suppose I misjudged!
 	Increase damage to 200% for the next 999 turns
 	[1] ESDamageShield(74:2132) -> Fighting all four of you...
@@ -66,11 +66,11 @@ Deal 80% damage (8 hits, 10% each)
 
 #15: ESOrbChangeAttack(48:2128) -> Aera
 Condition: 30% chance (ai:30 rnd:0)
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #16: ESOrbChangeAttack(48:2129) -> Wind Slash
 Condition: 30% chance (ai:30 rnd:0)
-Change Random to Jammer, Deal 120% damage
+Change a random attribute to Jammer orbs, Deal 120% damage
 
 #17: ESAttackSinglehit(82:1) -> Disable Skill
 Deal 100% damage

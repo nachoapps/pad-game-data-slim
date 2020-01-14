@@ -12,7 +12,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1962:48) Sacred Mirror of Yata
-     | Change Dark to Light, Deal 50% damage
+     | Change all Dark orbs to Light orbs, Deal 50% damage
      | (1961:79) Sacred Fertility Dance
      | Change the 5th row to Heal orbs, Deal 100% damage
    | group:
@@ -24,7 +24,7 @@ level: 1
    | group:
    | condition: turn 1
      | (1963:86) Shower of Healing
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | (1964:62) Cave of the Sun Goddess
      | Blind all orbs on the board, Deal 350% damage

@@ -52,7 +52,7 @@ end_turn
 
 #15: ESRecoverEnemy86(86:15777) -> ホーリー・エルフの祝福
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #16: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 0, target rnd 4

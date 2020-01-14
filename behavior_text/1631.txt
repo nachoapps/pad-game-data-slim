@@ -16,7 +16,7 @@ level: 1
    | condition: execute repeatedly, turn 1-6 of 7
      | condition: 60% chance
      | (1589:48) Heavenly Lightning
-     | Change Random to Light, Deal 80% damage
+     | Change a random attribute to Light orbs, Deal 80% damage
      | (1591:15) Photon Breath
      | Deal 150% damage (3 hits, 50% each)
    | group:
@@ -29,7 +29,7 @@ level: 1
    | condition: execute repeatedly, turn 1-6 of 7
      | condition: 60% chance
      | (1590:48) Dark Rumble
-     | Change Random to Dark, Deal 80% damage
+     | Change a random attribute to Dark orbs, Deal 80% damage
      | (1591:15) Photon Breath
      | Deal 150% damage (3 hits, 50% each)
    | group:

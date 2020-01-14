@@ -12,7 +12,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (679:48) Hydro Laser
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (678:15) Aqua Lance
@@ -26,7 +26,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2 of 6
      | (679:48) Hydro Laser
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 3 of 6
      | (678:15) Aqua Lance
@@ -34,7 +34,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 4 of 6
      | (679:48) Hydro Laser
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (678:15) Aqua Lance
@@ -42,7 +42,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (679:48) Hydro Laser
-     | Change Random to Water, Deal 80% damage
+     | Change a random attribute to Water orbs, Deal 80% damage
  | group:
  | condition: hp <= 24
    | group:
@@ -52,4 +52,4 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2-6 of 6
      | (680:48) Hydro Burst
-     | Change Random to Water, Deal 160% damage
+     | Change a random attribute to Water orbs, Deal 160% damage

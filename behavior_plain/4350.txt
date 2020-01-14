@@ -24,7 +24,7 @@ end_turn
 
 #7: ESCloud(104:9632) -> Soft Tail
 Condition: 30% chance (ai:30 rnd:0)
-2x2 cloud appear for 1 turn at random location, Deal 80% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 80% damage
 
 #8: ESAttackMultihit(15:9631) -> Adolescent Punch
 Deal 100% damage

@@ -25,7 +25,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 1 of 5
    | (11441:48) Awesome!
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (11442:50) Huaah!

@@ -6,7 +6,7 @@ counter increment: 0
 
 #1: ESOrbChangeAttack(48:13200) -> クリーミーチーズ
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Light, Deal 90% damage
+Change a random attribute to Light orbs, Deal 90% damage
 
 #2: ESAttackMultihit(15:13201) -> 香ばしい2枚のビーフパティ
 Condition: 50% chance (ai:0 rnd:50)

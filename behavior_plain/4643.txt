@@ -34,7 +34,7 @@ Branch on hp < 20, target rnd 14
 
 #10: ESOrbChangeAttack(48:10377) -> Light Pillar
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Light, Deal 110% damage
+Change a random attribute to Light orbs, Deal 110% damage
 
 #11: ESSkillDelay(89:10378) -> Diminishing Rush
 Condition: 33% chance (ai:0 rnd:33)

@@ -13,7 +13,7 @@ level: 4
  group:
  | group:
    | (10608:48) Slider
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 74
    | group:

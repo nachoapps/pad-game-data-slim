@@ -13,6 +13,6 @@ level: 1
  | Bind 1 random card for 1 turn
  | condition: 30% chance
  | (15467:60) 尾蛇の毒
- | Change Random 2 to Poison (excluding hearts)
+ | Change 2 random orbs (excluding hearts) to Poison orbs
  | (15468:15) かみかみ
  | Deal 100% damage (2 hits, 50% each)

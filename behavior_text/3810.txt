@@ -22,19 +22,19 @@ level: 1
    | group:
    | condition: turn 1
      | (7412:83) Intriguing... + Let's have a little more fun
-     | Voids status ailments for 999 turns + Rcv 50% for 3 turns
+     | Voids status ailments for 999 turns + RCV +50% for 3 turns
    | group:
      | condition: 50% chance
      | (7413:39) Icicle Sting
-     | Movetime 50% for 1 turn, Deal 150% damage
+     | Movetime +50% for 1 turn, Deal 150% damage
      | (7414:102) Bubble Bomb
      | Spawn 5 random Bomb orbs, Deal 150% damage
  type: UNKNOWN_USE
  | (7554:48) Hushed Windweaver
- | Change Heal to Wood, Deal 130% damage
+ | Change all Heal orbs to Wood orbs, Deal 130% damage
  | (7555:50) Splintering Windblast
  | Player -90% HP
  | (7556:39) Eye of the Storm Dragon
- | Movetime 50% for 5 turns
+ | Movetime +50% for 5 turns
  | (7557:85) Valiant Gale
  | Change all orbs to Wood and Jammer, Deal 3000% damage

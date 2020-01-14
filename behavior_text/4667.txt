@@ -16,16 +16,16 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 25% chance
      | (10608:48) Slider
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 25% chance
      | (10609:48) Curve
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 25% chance
      | (10612:48) Shoot
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 25% chance
      | (10610:48) Fork
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (10582:65) 1,000 Time Flirt of Hell
@@ -40,16 +40,16 @@ level: 4
    | condition: execute repeatedly, turn 1 of 3
      | condition: 25% chance
      | (10608:48) Slider
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 25% chance
      | (10609:48) Curve
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 25% chance
      | (10612:48) Shoot
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 25% chance
      | (10610:48) Fork
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (10582:65) 1,000 Time Flirt of Hell
@@ -58,13 +58,13 @@ level: 4
    | condition: execute repeatedly, turn 3 of 3
      | condition: 25% chance
      | (10608:48) Slider
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 25% chance
      | (10609:48) Curve
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 25% chance
      | (10612:48) Shoot
-     | Change Random to Light, Deal 100% damage
+     | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 25% chance
      | (10610:48) Fork
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage

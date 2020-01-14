@@ -19,7 +19,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (8821:104) Mid-Air Frost Scythe
-     | 1x1 cloud appear for 2 turns at random location, Deal 120% damage
+     | A 1×1 square of clouds appears for 2 turns at a random location, Deal 120% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (8822:15) Mid-Air Claw Attack
@@ -41,4 +41,4 @@ level: 4
  | group:
  | condition: hp <= 14
    | (8828:104) Mid-Air Spinning Tail Attack
-   | Column of cloud appear for 1 turn at random location, Deal 170% damage
+   | A column of clouds appears for 1 turn at a random location, Deal 170% damage

@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (1225:13) Mystery Illusion
- | Change Random 2 to Jammer
+ | Change 2 random orbs to Jammer orbs
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1226:48) Magical Wash
-   | Change Wood to Water, Deal 90% damage
+   | Change all Wood orbs to Water orbs, Deal 90% damage
  | group:
  | condition: hp <= 49
    | group:

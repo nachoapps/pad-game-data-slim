@@ -55,13 +55,13 @@ level: 4
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (8846:83) Roar + Pounce Attack
-     | Bind awoken skills for 1 turn + Change Light to Jammer, Deal 110% damage
+     | Bind awoken skills for 1 turn + Change all Light orbs to Jammer orbs, Deal 110% damage
      | (8849:83) Tail Strike + Binding Attack
-     | Change Fire to Jammer + Bind player leader for 1 turn, Deal 90% damage
+     | Change all Fire orbs to Jammer orbs + Bind player leader for 1 turn, Deal 90% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (8852:83) Spike Regeneration + Annihilation Fist
-     | Enemy recover 10% hp + Deal 130% damage, Deal 130% damage
+     | Enemy recover 10% HP + Deal 130% damage, Deal 130% damage
  | group:
  | condition: hp <= 9
    | (8853:15) Aerial Annihilation Spike Whirl

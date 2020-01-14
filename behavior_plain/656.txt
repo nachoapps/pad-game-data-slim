@@ -27,7 +27,7 @@ Branch on player_cards HAS [374, 375, 655, 1347], target rnd 12
 Branch on hp < 80, target rnd 15
 
 #8: ESRandomSpawn(92:3326) -> Black Pain
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn 6 random Mortal Poison orbs, Deal 200% damage
 
 #9: SkillSet:
@@ -51,7 +51,7 @@ Branch on flag & 2, target rnd 7
 flag SET 0b11
 
 #14: ESRecoverPlayer(55:3329) -> My friend! How've you been?
-Player recover 100% hp
+Player recover 100% HP
 
 #15: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 8

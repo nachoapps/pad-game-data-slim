@@ -27,7 +27,7 @@ level: 1
    | group:
    | condition: turn 4 while HP > 19
      | (5880:83) Neurotoxins + Sm Dhanab
-     | Movetime -1s for 10 turns + Change Random to Mortal Poison, Deal 100% damage
+     | Movetime -1s for 10 turns + Change a random attribute to Mortal Poison orbs, Deal 100% damage
    | group:
      | condition: 50% chance
      | (5881:77) Scorpion Slash

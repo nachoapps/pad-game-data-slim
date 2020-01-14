@@ -9,7 +9,7 @@ approved: False
 level: 3
  type: PREEMPT
  | (1441:48) Speedster
- | Change Random to Jammer, Deal 50% damage
+ | Change a random attribute to Jammer orbs, Deal 50% damage
  group:
  | group:
    | condition: 30% chance
@@ -17,12 +17,12 @@ level: 3
    | Blind all orbs on the board, Deal 75% damage
    | condition: 40% chance
    | (1444:48) Love Letter
-   | Change Random to Heal, Deal 150% damage
+   | Change a random attribute to Heal orbs, Deal 150% damage
    | condition: 30% chance
    | (1445:63) Hypnos Letter
    | Bind 4 random cards for 1~2 turns, Deal 50% damage
    | (1446:48) Thanatos Letter
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (1442:68) Trickster

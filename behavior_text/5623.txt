@@ -27,7 +27,7 @@ level: 1
    | (14825:83) Great! You did it!♪ + Here's the candy, like I promised!
    | Do nothing + Reduce self HP to 0
    | (14829:83) Fight♪ + Don't give up!
-   | Movetime 500% for 99 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+   | Movetime +500% for 99 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
  | group:
    | condition: when 6 combos last turn
    | (14825:83) Great! You did it!♪ + Here's the candy, like I promised!

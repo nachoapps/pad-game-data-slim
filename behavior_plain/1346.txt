@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESRecoverPlayer(55:3171) -> Welcome!
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESStatusShield(20:3172) -> I'll do my best, too!
 	Voids status ailments for 999 turns
 
@@ -32,11 +32,11 @@ Branch on hp < 50, target rnd 18
 Branch on hp < 20, target rnd 21
 
 #9: ESBindSkill(14:3179) -> Collar of Brisingar
-Condition: When < 70% hp , one-time use (ai:50 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:50 rnd:0) (cost: 1)
 Bind active skills for 2 turns
 
 #10: ESDebuffMovetime(39:3180) -> Sessrumnir
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Movetime -2s for 5 turns
 
 #11: ESRandomSpawn(92:3174) -> Piggy Attack

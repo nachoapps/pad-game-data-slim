@@ -29,14 +29,14 @@ flag SET 0b1
 end_turn
 
 #8: SkillSet:
-	Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:4221) -> Conquering Will
-	Enemy recover 55% hp
+	Enemy recover 55% HP
 	[1] ESAttackUPRemainingEnemies(17:4222) -> Dragonbound's Wrath
 	Increase damage to 200% for the next 999 turns
 
 #9: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESAttackMultihit(15:4232) -> Abyss Hole
 	Deal 120% damage (4 hits, 30% each)
 	[1] ESBoardChangeAttackBits(85:4225) -> Abyss Dark Ring
@@ -81,7 +81,7 @@ flag SET 0b111
 	[0] ESAbsorbAttribute(53:4233) -> Abyssal Shark Dragon's Trial
 	Absorb Water damage for 1 turn
 	[1] ESOrbChangeAttack(48:4234) -> Chopping Ring of the Deep Sea
-	Change Heal to Poison, Deal 50% damage
+	Change all Heal orbs to Poison orbs, Deal 50% damage
 
 #22: ESResolve(73:4220) -> Dragonbound's Resolve
 Survive attacks with 1 HP when HP > 50%

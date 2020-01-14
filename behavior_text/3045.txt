@@ -14,7 +14,7 @@ level: 4
  | group:
  | condition: always turn 1
    | (4983:48) "Myo-o The Angry" cannot lose!
-   | Change Light to Dark, Deal 100% damage
+   | Change all Light orbs to Dark orbs, Deal 100% damage
    | (4984:15) "Myo-o The Angry" cannot lose!
    | Deal 100% damage
  | group:
@@ -27,7 +27,7 @@ level: 4
  | group:
  | condition: always turn 2, hp <= 49
    | (4985:86) Hyoooh
-   | Enemy recover 15% hp
+   | Enemy recover 15% HP
  | group:
  | condition: hp <= 44
    | condition: 50% chance, one time only

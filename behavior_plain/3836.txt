@@ -29,32 +29,32 @@ flag SET 0b1
 end_turn
 
 #8: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAbsorbThreshold(87:7908) -> Clearwater Reflection
 	Absorb damage when damage >= 1,000,000 for 10 turns
 	[1] ESSkyfall(68:7909) -> Vitality Pulse
 	Wood skyfall +25% for 10 turns
 
 #9: ESDebuffMovetime(39:7918) -> Open Ocean
-Condition: When < 10% hp (ai:100 rnd:0)
-Movetime 25% for 1 turn, Deal 250% damage
+Condition: When < 10% HP (ai:100 rnd:0)
+Movetime +25% for 1 turn, Deal 250% damage
 
 #10: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:7913) -> Ripple
 	Reduce damage from all sources by 75% for 1 turn
 	[1] ESAttackMultihit(15:7914) -> Copious Dragon Fangs
 	Deal 90% damage (3 hits, 30% each)
 
 #11: SkillSet:
-	Condition: When < 30% hp (ai:100 rnd:0)
+	Condition: When < 30% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:7912) -> Ripple
 	Reduce damage from all sources by 50% for 1 turn
 	[1] ESAttackMultihit(15:7914) -> Copious Dragon Fangs
 	Deal 90% damage (3 hits, 30% each)
 
 #12: SkillSet:
-	Condition: When < 40% hp (ai:100 rnd:0)
+	Condition: When < 40% HP (ai:100 rnd:0)
 	[0] ESDamageShield(74:7911) -> Ripple
 	Reduce damage from all sources by 35% for 1 turn
 	[1] ESAttackMultihit(15:7914) -> Copious Dragon Fangs
@@ -62,7 +62,7 @@ Movetime 25% for 1 turn, Deal 250% damage
 
 #13: ESOrbChangeAttackBits(108:7907) -> Gust of Wind
 Condition: 70% chance (ai:70 rnd:0)
-Change Wood to Water, Deal 70% damage
+Change all Wood orbs to Water orbs, Deal 70% damage
 
 #14: ESBlind62(62:7906) -> Silent Sand
 Blind all orbs on the board, Deal 70% damage

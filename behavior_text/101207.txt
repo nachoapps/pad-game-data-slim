@@ -17,13 +17,13 @@ level: 3
  | Reduce damage from Fire and Dark attrs by 50%
  type: PREEMPT
  | (7619:83) Barrier Field + Demon Cyclone
- | Voids status ailments for 999 turns + Rcv 50% for 4 turns
+ | Voids status ailments for 999 turns + RCV +50% for 4 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 5
      | (955:64) Genocide Missile Type 0
-     | Change Random 6 to Poison, Deal 100% damage
+     | Change 6 random orbs to Poison orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 5
      | (954:15) Improved Endless Noble Claws

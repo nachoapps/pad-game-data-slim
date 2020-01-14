@@ -30,11 +30,11 @@ Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #9: ESRandomSpawn(92:3761) -> Incandescent Ocean
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Fire
 
 #10: ESGravity(50:3663) -> Full Spiral
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Player -100% HP
 
 #11: ESBranchFlag(43:10) -> ESBranchFlag

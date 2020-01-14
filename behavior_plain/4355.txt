@@ -42,7 +42,7 @@ Branch on hp < 10, target rnd 23
 Branch on hp < 50, target rnd 28
 
 #11: ESOrbLock(94:10045) -> Shadow of Fate
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all orbs, Deal 160% damage
 
 #12: ESBranchCombo(113:6528) -> ESBranchCombo
@@ -124,14 +124,14 @@ Branch on counter >= 1, target rnd 11
 counter + 1
 
 #30: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAttackUPRemainingEnemies(17:10046) -> Philysians
 	Increase damage to 200% for the next 1 turn
 	[1] ESAbsorbCombo(67:10048) -> Prism Mirror
 	Absorb damage when combos <= 6 for 15 turns
 
 #31: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:10046) -> Philysians
 	Increase damage to 200% for the next 1 turn
 	[1] ESAbsorbCombo(67:10047) -> Prism Mirror

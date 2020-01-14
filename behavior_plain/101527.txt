@@ -37,7 +37,7 @@ Bind 3 random subs for 2~3 turns, Deal 80% damage
 end_turn
 
 #10: ESBindAttack(63:8196) -> Cold Beauty Technique
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 3 random subs for 2~3 turns, Deal 80% damage
 
 #11: ESEndPath(36:26) -> ESEndPath

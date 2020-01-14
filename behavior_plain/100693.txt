@@ -31,7 +31,7 @@ end_turn
 
 #9: ESOrbChangeAttack(48:447) -> Wolf Attack
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 70% damage
+Change a random attribute to Jammer orbs, Deal 70% damage
 
 #10: ESAttackMultihit(15:448) -> Whirlwind Barrage
 Condition: 70% chance (ai:70 rnd:0)

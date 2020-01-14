@@ -43,7 +43,7 @@ Branch on hp < 20, target rnd 12
 	[0] ESBlindStickyRandom(97:13896) -> The black puppet starts to move
 	Blind random 4 orbs for 1 turn
 	[1] ESOrbChangeAttack(48:13899) -> Oblivion Flame
-	Change Random to Jammer, Deal 95% damage
+	Change a random attribute to Jammer orbs, Deal 95% damage
 
 #9: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)

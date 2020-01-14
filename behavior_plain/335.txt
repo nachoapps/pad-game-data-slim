@@ -22,7 +22,7 @@ Bind 2 random cards for 4 turns
 
 #6: ESOrbChangeAttack(48:757) -> Holy Water Dragon's Breath
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Water, Deal 80% damage
+Change a random attribute to Water orbs, Deal 80% damage
 
 #7: ESAttackMultihit(15:755) -> God Blizzard Breath
 Deal 150% damage (2 hits, 75% each)

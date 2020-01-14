@@ -11,5 +11,5 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESAttackMultihit(15:576) -> Downward swing
-Condition: 40% chance when < 75% hp (ai:40 rnd:0)
+Condition: 40% chance when < 75% HP (ai:40 rnd:0)
 Deal 120% damage

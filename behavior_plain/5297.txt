@@ -83,7 +83,7 @@ Branch on flag & 2, target rnd 23
 flag SET 0b11
 
 #20: ESOrbChangeAttackBits(108:13820) -> How disappointing
-Change Mortal Poison to Heal, Deal 5000% damage
+Change all Mortal Poison orbs to Heal orbs, Deal 5000% damage
 
 #21: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)

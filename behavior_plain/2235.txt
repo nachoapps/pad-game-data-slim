@@ -23,20 +23,20 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 10% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 10% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:4004) -> Blazing Spirit
-	Enemy recover 40% hp
+	Enemy recover 40% HP
 	[1] ESVoidShield(71:4003) -> Divine Body's Shining Flames
 	Void damage >= 1000000 for 10 turns
 
 #7: ESVoidShield(71:4003) -> Divine Body's Shining Flames
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Void damage >= 1000000 for 10 turns
 
 #8: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:4004) -> Blazing Spirit
-	Enemy recover 40% hp
+	Enemy recover 40% HP
 	[1] ESColumnSpawnMulti(77:3999) -> Wall Eruption
 	Change the 1st, 3rd, 4th, and 6th columns to Fire orbs, Deal 1500% damage
 
@@ -47,7 +47,7 @@ Branch on flag & 2, target rnd 15
 flag SET 0b11
 
 #11: ESBindAttribute(2:4001) -> Revenge Full of Hatred
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Bind Water cards for 5 turns
 
 #12: ESBindAttack(63:3994) -> Trembling Lance
@@ -59,10 +59,10 @@ Bind 4 random subs for 1 turn, Deal 900% damage
 	[0] ESBlind62(62:3991) -> Cinder Storm
 	Blind all orbs on the board, Deal 100% damage
 	[1] ESOrbChangeAttack(48:3992) -> Hidden Ember
-	Change Random to Fire, Deal 600% damage
+	Change a random attribute to Fire orbs, Deal 600% damage
 
 #14: ESJammerChangeRandom(13:3990) -> Wall Burst
-Change Random 3 to Jammer, Deal 800% damage
+Change 3 random orbs to Jammer orbs, Deal 800% damage
 
 #15: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 20
@@ -71,7 +71,7 @@ Branch on flag & 4, target rnd 20
 flag SET 0b111
 
 #17: ESOrbChangeAttack(48:3995) -> Rubble Incineration
-Change Jammer to Fire, Deal 3000% damage
+Change all Jammer orbs to Fire orbs, Deal 3000% damage
 
 #18: ESOrbLock(94:3996) -> Constant Grimness
 Lock all Fire and Light orbs, Deal 700% damage

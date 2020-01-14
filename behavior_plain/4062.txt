@@ -43,10 +43,10 @@ Branch on hp < 20, target rnd 30
 Do nothing
 
 #12: ESOrbChangeAttack(48:8889) -> Sacrifice Saber
-Change Poison to Dark, Deal 170% damage
+Change all Poison orbs to Dark orbs, Deal 170% damage
 
 #13: ESOrbChangeAttack(48:8890) -> Drill Break
-Change Jammer to Fire, Deal 150% damage
+Change all Jammer orbs to Fire orbs, Deal 150% damage
 
 #14: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 24
@@ -134,7 +134,7 @@ flag SET 0b111
 
 #32: SkillSet:
 	[0] ESRecoverEnemy86(86:8894) -> Aaaahhhhhh! I won't forgive you!!
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 	[1] ESBindAwoken(88:8895) -> I'll weaken you!!
 	Bind awoken skills for 5 turns
 

@@ -20,7 +20,7 @@ level: 5
    | Change the 3rd column to Water orbs, Deal 120% damage
    | condition: 20% chance
    | (3289:48) Blue Charger
-   | Change Water to Jammer, Deal 80% damage
+   | Change all Water orbs to Jammer orbs, Deal 80% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 79
    | (3240:89) Absorption
@@ -32,4 +32,4 @@ level: 5
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (3235:52) Follow Repair
- | Enemy ally recover 45% hp
+ | Enemy ally recover 45% HP

@@ -27,13 +27,13 @@ level: 1
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 50000% damage (4 hits, 12500% each), Deal 50000% damage (4 hits, 12500% each)
  type: UNKNOWN_USE
  | (10935:83) Salvation of the Holy Ship + Charity from Heaven
- | Rcv 300% for 9 turns + Change Wood to Heal, Deal 500% damage
+ | RCV +300% for 9 turns + Change all Wood orbs to Heal orbs, Deal 500% damage
  | (10937:15) Strike from the Heavens
  | Deal 4999% damage
  | (10939:83) Veil of Darkness + Tempest Rain
  | Blind all orbs on the board + Deal 2700% damage (3 hits, 900% each), Deal 2700% damage (3 hits, 900% each)
  | (10943:83) Shrouding Mist + Wave Pulse
- | 2x3 cloud appear for 1 turn at 2nd row, 3rd column + Deal 2900% damage (4 hits, 725% each), Deal 2900% damage (4 hits, 725% each)
+ | A 2×3 rectangle of clouds appears for 1 turn at 2nd row, 3rd column + Deal 2900% damage (4 hits, 725% each), Deal 2900% damage (4 hits, 725% each)
  | (10946:83) Darkness of the Lingering Night + Wave Pulse
  | Blind random 15 orbs for 1 turn + Deal 3100% damage (5 hits, 620% each), Deal 3100% damage (5 hits, 620% each)
  | (10949:83) Whirlpool + Wave Pulse

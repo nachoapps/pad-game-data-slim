@@ -68,7 +68,7 @@ level: 1
  | condition: hp <= 29
    | condition: 50% chance
    | (2982:86) Cell Mending
-   | Enemy recover 10% hp, Deal 420% damage
+   | Enemy recover 10% HP, Deal 420% damage
    | (2983:63) Great Vine
    | Bind 1 random card for 5 turns, Deal 410% damage
  | group:

@@ -26,7 +26,7 @@ level: 4
  | group:
    | condition: 33% chance
    | (9824:48) Shooting Stardust
-   | Change Random to Jammer, Deal 95% damage
+   | Change a random attribute to Jammer orbs, Deal 95% damage
    | condition: 33% chance
    | (9825:89) Star Symphony
    | Delay active skills by 2 turns, Deal 90% damage

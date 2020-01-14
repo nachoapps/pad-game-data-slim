@@ -12,7 +12,7 @@ level: 5
  | condition: hp <= 74
    | condition: 70% chance
    | (1054:48) Break Weapon
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 24
    | (1055:15) Stormgust

@@ -27,26 +27,26 @@ Branch on hp < 50, target rnd 11
 	[1] ESAttackSinglehit(82:1) -> Disable Skill
 	Deal 100% damage
 	[2] ESOrbChangeAttack(48:12446) -> Shadow Axe
-	Change Random to Dark, Deal 45% damage
+	Change a random attribute to Dark orbs, Deal 45% damage
 
 #7: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESAttackMultihit(15:12448) -> Head Press
 	Deal 100% damage
 	[1] ESOrbChangeAttack(48:12449) -> Somersault Skull Diver
-	Change Random to Dark, Deal 110% damage
+	Change a random attribute to Dark orbs, Deal 110% damage
 
 #8: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESOrbChangeAttack(48:12452) -> Psycho Blast
-	Change Random to Poison, Deal 80% damage
+	Change a random attribute to Poison orbs, Deal 80% damage
 	[1] ESAttackMultihit(15:12453) -> Double Knee Press
 	Deal 110% damage (2 hits, 55% each)
 
 #9: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESOrbChangeAttack(48:12452) -> Psycho Blast
-	Change Random to Poison, Deal 80% damage
+	Change a random attribute to Poison orbs, Deal 80% damage
 	[1] ESAttackMultihit(15:12454) -> Psycho Inferno
 	Deal 120% damage (4 hits, 30% each)
 
@@ -74,14 +74,14 @@ Change the 3rd row to Dark orbs, Deal 250% damage
 #15: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESOrbChangeAttack(48:12452) -> Psycho Blast
-	Change Random to Poison, Deal 80% damage
+	Change a random attribute to Poison orbs, Deal 80% damage
 	[1] ESAttackMultihit(15:12453) -> Double Knee Press
 	Deal 110% damage (2 hits, 55% each)
 
 #16: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)
 	[0] ESOrbChangeAttack(48:12452) -> Psycho Blast
-	Change Random to Poison, Deal 80% damage
+	Change a random attribute to Poison orbs, Deal 80% damage
 	[1] ESAttackMultihit(15:12454) -> Psycho Inferno
 	Deal 120% damage (4 hits, 30% each)
 

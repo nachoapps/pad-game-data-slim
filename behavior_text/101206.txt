@@ -23,7 +23,7 @@ level: 3
    | group:
    | condition: execute repeatedly, turn 1 of 5
      | (1467:48) Super Hadar Missile
-     | Change Random to Jammer, Deal 125% damage
+     | Change a random attribute to Jammer orbs, Deal 125% damage
    | group:
    | condition: execute repeatedly, turn 2 of 5
      | (1466:15) Lightning Regulus Claw
@@ -35,7 +35,7 @@ level: 3
    | group:
    | condition: execute repeatedly, turn 4 of 5
      | (1463:48) Betelgeuse Bomb
-     | Change Random to Fire, Deal 150% damage
+     | Change a random attribute to Fire orbs, Deal 150% damage
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (1464:50) Aldebaran Crusher

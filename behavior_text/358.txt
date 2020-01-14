@@ -14,7 +14,7 @@ level: 1
    | Blind all orbs on the board
    | condition: 20% chance
    | (144:13) Miracle of the Lamp
-   | Change Random 1 to Jammer
+   | Change 1 random orb to Jammer orbs
    | condition: 20% chance
    | (147:16) Miracle of the Lamp
    | Do nothing
@@ -22,13 +22,13 @@ level: 1
  | condition: hp <= 39
    | condition: 40% chance, one time only
    | (142:7) Miracle of the Lamp
-   | Enemy recover 30% hp
+   | Enemy recover 30% HP
    | condition: 20% chance
    | (143:5) Miracle of the Lamp
    | Blind all orbs on the board
    | condition: 20% chance
    | (144:13) Miracle of the Lamp
-   | Change Random 1 to Jammer
+   | Change 1 random orb to Jammer orbs
    | condition: 20% chance
    | (147:16) Miracle of the Lamp
    | Do nothing

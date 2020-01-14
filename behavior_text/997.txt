@@ -14,10 +14,10 @@ level: 1
  | group:
    | condition: 50% chance
    | (1254:48) Holy Ocean's Wave
-   | Change Wood to Water, Deal 80% damage
+   | Change all Wood orbs to Water orbs, Deal 80% damage
    | condition: 80% chance
    | (1255:48) Burning Life Light
-   | Change Dark to Light, Deal 80% damage
+   | Change all Dark orbs to Light orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:

@@ -9,7 +9,7 @@ Enable preempt if level 5
 
 #2: ESOrbChangeSingle(4:4784) -> Light Orb change
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Dark to Light
+Change all Dark orbs to Light orbs
 
 #3: ESBindAttribute(2:4789) -> Holy Grudge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

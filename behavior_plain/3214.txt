@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESJammerChangeRandom(13:5804) -> Blow it hard!
-Change Random 2 to Jammer
+Change 2 random orbs to Jammer orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

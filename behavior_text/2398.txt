@@ -22,14 +22,14 @@ level: 1
      | Deal 130% damage
      | condition: 50% chance
      | (3333:48) Black Flame
-     | Change Fire to Jammer, Deal 120% damage
+     | Change all Fire orbs to Jammer orbs, Deal 120% damage
      | (3332:92) Laevateinn
      | Spawn 6 random Fire orbs, Deal 130% damage
    | group:
    | condition: execute repeatedly, turn 1-2 of 4
      | condition: 50% chance
      | (3333:48) Black Flame
-     | Change Fire to Jammer, Deal 120% damage
+     | Change all Fire orbs to Jammer orbs, Deal 120% damage
      | (3332:92) Laevateinn
      | Spawn 6 random Fire orbs, Deal 130% damage
    | group:
@@ -40,7 +40,7 @@ level: 1
    | condition: execute repeatedly, turn 4 of 4
      | condition: 50% chance
      | (3333:48) Black Flame
-     | Change Fire to Jammer, Deal 120% damage
+     | Change all Fire orbs to Jammer orbs, Deal 120% damage
      | (3332:92) Laevateinn
      | Spawn 6 random Fire orbs, Deal 130% damage
  | group:
@@ -60,7 +60,7 @@ level: 1
    | condition: execute repeatedly, turn 1 of 4
      | condition: 50% chance
      | (3333:48) Black Flame
-     | Change Fire to Jammer, Deal 120% damage
+     | Change all Fire orbs to Jammer orbs, Deal 120% damage
      | (3332:92) Laevateinn
      | Spawn 6 random Fire orbs, Deal 130% damage
    | group:
@@ -71,7 +71,7 @@ level: 1
    | condition: execute repeatedly, turn 3-4 of 4
      | condition: 50% chance
      | (3333:48) Black Flame
-     | Change Fire to Jammer, Deal 120% damage
+     | Change all Fire orbs to Jammer orbs, Deal 120% damage
      | (3332:92) Laevateinn
      | Spawn 6 random Fire orbs, Deal 130% damage
  | group:

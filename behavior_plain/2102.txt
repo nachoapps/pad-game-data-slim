@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESJammerChangeRandom(13:4464) -> Hell Howl
-	Change Random 2 to Jammer
+	Change 2 random orbs to Jammer orbs
 	[1] ESVoidShield(71:4465) -> Earth Circle's Construction
 	Void damage >= 1000000 for 5 turns
 
@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESGravity(50:4475) -> Bone Crush
 	Player -70% HP
 	[1] ESAttackMultihit(15:4474) -> Trinity Fang
@@ -38,15 +38,15 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Increase damage to 300% for the next attack
 
 #9: ESOrbLock(94:4472) -> Fire Full Smash
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all Jammer orbs, Deal 200% damage
 
 #10: ESStorePower(8:4473) -> Feeding some meat to Cerberus
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Increase damage to 300% for the next attack
 
 #11: SkillSet:
 	[0] ESOrbChangeAttack(48:4470) -> Death Smash
-	Change Random to Jammer, Deal 75% damage
+	Change a random attribute to Jammer orbs, Deal 75% damage
 	[1] ESPoisonChangeRandomAttack(64:4469) -> Death Bite
-	Change Random 3 to Poison, Deal 25% damage
+	Change 3 random orbs to Poison orbs, Deal 25% damage

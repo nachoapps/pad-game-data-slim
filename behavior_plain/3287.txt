@@ -26,7 +26,7 @@ Deal 100% damage
 end_turn
 
 #8: ESRandomSpawn(92:5919) -> Burn Hit Whip
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn 5 random Fire orbs, Deal 200% damage
 
 #9: ESBombRandomSpawn(102:5918) -> And take this!

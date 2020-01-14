@@ -23,11 +23,11 @@ end_turn
 Branch on hp > 50, target rnd 9
 
 #7: ESBindRandom(1:773) -> Snake Eye Curse
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 6 random cards for 1 turn
 
 #8: ESAttackMultihit(15:774) -> Snake King Searing Strike
 Deal 3000% damage
 
 #9: ESOrbChangeAttack(48:772) -> Searing Shot
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage

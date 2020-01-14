@@ -20,7 +20,7 @@ level: 4
    | group:
      | condition: 50% chance
      | (9951:86) Dia
-     | Enemy recover 30% hp
+     | Enemy recover 30% HP
      | condition: 50% chance
      | (9950:63) Zio
      | Bind 1 random sub for 2 turns, Deal 120% damage
@@ -33,7 +33,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (9951:86) Dia
-   | Enemy recover 30% hp
+   | Enemy recover 30% HP
    | condition: 50% chance
    | (9950:63) Zio
    | Bind 1 random sub for 2 turns, Deal 120% damage

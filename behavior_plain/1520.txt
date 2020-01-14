@@ -11,9 +11,9 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESJammerChangeRandom(13:1339) -> Pardon me.
-Condition: When < 30% hp , one-time use (ai:60 rnd:0) (cost: 1)
-Change Random 1 to Jammer
+Condition: When < 30% HP , one-time use (ai:60 rnd:0) (cost: 1)
+Change 1 random orb to Jammer orbs
 
 #4: ESBindRandomSub(65:1340) -> I'm going to keep you from moving.
-Condition: When < 30% hp , one-time use (ai:60 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use (ai:60 rnd:0) (cost: 1)
 Bind 3 random subs for 2~3 turns

@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | (10531:108) Sæhrimnir
-   | Change Jammer to Heal, Deal 140% damage
+   | Change all Jammer orbs to Heal orbs, Deal 140% damage
    | condition: 50% chance
    | (10532:92) Drómi Call
    | Spawn 4 random Fire or Jammer orbs, Deal 100% damage

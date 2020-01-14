@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1396:48) Hell's Charge
-     | Change Random to Jammer, Deal 100% damage
+     | Change a random attribute to Jammer orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1395:15) Ora ora ora oraah!!
@@ -28,4 +28,4 @@ level: 1
      | Change all orbs to Poison, Deal 10% damage
    | group:
      | (1398:64) Infernal Drive
-     | Change Random 6 to Poison, Deal 125% damage
+     | Change 6 random orbs to Poison orbs, Deal 125% damage

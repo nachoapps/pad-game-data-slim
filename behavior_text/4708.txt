@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (10721:108) Draw Attack - Demon
-   | Change Heal to Dark, Deal 90% damage
+   | Change all Heal orbs to Dark orbs, Deal 90% damage
    | (10723:15) Attack
    | Deal 100% damage
  | group:

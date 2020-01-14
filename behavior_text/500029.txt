@@ -10,4 +10,4 @@ level: 1
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (784:48) Earth Ball
- | Change Random to Wood, Deal 75% damage
+ | Change a random attribute to Wood orbs, Deal 75% damage

@@ -29,7 +29,7 @@ end_turn
 Branch on combo >= 6, target rnd 11
 
 #9: ESOrbChangeAttack(48:2035) -> OMG!!
-Change Water to Fire, Deal 180% damage
+Change all Water orbs to Fire orbs, Deal 180% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -41,7 +41,7 @@ Branch on hp < 60, target rnd 15
 
 #11: ESCloud(104:9267) -> Gladnir
 Condition: 33% chance (ai:33 rnd:0)
-2x3 cloud appear for 2 turns at 2nd row, 3rd column, Deal 170% damage
+A 2×3 rectangle of clouds appears for 2 turns at 2nd row, 3rd column, Deal 170% damage
 
 #12: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
@@ -87,7 +87,7 @@ flag SET 0b111
 	[0] ESStatusShield(20:12180) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[1] ESDebuffMovetime(39:12181) -> Nornil Curse
-	Movetime 50% for 12 turns
+	Movetime +50% for 12 turns
 	[2] ESDispel(6:12176) -> Dimension Extinction
 	Voids player buff effects
 
@@ -137,11 +137,11 @@ flag SET 0b111
 
 #36: SkillSet:
 	[0] ESRecoverEnemy86(86:12183) -> Healing Scratch
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESStatusShield(20:12180) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[2] ESDebuffMovetime(39:12181) -> Nornil Curse
-	Movetime 50% for 12 turns
+	Movetime +50% for 12 turns
 	[3] ESDispel(6:12176) -> Dimension Extinction
 	Voids player buff effects
 

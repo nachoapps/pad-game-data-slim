@@ -9,11 +9,11 @@ approved: False
 level: 4
  type: PREEMPT
  | (5713:60) Suffer...
- | Change Random 2 to Poison
+ | Change 2 random orbs to Poison orbs
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (5716:64) Poisonous Sanshin
- | Change Random 3 to Poison, Deal 40% damage
+ | Change 3 random orbs to Poison orbs, Deal 40% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:

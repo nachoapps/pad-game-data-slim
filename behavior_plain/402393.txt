@@ -71,7 +71,7 @@ flag SET 0b11
 
 #17: SkillSet:
 	[0] ESRecoverPlayer(55:10841) -> Please replenish your strength
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESInactivity66(66:10842) -> I'll give you an apple, too!
 	Do nothing
 	[2] ESBoardChange(84:10843) -> Ah, that's...
@@ -116,13 +116,13 @@ flag SET 0b1
 #28: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:13701) -> That hurts, you know!
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESBindAwoken(88:13702) -> I won't forgive you!
 	Bind awoken skills for 3 turns
 
 #29: SkillSet:
 	[0] ESRecoverEnemy86(86:13701) -> That hurts, you know!
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESBoardChangeAttackBits(85:13704) -> I'll give you something first-rate!
 	Change all orbs to Mortal Poison, Deal 150% damage
 

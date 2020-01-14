@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (5623:83) Death Bomb + Heart Crush
- | Spawn Bomb orbs in the specified positions + Change Heal to Jammer, Deal 100% damage
+ | Spawn Bomb orbs in the specified positions + Change all Heal orbs to Jammer orbs, Deal 100% damage
  group:
  | group:
    | (5624:103) Exploding Fist

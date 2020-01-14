@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (903:55) Lucky Encounter
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 50% chance
    | (961:48) Light Spirit's Writing
-   | Change Random to Light, Deal 80% damage
+   | Change a random attribute to Light orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:

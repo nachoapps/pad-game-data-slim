@@ -23,7 +23,7 @@ end_turn
 Branch on hp < 50, target rnd 13
 
 #7: ESColumnSpawnMulti(77:2541) -> Bursting Milky Way!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 1st, 3rd, and 5th columns to Fire orbs and the 2nd, 4th, and 6th columns to Light orbs, Deal 200% damage
 
 #8: ESColumnSpawnMulti(77:2538) -> Smack
@@ -37,7 +37,7 @@ Deal 100% damage
 #10: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
 	[0] ESRecoverEnemy86(86:2536) -> Dim Sum Snack
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESRowSpawnMulti(79:2539) -> Burning Hoof
 	Change the 5th row to Fire orbs, Deal 50% damage
 
@@ -55,7 +55,7 @@ Branch on flag & 2, target rnd 17
 flag SET 0b11
 
 #15: ESDamageShield(74:2543) -> Marshal Canopy's Secret Plan
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Reduce damage from all sources by 75% for 1 turn
 
 #16: ESEndPath(36:26) -> ESEndPath
@@ -68,7 +68,7 @@ Branch on flag & 4, target rnd 7
 flag SET 0b111
 
 #19: ESGravity(50:2540) -> Wild Boar Charge
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Player -100% HP
 
 #20: ESEndPath(36:26) -> ESEndPath

@@ -44,20 +44,20 @@ Bind 3 random cards for 2 turns
 Branch on hp < 50, target rnd 20
 
 #13: ESGravity(50:2344) -> End of Pain
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Player -100% HP
 
 #14: ESAttackMultihit(15:2345) -> Beyond the Pain
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 3000% damage (3 hits, 1000% each)
 
 #15: ESOrbChangeAttack(48:2338) -> King Cannon Type Zero
-Change Poison to Mortal Poison, Deal 200% damage
+Change all Poison orbs to Mortal Poison orbs, Deal 200% damage
 
 #16: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)
 	[0] ESRecoverEnemy86(86:2335) -> Blue Sphere
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESRandomSpawn(92:2336) -> Chaos Bolt
 	Spawn 4 random Poison orbs
 
@@ -79,11 +79,11 @@ Branch on flag & 4, target rnd 13
 flag SET 0b111
 
 #22: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESBindSkill(14:2341) -> King's Gaze
 	Bind active skills for 5 turns
 	[1] ESRecoverEnemy86(86:2342) -> Re-Zero
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 
 #23: ESAttributeResist(72:2331) -> 王ゼロ闇半減
 Reduce damage from Dark attrs by 50%

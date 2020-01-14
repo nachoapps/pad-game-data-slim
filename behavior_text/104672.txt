@@ -14,10 +14,10 @@ level: 4
  | group:
    | condition: 50% chance
    | (10574:108) On a diet?
-   | Change Heal to Jammer, Deal 80% damage
+   | Change all Heal orbs to Jammer orbs, Deal 80% damage
    | condition: 50% chance
    | (10609:48) Curve
-   | Change Random to Wood, Deal 100% damage
+   | Change a random attribute to Wood orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (10573:17) What you believe in will be deceived

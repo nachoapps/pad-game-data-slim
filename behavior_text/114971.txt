@@ -28,11 +28,11 @@ level: 4
    | group:
    | condition: turn 1
      | (11899:86) Hungry Impact
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | condition: 50% chance
      | (11900:48) I can't stop drooling!
-     | Change Random to Water, Deal 100% damage
+     | Change a random attribute to Water orbs, Deal 100% damage
      | condition: 50% chance
      | (11901:94) This is my snack!
      | Lock 10 random orbs, Deal 110% damage

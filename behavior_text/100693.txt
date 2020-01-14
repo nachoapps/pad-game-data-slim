@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (447:48) Wolf Attack
-   | Change Random to Jammer, Deal 70% damage
+   | Change a random attribute to Jammer orbs, Deal 70% damage
    | condition: 70% chance
    | (448:15) Whirlwind Barrage
    | Deal 100~150% damage (4~6 hits, 25% each)

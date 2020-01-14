@@ -9,7 +9,7 @@ Enable preempt if level 5
 
 #2: ESOrbChangeSingle(4:4782) -> Water Orb change
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Wood to Water
+Change all Wood orbs to Water orbs
 
 #3: ESBindAttribute(2:4787) -> Ice Grudge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

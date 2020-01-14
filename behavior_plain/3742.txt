@@ -48,7 +48,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Lock 8 random orbs, Deal 160% damage
 
 #15: ESRecoverEnemy86(86:7390) -> Twinkle ☆ Aqua
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

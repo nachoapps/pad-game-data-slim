@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1378:48) Honorable Dragon Cannon
-   | Change Random to Heal, Deal 300% damage
+   | Change a random attribute to Heal orbs, Deal 300% damage
  | group:
  | condition: always turn 1, hp <= 84
    | (1379:19) Honorable Dragon's Roar
@@ -28,8 +28,8 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1378:48) Honorable Dragon Cannon
-     | Change Random to Heal, Deal 300% damage
+     | Change a random attribute to Heal orbs, Deal 300% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1380:48) Gold Coin Throw
-     | Change Heal to Jammer, Deal 50% damage
+     | Change all Heal orbs to Jammer orbs, Deal 50% damage

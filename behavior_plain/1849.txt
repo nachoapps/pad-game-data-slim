@@ -17,7 +17,7 @@ flag SET 0b1
 Voids player buff effects
 
 #5: ESMortalPoisonChangeRandom(61:2396) -> Fatal Gift
-Change Random 2 to Mortal Poison
+Change 2 random orbs to Mortal Poison orbs
 
 #6: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 10
@@ -38,7 +38,7 @@ Branch on flag & 4, target rnd 14
 flag SET 0b111
 
 #12: ESMortalPoisonChangeRandom(61:2399) -> 3
-Change Random 5 to Mortal Poison
+Change 5 random orbs to Mortal Poison orbs
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,7 +50,7 @@ Branch on flag & 8, target rnd 18
 flag SET 0b1111
 
 #16: ESMortalPoisonChangeRandom(61:2400) -> 2
-Change Random 5 to Mortal Poison
+Change 5 random orbs to Mortal Poison orbs
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -62,7 +62,7 @@ Branch on flag & 16, target rnd 22
 flag SET 0b11111
 
 #20: ESMortalPoisonChangeRandom(61:2401) -> 1
-Change Random 5 to Mortal Poison
+Change 5 random orbs to Mortal Poison orbs
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Water attrs by 50%
  type: PREEMPT
  | (5521:55) Are you worth saving?
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 40% chance

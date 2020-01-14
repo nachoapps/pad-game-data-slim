@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Lock 15 random orbs
 
 #3: ESAttackUPRemainingEnemies(17:15464) -> ヴィークエンハンス
-Condition: When < 30% hp , one-time use, when <= 6 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use, when <= 6 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 6 turns
 
 #4: ESBranchHP(29:19) -> ESBranchHP
@@ -23,7 +23,7 @@ Branch on hp > 50, target rnd 7
 
 #5: ESDebuffRCV(105:15463) -> ツラヌキ
 Condition: 30% chance (ai:30 rnd:0)
-Rcv 50% for 2 turns, Deal 170% damage
+RCV +50% for 2 turns, Deal 170% damage
 
 #6: ESAttackMultihit(15:15461) -> 叛神のアギト
 Deal 100% damage (4 hits, 25% each)

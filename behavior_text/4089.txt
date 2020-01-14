@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (8647:104) Come at me!
- | 3x1 cloud appear for 2 turns at 3rd row, 3rd column
+ | A 3×1 rectangle of clouds appears for 2 turns at 3rd row, 3rd column
  group:
  | group:
    | condition: 50% chance

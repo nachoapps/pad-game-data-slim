@@ -74,7 +74,7 @@ Branch on player_cards HAS [2675, 2676, 2677, 3353, 3354], target rnd 18
 	Do nothing
 
 #19: ESAttackMultihit(15:2798) -> Senbonzakura Kageyoshi... Shukei Hakuteiken
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Deal 600% damage
 
 #20: ESGravity(50:2797) -> Hado Four... Byakurai.

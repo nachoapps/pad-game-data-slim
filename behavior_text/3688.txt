@@ -45,10 +45,10 @@ level: 1
    | group:
    | condition: turn 1 while HP > 9
      | (10911:83) Dawaaran + Shifa'a
-     | Specific orbs change every 1.0s for 3 turns + Rcv 50% for 3 turns
+     | Specific orbs change every 1.0s for 3 turns + RCV +50% for 3 turns
    | group:
      | (10914:83) Mhidofa Uvundukia + Gunpowder Smoke
-     | Deal 108% damage (6 hits, 18% each) + Column of cloud appear for 1 turn at random location, Deal 108% damage (6 hits, 18% each)
+     | Deal 108% damage (6 hits, 18% each) + A column of clouds appears for 1 turn at a random location, Deal 108% damage (6 hits, 18% each)
  | group:
  | condition: hp <= 9
    | group:

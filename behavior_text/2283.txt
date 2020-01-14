@@ -15,7 +15,7 @@ level: 5
  | condition: always turn 1
    | condition: when 1531, 1532 on team
    | (3149:55) I'm so happy you came!
-   | Player recover 100% hp
+   | Player recover 100% HP
    | (3143:14) It's a little cold, but do you want a drink?
    | Bind active skills for 2~3 turns
  | group:

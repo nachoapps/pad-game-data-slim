@@ -20,11 +20,11 @@ level: 2
    | Deal 105% damage (3 hits, 35% each)
    | condition: 34% chance
    | (14117:48) うらあああああ
-   | Change Random to Light, Deal 95% damage
+   | Change a random attribute to Light orbs, Deal 95% damage
  | group:
  | condition: turn 1, hp <= 50
    | (14112:83) 伝家の宝刀――復活!! + 相当怒ってるぜ俺の右腕はよォ
-   | Enemy recover 5% hp + Increase damage to 150% for the next 1 turn
+   | Enemy recover 5% HP + Increase damage to 150% for the next 1 turn
 
 level: 4
  type: PREEMPT
@@ -40,7 +40,7 @@ level: 4
    | Deal 105% damage (3 hits, 35% each)
    | condition: 34% chance
    | (14134:48) ウダウダ言ってんじゃねェよォ！
-   | Change Random to Light, Deal 95% damage
+   | Change a random attribute to Light orbs, Deal 95% damage
  | group:
  | condition: always turn 1, hp <= 50
    | (14135:74) 赤城直巳をなめんじゃねェ!!

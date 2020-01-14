@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 60% chance
    | (1518:48) Blue Dragon Flame Moon Blade
-   | Change Random to Fire, Deal 90% damage
+   | Change a random attribute to Fire orbs, Deal 90% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -22,11 +22,11 @@ level: 1
      | (1520:2) Anti-Magic Jade Pearl
      | Bind Fire cards for 3 turns
      | (1517:7) Time for a snack!
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
      | condition: 60% chance
      | (1519:48) Wind Blade
-     | Change Random to Wood, Deal 90% damage
+     | Change a random attribute to Wood orbs, Deal 90% damage
  | group:
  | condition: hp <= 29
    | (1521:15) Southern Blossom Dance Formation

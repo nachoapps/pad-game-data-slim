@@ -14,14 +14,14 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (14511:48) Fire Eating
-   | Change Fire to Jammer, Deal 50% damage
+   | Change all Fire orbs to Jammer orbs, Deal 50% damage
    | (14512:15) Colossal Fireball
    | Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | condition: 30% chance
    | (14511:48) Fire Eating
-   | Change Fire to Jammer, Deal 50% damage
+   | Change all Fire orbs to Jammer orbs, Deal 50% damage
    | (14521:15) Colossal Fireball
    | Deal 130% damage
  type: UNKNOWN_USE

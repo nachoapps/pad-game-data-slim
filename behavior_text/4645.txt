@@ -17,7 +17,7 @@ level: 4
    | Spawn 3 random Dark orbs, Deal 100% damage
    | condition: 33% chance
    | (10403:48) Dark Pillar
-   | Change Random to Dark, Deal 105% damage
+   | Change a random attribute to Dark orbs, Deal 105% damage
    | condition: 34% chance
    | (10404:15) Spirit Darkness
    | Deal 120% damage (2 hits, 60% each)
@@ -26,7 +26,7 @@ level: 4
    | group:
    | condition: turn 1
      | (10406:83) Swallowing Darkness + Dark Pillar
-     | Blind random 8 orbs for 1 turn + Change Random to Dark, Deal 105% damage
+     | Blind random 8 orbs for 1 turn + Change a random attribute to Dark orbs, Deal 105% damage
    | group:
      | (10407:15) Shadow Wings
      | Deal 150% damage (2 hits, 75% each)

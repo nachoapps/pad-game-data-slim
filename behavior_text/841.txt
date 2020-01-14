@@ -9,12 +9,12 @@ approved: False
 level: 1
  type: PREEMPT
  | (611:55) Blessings of Toyama
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 69
    | (612:48) Cherry Blossom Storm
-   | Change Random to Wood, Deal 120% damage
+   | Change a random attribute to Wood orbs, Deal 120% damage
  | group:
  | condition: hp <= 29
    | (613:15) Toyama Whirlwind

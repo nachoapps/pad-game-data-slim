@@ -56,4 +56,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (6527:83) Resuscitation + Seastar Rock Scales
-   | Enemy recover 100% hp + Absorb damage when combos <= 7 for 999 turns
+   | Enemy recover 100% HP + Absorb damage when combos <= 7 for 999 turns

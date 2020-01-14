@@ -38,15 +38,15 @@ flag SET 0b11
 Bind 2 random subs for 3 turns
 
 #12: ESPoisonChangeRandomCount(60:51) -> Poison Marking
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change Random 3 to Poison
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Change 3 random orbs to Poison orbs
 
 #13: ESAttackMultihit(15:50) -> Purple Orbit
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 150% damage (3 hits, 50% each)
 
 #14: ESOrbChangeAttack(48:49) -> Curing Breath
-Change Poison to Heal, Deal 120% damage
+Change all Poison orbs to Heal orbs, Deal 120% damage
 
 #15: ESPoisonChangeRandomAttack(64:48) -> Poison Fog
-Change Random 6 to Poison, Deal 50% damage
+Change 6 random orbs to Poison orbs, Deal 50% damage

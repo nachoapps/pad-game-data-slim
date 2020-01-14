@@ -12,7 +12,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 16)
 Spawn 10 random Jammer orbs
 
 #3: ESOrbChangeAttack(48:15099) -> Uh-Uh! No good!
-Change Jammer to Water, Deal 1000% damage
+Change all Jammer orbs to Water orbs, Deal 1000% damage
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)

@@ -26,10 +26,10 @@ level: 1
      | Absorb damage when combos <= 7 for 1 turn, Deal 150% damage
      | condition: 20% chance
      | (8163:108) Eastern Vidyaraja Seal
-     | Change Heal to Light, Deal 160% damage
+     | Change all Heal orbs to Light orbs, Deal 160% damage
      | condition: 20% chance
      | (8164:86) Southern Vidyaraja Seal
-     | Enemy recover 10% hp
+     | Enemy recover 10% HP
      | condition: 20% chance
      | (8165:110) Western Vidyaraja Seal
      | Specific orbs change every 1.0s for 1 turn, Deal 150% damage

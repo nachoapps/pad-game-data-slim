@@ -10,7 +10,7 @@ Enable preempt if level 1
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffMovetime(39:11313) -> Oh! Who are you?!
-	Movetime 50% for 15 turns
+	Movetime +50% for 15 turns
 	[1] ESDamageShield(74:11314) -> She's vigilant
 	Reduce damage from all sources by 75% for 15 turns
 	[2] ESStatusShield(20:11315) -> Magic Dragon Costume
@@ -51,7 +51,7 @@ Branch on hp > 96, target rnd 18
 	[0] ESGravity(50:11322) -> Aaah! The sweets!
 	Player -50% HP
 	[1] ESOrbChangeAttackBits(108:11328) -> Lucky Cookie
-	Change Light to Heal, Deal 65% damage
+	Change all Light orbs to Heal orbs, Deal 65% damage
 
 #14: SkillSet:
 	Condition: 20% chance (ai:20 rnd:0)
@@ -65,7 +65,7 @@ Branch on hp > 96, target rnd 18
 	[0] ESGravity(50:11322) -> Aaah! The sweets!
 	Player -50% HP
 	[1] ESCloud(104:11326) -> Whipped Cream
-	2x3 cloud appear for 1 turn at 2nd row, 3rd column, Deal 49% damage
+	A 2×3 rectangle of clouds appears for 1 turn at 2nd row, 3rd column, Deal 49% damage
 
 #16: SkillSet:
 	Condition: 33% chance (ai:33 rnd:0)

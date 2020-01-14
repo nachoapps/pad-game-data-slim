@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (12732:83) Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
- | Voids status ailments for 999 turns + Rcv 50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage
+ | Voids status ailments for 999 turns + RCV +50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage
  group:
  | type: DISPEL_PLAYER
    | (12735:6) Kl Yufqid Falash

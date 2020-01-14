@@ -26,9 +26,9 @@ Bind active skills for 3 turns
 end_turn
 
 #8: ESGravity(50:1050) -> Hammerfall
-Condition: When < 25% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 25% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Player -99% HP
 
 #9: ESAttackMultihit(15:1049) -> Rush Attack
-Condition: 70% chance when < 75% hp (ai:70 rnd:0)
+Condition: 70% chance when < 75% HP (ai:70 rnd:0)
 Deal 120% damage (3 hits, 40% each)

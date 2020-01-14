@@ -24,7 +24,7 @@ end_turn
 Branch on hp < 50, target rnd 14
 
 #7: ESAttackMultihit(15:3766) -> Gear Tempest
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 300% damage (3 hits, 100% each)
 
 #8: SkillSet:
@@ -40,7 +40,7 @@ Player -99% HP
 
 #10: ESOrbChangeAttack(48:540) -> Glyph of Plunder, Monkey
 Condition: 20% chance (ai:0 rnd:20)
-Change Random to Jammer, Deal 80% damage
+Change a random attribute to Jammer orbs, Deal 80% damage
 
 #11: ESAttackMultihit(15:600) -> Crystal Fang
 Condition: 30% chance (ai:0 rnd:30)

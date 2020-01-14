@@ -29,8 +29,8 @@ flag SET 0b1
 end_turn
 
 #8: ESRecoverEnemy86(86:3901) -> Curaga
-Condition: When < 60% hp , one-time use (ai:40 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 60% HP , one-time use (ai:40 rnd:0) (cost: 1)
+Enemy recover 100% HP
 
 #9: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 14

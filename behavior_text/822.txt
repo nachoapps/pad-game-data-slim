@@ -19,21 +19,21 @@ level: 1
    | condition: execute repeatedly, turn 1-5 of 6
      | condition: 70% chance
      | (2809:86) Healing Heat
-     | Enemy recover 10% hp, Deal 100% damage
+     | Enemy recover 10% HP, Deal 100% damage
      | condition: 30% chance
      | (2808:92) Flame Thrust
      | Spawn 4 random Fire orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (2810:48) Orb Alteration - Flame
-     | Change Water to Fire, Deal 300% damage
+     | Change all Water orbs to Fire orbs, Deal 300% damage
      | condition: 70% chance
      | (2809:86) Healing Heat
-     | Enemy recover 10% hp, Deal 100% damage
+     | Enemy recover 10% HP, Deal 100% damage
      | condition: 30% chance
      | (2808:92) Flame Thrust
      | Spawn 4 random Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 1
    | (2812:7) Soul of the Phoenix
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

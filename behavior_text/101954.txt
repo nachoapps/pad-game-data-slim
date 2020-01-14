@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | (2209:48) Nilakantha
-   | Change Poison to Heal, Deal 200% damage
+   | Change all Poison orbs to Heal orbs, Deal 200% damage
    | condition: 25% chance
    | (2210:77) Trishula
    | Change the 2nd column to Fire orbs, the 4th column to Fire orbs, and the 6th column to Fire orbs, Deal 100% damage
@@ -25,7 +25,7 @@ level: 1
    | Deal 120% damage (3 hits, 40% each)
    | condition: 25% chance
    | (2208:64) Halahala
-   | Change Random 7 to Poison, Deal 50% damage
+   | Change 7 random orbs to Poison orbs, Deal 50% damage
    | condition: 25% chance
    | (2207:62) Mahakala
    | Blind all orbs on the board, Deal 75% damage

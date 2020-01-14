@@ -27,7 +27,7 @@ end_turn
 
 #8: ESOrbChangeAttack(48:3418) -> Fire Technique Scroll
 Condition: 30% chance (ai:30 rnd:0)
-Change Random to Fire, Deal 120% damage
+Change a random attribute to Fire orbs, Deal 120% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

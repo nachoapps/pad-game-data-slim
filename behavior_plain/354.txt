@@ -8,5 +8,5 @@ counter increment: 0
 Voids status ailments for 10 turns
 
 #2: ESRecoverEnemy7(7:82) -> Cure
-Condition: When < 30% hp , one-time use (ai:40 rnd:0) (cost: 4)
-Enemy recover 50% hp
+Condition: When < 30% HP , one-time use (ai:40 rnd:0) (cost: 4)
+Enemy recover 50% HP

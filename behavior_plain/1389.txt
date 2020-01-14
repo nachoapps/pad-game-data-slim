@@ -20,9 +20,9 @@ Movetime -1s for 1 turn
 end_turn
 
 #6: ESBindSkill(14:1089) -> きええええーっ!!!!
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind active skills for 3 turns
 
 #7: ESAttackMultihit(15:1090) -> 串刺しにしてやろう…
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 200% damage

@@ -26,12 +26,12 @@ Change the 2nd and 5th columns to Light orbs, Deal 70% damage
 end_turn
 
 #8: ESBindAttribute(2:2497) -> オプティック・バインド
-Condition: When < 50% hp , one-time use (ai:50 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:50 rnd:0) (cost: 1)
 Bind Light cards for 2 turns
 
 #9: ESRecoverEnemy86(86:2498) -> フォトニック・チャージ
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 30% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 30% HP
 
 #10: ESAttackMultihit(15:2499) -> Ｗ・ブレイカー
 Deal 100% damage (2 hits, 50% each)

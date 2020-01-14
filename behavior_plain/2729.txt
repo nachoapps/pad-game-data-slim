@@ -14,8 +14,8 @@ end_turn
 end_turn
 
 #4: ESRecoverEnemy86(86:2880) -> Ray of Healing
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 50% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 50% HP
 
 #5: ESColumnSpawnMulti(77:2879) -> Violin Tune
 Condition: 50% chance (ai:50 rnd:0)

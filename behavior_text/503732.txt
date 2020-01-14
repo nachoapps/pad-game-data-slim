@@ -19,13 +19,13 @@ level: 1
      | Spawn 3 random Bomb orbs, Deal 98% damage
      | condition: 20% chance
      | (14577:48) Flare Breath
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage
      | condition: 20% chance
      | (14578:94) Nova
      | Lock 4 random orbs, Deal 103% damage
      | condition: 20% chance
      | (14579:104) Heat Haze
-     | 1x1 cloud appear for 1 turn at random location, Deal 101% damage
+     | A 1×1 square of clouds appears for 1 turn at a random location, Deal 101% damage
      | condition: 20% chance
      | (14580:15) Meteor
      | Deal 108% damage (3 hits, 36% each)
@@ -49,13 +49,13 @@ level: 1
      | Spawn 3 random Bomb orbs, Deal 98% damage
      | condition: 20% chance
      | (14577:48) Flare Breath
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage
      | condition: 20% chance
      | (14578:94) Nova
      | Lock 4 random orbs, Deal 103% damage
      | condition: 20% chance
      | (14579:104) Heat Haze
-     | 1x1 cloud appear for 1 turn at random location, Deal 101% damage
+     | A 1×1 square of clouds appears for 1 turn at a random location, Deal 101% damage
      | condition: 20% chance
      | (14580:15) Meteor
      | Deal 108% damage (3 hits, 36% each)

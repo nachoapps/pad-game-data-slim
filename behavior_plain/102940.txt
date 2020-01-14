@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESColumnSpawnMulti(77:5174) -> Hydro Cannon
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Change the 3rd and 4th columns to Water orbs, Deal 750% damage
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -42,7 +42,7 @@ Blind all orbs on the board, Deal 130% damage
 
 #11: ESDebuffMovetime(39:5173) -> Dazzler Splash
 Condition: One-time use (ai:0 rnd:25) (cost: 1)
-Movetime 50% for 1 turn, Deal 140% damage
+Movetime +50% for 1 turn, Deal 140% damage
 
 #12: ESRandomSpawn(92:5176) -> Tail Slap
 Condition: 25% chance & when Heal orbs are on the board (ai:0 rnd:25)

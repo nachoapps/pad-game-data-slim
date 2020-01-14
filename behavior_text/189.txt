@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 25% chance, one time only
    | (100:13) Mischief by God
-   | Change Random 2 to Jammer
+   | Change 2 random orbs to Jammer orbs
  | group:
  | condition: hp <= 59
    | condition: 50% chance
@@ -22,7 +22,7 @@ level: 1
    | Deal 180% damage (3 hits, 60% each)
    | condition: 25% chance, one time only
    | (100:13) Mischief by God
-   | Change Random 2 to Jammer
+   | Change 2 random orbs to Jammer orbs
  | group:
  | condition: hp <= 24
    | group:

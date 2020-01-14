@@ -29,7 +29,7 @@ level: 4
    | group:
    | condition: turn 3
      | (5423:48) Aztec Drop
-     | Change Random to Fire, Deal 80% damage
+     | Change a random attribute to Fire orbs, Deal 80% damage
    | group:
    | condition: turn 4
      | (5424:94) Aztec Senton

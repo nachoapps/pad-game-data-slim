@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (5717:104) Peaky Smog
- | Column of cloud appear for 2 turns at random location
+ | A column of clouds appears for 2 turns at a random location
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2

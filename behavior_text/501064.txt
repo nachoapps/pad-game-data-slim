@@ -14,6 +14,6 @@ level: 1
  condition: when 1 enemies remain, hp <= 100
  | condition: 30% chance
  | (15438:52) 骨蘇生
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP
  | (15437:15) 突撃
  | Deal 105% damage (3 hits, 35% each)

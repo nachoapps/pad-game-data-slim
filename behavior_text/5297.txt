@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 6 while HP > 9
      | (13820:108) How disappointing
-     | Change Mortal Poison to Heal, Deal 5000% damage
+     | Change all Mortal Poison orbs to Heal orbs, Deal 5000% damage
      | (13821:83) Splendid + Entertain me
      | Void damage >= 8000000 for 999 turns + Poison skyfall +10% for 99 turns
    | group:

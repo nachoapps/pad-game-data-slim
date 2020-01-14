@@ -17,7 +17,7 @@ level: 4
    | Change the 1st column to Dark orbs and the 6th column to Fire orbs, Deal 90% damage
    | condition: 25% chance
    | (15180:108) ダークフミキリガン
-   | Change Light to Dark, Deal 100% damage
+   | Change all Light orbs to Dark orbs, Deal 100% damage
    | condition: 25% chance
    | (15181:15) ダークシャリンドリル
    | Deal 135% damage (3 hits, 45% each)

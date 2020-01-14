@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (808:48) Blue Fruit
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
    | (812:15) Gulp!
    | Deal 160% damage (2 hits, 80% each)
  | group:

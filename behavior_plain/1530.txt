@@ -20,5 +20,5 @@ Bind 1 random sub for 2~4 turns
 end_turn
 
 #6: ESOrbChangeAttack(48:1376) -> Karakuri Dance
-Condition: When < 50% hp (ai:100 rnd:0)
-Change Random to Jammer, Deal 110% damage
+Condition: When < 50% HP (ai:100 rnd:0)
+Change a random attribute to Jammer orbs, Deal 110% damage

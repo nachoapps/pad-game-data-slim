@@ -50,42 +50,42 @@ Branch on hp < 50, target rnd 19
 	[0] ESAbsorbAttribute(53:11084) -> Scaly Transformation
 	Absorb Fire damage for 1 turn
 	[1] ESOrbChangeAttack(48:11089) -> Required Force
-	Change Random to Fire, Deal 102% damage
+	Change a random attribute to Fire orbs, Deal 102% damage
 
 #12: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESAbsorbAttribute(53:11085) -> Scaly Transformation
 	Absorb Water damage for 1 turn
 	[1] ESOrbChangeAttack(48:11090) -> Required Force
-	Change Random to Water, Deal 102% damage
+	Change a random attribute to Water orbs, Deal 102% damage
 
 #13: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESAbsorbAttribute(53:11086) -> Scaly Transformation
 	Absorb Wood damage for 1 turn
 	[1] ESOrbChangeAttack(48:11091) -> Required Force
-	Change Random to Wood, Deal 102% damage
+	Change a random attribute to Wood orbs, Deal 102% damage
 
 #14: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESAbsorbAttribute(53:11087) -> Scaly Transformation
 	Absorb Light damage for 1 turn
 	[1] ESOrbChangeAttack(48:11092) -> Required Force
-	Change Random to Light, Deal 102% damage
+	Change a random attribute to Light orbs, Deal 102% damage
 
 #15: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESAbsorbAttribute(53:11088) -> Scaly Transformation
 	Absorb Dark damage for 1 turn
 	[1] ESOrbChangeAttack(48:11093) -> Required Force
-	Change Random to Dark, Deal 102% damage
+	Change a random attribute to Dark orbs, Deal 102% damage
 
 #16: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
 	[0] ESAbsorbCombo(67:11094) -> Withering Hope
 	Absorb damage when combos <= 8 for 1 turn
 	[1] ESCloud(104:11289) -> Clouds of Yonder
-	Row of cloud appear for 1 turn at random location, Deal 100% damage
+	A row of clouds appears for 1 turn at a random location, Deal 100% damage
 
 #17: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
@@ -135,7 +135,7 @@ end_turn
 
 #28: SkillSet:
 	[0] ESRecoverEnemy86(86:11302) -> Blessed Rain
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESLeaderSwap(75:11303) -> Rondo of Life and Death
 	Leader changes to random sub for 3 turns
 

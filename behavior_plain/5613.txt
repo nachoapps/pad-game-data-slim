@@ -65,9 +65,9 @@ counter + 1
 #13: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESOrbChangeAttackBits(108:14770) -> Ephemeral Delight
-	Change Heal to Fire, Water, and Jammer, Deal 55% damage
+	Change all Heal orbs to Fire, Water, and Jammer orbs, Deal 55% damage
 	[1] ESOrbChangeAttack(48:14771) -> Brilliant Bloom
-	Change Random to Heal, Deal 60% damage
+	Change a random attribute to Heal orbs, Deal 60% damage
 
 #14: SkillSet:
 	[0] ESRowSpawnMulti(79:14773) -> Prominent Ocean

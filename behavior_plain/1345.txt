@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:3367) -> Golden Apple of Immortality
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -29,7 +29,7 @@ Branch on hp < 30, target rnd 17
 Branch on hp < 70, target rnd 20
 
 #9: ESGravity(50:3376) -> End of Eternity
-Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Player -100% HP
 
 #10: ESAttackMultihit(15:3372) -> Walnut Shot
@@ -63,7 +63,7 @@ Branch on flag & 8, target rnd 9
 flag SET 0b1111
 
 #19: ESRecoverEnemy86(86:3369) -> Twinkle Apple
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #20: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 9

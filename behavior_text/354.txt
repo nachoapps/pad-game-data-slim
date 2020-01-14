@@ -22,4 +22,4 @@ level: 1
    | condition: execute repeatedly, turn 2-10 of 10
      | condition: 40% chance, one time only
      | (82:7) Cure
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP

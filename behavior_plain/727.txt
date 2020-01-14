@@ -11,5 +11,5 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESRecoverEnemy7(7:83) -> Resurrection
-Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 5)
-Enemy recover 100% hp
+Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 5)
+Enemy recover 100% HP

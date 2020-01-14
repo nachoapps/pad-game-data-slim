@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: ESRecoverPlayer(55:1158) -> Gleam of the Phoenix
 Condition: One-time use (ai:100 rnd:0) (cost: 5)
-Player recover 100% hp
+Player recover 100% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -34,7 +34,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 5)
 Deal 400% damage (5 hits, 80% each)
 
 #10: ESOrbChangeAttack(48:1160) -> Immortal Flame
-Change Water to Heal, Deal 75% damage
+Change all Water orbs to Heal orbs, Deal 75% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -46,8 +46,8 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #14: ESRecoverEnemy7(7:1159) -> Flames of Reincarnation
-Condition: When < 50% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 50% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

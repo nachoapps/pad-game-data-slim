@@ -15,7 +15,7 @@ Branch on hp < 50, target rnd 6
 
 #4: ESOrbChangeAttack(48:9009) -> Me...meow
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Dark, Deal 80% damage
+Change a random attribute to Dark orbs, Deal 80% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

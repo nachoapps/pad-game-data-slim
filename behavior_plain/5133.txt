@@ -40,7 +40,7 @@ Branch on hp < 20, target rnd 21
 Branch on hp < 99, target rnd 12
 
 #11: ESJammerChangeRandom(13:13832) -> Mischief by God
-Change Random 2 to Jammer, Deal 80% damage
+Change 2 random orbs to Jammer orbs, Deal 80% damage
 
 #12: ESAttackMultihit(15:13833) -> Double Slap
 Condition: 50% chance (ai:0 rnd:50)
@@ -48,7 +48,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #13: ESBindAttack(63:13834) -> Shadow Shackler
 Condition: 50% chance (ai:0 rnd:50)
-Bind 1 friend leader for 2 turns, Deal 100% damage
+Bind friend leader for 2 turns, Deal 100% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -93,7 +93,7 @@ Deal 800% damage
 end_turn
 
 #27: ESRecoverEnemy86(86:13837) -> Praise of the Gods
-Enemy recover 85% hp
+Enemy recover 85% HP
 
 #28: ESEndPath(36:26) -> ESEndPath
 end_turn

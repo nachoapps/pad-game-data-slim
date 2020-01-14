@@ -23,7 +23,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 49
    | (15541:39) 許さんぞぉ！！
-   | Movetime 50% for 5 turns
+   | Movetime +50% for 5 turns
  | group:
  | condition: hp <= 19
    | group:

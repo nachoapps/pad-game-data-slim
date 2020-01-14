@@ -19,7 +19,7 @@ level: 1
      | Player -25% HP + Deal 50% damage, Deal 50% damage
      | condition: 33% chance
      | (11947:83) ひえひえプレゼントっ♪ + ず～っと　溶けないでいてね？
-     | Change Random to Water + Delay active skills by 1 turn, Deal 95% damage
+     | Change a random attribute to Water orbs + Delay active skills by 1 turn, Deal 95% damage
      | condition: 33% chance
      | (11948:83) こごえさせてあげるっ！ + ぴゅう～～っ♪
      | Lock 8 random orbs + Bind 1 random sub for 2 turns, Deal 90% damage

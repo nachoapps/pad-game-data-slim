@@ -23,7 +23,7 @@ level: 1
      | Increase damage to 200% for the next 999 turns
    | group:
      | (3024:48) Rose Flare
-     | Change Jammer to Fire, Deal 70% damage
+     | Change all Jammer orbs to Fire orbs, Deal 70% damage
      | condition: 60% chance
      | (3025:92) Snake Bite
      | Spawn 5 random Jammer orbs, Deal 50% damage

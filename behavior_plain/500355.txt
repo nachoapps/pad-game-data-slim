@@ -12,7 +12,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Bind awoken skills for 3 turns, Deal 80% damage
 
 #3: ESSkyfall(68:15470) -> 水の祈り
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Water skyfall +20% for 3 turns
 
 #4: ESAttackMultihit(15:15471) -> 泡つぶて

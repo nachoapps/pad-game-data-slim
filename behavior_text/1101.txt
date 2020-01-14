@@ -9,11 +9,11 @@ approved: False
 level: 1
  type: PREEMPT
  | (921:55) Song of Rest
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | (922:48) Guardian of the World Tree
-   | Change Heal to Wood, Deal 80% damage
+   | Change all Heal orbs to Wood orbs, Deal 80% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (923:65) Lullaby

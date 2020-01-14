@@ -12,14 +12,14 @@ Enable preempt if level 1
 	[0] ESAbsorbCombo(67:13726) -> Crimson Giant
 	Absorb damage when combos <= 8 for 10 turns
 	[1] ESDebuffMovetime(39:13727) -> Underworld Charity
-	Movetime 200% for 10 turns
+	Movetime +200% for 10 turns
 	[2] ESSpinnersRandom(109:13728) -> Swirling Fire
 	Random 1 orbs change every 1.5s for 10 turns
 
 #3: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:13730) -> Self Healing
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESAttackUPRemainingEnemies(17:13731) -> Flare up
 	Increase damage to 150% for the next 99 turns
 
@@ -37,15 +37,15 @@ counter + 1
 	Blind all orbs on the board, Deal 210% damage
 
 #7: ESCloud(104:9511) -> Eruption
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
-2x3 cloud appear for 4 turns at 2nd row, 3rd column, Deal 120% damage
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
+A 2×3 rectangle of clouds appears for 4 turns at 2nd row, 3rd column, Deal 120% damage
 
 #8: ESOrbSealRow(100:9512) -> Heat Wave
-Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Seal the 1st and 5th rows for 2 turns
 
 #9: ESAttackMultihit(15:9513) -> Demon Fury Attack
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 1200% damage (10 hits, 120% each)
 
 #10: ESRandomSpawn(92:9509) -> Poison Spear

@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESOrbChangeAttack(48:10247) -> Nature's Knowledge
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -39,7 +39,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Voids player buff effects
 
 #12: ESOrbChangeAttack(48:10247) -> Nature's Knowledge
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

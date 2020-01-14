@@ -11,8 +11,8 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESRecoverEnemy7(7:816) -> Resurrection
-Condition: When < 10% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 10% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #4: ESGravity(50:817) -> Grundy Stomp
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

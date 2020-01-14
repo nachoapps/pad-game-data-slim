@@ -41,7 +41,7 @@ counter + 1
 
 #11: SkillSet:
 	[0] ESRecoverEnemy86(86:15938) -> The All-in-One
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESAttackUPRemainingEnemies(17:15939) -> The One-in-All
 	Increase damage to 500% for the next 1 turn
 

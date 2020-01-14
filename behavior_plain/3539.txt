@@ -16,14 +16,14 @@ Branch on hp < 15, target rnd 18
 
 #4: ESDebuffMovetime(39:6857) -> Burn Claw
 Condition: One-time use (ai:100 rnd:0) (cost: 512)
-Movetime 50% for 1 turn, Deal 300% damage
+Movetime +50% for 1 turn, Deal 300% damage
 
 #5: ESBlind62(62:6858) -> Flash Burn
 Condition: One-time use (ai:100 rnd:0) (cost: 256)
 Blind all orbs on the board, Deal 300% damage
 
 #6: SkillSet:
-	Condition: When < 85% hp , one-time use (ai:100 rnd:0) (cost: 128)
+	Condition: When < 85% HP , one-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESStatusShield(20:6859) -> Margo Cult
 	Voids status ailments for 999 turns
 	[1] ESBoardChangeAttackBits(85:6862) -> Lava Flare
@@ -52,7 +52,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 16)
 Lock 15 random orbs, Deal 300% damage
 
 #11: ESBoardChangeAttackBits(85:6869) -> Lava Flare
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 8)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 8)
 Change all orbs to Fire, Deal 350% damage
 
 #12: ESAttackMultihit(15:6868) -> Crimson Breath

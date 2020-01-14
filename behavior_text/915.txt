@@ -9,11 +9,11 @@ approved: False
 level: 1
  type: PREEMPT
  | (735:55) Angelic Mercy
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | (720:48) Heart Attack
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (719:54) Angelit Halo

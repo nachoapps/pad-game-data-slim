@@ -45,7 +45,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 9
      | (10924:83) Mahatuha + Sahwakt
-     | Bind awoken skills for 3 turns + Movetime 50% for 3 turns
+     | Bind awoken skills for 3 turns + Movetime +50% for 3 turns
    | group:
      | (10927:83) Sout Yadoreb + Yasurek Sitta
      | Deal 108% damage (3 hits, 36% each) + Blind random 6 orbs for 1 turn, Deal 108% damage (3 hits, 36% each)

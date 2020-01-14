@@ -19,7 +19,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (6084:64) Harmful Poison
-     | Change Random 6 to Poison, Deal 50% damage
+     | Change 6 random orbs to Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (6085:79) Crystal Stream

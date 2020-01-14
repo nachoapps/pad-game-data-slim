@@ -29,7 +29,7 @@ level: 4
    | Delay active skills by 2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
-   | Change Random to Fire, Deal 130% damage
+   | Change a random attribute to Fire orbs, Deal 130% damage
  | group:
  | condition: turn 5
    | (8445:15) All-Out Attack
@@ -43,7 +43,7 @@ level: 4
    | Delay active skills by 2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
-   | Change Random to Fire, Deal 130% damage
+   | Change a random attribute to Fire orbs, Deal 130% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
@@ -56,7 +56,7 @@ level: 4
    | Delay active skills by 2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
-   | Change Random to Fire, Deal 130% damage
+   | Change a random attribute to Fire orbs, Deal 130% damage
  | group:
  | condition: turn 5
    | (8444:17) Mindless Loyalty

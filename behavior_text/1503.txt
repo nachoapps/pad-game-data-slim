@@ -21,7 +21,7 @@ level: 1
    | Change the 1st column to Fire orbs, Deal 100% damage
    | condition: 50% chance
    | (13372:105) Burn
-   | Rcv 50% for 1 turn, Deal 95% damage
+   | RCV +50% for 1 turn, Deal 95% damage
  | group:
  | condition: hp <= 19
    | group:

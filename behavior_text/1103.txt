@@ -14,15 +14,15 @@ level: 1
  | group:
    | condition: 40% chance
    | (874:48) Shining Ray
-   | Change Random to Light, Deal 75% damage
+   | Change a random attribute to Light orbs, Deal 75% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (876:7) Resurrection
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
  | group:
  | condition: hp <= 29
    | condition: 40% chance
    | (874:48) Shining Ray
-   | Change Random to Light, Deal 75% damage
+   | Change a random attribute to Light orbs, Deal 75% damage
    | (875:48) Heart Break
-   | Change Heal to Jammer, Deal 50% damage
+   | Change all Heal orbs to Jammer orbs, Deal 50% damage

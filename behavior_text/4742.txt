@@ -39,4 +39,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (11533:83) Eternally Burning Wails of Calamity + King of the Fire Subduing Flame
-   | Enemy recover 50% hp + Increase damage to 200% for the next 99 turns
+   | Enemy recover 50% HP + Increase damage to 200% for the next 99 turns

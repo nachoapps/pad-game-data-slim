@@ -20,20 +20,20 @@ Branch on flag & 1, target rnd 11
 flag SET 0b1
 
 #6: ESOrbChangeSingle(4:854) -> Light Orb change
-Change Dark to Light
+Change all Dark orbs to Light orbs
 
 #7: ESOrbChangeSingle(4:855) -> Light Orb change
-Change Fire to Light
+Change all Fire orbs to Light orbs
 
 #8: ESOrbChangeSingle(4:861) -> Light Orb change
-Change Water to Light
+Change all Water orbs to Light orbs
 
 #9: ESOrbChangeSingle(4:862) -> Light Orb change
-Change Wood to Light
+Change all Wood orbs to Light orbs
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #11: ESOrbChangeAttack(48:856) -> Flash Edge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Light, Deal 80% damage
+Change a random attribute to Light orbs, Deal 80% damage

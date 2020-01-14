@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (768:48) Crimson Bolt
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:

@@ -14,19 +14,19 @@ level: 4
  | group:
    | condition: 20% chance
    | (10608:48) Slider
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
    | condition: 20% chance
    | (10609:48) Curve
-   | Change Random to Wood, Deal 100% damage
+   | Change a random attribute to Wood orbs, Deal 100% damage
    | condition: 20% chance
    | (10610:48) Fork
-   | Change Random to Fire, Deal 100% damage
+   | Change a random attribute to Fire orbs, Deal 100% damage
    | condition: 20% chance
    | (10611:48) Sinker
-   | Change Random to Dark, Deal 100% damage
+   | Change a random attribute to Dark orbs, Deal 100% damage
    | condition: 20% chance
    | (10612:48) Shoot
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (10607:17) Spirit of Persistence

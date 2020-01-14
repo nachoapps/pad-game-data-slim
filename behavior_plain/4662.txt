@@ -32,13 +32,13 @@ Branch on flag & 2, target rnd 13
 flag SET 0b11
 
 #10: ESOrbChangeAttackBits(108:10628) -> I'll do it one way or another.
-Change Poison to Fire and Dark, Deal 200% damage
+Change all Poison orbs to Fire and Dark orbs, Deal 200% damage
 
 #11: SkillSet:
 	[0] ESRandomSpawn(92:10625) -> Alright, great!
 	Spawn 6 random Heal orbs
 	[1] ESDebuffMovetime(39:10626) -> Don't forget this sensation now.
-	Movetime 200% for 1 turn
+	Movetime +200% for 1 turn
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

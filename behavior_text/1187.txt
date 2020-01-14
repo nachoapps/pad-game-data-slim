@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (903:55) Lucky Encounter
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 50% chance
    | (963:48) Dark Spirit's Writing
-   | Change Random to Dark, Deal 80% damage
+   | Change a random attribute to Dark orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -24,4 +24,4 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (962:60) Secret Chest
-     | Change Random 6 to Poison
+     | Change 6 random orbs to Poison orbs

@@ -56,7 +56,7 @@ Bind player leader for 4 turns, Deal 50% damage
 
 #17: ESOrbChangeAttack(48:5423) -> Aztec Drop
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
-Change Random to Fire, Deal 80% damage
+Change a random attribute to Fire orbs, Deal 80% damage
 
 #18: ESOrbLock(94:5424) -> Aztec Senton
 Condition: One-time use (ai:100 rnd:0) (cost: 8)

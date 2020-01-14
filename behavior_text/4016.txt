@@ -51,7 +51,7 @@ level: 1
  | group:
  | condition: turn 9
    | (8577:83) I'm tired of concentrating + Let's take a break!
-   | Blind all orbs on the board + Enemy recover 40% hp
+   | Blind all orbs on the board + Enemy recover 40% HP
  | group:
  | condition: turn 10
    | (8592:83) Sorry, but I want to return soon + Ancient firedrake, your power unto me!

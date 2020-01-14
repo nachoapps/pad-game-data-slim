@@ -22,9 +22,9 @@ level: 1
  | group:
  | condition: turn 3
    | (1525:48) Seisei Ruten
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
    | (1526:48) Garyou Tensei
-   | Change Heal to Wood, Deal 5000% damage
+   | Change all Heal orbs to Wood orbs, Deal 5000% damage
    | (1527:66) Garyou...huh?
    | Do nothing

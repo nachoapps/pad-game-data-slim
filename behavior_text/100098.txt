@@ -11,7 +11,7 @@ level: 1
  | group:
  | condition: turn 1
    | (4781:4) Fire Orb change
-   | Change Water to Fire
+   | Change all Water orbs to Fire orbs
    | (4786:2) Flame Grudge
    | Bind Water cards for 2~4 turns
  | group:
@@ -22,7 +22,7 @@ level: 1
 level: 5
  type: PREEMPT
  | (4781:4) Fire Orb change
- | Change Water to Fire
+ | Change all Water orbs to Fire orbs
  | (4786:2) Flame Grudge
  | Bind Water cards for 2~4 turns
  group:

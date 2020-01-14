@@ -25,4 +25,4 @@ level: 1
  | group:
  | condition: hp <= 14
    | (13316:83) It's a feast. + Spirit of Fire
-   | Delay active skills by 1~3 turns + Change Random to Jammer, Deal 200% damage
+   | Delay active skills by 1~3 turns + Change a random attribute to Jammer orbs, Deal 200% damage

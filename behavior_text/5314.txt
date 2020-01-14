@@ -18,4 +18,4 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 5 of 5
    | (13012:86) オーバーホール
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

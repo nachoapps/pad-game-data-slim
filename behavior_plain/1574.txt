@@ -38,5 +38,5 @@ Absorb Light damage for 3 turns
 end_turn
 
 #12: ESOrbChangeAttack(48:1476) -> デヘヘヘヘヘ…!!
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Dark, Deal 125% damage
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Change a random attribute to Dark orbs, Deal 125% damage

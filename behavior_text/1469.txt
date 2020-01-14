@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2282:55) Heal-TAMA!
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2

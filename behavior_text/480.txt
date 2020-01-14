@@ -15,7 +15,7 @@ level: 3
  | condition: hp <= 74
    | condition: 70% chance
    | (692:48) Crimson Jaw
-   | Change Heal to Fire, Deal 50% damage
+   | Change all Heal orbs to Fire orbs, Deal 50% damage
    | (248:15) Magma Breath
    | Deal 100% damage (2 hits, 50% each)
  | group:

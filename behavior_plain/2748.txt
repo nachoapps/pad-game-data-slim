@@ -24,7 +24,7 @@ flag SET 0b1
 end_turn
 
 #6: ESBoardChangeAttackBits(85:2962) -> Contraindication
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison, Deal 400% damage
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -34,11 +34,11 @@ Branch on hp < 50, target rnd 13
 Branch on hp < 75, target rnd 22
 
 #9: ESRandomSpawn(92:2951) -> Hinder Alchemy
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Spawn 5 random Jammer orbs, Deal 180% damage
 
 #10: ESRandomSpawn(92:2950) -> Heat and Cold
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Spawn 2 random Fire or Water orbs, Deal 160% damage
 
 #11: ESBindAttack(63:2945) -> Shadow Touch
@@ -79,14 +79,14 @@ flag SET 0b11
 end_turn
 
 #19: ESOrbChangeAttack(48:2965) -> High Poison Alchemy
-Change Jammer to Mortal Poison, Deal 200% damage
+Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
 
 #20: ESRandomSpawn(92:2951) -> Hinder Alchemy
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Spawn 5 random Jammer orbs, Deal 180% damage
 
 #21: ESRandomSpawn(92:2950) -> Heat and Cold
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Spawn 2 random Fire or Water orbs, Deal 160% damage
 
 #22: ESBranchFlag(43:10) -> ESBranchFlag

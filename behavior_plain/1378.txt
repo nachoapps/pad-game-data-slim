@@ -31,12 +31,12 @@ Branch on level >= 5, target rnd 9
 end_turn
 
 #9: ESAttackMultihit(15:1112) -> ひゃひゃひゃひゃひゃ…!!!!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 180% damage (6 hits, 30% each)
 
 #10: ESOrbChangeAttack(48:1111) -> ひゃあ!!!!
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change Heal to Jammer, Deal 50% damage
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Change all Heal orbs to Jammer orbs, Deal 50% damage
 
 #11: ESAttackMultihit(15:1110) -> どぉれちょっと拝見…
 Deal 120% damage (4 hits, 30% each)

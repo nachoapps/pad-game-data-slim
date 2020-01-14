@@ -10,7 +10,7 @@ level: 4
  group:
  | group:
    | (3689:48) MugMug White
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 29
    | (3690:1) Warming Tea Time♪

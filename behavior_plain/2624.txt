@@ -38,7 +38,7 @@ Branch on player_cards HAS [2601, 2602], target rnd 28
 Branch on hp < 30, target rnd 19
 
 #12: ESSkyfall(68:2668) -> コノヤロー
-Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Fire skyfall +15% for 99 turns
 
 #13: ESBranchFlag(43:10) -> ESBranchFlag
@@ -48,7 +48,7 @@ Branch on flag & 4, target rnd 17
 flag SET 0b111
 
 #15: ESOrbChangeAttack(48:2665) -> バカが
-Change Heal to Fire, Deal 150% damage
+Change all Heal orbs to Fire orbs, Deal 150% damage
 
 #16: ESRandomSpawn(92:2666) -> バカが
 Spawn 4 random Fire orbs, Deal 150% damage
@@ -76,7 +76,7 @@ Branch on flag & 16, target rnd 26
 flag SET 0b11111
 
 #24: ESOrbChangeAttack(48:2665) -> バカが
-Change Heal to Fire, Deal 150% damage
+Change all Heal orbs to Fire orbs, Deal 150% damage
 
 #25: ESRandomSpawn(92:2666) -> バカが
 Spawn 4 random Fire orbs, Deal 150% damage
@@ -88,7 +88,7 @@ flag UNSET 0b10000
 Player -99% HP
 
 #28: ESRecoverPlayer(55:2673) -> てめーとは後でゆっくり遊んでやる
-Player recover 100% hp
+Player recover 100% HP
 
 #29: SkillSet:
 	Condition: On death (ai:100 rnd:0)

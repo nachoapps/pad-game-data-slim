@@ -37,7 +37,7 @@ Deal 120% damage
 
 #10: ESOrbChangeAttack(48:11731) -> Shadow Beam
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Wood, Deal 100% damage
+Change a random attribute to Wood orbs, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -52,7 +52,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #15: ESRecoverEnemy86(86:11735) -> Stone of the Moon, King Stone
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -78,7 +78,7 @@ Player -99% HP
 
 #23: ESOrbChangeAttack(48:11733) -> Destruction Ray 
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Dark, Deal 120% damage
+Change a random attribute to Dark orbs, Deal 120% damage
 
 #24: ESRandomSpawn(92:11734) -> Harsh Yellow Flare
 Condition: 34% chance (ai:0 rnd:34)

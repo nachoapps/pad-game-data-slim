@@ -25,14 +25,14 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:4478) -> Holy Repair
-	Enemy recover 19% hp
+	Enemy recover 19% HP
 	[1] ESAttackMultihit(15:4296) -> Limit Break
 	Deal 800% damage (2 hits, 400% each)
 
 #7: ESAttackMultihit(15:4296) -> Limit Break
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 800% damage (2 hits, 400% each)
 
 #8: ESBranchHP(28:18) -> ESBranchHP

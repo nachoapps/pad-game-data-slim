@@ -17,20 +17,20 @@ flag SET 0b1
 	[0] ESStatusShield(20:6787) -> Concept of Boundless Worlds
 	Voids status ailments for 999 turns
 	[1] ESCloud(104:6788) -> Dormant Oceanic Evil
-	Row of cloud appear for 30 turns at 1st column
+	A row of clouds appears for 30 turns at 5th row, 1st column
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESRecoverEnemy86(86:6797) -> Eternal Cell Regeneration
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESAttackMultihit(15:6794) -> Veracity of the Cosmic Grotesque
 	Deal 30000% damage (10 hits, 3000% each)
 
 #7: ESAttackMultihit(15:6794) -> Veracity of the Cosmic Grotesque
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 30000% damage (10 hits, 3000% each)
 
 #8: ESSkyfall(68:6790) -> Nature's Encroaching Nightmare
@@ -50,7 +50,7 @@ Deal 400% damage (8 hits, 50% each)
 
 #12: ESDebuffMovetime(39:6795) -> Sealing Silence of the Deep
 Condition: 25% chance (ai:0 rnd:25)
-Movetime 25% for 1 turn, Deal 360% damage
+Movetime +25% for 1 turn, Deal 360% damage
 
 #13: ESOrbLock(94:6796) -> Dreaded Celestial
 Condition: 25% chance (ai:0 rnd:25)

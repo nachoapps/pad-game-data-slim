@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:232) -> Barrier Field
 	Voids status ailments for 999 turns
 	[1] ESDebuffRCV(105:7617) -> Demon Cyclone
-	Rcv 50% for 4 turns
+	RCV +50% for 4 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -38,7 +38,7 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #11: ESPoisonChangeRandomAttack(64:955) -> Genocide Missile Type 0
-Change Random 6 to Poison, Deal 100% damage
+Change 6 random orbs to Poison orbs, Deal 100% damage
 
 #12: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 15

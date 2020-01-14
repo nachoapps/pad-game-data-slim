@@ -18,7 +18,7 @@ level: 1
    | Voids status ailments for 999 turns + Absorb damage when combos <= 6 for 5 turns
  | group:
    | (10147:48) Vighnesvara
-   | Change Jammer to Light, Deal 300% damage
+   | Change all Jammer orbs to Light orbs, Deal 300% damage
    | (10148:92) Vinayaka
    | Spawn 4 random Jammer orbs, Deal 200% damage
  | group:

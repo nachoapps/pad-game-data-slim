@@ -17,19 +17,19 @@ level: 1
    | Voids status ailments for 999 turns
  | group:
    | (53:48) Flame-Extinguishing Gale
-   | Change Fire to Jammer, Deal 80% damage
+   | Change all Fire orbs to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | (54:48) Evil Vanquishing Divine Light
-   | Change Dark to Jammer, Deal 90% damage
+   | Change all Dark orbs to Jammer orbs, Deal 90% damage
    | (53:48) Flame-Extinguishing Gale
-   | Change Fire to Jammer, Deal 80% damage
+   | Change all Fire orbs to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 29
    | condition: 75% chance
    | (327:15) Jupiter Genesis
    | Deal 200% damage
    | (54:48) Evil Vanquishing Divine Light
-   | Change Dark to Jammer, Deal 90% damage
+   | Change all Dark orbs to Jammer orbs, Deal 90% damage
    | (53:48) Flame-Extinguishing Gale
-   | Change Fire to Jammer, Deal 80% damage
+   | Change all Fire orbs to Jammer orbs, Deal 80% damage

@@ -16,7 +16,7 @@ level: 1
    | condition: turns 1-2 while HP > 49
      | condition: 33% chance
      | (10965:108) Taghyir Zahar
-     | Change Jammer to Heal, Deal 150% damage
+     | Change all Jammer orbs to Heal orbs, Deal 150% damage
      | condition: 33% chance
      | (10966:92) Sune Kaburya
      | Spawn 7 random Jammer orbs, Deal 100% damage
@@ -37,7 +37,7 @@ level: 1
    | condition: turns 5-6 while HP > 14
      | condition: 33% chance
      | (10965:108) Taghyir Zahar
-     | Change Jammer to Heal, Deal 150% damage
+     | Change all Jammer orbs to Heal orbs, Deal 150% damage
      | condition: 33% chance
      | (10966:92) Sune Kaburya
      | Spawn 7 random Jammer orbs, Deal 100% damage
@@ -51,7 +51,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (10965:108) Taghyir Zahar
-     | Change Jammer to Heal, Deal 150% damage
+     | Change all Jammer orbs to Heal orbs, Deal 150% damage
      | condition: 33% chance
      | (10966:92) Sune Kaburya
      | Spawn 7 random Jammer orbs, Deal 100% damage

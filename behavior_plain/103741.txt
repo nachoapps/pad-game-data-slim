@@ -48,7 +48,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Deal 200% damage (2 hits, 100% each)
 
 #15: ESRecoverEnemy86(86:7385) -> Twinkle ☆ Flare
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

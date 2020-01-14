@@ -45,11 +45,11 @@ Branch on hp < 50, target rnd 16
 
 #12: ESOrbChangeAttackBits(108:13173) -> Useless things go in the trash can!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Poison to Dark, Deal 250% damage
+Change all Poison orbs to Dark orbs, Deal 250% damage
 
 #13: ESOrbChangeAttackBits(108:13174) -> Useless things go in the trash can!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Jammer to Dark, Deal 250% damage
+Change all Jammer orbs to Dark orbs, Deal 250% damage
 
 #14: SkillSet:
 	[0] ESBlind62(62:13171) -> It's pitch black

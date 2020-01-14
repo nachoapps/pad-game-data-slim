@@ -10,7 +10,7 @@ level: 5
  group:
  | group:
    | (2354:48) Pounce Stance - Light
-   | Change Heal to Light, Deal 100% damage
+   | Change all Heal orbs to Light orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (2051:14) Menace

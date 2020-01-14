@@ -17,10 +17,10 @@ level: 5
    | Deal 80% damage (8 hits, 10% each)
    | condition: 30% chance
    | (2128:48) Aera
-   | Change Random to Wood, Deal 100% damage
+   | Change a random attribute to Wood orbs, Deal 100% damage
    | condition: 30% chance
    | (2129:48) Wind Slash
-   | Change Random to Jammer, Deal 120% damage
+   | Change a random attribute to Jammer orbs, Deal 120% damage
    | (1:82) Disable Skill
    | Deal 100% damage
  | group:

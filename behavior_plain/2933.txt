@@ -5,7 +5,7 @@ start/max counter: 0
 counter increment: 0
 
 #1: ESOrbChangeAttack(48:4629) -> Snow Flower
-Change Heal to Water, Deal 100% damage
+Change all Heal orbs to Water orbs, Deal 100% damage
 
 #2: ESRandomSpawn(92:4630) -> Ice Blade
 Spawn 6 random Water orbs, Deal 130% damage

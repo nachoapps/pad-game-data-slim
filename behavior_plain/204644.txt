@@ -54,7 +54,7 @@ Branch on hp < 50, target rnd 25
 
 #17: ESOrbChangeAttack(48:10388) -> Flash Pillar
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #18: ESRandomSpawn(92:10389) -> Subjective Heart
 Condition: 33% chance (ai:0 rnd:33)
@@ -84,11 +84,11 @@ end_turn
 
 #25: ESOrbChangeAttack(48:10391) -> Trial Sin
 Condition: One-time use (ai:0 rnd:100) (cost: 2)
-Change Random to Jammer, Deal 105% damage
+Change a random attribute to Jammer orbs, Deal 105% damage
 
 #26: ESOrbChangeAttack(48:10388) -> Flash Pillar
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #27: ESRandomSpawn(92:10389) -> Subjective Heart
 Condition: 33% chance (ai:0 rnd:33)

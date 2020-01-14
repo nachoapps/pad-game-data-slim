@@ -17,17 +17,17 @@ Branch on flag & 1, target rnd 10
 flag SET 0b1
 
 #5: ESOrbChangeAttack(48:682) -> Not going easy anymore!
-Change Poison to Dark, Deal 50% damage
+Change all Poison orbs to Dark orbs, Deal 50% damage
 
 #6: ESGravity(50:681) -> Not going easy anymore!
 Player -50% HP
 
 #7: ESPoisonChangeRandomCount(60:675) -> Take this!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random 5 to Poison (excluding hearts)
+Change 5 random orbs (excluding hearts) to Poison orbs
 
 #8: ESAttackMultihit(15:676) -> Deadly Drive!
-Condition: 70% chance when < 75% hp (ai:70 rnd:0)
+Condition: 70% chance when < 75% HP (ai:70 rnd:0)
 Deal 120% damage (3 hits, 40% each)
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -50,12 +50,12 @@ Branch on flag & 4, target rnd 16
 flag SET 0b111
 
 #15: ESAttackMultihit(15:676) -> Deadly Drive!
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Deal 120% damage (3 hits, 40% each)
 
 #16: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b110
 
 #17: ESAttackMultihit(15:676) -> Deadly Drive!
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Deal 120% damage (3 hits, 40% each)

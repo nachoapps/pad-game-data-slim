@@ -30,7 +30,7 @@ Branch on hp < 50, target rnd 8
 	[1] ESInactivity66(66:12625) -> Yoisho!
 	Do nothing
 	[2] ESOrbChangeAttack(48:12516) -> Oukakyaku
-	Change Random to Fire, Deal 100% damage
+	Change a random attribute to Fire orbs, Deal 100% damage
 
 #6: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)

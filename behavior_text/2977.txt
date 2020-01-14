@@ -18,4 +18,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (4746:86) Fool...
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP

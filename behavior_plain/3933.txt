@@ -40,7 +40,7 @@ Spawn 1 random Heal orb, Deal 100% damage
 
 #9: ESOrbChangeAttack(48:13873) -> Hardening of Spirit
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #10: ESAttackMultihit(15:13874) -> Scolding Slap
 Condition: 34% chance (ai:0 rnd:34)

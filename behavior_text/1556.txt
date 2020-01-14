@@ -22,11 +22,11 @@ level: 1
    | group:
    | condition: always turn 1
      | (14398:83) Hmm, not bad! + Ready yourself for the onslaught
-     | Enemy recover 100% hp + Void damage >= 5000000 for 999 turns
+     | Enemy recover 100% HP + Void damage >= 5000000 for 999 turns
    | group:
      | condition: 33% chance
      | (14401:48) Silencing Slice
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (14402:15) Destructive Lingering Light
      | Deal 112% damage (8 hits, 14% each)

@@ -23,7 +23,7 @@ level: 4
      | Spawn 4 random Fire or Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
-     | Change Random to Dark, Deal 105% damage
+     | Change a random attribute to Dark orbs, Deal 105% damage
      | condition: 34% chance
      | (10415:15) Darkness Rush
      | Deal 120% damage (2 hits, 60% each)
@@ -44,7 +44,7 @@ level: 4
      | Spawn 4 random Fire or Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
-     | Change Random to Dark, Deal 105% damage
+     | Change a random attribute to Dark orbs, Deal 105% damage
      | condition: 34% chance
      | (10415:15) Darkness Rush
      | Deal 120% damage (2 hits, 60% each)
@@ -66,7 +66,7 @@ level: 4
      | Spawn 4 random Fire or Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
-     | Change Random to Dark, Deal 105% damage
+     | Change a random attribute to Dark orbs, Deal 105% damage
      | condition: 34% chance
      | (10415:15) Darkness Rush
      | Deal 120% damage (2 hits, 60% each)
@@ -87,7 +87,7 @@ level: 4
      | Spawn 4 random Fire or Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
-     | Change Random to Dark, Deal 105% damage
+     | Change a random attribute to Dark orbs, Deal 105% damage
      | condition: 34% chance
      | (10415:15) Darkness Rush
      | Deal 120% damage (2 hits, 60% each)

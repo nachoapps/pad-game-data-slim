@@ -11,8 +11,8 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESRecoverEnemy7(7:1575) -> Matilda's Medicine
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 50% hp
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 50% HP
 
 #4: ESOrbChangeAttack(48:1576) -> Healing Strike
-Change Random to Heal, Deal 150% damage
+Change a random attribute to Heal orbs, Deal 150% damage

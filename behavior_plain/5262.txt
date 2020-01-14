@@ -24,7 +24,7 @@ Delay active skills by 2 turns, Deal 100% damage
 
 #6: ESOrbChangeAttack(48:13284) -> Witness my justice!!!
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Light, Deal 90% damage
+Change a random attribute to Light orbs, Deal 90% damage
 
 #7: ESRowSpawnMulti(79:13285) -> I'm not finished yet!
 Condition: 34% chance (ai:0 rnd:34)

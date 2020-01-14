@@ -19,7 +19,7 @@ level: 1
    | group:
      | condition: 30% chance
      | (15463:105) ツラヌキ
-     | Rcv 50% for 2 turns, Deal 170% damage
+     | RCV +50% for 2 turns, Deal 170% damage
      | (15461:15) 叛神のアギト
      | Deal 100% damage (4 hits, 25% each)
  | group:

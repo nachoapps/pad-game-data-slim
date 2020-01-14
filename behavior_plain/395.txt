@@ -36,7 +36,7 @@ end_turn
 
 #11: ESOrbChangeSingle(4:79) -> Candy &
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal
+Change a random attribute to Heal orbs
 
 #12: ESAttackMultihit(15:80) -> Death
 Deal 200% damage (5 hits, 40% each)

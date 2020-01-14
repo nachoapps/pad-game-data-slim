@@ -17,7 +17,7 @@ Enable preempt if level 1
 	Reduce damage from all sources by 75% for 7 turns
 
 #3: SkillSet:
-	Condition: When < 15% hp (ai:100 rnd:0)
+	Condition: When < 15% HP (ai:100 rnd:0)
 	[0] ESChangeAttribute(46:6911) -> Rainbow Cloak
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 	[1] ESAttackMultihit(15:6920) -> Everstorm Rainbow Blade
@@ -28,14 +28,14 @@ Enable preempt if level 1
 	[0] ESChangeAttribute(46:6890) -> Rainbow Cloak
 	Change own attribute to Fire
 	[1] ESPoisonChangeRandomAttack(64:6891) -> Hell Poison Claw
-	Change Random 7 to Poison, Deal 310% damage
+	Change 7 random orbs to Poison orbs, Deal 310% damage
 
 #5: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESChangeAttribute(46:6893) -> Rainbow Cloak
 	Change own attribute to Water
 	[1] ESPoisonChangeRandomAttack(64:6894) -> Hell Venom Claw
-	Change Random 5 to Poison, Deal 320% damage
+	Change 5 random orbs to Poison orbs, Deal 320% damage
 
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 64)
@@ -49,18 +49,18 @@ Enable preempt if level 1
 	[0] ESChangeAttribute(46:6899) -> Rainbow Cloak
 	Change own attribute to Light
 	[1] ESPoisonChangeRandomAttack(64:6900) -> Poison Rave
-	Change Random 10 to Poison, Deal 350% damage
+	Change 10 random orbs to Poison orbs, Deal 350% damage
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 16)
 	[0] ESChangeAttribute(46:6902) -> Rainbow Cloak
 	Change own attribute to Dark
 	[1] ESPoisonChangeRandomAttack(64:6903) -> Hell Poison Rave
-	Change Random 7 to Poison, Deal 370% damage
+	Change 7 random orbs to Poison orbs, Deal 370% damage
 
 #9: ESOrbChangeAttack(48:6905) -> Hell Bloom
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Change Poison to Jammer, Deal 6000% damage
+Change all Poison orbs to Jammer orbs, Deal 6000% damage
 
 #10: ESOrbLock(94:6906) -> Thousand-Blade Strike
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
@@ -108,7 +108,7 @@ Lock all orbs, Deal 300% damage
 	[0] ESChangeAttribute(46:6911) -> Rainbow Cloak
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 	[1] ESPoisonChangeRandomAttack(64:6926) -> Dead Poison Rave
-	Change Random 14 to Poison, Deal 400% damage
+	Change 14 random orbs to Poison orbs, Deal 400% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

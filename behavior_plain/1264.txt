@@ -50,13 +50,13 @@ Branch on flag & 8, target rnd 18
 flag SET 0b1111
 
 #16: ESOrbChangeAttack(48:1525) -> Seisei Ruten
-Change Random to Heal, Deal 100% damage
+Change a random attribute to Heal orbs, Deal 100% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #18: ESOrbChangeAttack(48:1526) -> Garyou Tensei
-Change Heal to Wood, Deal 5000% damage
+Change all Heal orbs to Wood orbs, Deal 5000% damage
 
 #19: ESInactivity66(66:1527) -> Garyou...huh?
 Do nothing

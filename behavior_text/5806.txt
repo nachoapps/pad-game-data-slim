@@ -21,6 +21,6 @@ level: 1
  | condition: hp <= 49
    | condition: 30% chance
    | (15779:108) スパイラル・シェイバー
-   | Change Water and Wood to Wood, Deal 120% damage
+   | Change all Water and Wood orbs to Wood orbs, Deal 120% damage
    | (15778:15) 暗黒騎士ガイアの攻撃
    | Deal 63~105% damage (3~5 hits, 21% each)

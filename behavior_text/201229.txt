@@ -12,11 +12,11 @@ level: 1
  | Void damage >= 4000000 for 5 turns
  group:
  | (15720:48) まそうぐんぐにーるたまぁ！
- | Change Random to Dark, Deal 100% damage
+ | Change a random attribute to Dark orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | (15723:48) まそうぐんぐにーるたまぁ！
- | Change Random to Dark, Deal 150% damage
+ | Change a random attribute to Dark orbs, Deal 150% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:
@@ -25,4 +25,4 @@ level: 1
    | No skyfall for 5 turns
  | group:
    | (15726:48) まそうぐんぐにーるたまぁ！
-   | Change Random to Dark, Deal 300% damage
+   | Change a random attribute to Dark orbs, Deal 300% damage

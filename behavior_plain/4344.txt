@@ -25,11 +25,11 @@ flag SET 0b1
 end_turn
 
 #6: ESRecoverEnemy86(86:13063) -> I'll get serious from now!
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 19% hp
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 19% HP
 
 #7: ESAttackMultihit(15:13061) -> Last Song
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 600% damage (2 hits, 300% each)
 
 #8: ESBranchHP(28:18) -> ESBranchHP

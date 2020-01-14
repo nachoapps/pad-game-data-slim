@@ -23,11 +23,11 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (2186:48) Black Hole
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (2109:64) Bio
-     | Change Random 5 to Poison, Deal 80% damage
+     | Change 5 random orbs to Poison orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:

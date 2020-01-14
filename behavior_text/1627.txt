@@ -9,12 +9,12 @@ approved: False
 level: 5
  type: PREEMPT
  | (2014:60) Poison quiz! Can you erase them all?
- | Change Random 5 to Poison (excluding hearts)
+ | Change 5 random orbs (excluding hearts) to Poison orbs
  group:
  | group:
  | condition: always turn 1
    | (2016:48) Here's your punishment!
-   | Change Poison to Jammer, Deal 100% damage
+   | Change all Poison orbs to Jammer orbs, Deal 100% damage
    | (2015:78) Good job, I'm impressed!
    | Change the 3rd row to Heal orbs
  | group:

@@ -84,7 +84,7 @@ end_turn
 
 #24: SkillSet:
 	[0] ESRecoverEnemy86(86:12859) -> Mind Concentration
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESSkillDelay(89:12860) -> Mighty Roar
 	Delay active skills by 5 turns
 

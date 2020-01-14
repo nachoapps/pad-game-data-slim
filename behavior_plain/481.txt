@@ -23,8 +23,8 @@ Deal 1000% damage (5 hits, 200% each)
 end_turn
 
 #7: ESOrbChangeAttack(48:693) -> Freezing Breath
-Condition: When < 75% hp , one-time use (ai:70 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 80% damage
+Condition: When < 75% HP , one-time use (ai:70 rnd:0) (cost: 1)
+Change a random attribute to Jammer orbs, Deal 80% damage
 
 #8: ESAttackMultihit(15:249) -> Blizzard Breath
 Deal 100% damage (2 hits, 50% each)

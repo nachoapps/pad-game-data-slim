@@ -17,13 +17,13 @@ flag SET 0b1
 	[0] ESStatusShield(20:7832) -> Balance the World
 	Voids status ailments for 999 turns
 	[1] ESCloud(104:7833) -> Esenshi
-	1x3 cloud appear for 30 turns at random location
+	A 1×3 rectangle of clouds appears for 30 turns at a random location
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #6: ESAttackMultihit(15:7841) -> Kalreshi Osaryu
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -51,7 +51,7 @@ Branch on flag & 2, target rnd 8
 flag SET 0b11
 
 #14: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:7838) -> Judgment day has come
 	Increase damage to 150% for the next 999 turns
 	[1] ESGravity(50:7839) -> Accept your demise!

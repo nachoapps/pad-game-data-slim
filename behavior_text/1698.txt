@@ -10,10 +10,10 @@ level: 5
  group:
  | group:
    | (1631:64) Poison Kiss
-   | Change Random 7 to Poison, Deal 100% damage
+   | Change 7 random orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (1630:2) Chlorokinesis
    | Bind Water cards for 3 turns
    | (1631:64) Poison Kiss
-   | Change Random 7 to Poison, Deal 100% damage
+   | Change 7 random orbs to Poison orbs, Deal 100% damage

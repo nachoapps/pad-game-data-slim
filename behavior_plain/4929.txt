@@ -46,7 +46,7 @@ end_turn
 
 #12: SkillSet:
 	[0] ESCloud(104:11757) -> Maximum Drive
-	2x2 cloud appear for 1 turn at random location
+	A 2×2 square of clouds appears for 1 turn at a random location
 	[1] ESAttackMultihit(15:11758) -> Joker Extreme
 	Deal 150% damage
 

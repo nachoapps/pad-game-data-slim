@@ -16,7 +16,7 @@ level: 1
    | condition: turn 1 while HP > 9
      | condition: when 372, 373, 654, 1346 on team
      | (3274:55) I'm always on your side!
-     | Player recover 100% hp
+     | Player recover 100% HP
      | condition: 20% chance
      | (3276:50) Skidbladnir Giant Form
      | Player -99% HP

@@ -29,7 +29,7 @@ end_turn
 Branch on hp > 90, target rnd 19
 
 #9: ESAttackUPRemainingEnemies(17:3479) -> That hurts!
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 999 turns
 
 #10: ESBranchHP(28:18) -> ESBranchHP

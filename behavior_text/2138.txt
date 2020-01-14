@@ -14,12 +14,12 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (2574:48) Fear Gas
-   | Change Random to Jammer, Deal 70% damage
+   | Change a random attribute to Jammer orbs, Deal 70% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (2577:83) Pay! + For what you did to me!
-   | Player -75% HP + Change Random 7 to Poison
+   | Player -75% HP + Change 7 random orbs to Poison orbs
  | group:
  | condition: hp <= 24
    | (2578:83) Fear Gas + Fear Gas + Fear Gas
-   | Change Random to Jammer + Change Random to Jammer + Change Random to Jammer, Deal 70% damage
+   | Change a random attribute to Jammer orbs + Change a random attribute to Jammer orbs + Change a random attribute to Jammer orbs, Deal 70% damage

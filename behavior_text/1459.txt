@@ -15,17 +15,17 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (8320:48) Glitter Purge
-     | Change Poison to Heal, Deal 500% damage
+     | Change all Poison orbs to Heal orbs, Deal 500% damage
      | (8321:48) Skull Lens
-     | Change Jammer to Mortal Poison, Deal 75% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 75% damage
      | (8322:74) Crystallizing Force
      | Reduce damage from all sources by 75% for 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (8320:48) Glitter Purge
-     | Change Poison to Heal, Deal 500% damage
+     | Change all Poison orbs to Heal orbs, Deal 500% damage
      | (8321:48) Skull Lens
-     | Change Jammer to Mortal Poison, Deal 75% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 75% damage
      | condition: 20% chance
      | (8323:68) Volcano Flamite
      | Fire skyfall +15% for 10 turns, Deal 150% damage
@@ -44,16 +44,16 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (8320:48) Glitter Purge
-     | Change Poison to Heal, Deal 500% damage
+     | Change all Poison orbs to Heal orbs, Deal 500% damage
      | (8321:48) Skull Lens
-     | Change Jammer to Mortal Poison, Deal 75% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 75% damage
      | (8328:83) Echoing Howl + Linking Rays
      | Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer, Deal 150% damage
  | group:
  | condition: hp <= 29
    | (8320:48) Glitter Purge
-   | Change Poison to Heal, Deal 500% damage
+   | Change all Poison orbs to Heal orbs, Deal 500% damage
    | (8321:48) Skull Lens
-   | Change Jammer to Mortal Poison, Deal 75% damage
+   | Change all Jammer orbs to Mortal Poison orbs, Deal 75% damage
    | (8328:83) Echoing Howl + Linking Rays
    | Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer, Deal 150% damage

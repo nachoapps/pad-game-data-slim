@@ -20,26 +20,26 @@ level: 1
    | Bind 1 random sub for 2 turns, Deal 85% damage
    | condition: 20% chance
    | (12036:86) ぬるいぞ！
-   | Enemy recover 5% hp, Deal 90% damage
+   | Enemy recover 5% HP, Deal 90% damage
    | condition: 20% chance
    | (12037:15) フンッ！
    | Deal 100% damage
    | condition: 20% chance
    | (12038:48) 闇に染まるがいい！
-   | Change Random to Dark, Deal 95% damage
+   | Change a random attribute to Dark orbs, Deal 95% damage
    | condition: 20% chance
    | (12039:79) 我が妖術を受けよ！
    | Change the 5th row to Poison orbs, Deal 80% damage
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (12040:83) 貴様を甘く見ていたようだな… + 全力でいかせてもらう！
-   | Movetime 50% for 5 turns + Rcv 50% for 5 turns
+   | Movetime +50% for 5 turns + RCV +50% for 5 turns
  | group:
  | condition: hp <= 14
    | group:
    | condition: turn 1
      | (12043:86) ここまで追いつめられるとは…
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
      | (12044:15) 裁きの超波動
      | Deal 200% damage

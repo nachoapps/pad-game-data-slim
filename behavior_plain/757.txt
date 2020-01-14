@@ -20,11 +20,11 @@ Player -80% HP
 end_turn
 
 #6: ESColumnSpawnMulti(77:1811) -> Union Claw
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change the 1st and 2nd columns to Fire orbs and the 5th and 6th columns to Wood orbs, Deal 150% damage
 
 #7: ESColumnSpawnMulti(77:1810) -> Storm Claw
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change the 2nd column to Wood orbs and the 5th column to Wood orbs, Deal 100% damage
 
 #8: ESColumnSpawnMulti(77:1809) -> Flare Claw

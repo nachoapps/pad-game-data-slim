@@ -41,7 +41,7 @@ counter + 1
 	[0] ESVoidShield(71:15316) -> 疲れちゃった？
 	Void damage >= 10000000 for 999 turns
 	[1] ESDebuffRCV(105:15317) -> まだ私踊り足りないの
-	Rcv 25% for 10 turns
+	RCV +25% for 10 turns
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -40,7 +40,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (7269:83) 怒り + 地表角抉り攻撃
-     | Increase damage to 120% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+     | Increase damage to 120% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
      | condition: 50% chance
      | (7270:83) 怒り + 飛びかかり潜り
      | Increase damage to 120% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -50,7 +50,7 @@ level: 1
  | condition: hp <= 69
    | condition: 33% chance
    | (7272:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 130% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 130% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7273:83) 怒り + 飛びかかり潜り
    | Increase damage to 130% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -60,7 +60,7 @@ level: 1
  | condition: hp <= 59
    | condition: 33% chance
    | (7275:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 140% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 140% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7276:83) 怒り + 飛びかかり潜り
    | Increase damage to 140% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -70,7 +70,7 @@ level: 1
  | condition: hp <= 39
    | condition: 33% chance
    | (7278:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 150% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 150% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7279:83) 怒り + 飛びかかり潜り
    | Increase damage to 150% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -92,7 +92,7 @@ level: 1
  | group:
  | condition: turn 5, hp <= 1
    | (7327:83) 咆哮 + 暴走状態へ移行 + 地中潜り
-   | Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from all sources by 75% for 1 turn
+   | Bind active skills for 3 turns + Enemy recover 60% HP + Reduce damage from all sources by 75% for 1 turn
 
 level: 4
  type: PASSIVE
@@ -148,7 +148,7 @@ level: 4
    | group:
      | condition: 33% chance
      | (7269:83) 怒り + 地表角抉り攻撃
-     | Increase damage to 120% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+     | Increase damage to 120% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
      | condition: 50% chance
      | (7270:83) 怒り + 飛びかかり潜り
      | Increase damage to 120% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -158,7 +158,7 @@ level: 4
  | condition: hp <= 69
    | condition: 33% chance
    | (7272:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 130% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 130% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7273:83) 怒り + 飛びかかり潜り
    | Increase damage to 130% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -168,7 +168,7 @@ level: 4
  | condition: hp <= 59
    | condition: 33% chance
    | (7275:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 140% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 140% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7276:83) 怒り + 飛びかかり潜り
    | Increase damage to 140% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -178,7 +178,7 @@ level: 4
  | condition: hp <= 39
    | condition: 33% chance
    | (7278:83) 怒り + 地表角抉り攻撃
-   | Increase damage to 150% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 150% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7279:83) 怒り + 飛びかかり潜り
    | Increase damage to 150% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -200,4 +200,4 @@ level: 4
  | group:
  | condition: turn 5, hp <= 1
    | (7327:83) 咆哮 + 暴走状態へ移行 + 地中潜り
-   | Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from all sources by 75% for 1 turn
+   | Bind active skills for 3 turns + Enemy recover 60% HP + Reduce damage from all sources by 75% for 1 turn

@@ -60,7 +60,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Spawn 4 random Fire orbs, Deal 135% damage
 
 #18: ESOrbChangeAttack(48:10279) -> Wildfire
-Change Fire to Jammer, Deal 300% damage
+Change all Fire orbs to Jammer orbs, Deal 300% damage
 
 #19: ESRandomSpawn(92:10276) -> Cinder Stench
 Spawn 5 random Fire orbs, Deal 145% damage

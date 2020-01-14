@@ -20,7 +20,7 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (4778:52) Resurrection Ceremony
- | Enemy ally recover 100% hp
+ | Enemy ally recover 100% HP
 
 level: 5
  type: PREEMPT
@@ -34,4 +34,4 @@ level: 5
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (4778:52) Resurrection Ceremony
- | Enemy ally recover 100% hp
+ | Enemy ally recover 100% HP

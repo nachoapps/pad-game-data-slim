@@ -59,7 +59,7 @@ end_turn
 
 #15: ESDebuffMovetime(39:13165) -> Constraining Martial Art
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Movetime 25% for 1 turn
+Movetime +25% for 1 turn
 
 #16: ESAttackMultihit(15:13166) -> Hero's Sword
 Deal 420% damage (6 hits, 70% each)
@@ -75,7 +75,7 @@ counter + 1
 
 #20: SkillSet:
 	[0] ESRecoverEnemy86(86:13168) -> Unbreakable Will
-	Enemy recover 75% hp
+	Enemy recover 75% HP
 	[1] ESDamageShield(74:13169) -> Sacred Treasures' Protection
 	Reduce damage from all sources by 75% for 10 turns
 

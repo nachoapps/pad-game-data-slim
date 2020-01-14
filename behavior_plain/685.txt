@@ -26,7 +26,7 @@ Deal 300% damage
 end_turn
 
 #8: ESBindAttribute(2:388) -> All Washed-up
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Fire cards for 2~4 turns
 
 #9: ESAttackUPRemainingEnemies(17:270) -> Lone Force

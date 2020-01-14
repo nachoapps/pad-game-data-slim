@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (14672:105) I'll offer you to my gods.
- | Rcv 50% for 3 turns
+ | RCV +50% for 3 turns
  group:
  | group:
    | condition: 20% chance
@@ -31,6 +31,6 @@ level: 1
  | condition: hp <= 14
    | condition: 50% chance, at most 3 times
    | (14679:48) Magnus Dios Zahl
-   | Change Random to Fire, Deal 250% damage
+   | Change a random attribute to Fire orbs, Deal 250% damage
    | (14678:92) Ahau Teotihuacan
    | Spawn 8 random Fire orbs, Deal 220% damage

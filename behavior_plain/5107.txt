@@ -28,7 +28,7 @@ Absorb damage when combos <= 3 for 3 turns
 
 #8: ESCloud(104:12491) -> Yoga Float
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-2x1 cloud appear for 3 turns at random location
+A 2×1 rectangle of clouds appears for 3 turns at a random location
 
 #9: ESRandomSpawn(92:12492) -> Yoga Flame
 Condition: 34% chance (ai:0 rnd:34)
@@ -46,7 +46,7 @@ Spawn 4 random Fire orbs, Deal 100% damage
 	[0] ESRowSpawnMulti(79:12497) -> Yoga Fire
 	Change the 3rd row to Fire orbs, Deal 45% damage
 	[1] ESOrbChangeAttack(48:12498) -> Yoga Gale
-	Change Random to Fire, Deal 50% damage
+	Change a random attribute to Fire orbs, Deal 50% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

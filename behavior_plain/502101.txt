@@ -12,7 +12,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Blind random 5 orbs for 5 turns
 
 #3: ESOrbLock(94:15510) -> 地幻陣
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all orbs
 
 #4: ESAttackMultihit(15:15509) -> ヘルニードル

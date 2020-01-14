@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:826) -> しっかり体調を戻せ
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -32,7 +32,7 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #10: ESStorePower(8:827) -> おぬし　なかなか強いな
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Increase damage to 200% for the next attack
 
 #11: ESEndPath(36:26) -> ESEndPath
@@ -40,7 +40,7 @@ end_turn
 
 #12: ESOrbChangeAttack(48:828) -> まぁよいわ
 Condition: 60% chance (ai:60 rnd:0)
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,5 +50,5 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Do nothing
 
 #15: ESAttackMultihit(15:830) -> この世の頂点に在る！
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Deal 400% damage (4 hits, 100% each)

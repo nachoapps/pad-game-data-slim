@@ -33,7 +33,7 @@ Branch on hp < 20, target rnd 14
 
 #9: ESOrbChangeAttackBits(108:9586) -> It's as dangerous as a beautiful flower
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Mortal Poison to Heal, Deal 150% damage
+Change all Mortal Poison orbs to Heal orbs, Deal 150% damage
 
 #10: SkillSet:
 	Condition: One-time use (ai:33 rnd:0) (cost: 1)
@@ -75,9 +75,9 @@ flag SET 0b11
 
 #19: SkillSet:
 	[0] ESRecoverEnemy86(86:9588) -> Covering myself in flowers heals all wounds
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESDebuffMovetime(39:9589) -> Rudeness is no good!
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

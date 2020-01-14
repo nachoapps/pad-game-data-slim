@@ -5,5 +5,5 @@ start/max counter: 0
 counter increment: 0
 
 #1: ESStorePower(8:8) -> Energy Charge
-Condition: 20% chance when < 50% hp (ai:10 rnd:20)
+Condition: 20% chance when < 50% HP (ai:10 rnd:20)
 Increase damage to 200% for the next attack

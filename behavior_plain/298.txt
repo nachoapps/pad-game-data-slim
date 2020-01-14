@@ -5,5 +5,5 @@ start/max counter: 4
 counter increment: 0
 
 #1: ESRecoverEnemy7(7:82) -> Cure
-Condition: When < 30% hp , one-time use (ai:40 rnd:0) (cost: 4)
-Enemy recover 50% hp
+Condition: When < 30% HP , one-time use (ai:40 rnd:0) (cost: 4)
+Enemy recover 50% HP

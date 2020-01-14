@@ -14,7 +14,7 @@ Branch on level >= 5, target rnd 4
 end_turn
 
 #4: ESSkyfall(68:7646) -> Jet Dryer
-Condition: When < 70% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Fire skyfall +15% for 3 turns
 
 #5: ESBranchFlag(43:10) -> ESBranchFlag

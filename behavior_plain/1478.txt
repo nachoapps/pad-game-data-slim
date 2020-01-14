@@ -11,7 +11,7 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESAttackUPCooldown(19:1363) -> 爆装化開始！
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #4: ESBindAttack(63:1362) -> 剣ローカス

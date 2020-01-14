@@ -31,7 +31,7 @@ Condition: When jammer orbs are on the board (ai:100 rnd:0)
 Spawn 8 random Wood orbs, Deal 100% damage
 
 #9: ESOrbChangeSingle(4:4527) -> Gáe Bulg
-Change Heal to Wood, Deal 100% damage
+Change all Heal orbs to Wood orbs, Deal 100% damage
 
 #10: ESRandomSpawn(92:4537) -> Gáe Bulg
 Spawn 3 random Wood orbs, Deal 100% damage

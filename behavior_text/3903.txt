@@ -65,4 +65,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (8124:83) Demon Star's Radiance + I won't let it happen!
-   | Enemy recover 100% hp + Increase damage to 150% for the next 999 turns
+   | Enemy recover 100% HP + Increase damage to 150% for the next 999 turns

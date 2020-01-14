@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESStatusShield(20:4662) -> Sky God Protection
 	Voids status ailments for 999 turns
 	[1] ESBoardChangeAttackBits(85:4660) -> Flame Falcon Blinding Light
@@ -32,25 +32,25 @@ end_turn
 	Deal 200% damage (10 hits, 20% each)
 
 #7: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESBoardChangeAttackBits(85:4660) -> Flame Falcon Blinding Light
 	Change all orbs to Fire, Water, Wood, Light, and Dark, Deal 100% damage
 	[1] ESAttackMultihit(15:4656) -> 10 combos!!
 	Deal 200% damage (10 hits, 20% each)
 
 #8: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESStatusShield(20:4662) -> Sky God Protection
 	Voids status ailments for 999 turns
 	[1] ESBindAttack(63:4667) -> Dragon Summoning!!!
 	Bind 4 random subs for 3 turns, Deal 50% damage
 
 #9: SkillSet:
-	Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESStatusShield(20:4662) -> Sky God Protection
 	Voids status ailments for 999 turns
 	[1] ESOrbChangeAttack(48:4665) -> Dragon Summoning!!!
-	Change Random to Jammer, Deal 75% damage
+	Change a random attribute to Jammer orbs, Deal 75% damage
 
 #10: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
@@ -69,7 +69,7 @@ flag SET 0b11
 	[0] ESDebuffMovetime(39:4671) -> Eye of Wadjet
 	Movetime -2s for 1 turn
 	[1] ESOrbChangeAttack(48:4672) -> Flame Falcon's Furious Attack
-	Change Random to Fire, Deal 110% damage
+	Change a random attribute to Fire orbs, Deal 110% damage
 
 #14: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 19
@@ -107,7 +107,7 @@ flag SET 0b1111
 	[0] ESDebuffMovetime(39:4671) -> Eye of Wadjet
 	Movetime -2s for 1 turn
 	[1] ESOrbChangeAttack(48:4672) -> Flame Falcon's Furious Attack
-	Change Random to Fire, Deal 110% damage
+	Change a random attribute to Fire orbs, Deal 110% damage
 
 #22: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1110

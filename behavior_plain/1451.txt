@@ -20,12 +20,12 @@ Do nothing
 end_turn
 
 #6: ESBindTyping(3:1193) -> リストリクション
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Devil cards for 3 turns
 
 #7: ESOrbChangeAttack(48:1196) -> スカーレットニードル・アンタレス!!
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Random to Fire, Deal 150% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change a random attribute to Fire orbs, Deal 150% damage
 
 #8: ESOrbChangeAttack(48:1195) -> スカーレットニードル!!
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage

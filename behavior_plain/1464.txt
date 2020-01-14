@@ -21,10 +21,10 @@ end_turn
 
 #6: ESRecoverEnemyAlly(52:1261) -> Ceremony of Rebirth
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
-Enemy ally recover 50% hp
+Enemy ally recover 50% HP
 
 #7: ESAttackMultihit(15:1266) -> Genesis Gleam
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 400% damage (4 hits, 100% each)
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
@@ -34,7 +34,7 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #10: ESJammerChangeSingle(12:1263) -> Arcane Spell
-Change Fire to Jammer
+Change all Fire orbs to Jammer orbs
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -46,7 +46,7 @@ Branch on flag & 4, target rnd 16
 flag SET 0b111
 
 #14: ESPoisonChangeRandomAttack(64:1264) -> Judgement of the Dead
-Change Random 6 to Poison, Deal 50% damage
+Change 6 random orbs to Poison orbs, Deal 50% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

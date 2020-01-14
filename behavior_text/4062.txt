@@ -12,9 +12,9 @@ level: 1
  | Reduce damage from Machine types by 50%
  type: UNKNOWN_USE
  | (8889:48) Sacrifice Saber
- | Change Poison to Dark, Deal 170% damage
+ | Change all Poison orbs to Dark orbs, Deal 170% damage
  | (8890:48) Drill Break
- | Change Jammer to Fire, Deal 150% damage
+ | Change all Jammer orbs to Fire orbs, Deal 150% damage
  | (8870:83) Double Sacrifice + Twin Protection
  | Change the 1st column to Poison orbs and the 6th column to Jammer orbs + Unable to match Jammer and Poison orbs for 1 turn, Deal 120% damage
  | condition: 50% chance
@@ -66,7 +66,7 @@ level: 4
    | group:
    | condition: turn 1
      | (8896:83) Aaaahhhhhh! I won't forgive you!! + I'll weaken you!!
-     | Enemy recover 30% hp + Bind awoken skills for 5 turns
+     | Enemy recover 30% HP + Bind awoken skills for 5 turns
    | group:
    | condition: turns 2-10
      | (8893:85) Twin Explosion
@@ -76,9 +76,9 @@ level: 4
      | Change all orbs to Fire and Dark, Deal 400% damage
  type: UNKNOWN_USE
  | (8889:48) Sacrifice Saber
- | Change Poison to Dark, Deal 170% damage
+ | Change all Poison orbs to Dark orbs, Deal 170% damage
  | (8890:48) Drill Break
- | Change Jammer to Fire, Deal 150% damage
+ | Change all Jammer orbs to Fire orbs, Deal 150% damage
  | (8870:83) Double Sacrifice + Twin Protection
  | Change the 1st column to Poison orbs and the 6th column to Jammer orbs + Unable to match Jammer and Poison orbs for 1 turn, Deal 120% damage
  | condition: 50% chance

@@ -14,7 +14,7 @@ level: 1
    | Bind God cards for 2~4 turns
    | condition: 10% chance
    | (96:12) Heal change to Block
-   | Change Heal to Jammer
+   | Change all Heal orbs to Jammer orbs
  | group:
  | condition: hp <= 74
    | condition: 40% chance
@@ -25,7 +25,7 @@ level: 1
    | Bind God cards for 2~4 turns
    | condition: 10% chance
    | (96:12) Heal change to Block
-   | Change Heal to Jammer
+   | Change all Heal orbs to Jammer orbs
  | group:
  | condition: hp <= 19
    | condition: 30% chance
@@ -39,4 +39,4 @@ level: 1
    | Bind God cards for 2~4 turns
    | condition: 10% chance
    | (96:12) Heal change to Block
-   | Change Heal to Jammer
+   | Change all Heal orbs to Jammer orbs

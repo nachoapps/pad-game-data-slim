@@ -23,11 +23,11 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 1% hp (ai:100 rnd:0)
+	Condition: When < 1% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:13564) -> It hurts!!
 	Increase damage to 200% for the next 999 turns
 	[1] ESRecoverEnemy86(86:13565) -> I'm not finished!!
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[2] ESAttributeBlock(107:13566) -> Martial God Rear Naked Choke
 	Unable to match Heal orbs for 1 turn
 

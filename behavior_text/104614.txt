@@ -22,7 +22,7 @@ level: 4
      | (10293:89) Duress
      | Delay active skills by 1~2 turns, Deal 100% damage
      | (10294:86) Drain Life
-     | Enemy recover 10% hp, Deal 150% damage
+     | Enemy recover 10% HP, Deal 150% damage
  | group:
  | condition: hp <= 49
    | group:

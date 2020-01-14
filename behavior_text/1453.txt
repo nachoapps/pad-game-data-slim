@@ -11,13 +11,13 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1197:48) これ以上悪あがきはよせ
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 74
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1197:48) これ以上悪あがきはよせ
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1198:15) ジャンピングストーン!!

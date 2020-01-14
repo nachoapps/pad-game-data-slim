@@ -9,11 +9,11 @@ approved: False
 level: 1
  type: PREEMPT
  | (1307:13) Hell Howl
- | Change Random 2 to Jammer
+ | Change 2 random orbs to Jammer orbs
  group:
  | group:
    | (1308:64) Death Bite
-   | Change Random 3 to Poison, Deal 25% damage
+   | Change 3 random orbs to Poison orbs, Deal 25% damage
  | group:
  | condition: hp <= 24
    | (1309:15) Trinity Fang

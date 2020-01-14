@@ -35,4 +35,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (11617:83) Losing Power + Predation
-   | Bind awoken skills for 2 turns + Enemy recover 14% hp
+   | Bind awoken skills for 2 turns + Enemy recover 14% HP

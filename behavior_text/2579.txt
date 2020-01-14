@@ -22,7 +22,7 @@ level: 4
  | group:
    | condition: 40% chance
    | (3623:86) Longevity Attack
-   | Enemy recover 10% hp, Deal 90% damage
+   | Enemy recover 10% HP, Deal 90% damage
    | condition: 40% chance
    | (3622:92) Single Jet
    | Spawn 1 random Water orb, Deal 100% damage
@@ -40,7 +40,7 @@ level: 4
  | group:
  | condition: hp <= 1
    | (3602:86) Longevity Invasion
-   | Enemy recover 9% hp, Deal 160% damage
+   | Enemy recover 9% HP, Deal 160% damage
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 100
  | (3613:17) Wind-Up Full Throttle

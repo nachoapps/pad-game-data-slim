@@ -32,7 +32,7 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #10: ESOrbChangeAttack(48:4983) -> "Myo-o The Angry" cannot lose!
-Change Light to Dark, Deal 100% damage
+Change all Light orbs to Dark orbs, Deal 100% damage
 
 #11: ESAttackMultihit(15:4984) -> "Myo-o The Angry" cannot lose!
 Deal 100% damage
@@ -41,15 +41,15 @@ Deal 100% damage
 Branch on hp < 50, target rnd 17
 
 #13: ESAttackMultihit(15:4989) -> Hyoh!!
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 400% damage
 
 #14: ESBindAttack(63:4988) -> Long range
-Condition: When < 45% hp , one-time use (ai:50 rnd:0) (cost: 1)
+Condition: When < 45% HP , one-time use (ai:50 rnd:0) (cost: 1)
 Bind 1 random sub for 3 turns, Deal 80% damage
 
 #15: ESRandomSpawn(92:4987) -> Hyoh!!
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Spawn 3 random Fire orbs, Deal 150% damage
 
 #16: ESAttackMultihit(15:4986) -> Futae no Kiwami
@@ -62,7 +62,7 @@ Branch on flag & 4, target rnd 13
 flag SET 0b111
 
 #19: ESRecoverEnemy86(86:4985) -> Hyoooh
-Enemy recover 15% hp
+Enemy recover 15% HP
 
 #20: SkillSet:
 	Condition: On death (ai:0 rnd:0)

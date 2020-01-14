@@ -16,17 +16,17 @@ level: 1
    | group:
      | condition: 10% chance
      | (97:13) Random Change
-     | Change Random 1 to Jammer
+     | Change 1 random orb to Jammer orbs
  | group:
  | condition: hp <= 49
    | group:
    | condition: turns 1-2
      | (209:7) Resurrection
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | condition: 30% chance
      | (163:15) Love Stream
      | Deal 175% damage (7 hits, 25% each)
      | condition: 10% chance
      | (97:13) Random Change
-     | Change Random 1 to Jammer
+     | Change 1 random orb to Jammer orbs

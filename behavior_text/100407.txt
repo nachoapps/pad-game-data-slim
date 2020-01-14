@@ -9,11 +9,11 @@ approved: False
 level: 4
  type: PREEMPT
  | (9117:4) Death Howling
- | Change Random to Poison
+ | Change a random attribute to Poison orbs
  group:
  | group:
    | (9118:60) Bite of Death
-   | Change Random 9 to Poison, Deal 130% damage
+   | Change 9 random orbs to Poison orbs, Deal 130% damage
  | group:
  | condition: hp <= 19
    | (9119:15) Trinity Fang

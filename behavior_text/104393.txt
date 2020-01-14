@@ -20,14 +20,14 @@ level: 4
    | group:
    | condition: turn 2
      | (9954:48) Hee-ho!
-     | Change Random to Water, Deal 115% damage
+     | Change a random attribute to Water orbs, Deal 115% damage
    | group:
      | condition: 30% chance
      | (9957:94) Mabufu
      | Lock all orbs, Deal 130% damage
      | condition: 30% chance
      | (9954:48) Hee-ho!
-     | Change Random to Water, Deal 115% damage
+     | Change a random attribute to Water orbs, Deal 115% damage
      | condition: 40% chance
      | (9953:94) Bufu
      | Lock 10 random orbs, Deal 110% damage
@@ -36,14 +36,14 @@ level: 4
  | group:
  | condition: turn 1
    | (9956:83) Hee-ho! + Rakunda
-   | Change Random to Water + Rcv 50% for 3 turns, Deal 115% damage
+   | Change a random attribute to Water orbs + RCV +50% for 3 turns, Deal 115% damage
  | group:
    | condition: 30% chance
    | (9957:94) Mabufu
    | Lock all orbs, Deal 130% damage
    | condition: 30% chance
    | (9954:48) Hee-ho!
-   | Change Random to Water, Deal 115% damage
+   | Change a random attribute to Water orbs, Deal 115% damage
    | condition: 40% chance
    | (9953:94) Bufu
    | Lock 10 random orbs, Deal 110% damage

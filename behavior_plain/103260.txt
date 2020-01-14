@@ -25,11 +25,11 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:6885) -> Soaring Camellia Flame
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 2700% damage (9 hits, 300% each)
 
 #7: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRandomSpawn(92:6879) -> Vanishing Lifespring - Red Sun
 	Change all orbs to Jammer
 	[1] ESAbsorbCombo(67:6880) -> Crimson Blossom Storm
@@ -52,7 +52,7 @@ Deal 360% damage (3 hits, 120% each)
 end_turn
 
 #13: ESOrbChangeAttack(48:6882) -> Banishing Firebrand
-Change Jammer to Fire, Deal 800% damage
+Change all Jammer orbs to Fire orbs, Deal 800% damage
 
 #14: ESDamageShield(74:6884) -> Fire Guardian's Sunblade
 Condition: 50% chance (ai:50 rnd:0)

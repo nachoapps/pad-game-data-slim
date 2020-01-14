@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (461:55) You've done well to make it here.
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: always turn 1
@@ -18,7 +18,7 @@ level: 1
  | group:
    | condition: 60% chance
    | (454:48) Shining Spear
-   | Change Random to Light, Deal 80% damage
+   | Change a random attribute to Light orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | condition: 70% chance

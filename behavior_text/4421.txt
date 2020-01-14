@@ -19,7 +19,7 @@ level: 1
    | condition: turn 1
      | condition: when 10 combos last turn
      | (10175:83) Well done! + OK! My turn now + It's SHOWTIME!!!
-     | Player recover 100% hp + Blind random 15 orbs for 4 turns + Change player HP to 50% for 5 turns
+     | Player recover 100% HP + Blind random 15 orbs for 4 turns + Change player HP to 50% for 5 turns
      | (10177:83) No, no, you can do better! + OK! My turn now + It's SHOWTIME!!!
      | Player -99% HP + Blind random 15 orbs for 4 turns + Change player HP to 50% for 5 turns
    | group:
@@ -32,7 +32,7 @@ level: 1
      | Seal the 5th row for 1 turn, Deal 40% damage
      | condition: 34% chance
      | (10180:104) Mysterious Fog
-     | Row of cloud appear for 1 turn at random location, Deal 40% damage
+     | A row of clouds appears for 1 turn at a random location, Deal 40% damage
    | group:
    | condition: turn 5
      | (10183:83) Amuse me more! + Show me your best combos!
@@ -41,9 +41,9 @@ level: 1
    | condition: turn 6
      | condition: when 10 combos last turn
      | (10187:83) Well done! + Next, this! + It's SHOWTIME!!!
-     | Player recover 100% hp + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
+     | Player recover 100% HP + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
      | (10189:83) No, no, you can do better! + Next, this! + It's SHOWTIME!!!
-     | Rcv 50% for 4 turns + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
+     | RCV +50% for 4 turns + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
    | group:
    | condition: turns 7-9
      | condition: 33% chance
@@ -63,7 +63,7 @@ level: 1
    | condition: turn 11
      | condition: when 10 combos last turn
      | (10195:83) Well done! + Well, well, what's next? + It's SHOWTIME!!!
-     | Movetime 200% for 1 turn + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
+     | Movetime +200% for 1 turn + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
      | (10197:83) No, no, you can do better! + Well, well, what's next? + It's SHOWTIME!!!
      | Movetime -1s for 4 turns + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
    | group:
@@ -73,7 +73,7 @@ level: 1
    | group:
    | condition: turn 15
      | (10201:83) It's almost over ! + It's SHOWTIME!!!
-     | Rcv 50% for 1 turn + Change player HP to 500000 for 2 turns
+     | RCV +50% for 1 turn + Change player HP to 500000 for 2 turns
    | group:
    | condition: turn 16
      | (10202:15) Grand Finale
@@ -86,7 +86,7 @@ level: 1
    | group:
    | condition: turn 1
      | (10208:83) It's just the beginning! + It's SHOWTIME!!!
-     | Enemy recover 50% hp + Change player HP to 10000 for 4 turns
+     | Enemy recover 50% HP + Change player HP to 10000 for 4 turns
    | group:
      | (10138:83) Ah! + Destructive Illusion Miss
      | Bind awoken skills for 1 turn + Deal 2500% damage (5 hits, 500% each), Deal 2500% damage (5 hits, 500% each)

@@ -60,7 +60,7 @@ Branch on hp < 5, target rnd 22
 
 #16: ESOrbChangeAttackBits(108:9764) -> Yahtariq Ramad
 Condition: 25% chance (ai:0 rnd:25)
-Change Heal to Jammer, Deal 80% damage
+Change all Heal orbs to Jammer orbs, Deal 80% damage
 
 #17: SkillSet:
 	Condition: One-time use (ai:0 rnd:25) (cost: 1)

@@ -17,7 +17,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (1736:48) Grimoire of Earth
-   | Change Heal to Wood, Deal 50% damage
+   | Change all Heal orbs to Wood orbs, Deal 50% damage
    | (10930:15) Pentacle of the Demonic Sword
    | Deal 60% damage (2 hits, 30% each)
  | group:
@@ -26,14 +26,14 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: 30% chance
      | (1736:48) Grimoire of Earth
-     | Change Heal to Wood, Deal 50% damage
+     | Change all Heal orbs to Wood orbs, Deal 50% damage
      | (1737:63) Tentacle Cage
      | Bind 1 random sub for 1~2 turns, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 30% chance
      | (1736:48) Grimoire of Earth
-     | Change Heal to Wood, Deal 50% damage
+     | Change all Heal orbs to Wood orbs, Deal 50% damage
      | (10930:15) Pentacle of the Demonic Sword
      | Deal 60% damage (2 hits, 30% each)
  | group:
@@ -44,6 +44,6 @@ level: 1
  | condition: hp <= 29
    | condition: 50% chance
    | (1738:48) Ground Explosion
-   | Change Random to Wood, Deal 200% damage
+   | Change a random attribute to Wood orbs, Deal 200% damage
    | (1739:48) Ground Explosion
-   | Change Random to Fire, Deal 200% damage
+   | Change a random attribute to Fire orbs, Deal 200% damage

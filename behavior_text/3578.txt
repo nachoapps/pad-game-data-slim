@@ -41,7 +41,7 @@ level: 1
  | group:
  | condition: always turn 2, hp <= 98
    | (7075:83) Elemental Purge + Orb Flash
-   | Change Random to Jammer + Lock all orbs, Deal 50% damage
+   | Change a random attribute to Jammer orbs + Lock all orbs, Deal 50% damage
  | group:
  | condition: turn 3 while HP > 8, hp <= 49
    | (7082:83) Orb Flash + Rubilushent

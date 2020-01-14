@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (3057:55) You made it!
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | condition: 30% chance
@@ -36,6 +36,6 @@ level: 1
      | Change the 1st and 5th rows to Light and Jammer orbs + Change the 1st, 3rd, and 5th columns to Light, Heal, and Jammer orbs + Movetime -3s for 1 turn, Deal 10% damage
    | group:
      | (3066:48) Chaos
-     | Change Jammer to Light, Deal 1000% damage
+     | Change all Jammer orbs to Light orbs, Deal 1000% damage
      | (3062:15) Vicious Khakkhara Thrust
      | Deal 200% damage

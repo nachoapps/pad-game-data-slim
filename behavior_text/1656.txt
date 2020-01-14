@@ -15,10 +15,10 @@ level: 1
  | condition: turns 1-2
    | condition: 33% chance
    | (11633:48) Lame du Tonnerre
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
    | condition: 33% chance
    | (11634:86) Épée Consolatrice
-   | Enemy recover 5% hp, Deal 90% damage
+   | Enemy recover 5% HP, Deal 90% damage
    | condition: 34% chance
    | (11635:15) Atout Durée
    | Deal 111% damage (3 hits, 37% each)
@@ -30,10 +30,10 @@ level: 1
  | condition: turns 4-5
    | condition: 33% chance
    | (11633:48) Lame du Tonnerre
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
    | condition: 33% chance
    | (11634:86) Épée Consolatrice
-   | Enemy recover 5% hp, Deal 90% damage
+   | Enemy recover 5% HP, Deal 90% damage
    | condition: 34% chance
    | (11635:15) Atout Durée
    | Deal 111% damage (3 hits, 37% each)
@@ -45,14 +45,14 @@ level: 1
  | condition: execute repeatedly, turn 1-2 of 3
    | condition: 33% chance
    | (11633:48) Lame du Tonnerre
-   | Change Random to Light, Deal 100% damage
+   | Change a random attribute to Light orbs, Deal 100% damage
    | condition: 33% chance
    | (11634:86) Épée Consolatrice
-   | Enemy recover 5% hp, Deal 90% damage
+   | Enemy recover 5% HP, Deal 90% damage
    | condition: 34% chance
    | (11635:15) Atout Durée
    | Deal 111% damage (3 hits, 37% each)
  | group:
  | condition: execute repeatedly, turn 3 of 3
    | (11630:83) Convicting Justice + Life Deprivation
-   | Player -99% HP + Rcv 50% for 3 turns
+   | Player -99% HP + RCV +50% for 3 turns

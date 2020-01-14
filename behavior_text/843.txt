@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (570:13) Howl
- | Change Random 2 to Jammer
+ | Change 2 random orbs to Jammer orbs
  group:
  | group:
    | group:
@@ -19,7 +19,7 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 2 of 5
      | (593:48) Breath of Flames
-     | Change Random to Fire, Deal 100% damage
+     | Change a random attribute to Fire orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 5
      | (571:15) Tail Attack
@@ -27,12 +27,12 @@ level: 5
    | group:
    | condition: execute repeatedly, turn 4 of 5
      | (592:48) Wing Fluttering
-     | Change Random to Jammer, Deal 70% damage
+     | Change a random attribute to Jammer orbs, Deal 70% damage
  | group:
  | condition: hp <= 39
    | condition: 50% chance
    | (572:48) Fierce Fire Breath
-   | Change Random to Fire, Deal 135% damage
+   | Change a random attribute to Fire orbs, Deal 135% damage
    | condition: 50% chance
    | (569:1) Eagle Grip
    | Bind 1 random card for 5 turns

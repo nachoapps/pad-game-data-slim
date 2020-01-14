@@ -28,11 +28,11 @@ level: 4
    | group:
    | condition: turn 1
      | (14857:86) Feel the power from the Sword of Darkness!
-     | Enemy recover 100% hp
+     | Enemy recover 100% HP
    | group:
      | condition: 50% chance
      | (14858:48) Soon you and your friends will be a memory.
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 50% chance
      | (14859:94) You're finished!
      | Lock 10 random orbs, Deal 110% damage

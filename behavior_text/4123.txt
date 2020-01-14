@@ -24,7 +24,7 @@ level: 1
    | condition: turn 2
      | condition: when 8 combos last turn
      | (8701:39) Guardian Flame
-     | Movetime 150% for 5 turns
+     | Movetime +150% for 5 turns
      | condition: 20% chance
      | (8702:53) Anti-Fire
      | Absorb Fire damage for 3 turns

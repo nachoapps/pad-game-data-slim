@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESCloud(104:12005) -> ふぅん…　キミが遊び相手かい
-4x1 cloud appear for 3 turns at 3rd row, 2nd column
+A 4×1 rectangle of clouds appears for 3 turns at 3rd row, 2nd column
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -32,12 +32,12 @@ Branch on hp > 51, target rnd 9
 	[1] ESAttackUPRemainingEnemies(17:12014) -> それじゃ　こんなのはどうだい？
 	Increase damage to 150% for the next 1 turn
 	[2] ESDebuffRCV(105:12015) -> さあ　もっと楽しませてよ！
-	Rcv 50% for 1 turn
+	RCV +50% for 1 turn
 
 #9: SkillSet:
 	Condition: 50% chance (ai:0 rnd:50)
 	[0] ESOrbChangeAttack(48:12008) -> キュンキュンさせてあげるよ…
-	Change Random to Fire, Deal 95% damage
+	Change a random attribute to Fire orbs, Deal 95% damage
 	[1] ESSkyfallLocked(96:12010) -> ヤケドしても　知らないけどね！
 	Locked Fire skyfall +100% for 10 turns
 

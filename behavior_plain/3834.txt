@@ -26,7 +26,7 @@ Branch on hp > 40, target rnd 8
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 60)
 	[0] ESRecoverEnemy86(86:7878) -> I'm no pushover, you know. Scared yet?
-	Enemy recover 30% hp
+	Enemy recover 30% HP
 	[1] ESOrbLock(94:7879) -> Well, let's continue!
 	Lock all orbs
 
@@ -61,7 +61,7 @@ Random 2 orbs change every 1.0s for 1 turn, Deal 180% damage
 
 #15: ESCloud(104:7886) -> Hmph!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-2x1 cloud appear for 1 turn at random location, Deal 190% damage
+A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
 
 #16: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 19
@@ -73,7 +73,7 @@ flag SET 0b11
 	[0] ESInactivity66(66:7887) -> Whoa...
 	Do nothing
 	[1] ESRecoverPlayer(55:7888) -> Tough guy, huh!
-	Player recover 100% hp
+	Player recover 100% HP
 	[2] ESAttackUPRemainingEnemies(17:7889) -> Now we're getting somewhere!
 	Increase damage to 150% for the next 999 turns
 
@@ -97,7 +97,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Random 2 orbs change every 1.0s for 1 turn, Deal 180% damage
 
 #24: ESCloud(104:7896) -> I don't think so!
-2x1 cloud appear for 1 turn at random location, Deal 190% damage
+A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 190% damage
 
 #25: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 10
@@ -109,7 +109,7 @@ flag SET 0b11
 	[0] ESInactivity66(66:7887) -> Whoa...
 	Do nothing
 	[1] ESRecoverPlayer(55:7888) -> Tough guy, huh!
-	Player recover 100% hp
+	Player recover 100% HP
 	[2] ESAttackUPRemainingEnemies(17:7889) -> Now we're getting somewhere!
 	Increase damage to 150% for the next 999 turns
 

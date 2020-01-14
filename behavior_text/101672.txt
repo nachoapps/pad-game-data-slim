@@ -30,7 +30,7 @@ level: 4
  | group:
    | condition: 33% chance
    | (9267:104) Gladnir
-   | 2x3 cloud appear for 2 turns at 2nd row, 3rd column, Deal 170% damage
+   | A 2×3 rectangle of clouds appears for 2 turns at 2nd row, 3rd column, Deal 170% damage
    | condition: 50% chance
    | (9270:83) Bifröst Generation + Norn's Forgotten Item
    | Change the 1st column to Wood orbs and the 6th column to Fire orbs + Change the 3rd row to Jammer orbs, Deal 155% damage
@@ -50,7 +50,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 9
      | (12182:83) The cogs of fate are now in motion + Nornil Curse + Dimension Extinction
-     | Voids status ailments for 999 turns + Movetime 50% for 12 turns + Voids player buff effects
+     | Voids status ailments for 999 turns + Movetime +50% for 12 turns + Voids player buff effects
    | group:
      | condition: 33% chance
      | (9276:83) Bifröst Generation + Time Restriction
@@ -74,7 +74,7 @@ level: 4
    | group:
    | condition: turn 1
      | (12184:83) Healing Scratch + The cogs of fate are now in motion + Nornil Curse + Dimension Extinction
-     | Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50% for 12 turns + Voids player buff effects
+     | Enemy recover 50% HP + Voids status ailments for 999 turns + Movetime +50% for 12 turns + Voids player buff effects
    | group:
    | condition: turn 2
      | (9251:88) End of Time

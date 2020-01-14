@@ -15,4 +15,4 @@ level: 1
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (5108:4) Guard Stance-Wood
- | Change Water to Heal
+ | Change all Water orbs to Heal orbs

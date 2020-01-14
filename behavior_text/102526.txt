@@ -44,19 +44,19 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 20% chance
      | (3603:83) Elemental Absorber + Flare Combat
-     | Absorb Fire damage for 2 turns + Change Random to Fire, Deal 130% damage
+     | Absorb Fire damage for 2 turns + Change a random attribute to Fire orbs, Deal 130% damage
      | condition: 20% chance
      | (3604:83) Elemental Absorber + Aqua Combat
-     | Absorb Water damage for 2 turns + Change Random to Water, Deal 130% damage
+     | Absorb Water damage for 2 turns + Change a random attribute to Water orbs, Deal 130% damage
      | condition: 20% chance
      | (3605:83) Elemental Absorber + Earth Combat
-     | Absorb Wood damage for 2 turns + Change Random to Wood, Deal 130% damage
+     | Absorb Wood damage for 2 turns + Change a random attribute to Wood orbs, Deal 130% damage
      | condition: 20% chance
      | (3606:83) Elemental Absorber + Light Combat
-     | Absorb Light damage for 2 turns + Change Random to Light, Deal 130% damage
+     | Absorb Light damage for 2 turns + Change a random attribute to Light orbs, Deal 130% damage
      | condition: 20% chance
      | (3607:83) Elemental Absorber + Dark Combat
-     | Absorb Dark damage for 2 turns + Change Random to Dark, Deal 130% damage
+     | Absorb Dark damage for 2 turns + Change a random attribute to Dark orbs, Deal 130% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -73,7 +73,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 19, hp <= 29
    | (3570:86) Half Repair
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP
  | group:
  | condition: hp <= 19
    | (3572:50) Dark Railgun

@@ -32,4 +32,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 1
    | (12100:39) Backdraft
-   | Movetime 50% for 10 turns, Deal 150% damage
+   | Movetime +50% for 10 turns, Deal 150% damage

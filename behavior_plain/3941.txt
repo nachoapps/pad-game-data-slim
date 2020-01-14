@@ -61,7 +61,7 @@ Deal 300% damage (10 hits, 30% each)
 end_turn
 
 #18: ESRecoverEnemy86(86:13866) -> Vent Noir
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

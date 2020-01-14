@@ -10,7 +10,7 @@ level: 5
  group:
  | group:
    | (2001:48) Energy Shower
-   | Change Random to Heal, Deal 100% damage
+   | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | (2002:77) Flowery Shower

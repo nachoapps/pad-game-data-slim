@@ -12,9 +12,9 @@ level: 3
  | Spawn 3 random Wood orbs
  group:
  | (5281:48) I'll eat this melon
- | Change Wood to Jammer, Deal 130% damage
+ | Change all Wood orbs to Jammer orbs, Deal 130% damage
  | (5283:50) I'm hungry!
  | Player -75% HP
  type: UNKNOWN_USE
  | (5282:86) I'm full
- | Enemy recover 50% hp
+ | Enemy recover 50% HP

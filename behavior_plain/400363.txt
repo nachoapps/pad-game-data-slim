@@ -29,18 +29,18 @@ Branch on hp > 100, target rnd 20
 Branch on hp < 50, target rnd 14
 
 #8: ESAttackMultihit(15:6136) -> Vak Sigfodr
-Condition: When < 15% hp (ai:100 rnd:0)
+Condition: When < 15% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)
 
 #9: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAttackMultihit(15:6131) -> Triple Slash
 	Deal 180% damage (3 hits, 60% each)
 	[1] ESRecoverEnemy86(86:6132) -> Auto-recover
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #10: ESRowSpawnMulti(79:6135) -> Divide Poison
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Change the 3rd row to Wood and Poison orbs, Deal 150% damage
 
 #11: SkillSet:
@@ -48,7 +48,7 @@ Change the 3rd row to Wood and Poison orbs, Deal 150% damage
 	[0] ESAttackMultihit(15:6125) -> Double Slash
 	Deal 160% damage (2 hits, 80% each)
 	[1] ESRecoverEnemy86(86:6126) -> Auto-recover
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #12: ESRowSpawnMulti(79:6134) -> Divide Blast
 Change the 3rd row to Wood orbs, Deal 120% damage

@@ -23,7 +23,7 @@ Deal 110% damage (2 hits, 55% each)
 
 #6: ESOrbChangeAttack(48:11966) -> そこは飲み込んでくれ！
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Wood, Deal 95% damage
+Change a random attribute to Wood orbs, Deal 95% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -35,7 +35,7 @@ Branch on flag & 1, target rnd 12
 flag SET 0b1
 
 #10: ESRecoverEnemy86(86:11967) -> ガッツをチャージしないとな…！
-Enemy recover 30% hp
+Enemy recover 30% HP
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -54,7 +54,7 @@ Deal 110% damage (2 hits, 55% each)
 
 #15: ESOrbChangeAttack(48:11966) -> そこは飲み込んでくれ！
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Wood, Deal 95% damage
+Change a random attribute to Wood orbs, Deal 95% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -14,12 +14,12 @@ end_turn
 Branch on hp < 50, target rnd 7
 
 #4: ESAttackMultihit(15:1136) -> Blaze Flight - Fire Blossom Dance
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 160% damage (4 hits, 40% each)
 
 #5: ESOrbChangeAttack(48:1134) -> Rose Balsam Blaze
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Fire, Deal 80% damage
+Change a random attribute to Fire orbs, Deal 80% damage
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -31,5 +31,5 @@ Branch on flag & 1, target rnd 4
 flag SET 0b1
 
 #9: ESBindAttribute(2:1135) -> Fire Flight - Circle of Drought
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Bind Water cards for 2~3 turns

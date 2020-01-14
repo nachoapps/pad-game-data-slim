@@ -54,4 +54,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (4341:83) Healing Wind + Evil Eye
-   | Enemy recover 50% hp + Player -500% HP
+   | Enemy recover 50% HP + Player -500% HP

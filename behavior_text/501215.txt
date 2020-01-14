@@ -46,7 +46,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (14558:39) Dragon King's Eyes
-     | Movetime 50% for 1 turn
+     | Movetime +50% for 1 turn
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (14554:15) Darkness Breath

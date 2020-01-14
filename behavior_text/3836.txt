@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 70% chance
    | (7907:108) Gust of Wind
-   | Change Wood to Water, Deal 70% damage
+   | Change all Wood orbs to Water orbs, Deal 70% damage
    | (7906:62) Silent Sand
    | Blind all orbs on the board, Deal 70% damage
  | group:
@@ -36,4 +36,4 @@ level: 4
  | group:
  | condition: hp <= 9
    | (7918:39) Open Ocean
-   | Movetime 25% for 1 turn, Deal 250% damage
+   | Movetime +25% for 1 turn, Deal 250% damage

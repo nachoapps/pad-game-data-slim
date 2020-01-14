@@ -18,7 +18,7 @@ level: 3
  | group:
    | condition: 50% chance
    | (1164:48) Magma Ball
-   | Change Wood to Fire, Deal 80% damage
+   | Change all Wood orbs to Fire orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | condition: 50% chance
@@ -26,4 +26,4 @@ level: 3
    | Deal 90~150% damage (3~5 hits, 30% each)
    | condition: 50% chance
    | (1164:48) Magma Ball
-   | Change Wood to Fire, Deal 80% damage
+   | Change all Wood orbs to Fire orbs, Deal 80% damage

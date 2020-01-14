@@ -20,7 +20,7 @@ Bind active skills for 3 turns
 end_turn
 
 #6: ESBindTyping(3:1001) -> Birdcage of Confinement
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind God cards for 10 turns
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -28,7 +28,7 @@ Branch on hp < 30, target rnd 11
 
 #8: ESOrbChangeAttack(48:1000) -> Purifying Melody
 Condition: 70% chance (ai:70 rnd:0)
-Change Dark to Light, Deal 80% damage
+Change all Dark orbs to Light orbs, Deal 80% damage
 
 #9: ESAttackMultihit(15:999) -> Sword of Malkuth
 Deal 120% damage (2 hits, 60% each)

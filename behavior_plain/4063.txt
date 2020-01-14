@@ -19,11 +19,11 @@ Branch on hp < 50, target rnd 8
 
 #4: ESDebuffMovetime(39:15927) -> Black Christmas
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Movetime 25% for 3 turns
+Movetime +25% for 3 turns
 
 #5: ESPoisonChangeRandom(57:15928) -> Dark Snow
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Poison, Deal 89% damage
+Change a random attribute to Poison orbs, Deal 89% damage
 
 #6: ESAttackMultihit(15:15929) -> Devil's Mischief
 Deal 93% damage (3 hits, 31% each)

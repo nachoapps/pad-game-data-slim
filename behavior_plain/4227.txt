@@ -38,7 +38,7 @@ Lock all orbs, Deal 100% damage
 Do nothing
 
 #12: ESCloud(104:9140) -> Dragon Cloud
-6x2 cloud appear for 3 turns at random location, Deal 100% damage
+A 6×2 rectangle of clouds appears for 3 turns at a random location, Deal 100% damage
 
 #13: ESInactivity66(66:9182) -> Wait and See
 Do nothing
@@ -72,7 +72,7 @@ end_turn
 	Void damage >= 66666666 for 999 turns
 
 #20: SkillSet:
-	Condition: When < 90% hp , one-time use (ai:100 rnd:0) (cost: 4)
+	Condition: When < 90% HP , one-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESAbsorbCombo(67:9153) -> Secular Sword
 	Absorb damage when combos <= 6 for 66 turns
 	[1] ESSpinnersFixed(110:9154) -> Empty Teachings
@@ -91,21 +91,21 @@ end_turn
 Branch on hp < 20, target rnd 28
 
 #23: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffMovetime(39:9156) -> Deprivation
 	Movetime -3s for 6 turns
 	[1] ESSkyfall(68:9157) -> Holy Charity
 	Heal skyfall +15% for 6 turns
 
 #24: SkillSet:
-	Condition: 30% chance when < 50% hp (ai:30 rnd:0)
+	Condition: 30% chance when < 50% HP (ai:30 rnd:0)
 	[0] ESOrbChangeAttack(48:9160) -> Rotting Pain
-	Change Random to Jammer, Deal 250% damage
+	Change a random attribute to Jammer orbs, Deal 250% damage
 	[1] ESGravity(50:9161) -> Wave
 	Player -99% HP
 
 #25: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESAttackMultihit(15:9159) -> Four Resonating Guns
 	Deal 340% damage (4 hits, 85% each)
 	[1] ESGravity(50:9161) -> Wave
@@ -113,7 +113,7 @@ Branch on hp < 20, target rnd 28
 
 #26: ESOrbChangeAttack(48:9160) -> Rotting Pain
 Condition: 25% chance (ai:25 rnd:0)
-Change Random to Jammer, Deal 250% damage
+Change a random attribute to Jammer orbs, Deal 250% damage
 
 #27: ESAttackMultihit(15:9159) -> Four Resonating Guns
 Deal 340% damage (4 hits, 85% each)

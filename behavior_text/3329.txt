@@ -30,7 +30,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 24
    | (6111:83) Glitter Force + Remedy
-   | Increase damage to 200% for the next 999 turns + Enemy recover 20% hp
+   | Increase damage to 200% for the next 999 turns + Enemy recover 20% HP
  | group:
  | condition: hp <= 19
    | (6112:15) Stardust Comet
@@ -38,6 +38,6 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 3 times
  | (6110:83) Glitter Force + Remedy
- | Increase damage to 200% for the next 999 turns + Enemy recover 20% hp
+ | Increase damage to 200% for the next 999 turns + Enemy recover 20% HP
  | (6092:88) Helpless Suggestion
  | Bind awoken skills for 1 turn, Deal 90% damage

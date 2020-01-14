@@ -29,7 +29,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 49, hp <= 59
    | (5202:83) The First Circle, Limbo + The Fourth Circle, Greed
-   | Blind all orbs on the board + Change Random 5 to Poison, Deal 100% damage
+   | Blind all orbs on the board + Change 5 random orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -39,11 +39,11 @@ level: 1
    | group:
    | condition: turn 2 while HP > 39
      | (5202:83) The First Circle, Limbo + The Fourth Circle, Greed
-     | Blind all orbs on the board + Change Random 5 to Poison, Deal 100% damage
+     | Blind all orbs on the board + Change 5 random orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: turn 2 while HP > 19, hp <= 39
    | (5203:83) The First Circle, Limbo + The Fourth Circle, Greed + The Eighth Circle, Fraud
-   | Blind all orbs on the board + Change Random 5 to Poison + Bind 3 random cards for 3 turns, Deal 100% damage
+   | Blind all orbs on the board + Change 5 random orbs to Poison orbs + Bind 3 random cards for 3 turns, Deal 100% damage
  | group:
  | condition: hp <= 19
    | (5196:15) The Last Circle, Cocytus
@@ -51,10 +51,10 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 5 times
  | (5204:83) The Fourth Circle, Greed + The Eighth Circle, Fraud
- | Change Random 5 to Poison + Bind 3 random cards for 3 turns, Deal 100% damage
+ | Change 5 random orbs to Poison orbs + Bind 3 random cards for 3 turns, Deal 100% damage
  | condition: at most 7 times
  | (5194:64) The Fourth Circle, Greed
- | Change Random 5 to Poison, Deal 150% damage
+ | Change 5 random orbs to Poison orbs, Deal 150% damage
  | condition: at most 15 times
  | (5195:63) The Eighth Circle, Fraud
  | Bind 3 random cards for 3 turns, Deal 160% damage

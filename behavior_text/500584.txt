@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from all sources by 50% for 2 turns
  group:
  | (15410:13) 邪木の実降らし
- | Change Random 1 to Jammer
+ | Change 1 random orb to Jammer orbs
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:

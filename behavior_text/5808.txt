@@ -30,4 +30,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 49
    | (15777:86) ホーリー・エルフの祝福
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP

@@ -27,5 +27,5 @@ Branch on flag & 1, target rnd 4
 flag SET 0b1
 
 #8: ESGravity(50:850) -> Avenger Edge
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Player -99% HP

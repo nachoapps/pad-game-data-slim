@@ -43,7 +43,7 @@ level: 4
    | group:
    | condition: turn 3
      | (5017:48) The Second Secret, "Guren Kaina"!!
-     | Change Random to Fire, Deal 180% damage
+     | Change a random attribute to Fire orbs, Deal 180% damage
    | group:
      | (5008:15) Hyohh!!!
      | Deal 140~210% damage (2~3 hits, 70% each)

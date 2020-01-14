@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESSkillDelay(89:6986) -> Demonic Eye of Truth
 	Delay active skills by 10 turns
 	[1] ESDebuffRCV(105:6987) -> Lifeseal Talisman
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 	[2] ESBindSkill(14:6988) -> Chime of the Demon Moon
 	Bind active skills for 10 turns
 
@@ -28,7 +28,7 @@ end_turn
 Increase damage to 200% for the next 999 turns
 
 #7: ESBoardChangeAttackBits(85:6999) -> Darkness
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Change all orbs to Dark, Deal 6000% damage
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
@@ -56,7 +56,7 @@ end_turn
 
 #13: ESOrbChangeAttack(48:6994) -> Shadow Drop
 Condition: 50% chance (ai:50 rnd:0)
-Change Water to Dark, Deal 250% damage
+Change all Water orbs to Dark orbs, Deal 250% damage
 
 #14: ESAttackMultihit(15:6993) -> Concealed Mirror Kunai
 Deal 280% damage (2 hits, 140% each)

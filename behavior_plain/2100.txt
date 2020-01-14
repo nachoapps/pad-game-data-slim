@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESOrbChangeAttack(48:9895) -> Holy Jagged Horn - Purification
-Change Jammer to Fire, Deal 500% damage
+Change all Jammer orbs to Fire orbs, Deal 500% damage
 
 #5: ESAbsorbThreshold(87:9896) -> Holy Jagged Horn - Bewitching
 Absorb damage when damage >= 1,000,000 for 10 turns
@@ -42,7 +42,7 @@ Branch on hp < 50, target rnd 15
 	[0] ESSkillDelay(89:9902) -> Unicorn Neigh
 	Delay active skills by 1~2 turns
 	[1] ESRecoverEnemy86(86:9903) -> Sacred Horn
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #13: SkillSet:
 	[0] ESBlindStickyRandom(97:9900) -> Jagged Flash
@@ -58,7 +58,7 @@ end_turn
 	[0] ESSkillDelay(89:9902) -> Unicorn Neigh
 	Delay active skills by 1~2 turns
 	[1] ESRecoverEnemy86(86:9903) -> Sacred Horn
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 
 #16: ESAttackMultihit(15:9904) -> Dual Heavenly Javelin Attack
 Deal 430% damage (2 hits, 215% each)

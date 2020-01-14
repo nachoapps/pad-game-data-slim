@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 29
      | (15788:104) 罠カード「ブラック・イリュージョン」
-     | 3x1 cloud appear for 4 turns at random location
+     | A 3×1 rectangle of clouds appears for 4 turns at a random location
    | group:
      | condition: 50% chance
      | (15790:15) 魔法カード「千本ナイフ」

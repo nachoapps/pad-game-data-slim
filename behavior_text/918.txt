@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (56:48) Black Hole
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (128:3) Glare of Zeus

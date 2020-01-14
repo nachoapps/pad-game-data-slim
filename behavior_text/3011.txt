@@ -54,4 +54,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (5079:52) Resuscitation
- | Enemy ally recover 100% hp
+ | Enemy ally recover 100% HP

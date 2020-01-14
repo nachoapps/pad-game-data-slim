@@ -33,7 +33,7 @@ Branch on hp > 51, target rnd 11
 
 #9: ESCloud(104:12053) -> これが大王の力だ！
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-2x2 cloud appear for 1 turn at random location, Deal 90% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 90% damage
 
 #10: ESOrbSealRow(100:12054) -> ハハッ　動けるか？
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
@@ -45,7 +45,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #12: ESOrbChangeAttack(48:12050) -> 燃えろ！　れんごくの炎！！
 Condition: 25% chance (ai:0 rnd:25)
-Change Random to Fire, Deal 95% damage
+Change a random attribute to Fire orbs, Deal 95% damage
 
 #13: ESDebuffMovetime(39:12051) -> させるかっ！
 Condition: 25% chance (ai:0 rnd:25)
@@ -68,7 +68,7 @@ flag SET 0b11
 	[0] ESAttackMultihit(15:12058) -> 覇王閻魔玉
 	Deal 200% damage
 	[1] ESRecoverEnemy86(86:12059) -> 本気を出させてもらおうか…！
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

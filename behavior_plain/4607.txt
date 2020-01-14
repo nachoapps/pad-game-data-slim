@@ -30,7 +30,7 @@ Branch on hp < 50, target rnd 13
 
 #9: ESRecoverEnemy86(86:10255) -> Swift Justice
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
-Enemy recover 10% hp, Deal 90% damage
+Enemy recover 10% HP, Deal 90% damage
 
 #10: ESDamageShield(74:10253) -> Hero's Resolve
 Condition: 50% chance (ai:50 rnd:0)
@@ -48,13 +48,13 @@ Branch on hp < 20, target rnd 17
 #14: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESRecoverEnemy86(86:10256) -> Convalescence
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESDamageShield(74:10253) -> Hero's Resolve
 	Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
 
 #15: SkillSet:
 	[0] ESRecoverEnemy86(86:10256) -> Convalescence
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESBindRandom(1:10254) -> Angelic Shield
 	Bind 1 random card for 1~2 turns, Deal 95% damage
 

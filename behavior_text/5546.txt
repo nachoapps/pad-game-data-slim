@@ -23,7 +23,7 @@ level: 1
    | Deal 50% damage (2 hits, 25% each) + Deal 60% damage (2 hits, 30% each), Deal 50% damage (2 hits, 25% each)
    | condition: 25% chance
    | (14370:83) A-Gyo, help! + Un-Gyo, protect me!
-   | Enemy recover 5% hp + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
+   | Enemy recover 5% HP + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
  | group:
  | condition: hp <= 74
    | group:
@@ -43,11 +43,11 @@ level: 1
      | Deal 50% damage (2 hits, 25% each) + Deal 60% damage (2 hits, 30% each), Deal 50% damage (2 hits, 25% each)
      | condition: 25% chance
      | (14370:83) A-Gyo, help! + Un-Gyo, protect me!
-     | Enemy recover 5% hp + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
+     | Enemy recover 5% HP + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (14373:83) You play with fire, you get burned + Cover me...
-     | Change Random to Jammer + Unable to match Jammer orbs for 1 turn, Deal 50% damage
+     | Change a random attribute to Jammer orbs + Unable to match Jammer orbs for 1 turn, Deal 50% damage
  | group:
  | condition: hp <= 50
    | group:
@@ -67,11 +67,11 @@ level: 1
      | Deal 50% damage (2 hits, 25% each) + Deal 60% damage (2 hits, 30% each), Deal 50% damage (2 hits, 25% each)
      | condition: 25% chance
      | (14370:83) A-Gyo, help! + Un-Gyo, protect me!
-     | Enemy recover 5% hp + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
+     | Enemy recover 5% HP + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
    | group:
    | condition: execute repeatedly, turn 4 of 5
      | (14373:83) You play with fire, you get burned + Cover me...
-     | Change Random to Jammer + Unable to match Jammer orbs for 1 turn, Deal 50% damage
+     | Change a random attribute to Jammer orbs + Unable to match Jammer orbs for 1 turn, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | condition: 25% chance
@@ -85,13 +85,13 @@ level: 1
      | Deal 50% damage (2 hits, 25% each) + Deal 60% damage (2 hits, 30% each), Deal 50% damage (2 hits, 25% each)
      | condition: 25% chance
      | (14370:83) A-Gyo, help! + Un-Gyo, protect me!
-     | Enemy recover 5% hp + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
+     | Enemy recover 5% HP + Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
      | (14376:83) Guardian's Wrath + Joyous Sanctuary + The Swansong
-     | Increase damage to 200% for the next 999 turns + Absorb damage when combos <= 6 for 999 turns + Movetime 25% for 5 turns
+     | Increase damage to 200% for the next 999 turns + Absorb damage when combos <= 6 for 999 turns + Movetime +25% for 5 turns
    | group:
      | (14380:83) Komainu Transformation + Forever Frolicking
      | Change own attribute to random one of Fire, Water, Wood, or Dark + Deal 2000% damage (10 hits, 200% each), Deal 2000% damage (10 hits, 200% each)

@@ -56,7 +56,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Change the 3rd row to Dark orbs, Deal 140% damage
 
 #17: ESOrbChangeAttackBits(108:8858) -> Killing Knuckles
-Change Heal to Poison, Deal 100% damage
+Change all Heal orbs to Poison orbs, Deal 100% damage
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

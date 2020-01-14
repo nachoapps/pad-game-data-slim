@@ -30,7 +30,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (6165:83) Mind Erosion + Hell Malice
-     | Change Random 3 to Mortal Poison + Player -99% HP
+     | Change 3 random orbs to Mortal Poison orbs + Player -99% HP
      | condition: 50% chance
      | (6166:83) Abyssal Darkness + Hell Malice
      | Blind all orbs on the board + Player -99% HP, Deal 600% damage
@@ -39,7 +39,7 @@ level: 1
  | group:
  | condition: turn 3 while HP > 4, hp <= 32
    | (6181:39) Black Qualm
-   | Movetime 50% for 99 turns
+   | Movetime +50% for 99 turns
  | group:
  | condition: turn 4 while HP > 4, hp <= 15
    | (6182:17) Hell Crown
@@ -73,7 +73,7 @@ level: 10
    | group:
      | condition: 33% chance
      | (6165:83) Mind Erosion + Hell Malice
-     | Change Random 3 to Mortal Poison + Player -99% HP
+     | Change 3 random orbs to Mortal Poison orbs + Player -99% HP
      | condition: 50% chance
      | (6166:83) Abyssal Darkness + Hell Malice
      | Blind all orbs on the board + Player -99% HP, Deal 600% damage
@@ -82,7 +82,7 @@ level: 10
  | group:
  | condition: turn 3 while HP > 4, hp <= 32
    | (6181:39) Black Qualm
-   | Movetime 50% for 99 turns
+   | Movetime +50% for 99 turns
  | group:
  | condition: turn 4 while HP > 4, hp <= 15
    | (6182:17) Hell Crown

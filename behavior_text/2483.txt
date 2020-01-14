@@ -23,7 +23,7 @@ level: 4
      | Spawn 3 random Poison orbs
      | condition: 50% chance
      | (3495:48) Miasma
-     | Change Random to Poison, Deal 120% damage
+     | Change a random attribute to Poison orbs, Deal 120% damage
  | group:
  | condition: always turn 1, hp <= 69
    | condition: when 2457, 2458, 2459 on team

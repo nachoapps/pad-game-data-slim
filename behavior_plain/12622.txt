@@ -20,8 +20,8 @@ Blind all orbs on the board
 end_turn
 
 #6: ESRecoverEnemy86(86:6936) -> Gathering Quintessence
-Condition: When < 40% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 50% hp
+Condition: When < 40% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 50% HP
 
 #7: ESOrbSealColumn(99:6937) -> Sly Tactics
 Condition: 30% chance (ai:0 rnd:30)

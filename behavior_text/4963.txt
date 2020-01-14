@@ -17,7 +17,7 @@ level: 4
    | Deal 110% damage
    | condition: 40% chance
    | (11892:48) アチッ！　アチチチッ！！
-   | Change Random to Fire, Deal 90% damage
+   | Change a random attribute to Fire orbs, Deal 90% damage
  | group:
  | condition: hp <= 14
    | (11894:15) おっさんかみマックス

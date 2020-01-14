@@ -33,7 +33,7 @@ Branch on hp < 10, target rnd 18
 
 #10: ESOrbChangeAttack(48:9593) -> I don't need this!
 Condition: 33% chance (ai:33 rnd:0)
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage
 
 #11: ESDamageShield(74:9594) -> Reinforce defence while attacking
 Condition: 50% chance (ai:50 rnd:0)

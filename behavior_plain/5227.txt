@@ -6,7 +6,7 @@ counter increment: 0
 
 #1: ESOrbChangeAttack(48:13202) -> 食べごたえビッグ
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Dark, Deal 90% damage
+Change a random attribute to Dark orbs, Deal 90% damage
 
 #2: ESAttackMultihit(15:13203) -> おいしさの決め手特製ソース
 Condition: 50% chance (ai:0 rnd:50)

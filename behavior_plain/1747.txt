@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: ESAttackMultihit(15:2406) -> Sahasrara
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Deal 1500% damage
 
 #7: ESBranchHP(29:19) -> ESBranchHP
@@ -48,7 +48,7 @@ Branch on hp > 65, target rnd 14
 	[0] ESAttackMultihit(15:2412) -> Svadhishthana
 	Deal 180% damage (2 hits, 90% each)
 	[1] ESPoisonChangeRandomCount(60:2415) -> Vishuddha
-	Change Random 3 to Poison (excluding hearts)
+	Change 3 random orbs (excluding hearts) to Poison orbs
 
 #11: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)

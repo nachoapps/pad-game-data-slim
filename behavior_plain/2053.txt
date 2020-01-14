@@ -49,7 +49,7 @@ Deal 160% damage (4 hits, 40% each)
 end_turn
 
 #15: ESBindSkill(14:2104) -> Curse
-Condition: When < 30% hp , one-time use (ai:50 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use (ai:50 rnd:0) (cost: 1)
 Bind active skills for 2 turns
 
 #16: ESAttackMultihit(15:2182) -> Flare

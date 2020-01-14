@@ -9,9 +9,9 @@ approved: False
 level: 5
  type: PREEMPT
  | (907:55) Fruity Goodness
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | (1008:48) Sparkling Lemonade
- | Change Heal to Light, Deal 125% damage
+ | Change all Heal orbs to Light orbs, Deal 125% damage
  | (1007:48) Lemon Shower
- | Change Random to Heal, Deal 150% damage
+ | Change a random attribute to Heal orbs, Deal 150% damage

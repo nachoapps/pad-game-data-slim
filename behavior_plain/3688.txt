@@ -74,7 +74,7 @@ flag SET 0b11
 	[0] ESSpinnersFixed(110:10909) -> Dawaaran
 	Specific orbs change every 1.0s for 3 turns
 	[1] ESDebuffRCV(105:10910) -> Shifa'a
-	Rcv 50% for 3 turns
+	RCV +50% for 3 turns
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -83,7 +83,7 @@ end_turn
 	[0] ESAttackMultihit(15:10912) -> Mhidofa Uvundukia
 	Deal 108% damage (6 hits, 18% each)
 	[1] ESCloud(104:10913) -> Gunpowder Smoke
-	Column of cloud appear for 1 turn at random location
+	A column of clouds appears for 1 turn at a random location
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

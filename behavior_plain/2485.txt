@@ -32,7 +32,7 @@ end_turn
 Branch on player_cards HAS [2464, 2465], target rnd 22
 
 #9: ESBindRandom(1:3501) -> Waaaaaah!
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random card for 3 turns
 
 #10: ESBranchFlag(43:10) -> ESBranchFlag

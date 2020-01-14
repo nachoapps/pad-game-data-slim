@@ -14,7 +14,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1033:48) I will unleash my power
-   | Change Random to Wood, Deal 85% damage
+   | Change a random attribute to Wood orbs, Deal 85% damage
  | group:
  | condition: hp <= 29
    | (1034:15) Anomaly Detected

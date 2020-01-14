@@ -12,46 +12,46 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (9910:83) Cloud Cluster + Protective Cloud Formation + Rainbow Fog
- | 6x2 cloud appear for 1 turn at 4th row, 1st column + Voids status ailments for 99 turns + Absorb damage when combos <= 7 for 1 turn
+ | A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column + Voids status ailments for 99 turns + Absorb damage when combos <= 7 for 1 turn
  group:
  | group:
    | group:
    | condition: turn 1 while HP > 49
      | (9914:83) Cloud Cluster + Prism Fog + Lightning Ball Strike
-     | 6x2 cloud appear for 1 turn at 1st row, 1st column + Absorb damage when combos <= 4 for 5 turns + Deal 270% damage (9 hits, 30% each), Deal 270% damage (9 hits, 30% each)
+     | A 6×2 rectangle of clouds appears for 1 turn at 1st row, 1st column + Absorb damage when combos <= 4 for 5 turns + Deal 270% damage (9 hits, 30% each), Deal 270% damage (9 hits, 30% each)
    | group:
    | condition: turn 2 while HP > 49
      | (9918:83) Cloud Cluster + Moby Dick's Mighty Roar + Rising Flip
-     | 6x2 cloud appear for 1 turn at 3rd row, 1st column + Delay active skills by 1~3 turns + Leader changes to random sub for 1 turn
+     | A 6×2 rectangle of clouds appears for 1 turn at 3rd row, 1st column + Delay active skills by 1~3 turns + Leader changes to random sub for 1 turn
    | group:
    | condition: turn 3 while HP > 49
      | (9922:83) Cloud Cluster + Storm Blow
-     | 3x3 cloud appear for 1 turn at 2nd row, 3rd column + Deal 240% damage (2 hits, 120% each), Deal 240% damage (2 hits, 120% each)
+     | A 3×3 square of clouds appears for 1 turn at 2nd row, 3rd column + Deal 240% damage (2 hits, 120% each), Deal 240% damage (2 hits, 120% each)
    | group:
    | condition: turn 4 while HP > 49
      | (9925:83) Cloud Cluster + Divine Cloud + Flash Storm
-     | 3x3 cloud appear for 1 turn at 3rd row, 2nd column + Absorb Light damage for 5 turns + Change all orbs to Light
+     | A 3×3 square of clouds appears for 1 turn at 3rd row, 2nd column + Absorb Light damage for 5 turns + Change all orbs to Light
    | group:
    | condition: turn 5 while HP > 49
      | (9929:83) Cloud Cluster + Plasma Breath
-     | 3x3 cloud appear for 1 turn at 2nd row, 4th column + Change Random to Light, Deal 250% damage
+     | A 3×3 square of clouds appears for 1 turn at 2nd row, 4th column + Change a random attribute to Light orbs, Deal 250% damage
    | group:
    | condition: turn 6 while HP > 49
      | (9932:88) Micro Burst
      | Bind awoken skills for 5 turns
      | (9933:108) Heaven's Breaching
-     | Change Jammer to Light, Deal 260% damage
+     | Change all Jammer orbs to Light orbs, Deal 260% damage
      | (9934:108) Dirty Cloud
-     | Change Light and Heal to Jammer, Deal 210% damage
+     | Change all Light and Heal orbs to Jammer orbs, Deal 210% damage
      | (9935:48) Dirty Cloud
-     | Change Random to Jammer, Deal 210% damage
+     | Change a random attribute to Jammer orbs, Deal 210% damage
    | group:
      | (9933:108) Heaven's Breaching
-     | Change Jammer to Light, Deal 260% damage
+     | Change all Jammer orbs to Light orbs, Deal 260% damage
      | (9934:108) Dirty Cloud
-     | Change Light and Heal to Jammer, Deal 210% damage
+     | Change all Light and Heal orbs to Jammer orbs, Deal 210% damage
      | (9935:48) Dirty Cloud
-     | Change Random to Jammer, Deal 210% damage
+     | Change a random attribute to Jammer orbs, Deal 210% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -73,4 +73,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (9943:83) Updraft + Swelling Clouds + Disastrous Cloud
-   | Enemy recover 75% hp + Increase damage to 150% for the next 99 turns + 2x5 cloud appear for 1 turn at 1st row, 3rd column
+   | Enemy recover 75% HP + Increase damage to 150% for the next 99 turns + A 2×5 rectangle of clouds appears for 1 turn at 1st row, 3rd column

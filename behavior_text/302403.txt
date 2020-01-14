@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (3403:55) Happy Halloween!
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: always turn 1

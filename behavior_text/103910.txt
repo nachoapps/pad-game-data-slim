@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (9014:104) Radiant Dragon Tribe's Wave
- | 4x5 cloud appear for 1 turn at 1st row, 2nd column
+ | A 4×5 rectangle of clouds appears for 1 turn at 1st row, 2nd column
  group:
  | group:
  | condition: always turn 1

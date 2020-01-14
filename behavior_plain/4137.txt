@@ -45,7 +45,7 @@ Branch on hp < 50, target rnd 17
 
 #14: ESCloud(104:8821) -> Mid-Air Frost Scythe
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-1x1 cloud appear for 2 turns at random location, Deal 120% damage
+A 1×1 square of clouds appears for 2 turns at a random location, Deal 120% damage
 
 #15: ESAttackMultihit(15:8822) -> Mid-Air Claw Attack
 Deal 130% damage
@@ -79,7 +79,7 @@ Deal 140% damage (2 hits, 70% each)
 end_turn
 
 #24: ESCloud(104:8828) -> Mid-Air Spinning Tail Attack
-Column of cloud appear for 1 turn at random location, Deal 170% damage
+A column of clouds appears for 1 turn at a random location, Deal 170% damage
 
 #25: ESEndPath(36:26) -> ESEndPath
 end_turn

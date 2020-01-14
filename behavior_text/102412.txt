@@ -14,11 +14,11 @@ level: 1
  | group:
  | condition: turn 1
    | (11376:83) Gimme some sweets! + Zzzz
-   | Change Random to Jammer + Enemy recover 10% hp, Deal 110% damage
+   | Change a random attribute to Jammer orbs + Enemy recover 10% HP, Deal 110% damage
  | group:
  | condition: turn 2
    | (11379:83) More! + Zzzz
-   | Change Random to Jammer + Enemy recover 10% hp, Deal 115% damage
+   | Change a random attribute to Jammer orbs + Enemy recover 10% HP, Deal 115% damage
  | group:
  | condition: turn 3
    | (11382:83) Wake up already! + Whaa! How could I...
@@ -26,14 +26,14 @@ level: 1
  | group:
  | condition: turn 4
    | (11385:83) Hyah! + Mysterious Light of the Underworld
-   | Change Random to Heal + Spawn 5 random Poison orbs, Deal 90% damage
+   | Change a random attribute to Heal orbs + Spawn 5 random Poison orbs, Deal 90% damage
  | group:
  | condition: turn 5
    | (11388:83) Take that! + Path to Hell
-   | Change Random to Jammer + Spawn 5 random Mortal Poison orbs, Deal 100% damage
+   | Change a random attribute to Jammer orbs + Spawn 5 random Mortal Poison orbs, Deal 100% damage
  | group:
    | (11391:83) Yaaah! + Pumpkin Magic Bomb
-   | Change Random to Poison + Spawn 8 random Bomb orbs, Deal 110% damage
+   | Change a random attribute to Poison orbs + Spawn 8 random Bomb orbs, Deal 110% damage
 
 level: 6
  type: PREEMPT
@@ -43,11 +43,11 @@ level: 6
  | group:
  | condition: turn 1
    | (11376:83) Gimme some sweets! + Zzzz
-   | Change Random to Jammer + Enemy recover 10% hp, Deal 110% damage
+   | Change a random attribute to Jammer orbs + Enemy recover 10% HP, Deal 110% damage
  | group:
  | condition: turn 2
    | (11379:83) More! + Zzzz
-   | Change Random to Jammer + Enemy recover 10% hp, Deal 115% damage
+   | Change a random attribute to Jammer orbs + Enemy recover 10% HP, Deal 115% damage
  | group:
  | condition: turn 3
    | (11382:83) Wake up already! + Whaa! How could I...
@@ -55,11 +55,11 @@ level: 6
  | group:
  | condition: turn 4
    | (11385:83) Hyah! + Mysterious Light of the Underworld
-   | Change Random to Heal + Spawn 5 random Poison orbs, Deal 90% damage
+   | Change a random attribute to Heal orbs + Spawn 5 random Poison orbs, Deal 90% damage
  | group:
  | condition: turn 5
    | (11388:83) Take that! + Path to Hell
-   | Change Random to Jammer + Spawn 5 random Mortal Poison orbs, Deal 100% damage
+   | Change a random attribute to Jammer orbs + Spawn 5 random Mortal Poison orbs, Deal 100% damage
  | group:
    | (11391:83) Yaaah! + Pumpkin Magic Bomb
-   | Change Random to Poison + Spawn 8 random Bomb orbs, Deal 110% damage
+   | Change a random attribute to Poison orbs + Spawn 8 random Bomb orbs, Deal 110% damage

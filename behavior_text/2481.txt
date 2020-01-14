@@ -30,7 +30,7 @@ level: 4
    | group:
    | condition: turn 2
      | (3487:86) Regeneration
-     | Enemy recover 30% hp
+     | Enemy recover 30% HP
    | group:
      | (3489:92) Flame Arrow
      | Spawn 8 random Fire orbs, Deal 260% damage

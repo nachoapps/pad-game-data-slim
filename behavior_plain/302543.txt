@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: ESRecoverPlayer(55:3671) -> あけおめじゃー☆
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -68,7 +68,7 @@ flag SET 0b1111
 Do nothing
 
 #21: ESGravity(50:3686) -> いとおほしハニたまぷれす
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Player -150% HP
 
 #22: ESBranchFlag(43:10) -> ESBranchFlag

@@ -20,7 +20,7 @@ Reduce damage from all sources by 80% for 2 turns
 end_turn
 
 #6: ESBoardChangeAttackBits(85:14280) -> Dark Sun Crown
-Condition: 50% chance when < 30% hp (ai:50 rnd:0)
+Condition: 50% chance when < 30% HP (ai:50 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 200% damage
 
 #7: ESBlindStickyRandom(97:14279) -> Dark Coffin

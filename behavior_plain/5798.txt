@@ -16,7 +16,7 @@ Branch on hp < 30, target rnd 8
 
 #4: ESCloud(104:15788) -> 罠カード「ブラック・イリュージョン」
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-3x1 cloud appear for 4 turns at random location
+A 3×1 rectangle of clouds appears for 4 turns at a random location
 
 #5: ESAttackMultihit(15:15790) -> 魔法カード「千本ナイフ」
 Condition: 50% chance (ai:50 rnd:0)

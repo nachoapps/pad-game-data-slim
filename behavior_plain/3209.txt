@@ -47,11 +47,11 @@ Change all orbs to Wood, Heal, Jammer, and Poison
 Branch on hp < 50, target rnd 18
 
 #14: ESRowSpawnMulti(79:5816) -> Sky Splitting Jetstream
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change the 2nd and 4th rows to Wood orbs and the 1st, 3rd, and 5th rows to Fire, Water, Light, Dark, and Heal orbs, Deal 1000% damage
 
 #15: ESGravity(50:5819) -> Garuda's Double Palm
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Player -99% HP
 
 #16: ESRowSpawnMulti(79:5817) -> Garuda's Slashing Claws

@@ -84,9 +84,9 @@ counter + 1
 
 #21: SkillSet:
 	[0] ESRecoverEnemy86(86:16071) -> 情け無用
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESDebuffMovetime(39:16072) -> 覚悟はできているか？
-	Movetime 25% for 5 turns
+	Movetime +25% for 5 turns
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

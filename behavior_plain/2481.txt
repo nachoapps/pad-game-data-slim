@@ -29,11 +29,11 @@ end_turn
 Branch on hp < 50, target rnd 14
 
 #9: ESRecoverEnemy86(86:3487) -> Regeneration
-Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 30% hp
+Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 30% HP
 
 #10: ESRandomSpawn(92:3489) -> Flame Arrow
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Spawn 8 random Fire orbs, Deal 260% damage
 
 #11: ESAttackMultihit(15:3485) -> Absorbing Form Bite

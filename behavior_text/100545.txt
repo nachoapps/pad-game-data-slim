@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (5492:104) Smoke Bomb
- | 3x1 cloud appear for 1 turn at random location
+ | A 3×1 rectangle of clouds appears for 1 turn at a random location
  group:
  | group:
    | (5493:15) Shuriken Strike

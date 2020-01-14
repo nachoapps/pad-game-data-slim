@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (13270:48) Scalpel! She will carve the skins from her enemies.
-   | Change Random to Dark, Deal 90% damage
+   | Change a random attribute to Dark orbs, Deal 90% damage
  | group:
  | condition: execute repeatedly, turn 3 of 5
    | (13271:15) Forceps! Grasp their flesh.

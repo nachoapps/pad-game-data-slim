@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (12199:48) How does that feel?
-   | Change Random to Dark, Deal 95% damage
+   | Change a random attribute to Dark orbs, Deal 95% damage
    | condition: 50% chance
    | (12200:15) I have no use for you,
    | Deal 120% damage (3 hits, 40% each)
@@ -25,7 +25,7 @@ level: 4
    | Player -75% HP
    | condition: 50% chance
    | (12199:48) How does that feel?
-   | Change Random to Dark, Deal 95% damage
+   | Change a random attribute to Dark orbs, Deal 95% damage
    | condition: 50% chance
    | (12200:15) I have no use for you,
    | Deal 120% damage (3 hits, 40% each)

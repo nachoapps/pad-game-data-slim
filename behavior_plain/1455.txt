@@ -24,7 +24,7 @@ Branch on flag & 1, target rnd 9
 flag SET 0b1
 
 #7: ESInactivity66(66:1203) -> この水瓶座のカミュ最大の拳
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Do nothing
 
 #8: ESEndPath(36:26) -> ESEndPath
@@ -34,5 +34,5 @@ end_turn
 flag UNSET 0b1
 
 #10: ESBindAttack(63:1204) -> オーロラエクスキューション!!
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Bind 1 random card for 4 turns, Deal 150% damage

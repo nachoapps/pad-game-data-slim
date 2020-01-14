@@ -43,13 +43,13 @@ level: 4
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (4235:83) Abyssal Shark Dragon's Trial + Chopping Ring of the Deep Sea
-   | Absorb Water damage for 1 turn + Change Heal to Poison, Deal 50% damage
+   | Absorb Water damage for 1 turn + Change all Heal orbs to Poison orbs, Deal 50% damage
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
      | (4223:83) Conquering Will + Dragonbound's Wrath
-     | Enemy recover 55% hp + Increase damage to 200% for the next 999 turns
+     | Enemy recover 55% HP + Increase damage to 200% for the next 999 turns
    | group:
      | (4236:83) Abyss Hole + Abyss Dark Ring
      | Deal 120% damage (4 hits, 30% each) + Change all orbs to Water, Dark, and Heal, Deal 120% damage (4 hits, 30% each)

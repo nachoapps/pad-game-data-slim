@@ -29,7 +29,7 @@ Branch on counter >= 5, target rnd 11
 counter + 1
 
 #8: ESOrbChangeAttackBits(108:7827) -> Sonar Havar
-Change Light to Wood, Deal 150% damage
+Change all Light orbs to Wood orbs, Deal 150% damage
 
 #9: ESAttackUPRemainingEnemies(17:7828) -> Sundar Pool
 Condition: when <= 1 enemies remain (ai:100 rnd:0)

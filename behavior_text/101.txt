@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 74
  | condition: 30% chance
  | (72:4) Water Orb change
- | Change Wood to Water
+ | Change all Wood orbs to Water orbs

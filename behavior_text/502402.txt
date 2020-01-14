@@ -46,7 +46,7 @@ level: 1
      | Bind awoken skills for 2 turns
    | group:
      | (15507:48) イートハートストライク
-     | Change Heal to Dark, Deal 300% damage
+     | Change all Heal orbs to Dark orbs, Deal 300% damage
      | condition: 30% chance
      | (15505:94) デッドジャッジメント
      | Lock all Poison and Mortal Poison orbs, Deal 120% damage

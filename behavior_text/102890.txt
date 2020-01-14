@@ -84,7 +84,7 @@ level: 1
  | group:
  | condition: hp <= 1
    | (4479:83) Holy Repair + Limit Break
-   | Enemy recover 19% hp + Deal 800% damage (2 hits, 400% each), Deal 800% damage (2 hits, 400% each)
+   | Enemy recover 19% HP + Deal 800% damage (2 hits, 400% each), Deal 800% damage (2 hits, 400% each)
  type: UNKNOWN_USE
  | (4294:15) Core Full Burst
  | Deal 520% damage (4 hits, 130% each)

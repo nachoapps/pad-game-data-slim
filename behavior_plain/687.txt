@@ -9,9 +9,9 @@ Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 300% for the next 999 turns
 
 #2: ESBindRandom(1:271) -> Halo
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 4 random cards for 1~2 turns
 
 #3: ESOrbChangeSingle(4:391) -> Let There Be Light!
 Condition: 25% chance (ai:0 rnd:25)
-Change Dark to Light
+Change all Dark orbs to Light orbs

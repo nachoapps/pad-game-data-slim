@@ -24,11 +24,11 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESGravity(50:1908) -> Wrath of God
 	Player -95% HP
 	[1] ESRecoverEnemy7(7:1928) -> Blessing of the Gods
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 
 #7: ESNone(0:0) -> ESNone
 nothing
@@ -55,7 +55,7 @@ Branch on hp < 40, target rnd 20
 	[0] ESRowSpawnMulti(79:1906) -> Zeus Blade
 	Change the 4th row to Light orbs, Deal 15000% damage
 	[1] ESOrbChangeAttack(48:1912) -> Mischief by God
-	Change Light to Jammer, Deal 7500% damage
+	Change all Light orbs to Jammer orbs, Deal 7500% damage
 
 #12: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)

@@ -37,4 +37,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (3108:86) Freezing Zone
-   | Enemy recover 50% hp, Deal 80% damage
+   | Enemy recover 50% HP, Deal 80% damage

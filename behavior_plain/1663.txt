@@ -20,7 +20,7 @@ Wood and Dark skyfall +25% for 99 turns
 end_turn
 
 #6: ESAttackMultihit(15:1795) -> Invisible Protection
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 200% damage (2 hits, 100% each)
 
 #7: ESRowSpawnMulti(79:1794) -> Switch of Judgement

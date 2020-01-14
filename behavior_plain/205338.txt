@@ -15,7 +15,7 @@ Absorb Water damage for 1 turn
 	[0] ESAbsorbCombo(67:15559) -> Melody Aura
 	Absorb damage when combos <= 3 for 1 turn
 	[1] ESOrbChangeAttack(48:15565) -> Auber Breath
-	Change Random to Fire, Deal 100% damage
+	Change a random attribute to Fire orbs, Deal 100% damage
 
 #4: ESEndPath(36:26) -> ESEndPath
 end_turn

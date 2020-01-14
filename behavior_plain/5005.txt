@@ -28,7 +28,7 @@ Branch on hp < 50, target rnd 11
 
 #7: ESOrbChangeAttack(48:12220) -> Ha!
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Jammer, Deal 95% damage
+Change a random attribute to Jammer orbs, Deal 95% damage
 
 #8: ESSkillDelay(89:12221) -> Yah!
 Condition: 33% chance (ai:0 rnd:33)
@@ -48,7 +48,7 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #13: ESDebuffRCV(105:12219) -> Don't bother.
-Rcv 50% for 3 turns
+RCV +50% for 3 turns
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

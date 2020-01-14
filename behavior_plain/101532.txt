@@ -38,16 +38,16 @@ Water skyfall +25% for 99 turns
 end_turn
 
 #12: ESAbsorbCombo(67:1452) -> Deep Aquarius
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 5 for 1 turn
 
 #13: ESAttackMultihit(15:1455) -> Galaxy Swarm
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Deal 175% damage (5 hits, 35% each)
 
 #14: ESBindAttack(63:1453) -> Deucalion Flood
-Condition: 25% chance when < 75% hp (ai:25 rnd:0)
+Condition: 25% chance when < 75% HP (ai:25 rnd:0)
 Bind 3 random subs for 1~2 turns, Deal 75% damage
 
 #15: ESOrbChangeAttack(48:1454) -> Crystal Bullet
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage

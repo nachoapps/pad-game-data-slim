@@ -23,7 +23,7 @@ level: 1
    | condition: execute repeatedly, turn 2 of 3
      | condition: 50% chance
      | (3521:48) Fire Fighting Black Dog
-     | Change Fire to Jammer, Deal 140% damage
+     | Change all Fire orbs to Jammer orbs, Deal 140% damage
      | (3522:77) Guiding White Dog
      | Change the 3rd and 4th columns to Jammer orbs, Deal 140% damage
    | group:
@@ -38,10 +38,10 @@ level: 1
    | group:
    | condition: turn 1 while HP > 19
      | (3518:86) Amenotamu-zake
-     | Enemy recover 30% hp
+     | Enemy recover 30% HP
    | group:
      | (3520:48) Behold my Magnificent Strength!
-     | Change Random to Water, Deal 160% damage
+     | Change a random attribute to Water orbs, Deal 160% damage
  | group:
  | condition: hp <= 19
    | group:

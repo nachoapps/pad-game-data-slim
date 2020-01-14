@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESCloud(104:8205) -> Dangerous Afro Cut
-3x3 cloud appear for 3 turns at random location
+A 3×3 square of clouds appears for 3 turns at a random location
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

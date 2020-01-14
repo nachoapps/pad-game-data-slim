@@ -14,13 +14,13 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (675:60) Take this!
-   | Change Random 5 to Poison (excluding hearts)
+   | Change 5 random orbs (excluding hearts) to Poison orbs
  | group:
  | condition: hp <= 74
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (675:60) Take this!
-     | Change Random 5 to Poison (excluding hearts)
+     | Change 5 random orbs (excluding hearts) to Poison orbs
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 70% chance
@@ -31,7 +31,7 @@ level: 1
    | group:
    | condition: turn 1
      | (682:48) Not going easy anymore!
-     | Change Poison to Dark, Deal 50% damage
+     | Change all Poison orbs to Dark orbs, Deal 50% damage
      | (681:50) Not going easy anymore!
      | Player -50% HP
    | group:

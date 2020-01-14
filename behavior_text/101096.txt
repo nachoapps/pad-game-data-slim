@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (16216:83) いびきをかいている + …グルルル
- | Movetime 50% for 4 turns + Do nothing
+ | Movetime +50% for 4 turns + Do nothing
  group:
  | group:
  | condition: turns 1-2

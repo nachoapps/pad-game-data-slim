@@ -14,7 +14,7 @@ level: 5
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1974:48) Grr!!!
-   | Change Heal to Jammer, Deal 75% damage
+   | Change all Heal orbs to Jammer orbs, Deal 75% damage
  | group:
  | condition: hp <= 29
    | group:

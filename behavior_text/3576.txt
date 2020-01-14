@@ -18,11 +18,11 @@ level: 1
    | group:
    | condition: turn 1 while HP > 14
      | (6892:83) Rainbow Cloak + Hell Poison Claw
-     | Change own attribute to Fire + Change Random 7 to Poison, Deal 310% damage
+     | Change own attribute to Fire + Change 7 random orbs to Poison orbs, Deal 310% damage
    | group:
    | condition: turn 2 while HP > 14
      | (6895:83) Rainbow Cloak + Hell Venom Claw
-     | Change own attribute to Water + Change Random 5 to Poison, Deal 320% damage
+     | Change own attribute to Water + Change 5 random orbs to Poison orbs, Deal 320% damage
    | group:
    | condition: turn 3 while HP > 14
      | (6898:83) Rainbow Cloak + Paralysis Vine
@@ -30,15 +30,15 @@ level: 1
    | group:
    | condition: turn 4 while HP > 14
      | (6901:83) Rainbow Cloak + Poison Rave
-     | Change own attribute to Light + Change Random 10 to Poison, Deal 350% damage
+     | Change own attribute to Light + Change 10 random orbs to Poison orbs, Deal 350% damage
    | group:
    | condition: turn 5 while HP > 14
      | (6904:83) Rainbow Cloak + Hell Poison Rave
-     | Change own attribute to Dark + Change Random 7 to Poison, Deal 370% damage
+     | Change own attribute to Dark + Change 7 random orbs to Poison orbs, Deal 370% damage
    | group:
    | condition: turn 6 while HP > 14
      | (6905:48) Hell Bloom
-     | Change Poison to Jammer, Deal 6000% damage
+     | Change all Poison orbs to Jammer orbs, Deal 6000% damage
      | (6906:94) Thousand-Blade Strike
      | Lock all orbs, Deal 300% damage
    | group:
@@ -62,7 +62,7 @@ level: 1
      | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 490% damage (7 hits, 70% each), Deal 490% damage (7 hits, 70% each)
      | condition: 15% chance
      | (6919:83) Rainbow Cloak + Dead Poison Rave
-     | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Change Random 14 to Poison, Deal 400% damage
+     | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Change 14 random orbs to Poison orbs, Deal 400% damage
  | group:
  | condition: hp <= 14
    | (6921:83) Rainbow Cloak + Everstorm Rainbow Blade

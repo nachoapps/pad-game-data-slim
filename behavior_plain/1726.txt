@@ -34,11 +34,11 @@ Spawn 4 random Fire or Dark orbs, Deal 100% damage
 
 #10: ESOrbChangeAttack(48:2169) -> Hell Bolt
 Condition: 50% chance (ai:0 rnd:50)
-Change Fire to Jammer, Deal 75% damage
+Change all Fire orbs to Jammer orbs, Deal 75% damage
 
 #11: ESPoisonChangeSingle(56:2168) -> Snake God's Venomous Fangs
 Condition: 50% chance (ai:0 rnd:50)
-Change Dark to Poison, Deal 50% damage
+Change all Dark orbs to Poison orbs, Deal 50% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

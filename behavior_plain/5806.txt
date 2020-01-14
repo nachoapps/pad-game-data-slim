@@ -22,7 +22,7 @@ end_turn
 
 #6: ESOrbChangeAttackBits(108:15779) -> スパイラル・シェイバー
 Condition: 30% chance (ai:30 rnd:0)
-Change Water and Wood to Wood, Deal 120% damage
+Change all Water and Wood orbs to Wood orbs, Deal 120% damage
 
 #7: ESAttackMultihit(15:15778) -> 暗黒騎士ガイアの攻撃
 Deal 63~105% damage (3~5 hits, 21% each)

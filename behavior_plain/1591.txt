@@ -44,15 +44,15 @@ end_turn
 Branch on hp < 50, target rnd 19
 
 #14: ESAttackMultihit(15:1508) -> Scorching Mantis Dragon Fist
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Deal 240% damage (6 hits, 40% each)
 
 #15: ESOrbChangeAttack(48:1506) -> Crushing Jaws
-Change Jammer to Fire, Deal 200% damage
+Change all Jammer orbs to Fire orbs, Deal 200% damage
 
 #16: ESOrbChangeAttack(48:1505) -> Fire Eating Sickle
 Condition: 70% chance (ai:70 rnd:0)
-Change Fire to Jammer, Deal 75% damage
+Change all Fire orbs to Jammer orbs, Deal 75% damage
 
 #17: ESAttackMultihit(15:1507) -> Mantis Dragon Fist
 Deal 120% damage (3 hits, 40% each)

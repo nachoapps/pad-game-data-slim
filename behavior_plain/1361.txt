@@ -34,7 +34,7 @@ Bind 1 random sub for 2 turns, Deal 50% damage
 
 #10: ESOrbChangeAttack(48:1155) -> Clay TAMADRA Lob
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Fire, Deal 80% damage
+Change a random attribute to Fire orbs, Deal 80% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

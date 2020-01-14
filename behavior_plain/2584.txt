@@ -57,7 +57,7 @@ flag SET 0b11
 Bind 2 random subs for 3 turns
 
 #17: ESAttackMultihit(15:3631) -> Killing Code
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 300% damage (6 hits, 50% each)
 
 #18: ESBlind62(62:3628) -> Exhaust Hit

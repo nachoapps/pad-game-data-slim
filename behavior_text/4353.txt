@@ -61,7 +61,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 9
      | (9726:83) Untamable Raging Waves + Ocean Current Mayhem + Freeze Wave
-     | Change all orbs to Heal and Poison + Rcv 50% for 99 turns + Bind 6 random cards for 10 turns
+     | Change all orbs to Heal and Poison + RCV +50% for 99 turns + Bind 6 random cards for 10 turns
    | group:
    | condition: turn 2 while HP > 9
      | condition: 50% chance
@@ -72,7 +72,7 @@ level: 4
    | group:
    | condition: turn 3 while HP > 9
      | (9733:83) Sand Disaster + Tidal Wave
-     | Movetime 50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
+     | Movetime +50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
    | group:
    | condition: turn 4 while HP > 9
      | condition: 50% chance
@@ -83,7 +83,7 @@ level: 4
    | group:
    | condition: turn 5 while HP > 9
      | (9733:83) Sand Disaster + Tidal Wave
-     | Movetime 50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
+     | Movetime +50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
    | group:
    | condition: turn 6 while HP > 9
      | (9736:83) Ocean Ripple + Depths of the Abyss
@@ -98,7 +98,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 2 of 5
      | (9733:83) Sand Disaster + Tidal Wave
-     | Movetime 50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
+     | Movetime +50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
    | group:
    | condition: execute repeatedly, turn 3 of 5
      | condition: 50% chance
@@ -109,7 +109,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 4 of 5
      | (9733:83) Sand Disaster + Tidal Wave
-     | Movetime 50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
+     | Movetime +50% for 1 turn + Deal 125% damage (5 hits, 25% each), Deal 125% damage (5 hits, 25% each)
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (9737:8) Unleashing the Great Sea

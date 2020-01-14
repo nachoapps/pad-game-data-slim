@@ -99,15 +99,15 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Player -500% HP
 
 #22: ESGravity(50:2984) -> Grand Ray
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Player -500% HP
 
 #23: ESRecoverEnemy86(86:2982) -> Cell Mending
-Condition: 50% chance when < 30% hp (ai:50 rnd:0)
-Enemy recover 10% hp, Deal 420% damage
+Condition: 50% chance when < 30% HP (ai:50 rnd:0)
+Enemy recover 10% HP, Deal 420% damage
 
 #24: ESBindAttack(63:2983) -> Great Vine
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Bind 1 random card for 5 turns, Deal 410% damage
 
 #25: ESOrbLock(94:2980) -> Hardened Sign

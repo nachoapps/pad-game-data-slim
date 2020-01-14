@@ -110,7 +110,7 @@ Deal 100% damage
 	[0] ESDamageShield(74:3971) -> Ignorant slaves of Pulse.
 	Reduce damage from all sources by 75% for 2 turns
 	[1] ESOrbChangeAttack(48:3960) -> Rebirth
-	Change Random to Heal, Deal 200% damage
+	Change a random attribute to Heal orbs, Deal 200% damage
 
 #26: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 60, target rnd 18
@@ -134,7 +134,7 @@ Deal 100% damage
 	[0] ESDamageShield(74:3972) -> Surrender your will.
 	Reduce damage from all sources by 75% for 2 turns
 	[1] ESOrbChangeAttack(48:3960) -> Rebirth
-	Change Random to Heal, Deal 200% damage
+	Change a random attribute to Heal orbs, Deal 200% damage
 
 #31: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 40, target rnd 20

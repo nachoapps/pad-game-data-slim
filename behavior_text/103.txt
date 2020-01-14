@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 74
  | condition: 30% chance
  | (73:4) Wood Orb change
- | Change Fire to Wood
+ | Change all Fire orbs to Wood orbs

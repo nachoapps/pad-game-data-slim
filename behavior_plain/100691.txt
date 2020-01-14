@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESRecoverEnemy86(86:11641) -> Pouring Fighting Spirit
-	Enemy recover 100% hp
+	Enemy recover 100% HP
 	[1] ESDamageShield(74:11642) -> Counterattack
 	Reduce damage from all sources by 75% for 99 turns
 

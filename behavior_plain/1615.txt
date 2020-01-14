@@ -30,7 +30,7 @@ Branch on flag & 4, target rnd 27
 flag SET 0b1111
 
 #9: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESSkillDelay(89:5316) -> Now you've done it! I'm going all out!
 	Delay active skills by 5 turns
 	[1] ESBoardChangeAttackBits(85:5317) -> Inferno Spell!
@@ -40,7 +40,7 @@ flag SET 0b1111
 flag SET 0b11111
 
 #11: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESSkillDelay(89:5316) -> Now you've done it! I'm going all out!
 	Delay active skills by 5 turns
 	[1] ESBoardChange(84:5318) -> Infe...
@@ -81,7 +81,7 @@ Change all orbs to Jammer
 flag UNSET 0b1
 
 #22: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESInactivity66(66:5314) -> Let me give you a hand
 	Do nothing
 	[1] ESBindAttack(63:5304) -> Coiling Blaze!
@@ -94,7 +94,7 @@ Bind 2 random subs for 3 turns, Deal 120% damage
 flag UNSET 0b10
 
 #25: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESInactivity66(66:5314) -> Let me give you a hand
 	Do nothing
 	[1] ESBoardChangeAttackBits(85:5307) -> Venom Detonation!
@@ -107,7 +107,7 @@ Change all orbs to Fire and Poison, Deal 60% damage
 flag UNSET 0b100
 
 #28: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESInactivity66(66:5314) -> Let me give you a hand
 	Do nothing
 	[1] ESAttackMultihit(15:5310) -> Raiding Erupt!

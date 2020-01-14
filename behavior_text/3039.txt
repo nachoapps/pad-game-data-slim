@@ -36,7 +36,7 @@ level: 4
  | group:
  | condition: turn 1 while HP > 9, hp <= 64
    | (5040:83) Is that... + ..all you have?!
-   | Enemy recover 50% hp + Reduce damage from all sources by 50% for 2 turns
+   | Enemy recover 50% HP + Reduce damage from all sources by 50% for 2 turns
  | group:
  | condition: hp <= 29
    | group:

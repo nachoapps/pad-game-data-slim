@@ -48,7 +48,7 @@ Branch on hp < 50, target rnd 17
 
 #13: ESOrbChangeAttack(48:9824) -> Shooting Stardust
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Jammer, Deal 95% damage
+Change a random attribute to Jammer orbs, Deal 95% damage
 
 #14: ESSkillDelay(89:9825) -> Star Symphony
 Condition: 33% chance (ai:0 rnd:33)

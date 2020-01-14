@@ -86,7 +86,7 @@ Branch on flag & 8, target rnd 9
 flag SET 0b1111
 
 #26: ESRecoverPlayer(55:3193) -> That look suits you!
-Player recover 100% hp
+Player recover 100% HP
 
 #27: ESEndPath(36:26) -> ESEndPath
 end_turn

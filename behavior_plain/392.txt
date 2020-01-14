@@ -9,10 +9,10 @@ Branch on hp < 50, target rnd 5
 
 #2: ESOrbChangeAttack(48:965) -> Signs of Blooming
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 75% damage
+Change a random attribute to Heal orbs, Deal 75% damage
 
 #3: ESOrbChangeAttack(48:966) -> Flower World
-Change Heal to Wood, Deal 150% damage
+Change all Heal orbs to Wood orbs, Deal 150% damage
 
 #4: ESEndPath(36:26) -> ESEndPath
 end_turn

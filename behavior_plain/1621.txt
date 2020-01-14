@@ -15,9 +15,9 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDebuffRCV(105:7461) -> Give me a hand, Baby Genie!
-	Rcv 50% for 10 turns
+	RCV +50% for 10 turns
 	[1] ESCloud(104:7462) -> Leave it to me! Rub that lamp!
-	Column of cloud appear for 4 turns at 1st row
+	A column of clouds appears for 4 turns at 1st row, 3rd column
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -89,4 +89,4 @@ flag UNSET 0b11110
 	[0] ESColumnSpawnMulti(77:7473) -> The grand finale! Light Spell!!!!!
 	Change the 1st column to Light orbs, Deal 200% damage
 	[1] ESCloud(104:7474) -> Need smoke! Need smoke!
-	Column of cloud appear for 4 turns at 1st row
+	A column of clouds appears for 4 turns at 1st row, 3rd column

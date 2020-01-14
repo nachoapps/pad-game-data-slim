@@ -14,10 +14,10 @@ level: 4
  | group:
    | condition: 50% chance
    | (3616:48) Target Predation - Water
-   | Change Water to Jammer, Deal 100% damage
+   | Change all Water orbs to Jammer orbs, Deal 100% damage
    | condition: 20% chance
    | (3618:48) Target Predation - Heal
-   | Change Heal to Jammer, Deal 120% damage
+   | Change all Heal orbs to Jammer orbs, Deal 120% damage
    | condition: 30% chance
    | (3617:92) Red Whip
    | Spawn 4 random Fire orbs, Deal 120% damage

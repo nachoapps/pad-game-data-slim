@@ -15,7 +15,7 @@ level: 3
  | (5285:92) I'll take one
  | Spawn 1 random Heal orb
  | (5289:48) No grapes? Let's eat this instead then!
- | Change Heal to Jammer, Deal 100% damage
+ | Change all Heal orbs to Jammer orbs, Deal 100% damage
  | (5290:92) Let's eat grapes together!
  | Spawn 3 random Dark orbs
  type: UNKNOWN_USE

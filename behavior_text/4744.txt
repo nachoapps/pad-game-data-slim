@@ -17,16 +17,16 @@ level: 1
  | group:
    | condition: 25% chance
    | (10557:83) Noctilucence + Gloom
-   | Change Random to Heal + Blind all orbs on the board, Deal 90% damage
+   | Change a random attribute to Heal orbs + Blind all orbs on the board, Deal 90% damage
    | condition: 25% chance
    | (10558:83) Rotting Heat + Gloom
-   | Change Random 3 to Poison + Blind all orbs on the board, Deal 65% damage
+   | Change 3 random orbs to Poison orbs + Blind all orbs on the board, Deal 65% damage
    | condition: 25% chance
    | (10559:83) Noctilucence + Drought
-   | Change Random to Heal + Bind 1 random sub for 1 turn, Deal 90% damage
+   | Change a random attribute to Heal orbs + Bind 1 random sub for 1 turn, Deal 90% damage
    | condition: 25% chance
    | (10560:83) Rotting Heat + Drought
-   | Change Random 3 to Poison + Bind 1 random sub for 1 turn, Deal 65% damage
+   | Change 3 random orbs to Poison orbs + Bind 1 random sub for 1 turn, Deal 65% damage
  | group:
  | condition: hp <= 49
    | group:

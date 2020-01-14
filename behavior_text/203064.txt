@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (5057:48) Blue Sphere
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 39
    | group:

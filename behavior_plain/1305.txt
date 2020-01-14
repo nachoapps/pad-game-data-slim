@@ -20,12 +20,12 @@ Deal 50% damage
 end_turn
 
 #6: ESBindAttack(63:1610) -> King's Claws
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 2)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Bind 1 random sub for 3 turns, Deal 80% damage
 
 #7: ESOrbChangeAttack(48:1611) -> Magic Blood Spear Mac an Luin
 Condition: 50% chance (ai:50 rnd:0)
-Change Random to Jammer, Deal 125% damage
+Change a random attribute to Jammer orbs, Deal 125% damage
 
 #8: ESBlind62(62:1612) -> Dark Turbulence
 Condition: 70% chance (ai:70 rnd:0)

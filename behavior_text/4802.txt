@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | (11151:108) Need to burn more!
-   | Change Jammer to Fire, Deal 150% damage
+   | Change all Jammer orbs to Fire orbs, Deal 150% damage
    | condition: 33% chance
    | (11152:89) I'll make you suffer!
    | Delay active skills by 2 turns, Deal 95% damage
@@ -29,7 +29,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (11155:83) Your life is at an end! + You will regret that
-   | Spawn Bomb orbs in the specified positions + Movetime 50% for 5 turns
+   | Spawn Bomb orbs in the specified positions + Movetime +50% for 5 turns
  | group:
  | condition: hp <= 19
    | group:

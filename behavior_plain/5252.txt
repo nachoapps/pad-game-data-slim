@@ -28,7 +28,7 @@ Player -25% HP
 
 #8: ESOrbChangeAttack(48:13263) -> Wanna dance punk?
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Dark, Deal 90% damage
+Change a random attribute to Dark orbs, Deal 90% damage
 
 #9: ESAttackMultihit(15:13264) -> Hmph! Hmph! Hmph!
 Condition: 33% chance (ai:0 rnd:33)

@@ -25,14 +25,14 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 30% hp (ai:100 rnd:0)
+	Condition: When < 30% HP (ai:100 rnd:0)
 	[0] ESGravity(50:2206) -> Damaru
 	Player -75% HP
 	[1] ESBoardChangeAttackFlat(81:2212) -> Destructive Third Eye
 	Change all orbs to Fire, Deal 300% damage
 
 #7: ESOrbChangeAttack(48:2209) -> Nilakantha
-Change Poison to Heal, Deal 200% damage
+Change all Poison orbs to Heal orbs, Deal 200% damage
 
 #8: ESColumnSpawnMulti(77:2210) -> Trishula
 Condition: 25% chance (ai:0 rnd:25)
@@ -44,7 +44,7 @@ Deal 120% damage (3 hits, 40% each)
 
 #10: ESPoisonChangeRandomAttack(64:2208) -> Halahala
 Condition: One-time use (ai:0 rnd:25) (cost: 1)
-Change Random 7 to Poison, Deal 50% damage
+Change 7 random orbs to Poison orbs, Deal 50% damage
 
 #11: ESBlind62(62:2207) -> Mahakala
 Condition: 25% chance (ai:0 rnd:25)

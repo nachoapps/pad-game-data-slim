@@ -47,10 +47,10 @@ level: 1
      | Movetime -3s for 1 turn, Deal 300% damage
      | condition: 6% chance
      | (6978:39) Time Mixup
-     | Movetime 50% for 1 turn, Deal 300% damage
+     | Movetime +50% for 1 turn, Deal 300% damage
      | condition: 6% chance
      | (6979:39) Time Mixup
-     | Movetime 150% for 1 turn, Deal 300% damage
+     | Movetime +150% for 1 turn, Deal 300% damage
      | condition: 30% chance
      | (6980:15) Wonder Bolt
      | Deal 350% damage (7 hits, 50% each)

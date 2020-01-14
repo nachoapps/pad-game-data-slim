@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 40% chance
    | (2833:48) Aqua Sphere
-   | Change Random to Water, Deal 130% damage
+   | Change a random attribute to Water orbs, Deal 130% damage
    | condition: 40% chance
    | (2834:89) Cold Scythe
    | Delay active skills by 1 turn, Deal 110% damage

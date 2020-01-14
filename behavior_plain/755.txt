@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRecoverPlayer(55:767) -> Dragon God's Tears
-Player recover 100% hp
+Player recover 100% HP
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -30,4 +30,4 @@ Bind Devil cards for 3~5 turns
 Deal 150% damage (3 hits, 50% each)
 
 #9: ESOrbChangeAttack(48:768) -> Crimson Bolt
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage

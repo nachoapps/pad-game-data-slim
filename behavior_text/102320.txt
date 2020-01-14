@@ -16,7 +16,7 @@ level: 1
    | condition: turn 1 while HP > 49
      | condition: when 1347 on team
      | (3193:55) That look suits you!
-     | Player recover 100% hp
+     | Player recover 100% HP
      | condition: when 374, 375, 655 on team
      | (3191:1) Enough struggling!
      | Bind 6 random cards for 1 turn
@@ -71,7 +71,7 @@ level: 1
  | condition: turn 1, hp <= 49
    | condition: when 1347 on team
    | (3193:55) That look suits you!
-   | Player recover 100% hp
+   | Player recover 100% HP
    | condition: when 374, 375, 655 on team
    | (3191:1) Enough struggling!
    | Bind 6 random cards for 1 turn

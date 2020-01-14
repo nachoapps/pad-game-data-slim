@@ -17,9 +17,9 @@ level: 1
  | group:
  | condition: turn 1
    | (1273:48) Howling Gust
-   | Change Fire to Jammer, Deal 100% damage
+   | Change all Fire orbs to Jammer orbs, Deal 100% damage
    | (1279:48) Howling Gust
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: turn 2
    | (1274:15) Wild Talon Rake

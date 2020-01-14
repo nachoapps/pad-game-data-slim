@@ -12,9 +12,9 @@ level: 1
  | Reduce damage from Fire attrs by 50%
  type: UNKNOWN_USE
  | (7487:83) Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
- | Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turn at 3rd row, 1st column + Spawn 11 random Jammer orbs
+ | Reduce damage from all sources by 50% for 5 turns + A 6×2 rectangle of clouds appears for 1 turn at 3rd row, 1st column + Spawn 11 random Jammer orbs
  | (7492:83) Mariner's Divine Protection + Outbreak
- | Absorb damage when combos <= 6 for 10 turns + Change Jammer to Poison, Deal 250% damage
+ | Absorb damage when combos <= 6 for 10 turns + Change all Jammer orbs to Poison orbs, Deal 250% damage
  | condition: when 1 enemies remain
  | (7493:17) Resentful Stare
  | Increase damage to 150% for the next 999 turns
@@ -23,7 +23,7 @@ level: 1
  | (7495:89) Roaring Deluge
  | Delay active skills by 2 turns, Deal 120% damage
  | (7496:48) Bubble Bloom
- | Change Heal to Water, Deal 130% damage
+ | Change all Heal orbs to Water orbs, Deal 130% damage
  | (7497:50) Depth Charge
  | Player -90% HP
  | (7498:88) Senja Sight

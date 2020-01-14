@@ -37,7 +37,7 @@ Deal 110% damage
 
 #11: ESOrbChangeAttack(48:11904) -> ババーン？（茶でも飲むかい？）
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Heal, Deal 90% damage
+Change a random attribute to Heal orbs, Deal 90% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -49,7 +49,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #15: ESDebuffRCV(105:12065) -> ババァン…（アンタも大変だね）
-Rcv 50% for 5 turns
+RCV +50% for 5 turns
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

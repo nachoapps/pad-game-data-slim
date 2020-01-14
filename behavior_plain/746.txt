@@ -33,5 +33,5 @@ Branch on hp < 20, target rnd 10
 end_turn
 
 #10: ESAttackMultihit(15:557) -> Southern Seven-Star Formation
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 560% damage (7 hits, 80% each)

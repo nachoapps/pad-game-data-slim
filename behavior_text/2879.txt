@@ -57,7 +57,7 @@ level: 4
    | group:
    | condition: turn 1
      | (4382:83) Overcoming Will + Dragonbound's Wrath
-     | Enemy recover 29% hp + Increase damage to 200% for the next 999 turns
+     | Enemy recover 29% HP + Increase damage to 200% for the next 999 turns
    | group:
      | (4701:83) Dual Shade + Sunset Zone
      | Deal 120% damage (2 hits, 60% each) + Change all orbs to Fire, Water, Dark, and Heal, Deal 120% damage (2 hits, 60% each)

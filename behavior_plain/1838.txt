@@ -27,7 +27,7 @@ flag SET 0b1
 end_turn
 
 #7: ESAttackMultihit(15:3787) -> Extreme Blaze
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 300% damage
 
 #8: ESBranchHP(28:18) -> ESBranchHP

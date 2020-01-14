@@ -26,12 +26,12 @@ Branch on level >= 5, target rnd 8
 end_turn
 
 #8: ESBindAttack(63:1749) -> Blessing Embrace
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 1 random sub for 1~2 turns, Deal 50% damage
 
 #9: ESOrbChangeAttack(48:1751) -> Zeus Figure Bomb
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Random to Light, Deal 150% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change a random attribute to Light orbs, Deal 150% damage
 
 #10: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 14
@@ -40,7 +40,7 @@ Branch on flag & 2, target rnd 14
 flag SET 0b11
 
 #12: ESOrbChangeAttack(48:1747) -> Goddess's Gift
-Change Random to Heal, Deal 125% damage
+Change a random attribute to Heal orbs, Deal 125% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -52,7 +52,7 @@ Branch on flag & 4, target rnd 18
 flag SET 0b111
 
 #16: ESPoisonChangeRandomAttack(64:1748) -> Devil's Gift
-Change Random 5 to Poison, Deal 75% damage
+Change 5 random orbs to Poison orbs, Deal 75% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

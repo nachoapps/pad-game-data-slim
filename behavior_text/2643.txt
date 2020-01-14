@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 30% chance
    | (2712:48) Pump Burst
-   | Change Water to Heal, Deal 130% damage
+   | Change all Water orbs to Heal orbs, Deal 130% damage
    | condition: 35% chance
    | (2711:79) Horizontal Web
    | Change the 1st and 5th rows to Water orbs, Deal 80% damage

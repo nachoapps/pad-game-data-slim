@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 60% chance
    | (454:48) Shining Spear
-   | Change Random to Light, Deal 80% damage
+   | Change a random attribute to Light orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | condition: 70% chance

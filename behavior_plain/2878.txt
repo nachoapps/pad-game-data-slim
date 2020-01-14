@@ -50,14 +50,14 @@ Bind active skills for 3 turns
 flag SET 0b11
 
 #15: SkillSet:
-	Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:4502) -> Overcoming Will
-	Enemy recover 19% hp
+	Enemy recover 19% HP
 	[1] ESDamageShield(74:4508) -> Big Jump
 	Reduce damage from all sources by 75% for 1 turn
 
 #16: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESAttackMultihit(15:4498) -> Shining Claw
 	Deal 185% damage (5 hits, 37% each)
 	[1] ESBoardChangeAttackBits(85:4490) -> Shine Flare Ring
@@ -70,7 +70,7 @@ Branch on flag & 4, target rnd 19
 Branch on hp < 50, target rnd 24
 
 #19: ESDamageShield(74:4503) -> Big Jump
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 75% for 1 turn
 
 #20: ESDamageShield(74:4495) -> Leap

@@ -11,13 +11,13 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1528:48) Ninja Dog Technique
-   | Change Random to Jammer, Deal 80% damage
+   | Change a random attribute to Jammer orbs, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1528:48) Ninja Dog Technique
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1529:15) Ninja Dog Scramble

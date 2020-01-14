@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 33% chance
    | (14985:48) Fireball
-   | Change Random to Fire, Deal 95% damage
+   | Change a random attribute to Fire orbs, Deal 95% damage
    | condition: 33% chance
    | (14986:92) Burst Rondo
    | Spawn 6 random Fire orbs, Deal 100% damage

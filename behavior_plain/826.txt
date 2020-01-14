@@ -20,7 +20,7 @@ Absorb Dark damage for 3 turns
 end_turn
 
 #6: ESOrbChangeAttack(48:1607) -> Black Storm
-Change Jammer to Dark, Deal 200% damage
+Change all Jammer orbs to Dark orbs, Deal 200% damage
 
 #7: ESOrbChangeAttack(48:1606) -> Chaos Scythe
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage

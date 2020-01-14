@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (893:55) How about an Apple?
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  condition: hp <= 49
  | condition: 50% chance

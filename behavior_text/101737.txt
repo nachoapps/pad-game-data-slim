@@ -16,14 +16,14 @@ level: 1
  group:
  | group:
    | (1685:48) Blue Blizzard
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: hp <= 74
    | condition: 75% chance
    | (1686:63) Freezing Blast
    | Bind 1 random card for 2~4 turns, Deal 85% damage
    | (1685:48) Blue Blizzard
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (1687:63) Ice Coffin
@@ -37,4 +37,4 @@ level: 1
    | (1686:63) Freezing Blast
    | Bind 1 random card for 2~4 turns, Deal 85% damage
    | (1685:48) Blue Blizzard
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage

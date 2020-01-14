@@ -27,19 +27,19 @@ Branch on player_cards HAS [2821], target rnd 13
 
 #7: ESOrbChangeAttack(48:13140) -> Concentrate!
 Condition: 16% chance (ai:0 rnd:16)
-Change Water to Fire, Deal 60% damage
+Change all Water orbs to Fire orbs, Deal 60% damage
 
 #8: ESDamageShield(74:13142) -> It really starts now
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 10 turns
 
 #9: ESAttackMultihit(15:13143) -> Pick up everything!
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 150% damage (5 hits, 30% each)
 
 #10: ESOrbChangeAttack(48:13140) -> Concentrate!
 Condition: 60% chance (ai:60 rnd:0)
-Change Water to Fire, Deal 60% damage
+Change all Water orbs to Fire orbs, Deal 60% damage
 
 #11: ESRowSpawnMulti(79:13141) -> Don't give up!
 Condition: 60% chance (ai:60 rnd:0)
@@ -55,7 +55,7 @@ Branch on flag & 2, target rnd 7
 flag SET 0b11
 
 #15: ESDamageShield(74:13142) -> It really starts now
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 10 turns
 
 #16: ESBranchFlag(43:10) -> ESBranchFlag
@@ -65,5 +65,5 @@ Branch on flag & 4, target rnd 8
 flag SET 0b111
 
 #18: ESDamageShield(74:13142) -> It really starts now
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 10 turns

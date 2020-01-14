@@ -23,9 +23,9 @@ flag SET 0b1
 Blind all orbs on the board
 
 #7: ESAttackMultihit(15:625) -> Combinyaation Attack!
-Condition: 70% chance when < 25% hp (ai:70 rnd:0)
+Condition: 70% chance when < 25% HP (ai:70 rnd:0)
 Deal 180% damage (3 hits, 60% each)
 
 #8: ESOrbChangeAttack(48:622) -> Magma Breath nya!
-Condition: When < 75% hp , one-time use (ai:70 rnd:0) (cost: 1)
-Change Random to Fire, Deal 120% damage
+Condition: When < 75% HP , one-time use (ai:70 rnd:0) (cost: 1)
+Change a random attribute to Fire orbs, Deal 120% damage

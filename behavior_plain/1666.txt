@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESCloud(104:9699) -> Let's go!
-	2x3 cloud appear for 6 turns at random location
+	A 2×3 rectangle of clouds appears for 6 turns at a random location
 	[1] ESDamageShield(74:9700) -> Protection of the Ether and the Sun
 	Reduce damage from all sources by 75% for 5 turns
 
@@ -30,7 +30,7 @@ end_turn
 
 #8: ESDebuffRCV(105:9702) -> How long can you bear through this?
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
-Rcv 10% for 5 turns, Deal 15% damage
+RCV +10% for 5 turns, Deal 15% damage
 
 #9: ESAttackMultihit(15:9703) -> Eternity's Judgment
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
@@ -57,4 +57,4 @@ end_turn
 #15: SkillSet:
 	Condition: On death (ai:0 rnd:0)
 	[0] ESDebuffMovetime(39:9708) -> Tears of the Sacred Divinity
-	Movetime 50% for 2 turns
+	Movetime +50% for 2 turns

@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 50% chance
    | (2370:48) I'm starving...Chomp!
-   | Change Fire to Jammer, Deal 150% damage
+   | Change all Fire orbs to Jammer orbs, Deal 150% damage
    | (2371:15) Mineral Throw
    | Deal 210% damage (3 hits, 70% each)
  | group:

@@ -57,19 +57,19 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (2965:48) High Poison Alchemy
-     | Change Jammer to Mortal Poison, Deal 200% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
      | (2950:92) Heat and Cold
      | Spawn 2 random Fire or Water orbs, Deal 160% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (2965:48) High Poison Alchemy
-     | Change Jammer to Mortal Poison, Deal 200% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
      | (2951:92) Hinder Alchemy
      | Spawn 5 random Jammer orbs, Deal 180% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (2965:48) High Poison Alchemy
-     | Change Jammer to Mortal Poison, Deal 200% damage
+     | Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
      | (2950:92) Heat and Cold
      | Spawn 2 random Fire or Water orbs, Deal 160% damage
  | group:

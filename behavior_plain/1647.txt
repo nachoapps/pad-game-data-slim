@@ -27,7 +27,7 @@ counter = 10
 	[0] ESVoidShield(71:14302) -> Dark Shield
 	Void damage >= 10000000 for 999 turns
 	[1] ESCloud(104:14305) -> Dark Spell
-	2x5 cloud appear for 3 turns at 1st row, 3rd column
+	A 2×5 rectangle of clouds appears for 3 turns at 1st row, 3rd column
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -44,11 +44,11 @@ Spawn 5 random Mortal Poison orbs, Deal 100% damage
 
 #11: ESOrbChangeAttackBits(108:14307) -> Great Shield of Devastation
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Poison to Dark, Deal 150% damage
+Change all Poison orbs to Dark orbs, Deal 150% damage
 
 #12: ESOrbChangeAttack(48:14308) -> Obliterating Impact
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Poison, Deal 95% damage
+Change a random attribute to Poison orbs, Deal 95% damage
 
 #13: ESAttackMultihit(15:14309) -> Bloody Execution
 Condition: 50% chance (ai:0 rnd:50)
@@ -63,11 +63,11 @@ Spawn 5 random Bomb orbs, Deal 100% damage
 
 #16: ESOrbChangeAttackBits(108:14311) -> Disastrous Swing
 Condition: One-time use (ai:50 rnd:0) (cost: 1)
-Change Jammer to Dark, Deal 150% damage
+Change all Jammer orbs to Dark orbs, Deal 150% damage
 
 #17: ESOrbChangeAttack(48:14312) -> Doomsday Blow
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Jammer, Deal 95% damage
+Change a random attribute to Jammer orbs, Deal 95% damage
 
 #18: ESAttackMultihit(15:14309) -> Bloody Execution
 Condition: 50% chance (ai:0 rnd:50)
@@ -86,7 +86,7 @@ flag SET 0b11
 	[0] ESBlindStickyRandom(97:14314) -> Plunged into Darkness
 	Blind random 15~20 orbs for 5 turns
 	[1] ESDebuffMovetime(39:14315) -> Time Split
-	Movetime 50% for 5 turns
+	Movetime +50% for 5 turns
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

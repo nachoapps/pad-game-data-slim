@@ -45,7 +45,7 @@ Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Deal 245% damage (7 hits, 35% each)
 
 #12: ESOrbChangeAttack(48:14598) -> Flame of the Conqueror
-Change Random to Light, Deal 220% damage
+Change a random attribute to Light orbs, Deal 220% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

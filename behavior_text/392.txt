@@ -12,11 +12,11 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (965:48) Signs of Blooming
-     | Change Random to Heal, Deal 75% damage
+     | Change a random attribute to Heal orbs, Deal 75% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (966:48) Flower World
-     | Change Heal to Wood, Deal 150% damage
+     | Change all Heal orbs to Wood orbs, Deal 150% damage
  | group:
  | condition: hp <= 49
    | group:

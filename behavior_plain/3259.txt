@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Voids status ailments for 3 turns
 
 #3: ESColumnSpawnMulti(77:5883) -> Kthyr Akrab
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change the 1st, 3rd, and 5th columns to Poison orbs and the 2nd, 4th, and 6th columns to Mortal Poison orbs, Deal 600% damage
 
 #4: ESRandomSpawn(92:5873) -> Scorpion Needle
@@ -38,7 +38,7 @@ Blind all orbs on the board, Deal 200% damage
 	[0] ESDebuffMovetime(39:5878) -> Neurotoxins
 	Movetime -1s for 10 turns
 	[1] ESOrbChangeAttack(48:5879) -> Sm Dhanab
-	Change Random to Mortal Poison, Deal 100% damage
+	Change a random attribute to Mortal Poison orbs, Deal 100% damage
 
 #8: ESColumnSpawnMulti(77:5881) -> Scorpion Slash
 Condition: 50% chance (ai:50 rnd:0)

@@ -54,7 +54,7 @@ Branch on flag & 32, target rnd 30
 Branch on hp < 20, target rnd 28
 
 #16: ESAbsorbCombo(67:6082) -> Vitality Spiral
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 6 turns
 
 #17: ESBranchFlag(43:10) -> ESBranchFlag
@@ -64,7 +64,7 @@ Branch on flag & 4, target rnd 20
 flag SET 0b111
 
 #19: ESPoisonChangeRandomAttack(64:6084) -> Harmful Poison
-Change Random 6 to Poison, Deal 50% damage
+Change 6 random orbs to Poison orbs, Deal 50% damage
 
 #20: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 23

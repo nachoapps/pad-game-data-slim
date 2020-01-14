@@ -19,7 +19,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (15361:60) 毒花粉
-     | Change Random 4 to Poison (excluding hearts)
+     | Change 4 random orbs (excluding hearts) to Poison orbs
  | group:
  | condition: always turn 1, hp <= 49
    | (15362:84) 華蛇の邪眼

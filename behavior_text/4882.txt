@@ -27,7 +27,7 @@ level: 4
    | Lock 10 random orbs, Deal 110% damage
    | condition: 50% chance
    | (11452:48) I'm impressed.
-   | Change Random to Dark, Deal 100% damage
+   | Change a random attribute to Dark orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 74
    | (11449:67) The next one will be even bigger.

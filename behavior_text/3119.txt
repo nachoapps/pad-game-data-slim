@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (10869:108) Grimoire Summer
-   | Change Heal to Wood, Deal 80% damage
+   | Change all Heal orbs to Wood orbs, Deal 80% damage
    | (10870:63) Sunset Cage
    | Bind 1 random sub for 1~2 turns, Deal 80% damage
  | group:
@@ -29,4 +29,4 @@ level: 4
      | Do nothing
    | group:
      | (10873:48) Summer Explosion
-     | Change Random to Wood, Deal 500% damage
+     | Change a random attribute to Wood orbs, Deal 500% damage

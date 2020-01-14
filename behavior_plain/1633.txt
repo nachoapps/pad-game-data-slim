@@ -20,11 +20,11 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRecoverPlayer(55:1143) -> Chivalric Spirit
-Player recover 100% hp
+Player recover 100% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #8: ESOrbChangeAttack(48:1570) -> Heroic Strike
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Light, Deal 125% damage
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Change a random attribute to Light orbs, Deal 125% damage

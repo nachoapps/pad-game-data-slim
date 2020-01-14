@@ -42,7 +42,7 @@ Branch on flag & 1, target rnd 14
 flag SET 0b1
 
 #12: ESOrbChangeAttack(48:11441) -> Awesome!
-Change Random to Fire, Deal 100% damage
+Change a random attribute to Fire orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

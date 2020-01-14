@@ -20,7 +20,7 @@ level: 1
    | condition: turns 1-9 while HP > 50
      | condition: 33% chance
      | (13801:48) Royal Gale
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (13802:15) Eternal Wind
      | Deal 120% damage (3 hits, 40% each)
@@ -30,7 +30,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (13801:48) Royal Gale
-     | Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (13802:15) Eternal Wind
      | Deal 120% damage (3 hits, 40% each)

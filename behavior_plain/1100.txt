@@ -20,7 +20,7 @@ Player -99% HP
 nothing
 
 #6: ESBindAttribute(2:1076) -> Voice of Misfortune
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Wood cards for 2~3 turns
 
 #7: ESNone(0:0) -> ESNone

@@ -31,7 +31,7 @@ level: 1
      | Increase damage to 300% for the next 999 turns
    | group:
      | (451:48) Splash Blade
-     | Change Random to Water, Deal 70% damage
+     | Change a random attribute to Water orbs, Deal 70% damage
  | group:
  | condition: hp <= 49
    | (452:15) Dragon-Slaying Crimson Blade

@@ -29,14 +29,14 @@ flag SET 0b1
 end_turn
 
 #8: SkillSet:
-	Condition: When < 20% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 20% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:4381) -> Overcoming Will
-	Enemy recover 29% hp
+	Enemy recover 29% HP
 	[1] ESAttackUPRemainingEnemies(17:4222) -> Dragonbound's Wrath
 	Increase damage to 200% for the next 999 turns
 
 #9: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESAttackMultihit(15:4374) -> Twin Prominence
 	Deal 120% damage (4 hits, 30% each)
 	[1] ESBoardChangeAttackBits(85:4359) -> Sunrise Zone
@@ -140,7 +140,7 @@ flag SET 0b1111
 	Lock 10 random orbs
 
 #31: ESRandomSpawn(92:4362) -> Dawn Guidance
-Condition: When < 75% hp (ai:100 rnd:0)
+Condition: When < 75% HP (ai:100 rnd:0)
 Spawn 6 random Heal orbs, Deal 175% damage
 
 #32: ESAttributeResist(72:4383) -> Water Halven

@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Void damage >= 1000000 for 99 turns
 
 #3: ESAttackMultihit(15:9469) -> Polychrome Chrysanthemum
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 200% damage (10 hits, 20% each)
 
 #4: ESBoardChangeAttackBits(85:9467) -> Vibrant Petals

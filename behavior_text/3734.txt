@@ -40,4 +40,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 1
    | (7594:83) Simple Repairs + Pipe Impact
-   | Enemy recover 51% hp + Leader changes to random sub for 99 turns
+   | Enemy recover 51% HP + Leader changes to random sub for 99 turns

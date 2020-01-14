@@ -5,5 +5,5 @@ start/max counter: 0
 counter increment: 0
 
 #1: ESAttackMultihit(15:196) -> Magma Breath
-Condition: 70% chance when < 25% hp (ai:70 rnd:0)
+Condition: 70% chance when < 25% HP (ai:70 rnd:0)
 Deal 200% damage

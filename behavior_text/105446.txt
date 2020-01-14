@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (14155:39) 愛の戦士キューティーハニー
- | Movetime 50% for 5 turns
+ | Movetime +50% for 5 turns
  group:
  | group:
    | condition: 50% chance
@@ -21,7 +21,7 @@ level: 4
  | group:
  | condition: always turn 1, hp <= 50
    | (14144:105) 正義の刃を受けよ!!
-   | Rcv 50% for 5 turns
+   | RCV +50% for 5 turns
  | group:
  | condition: hp <= 20
    | (14147:92) シルバーフルーレ

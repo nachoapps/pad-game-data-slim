@@ -21,7 +21,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #6: SkillSet:
 	[0] ESDebuffMovetime(39:6019) -> Menacing Bloodshot Eyes
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -29,7 +29,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #7: SkillSet:
 	[0] ESDebuffMovetime(39:6019) -> Menacing Bloodshot Eyes
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 	[1] ESDamageShield(74:6050) -> Saw someone and prepared to fight
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -37,7 +37,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #8: SkillSet:
 	[0] ESDebuffMovetime(39:6049) -> Eyes are fixed on the prey
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -45,7 +45,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #9: SkillSet:
 	[0] ESDebuffMovetime(39:6049) -> Eyes are fixed on the prey
-	Movetime 50% for 10 turns
+	Movetime +50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -95,14 +95,14 @@ Branch on hp < 50, target rnd 28
 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison, Deal 100% damage
 	[1] ESPoisonChangeRandomCount(60:6029) -> Floating Radiance
-	Change Random 3 to Poison (excluding hearts)
+	Change 3 random orbs (excluding hearts) to Poison orbs
 
 #20: SkillSet:
 	Condition: 13% chance (ai:0 rnd:13)
 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison, Deal 100% damage
 	[1] ESOrbChangeAttack(48:6030) -> Evil Swamp
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 
 #21: SkillSet:
 	Condition: 13% chance (ai:0 rnd:13)
@@ -123,7 +123,7 @@ Branch on hp < 50, target rnd 28
 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison, Deal 100% damage
 	[1] ESRecoverEnemy86(86:6033) -> Lake of Healing
-	Enemy recover 20% hp
+	Enemy recover 20% HP
 
 #24: SkillSet:
 	Condition: 12% chance (ai:0 rnd:12)
@@ -156,7 +156,7 @@ Branch on flag & 4, target rnd 31
 flag SET 0b1111
 
 #30: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESAttackUPRemainingEnemies(17:6022) -> Countercurrent Scales
 	Increase damage to 800% for the next 999 turns
 	[1] ESSkillDelay(89:6026) -> Eight-headed Vicious Suppression
@@ -168,7 +168,7 @@ flag SET 0b1111
 flag SET 0b1111
 
 #32: SkillSet:
-	Condition: When < 50% hp (ai:100 rnd:0)
+	Condition: When < 50% HP (ai:100 rnd:0)
 	[0] ESSkillDelay(89:6026) -> Eight-headed Vicious Suppression
 	Delay active skills by 4 turns
 	[1] ESOrbLock(94:6023) -> Pentagramic Tremble

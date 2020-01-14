@@ -26,11 +26,11 @@ Player -99% HP
 end_turn
 
 #8: ESAttackUPRemainingEnemies(17:7242) -> Rage
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 145% for the next 10 turns
 
 #9: ESBindAttack(63:7243) -> Great Thunderbolt
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Bind 6 random cards for 5 turns, Deal 250% damage
 
 #10: ESBranchHP(28:18) -> ESBranchHP

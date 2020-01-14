@@ -37,7 +37,7 @@ end_turn
 
 #10: ESRecoverEnemy86(86:11744) -> Power of Amadam
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #11: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 15, target rnd 15

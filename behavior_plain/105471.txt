@@ -26,7 +26,7 @@ Branch on hp > 51, target rnd 8
 #7: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:14113) -> 伝家の宝刀――復活!!
-	Enemy recover 5% hp
+	Enemy recover 5% HP
 	[1] ESAttackUPRemainingEnemies(17:14114) -> 相当怒ってるぜ俺の右腕はよォ
 	Increase damage to 150% for the next 1 turn
 
@@ -40,7 +40,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #10: ESOrbChangeAttack(48:14117) -> うらあああああ
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Light, Deal 95% damage
+Change a random attribute to Light orbs, Deal 95% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -72,7 +72,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #19: ESOrbChangeAttack(48:14134) -> ウダウダ言ってんじゃねェよォ！
 Condition: 34% chance (ai:0 rnd:34)
-Change Random to Light, Deal 95% damage
+Change a random attribute to Light orbs, Deal 95% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

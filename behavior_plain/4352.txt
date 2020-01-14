@@ -46,7 +46,7 @@ Branch on hp < 75, target rnd 14
 #11: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESOrbChangeAttack(48:9656) -> Sacred Flame Jet
-	Change Random to Jammer, Deal 35% damage
+	Change a random attribute to Jammer orbs, Deal 35% damage
 	[1] ESAttackMultihit(15:9658) -> Rigid Flametail Attack
 	Deal 60% damage (3 hits, 20% each)
 
@@ -87,7 +87,7 @@ flag SET 0b111
 	[0] ESBoardChangeAttackBits(85:9665) -> Purgatory Flames of Damnation
 	Change all orbs to Fire and Jammer, Deal 100% damage
 	[1] ESCloud(104:9666) -> Heat Haze
-	Row of cloud appear for 3 turns at 1st column
+	A row of clouds appears for 3 turns at 3rd row, 1st column
 	[2] ESAbsorbCombo(67:9667) -> Flame Dance Incarnation
 	Absorb damage when combos <= 7 for 99 turns
 

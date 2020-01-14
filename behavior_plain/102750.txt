@@ -24,7 +24,7 @@ flag SET 0b1
 end_turn
 
 #6: ESGravity(50:4106) -> Glorious Postlude
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Player -500% HP
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
@@ -43,7 +43,7 @@ flag SET 0b11
 
 #11: SkillSet:
 	[0] ESOrbChangeAttack(48:4094) -> Last Movement - Flash
-	Change Random to Light, Deal 300% damage
+	Change a random attribute to Light orbs, Deal 300% damage
 	[1] ESDamageShield(74:4095) -> The show is over...
 	Reduce damage from all sources by 50% for 3 turns
 
@@ -75,13 +75,13 @@ Change all orbs to Fire, Wood, Light, and Jammer, Deal 150% damage
 flag UNSET 0b1000
 
 #21: ESOrbChangeAttack(48:4102) -> Sunlight Gift
-Change Jammer to Heal, Deal 300% damage
+Change all Jammer orbs to Heal orbs, Deal 300% damage
 
 #22: ESOrbChangeAttack(48:4103) -> Sunlight Glow
-Change Wood to Fire, Deal 200% damage
+Change all Wood orbs to Fire orbs, Deal 200% damage
 
 #23: ESOrbChangeAttack(48:4104) -> Sunlight Tears
-Change Fire to Water, Deal 200% damage
+Change all Fire orbs to Water orbs, Deal 200% damage
 
 #24: ESOrbLock(94:4105) -> Sunlight Flash
 Lock all Light orbs, Deal 200% damage

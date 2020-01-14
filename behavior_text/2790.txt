@@ -14,7 +14,7 @@ level: 1
 level: 4
  type: PREEMPT
  | (3983:83) Our name is Orphan. + By our hand, the world shall know redemption.
- | Voids status ailments for 999 turns + Player recover 100% hp
+ | Voids status ailments for 999 turns + Player recover 100% HP
  group:
  | group:
    | group:
@@ -40,7 +40,7 @@ level: 4
    | group:
    | condition: turn 6 while HP > 39
      | (3942:64) Chains of Torment
-     | Change Random 5 to Poison, Deal 20% damage
+     | Change 5 random orbs to Poison orbs, Deal 20% damage
    | group:
    | condition: turn 7 while HP > 39
      | (3941:15) Black Ruin
@@ -48,7 +48,7 @@ level: 4
    | group:
    | condition: turn 8 while HP > 39
      | (3943:86) Vile Exploitation
-     | Enemy recover 10% hp, Deal 130% damage
+     | Enemy recover 10% HP, Deal 130% damage
    | group:
    | condition: turn 9 while HP > 39
      | (3947:83) Merciless Judgment + Opposite Extremes
@@ -56,7 +56,7 @@ level: 4
    | group:
      | condition: 65% chance
      | (3948:86) Vile Exploitation
-     | Enemy recover 10% hp, Deal 200% damage
+     | Enemy recover 10% HP, Deal 200% damage
      | condition: 20% chance
      | (3949:17) Dies Irae
      | Increase damage to 200% for the next 999 turns, Deal 260% damage

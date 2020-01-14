@@ -25,7 +25,7 @@ flag SET 0b1
 end_turn
 
 #6: ESSkyfall(68:6984) -> Curse Invasion
-Condition: When < 5% hp (ai:100 rnd:0)
+Condition: When < 5% HP (ai:100 rnd:0)
 Mortal Poison skyfall +25% for 1 turn, Deal 2400% damage
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
@@ -80,11 +80,11 @@ Movetime -3s for 1 turn, Deal 300% damage
 
 #19: ESDebuffMovetime(39:6978) -> Time Mixup
 Condition: 6% chance (ai:0 rnd:6)
-Movetime 50% for 1 turn, Deal 300% damage
+Movetime +50% for 1 turn, Deal 300% damage
 
 #20: ESDebuffMovetime(39:6979) -> Time Mixup
 Condition: 6% chance (ai:0 rnd:6)
-Movetime 150% for 1 turn, Deal 300% damage
+Movetime +150% for 1 turn, Deal 300% damage
 
 #21: ESAttackMultihit(15:6980) -> Wonder Bolt
 Condition: 30% chance (ai:0 rnd:30)

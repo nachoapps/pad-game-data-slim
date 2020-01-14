@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 30% chance
    | (15486:48) 黒の炎
-   | Change Fire to Jammer, Deal 150% damage
+   | Change all Fire orbs to Jammer orbs, Deal 150% damage
    | (15482:15) レーヴァテイン
    | Deal 105% damage (3 hits, 35% each)
  | group:

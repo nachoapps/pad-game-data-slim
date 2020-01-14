@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: ESOrbChangeAttack(48:740) -> I'll Stomp You Under My Heel!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 150% damage
+Change a random attribute to Heal orbs, Deal 150% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -58,11 +58,11 @@ end_turn
 
 #18: ESOrbChangeAttack(48:740) -> I'll Stomp You Under My Heel!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Heal, Deal 150% damage
+Change a random attribute to Heal orbs, Deal 150% damage
 
 #19: ESPoisonChangeSingle(56:741) -> Honey Poison
 Condition: 50% chance (ai:50 rnd:0)
-Change Heal to Poison
+Change all Heal orbs to Poison orbs
 
 #20: ESOrbChangeAttack(48:738) -> Blue Slash
-Change Random to Water, Deal 100% damage
+Change a random attribute to Water orbs, Deal 100% damage

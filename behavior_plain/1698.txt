@@ -11,8 +11,8 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESBindAttribute(2:1630) -> Chlorokinesis
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Water cards for 3 turns
 
 #4: ESPoisonChangeRandomAttack(64:1631) -> Poison Kiss
-Change Random 7 to Poison, Deal 100% damage
+Change 7 random orbs to Poison orbs, Deal 100% damage

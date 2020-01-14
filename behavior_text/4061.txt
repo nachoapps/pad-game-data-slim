@@ -26,7 +26,7 @@ level: 4
      | (8857:79) Shadow Punch
      | Change the 3rd row to Dark orbs, Deal 140% damage
      | (8858:108) Killing Knuckles
-     | Change Heal to Poison, Deal 100% damage
+     | Change all Heal orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:

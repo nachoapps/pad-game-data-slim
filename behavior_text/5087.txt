@@ -33,7 +33,7 @@ level: 1
    | condition: execute repeatedly, turn 1-9 of 10
      | condition: 25% chance
      | (12557:83) Sonic Break + Sonic Break
-     | Change Random to Wood + Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs + Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (12546:83) Bullet Revolver + Sonic Boom
      | Deal 105% damage (3 hits, 35% each) + Change the 3rd row to Wood orbs, Deal 105% damage (3 hits, 35% each)
@@ -57,7 +57,7 @@ level: 1
    | condition: turns 2-10 while HP > 15
      | condition: 25% chance
      | (12557:83) Sonic Break + Sonic Break
-     | Change Random to Wood + Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs + Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (12546:83) Bullet Revolver + Sonic Boom
      | Deal 105% damage (3 hits, 35% each) + Change the 3rd row to Wood orbs, Deal 105% damage (3 hits, 35% each)
@@ -74,7 +74,7 @@ level: 1
    | group:
      | condition: 25% chance
      | (12557:83) Sonic Break + Sonic Break
-     | Change Random to Wood + Change Random to Wood, Deal 100% damage
+     | Change a random attribute to Wood orbs + Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (12546:83) Bullet Revolver + Sonic Boom
      | Deal 105% damage (3 hits, 35% each) + Change the 3rd row to Wood orbs, Deal 105% damage (3 hits, 35% each)

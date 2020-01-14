@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (10326:104) Sparce Clouds
- | 2x2 cloud appear for 3 turns at random location
+ | A 2×2 square of clouds appears for 3 turns at a random location
  group:
  | group:
    | condition: 33% chance
@@ -17,7 +17,7 @@ level: 4
    | Spawn 3 random Water orbs, Deal 105% damage
    | condition: 33% chance
    | (10328:108) Aqua Breath
-   | Change Dark to Water, Deal 100% damage
+   | Change all Dark orbs to Water orbs, Deal 100% damage
    | condition: 34% chance
    | (10329:15) Aqua Rush
    | Deal 120% damage (3 hits, 40% each)
@@ -26,7 +26,7 @@ level: 4
    | group:
    | condition: turn 1
      | (10332:83) Defense Instinct + Mass Clouds
-     | Reduce damage from all sources by 50% for 3 turns + 3x3 cloud appear for 1 turn at random location
+     | Reduce damage from all sources by 50% for 3 turns + A 3×3 square of clouds appears for 1 turn at a random location
    | group:
      | (10333:15) Twin Feathers
      | Deal 160% damage (2 hits, 80% each)

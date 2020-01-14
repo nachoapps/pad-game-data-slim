@@ -12,16 +12,16 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Poison skyfall +10% for 3 turns
 
 #3: ESSpinnersRandom(109:15446) -> 地獄の沼
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Random 2 orbs change every 1.5s for 3 turns
 
 #4: ESDebuffMovetime(39:15447) -> 屍の人形
-Condition: 30% chance when < 50% hp (ai:30 rnd:0)
+Condition: 30% chance when < 50% HP (ai:30 rnd:0)
 Movetime -3s for 1 turn, Deal 125% damage
 
 #5: ESPoisonChangeRandomAttack(64:15445) -> ポイズンテイル
 Condition: 30% chance (ai:30 rnd:0)
-Change Random 4 to Poison, Deal 120% damage
+Change 4 random orbs to Poison orbs, Deal 120% damage
 
 #6: ESAttackMultihit(15:15444) -> 削命
 Deal 100% damage (5 hits, 20% each)

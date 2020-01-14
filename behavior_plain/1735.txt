@@ -41,7 +41,7 @@ Branch on flag & 4, target rnd 14
 flag SET 0b111
 
 #12: ESOrbChangeAttack(48:3052) -> Supersonic Cloud
-Change Light to Poison, Deal 10% damage
+Change all Light orbs to Poison orbs, Deal 10% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

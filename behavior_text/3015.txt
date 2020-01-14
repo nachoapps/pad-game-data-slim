@@ -27,9 +27,9 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (4936:48) Death Claw
-     | Change Random to Poison, Deal 110% damage
+     | Change a random attribute to Poison orbs, Deal 110% damage
      | (4937:48) Crushing Claw
-     | Change Random to Jammer, Deal 110% damage
+     | Change a random attribute to Jammer orbs, Deal 110% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
@@ -74,9 +74,9 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (4936:48) Death Claw
-     | Change Random to Poison, Deal 110% damage
+     | Change a random attribute to Poison orbs, Deal 110% damage
      | (4937:48) Crushing Claw
-     | Change Random to Jammer, Deal 110% damage
+     | Change a random attribute to Jammer orbs, Deal 110% damage
  | group:
  | condition: hp <= 29
    | group:

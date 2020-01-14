@@ -19,7 +19,7 @@ level: 4
    | (4722:68) Celebration Water
    | Water skyfall +15% for 3 turns
    | (4723:48) Dolphin Surprise
-   | Change Random to Water, Deal 100% damage
+   | Change a random attribute to Water orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (4720:67) Pledge your love!!

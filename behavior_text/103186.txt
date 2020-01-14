@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: turn 1
    | (12950:83) Syncronised Battle + Sword's Back Strike
-   | Movetime 25% for 2 turns + Fix orb movement starting point to random position on the board, Deal 100% damage
+   | Movetime +25% for 2 turns + Fix orb movement starting point to random position on the board, Deal 100% damage
  | group:
  | condition: turn 2
    | (12953:83) Imminent Battle + Surprise Attack

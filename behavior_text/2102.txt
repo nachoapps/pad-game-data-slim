@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (4466:83) Hell Howl + Earth Circle's Construction
- | Change Random 2 to Jammer + Void damage >= 1000000 for 5 turns
+ | Change 2 random orbs to Jammer orbs + Void damage >= 1000000 for 5 turns
  group:
  | group:
    | group:
@@ -20,7 +20,7 @@ level: 1
      | Increase damage to 300% for the next attack
    | group:
      | (4471:83) Death Smash + Death Bite
-     | Change Random to Jammer + Change Random 3 to Poison, Deal 75% damage
+     | Change a random attribute to Jammer orbs + Change 3 random orbs to Poison orbs, Deal 75% damage
  | group:
  | condition: turn 2 while HP > 19, hp <= 49
    | (4472:94) Fire Full Smash

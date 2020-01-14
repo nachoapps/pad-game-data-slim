@@ -13,8 +13,8 @@ level: 1
  | Blind all orbs on the board, Deal 75% damage
  | condition: 20% chance
  | (1835:64) Hell Poison Breath
- | Change Random 9 to Poison, Deal 100% damage
+ | Change 9 random orbs to Poison orbs, Deal 100% damage
  type: UNKNOWN_USE
  | condition: 20% chance
  | (1786:48) Invisible Glimpse
- | Change Heal to Jammer, Deal 25% damage
+ | Change all Heal orbs to Jammer orbs, Deal 25% damage

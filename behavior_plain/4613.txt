@@ -63,7 +63,7 @@ Increase damage to 400% for the next 1 turn
 
 #19: SkillSet:
 	[0] ESRecoverEnemy86(86:10286) -> Corrupt
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESAttackSinglehit(82:10287) -> 通常攻撃
 	Deal 100% damage
 

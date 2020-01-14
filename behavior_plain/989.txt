@@ -30,13 +30,13 @@ Deal 150% damage
 Branch on hp > 50, target rnd 11
 
 #9: ESOrbChangeAttack(48:762) -> Moonlight
-Change Random to Light, Deal 100% damage
+Change a random attribute to Light orbs, Deal 100% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #11: ESOrbChangeAttack(48:763) -> Shadowed Moon
-Change Random to Dark, Deal 100% damage
+Change a random attribute to Dark orbs, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -25,4 +25,4 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (4401:64) APTX4869
-   | Change Random 5 to Poison, Deal 10% damage
+   | Change 5 random orbs to Poison orbs, Deal 10% damage

@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 25% chance
      | (10363:48) Wind Pillar
-     | Change Random to Wood, Deal 110% damage
+     | Change a random attribute to Wood orbs, Deal 110% damage
      | condition: 25% chance
      | (10364:77) Double Vertical Slash
      | Change the 1st and 6th columns to Wood and Light orbs, Deal 105% damage
@@ -44,7 +44,7 @@ level: 4
  | condition: execute repeatedly, turn 1-2 of 3
    | condition: 25% chance
    | (10363:48) Wind Pillar
-   | Change Random to Wood, Deal 110% damage
+   | Change a random attribute to Wood orbs, Deal 110% damage
    | condition: 25% chance
    | (10364:77) Double Vertical Slash
    | Change the 1st and 6th columns to Wood and Light orbs, Deal 105% damage

@@ -36,7 +36,7 @@ Branch on hp < 50, target rnd 12
 
 #10: SkillSet:
 	[0] ESRecoverEnemy86(86:4803) -> Flame Eating Net
-	Enemy recover 10% hp
+	Enemy recover 10% HP
 	[1] ESGravity(50:4804) -> Scold
 	Player -99% HP
 

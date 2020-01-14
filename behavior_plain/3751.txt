@@ -19,7 +19,7 @@ flag SET 0b1
 	[1] ESAbsorbCombo(67:13465) -> King's Test
 	Absorb damage when combos <= 6 for 1 turn
 	[2] ESDebuffMovetime(39:13466) -> King's Edict
-	Movetime 25% for 1 turn
+	Movetime +25% for 1 turn
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -50,7 +50,7 @@ Branch on hp < 50, target rnd 19
 
 #14: ESOrbChangeAttackBits(108:13472) -> Trash Shift
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Change Jammer to Wood, Deal 150% damage
+Change all Jammer orbs to Wood orbs, Deal 150% damage
 
 #15: ESRowSpawnMulti(79:13473) -> Adamant Judgment
 Condition: 33% chance (ai:0 rnd:33)

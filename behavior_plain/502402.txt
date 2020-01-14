@@ -21,12 +21,12 @@ Branch on counter >= 1, target rnd 10
 counter + 1
 
 #5: ESBindAwoken(88:15506) -> わらわの恨みで朽ちるがいい
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind awoken skills for 2 turns
 
 #6: ESOrbChangeAttack(48:15507) -> イートハートストライク
-Condition: When < 10% hp (ai:100 rnd:0)
-Change Heal to Dark, Deal 300% damage
+Condition: When < 10% HP (ai:100 rnd:0)
+Change all Heal orbs to Dark orbs, Deal 300% damage
 
 #7: ESOrbLock(94:15505) -> デッドジャッジメント
 Condition: 30% chance (ai:30 rnd:0)

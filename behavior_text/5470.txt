@@ -20,7 +20,7 @@ level: 1
    | Deal 100% damage
    | condition: 34% chance
    | (14110:48) ウダウダやってるヒマはねェぞ！
-   | Change Random to Dark, Deal 95% damage
+   | Change a random attribute to Dark orbs, Deal 95% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (14107:67) まだまだこれからだぜ

@@ -15,11 +15,11 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (1263:12) Arcane Spell
-     | Change Fire to Jammer
+     | Change all Fire orbs to Jammer orbs
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (1264:64) Judgement of the Dead
-     | Change Random 6 to Poison, Deal 50% damage
+     | Change 6 random orbs to Poison orbs, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (1265:63) Playing with Time & Space
@@ -31,4 +31,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (1261:52) Ceremony of Rebirth
- | Enemy ally recover 50% hp
+ | Enemy ally recover 50% HP

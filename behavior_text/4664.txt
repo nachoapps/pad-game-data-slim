@@ -33,7 +33,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 4
      | (10623:86) Swelling Energy
-     | Enemy recover 50% hp
+     | Enemy recover 50% HP
    | group:
    | condition: execute repeatedly, turn 2 of 4
      | (10621:83) Cute is an insult...for Byakko... + ...

@@ -26,7 +26,7 @@ Branch on flag & 2, target rnd 9
 flag SET 0b11
 
 #8: ESOrbChangeAttack(48:3589) -> Ignis Saw
-Change Random to Fire, Deal 150% damage
+Change a random attribute to Fire orbs, Deal 150% damage
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 12

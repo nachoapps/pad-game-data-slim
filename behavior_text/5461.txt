@@ -20,7 +20,7 @@ level: 1
    | Deal 100% damage
    | condition: 34% chance
    | (14094:48) いいかげんにしろォォ!!
-   | Change Random to Water, Deal 95% damage
+   | Change a random attribute to Water orbs, Deal 95% damage
  | group:
  | condition: always turn 1, hp <= 50
    | (14091:110) 同じお宝求めて勝負だァ!!

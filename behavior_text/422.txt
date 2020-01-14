@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (641:55) Dance of Healing
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
  | condition: when hp is full
@@ -26,4 +26,4 @@ level: 1
      | (644:15) Favorite Japanese Umbrella
      | Deal 200% damage (2 hits, 100% each)
      | (645:48) Autumn Leave Dance
-     | Change Random to Wood, Deal 175% damage
+     | Change a random attribute to Wood orbs, Deal 175% damage

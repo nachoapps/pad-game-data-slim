@@ -70,7 +70,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (4504:83) Overcoming Will + Big Jump
-     | Enemy recover 19% hp + Reduce damage from all sources by 75% for 1 turn
+     | Enemy recover 19% HP + Reduce damage from all sources by 75% for 1 turn
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4505:83) Shining Claw + Shine Flare Ring

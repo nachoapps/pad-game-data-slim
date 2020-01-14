@@ -27,7 +27,7 @@ end_turn
 
 #8: ESOrbChangeAttack(48:3380) -> Evil Eye Trick
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 100% damage
+Change a random attribute to Jammer orbs, Deal 100% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

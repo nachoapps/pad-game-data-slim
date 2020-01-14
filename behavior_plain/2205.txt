@@ -35,7 +35,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 999 turns
 
 #10: ESOrbChangeAttack(48:3024) -> Rose Flare
-Change Jammer to Fire, Deal 70% damage
+Change all Jammer orbs to Fire orbs, Deal 70% damage
 
 #11: ESRandomSpawn(92:3025) -> Snake Bite
 Condition: 60% chance (ai:60 rnd:0)
@@ -51,15 +51,15 @@ Branch on flag & 4, target rnd 16
 flag SET 0b111
 
 #15: ESBindRandom(1:3027) -> Black Magic Charge
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Bind 1 random card for 1 turn
 
 #16: ESAttackMultihit(15:3029) -> Violet Flame
-Condition: When < 45% hp (ai:100 rnd:0)
+Condition: When < 45% HP (ai:100 rnd:0)
 Deal 160% damage (2 hits, 80% each)
 
 #17: ESRandomSpawn(92:3028) -> Violet Flaaa!
-Condition: When < 50% hp (ai:100 rnd:0)
+Condition: When < 50% HP (ai:100 rnd:0)
 Spawn 11 random Jammer orbs
 
 #18: ESBranchFlag(43:10) -> ESBranchFlag

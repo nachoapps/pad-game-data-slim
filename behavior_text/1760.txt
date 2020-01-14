@@ -24,7 +24,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 6
      | (1835:64) Hell Poison Breath
-     | Change Random 9 to Poison, Deal 100% damage
+     | Change 9 random orbs to Poison orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 6
      | (1836:66) Draco Summon-Star Dragon Emperor
@@ -48,4 +48,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (1831:7) Dragon Dew
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP

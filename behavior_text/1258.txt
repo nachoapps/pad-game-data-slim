@@ -15,7 +15,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1546:48) Super Devil Hook
-     | Change Random to Jammer, Deal 80% damage
+     | Change a random attribute to Jammer orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1548:15) Ho! Ho! Ho!!

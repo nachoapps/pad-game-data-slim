@@ -27,7 +27,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 49
    | (2250:83) Brood, are you ok? + Dragon Howling
-   | Enemy recover 40% hp + Increase damage to 200% for the next 999 turns
+   | Enemy recover 40% HP + Increase damage to 200% for the next 999 turns
  | group:
  | condition: hp <= 29
    | (2253:79) Dance of the Dragon War Princess

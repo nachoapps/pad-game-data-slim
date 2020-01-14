@@ -24,7 +24,7 @@ end_turn
 Branch on player_cards HAS [368, 369, 652, 1344], target rnd 14
 
 #7: ESAttackMultihit(15:3335) -> Last Flame
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 280% damage (4 hits, 70% each)
 
 #8: ESBranchHP(28:18) -> ESBranchHP
@@ -39,7 +39,7 @@ Change all orbs to Fire, Deal 150% damage
 
 #11: ESOrbChangeAttack(48:3333) -> Black Flame
 Condition: 50% chance (ai:50 rnd:0)
-Change Fire to Jammer, Deal 120% damage
+Change all Fire orbs to Jammer orbs, Deal 120% damage
 
 #12: ESRandomSpawn(92:3332) -> Laevateinn
 Spawn 6 random Fire orbs, Deal 130% damage

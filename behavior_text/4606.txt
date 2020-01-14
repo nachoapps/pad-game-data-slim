@@ -49,6 +49,6 @@ level: 4
    | Spawn 5 random Fire orbs, Deal 145% damage
  | group:
    | (10279:48) Wildfire
-   | Change Fire to Jammer, Deal 300% damage
+   | Change all Fire orbs to Jammer orbs, Deal 300% damage
    | (10276:92) Cinder Stench
    | Spawn 5 random Fire orbs, Deal 145% damage

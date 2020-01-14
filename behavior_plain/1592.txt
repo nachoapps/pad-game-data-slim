@@ -45,14 +45,14 @@ Branch on hp < 50, target rnd 19
 
 #14: ESOrbChangeAttack(48:1557) -> High Jump
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 20% damage
+Change a random attribute to Jammer orbs, Deal 20% damage
 
 #15: ESOrbChangeAttack(48:1560) -> Meteor Strike
-Condition: When < 30% hp (ai:100 rnd:0)
-Change Jammer to Water, Deal 200% damage
+Condition: When < 30% HP (ai:100 rnd:0)
+Change all Jammer orbs to Water orbs, Deal 200% damage
 
 #16: ESOrbChangeAttack(48:1558) -> Locust Press
-Change Jammer to Water, Deal 125% damage
+Change all Jammer orbs to Water orbs, Deal 125% damage
 
 #17: ESAttackMultihit(15:1561) -> Jumping Breath
 Deal 80% damage (4 hits, 20% each)

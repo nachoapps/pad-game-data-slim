@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (5353:55) Heilung Licht
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | group:

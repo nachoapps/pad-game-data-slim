@@ -33,7 +33,7 @@ level: 1
    | Seal the 5th row for 1 turn, Deal 110% damage
    | condition: 34% chance
    | (13043:105) Frenzied Wyrm's Breath
-   | Rcv 50% for 1 turn, Deal 95% damage
+   | RCV +50% for 1 turn, Deal 95% damage
  | group:
  | condition: execute repeatedly, turn 5-6 of 6
    | condition: 33% chance

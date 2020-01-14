@@ -14,7 +14,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (6259:104) Mochi Steam
-   | 1x1 cloud appear for 2 turns at random location
+   | A 1×1 square of clouds appears for 2 turns at a random location
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (6258:15) Mochi Pound

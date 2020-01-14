@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | (1383:48) Acid Breath
-   | Change Random to Jammer, Deal 100% damage
+   | Change a random attribute to Jammer orbs, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -22,4 +22,4 @@ level: 1
      | Bind Dragon cards for 3 turns
    | group:
      | (1385:64) Hell Poison Breath
-     | Change Random 3 to Poison, Deal 100% damage
+     | Change 3 random orbs to Poison orbs, Deal 100% damage

@@ -14,7 +14,7 @@ level: 3
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100
    | (1689:48) Blaze Horn
-   | Change Random to Fire, Deal 85% damage
+   | Change a random attribute to Fire orbs, Deal 85% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -23,7 +23,7 @@ level: 3
      | (1690:15) Gigantic Claw
      | Deal 150% damage (2 hits, 75% each)
      | (1689:48) Blaze Horn
-     | Change Random to Fire, Deal 85% damage
+     | Change a random attribute to Fire orbs, Deal 85% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance

@@ -74,7 +74,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (4554:83) Overcoming Will + Raising Flap
-     | Enemy recover 50% hp + Increase damage to 200% for the next 1 turn
+     | Enemy recover 50% HP + Increase damage to 200% for the next 1 turn
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4558:83) Storm Raid + Storm Lightning

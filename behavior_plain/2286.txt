@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESRecoverPlayer(55:3152) -> I haven't seen you in a while
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESGravity(50:3153) -> I'll step on you again
 	Player -80% HP
 
@@ -44,11 +44,11 @@ Branch on player_cards HAS [978], target rnd 25
 Branch on hp < 30, target rnd 28
 
 #13: ESBindTarget(54:3164) -> Mid-Summer Embrace
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind player leader for 3 turns
 
 #14: ESRandomSpawn(92:3163) -> Summer Poison
-Condition: 30% chance when < 70% hp (ai:30 rnd:0)
+Condition: 30% chance when < 70% HP (ai:30 rnd:0)
 Spawn 4 random Poison orbs, Deal 80% damage
 
 #15: ESAttackMultihit(15:3165) -> My eyes are up here!
@@ -97,9 +97,9 @@ Branch on flag & 32, target rnd 31
 flag SET 0b111111
 
 #30: ESInactivity66(66:3166) -> Summer Princess's Command
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Do nothing
 
 #31: ESAttackMultihit(15:3167) -> Sea Dragon Summer Offensive
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)

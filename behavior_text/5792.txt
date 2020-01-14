@@ -23,7 +23,7 @@ level: 4
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (15751:86) オレは諦めねぇ！最後の最後まで！
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP
  | group:
  | condition: hp <= 14
    | group:

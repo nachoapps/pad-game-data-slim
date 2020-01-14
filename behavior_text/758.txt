@@ -16,7 +16,7 @@ level: 1
    | condition: turn 1 while HP > 59
      | condition: 70% chance
      | (3098:48) Aqua Jet
-     | Change Random to Water, Deal 120% damage
+     | Change a random attribute to Water orbs, Deal 120% damage
      | condition: 70% chance
      | (3100:15) Crunch Fang
      | Deal 140% damage (2 hits, 70% each)
@@ -24,7 +24,7 @@ level: 1
    | condition: execute repeatedly, turn 1-3 of 4
      | condition: 70% chance
      | (3098:48) Aqua Jet
-     | Change Random to Water, Deal 120% damage
+     | Change a random attribute to Water orbs, Deal 120% damage
      | condition: 70% chance
      | (3100:15) Crunch Fang
      | Deal 140% damage (2 hits, 70% each)

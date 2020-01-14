@@ -49,7 +49,7 @@ Deal 180% damage (3 hits, 60% each)
 
 #15: ESOrbChangeAttack(48:1010) -> Petal Storm
 Condition: 40% chance (ai:40 rnd:0)
-Change Random to Light, Deal 75% damage
+Change a random attribute to Light orbs, Deal 75% damage
 
 #16: ESOrbChangeAttack(48:1013) -> Flower Tail
-Change Random to Heal, Deal 100% damage
+Change a random attribute to Heal orbs, Deal 100% damage

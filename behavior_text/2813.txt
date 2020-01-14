@@ -9,13 +9,13 @@ approved: False
 level: 1
  type: PREEMPT
  | (9556:83) Is everyone ready? + Brace yourself! + Here I come! + Let's get excited ♪
- | Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb damage when combos <= 6 for 1 turn + Movetime 200% for 5 turns
+ | Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb damage when combos <= 6 for 1 turn + Movetime +200% for 5 turns
  group:
  | group:
  | condition: turn 1
    | condition: when 18 combos last turn
    | (9570:83) Good Soprano + Everyone's enthusiasm is great! + I'm not done yet! + I wonder if you can make it to the end!
-   | Do nothing + 3x2 cloud appear for 1 turn at 3rd row, 3rd column + Spawn 10 random Fire, Water, Wood, or Light orbs + Absorb damage when combos <= 8 for 1 turn
+   | Do nothing + A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column + Spawn 10 random Fire, Water, Wood, or Light orbs + Absorb damage when combos <= 8 for 1 turn
    | condition: when 7 combos last turn
    | (9560:83) You're excited, aren't you? + More, mooore! + Let's go in high spirits♪
    | Change the 1st and 6th columns to Light orbs and the 2nd and 5th columns to Dark orbs + Spawn Bomb orbs in the specified positions + Absorb damage when combos <= 7 for 1 turn
@@ -28,7 +28,7 @@ level: 1
    | Do nothing + Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs + Absorb damage when combos <= 9 for 1 turn
    | condition: when 8 combos last turn
    | (9564:83) Everyone's enthusiasm is great! + I'm not done yet! + I wonder if you can make it to the end!
-   | 3x2 cloud appear for 1 turn at 3rd row, 3rd column + Spawn 10 random Fire, Water, Wood, or Light orbs + Absorb damage when combos <= 8 for 1 turn
+   | A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column + Spawn 10 random Fire, Water, Wood, or Light orbs + Absorb damage when combos <= 8 for 1 turn
    | (9572:15) Too bad, but come again
    | Deal 20000% damage (2 hits, 10000% each)
  | group:

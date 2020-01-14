@@ -23,7 +23,7 @@ flag SET 0b1
 Do nothing
 
 #7: ESAttackMultihit(15:549) -> Northern Seven-Star Formation
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 210% damage (7 hits, 30% each)
 
 #8: ESBindTarget(54:547) -> Snake Seal
@@ -32,4 +32,4 @@ Bind both leaders for 3~4 turns
 
 #9: ESOrbChangeAttack(48:548) -> Special Sake - Ryuugoroshi
 Condition: 70% chance (ai:70 rnd:0)
-Change Random to Jammer, Deal 90% damage
+Change a random attribute to Jammer orbs, Deal 90% damage

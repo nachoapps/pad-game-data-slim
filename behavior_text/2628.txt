@@ -10,7 +10,7 @@ level: 1
  type: DEATH
  condition: when defeated
  | (2652:95) ぐあっ
- | Change Heal to Dark
+ | Change all Heal orbs to Dark orbs
 
 level: 4
  type: PREEMPT
@@ -19,7 +19,7 @@ level: 4
  type: DEATH
  condition: when defeated
  | (2652:95) ぐあっ
- | Change Heal to Dark
+ | Change all Heal orbs to Dark orbs
  group:
  | group:
    | group:

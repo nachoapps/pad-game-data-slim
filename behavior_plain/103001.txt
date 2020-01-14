@@ -23,13 +23,13 @@ flag SET 0b1
 	[0] ESSkillDelay(89:4904) -> Which one of you will be my opponent?
 	Delay active skills by 2 turns
 	[1] ESJammerChangeRandom(13:4905) -> Dimension-Curse of the Sea God
-	Change Random 3 to Jammer
+	Change 3 random orbs to Jammer orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #8: ESOrbChangeAttack(48:4907) -> Sea Punishment
-Change Jammer to Poison, Deal 140% damage
+Change all Jammer orbs to Poison orbs, Deal 140% damage
 
 #9: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 19
@@ -47,13 +47,13 @@ Branch on player_cards HAS [2143, 2144, 2971], target rnd 14
 	[0] ESStatusShield(20:4912) -> Sea Dragon God's Protection
 	Voids status ailments for 999 turns
 	[1] ESOrbChangeAttack(48:4914) -> Dimension-Curse of the Sacred Waters
-	Change Random to Heal, Deal 140% damage
+	Change a random attribute to Heal orbs, Deal 140% damage
 
 #14: SkillSet:
 	[0] ESStatusShield(20:4913) -> It's time you stop acting so crazy!
 	Voids status ailments for 999 turns
 	[1] ESOrbChangeAttack(48:4914) -> Dimension-Curse of the Sacred Waters
-	Change Random to Heal, Deal 140% damage
+	Change a random attribute to Heal orbs, Deal 140% damage
 
 #15: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
@@ -66,7 +66,7 @@ Branch on player_cards HAS [2143, 2144, 2971], target rnd 18
 	[0] ESStatusShield(20:4912) -> Sea Dragon God's Protection
 	Voids status ailments for 999 turns
 	[1] ESOrbChangeAttack(48:4914) -> Dimension-Curse of the Sacred Waters
-	Change Random to Heal, Deal 140% damage
+	Change a random attribute to Heal orbs, Deal 140% damage
 	[2] ESBoardChangeAttackBits(85:4915) -> Indigo Ocean Whirlpool
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer, Deal 50% damage
 
@@ -75,16 +75,16 @@ Branch on player_cards HAS [2143, 2144, 2971], target rnd 18
 	[0] ESStatusShield(20:4913) -> It's time you stop acting so crazy!
 	Voids status ailments for 999 turns
 	[1] ESOrbChangeAttack(48:4914) -> Dimension-Curse of the Sacred Waters
-	Change Random to Heal, Deal 140% damage
+	Change a random attribute to Heal orbs, Deal 140% damage
 	[2] ESBoardChangeAttackBits(85:4915) -> Indigo Ocean Whirlpool
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer, Deal 50% damage
 
 #19: ESBoardChangeAttackBits(85:4915) -> Indigo Ocean Whirlpool
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer, Deal 50% damage
 
 #20: ESAttackMultihit(15:4918) -> Sea Dragon God's Strike
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 400% damage
 
 #21: ESBranchFlag(43:10) -> ESBranchFlag

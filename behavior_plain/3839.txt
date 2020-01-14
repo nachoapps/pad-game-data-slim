@@ -62,7 +62,7 @@ end_turn
 counter = 0
 
 #18: ESOrbChangeAttackBits(108:8155) -> Great Demon Serpent of the Dusk
-Change Poison and Mortal Poison to Dark, Deal 6000% damage
+Change all Poison and Mortal Poison orbs to Dark orbs, Deal 6000% damage
 
 #19: SkillSet:
 	[0] ESAbsorbAttribute(53:8147) -> Dark Miasma

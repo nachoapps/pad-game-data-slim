@@ -69,7 +69,7 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #21: ESRecoverEnemy86(86:15751) -> オレは諦めねぇ！最後の最後まで！
-Enemy recover 50% hp
+Enemy recover 50% HP
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

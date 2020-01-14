@@ -10,7 +10,7 @@ level: 5
  group:
  | group:
    | (2050:48) Pounce Stance - Fire
-   | Change Heal to Fire, Deal 100% damage
+   | Change all Heal orbs to Fire orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (2051:14) Menace

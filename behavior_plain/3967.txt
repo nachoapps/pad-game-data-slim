@@ -23,7 +23,7 @@ flag SET 0b1
 end_turn
 
 #6: SkillSet:
-	Condition: When < 10% hp (ai:100 rnd:0)
+	Condition: When < 10% HP (ai:100 rnd:0)
 	[0] ESDispel(6:8171) -> Inactivity of the Five Skhandas
 	Voids player buff effects
 	[1] ESGravity(50:8172) -> Anuttara Samyak Sambodhi
@@ -59,11 +59,11 @@ Absorb damage when combos <= 7 for 1 turn, Deal 150% damage
 
 #15: ESOrbChangeAttackBits(108:8163) -> Eastern Vidyaraja Seal
 Condition: 20% chance (ai:0 rnd:20)
-Change Heal to Light, Deal 160% damage
+Change all Heal orbs to Light orbs, Deal 160% damage
 
 #16: ESRecoverEnemy86(86:8164) -> Southern Vidyaraja Seal
 Condition: One-time use (ai:0 rnd:20) (cost: 2)
-Enemy recover 10% hp
+Enemy recover 10% HP
 
 #17: ESSpinnersFixed(110:8165) -> Western Vidyaraja Seal
 Condition: 20% chance (ai:0 rnd:20)

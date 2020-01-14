@@ -22,7 +22,7 @@ level: 1
  | condition: turn 2
    | condition: when 5 combos last turn
    | (7100:83) Feeling the heat? + Suppose we take things up a notch? + How's this?
-   | Absorb damage when combos <= 5 for 1 turn + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison + Column of cloud appear for 1 turn at 1st row
+   | Absorb damage when combos <= 5 for 1 turn + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison + A column of clouds appears for 1 turn at 1st row, 1st column
    | (7115:50) Is that your best? Then begone!
    | Player -1000% HP
  | group:

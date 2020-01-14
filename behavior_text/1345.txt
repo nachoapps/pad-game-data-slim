@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (3367:55) Golden Apple of Immortality
- | Player recover 100% hp
+ | Player recover 100% HP
  group:
  | group:
    | group:
@@ -40,7 +40,7 @@ level: 1
    | (3374:20) Don't come any closer!
    | Voids status ailments for 999 turns
    | (3369:86) Twinkle Apple
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
  | group:
  | condition: hp <= 19
    | group:

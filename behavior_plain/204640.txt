@@ -51,11 +51,11 @@ Branch on counter >= 3, target rnd 26
 
 #16: ESOrbChangeAttack(48:10339) -> Träne Gerinnsel
 Condition: 33% chance (ai:0 rnd:33)
-Change Random to Water, Deal 105% damage
+Change a random attribute to Water orbs, Deal 105% damage
 
 #17: ESOrbChangeAttackBits(108:10340) -> Veränderung
 Condition: 33% chance (ai:0 rnd:33)
-Change Dark to Water, Deal 110% damage
+Change all Dark orbs to Water orbs, Deal 110% damage
 
 #18: ESAttackMultihit(15:10341) -> Claw Slasher
 Condition: 34% chance (ai:0 rnd:34)
@@ -72,7 +72,7 @@ flag SET 0b111
 
 #22: SkillSet:
 	[0] ESCloud(104:10342) -> Groß Wolke
-	3x3 cloud appear for 1 turn at random location
+	A 3×3 square of clouds appears for 1 turn at a random location
 	[1] ESAttackUPRemainingEnemies(17:10343) -> Calm Fighting Spirit
 	Increase damage to 200% for the next 99 turns
 

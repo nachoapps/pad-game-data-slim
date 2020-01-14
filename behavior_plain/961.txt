@@ -26,13 +26,13 @@ Increase damage to 200% for the next attack
 end_turn
 
 #8: ESBindAttribute(2:734) -> Just Heart
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind Dark cards for 3~5 turns
 
 #9: ESAttackMultihit(15:733) -> Heroic Combo
-Condition: 70% chance when < 40% hp (ai:70 rnd:0)
+Condition: 70% chance when < 40% HP (ai:70 rnd:0)
 Deal 160% damage (4 hits, 40% each)
 
 #10: ESAttackMultihit(15:731) -> Slingshot
-Condition: 50% chance when < 75% hp (ai:50 rnd:0)
+Condition: 50% chance when < 75% HP (ai:50 rnd:0)
 Deal 125% damage

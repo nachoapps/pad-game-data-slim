@@ -16,7 +16,7 @@ level: 1
  | condition: hp <= 74
    | condition: 20% chance
    | (95:12) Dark change to Block
-   | Change Dark to Jammer
+   | Change all Dark orbs to Jammer orbs
    | condition: 10% chance
    | (115:16) Glaring...
    | Do nothing
@@ -24,10 +24,10 @@ level: 1
  | condition: hp <= 19
    | condition: 50% chance, at most 1 times
    | (83:7) Resurrection
-   | Enemy recover 100% hp
+   | Enemy recover 100% HP
    | condition: 20% chance
    | (95:12) Dark change to Block
-   | Change Dark to Jammer
+   | Change all Dark orbs to Jammer orbs
    | condition: 10% chance
    | (115:16) Glaring...
    | Do nothing

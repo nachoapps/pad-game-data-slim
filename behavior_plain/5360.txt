@@ -20,7 +20,7 @@ Bind active skills for 1 turn, Deal 95% damage
 
 #5: ESCloud(104:13457) -> Long Sound Timbre
 Condition: 50% chance (ai:0 rnd:50)
-2x2 cloud appear for 1 turn at random location, Deal 95% damage
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 95% damage
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn

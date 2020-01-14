@@ -9,11 +9,11 @@ approved: False
 level: 5
  type: PREEMPT
  | (1149:13) Jurassic Howling
- | Change Random 2 to Jammer
+ | Change 2 random orbs to Jammer orbs
  group:
  | group:
    | (1150:48) Heat Axe
-   | Change Water to Fire, Deal 90% damage
+   | Change all Water orbs to Fire orbs, Deal 90% damage
  | group:
  | condition: hp <= 49
    | group:

@@ -62,13 +62,13 @@ Branch on level >= 6, target rnd 16
 	[0] ESAbsorbCombo(67:13634) -> Magic of the Silver Shoes
 	Absorb damage when combos <= 6 for 99 turns
 	[1] ESDebuffRCV(105:13593) -> Golden Cap Spell
-	Rcv 50% for 5 turns
+	RCV +50% for 5 turns
 
 #16: SkillSet:
 	[0] ESAbsorbCombo(67:13592) -> Magic of the Silver Shoes
 	Absorb damage when combos <= 7 for 99 turns
 	[1] ESDebuffRCV(105:13593) -> Golden Cap Spell
-	Rcv 50% for 5 turns
+	RCV +50% for 5 turns
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -130,14 +130,14 @@ counter = 0
 	[0] ESNoSkyfall(127:13603) -> Nostalgic Hope
 	No skyfall for 1 turn
 	[1] ESOrbChangeAttackBits(108:13605) -> Heart Regaining Power
-	Change Heal to Light, Deal 55% damage
+	Change all Heal orbs to Light orbs, Deal 55% damage
 
 #33: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)
 	[0] ESNoSkyfall(127:13603) -> Nostalgic Hope
 	No skyfall for 1 turn
 	[1] ESOrbChangeAttack(48:13606) -> Courage without Fear
-	Change Random to Poison, Deal 60% damage
+	Change a random attribute to Poison orbs, Deal 60% damage
 
 #34: ESEndPath(36:26) -> ESEndPath
 end_turn

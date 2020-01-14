@@ -11,5 +11,5 @@ Branch on level >= 5, target rnd 3
 end_turn
 
 #3: ESOrbChangeAttack(48:729) -> Egg Bomb
-Condition: When < 50% hp , one-time use (ai:70 rnd:0) (cost: 1)
-Change Random to Jammer, Deal 125% damage
+Condition: When < 50% HP , one-time use (ai:70 rnd:0) (cost: 1)
+Change a random attribute to Jammer orbs, Deal 125% damage

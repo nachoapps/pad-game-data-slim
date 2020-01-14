@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (7755:83) Show me your worth! + Holy Ark of Sanctuary + Ark Impact
- | Rcv 50% for 6 turns + Reduce damage from all sources by 75% for 6 turns + Player -99% HP
+ | RCV +50% for 6 turns + Reduce damage from all sources by 75% for 6 turns + Player -99% HP
  group:
  | group:
  | condition: turn 1

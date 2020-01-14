@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESRecoverPlayer(55:2518) -> Welcome!
-	Player recover 100% hp
+	Player recover 100% HP
 	[1] ESDamageShield(74:2519) -> And now, Dance of the Spirit Turtle!
 	Reduce damage from all sources by 50% for 3 turns
 

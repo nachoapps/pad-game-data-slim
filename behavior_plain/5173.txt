@@ -48,7 +48,7 @@ Branch on counter >= 2, target rnd 14
 
 #13: SkillSet:
 	[0] ESCloud(104:12703) -> The beginning is one thought
-	2x2 cloud appear for 3 turns at random location
+	A 2×2 square of clouds appears for 3 turns at a random location
 	[1] ESDebuffMovetime(39:12704) -> So old, everyone has forgotten
 	Movetime -3s for 3 turns, Deal 100% damage
 
@@ -80,7 +80,7 @@ Branch on counter >= 2, target rnd 14
 	[0] ESDamageShield(74:12718) -> Time flows again...
 	Reduce damage from all sources by 50% for 5 turns
 	[1] ESOrbChangeAttack(48:12719) -> And I could dream
-	Change Random to Jammer, Deal 100% damage
+	Change a random attribute to Jammer orbs, Deal 100% damage
 
 #19: SkillSet:
 	[0] ESAbsorbCombo(67:12721) -> Outside this cage I grasped thoughts
@@ -114,7 +114,7 @@ counter = 8
 end_turn
 
 #26: ESRecoverEnemy86(86:12762) -> One Thousand and One Nights
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #27: ESEndPath(36:26) -> ESEndPath
 end_turn

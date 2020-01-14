@@ -21,7 +21,7 @@ level: 1
  | group:
  | condition: hp <= 9
    | (7514:48) Deadly Poison Breath
-   | Change Random to Mortal Poison, Deal 1200% damage
+   | Change a random attribute to Mortal Poison orbs, Deal 1200% damage
  type: UNKNOWN_USE
  | condition: 34% chance
  | (7510:83) Castaway Cataract + Hellish Ambience

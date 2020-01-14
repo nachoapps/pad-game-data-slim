@@ -47,4 +47,4 @@ level: 1
  | group:
  | condition: hp <= 1
    | (4057:86) Fortitude
-   | Enemy recover 50% hp
+   | Enemy recover 50% HP

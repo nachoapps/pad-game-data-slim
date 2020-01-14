@@ -10,7 +10,7 @@ level: 1
  group:
  | condition: 50% chance
  | (13200:48) クリーミーチーズ
- | Change Random to Light, Deal 90% damage
+ | Change a random attribute to Light orbs, Deal 90% damage
  | condition: 50% chance
  | (13201:15) 香ばしい2枚のビーフパティ
  | Deal 100% damage (2 hits, 50% each)

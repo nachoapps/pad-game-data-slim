@@ -56,7 +56,7 @@ Branch on flag & 1, target rnd 4
 flag SET 0b1
 
 #16: ESRecoverEnemy86(86:9319) -> Resurrection
-Enemy recover 100% hp
+Enemy recover 100% HP
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

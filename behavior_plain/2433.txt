@@ -32,7 +32,7 @@ Voids player buff effects
 Branch on hp < 70, target rnd 16
 
 #10: ESAttackMultihit(15:3470) -> Meteorite
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 270% damage (3 hits, 90% each)
 
 #11: ESOrbLock(94:3472) -> Skipping about
@@ -61,5 +61,5 @@ Branch on flag & 2, target rnd 10
 flag SET 0b11
 
 #18: ESLeaderSwap(75:3471) -> Whim
-Condition: When < 70% hp (ai:100 rnd:0)
+Condition: When < 70% HP (ai:100 rnd:0)
 Leader changes to random sub for 1 turn

@@ -29,14 +29,14 @@ flag SET 0b1
 end_turn
 
 #8: SkillSet:
-	Condition: When < 1% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverEnemy86(86:4552) -> Overcoming Will
-	Enemy recover 50% hp
+	Enemy recover 50% HP
 	[1] ESAttackUPRemainingEnemies(17:4551) -> Raising Flap
 	Increase damage to 200% for the next 1 turn
 
 #9: SkillSet:
-	Condition: When < 20% hp (ai:100 rnd:0)
+	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESAttackMultihit(15:4553) -> Storm Raid
 	Deal 110% damage (2 hits, 55% each)
 	[1] ESBoardChangeAttackBits(85:4547) -> Storm Lightning

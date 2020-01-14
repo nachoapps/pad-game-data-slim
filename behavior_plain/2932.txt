@@ -20,11 +20,11 @@ Reduce damage from all sources by 75% for 2 turns
 end_turn
 
 #6: ESDamageShield(74:4613) -> Scorching Heat Mantle
-Condition: When < 30% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 75% for 2 turns
 
 #7: ESRowSpawnMulti(79:4614) -> Inferno Blast
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Change the 1st row to Fire orbs, Deal 250% damage
 
 #8: ESBranchHP(29:19) -> ESBranchHP

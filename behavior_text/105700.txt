@@ -16,7 +16,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 4
      | condition: 50% chance
      | (15273:39) 俺の好きな四字熟語は即断即決だぜ！
-     | Movetime 50% for 1 turn, Deal 100% damage
+     | Movetime +50% for 1 turn, Deal 100% damage
      | (15170:15) シャリンドリル
      | Deal 120% damage (3 hits, 40% each)
    | group:
@@ -27,7 +27,7 @@ level: 4
    | condition: execute repeatedly, turn 4 of 4
      | condition: 50% chance
      | (15273:39) 俺の好きな四字熟語は即断即決だぜ！
-     | Movetime 50% for 1 turn, Deal 100% damage
+     | Movetime +50% for 1 turn, Deal 100% damage
      | (15170:15) シャリンドリル
      | Deal 120% damage (3 hits, 40% each)
  | group:
@@ -40,7 +40,7 @@ level: 4
    | condition: execute repeatedly, turn 1 of 4
      | condition: 50% chance
      | (15273:39) 俺の好きな四字熟語は即断即決だぜ！
-     | Movetime 50% for 1 turn, Deal 100% damage
+     | Movetime +50% for 1 turn, Deal 100% damage
      | (15170:15) シャリンドリル
      | Deal 120% damage (3 hits, 40% each)
    | group:
@@ -51,6 +51,6 @@ level: 4
    | condition: execute repeatedly, turn 3-4 of 4
      | condition: 50% chance
      | (15273:39) 俺の好きな四字熟語は即断即決だぜ！
-     | Movetime 50% for 1 turn, Deal 100% damage
+     | Movetime +50% for 1 turn, Deal 100% damage
      | (15170:15) シャリンドリル
      | Deal 120% damage (3 hits, 40% each)

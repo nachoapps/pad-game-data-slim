@@ -21,7 +21,7 @@ Branch on counter >= 4, target rnd 8
 counter + 1
 
 #5: ESAttackUPRemainingEnemies(17:10517) -> Flame Up
-Condition: When < 20% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 20% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 99 turns
 
 #6: ESBombRandomSpawn(102:10515) -> Explosion Breath
@@ -37,7 +37,7 @@ Branch on flag & 1, target rnd 5
 flag SET 0b1
 
 #10: ESDebuffRCV(105:10516) -> Scorching Heat
-Rcv 50% for 5 turns
+RCV +50% for 5 turns
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

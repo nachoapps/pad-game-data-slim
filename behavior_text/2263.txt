@@ -23,7 +23,7 @@ level: 1
    | group:
      | condition: 60% chance
      | (3093:48) Ice Needle
-     | Change Wood to Water, Deal 60% damage
+     | Change all Wood orbs to Water orbs, Deal 60% damage
      | condition: 60% chance
      | (3094:79) Freezing Wind
      | Change the 1st and 2nd rows to Water, Jammer, and Poison orbs, Deal 60% damage

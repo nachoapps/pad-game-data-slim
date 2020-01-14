@@ -26,12 +26,12 @@ Absorb damage when combos <= 4 for 99 turns
 end_turn
 
 #8: ESAttackUPRemainingEnemies(17:2435) -> Wild Soul
-Condition: When < 50% hp , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 999 turns
 
 #9: ESAttackMultihit(15:2436) -> Fuu's Jet
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Deal 200% damage (2 hits, 100% each)
 
 #10: ESOrbChangeAttack(48:2434) -> Bolt Slash
-Change Dark to Light, Deal 100% damage
+Change all Dark orbs to Light orbs, Deal 100% damage

@@ -26,7 +26,7 @@ level: 4
  | group:
  | condition: turn 4
    | (13252:48) Brat.
-   | Change Random to Wood, Deal 95% damage
+   | Change a random attribute to Wood orbs, Deal 95% damage
  | group:
  | condition: turn 5
    | (13253:83) Accept your defeat! + Shamanic Oracle

@@ -23,12 +23,12 @@ end_turn
 Branch on hp > 50, target rnd 11
 
 #7: ESAttackMultihit(15:327) -> Jupiter Genesis
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 200% damage
 
 #8: ESOrbChangeAttack(48:935) -> Arboreal Queen's Temptation
-Condition: 70% chance when < 50% hp (ai:70 rnd:0)
-Change Dark to Light, Deal 100% damage
+Condition: 70% chance when < 50% HP (ai:70 rnd:0)
+Change all Dark orbs to Light orbs, Deal 100% damage
 
 #9: ESBindAttack(63:932) -> Tie Up
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
@@ -39,7 +39,7 @@ end_turn
 
 #11: ESOrbChangeAttack(48:933) -> Arboreal Queen's Allure
 Condition: 70% chance (ai:70 rnd:0)
-Change Fire to Wood, Deal 70% damage
+Change all Fire orbs to Wood orbs, Deal 70% damage
 
 #12: ESBindAttack(63:932) -> Tie Up
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

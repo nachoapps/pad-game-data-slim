@@ -20,5 +20,5 @@ Absorb Dark damage for 5 turns
 end_turn
 
 #6: ESBindAttack(63:1531) -> Alluring Technique
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 3 random subs for 1~2 turns, Deal 50% damage

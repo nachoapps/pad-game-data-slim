@@ -59,7 +59,7 @@ Branch on counter >= 1, target rnd 19
 
 #18: ESRecoverEnemyAlly(52:8723) -> Futile...
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
-Enemy ally recover 100% hp
+Enemy ally recover 100% HP
 
 #19: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
@@ -101,14 +101,14 @@ flag SET 0b11
 	[1] ESAbsorbCombo(67:8731) -> Your skills are quite good
 	Absorb damage when combos <= 6 for 20 turns
 	[2] ESCloud(104:8732) -> Show me what you've got
-	1x1 cloud appear for 20 turns at random location
+	A 1×1 square of clouds appears for 20 turns at a random location
 
 #29: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #30: ESOrbChangeAttackBits(108:8720) -> Despair
 Condition: 20% chance (ai:20 rnd:0)
-Change Heal to Dark, Deal 150% damage
+Change all Heal orbs to Dark orbs, Deal 150% damage
 
 #31: ESOrbLock(94:8719) -> Shadow Fangs
 Condition: 30% chance (ai:30 rnd:0)

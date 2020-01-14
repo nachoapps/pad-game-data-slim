@@ -30,7 +30,7 @@ Branch on hp < 30, target rnd 11
 
 #9: ESOrbChangeAttack(48:1974) -> Grr!!!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change Heal to Jammer, Deal 75% damage
+Change all Heal orbs to Jammer orbs, Deal 75% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

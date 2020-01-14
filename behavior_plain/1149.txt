@@ -20,30 +20,30 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRecoverPlayer(55:895) -> Let's Party!!
-Player recover 100% hp
+Player recover 100% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #8: ESOrbChangeSingle(4:897) -> Big Lucky(?) Ribbon
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Wood to Heal
+Change all Wood orbs to Heal orbs
 
 #9: ESBlind5(5:898) -> Big Lucky(?) Ribbon
 Condition: One-time use (ai:40 rnd:0) (cost: 1)
 Blind all orbs on the board
 
 #10: ESRecoverEnemy7(7:899) -> Big Lucky(?) Ribbon
-Condition: When < 50% hp , one-time use (ai:10 rnd:0) (cost: 1)
-Enemy recover 20% hp
+Condition: When < 50% HP , one-time use (ai:10 rnd:0) (cost: 1)
+Enemy recover 20% HP
 
 #11: ESOrbChangeSingle(4:900) -> Big Lucky(?) Ribbon
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Water to Heal
+Change all Water orbs to Heal orbs
 
 #12: ESOrbChangeSingle(4:901) -> Big Lucky(?) Ribbon
 Condition: One-time use (ai:30 rnd:0) (cost: 1)
-Change Fire to Heal
+Change all Fire orbs to Heal orbs
 
 #13: ESInactivity16(16:896) -> Big Lucky(?) Ribbon
 Condition: One-time use (ai:100 rnd:0) (cost: 1)

@@ -29,11 +29,11 @@ flag SET 0b1
 end_turn
 
 #8: ESRecoverEnemy86(86:2241) -> Golden Pipe
-Condition: When < 1% hp (ai:100 rnd:0)
-Enemy recover 100% hp
+Condition: When < 1% HP (ai:100 rnd:0)
+Enemy recover 100% HP
 
 #9: ESAttackMultihit(15:2238) -> True Ninja Art Fireworks
-Condition: When < 30% hp (ai:100 rnd:5)
+Condition: When < 30% HP (ai:100 rnd:5)
 Deal 300% damage
 
 #10: ESBranchHP(29:19) -> ESBranchHP

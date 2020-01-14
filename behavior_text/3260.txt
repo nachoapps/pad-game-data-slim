@@ -25,7 +25,7 @@ level: 1
      | Change all orbs to Jammer + Absorb damage when combos <= 6 for 5 turns
    | group:
      | (6882:48) Banishing Firebrand
-     | Change Jammer to Fire, Deal 800% damage
+     | Change all Jammer orbs to Fire orbs, Deal 800% damage
      | condition: 50% chance
      | (6884:74) Fire Guardian's Sunblade
      | Reduce damage from all sources by 50% for 1 turn, Deal 320% damage

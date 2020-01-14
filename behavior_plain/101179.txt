@@ -26,11 +26,11 @@ Absorb damage when damage >= 200,000 for 2 turns
 end_turn
 
 #8: ESOrbLock(94:6005) -> Victor Book♪
-Condition: When < 25% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 25% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all orbs
 
 #9: ESAttackMultihit(15:6006) -> The Sword Kusanagi
-Condition: When < 25% hp (ai:100 rnd:0)
+Condition: When < 25% HP (ai:100 rnd:0)
 Deal 500% damage (5 hits, 100% each)
 
 #10: ESBranchFlag(43:10) -> ESBranchFlag
@@ -46,7 +46,7 @@ Spawn Bomb orbs in the specified positions, Deal 100% damage
 flag UNSET 0b10
 
 #14: ESOrbChangeAttack(48:6003) -> Fire Spirit's Writing
-Change Random to Fire, Deal 80% damage
+Change a random attribute to Fire orbs, Deal 80% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

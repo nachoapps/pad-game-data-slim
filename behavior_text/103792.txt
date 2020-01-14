@@ -10,14 +10,14 @@ level: 5
  type: PREEMPT
  | condition: when 3791, 100 on team
  | (7640:39) Persephone is so beautiful♪
- | Movetime 150% for 2 turns
+ | Movetime +150% for 2 turns
  | (7639:39) Sweet Decoration
  | Movetime -1s for 2 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (7641:104) Fresh Cream Paint
-   | 2x1 cloud appear for 1 turn at random location, Deal 100% damage
+   | A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (7642:92) Lovely Macaron

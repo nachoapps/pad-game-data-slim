@@ -14,9 +14,9 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 1 of 3
    | (9121:48) I don't need this!
-   | Change Light to Jammer, Deal 80% damage
+   | Change all Light orbs to Jammer orbs, Deal 80% damage
    | (9224:48) Don't need this!
-   | Change Heal to Poison, Deal 80% damage
+   | Change all Heal orbs to Poison orbs, Deal 80% damage
  | group:
  | condition: execute repeatedly, turn 2 of 3
    | (9122:85) Dye it!

@@ -21,7 +21,7 @@ Voids status ailments for 3 turns
 end_turn
 
 #6: ESAttackUPRemainingEnemies(17:1968) -> Blood of Iga
-Condition: When < 50% hp, when <= 1 enemies remain (ai:100 rnd:0)
+Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
 #7: ESBranchHP(28:18) -> ESBranchHP
@@ -44,7 +44,7 @@ Reduce damage from Light attrs by 50%
 end_turn
 
 #13: ESRowSpawnMulti(79:1969) -> Moon Cutting Circle
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change the 2nd row to Dark orbs and the 4th row to Dark orbs, Deal 300% damage
 
 #14: ESRowSpawnMulti(79:1966) -> Slash

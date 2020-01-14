@@ -9,15 +9,15 @@ approved: False
 level: 1
  type: PREEMPT
  | (2385:83) Angel Heart + A dazzling halo shines forth
- | Player recover 100% hp + Voids status ailments for 999 turns
+ | Player recover 100% HP + Voids status ailments for 999 turns
  group:
  | group:
    | condition: 50% chance
    | (2388:86) Sanctuary
-   | Enemy recover 20% hp, Deal 60% damage
+   | Enemy recover 20% HP, Deal 60% damage
    | condition: 50% chance
    | (2389:86) Lightning Edge
-   | Enemy recover 10% hp, Deal 90% damage
+   | Enemy recover 10% HP, Deal 90% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (2393:89) Sacred Intentions
@@ -25,4 +25,4 @@ level: 1
  | group:
  | condition: hp <= 19
    | (2394:86) Judgement
-   | Enemy recover 100% hp, Deal 1000% damage
+   | Enemy recover 100% HP, Deal 1000% damage

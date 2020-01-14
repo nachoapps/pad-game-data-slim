@@ -18,11 +18,11 @@ Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Change the 3rd row to Fire orbs
 
 #5: ESAbsorbAttribute(53:8971) -> Suzaku's Perception
-Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb Fire damage for 2 turns
 
 #6: ESBoardChangeAttackBits(85:8974) -> Suzaku Seven-Star Perception
-Condition: When < 10% hp (ai:100 rnd:0)
+Condition: When < 10% HP (ai:100 rnd:0)
 Change all orbs to Fire, Wood, and Light, Deal 180% damage
 
 #7: ESBranchCounter(32:22) -> ESBranchCounter

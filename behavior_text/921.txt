@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (9227:83) Boom! + And another boom!
- | Player -99% HP + Rcv 50% for 2 turns
+ | Player -99% HP + RCV +50% for 2 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 6
@@ -18,7 +18,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 2 of 6
    | (9227:83) Boom! + And another boom!
-   | Player -99% HP + Rcv 50% for 2 turns
+   | Player -99% HP + RCV +50% for 2 turns
  | group:
  | condition: execute repeatedly, turn 3 of 6
    | (9229:15) How's this?
@@ -26,7 +26,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 4 of 6
    | (9227:83) Boom! + And another boom!
-   | Player -99% HP + Rcv 50% for 2 turns
+   | Player -99% HP + RCV +50% for 2 turns
  | group:
  | condition: execute repeatedly, turn 5 of 6
    | (9230:15) Let's end this
@@ -34,4 +34,4 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 6 of 6
    | (9227:83) Boom! + And another boom!
-   | Player -99% HP + Rcv 50% for 2 turns
+   | Player -99% HP + RCV +50% for 2 turns

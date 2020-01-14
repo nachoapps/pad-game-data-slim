@@ -20,7 +20,7 @@ Blind random 3 orbs for 5 turns
 end_turn
 
 #6: ESDamageShield(74:5209) -> protection
-Condition: When < 99% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 99% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 1 turn
 
 #7: ESOrbLock(94:5208) -> dragon lance

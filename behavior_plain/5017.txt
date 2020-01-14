@@ -37,7 +37,7 @@ Player -75% HP
 
 #11: ESOrbChangeAttack(48:12199) -> How does that feel?
 Condition: 50% chance (ai:0 rnd:50)
-Change Random to Dark, Deal 95% damage
+Change a random attribute to Dark orbs, Deal 95% damage
 
 #12: ESAttackMultihit(15:12200) -> I have no use for you,
 Condition: 50% chance (ai:0 rnd:50)

@@ -65,11 +65,11 @@ Change all orbs to Poison, Deal 140% damage
 end_turn
 
 #13: ESBoardChangeAttackBits(85:6659) -> Cruelty Star
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Change all orbs to Poison, Deal 680% damage
 
 #14: SkillSet:
-	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (cost: 1)
+	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESChangeAttribute(46:6655) -> Altered Orbit
 	Change own attribute to Dark
 	[1] ESAttackUPRemainingEnemies(17:6656) -> God King's Resonance
@@ -86,13 +86,13 @@ flag SET 0b111
 #17: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESCloud(104:6649) -> Aries' Golden Fleece
-	3x1 cloud appear for 2 turns at random location
+	A 3×1 rectangle of clouds appears for 2 turns at a random location
 	[1] ESAttackMultihit(15:6651) -> Dark Nail
 	Deal 150% damage (3 hits, 50% each)
 
 #18: SkillSet:
 	[0] ESCloud(104:6650) -> Aries' Golden Fleece
-	1x3 cloud appear for 2 turns at random location
+	A 1×3 rectangle of clouds appears for 2 turns at a random location
 	[1] ESAttackMultihit(15:6651) -> Dark Nail
 	Deal 150% damage (3 hits, 50% each)
 

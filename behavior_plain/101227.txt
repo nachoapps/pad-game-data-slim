@@ -20,7 +20,7 @@ Water skyfall +25% for 5 turns
 end_turn
 
 #6: ESOrbChangeAttack(48:1417) -> Absolute End
-Change Random to Water, Deal 500% damage
+Change a random attribute to Water orbs, Deal 500% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

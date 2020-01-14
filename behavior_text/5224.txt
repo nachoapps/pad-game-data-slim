@@ -10,7 +10,7 @@ level: 1
  group:
  | condition: 50% chance
  | (13196:48) 中はしっとりふっくら
- | Change Random to Water, Deal 90% damage
+ | Change a random attribute to Water orbs, Deal 90% damage
  | condition: 50% chance
  | (13197:15) 外はサクサク
  | Deal 100% damage (2 hits, 50% each)

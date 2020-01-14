@@ -29,11 +29,11 @@ Branch on counter >= 2, target rnd 12
 counter + 1
 
 #8: ESLeaderSwap(75:9850) -> Forceful Throw
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Leader changes to random sub for 5 turns
 
 #9: ESAttackMultihit(15:9886) -> Raging Rebellious Attack
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 320% damage (8 hits, 40% each)
 
 #10: ESRandomSpawn(92:9885) -> Smash to Pieces
@@ -47,11 +47,11 @@ Deal 100% damage (4 hits, 25% each)
 counter = 0
 
 #13: ESLeaderSwap(75:9850) -> Forceful Throw
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Leader changes to random sub for 5 turns
 
 #14: ESAttackMultihit(15:9886) -> Raging Rebellious Attack
-Condition: When < 20% hp (ai:100 rnd:0)
+Condition: When < 20% HP (ai:100 rnd:0)
 Deal 320% damage (8 hits, 40% each)
 
 #15: SkillSet:
@@ -122,7 +122,7 @@ Deal 320% damage (8 hits, 40% each)
 	[0] ESAttackUPRemainingEnemies(17:9863) -> Intense Rage
 	Increase damage to 300% for the next 999 turns
 	[1] ESCloud(104:9873) -> Ice Dust Smoke
-	5x4 cloud appear for 10 turns at random location
+	A 5×4 rectangle of clouds appears for 10 turns at a random location
 
 #25: ESRandomSpawn(92:9885) -> Smash to Pieces
 Condition: 30% chance (ai:30 rnd:0)

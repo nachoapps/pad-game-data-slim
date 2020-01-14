@@ -26,7 +26,7 @@ level: 1
    | group:
    | condition: turn 3 while HP > 9
      | (4096:83) Last Movement - Flash + The show is over...
-     | Change Random to Light + Reduce damage from all sources by 50% for 3 turns, Deal 300% damage
+     | Change a random attribute to Light orbs + Reduce damage from all sources by 50% for 3 turns, Deal 300% damage
    | group:
    | condition: turn 4 while HP > 9
      | (4098:3) Blinding Chain of God's Ruin
@@ -42,11 +42,11 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4102:48) Sunlight Gift
-     | Change Jammer to Heal, Deal 300% damage
+     | Change all Jammer orbs to Heal orbs, Deal 300% damage
      | (4103:48) Sunlight Glow
-     | Change Wood to Fire, Deal 200% damage
+     | Change all Wood orbs to Fire orbs, Deal 200% damage
      | (4104:48) Sunlight Tears
-     | Change Fire to Water, Deal 200% damage
+     | Change all Fire orbs to Water orbs, Deal 200% damage
      | (4105:94) Sunlight Flash
      | Lock all Light orbs, Deal 200% damage
      | (4101:85) Hyacinth's Lamentation

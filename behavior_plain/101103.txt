@@ -26,16 +26,16 @@ Branch on counter >= 4, target rnd 12
 counter + 1
 
 #8: ESRecoverEnemy7(7:876) -> Resurrection
-Condition: When < 75% hp , one-time use (ai:100 rnd:0) (cost: 1)
-Enemy recover 100% hp
+Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
+Enemy recover 100% HP
 
 #9: ESOrbChangeAttack(48:874) -> Shining Ray
 Condition: 33% chance (ai:33 rnd:0)
-Change Random to Light, Deal 75% damage
+Change a random attribute to Light orbs, Deal 75% damage
 
 #10: ESOrbChangeAttack(48:9537) -> Heart Break
 Condition: 50% chance (ai:50 rnd:0)
-Change Heal to Jammer, Deal 50% damage
+Change all Heal orbs to Jammer orbs, Deal 50% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

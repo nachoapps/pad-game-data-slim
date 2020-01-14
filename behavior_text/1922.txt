@@ -22,7 +22,7 @@ level: 1
      | Change the 3rd column to Light orbs and the 4th column to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 12000% damage
      | condition: 20% chance
      | (1919:83) Zeus Blade + Mischief by God
-     | Change the 4th row to Light orbs + Change Light to Jammer, Deal 15000% damage
+     | Change the 4th row to Light orbs + Change all Light orbs to Jammer orbs, Deal 15000% damage
      | condition: 20% chance
      | (1920:83) Zeus Blade + Double Slap
      | Change the 4th row to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 15000% damage
@@ -48,7 +48,7 @@ level: 1
  | group:
  | condition: hp <= 9
    | (1926:83) Wrath of God + Blessing of the Gods
-   | Player -95% HP + Enemy recover 50% hp
+   | Player -95% HP + Enemy recover 50% HP
  type: UNKNOWN_USE
  | (1923:83) Glare of Zeus + Ultra Gravity
  | Bind God cards for 2~4 turns + Player -99% HP

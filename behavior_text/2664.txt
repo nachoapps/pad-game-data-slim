@@ -17,26 +17,26 @@ level: 1
  | group:
  | condition: always turn 1
    | (6443:83) Fragile Fantasy + Request for Peace
-   | Change Random 3 to Jammer + Bind active skills for 10 turns
+   | Change 3 random orbs to Jammer orbs + Bind active skills for 10 turns
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (6452:48) Celestial Purification
-     | Change Jammer to Heal, Deal 360% damage
+     | Change all Jammer orbs to Heal orbs, Deal 360% damage
      | (6453:83) First Ripples of Life + Young Dragon's Explosive Array
-     | Change Random to Jammer + Spawn Bomb orbs in the specified positions, Deal 100% damage
+     | Change a random attribute to Jammer orbs + Spawn Bomb orbs in the specified positions, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (6452:48) Celestial Purification
-     | Change Jammer to Heal, Deal 360% damage
+     | Change all Jammer orbs to Heal orbs, Deal 360% damage
      | (6473:83) Merciful Protection + Fragile Fantasy
-     | Reduce damage from all sources by 75% for 1 turn + Change Random 3 to Jammer
+     | Reduce damage from all sources by 75% for 1 turn + Change 3 random orbs to Jammer orbs
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (6452:48) Celestial Purification
-     | Change Jammer to Heal, Deal 360% damage
+     | Change all Jammer orbs to Heal orbs, Deal 360% damage
      | (6474:83) First Ripples of Life + Young Dragon Blast
-     | Change Random to Jammer + Delay active skills by 4 turns, Deal 100% damage
+     | Change a random attribute to Jammer orbs + Delay active skills by 4 turns, Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -54,4 +54,4 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 3 times
  | (6449:83) Fragile Fantasy + World Cleansing
- | Change Random 3 to Jammer + Lock all orbs
+ | Change 3 random orbs to Jammer orbs + Lock all orbs

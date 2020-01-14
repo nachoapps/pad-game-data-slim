@@ -37,7 +37,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (7269:83) Rage + Horn Gouge
-     | Increase damage to 120% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+     | Increase damage to 120% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
      | condition: 50% chance
      | (7270:83) Rage + Springing Burrow
      | Increase damage to 120% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -47,7 +47,7 @@ level: 1
  | condition: hp <= 69
    | condition: 33% chance
    | (7272:83) Rage + Horn Gouge
-   | Increase damage to 130% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 130% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7273:83) Rage + Springing Burrow
    | Increase damage to 130% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -57,7 +57,7 @@ level: 1
  | condition: hp <= 59
    | condition: 33% chance
    | (7275:83) Rage + Horn Gouge
-   | Increase damage to 140% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 140% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7276:83) Rage + Springing Burrow
    | Increase damage to 140% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -67,7 +67,7 @@ level: 1
  | condition: hp <= 39
    | condition: 33% chance
    | (7278:83) Rage + Horn Gouge
-   | Increase damage to 150% for the next 1 turn + Change Random to Jammer, Deal 1200% damage
+   | Increase damage to 150% for the next 1 turn + Change a random attribute to Jammer orbs, Deal 1200% damage
    | condition: 50% chance
    | (7279:83) Rage + Springing Burrow
    | Increase damage to 150% for the next 1 turn + Blind all orbs on the board, Deal 1200% damage
@@ -89,4 +89,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 1
    | (7328:83) Roar + Enter Fury State + Burrow
-   | Bind active skills for 5 turns + Enemy recover 60% hp + Reduce damage from all sources by 75% for 1 turn
+   | Bind active skills for 5 turns + Enemy recover 60% HP + Reduce damage from all sources by 75% for 1 turn

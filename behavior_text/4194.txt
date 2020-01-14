@@ -17,7 +17,7 @@ level: 4
    | group:
    | condition: turn 1
      | (9191:104) Flapping
-     | 2x2 cloud appear for 1 turn at random location
+     | A 2×2 square of clouds appears for 1 turn at a random location
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (9192:8) Super Acceleration

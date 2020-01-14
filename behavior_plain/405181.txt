@@ -49,7 +49,7 @@ Voids player buff effects
 
 #12: ESDebuffRCV(105:12923) -> Tranche Compote
 Condition: 33% chance (ai:0 rnd:33)
-Rcv 50% for 2 turns, Deal 80% damage
+RCV +50% for 2 turns, Deal 80% damage
 
 #13: ESChangeAttribute(46:12924) -> Fraise Brulée
 Condition: 34% chance (ai:0 rnd:34)
@@ -71,7 +71,7 @@ Bind awoken skills for 2 turns, Deal 80% damage
 counter = 1
 
 #19: ESCloud(104:12927) -> Cream Dolce
-3x2 cloud appear for 4 turns at random location, Deal 80% damage
+A 3×2 rectangle of clouds appears for 4 turns at a random location, Deal 80% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -18,4 +18,4 @@ level: 1
  | group:
  | condition: hp <= 99
    | (5472:48) Flower Tail
-   | Change Random to Heal, Deal 70% damage
+   | Change a random attribute to Heal orbs, Deal 70% damage

@@ -29,15 +29,15 @@ flag SET 0b1
 end_turn
 
 #8: ESAttackMultihit(15:2504) -> 精霊龍の煌牙
-Condition: When < 30% hp (ai:100 rnd:0)
+Condition: When < 30% HP (ai:100 rnd:0)
 Deal 160% damage (2 hits, 80% each)
 
 #9: ESBindAttack(63:2508) -> 白光の龍輪
-Condition: When < 80% hp , one-time use (ai:100 rnd:0) (cost: 1)
+Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Bind 2 random cards for 2 turns, Deal 80% damage
 
 #10: ESRowSpawnMulti(79:2509) -> エレメンタル・スラッシュ
-Condition: 50% chance when < 65% hp (ai:50 rnd:0)
+Condition: 50% chance when < 65% HP (ai:50 rnd:0)
 Change the 5th row to Jammer orbs, Deal 140% damage
 
 #11: ESAttackMultihit(15:2499) -> Ｗ・ブレイカー

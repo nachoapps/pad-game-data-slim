@@ -30,7 +30,7 @@ level: 4
  | group:
    | condition: 33% chance
    | (9593:48) I don't need this!
-   | Change Random to Dark, Deal 100% damage
+   | Change a random attribute to Dark orbs, Deal 100% damage
    | condition: 50% chance
    | (9594:74) Reinforce defence while attacking
    | Reduce damage from all sources by 50% for 1 turn, Deal 80% damage

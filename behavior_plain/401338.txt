@@ -65,17 +65,17 @@ flag SET 0b111
 	[0] ESDamageShield(74:10227) -> Protect me!
 	Reduce damage from all sources by 50% for 999 turns
 	[1] ESOrbChangeAttackBits(108:10228) -> Let me get rid of these!
-	Change Dark to Jammer, Deal 100% damage
+	Change all Dark orbs to Jammer orbs, Deal 100% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #20: ESOrbChangeAttackBits(108:10230) -> It suits you!
-Change Jammer to Mortal Poison, Deal 100% damage
+Change all Jammer orbs to Mortal Poison orbs, Deal 100% damage
 
 #21: ESOrbChangeAttackBits(108:10228) -> Let me get rid of these!
 Condition: 33% chance (ai:0 rnd:33)
-Change Dark to Jammer, Deal 100% damage
+Change all Dark orbs to Jammer orbs, Deal 100% damage
 
 #22: ESGravity(50:10224) -> You're OK with this, right?
 Condition: 33% chance (ai:0 rnd:33)
