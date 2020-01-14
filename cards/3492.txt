@@ -6,10 +6,14 @@ SAWK: 48,60,52
 # 3915/116 - Raging Blaze
 Tags: ATTACK_STANCE,DROP_CHANCE
 Game: Changes Water & Heal Orbs to Fire Orbs; Fire Orbs slightly more likely to appear for 2 turns
+JP: Change Water and Heal orbs to Fire orbs; For 2 turns, Fire orbs are more likely to appear by 15%
 EN: Change Water and Heal orbs to Fire orbs; For 2 turns, Fire orbs are more likely to appear by 15%
+KR: Change Water and Heal orbs to Fire orbs; For 2 turns, Fire orbs are more likely to appear by 15%
 
 # 7182/138 - Spirit of the War Deity
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Fire Att.; 3.5x ATK when Fire & Wood attack at once
+JP: 2x HP & ATK for Fire Att.; 3.5x ATK when matching Fire+Wood
 EN: 2x HP & ATK for Fire Att.; 3.5x ATK when matching Fire+Wood
+KR: 2x HP & ATK for Fire Att.; 3.5x ATK when matching Fire+Wood
 

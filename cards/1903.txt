@@ -6,10 +6,14 @@ SAWK:
 # 412/18 - Slow
 Tags: MENACE
 Game: Delays enemies' next move for 2 turns
+JP: Delay enemies' next attack by 2 turns
 EN: Delay enemies' next attack by 2 turns
+KR: Delay enemies' next attack by 2 turns
 
 # 2521/138 - Hasteja
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 4x ATK for Healer & God Types when HP at 80% or more, 3x at 79% or less; extends Orb move time by 2 seconds
+JP: 4x ATK for Healer, God type when above 80% HP; 3x ATK for Healer, God type when below 79% HP; Increase orb movement time by 2 seconds
 EN: 4x ATK for Healer, God type when above 80% HP; 3x ATK for Healer, God type when below 79% HP; Increase orb movement time by 2 seconds
+KR: 4x ATK for Healer, God type when above 80% HP; 3x ATK for Healer, God type when below 79% HP; Increase orb movement time by 2 seconds
 

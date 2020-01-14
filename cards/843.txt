@@ -6,10 +6,14 @@ SAWK:
 # 656/58 - Blaze Breath
 Tags: MASSIVE_ATTACK
 Game: Fire Mass Attack with randomized damage
+JP: Randomized Fire damage to all enemies(50~100x)
 EN: Randomized Fire damage to all enemies(50~100x)
+KR: Randomized Fire damage to all enemies(50~100x)
 
 # 751/138 - 翼竜の使命
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: ドラゴンタイプの攻撃力が2.5倍。 火を6個以上つなげて消すとダメージを軽減、攻撃力が2倍。
+JP: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
 EN: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
+KR: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
 

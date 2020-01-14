@@ -6,10 +6,14 @@ SAWK: 27,58,55
 # 11548/116 - Dark Cut
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; changes Fire & Jammers to Wood Orbs and Water & Poison to Dark Orbs
+JP: For 1 turn, bypass att. absorb shield effects; Change Fire, Jammer orbs to Wood orbs; Change Water, Poison, and Mortal Poison orbs to Dark orbs
 EN: For 1 turn, bypass att. absorb shield effects; Change Fire, Jammer orbs to Wood orbs; Change Water, Poison, and Mortal Poison orbs to Dark orbs
+KR: For 1 turn, bypass att. absorb shield effects; Change Fire, Jammer orbs to Wood orbs; Change Water, Poison, and Mortal Poison orbs to Dark orbs
 
 # 11552/138 - Dark Wings' Draco Summoning Seal
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 4x ATK & 2x RCV with 2+ Wood combos; 4x ATK  & reduces damage when Wood & Dark attack at once
+JP: 4x ATK and reduce damage taken by 25% when matching Wood, Dark at once; 4x ATK and 2x RCV when matching 2+ Wood combos
 EN: 4x ATK and reduce damage taken by 25% when matching Wood, Dark at once; 4x ATK and 2x RCV when matching 2+ Wood combos
+KR: 4x ATK and reduce damage taken by 25% when matching Wood, Dark at once; 4x ATK and 2x RCV when matching 2+ Wood combos
 

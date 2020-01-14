@@ -6,10 +6,14 @@ SAWK: 52,57,53
 # 12903/116 - Flash Chop
 Tags: MENACE,LINE_ORBS_CONVERTER
 Game: Delays enemies' next move for 1 turn; changes the bottom row to Light Orbs
+JP: Delay enemies' next attack by 1 turn; Change the bottom row to Light orbs
 EN: Delay enemies' next attack by 1 turn; Change the bottom row to Light orbs
+KR: Delay enemies' next attack by 1 turn; Change the bottom row to Light orbs
 
 # 12906/138 - This'll be perfect for a warm up.
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Game: 2x HP for Light Att., Orb move time +3 seconds; 3.5x ATK for each cross of 5 Light Orbs
+JP: 2x HP for Light Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Light orbs
 EN: 2x HP for Light Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Light orbs
+KR: 2x HP for Light Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Light orbs
 

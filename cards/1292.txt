@@ -6,10 +6,14 @@ SAWK:
 # 948/116 - Hyper Heal
 Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Recovers 7x RCV as HP; reduces bind status by 3 turns; other allies' skills charged by 1 turn
+JP: Recover 7x RCV as HP; Reduce binds by 3 turns; Charge all allies' skills by 1 turn
 EN: Recover 7x RCV as HP; Reduce binds by 3 turns; Charge all allies' skills by 1 turn
+KR: Recover 7x RCV as HP; Reduce binds by 3 turns; Charge all allies' skills by 1 turn
 
 # 1533/123 - I'll do my best
 Tags: ENHANCED_ATK
 Game: 3x ATK for Light Att. when HP is full
+JP: 3x ATK for Light Att. when HP is full
 EN: 3x ATK for Light Att. when HP is full
+KR: 3x ATK for Light Att. when HP is full
 

@@ -6,5 +6,7 @@ SAWK:
 # 13709/116 - 立体機動術
 Tags: EXTENDS_TIME
 Game: L字型に木ドロップを1つ生成。 2ターンの間、ドロップ操作を5秒延長。
+JP: Create an L shape of Wood orbs with its center at the top row and the far right column; For 2 turns, increase orb move time by 5 seconds
 EN: Create an L shape of Wood orbs with its center at the top row and the far right column; For 2 turns, increase orb move time by 5 seconds
+KR: Create an L shape of Wood orbs with its center at the top row and the far right column; For 2 turns, increase orb move time by 5 seconds
 

@@ -6,10 +6,14 @@ SAWK: 52,27,57
 # 3501/116 - Are you ok!?
 Tags: REDUCE_DAMAGE,HEAL
 Game: Recovers 5x team's RCV as HP;  halves damage for 1 turn
+JP: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
 EN: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
+KR: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
 
 # 3650/138 - We must hurry back into formation.
 Tags: AUTO_HEAL,ENHANCED_ATK_RCV
 Game: 2.5x ATK & 1.5x RCV for Healer Type; heals HP (2x RCV) when matching Orbs
+JP: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
 EN: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
+KR: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
 

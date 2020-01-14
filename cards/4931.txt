@@ -6,10 +6,14 @@ SAWK: 55,27,52
 # 12111/116 - Victory conditions have been fulfilled!
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Water & the rightmost column to Fire Orbs; 3x ATK for Attacker Type for 1 turn
+JP: Change the far left column to Water orbs and change the far right column to Fire orbs; For 1 turn, 3x ATK for Attacker type
 EN: Change the far left column to Water orbs and change the far right column to Fire orbs; For 1 turn, 3x ATK for Attacker type
+KR: Change the far left column to Water orbs and change the far right column to Fire orbs; For 1 turn, 3x ATK for Attacker type
 
 # 12114/138 - Vortex Finish
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2x ATK for Water & Fire Att., 4x for allies with both Att.; 3.5x ATK & reduces damage when Water & Fire attack
+JP: 2x ATK for Fire Att.; 2x ATK for Water Att.; 4x ATK for allies with both Att.; 3.5x ATK and reduce damage taken by 25% when matching Water+Fire
 EN: 2x ATK for Fire Att.; 2x ATK for Water Att.; 4x ATK for allies with both Att.; 3.5x ATK and reduce damage taken by 25% when matching Water+Fire
+KR: 2x ATK for Fire Att.; 2x ATK for Water Att.; 4x ATK for allies with both Att.; 3.5x ATK and reduce damage taken by 25% when matching Water+Fire
 

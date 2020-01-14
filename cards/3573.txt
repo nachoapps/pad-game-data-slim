@@ -6,10 +6,14 @@ SAWK:
 # 1825/116 - Demon-Vanquishing Hymn
 Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Changes all Orbs to Fire, Water, Wood & Dark Orbs; inflicts 100,000 damage on all enemies
+JP: Change all orbs to Fire, Water, Wood, and Dark orbs; Deal 100000 fixed damage to all enemies
 EN: Change all orbs to Fire, Water, Wood, and Dark orbs; Deal 100000 fixed damage to all enemies
+KR: Change all orbs to Fire, Water, Wood, and Dark orbs; Deal 100000 fixed damage to all enemies
 
 # 7643/138 - Vanguard of Mystic Summoning
 Tags: ENHANCED_ATK_RCV,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2.5x ATK & RCV for Attacker Type; 3.5x ATK when Fire, Water, Wood & Dark attack at once
+JP: [No skyfall] 2.5x ATK & RCV for Attacker type; 3.5x ATK when matching Fire, Water, Wood, Dark at once
 EN: [No skyfall] 2.5x ATK & RCV for Attacker type; 3.5x ATK when matching Fire, Water, Wood, Dark at once
+KR: [No skyfall] 2.5x ATK & RCV for Attacker type; 3.5x ATK when matching Fire, Water, Wood, Dark at once
 

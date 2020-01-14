@@ -6,10 +6,14 @@ SAWK: 43,52,59
 # 6889/116 - Wild Wind
 Tags: VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; other allies' skills charged by 1 turn
+JP: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 EN: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
+KR: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 
 # 11361/138 - Hey! Get over here!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 1.5x HP & 4x ATK for Attacker Type, Orb move time +3 seconds; 3.5x ATK & reduces damage with 6+ combos
+JP: 4x ATK and 1.5x HP for Attacker type; Increase orb movement time by 3 seconds; 3.5x ATK and reduce damage taken by 25% when 6 or more combos
 EN: 4x ATK and 1.5x HP for Attacker type; Increase orb movement time by 3 seconds; 3.5x ATK and reduce damage taken by 25% when 6 or more combos
+KR: 4x ATK and 1.5x HP for Attacker type; Increase orb movement time by 3 seconds; 3.5x ATK and reduce damage taken by 25% when 6 or more combos
 

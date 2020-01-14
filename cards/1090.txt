@@ -6,10 +6,14 @@ SAWK: 60,43,48
 # 116/116 - Magma Ball
 Tags: MASSIVE_ATTACK,ORB_CONVERT
 Game: Inflicts 20,000 Fire Att. damage on all enemies; changes Dark Orbs to Fire Orbs
+JP: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
 EN: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
+KR: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
 
 # 594/17 - Fire Dragon's Protection
 Tags: REDUCE_DAMAGE
 Game: Greatly reduces Fire Att. damage
+JP: Reduce damage taken from fire att. by 55%
 EN: Reduce damage taken from fire att. by 55%
+KR: Reduce damage taken from fire att. by 55%
 

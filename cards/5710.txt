@@ -6,10 +6,14 @@ SAWK: 43,55,37
 # 15272/116 - チェンジ、ブラックシンカリオン！
 Tags: ENHANCED_ATTACK,ORB_CONVERT
 Game: 水、回復、お邪魔、毒ドロップを闇ドロップに変化。 1ターンの間、闇属性の攻撃力が2倍。
+JP: Change Water, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, 2x ATK for Dark Att.
 EN: Change Water, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, 2x ATK for Dark Att.
+KR: Change Water, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, 2x ATK for Dark Att.
 
 # 15281/138 - 超ダークカイサツソード
 Tags: ENHANCED_ATK_RCV
 Game: 闇属性の攻撃力が10倍。闇の2コンボ以上で固定10万ダメージ。 闇の5個L字消しで、攻撃力と回復力が2倍。
+JP: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
 EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
+KR: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
 

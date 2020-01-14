@@ -6,10 +6,14 @@ SAWK: 52,43,53
 # 10218/116 - Spirit Sword
 Tags: FIXED_DAMAGE
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd column from the right to Light Orbs
+JP: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
+KR: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
 
 # 10221/138 - You risked your life. Now I'm gonna do the same.
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & 2.5x ATK for Light Att.; 3x ATK with 5+ linked Light Orbs
+JP: 2.5x ATK and 1.5x HP for Light Att.; 3x ATK when matching 5 or more connected Light orbs
 EN: 2.5x ATK and 1.5x HP for Light Att.; 3x ATK when matching 5 or more connected Light orbs
+KR: 2.5x ATK and 1.5x HP for Light Att.; 3x ATK when matching 5 or more connected Light orbs
 

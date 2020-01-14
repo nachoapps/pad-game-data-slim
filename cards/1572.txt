@@ -6,10 +6,14 @@ SAWK:
 # 1633/59 - スナイプショット
 Tags: SINGLE_TARGET_ATTACK
 Game: 敵1体に攻撃力×80倍の闇属性攻撃。
+JP: Deal 80x Dark damage to an enemy
 EN: Deal 80x Dark damage to an enemy
+KR: Deal 80x Dark damage to an enemy
 
 # 1925/121 - 本格的なバカだぜ！
 Tags: ENHANCED_ATK
 Game: 攻撃タイプの攻撃力が1.5倍。
+JP: 1.5x ATK for Attacker type
 EN: 1.5x ATK for Attacker type
+KR: 1.5x ATK for Attacker type
 

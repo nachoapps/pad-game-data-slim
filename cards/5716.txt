@@ -6,10 +6,14 @@ SAWK: 21,60,43
 # 15305/116 - これがおいの力です！
 Tags: ATTACK_STANCE,ORB_CONVERT,EXTENDS_TIME
 Game: 回復ドロップを闇ドロップに変化。 1ターンの間、ドロップ操作を1秒延長。
+JP: Change Heal orbs to Dark orbs; For 1 turn, increase orb move time by 1 second
 EN: Change Heal orbs to Dark orbs; For 1 turn, increase orb move time by 1 second
+KR: Change Heal orbs to Dark orbs; For 1 turn, increase orb move time by 1 second
 
 # 15312/138 - ドウリンハンマー
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: マシンタイプのHPと攻撃力が1.5倍。 闇の5個L字消しでダメージを軽減、攻撃力が6倍。
+JP: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
 EN: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+KR: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
 

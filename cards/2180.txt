@@ -6,10 +6,14 @@ SAWK:
 # 694/3 - The Feathered Garment of Yomi
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 3 turns
+JP: For 3 turns, reduce damage taken by 35%
 EN: For 3 turns, reduce damage taken by 35%
+KR: For 3 turns, reduce damage taken by 35%
 
 # 2998/138 - Logic of the Underground
 Tags: ENHANCED_ATK
 Game: 4x ATK for God & Physical Types, but reduces overall HP
+JP: 0.75x HP; 4x ATK for Physical, God type
 EN: 0.75x HP; 4x ATK for Physical, God type
+KR: 0.75x HP; 4x ATK for Physical, God type
 

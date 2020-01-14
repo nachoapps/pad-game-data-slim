@@ -6,10 +6,14 @@ SAWK: 27,44,54
 # 2642/116 - ボルメテウス・W・フレア
 Tags: ORB_REFRESH
 Game: 自分以外の味方スキルが1ターン溜まる。 ランダムでドロップを入れ替える。
+JP: Charge all allies' skills by 1 turn; Replace all orbs
 EN: Charge all allies' skills by 1 turn; Replace all orbs
+KR: Charge all allies' skills by 1 turn; Replace all orbs
 
 # 4311/138 - Blue Dragon King's Flame
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Dragon & Machine Types; 6x ATK when4+ Att. (3+Heal) attack at once
+JP: 6x ATK when matching 4 or more colors (3+heal); 2x ATK & RCV for Dragon, Machine type
 EN: 6x ATK when matching 4 or more colors (3+heal); 2x ATK & RCV for Dragon, Machine type
+KR: 6x ATK when matching 4 or more colors (3+heal); 2x ATK & RCV for Dragon, Machine type
 

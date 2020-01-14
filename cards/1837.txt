@@ -6,10 +6,14 @@ SAWK:
 # 1826/116 - Ghost Star's Gleam
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
 Game: 1.5x ATK for Balanced Type for 1 turn; halves damage for 1 turn
+JP: For 1 turn, reduce damage taken by 50%; For 1 turn, 1.5x ATK for Balanced type
 EN: For 1 turn, reduce damage taken by 50%; For 1 turn, 1.5x ATK for Balanced type
+KR: For 1 turn, reduce damage taken by 50%; For 1 turn, 1.5x ATK for Balanced type
 
 # 4001/138 - Medjellusion
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK for Wood Att. when HP is 50% or more; 1.5x RCV when Soul-Judging GDR, Osiris on team
+JP: 3x ATK for Wood Att. when above 50% HP; 1.5x RCV if [2386] is on the team
 EN: 3x ATK for Wood Att. when above 50% HP; 1.5x RCV if [2386] is on the team
+KR: 3x ATK for Wood Att. when above 50% HP; 1.5x RCV if [2386] is on the team
 

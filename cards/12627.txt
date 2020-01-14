@@ -6,10 +6,14 @@ SAWK:
 # 7917/59 - Gigantic Gladiator
 Tags: SINGLE_TARGET_ATTACK
 Game: Inflicts random Wood Att. damage on 1 enemy
+JP: Randomized Wood damage to an enemy(1~50x)
 EN: Randomized Wood damage to an enemy(1~50x)
+KR: Randomized Wood damage to an enemy(1~50x)
 
 # 7918/129 - Destructive Behavior
 Tags: ENHANCED_ATK
 Game: 2x ATK for Attacker Type
+JP: 2x ATK for Attacker type
 EN: 2x ATK for Attacker type
+KR: 2x ATK for Attacker type
 

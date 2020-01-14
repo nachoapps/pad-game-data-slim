@@ -6,10 +6,14 @@ SAWK:
 # 477/35 - Ninja Art Shadow Tag
 Tags: ATTACK_AND_HEAL
 Game: Inflict 20x your ATK on 1 enemy & heal a bit
+JP: Deal 20x ATK damage to an enemy and recover 5% of the damage as HP
 EN: Deal 20x ATK damage to an enemy and recover 5% of the damage as HP
+KR: Deal 20x ATK damage to an enemy and recover 5% of the damage as HP
 
 # 533/15 - Ninja's Stealth Walk
 Tags: EXTEND_TIME
 Game: Orb move time +1.5 seconds
+JP: Increase orb movement time by 1.5 seconds
 EN: Increase orb movement time by 1.5 seconds
+KR: Increase orb movement time by 1.5 seconds
 

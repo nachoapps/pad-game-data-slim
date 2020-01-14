@@ -6,10 +6,14 @@ SAWK: 43,47,59
 # 9228/116 - Nene's Seal of Approval
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes Orbs to Water, Dark & Heal Orbs
+JP: For 1 turn, increase combo count by 2; Change all orbs to Water, Dark, and Heal orbs
 EN: For 1 turn, increase combo count by 2; Change all orbs to Water, Dark, and Heal orbs
+KR: For 1 turn, increase combo count by 2; Change all orbs to Water, Dark, and Heal orbs
 
 # 9231/138 - So much tasty candy!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Dark Att. but unable to erase 3 Orbs or less; 4x ATK and reduces damage with 6+ linked Dark Orbs
+JP: [Unable to erase 3 orbs or less] 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 EN: [Unable to erase 3 orbs or less] 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+KR: [Unable to erase 3 orbs or less] 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 

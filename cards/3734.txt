@@ -6,10 +6,14 @@ SAWK: 35,22,58
 # 8326/116 - Fireworks Extravaganza
 Tags: ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire Orbs; other allies' skills charged by 1 turn
+JP: Change all orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire orbs; Charge all allies' skills by 1 turn
+KR: Change all orbs to Fire orbs; Charge all allies' skills by 1 turn
 
 # 8329/138 - Showdown 565 - Super Multi Turbo
 Tags: ENHANCED_ATK
 Game: 4x ATK when HP is 80% or less, 7x ATK when HP is 20% or less; 1.5x ATK in Multiplayer Mode
+JP: 7x ATK when below 20% HP; 4x ATK when below 80% HP; 1.5x ATK when in multiplayer mode
 EN: 7x ATK when below 20% HP; 4x ATK when below 80% HP; 1.5x ATK when in multiplayer mode
+KR: 7x ATK when below 20% HP; 4x ATK when below 80% HP; 1.5x ATK when in multiplayer mode
 

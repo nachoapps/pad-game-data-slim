@@ -6,10 +6,14 @@ SAWK: 33,34,31
 # 5217/116 - Secret Blow
 Tags: MENACE,SINGLE_TARGET_ATTACK,SUICIDE
 Game: Inflicts 100,000 Fire dmg on 1 enemy but halves overall HP; delays enemies' next move for 1 turn
+JP: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
 EN: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
+KR: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
 
 # 5578/138 - Final round. Here comes.
 Tags: ENHANCED_HP_ATK
 Game: 2.5x ATK & 2x HP for Devil Type; 1.5x ATK when erasing 6+ linked Fire Orbs
+JP: 2.5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Fire orbs
 EN: 2.5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Fire orbs
+KR: 2.5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Fire orbs
 

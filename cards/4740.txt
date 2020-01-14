@@ -6,10 +6,14 @@ SAWK: 48,58,54
 # 11374/116 - Divine Punishment of Calamity
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
 Game: Inflicts 100x ATK Dark Att. attack on 1 enemy, but HP -20%; removes Orb locks, changes Orbs to Light & Dark
+JP: Reduce HP by 20%; Deal 100x Dark damage to an enemy; Unlock all orbs; Change all orbs to Light and Dark orbs
 EN: Reduce HP by 20%; Deal 100x Dark damage to an enemy; Unlock all orbs; Change all orbs to Light and Dark orbs
+KR: Reduce HP by 20%; Deal 100x Dark damage to an enemy; Unlock all orbs; Change all orbs to Light and Dark orbs
 
 # 11378/138 - Judgment of the Divine Wings
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 3x ATK when HP is 80% or less, 2x HP & ATK for God Type; 2.5x ATK & reduces damage with 7+ combos
+JP: 3x ATK when below 80% HP; 2x HP & ATK for God type; 2.5x ATK and reduce damage taken by 25% when 7 or more combos
 EN: 3x ATK when below 80% HP; 2x HP & ATK for God type; 2.5x ATK and reduce damage taken by 25% when 7 or more combos
+KR: 3x ATK when below 80% HP; 2x HP & ATK for God type; 2.5x ATK and reduce damage taken by 25% when 7 or more combos
 

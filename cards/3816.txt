@@ -6,10 +6,14 @@ SAWK: 52,43,27
 # 8493/116 - Whatever happens...I'll protect you!
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Changes all Orbs to Light, Dark & Heal Orbs; adds 1 combo for 1 turn
+JP: Change all orbs to Light, Dark, and Heal orbs; For 1 turn, increase combo count by 1
 EN: Change all orbs to Light, Dark, and Heal orbs; For 1 turn, increase combo count by 1
+KR: Change all orbs to Light, Dark, and Heal orbs; For 1 turn, increase combo count by 1
 
 # 8496/138 - Holy Flame
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK & RCV for Attacker & Healer Types; 4x ATK when Light & Dark attack at once
+JP: 3x ATK & RCV for Healer, Attacker type; 4x ATK when matching Light+Dark
 EN: 3x ATK & RCV for Healer, Attacker type; 4x ATK when matching Light+Dark
+KR: 3x ATK & RCV for Healer, Attacker type; 4x ATK when matching Light+Dark
 

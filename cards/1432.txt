@@ -6,10 +6,14 @@ SAWK:
 # 987/116 - ネビュラチェーン
 Tags: ENHANCED_ATTACK,FIXED_DAMAGE
 Game: 敵1体に10000の固定ダメージ。 2ターンの間、回復タイプの攻撃力が2倍。
+JP: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type
 EN: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type
+KR: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type
 
 # 1707/121 - ぼくはいかなければ…
 Tags: ENHANCED_ATK
 Game: 火属性と回復タイプの攻撃力が2.5倍。
+JP: 2.5x ATK for Healer type and Fire Att.
 EN: 2.5x ATK for Healer type and Fire Att.
+KR: 2.5x ATK for Healer type and Fire Att.
 

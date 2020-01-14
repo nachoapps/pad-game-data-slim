@@ -6,10 +6,14 @@ SAWK: 59,21,27
 # 10712/116 - Starbreeze Hoop
 Tags: DROP_CHANCE,VOID_DAMAGE_ABSORBS
 Game: Wood Orbs slightly more likely to appear for 3 turns; voids damage absorption for 1 turn
+JP: For 3 turns, Wood orbs are more likely to appear by 15%; For 1 turn, bypass damage absorb shield effects
 EN: For 3 turns, Wood orbs are more likely to appear by 15%; For 1 turn, bypass damage absorb shield effects
+KR: For 3 turns, Wood orbs are more likely to appear by 15%; For 1 turn, bypass damage absorb shield effects
 
 # 10715/138 - Panera's Grand Show
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: [Orb move time: 4 sec], 3x ATK for Balanced & Devil Types; 6x ATK & reduces damage when 4+ Att. attack at once
+JP: [Fixed 4 second movetime] 3x ATK for Balanced, Devil type; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 EN: [Fixed 4 second movetime] 3x ATK for Balanced, Devil type; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: [Fixed 4 second movetime] 3x ATK for Balanced, Devil type; 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 

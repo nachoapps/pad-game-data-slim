@@ -6,10 +6,14 @@ SAWK:
 # 5089/116 - Force of All Orbs 
 Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 999 damage on 1 enemy; changes Orbs to all Attributes & Heal
+JP: Deal 999 fixed damage to an enemy; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Deal 999 fixed damage to an enemy; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Deal 999 fixed damage to an enemy; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 4826/138 - Dragon Element
 Tags: ENHANCED_ATK_RCV
 Game: ATK increases with 4+ Att. (3+Heal), up to 7x; 1.5x ATK & RCV for Dragon Type
+JP: 2x ATK when matching 4 or more colors (3+heal) up to 7x at 5 colors+heal; 1.5x ATK & RCV for Dragon type
 EN: 2x ATK when matching 4 or more colors (3+heal) up to 7x at 5 colors+heal; 1.5x ATK & RCV for Dragon type
+KR: 2x ATK when matching 4 or more colors (3+heal) up to 7x at 5 colors+heal; 1.5x ATK & RCV for Dragon type
 

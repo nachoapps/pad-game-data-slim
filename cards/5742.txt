@@ -6,10 +6,14 @@ SAWK: 52,53,56
 # 602/116 - Muscle Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
 Game: 3x ATK for Physical Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
+KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
 
 # 15155/138 - ドットストライク・水
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: 水を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 水を9個以上つなげて消すと、固定1ダメージ。
+JP: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
 EN: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
+KR: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
 

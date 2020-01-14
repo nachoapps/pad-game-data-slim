@@ -6,5 +6,7 @@ SAWK:
 # 9813/116 - Kinsect: Harvest Extract
 Tags: REDUCE_DAMAGE,ATTACK_AND_HEAL
 Game: Inflicts 20x ATK attack on 1 enemy, recovers half the dmg as HP; reduces damage for 1 turn
+JP: Deal 20x ATK damage to an enemy and recover 50% of the damage as HP; For 1 turn, reduce damage taken by 35%
 EN: Deal 20x ATK damage to an enemy and recover 50% of the damage as HP; For 1 turn, reduce damage taken by 35%
+KR: Deal 20x ATK damage to an enemy and recover 50% of the damage as HP; For 1 turn, reduce damage taken by 35%
 

@@ -6,10 +6,14 @@ SAWK: 54,57,42
 # 14144/116 - 手に何も持たぬことを旨とする道―
 Tags: ORB_CONVERT,CHANGE_ENEMIES_ATTRIBUTE
 Game: 敵全体が闇属性に変化。(バリアの影響は受けない) お邪魔、毒、爆弾ドロップを光ドロップに変化。
+JP: Change all enemies to Dark Att.; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 EN: Change all enemies to Dark Att.; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
+KR: Change all enemies to Dark Att.; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 
 # 14148/138 - 空手家が空手使ってどこがワルいンでェ
 Tags: ENHANCED_ATK
 Game: HP80％以上で攻撃力が4倍、79％以下で2倍。 6コンボ以上で攻撃力が3.5倍。
+JP: 4x ATK when above 80% HP; 2x ATK when below 79% HP; 3.5x ATK when 6 or more combos
 EN: 4x ATK when above 80% HP; 2x ATK when below 79% HP; 3.5x ATK when 6 or more combos
+KR: 4x ATK when above 80% HP; 2x ATK when below 79% HP; 3.5x ATK when 6 or more combos
 

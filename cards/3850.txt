@@ -6,10 +6,14 @@ SAWK: 27,43,48
 # 8781/116 - Burning Inner Strength
 Tags: SINGLE_TARGET_ATTACK,ORB_CONVERT,SUICIDE
 Game: Inflicts 100x ATK Fire Att. attack on 1 enemy, but HP -50%; changes Jammers, Wood & Poison Orbs to Fire Orbs
+JP: Reduce HP by 50%; Deal 100x Fire damage to an enemy; Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 EN: Reduce HP by 50%; Deal 100x Fire damage to an enemy; Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs
+KR: Reduce HP by 50%; Deal 100x Fire damage to an enemy; Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 
 # 8784/138 - Perfect Muscle Spark
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK when HP is 80% or less, 6x ATK when HP is 50% or less; 4x ATK & halves dmg with 2+ Fire combos
+JP: 6x ATK when below 50% HP; 4x ATK when below 80% HP; 4x ATK and reduce damage taken by 50% when matching 2+ Fire combos
 EN: 6x ATK when below 50% HP; 4x ATK when below 80% HP; 4x ATK and reduce damage taken by 50% when matching 2+ Fire combos
+KR: 6x ATK when below 50% HP; 4x ATK when below 80% HP; 4x ATK and reduce damage taken by 50% when matching 2+ Fire combos
 

@@ -6,10 +6,14 @@ SAWK: 48,43,32
 # 12663/116 - Dragon Roar of the Master of Nine Strikes
 Tags: EXTENDS_TIME
 Game: Creates 2 Wood Orbs at random; Orb move time +1 second for 1 turn
+JP: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
 EN: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
+KR: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
 
 # 12669/138 - Great Stormfire Multistrike
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage with 6+ combos; 5x ATK & reduces damage with 5+ linked Fire or Wood Orbs
+JP: 3x ATK and reduce damage taken by 25% when 6 or more combos; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Fire or Wood orbs
 EN: 3x ATK and reduce damage taken by 25% when 6 or more combos; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Fire or Wood orbs
+KR: 3x ATK and reduce damage taken by 25% when 6 or more combos; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Fire or Wood orbs
 

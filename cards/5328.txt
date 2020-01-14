@@ -6,10 +6,14 @@ SAWK: 58,48,45
 # 13509/116 - Heated Harmonic
 Tags: ALL_ORBS_CONVERT,SUICIDE
 Game: Halves HP; changes Orbs to all Attributes & Heal
+JP: Reduce HP by 50%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Reduce HP by 50%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Reduce HP by 50%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13513/138 - Eternal Dragon Player - Arco
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 4x ATK for Fire Att., Orb move time +2 seconds; 4x ATK & reduces damage when Fire & Dark attack at once
+JP: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching Fire+Dark
 EN: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching Fire+Dark
+KR: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching Fire+Dark
 

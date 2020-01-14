@@ -6,10 +6,14 @@ SAWK: 52,43,55
 # 10519/116 - Mantra Purification
 Tags: ALL_ORBS_CONVERT,NEW_GRAVITY
 Game: Inflicts damage equal to 10% of enemies' max HP; changes all Orbs to Fire, Light & Dark Orbs
+JP: Deal damage equal to 10% of enemies' max HP; Change all orbs to Fire, Light, and Dark orbs
 EN: Deal damage equal to 10% of enemies' max HP; Change all orbs to Fire, Light, and Dark orbs
+KR: Deal damage equal to 10% of enemies' max HP; Change all orbs to Fire, Light, and Dark orbs
 
 # 13571/138 - Spirit of the Evil Conquering Goddess
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 1.5x HP & 2x ATK for Fire Att.; 8x ATK & reduces damage with 8+ combos
+JP: [No skyfall] 2x ATK and 1.5x HP for Fire Att.; 8x ATK and reduce damage taken by 25% when 8 or more combos
 EN: [No skyfall] 2x ATK and 1.5x HP for Fire Att.; 8x ATK and reduce damage taken by 25% when 8 or more combos
+KR: [No skyfall] 2x ATK and 1.5x HP for Fire Att.; 8x ATK and reduce damage taken by 25% when 8 or more combos
 

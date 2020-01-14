@@ -6,10 +6,14 @@ SAWK:
 # 1824/141 - Guiding Light Hymn
 Tags: 
 Game: Creates 4 Light Orbs at random
+JP: Create 4 Light orbs
 EN: Create 4 Light orbs
+KR: Create 4 Light orbs
 
 # 2471/138 - Banishing Order
 Tags: ENHANCED_HP_ATK
 Game: Attacker Type ATK & HP increase slightly; 3x ATK with 2+ Lt+Lt or Lt+Fr combos
+JP: 1.25x HP & ATK for Attacker type; 3x ATK when matching Fire+Light(Light+Light)
 EN: 1.25x HP & ATK for Attacker type; 3x ATK when matching Fire+Light(Light+Light)
+KR: 1.25x HP & ATK for Attacker type; 3x ATK when matching Fire+Light(Light+Light)
 

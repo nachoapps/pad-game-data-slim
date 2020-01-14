@@ -6,10 +6,14 @@ SAWK: 36,37,38
 # 11660/116 - Prism Blue Burst
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE
 Game: Inflicts 100x ATK Water Att. attack on 1 enemy, but halves HP; changes all Orbs to Water Orbs
+JP: Reduce HP by 50%; Deal 100x Water damage to an enemy; Change all orbs to Water orbs
 EN: Reduce HP by 50%; Deal 100x Water damage to an enemy; Change all orbs to Water orbs
+KR: Reduce HP by 50%; Deal 100x Water damage to an enemy; Change all orbs to Water orbs
 
 # 11666/138 - MN1461 - Multi Turbo
 Tags: ENHANCED_HP_ATK
 Game: 7x ATK when HP is 50% or less; 2x HP & ATK in Multiplayer Mode
+JP: 7x ATK when below 50% HP; 2x HP & ATK when in multiplayer mode
 EN: 7x ATK when below 50% HP; 2x HP & ATK when in multiplayer mode
+KR: 7x ATK when below 50% HP; 2x HP & ATK when in multiplayer mode
 

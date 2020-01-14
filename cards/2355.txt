@@ -6,10 +6,14 @@ SAWK: 43,48,57
 # 3384/116 - I'll kill them all!
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 30% of max HP and reduces bind status by 3 turns; other allies' skills charged by 1 turn
+JP: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
+KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 
 # 3617/138 - Aaaaahhhhh!!
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 6x ATK for Atkr & Phys when HP is 80% or more, 3x when 79% or less; recovers 10x RCV as HP when matching Orbs
+JP: 10x ATK when below 79% HP; 16x ATK when above 80% HP; 20x RCV additional heal when matching orbs
 EN: 10x ATK when below 79% HP; 16x ATK when above 80% HP; 20x RCV additional heal when matching orbs
+KR: 10x ATK when below 79% HP; 16x ATK when above 80% HP; 20x RCV additional heal when matching orbs
 

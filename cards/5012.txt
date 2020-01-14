@@ -6,10 +6,14 @@ SAWK: 23,50,52
 # 12515/116 - You're not getting it at all, as always!
 Tags: ADD_COMBO,ORB_LOCK
 Game: Adds 1 combo for 1 turn; all Orbs locked
+JP: For 1 turn, increase combo count by 1; Lock all orbs
 EN: For 1 turn, increase combo count by 1; Lock all orbs
+KR: For 1 turn, increase combo count by 1; Lock all orbs
 
 # 12518/138 - The teachings of Matou were all mine!
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 5x ATK when HP is full, Orb move time +2 seconds; 2x ATK & RCV for Water Att.
+JP: 5x ATK when HP is full; 2x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds
 EN: 5x ATK when HP is full; 2x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds
+KR: 5x ATK when HP is full; 2x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds
 

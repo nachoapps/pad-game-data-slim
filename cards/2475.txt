@@ -6,10 +6,14 @@ SAWK:
 # 3721/116 - We're friends, aren't we?
 Tags: ALL_ORBS_CONVERT,EXTENDS_TIME
 Game: Changes Orbs to Fire, Light and Heal Orbs; extends time to move Orbs 1.5x for 2 turns
+JP: Change all orbs to Fire, Light, and Heal orbs; For 2 turns, 1.5x orb move time
 EN: Change all orbs to Fire, Light, and Heal orbs; For 2 turns, 1.5x orb move time
+KR: Change all orbs to Fire, Light, and Heal orbs; For 2 turns, 1.5x orb move time
 
 # 4135/138 - Amol Dherrsaiqa
 Tags: ENHANCED_HP_ATK
 Game: Attacker Type HP increases slightly; 4x ATK for Att. erasing 5 Orbs with 1+ enhanced
+JP: 1.2x HP for Attacker type; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 EN: 1.2x HP for Attacker type; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 1.2x HP for Attacker type; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 

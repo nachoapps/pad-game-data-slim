@@ -6,10 +6,14 @@ SAWK: 54,45,52
 # 7010/116 - This ain't a gamble, it's strategy!
 Tags: REDUCE_DAMAGE
 Game: Changes 3 non-Water Orbs to Heal Orbs; vastly reduces damage for 1 turn
+JP: Create 3 Heal orbs over non Water orbs; For 1 turn, reduce damage taken by 75%
 EN: Create 3 Heal orbs over non Water orbs; For 1 turn, reduce damage taken by 75%
+KR: Create 3 Heal orbs over non Water orbs; For 1 turn, reduce damage taken by 75%
 
 # 7014/151 - Yeah... It's all been for this moment!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK &, halves damage with a cross of 5 Heal Orbs
+JP: 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

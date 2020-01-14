@@ -6,10 +6,14 @@ SAWK: 45,54,55
 # 10106/116 - Idiot...
 Tags: ENHANCED_HEAL,RECOVER_BIND,REMOVE_LOCK
 Game: Removes Orb locks, bind status reduced by 3 turns; 2x RCV for 5 turns
+JP: Unlock all orbs; Reduce binds by 5 turns; For 3 turns, 2x RCV
 EN: Unlock all orbs; Reduce binds by 5 turns; For 3 turns, 2x RCV
+KR: Unlock all orbs; Reduce binds by 5 turns; For 3 turns, 2x RCV
 
 # 10110/138 - It's tough, isn't it? For both of us...
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Balanced Type; 3x ATK when 3+ Att. attack at once
+JP: 2x HP & ATK for Balanced type; 3x ATK when matching 3 or more colors
 EN: 2x HP & ATK for Balanced type; 3x ATK when matching 3 or more colors
+KR: 2x HP & ATK for Balanced type; 3x ATK when matching 3 or more colors
 

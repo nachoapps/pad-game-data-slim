@@ -6,10 +6,14 @@ SAWK:
 # 10841/116 - Act of Heroism
 Tags: REDUCE_DAMAGE,ADD_COMBO
 Game: Reduces damage for 3 turns; adds 1 combo for 3 turns
+JP: For 3 turns, reduce damage taken by 35%; For 3 turns, increase combo count by 1
 EN: For 3 turns, reduce damage taken by 35%; For 3 turns, increase combo count by 1
+KR: For 3 turns, reduce damage taken by 35%; For 3 turns, increase combo count by 1
 
 # 10844/138 - Martial Paragon
 Tags: ENHANCED_ATK,RESOLVE
 Game: 5x ATK when HP is 50% or more, 8x ATK when 20% or less; may survive when HP is reduced to 0
+JP: 5x ATK when above 50% HP; 8x ATK when below 20% HP; May survive when HP is reduced to 0 (HP>50%)
 EN: 5x ATK when above 50% HP; 8x ATK when below 20% HP; May survive when HP is reduced to 0 (HP>50%)
+KR: 5x ATK when above 50% HP; 8x ATK when below 20% HP; May survive when HP is reduced to 0 (HP>50%)
 

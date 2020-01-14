@@ -6,10 +6,14 @@ SAWK: 52,43,72
 # 5498/116 - Poison Shout
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
 Game: Changes the top row to Poison Orbs; halves damage for 1 turn
+JP: Change the top row to Poison orbs; For 1 turn, reduce damage taken by 50%
 EN: Change the top row to Poison orbs; For 1 turn, reduce damage taken by 50%
+KR: Change the top row to Poison orbs; For 1 turn, reduce damage taken by 50%
 
 # 6196/138 - I've...gotta sing...
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV with 4+ combos; 3.5x ATK when erasing 6+ linked Poison or Lethal Poison Orbs
+JP: 2x ATK & RCV when 4 or more combos; 3.5x ATK when matching 6 or more connected Poison or Mortal Poison orbs
 EN: 2x ATK & RCV when 4 or more combos; 3.5x ATK when matching 6 or more connected Poison or Mortal Poison orbs
+KR: 2x ATK & RCV when 4 or more combos; 3.5x ATK when matching 6 or more connected Poison or Mortal Poison orbs
 

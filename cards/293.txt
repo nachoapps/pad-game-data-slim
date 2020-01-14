@@ -6,10 +6,14 @@ SAWK:
 # 42/9 - Guard Stance - Water
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Fire Orbs to Heal Orbs
+JP: Change Fire orbs to Heal orbs
 EN: Change Fire orbs to Heal orbs
+KR: Change Fire orbs to Heal orbs
 
 # 304/36 - Ice Flame Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Water & Fire Att. damage
+JP: Reduce damage taken from water, fire att. by 50%
 EN: Reduce damage taken from water, fire att. by 50%
+KR: Reduce damage taken from water, fire att. by 50%
 

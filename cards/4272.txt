@@ -6,10 +6,14 @@ SAWK: 27,44,52
 # 8287/116 - Unburdening Brilliance
 Tags: VOID_DAMAGE,REMOVE_LOCK
 Game: Removes Orb locks; voids damage for 1 turn
+JP: Unlock all orbs; For 1 turn, reduce damage taken by 100%
 EN: Unlock all orbs; For 1 turn, reduce damage taken by 100%
+KR: Unlock all orbs; For 1 turn, reduce damage taken by 100%
 
 # 10158/138 - Spirit of the Scholarly God
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
 Game: [7x6 board], 1.5x ATK for God Type; ATK increases with 3+ Light combos, up to 9x
+JP: [Board becomes 7x6] 1.5x ATK for God type; 3x ATK when matching 3 Light combos, up to 9x at 5 Light combos
 EN: [Board becomes 7x6] 1.5x ATK for God type; 3x ATK when matching 3 Light combos, up to 9x at 5 Light combos
+KR: [Board becomes 7x6] 1.5x ATK for God type; 3x ATK when matching 3 Light combos, up to 9x at 5 Light combos
 

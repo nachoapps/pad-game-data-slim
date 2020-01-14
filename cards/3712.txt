@@ -6,10 +6,14 @@ SAWK:
 # 8065/116 - Holy Fire's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs to Fire & Dark Orbs to Heal; recovers 30% of max HP
+JP: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
 EN: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+KR: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
 
 # 8068/138 - Flame Angel's Divine Will
 Tags: ENHANCED_ATK
 Game: 4x ATK for Fire Att. when HP is 80% or more; 3.5x ATK with 2+ Heal combos
+JP: 4x ATK for Fire Att. when above 80% HP; 3.5x ATK when matching 2+ Heal combos
 EN: 4x ATK for Fire Att. when above 80% HP; 3.5x ATK when matching 2+ Heal combos
+KR: 4x ATK for Fire Att. when above 80% HP; 3.5x ATK when matching 2+ Heal combos
 

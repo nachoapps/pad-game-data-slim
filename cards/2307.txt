@@ -6,10 +6,14 @@ SAWK:
 # 1822/116 - Holy Water Hymn
 Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Changes all Orbs to Water, Wood, Light & Dark Orbs; inflicts 100,000 damage on all enemies
+JP: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
 EN: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
+KR: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
 
 # 52/138 - Water Power
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 1.5x ATK for Water Att.; Orb move time +2 seconds
+JP: 1.5x ATK for Water Att.; Increase orb movement time by 2 seconds
 EN: 1.5x ATK for Water Att.; Increase orb movement time by 2 seconds
+KR: 1.5x ATK for Water Att.; Increase orb movement time by 2 seconds
 

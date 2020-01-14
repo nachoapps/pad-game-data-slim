@@ -6,10 +6,14 @@ SAWK: 37,58,52
 # 12996/116 - Chorus of a Thousand Skulls
 Tags: SINGLE_TARGET_ATTACK,ORB_CONVERT,SUICIDE
 Game: Inflicts 100x ATK Dk Att. attack on 1 enemy, but halves HP; changes Jammers, Poison & Heal Orbs to Dark Orbs
+JP: Reduce HP by 50%; Deal 100x Dark damage to an enemy; Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
 EN: Reduce HP by 50%; Deal 100x Dark damage to an enemy; Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+KR: Reduce HP by 50%; Deal 100x Dark damage to an enemy; Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 12999/138 - It should be the perfect way to make myself a reputation.
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 4x ATK when HP is 80% or less, 2x HP & ATK for Dark Att.; bonus attack equal to 50x ATK when matching Orbs
+JP: 4x ATK when below 80% HP; 2x HP & ATK for Dark Att.; 50x ATK additional damage when matching orbs
 EN: 4x ATK when below 80% HP; 2x HP & ATK for Dark Att.; 50x ATK additional damage when matching orbs
+KR: 4x ATK when below 80% HP; 2x HP & ATK for Dark Att.; 50x ATK additional damage when matching orbs
 

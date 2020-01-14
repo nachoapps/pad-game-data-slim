@@ -6,10 +6,14 @@ SAWK:
 # 1674/116 - Green Crest
 Tags: ENHANCED_ATTACK,FIXED_DAMAGE
 Game: Inflicts 100,000 damage on 1 enemy; 2.5x ATK for Balanced Type for 2 turns
+JP: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Balanced type
 EN: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Balanced type
+KR: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Balanced type
 
 # 2444/61 - Three Tastes in One - Wt, Wd & Lt
 Tags: ENHANCED_ATK
 Game: 2.5x ATK when Water, Wood & Light attack at once
+JP: 2.5x ATK when matching Water, Wood, Light at once
 EN: 2.5x ATK when matching Water, Wood, Light at once
+KR: 2.5x ATK when matching Water, Wood, Light at once
 

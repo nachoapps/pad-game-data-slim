@@ -6,10 +6,14 @@ SAWK:
 # 10722/116 - ハン！バー！！グー！！！
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: 木ドロップを火に、回復ドロップを木に変化。 1ターンの間、火と木属性の攻撃力が2倍。
+JP: Change Wood orbs to Fire orbs; Change Heal orbs to Wood orbs; For 1 turn, 2x ATK for Fire, Wood Att.
 EN: Change Wood orbs to Fire orbs; Change Heal orbs to Wood orbs; For 1 turn, 2x ATK for Fire, Wood Att.
+KR: Change Wood orbs to Fire orbs; Change Heal orbs to Wood orbs; For 1 turn, 2x ATK for Fire, Wood Att.
 
 # 10725/138 - いただ禁貨ー！！
 Tags: COIN,EXP
 Game: ダンジョン潜入時リーダーの時に入手コインが2.5倍、 ランク経験値がほんの少し上昇。
+JP: 2.5x Coin Drop rate; 1.2x Rank EXP
 EN: 2.5x Coin Drop rate; 1.2x Rank EXP
+KR: 2.5x Coin Drop rate; 1.2x Rank EXP
 

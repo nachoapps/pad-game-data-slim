@@ -6,10 +6,14 @@ SAWK: 47,44,52
 # 9436/116 - I pull the trigger by my own free will.
 Tags: SINGLE_TARGET_ATTACK,AWOKEN_INVALID_RECOVERY
 Game: Reduces Awoken Skill bind status by 5 turns; inflicts 40 damage on 1 enemy five times
+JP: Reduce awoken skill binds by 5 turns; Deal 40 damage to an enemy 5 times
 EN: Reduce awoken skill binds by 5 turns; Deal 40 damage to an enemy 5 times
+KR: Reduce awoken skill binds by 5 turns; Deal 40 damage to an enemy 5 times
 
 # 9439/138 - This is my duty.
 Tags: ENHANCED_ATK
 Game: ATK increases with 5+ combos, up to 3.5x; 2x ATK for Att. erasing 5 Orbs including enhanced
+JP: 2.5x ATK when 5 or more combos up to 3.5x at 7 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 EN: 2.5x ATK when 5 or more combos up to 3.5x at 7 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 2.5x ATK when 5 or more combos up to 3.5x at 7 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 

@@ -6,10 +6,14 @@ SAWK:
 # 3855/116 - Trembling Sky Roar
 Tags: DROP_CHANCE
 Game: Creates 3 Jammers & Dark Orbs each at random; Jammers slightly more likely to appear for 1 turn
+JP: Create 3 Dark and Jammer orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
 EN: Create 3 Dark and Jammer orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
+KR: Create 3 Dark and Jammer orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
 
 # 4383/138 - Apocalyptic Discharge
 Tags: ENHANCED_ATK
 Game: ATK increases when matching 3+ Jammers, up to 10x; ATK increases when attacking with 3+ Att., up to 4.5x
+JP: 4x ATK when matching 3 or more connected Jammer orbs up to 10x at 9 orbs; 1.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
 EN: 4x ATK when matching 3 or more connected Jammer orbs up to 10x at 9 orbs; 1.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
+KR: 4x ATK when matching 3 or more connected Jammer orbs up to 10x at 9 orbs; 1.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
 

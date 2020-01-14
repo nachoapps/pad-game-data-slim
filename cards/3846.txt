@@ -6,10 +6,14 @@ SAWK:
 # 6889/116 - Wild Wind
 Tags: VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; other allies' skills charged by 1 turn
+JP: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 EN: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
+KR: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 
 # 8763/138 - Come swim with me!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Attacker Type; 2.5x ATK & reduces damage with 6+ combos
+JP: 4x ATK for Attacker type; 2.5x ATK and reduce damage taken by 25% when 6 or more combos
 EN: 4x ATK for Attacker type; 2.5x ATK and reduce damage taken by 25% when 6 or more combos
+KR: 4x ATK for Attacker type; 2.5x ATK and reduce damage taken by 25% when 6 or more combos
 

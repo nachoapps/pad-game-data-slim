@@ -6,10 +6,14 @@ SAWK: 52,36,37
 # 2645/116 - タオパブの力
 Tags: ENHANCED_ATTACK
 Game: 2ターンの間、木属性の攻撃力が2倍。 自分以外の味方スキルが1ターン溜まる。
+JP: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 EN: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
+KR: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 
 # 3223/138 - Artisan Warrior Power
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & 5x ATK for Devil Type; 1.5x ATK with 6+ linked Wood Orbs
+JP: 5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Wood orbs
 EN: 5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Wood orbs
+KR: 5x ATK and 2x HP for Devil type; 1.5x ATK when matching 6 or more connected Wood orbs
 

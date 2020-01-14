@@ -6,10 +6,14 @@ SAWK:
 # 679/116 - Electric Impact
 Tags: MENACE,RECOVER_BIND
 Game: Delays enemies' next move for 2 turns; bind status reduced by 2 turns
+JP: Delay enemies' next attack by 2 turns; Reduce binds by 2 turns
 EN: Delay enemies' next attack by 2 turns; Reduce binds by 2 turns
+KR: Delay enemies' next attack by 2 turns; Reduce binds by 2 turns
 
 # 822/96 - Gotham's Protector
 Tags: ENHANCED_ATK
 Game: 3.5x Light Att. ATK when HP is 80% or more
+JP: 3.5x ATK for Light Att. when above 80% HP
 EN: 3.5x ATK for Light Att. when above 80% HP
+KR: 3.5x ATK for Light Att. when above 80% HP
 

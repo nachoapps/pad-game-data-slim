@@ -6,10 +6,14 @@ SAWK:
 # 1660/116 - Emerald Guard
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Reduces damage for 1 turn; changes all Orbs to Fire, Wood, and Dark Orbs
+JP: For 1 turn, reduce damage taken by 30%; Change all orbs to Fire, Wood, and Dark orbs
 EN: For 1 turn, reduce damage taken by 30%; Change all orbs to Fire, Wood, and Dark orbs
+KR: For 1 turn, reduce damage taken by 30%; Change all orbs to Fire, Wood, and Dark orbs
 
 # 1981/125 - Cauchemar Spirit
 Tags: ENHANCED_HP_ATK
 Game: 2.5x ATK & 2x HP when Pure Demon Lord, Astaroth is on your team
+JP: 2.5x ATK and 2x HP if [1260] is on the team
 EN: 2.5x ATK and 2x HP if [1260] is on the team
+KR: 2.5x ATK and 2x HP if [1260] is on the team
 

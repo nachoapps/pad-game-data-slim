@@ -6,10 +6,14 @@ SAWK:
 # 1629/116 - ロケットパンチ
 Tags: ENHANCED_ORBS,SINGLE_TARGET_ATTACK
 Game: 敵1体に攻撃力×80倍の木属性攻撃。 木ドロップを強化。
+JP: Deal 80x Wood damage to an enemy; Enhance all Wood orbs
 EN: Deal 80x Wood damage to an enemy; Enhance all Wood orbs
+KR: Deal 80x Wood damage to an enemy; Enhance all Wood orbs
 
 # 1919/104 - 戦う時が来たのだ
 Tags: ENHANCED_ATK
 Game: 4コンボ以上で木属性の攻撃力が3倍。
+JP: 3x ATK for Wood Att. when 4 or more combos
 EN: 3x ATK for Wood Att. when 4 or more combos
+KR: 3x ATK for Wood Att. when 4 or more combos
 

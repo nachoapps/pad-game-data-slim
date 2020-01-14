@@ -6,10 +6,14 @@ SAWK: 53,60,55,33,34
 # 15619/116 - New Year's Aurora
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Att. & Heal; voids dmg absorption & Attribute absorption for 3 turns
+JP: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 3 turns, bypass damage absorb shield and att. absorb shield effects
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 3 turns, bypass damage absorb shield and att. absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 3 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 15622/138 - Right, shall we get started?
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 2x HP & ATK for Devil & Balanced, Orb move time +2 sec; reduces dmg with 7+ combos, 9.5x ATK when 4+ Att. Attack
+JP: 2x HP & ATK for Balanced, Devil type; Increase orb movement time by 2 seconds; Reduce damage taken by 25% when 7 or more combos; 9.5x ATK when matching 4 or more colors
 EN: 2x HP & ATK for Balanced, Devil type; Increase orb movement time by 2 seconds; Reduce damage taken by 25% when 7 or more combos; 9.5x ATK when matching 4 or more colors
+KR: 2x HP & ATK for Balanced, Devil type; Increase orb movement time by 2 seconds; Reduce damage taken by 25% when 7 or more combos; 9.5x ATK when matching 4 or more colors
 

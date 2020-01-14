@@ -6,10 +6,14 @@ SAWK:
 # 93/19 - Guard Break
 Tags: REDUCE_DEFENSE
 Game: Halves enemies' DEF for 5 turns
+JP: For 5 turns, reduce enemies' defense by 50%
 EN: For 5 turns, reduce enemies' defense by 50%
+KR: For 5 turns, reduce enemies' defense by 50%
 
 # 827/23 - Man and Horse as One, Life
 Tags: ENHANCED_HP
 Game: 2x HP for Balanced Type
+JP: 2x HP for Balanced type
 EN: 2x HP for Balanced type
+KR: 2x HP for Balanced type
 

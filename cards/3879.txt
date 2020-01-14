@@ -6,10 +6,14 @@ SAWK:
 # 5242/116 - Mysterious Words
 Tags: RECOVER_BIND
 Game: Creates 3 Dark & Heal Orbs each at random; bind status reduced by 3 turns
+JP: Create 3 Dark and Heal orbs; Reduce binds by 3 turns
 EN: Create 3 Dark and Heal orbs; Reduce binds by 3 turns
+KR: Create 3 Dark and Heal orbs; Reduce binds by 3 turns
 
 # 8857/138 - Alluring Treasure Hunt
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for God, Devil & Physical Types when skills used; 5x ATK & reduces damage with a cross of 5 Heal Orbs
+JP: 3x ATK for Physical, God, Devil type on the turn a skill is used; 5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK for Physical, God, Devil type on the turn a skill is used; 5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK for Physical, God, Devil type on the turn a skill is used; 5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 

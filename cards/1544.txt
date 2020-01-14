@@ -6,10 +6,14 @@ SAWK:
 # 464/116 - Lemon Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Dark Orbs to Heal Orbs; heals 30% of Max HP
+JP: Change Dark orbs to Heal orbs; Recover 30% of max HP
 EN: Change Dark orbs to Heal orbs; Recover 30% of max HP
+KR: Change Dark orbs to Heal orbs; Recover 30% of max HP
 
 # 1908/41 - Reflect Shield - Light
 Tags: COUNTERATTACK
 Game: Strong Light counterattack sometimes
+JP: 50% chance to counterattack with 5x Light damage
 EN: 50% chance to counterattack with 5x Light damage
+KR: 50% chance to counterattack with 5x Light damage
 

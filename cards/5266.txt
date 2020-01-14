@@ -6,10 +6,14 @@ SAWK: 46,54,52
 # 13341/116 - I'm not a flasher. I'm an ascetic.
 Tags: LINE_ORBS_CONVERTER
 Game: Changes the bottom row to Wood Orbs; changes the rightmost column to Fire Orbs
+JP: Change the bottom row to Wood orbs; Change the far right column to Fire orbs
 EN: Change the bottom row to Wood orbs; Change the far right column to Fire orbs
+KR: Change the bottom row to Wood orbs; Change the far right column to Fire orbs
 
 # 13347/138 - Ascetic that Climbed Chomollingma
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when 3+ Att. attack at once; 3x ATK with 5+ linked Fire or Wood Orbs
+JP: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 3x ATK when matching 5 or more connected Fire or Wood orbs
 EN: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 3x ATK when matching 5 or more connected Fire or Wood orbs
+KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 3x ATK when matching 5 or more connected Fire or Wood orbs
 

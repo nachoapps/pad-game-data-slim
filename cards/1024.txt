@@ -6,10 +6,14 @@ SAWK:
 # 908/116 - 壱乃掌
 Tags: REDUCE_DEFENSE
 Game: 2ターンの間、敵の防御力が激減。 自分以外の味方スキルが1ターン溜まる。
+JP: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
+KR: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 
 # 882/138 - 血沸く血沸く♪
 Tags: ENHANCED_HP_ATK
 Game: バランスと神タイプのHPと攻撃力が2倍。 5色（4色＋回復）同時攻撃で攻撃力が5倍。
+JP: 2x HP & ATK for Balanced, God type; 5x ATK when matching 5 or more colors (4+heal)
 EN: 2x HP & ATK for Balanced, God type; 5x ATK when matching 5 or more colors (4+heal)
+KR: 2x HP & ATK for Balanced, God type; 5x ATK when matching 5 or more colors (4+heal)
 

@@ -6,10 +6,14 @@ SAWK:
 # 1620/116 - 理力パワー増大
 Tags: ATTACK_CHANGER,EXTENDS_TIME
 Game: 2ターンの間、攻撃が全体攻撃になる。 2ターンの間、ドロップ操作を1秒延長。
+JP: For 2 turns, all attacks become mass attack; For 2 turns, increase orb move time by 1 second
 EN: For 2 turns, all attacks become mass attack; For 2 turns, increase orb move time by 1 second
+KR: For 2 turns, all attacks become mass attack; For 2 turns, increase orb move time by 1 second
 
 # 3241/61 - ラーンの領域
 Tags: ENHANCED_ATK
 Game: 5色（4色＋回復）同時攻撃で攻撃力が4倍、 5色＋回復の同時攻撃で6倍。
+JP: 4x ATK when matching 5 or more colors (4+heal) up to 6x at 5 colors+heal
 EN: 4x ATK when matching 5 or more colors (4+heal) up to 6x at 5 colors+heal
+KR: 4x ATK when matching 5 or more colors (4+heal) up to 6x at 5 colors+heal
 

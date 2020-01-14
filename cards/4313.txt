@@ -6,10 +6,14 @@ SAWK: 45,54,55
 # 10230/116 - You see things quite well.
 Tags: REDUCE_DAMAGE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status (incl. Awoken) by 4 turns; halves damage for 3 turns
+JP: Reduce binds and awoken skill binds by 4 turns; For 3 turns, reduce damage taken by 50%
 EN: Reduce binds and awoken skill binds by 4 turns; For 3 turns, reduce damage taken by 50%
+KR: Reduce binds and awoken skill binds by 4 turns; For 3 turns, reduce damage taken by 50%
 
 # 10233/186 - The real trial begins now.
 Tags: ENHANCED_HP_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board], 2x HP & RCV for Water Att.
+JP: [Board becomes 7x6] 2x HP & RCV for Water Att.
 EN: [Board becomes 7x6] 2x HP & RCV for Water Att.
+KR: [Board becomes 7x6] 2x HP & RCV for Water Att.
 

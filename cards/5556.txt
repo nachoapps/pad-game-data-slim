@@ -6,5 +6,7 @@ SAWK:
 # 12705/116 - Crimson Menace
 Tags: MENACE,EXTENDS_TIME
 Game: Delays enemies' next move for 3 turns; Orb move time +2 seconds for 3 turns
+JP: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
 EN: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
+KR: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
 

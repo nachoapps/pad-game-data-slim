@@ -6,10 +6,14 @@ SAWK:
 # 9658/116 - Not enough training pal!
 Tags: GRAVITY,REMOVE_LOCK
 Game: Removes Orb locks; reduces enemies' HP by 20%
+JP: Unlock all orbs; Reduce enemies' HP by 20%
 EN: Unlock all orbs; Reduce enemies' HP by 20%
+KR: Unlock all orbs; Reduce enemies' HP by 20%
 
 # 9661/138 - Shin! Chou Upper
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for Attacker Type; ATK increases with 6+ linked Light Orbs, up to 4x
+JP: 1.5x HP & ATK for Attacker type; 3x ATK when matching 6 or more connected Light orbs up to 4x at 8 orbs
 EN: 1.5x HP & ATK for Attacker type; 3x ATK when matching 6 or more connected Light orbs up to 4x at 8 orbs
+KR: 1.5x HP & ATK for Attacker type; 3x ATK when matching 6 or more connected Light orbs up to 4x at 8 orbs
 

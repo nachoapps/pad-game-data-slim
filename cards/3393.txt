@@ -6,10 +6,14 @@ SAWK:
 # 6786/116 - I have nothing else.
 Tags: EXTENDS_TIME
 Game: Changes 7 non-Light Orbs to Heal Orbs;  Orb move time +7 seconds for 1 turn
+JP: Create 7 Heal orbs over non Light orbs; For 1 turn, increase orb move time by 7 seconds
 EN: Create 7 Heal orbs over non Light orbs; For 1 turn, increase orb move time by 7 seconds
+KR: Create 7 Heal orbs over non Light orbs; For 1 turn, increase orb move time by 7 seconds
 
 # 6789/138 - Myr's Providence
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK when attacking with 4 Att. (6x ATK for 5 Att.); 3x ATK & halves dmg with a cross of 5 Heal Orbs
+JP: 3x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

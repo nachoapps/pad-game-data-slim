@@ -6,10 +6,14 @@ SAWK: 52,46,43
 # 5339/116 - Even if it kills me!
 Tags: ORB_CONVERT,ADD_COMBO
 Game: Changes Dark Orbs to Wood Orbs; adds 2 combos for 1 turn
+JP: Change Dark, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, increase combo count by 2
 EN: Change Dark, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, increase combo count by 2
+KR: Change Dark, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, increase combo count by 2
 
 # 5827/138 - Ataru's Muscle Spark
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK & RCV for Physical & Attacker Types; ATK increases with 3+ combos, up to 6x
+JP: 3x ATK & RCV for Physical, Attacker type; 3.5x ATK when 3 or more combos up to 6x at 8 combos
 EN: 3x ATK & RCV for Physical, Attacker type; 3.5x ATK when 3 or more combos up to 6x at 8 combos
+KR: 3x ATK & RCV for Physical, Attacker type; 3.5x ATK when 3 or more combos up to 6x at 8 combos
 

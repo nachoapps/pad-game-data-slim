@@ -6,10 +6,14 @@ SAWK:
 # 5017/116 - Feathers of Heaven
 Tags: DROP_CHANCE
 Game: Light Orbs slightly more likely to appear for 2 turns; creates 2 Light Orbs at random
+JP: For 2 turns, Light orbs are more likely to appear by 15%; Create 2 Light orbs
 EN: For 2 turns, Light orbs are more likely to appear by 15%; Create 2 Light orbs
+KR: For 2 turns, Light orbs are more likely to appear by 15%; Create 2 Light orbs
 
 # 4702/138 - Symphonic Energy
 Tags: ENHANCED_ATK_RCV
 Game: 1.5x ATK & RCV for Machine Type;  ATK increases with 2+ Light combos, up to 7.5x
+JP: 1.5x ATK & RCV for Machine type; 2.5x ATK when matching 2 Light combos, up to 7.5x at 4 Light combos
 EN: 1.5x ATK & RCV for Machine type; 2.5x ATK when matching 2 Light combos, up to 7.5x at 4 Light combos
+KR: 1.5x ATK & RCV for Machine type; 2.5x ATK when matching 2 Light combos, up to 7.5x at 4 Light combos
 

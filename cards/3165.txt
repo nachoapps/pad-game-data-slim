@@ -6,10 +6,14 @@ SAWK: 52,57,48
 # 2647/116 - 魔弾ロマノフ・ストライク
 Tags: LINE_ORBS_CONVERTER
 Game: 最下段横1列を闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+JP: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
+KR: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
 
 # 5953/138 - Sword of Wisdom and Pursuit
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Devil Type; 5x ATK with 6+ linked Dark Orbs
+JP: 2x HP & ATK for Devil type; 5x ATK when matching 6 or more connected Dark orbs
 EN: 2x HP & ATK for Devil type; 5x ATK when matching 6 or more connected Dark orbs
+KR: 2x HP & ATK for Devil type; 5x ATK when matching 6 or more connected Dark orbs
 

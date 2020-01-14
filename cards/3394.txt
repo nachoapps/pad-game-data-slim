@@ -6,10 +6,14 @@ SAWK:
 # 6792/116 - The ties that bind you will show you the way.
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
 Game: Changes Orbs to all Attributes & Heal; 1.5x ATK for God & Attacker Types for 1 turn
+JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, 1.5x ATK for God and Attacker types
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, 1.5x ATK for God and Attacker types
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, 1.5x ATK for God and Attacker types
 
 # 6795/138 - Kali's Providence
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2.5x ATK & RCV for Attacker & God Types; 5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+JP: 2.5x ATK & RCV for God, Attacker type; 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
 EN: 2.5x ATK & RCV for God, Attacker type; 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
+KR: 2.5x ATK & RCV for God, Attacker type; 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
 

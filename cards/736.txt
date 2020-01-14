@@ -6,10 +6,14 @@ SAWK:
 # 416/4 - Bad Breath
 Tags: POISON
 Game: Critically poison all enemies
+JP: Poison all enemies (2x ATK)
 EN: Poison all enemies (2x ATK)
+KR: Poison all enemies (2x ATK)
 
 # 370/12 - Karma
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
+KR: 2x ATK additional damage when matching orbs
 

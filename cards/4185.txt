@@ -6,10 +6,14 @@ SAWK:
 # 9771/116 - Moonlight Curtain
 Tags: REDUCE_DAMAGE,CHANGE_ENEMIES_ATTRIBUTE
 Game: All enemies' Att. change to Dark (ignores barriers); halves damage for 2 turns
+JP: Change all enemies to Dark Att.; For 2 turns, reduce damage taken by 50%
 EN: Change all enemies to Dark Att.; For 2 turns, reduce damage taken by 50%
+KR: Change all enemies to Dark Att.; For 2 turns, reduce damage taken by 50%
 
 # 9774/138 - Magic Staff's Sealing Power
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK & reduces damage with 6+ combos; 3x ATK when 8 Orbs or less remain on the board
+JP: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 6 or more combos
 EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 6 or more combos
+KR: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 6 or more combos
 

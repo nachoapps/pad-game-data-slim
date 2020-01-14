@@ -6,10 +6,14 @@ SAWK: 52,27,45
 # 7212/116 - Bionic Green Star Blade
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Water Orbs to Wood, Fire Orbs to Heal, and Jammers & Poison Orbs to Dark
+JP: Change Water orbs to Wood orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 EN: Change Water orbs to Wood orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
+KR: Change Water orbs to Wood orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 10367/138 - Spirit of the Vanquishing Deity
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3.5x ATK when Wood & Dark attack at once; 3x ATK & halves damage with a cross of 5 Heal Orbs
+JP: 3.5x ATK when matching Wood+Dark; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3.5x ATK when matching Wood+Dark; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 3.5x ATK when matching Wood+Dark; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

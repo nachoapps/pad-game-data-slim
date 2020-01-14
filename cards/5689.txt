@@ -6,10 +6,14 @@ SAWK: 43,55,46
 # 15146/116 - Dragon Symphony
 Tags: ENHANCED_ATTACK,HEAL
 Game: Recovers 40% of max HP for 3 turns; 2x ATK for Dragon Type for 3 turns
+JP: For 3 turns, recover 40% of max HP; For 3 turns, 2x ATK for Dragon type
 EN: For 3 turns, recover 40% of max HP; For 3 turns, 2x ATK for Dragon type
+KR: For 3 turns, recover 40% of max HP; For 3 turns, 2x ATK for Dragon type
 
 # 15149/138 - Eternal Dragon Player - Phaoh
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x HP & RCV when Vile Conductor, Dioro is on your team; ATK increases when 3+ Att. (2+Heal) attack, up to 20x
+JP: 2x HP & RCV if [5355] is on the team; 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
 EN: 2x HP & RCV if [5355] is on the team; 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
+KR: 2x HP & RCV if [5355] is on the team; 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
 

@@ -6,10 +6,14 @@ SAWK:
 # 9512/116 - Raging Shift
 Tags: REDUCE_DAMAGE,THE_SWITCH
 Game: Switches places with Leader Monster, use again to switch back; vastly reduces damage for 1 turn
+JP: Becomes Team leader; changes back when used again; For 1 turn, reduce damage taken by 75%
 EN: Becomes Team leader; changes back when used again; For 1 turn, reduce damage taken by 75%
+KR: Becomes Team leader; changes back when used again; For 1 turn, reduce damage taken by 75%
 
 # 13044/138 - Frenzied Augur
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 10x ATK when HP is 80% or more, 12x when HP is full; 1.5x ATK & reduces damage when 4+ Att. attack at once
+JP: 12x ATK when HP is full; 10x ATK when above 80% HP; 1.5x ATK and reduce damage taken by 25% when matching 4 or more colors
 EN: 12x ATK when HP is full; 10x ATK when above 80% HP; 1.5x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 12x ATK when HP is full; 10x ATK when above 80% HP; 1.5x ATK and reduce damage taken by 25% when matching 4 or more colors
 

@@ -6,5 +6,7 @@ SAWK:
 # 168/116 - Gungnir
 Tags: ATTACK_AND_HEAL,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: 50x ATK Light Att. on 1 enemy, recovers some HP; reduces bind status (incl. Awoken) by 5 turns
+JP: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; Reduce binds and awoken skill binds by 7 turns
 EN: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; Reduce binds and awoken skill binds by 7 turns
+KR: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; Reduce binds and awoken skill binds by 7 turns
 

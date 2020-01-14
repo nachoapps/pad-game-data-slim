@@ -6,10 +6,14 @@ SAWK: 21,62,52
 # 9343/116 - Foresight of the Three Arrows
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire & Water Orbs; halves damage for 2 turns
+JP: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
 EN: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
+KR: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
 
 # 13920/138 - Spirit of the Strategical God
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage with 6+ linked Water Orbs; 4x ATK for Water Att. when skills used
+JP: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
 EN: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
+KR: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
 

@@ -6,10 +6,14 @@ SAWK:
 # 5126/6 - Hell's Raging Wind
 Tags: GRAVITY
 Game: Reduces enemies' HP by 5%
+JP: Reduce enemies' HP by 5%
 EN: Reduce enemies' HP by 5%
+KR: Reduce enemies' HP by 5%
 
 # 4886/138 - Generate Hell
 Tags: ENHANCED_ATK_RCV
 Game: 2x RCV for Wood Att.; 4x ATK with 6+ combos
+JP: 2x RCV for Wood Att.; 4x ATK when 6 or more combos
 EN: 2x RCV for Wood Att.; 4x ATK when 6 or more combos
+KR: 2x RCV for Wood Att.; 4x ATK when 6 or more combos
 

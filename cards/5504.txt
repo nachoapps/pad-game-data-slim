@@ -6,10 +6,14 @@ SAWK: 33,34,37,38
 # 14357/116 - ハンデは無用
 Tags: ALL_ORBS_CONVERT
 Game: 全ドロップを闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+JP: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
+KR: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
 
 # 14360/138 - 一緒に練習しないか？
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 闇属性の攻撃力と回復力が2.5倍。ドロップ操作を2秒延長。 闇を4個以上つなげて消すと攻撃力が上昇、最大6倍。
+JP: 2.5x ATK & RCV for Dark Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 4 or more connected Dark orbs up to 6x at 6 orbs
 EN: 2.5x ATK & RCV for Dark Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 4 or more connected Dark orbs up to 6x at 6 orbs
+KR: 2.5x ATK & RCV for Dark Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 4 or more connected Dark orbs up to 6x at 6 orbs
 

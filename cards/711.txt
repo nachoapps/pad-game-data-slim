@@ -6,10 +6,14 @@ SAWK:
 # 626/55 - Critical Rejection
 Tags: FIXED_DAMAGE
 Game: Inflicts 15,000 damage on 1 enemy
+JP: Deal 15000 fixed damage to an enemy
 EN: Deal 15000 fixed damage to an enemy
+KR: Deal 15000 fixed damage to an enemy
 
 # 552/16 - Multi-layer A.T. Field
 Tags: REDUCE_DAMAGE
 Game: Reduces damage
+JP: Reduce damage taken by 20%
 EN: Reduce damage taken by 20%
+KR: Reduce damage taken by 20%
 

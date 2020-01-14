@@ -6,10 +6,14 @@ SAWK:
 # 6750/116 - Tempest Flash
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Dark Orbs to Wood & Fire Orbs to Light
+JP: Unlock all orbs; Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs
 EN: Unlock all orbs; Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs
+KR: Unlock all orbs; Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs
 
 # 6753/138 - Radiant Valor
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board]; 4x ATK & 1.5x RCV when Wood & Light attack at once
+JP: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Wood+Light
 EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Wood+Light
+KR: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Wood+Light
 

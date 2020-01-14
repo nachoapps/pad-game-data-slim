@@ -6,10 +6,14 @@ SAWK: 54,59,44
 # 1647/71 - Orb Transformation
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to all Attributes & Heal
+JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 4655/138 - You should be quiet!
 Tags: ENHANCED_ATK
 Game: 4x ATK with 4 Att. (4.5x ATK for 5 Att.); ATK increases erasing 5+ linked Wood Orbs, up to 2.5x
+JP: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 2x ATK when matching 5 or more connected Wood orbs up to 2.5x at 6 orbs
 EN: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 2x ATK when matching 5 or more connected Wood orbs up to 2.5x at 6 orbs
+KR: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 2x ATK when matching 5 or more connected Wood orbs up to 2.5x at 6 orbs
 

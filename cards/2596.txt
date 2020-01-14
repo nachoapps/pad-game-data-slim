@@ -6,10 +6,14 @@ SAWK: 52,27,48
 # 2643/116 - ボルシャック・ファイアー
 Tags: LINE_ORBS_CONVERTER
 Game: 右端縦1列を火ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+JP: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
+KR: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
 
 # 4314/137 - Dragon and Bird's Friendship
 Tags: ENHANCED_HP_ATK_RCV
 Game: 6x ATK & 2x RCV for Dragon Type; 1.5x HP & ATK for Attacker Type
+JP: 6x ATK and 2x RCV for Dragon type; 1.5x HP & ATK for Attacker type
 EN: 6x ATK and 2x RCV for Dragon type; 1.5x HP & ATK for Attacker type
+KR: 6x ATK and 2x RCV for Dragon type; 1.5x HP & ATK for Attacker type
 

@@ -6,10 +6,14 @@ SAWK: 59,45,43
 # 11264/116 - Hanging Flower Dance
 Tags: HEAL
 Game: Recovers 7,000 HP; recovers 10% of max HP for 4 turns
+JP: Recover 7000 HP; For 4 turns, recover 10% of max HP
 EN: Recover 7000 HP; For 4 turns, recover 10% of max HP
+KR: Recover 7000 HP; For 4 turns, recover 10% of max HP
 
 # 11267/138 - Wisdom of the Sakura God
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & 3x ATK for Attacker Type; 1.5x ATK when skills used
+JP: 3x ATK and 1.5x HP for Attacker type; 1.5x ATK on the turn a skill is used
 EN: 3x ATK and 1.5x HP for Attacker type; 1.5x ATK on the turn a skill is used
+KR: 3x ATK and 1.5x HP for Attacker type; 1.5x ATK on the turn a skill is used
 

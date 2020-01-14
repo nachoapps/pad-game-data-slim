@@ -6,10 +6,14 @@ SAWK: 56,43,33
 # 14951/116 - Light, come forth!
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
 Game: Light Orbs more likely to appear for 1 turn; changes the rightmost column to Light Orbs
+JP: For 1 turn, Light orbs are more likely to appear by 25%; Change the far right column to Light orbs
 EN: For 1 turn, Light orbs are more likely to appear by 25%; Change the far right column to Light orbs
+KR: For 1 turn, Light orbs are more likely to appear by 25%; Change the far right column to Light orbs
 
 # 14960/138 - Sword of Light
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 2x HP for Attacker Type, 4x ATK when 4+ Att. attack at once; 4x ATK & reduces damage with 7+ combos
+JP: 2x HP for Attacker type; 4x ATK when matching 4 or more colors; 4x ATK and reduce damage taken by 25% when 7 or more combos
 EN: 2x HP for Attacker type; 4x ATK when matching 4 or more colors; 4x ATK and reduce damage taken by 25% when 7 or more combos
+KR: 2x HP for Attacker type; 4x ATK when matching 4 or more colors; 4x ATK and reduce damage taken by 25% when 7 or more combos
 

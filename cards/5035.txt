@@ -6,10 +6,14 @@ SAWK: 43,58,32
 # 12456/116 - Evil Smoke
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
 Game: Poison Orbs more likely to appear for 1 turn; changes the top row to Dark Orbs & the bottom row to Light Orbs
+JP: For 1 turn, Poison orbs are more likely to appear by 20%; Change the top row to Dark orbs and change the bottom row to Light orbs
 EN: For 1 turn, Poison orbs are more likely to appear by 20%; Change the top row to Dark orbs and change the bottom row to Light orbs
+KR: For 1 turn, Poison orbs are more likely to appear by 20%; Change the top row to Dark orbs and change the bottom row to Light orbs
 
 # 12459/138 - Lingering Scent of the Dark Mist
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 10x ATK when HP is 20% or less, 1.5x HP for Dark Att.; 2x ATK & halves damage when Dark & Light attack at once
+JP: 10x ATK when below 20% HP; 1.5x HP for Dark Att.; 2x ATK and reduce damage taken by 50% when matching Dark+Light
 EN: 10x ATK when below 20% HP; 1.5x HP for Dark Att.; 2x ATK and reduce damage taken by 50% when matching Dark+Light
+KR: 10x ATK when below 20% HP; 1.5x HP for Dark Att.; 2x ATK and reduce damage taken by 50% when matching Dark+Light
 

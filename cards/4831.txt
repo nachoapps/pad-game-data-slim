@@ -6,10 +6,14 @@ SAWK: 27,43,54
 # 11730/116 - Rising Sweets
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the top row to Dark Orbs & the bottom row to Wood Orbs; locks Orbs of all Attributes & Heal
+JP: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11733/138 - This is not sweet enough
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 10x ATK with exactly 7 combos; 5x ATK when 5 Orbs or less remain on the board
+JP: [No skyfall] 10x ATK when exactly 7 combos; 5x ATK when there are 5 or fewer orbs remaining
 EN: [No skyfall] 10x ATK when exactly 7 combos; 5x ATK when there are 5 or fewer orbs remaining
+KR: [No skyfall] 10x ATK when exactly 7 combos; 5x ATK when there are 5 or fewer orbs remaining
 

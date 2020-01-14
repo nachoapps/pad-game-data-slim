@@ -6,10 +6,14 @@ SAWK: 27,28,48
 # 12791/116 - Somersault Kick
 Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Wood Orbs; inflicts 10,000 damage on all enemies
+JP: Change the far left column to Wood orbs; Deal 10000 fixed damage to all enemies
 EN: Change the far left column to Wood orbs; Deal 10000 fixed damage to all enemies
+KR: Change the far left column to Wood orbs; Deal 10000 fixed damage to all enemies
 
 # 12794/138 - Come on!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: ATK increases with 4+ combos, up to 5x; 3x ATK & reduces damage with 2+ Wood combos
+JP: 2x ATK when 4 or more combos up to 5x at 7 combos; 3x ATK and reduce damage taken by 25% when matching 2+ Wood combos
 EN: 2x ATK when 4 or more combos up to 5x at 7 combos; 3x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+KR: 2x ATK when 4 or more combos up to 5x at 7 combos; 3x ATK and reduce damage taken by 25% when matching 2+ Wood combos
 

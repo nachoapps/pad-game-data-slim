@@ -6,10 +6,14 @@ SAWK: 22,62,52
 # 5032/116 - Let's walk together for all eternity...Kurei...
 Tags: FIXED_DAMAGE
 Game: Inflicts 9,999 damage on all enemies; creates 4 Fire Orbs at random
+JP: Deal 9999 fixed damage to all enemies; Create 4 Fire orbs
 EN: Deal 9999 fixed damage to all enemies; Create 4 Fire orbs
+KR: Deal 9999 fixed damage to all enemies; Create 4 Fire orbs
 
 # 4725/138 - Incarnation of the Flame-Kurei&Jisho 
 Tags: ENHANCED_ATK_RCV
 Game: 1.5x ATK & RCV for Attacker Type; 3x ATK for Fire Att. when skills used
+JP: 1.5x ATK & RCV for Attacker type; 3x ATK for Fire Att. on the turn a skill is used
 EN: 1.5x ATK & RCV for Attacker type; 3x ATK for Fire Att. on the turn a skill is used
+KR: 1.5x ATK & RCV for Attacker type; 3x ATK for Fire Att. on the turn a skill is used
 

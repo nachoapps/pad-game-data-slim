@@ -6,10 +6,14 @@ SAWK: 52,39,40
 # 7572/116 - Come back when you're stronger!
 Tags: ORB_CONVERT,FIXED_DAMAGE
 Game: Inflicts 99 damage on 1 enemy;  changes Light Orbs to Dark Orbs
+JP: Deal 99 fixed damage to an enemy; Change Light orbs to Dark orbs
 EN: Deal 99 fixed damage to an enemy; Change Light orbs to Dark orbs
+KR: Deal 99 fixed damage to an enemy; Change Light orbs to Dark orbs
 
 # 7575/138 - Wu of Kaiyanwang
 Tags: AUTO_HEAL,ENHANCED_HP_ATK_RCV
 Game: 1.5x to all stats for Devil Type; recovers 8x RCV as HP when matching Orbs
+JP: 1.5x all stats for Devil type; 8x RCV additional heal when matching orbs
 EN: 1.5x all stats for Devil type; 8x RCV additional heal when matching orbs
+KR: 1.5x all stats for Devil type; 8x RCV additional heal when matching orbs
 

@@ -6,10 +6,14 @@ SAWK: 61,55,54
 # 9730/116 - Dance of Blessed Fortuity
 Tags: SINGLE_TARGET_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Fully recovers bind status (incl. Awoken); inflicts 100,000 damage on 1 enemy five times
+JP: Remove all binds and awoken skill binds; Deal 100000 damage to an enemy 5 times
 EN: Remove all binds and awoken skill binds; Deal 100000 damage to an enemy 5 times
+KR: Remove all binds and awoken skill binds; Deal 100000 damage to an enemy 5 times
 
 # 9733/138 - Life is better when you're laughing!
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for God & Balanced Types; 5x ATK for Light Att. when HP is 80% or more
+JP: 1.5x HP & ATK for Balanced, God type; 5x ATK for Light Att. when above 80% HP
 EN: 1.5x HP & ATK for Balanced, God type; 5x ATK for Light Att. when above 80% HP
+KR: 1.5x HP & ATK for Balanced, God type; 5x ATK for Light Att. when above 80% HP
 

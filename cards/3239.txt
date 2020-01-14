@@ -6,10 +6,14 @@ SAWK: 56,59,60
 # 1614/116 - Heavenstrom
 Tags: ENHANCED_ATTACK,POISON
 Game: 2.5x ATK for Attacker & Devil Types for 1 turn; all enemies mortally poisoned
+JP: For 1 turn, 2.5x ATK for Attacker and Devil types; Poison all enemies (10x ATK)
 EN: For 1 turn, 2.5x ATK for Attacker and Devil types; Poison all enemies (10x ATK)
+KR: For 1 turn, 2.5x ATK for Attacker and Devil types; Poison all enemies (10x ATK)
 
 # 6558/138 - Soul of the Sea Deity
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for Water Att.; 2x ATK when Water & Dark attack at once; halves damage from Water, Light & Dark enemies
+JP: 3x ATK for Water Att.; Reduce damage taken from water, light, dark att. by 50%; 2x ATK when matching Water+Dark
 EN: 3x ATK for Water Att.; Reduce damage taken from water, light, dark att. by 50%; 2x ATK when matching Water+Dark
+KR: 3x ATK for Water Att.; Reduce damage taken from water, light, dark att. by 50%; 2x ATK when matching Water+Dark
 

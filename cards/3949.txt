@@ -6,10 +6,14 @@ SAWK: 52,58,27
 # 9095/116 - Dragon Shadow Shift
 Tags: ENHANCED_ATTACK,THE_SWITCH
 Game: Switches places with Leader Monster, use again to switch back; 3x ATK for Dragon Type for 1 turn
+JP: Becomes Team leader; changes back when used again; For 1 turn, 3x ATK for Dragon type
 EN: Becomes Team leader; changes back when used again; For 1 turn, 3x ATK for Dragon type
+KR: Becomes Team leader; changes back when used again; For 1 turn, 3x ATK for Dragon type
 
 # 9098/138 - Eternal Dragon Control - Gharandus
 Tags: ENHANCED_ATK_RCV,RESOLVE
 Game: 10x ATK & RCV when HP is 20% or less; may survive when HP is reduced to 0
+JP: 14x ATK & RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
 EN: 14x ATK & RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
+KR: 14x ATK & RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
 

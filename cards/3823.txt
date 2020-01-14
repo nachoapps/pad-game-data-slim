@@ -6,10 +6,14 @@ SAWK: 43,27,52
 # 8535/116 - Bring it on!
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 99 damage on all enemies; changes Wood Orbs to Fire & Dark Orbs to Light
+JP: Deal 99 fixed damage to all enemies; Change Wood orbs to Fire orbs; Change Dark orbs to Light orbs
 EN: Deal 99 fixed damage to all enemies; Change Wood orbs to Fire orbs; Change Dark orbs to Light orbs
+KR: Deal 99 fixed damage to all enemies; Change Wood orbs to Fire orbs; Change Dark orbs to Light orbs
 
 # 8538/138 - Turbo-Hit
 Tags: ENHANCED_ATK
 Game: 3x ATK when Fire & Light attack at once; 4x ATK with 4+ combos
+JP: 3x ATK when matching Fire+Light; 4x ATK when 4 or more combos
 EN: 3x ATK when matching Fire+Light; 4x ATK when 4 or more combos
+KR: 3x ATK when matching Fire+Light; 4x ATK when 4 or more combos
 

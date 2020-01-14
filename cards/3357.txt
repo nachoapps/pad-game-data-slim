@@ -6,10 +6,14 @@ SAWK:
 # 6426/116 - You have not learned your lesson.
 Tags: ATTACK_STANCE,ADD_COMBO
 Game: Changes Water & Heal Orbs to Fire Orbs;  adds 1 combo for 2 turns
+JP: Change Water and Heal orbs to Fire orbs; For 2 turns, increase combo count by 1
 EN: Change Water and Heal orbs to Fire orbs; For 2 turns, increase combo count by 1
+KR: Change Water and Heal orbs to Fire orbs; For 2 turns, increase combo count by 1
 
 # 6432/138 - All things in the universe turn to ash! Ryujinjakka!
 Tags: ENHANCED_ATK
 Game: 2.5x ATK for Fire Att.; 4x ATK when erasing 6+ linked Fire Orbs
+JP: 2.5x ATK for Fire Att.; 4x ATK when matching 6 or more connected Fire orbs
 EN: 2.5x ATK for Fire Att.; 4x ATK when matching 6 or more connected Fire orbs
+KR: 2.5x ATK for Fire Att.; 4x ATK when matching 6 or more connected Fire orbs
 

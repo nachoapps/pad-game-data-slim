@@ -6,10 +6,14 @@ SAWK:
 # 11750/116 - Furinkazan Stance
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Fire, Wood & Heal Orbs; Fire, Wood & Heal Orbs locked
+JP: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
 EN: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
+KR: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
 
 # 11753/138 - Takeda Diamond Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
 Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Fire & Wood attack at once
+JP: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Fire+Wood
 EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Fire+Wood
+KR: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Fire+Wood
 

@@ -6,10 +6,14 @@ SAWK: 48,53,59
 # 12248/116 - Spirit Dance
 Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Changes the leftmost column to Wood Orbs; 2x Orb move time for 1 turn
+JP: Change the far left column to Wood orbs; For 1 turn, 2x orb move time
 EN: Change the far left column to Wood orbs; For 1 turn, 2x orb move time
+KR: Change the far left column to Wood orbs; For 1 turn, 2x orb move time
 
 # 12255/138 - I became an S-Rank!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 1.5x HP for Fire & Wood Att., 5x ATK with 6+ combos; 3x ATK & reduces damage with 5+ linked Orbs
+JP: 1.5x HP for Fire, Wood Att.; 5x ATK when 6 or more combos; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 EN: 1.5x HP for Fire, Wood Att.; 5x ATK when 6 or more combos; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
+KR: 1.5x HP for Fire, Wood Att.; 5x ATK when 6 or more combos; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 

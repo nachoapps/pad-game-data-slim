@@ -6,10 +6,14 @@ SAWK:
 # 3371/116 - Fear Gas
 Tags: POISON,ORB_CONVERT
 Game: Changes Light Orbs to Poison Orbs; all enemies poisoned
+JP: Change Light orbs to Poison orbs; Poison all enemies (1x ATK)
 EN: Change Light orbs to Poison orbs; Poison all enemies (1x ATK)
+KR: Change Light orbs to Poison orbs; Poison all enemies (1x ATK)
 
 # 3605/138 - There's Nothing More to Fear
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 4x ATK for Devil Type when HP is 10% or less; Orb move time extended by 1 second
+JP: 4x ATK for Devil type when below 10% HP; Increase orb movement time by 1 seconds
 EN: 4x ATK for Devil type when below 10% HP; Increase orb movement time by 1 seconds
+KR: 4x ATK for Devil type when below 10% HP; Increase orb movement time by 1 seconds
 

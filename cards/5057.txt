@@ -6,10 +6,14 @@ SAWK: 27,52,55
 # 12631/116 - Freedom Sky
 Tags: DROP_CHANCE,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; Water Orbs slightly more likely to appear for 3 turns
+JP: For 1 turn, bypass att. absorb shield effects; For 3 turns, Water orbs are more likely to appear by 15%
 EN: For 1 turn, bypass att. absorb shield effects; For 3 turns, Water orbs are more likely to appear by 15%
+KR: For 1 turn, bypass att. absorb shield effects; For 3 turns, Water orbs are more likely to appear by 15%
 
 # 12634/138 - Torch of Liberation
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 6x ATK with 5+ linked Heal Orbs; 3x ATK & reduces damage when 3+ Att. attack at once
+JP: 6x ATK when matching 5 or more connected Heal orbs; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 6x ATK when matching 5 or more connected Heal orbs; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 6x ATK when matching 5 or more connected Heal orbs; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 

@@ -6,10 +6,14 @@ SAWK: 52,60
 # 694/3 - The Feathered Garment of Yomi
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 3 turns
+JP: For 3 turns, reduce damage taken by 35%
 EN: For 3 turns, reduce damage taken by 35%
+KR: For 3 turns, reduce damage taken by 35%
 
 # 4912/138 - This is the beginning of a new day
 Tags: ENHANCED_ATK
 Game: 4x ATK for God & Balanced Types, but halves overall RCV
+JP: 0.5x RCV; 4x ATK for Balanced, God type
 EN: 0.5x RCV; 4x ATK for Balanced, God type
+KR: 0.5x RCV; 4x ATK for Balanced, God type
 

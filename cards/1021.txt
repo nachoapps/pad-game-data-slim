@@ -6,10 +6,14 @@ SAWK:
 # 907/3 - 薄っぺらな嘘
 Tags: REDUCE_DAMAGE
 Game: 2ターンの間、受けるダメージを軽減。
+JP: For 2 turns, reduce damage taken by 30%
 EN: For 2 turns, reduce damage taken by 30%
+KR: For 2 turns, reduce damage taken by 30%
 
 # 881/119 - 興奮しちゃうじゃないか♪
 Tags: ENHANCED_ATK
 Game: 火を6個以上つなげて消すと攻撃力が上昇、最大3.5倍。
+JP: 3x ATK when matching 6 or more connected Fire orbs up to 3.5x at 7 orbs
 EN: 3x ATK when matching 6 or more connected Fire orbs up to 3.5x at 7 orbs
+KR: 3x ATK when matching 6 or more connected Fire orbs up to 3.5x at 7 orbs
 

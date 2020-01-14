@@ -6,10 +6,14 @@ SAWK:
 # 11768/116 - Mysterious Changing Orbs
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Water & Light Orbs; Water & Light Orbs locked
+JP: Change all orbs to Water and Light orbs; Lock Water and Light orbs
 EN: Change all orbs to Water and Light orbs; Lock Water and Light orbs
+KR: Change all orbs to Water and Light orbs; Lock Water and Light orbs
 
 # 11771/138 - Five-Seven Paulownia Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP
 Game: 1.5x Rank EXP when entering a dungeon as a Leader; 6x ATK & reduces dmg when Light & Water attack at once
+JP: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Light+Water
 EN: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Light+Water
+KR: 1.5x Rank EXP; 6x ATK and reduce damage taken by 25% when matching Light+Water
 

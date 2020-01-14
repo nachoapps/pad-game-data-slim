@@ -6,10 +6,14 @@ SAWK: 52,43,27
 # 3388/116 - Choose whatever you'll regret the least
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to Fire, Water, Light, Dark & Heal Orbs; other allies' skills charged by 1 turn
+JP: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
+KR: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 
 # 3627/138 - Don't lose sight of the core objective
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
 Game: 4x ATK when 4+ Att. attack at once; ATK increases a little for Attacker & Machine Types
+JP: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker, Machine type
 EN: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker, Machine type
+KR: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker, Machine type
 

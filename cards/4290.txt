@@ -6,10 +6,14 @@ SAWK: 57,59,54
 # 3707/116 - Electric Shock Daccha
 Tags: MENACE,FIXED_DAMAGE
 Game: Inflicts a 10,000 damage Mass Attack; delays enemies' next move for 1 turn
+JP: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 EN: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
+KR: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 10117/138 - I guess I really do... love him.
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for Attacker Type; 5x ATK for Att. erasing 5 Orbs including enhanced
+JP: 1.5x HP & ATK for Attacker type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 EN: 1.5x HP & ATK for Attacker type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 1.5x HP & ATK for Attacker type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 

@@ -6,10 +6,14 @@ SAWK: 53,21,44
 # 13757/116 - Rising of the Orbs
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes Orbs to all Attributes & Heal
+JP: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13761/138 - Maleficent Destructive Dance
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 2x to all stats for God Type, Orb move time +2 seconds; 2x ATK when 5 Att. (4+Heal) attack, 10x with 5+Heal
+JP: 2x all stats for God type; Increase orb movement time by 2 seconds; 2x ATK when matching 5 or more colors (4+heal) up to 10x at 5 colors+heal
 EN: 2x all stats for God type; Increase orb movement time by 2 seconds; 2x ATK when matching 5 or more colors (4+heal) up to 10x at 5 colors+heal
+KR: 2x all stats for God type; Increase orb movement time by 2 seconds; 2x ATK when matching 5 or more colors (4+heal) up to 10x at 5 colors+heal
 

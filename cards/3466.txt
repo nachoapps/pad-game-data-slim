@@ -6,10 +6,14 @@ SAWK:
 # 7094/116 - Get outta my face!
 Tags: VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; creates 4 Dark Orbs at random
+JP: For 1 turn, bypass damage absorb shield effects; Create 4 Dark orbs
 EN: For 1 turn, bypass damage absorb shield effects; Create 4 Dark orbs
+KR: For 1 turn, bypass damage absorb shield effects; Create 4 Dark orbs
 
 # 7097/138 - I can't fulfill my duties anymore...
 Tags: ENHANCED_ATK
 Game: 3.5x ATK with 6+ combos; 2x ATK when Dark & Fire attack at once
+JP: 3.5x ATK when 6 or more combos; 2x ATK when matching Dark+Fire
 EN: 3.5x ATK when 6 or more combos; 2x ATK when matching Dark+Fire
+KR: 3.5x ATK when 6 or more combos; 2x ATK when matching Dark+Fire
 

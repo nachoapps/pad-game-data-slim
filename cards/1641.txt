@@ -6,10 +6,14 @@ SAWK:
 # 186/116 - Dark&Light Orbs Change
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs & Jammers to Dark Orbs, and Heal Orbs & Poison Orbs to Light Orbs
+JP: Change Light, Jammer orbs to Dark orbs; Change Heal, Poison, and Mortal Poison orbs to Light orbs
 EN: Change Light, Jammer orbs to Dark orbs; Change Heal, Poison, and Mortal Poison orbs to Light orbs
+KR: Change Light, Jammer orbs to Dark orbs; Change Heal, Poison, and Mortal Poison orbs to Light orbs
 
 # 1989/12 - Pummel
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
+KR: 2x ATK additional damage when matching orbs
 

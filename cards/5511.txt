@@ -6,10 +6,14 @@ SAWK: 48,54,53
 # 14254/116 - Power Burst
 Tags: SUICIDE,LINE_ORBS_CONVERTER
 Game: Halves HP; changes the top row to Fire Orbs and the bottom row to Dark Orbs
+JP: Reduce HP by 50%; Change the top row to Fire orbs and change the bottom row to Dark orbs
 EN: Reduce HP by 50%; Change the top row to Fire orbs and change the bottom row to Dark orbs
+KR: Reduce HP by 50%; Change the top row to Fire orbs and change the bottom row to Dark orbs
 
 # 14257/138 - I am the one who stands above all others!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 6x ATK for Fire Att., 2x HP for Dark Att.; 3x ATK & reduces damage when HP is 50% or less
+JP: 6x ATK for Fire Att.; 2x HP for Dark Att.; 3x ATK and reduce damage taken by 25% when below 50% HP
 EN: 6x ATK for Fire Att.; 2x HP for Dark Att.; 3x ATK and reduce damage taken by 25% when below 50% HP
+KR: 6x ATK for Fire Att.; 2x HP for Dark Att.; 3x ATK and reduce damage taken by 25% when below 50% HP
 

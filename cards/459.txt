@@ -6,10 +6,14 @@ SAWK:
 # 414/3 - Evasion
 Tags: REDUCE_DAMAGE
 Game: Greatly reduces received damage for 3 turns
+JP: For 3 turns, reduce damage taken by 75%
 EN: For 3 turns, reduce damage taken by 75%
+KR: For 3 turns, reduce damage taken by 75%
 
 # 355/138 - Steal Coins
 Tags: COIN,EXP
 Game: Slightly increases EXP and 2.5x coin drop rate when entering a dungeon as a Leader
+JP: 1.2x Rank EXP; 2.5x Coin Drop rate
 EN: 1.2x Rank EXP; 2.5x Coin Drop rate
+KR: 1.2x Rank EXP; 2.5x Coin Drop rate
 

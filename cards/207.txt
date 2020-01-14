@@ -6,10 +6,14 @@ SAWK:
 # 138/8 - Light of Mighty Healing
 Tags: HEAL
 Game: Recovers 2,000 HP
+JP: Recover 2000 HP
 EN: Recover 2000 HP
+KR: Recover 2000 HP
 
 # 62/13 - Healing Prayer
 Tags: AUTO_HEAL
 Game: Heals HP equal to half RCV when matching Orbs
+JP: 0.5x RCV additional heal when matching orbs
 EN: 0.5x RCV additional heal when matching orbs
+KR: 0.5x RCV additional heal when matching orbs
 

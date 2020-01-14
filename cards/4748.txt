@@ -6,10 +6,14 @@ SAWK: 48,44,55
 # 11395/116 - Don't make fun of Yorozuyaaa!
 Tags: REDUCE_DAMAGE,ADD_COMBO
 Game: Adds 2 combos for 1 turn; vastly reduces damage for 2 turns
+JP: For 1 turn, increase combo count by 2; For 2 turns, reduce damage taken by 75%
 EN: For 1 turn, increase combo count by 2; For 2 turns, reduce damage taken by 75%
+KR: For 1 turn, increase combo count by 2; For 2 turns, reduce damage taken by 75%
 
 # 11398/138 - What I protect won't change even once!
 Tags: ENHANCED_ATK_RCV
 Game: ATK increases with 8+ combos, up to 10x; 3x ATK & 1.5x RCV when skills used
+JP: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK and 1.5x RCV on the turn a skill is used
 EN: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK and 1.5x RCV on the turn a skill is used
+KR: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK and 1.5x RCV on the turn a skill is used
 

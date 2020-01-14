@@ -6,10 +6,14 @@ SAWK:
 # 654/19 - Search
 Tags: REDUCE_DEFENSE
 Game: Void enemies' DEF for 1 turn
+JP: For 1 turn, reduce enemies' defense by 100%
 EN: For 1 turn, reduce enemies' defense by 100%
+KR: For 1 turn, reduce enemies' defense by 100%
 
 # 744/41 - Super Metallic Body
 Tags: COUNTERATTACK
 Game: Massive Wood counterattack in rare cases
+JP: 25% chance to counterattack with 10x Wood damage
 EN: 25% chance to counterattack with 10x Wood damage
+KR: 25% chance to counterattack with 10x Wood damage
 

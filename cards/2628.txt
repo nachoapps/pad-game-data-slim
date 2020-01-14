@@ -6,10 +6,14 @@ SAWK: 58,43,52
 # 3847/59 - Don't underestimate me!
 Tags: SINGLE_TARGET_ATTACK
 Game: Inflicts random Dark Att. damage on 1 enemy
+JP: Randomized Dark damage to an enemy(1~50x)
 EN: Randomized Dark damage to an enemy(1~50x)
+KR: Randomized Dark damage to an enemy(1~50x)
 
 # 4365/129 - Bring it on!
 Tags: ENHANCED_ATK
 Game: 2x ATK for Attacker Type
+JP: 2x ATK for Attacker type
 EN: 2x ATK for Attacker type
+KR: 2x ATK for Attacker type
 

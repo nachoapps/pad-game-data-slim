@@ -6,10 +6,14 @@ SAWK:
 # 7477/116 - Astronomical Incandescence
 Tags: ALL_ORBS_CONVERT,CHANGE_ATTRIBUTE
 Game: Changes all Orbs to Water, Light & Heal Orbs; this ally's Att. changes to Light for 3 turns
+JP: Change all orbs to Water, Light, and Heal orbs; Change own Att. to Light for 3 turns
 EN: Change all orbs to Water, Light, and Heal orbs; Change own Att. to Light for 3 turns
+KR: Change all orbs to Water, Light, and Heal orbs; Change own Att. to Light for 3 turns
 
 # 7480/138 - In the Beginning
 Tags: ENHANCED_ATK_RCV
 Game: 6x ATK for Light Att., 2x RCV for Water Att.;  ATK increases with 5+ linked Light Orbs, up to 3x
+JP: 6x ATK for Light Att.; 2x RCV for Water Att.; 1.5x ATK when matching 5 or more connected Light orbs up to 3x at 8 orbs
 EN: 6x ATK for Light Att.; 2x RCV for Water Att.; 1.5x ATK when matching 5 or more connected Light orbs up to 3x at 8 orbs
+KR: 6x ATK for Light Att.; 2x RCV for Water Att.; 1.5x ATK when matching 5 or more connected Light orbs up to 3x at 8 orbs
 

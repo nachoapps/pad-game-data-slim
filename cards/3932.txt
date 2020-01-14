@@ -6,10 +6,14 @@ SAWK:
 # 9047/116 - Crimson Rain
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Water & Dark Orbs to Fire Orbs, and Jammers & Poison Orbs to Heal
+JP: Change Water, Dark orbs to Fire orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 EN: Change Water, Dark orbs to Fire orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
+KR: Change Water, Dark orbs to Fire orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 
 # 9050/138 - Flame Jaw's Draco Summoning Seal
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 6x ATK when HP is 80% or more, 2x ATK & RCV when  79% or less; 2x ATK & reduces dmg with 2+ Fire combos
+JP: 6x ATK when above 80% HP; 2x ATK & RCV when below 80% HP; 2x ATK and reduce damage taken by 25% when matching 2+ Fire combos
 EN: 6x ATK when above 80% HP; 2x ATK & RCV when below 80% HP; 2x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+KR: 6x ATK when above 80% HP; 2x ATK & RCV when below 80% HP; 2x ATK and reduce damage taken by 25% when matching 2+ Fire combos
 

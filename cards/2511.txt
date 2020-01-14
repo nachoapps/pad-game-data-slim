@@ -6,10 +6,14 @@ SAWK: 43,57,54
 # 1647/71 - Orb Transformation
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to all Attributes & Heal
+JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 4180/138 - Which one do you want?
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 2.5x ATK, 1.5x HP & RCV for God & Dragon Types; 6x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+JP: 2.5x ATK and 1.5x HP & RCV for Dragon, God type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
 EN: 2.5x ATK and 1.5x HP & RCV for Dragon, God type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
+KR: 2.5x ATK and 1.5x HP & RCV for Dragon, God type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, Heal at once
 

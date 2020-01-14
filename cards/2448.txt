@@ -6,10 +6,14 @@ SAWK:
 # 3560/116 - Gekiheki Haisui Sho
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,GRUDGE_STRIKE
 Game: The less HP you have, the more Light damage caused to 1 enemy; 2x ATK for Light Att. for 4 turns
+JP: Deal Light damage to an enemy depending on HP level (200x at 1 HP and 20x at 100% HP); For 4 turns, 2x ATK for Light Att.
 EN: Deal Light damage to an enemy depending on HP level (200x at 1 HP and 20x at 100% HP); For 4 turns, 2x ATK for Light Att.
+KR: Deal Light damage to an enemy depending on HP level (200x at 1 HP and 20x at 100% HP); For 4 turns, 2x ATK for Light Att.
 
 # 4047/105 - I live as free as the clouds
 Tags: ENHANCED_ATK
 Game: 3.5x ATK, but halves overall RCV
+JP: 3.5x ATK and 0.5x RCV
 EN: 3.5x ATK and 0.5x RCV
+KR: 3.5x ATK and 0.5x RCV
 

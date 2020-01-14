@@ -6,10 +6,14 @@ SAWK:
 # 1638/116 - ダイナマイトキック
 Tags: MENACE,SINGLE_TARGET_ATTACK
 Game: 敵の行動を2ターン遅らせる。 敵1体に自分の攻撃力分の攻撃。
+JP: Delay enemies' next attack by 2 turns; Deal 1x ATK damage to an enemy
 EN: Delay enemies' next attack by 2 turns; Deal 1x ATK damage to an enemy
+KR: Delay enemies' next attack by 2 turns; Deal 1x ATK damage to an enemy
 
 # 1933/54 - いただきいただきーっ!!!
 Tags: COIN
 Game: ダンジョン潜入時にリーダーの時、入手コインが2倍。
+JP: 2x Coin Drop rate
 EN: 2x Coin Drop rate
+KR: 2x Coin Drop rate
 

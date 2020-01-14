@@ -6,10 +6,14 @@ SAWK:
 # 104/116 - Magic-Draining Light
 Tags: ENHANCED_ORBS,ATTACK_AND_HEAL
 Game: Inflicts 50x ATK attack on 1 enemy, recovers half of the damage in HP; Water Orbs enhanced
+JP: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; Enhance all Water orbs
 EN: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; Enhance all Water orbs
+KR: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; Enhance all Water orbs
 
 # 1215/76 - Fortune God's Blessing
 Tags: ENHANCED_HP_ATK_RCV
 Game: 1.5x to all stats for Water Att. and Healer Type
+JP: 1.5x all stats for Healer type and Water Att.
 EN: 1.5x all stats for Healer type and Water Att.
+KR: 1.5x all stats for Healer type and Water Att.
 

@@ -6,10 +6,14 @@ SAWK:
 # 6762/116 - Shadow Tactics
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Fire Orbs to Dark & Light Orbs to Water
+JP: Unlock all orbs; Change Fire orbs to Dark orbs; Change Light orbs to Water orbs
 EN: Unlock all orbs; Change Fire orbs to Dark orbs; Change Light orbs to Water orbs
+KR: Unlock all orbs; Change Fire orbs to Dark orbs; Change Light orbs to Water orbs
 
 # 6765/138 - Contemplative Wolfsight
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board]; 4x ATK & 1.5x RCV  when Dark & Water attack at once
+JP: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Dark+Water
 EN: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Dark+Water
+KR: [Board becomes 7x6] 4x ATK and 1.5x RCV when matching Dark+Water
 

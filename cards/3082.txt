@@ -6,10 +6,14 @@ SAWK:
 # 5256/116 - Keeeeeeen!
 Tags: RECOVER_BIND,REMOVE_LOCK
 Game: Fully recovers bind status, removes Orb locks; other allies' skills charged by 1 turn
+JP: Remove all binds; Unlock all orbs; Charge all allies' skills by 1 turn
 EN: Remove all binds; Unlock all orbs; Charge all allies' skills by 1 turn
+KR: Remove all binds; Unlock all orbs; Charge all allies' skills by 1 turn
 
 # 5685/129 - You can't give up!!
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK & HP for Light Att.
+JP: 2x HP & ATK for Light Att.
 EN: 2x HP & ATK for Light Att.
+KR: 2x HP & ATK for Light Att.
 

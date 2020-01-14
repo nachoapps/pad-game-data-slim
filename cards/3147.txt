@@ -6,10 +6,14 @@ SAWK: 52,36,55
 # 5367/116 - Hold still for me
 Tags: SINGLE_TARGET_ATTACK,CHANGE_ATTRIBUTE
 Game: This ally's Att. changes to Dark for 1 turn; inflicts 50x ATK Dark Att. attack on 1 enemy
+JP: Change own Att. to Dark for 1 turns; Deal 50x ATK Dark damage to an enemy
 EN: Change own Att. to Dark for 1 turns; Deal 50x ATK Dark damage to an enemy
+KR: Change own Att. to Dark for 1 turns; Deal 50x ATK Dark damage to an enemy
 
 # 5865/138 - Muscle Revenger
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK & RCV for Devil Type; 1.5x ATK for Dark Att. when skills used
+JP: 2x HP & ATK for Devil type; 1.5x ATK for Dark Att. on the turn a skill is used
 EN: 2x HP & ATK for Devil type; 1.5x ATK for Dark Att. on the turn a skill is used
+KR: 2x HP & ATK for Devil type; 1.5x ATK for Dark Att. on the turn a skill is used
 

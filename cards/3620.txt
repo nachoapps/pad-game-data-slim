@@ -6,10 +6,14 @@ SAWK:
 # 7566/116 - Man cannot live forever...
 Tags: ENHANCED_ATTACK,REDUCE_DEFENSE
 Game: Vastly reduces enemies' DEF for 1 turn; ATK increases a little for Attacker Type for 3 turns
+JP: For 1 turn, reduce enemies' defense by 75%; For 3 turns, 1.3x ATK for Attacker type
 EN: For 1 turn, reduce enemies' defense by 75%; For 3 turns, 1.3x ATK for Attacker type
+KR: For 1 turn, reduce enemies' defense by 75%; For 3 turns, 1.3x ATK for Attacker type
 
 # 7569/138 - Fuwa Enmei-ryu Hidden Art: Kamui
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 2.5x ATK for Attacker Type & their HP increases slightly; bonus attack equal to 30x ATK when matching Orbs
+JP: 2.5x ATK and 1.25x HP for Attacker type; 30x ATK additional damage when matching orbs
 EN: 2.5x ATK and 1.25x HP for Attacker type; 30x ATK additional damage when matching orbs
+KR: 2.5x ATK and 1.25x HP for Attacker type; 30x ATK additional damage when matching orbs
 

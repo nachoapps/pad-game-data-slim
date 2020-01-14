@@ -6,10 +6,14 @@ SAWK: 48,54,55
 # 13548/116 - Moon-Filled Night Shake
 Tags: LINE_ORBS_CONVERTER
 Game: Reduces unmatchable Orb status by 5 turns; changes the bottom row to Dark Orbs
+JP: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
+KR: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 
 # 13551/138 - Eternal Dragon Player - Cormier
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Game: 1.5x to all stats for Dark Att., Orb move time +2 sec; 7x ATK & reduces damage with 6+ linked Dark Orbs
+JP: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 EN: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+KR: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 

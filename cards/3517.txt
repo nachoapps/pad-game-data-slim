@@ -6,10 +6,14 @@ SAWK: 46,43,44
 # 3990/116 - Harmonic Feather
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to all Attributes; other allies' skills charged by 1 turn
+JP: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
+KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
 
 # 7249/138 - Elemental Square
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME,BOARD_CHANGE_7X6
 Game: [7x6 board], Orb move time +5 seconds; 5x ATK & RCV when attacking with 3+ Att.
+JP: [Board becomes 7x6] 5x ATK & RCV when matching 3 or more colors; Increase orb movement time by 5 seconds
 EN: [Board becomes 7x6] 5x ATK & RCV when matching 3 or more colors; Increase orb movement time by 5 seconds
+KR: [Board becomes 7x6] 5x ATK & RCV when matching 3 or more colors; Increase orb movement time by 5 seconds
 

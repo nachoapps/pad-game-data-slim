@@ -6,10 +6,14 @@ SAWK:
 # 9724/116 - Festive Starlight
 Tags: GUARD_STANCE,HEAL,RECOVER_BIND,LINE_ORBS_CONVERTER,HEAL_BIND_RECOVERY
 Game: Changes the bottom row to Heal Orbs; recovers 30% of max HP, reduces bind status by 7 turns
+JP: Change the bottom row to Heal orbs; Recover 30% of max HP; Reduce binds by 7 turns
 EN: Change the bottom row to Heal orbs; Recover 30% of max HP; Reduce binds by 7 turns
+KR: Change the bottom row to Heal orbs; Recover 30% of max HP; Reduce binds by 7 turns
 
 # 9727/138 - May your year be filled with joy!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 5x ATK when HP is 80% or more, 2.5x ATK when 79% or less; 3.5x ATK & reduces damage when Fire & Light attack at once
+JP: 5x ATK when above 80% HP; 2.5x ATK when below 80% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire+Light
 EN: 5x ATK when above 80% HP; 2.5x ATK when below 80% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire+Light
+KR: 5x ATK when above 80% HP; 2.5x ATK when below 80% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire+Light
 

@@ -6,10 +6,14 @@ SAWK:
 # 465/116 - Grape Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Light Orbs to Heal Orbs; heals 30% of Max HP
+JP: Change Light orbs to Heal orbs; Recover 30% of max HP
 EN: Change Light orbs to Heal orbs; Recover 30% of max HP
+KR: Change Light orbs to Heal orbs; Recover 30% of max HP
 
 # 1910/41 - Reflect Shield - Dark
 Tags: COUNTERATTACK
 Game: Strong Dark counterattack sometimes
+JP: 50% chance to counterattack with 5x Dark damage
 EN: 50% chance to counterattack with 5x Dark damage
+KR: 50% chance to counterattack with 5x Dark damage
 

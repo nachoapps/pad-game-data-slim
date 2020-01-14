@@ -6,10 +6,14 @@ SAWK:
 # 461/116 - Strawberry Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Wood Orbs to Heal Orbs; heals 30% of Max HP
+JP: Change Wood orbs to Heal orbs; Recover 30% of max HP
 EN: Change Wood orbs to Heal orbs; Recover 30% of max HP
+KR: Change Wood orbs to Heal orbs; Recover 30% of max HP
 
 # 1901/17 - Damage Guard - Fire
 Tags: REDUCE_DAMAGE
 Game: Halves Wood Att. damage
+JP: Reduce damage taken from wood att. by 50%
 EN: Reduce damage taken from wood att. by 50%
+KR: Reduce damage taken from wood att. by 50%
 

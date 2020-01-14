@@ -6,10 +6,14 @@ SAWK: 60,43,58
 # 9961/141 - Corona Spark
 Tags: 
 Game: Creates 3 Fire Orbs at random
+JP: Create 3 Fire orbs
 EN: Create 3 Fire orbs
+KR: Create 3 Fire orbs
 
 # 9964/138 - Scorching Sun's Atmosphere
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 10x ATK with exactly 7 combos; 10x ATK when 3 Orbs or less remain on the board
+JP: [No skyfall] 10x ATK when there are 3 or fewer orbs remaining; 10x ATK when exactly 7 combos
 EN: [No skyfall] 10x ATK when there are 3 or fewer orbs remaining; 10x ATK when exactly 7 combos
+KR: [No skyfall] 10x ATK when there are 3 or fewer orbs remaining; 10x ATK when exactly 7 combos
 

@@ -6,10 +6,14 @@ SAWK:
 # 1819/117 - 治癒能力
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: 最大HPの50％分HPを回復。 バインド状態を2ターン回復。
+JP: Recover 50% of max HP; Reduce binds by 2 turns
 EN: Recover 50% of max HP; Reduce binds by 2 turns
+KR: Recover 50% of max HP; Reduce binds by 2 turns
 
 # 2466/138 - すぐなおしてあげる!!
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 神タイプの攻撃力が2倍。 ドロップを消した時、回復力×4倍のHPを回復。
+JP: 2x ATK for God type; 4x RCV additional heal when matching orbs
 EN: 2x ATK for God type; 4x RCV additional heal when matching orbs
+KR: 2x ATK for God type; 4x RCV additional heal when matching orbs
 

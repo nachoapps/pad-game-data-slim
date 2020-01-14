@@ -6,10 +6,14 @@ SAWK: 55,60,32
 # 13213/116 - Poison World
 Tags: POISON,DROP_CHANCE
 Game: Mortally poisons all enemies; Dark Orbs more likely to appear for 3 turns
+JP: Poison all enemies (80x ATK); For 3 turns, Dark orbs are more likely to appear by 15%
 EN: Poison all enemies (80x ATK); For 3 turns, Dark orbs are more likely to appear by 15%
+KR: Poison all enemies (80x ATK); For 3 turns, Dark orbs are more likely to appear by 15%
 
 # 13216/138 - Devil Prince's Selfishness
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: [Orb move time: 4 sec], 3x ATK with 5+ combos; 6x ATK & reduces dmg with an L shape of 5 Dk or Wt Orbs
+JP: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
 EN: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
+KR: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
 

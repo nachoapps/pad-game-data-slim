@@ -6,10 +6,14 @@ SAWK:
 # 8341/116 - Star Wedding Road
 Tags: GUARD_STANCE,DROP_CHANCE,LINE_ORBS_CONVERTER
 Game: Changes leftmost column to Light & rightmost to Heal; Light Orbs slightly more likely to appear for 4 turns
+JP: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
 EN: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
+KR: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
 
 # 8344/138 - Cheers to us!
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for God & Machine Types; 2.5x ATK with 2 Light combos, 3.5x ATK with 3+ combos
+JP: 1.5x HP & ATK for God, Machine type; 2.5x ATK when matching 2 Light combos, up to 3.5x at 3 Light combos
 EN: 1.5x HP & ATK for God, Machine type; 2.5x ATK when matching 2 Light combos, up to 3.5x at 3 Light combos
+KR: 1.5x HP & ATK for God, Machine type; 2.5x ATK when matching 2 Light combos, up to 3.5x at 3 Light combos
 

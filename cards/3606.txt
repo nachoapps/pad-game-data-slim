@@ -6,10 +6,14 @@ SAWK: 52,54,60
 # 7495/116 - Destiny can burn, for all I care!
 Tags: REMOVE_LOCK,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; creates 5 Fire Orbs at random
+JP: For 1 turn, bypass att. absorb shield effects; Unlock all orbs; Create 5 Fire orbs
 EN: For 1 turn, bypass att. absorb shield effects; Unlock all orbs; Create 5 Fire orbs
+KR: For 1 turn, bypass att. absorb shield effects; Unlock all orbs; Create 5 Fire orbs
 
 # 7501/138 - Fire Dragon's Iron Fist
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2.5x ATK & RCV for Attacker & Dragon Types; 2.5x ATK & reduces damage with 5+ combos
+JP: 3x ATK & RCV for Dragon, Attacker type; 5x ATK and reduce damage taken by 25% when 5 or more combos
 EN: 3x ATK & RCV for Dragon, Attacker type; 5x ATK and reduce damage taken by 25% when 5 or more combos
+KR: 3x ATK & RCV for Dragon, Attacker type; 5x ATK and reduce damage taken by 25% when 5 or more combos
 

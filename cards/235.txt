@@ -6,10 +6,14 @@ SAWK:
 # 102/1 - ファミ通Appの怒り
 Tags: MASSIVE_ATTACK
 Game: 832ダメージの光属性攻撃
+JP: Deal 832 Light damage to all enemies
 EN: Deal 832 Light damage to all enemies
+KR: Deal 832 Light damage to all enemies
 
 # 279/13 - ファミ通Appの加護
 Tags: AUTO_HEAL
 Game: ドロップを消した時、回復力分のHPを回復。
+JP: 1x RCV additional heal when matching orbs
 EN: 1x RCV additional heal when matching orbs
+KR: 1x RCV additional heal when matching orbs
 

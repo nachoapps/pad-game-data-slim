@@ -6,10 +6,14 @@ SAWK: 27,43,52
 # 8457/116 - Then go talk to a wall.
 Tags: ORB_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Jammers, Poison & Heal Orbs to Fire Orbs
+JP: Unlock all orbs; Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 EN: Unlock all orbs; Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
+KR: Unlock all orbs; Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 
 # 8460/138 - Blasting Zone
 Tags: ENHANCED_ATK
 Game: 3x ATK for Fire Att.; 4x ATK with 4 combos, 5x ATK with 5+ combos
+JP: 3x ATK for Fire Att.; 4x ATK when 4 or more combos up to 5x at 5 combos
 EN: 3x ATK for Fire Att.; 4x ATK when 4 or more combos up to 5x at 5 combos
+KR: 3x ATK for Fire Att.; 4x ATK when 4 or more combos up to 5x at 5 combos
 

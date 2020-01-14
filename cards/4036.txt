@@ -6,10 +6,14 @@ SAWK: 56,43,52
 # 9481/116 - I think I'll eat them!
 Tags: ATTACK_AND_HEAL
 Game: Inflicts 50x ATK attack on 1 enemy & recovers half the damage as HP; recovers 20% of max HP for 4 turns
+JP: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; For 4 turns, recover 20% of max HP
 EN: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; For 4 turns, recover 20% of max HP
+KR: Deal 50x ATK damage to an enemy and recover 50% of the damage as HP; For 4 turns, recover 20% of max HP
 
 # 9484/138 - I smell him! I smell him!
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK when Lust is on your team; 2.5x RCV when HP is 50% or more
+JP: 3x ATK if [4035] is on the team; 2.5x RCV when above 50% HP
 EN: 3x ATK if [4035] is on the team; 2.5x RCV when above 50% HP
+KR: 3x ATK if [4035] is on the team; 2.5x RCV when above 50% HP
 

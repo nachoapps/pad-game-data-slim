@@ -6,10 +6,14 @@ SAWK:
 # 182/116 - Fire&Wood Orbs Change
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Wood Orbs & Jammers to Fire Orbs, and Heal Orbs & Poison Orbs to Wood Orbs
+JP: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
 EN: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
+KR: Change Wood, Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs
 
 # 829/17 - ベリーベリーストロベリー
 Tags: REDUCE_DAMAGE
 Game: 火属性の敵から受けるダメージを半減。
+JP: Reduce damage taken from fire att. by 50%
 EN: Reduce damage taken from fire att. by 50%
+KR: Reduce damage taken from fire att. by 50%
 

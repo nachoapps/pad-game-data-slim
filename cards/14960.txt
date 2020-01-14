@@ -6,10 +6,14 @@ SAWK: 60,43,48
 # 14810/116 - Break Free
 Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Fire and the rightmost to Dark Orbs; Fire & Dark Orbs enhanced
+JP: Change the far left column to Fire orbs and change the far right column to Dark orbs; Enhance all Fire and Dark orbs
 EN: Change the far left column to Fire orbs and change the far right column to Dark orbs; Enhance all Fire and Dark orbs
+KR: Change the far left column to Fire orbs and change the far right column to Dark orbs; Enhance all Fire and Dark orbs
 
 # 14813/138 - Some things never change.
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x to all stats for Fire Att.; 4x ATK when HP is 80% or more, 8x ATK when 79% or less
+JP: 2x all stats for Fire Att.; 4x ATK when above 80% HP; 8x ATK when below 79% HP
 EN: 2x all stats for Fire Att.; 4x ATK when above 80% HP; 8x ATK when below 79% HP
+KR: 2x all stats for Fire Att.; 4x ATK when above 80% HP; 8x ATK when below 79% HP
 

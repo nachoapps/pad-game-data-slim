@@ -6,10 +6,14 @@ SAWK: 32,43,52
 # 5114/116 - Wild Cats X
 Tags: REDUCE_DEFENSE,ATTACK_CHANGER
 Game: Mass Attacks for 3 turns; halves enemies' DEF for 3 turns
+JP: For 3 turns, all attacks become mass attack; For 3 turns, reduce enemies' defense by 50%
 EN: For 3 turns, all attacks become mass attack; For 3 turns, reduce enemies' defense by 50%
+KR: For 3 turns, all attacks become mass attack; For 3 turns, reduce enemies' defense by 50%
 
 # 4864/138 - Moonlit Cat X
 Tags: ENHANCED_ATK
 Game: ATK increases with 4+ combos, up to 8x; 1.5x ATK with 3+ Wood combos
+JP: 2x ATK when 4 or more combos up to 8x at 10 combos; 1.5x ATK when matching 3+ Wood combos
 EN: 2x ATK when 4 or more combos up to 8x at 10 combos; 1.5x ATK when matching 3+ Wood combos
+KR: 2x ATK when 4 or more combos up to 8x at 10 combos; 1.5x ATK when matching 3+ Wood combos
 

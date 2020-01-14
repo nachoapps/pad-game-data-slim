@@ -6,10 +6,14 @@ SAWK:
 # 124/116 - Plasma Cannon
 Tags: ENHANCED_ORBS,MASSIVE_ATTACK
 Game: Inflicts 30,000 Light Att. damage on all enemies; Light Orbs enhanced
+JP: Deal 30000 Light damage to all enemies; Enhance all Light orbs
 EN: Deal 30000 Light damage to all enemies; Enhance all Light orbs
+KR: Deal 30000 Light damage to all enemies; Enhance all Light orbs
 
 # 59/138 - Power of Flash
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 2x ATK for Light Att.; Orb move time +2 seconds
+JP: 2x ATK for Light Att.; Increase orb movement time by 2 seconds
 EN: 2x ATK for Light Att.; Increase orb movement time by 2 seconds
+KR: 2x ATK for Light Att.; Increase orb movement time by 2 seconds
 

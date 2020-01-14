@@ -6,10 +6,14 @@ SAWK:
 # 3566/116 - Five Chariots Wave Barrier
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
 Game: Water attack of 10x team's Water ATK on 1 enemy; 2x ATK for Water Att. for 4 turns
+JP: Deal Water damage equal to 10x of team's total Water ATK to an enemy; For 4 turns, 2x ATK for Water Att.
 EN: Deal Water damage equal to 10x of team's total Water ATK to an enemy; For 4 turns, 2x ATK for Water Att.
+KR: Deal Water damage equal to 10x of team's total Water ATK to an enemy; For 4 turns, 2x ATK for Water Att.
 
 # 4059/98 - Stubbornness to Sadness
 Tags: ENHANCED_ATK
 Game: ATK increases with 3+ combos, up to 3x
+JP: 2x ATK when 3 or more combos up to 3x at 5 combos
 EN: 2x ATK when 3 or more combos up to 3x at 5 combos
+KR: 2x ATK when 3 or more combos up to 3x at 5 combos
 

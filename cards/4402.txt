@@ -6,5 +6,7 @@ SAWK:
 # 10408/116 - Adverse Resolve
 Tags: MENACE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Delays enemies' next move for 1 turn; fully recovers bind status (incl. Awoken)
+JP: Delay enemies' next attack by 1 turn; Remove all binds and awoken skill binds
 EN: Delay enemies' next attack by 1 turn; Remove all binds and awoken skill binds
+KR: Delay enemies' next attack by 1 turn; Remove all binds and awoken skill binds
 

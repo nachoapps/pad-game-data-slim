@@ -6,10 +6,14 @@ SAWK: 43,27,52
 # 1894/55 - Hell Fang
 Tags: FIXED_DAMAGE
 Game: Inflicts 99 damage on 1 enemy
+JP: Deal 99 fixed damage to an enemy
 EN: Deal 99 fixed damage to an enemy
+KR: Deal 99 fixed damage to an enemy
 
 # 2948/138 - Green Prison Earth Circle
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK for Dark Att. & 1.5x HP for Wood Att.; 1.5x ATK when skills used
+JP: 2x ATK for Dark Att.; 1.5x HP for Wood Att.; 1.5x ATK on the turn a skill is used
 EN: 2x ATK for Dark Att.; 1.5x HP for Wood Att.; 1.5x ATK on the turn a skill is used
+KR: 2x ATK for Dark Att.; 1.5x HP for Wood Att.; 1.5x ATK on the turn a skill is used
 

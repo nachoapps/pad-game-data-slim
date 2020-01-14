@@ -6,10 +6,14 @@ SAWK: 55,45,43
 # 13163/116 - Persistent Illumination
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes all Orbs to Wood, Light & Heal Orbs; fully recovers bind status (incl. Awoken)
+JP: Change all orbs to Wood, Light, and Heal orbs; Remove all binds and awoken skill binds
 EN: Change all orbs to Wood, Light, and Heal orbs; Remove all binds and awoken skill binds
+KR: Change all orbs to Wood, Light, and Heal orbs; Remove all binds and awoken skill binds
 
 # 13166/138 - Just a little bit...
 Tags: AUTO_HEAL,ENHANCED_HP_ATK
 Game: 2x HP & ATK for God Type, 6x ATK with 6+ combos; recovers 5x RCV as HP when matching Orbs
+JP: 2x HP & ATK for God type; 6x ATK when 6 or more combos; 5x RCV additional heal when matching orbs
 EN: 2x HP & ATK for God type; 6x ATK when 6 or more combos; 5x RCV additional heal when matching orbs
+KR: 2x HP & ATK for God type; 6x ATK when 6 or more combos; 5x RCV additional heal when matching orbs
 

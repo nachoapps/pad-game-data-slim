@@ -6,10 +6,14 @@ SAWK:
 # 9466/116 - The truth is cruel.
 Tags: ORB_LOCK
 Game: Creates 6 Light & Dark Orbs each at random;  Light & Dark Orbs locked
+JP: Create 6 Light and Dark orbs; Lock Light and Dark orbs
 EN: Create 6 Light and Dark orbs; Lock Light and Dark orbs
+KR: Create 6 Light and Dark orbs; Lock Light and Dark orbs
 
 # 9469/138 - I will become a perfect being.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2.5x ATK for Dark Att.; 3x ATK & vastly reduces damage when HP is full
+JP: 2.5x ATK for Dark Att.; 3x ATK and reduce damage taken by 80% when HP is full
 EN: 2.5x ATK for Dark Att.; 3x ATK and reduce damage taken by 80% when HP is full
+KR: 2.5x ATK for Dark Att.; 3x ATK and reduce damage taken by 80% when HP is full
 

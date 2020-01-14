@@ -6,10 +6,14 @@ SAWK:
 # 5202/116 - Kaiten-Kenbu Rokuren
 Tags: DROP_CHANCE
 Game: Water Orbs slightly more likely to appear for 2 turns; creates 6 Water Orbs at random
+JP: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
 EN: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
+KR: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
 
 # 5549/138 - Answer my sword at full strength.
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: 4x ATK with 6+ combos; inflicts bonus attack equal to 5x ATK when matching Orbs
+JP: 4x ATK when 6 or more combos; 5x ATK additional damage when matching orbs
 EN: 4x ATK when 6 or more combos; 5x ATK additional damage when matching orbs
+KR: 4x ATK when 6 or more combos; 5x ATK additional damage when matching orbs
 

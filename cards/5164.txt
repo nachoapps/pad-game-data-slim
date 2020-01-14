@@ -6,10 +6,14 @@ SAWK: 58,43,48
 # 12979/116 - Makoi-style Demonic Absorption Wall
 Tags: VOID_DAMAGE,ORB_CONVERT
 Game: Changes Jammers, Poison & Heal Orbs to Dark Orbs; voids damage for 1 turn
+JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, reduce damage taken by 100%
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, reduce damage taken by 100%
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, reduce damage taken by 100%
 
 # 12986/138 - That felt great! My mind went completely blank!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 2x HP for Dark Att., reduces damage when HP is 50% or less; ATK increases with 4+ combos, up to 15x
+JP: 2x HP for Dark Att.; Reduce damage taken by 25% when below 50% HP; 3x ATK when 4 or more combos up to 15x at 10 combos
 EN: 2x HP for Dark Att.; Reduce damage taken by 25% when below 50% HP; 3x ATK when 4 or more combos up to 15x at 10 combos
+KR: 2x HP for Dark Att.; Reduce damage taken by 25% when below 50% HP; 3x ATK when 4 or more combos up to 15x at 10 combos
 

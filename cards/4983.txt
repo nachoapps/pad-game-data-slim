@@ -6,10 +6,14 @@ SAWK: 46,59,45
 # 12344/116 - Noko Smile
 Tags: VOID_DAMAGE
 Game: Voids Light Att. damage for 3 turns; creates 3 Light Orbs at random
+JP: For 3 turns, void all Light damage; Create 3 Light orbs
 EN: For 3 turns, void all Light damage; Create 3 Light orbs
+KR: For 3 turns, void all Light damage; Create 3 Light orbs
 
 # 12347/138 - I'll make you happy!
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
 Game: Orb move time +10 seconds; bonus attack equal to 30x ATK when matching Orbs
+JP: Increase orb movement time by 10 seconds; 30x ATK additional damage when matching orbs
 EN: Increase orb movement time by 10 seconds; 30x ATK additional damage when matching orbs
+KR: Increase orb movement time by 10 seconds; 30x ATK additional damage when matching orbs
 

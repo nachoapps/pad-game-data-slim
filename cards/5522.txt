@@ -6,10 +6,14 @@ SAWK: 52,36,38
 # 14332/116 - Victory Flame
 Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Changes the rightmost column to Fire Orbs; inflicts 300,000 damage on 1 enemy
+JP: Change the far right column to Fire orbs; Deal 300000 fixed damage to an enemy
 EN: Change the far right column to Fire orbs; Deal 300000 fixed damage to an enemy
+KR: Change the far right column to Fire orbs; Deal 300000 fixed damage to an enemy
 
 # 14335/138 - Protective Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when HP is 50% or more; 3.5x ATK with an L shape of 5 Fire Orbs
+JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
 EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
 

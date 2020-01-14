@@ -6,10 +6,14 @@ SAWK:
 # 5462/161 - Divine Purification
 Tags: NEW_GRAVITY
 Game: Inflicts damage equal to 20% of enemies' max HP
+JP: Deal damage equal to 20% of enemies' max HP
 EN: Deal damage equal to 20% of enemies' max HP
+KR: Deal damage equal to 20% of enemies' max HP
 
 # 6164/138 - Dark Seal of Fire
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 1.5x ATK & RCV for Fire Att.; reduces damage with a cross of 5 Heal Orbs
+JP: 1.5x ATK & RCV for Fire Att.; reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 1.5x ATK & RCV for Fire Att.; reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+KR: 1.5x ATK & RCV for Fire Att.; reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 

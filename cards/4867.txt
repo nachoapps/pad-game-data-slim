@@ -6,10 +6,14 @@ SAWK:
 # 11874/116 - Come on... Draw your sword.
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
 Game: Fully recovers Awoken Skill bind status; changes the rightmost column to Fire Orbs
+JP: Remove all awoken skill binds; Change the far right column to Fire orbs
 EN: Remove all awoken skill binds; Change the far right column to Fire orbs
+KR: Remove all awoken skill binds; Change the far right column to Fire orbs
 
 # 11877/138 - I'm only going to use my sword though.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage with 4+ linked Fire Orbs; 3x ATK with 5+ linked non-Fire Orbs
+JP: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 3x ATK when matching 5 or more connected non Fire orbs
 EN: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 3x ATK when matching 5 or more connected non Fire orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 3x ATK when matching 5 or more connected non Fire orbs
 

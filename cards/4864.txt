@@ -6,10 +6,14 @@ SAWK:
 # 11862/116 - The taste of the bullet that beats you.
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
 Game: Inflicts 100x ATK Lt Att. attack on 1 enemy, but halves HP; removes Orb locks, changes Orbs to all Attributes
+JP: Reduce HP by 50%; Deal 100x Light damage to an enemy; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 EN: Reduce HP by 50%; Deal 100x Light damage to an enemy; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Reduce HP by 50%; Deal 100x Light damage to an enemy; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 11866/138 - Take me out for cake, and we'll call it even.
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Attacker Type, 2x ATK when HP is 80% or less; 3.5x ATK when 4+ Att. attack at once
+JP: 2x HP & ATK for Attacker type; 2x ATK when below 80% HP; 3.5x ATK when matching 4 or more colors
 EN: 2x HP & ATK for Attacker type; 2x ATK when below 80% HP; 3.5x ATK when matching 4 or more colors
+KR: 2x HP & ATK for Attacker type; 2x ATK when below 80% HP; 3.5x ATK when matching 4 or more colors
 

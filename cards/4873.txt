@@ -6,10 +6,14 @@ SAWK:
 # 11902/116 - I'm going to do my best too!
 Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Water and rightmost to Heal Orbs; recovers 25% of max HP for 4 turns
+JP: Change the far left column to Water orbs and change the far right column to Heal orbs; For 4 turns, recover 25% of max HP
 EN: Change the far left column to Water orbs and change the far right column to Heal orbs; For 4 turns, recover 25% of max HP
+KR: Change the far left column to Water orbs and change the far right column to Heal orbs; For 4 turns, recover 25% of max HP
 
 # 11905/138 - Pina! Bubble Breath Attack!
 Tags: AUTO_HEAL,ENHANCED_HP_ATK
 Game: 2x HP & 3x ATK for Healer & Dragon Types; recovers 20x RCV as HP when matching Orbs
+JP: 3x ATK and 2x HP for Healer, Dragon type; 20x RCV additional heal when matching orbs
 EN: 3x ATK and 2x HP for Healer, Dragon type; 20x RCV additional heal when matching orbs
+KR: 3x ATK and 2x HP for Healer, Dragon type; 20x RCV additional heal when matching orbs
 

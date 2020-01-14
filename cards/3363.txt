@@ -6,10 +6,14 @@ SAWK:
 # 6451/110 - I can't stand that!!
 Tags: MASSIVE_ATTACK,GRUDGE_STRIKE
 Game: The less HP you have, the more Light damage caused to all enemies
+JP: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
 EN: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
+KR: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
 
 # 6455/138 - Grind... Pantera!!
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK for Water Att., HP increases a little for Wood Att.; 2x ATK when Water & Wood attack at once
+JP: 2x ATK for Water Att.; 1.35x HP for Wood Att.; 2x ATK when matching Water+Wood
 EN: 2x ATK for Water Att.; 1.35x HP for Wood Att.; 2x ATK when matching Water+Wood
+KR: 2x ATK for Water Att.; 1.35x HP for Wood Att.; 2x ATK when matching Water+Wood
 

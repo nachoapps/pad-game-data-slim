@@ -6,10 +6,14 @@ SAWK:
 # 94/116 - Armor Break
 Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
 Game: Vastly reduces enemies' DEF for 5 turns; reduces damage for 5 turns
+JP: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
 EN: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
+KR: For 5 turns, reduce enemies' defense by 75%; For 5 turns, reduce damage taken by 20%
 
 # 2981/138 - Cuatro Charger
 Tags: ENHANCED_ATK_RCV
 Game: 4x ATK when attacking with 4+ Att. (3+Heal) at once; Machine Type ATK & RCV increase slightly
+JP: 4x ATK when matching 4 or more colors (3+heal); 1.25x ATK & RCV for Machine type
 EN: 4x ATK when matching 4 or more colors (3+heal); 1.25x ATK & RCV for Machine type
+KR: 4x ATK when matching 4 or more colors (3+heal); 1.25x ATK & RCV for Machine type
 

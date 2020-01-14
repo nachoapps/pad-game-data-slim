@@ -6,10 +6,14 @@ SAWK: 45,57,54
 # 11537/116 - Immaterial Breathing
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Removes all Orb locks and changes Orbs to Fire, Water & Heal Orbs; adds 1 combo for 1 turn
+JP: Unlock all orbs; Change all orbs to Fire, Water, and Heal orbs; For 1 turn, increase combo count by 1
 EN: Unlock all orbs; Change all orbs to Fire, Water, and Heal orbs; For 1 turn, increase combo count by 1
+KR: Unlock all orbs; Change all orbs to Fire, Water, and Heal orbs; For 1 turn, increase combo count by 1
 
 # 11544/138 - Eternal Dragon Descent - Yukiakane
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4.5x ATK for Fr & Wt Att. & reduces dmg when HP is 50%+; 2x ATK when Fire & Water attack, 2x ATK with 6+ combos
+JP: 4.5x ATK for Fire, Water Att. and reduce damage taken by 35% when above 50% HP; 2x ATK when matching Fire+Water; 2x ATK when 6 or more combos
 EN: 4.5x ATK for Fire, Water Att. and reduce damage taken by 35% when above 50% HP; 2x ATK when matching Fire+Water; 2x ATK when 6 or more combos
+KR: 4.5x ATK for Fire, Water Att. and reduce damage taken by 35% when above 50% HP; 2x ATK when matching Fire+Water; 2x ATK when 6 or more combos
 

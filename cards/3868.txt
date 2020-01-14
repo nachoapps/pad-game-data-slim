@@ -6,10 +6,14 @@ SAWK:
 # 42/9 - Guard Stance - Water
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Fire Orbs to Heal Orbs
+JP: Change Fire orbs to Heal orbs
 EN: Change Fire orbs to Heal orbs
+KR: Change Fire orbs to Heal orbs
 
 # 8977/138 - Dance of Wadatsumi
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: ATK increases with 6+ linked Water Orbs, up to 7x; recovers 5x RCV as HP when matching Orbs
+JP: 4x ATK when matching 6 or more connected Water orbs up to 7x at 9 orbs; 5x RCV additional heal when matching orbs
 EN: 4x ATK when matching 6 or more connected Water orbs up to 7x at 9 orbs; 5x RCV additional heal when matching orbs
+KR: 4x ATK when matching 6 or more connected Water orbs up to 7x at 9 orbs; 5x RCV additional heal when matching orbs
 

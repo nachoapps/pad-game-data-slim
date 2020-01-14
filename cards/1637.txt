@@ -6,10 +6,14 @@ SAWK:
 # 997/116 - Protection Magic - Light
 Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Water Orbs to Heal Orbs, plus bind status is reduced by 3 turns
+JP: Change Water orbs to Heal orbs; Reduce binds by 3 turns
 EN: Change Water orbs to Heal orbs; Reduce binds by 3 turns
+KR: Change Water orbs to Heal orbs; Reduce binds by 3 turns
 
 # 1987/129 - Shock Shield
 Tags: REDUCE_DAMAGE
 Game: Halves Light Att. damage
+JP: Reduce damage taken from light att. by 50%
 EN: Reduce damage taken from light att. by 50%
+KR: Reduce damage taken from light att. by 50%
 

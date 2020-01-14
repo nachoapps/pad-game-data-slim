@@ -6,10 +6,14 @@ SAWK:
 # 954/116 - Mirage Flare
 Tags: ENHANCED_ATTACK,ATTACK_AND_HEAL
 Game: 20x ATK attack on 1 enemy, recovers half of dmg in HP; 2x ATK for Dragon & Devil for 1 turn
+JP: Deal 20x ATK Fire damage to an enemy and recover 50% of the damage as HP; For 1 turn, 2x ATK for Dragon and Devil types
 EN: Deal 20x ATK Fire damage to an enemy and recover 50% of the damage as HP; For 1 turn, 2x ATK for Dragon and Devil types
+KR: Deal 20x ATK Fire damage to an enemy and recover 50% of the damage as HP; For 1 turn, 2x ATK for Dragon and Devil types
 
 # 1549/121 - Dragon Blaze
 Tags: ENHANCED_HP_ATK
 Game: 3x ATK for Dragon Type, plus their HP increases a little
+JP: 3x ATK and 1.35x HP for Dragon type
 EN: 3x ATK and 1.35x HP for Dragon type
+KR: 3x ATK and 1.35x HP for Dragon type
 

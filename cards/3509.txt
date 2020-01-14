@@ -6,10 +6,14 @@ SAWK:
 # 7200/116 - The Divine Swordset, Kusanagi
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Wood Orbs to Fire, Dark Orbs to Heal, and Jammers & Poison Orbs to Water
+JP: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs
 EN: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs
+KR: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 7203/138 - Emperor God's Indomitable Fortitude
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK when Fire & Water attack at once; 3x ATK & reduces damage with a cross of 5 Heal Orbs
+JP: 3x ATK when matching Fire+Water; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK when matching Fire+Water; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK when matching Fire+Water; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 

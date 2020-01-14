@@ -6,10 +6,14 @@ SAWK: 53,57,52
 # 14569/116 - Triple Death Hack
 Tags: EXTENDS_TIME
 Game: Creates 9 Dark Orbs at random; 2x Orb move time for 1 turn
+JP: Create 9 Dark orbs; For 1 turn, 2x orb move time
 EN: Create 9 Dark orbs; For 1 turn, 2x orb move time
+KR: Create 9 Dark orbs; For 1 turn, 2x orb move time
 
 # 14575/138 - Hurry up and come at me!
 Tags: ENHANCED_ATK
 Game: ATK increases with 3+ combos, up to 8x; ATK increases with 2+ Dark combos, up to 5x
+JP: 3x ATK when 3 or more combos up to 8x at 8 combos; 2x ATK when matching 2 Dark combos, up to 5x at 5 Dark combos
 EN: 3x ATK when 3 or more combos up to 8x at 8 combos; 2x ATK when matching 2 Dark combos, up to 5x at 5 Dark combos
+KR: 3x ATK when 3 or more combos up to 8x at 8 combos; 2x ATK when matching 2 Dark combos, up to 5x at 5 Dark combos
 

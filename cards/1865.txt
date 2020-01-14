@@ -6,10 +6,14 @@ SAWK: 52,54,27
 # 1837/116 - I'll Send You to Hell!
 Tags: FIXED_DAMAGE
 Game: Inflicts 77 damage on 1 enemy; creates 7 Light Orbs at random
+JP: Deal 77 fixed damage to an enemy; Create 7 Light orbs
 EN: Deal 77 fixed damage to an enemy; Create 7 Light orbs
+KR: Deal 77 fixed damage to an enemy; Create 7 Light orbs
 
 # 2503/129 - I'll End Your Obsession
 Tags: ENHANCED_ATK_RCV
 Game: 2.5x ATK & 1.5x RCV for Devil Type
+JP: 2.5x ATK and 1.5x RCV for Devil type
 EN: 2.5x ATK and 1.5x RCV for Devil type
+KR: 2.5x ATK and 1.5x RCV for Devil type
 

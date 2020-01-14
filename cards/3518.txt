@@ -6,10 +6,14 @@ SAWK: 34,55,27
 # 6261/116 - Baldin's Eyes
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire & Dark Orbs; 2.5x ATK for Dragon & Machine Types for 1 turn
+JP: Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types
 EN: Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types
+KR: Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types
 
 # 7252/138 - Nightmare Cycle
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x to all stats for Machine Type, but unable to erase 3 Orbs or less; 4x ATK when Dark & Fire attack at once
+JP: [Unable to erase 3 orbs or less] 2x all stats for Machine type; 4x ATK when matching Dark+Fire
 EN: [Unable to erase 3 orbs or less] 2x all stats for Machine type; 4x ATK when matching Dark+Fire
+KR: [Unable to erase 3 orbs or less] 2x all stats for Machine type; 4x ATK when matching Dark+Fire
 

@@ -6,10 +6,14 @@ SAWK: 53,48,50
 # 13219/116 - It'll work out.
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes Dark & Fire Orbs to Wood and Water Orbs to Heal
+JP: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
 EN: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
+KR: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
 
 # 13226/138 - Amida-Style Halo Giant Blade
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK with 6+ linked Wood Orbs; 4x ATK & halves damage with 5+ linked non-Wood Orbs
+JP: 4x ATK when matching 6 or more connected Wood orbs; 4x ATK and reduce damage taken by 50% when matching 5 or more connected non Wood orbs
 EN: 4x ATK when matching 6 or more connected Wood orbs; 4x ATK and reduce damage taken by 50% when matching 5 or more connected non Wood orbs
+KR: 4x ATK when matching 6 or more connected Wood orbs; 4x ATK and reduce damage taken by 50% when matching 5 or more connected non Wood orbs
 

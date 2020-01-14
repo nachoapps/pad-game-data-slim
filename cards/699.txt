@@ -6,10 +6,14 @@ SAWK:
 # 622/116 - All right, understood!
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
 Game: Inflicts 30x ATK attack on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
+JP: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
 EN: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
+KR: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
 
 # 548/64 - Local Specifications
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Attacker Type
+JP: 2x ATK & RCV for Attacker type
 EN: 2x ATK & RCV for Attacker type
+KR: 2x ATK & RCV for Attacker type
 

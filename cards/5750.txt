@@ -6,10 +6,14 @@ SAWK:
 # 15201/116 - Moonlight Shell
 Tags: VOID_DAMAGE,CHANGE_ENEMIES_ATTRIBUTE
 Game: All enemies' Att. change to Dark (ignores barriers); voids damage for 1 turn
+JP: Change all enemies to Dark Att.; For 1 turn, reduce damage taken by 100%
 EN: Change all enemies to Dark Att.; For 1 turn, reduce damage taken by 100%
+KR: Change all enemies to Dark Att.; For 1 turn, reduce damage taken by 100%
 
 # 15204/138 - Magic Staff's Holy Force
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: [Orb move time: 6 sec], 6x ATK with 4+ linked Orbs; 3x ATK & 50,000 damage, reduces dmg when 4+ Att. Attack
+JP: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matching 4 or more colors; 50000 additional damage when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
 EN: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matching 4 or more colors; 50000 additional damage when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
+KR: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matching 4 or more colors; 50000 additional damage when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
 

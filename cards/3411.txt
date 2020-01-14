@@ -6,10 +6,14 @@ SAWK: 43,44,53
 # 6937/116 - Just leave it to me!
 Tags: MENACE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Delays enemies' next move for 2 turns; reduces bind status (incl. Awoken) by 7 turns
+JP: Delay enemies' next attack by 2 turns; Reduce binds and awoken skill binds by 7 turns
 EN: Delay enemies' next attack by 2 turns; Reduce binds and awoken skill binds by 7 turns
+KR: Delay enemies' next attack by 2 turns; Reduce binds and awoken skill binds by 7 turns
 
 # 6941/138 - A real man fights for his woman!
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 3x ATK & RCV for Light Att., Orb move time +3 seconds; 3x ATK & adds 2 combos when 4+ Att. attack at once
+JP: 3x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK and increase combo by 2 when matching 4 or more colors
 EN: 3x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK and increase combo by 2 when matching 4 or more colors
+KR: 3x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK and increase combo by 2 when matching 4 or more colors
 

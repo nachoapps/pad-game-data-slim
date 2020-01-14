@@ -6,10 +6,14 @@ SAWK: 27,52
 # 2609/116 - We have arrived!
 Tags: ENHANCED_ATTACK
 Game: 4x ATK for Fire & Dark Att. for 2 turns; other allies' skills charged by 2 turns
+JP: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
 EN: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
+KR: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
 
 # 2929/138 - Attack Hand
 Tags: AUTO_HEAL,ENHANCED_ATK,EXTEND_TIME
 Game: 8x ATK for Fire Att. when HP is 50% or more, Orb move time +2 sec; recovers 10x RCV as HP when matching Orbs
+JP: 8x ATK for Fire Att. when above 50% HP; 10x RCV additional heal when matching orbs; Increase orb movement time by 2 seconds
 EN: 8x ATK for Fire Att. when above 50% HP; 10x RCV additional heal when matching orbs; Increase orb movement time by 2 seconds
+KR: 8x ATK for Fire Att. when above 50% HP; 10x RCV additional heal when matching orbs; Increase orb movement time by 2 seconds
 

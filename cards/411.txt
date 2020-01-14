@@ -6,10 +6,14 @@ SAWK:
 # 424/116 - God Holy Breath
 Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
 Game: 1.5x ATK for Light Att. for 4 turns; inflicts 40x ATK Light Att. Mass Attack
+JP: For 4 turns, 1.5x ATK for Light Att.; Deal 40x ATK Light damage to all enemies
 EN: For 4 turns, 1.5x ATK for Light Att.; Deal 40x ATK Light damage to all enemies
+KR: For 4 turns, 1.5x ATK for Light Att.; Deal 40x ATK Light damage to all enemies
 
 # 79/17 - Light Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Light Att. damage
+JP: Reduce damage taken from light att. by 50%
 EN: Reduce damage taken from light att. by 50%
+KR: Reduce damage taken from light att. by 50%
 

@@ -6,10 +6,14 @@ SAWK: 44,21,52
 # 3978/116 - Energy Geyser
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Reduces damage for 1 turn; changes Orbs to all Attributes & Heal
+JP: For 1 turn, reduce damage taken by 35%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: For 1 turn, reduce damage taken by 35%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 1 turn, reduce damage taken by 35%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 4621/138 - Cradle of the Earth
 Tags: ENHANCED_HP_ATK
 Game: 4x ATK when attacking with 4 Att.(4.5x ATK for 5 Att.); 1.5x ATK & HP for Machine Type
+JP: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 1.5x HP & ATK for Machine type
 EN: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 1.5x HP & ATK for Machine type
+KR: 4x ATK when matching 4 or more colors up to 4.5x at 5 colors; 1.5x HP & ATK for Machine type
 

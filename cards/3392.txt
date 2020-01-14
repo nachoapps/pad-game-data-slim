@@ -6,10 +6,14 @@ SAWK:
 # 194/116 - Destroying Lance, Gungnir
 Tags: MASSIVE_ATTACK,POISON
 Game: Inflicts 50x ATK Dark Att. attack on all enemies, plus all enemies mortally poisoned
+JP: Deal 50x ATK Dark damage to all enemies; Poison all enemies (10x ATK)
 EN: Deal 50x ATK Dark damage to all enemies; Poison all enemies (10x ATK)
+KR: Deal 50x ATK Dark damage to all enemies; Poison all enemies (10x ATK)
 
 # 6495/138 - Sight of Valhalla
 Tags: ENHANCED_ATK_RCV
 Game: 2.5x ATK & RCV for Fire Att. & God Type; 2.5x ATK when erasing 6+ linked Fire Orbs
+JP: 2.5x ATK & RCV for God type and Fire Att.; 2.5x ATK when matching 6 or more connected Fire orbs
 EN: 2.5x ATK & RCV for God type and Fire Att.; 2.5x ATK when matching 6 or more connected Fire orbs
+KR: 2.5x ATK & RCV for God type and Fire Att.; 2.5x ATK when matching 6 or more connected Fire orbs
 

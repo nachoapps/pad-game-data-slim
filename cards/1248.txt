@@ -6,10 +6,14 @@ SAWK:
 # 943/115 - Dragon Strength Spellflame
 Tags: ATTACK_AND_HEAL
 Game: Makes a 10x ATK Dark Att. attack on 1 enemy, plus the damage is recovered as HP
+JP: Deal 10x ATK Dark damage to an enemy and recover the amount as HP
 EN: Deal 10x ATK Dark damage to an enemy and recover the amount as HP
+KR: Deal 10x ATK Dark damage to an enemy and recover the amount as HP
 
 # 1300/121 - Jewel Dragon's Binding Grace
 Tags: ENHANCED_ATK_RCV
 Game: 2.5x ATK & 1.5x RCV for Dragon Type
+JP: 2.5x ATK and 1.5x RCV for Dragon type
 EN: 2.5x ATK and 1.5x RCV for Dragon type
+KR: 2.5x ATK and 1.5x RCV for Dragon type
 

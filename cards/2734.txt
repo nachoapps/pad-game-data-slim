@@ -6,10 +6,14 @@ SAWK:
 # 3933/116 - I'll navigate!
 Tags: EXTENDS_TIME
 Game: 6 Light Orbs are created at random; extends time to move Orbs 1.5x for 1 turn
+JP: Create 6 Light orbs; For 1 turn, 1.5x orb move time
 EN: Create 6 Light orbs; For 1 turn, 1.5x orb move time
+KR: Create 6 Light orbs; For 1 turn, 1.5x orb move time
 
 # 4543/138 - Link Fever
 Tags: ENHANCED_ATK
 Game: ATK increases with 5+ combos, up to 3x; 2x ATK when erasing 5 Orbs with 1+ enhanced
+JP: 2x ATK when 5 or more combos up to 3x at 6 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 EN: 2x ATK when 5 or more combos up to 3x at 6 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 2x ATK when 5 or more combos up to 3x at 6 combos; 2x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 

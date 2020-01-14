@@ -6,10 +6,14 @@ SAWK:
 # 3516/116 - Kirin's Boisterous Dance
 Tags: GRAVITY,RECOVER_BIND,EXTENDS_TIME
 Game: Reduces enemies' HP by 20%, reduces bind status by 5 turns; 1.5x Orb move time for 1 turn
+JP: Reduce enemies' HP by 20%; Reduce binds by 5 turns; For 1 turn, 1.5x orb move time
 EN: Reduce enemies' HP by 20%; Reduce binds by 5 turns; For 1 turn, 1.5x orb move time
+KR: Reduce enemies' HP by 20%; Reduce binds by 5 turns; For 1 turn, 1.5x orb move time
 
 # 6155/138 - Sublime Sakura - Dance of the Four Origins
 Tags: ENHANCED_ATK
 Game: 5x ATK when Fire, Water, Wood & Light attack at once; ATK increases with 6+ combos, up to 2x ATK
+JP: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
 EN: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
+KR: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
 

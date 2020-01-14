@@ -6,10 +6,14 @@ SAWK:
 # 440/116 - Shuffle Shot
 Tags: SINGLE_TARGET_ATTACK
 Game: Inflicts a random damage Dark attack on 1 enemy, plus 3 Dark Orbs appear at random
+JP: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
 EN: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
+KR: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
 
 # 2493/121 - Grovel!! Grovel!!
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & 1.5x RCV for Attacker Type
+JP: 2x ATK and 1.5x RCV for Attacker type
 EN: 2x ATK and 1.5x RCV for Attacker type
+KR: 2x ATK and 1.5x RCV for Attacker type
 

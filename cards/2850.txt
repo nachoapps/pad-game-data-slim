@@ -6,10 +6,14 @@ SAWK: 60,43,52
 # 5038/116 - I can do it too!!
 Tags: FIXED_DAMAGE
 Game: Inflicts 50,000 damage on 1 enemy; creates 3 Light Orbs at random
+JP: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
 EN: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
+KR: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
 
 # 4731/138 - Golden Blade-6th Form Nothingness
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 3x ATK with 5+ combos; Orb move time +2 seconds
+JP: 3x ATK when 5 or more combos; Increase orb movement time by 2 seconds
 EN: 3x ATK when 5 or more combos; Increase orb movement time by 2 seconds
+KR: 3x ATK when 5 or more combos; Increase orb movement time by 2 seconds
 

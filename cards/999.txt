@@ -6,10 +6,14 @@ SAWK:
 # 434/56 - Solar Lazer
 Tags: FIXED_DAMAGE
 Game: Inflict 7777 damage on all enemies
+JP: Deal 7777 fixed damage to all enemies
 EN: Deal 7777 fixed damage to all enemies
+KR: Deal 7777 fixed damage to all enemies
 
 # 862/61 - Realm of the Sun
 Tags: ENHANCED_ATK
 Game: 4x ATK when attacking with 5 Att. (4+Heal) at once, 8x ATK when attacking with 5 Att.+Heal
+JP: 4x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal
 EN: 4x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal
+KR: 4x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal
 

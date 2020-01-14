@@ -6,10 +6,14 @@ SAWK:
 # 1807/116 - Gravity World
 Tags: GRAVITY,EXTENDS_TIME
 Game: Reduces enemies' HP by 25%; extends Orb move time by 5 seconds for 5 turns
+JP: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
+KR: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 
 # 2420/129 - Divine Purgatory Magic
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2.5x ATK for Dark Att. & Devil Type; halves Light, Dark & Wood Att. damage
+JP: 2.5x ATK for Devil type and Dark Att.; Reduce damage taken from wood, light, dark att. by 50%
 EN: 2.5x ATK for Devil type and Dark Att.; Reduce damage taken from wood, light, dark att. by 50%
+KR: 2.5x ATK for Devil type and Dark Att.; Reduce damage taken from wood, light, dark att. by 50%
 

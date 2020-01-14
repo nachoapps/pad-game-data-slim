@@ -6,10 +6,14 @@ SAWK:
 # 131/116 - Quick Bomb
 Tags: REDUCE_DEFENSE,FIXED_DAMAGE
 Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
+JP: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
 EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+KR: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
 
 # 294/33 - Taiko no Tatsujin!
 Tags: ETC
 Game: A drumming sound is made when Orbs are moved
+JP: Turn orb sound effects into Taiko noises
 EN: Turn orb sound effects into Taiko noises
+KR: Turn orb sound effects into Taiko noises
 

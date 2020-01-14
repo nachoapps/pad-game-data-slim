@@ -6,10 +6,14 @@ SAWK: 48,60,43
 # 11672/116 - Harlequin
 Tags: ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes Fire & Wood Orbs to Light Orbs
+JP: For 1 turn, increase combo count by 2; Change Fire and Wood orbs to Light orbs
 EN: For 1 turn, increase combo count by 2; Change Fire and Wood orbs to Light orbs
+KR: For 1 turn, increase combo count by 2; Change Fire and Wood orbs to Light orbs
 
 # 11678/138 - I won't forgive anyone who harms the boy
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 4x ATK for Light Att. & reduces damage when HP is 50% or more; 3x ATK & RCV with 5+ linked Orbs
+JP: 4x ATK for Light Att. and reduce damage taken by 35% when above 50% HP; 3x ATK & RCV when matching 5 or more connected orbs
 EN: 4x ATK for Light Att. and reduce damage taken by 35% when above 50% HP; 3x ATK & RCV when matching 5 or more connected orbs
+KR: 4x ATK for Light Att. and reduce damage taken by 35% when above 50% HP; 3x ATK & RCV when matching 5 or more connected orbs
 

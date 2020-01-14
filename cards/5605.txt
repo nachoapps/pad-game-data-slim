@@ -6,10 +6,14 @@ SAWK: 52,60,57
 # 14681/116 - Soul Storm of Enmity
 Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes the top row to Dark and the bottom row to Jammers; Dark attack of 50x team's ATK on 1 enemy
+JP: Change the top row to Dark orbs and change the bottom row to Jammer orbs; Deal Dark damage equal to 50x of team's total Fire, Water, Wood, Light, and Dark ATK to an enemy
 EN: Change the top row to Dark orbs and change the bottom row to Jammer orbs; Deal Dark damage equal to 50x of team's total Fire, Water, Wood, Light, and Dark ATK to an enemy
+KR: Change the top row to Dark orbs and change the bottom row to Jammer orbs; Deal Dark damage equal to 50x of team's total Fire, Water, Wood, Light, and Dark ATK to an enemy
 
 # 14684/138 - You shall pay for this...both you and this world itself!
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Dark Att., 1.5x ATK with 6+ combos; 5x ATK with an L shape of 5 Jammers
+JP: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
 EN: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
+KR: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
 

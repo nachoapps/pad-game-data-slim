@@ -6,10 +6,14 @@ SAWK: 52,55,48
 # 5459/116 - Dogiragon Entry
 Tags: ORB_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes Jammers, Poison, Light & Heal Orbs to Fire Orbs
+JP: For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 EN: For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
+KR: For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 
 # 6516/138 - Perfect Revolution Offense
 Tags: ENHANCED_HP_ATK_RCV
 Game: 1.5x HP, 2x ATK & RCV for Dragon & Devil Types; ATK increases with 4+ linked Fire Orbs, up to 10x
+JP: 2x ATK & RCV and 1.5x HP for Dragon, Devil type; 4x ATK when matching 4 or more connected Fire orbs up to 10x at 16 orbs
 EN: 2x ATK & RCV and 1.5x HP for Dragon, Devil type; 4x ATK when matching 4 or more connected Fire orbs up to 10x at 16 orbs
+KR: 2x ATK & RCV and 1.5x HP for Dragon, Devil type; 4x ATK when matching 4 or more connected Fire orbs up to 10x at 16 orbs
 

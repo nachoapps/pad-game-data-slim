@@ -6,10 +6,14 @@ SAWK: 52,48,60
 # 14500/116 - Grimoire Reef
 Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK
 Game: Inflicts 100,000 damage on all enemies; removes Orb locks, changes all Orbs to Fire & Light Orbs
+JP: Deal 100000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
 EN: Deal 100000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
+KR: Deal 100000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
 
 # 7349/138 - Hidden Sorcery
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Game: [7x6 board], 1.5x HP & ATK for Devil Type; 7x ATK & reduces dmg when Light & Fire attack at once
+JP: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light+Fire; 1.5x HP & ATK for Devil type
 EN: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light+Fire; 1.5x HP & ATK for Devil type
+KR: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light+Fire; 1.5x HP & ATK for Devil type
 

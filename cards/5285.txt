@@ -6,10 +6,14 @@ SAWK: 25,62,64
 # 13418/116 - gude gude power...
 Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the top row to Light Orbs
+JP: Unlock all orbs; Change the top row to Light orbs
 EN: Unlock all orbs; Change the top row to Light orbs
+KR: Unlock all orbs; Change the top row to Light orbs
 
 # 13427/138 - five more minutes
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK when HP is 50% or more, 5x when HP is full; 2.5x ATK & reduces damage with 5+ linked Light Orbs
+JP: 5x ATK when HP is full; 4x ATK when above 50% HP; 2.5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 EN: 5x ATK when HP is full; 4x ATK when above 50% HP; 2.5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 5x ATK when HP is full; 4x ATK when above 50% HP; 2.5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 

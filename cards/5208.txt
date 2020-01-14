@@ -6,10 +6,14 @@ SAWK:
 # 9524/160 - Destruction Song
 Tags: ADD_COMBO
 Game: Adds 3 combos for 1 turn
+JP: For 1 turn, increase combo count by 3
 EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
 
 # 13030/138 - Assault Augur
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4.5x ATK with 7+ combos; 4x ATK & reduces damage with 5+ linked Dark Orbs
+JP: 4.5x ATK when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
 EN: 4.5x ATK when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
+KR: 4.5x ATK when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
 

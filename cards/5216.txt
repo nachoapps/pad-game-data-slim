@@ -6,10 +6,14 @@ SAWK: 43,48,55
 # 13157/116 - Overflowing Cherry Blossoms
 Tags: HEAL,ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
 Game: Changes all Orbs to Fire & Wood Orbs; recovers 40% of max HP, reduces Awoken Skill bind status by 4 turns
+JP: Change all orbs to Fire and Wood orbs; Recover 40% of max HP; Reduce awoken skill binds by 4 turns
 EN: Change all orbs to Fire and Wood orbs; Recover 40% of max HP; Reduce awoken skill binds by 4 turns
+KR: Change all orbs to Fire and Wood orbs; Recover 40% of max HP; Reduce awoken skill binds by 4 turns
 
 # 13160/138 - Mysterious Spring Breeze
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 6x ATK when HP is 80% or more, 3x ATK & RCV when 79% or less; 3x ATK & reduces dmg when Wd & Fr attack at once
+JP: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3x ATK and reduce damage taken by 25% when matching Wood+Fire
 EN: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3x ATK and reduce damage taken by 25% when matching Wood+Fire
+KR: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3x ATK and reduce damage taken by 25% when matching Wood+Fire
 

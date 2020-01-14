@@ -6,10 +6,14 @@ SAWK:
 # 12001/116 - Guiding Light Chant
 Tags: REMOVE_LOCK
 Game: Removes Orb locks; creates 4 Light Orbs at random
+JP: Unlock all orbs; Create 4 Light orbs
 EN: Unlock all orbs; Create 4 Light orbs
+KR: Unlock all orbs; Create 4 Light orbs
 
 # 12005/138 - Divine Banishing Order
 Tags: ENHANCED_ATK
 Game: 4x ATK for Light Att.; ATK increases with 5+ combos, up to 4x
+JP: 4x ATK for Light Att.; 3x ATK when 5 or more combos up to 4x at 7 combos
 EN: 4x ATK for Light Att.; 3x ATK when 5 or more combos up to 4x at 7 combos
+KR: 4x ATK for Light Att.; 3x ATK when 5 or more combos up to 4x at 7 combos
 

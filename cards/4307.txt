@@ -6,10 +6,14 @@ SAWK:
 # 10199/116 - I can't take it anymore! I must feed!
 Tags: GUARD_STANCE,SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Heal Orbs; 200x ATK Light attack on 1 enemy, but HP falls to 1
+JP: Change the far left column to Heal orbs; Reduce HP to 1; Deal 200x Light damage to an enemy
 EN: Change the far left column to Heal orbs; Reduce HP to 1; Deal 200x Light damage to an enemy
+KR: Change the far left column to Heal orbs; Reduce HP to 1; Deal 200x Light damage to an enemy
 
 # 10202/138 - Let me show you how to use your power!
 Tags: ENHANCED_ATK
 Game: 3x ATK for Light Att.; 3x ATK with 5+ linked Light Orbs
+JP: 3x ATK for Light Att.; 3x ATK when matching 5 or more connected Light orbs
 EN: 3x ATK for Light Att.; 3x ATK when matching 5 or more connected Light orbs
+KR: 3x ATK for Light Att.; 3x ATK when matching 5 or more connected Light orbs
 

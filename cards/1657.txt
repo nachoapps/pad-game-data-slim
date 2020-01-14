@@ -6,10 +6,14 @@ SAWK:
 # 1676/116 - Evil Crest
 Tags: ENHANCED_ATTACK,FIXED_DAMAGE
 Game: Inflicts 100,000 damage on 1 enemy; 2.5x ATK for Physical Type for 2 turns
+JP: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Physical type
 EN: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Physical type
+KR: Deal 100000 fixed damage to an enemy; For 2 turns, 2.5x ATK for Physical type
 
 # 1996/129 - Chivalry of the Indigo Globe
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK & HP for Physical Type
+JP: 2x HP & ATK for Physical type
 EN: 2x HP & ATK for Physical type
+KR: 2x HP & ATK for Physical type
 

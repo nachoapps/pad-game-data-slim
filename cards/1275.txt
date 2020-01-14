@@ -6,10 +6,14 @@ SAWK:
 # 945/116 - I'll use all my strength
 Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
 Game: Reduces enemies' DEF for 1 turn; reduces damage for 1 turn
+JP: For 1 turn, reduce enemies' defense by 35%; For 1 turn, reduce damage taken by 35%
 EN: For 1 turn, reduce enemies' defense by 35%; For 1 turn, reduce damage taken by 35%
+KR: For 1 turn, reduce enemies' defense by 35%; For 1 turn, reduce damage taken by 35%
 
 # 1516/121 - Checking your qualifications
 Tags: ENHANCED_ATK
 Game: 2x ATK for Fire & Wood Att.
+JP: 2x ATK for Fire, Wood Att.
 EN: 2x ATK for Fire, Wood Att.
+KR: 2x ATK for Fire, Wood Att.
 

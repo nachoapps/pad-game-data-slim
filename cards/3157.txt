@@ -6,10 +6,14 @@ SAWK: 43,59,52
 # 5476/116 - Purify Mode
 Tags: GUARD_STANCE,ORB_CONVERT,ENHANCED_HEAL
 Game: 1.5x RCV for 4 turns; changes Jammers and Poison Orbs to Heal Orbs
+JP: For 4 turns, 1.5x RCV; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 EN: For 4 turns, 1.5x RCV; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
+KR: For 4 turns, 1.5x RCV; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 
 # 6540/138 - Cosmo Cyclone Energy
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2x HP & ATK for Machine Type; 6x ATK when attacking with 5 Att.
+JP: [No skyfall] 2x HP & ATK for Machine type; 6x ATK when matching 5 or more colors
 EN: [No skyfall] 2x HP & ATK for Machine type; 6x ATK when matching 5 or more colors
+KR: [No skyfall] 2x HP & ATK for Machine type; 6x ATK when matching 5 or more colors
 

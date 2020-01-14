@@ -6,10 +6,14 @@ SAWK: 27,59,45
 # 1821/9 - Healing Hymn
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Light Orbs to Heal Orbs
+JP: Change Light orbs to Heal orbs
 EN: Change Light orbs to Heal orbs
+KR: Change Light orbs to Heal orbs
 
 # 6199/138 - Where's my pumpkin?
 Tags: ENHANCED_ATK_RCV
 Game: Devil & Attacker Type ATK & RCV increase a little; 3x ATK with 2+ Dark+Fire combos (or Dark+Dark)
+JP: 1.35x ATK & RCV for Attacker, Devil type; 3x ATK when matching Dark+Dark(Dark+Fire)
 EN: 1.35x ATK & RCV for Attacker, Devil type; 3x ATK when matching Dark+Dark(Dark+Fire)
+KR: 1.35x ATK & RCV for Attacker, Devil type; 3x ATK when matching Dark+Dark(Dark+Fire)
 

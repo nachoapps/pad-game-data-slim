@@ -6,10 +6,14 @@ SAWK: 48,32,33
 # 14402/116 - Burst Flame Breath
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks, changes Light Orbs to Fire & Dark Orbs to Water
+JP: Unlock all orbs; Change Light orbs to Fire orbs; Change Dark orbs to Water orbs
 EN: Unlock all orbs; Change Light orbs to Fire orbs; Change Dark orbs to Water orbs
+KR: Unlock all orbs; Change Light orbs to Fire orbs; Change Dark orbs to Water orbs
 
 # 14406/138 - Blazing Calamity
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x HP for Fire Att., 2x RCV for Water Att.; ATK increases with 4+ linked Fire or Water Orbs, up to 18x
+JP: 2x HP for Fire Att.; 2x RCV for Water Att.; 8x ATK when matching 4 or more connected Fire or Water orbs up to 18x at 9 orbs
 EN: 2x HP for Fire Att.; 2x RCV for Water Att.; 8x ATK when matching 4 or more connected Fire or Water orbs up to 18x at 9 orbs
+KR: 2x HP for Fire Att.; 2x RCV for Water Att.; 8x ATK when matching 4 or more connected Fire or Water orbs up to 18x at 9 orbs
 

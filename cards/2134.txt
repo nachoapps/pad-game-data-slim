@@ -6,10 +6,14 @@ SAWK:
 # 681/116 - Batwing
 Tags: ENHANCED_ATTACK,FIXED_DAMAGE
 Game: Inflicts 999 damage on 1 enemy; 2.5x ATK for Dark Att. for 1 turn
+JP: Deal 999 fixed damage to an enemy; For 1 turn, 2.5x ATK for Dark Att.
 EN: Deal 999 fixed damage to an enemy; For 1 turn, 2.5x ATK for Dark Att.
+KR: Deal 999 fixed damage to an enemy; For 1 turn, 2.5x ATK for Dark Att.
 
 # 3202/138 - Missile Barrage
 Tags: ENHANCED_ATK_RCV
 Game: Balanced & Machine ATK & RCV increase a little; 4x Dark Att. ATK when HP is 80% or more
+JP: 1.3x ATK & RCV for Balanced, Machine type; 4x ATK for Dark Att. when above 80% HP
 EN: 1.3x ATK & RCV for Balanced, Machine type; 4x ATK for Dark Att. when above 80% HP
+KR: 1.3x ATK & RCV for Balanced, Machine type; 4x ATK for Dark Att. when above 80% HP
 

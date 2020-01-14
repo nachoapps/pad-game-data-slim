@@ -6,10 +6,14 @@ SAWK: 43,48,54
 # 6911/116 - All that shall remain... is Evil!!
 Tags: LINE_ORBS_CONVERTER
 Game: Changes the outermost columns to Dark Orbs; other allies' skills charged by 1 turn
+JP: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
+KR: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
 
 # 6914/138 - Anryu Hiha
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 8x ATK for Dark Att.; inflicts bonus attack equal to 100x ATK when matching Orbs
+JP: [No skyfall] 8x ATK for Dark Att.; 100x ATK additional damage when matching orbs
 EN: [No skyfall] 8x ATK for Dark Att.; 100x ATK additional damage when matching orbs
+KR: [No skyfall] 8x ATK for Dark Att.; 100x ATK additional damage when matching orbs
 

@@ -6,10 +6,14 @@ SAWK:
 # 942/116 - Dragon Heart Sutra
 Tags: HEAL,ENHANCED_HEAL
 Game: 2x RCV for 4 turns, plus 3000 HP recovered
+JP: For 4 turns, 2x RCV; Recover 3000 HP
 EN: For 4 turns, 2x RCV; Recover 3000 HP
+KR: For 4 turns, 2x RCV; Recover 3000 HP
 
 # 9390/138 - Twin Jewel Dragon's Exorcising Light
 Tags: ENHANCED_HP_ATK
 Game: [Orb move time: 4 sec], 3x ATK with 6+ linked Light Orbs; 2.5x ATK & 1.5x HP for Dragon Type
+JP: [Fixed 4 second movetime] 2.5x ATK and 1.5x HP for Dragon type; 3x ATK when matching 6 or more connected Light orbs
 EN: [Fixed 4 second movetime] 2.5x ATK and 1.5x HP for Dragon type; 3x ATK when matching 6 or more connected Light orbs
+KR: [Fixed 4 second movetime] 2.5x ATK and 1.5x HP for Dragon type; 3x ATK when matching 6 or more connected Light orbs
 

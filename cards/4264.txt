@@ -6,10 +6,14 @@ SAWK: 43,44,52
 # 8083/116 - Divine Lifeforce Barrier
 Tags: VOID_DAMAGE,HEAL
 Game: Voids damage for 1 turn; recovers 30% of max HP for 3 turns
+JP: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
 EN: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
+KR: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
 
 # 10660/138 - Spirit of the Radiant Archangel
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK when 4+ Att. attack at once; 8x ATK when 5 Orbs or less remain on the board
+JP: [No skyfall] 8x ATK when there are 5 or fewer orbs remaining; 4x ATK when matching 4 or more colors
 EN: [No skyfall] 8x ATK when there are 5 or fewer orbs remaining; 4x ATK when matching 4 or more colors
+KR: [No skyfall] 8x ATK when there are 5 or fewer orbs remaining; 4x ATK when matching 4 or more colors
 

@@ -6,10 +6,14 @@ SAWK: 60,46,55
 # 1897/116 - Rising Dark
 Tags: DROP_CHANCE
 Game: Dark Orbs slightly more likely to appear for  3 turns; other allies' skills charged by 1 turn
+JP: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 EN: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
+KR: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 
 # 2984/138 - Phantom Dragon King's Imperial Wrath
 Tags: ENHANCED_HP_ATK_RCV
 Game: ATK increases with 2+ Dark combos, up to 7x; all stats increase slightly for Dragon Type
+JP: 2x ATK when matching 2 Dark combos, up to 7x at 4 Dark combos; 1.1x all stats for Dragon type
 EN: 2x ATK when matching 2 Dark combos, up to 7x at 4 Dark combos; 1.1x all stats for Dragon type
+KR: 2x ATK when matching 2 Dark combos, up to 7x at 4 Dark combos; 1.1x all stats for Dragon type
 

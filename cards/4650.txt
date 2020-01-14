@@ -6,10 +6,14 @@ SAWK: 54,55,46,47,62
 # 11518/116 - Dancing Darkness
 Tags: 
 Game: Changes Fire & Light Orbs to Dark Orbs; vastly reduces RCV for 1 turn
+JP: Change Fire and Light orbs to Dark orbs; For 1 turn, 0.25x RCV
 EN: Change Fire and Light orbs to Dark orbs; For 1 turn, 0.25x RCV
+KR: Change Fire and Light orbs to Dark orbs; For 1 turn, 0.25x RCV
 
 # 11524/138 - Ancient Shadow Spirit's Guiding Technique
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 3x ATK & RCV with 5+ combos; 6x ATK & reduces damage with 6+ linked Dark Orbs
+JP: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 EN: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+KR: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 

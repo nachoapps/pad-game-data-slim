@@ -6,10 +6,14 @@ SAWK:
 # 183/116 - Fire&Water Orbs Change
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Fire Orbs & Jammers to Water Orbs, and Heal Orbs & Poison Orbs to Fire Orbs
+JP: Change Fire, Jammer orbs to Water orbs; Change Heal, Poison, and Mortal Poison orbs to Fire orbs
 EN: Change Fire, Jammer orbs to Water orbs; Change Heal, Poison, and Mortal Poison orbs to Fire orbs
+KR: Change Fire, Jammer orbs to Water orbs; Change Heal, Poison, and Mortal Poison orbs to Fire orbs
 
 # 830/17 - ポッピングシャワー
 Tags: REDUCE_DAMAGE
 Game: 水属性の敵から受けるダメージを半減。
+JP: Reduce damage taken from water att. by 50%
 EN: Reduce damage taken from water att. by 50%
+KR: Reduce damage taken from water att. by 50%
 

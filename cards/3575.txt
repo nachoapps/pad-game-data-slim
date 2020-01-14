@@ -6,10 +6,14 @@ SAWK: 43,21,52
 # 7436/116 - Abyssal Vision
 Tags: EXTENDS_TIME
 Game: Extends Orb move time 3x for 1 turn;  other allies' skills charged by 1 turn
+JP: For 1 turn, 3x orb move time; Charge all allies' skills by 1 turn
 EN: For 1 turn, 3x orb move time; Charge all allies' skills by 1 turn
+KR: For 1 turn, 3x orb move time; Charge all allies' skills by 1 turn
 
 # 7439/138 - Eighth Dragon Awakening - Sea
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 6x ATK & halves damage when attacking with 5+ Att.; 2.5x ATK for each cross of 5 Water Orbs
+JP: 6x ATK and reduce damage taken by 50% when matching 5 or more colors; 2.5x ATK for each cross of 5 Water orbs
 EN: 6x ATK and reduce damage taken by 50% when matching 5 or more colors; 2.5x ATK for each cross of 5 Water orbs
+KR: 6x ATK and reduce damage taken by 50% when matching 5 or more colors; 2.5x ATK for each cross of 5 Water orbs
 

@@ -6,10 +6,14 @@ SAWK:
 # 3849/116 - I'm fine with being a crow!!
 Tags: ORB_CONVERT,DROP_CHANCE
 Game: Changes Jammers, Heal & Poison Orbs to Fire Orbs; Fire Orbs slightly more likely to appear for 3 turns
+JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 3 turns, Fire orbs are more likely to appear by 15%
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 3 turns, Fire orbs are more likely to appear by 15%
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 3 turns, Fire orbs are more likely to appear by 15%
 
 # 4324/138 - Just chill and come here to fight!
 Tags: ENHANCED_HP_ATK_RCV
 Game: Attacker Type stats increase slightly; 3x ATK when erasing 6+ linked Fire Orbs
+JP: 1.25x all stats for Attacker type; 3x ATK when matching 6 or more connected Fire orbs
 EN: 1.25x all stats for Attacker type; 3x ATK when matching 6 or more connected Fire orbs
+KR: 1.25x all stats for Attacker type; 3x ATK when matching 6 or more connected Fire orbs
 

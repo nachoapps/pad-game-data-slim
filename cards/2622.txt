@@ -6,10 +6,14 @@ SAWK: 55,46,52
 # 3838/116 - Won't you accept defeat!?
 Tags: MENACE,ORB_CONVERT
 Game: Changes Light Orbs to Jammers; delays enemies' next move for 1 turn
+JP: Change Light orbs to Jammer orbs; Delay enemies' next attack by 1 turn
 EN: Change Light orbs to Jammer orbs; Delay enemies' next attack by 1 turn
+KR: Change Light orbs to Jammer orbs; Delay enemies' next attack by 1 turn
 
 # 4356/138 - You won't take me down easily
 Tags: ENHANCED_HP_ATK_RCV
 Game: 1.5x to all stats for Dark Att.; 2x ATK when erasing Jammers
+JP: 1.5x all stats for Dark Att.; 2x ATK when matching 3 or more connected Jammer orbs
 EN: 1.5x all stats for Dark Att.; 2x ATK when matching 3 or more connected Jammer orbs
+KR: 1.5x all stats for Dark Att.; 2x ATK when matching 3 or more connected Jammer orbs
 

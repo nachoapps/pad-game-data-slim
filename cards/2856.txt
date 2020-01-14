@@ -6,10 +6,14 @@ SAWK: 43,47,52
 # 5047/116 - I'll fulfill my goal.
 Tags: ORB_CONVERT,EXTENDS_TIME
 Game: Changes Poison & Light Orbs to Wood Orbs; extends Orb move time by 1 second for 2 turns
+JP: Change Light, Poison, and Mortal Poison orbs to Wood orbs; For 2 turns, 1.5x orb move time
 EN: Change Light, Poison, and Mortal Poison orbs to Wood orbs; For 2 turns, 1.5x orb move time
+KR: Change Light, Poison, and Mortal Poison orbs to Wood orbs; For 2 turns, 1.5x orb move time
 
 # 4742/119 - Zaug Al-Adhra
 Tags: ENHANCED_ATK
 Game: ATK increases when erasing 5+ linked Wood Orbs, up to a maximum of 3x
+JP: 2.5x ATK when matching 5 or more connected Wood orbs up to 3x at 6 orbs
 EN: 2.5x ATK when matching 5 or more connected Wood orbs up to 3x at 6 orbs
+KR: 2.5x ATK when matching 5 or more connected Wood orbs up to 3x at 6 orbs
 

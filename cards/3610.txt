@@ -6,10 +6,14 @@ SAWK: 47,45,54
 # 7519/116 - I'll believe in him
 Tags: RECOVER_BIND,DROP_CHANCE,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Light & Heal Orbs slightly more likely to appear for 5 turns; reduces bind status by 3 turns
+JP: For 5 turns, Light and Heal orbs are more likely to appear by 10%; Reduce binds and awoken skill binds by 5 turns
 EN: For 5 turns, Light and Heal orbs are more likely to appear by 10%; Reduce binds and awoken skill binds by 5 turns
+KR: For 5 turns, Light and Heal orbs are more likely to appear by 10%; Reduce binds and awoken skill binds by 5 turns
 
 # 7522/129 - Waitress at the Boar Hat
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Healer Type; halves Dark Att. damage
+JP: 4x ATK for Healer type; Reduce damage taken from dark att. by 50%
 EN: 4x ATK for Healer type; Reduce damage taken from dark att. by 50%
+KR: 4x ATK for Healer type; Reduce damage taken from dark att. by 50%
 

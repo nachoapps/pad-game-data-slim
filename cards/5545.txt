@@ -6,10 +6,14 @@ SAWK:
 # 14451/128 - Exorcising Destructive Dual Flame
 Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Changes the 2 top rows to Fire Orbs & the 2 bottom rows to Heal Orbs
+JP: Change the top row and the 2nd row from the top to Fire orbs and change the 2nd row from the bottom and the bottom row to Heal orbs
 EN: Change the top row and the 2nd row from the top to Fire orbs and change the 2nd row from the bottom and the bottom row to Heal orbs
+KR: Change the top row and the 2nd row from the top to Fire orbs and change the 2nd row from the bottom and the bottom row to Heal orbs
 
 # 14452/138 - Celestial Divine Protective Strength
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2x ATK & reduces damage when HP is 50% or more; ATK increases with 4+ linked Heal Orbs, up to 9x
+JP: 2x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more connected Heal orbs up to 9x at 9 orbs
 EN: 2x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more connected Heal orbs up to 9x at 9 orbs
+KR: 2x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more connected Heal orbs up to 9x at 9 orbs
 

@@ -6,10 +6,14 @@ SAWK: 21,55,52
 # 9454/116 - Allow me to destroy it.
 Tags: REDUCE_DEFENSE,MASSIVE_ATTACK
 Game: Voids enemies' DEF for 3 turns; Dark attack of 50x team's Dark ATK on all enemies
+JP: For 3 turns, reduce enemies' defense by 100%; Deal Dark damage equal to 50x of team's total Dark ATK to all enemies
 EN: For 3 turns, reduce enemies' defense by 100%; Deal Dark damage equal to 50x of team's total Dark ATK to all enemies
+KR: For 3 turns, reduce enemies' defense by 100%; Deal Dark damage equal to 50x of team's total Dark ATK to all enemies
 
 # 9457/138 - I must cast away everything God has bestowed upon me!
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & 3x ATK for Dark Att.; 2x ATK with 6+ linked Dark Orbs
+JP: 3x ATK and 1.5x HP for Dark Att.; 2x ATK when matching 6 or more connected Dark orbs
 EN: 3x ATK and 1.5x HP for Dark Att.; 2x ATK when matching 6 or more connected Dark orbs
+KR: 3x ATK and 1.5x HP for Dark Att.; 2x ATK when matching 6 or more connected Dark orbs
 

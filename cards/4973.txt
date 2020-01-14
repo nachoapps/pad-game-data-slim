@@ -6,10 +6,14 @@ SAWK: 54,43,60
 # 12313/116 - Loving Slap
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND
 Game: Reduces bind status by 3 turns; changes Fire Orbs to Light and Wood Orbs to Water
+JP: Reduce binds by 3 turns; Change Fire orbs to Light orbs; Change Wood orbs to Water orbs
 EN: Reduce binds by 3 turns; Change Fire orbs to Light orbs; Change Wood orbs to Water orbs
+KR: Reduce binds by 3 turns; Change Fire orbs to Light orbs; Change Wood orbs to Water orbs
 
 # 12316/138 - Babaaaan! (I'll give it my all!)
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 3x ATK & 1.5x RCV for Light Att.; 2x ATK & reduces dmg when Light & Water attack at once
+JP: 3x ATK and 1.5x RCV for Light Att.; 2x ATK and reduce damage taken by 25% when matching Light+Water
 EN: 3x ATK and 1.5x RCV for Light Att.; 2x ATK and reduce damage taken by 25% when matching Light+Water
+KR: 3x ATK and 1.5x RCV for Light Att.; 2x ATK and reduce damage taken by 25% when matching Light+Water
 

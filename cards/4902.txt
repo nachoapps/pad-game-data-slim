@@ -6,10 +6,14 @@ SAWK: 56,48,27
 # 12014/116 - Star Wave - Aqua
 Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Water & the rightmost to Heal; changes 4 non-Water or non-Heal Orbs to Fire Orbs
+JP: Change the far left column to Water orbs and change the far right column to Heal orbs; Create 4 Fire orbs over non Water and Heal orbs
 EN: Change the far left column to Water orbs and change the far right column to Heal orbs; Create 4 Fire orbs over non Water and Heal orbs
+KR: Change the far left column to Water orbs and change the far right column to Heal orbs; Create 4 Fire orbs over non Water and Heal orbs
 
 # 12017/138 - Protecting Vials of the Steel Star Goddess
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 1.5x HP & 3.5x ATK for Fire & Water Att.; 4x ATK & reduces damage with 5+ linked Orbs
+JP: [No skyfall] 3.5x ATK and 1.5x HP for Fire, Water Att.; 4x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 EN: [No skyfall] 3.5x ATK and 1.5x HP for Fire, Water Att.; 4x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
+KR: [No skyfall] 3.5x ATK and 1.5x HP for Fire, Water Att.; 4x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 

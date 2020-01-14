@@ -6,10 +6,14 @@ SAWK:
 # 192/116 - Double Light Guard
 Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Wood, Dark & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+JP: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
 EN: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+KR: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
 
 # 4297/138 - Guidance of the Flower Star
 Tags: ENHANCED_HP_ATK
 Game: 2.5x HP for Healer Type; 2.5x ATK with 2+ Heal combos
+JP: 2.5x HP for Healer type; 2.5x ATK when matching 2+ Heal combos
 EN: 2.5x HP for Healer type; 2.5x ATK when matching 2+ Heal combos
+KR: 2.5x HP for Healer type; 2.5x ATK when matching 2+ Heal combos
 

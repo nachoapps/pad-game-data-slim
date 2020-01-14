@@ -6,10 +6,14 @@ SAWK:
 # 7324/116 - Shape of Love, Yumi
 Tags: REDUCE_DAMAGE
 Game: Changes 3 non-Fire Orbs to Heal Orbs; vastly reduces damage for 1 turn
+JP: Create 3 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 75%
 EN: Create 3 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 75%
+KR: Create 3 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 75%
 
 # 7327/129 - Don't forget...to care for yourself.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 1.5x ATK for Devil Type; halves damage
+JP: 1.5x ATK for Devil type; Reduce damage taken by 50%
 EN: 1.5x ATK for Devil type; Reduce damage taken by 50%
+KR: 1.5x ATK for Devil type; Reduce damage taken by 50%
 

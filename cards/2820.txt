@@ -6,10 +6,14 @@ SAWK:
 # 3997/116 - Youth Light
 Tags: RECOVER_BIND,FIXED_DAMAGE
 Game: Bind status reduced by 2 turns; inflicts 99 damage on 1 enemy
+JP: Reduce binds by 2 turns; Deal 99 fixed damage to an enemy
 EN: Reduce binds by 2 turns; Deal 99 fixed damage to an enemy
+KR: Reduce binds by 2 turns; Deal 99 fixed damage to an enemy
 
 # 4663/129 - Huh... was I sleeping?
 Tags: ENHANCED_HP_ATK
 Game: 1.5x ATK & HP for Balanced & Devil Types
+JP: 1.5x HP & ATK for Balanced, Devil type
 EN: 1.5x HP & ATK for Balanced, Devil type
+KR: 1.5x HP & ATK for Balanced, Devil type
 

@@ -6,10 +6,14 @@ SAWK: 45,29,21
 # 15109/116 - Elegant Twang
 Tags: GUARD_STANCE,REDUCE_DAMAGE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Wood Orbs to Water and Light Orbs to Heal; halves damage for 1 turn
+JP: Change Wood orbs to Water orbs; Change Light orbs to Heal orbs; For 1 turn, reduce damage taken by 50%
 EN: Change Wood orbs to Water orbs; Change Light orbs to Heal orbs; For 1 turn, reduce damage taken by 50%
+KR: Change Wood orbs to Water orbs; Change Light orbs to Heal orbs; For 1 turn, reduce damage taken by 50%
 
 # 15118/138 - Eternal Dragon Echo - Myouhaku
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board], 1.5x HP & 3x ATK for Water Att.; ATK & RCV increase with 4+ linked Water or Dark Orbs, up to 4x
+JP: [Board becomes 7x6] 3x ATK and 1.5x HP for Water Att.; 2x ATK & RCV when matching 4 or more connected Water or Dark orbs up to 4x at 6 orbs
 EN: [Board becomes 7x6] 3x ATK and 1.5x HP for Water Att.; 2x ATK & RCV when matching 4 or more connected Water or Dark orbs up to 4x at 6 orbs
+KR: [Board becomes 7x6] 3x ATK and 1.5x HP for Water Att.; 2x ATK & RCV when matching 4 or more connected Water or Dark orbs up to 4x at 6 orbs
 

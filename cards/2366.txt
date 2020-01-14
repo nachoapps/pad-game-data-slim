@@ -6,10 +6,14 @@ SAWK: 52,43,21
 # 3395/116 - Now...what are we supposed to do?
 Tags: VOID_DAMAGE,ATTACK_CHANGER
 Game: Voids Water damage for 3 turns; all attacks become mass attacks for 3 turns
+JP: For 3 turns, void all Water damage; For 3 turns, all attacks become mass attack
 EN: For 3 turns, void all Water damage; For 3 turns, all attacks become mass attack
+KR: For 3 turns, void all Water damage; For 3 turns, all attacks become mass attack
 
 # 3644/138 - Lend me your power!!
 Tags: ENHANCED_HP_ATK_RCV
 Game: All stats slightly increase for Balanced Type; 2x ATK when erasing 4+ linked Fire Orbs
+JP: 1.5x all stats for Balanced type; 5x ATK when matching 4 or more connected Fire orbs
 EN: 1.5x all stats for Balanced type; 5x ATK when matching 4 or more connected Fire orbs
+KR: 1.5x all stats for Balanced type; 5x ATK when matching 4 or more connected Fire orbs
 

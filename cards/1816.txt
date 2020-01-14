@@ -6,10 +6,14 @@ SAWK:
 # 937/116 - Leading a Comeback
 Tags: HEAL,ORB_CONVERT
 Game: Changes Dark and Heal Orbs to Wood Orbs; heals 30% of Max HP
+JP: Change Heal, Dark orbs to Wood orbs; Recover 30% of max HP
 EN: Change Heal, Dark orbs to Wood orbs; Recover 30% of max HP
+KR: Change Heal, Dark orbs to Wood orbs; Recover 30% of max HP
 
 # 2475/123 - Resolute Valor
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK & 1.5x RCV for Attacker Type when HP is 50% or more
+JP: 3x ATK and 1.5x RCV for Attacker type when above 50% HP
 EN: 3x ATK and 1.5x RCV for Attacker type when above 50% HP
+KR: 3x ATK and 1.5x RCV for Attacker type when above 50% HP
 

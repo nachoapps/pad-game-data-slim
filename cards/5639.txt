@@ -6,10 +6,14 @@ SAWK: 53,55,69
 # 14931/116 - Villains have no rights!
 Tags: ADD_COMBO,REMOVE_LOCK
 Game: Adds 1 combo for 1 turn, removes Orb locks; creates 15 Fire & Dark Orbs each at random
+JP: For 1 turn, increase combo count by 1; Unlock all orbs; Create 15 Fire and Dark orbs over any orbs
 EN: For 1 turn, increase combo count by 1; Unlock all orbs; Create 15 Fire and Dark orbs over any orbs
+KR: For 1 turn, increase combo count by 1; Unlock all orbs; Create 15 Fire and Dark orbs over any orbs
 
 # 14940/138 - Fireball
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Fire Att., 8x ATK with 2+ Fire combos; inflicts 1,000,000 damage with 3+ Fire combos
+JP: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
 EN: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
+KR: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
 

@@ -6,10 +6,14 @@ SAWK:
 # 11219/116 - Dozen Flares
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Fire attack of 20x team's Fr & Dk ATK on all enemies; removes Orb locks and changes the top row to Fire Orbs
+JP: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
 EN: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
+KR: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
 
 # 11341/129 - Protection of the Stone Soldier
 Tags: REDUCE_DAMAGE
 Game: Reduces damage
+JP: Reduce damage taken by 20%
 EN: Reduce damage taken by 20%
+KR: Reduce damage taken by 20%
 

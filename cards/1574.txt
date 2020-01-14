@@ -6,10 +6,14 @@ SAWK:
 # 1634/21 - 光吸収
 Tags: VOID_DAMAGE
 Game: 1ターンの間、光属性のダメージを無効化。
+JP: For 1 turn, void all Light damage
 EN: For 1 turn, void all Light damage
+KR: For 1 turn, void all Light damage
 
 # 1926/17 - いまのは最高の光だった…
 Tags: REDUCE_DAMAGE
 Game: 光属性の敵から受けるダメージを半減。
+JP: Reduce damage taken from light att. by 50%
 EN: Reduce damage taken from light att. by 50%
+KR: Reduce damage taken from light att. by 50%
 

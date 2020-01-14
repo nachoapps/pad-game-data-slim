@@ -6,10 +6,14 @@ SAWK: 46,21,57
 # 11226/116 - Twin Cannon - Full Burst
 Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
 Game: Inflicts damage equal to 5% of enemies' max HP; creates a cross of Water Orbs
+JP: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
 EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
+KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
 
 # 11230/138 - Wisdom of the Twin Cannon
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2x ATK with 6+ linked Water Orbs; 6x ATK for Water Att., 1.5x ATK with 2+ Water combos
+JP: [No skyfall] 6x ATK for Water Att.; 1.5x ATK when matching 2+ Water combos; 2x ATK when matching 6 or more connected Water orbs
 EN: [No skyfall] 6x ATK for Water Att.; 1.5x ATK when matching 2+ Water combos; 2x ATK when matching 6 or more connected Water orbs
+KR: [No skyfall] 6x ATK for Water Att.; 1.5x ATK when matching 2+ Water combos; 2x ATK when matching 6 or more connected Water orbs
 

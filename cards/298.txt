@@ -6,10 +6,14 @@ SAWK:
 # 44/9 - Guard Stance - Light
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Dark Orbs to Heal Orbs
+JP: Change Dark orbs to Heal orbs
 EN: Change Dark orbs to Heal orbs
+KR: Change Dark orbs to Heal orbs
 
 # 307/36 - Light and Wood Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces Light & Wood Att. damage
+JP: Reduce damage taken from light, wood att. by 30%
 EN: Reduce damage taken from light, wood att. by 30%
+KR: Reduce damage taken from light, wood att. by 30%
 

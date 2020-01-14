@@ -6,10 +6,14 @@ SAWK:
 # 6273/127 - Healing Cut
 Tags: GUARD_STANCE
 Game: Changes the 2nd column from the right to Heal Orbs
+JP: Change the 2nd column from the right to Heal orbs
 EN: Change the 2nd column from the right to Heal orbs
+KR: Change the 2nd column from the right to Heal orbs
 
 # 6274/138 - Appetite for Knowledge
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 6x ATK with 2+ Heal combos; Orb move time +2 seconds
+JP: 6x ATK when matching 2+ Heal combos; Increase orb movement time by 2 seconds
 EN: 6x ATK when matching 2+ Heal combos; Increase orb movement time by 2 seconds
+KR: 6x ATK when matching 2+ Heal combos; Increase orb movement time by 2 seconds
 

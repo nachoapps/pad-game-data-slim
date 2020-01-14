@@ -6,10 +6,14 @@ SAWK:
 # 1662/116 - Dispelling Breath
 Tags: ENHANCED_ORBS,REDUCE_DAMAGE
 Game: Dark Orbs enhanced; reduces damage for 1 turn
+JP: Enhance all Dark orbs; For 1 turn, reduce damage taken by 35%
 EN: Enhance all Dark orbs; For 1 turn, reduce damage taken by 35%
+KR: Enhance all Dark orbs; For 1 turn, reduce damage taken by 35%
 
 # 591/95 - Executioner Blitz
 Tags: ENHANCED_ATK
 Game: 4x ATK for Attacker Type when HP is 80% or less
+JP: 4x ATK for Attacker type when below 80% HP
 EN: 4x ATK for Attacker type when below 80% HP
+KR: 4x ATK for Attacker type when below 80% HP
 

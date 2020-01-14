@@ -6,10 +6,14 @@ SAWK:
 # 12933/116 - Offerings of the Demon God
 Tags: MENACE,DROP_CHANCE
 Game: Light & Dark Orbs slightly more likely to appear for 3 turns; delays enemies' next move for 2 turns
+JP: For 3 turns, Light and Dark orbs are more likely to appear by 10%; Delay enemies' next attack by 2 turns
 EN: For 3 turns, Light and Dark orbs are more likely to appear by 10%; Delay enemies' next attack by 2 turns
+KR: For 3 turns, Light and Dark orbs are more likely to appear by 10%; Delay enemies' next attack by 2 turns
 
 # 12936/138 - True End - Dios
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 2x HP & 3x ATK for God Type; 4x ATK & reduces damage when Light & Dark attack at once
+JP: 3x ATK and 2x HP for God type; 4x ATK and reduce damage taken by 25% when matching Light+Dark
 EN: 3x ATK and 2x HP for God type; 4x ATK and reduce damage taken by 25% when matching Light+Dark
+KR: 3x ATK and 2x HP for God type; 4x ATK and reduce damage taken by 25% when matching Light+Dark
 

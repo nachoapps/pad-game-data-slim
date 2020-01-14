@@ -6,10 +6,14 @@ SAWK: 60,21,53
 # 14969/116 - I guess I'll walk to the farthest place I can go.
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Reduces damage for 3 turns; changes all Orbs to Light, Dark & Heal Orbs
+JP: For 3 turns, reduce damage taken by 30%; Change all orbs to Light, Dark, and Heal orbs
 EN: For 3 turns, reduce damage taken by 30%; Change all orbs to Light, Dark, and Heal orbs
+KR: For 3 turns, reduce damage taken by 30%; Change all orbs to Light, Dark, and Heal orbs
 
 # 14982/138 - I release thee, Sword of Light!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Game: [7x6 board], 4.5x ATK & RCV with 8+ combos; 2x ATK & reduces dmg when Light & Dark attack at once
+JP: [Board becomes 7x6] 4.5x ATK & RCV when 8 or more combos; 2x ATK and reduce damage taken by 25% when matching Light+Dark
 EN: [Board becomes 7x6] 4.5x ATK & RCV when 8 or more combos; 2x ATK and reduce damage taken by 25% when matching Light+Dark
+KR: [Board becomes 7x6] 4.5x ATK & RCV when 8 or more combos; 2x ATK and reduce damage taken by 25% when matching Light+Dark
 

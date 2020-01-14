@@ -6,10 +6,14 @@ SAWK: 27,43,52
 # 9313/161 - Punishment of God
 Tags: NEW_GRAVITY
 Game: Inflicts damage equal to 35% of enemies' max HP
+JP: Deal damage equal to 35% of enemies' max HP
 EN: Deal damage equal to 35% of enemies' max HP
+KR: Deal damage equal to 35% of enemies' max HP
 
 # 9316/138 - Day of Zeus
 Tags: ENHANCED_ATK_RCV
 Game: 7.5x ATK when HP is full; 2x ATK & RCV for all Att.
+JP: 7.5x ATK when HP is full; 2x ATK & RCV
 EN: 7.5x ATK when HP is full; 2x ATK & RCV
+KR: 7.5x ATK when HP is full; 2x ATK & RCV
 

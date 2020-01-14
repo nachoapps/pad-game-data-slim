@@ -6,10 +6,14 @@ SAWK:
 # 458/71 - Jupiter Genesis
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to Wood Orbs
+JP: Change all orbs to Wood orbs
 EN: Change all orbs to Wood orbs
+KR: Change all orbs to Wood orbs
 
 # 2439/138 - Wood Blessing
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 2x ATK for Wood Att.; heals HP equal to 4x RCV when matching Orbs
+JP: 2x ATK for Wood Att.; 4x RCV additional heal when matching orbs
 EN: 2x ATK for Wood Att.; 4x RCV additional heal when matching orbs
+KR: 2x ATK for Wood Att.; 4x RCV additional heal when matching orbs
 

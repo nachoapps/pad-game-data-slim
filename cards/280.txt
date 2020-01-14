@@ -6,10 +6,14 @@ SAWK:
 # 36/116 - Heal
 Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Heals 5x RCV in HP, bind status reduced by 2 turns; 1.5x RCV for 3 turns
+JP: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
 EN: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
+KR: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
 
 # 294/33 - Taiko no Tatsujin!
 Tags: ETC
 Game: A drumming sound is made when Orbs are moved
+JP: Turn orb sound effects into Taiko noises
 EN: Turn orb sound effects into Taiko noises
+KR: Turn orb sound effects into Taiko noises
 

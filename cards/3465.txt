@@ -6,10 +6,14 @@ SAWK: 58,33,57
 # 7085/116 - Guess I don't have a choice
 Tags: HEAL,LINE_ORBS_CONVERTER
 Game: Recovers 50% of max HP; changes the top row to Fire Orbs
+JP: Recover 50% of max HP; Change the top row to Fire orbs
 EN: Recover 50% of max HP; Change the top row to Fire orbs
+KR: Recover 50% of max HP; Change the top row to Fire orbs
 
 # 7091/138 - Now this is what fighting should be!
 Tags: ENHANCED_HP_ATK,RESOLVE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2x HP & 8x ATK for Fire Att.; may survive when HP is reduced to 0
+JP: [No skyfall] 8x ATK and 2x HP for Fire Att.; May survive when HP is reduced to 0 (HP>50%)
 EN: [No skyfall] 8x ATK and 2x HP for Fire Att.; May survive when HP is reduced to 0 (HP>50%)
+KR: [No skyfall] 8x ATK and 2x HP for Fire Att.; May survive when HP is reduced to 0 (HP>50%)
 

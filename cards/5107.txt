@@ -6,10 +6,14 @@ SAWK: 34,35,33
 # 12885/116 - Yoga Fire
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status (incl. Awoken) by 5 turns; changes Light Orbs to Water and Dark Orbs to Fire
+JP: Reduce binds and awoken skill binds by 5 turns; Change Light orbs to Water orbs; Change Dark orbs to Fire orbs
 EN: Reduce binds and awoken skill binds by 5 turns; Change Light orbs to Water orbs; Change Dark orbs to Fire orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change Light orbs to Water orbs; Change Dark orbs to Fire orbs
 
 # 12888/138 - This too is the path to achieve enlightenment.
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK & 2x RCV for Water Att.; 3.5x ATK with 4+ linked Fire Orbs
+JP: 3x ATK and 2x RCV for Water Att.; 3.5x ATK when matching 4 or more connected Fire orbs
 EN: 3x ATK and 2x RCV for Water Att.; 3.5x ATK when matching 4 or more connected Fire orbs
+KR: 3x ATK and 2x RCV for Water Att.; 3.5x ATK when matching 4 or more connected Fire orbs
 

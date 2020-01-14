@@ -6,10 +6,14 @@ SAWK:
 # 1611/116 - Intimidating Shout
 Tags: MENACE,ORB_CONVERT
 Game: Delays enemies' next move for 1 turn; changes Dark Orbs to Wood Orbs
+JP: Delay enemies' next attack by 1 turn; Change Dark orbs to Wood orbs
 EN: Delay enemies' next attack by 1 turn; Change Dark orbs to Wood orbs
+KR: Delay enemies' next attack by 1 turn; Change Dark orbs to Wood orbs
 
 # 1964/138 - Swallow General's Vow
 Tags: ENHANCED_ATK,RESOLVE
 Game: May survive when HP drops to 0; 2.5x ATK when Restrained Dragon Hero, Liu Bei is on your team
+JP: May survive when HP is reduced to 0 (HP>50%); 2.5x ATK if [1743] is on the team
 EN: May survive when HP is reduced to 0 (HP>50%); 2.5x ATK if [1743] is on the team
+KR: May survive when HP is reduced to 0 (HP>50%); 2.5x ATK if [1743] is on the team
 

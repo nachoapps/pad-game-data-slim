@@ -6,10 +6,14 @@ SAWK:
 # 161/9 - Guard Stance - Wood
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Water Orbs to Heal Orbs
+JP: Change Water orbs to Heal orbs
 EN: Change Water orbs to Heal orbs
+KR: Change Water orbs to Heal orbs
 
 # 306/36 - Frost Forest Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Wood & Water Att. damage
+JP: Reduce damage taken from wood, water att. by 50%
 EN: Reduce damage taken from wood, water att. by 50%
+KR: Reduce damage taken from wood, water att. by 50%
 

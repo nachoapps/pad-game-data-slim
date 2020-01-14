@@ -6,10 +6,14 @@ SAWK: 52,21,46
 # 11094/116 - The Brains of the Baseball World
 Tags: REDUCE_DAMAGE,DROP_CHANCE
 Game: Halves damage for 4 turns; Fire Orbs slightly more likely to appear for 4 turns
+JP: For 4 turns, reduce damage taken by 50%; For 4 turns, Fire orbs are more likely to appear by 15%
 EN: For 4 turns, reduce damage taken by 50%; For 4 turns, Fire orbs are more likely to appear by 15%
+KR: For 4 turns, reduce damage taken by 50%; For 4 turns, Fire orbs are more likely to appear by 15%
 
 # 11097/138 - I want to pursue a player mentality
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x HP & RCV for Fire Att.; 3x ATK with 6+ linked Fire Orbs
+JP: 2x HP & RCV for Fire Att.; 3x ATK when matching 6 or more connected Fire orbs
 EN: 2x HP & RCV for Fire Att.; 3x ATK when matching 6 or more connected Fire orbs
+KR: 2x HP & RCV for Fire Att.; 3x ATK when matching 6 or more connected Fire orbs
 

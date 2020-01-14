@@ -6,10 +6,14 @@ SAWK: 48,46,52
 # 7986/116 - Stampede
 Tags: MENACE
 Game: Creates 3 Water, Wood & Dark Orbs each at random; delays enemies' next move for 1 turn
+JP: Create 3 Water, Wood, and Dark orbs; Delay enemies' next attack by 1 turn
 EN: Create 3 Water, Wood, and Dark orbs; Delay enemies' next attack by 1 turn
+KR: Create 3 Water, Wood, and Dark orbs; Delay enemies' next attack by 1 turn
 
 # 7989/138 - The Unwavering Colossus
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Water Att.; 6x ATK when Water, Wood & Dark attack at once
+JP: 2x HP & ATK for Water Att.; 6x ATK when matching Water, Wood, Dark at once
 EN: 2x HP & ATK for Water Att.; 6x ATK when matching Water, Wood, Dark at once
+KR: 2x HP & ATK for Water Att.; 6x ATK when matching Water, Wood, Dark at once
 

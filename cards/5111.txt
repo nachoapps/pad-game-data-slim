@@ -6,10 +6,14 @@ SAWK: 27,45,59
 # 12909/116 - Metsu Shoryuken
 Tags: ALL_ORBS_CONVERT,NEW_GRAVITY
 Game: Inflicts damage equal to 15% of enemies' max HP; changes Orbs to all Attributes & Heal
+JP: Deal damage equal to 15% of enemies' max HP; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Deal damage equal to 15% of enemies' max HP; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Deal damage equal to 15% of enemies' max HP; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 12912/138 - Be afraid...! Now you gaze upon your death!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 3.5x ATK & reduces damage when 4+ Att. attack at once; 1.5x HP for Attacker Type, 4x ATK with 6+ combos
+JP: 3.5x ATK and reduce damage taken by 25% when matching 4 or more colors; 1.5x HP for Attacker type; 4x ATK when 6 or more combos
 EN: 3.5x ATK and reduce damage taken by 25% when matching 4 or more colors; 1.5x HP for Attacker type; 4x ATK when 6 or more combos
+KR: 3.5x ATK and reduce damage taken by 25% when matching 4 or more colors; 1.5x HP for Attacker type; 4x ATK when 6 or more combos
 

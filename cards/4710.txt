@@ -6,10 +6,14 @@ SAWK: 59,55,52
 # 11321/116 - Tone of the Divine Harp
 Tags: MENACE,ALL_ORBS_CONVERT
 Game: Delays enemies' next move for 1 turn; changes all Orbs to Water, Wood, Light & Heal
+JP: Delay enemies' next attack by 1 turn; Change all orbs to Water, Wood, Light, and Heal orbs
 EN: Delay enemies' next attack by 1 turn; Change all orbs to Water, Wood, Light, and Heal orbs
+KR: Delay enemies' next attack by 1 turn; Change all orbs to Water, Wood, Light, and Heal orbs
 
 # 11324/138 - Monster-Slaying Melody
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Game: 1.5x HP for Balanced Type, Orb move time +2 sec; 3.5x ATK when erasing 3+ of these Att.: Wt, Wd, Lt or Heal
+JP: 1.5x HP for Balanced type; Increase orb movement time by 2 seconds; 3.5x ATK when matching 3+ of Water, Wood, Light, Heal at once
 EN: 1.5x HP for Balanced type; Increase orb movement time by 2 seconds; 3.5x ATK when matching 3+ of Water, Wood, Light, Heal at once
+KR: 1.5x HP for Balanced type; Increase orb movement time by 2 seconds; 3.5x ATK when matching 3+ of Water, Wood, Light, Heal at once
 

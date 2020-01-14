@@ -6,10 +6,14 @@ SAWK: 27,53,56
 # 13934/116 - Chaotic Sphere
 Tags: SUICIDE,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: HP falls to 1; voids damage absorption & Att. absorption for 2 turns
+JP: Reduce HP to 1; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 EN: Reduce HP to 1; For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: Reduce HP to 1; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 13938/138 - Eternal Dragon Descent - Orge
 Tags: ENHANCED_HP_ATK
 Game: 2x HP for Fire Att., 12x ATK when HP is 50% or less; 2x ATK & adds 1 combo when 3+ Att. attack at once
+JP: 2x HP for Fire Att.; 12x ATK when below 50% HP; 2x ATK and increase combo by 1 when matching 3 or more colors
 EN: 2x HP for Fire Att.; 12x ATK when below 50% HP; 2x ATK and increase combo by 1 when matching 3 or more colors
+KR: 2x HP for Fire Att.; 12x ATK when below 50% HP; 2x ATK and increase combo by 1 when matching 3 or more colors
 

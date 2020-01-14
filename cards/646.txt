@@ -6,10 +6,14 @@ SAWK:
 # 483/116 - World's End
 Tags: SINGLE_TARGET_ATTACK,SUICIDE
 Game: Inflicts 300x ATK Dark Att. attack on 1 enemy but HP falls to 1; 6 Dark Orbs created at random
+JP: Reduce HP to 1; Deal 300x Dark damage to an enemy; Create 6 Dark orbs
 EN: Reduce HP to 1; Deal 300x Dark damage to an enemy; Create 6 Dark orbs
+KR: Reduce HP to 1; Deal 300x Dark damage to an enemy; Create 6 Dark orbs
 
 # 513/22 - Satan's Insight
 Tags: ENHANCED_ATK
 Game: 3.5x ATK for Devil Type
+JP: 3.5x ATK for Devil type
 EN: 3.5x ATK for Devil type
+KR: 3.5x ATK for Devil type
 

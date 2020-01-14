@@ -6,10 +6,14 @@ SAWK:
 # 1852/6 - God Gravity
 Tags: GRAVITY
 Game: Reduces enemies' HP by 45%
+JP: Reduce enemies' HP by 45%
 EN: Reduce enemies' HP by 45%
+KR: Reduce enemies' HP by 45%
 
 # 2535/138 - Power of Love
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 3x ATK when HP is full; Orb movement time extended by 1 second
+JP: 3x ATK when HP is full; Increase orb movement time by 1 seconds
 EN: 3x ATK when HP is full; Increase orb movement time by 1 seconds
+KR: 3x ATK when HP is full; Increase orb movement time by 1 seconds
 

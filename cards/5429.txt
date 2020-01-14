@@ -6,10 +6,14 @@ SAWK:
 # 13957/116 - Tempête d'Ombre
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
 Game: Halves damage for 1 turn; 2x ATK for Wood & Dark Att. for 1 turn
+JP: For 1 turn, reduce damage taken by 50%; For 1 turn, 2x ATK for Wood, Dark Att.
 EN: For 1 turn, reduce damage taken by 50%; For 1 turn, 2x ATK for Wood, Dark Att.
+KR: For 1 turn, reduce damage taken by 50%; For 1 turn, 2x ATK for Wood, Dark Att.
 
 # 13960/138 - Time Shot Draco Summoning Seal
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
 Game: [7x6 board], 2x HP & ATK for Wood & Dark Att.; 4x ATK when Dark & Wood attack at once
+JP: [Board becomes 7x6] 2x HP & ATK for Wood, Dark Att.; 4x ATK when matching Dark+Wood
 EN: [Board becomes 7x6] 2x HP & ATK for Wood, Dark Att.; 4x ATK when matching Dark+Wood
+KR: [Board becomes 7x6] 2x HP & ATK for Wood, Dark Att.; 4x ATK when matching Dark+Wood
 

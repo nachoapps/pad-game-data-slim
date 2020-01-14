@@ -6,10 +6,14 @@ SAWK:
 # 5404/116 - Time for my trump card! 
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes Dark Orbs to Fire Orbs & Heal Orbs to Wood Orbs
+JP: For 1 turn, increase combo count by 1; Change Dark orbs to Fire orbs; Change Heal orbs to Wood orbs
 EN: For 1 turn, increase combo count by 1; Change Dark orbs to Fire orbs; Change Heal orbs to Wood orbs
+KR: For 1 turn, increase combo count by 1; Change Dark orbs to Fire orbs; Change Heal orbs to Wood orbs
 
 # 5960/138 - This next draw will be intense!
 Tags: ENHANCED_ATK
 Game: 4x ATK when Dogiragon Buster & Hamukatsuman Buster on team; 4x ATK when Fire & Wood Att. attack at once
+JP: 4x ATK if [3167, 3170] is on the team; 4x ATK when matching Fire+Wood
 EN: 4x ATK if [3167, 3170] is on the team; 4x ATK when matching Fire+Wood
+KR: 4x ATK if [3167, 3170] is on the team; 4x ATK when matching Fire+Wood
 

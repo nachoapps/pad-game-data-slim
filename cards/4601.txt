@@ -6,10 +6,14 @@ SAWK:
 # 10799/116 - Hour of Devastation
 Tags: VOID_DAMAGE
 Game: Voids damage for 1 turn; other allies' skills charged by 2 turns
+JP: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 2 turns
 EN: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 2 turns
+KR: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 2 turns
 
 # 10805/138 - The Eldest Reborn
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2.5x ATK & reduces dmg with 5+ combos; up to 12x ATK when 8 Orbs or less on the board
+JP: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 12x ATK when 0 orbs left; 2.5x ATK and reduce damage taken by 25% when 5 or more combos
 EN: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 12x ATK when 0 orbs left; 2.5x ATK and reduce damage taken by 25% when 5 or more combos
+KR: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 12x ATK when 0 orbs left; 2.5x ATK and reduce damage taken by 25% when 5 or more combos
 

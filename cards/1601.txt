@@ -6,10 +6,14 @@ SAWK:
 # 1804/116 - Five Flower Scales
 Tags: POISON,EXTENDS_TIME
 Game: Extends time to move Orbs by 1 second for 3 turns, plus all enemies poisoned
+JP: For 3 turns, increase orb move time by 1 second; Poison all enemies (1x ATK)
 EN: For 3 turns, increase orb move time by 1 second; Poison all enemies (1x ATK)
+KR: For 3 turns, increase orb move time by 1 second; Poison all enemies (1x ATK)
 
 # 1956/124 - Tranquil Night of Dreams
 Tags: ENHANCED_ATK
 Game: ATK increases with 2+ Dark Att. combos, up to a maximum of 3x
+JP: 2.5x ATK when matching 2 Dark combos, up to 3x at 4 Dark combos
 EN: 2.5x ATK when matching 2 Dark combos, up to 3x at 4 Dark combos
+KR: 2.5x ATK when matching 2 Dark combos, up to 3x at 4 Dark combos
 

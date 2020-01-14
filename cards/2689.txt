@@ -6,10 +6,14 @@ SAWK:
 # 3888/116 - Looks like you're in a bind.
 Tags: LINE_ORBS_CONVERTER
 Game: Changes the bottom row into Wood Orbs; 3 non-Wood Orbs change to Jammers
+JP: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 EN: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
+KR: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 
 # 4474/138 - Scream, Benihime!
 Tags: ENHANCED_ATK
 Game: 2.5x ATK for Wood Att.; ATK increases when erasing 3+ linked Jammers, up to 3x
+JP: 2.5x ATK for Wood Att.; 2x ATK when matching 3 or more connected Jammer orbs up to 3x at 5 orbs
 EN: 2.5x ATK for Wood Att.; 2x ATK when matching 3 or more connected Jammer orbs up to 3x at 5 orbs
+KR: 2.5x ATK for Wood Att.; 2x ATK when matching 3 or more connected Jammer orbs up to 3x at 5 orbs
 

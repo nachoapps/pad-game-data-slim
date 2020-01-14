@@ -6,10 +6,14 @@ SAWK: 55,21,27
 # 13368/116 - I've made up my mind...and my heart.
 Tags: SUICIDE,FIXED_DAMAGE
 Game: 10,000 damage on all enemies but HP reduced to 1; creates 5 Light & Dark Orbs each at random
+JP: Reduce HP to 1; Deal 10000 fixed damage to all enemies; Create 5 Light and Dark orbs
 EN: Reduce HP to 1; Deal 10000 fixed damage to all enemies; Create 5 Light and Dark orbs
+KR: Reduce HP to 1; Deal 10000 fixed damage to all enemies; Create 5 Light and Dark orbs
 
 # 13372/138 - Shamanic Soul Pacification
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 4x ATK & reduces dmg when Light & Dark attack at once; 1.5x HP & RCV and 3.5x ATK in Multiplayer Mode
+JP: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 3.5x ATK and 1.5x HP & RCV when in multiplayer mode
 EN: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 3.5x ATK and 1.5x HP & RCV when in multiplayer mode
+KR: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 3.5x ATK and 1.5x HP & RCV when in multiplayer mode
 

@@ -6,10 +6,14 @@ SAWK: 58,45,55
 # 8089/116 - Eternal Vesper
 Tags: GUARD_STANCE,SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
 Game: Inflicts 200x ATK Dark Att. attack on 1 enemy, but halves HP; changes leftmost column to Dark & rightmost to Heal
+JP: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
 EN: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
 
 # 11798/138 - Spirit of the Seraph
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for each cross of 5 Dark or Light Orbs; 4x ATK & halves damage with a cross of 5 Heal Orbs
+JP: 3x ATK for each cross of 5 Dark, Light orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK for each cross of 5 Dark, Light orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK for each cross of 5 Dark, Light orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

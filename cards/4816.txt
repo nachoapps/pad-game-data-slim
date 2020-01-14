@@ -6,10 +6,14 @@ SAWK: 53,58,52
 # 11708/116 - I hate injustice
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE
 Game: Inflicts 10x ATK Dark Att. attack on 1 enemy, but halves HP; changes all Orbs to Wood, Light & Dark
+JP: Reduce HP by 50%; Deal 10x Dark damage to an enemy; Change all orbs to Wood, Light, and Dark orbs
 EN: Reduce HP by 50%; Deal 10x Dark damage to an enemy; Change all orbs to Wood, Light, and Dark orbs
+KR: Reduce HP by 50%; Deal 10x Dark damage to an enemy; Change all orbs to Wood, Light, and Dark orbs
 
 # 11711/138 - YOU'RE the one who will end here!
 Tags: ENHANCED_ATK
 Game: 3x ATK when HP is 80% or less, 5X when 50% or less; 2x ATK with 5+ linked Light or Dark Orbs
+JP: 5x ATK when below 50% HP; 3x ATK when below 80% HP; 2x ATK when matching 5 or more connected Light or Dark orbs
 EN: 5x ATK when below 50% HP; 3x ATK when below 80% HP; 2x ATK when matching 5 or more connected Light or Dark orbs
+KR: 5x ATK when below 50% HP; 3x ATK when below 80% HP; 2x ATK when matching 5 or more connected Light or Dark orbs
 

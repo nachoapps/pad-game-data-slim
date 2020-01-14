@@ -6,10 +6,14 @@ SAWK: 43,53,44
 # 10578/116 - I'll risk everything in this fight!!
 Tags: DROP_CHANCE,ADD_COMBO
 Game: Light Orbs slightly more likely to appear for 3 turns; adds 1 combo for 1 turn
+JP: For 3 turns, Light orbs are more likely to appear by 15%; For 1 turn, increase combo count by 1
 EN: For 3 turns, Light orbs are more likely to appear by 15%; For 1 turn, increase combo count by 1
+KR: For 3 turns, Light orbs are more likely to appear by 15%; For 1 turn, increase combo count by 1
 
 # 10581/138 - I'll discover what life really is in a dire situation!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: ATK increases with 4+ combos, up to 9x; halves damage when 5 Att. attack at once
+JP: 1.5x ATK when 4 or more combos up to 9x at 7 combos; Reduce damage taken by 50% when matching 5 or more colors
 EN: 1.5x ATK when 4 or more combos up to 9x at 7 combos; Reduce damage taken by 50% when matching 5 or more colors
+KR: 1.5x ATK when 4 or more combos up to 9x at 7 combos; Reduce damage taken by 50% when matching 5 or more colors
 

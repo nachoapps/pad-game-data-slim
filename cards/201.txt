@@ -6,10 +6,14 @@ SAWK:
 # 91/18 - Menace
 Tags: MENACE
 Game: Delays enemies' next move for 3 turns
+JP: Delay enemies' next attack by 3 turns
 EN: Delay enemies' next attack by 3 turns
+KR: Delay enemies' next attack by 3 turns
 
 # 66/12 - Purgatory
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
+KR: 2x ATK additional damage when matching orbs
 

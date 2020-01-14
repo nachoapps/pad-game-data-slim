@@ -6,10 +6,14 @@ SAWK: 43,53,48
 # 12265/116 - Hao Enma-dama
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND
 Game: Fully recovers bind status; changes all Orbs to Fire, Wood, Light & Dark Orbs
+JP: Remove all binds; Change all orbs to Fire, Wood, Light, and Dark orbs
 EN: Remove all binds; Change all orbs to Fire, Wood, Light, and Dark orbs
+KR: Remove all binds; Change all orbs to Fire, Wood, Light, and Dark orbs
 
 # 12268/138 - Young King of Yo-kai
 Tags: ENHANCED_ATK_RCV
 Game: ATK increases with 4+ combos, up to 10x; 2.5x ATK & RCV with 2+ Light combos
+JP: 2.5x ATK & RCV when matching 2+ Light combos; 4x ATK when 4 or more combos up to 10x at 10 combos
 EN: 2.5x ATK & RCV when matching 2+ Light combos; 4x ATK when 4 or more combos up to 10x at 10 combos
+KR: 2.5x ATK & RCV when matching 2+ Light combos; 4x ATK when 4 or more combos up to 10x at 10 combos
 

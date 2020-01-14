@@ -6,10 +6,14 @@ SAWK:
 # 3930/116 - Magical Song
 Tags: HEAL,ENHANCED_HEAL,ALL_ORBS_CONVERT
 Game: Recovers 5x your RCV in HP; changes Orbs to all Attributes
+JP: Recover 5x RCV as HP; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 EN: Recover 5x RCV as HP; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Recover 5x RCV as HP; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 4534/138 - Mysterious Orbs
 Tags: ENHANCED_ATK,ETC
 Game: ATK increases up to 5x with 3+ Att.; a drumming sound is made when Orbs are moved
+JP: 3x ATK when matching 3 or more colors up to 5x at 5 colors; Turn orb sound effects into Taiko noises
 EN: 3x ATK when matching 3 or more colors up to 5x at 5 colors; Turn orb sound effects into Taiko noises
+KR: 3x ATK when matching 3 or more colors up to 5x at 5 colors; Turn orb sound effects into Taiko noises
 

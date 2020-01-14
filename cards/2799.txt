@@ -6,10 +6,14 @@ SAWK:
 # 405/116 - Jump
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
 Game: Inflicts random Water Att. damage on 1 enemy; 2x ATK for Physical Type for 1 turn
+JP: Randomized Water damage to an enemy(1~50x); For 1 turn, 2x ATK for Physical type
 EN: Randomized Water damage to an enemy(1~50x); For 1 turn, 2x ATK for Physical type
+KR: Randomized Water damage to an enemy(1~50x); For 1 turn, 2x ATK for Physical type
 
 # 372/14 - Dragon Soul
 Tags: RESOLVE
 Game: May survive when HP is reduced to 0
+JP: May survive when HP is reduced to 0 (HP>70%)
 EN: May survive when HP is reduced to 0 (HP>70%)
+KR: May survive when HP is reduced to 0 (HP>70%)
 

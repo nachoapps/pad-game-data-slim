@@ -6,10 +6,14 @@ SAWK: 48,46,43
 # 14557/116 - Concealed Sabre Snowfall Slash
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
 Game: Halves damage for 1 turn; 3x ATK for Water Att. for 1 turn
+JP: For 1 turn, reduce damage taken by 50%; For 1 turn, 3x ATK for Water Att.
 EN: For 1 turn, reduce damage taken by 50%; For 1 turn, 3x ATK for Water Att.
+KR: For 1 turn, reduce damage taken by 50%; For 1 turn, 3x ATK for Water Att.
 
 # 14563/138 - ......Forgive me.
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 2x HP & ATK for Water Att., Orb move time +2 sec; 7x ATK & 2x RCV with 5+ combos
+JP: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7x ATK and 2x RCV when 5 or more combos
 EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7x ATK and 2x RCV when 5 or more combos
+KR: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7x ATK and 2x RCV when 5 or more combos
 

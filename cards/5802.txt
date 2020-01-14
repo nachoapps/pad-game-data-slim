@@ -6,10 +6,14 @@ SAWK: 56,55,43
 # 15556/116 - ブラック・バーニング
 Tags: REMOVE_LOCK
 Game: 全ドロップのロック状態を解除。 ランダムで光と闇ドロップを5個ずつ生成。
+JP: Unlock all orbs; Create 5 Light and Dark orbs
 EN: Unlock all orbs; Create 5 Light and Dark orbs
+KR: Unlock all orbs; Create 5 Light and Dark orbs
 
 # 15560/138 - 師の魂を受け継ぐ
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 光と闇属性のHPが1.5倍、攻撃力は3.5倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が4倍。
+JP: 3.5x ATK and 1.5x HP for Light, Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 EN: 3.5x ATK and 1.5x HP for Light, Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+KR: 3.5x ATK and 1.5x HP for Light, Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 

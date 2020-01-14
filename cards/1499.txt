@@ -6,10 +6,14 @@ SAWK:
 # 1625/116 - 超遠距離撃破パワー砲
 Tags: ATTACK_AND_HEAL,ALL_ORBS_CONVERT
 Game: 敵1体に攻撃力×50倍の木属性で攻撃、ダメージの50％HP回復。 全ドロップを水、木、回復ドロップに変化。
+JP: Deal 50x ATK Wood damage to an enemy and recover 50% of the damage as HP; Change all orbs to Water, Wood, and Heal orbs
 EN: Deal 50x ATK Wood damage to an enemy and recover 50% of the damage as HP; Change all orbs to Water, Wood, and Heal orbs
+KR: Deal 50x ATK Wood damage to an enemy and recover 50% of the damage as HP; Change all orbs to Water, Wood, and Heal orbs
 
 # 1776/121 - 12天使の理力
 Tags: ENHANCED_HP_ATK_RCV
 Game: 体力タイプのHPと回復力がほんの少し上昇、 攻撃力は3倍。
+JP: 3x ATK and 1.2x HP & RCV for Physical type
 EN: 3x ATK and 1.2x HP & RCV for Physical type
+KR: 3x ATK and 1.2x HP & RCV for Physical type
 

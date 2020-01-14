@@ -6,10 +6,14 @@ SAWK: 60,46,55
 # 13971/116 - Jewel of Destruction
 Tags: REMOVE_LOCK
 Game: Removes Orb locks; creates 1 L shape of Light & Dark Orbs each
+JP: Unlock all orbs; Create an L shape of Light orbs with its center at the top row and the far left column; Create an L shape of Dark orbs with its center at the bottom row and the far right column
 EN: Unlock all orbs; Create an L shape of Light orbs with its center at the top row and the far left column; Create an L shape of Dark orbs with its center at the bottom row and the far right column
+KR: Unlock all orbs; Create an L shape of Light orbs with its center at the top row and the far left column; Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
 # 13975/138 - Worry not. I will not judge you...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage when HP is 50% or more; 3.5x ATK with an L shape of 5 Light or Dark Orbs
+JP: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
 EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
+KR: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
 

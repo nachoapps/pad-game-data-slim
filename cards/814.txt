@@ -6,10 +6,14 @@ SAWK:
 # 694/3 - The Feathered Garment of Yomi
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 3 turns
+JP: For 3 turns, reduce damage taken by 35%
 EN: For 3 turns, reduce damage taken by 35%
+KR: For 3 turns, reduce damage taken by 35%
 
 # 759/108 - Yomi's Commandment
 Tags: ENHANCED_ATK
 Game: 4x ATK for Physical Type, but halves overall HP
+JP: Reduce total HP by 50%; 4x ATK for Physical type
 EN: Reduce total HP by 50%; 4x ATK for Physical type
+KR: Reduce total HP by 50%; 4x ATK for Physical type
 

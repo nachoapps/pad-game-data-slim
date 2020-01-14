@@ -6,10 +6,14 @@ SAWK:
 # 659/20 - Smiling Palm
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Fire Orbs to Wood Orbs & Dark Orbs to Heal Orbs
+JP: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
 EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
+KR: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
 
 # 767/13 - Amitan's Protection
 Tags: AUTO_HEAL
 Game: Heals HP equal to 3x RCV when matching Orbs
+JP: 3x RCV additional heal when matching orbs
 EN: 3x RCV additional heal when matching orbs
+KR: 3x RCV additional heal when matching orbs
 

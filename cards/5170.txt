@@ -6,10 +6,14 @@ SAWK:
 # 12942/116 - くらえ～～っ！炎のコマ～～っ！
 Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: 1ターンの間、ドロップ操作を2秒延長。 最下段横1列を火ドロップに変化。
+JP: For 1 turn, increase orb move time by 2 seconds; Change the bottom row to Fire orbs
 EN: For 1 turn, increase orb move time by 2 seconds; Change the bottom row to Fire orbs
+KR: For 1 turn, increase orb move time by 2 seconds; Change the bottom row to Fire orbs
 
 # 12945/138 - 月面宙返りーーーーーーーーーーーーーっ！
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,NO_SKYFALL_COMBOS
 Game: 【落ちコンなし】3コンボ以上で攻撃力が上昇、最大7倍。 火属性のHPと攻撃力が1.5倍。ドロップ操作を1秒延長。
+JP: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & ATK for Fire Att.; Increase orb movement time by 1 seconds
 EN: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & ATK for Fire Att.; Increase orb movement time by 1 seconds
+KR: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & ATK for Fire Att.; Increase orb movement time by 1 seconds
 

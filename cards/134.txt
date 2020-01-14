@@ -6,10 +6,14 @@ SAWK:
 # 92/18 - Force
 Tags: MENACE
 Game: Delays enemies' next move for 5 turns
+JP: Delay enemies' next attack by 5 turns
 EN: Delay enemies' next attack by 5 turns
+KR: Delay enemies' next attack by 5 turns
 
 # 68/14 - Perseverance
 Tags: RESOLVE
 Game: May survive when HP is reduced to 0
+JP: May survive when HP is reduced to 0 (HP>50%)
 EN: May survive when HP is reduced to 0 (HP>50%)
+KR: May survive when HP is reduced to 0 (HP>50%)
 

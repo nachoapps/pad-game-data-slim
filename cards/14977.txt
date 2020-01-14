@@ -6,10 +6,14 @@ SAWK: 53,43,48
 # 14888/116 - Emperor of All
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Fully recovers bind status (incl. Awoken); 2x ATK for Fire & Dark Att. for 1 turn
+JP: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
 EN: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
+KR: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
 
 # 14891/138 - Ours for the Taking
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 1.5x HP & 3x ATK for Devil Type; 5x ATK & reduces damage with 2+ Dark combos
+JP: 3x ATK and 1.5x HP for Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 EN: 3x ATK and 1.5x HP for Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
+KR: 3x ATK and 1.5x HP for Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 

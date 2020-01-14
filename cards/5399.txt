@@ -6,10 +6,14 @@ SAWK: 43,46,53
 # 13807/116 - I'll go too.
 Tags: REMOVE_LOCK
 Game: Removes Orb locks; creates 9 Light Orbs at random
+JP: Unlock all orbs; Create 9 Light orbs
 EN: Unlock all orbs; Create 9 Light orbs
+KR: Unlock all orbs; Create 9 Light orbs
 
 # 13810/138 - Planet Protector
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when HP is 50% or more; 4x ATK with 6+ linked Light Orbs
+JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Light orbs
 EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Light orbs
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Light orbs
 

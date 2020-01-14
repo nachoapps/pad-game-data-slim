@@ -6,10 +6,14 @@ SAWK: 27,45,43
 # 10774/116 - Patriarch's Spirit Bow
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Vastly reduces damage for 1 turn; changes all Orbs to Water, Wood, Light & Heal Orbs
+JP: For 1 turn, reduce damage taken by 75%; Change all orbs to Water, Wood, Light, and Heal orbs
 EN: For 1 turn, reduce damage taken by 75%; Change all orbs to Water, Wood, Light, and Heal orbs
+KR: For 1 turn, reduce damage taken by 75%; Change all orbs to Water, Wood, Light, and Heal orbs
 
 # 10777/138 - I've made history! This is the greatest performance!
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 6x ATK for Wood & Light Att., Orb move time +2 seconds; 3x ATK & RCV when 4+ Att. (3+Heal) attack at once
+JP: 6x ATK for Wood, Light Att.; Increase orb movement time by 2 seconds; 3x ATK & RCV when matching 4 or more colors (3+heal)
 EN: 6x ATK for Wood, Light Att.; Increase orb movement time by 2 seconds; 3x ATK & RCV when matching 4 or more colors (3+heal)
+KR: 6x ATK for Wood, Light Att.; Increase orb movement time by 2 seconds; 3x ATK & RCV when matching 4 or more colors (3+heal)
 

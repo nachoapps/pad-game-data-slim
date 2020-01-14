@@ -6,10 +6,14 @@ SAWK: 43,54,62
 # 9831/116 - Guard Thrust
 Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
 Game: Vastly reduces damage for 1 turn; inflicts 100,000 damage on 1 enemy three times
+JP: For 1 turn, reduce damage taken by 75%; Deal 100000 damage to an enemy 3 times
 EN: For 1 turn, reduce damage taken by 75%; Deal 100000 damage to an enemy 3 times
+KR: For 1 turn, reduce damage taken by 75%; Deal 100000 damage to an enemy 3 times
 
 # 9834/138 - Ice Atk
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2x ATK & RCV when erasing 6+ linked Water or Wood Orbs; 4.5x ATK & reduces damage with a cross of 5 Heal Orbs
+JP: 2x ATK & RCV when matching 6 or more connected Water or Wood orbs; 4.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 2x ATK & RCV when matching 6 or more connected Water or Wood orbs; 4.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+KR: 2x ATK & RCV when matching 6 or more connected Water or Wood orbs; 4.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 

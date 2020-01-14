@@ -6,10 +6,14 @@ SAWK:
 # 463/116 - Melon Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Water Orbs to Heal Orbs; heals 30% of Max HP
+JP: Change Water orbs to Heal orbs; Recover 30% of max HP
 EN: Change Water orbs to Heal orbs; Recover 30% of max HP
+KR: Change Water orbs to Heal orbs; Recover 30% of max HP
 
 # 1906/41 - Reflect Shield - Wood
 Tags: COUNTERATTACK
 Game: Strong Wood counterattack sometimes
+JP: 50% chance to counterattack with 5x Wood damage
 EN: 50% chance to counterattack with 5x Wood damage
+KR: 50% chance to counterattack with 5x Wood damage
 

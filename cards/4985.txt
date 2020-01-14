@@ -6,10 +6,14 @@ SAWK: 57,58,20
 # 12350/116 - Triple Trouble
 Tags: GRAVITY,GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Reduces enemies' HP by 10%; changes the bottom row to Heal Orbs
+JP: Reduce enemies' HP by 10%; Change the bottom row to Heal orbs
 EN: Reduce enemies' HP by 10%; Change the bottom row to Heal orbs
+KR: Reduce enemies' HP by 10%; Change the bottom row to Heal orbs
 
 # 12353/138 - Gyoloroooon! Give me your strength!
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x HP & RCV for Wood Att.; 4x ATK when HP is 80% or more, 6x ATK when 79% or less
+JP: 2x HP & RCV for Wood Att.; 4x ATK when above 80% HP; 6x ATK when below 79% HP
 EN: 2x HP & RCV for Wood Att.; 4x ATK when above 80% HP; 6x ATK when below 79% HP
+KR: 2x HP & RCV for Wood Att.; 4x ATK when above 80% HP; 6x ATK when below 79% HP
 

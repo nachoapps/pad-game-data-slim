@@ -6,10 +6,14 @@ SAWK: 53,55,45
 # 15370/116 - グングニールの勇輝
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: 2ターンの間、神タイプの攻撃力が3倍。 バインド状態と覚醒無効状態を全回復。
+JP: For 2 turns, 3x ATK for God type; Remove all binds and awoken skill binds
 EN: For 2 turns, 3x ATK for God type; Remove all binds and awoken skill binds
+KR: For 2 turns, 3x ATK for God type; Remove all binds and awoken skill binds
 
 # 15373/138 - 世界樹の衣
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: HP80％以上でダメージを半減、神タイプの攻撃力が4倍。 木を6個以上つなげて消すと攻撃力が4倍、1コンボ加算。
+JP: 4x ATK for God type and reduce damage taken by 50% when above 80% HP; 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
 EN: 4x ATK for God type and reduce damage taken by 50% when above 80% HP; 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
+KR: 4x ATK for God type and reduce damage taken by 50% when above 80% HP; 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
 

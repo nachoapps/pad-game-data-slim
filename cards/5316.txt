@@ -6,10 +6,14 @@ SAWK: 43,55,21
 # 13714/116 - Victory Star
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Changes Orbs to Fire, Water, Wood & Light Orbs; halves damage for 2 turns
+JP: Change all orbs to Fire, Water, Wood, and Light orbs; For 2 turns, reduce damage taken by 50%
 EN: Change all orbs to Fire, Water, Wood, and Light orbs; For 2 turns, reduce damage taken by 50%
+KR: Change all orbs to Fire, Water, Wood, and Light orbs; For 2 turns, reduce damage taken by 50%
 
 # 13717/138 - Victory is Mine-nya!
 Tags: ENHANCED_ATK
 Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 3x ATK for each cross of 5 Orbs of any Attribute
+JP: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, Wood orbs; 3x ATK for each cross of 5 Light, Dark orbs
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, Wood orbs; 3x ATK for each cross of 5 Light, Dark orbs
+KR: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, Wood orbs; 3x ATK for each cross of 5 Light, Dark orbs
 

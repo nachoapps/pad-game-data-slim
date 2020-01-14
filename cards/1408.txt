@@ -6,10 +6,14 @@ SAWK:
 # 976/116 - 気功砲
 Tags: MENACE,SINGLE_TARGET_ATTACK,SUICIDE
 Game: 敵の行動を2ターン遅らせる。 HPが1になるが、敵1体に攻撃力×80倍の木属性攻撃。
+JP: Delay enemies' next attack by 2 turns; Reduce HP to 1; Deal 80x Wood damage to an enemy
 EN: Delay enemies' next attack by 2 turns; Reduce HP to 1; Deal 80x Wood damage to an enemy
+KR: Delay enemies' next attack by 2 turns; Reduce HP to 1; Deal 80x Wood damage to an enemy
 
 # 1584/121 - さあこいよ!
 Tags: ENHANCED_ATK_RCV
 Game: 攻撃タイプの攻撃力が2.5倍、回復力は1.5倍。
+JP: 2.5x ATK and 1.5x RCV for Attacker type
 EN: 2.5x ATK and 1.5x RCV for Attacker type
+KR: 2.5x ATK and 1.5x RCV for Attacker type
 

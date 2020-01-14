@@ -6,10 +6,14 @@ SAWK: 55,43,33
 # 13324/116 - Witness my justice!!!
 Tags: ENHANCED_ORBS,MENACE,SUICIDE
 Game: Light Orbs enhanced but halves HP; delays enemies' next move for 2 turns
+JP: Reduce HP by 50%; Enhance all Light orbs; Delay enemies' next attack by 2 turns
 EN: Reduce HP by 50%; Enhance all Light orbs; Delay enemies' next attack by 2 turns
+KR: Reduce HP by 50%; Enhance all Light orbs; Delay enemies' next attack by 2 turns
 
 # 13329/138 - Battle Clothes
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 7x ATK when HP is 50% or less; 2x ATK & halves damage with a cross of 5 Heal Orbs
+JP: 7x ATK when below 50% HP; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 7x ATK when below 50% HP; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 7x ATK when below 50% HP; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

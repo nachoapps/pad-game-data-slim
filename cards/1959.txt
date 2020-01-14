@@ -6,10 +6,14 @@ SAWK:
 # 1827/116 - Style Change - Fire
 Tags: ENHANCED_ATTACK,CHANGE_ATTRIBUTE
 Game: This ally's Att. changes to Fire for 1 turn; 1.5x ATK for Attacker Type for 1 turn
+JP: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
 EN: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
+KR: Change own Att. to Fire for 1 turns; For 1 turn, 1.5x ATK for Attacker type
 
 # 2598/138 - Cat Soul - Wood
 Tags: ENHANCED_ATK,RESOLVE
 Game: 3x ATK for Wood Att. when HP is 50% or less; may survive when HP is reduced to 0
+JP: 3x ATK for Wood Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
 EN: 3x ATK for Wood Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
+KR: 3x ATK for Wood Att. when below 50% HP; May survive when HP is reduced to 0 (HP>70%)
 

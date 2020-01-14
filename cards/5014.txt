@@ -6,10 +6,14 @@ SAWK: 57,54,52
 # 12527/116 - Gae Bolg
 Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the top row to Water Orbs & the bottom row to Fire Orbs
+JP: Unlock all orbs; Change the top row to Water orbs and change the bottom row to Fire orbs
 EN: Unlock all orbs; Change the top row to Water orbs and change the bottom row to Fire orbs
+KR: Unlock all orbs; Change the top row to Water orbs and change the bottom row to Fire orbs
 
 # 12530/138 - I'll have your heart!
 Tags: ENHANCED_ATK_RCV,RESOLVE,EXTEND_TIME
 Game: 6x ATK & 2x RCV for Water Att., Orb move time +2 seconds; may survive when HP is reduced to 0
+JP: 6x ATK and 2x RCV for Water Att.; Increase orb movement time by 2 seconds; May survive when HP is reduced to 0 (HP>50%)
 EN: 6x ATK and 2x RCV for Water Att.; Increase orb movement time by 2 seconds; May survive when HP is reduced to 0 (HP>50%)
+KR: 6x ATK and 2x RCV for Water Att.; Increase orb movement time by 2 seconds; May survive when HP is reduced to 0 (HP>50%)
 

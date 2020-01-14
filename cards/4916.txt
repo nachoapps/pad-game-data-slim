@@ -6,10 +6,14 @@ SAWK: 46,47,21
 # 12061/116 - Witness my grand entrance!
 Tags: ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
 Game: Fully recovers Awoken Skill bind status; changes Orbs to all Attributes & Heal
+JP: Remove all awoken skill binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Remove all awoken skill binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Remove all awoken skill binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 12068/138 - Super Ultra Move - CLIMAX Version
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 1.5x all stats for Machine Type, Orb move time +2 sec; 3x ATK when 4+ Att. attack, 4x ATK with 8+ combos
+JP: 1.5x all stats for Machine type; Increase orb movement time by 2 seconds; 3x ATK when matching 4 or more colors; 4x ATK when 8 or more combos
 EN: 1.5x all stats for Machine type; Increase orb movement time by 2 seconds; 3x ATK when matching 4 or more colors; 4x ATK when 8 or more combos
+KR: 1.5x all stats for Machine type; Increase orb movement time by 2 seconds; 3x ATK when matching 4 or more colors; 4x ATK when 8 or more combos
 

@@ -6,10 +6,14 @@ SAWK: 55,54,43
 # 940/116 - Unwavering Faith
 Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Changes Poison & Heal Orbs to Wood Orbs; bind status reduced by 3 turns, 3000 HP recovered
+JP: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns
 EN: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns
+KR: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns
 
 # 1285/129 - Virile Courage
 Tags: ENHANCED_ATK_RCV
 Game: 3.5x ATK & 1.5x RCV for Physical & Dragon Types
+JP: 3.5x ATK and 1.5x RCV for Physical, Dragon type
 EN: 3.5x ATK and 1.5x RCV for Physical, Dragon type
+KR: 3.5x ATK and 1.5x RCV for Physical, Dragon type
 

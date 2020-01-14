@@ -6,10 +6,14 @@ SAWK: 27,55,52
 # 11723/116 - Halloween Arrangement
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Adds 1 combo for 1 turn; removes Orb locks & changes all Orbs to Light, Dark & Heal Orbs
+JP: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
 EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
+KR: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
 
 # 14698/138 - Hmm, I'd like to have fun♪
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage with 7+ combos; 4x ATK & reduces dmg when Light & Dark attack at once
+JP: 4x ATK and reduce damage taken by 25% when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching Light+Dark
 EN: 4x ATK and reduce damage taken by 25% when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching Light+Dark
+KR: 4x ATK and reduce damage taken by 25% when 7 or more combos; 4x ATK and reduce damage taken by 25% when matching Light+Dark
 

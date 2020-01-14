@@ -6,10 +6,14 @@ SAWK:
 # 440/116 - Shuffle Shot
 Tags: SINGLE_TARGET_ATTACK
 Game: Inflicts a random damage Dark attack on 1 enemy, plus 3 Dark Orbs appear at random
+JP: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
 EN: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
+KR: Randomized Dark damage to an enemy(1~50x); Create 3 Dark orbs
 
 # 366/66 - Burst Seven
 Tags: ENHANCED_ATK
 Game: 4x ATK with 7+ combos
+JP: 4x ATK when 7 or more combos
 EN: 4x ATK when 7 or more combos
+KR: 4x ATK when 7 or more combos
 

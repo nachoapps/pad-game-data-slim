@@ -6,10 +6,14 @@ SAWK:
 # 11479/116 - I'll protect you!
 Tags: REDUCE_DAMAGE,ORB_REFRESH
 Game: Reduces damage for 3 turns; replaces all Orbs
+JP: For 3 turns, reduce damage taken by 35%; Replace all orbs
 EN: For 3 turns, reduce damage taken by 35%; Replace all orbs
+KR: For 3 turns, reduce damage taken by 35%; Replace all orbs
 
 # 11482/138 - I swore on my lost left eye
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2.5x ATK for Dark & Light Att.; 3x ATK & reduces damage when 3+ Att. attack at once
+JP: 2.5x ATK for Light, Dark Att.; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 2.5x ATK for Light, Dark Att.; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 2.5x ATK for Light, Dark Att.; 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 

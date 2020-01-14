@@ -6,10 +6,14 @@ SAWK: 48,43,57,58
 # 12712/116 - Meteor Gravity
 Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
 Game: Inflicts damage equal to 15% of enemies' max HP; changes the leftmost column to Dark Orbs
+JP: Deal damage equal to 15% of enemies' max HP; Change the far left column to Dark orbs
 EN: Deal damage equal to 15% of enemies' max HP; Change the far left column to Dark orbs
+KR: Deal damage equal to 15% of enemies' max HP; Change the far left column to Dark orbs
 
 # 12715/138 - Divine Queen's Hand
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 2x to all stats for Devil Type, Orb move time +5 seconds; 4x ATK with 4+ combos
+JP: 2x all stats for Devil type; Increase orb movement time by 5 seconds; 4x ATK when 4 or more combos
 EN: 2x all stats for Devil type; Increase orb movement time by 5 seconds; 4x ATK when 4 or more combos
+KR: 2x all stats for Devil type; Increase orb movement time by 5 seconds; 4x ATK when 4 or more combos
 

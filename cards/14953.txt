@@ -6,10 +6,14 @@ SAWK: 43,53,48
 # 14769/116 - Megazord Power Now!
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Fully recovers bind status (incl. Awoken); changes all Orbs to Fire, Light & Heal Orbs
+JP: Remove all binds and awoken skill binds; Change all orbs to Fire, Light, and Heal orbs
 EN: Remove all binds and awoken skill binds; Change all orbs to Fire, Light, and Heal orbs
+KR: Remove all binds and awoken skill binds; Change all orbs to Fire, Light, and Heal orbs
 
 # 14778/138 - Warrior Mode!
 Tags: ENHANCED_ATK_RCV
 Game: ATK increases with 4+ combos, up to 10x; 2.5x ATK & RCV with 2+ Light combos
+JP: 4x ATK when 4 or more combos up to 10x at 10 combos; 2.5x ATK & RCV when matching 2+ Light combos
 EN: 4x ATK when 4 or more combos up to 10x at 10 combos; 2.5x ATK & RCV when matching 2+ Light combos
+KR: 4x ATK when 4 or more combos up to 10x at 10 combos; 2.5x ATK & RCV when matching 2+ Light combos
 

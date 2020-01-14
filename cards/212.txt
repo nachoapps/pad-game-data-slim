@@ -6,10 +6,14 @@ SAWK:
 # 117/116 - Blizzard Ball
 Tags: MASSIVE_ATTACK,ORB_CONVERT
 Game: Inflicts 20,000 Water Att. damage on all enemies; changes Light Orbs to Water Orbs
+JP: Deal 20000 Water damage to all enemies; Change Light orbs to Water orbs
 EN: Deal 20000 Water damage to all enemies; Change Light orbs to Water orbs
+KR: Deal 20000 Water damage to all enemies; Change Light orbs to Water orbs
 
 # 77/17 - Ice Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Water Att. damage
+JP: Reduce damage taken from water att. by 50%
 EN: Reduce damage taken from water att. by 50%
+KR: Reduce damage taken from water att. by 50%
 

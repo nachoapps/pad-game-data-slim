@@ -6,10 +6,14 @@ SAWK:
 # 1839/116 - Secret Technique Kessho Shi
 Tags: FIXED_DAMAGE
 Game: Inflicts 49 damage on 1 enemy; creates 2 Wood & Dark Orbs each at random
+JP: Deal 49 fixed damage to an enemy; Create 2 Wood and Dark orbs
 EN: Deal 49 fixed damage to an enemy; Create 2 Wood and Dark orbs
+KR: Deal 49 fixed damage to an enemy; Create 2 Wood and Dark orbs
 
 # 2506/119 - It's Been a While
 Tags: ENHANCED_ATK
 Game: 3x ATK with 6+ linked Wood Orbs
+JP: 3x ATK when matching 6 or more connected Wood orbs
 EN: 3x ATK when matching 6 or more connected Wood orbs
+KR: 3x ATK when matching 6 or more connected Wood orbs
 

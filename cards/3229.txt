@@ -6,10 +6,14 @@ SAWK: 53,27,54
 # 983/116 - Illusory Spectral Sword
 Tags: MASSIVE_ATTACK,RECOVER_BIND
 Game: Inflicts 10x ATK Dark Att. attack on all enemies; bind status is reduced by 3 turns
+JP: Deal 10x ATK Dark damage to all enemies; Reduce binds by 3 turns
 EN: Deal 10x ATK Dark damage to all enemies; Reduce binds by 3 turns
+KR: Deal 10x ATK Dark damage to all enemies; Reduce binds by 3 turns
 
 # 6207/129 - Wanna carve some pumpkins?
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Dragon and Balanced Types
+JP: 2x HP & ATK for Balanced, Dragon type
 EN: 2x HP & ATK for Balanced, Dragon type
+KR: 2x HP & ATK for Balanced, Dragon type
 

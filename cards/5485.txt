@@ -6,10 +6,14 @@ SAWK: 48,43,45,29,64
 # 1857/116 - Life Water Lotus Blossom
 Tags: ATTACK_AND_HEAL
 Game: 50x ATK attack on 1 enemy, recovers damage as HP; changes 5 non-Water Orbs to Heal Orbs
+JP: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 Heal orbs over non Water orbs
 EN: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 Heal orbs over non Water orbs
+KR: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 Heal orbs over non Water orbs
 
 # 14187/138 - True Spirit of the Fortune Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Wt Att., 4x ATK when skills used; halves dmg when recovering 50,000 HP or more with Heal Orbs
+JP: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
 EN: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
+KR: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
 

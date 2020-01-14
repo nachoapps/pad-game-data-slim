@@ -6,10 +6,14 @@ SAWK:
 # 434/56 - Solar Lazer
 Tags: FIXED_DAMAGE
 Game: Inflict 7777 damage on all enemies
+JP: Deal 7777 fixed damage to all enemies
 EN: Deal 7777 fixed damage to all enemies
+KR: Deal 7777 fixed damage to all enemies
 
 # 900/61 - Darkening Sun
 Tags: ENHANCED_ATK
 Game: 7x ATK when 5 Att. attack at once
+JP: 7x ATK when matching 5 or more colors
 EN: 7x ATK when matching 5 or more colors
+KR: 7x ATK when matching 5 or more colors
 

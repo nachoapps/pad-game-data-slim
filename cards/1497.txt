@@ -6,10 +6,14 @@ SAWK:
 # 1624/116 - 木星創世
 Tags: RECOVER_BIND
 Game: 回復とお邪魔ドロップを木ドロップに変化。 バインド状態を2ターン回復。
+JP: Change Heal and Jammer orbs to Wood orbs; Reduce binds by 2 turns
 EN: Change Heal and Jammer orbs to Wood orbs; Reduce binds by 2 turns
+KR: Change Heal and Jammer orbs to Wood orbs; Reduce binds by 2 turns
 
 # 1775/39 - 破壊光線虹光波
 Tags: ENHANCED_ATK
 Game: HP99％以下で攻撃力が3倍。
+JP: 3x ATK when below 99% HP
 EN: 3x ATK when below 99% HP
+KR: 3x ATK when below 99% HP
 

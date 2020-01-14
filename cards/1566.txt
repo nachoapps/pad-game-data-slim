@@ -6,10 +6,14 @@ SAWK:
 # 1630/58 - エネルギーボール
 Tags: MASSIVE_ATTACK
 Game: 敵全体に攻撃力×250倍の火属性攻撃。
+JP: Deal 250x Fire damage to all enemies
 EN: Deal 250x Fire damage to all enemies
+KR: Deal 250x Fire damage to all enemies
 
 # 1920/104 - さあ くるならこいよ
 Tags: ENHANCED_ATK
 Game: 4コンボ以上で火属性の攻撃力が3倍。
+JP: 3x ATK for Fire Att. when 4 or more combos
 EN: 3x ATK for Fire Att. when 4 or more combos
+KR: 3x ATK for Fire Att. when 4 or more combos
 

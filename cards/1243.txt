@@ -6,10 +6,14 @@ SAWK:
 # 941/116 - Solid Fortitude
 Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status by 5 turns
+JP: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
 EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
+KR: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
 
 # 1286/129 - Flying Dragon's Decorum
 Tags: ENHANCED_ATK_RCV
 Game: 4x ATK & 2x RCV for Dragon & Balanced Types
+JP: 4x ATK and 2x RCV for Balanced, Dragon type
 EN: 4x ATK and 2x RCV for Balanced, Dragon type
+KR: 4x ATK and 2x RCV for Balanced, Dragon type
 

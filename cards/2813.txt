@@ -6,10 +6,14 @@ SAWK:
 # 633/6 - Boisterous Dance
 Tags: GRAVITY
 Game: Reduces enemies' HP by 20%
+JP: Reduce enemies' HP by 20%
 EN: Reduce enemies' HP by 20%
+KR: Reduce enemies' HP by 20%
 
 # 4652/138 - Everyone, here I goooo!
 Tags: ENHANCED_ATK
 Game: 5x ATK when Fire, Water, Wood & Light attack at once; ATK increases with 6+ combos, up to 2x
+JP: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
 EN: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
+KR: 5x ATK when matching Fire, Water, Wood, Light at once; 1.2x ATK when 6 or more combos up to 2x at 10 combos
 

@@ -6,10 +6,14 @@ SAWK:
 # 11842/116 - I know what skill to use.
 Tags: ENHANCED_HEAL,ADD_COMBO
 Game: Adds 2 combos for 2 turns; 2x RCV for 3 turns
+JP: For 2 turns, increase combo count by 2; For 3 turns, 2x RCV
 EN: For 2 turns, increase combo count by 2; For 3 turns, 2x RCV
+KR: For 2 turns, increase combo count by 2; For 3 turns, 2x RCV
 
 # 11845/138 - You're just a little out of shape, is all!
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: 3x ATK for Light Att., Orb move time +2 seconds; 4x ATK with 5+ linked Orbs
+JP: 3x ATK for Light Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 5 or more connected orbs
 EN: 3x ATK for Light Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 5 or more connected orbs
+KR: 3x ATK for Light Att.; Increase orb movement time by 2 seconds; 4x ATK when matching 5 or more connected orbs
 

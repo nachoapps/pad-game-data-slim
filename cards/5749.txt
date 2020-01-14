@@ -6,10 +6,14 @@ SAWK:
 # 15194/116 - Sunlight Wave
 Tags: EXTENDS_TIME,VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; 2x Orb move time for 1 turn
+JP: For 1 turn, bypass damage absorb shield effects; For 1 turn, 2x orb move time
 EN: For 1 turn, bypass damage absorb shield effects; For 1 turn, 2x orb move time
+KR: For 1 turn, bypass damage absorb shield effects; For 1 turn, 2x orb move time
 
 # 15197/138 - Twin Palm God Skill
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK with 5+ linked Light Orbs; 4.5x ATK & reduces damage with an L shape of 5 Orbs
+JP: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
 EN: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+KR: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
 

@@ -6,10 +6,14 @@ SAWK: 57,27,21
 # 12830/141 - Tiger Shot
 Tags: 
 Game: Creates 3 Fire Orbs at random
+JP: Create 3 Fire orbs
 EN: Create 3 Fire orbs
+KR: Create 3 Fire orbs
 
 # 12833/138 - Dare you challenge the King?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 5x ATK & halves damage when HP is 80% or more; 2x ATK with 2 Fire combos, 3x with 3+ combos
+JP: 5x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 2 Fire combos, up to 3x at 3 Fire combos
 EN: 5x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 2 Fire combos, up to 3x at 3 Fire combos
+KR: 5x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 2 Fire combos, up to 3x at 3 Fire combos
 

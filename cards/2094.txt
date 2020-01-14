@@ -6,10 +6,14 @@ SAWK: 43,27,52
 # 1890/3 - Immortal Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 4 turns
+JP: For 4 turns, reduce damage taken by 30%
 EN: For 4 turns, reduce damage taken by 30%
+KR: For 4 turns, reduce damage taken by 30%
 
 # 2944/138 - Blue Flame Sky Circle
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK for Fire Att. & 1.5x RCV for Water Att.; 1.5x ATK when skills used
+JP: 2x ATK for Fire Att.; 1.5x RCV for Water Att.; 1.5x ATK on the turn a skill is used
 EN: 2x ATK for Fire Att.; 1.5x RCV for Water Att.; 1.5x ATK on the turn a skill is used
+KR: 2x ATK for Fire Att.; 1.5x RCV for Water Att.; 1.5x ATK on the turn a skill is used
 

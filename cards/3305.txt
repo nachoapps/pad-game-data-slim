@@ -6,10 +6,14 @@ SAWK: 43,27,52
 # 6386/116 - Trust in me...
 Tags: ADD_COMBO
 Game: Changes 4 non-Light Orbs to Dark Orbs; adds 1 combo for 1 turn
+JP: Create 4 Dark orbs over non Light orbs; For 1 turn, increase combo count by 1
 EN: Create 4 Dark orbs over non Light orbs; For 1 turn, increase combo count by 1
+KR: Create 4 Dark orbs over non Light orbs; For 1 turn, increase combo count by 1
 
 # 6392/138 - The Armiger
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x to all stats for Dark Att.; 4x ATK & adds 1 combo when Light & Dark attack at once
+JP: 2x all stats for Dark Att.; 4x ATK and increase combo by 1 when matching Light, Dark at once
 EN: 2x all stats for Dark Att.; 4x ATK and increase combo by 1 when matching Light, Dark at once
+KR: 2x all stats for Dark Att.; 4x ATK and increase combo by 1 when matching Light, Dark at once
 

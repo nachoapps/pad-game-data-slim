@@ -6,10 +6,14 @@ SAWK: 60,21,53
 # 14964/116 - This is me.
 Tags: ATTACK_STANCE,ORB_CONVERT,SUICIDE,REMOVE_LOCK,ORB_LOCK
 Game: Halves HP, removes Orb locks; changes Heal Orbs to Dark Orbs, Dark Orbs locked
+JP: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
 EN: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
+KR: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
 
 # 14978/138 - The Sword of Baldanders
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 1.5x to all stats for Dark Att., 3x ATK with 6+ combos; 4x ATK & halves damage when HP is 50% or less
+JP: 1.5x all stats for Dark Att.; 3x ATK when 6 or more combos; 4x ATK and reduce damage taken by 50% when below 50% HP
 EN: 1.5x all stats for Dark Att.; 3x ATK when 6 or more combos; 4x ATK and reduce damage taken by 50% when below 50% HP
+KR: 1.5x all stats for Dark Att.; 3x ATK when 6 or more combos; 4x ATK and reduce damage taken by 50% when below 50% HP
 

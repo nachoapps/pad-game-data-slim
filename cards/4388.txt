@@ -6,10 +6,14 @@ SAWK:
 # 10467/116 - Lucky Punch
 Tags: MASSIVE_ATTACK
 Game: Inflicts random Wood Att. damage on all enemies; creates 5 Wood Orbs at random
+JP: Randomized Wood damage to all enemies(50~300x); Create 5 Wood orbs
 EN: Randomized Wood damage to all enemies(50~300x); Create 5 Wood orbs
+KR: Randomized Wood damage to all enemies(50~300x); Create 5 Wood orbs
 
 # 10470/138 - Witness my resolve!
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
 Game: [7x6 board]; ATK increases with 2+ Wood combos, up to 5x
+JP: [Board becomes 7x6] 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
 EN: [Board becomes 7x6] 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+KR: [Board becomes 7x6] 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
 

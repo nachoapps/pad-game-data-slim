@@ -6,10 +6,14 @@ SAWK: 44,48,55
 # 13823/176 - I must needs forsake elegance for efficiency.
 Tags: 
 Game: Changes the outer edges to Dark Orbs
+JP: Change the outermost orbs of the board to Dark orbs
 EN: Change the outermost orbs of the board to Dark orbs
+KR: Change the outermost orbs of the board to Dark orbs
 
 # 13824/138 - Gust Slash
 Tags: ENHANCED_ATK
 Game: 5x ATK for Dark Att., 3x ATK when 3+ Att. attack at once; adds 1 combo with 9+ linked Dark Orbs
+JP: 5x ATK for Dark Att.; 3x ATK when matching 3 or more colors; Increase combo by 1 when matching 9 or more connected Dark orbs at once
 EN: 5x ATK for Dark Att.; 3x ATK when matching 3 or more colors; Increase combo by 1 when matching 9 or more connected Dark orbs at once
+KR: 5x ATK for Dark Att.; 3x ATK when matching 3 or more colors; Increase combo by 1 when matching 9 or more connected Dark orbs at once
 

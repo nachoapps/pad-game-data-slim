@@ -6,10 +6,14 @@ SAWK: 55,37,48
 # 13144/116 - A Wisp of the Rain Dragon's Cloud
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Inflicts 200x ATK Wt Att. attack on 1 enemy but halves HP; reduces bind status (incl. Awoken) by 4 turns
+JP: Reduce HP by 50%; Deal 200x Water damage to an enemy; Reduce binds and awoken skill binds by 4 turns
 EN: Reduce HP by 50%; Deal 200x Water damage to an enemy; Reduce binds and awoken skill binds by 4 turns
+KR: Reduce HP by 50%; Deal 200x Water damage to an enemy; Reduce binds and awoken skill binds by 4 turns
 
 # 13147/138 - Water & Light Divine View
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 6x ATK & reduces damage with 9+ linked Water Orbs; 3x ATK & reduces damage with 5+ combos
+JP: 6x ATK and reduce damage taken by 25% when matching 9 or more connected Water orbs; 3x ATK and reduce damage taken by 25% when 5 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 9 or more connected Water orbs; 3x ATK and reduce damage taken by 25% when 5 or more combos
+KR: 6x ATK and reduce damage taken by 25% when matching 9 or more connected Water orbs; 3x ATK and reduce damage taken by 25% when 5 or more combos
 

@@ -6,10 +6,14 @@ SAWK:
 # 91/18 - Menace
 Tags: MENACE
 Game: Delays enemies' next move for 3 turns
+JP: Delay enemies' next attack by 3 turns
 EN: Delay enemies' next attack by 3 turns
+KR: Delay enemies' next attack by 3 turns
 
 # 61/12 - Inferno
 Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 0.5x ATK when matching Orbs
+JP: 0.5x ATK additional damage when matching orbs
 EN: 0.5x ATK additional damage when matching orbs
+KR: 0.5x ATK additional damage when matching orbs
 

@@ -6,10 +6,14 @@ SAWK: 52,43,56
 # 91/18 - Menace
 Tags: MENACE
 Game: Delays enemies' next move for 3 turns
+JP: Delay enemies' next attack by 3 turns
 EN: Delay enemies' next attack by 3 turns
+KR: Delay enemies' next attack by 3 turns
 
 # 4204/138 - I'll show you a wonderful dream
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 3x ATK for Healer Type; heals 4x RCV in HP when matching Orbs
+JP: 3x ATK for Healer type; 4x RCV additional heal when matching orbs
 EN: 3x ATK for Healer type; 4x RCV additional heal when matching orbs
+KR: 3x ATK for Healer type; 4x RCV additional heal when matching orbs
 

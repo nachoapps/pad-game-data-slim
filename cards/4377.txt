@@ -6,10 +6,14 @@ SAWK:
 # 10399/116 - Myriad Arrows
 Tags: REDUCE_DEFENSE
 Game: Voids enemies' DEF for 1 turn; creates 8 Light Orbs at random
+JP: For 1 turn, reduce enemies' defense by 100%; Create 8 Light orbs
 EN: For 1 turn, reduce enemies' defense by 100%; Create 8 Light orbs
+KR: For 1 turn, reduce enemies' defense by 100%; Create 8 Light orbs
 
 # 10405/138 - Investigation Team
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Game: 2x HP & ATK for Light Att., Orb move time +2 seconds; 5x ATK with 6+ linked Light Orbs
+JP: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 6 or more connected Light orbs
 EN: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 6 or more connected Light orbs
+KR: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 6 or more connected Light orbs
 

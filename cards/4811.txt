@@ -6,10 +6,14 @@ SAWK: 62,26,43
 # 11589/116 - Evil Spirit Jewel Liberation
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
 Game: Inflicts 50x ATK Dark Att. attack on 1 enemy, but reduces HP by 20%; changes the top row to Dark Orbs
+JP: Reduce HP by 20%; Deal 50x Dark damage to an enemy; Change the top row to Dark orbs
 EN: Reduce HP by 20%; Deal 50x Dark damage to an enemy; Change the top row to Dark orbs
+KR: Reduce HP by 20%; Deal 50x Dark damage to an enemy; Change the top row to Dark orbs
 
 # 11593/138 - Eternal Dragon Descent - Sheeshan
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos, Orb move time: 4 sec], 2x ATK for Dark Att.; ATK increases with 3+ combos, up to 20x
+JP: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or more combos up to 20x at 9 combos
 EN: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or more combos up to 20x at 9 combos
+KR: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or more combos up to 20x at 9 combos
 

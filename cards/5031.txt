@@ -6,10 +6,14 @@ SAWK:
 # 12192/116 - Vanguard Assault
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
 Game: Inflicts 30x ATK Fire Att. attack on 1 enemy, but halves HP; changes the rightmost column to Fire Orbs
+JP: Reduce HP by 50%; Deal 30x Fire damage to an enemy; Change the far right column to Fire orbs
 EN: Reduce HP by 50%; Deal 30x Fire damage to an enemy; Change the far right column to Fire orbs
+KR: Reduce HP by 50%; Deal 30x Fire damage to an enemy; Change the far right column to Fire orbs
 
 # 12195/138 - Wisdom of Crimson
 Tags: ENHANCED_HP_ATK,COUNTERATTACK
 Game: 5x ATK when HP is 50% or less, 2x HP & ATK for Fire Att.; massive Fire counterattack
+JP: 5x ATK when below 50% HP; 2x HP & ATK for Fire Att.; 10x Fire counterattack
 EN: 5x ATK when below 50% HP; 2x HP & ATK for Fire Att.; 10x Fire counterattack
+KR: 5x ATK when below 50% HP; 2x HP & ATK for Fire Att.; 10x Fire counterattack
 

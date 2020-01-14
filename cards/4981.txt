@@ -6,10 +6,14 @@ SAWK: 60,43,48
 # 12338/116 - Inferno
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes all Orbs to Fire, Wood & Light Orbs
+JP: Unlock all orbs; Change all orbs to Fire, Wood, and Light orbs
 EN: Unlock all orbs; Change all orbs to Fire, Wood, and Light orbs
+KR: Unlock all orbs; Change all orbs to Fire, Wood, and Light orbs
 
 # 12341/138 - Your heart skipped a beat?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when HP is 50% or more; 2.5x ATK with 2+ Fire combos
+JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 2.5x ATK when matching 2+ Fire combos
 EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 2.5x ATK when matching 2+ Fire combos
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 2.5x ATK when matching 2+ Fire combos
 

@@ -6,10 +6,14 @@ SAWK: 48,53,58
 # 14781/116 - Dragonzord Power!
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
 Game: Inflicts 50x ATK Wood Att. attack on 1 enemy, but halves HP; changes top row to Wood Orbs & bottom row to Dark
+JP: Reduce HP by 50%; Deal 50x Wood damage to an enemy; Change the top row to Wood orbs and change the bottom row to Dark orbs
 EN: Reduce HP by 50%; Deal 50x Wood damage to an enemy; Change the top row to Wood orbs and change the bottom row to Dark orbs
+KR: Reduce HP by 50%; Deal 50x Wood damage to an enemy; Change the top row to Wood orbs and change the bottom row to Dark orbs
 
 # 14784/138 - Ready to Rock!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 4x ATK for Wood Att., Orb move time +2 seconds; 4x ATK & reduces damage with 4+ combos
+JP: 4x ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when 4 or more combos
 EN: 4x ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when 4 or more combos
+KR: 4x ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when 4 or more combos
 

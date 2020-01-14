@@ -6,10 +6,14 @@ SAWK: 27,52,58
 # 3349/18 - Eight-Headed Suppression
 Tags: MENACE
 Game: Delays enemies' next move for 4 turns
+JP: Delay enemies' next attack by 4 turns
 EN: Delay enemies' next attack by 4 turns
+KR: Delay enemies' next attack by 4 turns
 
 # 7823/138 - Out of the way!
 Tags: ENHANCED_ATK,RESOLVE
 Game: ATK increases with 4+ combos, up to 5x;  may survive when HP is reduced to 0
+JP: 2x ATK when 4 or more combos up to 5x at 10 combos; May survive when HP is reduced to 0 (HP>50%)
 EN: 2x ATK when 4 or more combos up to 5x at 10 combos; May survive when HP is reduced to 0 (HP>50%)
+KR: 2x ATK when 4 or more combos up to 5x at 10 combos; May survive when HP is reduced to 0 (HP>50%)
 

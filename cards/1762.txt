@@ -6,10 +6,14 @@ SAWK:
 # 457/71 - Mercury Genesis
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to Water Orbs
+JP: Change all orbs to Water orbs
 EN: Change all orbs to Water orbs
+KR: Change all orbs to Water orbs
 
 # 2438/138 - Water Blessing
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 2x ATK for Water Att.; heals HP equal to 4x RCV when matching Orbs
+JP: 2x ATK for Water Att.; 4x RCV additional heal when matching orbs
 EN: 2x ATK for Water Att.; 4x RCV additional heal when matching orbs
+KR: 2x ATK for Water Att.; 4x RCV additional heal when matching orbs
 

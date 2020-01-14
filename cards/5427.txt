@@ -6,10 +6,14 @@ SAWK: 48,53,56
 # 13946/116 - Life Envisioning
 Tags: VOID_DAMAGE,HEAL,AWOKEN_INVALID_RECOVERY
 Game: Fully recovers HP & Awoken Skill bind status; voids damage for 1 turn
+JP: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage taken by 100%
 EN: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage taken by 100%
+KR: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage taken by 100%
 
 # 13950/138 - Precise Mechanism Draco Summoning Seal
 Tags: ENHANCED_HP_ATK
 Game: 25x ATK & adds 2 combos with 6+ linked Fire & Water Orbs each; 2x HP for Fire Att.
+JP: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.
 EN: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.
+KR: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.
 

@@ -6,10 +6,14 @@ SAWK:
 # 3844/116 - Oraa! Come and fight!
 Tags: ENHANCED_ATTACK,EXTENDS_TIME
 Game: For 1 turn, 2.5x ATK for Attacker Type and vastly reduces Orb move time
+JP: For 1 turn, 2.5x ATK for Attacker type; For 1 turn, 0.25x orb move time
 EN: For 1 turn, 2.5x ATK for Attacker type; For 1 turn, 0.25x orb move time
+KR: For 1 turn, 2.5x ATK for Attacker type; For 1 turn, 0.25x orb move time
 
 # 4362/138 - We are Yakuzas too!
 Tags: ENHANCED_ATK_RCV,RESOLVE
 Game: ATK & RCV increase slightly for Attacker Type; may survive when HP is reduced to 0
+JP: 1.2x ATK & RCV for Attacker type; May survive when HP is reduced to 0 (HP>70%)
 EN: 1.2x ATK & RCV for Attacker type; May survive when HP is reduced to 0 (HP>70%)
+KR: 1.2x ATK & RCV for Attacker type; May survive when HP is reduced to 0 (HP>70%)
 

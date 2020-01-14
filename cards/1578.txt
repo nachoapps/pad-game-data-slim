@@ -6,10 +6,14 @@ SAWK:
 # 1636/3 - バリアー
 Tags: REDUCE_DAMAGE
 Game: 1ターンの間、受けるダメージを半減。
+JP: For 1 turn, reduce damage taken by 50%
 EN: For 1 turn, reduce damage taken by 50%
+KR: For 1 turn, reduce damage taken by 50%
 
 # 1928/125 - いいぞ魔人ブウ!!
 Tags: ENHANCED_ATK
 Game: 魔人ブウ（初期形態）がチームにいると 攻撃力が3倍。
+JP: 3x ATK if [1579] is on the team
 EN: 3x ATK if [1579] is on the team
+KR: 3x ATK if [1579] is on the team
 

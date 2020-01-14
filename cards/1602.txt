@@ -6,10 +6,14 @@ SAWK:
 # 1805/116 - Aqua Leaf Prism
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,EXTENDS_TIME
 Game: Changes Light Orbs to Water & Heal Orbs to Wood; Orb move time +2 seconds for 1 turn
+JP: Change Light orbs to Water orbs; Change Heal orbs to Wood orbs; For 1 turn, increase orb move time by 2 seconds
 EN: Change Light orbs to Water orbs; Change Heal orbs to Wood orbs; For 1 turn, increase orb move time by 2 seconds
+KR: Change Light orbs to Water orbs; Change Heal orbs to Wood orbs; For 1 turn, increase orb move time by 2 seconds
 
 # 1957/124 - Blue Hail Glass
 Tags: ENHANCED_ATK
 Game: 3x ATK with 2+ Wt+Wt or Wt+Wd  combos; 3.5x ATK for 3+ Wt+Wt+Wd combos
+JP: 3x ATK when matching Water+Water(Water+Wood) up to 3.5x when matching Water+Water+Wood
 EN: 3x ATK when matching Water+Water(Water+Wood) up to 3.5x when matching Water+Water+Wood
+KR: 3x ATK when matching Water+Water(Water+Wood) up to 3.5x when matching Water+Water+Wood
 

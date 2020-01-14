@@ -6,10 +6,14 @@ SAWK: 32,36,55,48
 # 12705/116 - Crimson Menace
 Tags: MENACE,EXTENDS_TIME
 Game: Delays enemies' next move for 3 turns; Orb move time +2 seconds for 3 turns
+JP: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
 EN: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
+KR: Delay enemies' next attack by 3 turns; For 3 turns, increase orb move time by 2 seconds
 
 # 12708/138 - Red Flares
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 4.5x ATK for Fire Att., Orb move time +2 seconds; 3x ATK & reduces damage with 4+ linked Fire Orbs
+JP: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 4.5x ATK for Fire Att.; Increase orb movement time by 2 seconds
 EN: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 4.5x ATK for Fire Att.; Increase orb movement time by 2 seconds
+KR: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs; 4.5x ATK for Fire Att.; Increase orb movement time by 2 seconds
 

@@ -6,10 +6,14 @@ SAWK: 48,45,52
 # 13636/116 - Exciting Slap
 Tags: MENACE,EXTENDS_TIME
 Game: Delays enemies' next move for 2 turns; 3x Orb move time for 1 turn
+JP: Delay enemies' next attack by 2 turns; For 1 turn, 3x orb move time
 EN: Delay enemies' next attack by 2 turns; For 1 turn, 3x orb move time
+KR: Delay enemies' next attack by 2 turns; For 1 turn, 3x orb move time
 
 # 13639/138 - Eternal Dragon Player - Jeeha
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Water Att.; 4x ATK when HP is 80% or less, 6x ATK when HP is 50% or less
+JP: 2x HP & ATK for Water Att.; 6x ATK when below 50% HP; 4x ATK when below 80% HP
 EN: 2x HP & ATK for Water Att.; 6x ATK when below 50% HP; 4x ATK when below 80% HP
+KR: 2x HP & ATK for Water Att.; 6x ATK when below 50% HP; 4x ATK when below 80% HP
 

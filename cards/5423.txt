@@ -6,10 +6,14 @@ SAWK: 48,62,34
 # 14172/116 - Imperial Space Dragon Roar
 Tags: EXTENDS_TIME
 Game: Creates 2 Dark Orbs at random; Orb move time +1 second for 1 turn
+JP: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
 EN: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
+KR: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
 
 # 14178/138 - Destructive Inferno Slash
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 1.5x to all stats for Dk Att., reduces dmg when HP is 80%  or more; 10x ATK & 50,000 dmg with 6+ linked Dk Orbs
+JP: 1.5x all stats for Dark Att.; Reduce damage taken by 25% when above 80% HP; 10x ATK when matching 6 or more connected Dark orbs; 50000 additional damage when matching 6 or more Dark orbs
 EN: 1.5x all stats for Dark Att.; Reduce damage taken by 25% when above 80% HP; 10x ATK when matching 6 or more connected Dark orbs; 50000 additional damage when matching 6 or more Dark orbs
+KR: 1.5x all stats for Dark Att.; Reduce damage taken by 25% when above 80% HP; 10x ATK when matching 6 or more connected Dark orbs; 50000 additional damage when matching 6 or more Dark orbs
 

@@ -6,10 +6,14 @@ SAWK: 56,53,23
 # 14086/116 - 私は一向にかまわんッッ
 Tags: AWOKEN_INVALID_RECOVERY
 Game: 木と光ドロップを水ドロップに変化。 覚醒無効状態を全回復。
+JP: Change Wood and Light orbs to Water orbs; Remove all awoken skill binds
 EN: Change Wood and Light orbs to Water orbs; Remove all awoken skill binds
+KR: Change Wood and Light orbs to Water orbs; Remove all awoken skill binds
 
 # 14089/138 - キサマは中国武術を嘗めたッッッ
 Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
 Game: 【7×6マス】ドロップ操作を5秒延長。 水を7個以上つなげて消すと、攻撃力が7倍。
+JP: [Board becomes 7x6] 7x ATK when matching 7 or more connected Water orbs; Increase orb movement time by 5 seconds
 EN: [Board becomes 7x6] 7x ATK when matching 7 or more connected Water orbs; Increase orb movement time by 5 seconds
+KR: [Board becomes 7x6] 7x ATK when matching 7 or more connected Water orbs; Increase orb movement time by 5 seconds
 

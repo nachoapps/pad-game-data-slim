@@ -6,10 +6,14 @@ SAWK:
 # 6895/116 - Purging Thunderdrums
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Orbs to all Attributes & Heal
+JP: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 9949/138 - Secret Thunder Technique
 Tags: ENHANCED_ATK
 Game: ATK increases when attacking with 3+ Att., up to 7x; 3x ATK for each cross of 5 Light Orbs
+JP: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
 EN: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
+KR: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
 

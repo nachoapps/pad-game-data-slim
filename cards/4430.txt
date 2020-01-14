@@ -6,10 +6,14 @@ SAWK: 48,43,33
 # 10906/116 - Pure Heart of the Magic Spear
 Tags: ATTACK_STANCE,ADD_COMBO
 Game: Changes Light & Heal Orbs to Water Orbs; adds 2 combos for 1 turn
+JP: Change Light and Heal orbs to Water orbs; For 1 turn, increase combo count by 2
 EN: Change Light and Heal orbs to Water orbs; For 1 turn, increase combo count by 2
+KR: Change Light and Heal orbs to Water orbs; For 1 turn, increase combo count by 2
 
 # 10909/138 - Force of Mimir
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 5x ATK & reduces damage with 6+ combos; 2.5x ATK with 4+ linked Water Orbs
+JP: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Water orbs
 EN: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Water orbs
+KR: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Water orbs
 

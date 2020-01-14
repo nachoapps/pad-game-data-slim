@@ -6,10 +6,14 @@ SAWK:
 # 10209/116 - Splinter Resshuken
 Tags: VOID_SKYFALLS
 Game: No Skyfall Combos for 2 turns; creates 6 Dark Orbs at random
+JP: For 2 turns, no skyfall; Create 6 Dark orbs
 EN: For 2 turns, no skyfall; Create 6 Dark orbs
+KR: For 2 turns, no skyfall; Create 6 Dark orbs
 
 # 10212/138 - Now, it's time to settle the question.
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 1.5x ATK for Attacker Type; ATK increases with 5+ combos, up to 12x
+JP: [No skyfall] 1.5x ATK for Attacker type; 2x ATK when 5 or more combos up to 12x at 10 combos
 EN: [No skyfall] 1.5x ATK for Attacker type; 2x ATK when 5 or more combos up to 12x at 10 combos
+KR: [No skyfall] 1.5x ATK for Attacker type; 2x ATK when 5 or more combos up to 12x at 10 combos
 

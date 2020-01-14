@@ -6,10 +6,14 @@ SAWK: 21,55,52
 # 8047/116 - Charge Shot
 Tags: GRAVITY,MENACE
 Game: Delays enemies' next move for 2 turns; reduces enemies' HP by 10%
+JP: Delay enemies' next attack by 2 turns; Reduce enemies' HP by 10%
 EN: Delay enemies' next attack by 2 turns; Reduce enemies' HP by 10%
+KR: Delay enemies' next attack by 2 turns; Reduce enemies' HP by 10%
 
 # 8050/138 - Heavy Polish
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for Attacker & Dragon Types; 8x ATK when erasing 8+ linked Fire Orbs
+JP: 1.5x HP & ATK for Dragon, Attacker type; 8x ATK when matching 8 or more connected Fire orbs
 EN: 1.5x HP & ATK for Dragon, Attacker type; 8x ATK when matching 8 or more connected Fire orbs
+KR: 1.5x HP & ATK for Dragon, Attacker type; 8x ATK when matching 8 or more connected Fire orbs
 

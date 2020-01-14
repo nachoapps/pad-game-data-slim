@@ -6,10 +6,14 @@ SAWK:
 # 11883/116 - We can hold them off!
 Tags: REDUCE_DAMAGE
 Game: Vastly reduces damage for 1 turn; changes the 2nd row from the top to Fire Orbs
+JP: For 1 turn, reduce damage taken by 75%; Change the 2nd row from the top to Fire orbs
 EN: For 1 turn, reduce damage taken by 75%; Change the 2nd row from the top to Fire orbs
+KR: For 1 turn, reduce damage taken by 75%; Change the 2nd row from the top to Fire orbs
 
 # 11886/138 - Don't worry princess! I'm coming!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2x ATK & RCV for Attacker Type; 3x ATK & reduces damage with 4+ linked Fire Orbs
+JP: 2x ATK & RCV for Attacker type; 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
 EN: 2x ATK & RCV for Attacker type; 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
+KR: 2x ATK & RCV for Attacker type; 3x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
 

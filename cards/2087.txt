@@ -6,10 +6,14 @@ SAWK: 46,54,52
 # 923/35 - Kerokero Attack!
 Tags: ATTACK_AND_HEAL
 Game: Inflicts 5x ATK attack on 1 enemy; recovers the damage as HP
+JP: Deal 5x ATK damage to an enemy and recover the same amount as HP
 EN: Deal 5x ATK damage to an enemy and recover the same amount as HP
+KR: Deal 5x ATK damage to an enemy and recover the same amount as HP
 
 # 2973/185 - The Energy of Courage
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 4x ATK & RCV for Water Att.; Orb move time +3 seconds
+JP: 4x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds
 EN: 4x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds
+KR: 4x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds
 

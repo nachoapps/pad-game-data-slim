@@ -6,10 +6,14 @@ SAWK: 46,48,57
 # 7598/116 - Hysteric Nightmare
 Tags: ORB_CONVERT,RECOVER_BIND
 Game: Changes Heal Orbs, Jammers & Poison Orbs to Water Orbs; reduces bind status by 3 turns
+JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Reduce binds by 3 turns
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Reduce binds by 3 turns
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Reduce binds by 3 turns
 
 # 7601/138 - The Ancient Ocean Unknown
 Tags: ENHANCED_ATK_RCV
 Game: 5x ATK when HP is full, 2.5x ATK when 99% or less; 2x ATK & RCV when erasing 6+ linked Water Orbs
+JP: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 6 or more connected Water orbs
 EN: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 6 or more connected Water orbs
+KR: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 6 or more connected Water orbs
 

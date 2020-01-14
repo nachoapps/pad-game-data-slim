@@ -6,10 +6,14 @@ SAWK: 27,43,52
 # 7000/116 - Ranma, you jerk!
 Tags: ATTACK_STANCE,ORB_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Heal Orbs to Light Orbs
+JP: Unlock all orbs; Change Heal orbs to Light orbs
 EN: Unlock all orbs; Change Heal orbs to Light orbs
+KR: Unlock all orbs; Change Heal orbs to Light orbs
 
 # 7004/124 - Dry up and die!
 Tags: ENHANCED_ATK
 Game: 3x ATK with 2+ Light Combos
+JP: 3x ATK when matching 2+ Light combos
 EN: 3x ATK when matching 2+ Light combos
+KR: 3x ATK when matching 2+ Light combos
 

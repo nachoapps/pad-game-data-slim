@@ -6,10 +6,14 @@ SAWK:
 # 3337/116 - Freezing Zone
 Tags: ORB_LOCK
 Game: Creates 5 Water & Heal Orbs each at random; Water & Heal Orbs locked
+JP: Create 5 Water and Heal orbs; Lock Water and Heal orbs
 EN: Create 5 Water and Heal orbs; Lock Water and Heal orbs
+KR: Create 5 Water and Heal orbs; Lock Water and Heal orbs
 
 # 3445/138 - Permafrost Dragon Emperor's Power
 Tags: ENHANCED_ATK
 Game: 2.5x ATK when erasing 5+ linked Water Orbs; 2x ATK with 2+ Heal combos
+JP: 2.5x ATK when matching 5 or more connected Water orbs; 2x ATK when matching 2+ Heal combos
 EN: 2.5x ATK when matching 5 or more connected Water orbs; 2x ATK when matching 2+ Heal combos
+KR: 2.5x ATK when matching 5 or more connected Water orbs; 2x ATK when matching 2+ Heal combos
 

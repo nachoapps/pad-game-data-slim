@@ -6,10 +6,14 @@ SAWK:
 # 5145/116 - Maya Kick!
 Tags: REDUCE_DAMAGE,SINGLE_TARGET_ATTACK
 Game: Inflicts 1x ATK attack on 1 enemy; vastly reduces damage for 1 turn
+JP: Deal 1x ATK damage to an enemy; For 1 turn, reduce damage taken by 75%
 EN: Deal 1x ATK damage to an enemy; For 1 turn, reduce damage taken by 75%
+KR: Deal 1x ATK damage to an enemy; For 1 turn, reduce damage taken by 75%
 
 # 4936/133 - Wait!
 Tags: ENHANCED_ATK
 Game: 2.5x ATK for Healer Type when skills used
+JP: 2.5x ATK for Healer type on the turn a skill is used
 EN: 2.5x ATK for Healer type on the turn a skill is used
+KR: 2.5x ATK for Healer type on the turn a skill is used
 

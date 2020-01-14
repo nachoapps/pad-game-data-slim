@@ -6,10 +6,14 @@ SAWK:
 # 698/116 - Heal Barrier
 Tags: VOID_DAMAGE,HEAL
 Game: Voids Dark Att. damage for 2 turns; heals 25% of Max HP
+JP: For 2 turns, void all Dark damage; Recover 25% of max HP
 EN: For 2 turns, void all Dark damage; Recover 25% of max HP
+KR: For 2 turns, void all Dark damage; Recover 25% of max HP
 
 # 3667/138 - Lightning Condenser
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK Machine Type when HP is 50% or more; 2x RCV Machine Type when HP is 50% or less
+JP: 2x ATK for Machine type when above 50% HP; 2x RCV for Machine type when below 50% HP
 EN: 2x ATK for Machine type when above 50% HP; 2x RCV for Machine type when below 50% HP
+KR: 2x ATK for Machine type when above 50% HP; 2x RCV for Machine type when below 50% HP
 

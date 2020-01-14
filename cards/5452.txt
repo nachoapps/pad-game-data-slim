@@ -6,10 +6,14 @@ SAWK: 27,48,56
 # 14018/116 - 図に乗りやがって…
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: 1ターンの間、1コンボ加算される。 全ドロップを火、水、木、光、闇ドロップに変化。
+JP: For 1 turn, increase combo count by 1; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 EN: For 1 turn, increase combo count by 1; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: For 1 turn, increase combo count by 1; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 14028/138 - これ…最後の技です……………
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4色以上同時攻撃でダメージを半減。 3コンボ以上で攻撃力が上昇、最大20倍。
+JP: Reduce damage taken by 50% when matching 4 or more colors; 6x ATK when 3 or more combos up to 20x at 10 combos
 EN: Reduce damage taken by 50% when matching 4 or more colors; 6x ATK when 3 or more combos up to 20x at 10 combos
+KR: Reduce damage taken by 50% when matching 4 or more colors; 6x ATK when 3 or more combos up to 20x at 10 combos
 

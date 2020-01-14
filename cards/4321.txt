@@ -6,10 +6,14 @@ SAWK: 52,46,35
 # 10266/116 - Muscle Manipulation
 Tags: ENHANCED_ATTACK,VOID_DAMAGE
 Game: 2x ATK for Dark Att. for 3 turns; voids Light Att. damage for 3 turns
+JP: For 3 turns, 2x ATK for Dark Att.; For 3 turns, void all Light damage
 EN: For 3 turns, 2x ATK for Dark Att.; For 3 turns, void all Light damage
+KR: For 3 turns, 2x ATK for Dark Att.; For 3 turns, void all Light damage
 
 # 10271/138 - This is indeed the fight I was hoping for!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Devil Type; 2x ATK & reduces damage when HP is 50% or more
+JP: 4x ATK for Devil type; 2x ATK and reduce damage taken by 35% when above 50% HP
 EN: 4x ATK for Devil type; 2x ATK and reduce damage taken by 35% when above 50% HP
+KR: 4x ATK for Devil type; 2x ATK and reduce damage taken by 35% when above 50% HP
 

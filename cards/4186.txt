@@ -6,10 +6,14 @@ SAWK: 48,56,57
 # 10052/116 - Field of Darkness
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes all Orbs to Dark & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
+JP: Change all orbs to Dark and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
 EN: Change all orbs to Dark and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
+KR: Change all orbs to Dark and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
 
 # 10055/138 - Eternal Dragon Control - Radkail
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: ATK increases with 4+ linked Dark Orbs, up to 30x (30 Orbs); halves dmg when HP is 80%+, Orb move time +3 sec
+JP: 4.5x ATK when matching 4 or more connected Dark orbs up to 30x at 21 orbs; Reduce damage taken by 50% when above 80% HP; Increase orb movement time by 3 seconds
 EN: 4.5x ATK when matching 4 or more connected Dark orbs up to 30x at 21 orbs; Reduce damage taken by 50% when above 80% HP; Increase orb movement time by 3 seconds
+KR: 4.5x ATK when matching 4 or more connected Dark orbs up to 30x at 21 orbs; Reduce damage taken by 50% when above 80% HP; Increase orb movement time by 3 seconds
 

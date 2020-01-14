@@ -6,10 +6,14 @@ SAWK: 43,45
 # 7400/116 - Nordic Wind
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,CHANGE_ATTRIBUTE
 Game: Changes Fire Orbs to Wood & Light Orbs to Heal; this ally's Att. changes to Wood for 2 turns
+JP: Change Fire orbs to Wood orbs; Change Light orbs to Heal orbs; Change own Att. to Wood for 2 turns
 EN: Change Fire orbs to Wood orbs; Change Light orbs to Heal orbs; Change own Att. to Wood for 2 turns
+KR: Change Fire orbs to Wood orbs; Change Light orbs to Heal orbs; Change own Att. to Wood for 2 turns
 
 # 7403/138 - Woodghost Spearstyle
 Tags: ENHANCED_HP_ATK
 Game: 5x ATK for Wood Att. & 1.5x HP for Dark Att.; 1.5x ATK with 2 Wood combos, 2x ATK with 3+ combos
+JP: 5x ATK for Wood Att.; 1.5x HP for Dark Att.; 1.5x ATK when matching 2 Wood combos, up to 2x at 3 Wood combos
 EN: 5x ATK for Wood Att.; 1.5x HP for Dark Att.; 1.5x ATK when matching 2 Wood combos, up to 2x at 3 Wood combos
+KR: 5x ATK for Wood Att.; 1.5x HP for Dark Att.; 1.5x ATK when matching 2 Wood combos, up to 2x at 3 Wood combos
 

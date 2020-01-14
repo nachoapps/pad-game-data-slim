@@ -6,10 +6,14 @@ SAWK: 52,45,60
 # 11567/116 - Excited Stomping
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Changes all Orbs to Fire, Wood & Heal Orbs; adds 1 combo for 2 turns
+JP: Change all orbs to Fire, Wood, and Heal orbs; For 2 turns, increase combo count by 1
 EN: Change all orbs to Fire, Wood, and Heal orbs; For 2 turns, increase combo count by 1
+KR: Change all orbs to Fire, Wood, and Heal orbs; For 2 turns, increase combo count by 1
 
 # 11568/138 - Rising Wings' Draco Summoning Seal
 Tags: ENHANCED_HP_ATK
 Game: 4x ATK for Fire Att., 2x HP for Wood Att.; 3x ATK when Fire & Wood attack at once
+JP: 4x ATK for Fire Att.; 2x HP for Wood Att.; 3x ATK when matching Fire+Wood
 EN: 4x ATK for Fire Att.; 2x HP for Wood Att.; 3x ATK when matching Fire+Wood
+KR: 4x ATK for Fire Att.; 2x HP for Wood Att.; 3x ATK when matching Fire+Wood
 

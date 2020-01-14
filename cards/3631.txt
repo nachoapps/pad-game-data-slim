@@ -6,10 +6,14 @@ SAWK:
 # 7588/116 - Magazine All-Stars, 1st Edition
 Tags: HEAL,RECOVER_BIND,EXTENDS_TIME,HEAL_BIND_RECOVERY
 Game: Recovers 30% of max HP, reduces bind status by 3 turns; extends Orb move time 3x for 1 turn
+JP: Recover 30% of max HP; Reduce binds by 3 turns; For 1 turn, 3x orb move time
 EN: Recover 30% of max HP; Reduce binds by 3 turns; For 1 turn, 3x orb move time
+KR: Recover 30% of max HP; Reduce binds by 3 turns; For 1 turn, 3x orb move time
 
 # 7591/175 - Magazine All-Stars
 Tags: ENHANCED_ATK
 Game: 8x ATK when all sub-monsters are from Magazine Collab
+JP: 8x ATK when all cards are from Magazine All Stars Collab
 EN: 8x ATK when all cards are from Magazine All Stars Collab
+KR: 8x ATK when all cards are from Magazine All Stars Collab
 

@@ -6,10 +6,14 @@ SAWK:
 # 7005/116 - I'm taking on the baseball world!
 Tags: FIXED_DAMAGE
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd row from the bottom to Fire Orbs
+JP: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
+KR: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
 
 # 7008/157 - I'm gonna play on that field!!
 Tags: ENHANCED_ATK
 Game: 2.5x ATK for each cross of 5 Fire or Wood Orbs
+JP: 2.5x ATK for each cross of 5 Fire, Wood orbs
 EN: 2.5x ATK for each cross of 5 Fire, Wood orbs
+KR: 2.5x ATK for each cross of 5 Fire, Wood orbs
 

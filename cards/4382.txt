@@ -6,10 +6,14 @@ SAWK:
 # 10430/116 - Tentarafoo
 Tags: MENACE,DROP_CHANCE
 Game: Delays enemies' next move for 1 turn; Heal Orbs slightly more likely to appear for 5 turns
+JP: Delay enemies' next attack by 1 turn; For 5 turns, Heal orbs are more likely to appear by 15%
 EN: Delay enemies' next attack by 1 turn; For 5 turns, Heal orbs are more likely to appear by 15%
+KR: Delay enemies' next attack by 1 turn; For 5 turns, Heal orbs are more likely to appear by 15%
 
 # 10433/138 - It's time for the execution!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 1.5x HP & 3.5x ATK for Water Att.; 2x ATK & reduces damage with a cross of 5 Heal Orbs
+JP: 3.5x ATK and 1.5x HP for Water Att.; 2x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 3.5x ATK and 1.5x HP for Water Att.; 2x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
+KR: 3.5x ATK and 1.5x HP for Water Att.; 2x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 

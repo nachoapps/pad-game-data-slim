@@ -6,10 +6,14 @@ SAWK:
 # 10860/116 - Lightning Bolt
 Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
 Game: Inflicts damage equal to 10% of enemies' max HP; changes the outermost columns to Fire Orbs
+JP: Deal damage equal to 10% of enemies' max HP; Change the far left column and the far right column to Fire orbs
 EN: Deal damage equal to 10% of enemies' max HP; Change the far left column and the far right column to Fire orbs
+KR: Deal damage equal to 10% of enemies' max HP; Change the far left column and the far right column to Fire orbs
 
 # 10863/138 - Exquisite Firecraft
 Tags: ENHANCED_ATK
 Game: 4x ATK with 2+ Fire combos; 2x ATK with 5+ linked Fire Orbs
+JP: 4x ATK when matching 2+ Fire combos; 2x ATK when matching 5 or more connected Fire orbs
 EN: 4x ATK when matching 2+ Fire combos; 2x ATK when matching 5 or more connected Fire orbs
+KR: 4x ATK when matching 2+ Fire combos; 2x ATK when matching 5 or more connected Fire orbs
 

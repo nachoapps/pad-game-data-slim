@@ -6,10 +6,14 @@ SAWK: 36,38,45
 # 10082/116 - Dimension Formation - Four Clouds
 Tags: MENACE,ALL_ORBS_CONVERT
 Game: Delays enemies' next move for 2 turns; changes all Orbs to Wood, Light, Dark & Heal Orbs
+JP: Delay enemies' next attack by 2 turns; Change all orbs to Wood, Light, Dark, and Heal orbs
 EN: Delay enemies' next attack by 2 turns; Change all orbs to Wood, Light, Dark, and Heal orbs
+KR: Delay enemies' next attack by 2 turns; Change all orbs to Wood, Light, Dark, and Heal orbs
 
 # 10088/138 - Twinkling Star Talisman
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 4x ATK & 1.5x RCV for Light Att.; 4x ATK & reduces damage when Wood, Light & Dark attack at once
+JP: 4x ATK and 1.5x RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
 EN: 4x ATK and 1.5x RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+KR: 4x ATK and 1.5x RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
 

@@ -6,10 +6,14 @@ SAWK:
 # 461/116 - Strawberry Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Wood Orbs to Heal Orbs; heals 30% of Max HP
+JP: Change Wood orbs to Heal orbs; Recover 30% of max HP
 EN: Change Wood orbs to Heal orbs; Recover 30% of max HP
+KR: Change Wood orbs to Heal orbs; Recover 30% of max HP
 
 # 1902/41 - Reflect Shield - Fire
 Tags: COUNTERATTACK
 Game: Strong Fire counterattack sometimes
+JP: 50% chance to counterattack with 5x Fire damage
 EN: 50% chance to counterattack with 5x Fire damage
+KR: 50% chance to counterattack with 5x Fire damage
 

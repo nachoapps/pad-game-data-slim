@@ -6,10 +6,14 @@ SAWK: 52,55,43
 # 11146/116 - Violent Ball
 Tags: REDUCE_DEFENSE,MASSIVE_ATTACK
 Game: Vastly reduces enemies' DEF for 1 turn; inflicts random Water Att. damage on all enemies
+JP: For 1 turn, reduce enemies' defense by 75%; Randomized Water damage to all enemies(30~250x)
 EN: For 1 turn, reduce enemies' defense by 75%; Randomized Water damage to all enemies(30~250x)
+KR: For 1 turn, reduce enemies' defense by 75%; Randomized Water damage to all enemies(30~250x)
 
 # 11149/105 - Would you say you're dissatisfied?
 Tags: ENHANCED_ATK
 Game: 3.5x ATK, but halves overall RCV
+JP: 3.5x ATK and 0.5x RCV
 EN: 3.5x ATK and 0.5x RCV
+KR: 3.5x ATK and 0.5x RCV
 

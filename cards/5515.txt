@@ -6,10 +6,14 @@ SAWK: 48,43,56
 # 14282/116 - Negative Network
 Tags: SUICIDE,LINE_ORBS_CONVERTER,VOID_SKYFALLS
 Game: HP falls to 1, no Skyfall Combos for 1 turn; changes the outermost columns to Dark Orbs
+JP: Reduce HP to 1; For 1 turn, no skyfall; Change the far left column and the far right column to Dark orbs
 EN: Reduce HP to 1; For 1 turn, no skyfall; Change the far left column and the far right column to Dark orbs
+KR: Reduce HP to 1; For 1 turn, no skyfall; Change the far left column and the far right column to Dark orbs
 
 # 14286/138 - Your defeat was foretold before we even began.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK & halves dmg with 7+ combos; 4x ATK with 2 Dark combos, 5x ATK with 3+ combos
+JP: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK when matching 2 Dark combos, up to 5x at 3 Dark combos
 EN: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK when matching 2 Dark combos, up to 5x at 3 Dark combos
+KR: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK when matching 2 Dark combos, up to 5x at 3 Dark combos
 

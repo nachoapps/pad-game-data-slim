@@ -6,10 +6,14 @@ SAWK:
 # 5202/116 - Kaiten-Kenbu Rokuren
 Tags: DROP_CHANCE
 Game: Water Orbs slightly more likely to appear for 2 turns; creates 6 Water Orbs at random
+JP: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
 EN: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
+KR: For 2 turns, Water orbs are more likely to appear by 15%; Create 6 Water orbs
 
 # 5552/138 - The present is the time to fight!
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: 4.5x ATK with 6+ combos; inflicts bonus attack equal to 10x ATK when matching Orbs
+JP: 4.5x ATK when 6 or more combos; 10x ATK additional damage when matching orbs
 EN: 4.5x ATK when 6 or more combos; 10x ATK additional damage when matching orbs
+KR: 4.5x ATK when 6 or more combos; 10x ATK additional damage when matching orbs
 

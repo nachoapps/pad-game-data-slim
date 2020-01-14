@@ -6,10 +6,14 @@ SAWK:
 # 11938/116 - You're this battle's MVP. Congratulations!
 Tags: ENHANCED_ATTACK,HEAL
 Game: Fully recovers HP; 2x ATK for Light Att. for 1 turn;
+JP: Recover all HP; For 1 turn, 2x ATK for Light Att.
 EN: Recover all HP; For 1 turn, 2x ATK for Light Att.
+KR: Recover all HP; For 1 turn, 2x ATK for Light Att.
 
 # 11941/138 - I hope everyone's ready!
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 2x HP & RCV for Light Att., Orb move time +5 seconds; 3.5x ATK when skills used
+JP: 2x HP & RCV for Light Att.; Increase orb movement time by 5 seconds; 3.5x ATK on the turn a skill is used
 EN: 2x HP & RCV for Light Att.; Increase orb movement time by 5 seconds; 3.5x ATK on the turn a skill is used
+KR: 2x HP & RCV for Light Att.; Increase orb movement time by 5 seconds; 3.5x ATK on the turn a skill is used
 

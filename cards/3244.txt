@@ -6,10 +6,14 @@ SAWK:
 # 5486/3 - Hellblaze Shield
 Tags: REDUCE_DAMAGE
 Game: Slightly reduces damage for 9 turns
+JP: For 9 turns, reduce damage taken by 15%
 EN: For 9 turns, reduce damage taken by 15%
+KR: For 9 turns, reduce damage taken by 15%
 
 # 6175/138 - Fatal Flame Dragon Emperor Power
 Tags: ENHANCED_ATK
 Game: 3x ATK when erasing 6+ linked Dark or Fire Orbs (9x ATK when erasing 6+ linked Dark & Fire Orbs each)
+JP: 3x ATK when matching 6 or more connected Dark orbs; 3x ATK when matching 6 or more connected Fire orbs
 EN: 3x ATK when matching 6 or more connected Dark orbs; 3x ATK when matching 6 or more connected Fire orbs
+KR: 3x ATK when matching 6 or more connected Dark orbs; 3x ATK when matching 6 or more connected Fire orbs
 

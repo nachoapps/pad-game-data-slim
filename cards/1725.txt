@@ -6,10 +6,14 @@ SAWK:
 # 990/116 - ペガサス彗星拳
 Tags: FIXED_DAMAGE
 Game: 敵1体に10万の固定ダメージ。 回復とお邪魔ドロップを光ドロップに変化。
+JP: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light orbs
 EN: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light orbs
+KR: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light orbs
 
 # 2410/138 - これが最後の一矢だあーッ
 Tags: ENHANCED_ATK_RCV
 Game: HP満タン時に攻撃力が4倍。 スキル使用時、攻撃力と回復力が2倍
+JP: 4x ATK when HP is full; 2x ATK & RCV on the turn a skill is used
 EN: 4x ATK when HP is full; 2x ATK & RCV on the turn a skill is used
+KR: 4x ATK when HP is full; 2x ATK & RCV on the turn a skill is used
 

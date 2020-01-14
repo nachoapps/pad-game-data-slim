@@ -6,10 +6,14 @@ SAWK:
 # 2667/116 - Flame Charge
 Tags: LINE_ORBS_CONVERTER
 Game: Changes the top row into Fire Orbs; other allies' skills charged by 1 turn
+JP: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
+KR: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
 
 # 3662/138 - Ruby Cowl
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2.5x ATK Machine Type when HP is 50% or more; reduces non-Water Att. damage
+JP: 2.5x ATK for Machine type when above 50% HP; Reduce damage taken from fire, wood, light, dark att. by 20%
 EN: 2.5x ATK for Machine type when above 50% HP; Reduce damage taken from fire, wood, light, dark att. by 20%
+KR: 2.5x ATK for Machine type when above 50% HP; Reduce damage taken from fire, wood, light, dark att. by 20%
 

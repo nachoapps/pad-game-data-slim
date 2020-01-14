@@ -6,10 +6,14 @@ SAWK:
 # 8332/156 - OP Enhancement
 Tags: HEAL
 Game: ATK increases by the number of [Auto-Heal] Awoken Skills in team for 2 turns
+JP: For 2 turns, increase ATK by 15% for each Auto-Recover awakening skill on the team
 EN: For 2 turns, increase ATK by 15% for each Auto-Recover awakening skill on the team
+KR: For 2 turns, increase ATK by 15% for each Auto-Recover awakening skill on the team
 
 # 8335/138 - OP Destruction
 Tags: ENHANCED_HP_ATK
 Game: [Orb move time: 4 sec], 3x ATK with 2 Light combos (6x ATK with 3+); 2x HP & ATK for Devil Type
+JP: [Fixed 4 second movetime] 2x HP & ATK for Devil type; 3x ATK when matching 2 Light combos, up to 6x at 3 Light combos
 EN: [Fixed 4 second movetime] 2x HP & ATK for Devil type; 3x ATK when matching 2 Light combos, up to 6x at 3 Light combos
+KR: [Fixed 4 second movetime] 2x HP & ATK for Devil type; 3x ATK when matching 2 Light combos, up to 6x at 3 Light combos
 

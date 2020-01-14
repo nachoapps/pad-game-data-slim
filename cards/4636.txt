@@ -6,10 +6,14 @@ SAWK: 43,54,55
 # 10893/116 - All Orb Flare
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; adds 2 combos for 1 turn
+JP: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, increase combo count by 2
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, increase combo count by 2
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, increase combo count by 2
 
 # 10897/138 - Catastrophe Booster
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: ATK increases with 2+ Att., up to 7x; 2.5x ATK & reduces damage with 6+ linked Orbs
+JP: 2.5x ATK when matching 2 or more colors up to 7x at 5 colors; 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 EN: 2.5x ATK when matching 2 or more colors up to 7x at 5 colors; 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
+KR: 2.5x ATK when matching 2 or more colors up to 7x at 5 colors; 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 

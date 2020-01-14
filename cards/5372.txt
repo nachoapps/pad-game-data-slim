@@ -6,10 +6,14 @@ SAWK: 52,57,45
 # 13701/156 - 憲兵様が悪党を殺しに来たぜ!!
 Tags: 
 Game: 2ターンの間、チーム内のHP80％以上強化の 覚醒数に応じて攻撃力が上昇。
+JP: For 2 turns, increase ATK by 30% for each 80% or more HP Enhanced awakening skill on the team
 EN: For 2 turns, increase ATK by 30% for each 80% or more HP Enhanced awakening skill on the team
+KR: For 2 turns, increase ATK by 30% for each 80% or more HP Enhanced awakening skill on the team
 
 # 13702/138 - 薄汚ぇネズミの匂いがするな
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: HP80％以上でダメージを軽減、攻撃力が4倍。 闇属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。
+JP: 4x ATK and reduce damage taken by 35% when above 80% HP; 2x HP & ATK for Dark Att.; Increase orb movement time by 2 seconds
 EN: 4x ATK and reduce damage taken by 35% when above 80% HP; 2x HP & ATK for Dark Att.; Increase orb movement time by 2 seconds
+KR: 4x ATK and reduce damage taken by 35% when above 80% HP; 2x HP & ATK for Dark Att.; Increase orb movement time by 2 seconds
 

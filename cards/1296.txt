@@ -6,10 +6,14 @@ SAWK:
 # 648/116 - Healing Cheer
 Tags: ENHANCED_HEAL,RECOVER_BIND
 Game: 1.5x RCV for 4 turns, plus bind status is reduced by 4 turns
+JP: For 4 turns, 1.5x RCV; Reduce binds by 4 turns
 EN: For 4 turns, 1.5x RCV; Reduce binds by 4 turns
+KR: For 4 turns, 1.5x RCV; Reduce binds by 4 turns
 
 # 1501/138 - Sacred Flame Dance
 Tags: ENHANCED_HP_ATK
 Game: 3.5x ATK for Fire Att. when HP is 50% or more, plus Fire Att. HP increases slightly
+JP: 1.25x HP for Fire Att.; 3.5x ATK for Fire Att. when above 50% HP
 EN: 1.25x HP for Fire Att.; 3.5x ATK for Fire Att. when above 50% HP
+KR: 1.25x HP for Fire Att.; 3.5x ATK for Fire Att. when above 50% HP
 

@@ -6,10 +6,14 @@ SAWK: 46,56,62
 # 10177/18 - Demon Realm Plants Manipulator
 Tags: MENACE
 Game: Delays enemies' next move for 5 turns
+JP: Delay enemies' next attack by 5 turns
 EN: Delay enemies' next attack by 5 turns
+KR: Delay enemies' next attack by 5 turns
 
 # 10180/138 - Such beauty, sprung from such an ugly soil.
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 3x RCV when erasing 4 Heal Orbs; 4x ATK & reduces damage with 6+ linked Wood Orbs
+JP: 3x RCV when matching 4 Heal orbs; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs
 EN: 3x RCV when matching 4 Heal orbs; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs
+KR: 3x RCV when matching 4 Heal orbs; 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs
 

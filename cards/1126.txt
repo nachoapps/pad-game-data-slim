@@ -6,10 +6,14 @@ SAWK:
 # 698/116 - Heal Barrier
 Tags: VOID_DAMAGE,HEAL
 Game: Voids Dark Att. damage for 2 turns; heals 25% of Max HP
+JP: For 2 turns, void all Dark damage; Recover 25% of max HP
 EN: For 2 turns, void all Dark damage; Recover 25% of max HP
+KR: For 2 turns, void all Dark damage; Recover 25% of max HP
 
 # 1204/98 - Fifth Kind
 Tags: ENHANCED_ATK
 Game: ATK increases with 4 or more combos up to 3x ATK
+JP: 2.5x ATK when 4 or more combos up to 3x at 5 combos
 EN: 2.5x ATK when 4 or more combos up to 3x at 5 combos
+KR: 2.5x ATK when 4 or more combos up to 3x at 5 combos
 

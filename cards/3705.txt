@@ -6,10 +6,14 @@ SAWK: 48,55,52
 # 8017/116 - Roundslash
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 1 turn; changes the 2nd row from the bottom to Fire Orbs
+JP: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
 EN: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
+KR: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
 
 # 8020/175 - Attack Up (L)
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & 8x ATK when all sub-monsters are from Monster Hunter Collab
+JP: 8x ATK and 2x HP when all cards are from Monster Hunter Collab
 EN: 8x ATK and 2x HP when all cards are from Monster Hunter Collab
+KR: 8x ATK and 2x HP when all cards are from Monster Hunter Collab
 

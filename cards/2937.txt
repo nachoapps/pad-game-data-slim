@@ -6,10 +6,14 @@ SAWK:
 # 5121/116 - Wind Spiral
 Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 1,000 damage on all enemies; changes the top row to Wood Orbs
+JP: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs
 EN: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs
+KR: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs
 
 # 4875/138 - Extremely Fast Wings
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK for Wood Att.; 1.5x HP for Dragon Type
+JP: 2x ATK for Wood Att.; 1.5x HP for Dragon type
 EN: 2x ATK for Wood Att.; 1.5x HP for Dragon type
+KR: 2x ATK for Wood Att.; 1.5x HP for Dragon type
 

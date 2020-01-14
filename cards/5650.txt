@@ -6,10 +6,14 @@ SAWK: 43,54,60
 # 14986/116 - Get them!
 Tags: ENHANCED_HEAL,LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Voids RCV & Orb move time -2 seconds for 1 turn; changes the top row to Light Orbs
+JP: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
 EN: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
+KR: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
 
 # 14992/138 - Ancient Ring
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 5x ATK with 2+ Light combos, Orb move time +2 seconds; 3x ATK & reduces damage with 5+ linked Orbs
+JP: 5x ATK when matching 2+ Light combos; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 EN: 5x ATK when matching 2+ Light combos; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
+KR: 5x ATK when matching 2+ Light combos; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 

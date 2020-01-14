@@ -6,10 +6,14 @@ SAWK: 53,48,57
 # 14547/116 - Ar Retar Kamuyhum Makiri
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT
 Game: Inflicts 250x ATK Dark Att. attack on 1 enemy; changes all Orbs to Fire Orbs
+JP: Deal 250x ATK Dark damage to an enemy; Change all orbs to Fire orbs
 EN: Deal 250x ATK Dark damage to an enemy; Change all orbs to Fire orbs
+KR: Deal 250x ATK Dark damage to an enemy; Change all orbs to Fire orbs
 
 # 14554/138 - Let's go, Mamahaha!
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
 Game: [7x6 board], 2x HP & ATK for Fire Att.; 6x ATK with 7+ linked Fire Orbs
+JP: [Board becomes 7x6] 2x HP & ATK for Fire Att.; 6x ATK when matching 7 or more connected Fire orbs
 EN: [Board becomes 7x6] 2x HP & ATK for Fire Att.; 6x ATK when matching 7 or more connected Fire orbs
+KR: [Board becomes 7x6] 2x HP & ATK for Fire Att.; 6x ATK when matching 7 or more connected Fire orbs
 

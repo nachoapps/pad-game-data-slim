@@ -6,10 +6,14 @@ SAWK: 27,33,52
 # 8517/116 - Come on, show me what you're made of!
 Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the top row to Light Orbs and the bottom row to Fire Orbs
+JP: Unlock all orbs; Change the top row to Light orbs and change the bottom row to Fire orbs
 EN: Unlock all orbs; Change the top row to Light orbs and change the bottom row to Fire orbs
+KR: Unlock all orbs; Change the top row to Light orbs and change the bottom row to Fire orbs
 
 # 8520/138 - White Whorl
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & 4x ATK for Light Att.; 3x ATK when Light & Fire attack at once
+JP: 4x ATK and 2x HP for Light Att.; 3x ATK when matching Light+Fire
 EN: 4x ATK and 2x HP for Light Att.; 3x ATK when matching Light+Fire
+KR: 4x ATK and 2x HP for Light Att.; 3x ATK when matching Light+Fire
 

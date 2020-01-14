@@ -6,10 +6,14 @@ SAWK:
 # 625/116 - Time has come...
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,SUICIDE
 Game: Critical Water attack on 1 enemy, but HP falls to 1;  3x ATK for Attacker & Machine Types for 2 turns
+JP: Reduce HP to 1; Deal 300000 Water damage to an enemy; For 2 turns, 3x ATK for Attacker and Machine types
 EN: Reduce HP to 1; Deal 300000 Water damage to an enemy; For 2 turns, 3x ATK for Attacker and Machine types
+KR: Reduce HP to 1; Deal 300000 Water damage to an enemy; For 2 turns, 3x ATK for Attacker and Machine types
 
 # 550/22 - Double Entry System
 Tags: ENHANCED_ATK
 Game: 3x ATK for Attacker Type
+JP: 3x ATK for Attacker type
 EN: 3x ATK for Attacker type
+KR: 3x ATK for Attacker type
 

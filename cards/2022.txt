@@ -6,10 +6,14 @@ SAWK:
 # 40/117 - Shower of Healing
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Fully recovers HP & bind status
+JP: Recover all HP; Remove all binds
 EN: Recover all HP; Remove all binds
+KR: Recover all HP; Remove all binds
 
 # 2903/13 - miracle
 Tags: AUTO_HEAL
 Game: Heals HP equal to 5x RCV when matching Orbs
+JP: 5x RCV additional heal when matching orbs
 EN: 5x RCV additional heal when matching orbs
+KR: 5x RCV additional heal when matching orbs
 

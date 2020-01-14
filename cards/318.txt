@@ -6,10 +6,14 @@ SAWK:
 # 27/3 - Defensive Stance
 Tags: REDUCE_DAMAGE
 Game: Halves damage for 3 turns
+JP: For 3 turns, reduce damage taken by 50%
 EN: For 3 turns, reduce damage taken by 50%
+KR: For 3 turns, reduce damage taken by 50%
 
 # 333/41 - Stone Counter
 Tags: COUNTERATTACK
 Game: Massive Wood counterattack in rare cases
+JP: 25% chance to counterattack with 10x Wood damage
 EN: 25% chance to counterattack with 10x Wood damage
+KR: 25% chance to counterattack with 10x Wood damage
 

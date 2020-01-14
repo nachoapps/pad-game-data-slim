@@ -6,10 +6,14 @@ SAWK:
 # 5038/116 - I can do it too!!
 Tags: FIXED_DAMAGE
 Game: Inflicts 50,000 damage on 1 enemy; creates 3 Light Orbs at random
+JP: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
 EN: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
+KR: Deal 50000 fixed damage to an enemy; Create 3 Light orbs
 
 # 4730/66 - Golden Blade-1st Form Fang
 Tags: ENHANCED_ATK
 Game: 3x ATK with 5+ combos
+JP: 3x ATK when 5 or more combos
 EN: 3x ATK when 5 or more combos
+KR: 3x ATK when 5 or more combos
 

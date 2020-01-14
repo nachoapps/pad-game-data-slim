@@ -6,10 +6,14 @@ SAWK: 58,48,55
 # 14486/116 - ブルァアアアアアアアア!!!
 Tags: MASSIVE_ATTACK,SUICIDE
 Game: HPが50％減るが、敵全体に攻撃力×150倍の光属性攻撃。 盤面外周を木ドロップに変化。
+JP: Reduce HP by 50%; Deal 150x Light damage to all enemies; Change the outermost orbs of the board to Wood orbs
 EN: Reduce HP by 50%; Deal 150x Light damage to all enemies; Change the outermost orbs of the board to Wood orbs
+KR: Reduce HP by 50%; Deal 150x Light damage to all enemies; Change the outermost orbs of the board to Wood orbs
 
 # 14489/138 - マグルガ
 Tags: ENHANCED_HP_ATK_RCV
 Game: 木属性の攻撃力が4倍、光属性のHPと回復力が1.5倍。 木を6個以上つなげて消すと、攻撃力が3倍。
+JP: 4x ATK for Wood Att.; 1.5x HP & RCV for Light Att.; 3x ATK when matching 6 or more connected Wood orbs
 EN: 4x ATK for Wood Att.; 1.5x HP & RCV for Light Att.; 3x ATK when matching 6 or more connected Wood orbs
+KR: 4x ATK for Wood Att.; 1.5x HP & RCV for Light Att.; 3x ATK when matching 6 or more connected Wood orbs
 

@@ -6,10 +6,14 @@ SAWK:
 # 118/116 - Gaia Ball
 Tags: MASSIVE_ATTACK,ORB_CONVERT
 Game: Inflicts 20,000 Wood Att. damage on all enemies; changes Dark Orbs to Wood Orbs
+JP: Deal 20000 Wood damage to all enemies; Change Dark orbs to Wood orbs
 EN: Deal 20000 Wood damage to all enemies; Change Dark orbs to Wood orbs
+KR: Deal 20000 Wood damage to all enemies; Change Dark orbs to Wood orbs
 
 # 78/17 - Tree Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Wood Att. damage
+JP: Reduce damage taken from wood att. by 50%
 EN: Reduce damage taken from wood att. by 50%
+KR: Reduce damage taken from wood att. by 50%
 

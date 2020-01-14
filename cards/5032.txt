@@ -6,10 +6,14 @@ SAWK:
 # 10617/116 - Fragile Aurora​
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
+JP: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 
 # 12199/138 - Peculiar Water Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK when 3+ Att. (2+Heal) attack at once; 4x ATK & reduces damage with 5+ linked Water Orbs
+JP: 3x ATK when matching 3 or more colors (2+heal); 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
 EN: 3x ATK when matching 3 or more colors (2+heal); 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+KR: 3x ATK when matching 3 or more colors (2+heal); 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
 

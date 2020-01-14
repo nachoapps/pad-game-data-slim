@@ -6,10 +6,14 @@ SAWK:
 # 902/116 - 落雷
 Tags: MENACE,FIXED_DAMAGE
 Game: 敵全体に10000の固定ダメージ。 敵の行動を1ターン遅らせる。
+JP: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 EN: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
+KR: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 876/96 - 雷掌
 Tags: ENHANCED_ATK
 Game: HP80％以上で闇属性の攻撃力が4倍。
+JP: 4x ATK for Dark Att. when above 80% HP
 EN: 4x ATK for Dark Att. when above 80% HP
+KR: 4x ATK for Dark Att. when above 80% HP
 

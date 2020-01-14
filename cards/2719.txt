@@ -6,10 +6,14 @@ SAWK: 44,21,52
 # 3866/116 - Wrath of Zeus
 Tags: GRAVITY,EXTENDS_TIME
 Game: Reduces enemies' HP by 35%; extends time to move Orbs 2x for 1 turn
+JP: Reduce enemies' HP by 35%; For 1 turn, 2x orb move time
 EN: Reduce enemies' HP by 35%; For 1 turn, 2x orb move time
+KR: Reduce enemies' HP by 35%; For 1 turn, 2x orb move time
 
 # 4438/138 - Thunder of Creation
 Tags: ENHANCED_HP_ATK
 Game: ATK increases when attacking with 5+ Att. (4+Heal), up to 8x; 1.5x ATK & HP for God Type
+JP: 3x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal; 1.5x HP & ATK for God type
 EN: 3x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal; 1.5x HP & ATK for God type
+KR: 3x ATK when matching 5 or more colors (4+heal) up to 8x at 5 colors+heal; 1.5x HP & ATK for God type
 

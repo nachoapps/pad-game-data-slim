@@ -6,10 +6,14 @@ SAWK: 52,50,48
 # 3392/116 - Dedicate your heart!
 Tags: ORB_CONVERT,EXTENDS_TIME
 Game: Changes Fire Orbs, Poison Orbs & Jammers to Light Orbs; extends Orb move time by 5 seconds for 3 turns
+JP: Change Fire, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 3 turns, increase orb move time by 5 seconds
 EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 3 turns, increase orb move time by 5 seconds
+KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 3 turns, increase orb move time by 5 seconds
 
 # 3640/138 - Ask yourself
 Tags: ENHANCED_HP_ATK_RCV
 Game: 2x HP & 1.5x RCV for Light Att.; 2x ATK for Light Att. when skills used
+JP: 2x HP and 1.5x RCV for Light Att.; 6x ATK for Light Att. on the turn a skill is used
 EN: 2x HP and 1.5x RCV for Light Att.; 6x ATK for Light Att. on the turn a skill is used
+KR: 2x HP and 1.5x RCV for Light Att.; 6x ATK for Light Att. on the turn a skill is used
 

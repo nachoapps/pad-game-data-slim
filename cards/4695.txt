@@ -6,10 +6,14 @@ SAWK: 33,50,55
 # 11252/116 - Bow of the Cyclops
 Tags: GUARD_STANCE,ORB_CONVERT,LINE_ORBS_CONVERTER
 Game: Changes the top row to Light Orbs; changes Jammers & Poison Orbs to Heal Orbs
+JP: Change the top row to Light orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 EN: Change the top row to Light orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
+KR: Change the top row to Light orbs; Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 
 # 11255/138 - Wisdom of Purity
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 7x ATK with 6+ linked Light Orbs; 2x ATK & halves damage with a cross of 5 Heal Orbs
+JP: 7x ATK when matching 6 or more connected Light orbs; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 7x ATK when matching 6 or more connected Light orbs; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 7x ATK when matching 6 or more connected Light orbs; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

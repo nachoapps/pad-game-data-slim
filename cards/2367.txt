@@ -6,10 +6,14 @@ SAWK:
 # 3398/116 - Mind if I try an experiment?
 Tags: REDUCE_DEFENSE
 Game: Vastly reduces enemies' DEF for 5 turns; other allies' skills charged by 1 turn
+JP: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
+KR: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 
 # 3647/129 - I'll take care of it
 Tags: ENHANCED_ATK
 Game: 2.5x ATK for Balanced Type
+JP: 4x ATK for Balanced type
 EN: 4x ATK for Balanced type
+KR: 4x ATK for Balanced type
 

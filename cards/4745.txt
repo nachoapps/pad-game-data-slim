@@ -6,10 +6,14 @@ SAWK: 36,37,38
 # 11807/116 - Triple-Rage Mode
 Tags: ENHANCED_ATTACK,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: 3x ATK for Dragon & Machine Types for 1 turn; changes Light & Jammers to Fire and Wood & Poison to Dark Orbs
+JP: For 1 turn, 3x ATK for Dragon and Machine types; Change Light, Jammer orbs to Fire orbs; Change Wood, Poison, and Mortal Poison orbs to Dark orbs
 EN: For 1 turn, 3x ATK for Dragon and Machine types; Change Light, Jammer orbs to Fire orbs; Change Wood, Poison, and Mortal Poison orbs to Dark orbs
+KR: For 1 turn, 3x ATK for Dragon and Machine types; Change Light, Jammer orbs to Fire orbs; Change Wood, Poison, and Mortal Poison orbs to Dark orbs
 
 # 11810/138 - Nightmarish Unity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 1.5x to all stats for Fire Att., 3x ATK with 6+ combos; 2x ATK & reduces dmg when Fire & Dark attack at once
+JP: 1.5x all stats for Fire Att.; 3x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching Fire+Dark
 EN: 1.5x all stats for Fire Att.; 3x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching Fire+Dark
+KR: 1.5x all stats for Fire Att.; 3x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching Fire+Dark
 

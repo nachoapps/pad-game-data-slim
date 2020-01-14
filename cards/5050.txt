@@ -6,10 +6,14 @@ SAWK: 24,50,54
 # 12612/116 - Photonic Artillery Betelgeuse
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
 Game: Voids RCV for 5 turns; changes all Orbs to Water, Wood & Light Orbs
+JP: For 5 turns, 0x RCV; Change all orbs to Water, Wood, and Light orbs
 EN: For 5 turns, 0x RCV; Change all orbs to Water, Wood, and Light orbs
+KR: For 5 turns, 0x RCV; Change all orbs to Water, Wood, and Light orbs
 
 # 12615/138 - Of course I'll come with you!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 5x ATK when HP is 50% or less, Orb move time +3 seconds; 2x ATK & reduces damage when 3+ Att. attack at once
+JP: 5x ATK when below 50% HP; Increase orb movement time by 3 seconds; 2x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 5x ATK when below 50% HP; Increase orb movement time by 3 seconds; 2x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 5x ATK when below 50% HP; Increase orb movement time by 3 seconds; 2x ATK and reduce damage taken by 25% when matching 3 or more colors
 

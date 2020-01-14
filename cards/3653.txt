@@ -6,10 +6,14 @@ SAWK: 61,21,52
 # 7998/116 - Somersault Tail Strike
 Tags: MENACE,POISON
 Game: Mortally poisons all enemies; delays enemies' next move for 2 turns
+JP: Poison all enemies (50x ATK); Delay enemies' next attack by 2 turns
 EN: Poison all enemies (50x ATK); Delay enemies' next attack by 2 turns
+KR: Poison all enemies (50x ATK); Delay enemies' next attack by 2 turns
 
 # 8001/138 - The Queen of the Land
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage with 2+ Wood combos; 2.5x ATK for each cross of 5 Wood Orbs
+JP: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK for each cross of 5 Wood orbs
 EN: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK for each cross of 5 Wood orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK for each cross of 5 Wood orbs
 

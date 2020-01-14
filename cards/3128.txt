@@ -6,10 +6,14 @@ SAWK: 32,48,62
 # 5342/116 - You either live or you die!
 Tags: ORB_CONVERT,ADD_COMBO
 Game: Changes Fire, Wood, Poison, & Jammers to Dark Orbs; adds 1 combo for 1 turn
+JP: Change Fire, Wood, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, increase combo count by 1
 EN: Change Fire, Wood, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, increase combo count by 1
+KR: Change Fire, Wood, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, increase combo count by 1
 
 # 5830/138 - Hell's Merry-Go-Round
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 8x ATK & reduces damage with 6+ linked Dark Orbs; bonus attack equal to 100x ATK when matching Orbs
+JP: 8x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs; 100x ATK additional damage when matching orbs
 EN: 8x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs; 100x ATK additional damage when matching orbs
+KR: 8x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs; 100x ATK additional damage when matching orbs
 

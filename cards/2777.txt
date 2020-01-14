@@ -6,10 +6,14 @@ SAWK: 27,33,52
 # 3947/116 - Got a surprise for you!
 Tags: LINE_ORBS_CONVERTER
 Game: Changes the top row to Light and the bottom row to Fire Orbs; allies' skills charged by 1 turn
+JP: Change the top row to Light orbs and change the bottom row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Light orbs and change the bottom row to Fire orbs; Charge all allies' skills by 1 turn
+KR: Change the top row to Light orbs and change the bottom row to Fire orbs; Charge all allies' skills by 1 turn
 
 # 4615/138 - Pyroclasm
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Game: 2x HP & ATK for Light Att., Orb move time +2 seconds; ATK increases with 4+ linked Fire Orbs, up to 7x
+JP: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 4 or more connected Fire orbs up to 7x at 6 orbs
 EN: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 4 or more connected Fire orbs up to 7x at 6 orbs
+KR: 2x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 5x ATK when matching 4 or more connected Fire orbs up to 7x at 6 orbs
 

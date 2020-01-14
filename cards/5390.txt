@@ -6,10 +6,14 @@ SAWK: 48,57,58
 # 13767/118 - The Power of Wishes
 Tags: ENHANCED_ATTACK,MENACE,VOID_DAMAGE,EXTENDS_TIME,ETC
 Game: Wonderful things will happen
+JP: Activate a random skill from the list: 1) Delay enemies' next attack by 4 turns, 2) For 4 turns, 4x orb move time, 3) Charge all allies' skills by 2~4 turns, 4) For 1 turn, reduce damage taken by 100%, and 5) For 1 turn, 4x ATK for Wood, Light Att.
 EN: Activate a random skill from the list: 1) Delay enemies' next attack by 4 turns, 2) For 4 turns, 4x orb move time, 3) Charge all allies' skills by 2~4 turns, 4) For 1 turn, reduce damage taken by 100%, and 5) For 1 turn, 4x ATK for Wood, Light Att.
+KR: Activate a random skill from the list: 1) Delay enemies' next attack by 4 turns, 2) For 4 turns, 4x orb move time, 3) Charge all allies' skills by 2~4 turns, 4) For 1 turn, reduce damage taken by 100%, and 5) For 1 turn, 4x ATK for Wood, Light Att.
 
 # 13773/138 - Magical Protection
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2x ATK & RCV for Light Att., halves damage sometimes; ATK increases with 4+ combos, up to 10x
+JP: 2x ATK & RCV for Light Att.; 20% chance to reduce damage taken by 50%; 4x ATK when 4 or more combos up to 10x at 10 combos
 EN: 2x ATK & RCV for Light Att.; 20% chance to reduce damage taken by 50%; 4x ATK when 4 or more combos up to 10x at 10 combos
+KR: 2x ATK & RCV for Light Att.; 20% chance to reduce damage taken by 50%; 4x ATK when 4 or more combos up to 10x at 10 combos
 

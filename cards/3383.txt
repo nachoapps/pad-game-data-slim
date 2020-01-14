@@ -6,10 +6,14 @@ SAWK: 60,43,44
 # 1869/116 - Quick Guard
 Tags: REDUCE_DAMAGE,RECOVER_BIND
 Game: Slightly reduces damage for 1 turn; reduces bind status by 3 turns
+JP: For 1 turn, reduce damage taken by 15%; Reduce binds by 3 turns
 EN: For 1 turn, reduce damage taken by 15%; Reduce binds by 3 turns
+KR: For 1 turn, reduce damage taken by 15%; Reduce binds by 3 turns
 
 # 6480/138 - Spirit of the Water Deity
 Tags: ENHANCED_ATK_RCV
 Game: ATK increases when attacking with 3+ Att., up to 4x; 2.5x ATK & RCV when skills used
+JP: 3x ATK when matching 3 or more colors up to 4x at 5 colors; 2.5x ATK & RCV on the turn a skill is used
 EN: 3x ATK when matching 3 or more colors up to 4x at 5 colors; 2.5x ATK & RCV on the turn a skill is used
+KR: 3x ATK when matching 3 or more colors up to 4x at 5 colors; 2.5x ATK & RCV on the turn a skill is used
 

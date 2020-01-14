@@ -6,10 +6,14 @@ SAWK:
 # 6458/116 - You're out of moves...
 Tags: POISON,EXTENDS_TIME
 Game: Poisons all enemies; halves Orb move time for 1 turn
+JP: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
 EN: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
+KR: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
 
 # 6461/15 - Shoot to kill, Shinso...
 Tags: EXTEND_TIME
 Game: Orb move time +13 seconds
+JP: Increase orb movement time by 13 seconds
 EN: Increase orb movement time by 13 seconds
+KR: Increase orb movement time by 13 seconds
 

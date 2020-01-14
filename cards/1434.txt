@@ -6,10 +6,14 @@ SAWK:
 # 988/116 - 鳳翼天翔
 Tags: HEAL,RECOVER_BIND,FIXED_DAMAGE,HEAL_BIND_RECOVERY
 Game: 敵全体に10000の固定ダメージ。 最大HP50％分のHP回復、バインド状態を5ターン回復。
+JP: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 EN: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
+KR: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 
 # 1709/123 - 今度はおまえの番だぜ
 Tags: ENHANCED_ATK
 Game: HP満タン時に攻撃タイプの攻撃力が4倍。
+JP: 4x ATK for Attacker type when HP is full
 EN: 4x ATK for Attacker type when HP is full
+KR: 4x ATK for Attacker type when HP is full
 

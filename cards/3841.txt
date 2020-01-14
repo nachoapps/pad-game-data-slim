@@ -6,10 +6,14 @@ SAWK:
 # 9343/116 - Foresight of the Three Arrows
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire & Water Orbs; halves damage for 2 turns
+JP: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
 EN: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
+KR: Change all orbs to Fire and Water orbs; For 2 turns, reduce damage taken by 50%
 
 # 9346/138 - One Line, Three Star Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 2.5x ATK & reduces damage with 6+ linked Water Orbs; 4x ATK for Water Att. when skills used
+JP: 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
 EN: 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
+KR: 2.5x ATK and reduce damage taken by 25% when matching 6 or more connected Water orbs; 4x ATK for Water Att. on the turn a skill is used
 

@@ -6,10 +6,14 @@ SAWK:
 # 1822/116 - Holy Water Hymn
 Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Changes all Orbs to Water, Wood, Light & Dark Orbs; inflicts 100,000 damage on all enemies
+JP: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
 EN: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
+KR: Change all orbs to Water, Wood, Light, and Dark orbs; Deal 100000 fixed damage to all enemies
 
 # 8120/138 - Vanguard of Uprising
 Tags: ENHANCED_ATK_RCV,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 2.5x ATK & RCV for Physical Type; 3.5x ATK when Water, Wood, Light & Dark attack at once
+JP: [No skyfall] 2.5x ATK & RCV for Physical type; 3.5x ATK when matching Water, Wood, Light, Dark at once
 EN: [No skyfall] 2.5x ATK & RCV for Physical type; 3.5x ATK when matching Water, Wood, Light, Dark at once
+KR: [No skyfall] 2.5x ATK & RCV for Physical type; 3.5x ATK when matching Water, Wood, Light, Dark at once
 

@@ -6,10 +6,14 @@ SAWK:
 # 637/37 - Crimson Bomb
 Tags: SINGLE_TARGET_ATTACK
 Game: Inflicts 50x ATK Fire Att. attack on 1 enemy
+JP: Deal 50x ATK Fire damage to an enemy
 EN: Deal 50x ATK Fire damage to an enemy
+KR: Deal 50x ATK Fire damage to an enemy
 
 # 706/69 - Fire Scale
 Tags: ENHANCED_ATK
 Game: 2x ATK for Fire Att. and Dragon Type
+JP: 2x ATK for Dragon type and Fire Att.
 EN: 2x ATK for Dragon type and Fire Att.
+KR: 2x ATK for Dragon type and Fire Att.
 

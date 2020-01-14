@@ -6,10 +6,14 @@ SAWK:
 # 5348/116 - This ain't no fun and games
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
 Game: 1.5x ATK for Physical Types for 3 turns; reduces damage for 3 turns 
+JP: For 3 turns, 2x ATK for Physical type; For 3 turns, reduce damage taken by 35%
 EN: For 3 turns, 2x ATK for Physical type; For 3 turns, reduce damage taken by 35%
+KR: For 3 turns, 2x ATK for Physical type; For 3 turns, reduce damage taken by 35%
 
 # 5842/129 - Choujin Rocket
 Tags: ENHANCED_ATK_RCV
 Game: 2.5x ATK & 1.5x RCV for Physical Type
+JP: 2.5x ATK and 1.5x RCV for Physical type
 EN: 2.5x ATK and 1.5x RCV for Physical type
+KR: 2.5x ATK and 1.5x RCV for Physical type
 

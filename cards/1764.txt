@@ -6,10 +6,14 @@ SAWK:
 # 1612/115 - Soul Drain
 Tags: ATTACK_AND_HEAL
 Game: Makes a 8x ATK Light Att. attack on 1 enemy, plus half of the damage is recovered as HP
+JP: Deal 8x ATK Light damage to an enemy and recover 50% of the damage as HP
 EN: Deal 8x ATK Light damage to an enemy and recover 50% of the damage as HP
+KR: Deal 8x ATK Light damage to an enemy and recover 50% of the damage as HP
 
 # 2440/138 - Light Blessing
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 2x ATK for Light Att.; heals HP equal to 4x RCV when matching Orbs
+JP: 2x ATK for Light Att.; 4x RCV additional heal when matching orbs
 EN: 2x ATK for Light Att.; 4x RCV additional heal when matching orbs
+KR: 2x ATK for Light Att.; 4x RCV additional heal when matching orbs
 

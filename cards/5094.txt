@@ -6,10 +6,14 @@ SAWK: 60,45,54
 # 12823/116 - Sakura Rain
 Tags: MENACE
 Game: Delays enemies' next move for 1 turn; only Fr, Wt, Lt & Heal Orbs appear for 1 turn
+JP: Delay enemies' next attack by 1 turn; For 1 turn, only Fire, Water, Light, and Heal orbs will appear
 EN: Delay enemies' next attack by 1 turn; For 1 turn, only Fire, Water, Light, and Heal orbs will appear
+KR: Delay enemies' next attack by 1 turn; For 1 turn, only Fire, Water, Light, and Heal orbs will appear
 
 # 12826/138 - Uh-oh! Pleased to meet you!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: [Orb move time: 5 sec], 1.5x HP & 3x ATK for all Att.; 5x ATK & reduces damage with 6+ combos
+JP: [Fixed 5 second movetime] 3x ATK and 1.5x HP; 5x ATK and reduce damage taken by 25% when 6 or more combos
 EN: [Fixed 5 second movetime] 3x ATK and 1.5x HP; 5x ATK and reduce damage taken by 25% when 6 or more combos
+KR: [Fixed 5 second movetime] 3x ATK and 1.5x HP; 5x ATK and reduce damage taken by 25% when 6 or more combos
 

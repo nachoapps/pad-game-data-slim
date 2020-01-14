@@ -6,10 +6,14 @@ SAWK: 54,55,36,37,38
 # 11008/116 - Departing Light
 Tags: ALL_ORBS_CONVERT
 Game: Changes all Orbs to Light Orbs; other allies' skills charged by 2 turns
+JP: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
+KR: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
 
 # 11015/138 - Ancient Light Spirit's Navigation Technique
 Tags: ENHANCED_ATK,EXTEND_TIME
 Game: ATK increases with 3+ linked Light Orbs, up to 18x; Orb move time +2 seconds
+JP: 6x ATK when matching 3 or more connected Light orbs up to 18x at 15 orbs; Increase orb movement time by 2 seconds
 EN: 6x ATK when matching 3 or more connected Light orbs up to 18x at 15 orbs; Increase orb movement time by 2 seconds
+KR: 6x ATK when matching 3 or more connected Light orbs up to 18x at 15 orbs; Increase orb movement time by 2 seconds
 

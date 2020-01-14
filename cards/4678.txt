@@ -6,10 +6,14 @@ SAWK: 39,40,41
 # 11156/141 - Woof! Woof!
 Tags: 
 Game: Creates 1 Fire Orb at random
+JP: Create 1 Fire orb
 EN: Create 1 Fire orb
+KR: Create 1 Fire orb
 
 # 11157/138 - Full-speed Gander!
 Tags: EXTEND_TIME,BOARD_CHANGE_7X6
 Game: [7x6 board], Orb move time +10 seconds
+JP: [Board becomes 7x6] Increase orb movement time by 10 seconds
 EN: [Board becomes 7x6] Increase orb movement time by 10 seconds
+KR: [Board becomes 7x6] Increase orb movement time by 10 seconds
 

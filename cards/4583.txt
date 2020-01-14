@@ -6,10 +6,14 @@ SAWK:
 # 10698/116 - Moonlight Secret Dance
 Tags: EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
 Game: Reduces Awoken Skill bind status by 2 turns; Orb move time +2 seconds for 1 turn
+JP: Reduce awoken skill binds by 2 turns; For 1 turn, increase orb move time by 2 seconds
 EN: Reduce awoken skill binds by 2 turns; For 1 turn, increase orb move time by 2 seconds
+KR: Reduce awoken skill binds by 2 turns; For 1 turn, increase orb move time by 2 seconds
 
 # 10701/138 - Chain of Ingenuity
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Game: [7x6 board], 2x ATK & 1.5x RCV with 8+ combos; 4x ATK & reduces damage with 5+ linked Light Orbs
+JP: [Board becomes 7x6] 2x ATK and 1.5x RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 EN: [Board becomes 7x6] 2x ATK and 1.5x RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: [Board becomes 7x6] 2x ATK and 1.5x RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 

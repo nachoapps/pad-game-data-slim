@@ -6,10 +6,14 @@ SAWK: 27,52,48,55,64
 # 2634/116 - Byakko Seven-Star Formation
 Tags: ALL_ORBS_CONVERT
 Game: Changes Orbs to Fire, Water & Dark Orbs; other allies' skills charged by 1 turn
+JP: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
+KR: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
 
 # 12721/138 - True Spirit of the Byakko
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 1.5x HP for Dark Att., 5x ATK when HP is 50% or more; 3x ATK & reduces damage when Fr, Wt & Dk attack at once
+JP: 1.5x HP for Dark Att.; 5x ATK when above 50% HP; 3x ATK and reduce damage taken by 25% when matching Fire+Water+Dark
 EN: 1.5x HP for Dark Att.; 5x ATK when above 50% HP; 3x ATK and reduce damage taken by 25% when matching Fire+Water+Dark
+KR: 1.5x HP for Dark Att.; 5x ATK when above 50% HP; 3x ATK and reduce damage taken by 25% when matching Fire+Water+Dark
 

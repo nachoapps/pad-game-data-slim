@@ -6,10 +6,14 @@ SAWK:
 # 417/6 - Butcher Knife
 Tags: GRAVITY
 Game: Reduces enemies' HP by 15%
+JP: Reduce enemies' HP by 15%
 EN: Reduce enemies' HP by 15%
+KR: Reduce enemies' HP by 15%
 
 # 370/12 - Karma
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
+JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
+KR: 2x ATK additional damage when matching orbs
 

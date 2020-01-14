@@ -6,10 +6,14 @@ SAWK: 27,43,45
 # 5450/116 - Double Barrel
 Tags: STOP_TIME
 Game: Creates 3 Fire & Heal Orbs each at random; move Orbs freely for 12 seconds
+JP: Create 3 Fire and Heal orbs; Freely move orbs for 12 seconds
 EN: Create 3 Fire and Heal orbs; Freely move orbs for 12 seconds
+KR: Create 3 Fire and Heal orbs; Freely move orbs for 12 seconds
 
 # 11382/138 - Eternal Dragon Roar - Torvio Koh
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: ATK & RCV increase with 4+ combos, up to 4x; 4x ATK & halves damage with a cross of 5 Heal Orbs
+JP: 3x ATK & RCV when 4 or more combos up to 4x at 6 combos; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK & RCV when 4 or more combos up to 4x at 6 combos; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 3x ATK & RCV when 4 or more combos up to 4x at 6 combos; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 

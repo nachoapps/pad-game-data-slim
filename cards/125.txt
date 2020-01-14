@@ -6,10 +6,14 @@ SAWK:
 # 128/116 - Hydra's Poison
 Tags: ENHANCED_ATTACK,POISON
 Game: 1.5x ATK for God Type for 1 turn; all enemies mortally poisoned
+JP: For 1 turn, 1.5x ATK for God type; Poison all enemies (10x ATK)
 EN: For 1 turn, 1.5x ATK for God type; Poison all enemies (10x ATK)
+KR: For 1 turn, 1.5x ATK for God type; Poison all enemies (10x ATK)
 
 # 77/17 - Ice Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Water Att. damage
+JP: Reduce damage taken from water att. by 50%
 EN: Reduce damage taken from water att. by 50%
+KR: Reduce damage taken from water att. by 50%
 

@@ -6,10 +6,14 @@ SAWK: 52,21,60
 # 14117/156 - ウダウダやってるヒマはねェぞ！
 Tags: HEAL
 Game: 2ターンの間、チーム内のHP強化、攻撃強化、回復強化の 覚醒数に応じて攻撃力が上昇。
+JP: For 2 turns, increase ATK by 30% for each Enhanced HP, Enhanced Attack, and Enhanced Recovery awakening skill on the team
 EN: For 2 turns, increase ATK by 30% for each Enhanced HP, Enhanced Attack, and Enhanced Recovery awakening skill on the team
+KR: For 2 turns, increase ATK by 30% for each Enhanced HP, Enhanced Attack, and Enhanced Recovery awakening skill on the team
 
 # 14118/138 - 俺の相棒は赤城直巳だけだ
 Tags: ENHANCED_ATK_RCV
 Game: 攻撃タイプの攻撃力と回復力が2.5倍。 ドロップを5個以上つなげて消すと、攻撃力が4倍。
+JP: 2.5x ATK & RCV for Attacker type; 4x ATK when matching 5 or more connected orbs
 EN: 2.5x ATK & RCV for Attacker type; 4x ATK when matching 5 or more connected orbs
+KR: 2.5x ATK & RCV for Attacker type; 4x ATK when matching 5 or more connected orbs
 

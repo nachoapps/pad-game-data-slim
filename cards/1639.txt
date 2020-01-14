@@ -6,10 +6,14 @@ SAWK:
 # 192/116 - Double Light Guard
 Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Wood, Dark & Poison Orbs to Heal Orbs; reduces bind status by 3 turns
+JP: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
 EN: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
+KR: Change Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs; Reduce binds by 3 turns
 
 # 1988/14 - Matilda's Medicine
 Tags: RESOLVE
 Game: May survive when HP is reduced to 0
+JP: May survive when HP is reduced to 0 (HP>70%)
 EN: May survive when HP is reduced to 0 (HP>70%)
+KR: May survive when HP is reduced to 0 (HP>70%)
 

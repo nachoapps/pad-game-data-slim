@@ -6,10 +6,14 @@ SAWK: 52,57,54
 # 5208/116 - Gatotsu
 Tags: FIXED_DAMAGE
 Game: Inflicts 200,000 damage on 1 enemy; creates 5 Dark Orbs at random
+JP: Deal 200000 fixed damage to an enemy; Create 5 Dark orbs
 EN: Deal 200000 fixed damage to an enemy; Create 5 Dark orbs
+KR: Deal 200000 fixed damage to an enemy; Create 5 Dark orbs
 
 # 5564/138 - A whipped dog who ran, ought not love his own bark.
 Tags: ENHANCED_ATK_RCV
 Game: 3x ATK for each cross of 5 Dark Orbs; 3x ATK & RCV when skills used
+JP: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is used
 EN: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is used
+KR: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is used
 

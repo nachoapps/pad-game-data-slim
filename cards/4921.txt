@@ -6,10 +6,14 @@ SAWK: 54,24,52
 # 12081/116 - Justice shall never perish!
 Tags: ENHANCED_ATTACK,GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Changes the top row to Wood & the bottom row to Heal Orbs; 2x ATK for Wood Att. for 1 turn
+JP: Change the top row to Wood orbs and change the bottom row to Heal orbs; For 1 turn, 2x ATK for Wood Att.
 EN: Change the top row to Wood orbs and change the bottom row to Heal orbs; For 1 turn, 2x ATK for Wood Att.
+KR: Change the top row to Wood orbs and change the bottom row to Heal orbs; For 1 turn, 2x ATK for Wood Att.
 
 # 12084/138 - V3 Tailspin Kick
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Wood Att.; 5x ATK with 6+ linked Wood Orbs
+JP: 2x HP & ATK for Wood Att.; 5x ATK when matching 6 or more connected Wood orbs
 EN: 2x HP & ATK for Wood Att.; 5x ATK when matching 6 or more connected Wood orbs
+KR: 2x HP & ATK for Wood Att.; 5x ATK when matching 6 or more connected Wood orbs
 

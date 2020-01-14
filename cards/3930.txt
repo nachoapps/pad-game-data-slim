@@ -6,10 +6,14 @@ SAWK: 46,57,55
 # 9038/116 - All Orbs Time
 Tags: MENACE,ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
 Game: Delays enemies' next move for 2 turns; changes Orbs to all Attributes & Heal
+JP: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 9041/138 - Colorful Dragon's Sacred Prayer Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: ATK increases with 3+ Att. (2+Heal), up to 17x; Orb move time +3 seconds
+JP: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
 EN: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
+KR: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
 

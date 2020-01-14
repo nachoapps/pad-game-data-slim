@@ -6,10 +6,14 @@ SAWK: 60,52,55
 # 13497/116 - I'm not a proper Super Hero!!
 Tags: DROP_CHANCE,VOID_SKYFALLS
 Game: No Skyfall Combos for 10 turns; Fire Orbs slightly more likely to appear for 10 turns
+JP: For 10 turns, no skyfall; For 10 turns, Fire orbs are more likely to appear by 7%
 EN: For 10 turns, no skyfall; For 10 turns, Fire orbs are more likely to appear by 7%
+KR: For 10 turns, no skyfall; For 10 turns, Fire orbs are more likely to appear by 7%
 
 # 13500/138 - House Arrest Crush
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK with 6+ combos; 4x ATK & reduces damage with a cross of 5 Fire or Light Orbs
+JP: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
 EN: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
+KR: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
 

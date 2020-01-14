@@ -6,10 +6,14 @@ SAWK:
 # 3383/56 - Oink Oink!
 Tags: FIXED_DAMAGE
 Game: Inflict 100 damage on all enemies
+JP: Deal 100 fixed damage to all enemies
 EN: Deal 100 fixed damage to all enemies
+KR: Deal 100 fixed damage to all enemies
 
 # 3611/41 - Memory Stripe
 Tags: COUNTERATTACK
 Game: Fire Counterattack
+JP: 2x Fire counterattack
 EN: 2x Fire counterattack
+KR: 2x Fire counterattack
 

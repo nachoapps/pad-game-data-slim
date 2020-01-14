@@ -6,10 +6,14 @@ SAWK: 57,53,54
 # 15285/116 - 指示に従います
 Tags: VOID_ATT_ABSORBS
 Game: 消せないドロップ状態を全回復。 1ターンの間、属性吸収を無効化する。
+JP: Reduce unable to match orbs effect by 9999 turns; For 1 turn, bypass att. absorb shield effects
 EN: Reduce unable to match orbs effect by 9999 turns; For 1 turn, bypass att. absorb shield effects
+KR: Reduce unable to match orbs effect by 9999 turns; For 1 turn, bypass att. absorb shield effects
 
 # 15292/138 - カイサツソード
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: HP50％以上でダメージを軽減、攻撃力が2倍。 マシンタイプのHPが1.5倍、攻撃力は5倍。
+JP: 2x ATK and reduce damage taken by 35% when above 50% HP; 5x ATK and 1.5x HP for Machine type
 EN: 2x ATK and reduce damage taken by 35% when above 50% HP; 5x ATK and 1.5x HP for Machine type
+KR: 2x ATK and reduce damage taken by 35% when above 50% HP; 5x ATK and 1.5x HP for Machine type
 
