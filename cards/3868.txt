@@ -1,7 +1,7 @@
 #3868 Pixel Enchantress of the Sea, Siren
-HP: 2111 ATK: 1025 RCV: 721 LB: 0
-AWK: 11,3,9,21,19,48
-SAWK: 
+HP: 2111 ATK: 1025 RCV: 721 LB: 40
+AWK: 11,3,9,21,19,48,11,11
+SAWK: 52,43,55
 
 # 42/9 - Guard Stance - Water
 Tags: GUARD_STANCE,ORB_CONVERT

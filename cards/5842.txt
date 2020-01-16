@@ -1,0 +1,19 @@
+#5842 光翼の大魔女・ファスカ
+HP: 6500 ATK: 3350 RCV: 258 LB: 0
+AWK: 52,28,43,61,45,48,53,53,53
+SAWK: 
+
+# 15767/116 - ホワイトブースト
+Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 1ターンの間、ドロップ操作を2秒延長。
+JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+
+# 15774/138 - 古鳥霊の飛術
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 攻撃タイプのHPが1.5倍、攻撃力と回復力は4倍。 8コンボ以上でダメージを軽減、攻撃力が4倍。
+JP: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+

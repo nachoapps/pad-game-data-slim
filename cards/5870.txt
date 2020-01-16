@@ -1,0 +1,19 @@
+#5870 ドット・玄武の化身・メイメイ
+HP: 4475 ATK: 1764 RCV: 316 LB: 15
+AWK: 10,10,21,28,53,48,48,43,43
+SAWK: 53,60,68
+
+# 15755/116 - 北方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを木、光、闇ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+
+# 15708/138 - 霊亀の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 木光闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+

@@ -4324,12 +4324,12 @@ JP: 3.5x ATK and 1.5x RCV for Physical, Dragon type
 EN: 3.5x ATK and 1.5x RCV for Physical, Dragon type
 KR: 3.5x ATK and 1.5x RCV for Physical, Dragon type
 
-# 1286/129 - Flying Dragon's Decorum
+# 1286/138 - Flying Dragon's Decorum
 Tags: ENHANCED_ATK_RCV
 Game: 4x ATK & 2x RCV for Dragon & Balanced Types
-JP: 4x ATK and 2x RCV for Balanced, Dragon type
-EN: 4x ATK and 2x RCV for Balanced, Dragon type
-KR: 4x ATK and 2x RCV for Balanced, Dragon type
+JP: 4x ATK and 2x RCV for Balanced, Dragon type; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+EN: 4x ATK and 2x RCV for Balanced, Dragon type; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+KR: 4x ATK and 2x RCV for Balanced, Dragon type; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 
 # 1287/121 - Call of Gaia
 Tags: ENHANCED_ATK
@@ -22947,23 +22947,23 @@ KR: 40x ATK additional damage when matching orbs
 # 6231/138 - Spirit of the Blazing Falcon God
 Tags: ENHANCED_ATK_RCV
 Game: 4x ATK when 4 Att. attack at once, 5x ATK with 5 Att.; 2x ATK & RCV when skills used
-JP: 4x ATK when matching 4 or more colors up to 5x at 5 colors; 2x ATK & RCV on the turn a skill is used
-EN: 4x ATK when matching 4 or more colors up to 5x at 5 colors; 2x ATK & RCV on the turn a skill is used
-KR: 4x ATK when matching 4 or more colors up to 5x at 5 colors; 2x ATK & RCV on the turn a skill is used
+JP: 4x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK & RCV on the turn a skill is used
+EN: 4x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK & RCV on the turn a skill is used
+KR: 4x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK & RCV on the turn a skill is used
 
 # 6232/61 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4x ATK when matching 4 or more colors up to 5x at 5 colors
-EN: 4x ATK when matching 4 or more colors up to 5x at 5 colors
-KR: 4x ATK when matching 4 or more colors up to 5x at 5 colors
+JP: 4x ATK when matching 4 or more colors up to 6x at 5 colors
+EN: 4x ATK when matching 4 or more colors up to 6x at 5 colors
+KR: 4x ATK when matching 4 or more colors up to 6x at 5 colors
 
 # 6233/133 - 
 Tags: ENHANCED_ATK_RCV
 Game: 
-JP: 2x ATK & RCV on the turn a skill is used
-EN: 2x ATK & RCV on the turn a skill is used
-KR: 2x ATK & RCV on the turn a skill is used
+JP: 3x ATK & RCV on the turn a skill is used
+EN: 3x ATK & RCV on the turn a skill is used
+KR: 3x ATK & RCV on the turn a skill is used
 
 # 6234/138 - Spirit of the Sun God
 Tags: ENHANCED_ATK_RCV
@@ -24704,16 +24704,16 @@ KR: 2x ATK when matching Wood+Dark
 # 6564/138 - Soul of the Destroyer
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Fire Attribute; ATK increases with 4+ combos, up to 3.5x ATK
-JP: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
-EN: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
-KR: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+JP: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+EN: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+KR: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
 
 # 6565/129 - 
 Tags: ENHANCED_ATK_RCV
 Game: 
-JP: 2x ATK & RCV for Fire Att.
-EN: 2x ATK & RCV for Fire Att.
-KR: 2x ATK & RCV for Fire Att.
+JP: 5x ATK & RCV for Fire Att.
+EN: 5x ATK & RCV for Fire Att.
+KR: 5x ATK & RCV for Fire Att.
 
 # 6566/98 - 
 Tags: ENHANCED_ATK
@@ -52704,9 +52704,9 @@ KR: Increase orb movement time by 5 seconds
 # 14187/138 - True Spirit of the Fortune Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK for Wt Att., 4x ATK when skills used; halves dmg when recovering 50,000 HP or more with Heal Orbs
-JP: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
-EN: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
-KR: 4x ATK for Water Att.; 4x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
+JP: 4x ATK for Water Att.; 4.5x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
+EN: 4x ATK for Water Att.; 4.5x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
+KR: 4x ATK for Water Att.; 4.5x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
 
 # 14188/129 - 
 Tags: ENHANCED_ATK
@@ -52718,9 +52718,9 @@ KR: 4x ATK for Water Att.
 # 14189/133 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4x ATK on the turn a skill is used
-EN: 4x ATK on the turn a skill is used
-KR: 4x ATK on the turn a skill is used
+JP: 4.5x ATK on the turn a skill is used
+EN: 4.5x ATK on the turn a skill is used
+KR: 4.5x ATK on the turn a skill is used
 
 # 14190/198 - 
 Tags: REDUCE_DAMAGE
@@ -58078,6 +58078,160 @@ JP: 20x ATK and reduce damage taken by 25% when 7 or more combos
 EN: 20x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 20x ATK and reduce damage taken by 25% when 7 or more combos
 
+# 15690/138 - 優雅の心胆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復の2コンボ以上でダメージを軽減、攻撃力が5倍。
+JP: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+
+# 15692/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+
+# 15693/138 - 節度の心胆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 水の2コンボ以上でダメージを軽減、攻撃力が5倍。
+JP: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+
+# 15695/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+
+# 15696/138 - 無心の心胆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
+JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+
+# 15698/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+
+# 15699/138 - 高潔の心胆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
+JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+
+# 15701/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+
+# 15702/138 - 緋天の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火木光の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+
+# 15704/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+
+# 15705/138 - 昇竜の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 水木闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+
+# 15707/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+
+# 15708/138 - 霊亀の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 木光闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+
+# 15710/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+
+# 15711/138 - 四源の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水木光の同時攻撃でダメージを軽減、攻撃力が9倍。
+JP: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+EN: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+KR: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+
+# 15713/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+EN: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+KR: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+
+# 15714/138 - 虎咆の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+
+# 15716/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+EN: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+KR: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+
+# 15717/138 - ゾーン・オブ・ゼウス
+Tags: ENHANCED_ATK
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP満タン時に攻撃力が10倍。
+JP: 10x ATK when HP is full
+EN: 10x ATK when HP is full
+KR: 10x ATK when HP is full
+
+# 15719/183 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 10x ATK when HP is full
+EN: 10x ATK when HP is full
+KR: 10x ATK when HP is full
+
+# 15720/138 - 神王妃の微笑
+Tags: ENHANCED_ATK
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP50％以下で攻撃力が9倍。
+JP: 9x ATK when below 50% HP
+EN: 9x ATK when below 50% HP
+KR: 9x ATK when below 50% HP
+
+# 15722/183 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 9x ATK when below 50% HP
+EN: 9x ATK when below 50% HP
+KR: 9x ATK when below 50% HP
+
 # 15732/138 - 宵月の狐心
 Tags: ENHANCED_ATK
 Game: 【操作時間4秒】光闇の同時攻撃で攻撃力が3倍、3コンボ加算。 5属性いずれかの5個十字消し1個につき攻撃力が3倍。
@@ -58113,10 +58267,108 @@ JP: 3x ATK for each cross of 5 Light, Dark orbs
 EN: 3x ATK for each cross of 5 Light, Dark orbs
 KR: 3x ATK for each cross of 5 Light, Dark orbs
 
+# 15771/138 - 古鳥霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: 【7×6マス】 8コンボ以上でダメージを軽減、攻撃力が4倍。
+JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+
+# 15772/162 - 
+Tags: BOARD_CHANGE_7X6
+Game: 
+JP: [Board becomes 7x6]
+EN: [Board becomes 7x6]
+KR: [Board becomes 7x6]
+
+# 15773/169 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: 4x ATK and reduce damage taken by 25% when 8 or more combos
+
+# 15774/138 - 古鳥霊の飛術
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Game: 攻撃タイプのHPが1.5倍、攻撃力と回復力は4倍。 8コンボ以上でダメージを軽減、攻撃力が4倍。
+JP: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
+
+# 15775/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Game: 
+JP: 4x ATK & RCV and 1.5x HP for Attacker type
+EN: 4x ATK & RCV and 1.5x HP for Attacker type
+KR: 4x ATK & RCV and 1.5x HP for Attacker type
+
+# 15776/169 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: 4x ATK and reduce damage taken by 25% when 8 or more combos
+
+# 15783/138 - 古石霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: 【7×6マス】 闇を7個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+
+# 15784/162 - 
+Tags: BOARD_CHANGE_7X6
+Game: 
+JP: [Board becomes 7x6]
+EN: [Board becomes 7x6]
+KR: [Board becomes 7x6]
+
+# 15785/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+EN: 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+
+# 15786/138 - 古石霊の迷術
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Game: バランスタイプの全パラメータが2倍。ドロップ操作を2秒延長。 闇を7個以上つなげて消すとダメージを軽減、攻撃力が9倍。
+JP: 2x all stats for Balanced type; Increase orb movement time by 2 seconds; 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+EN: 2x all stats for Balanced type; Increase orb movement time by 2 seconds; 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+KR: 2x all stats for Balanced type; Increase orb movement time by 2 seconds; 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+
+# 15787/185 - 
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Game: 
+JP: 2x all stats for Balanced type; Increase orb movement time by 2 seconds
+EN: 2x all stats for Balanced type; Increase orb movement time by 2 seconds
+KR: 2x all stats for Balanced type; Increase orb movement time by 2 seconds
+
+# 15788/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+EN: 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+KR: 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+
 # 15797/129 - 
 Tags: REDUCE_DAMAGE
 Game: 
 JP: Reduce damage taken by 25%
 EN: Reduce damage taken by 25%
 KR: Reduce damage taken by 25%
+
+# 15841/129 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 4x ATK and 2x RCV for Balanced, Dragon type
+EN: 4x ATK and 2x RCV for Balanced, Dragon type
+KR: 4x ATK and 2x RCV for Balanced, Dragon type
+
+# 15842/192 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+EN: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+KR: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 

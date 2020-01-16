@@ -1,0 +1,19 @@
+#5868 ドット・朱雀の化身・レイラン
+HP: 3835 ATK: 1677 RCV: 552 LB: 15
+AWK: 10,10,21,28,53,48,48,43,43
+SAWK: 53,60,69
+
+# 15749/116 - 南方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを火、木、光ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+
+# 15702/138 - 緋天の連舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火木光の同時攻撃でダメージを軽減、攻撃力が8倍。
+JP: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+

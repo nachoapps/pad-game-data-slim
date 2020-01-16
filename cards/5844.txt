@@ -1,0 +1,19 @@
+#5844 鏡室の大魔女・ネレ
+HP: 2610 ATK: 1120 RCV: 205 LB: 0
+AWK: 52,28,26,26
+SAWK: 
+
+# 15777/116 - 魔印解放・ビリオス
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を闇ドロップに変化。 謎獣の大魔女・ネレに変身。
+JP: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+EN: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+KR: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+
+# 15783/138 - 古石霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: 【7×6マス】 闇を7個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
+

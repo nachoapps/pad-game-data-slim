@@ -1,0 +1,19 @@
+#5841 雲外の大魔女・ファスカ
+HP: 2510 ATK: 1325 RCV: 109 LB: 0
+AWK: 52,28,43
+SAWK: 
+
+# 15764/116 - 魔印解放・デザン
+Tags: ADD_COMBO
+Game: 1ターンの間、1コンボ加算される。 光翼の大魔女・ファスカに変身。
+JP: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+EN: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+KR: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+
+# 15771/138 - 古鳥霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: 【7×6マス】 8コンボ以上でダメージを軽減、攻撃力が4倍。
+JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
+

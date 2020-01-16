@@ -1,0 +1,19 @@
+#5866 ドット・四君子・シュウミン
+HP: 6040 ATK: 1491 RCV: 0 LB: 15
+AWK: 21,28,19,21,45,43,48,38,38
+SAWK: 52,62,56
+
+# 15743/116 - 錦秋の時節
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、体力タイプの攻撃力が2倍。 ランダムで光ドロップを8個生成。
+JP: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+EN: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+KR: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+
+# 15696/138 - 無心の心胆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
+JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+

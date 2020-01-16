@@ -4,9 +4,9 @@ AWK:
 SAWK: 
 
 # 941/116 - Solid Fortitude
-Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status by 5 turns
-JP: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
-EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
-KR: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
+JP: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+KR: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
 

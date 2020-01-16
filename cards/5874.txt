@@ -1,0 +1,19 @@
+#5874 ドット・覚醒ヘラ
+HP: 3940 ATK: 2046 RCV: 308 LB: 15
+AWK: 10,10,21,21,48,58,58,19,32
+SAWK: 48,54,36
+
+# 15726/116 - タンブリングダーク
+Tags: SUICIDE
+Game: HPが50％減少。 ランダムで闇ドロップを6個生成。
+JP: Reduce HP by 50%; Create 6 Dark orbs
+EN: Reduce HP by 50%; Create 6 Dark orbs
+KR: Reduce HP by 50%; Create 6 Dark orbs
+
+# 15720/138 - 神王妃の微笑
+Tags: ENHANCED_ATK
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP50％以下で攻撃力が9倍。
+JP: 9x ATK when below 50% HP
+EN: 9x ATK when below 50% HP
+KR: 9x ATK when below 50% HP
+

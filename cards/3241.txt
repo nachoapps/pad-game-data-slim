@@ -1,19 +1,19 @@
 #3241 Reincarnated Shiva
-HP: 4361 ATK: 2615 RCV: 123 LB: 10
-AWK: 19,21,27,27,21,14,28,19,14
+HP: 4361 ATK: 2715 RCV: 123 LB: 10
+AWK: 43,43,27,27,56,14,28,53,14
 SAWK: 27,43,60
 
 # 1887/116 - Devastating Third Eye
-Tags: ENHANCED_ORBS,REDUCE_DEFENSE
+Tags: ENHANCED_ORBS,REDUCE_DEFENSE,REDUCE_DAMAGE
 Game: Vastly reduces enemies' DEF for 1 turn; Fire & Heal Orbs enhanced
-JP: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
-EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
-KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
+JP: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
+EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
+KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
 
 # 6564/138 - Soul of the Destroyer
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Fire Attribute; ATK increases with 4+ combos, up to 3.5x ATK
-JP: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
-EN: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
-KR: 2x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+JP: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+EN: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
+KR: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
 

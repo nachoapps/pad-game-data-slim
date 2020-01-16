@@ -2743,11 +2743,11 @@ EN: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 tu
 KR: Change Heal, Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns
 
 # 941/116 - Solid Fortitude
-Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status by 5 turns
-JP: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
-EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
-KR: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds by 5 turns
+JP: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+EN: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+KR: Change Heal, Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
 
 # 942/116 - Dragon Heart Sutra
 Tags: HEAL,ENHANCED_HEAL
@@ -4430,11 +4430,11 @@ EN: Recover 3000 HP; Reduce binds by 3 turns
 KR: Recover 3000 HP; Reduce binds by 3 turns
 
 # 1200/117 - 魏将・関羽（仮）
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: 
-JP: Recover 5000 HP; Reduce binds by 5 turns
-EN: Recover 5000 HP; Reduce binds by 5 turns
-KR: Recover 5000 HP; Reduce binds by 5 turns
+JP: Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+EN: Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
+KR: Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
 
 # 1301/3 - ソエル
 Tags: REDUCE_DAMAGE
@@ -7013,11 +7013,11 @@ EN: Recover 4000 HP; Reduce binds by 4 turns
 KR: Recover 4000 HP; Reduce binds by 4 turns
 
 # 1887/116 - Devastating Third Eye
-Tags: ENHANCED_ORBS,REDUCE_DEFENSE
+Tags: ENHANCED_ORBS,REDUCE_DEFENSE,REDUCE_DAMAGE
 Game: Vastly reduces enemies' DEF for 1 turn; Fire & Heal Orbs enhanced
-JP: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
-EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
-KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs
+JP: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
+EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
+KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
 
 # 1888/116 - Genbu Seven-Star Formation
 Tags: ALL_ORBS_CONVERT
@@ -41937,6 +41937,48 @@ JP: For 2 turns, 1.5x orb move time
 EN: For 2 turns, 1.5x orb move time
 KR: For 2 turns, 1.5x orb move time
 
+# 15723/116 - レイ・オブ・ゴッド
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: HPを全回復。 最上段横1列を光ドロップに変化。
+JP: Recover all HP; Change the top row to Light orbs
+EN: Recover all HP; Change the top row to Light orbs
+KR: Recover all HP; Change the top row to Light orbs
+
+# 15724/117 - 
+Tags: HEAL
+Game: 
+JP: Recover all HP
+EN: Recover all HP
+KR: Recover all HP
+
+# 15725/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: Change the top row to Light orbs
+EN: Change the top row to Light orbs
+KR: Change the top row to Light orbs
+
+# 15726/116 - タンブリングダーク
+Tags: SUICIDE
+Game: HPが50％減少。 ランダムで闇ドロップを6個生成。
+JP: Reduce HP by 50%; Create 6 Dark orbs
+EN: Reduce HP by 50%; Create 6 Dark orbs
+KR: Reduce HP by 50%; Create 6 Dark orbs
+
+# 15727/195 - 
+Tags: SUICIDE
+Game: 
+JP: Reduce HP by 50%
+EN: Reduce HP by 50%
+KR: Reduce HP by 50%
+
+# 15728/141 - 
+Tags: 
+Game: 
+JP: Create 6 Dark orbs
+EN: Create 6 Dark orbs
+KR: Create 6 Dark orbs
+
 # 15729/116 - 静夜の帳
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,VOID_SKYFALLS
 Game: 1ターンの間、落ちコンしなくなる。 回復ドロップを闇に、木ドロップを光に変化。
@@ -41958,6 +42000,328 @@ JP: Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 EN: Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 KR: Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 
+# 15737/116 - 芳春の時節
+Tags: REDUCE_DAMAGE
+Game: 火以外のドロップから回復ドロップを6個生成。 1ターンの間、受けるダメージを半減。
+JP: Create 6 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 50%
+EN: Create 6 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 50%
+KR: Create 6 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 50%
+
+# 15738/141 - 
+Tags: 
+Game: 
+JP: Create 6 Heal orbs over non Fire orbs
+EN: Create 6 Heal orbs over non Fire orbs
+KR: Create 6 Heal orbs over non Fire orbs
+
+# 15739/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: For 1 turn, reduce damage taken by 50%
+EN: For 1 turn, reduce damage taken by 50%
+KR: For 1 turn, reduce damage taken by 50%
+
+# 15740/116 - 清夏の時節
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、攻撃タイプの攻撃力が2倍。 ランダムで水ドロップを6個生成。
+JP: For 1 turn, 2x ATK for Attacker type; Create 6 Water orbs
+EN: For 1 turn, 2x ATK for Attacker type; Create 6 Water orbs
+KR: For 1 turn, 2x ATK for Attacker type; Create 6 Water orbs
+
+# 15741/88 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: For 1 turn, 2x ATK for Attacker type
+EN: For 1 turn, 2x ATK for Attacker type
+KR: For 1 turn, 2x ATK for Attacker type
+
+# 15742/141 - 
+Tags: 
+Game: 
+JP: Create 6 Water orbs
+EN: Create 6 Water orbs
+KR: Create 6 Water orbs
+
+# 15743/116 - 錦秋の時節
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、体力タイプの攻撃力が2倍。 ランダムで光ドロップを8個生成。
+JP: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+EN: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+KR: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
+
+# 15744/88 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: For 1 turn, 2x ATK for Physical type
+EN: For 1 turn, 2x ATK for Physical type
+KR: For 1 turn, 2x ATK for Physical type
+
+# 15745/141 - 
+Tags: 
+Game: 
+JP: Create 8 Light orbs
+EN: Create 8 Light orbs
+KR: Create 8 Light orbs
+
+# 15746/116 - 盛冬の時節
+Tags: REDUCE_DAMAGE
+Game: ランダムで闇と回復ドロップを3個ずつ生成。 1ターンの間、受けるダメージを半減。
+JP: Create 3 Dark and Heal orbs; For 1 turn, reduce damage taken by 50%
+EN: Create 3 Dark and Heal orbs; For 1 turn, reduce damage taken by 50%
+KR: Create 3 Dark and Heal orbs; For 1 turn, reduce damage taken by 50%
+
+# 15747/141 - 
+Tags: 
+Game: 
+JP: Create 3 Dark and Heal orbs
+EN: Create 3 Dark and Heal orbs
+KR: Create 3 Dark and Heal orbs
+
+# 15748/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: For 1 turn, reduce damage taken by 50%
+EN: For 1 turn, reduce damage taken by 50%
+KR: For 1 turn, reduce damage taken by 50%
+
+# 15749/116 - 南方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを火、木、光ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
+
+# 15750/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Reduce binds and awoken skill binds by 5 turns
+EN: Reduce binds and awoken skill binds by 5 turns
+KR: Reduce binds and awoken skill binds by 5 turns
+
+# 15751/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: Change all orbs to Fire, Wood, and Light orbs
+EN: Change all orbs to Fire, Wood, and Light orbs
+KR: Change all orbs to Fire, Wood, and Light orbs
+
+# 15752/116 - 東方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを水、木、闇ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Water, Wood, and Dark orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Water, Wood, and Dark orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Water, Wood, and Dark orbs
+
+# 15753/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Reduce binds and awoken skill binds by 5 turns
+EN: Reduce binds and awoken skill binds by 5 turns
+KR: Reduce binds and awoken skill binds by 5 turns
+
+# 15754/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: Change all orbs to Water, Wood, and Dark orbs
+EN: Change all orbs to Water, Wood, and Dark orbs
+KR: Change all orbs to Water, Wood, and Dark orbs
+
+# 15755/116 - 北方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを木、光、闇ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
+
+# 15756/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Reduce binds and awoken skill binds by 5 turns
+EN: Reduce binds and awoken skill binds by 5 turns
+KR: Reduce binds and awoken skill binds by 5 turns
+
+# 15757/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: Change all orbs to Wood, Light, and Dark orbs
+EN: Change all orbs to Wood, Light, and Dark orbs
+KR: Change all orbs to Wood, Light, and Dark orbs
+
+# 15758/116 - 四神輪舞
+Tags: GRAVITY,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を全回復。 敵のHPが20％減少。
+JP: Remove all binds and awoken skill binds; Reduce enemies' HP by 20%
+EN: Remove all binds and awoken skill binds; Reduce enemies' HP by 20%
+KR: Remove all binds and awoken skill binds; Reduce enemies' HP by 20%
+
+# 15759/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Remove all binds and awoken skill binds
+EN: Remove all binds and awoken skill binds
+KR: Remove all binds and awoken skill binds
+
+# 15760/6 - 
+Tags: GRAVITY
+Game: 
+JP: Reduce enemies' HP by 20%
+EN: Reduce enemies' HP by 20%
+KR: Reduce enemies' HP by 20%
+
+# 15761/116 - 西方七宿陣
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを火、水、闇ドロップに変化。
+JP: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Water, and Dark orbs
+EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Water, and Dark orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Water, and Dark orbs
+
+# 15762/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Reduce binds and awoken skill binds by 5 turns
+EN: Reduce binds and awoken skill binds by 5 turns
+KR: Reduce binds and awoken skill binds by 5 turns
+
+# 15763/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: Change all orbs to Fire, Water, and Dark orbs
+EN: Change all orbs to Fire, Water, and Dark orbs
+KR: Change all orbs to Fire, Water, and Dark orbs
+
+# 15764/116 - 魔印解放・デザン
+Tags: ADD_COMBO
+Game: 1ターンの間、1コンボ加算される。 光翼の大魔女・ファスカに変身。
+JP: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+EN: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+KR: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
+
+# 15765/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: For 1 turn, increase combo count by 1
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 15766/202 - 
+Tags: 
+Game: 
+JP: Changes to [5842] for the duration of the dungeon
+EN: Changes to [5842] for the duration of the dungeon
+KR: Changes to [5842] for the duration of the dungeon
+
+# 15767/116 - ホワイトブースト
+Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 1ターンの間、ドロップ操作を2秒延長。
+JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
+
+# 15768/196 - 
+Tags: 
+Game: 
+JP: Reduce unable to match orbs effect by 9999 turns
+EN: Reduce unable to match orbs effect by 9999 turns
+KR: Reduce unable to match orbs effect by 9999 turns
+
+# 15769/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: Remove all binds and awoken skill binds
+EN: Remove all binds and awoken skill binds
+KR: Remove all binds and awoken skill binds
+
+# 15770/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: For 1 turn, increase orb move time by 2 seconds
+EN: For 1 turn, increase orb move time by 2 seconds
+KR: For 1 turn, increase orb move time by 2 seconds
+
+# 15777/116 - 魔印解放・ビリオス
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を闇ドロップに変化。 謎獣の大魔女・ネレに変身。
+JP: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+EN: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+KR: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
+
+# 15778/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: Change the bottom row to Dark orbs
+EN: Change the bottom row to Dark orbs
+KR: Change the bottom row to Dark orbs
+
+# 15779/202 - 
+Tags: 
+Game: 
+JP: Changes to [5845] for the duration of the dungeon
+EN: Changes to [5845] for the duration of the dungeon
+KR: Changes to [5845] for the duration of the dungeon
+
+# 15780/116 - ブラックアクアリウム
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Game: 1ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
+JP: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+EN: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+
+# 15781/173 - 
+Tags: VOID_DAMAGE_ABSORBS
+Game: 
+JP: For 1 turn, bypass damage absorb shield effects
+EN: For 1 turn, bypass damage absorb shield effects
+KR: For 1 turn, bypass damage absorb shield effects
+
+# 15782/127 - 
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
+Game: 
+JP: Change the far left column to Dark orbs and change the far right column to Heal orbs
+EN: Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: Change the far left column to Dark orbs and change the far right column to Heal orbs
+
+# 15789/116 - デザンブースト
+Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 3ターンの間、回復力とドロップ操作時間が2倍。
+JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
+EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
+KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
+
+# 15790/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: For 3 turns, 2x RCV
+EN: For 3 turns, 2x RCV
+KR: For 3 turns, 2x RCV
+
+# 15791/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: For 3 turns, 2x orb move time
+EN: For 3 turns, 2x orb move time
+KR: For 3 turns, 2x orb move time
+
+# 15792/116 - ビリオスアクアリウム
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Game: 2ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
+JP: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+EN: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
+
+# 15793/173 - 
+Tags: VOID_DAMAGE_ABSORBS
+Game: 
+JP: For 2 turns, bypass damage absorb shield effects
+EN: For 2 turns, bypass damage absorb shield effects
+KR: For 2 turns, bypass damage absorb shield effects
+
+# 15794/127 - 
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
+Game: 
+JP: Change the far left column to Dark orbs and change the far right column to Heal orbs
+EN: Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: Change the far left column to Dark orbs and change the far right column to Heal orbs
+
 # 15795/196 - 
 Tags: 
 Game: 
@@ -41971,4 +42335,11 @@ Game:
 JP: For 1 turn, bypass att. absorb shield effects
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
+
+# 15840/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: For 1 turn, reduce damage taken by 75%
+EN: For 1 turn, reduce damage taken by 75%
+KR: For 1 turn, reduce damage taken by 75%
 
