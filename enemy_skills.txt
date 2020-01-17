@@ -10856,9 +10856,9 @@ EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
 # 2166/89 - Yomi Wave
-JP: スキルターンを4ターン遅延
-EN: Delay active skills by 4 turns
-KR: Delay active skills by 4 turns
+JP: スキルターンを0~4ターン遅延
+EN: Delay active skills by 0~4 turns
+KR: Delay active skills by 0~4 turns
 
 # 2167/92 - Divine Hellfire
 JP: 火と闇ドロップを4個ずつ生成
@@ -11331,9 +11331,9 @@ EN: Change 3 random orbs to Poison orbs
 KR: Change 3 random orbs to Poison orbs
 
 # 2261/89 - Counting the Cost
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 2262/15 - Celestial Spectacle
 JP: 240~320%ダメージ (3~4連続攻撃、80%ごと)
@@ -11891,9 +11891,9 @@ EN: Change the 2nd and 3rd rows to Fire orbs
 KR: Change the 2nd and 3rd rows to Fire orbs
 
 # 2373/89 - Strange Scream
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 2374/15 - Rock of Mandragora
 JP: 150%ダメージ (5連続攻撃、30%ごと)
@@ -12146,9 +12146,9 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
 # 2424/89 - Sambhogakaya
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2425/67 - Meow Meoooow
 JP: 99ターンの間、3コンボ以下の攻撃を吸収
@@ -12391,9 +12391,9 @@ EN: Absorb Water damage for 1 turn
 KR: Absorb Water damage for 1 turn
 
 # 2473/89 - Stun Buckler
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2474/15 - Slash and Thrust
 JP: 110%ダメージ
@@ -12431,9 +12431,9 @@ EN: Deal 120% damage
 KR: Deal 120% damage
 
 # 2481/89 - 神秘のサーフボード
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2482/77 - アクア・360°
 JP: 上から2と3列目のドロップが水ドロップに変化
@@ -12456,9 +12456,9 @@ EN: Reduce damage from all sources by 50% for 1 turn
 KR: Reduce damage from all sources by 50% for 1 turn
 
 # 2486/89 - 禁断のプログラム
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 2487/74 - サバイバー大増殖
 JP: 2ターンの間、受けるダメージからの攻撃を50%減少
@@ -12921,9 +12921,9 @@ EN:
 KR: 
 
 # 2579/89 - Abandon All Hope
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2580/4 - Private Army
 JP: 回復ドロップをお邪魔ドロップに変化
@@ -12976,9 +12976,9 @@ EN: Player -75% HP
 KR: Player -75% HP
 
 # 2590/89 - Nyaa!
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2591/17 - Monster Hunter 4G Collab Series
 JP: 1ターンの間、攻撃力が200%に上昇
@@ -14196,9 +14196,9 @@ EN: Change a random attribute to Water orbs
 KR: Change a random attribute to Water orbs
 
 # 2834/89 - Cold Scythe
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 2835/63 - Crystallizing Dark Wave
 JP: 3ターンの間、ランダムで2体がバインド
@@ -14691,9 +14691,9 @@ EN:
 KR: 
 
 # 2933/89 - Reduce Shot
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 2934/79 - Earth Wind Shot
 JP: 左から3列目のドロップが木ドロップに変化
@@ -15214,9 +15214,9 @@ EN: Change the 1st, 3rd, and 5th rows to Fire, Dark, and Jammer orbs
 KR: Change the 1st, 3rd, and 5th rows to Fire, Dark, and Jammer orbs
 
 # 3037/89 - Beast's Ambition
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 3038/83 - Dark Color Set
 JP: 
@@ -15319,9 +15319,9 @@ EN: Player recover 100% HP
 KR: Player recover 100% HP
 
 # 3058/89 - Dragon Monk Telekinesis
-JP: スキルターンを4ターン遅延
-EN: Delay active skills by 4 turns
-KR: Delay active skills by 4 turns
+JP: スキルターンを0~4ターン遅延
+EN: Delay active skills by 0~4 turns
+KR: Delay active skills by 0~4 turns
 
 # 3059/63 - Dragon Monk Binding Law of Tathagata
 JP: 4ターンの間、ランダムで1体がバインド
@@ -15554,9 +15554,9 @@ EN: Lock all Wood orbs
 KR: Lock all Wood orbs
 
 # 3105/89 - Sigh of Sadness
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 3106/85 - Frozen Pain
 JP: 全ドロップを水と毒に変化
@@ -16054,9 +16054,9 @@ EN: Change the 1st, 3rd, 5th, and 7th columns to Fire, Water, Wood, Light, and D
 KR: Change the 1st, 3rd, 5th, and 7th columns to Fire, Water, Wood, Light, and Dark orbs and the 2nd, 4th, and 6th columns to Jammer and Poison orbs
 
 # 3205/89 - Requiem
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 3206/15 - Sudden Curtain Call
 JP: 1000%ダメージ
@@ -16699,9 +16699,9 @@ EN: Change all Fire orbs to Jammer orbs
 KR: Change all Fire orbs to Jammer orbs
 
 # 3334/89 - Muspell's Army
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 3335/15 - Last Flame
 JP: 280%ダメージ (4連続攻撃、70%ごと)
@@ -21469,9 +21469,9 @@ EN: Do nothing
 KR: Do nothing
 
 # 4288/89 - Suppressive Wave
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 4289/67 - Ordeal Section
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
@@ -22019,9 +22019,9 @@ EN: Voids status ailments for 3 turns
 KR: Voids status ailments for 3 turns
 
 # 4398/89 - Glacial Eyes
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 4399/15 - This ends here!!!
 JP: 120%ダメージ
@@ -23752,9 +23752,9 @@ EN: Movetime -1s for 1 turn
 KR: Movetime -1s for 1 turn
 
 # 4744/89 - Loud Voice of Revelation
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 4745/1 - Soul's Oracle
 JP: 1ターンの間、ランダムで1体がバインド
@@ -24282,9 +24282,9 @@ EN: Deal 800% damage (8 hits, 100% each)
 KR: Deal 800% damage (8 hits, 100% each)
 
 # 4850/89 - Don't come any closer!!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 4851/15 - Dimension-Celestial Thorn of Chaos
 JP: 160%ダメージ
@@ -24552,9 +24552,9 @@ EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
 # 4904/89 - Which one of you will be my opponent?
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 4905/13 - Dimension-Curse of the Sea God
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
@@ -25667,9 +25667,9 @@ EN: Spawn 3 random Dark orbs
 KR: Spawn 3 random Dark orbs
 
 # 5127/89 - Visitor, come here but do not rush
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 5128/94 - Dimension-Miracle
 JP: 木と回復ドロップをロック
@@ -26285,9 +26285,9 @@ EN:
 KR: 
 
 # 5250/89 - Ana starts crying
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 5251/15 - 10 combos!!
 JP: 200%ダメージ (10連続攻撃、20%ごと)
@@ -26390,24 +26390,24 @@ EN: Bind 4 random subs for 3 turns
 KR: Bind 4 random subs for 3 turns
 
 # 5271/89 - Maiden's Aura
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 5272/89 - Goddess' Aura
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 5273/89 - Fighting Maiden's Aura
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 5274/89 - Divine Law's Aura
-JP: スキルターンを4ターン遅延
-EN: Delay active skills by 4 turns
-KR: Delay active skills by 4 turns
+JP: スキルターンを0~4ターン遅延
+EN: Delay active skills by 0~4 turns
+KR: Delay active skills by 0~4 turns
 
 # 5275/83 - Harinaoshi Set
 JP: 
@@ -28485,9 +28485,9 @@ EN: Survive attacks with 1 HP when HP > 71%
 KR: Survive attacks with 1 HP when HP > 71%
 
 # 5690/89 - Don't tremble!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 5691/17 - Demon Solo
 JP: 999ターンの間、攻撃力が300%に上昇
@@ -32310,9 +32310,9 @@ EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
 
 # 6455/89 - Young Dragon Blast
-JP: スキルターンを4ターン遅延
-EN: Delay active skills by 4 turns
-KR: Delay active skills by 4 turns
+JP: スキルターンを0~4ターン遅延
+EN: Delay active skills by 0~4 turns
+KR: Delay active skills by 0~4 turns
 
 # 6456/83 - Dark Izanami Preemptive Set
 JP: 
@@ -37870,9 +37870,9 @@ EN: Voids status ailments for 9 turns
 KR: Voids status ailments for 9 turns
 
 # 7567/89 - Quick Low Kick
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 7568/62 - Powerful High Kick
 JP: 全ドロップを真っ暗にする
@@ -39220,9 +39220,9 @@ EN: Deal 240% damage (3 hits, 80% each)
 KR: Deal 240% damage (3 hits, 80% each)
 
 # 7837/89 - Guasa
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 7838/17 - Judgment day has come
 JP: 999ターンの間、攻撃力が150%に上昇
@@ -40250,9 +40250,9 @@ EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
 # 8043/89 - Helmet Splitter
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 8044/94 - Forward Kick
 JP: ランダムで6個ドロップをロック
@@ -40585,9 +40585,9 @@ EN: Deal 330% damage (3 hits, 110% each)
 KR: Deal 330% damage (3 hits, 110% each)
 
 # 8110/89 - Body Blow
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 8111/15 - Combo Rush
 JP: 400%ダメージ (5連続攻撃、80%ごと)
@@ -41205,9 +41205,9 @@ EN:
 KR: 
 
 # 8234/89 - Drumming of the Underworld
-JP: スキルターンを7ターン遅延
-EN: Delay active skills by 7 turns
-KR: Delay active skills by 7 turns
+JP: スキルターンを0~7ターン遅延
+EN: Delay active skills by 0~7 turns
+KR: Delay active skills by 0~7 turns
 
 # 8235/92 - Golden Deity's Lamentation
 JP: お邪魔ドロップを15個生成
@@ -42210,9 +42210,9 @@ EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
 # 8435/89 - Flanking Assault
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 8436/20 - Genetically Engineered Strength
 JP: 5ターンの間、状態異常無効化
@@ -42745,9 +42745,9 @@ EN: A 2×2 square of clouds appears for 5 turns at a random location
 KR: A 2×2 square of clouds appears for 5 turns at a random location
 
 # 8542/89 - Ritual Chimes
-JP: スキルターンを4ターン遅延
-EN: Delay active skills by 4 turns
-KR: Delay active skills by 4 turns
+JP: スキルターンを0~4ターン遅延
+EN: Delay active skills by 0~4 turns
+KR: Delay active skills by 0~4 turns
 
 # 8543/85 - Maple Leaf Revolt Dance
 JP: 全ドロップを火と木に変化
@@ -44115,9 +44115,9 @@ EN: Change the 3rd and 4th columns to Wood orbs
 KR: Change the 3rd and 4th columns to Wood orbs
 
 # 8816/89 - Blast Bash
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 8817/15 - Tempest Slash
 JP: 300%ダメージ (5連続攻撃、60%ごと)
@@ -44540,9 +44540,9 @@ EN: Specific orbs change every 1.0s for 3 turns
 KR: Specific orbs change every 1.0s for 3 turns
 
 # 8901/89 - Short Tackle
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 8902/50 - Charge
 JP: 現HPの70%のダメージ
@@ -44975,9 +44975,9 @@ EN: Bind 1 random sub for 1 turn
 KR: Bind 1 random sub for 1 turn
 
 # 8988/89 - Don't rush!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 8989/85 - Kirin Four Origin Perception
 JP: 全ドロップを火、水、木、光に変化
@@ -45915,9 +45915,9 @@ EN: Forces attacks to hit this enemy for 66 turns
 KR: Forces attacks to hit this enemy for 66 turns
 
 # 9176/89 - Shield Bash
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 9177/39 - Instant Ripped Death
 JP: 1ターンの間、操作時間+50%
@@ -46350,9 +46350,9 @@ EN: Change all orbs to Fire, Water, and Jammer
 KR: Change all orbs to Fire, Water, and Jammer
 
 # 9263/89 - Reverse time!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 9264/83 - Urd Second Half B2 times
 JP: 
@@ -49163,9 +49163,9 @@ EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
 
 # 9825/89 - Star Symphony
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 9826/15 - Meteor Rain
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -49963,9 +49963,9 @@ EN: Bind 1 random card for 3 turns
 KR: Bind 1 random card for 3 turns
 
 # 9985/89 - Garudyne
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 9986/83 - 8.10th turn Carol Just
 JP: 
@@ -50358,9 +50358,9 @@ EN: Change the 2nd and 3rd rows to Wood and Jammer orbs
 KR: Change the 2nd and 3rd rows to Wood and Jammer orbs
 
 # 10064/89 - Uwaaba
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 10065/72 - Fire Att. Halved
 JP: 火属性からの攻撃からの攻撃を50%減少
@@ -50443,9 +50443,9 @@ EN: Blind all orbs for 1 turn
 KR: Blind all orbs for 1 turn
 
 # 10081/89 - Black Feelings
-JP: スキルターンを15ターン遅延
-EN: Delay active skills by 15 turns
-KR: Delay active skills by 15 turns
+JP: スキルターンを0~15ターン遅延
+EN: Delay active skills by 0~15 turns
+KR: Delay active skills by 0~15 turns
 
 # 10082/83 - Preemptive 4 times Mowa
 JP: 
@@ -50453,9 +50453,9 @@ EN:
 KR: 
 
 # 10083/89 - Black Feelings
-JP: スキルターンを5ターン遅延
-EN: Delay active skills by 5 turns
-KR: Delay active skills by 5 turns
+JP: スキルターンを0~5ターン遅延
+EN: Delay active skills by 0~5 turns
+KR: Delay active skills by 0~5 turns
 
 # 10084/48 - Light Eater
 JP: 光ドロップを回復ドロップに変化
@@ -51648,9 +51648,9 @@ EN: Spawn 3 random Wood orbs
 KR: Spawn 3 random Wood orbs
 
 # 10322/89 - Air Reduction
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10323/74 - New Greenery Protection
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
@@ -51773,9 +51773,9 @@ EN: Spawn 3 random Fire orbs
 KR: Spawn 3 random Fire orbs
 
 # 10347/89 - Easing Friction
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10348/74 - Mountain Protection
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
@@ -51898,9 +51898,9 @@ EN: Spawn 3 random Water orbs
 KR: Spawn 3 random Water orbs
 
 # 10372/89 - Expelling Hydrogen
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10373/74 - Wave Protection
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
@@ -52023,9 +52023,9 @@ EN: Spawn 3 random Dark orbs
 KR: Spawn 3 random Dark orbs
 
 # 10397/89 - Fading Shadow
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10398/74 - Moonlight Protection
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
@@ -52148,9 +52148,9 @@ EN: Spawn 3 random Light orbs
 KR: Spawn 3 random Light orbs
 
 # 10422/89 - Dimming Sunlight
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10423/74 - Sunray Protection
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
@@ -52843,9 +52843,9 @@ EN:
 KR: 
 
 # 10561/89 - Rúro Pari
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 10562/15 - Synchronized Burst
 JP: 80%ダメージ (4連続攻撃、20%ごと)
@@ -52973,9 +52973,9 @@ EN: Change a random attribute to Light orbs
 KR: Change a random attribute to Light orbs
 
 # 10587/89 - Wild Ball
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10588/110 - Excalibur!!!
 JP: 1.0ターンの間、特定の位置のマスが2.0秒毎に変化する
@@ -53768,9 +53768,9 @@ EN: Deal 120% damage (3 hits, 40% each)
 KR: Deal 120% damage (3 hits, 40% each)
 
 # 10746/89 - Dark Shine
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 10747/97 - Anghel Feldamis
 JP: 1ターンの間、ランダムで4~8個のドロップを超暗闇にする
@@ -54043,9 +54043,9 @@ EN: Void damage >= 40000000 for 99 turns
 KR: Void damage >= 40000000 for 99 turns
 
 # 10801/89 - Form Collapse
-JP: スキルターンを7ターン遅延
-EN: Delay active skills by 7 turns
-KR: Delay active skills by 7 turns
+JP: スキルターンを0~7ターン遅延
+EN: Delay active skills by 0~7 turns
+KR: Delay active skills by 0~7 turns
 
 # 10802/83 - Preemptive 2 times
 JP: 
@@ -54573,9 +54573,9 @@ EN: Lock 10 random orbs
 KR: Lock 10 random orbs
 
 # 10907/89 - Aidid Auda
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 10908/92 - Sana Azlak
 JP: 水ドロップを6個生成
@@ -54883,9 +54883,9 @@ EN: Absorb damage when combos <= 7 for 10 turns
 KR: Absorb damage when combos <= 7 for 10 turns
 
 # 10969/89 - You're in trouble now!
-JP: スキルターンを10ターン遅延
-EN: Delay active skills by 10 turns
-KR: Delay active skills by 10 turns
+JP: スキルターンを0~10ターン遅延
+EN: Delay active skills by 0~10 turns
+KR: Delay active skills by 0~10 turns
 
 # 10970/15 - This is my victory!
 JP: 450%ダメージ (3連続攻撃、150%ごと)
@@ -55058,9 +55058,9 @@ EN: Spawn 3 random Light orbs
 KR: Spawn 3 random Light orbs
 
 # 11004/89 - Don't belittle an Earth policeman!
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 11005/94 - You can't go one step further!
 JP: ランダムで4個ドロップをロック
@@ -55133,9 +55133,9 @@ EN: Leader changes to random sub for 1 turn
 KR: Leader changes to random sub for 1 turn
 
 # 11019/89 - Haughty in regards to my brother
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11020/15 - You're in the way! Move!
 JP: 120%ダメージ (2連続攻撃、60%ごと)
@@ -55678,9 +55678,9 @@ EN: Spawn 4 random Bomb orbs
 KR: Spawn 4 random Bomb orbs
 
 # 11128/89 - This is going to get difficult
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11129/15 - Can you go on?
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -55798,9 +55798,9 @@ EN: Change all Jammer orbs to Fire orbs
 KR: Change all Jammer orbs to Fire orbs
 
 # 11152/89 - I'll make you suffer!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11153/92 - I'll burn you to ashes!
 JP: お邪魔ドロップを5個生成
@@ -55998,9 +55998,9 @@ EN: Increase damage to 150% for the next 99 turns
 KR: Increase damage to 150% for the next 99 turns
 
 # 11192/89 - Put your back into it!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11193/65 - What's wrong? Shameful display!
 JP: 2ターンの間、ランダムでサブ3体がバインド
@@ -56508,9 +56508,9 @@ EN: Player -99% HP
 KR: Player -99% HP
 
 # 11294/89 - Glint of Despair
-JP: スキルターンを7ターン遅延
-EN: Delay active skills by 7 turns
-KR: Delay active skills by 7 turns
+JP: スキルターンを0~7ターン遅延
+EN: Delay active skills by 0~7 turns
+KR: Delay active skills by 0~7 turns
 
 # 11295/83 - HP 20% or less 2 times
 JP: 
@@ -56798,9 +56798,9 @@ EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
 # 11352/89 - Bow before me
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 11353/48 - Blood Pain
 JP: ランダム属性のドロップを闇ドロップに変化
@@ -57318,9 +57318,9 @@ EN: Player -99% HP
 KR: Player -99% HP
 
 # 11456/89 - Downward Sword Slash
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11457/79 - Sweeping Beam Attack
 JP: 左から2列目のドロップが光ドロップに変化
@@ -58978,9 +58978,9 @@ EN: Change the 4th row to Light orbs
 KR: Change the 4th row to Light orbs
 
 # 11788/89 - Hammer Mode
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 11789/17 - Gain Riser
 JP: 3ターンの間、攻撃力が150%に上昇
@@ -59388,9 +59388,9 @@ EN: Bind 1 random sub for 2~3 turns
 KR: Bind 1 random sub for 2~3 turns
 
 # 11870/89 - Overflow
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11871/48 - High Water
 JP: ランダム属性のドロップを水ドロップに変化
@@ -59593,9 +59593,9 @@ EN: Change a random attribute to Water orbs
 KR: Change a random attribute to Water orbs
 
 # 11911/89 - Let's talk some more!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 11912/104 - Let's make things a little misty ♪
 JP: 1ターンの間、ランダムでの1×3マスの長方形を雲で隠す
@@ -59803,9 +59803,9 @@ EN: Deal 50% damage
 KR: Deal 50% damage
 
 # 11953/89 - Don't ever melt, okay?
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 11954/94 - I'll let you freeze a little!
 JP: ランダムで8個ドロップをロック
@@ -60683,9 +60683,9 @@ EN: Reduce damage from all sources by 75% for 5 turns
 KR: Reduce damage from all sources by 75% for 5 turns
 
 # 12129/89 - Ritual Chimes
-JP: スキルターンを7ターン遅延
-EN: Delay active skills by 7 turns
-KR: Delay active skills by 7 turns
+JP: スキルターンを0~7ターン遅延
+EN: Delay active skills by 0~7 turns
+KR: Delay active skills by 0~7 turns
 
 # 12130/83 - Preemptive Lilith Set
 JP: 
@@ -61143,9 +61143,9 @@ EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
 
 # 12221/89 - Yah!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12222/15 - Hmph!
 JP: 115%ダメージ
@@ -61813,9 +61813,9 @@ EN: Player -77% HP
 KR: Player -77% HP
 
 # 12355/89 - Double Sword Wave
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12356/74 - Protective Impact
 JP: 1ターンの間、受けるダメージからの攻撃を50%減少
@@ -62088,9 +62088,9 @@ EN: Absorb damage when combos <= 4 for 5 turns
 KR: Absorb damage when combos <= 4 for 5 turns
 
 # 12410/89 - Tiger Spike
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12411/15 - Tiger Rush
 JP: 140%ダメージ (2連続攻撃、70%ごと)
@@ -62123,9 +62123,9 @@ EN: Random 1 orbs change every 1.0s for 1 turn
 KR: Random 1 orbs change every 1.0s for 1 turn
 
 # 12417/89 - Buffalo Swing
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12418/15 - Buffalo Pressure
 JP: 100%ダメージ
@@ -62473,9 +62473,9 @@ EN: Movetime -1s for 1 turn
 KR: Movetime -1s for 1 turn
 
 # 12487/89 - Vertical Rolling
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12488/63 - Dynamic Rolling
 JP: 1~2ターンの間、ランダムでサブ1体がバインド
@@ -62658,9 +62658,9 @@ EN: Fire skyfall +15% for 3 turns
 KR: Fire skyfall +15% for 3 turns
 
 # 12524/89 - Hogasho
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12525/15 - Sakura Rain
 JP: 210%ダメージ (7連続攻撃、30%ごと)
@@ -63013,9 +63013,9 @@ EN: Reduce damage from all sources by 50% for 1 turn
 KR: Reduce damage from all sources by 50% for 1 turn
 
 # 12595/89 - No use! Rakan Gosho
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12596/94 - Rakan Gokyaku
 JP: ランダムで10個ドロップをロック
@@ -63213,9 +63213,9 @@ EN: Spawn 7 random Fire orbs
 KR: Spawn 7 random Fire orbs
 
 # 12635/89 - Spiced Sake Splash
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12636/109 - It's fluffy!
 JP: 5ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
@@ -64733,9 +64733,9 @@ EN: Change all orbs to Dark, Heal, and Poison
 KR: Change all orbs to Dark, Heal, and Poison
 
 # 12939/89 - Savage Assault
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 12940/94 - Hold Tackle
 JP: ランダムで10個ドロップをロック
@@ -65158,9 +65158,9 @@ EN: Deal 110% damage
 KR: Deal 110% damage
 
 # 13024/89 - Bite
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13025/83 - HP 50% or less 2 times
 JP: 
@@ -65303,9 +65303,9 @@ EN: Do nothing
 KR: Do nothing
 
 # 13053/89 - Machinery Trouble
-JP: スキルターンを3ターン遅延
-EN: Delay active skills by 3 turns
-KR: Delay active skills by 3 turns
+JP: スキルターンを0~3ターン遅延
+EN: Delay active skills by 0~3 turns
+KR: Delay active skills by 0~3 turns
 
 # 13054/67 - Tension Up!
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
@@ -65848,9 +65848,9 @@ EN: Change the 1st and 6th columns to Wood orbs
 KR: Change the 1st and 6th columns to Wood orbs
 
 # 13162/89 - Phantom Sword
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13163/94 - Constraining Sword
 JP: ランダムで10個ドロップをロック
@@ -66183,9 +66183,9 @@ EN: Change the 4th column to Dark orbs
 KR: Change the 4th column to Dark orbs
 
 # 13229/89 - 100 percent Integration Vorpal Dance
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13230/14 - You will perish.
 JP: 5ターンの間、スキル使用不可
@@ -66263,9 +66263,9 @@ EN: Bind 1 random sub for 5 turns
 KR: Bind 1 random sub for 5 turns
 
 # 13245/89 - Your sacrifices will all be in vain.
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13246/92 - Be careful how you speak.
 JP: お邪魔ドロップを8個生成
@@ -66283,9 +66283,9 @@ EN: Player -99% HP
 KR: Player -99% HP
 
 # 13249/89 - Shall we give it a try?
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13250/92 - Well? Don't be shy! Come at me!!
 JP: 木ドロップを5個生成
@@ -66368,9 +66368,9 @@ EN: Player -25% HP
 KR: Player -25% HP
 
 # 13266/89 - This is really gonna hurt.
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 13267/17 - Are you ready?
 JP: 5ターンの間、攻撃力が150%に上昇
@@ -66453,9 +66453,9 @@ EN: Voids status ailments for 5 turns
 KR: Voids status ailments for 5 turns
 
 # 13283/89 - I am the most serious now.
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13284/48 - Witness my justice!!!
 JP: ランダム属性のドロップを光ドロップに変化
@@ -66523,9 +66523,9 @@ EN: Deal 108% damage (6 hits, 18% each)
 KR: Deal 108% damage (6 hits, 18% each)
 
 # 13297/89 - Swords!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13298/63 - Halberds!!
 JP: 1~2ターンの間、ランダムでサブ1体がバインド
@@ -67308,9 +67308,9 @@ EN: Player -35% HP
 KR: Player -35% HP
 
 # 13454/89 - Comfortable High-Pitched Sound
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13455/77 - Echoing Melody
 JP: 上から1列目のドロップが水ドロップに変化
@@ -67408,9 +67408,9 @@ EN: Change the 3rd row to Wood and Jammer orbs
 KR: Change the 3rd row to Wood and Jammer orbs
 
 # 13474/89 - Breaking Swallow
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13475/15 - Killer Size
 JP: 110%ダメージ (2連続攻撃、55%ごと)
@@ -67503,9 +67503,9 @@ EN: Deal 120% damage (3 hits, 40% each)
 KR: Deal 120% damage (3 hits, 40% each)
 
 # 13493/89 - Holding a Grudge
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13494/83 - ＿Hera Change
 JP: 
@@ -67568,9 +67568,9 @@ EN: Deal 60% damage (3 hits, 20% each)
 KR: Deal 60% damage (3 hits, 20% each)
 
 # 13506/89 - Holding a Grudge
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13507/83 - ＿Zeus Change
 JP: 
@@ -67678,9 +67678,9 @@ EN: Deal 75% damage (3 hits, 25% each)
 KR: Deal 75% damage (3 hits, 25% each)
 
 # 13528/89 - Holding a Grudge
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 13529/83 - ＿15% or less HP 2 times
 JP: 
@@ -70353,9 +70353,9 @@ EN: Change the 3rd and 4th columns to Water orbs
 KR: Change the 3rd and 4th columns to Water orbs
 
 # 14063/89 - 覇ッッ
-JP: スキルターンを1ターン遅延
-EN: Delay active skills by 1 turn
-KR: Delay active skills by 1 turn
+JP: スキルターンを0~1ターン遅延
+EN: Delay active skills by 0~1 turns
+KR: Delay active skills by 0~1 turns
 
 # 14064/17 - この拳が断つ
 JP: 99ターンの間、攻撃力が150%に上昇
@@ -73758,9 +73758,9 @@ EN: Change the 3rd and 4th columns to Fire orbs
 KR: Change the 3rd and 4th columns to Fire orbs
 
 # 14744/89 - Sliding Tackle
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 14745/83 - ＿50% or less
 JP: 
@@ -74253,9 +74253,9 @@ EN: Change a random attribute to Water orbs
 KR: Change a random attribute to Water orbs
 
 # 14843/89 - You and your weapons are no match for me!
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 14844/104 - Give up!
 JP: 1ターンの間、ランダムでの1×3マスの長方形を雲で隠す
@@ -77443,9 +77443,9 @@ EN: Change all orbs to Fire
 KR: Change all orbs to Fire
 
 # 15481/89 - Muspell's Hellish Hosts
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 15482/15 - Lævateinn
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -80733,9 +80733,9 @@ EN: Change the 4th row to Fire and Light orbs
 KR: Change the 4th row to Fire and Light orbs
 
 # 16139/89 - Hairpin thrown in anger
-JP: スキルターンを2ターン遅延
-EN: Delay active skills by 2 turns
-KR: Delay active skills by 2 turns
+JP: スキルターンを0~2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
 # 16140/53 - We still have plenty of time
 JP: 5ターンの間、闇属性のダメージを吸収
