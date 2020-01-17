@@ -74,7 +74,7 @@ Change the 1st, 3rd, 5th, and 7th columns to Fire, Water, Wood, Light, and Dark 
 
 #22: ESSkillDelay(89:3205) -> Requiem
 Condition: 34% chance (ai:0 rnd:34)
-Delay active skills by 3 turns
+Delay active skills by 0~3 turns
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

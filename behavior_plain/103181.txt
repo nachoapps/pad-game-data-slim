@@ -33,7 +33,7 @@ Branch on hp < 50, target rnd 13
 
 #9: ESSkillDelay(89:12939) -> Savage Assault
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 95% damage
+Delay active skills by 0~2 turns, Deal 95% damage
 
 #10: ESOrbLock(94:12940) -> Hold Tackle
 Condition: 33% chance (ai:0 rnd:33)
@@ -67,7 +67,7 @@ Blind orbs in specific positions for 3 turns, Deal 100% damage
 
 #18: ESSkillDelay(89:12939) -> Savage Assault
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 95% damage
+Delay active skills by 0~2 turns, Deal 95% damage
 
 #19: ESOrbLock(94:12940) -> Hold Tackle
 Condition: 33% chance (ai:0 rnd:33)

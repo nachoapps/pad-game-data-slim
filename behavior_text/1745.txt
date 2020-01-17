@@ -23,7 +23,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (2261:89) Counting the Cost
-     | Delay active skills by 2 turns
+     | Delay active skills by 0~2 turns
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 50% chance
@@ -37,7 +37,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (2261:89) Counting the Cost
-     | Delay active skills by 2 turns
+     | Delay active skills by 0~2 turns
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
      | (2262:15) Celestial Spectacle

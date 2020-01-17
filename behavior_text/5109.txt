@@ -42,7 +42,7 @@ level: 1
      | Movetime -1s for 1 turn, Deal 110% damage
      | condition: 25% chance
      | (12487:89) Vertical Rolling
-     | Delay active skills by 2 turns, Deal 105% damage
+     | Delay active skills by 0~2 turns, Deal 105% damage
  | group:
  | condition: hp <= 9
    | (12488:63) Dynamic Rolling

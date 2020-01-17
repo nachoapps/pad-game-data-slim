@@ -37,7 +37,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
 
 #10: ESSkillDelay(89:10064) -> Uwaaba
-Delay active skills by 3 turns, Deal 120% damage
+Delay active skills by 0~3 turns, Deal 120% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -54,7 +54,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
 
 #14: ESSkillDelay(89:10064) -> Uwaaba
-Delay active skills by 3 turns, Deal 120% damage
+Delay active skills by 0~3 turns, Deal 120% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

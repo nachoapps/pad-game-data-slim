@@ -42,7 +42,7 @@ Deal 100% damage (2 hits, 50% each)
 counter = 0
 
 #12: ESSkillDelay(89:8988) -> Don't rush!
-Delay active skills by 2 turns, Deal 120% damage
+Delay active skills by 0~2 turns, Deal 120% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

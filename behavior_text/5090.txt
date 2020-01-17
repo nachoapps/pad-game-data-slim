@@ -16,7 +16,7 @@ level: 1
    | condition: execute repeatedly, turn 1-9 of 10
      | condition: 25% chance
      | (12592:83) Rakan + No use! Rakan Gosho
-     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 2 turns, Deal 100% damage
+     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 25% chance
      | (12593:83) Rakan + Rakan Gokyaku
      | Reduce damage from all sources by 50% for 1 turn + Lock 10 random orbs, Deal 100% damage
@@ -40,7 +40,7 @@ level: 1
    | condition: turns 2-9 while HP > 10
      | condition: 25% chance
      | (12592:83) Rakan + No use! Rakan Gosho
-     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 2 turns, Deal 100% damage
+     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 25% chance
      | (12593:83) Rakan + Rakan Gokyaku
      | Reduce damage from all sources by 50% for 1 turn + Lock 10 random orbs, Deal 100% damage
@@ -58,7 +58,7 @@ level: 1
    | condition: execute repeatedly, turn 1-3 of 3
      | condition: 25% chance
      | (12592:83) Rakan + No use! Rakan Gosho
-     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 2 turns, Deal 100% damage
+     | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 25% chance
      | (12593:83) Rakan + Rakan Gokyaku
      | Reduce damage from all sources by 50% for 1 turn + Lock 10 random orbs, Deal 100% damage

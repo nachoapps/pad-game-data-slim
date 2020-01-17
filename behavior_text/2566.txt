@@ -17,7 +17,7 @@ level: 1
    | Change a random attribute to Water orbs, Deal 130% damage
    | condition: 40% chance
    | (2834:89) Cold Scythe
-   | Delay active skills by 1 turn, Deal 110% damage
+   | Delay active skills by 0~1 turns, Deal 110% damage
    | condition: 20% chance
    | (2835:63) Crystallizing Dark Wave
    | Bind 2 random cards for 3 turns, Deal 90% damage

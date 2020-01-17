@@ -17,7 +17,7 @@ level: 4
    | (10321:92) Wind Breath
    | Spawn 3 random Wood orbs, Deal 100% damage
    | (10322:89) Air Reduction
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | group:

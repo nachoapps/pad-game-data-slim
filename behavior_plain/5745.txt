@@ -1,0 +1,19 @@
+#5745 - ドット・ワルりん
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESRowSpawnMulti(78:16357) -> ドットチェンジ・闇
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Change the 4th and 5th rows to Dark orbs
+
+#3: ESRandomSpawn(92:16358) -> ドットストライク・闇
+Condition: 50% chance (ai:50 rnd:0)
+Spawn 1 random Dark orb, Deal 130% damage
+
+#4: ESEndPath(36:26) -> ESEndPath
+end_turn

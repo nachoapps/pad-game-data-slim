@@ -21,7 +21,7 @@ level: 5
  | group:
  | condition: always turn 1, hp <= 49
    | (2590:89) Nyaa!
-   | Delay active skills by 1 turn
+   | Delay active skills by 0~1 turns
  | group:
  | condition: hp <= 39
    | group:

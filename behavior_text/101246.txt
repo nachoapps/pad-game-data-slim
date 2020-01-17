@@ -23,7 +23,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 49, hp <= 69
    | (3058:89) Dragon Monk Telekinesis
-   | Delay active skills by 4 turns
+   | Delay active skills by 0~4 turns
  | group:
  | condition: hp <= 49
    | group:

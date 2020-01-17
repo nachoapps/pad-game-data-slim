@@ -54,7 +54,7 @@ Branch on hp < 20, target rnd 18
 
 #15: ESSkillDelay(89:14843) -> You and your weapons are no match for me!
 Condition: 50% chance (ai:0 rnd:50)
-Delay active skills by 2 turns, Deal 95% damage
+Delay active skills by 0~2 turns, Deal 95% damage
 
 #16: ESCloud(104:14844) -> Give up!
 Condition: 50% chance (ai:0 rnd:50)

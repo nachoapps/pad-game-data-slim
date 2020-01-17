@@ -20,7 +20,7 @@ level: 1
    | Movetime -1s for 1 turn, Deal 200% damage
    | condition: 33% chance
    | (7837:89) Guasa
-   | Delay active skills by 2 turns, Deal 200% damage
+   | Delay active skills by 0~2 turns, Deal 200% damage
    | condition: 34% chance
    | (7836:15) Redeon Radel
    | Deal 240% damage (3 hits, 80% each)

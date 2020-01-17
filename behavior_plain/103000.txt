@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESSkillDelay(89:4850) -> Don't come any closer!!
-	Delay active skills by 2 turns
+	Delay active skills by 0~2 turns
 	[1] ESAttackMultihit(15:4851) -> Dimension-Celestial Thorn of Chaos
 	Deal 160% damage
 

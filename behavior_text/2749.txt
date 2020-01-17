@@ -19,7 +19,7 @@ level: 1
    | group:
      | condition: 30% chance
      | (2933:89) Reduce Shot
-     | Delay active skills by 2 turns, Deal 120% damage
+     | Delay active skills by 0~2 turns, Deal 120% damage
      | condition: 30% chance
      | (2934:79) Earth Wind Shot
      | Change the 3rd row to Wood orbs, Deal 130% damage

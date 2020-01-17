@@ -22,7 +22,7 @@ level: 1
    | Change all Jammer orbs to Fire orbs, Deal 150% damage
    | condition: 60% chance
    | (3038:83) Dark Color Fire + Beast's Ambition
-   | Change the 1st, 3rd, and 5th rows to Fire, Dark, and Jammer orbs + Delay active skills by 2 turns, Deal 100% damage
+   | Change the 1st, 3rd, and 5th rows to Fire, Dark, and Jammer orbs + Delay active skills by 0~2 turns, Deal 100% damage
    | (3035:83) Serpent Poison + Beast Attack
    | Change 5 random orbs to Poison orbs + Deal 100% damage, Deal 100% damage
  | group:

@@ -19,7 +19,7 @@ level: 1
  | condition: hp <= 99
    | condition: 20% chance
    | (3105:89) Sigh of Sadness
-   | Delay active skills by 2 turns
+   | Delay active skills by 0~2 turns
    | condition: 70% chance
    | (3104:94) Glass Leaf
    | Lock all Wood orbs, Deal 120% damage

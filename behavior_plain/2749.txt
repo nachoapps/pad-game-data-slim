@@ -50,7 +50,7 @@ flag SET 0b11
 
 #12: ESSkillDelay(89:2933) -> Reduce Shot
 Condition: 30% chance (ai:0 rnd:30)
-Delay active skills by 2 turns, Deal 120% damage
+Delay active skills by 0~2 turns, Deal 120% damage
 
 #13: ESRowSpawnMulti(79:2934) -> Earth Wind Shot
 Condition: 30% chance (ai:0 rnd:30)
@@ -86,7 +86,7 @@ Deal 180% damage (3 hits, 60% each)
 
 #22: ESSkillDelay(89:2933) -> Reduce Shot
 Condition: 30% chance (ai:0 rnd:30)
-Delay active skills by 2 turns, Deal 120% damage
+Delay active skills by 0~2 turns, Deal 120% damage
 
 #23: ESRowSpawnMulti(79:2934) -> Earth Wind Shot
 Condition: 30% chance (ai:0 rnd:30)

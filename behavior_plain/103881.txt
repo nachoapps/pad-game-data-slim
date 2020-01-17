@@ -37,7 +37,7 @@ Branch on counter >= 5, target rnd 14
 
 #10: ESSkillDelay(89:8043) -> Helmet Splitter
 Condition: 33% chance (ai:33 rnd:0)
-Delay active skills by 1 turn, Deal 270% damage
+Delay active skills by 0~1 turns, Deal 270% damage
 
 #11: ESOrbLock(94:8044) -> Forward Kick
 Condition: 50% chance (ai:50 rnd:0)
@@ -61,7 +61,7 @@ Branch on counter >= 12, target rnd 20
 
 #16: ESSkillDelay(89:8043) -> Helmet Splitter
 Condition: 33% chance (ai:33 rnd:0)
-Delay active skills by 1 turn, Deal 270% damage
+Delay active skills by 0~1 turns, Deal 270% damage
 
 #17: ESOrbLock(94:8044) -> Forward Kick
 Condition: 50% chance (ai:50 rnd:0)

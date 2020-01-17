@@ -26,7 +26,7 @@ level: 4
  | group:
    | condition: 20% chance
    | (11456:89) Downward Sword Slash
-   | Delay active skills by 2 turns, Deal 100% damage
+   | Delay active skills by 0~2 turns, Deal 100% damage
    | condition: 20% chance
    | (11457:79) Sweeping Beam Attack
    | Change the 2nd row to Light orbs, Deal 105% damage
@@ -57,7 +57,7 @@ level: 4
    | condition: execute repeatedly, turn 2 of 2
      | condition: 20% chance
      | (11456:89) Downward Sword Slash
-     | Delay active skills by 2 turns, Deal 100% damage
+     | Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 20% chance
      | (11457:79) Sweeping Beam Attack
      | Change the 2nd row to Light orbs, Deal 105% damage

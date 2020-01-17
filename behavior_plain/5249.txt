@@ -26,7 +26,7 @@ Bind 1 random sub for 5 turns, Deal 95% damage
 
 #7: ESSkillDelay(89:13245) -> Your sacrifices will all be in vain.
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #8: ESRandomSpawn(92:13246) -> Be careful how you speak.
 Condition: 34% chance (ai:0 rnd:34)

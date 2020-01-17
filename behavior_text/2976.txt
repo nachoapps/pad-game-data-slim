@@ -18,4 +18,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (4744:89) Loud Voice of Revelation
-   | Delay active skills by 1 turn
+   | Delay active skills by 0~1 turns

@@ -21,10 +21,10 @@ level: 1
    | Blind all orbs on the board + Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 90% damage
    | condition: 20% chance
    | (2420:83) Dharmakaya + Sambhogakaya
-   | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal + Delay active skills by 1 turn, Deal 90% damage
+   | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal + Delay active skills by 0~1 turns, Deal 90% damage
    | condition: 20% chance
    | (2421:83) Sambhogakaya + Nirmanakaya
-   | Delay active skills by 1 turn + Blind all orbs on the board, Deal 90% damage
+   | Delay active skills by 0~1 turns + Blind all orbs on the board, Deal 90% damage
    | condition: 20% chance
    | (2395:14) Kalam
    | Bind active skills for 10 turns, Deal 150% damage

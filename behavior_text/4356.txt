@@ -17,13 +17,13 @@ level: 4
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (10082:83) Shadow Aura + Turbulent Boundary Line + Invitation to Darkness + Black Feelings
- | Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns + Blind all orbs for 1 turn + Delay active skills by 15 turns, Deal 70% damage
+ | Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns + Blind all orbs for 1 turn + Delay active skills by 0~15 turns, Deal 70% damage
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (10085:83) Black Feelings + Light Eater
-     | Delay active skills by 5 turns + Change all Light orbs to Heal orbs, Deal 108% damage
+     | Delay active skills by 0~5 turns + Change all Light orbs to Heal orbs, Deal 108% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (10086:1) Fury Against a Sworn Rival

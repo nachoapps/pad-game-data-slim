@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (8234:89) Drumming of the Underworld
- | Delay active skills by 7 turns
+ | Delay active skills by 0~7 turns
  group:
  | group:
    | group:

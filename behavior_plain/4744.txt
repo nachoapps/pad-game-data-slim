@@ -66,7 +66,7 @@ flag SET 0b11
 
 #14: SkillSet:
 	[0] ESSkillDelay(89:10561) -> Rúro Pari
-	Delay active skills by 3 turns
+	Delay active skills by 0~3 turns
 	[1] ESAttackMultihit(15:10562) -> Synchronized Burst
 	Deal 80% damage (4 hits, 20% each)
 

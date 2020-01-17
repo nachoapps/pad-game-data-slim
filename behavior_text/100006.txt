@@ -17,7 +17,7 @@ level: 4
    | (10371:92) Cold Breath
    | Spawn 3 random Water orbs, Deal 100% damage
    | (10372:89) Expelling Hydrogen
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | group:

@@ -34,7 +34,7 @@ Spawn 4 random Bomb orbs, Deal 90% damage
 
 #10: ESSkillDelay(89:11128) -> This is going to get difficult
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #11: ESAttackMultihit(15:11129) -> Can you go on?
 Condition: 34% chance (ai:0 rnd:34)

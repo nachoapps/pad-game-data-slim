@@ -27,7 +27,7 @@ flag SET 0b1
 	[2] ESBlindStickyRandom(97:10080) -> Invitation to Darkness
 	Blind all orbs for 1 turn
 	[3] ESSkillDelay(89:10081) -> Black Feelings
-	Delay active skills by 15 turns, Deal 70% damage
+	Delay active skills by 0~15 turns, Deal 70% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -49,7 +49,7 @@ Branch on counter = 2, target rnd 14
 
 #13: SkillSet:
 	[0] ESSkillDelay(89:10083) -> Black Feelings
-	Delay active skills by 5 turns
+	Delay active skills by 0~5 turns
 	[1] ESOrbChangeAttack(48:10084) -> Light Eater
 	Change all Light orbs to Heal orbs, Deal 108% damage
 

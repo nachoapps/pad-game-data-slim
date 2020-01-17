@@ -24,7 +24,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (12939:89) Savage Assault
-     | Delay active skills by 2 turns, Deal 95% damage
+     | Delay active skills by 0~2 turns, Deal 95% damage
      | condition: 33% chance
      | (12940:94) Hold Tackle
      | Lock 10 random orbs, Deal 100% damage
@@ -35,7 +35,7 @@ level: 1
  | condition: hp <= 89
    | condition: 33% chance
    | (12939:89) Savage Assault
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
    | condition: 33% chance
    | (12940:94) Hold Tackle
    | Lock 10 random orbs, Deal 100% damage
@@ -56,7 +56,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (12939:89) Savage Assault
-     | Delay active skills by 2 turns, Deal 95% damage
+     | Delay active skills by 0~2 turns, Deal 95% damage
      | condition: 33% chance
      | (12940:94) Hold Tackle
      | Lock 10 random orbs, Deal 100% damage

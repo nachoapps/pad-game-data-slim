@@ -46,7 +46,7 @@ Branch on hp < 50, target rnd 12
 #10: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESSkillDelay(89:2473) -> Stun Buckler
-	Delay active skills by 1 turn
+	Delay active skills by 0~1 turns
 	[1] ESAttackMultihit(15:2474) -> Slash and Thrust
 	Deal 110% damage
 

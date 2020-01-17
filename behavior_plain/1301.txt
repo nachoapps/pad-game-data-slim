@@ -33,7 +33,7 @@ Change the 3rd and 4th columns to Fire orbs, Deal 105% damage
 
 #8: ESSkillDelay(89:14744) -> Sliding Tackle
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 110% damage
+Delay active skills by 0~2 turns, Deal 110% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

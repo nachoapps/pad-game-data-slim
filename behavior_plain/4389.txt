@@ -81,7 +81,7 @@ Branch on counter = 8, target rnd 22
 	[0] ESBindAttack(63:9984) -> Ziodyne
 	Bind 1 random card for 3 turns, Deal 50% damage
 	[1] ESSkillDelay(89:9985) -> Garudyne
-	Delay active skills by 1 turn, Deal 50% damage
+	Delay active skills by 0~1 turns, Deal 50% damage
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

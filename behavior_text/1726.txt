@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (2166:89) Yomi Wave
- | Delay active skills by 4 turns
+ | Delay active skills by 0~4 turns
  group:
  | group:
    | group:

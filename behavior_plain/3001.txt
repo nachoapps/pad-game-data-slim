@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESSkillDelay(89:4904) -> Which one of you will be my opponent?
-	Delay active skills by 2 turns
+	Delay active skills by 0~2 turns
 	[1] ESJammerChangeRandom(13:4905) -> Dimension-Curse of the Sea God
 	Change 3 random orbs to Jammer orbs
 

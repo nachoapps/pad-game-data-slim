@@ -33,7 +33,7 @@ Bind 1 random sub for 2~3 turns, Deal 95% damage
 
 #7: ESSkillDelay(89:11870) -> Overflow
 Condition: 25% chance (ai:0 rnd:25)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #8: ESOrbChangeAttack(48:11871) -> High Water
 Condition: 25% chance (ai:0 rnd:25)

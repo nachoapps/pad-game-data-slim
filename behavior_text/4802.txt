@@ -19,7 +19,7 @@ level: 1
    | Change all Jammer orbs to Fire orbs, Deal 150% damage
    | condition: 33% chance
    | (11152:89) I'll make you suffer!
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
    | condition: 33% chance
    | (11153:92) I'll burn you to ashes!
    | Spawn 5 random Jammer orbs, Deal 100% damage

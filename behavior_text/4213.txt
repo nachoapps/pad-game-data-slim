@@ -22,7 +22,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (8988:89) Don't rush!
-     | Delay active skills by 2 turns, Deal 120% damage
+     | Delay active skills by 0~2 turns, Deal 120% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (8986:53) Kirin's Perception

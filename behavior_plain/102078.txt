@@ -47,12 +47,12 @@ counter + 1
 	[0] ESBoardChangeAttackBits(85:2423) -> Dharmakaya
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 90% damage
 	[1] ESSkillDelay(89:2424) -> Sambhogakaya
-	Delay active skills by 1 turn, Deal 90% damage
+	Delay active skills by 0~1 turns, Deal 90% damage
 
 #12: SkillSet:
 	Condition: 20% chance (ai:0 rnd:20)
 	[0] ESSkillDelay(89:2424) -> Sambhogakaya
-	Delay active skills by 1 turn, Deal 90% damage
+	Delay active skills by 0~1 turns, Deal 90% damage
 	[1] ESBlind62(62:2422) -> Nirmanakaya
 	Blind all orbs on the board, Deal 90% damage
 

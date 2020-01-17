@@ -15,7 +15,7 @@ Ana new powers
 #3: SkillSet:
 	Condition: When < 20% HP (ai:100 rnd:0)
 	[0] ESSkillDelay(89:5250) -> Ana starts crying
-	Delay active skills by 3 turns
+	Delay active skills by 0~3 turns
 	[1] ESAttackMultihit(15:5251) -> 10 combos!!
 	Deal 200% damage (10 hits, 20% each)
 

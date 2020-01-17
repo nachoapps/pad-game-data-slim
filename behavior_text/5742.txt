@@ -1,0 +1,16 @@
+#5742 - ドット・アワりん
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 5742
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16351:76) ドットチェンジ・水
+ | Change the 3rd and 4th columns to Water orbs
+ group:
+ | condition: 50% chance
+ | (16352:92) ドットストライク・水
+ | Spawn 1 random Water orb, Deal 130% damage

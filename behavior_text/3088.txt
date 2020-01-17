@@ -28,7 +28,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (5271:89) Maiden's Aura
-     | Delay active skills by 1 turn
+     | Delay active skills by 0~1 turns
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
@@ -48,7 +48,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (5272:89) Goddess' Aura
-     | Delay active skills by 2 turns
+     | Delay active skills by 0~2 turns
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
@@ -68,7 +68,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (5273:89) Fighting Maiden's Aura
-     | Delay active skills by 3 turns
+     | Delay active skills by 0~3 turns
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash
@@ -88,7 +88,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (5274:89) Divine Law's Aura
-     | Delay active skills by 4 turns
+     | Delay active skills by 0~4 turns
    | group:
    | condition: execute repeatedly, turn 4 of 4
      | (5275:83) White Shield Protection + Mercy Flash

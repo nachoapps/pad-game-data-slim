@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2373:89) Strange Scream
- | Delay active skills by 3 turns
+ | Delay active skills by 0~3 turns
  group:
  | group:
    | group:

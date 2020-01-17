@@ -12,7 +12,7 @@ level: 1
  | Enemy turn counter change to 1 when HP <= 50%
  type: PREEMPT
  | (10802:83) Heat Armor + Form Collapse
- | Void damage >= 40000000 for 99 turns + Delay active skills by 7 turns
+ | Void damage >= 40000000 for 99 turns + Delay active skills by 0~7 turns
  group:
  | group:
    | condition: 25% chance

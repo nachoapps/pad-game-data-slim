@@ -36,7 +36,7 @@ level: 1
      | Deal 60% damage + Deal 100% damage + Absorb damage when combos <= 4 for 1 turn, Deal 60% damage
      | condition: 34% chance
      | (12524:89) Hogasho
-     | Delay active skills by 2 turns, Deal 130% damage
+     | Delay active skills by 0~2 turns, Deal 130% damage
  | group:
  | condition: hp <= 14
    | (12525:15) Sakura Rain

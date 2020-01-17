@@ -20,7 +20,7 @@ Deal 120% damage (4 hits, 30% each)
 
 #5: ESSkillDelay(89:13283) -> I am the most serious now.
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #6: ESOrbChangeAttack(48:13284) -> Witness my justice!!!
 Condition: 33% chance (ai:0 rnd:33)

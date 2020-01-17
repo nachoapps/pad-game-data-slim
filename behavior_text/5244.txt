@@ -22,7 +22,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 3 of 6
    | (13297:89) Swords!
-   | Delay active skills by 2 turns, Deal 100% damage
+   | Delay active skills by 0~2 turns, Deal 100% damage
  | group:
  | condition: execute repeatedly, turn 4 of 6
    | (13298:63) Halberds!!

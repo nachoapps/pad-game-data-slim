@@ -19,7 +19,7 @@ level: 1
    | condition: turns 1-4 while HP > 4
      | condition: 33% chance
      | (8043:89) Helmet Splitter
-     | Delay active skills by 1 turn, Deal 270% damage
+     | Delay active skills by 0~1 turns, Deal 270% damage
      | condition: 50% chance
      | (8044:94) Forward Kick
      | Lock 6 random orbs, Deal 270% damage
@@ -33,7 +33,7 @@ level: 1
    | condition: turns 6-11 while HP > 4
      | condition: 33% chance
      | (8043:89) Helmet Splitter
-     | Delay active skills by 1 turn, Deal 270% damage
+     | Delay active skills by 0~1 turns, Deal 270% damage
      | condition: 50% chance
      | (8044:94) Forward Kick
      | Lock 6 random orbs, Deal 270% damage
@@ -46,7 +46,7 @@ level: 1
    | group:
      | condition: 33% chance
      | (8043:89) Helmet Splitter
-     | Delay active skills by 1 turn, Deal 270% damage
+     | Delay active skills by 0~1 turns, Deal 270% damage
      | condition: 50% chance
      | (8044:94) Forward Kick
      | Lock 6 random orbs, Deal 270% damage

@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESSkillDelay(89:2373) -> Strange Scream
-Delay active skills by 3 turns
+Delay active skills by 0~3 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

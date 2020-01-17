@@ -24,7 +24,7 @@ Branch on hp < 50, target rnd 10
 
 #7: ESSkillDelay(89:3058) -> Dragon Monk Telekinesis
 Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
-Delay active skills by 4 turns
+Delay active skills by 0~4 turns
 
 #8: ESBindAttack(63:3059) -> Dragon Monk Binding Law of Tathagata
 Condition: 30% chance (ai:30 rnd:0)

@@ -25,7 +25,7 @@ level: 4
      | Do nothing + Change the 4th row to Light orbs, Deal 100% damage
      | condition: 50% chance
      | (11783:83) Gashacon Breaker + Hammer Mode
-     | Do nothing + Delay active skills by 1 turn, Deal 100% damage
+     | Do nothing + Delay active skills by 0~1 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | condition: 50% chance

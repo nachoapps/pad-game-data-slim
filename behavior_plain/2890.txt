@@ -75,7 +75,7 @@ Do nothing
 
 #19: ESSkillDelay(89:4288) -> Suppressive Wave
 Condition: 25% chance (ai:0 rnd:25)
-Delay active skills by 3 turns, Deal 140% damage
+Delay active skills by 0~3 turns, Deal 140% damage
 
 #20: ESAbsorbCombo(67:4289) -> Ordeal Section
 Condition: 25% chance (ai:0 rnd:25)

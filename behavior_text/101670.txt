@@ -57,7 +57,7 @@ level: 4
      | Change the 1st row to Fire orbs and the 5th row to Water orbs + RCV +50% for 1 turn, Deal 110% damage
      | condition: 50% chance
      | (9264:83) Norn Slave + Reverse time!
-     | Change all orbs to Fire, Water, and Jammer + Delay active skills by 2 turns, Deal 90% damage
+     | Change all orbs to Fire, Water, and Jammer + Delay active skills by 0~2 turns, Deal 90% damage
      | (9265:15) Weave Tein
      | Deal 120% damage (3 hits, 40% each)
  | group:

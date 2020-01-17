@@ -49,7 +49,7 @@ level: 1
    | (3340:15) You think you can beat me with that?
    | Deal 130% damage
    | (3334:89) Muspell's Army
-   | Delay active skills by 2 turns
+   | Delay active skills by 0~2 turns
  | group:
  | condition: hp <= 49
    | group:

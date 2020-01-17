@@ -74,7 +74,7 @@ Branch on hp < 15, target rnd 14
 
 #12: ESSkillDelay(89:12524) -> Hogasho
 Condition: 34% chance (ai:0 rnd:34)
-Delay active skills by 2 turns, Deal 130% damage
+Delay active skills by 0~2 turns, Deal 130% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

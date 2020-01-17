@@ -1,0 +1,16 @@
+#5744 - ドット・ヒカりん
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 5744
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16355:78) ドットチェンジ・光
+ | Change the 1st and 2nd rows to Light orbs
+ group:
+ | condition: 50% chance
+ | (16356:92) ドットストライク・光
+ | Spawn 1 random Light orb, Deal 130% damage

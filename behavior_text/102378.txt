@@ -26,7 +26,7 @@ level: 3
    | group:
      | condition: 40% chance
      | (7567:89) Quick Low Kick
-     | Delay active skills by 2 turns, Deal 100% damage
+     | Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 40% chance
      | (7568:62) Powerful High Kick
      | Blind all orbs on the board, Deal 150% damage

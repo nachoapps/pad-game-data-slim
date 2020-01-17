@@ -43,7 +43,7 @@ Reduce damage from all sources by 50% for 3 turns
 
 #13: ESSkillDelay(89:7567) -> Quick Low Kick
 Condition: 40% chance (ai:0 rnd:40)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #14: ESBlind62(62:7568) -> Powerful High Kick
 Condition: 40% chance (ai:0 rnd:40)

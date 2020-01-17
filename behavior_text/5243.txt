@@ -19,7 +19,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (13229:89) 100 percent Integration Vorpal Dance
-     | Delay active skills by 2 turns, Deal 100% damage
+     | Delay active skills by 0~2 turns, Deal 100% damage
  | group:
  | condition: hp <= 50
    | group:
@@ -39,7 +39,7 @@ level: 4
      | (13231:15) Super Golden Vorpal Dance
      | Deal 110% damage (5 hits, 22% each)
      | (13229:89) 100 percent Integration Vorpal Dance
-     | Delay active skills by 2 turns, Deal 100% damage
+     | Delay active skills by 0~2 turns, Deal 100% damage
  | group:
  | condition: hp <= 19
    | group:

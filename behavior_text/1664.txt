@@ -21,7 +21,7 @@ level: 1
      | (10063:79) Hudr Leaf
      | Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
      | (10064:89) Uwaaba
-     | Delay active skills by 3 turns, Deal 120% damage
+     | Delay active skills by 0~3 turns, Deal 120% damage
    | group:
    | condition: turn 10 while HP > 19
      | (10062:83) The Malice of Rebellion + Aaru's Throne
@@ -31,7 +31,7 @@ level: 1
      | (10063:79) Hudr Leaf
      | Change the 2nd and 3rd rows to Wood and Jammer orbs, Deal 120% damage
      | (10064:89) Uwaaba
-     | Delay active skills by 3 turns, Deal 120% damage
+     | Delay active skills by 0~3 turns, Deal 120% damage
  | group:
  | condition: hp <= 19
    | (10059:15) Almulk Ghadab

@@ -74,7 +74,7 @@ Voids player buff effects, Deal 200% damage
 	[0] ESAttackMultihit(15:13492) -> Hateful Rush
 	Deal 120% damage (3 hits, 40% each)
 	[1] ESSkillDelay(89:13493) -> Holding a Grudge
-	Delay active skills by 2 turns, Deal 100% damage
+	Delay active skills by 0~2 turns, Deal 100% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -129,7 +129,7 @@ Voids player buff effects, Deal 100% damage
 	[0] ESAttackMultihit(15:13505) -> Hateful Rush
 	Deal 60% damage (3 hits, 20% each)
 	[1] ESSkillDelay(89:13506) -> Holding a Grudge
-	Delay active skills by 2 turns, Deal 50% damage
+	Delay active skills by 0~2 turns, Deal 50% damage
 
 #31: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -179,7 +179,7 @@ Voids player buff effects, Deal 100% damage
 	[0] ESAttackMultihit(15:13505) -> Hateful Rush
 	Deal 60% damage (3 hits, 20% each)
 	[1] ESSkillDelay(89:13506) -> Holding a Grudge
-	Delay active skills by 2 turns, Deal 50% damage
+	Delay active skills by 0~2 turns, Deal 50% damage
 
 #42: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -229,7 +229,7 @@ Voids player buff effects, Deal 125% damage
 	[0] ESAttackMultihit(15:13527) -> Hateful Rush
 	Deal 75% damage (3 hits, 25% each)
 	[1] ESSkillDelay(89:13528) -> Holding a Grudge
-	Delay active skills by 2 turns, Deal 55% damage
+	Delay active skills by 0~2 turns, Deal 55% damage
 
 #53: ESEndPath(36:26) -> ESEndPath
 end_turn

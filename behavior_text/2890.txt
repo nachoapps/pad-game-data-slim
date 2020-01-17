@@ -38,7 +38,7 @@ level: 1
      | Do nothing
      | condition: 25% chance
      | (4288:89) Suppressive Wave
-     | Delay active skills by 3 turns, Deal 140% damage
+     | Delay active skills by 0~3 turns, Deal 140% damage
      | condition: 25% chance
      | (4289:67) Ordeal Section
      | Absorb damage when combos <= 6 for 1 turn, Deal 140% damage

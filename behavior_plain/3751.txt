@@ -58,7 +58,7 @@ Change the 3rd row to Wood and Jammer orbs, Deal 95% damage
 
 #16: ESSkillDelay(89:13474) -> Breaking Swallow
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #17: ESAttackMultihit(15:13475) -> Killer Size
 Condition: 34% chance (ai:0 rnd:34)

@@ -60,7 +60,7 @@ Movetime -1s for 1 turn, Deal 110% damage
 
 #14: ESSkillDelay(89:12487) -> Vertical Rolling
 Condition: 25% chance (ai:0 rnd:25)
-Delay active skills by 2 turns, Deal 105% damage
+Delay active skills by 0~2 turns, Deal 105% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

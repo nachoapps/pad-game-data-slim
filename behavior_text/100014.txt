@@ -17,7 +17,7 @@ level: 4
    | (10421:92) Flash Breath
    | Spawn 3 random Light orbs, Deal 100% damage
    | (10422:89) Dimming Sunlight
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | group:

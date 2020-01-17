@@ -24,7 +24,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #7: ESSkillDelay(89:13249) -> Shall we give it a try?
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #8: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 2, target rnd 11

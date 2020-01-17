@@ -38,7 +38,7 @@ level: 1
  | group:
  | condition: hp <= 19
    | (5249:83) Ana starts crying + 10 combos!!
-   | Delay active skills by 3 turns + Deal 200% damage (10 hits, 20% each), Deal 200% damage (10 hits, 20% each)
+   | Delay active skills by 0~3 turns + Deal 200% damage (10 hits, 20% each), Deal 200% damage (10 hits, 20% each)
  type: UNKNOWN_USE
  | (5240:83) Ice Blade + 3 combos ♪
  | Change a random attribute to Water orbs + Deal 60% damage (3 hits, 20% each), Deal 60% damage

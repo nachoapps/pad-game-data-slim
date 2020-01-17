@@ -37,7 +37,7 @@ Branch on flag & 4, target rnd 12
 flag SET 0b111
 
 #11: ESSkillDelay(89:13297) -> Swords!
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #12: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 15

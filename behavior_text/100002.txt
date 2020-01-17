@@ -17,7 +17,7 @@ level: 4
    | (10346:92) Heat Breath
    | Spawn 3 random Fire orbs, Deal 100% damage
    | (10347:89) Easing Friction
-   | Delay active skills by 2 turns, Deal 95% damage
+   | Delay active skills by 0~2 turns, Deal 95% damage
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
  | group:

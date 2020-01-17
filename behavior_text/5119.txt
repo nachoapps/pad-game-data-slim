@@ -104,7 +104,7 @@ level: 1
  | Player -77% HP
  | condition: 34% chance
  | (12355:89) Double Sword Wave
- | Delay active skills by 2 turns, Deal 60% damage
+ | Delay active skills by 0~2 turns, Deal 60% damage
  | (12371:105) Here I come!
  | RCV +50% for 10 turns
  | (12373:39) I'm hungry...

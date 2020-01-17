@@ -20,7 +20,7 @@ level: 1
    | Change the 4th row to Fire and Light orbs, Deal 95% damage
    | condition: 34% chance
    | (16139:89) Hairpin thrown in anger
-   | Delay active skills by 2 turns, Deal 100% damage
+   | Delay active skills by 0~2 turns, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 50
    | (16140:53) We still have plenty of time

@@ -38,7 +38,7 @@ level: 1
    | group:
    | condition: always turn 3
      | (8542:89) Ritual Chimes
-     | Delay active skills by 4 turns
+     | Delay active skills by 0~4 turns
    | group:
      | (8540:15) Ailanthus Umbrella
      | Deal 100% damage (2 hits, 50% each)

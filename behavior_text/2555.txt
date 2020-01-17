@@ -47,7 +47,7 @@ level: 1
    | group:
    | condition: turn 7 while HP > 14
      | (10969:89) You're in trouble now!
-     | Delay active skills by 10 turns
+     | Delay active skills by 0~10 turns
    | group:
      | condition: 33% chance
      | (10965:108) Taghyir Zahar

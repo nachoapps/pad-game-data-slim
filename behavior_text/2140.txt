@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (2579:89) Abandon All Hope
- | Delay active skills by 1 turn
+ | Delay active skills by 0~1 turns
  group:
  | group:
    | condition: 30% chance

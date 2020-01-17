@@ -14,7 +14,7 @@ level: 4
  | group:
  | condition: turn 1
    | (13249:89) Shall we give it a try?
-   | Delay active skills by 2 turns, Deal 100% damage
+   | Delay active skills by 0~2 turns, Deal 100% damage
  | group:
  | condition: turn 2
    | (13250:92) Well? Don't be shy! Come at me!!

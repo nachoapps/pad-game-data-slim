@@ -21,7 +21,7 @@ level: 4
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (4906:83) Which one of you will be my opponent? + Dimension-Curse of the Sea God
- | Delay active skills by 2 turns + Change 3 random orbs to Jammer orbs
+ | Delay active skills by 0~2 turns + Change 3 random orbs to Jammer orbs
  group:
  | group:
    | group:

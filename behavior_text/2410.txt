@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (11350:83) Haughty + Bow before me
- | Voids status ailments for 999 turns + Delay active skills by 3 turns, Deal 120% damage
+ | Voids status ailments for 999 turns + Delay active skills by 0~3 turns, Deal 120% damage
  group:
  | group:
    | condition: 50% chance
