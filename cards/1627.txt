@@ -4,7 +4,7 @@ AWK: 27,28,19,28,28,21,32,37
 SAWK: 32,37,52
 
 # 1645/116 - Gravity Room
-Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT
+Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT,REDUCE_MATCH_RESTRICTION
 Game: Reduces enemies' HP by 10%; changes Jammers & Poison Orbs to Heal Orbs
 JP: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs
 EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs

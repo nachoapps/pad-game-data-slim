@@ -4,7 +4,7 @@ AWK: 10,10,56,21,28,26,26,26,43
 SAWK: 48,54,55
 
 # 13548/116 - Moon-Filled Night Shake
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; changes the bottom row to Dark Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs

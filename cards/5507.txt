@@ -4,7 +4,7 @@ AWK: 10,10,21,28,19,19,48,43,43
 SAWK: 45,48,60
 
 # 14367/116 - 練習の鬼
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ状態を5ターン回復。 左端縦1列を光に、右端縦1列を回復ドロップに変化。
 JP: Reduce unable to match orbs effect by 5 turns; Change the far left column to Light orbs and change the far right column to Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the far left column to Light orbs and change the far right column to Heal orbs

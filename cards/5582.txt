@@ -4,7 +4,7 @@ AWK: 49,12,12,12,58,2
 SAWK: 
 
 # 14600/116 - Skand's Divine Squall
-Tags: RECOVER_BIND,ORB_REFRESH,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: RECOVER_BIND,ORB_REFRESH,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: Fully recovers bind status (incl. Awoken) & unmatchable Orb status; replaces all Orbs
 JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Replace all orbs
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Replace all orbs

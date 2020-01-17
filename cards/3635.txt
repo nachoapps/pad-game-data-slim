@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 7536/116 - Live by my side!!
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,REDUCE_MATCH_RESTRICTION
 Game: Changes Fire Orbs to Wood & Dark Orbs to Heal; reduces bind status by 3 turns
 JP: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Reduce binds by 5 turns; Reduce unable to match orbs effect by 5 turns
 EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Reduce binds by 5 turns; Reduce unable to match orbs effect by 5 turns

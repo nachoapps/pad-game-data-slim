@@ -4,7 +4,7 @@ AWK: 18,68,56,26,27,27,18,32,28
 SAWK: 52,59,60
 
 # 1807/116 - Gravity World
-Tags: GRAVITY,EXTENDS_TIME
+Tags: GRAVITY,EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
 Game: Reduces enemies' HP by 25%; extends Orb move time by 5 seconds for 5 turns
 JP: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds

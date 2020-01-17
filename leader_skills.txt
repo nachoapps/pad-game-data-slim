@@ -11194,9 +11194,9 @@ KR: 5x ATK for Dragon type; Increase orb movement time by 2 seconds
 # 3221/138 - Supernova of the Malicious Diety
 Tags: ENHANCED_ATK
 Game: 5x ATK for Dragon & Devil Types; 3x ATK with an L shape of 5 Water Orbs
-JP: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in L shape
-EN: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in L shape
-KR: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in L shape
+JP: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in an L shape
+EN: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in an L shape
+KR: 5x ATK for Dragon, Devil type; 3x ATK when matching 5 Water orbs in an L shape
 
 # 3222/185 - Magic Power Amplification
 Tags: ENHANCED_ATK,EXTEND_TIME
@@ -21785,16 +21785,16 @@ KR: 4x ATK when matching 1 Fire combos, up to 16x at 4 Fire combos
 # 5824/138 - Napalm Stretch
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 5x ATK & reduces damage with an L shape of 5 Orbs; 3x ATK and reduces damage with 6+ combos
-JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
-EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
-KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
+JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
+EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
+KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 3x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 5825/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 5826/169 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -30913,9 +30913,9 @@ KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 # 8409/138 - Element of Treachery
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when 3+ Att. attack at once; 5x ATK & reduces damage with an L shape of 5 Orbs
-JP: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors; 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 8410/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -30927,9 +30927,9 @@ KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 # 8411/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 8415/138 - Shoulder Tackle
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -48532,9 +48532,9 @@ KR: 5x ATK and reduce damage taken by 50% when matching 6 or more colors (5+heal
 # 13083/138 - Legendary Black Dragon
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 2x HP & 5x ATK for Dark Att., Orb move time +2 seconds; 3x ATK & reduces damage with an L shape of 5 Dark Orbs
-JP: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 13084/185 - 
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -48546,9 +48546,9 @@ KR: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds
 # 13085/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 13089/138 - Floating Mountain Dragon
 Tags: ENHANCED_HP_ATK
@@ -49015,9 +49015,9 @@ KR: 4x ATK when matching 5 or more connected non Light orbs
 # 13216/138 - Devil Prince's Selfishness
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: [Orb move time: 4 sec], 3x ATK with 5+ combos; 6x ATK & reduces dmg with an L shape of 5 Dk or Wt Orbs
-JP: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
-EN: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
-KR: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape; 3x ATK when 5 or more combos
+JP: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape; 3x ATK when 5 or more combos
+EN: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape; 3x ATK when 5 or more combos
+KR: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape; 3x ATK when 5 or more combos
 
 # 13217/178 - 
 Tags: 
@@ -49029,9 +49029,9 @@ KR: [Fixed 4 second movetime]
 # 13218/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape
-EN: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape
-KR: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in L shape
+JP: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape
+EN: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape
+KR: 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape
 
 # 13223/138 - Integrate
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
@@ -49099,16 +49099,16 @@ KR: 2.5x ATK & RCV when matching Fire+Wood
 # 13239/138 - Shikigami, Zenki and Goki
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 5x ATK & reduces damage when 4+ Att. attack at once; 4x ATK & reduces damage with an L shape of 5 Orbs
-JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
-EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
-KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
 
 # 13240/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13241/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -49757,9 +49757,9 @@ KR: 2.5x ATK and reduce damage taken by 25% when matching 5 or more connected Li
 # 13430/138 - eat it while it's hot
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2x ATK & RCV for Light Att., 2x ATK when skills used; 3x ATK & reduces damage with an L shape of 5 Light Orbs
-JP: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 2x ATK & RCV for Light Att.; 2x ATK on the turn a skill is used; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 13431/129 - 
 Tags: ENHANCED_ATK_RCV
@@ -49778,9 +49778,9 @@ KR: 2x ATK on the turn a skill is used
 # 13433/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 13434/138 - I like it fluffy...
 Tags: ENHANCED_HP_ATK
@@ -50037,9 +50037,9 @@ KR: Increase combo by 2 when matching 4 or more connected Light and Dark orbs at
 # 13500/138 - House Arrest Crush
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK with 6+ combos; 4x ATK & reduces damage with a cross of 5 Fire or Light Orbs
-JP: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
-EN: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
-KR: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
+JP: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
+EN: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
+KR: [No skyfall] 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
 
 # 13501/177 - 
 Tags: NO_SKYFALL_COMBOS
@@ -50058,9 +50058,9 @@ KR: 4x ATK when 6 or more combos
 # 13503/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 Fire or Light orbs in an L shape
 
 # 13505/162 - 
 Tags: BOARD_CHANGE_7X6
@@ -50156,9 +50156,9 @@ KR: 4.5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 # 13525/138 - Eternal Dragon Echo - Khalfan
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK with 5+ combos, 3x ATK when skills used; 2.5x ATK & reduces damage with an L shape of 5 Orbs
-JP: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3x ATK when 5 or more combos; 3x ATK on the turn a skill is used; 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13526/66 - 
 Tags: ENHANCED_ATK
@@ -50177,9 +50177,9 @@ KR: 3x ATK on the turn a skill is used
 # 13528/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 2.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13532/138 - Eternal Dragon Player - Soa
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
@@ -50324,9 +50324,9 @@ KR: 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs
 # 13562/138 - Foreseeing Divine Clock
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 5x ATK for Water Att., 2x HP for Wood Att.; 3x ATK & reduces damage with an L shape of 5 Orbs
-JP: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 5x ATK for Water Att.; 2x HP for Wood Att.; 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13563/136 - 
 Tags: ENHANCED_HP_ATK
@@ -50338,9 +50338,9 @@ KR: 5x ATK for Water Att.; 2x HP for Wood Att.
 # 13564/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13568/138 - Apocalyptic Cleanup
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -50457,9 +50457,9 @@ KR: 3x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at onc
 # 13584/138 - True Spirit of the Warrior Goddess
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Fire Att., 3x ATK with an L shape of 5 non-Fire Orbs; 3x ATK with 6+ linked Fire Orbs
-JP: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in L shape; 3x ATK when matching 6 or more connected Fire orbs
-EN: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in L shape; 3x ATK when matching 6 or more connected Fire orbs
-KR: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in L shape; 3x ATK when matching 6 or more connected Fire orbs
+JP: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in an L shape; 3x ATK when matching 6 or more connected Fire orbs
+EN: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in an L shape; 3x ATK when matching 6 or more connected Fire orbs
+KR: 2x HP & ATK for Fire Att.; 3x ATK when matching 5 non Fire orbs in an L shape; 3x ATK when matching 6 or more connected Fire orbs
 
 # 13585/129 - 
 Tags: ENHANCED_HP_ATK
@@ -50471,9 +50471,9 @@ KR: 2x HP & ATK for Fire Att.
 # 13586/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 3x ATK when matching 5 non Fire orbs in L shape
-EN: 3x ATK when matching 5 non Fire orbs in L shape
-KR: 3x ATK when matching 5 non Fire orbs in L shape
+JP: 3x ATK when matching 5 non Fire orbs in an L shape
+EN: 3x ATK when matching 5 non Fire orbs in an L shape
+KR: 3x ATK when matching 5 non Fire orbs in an L shape
 
 # 13587/159 - 
 Tags: ENHANCED_ATK
@@ -50485,9 +50485,9 @@ KR: 3x ATK when matching 6 or more connected Fire orbs
 # 13591/138 - Eternal Dragon Roar - Torvio Bull
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Game: 1.5x to all stats for Dark Att., Orb move time +3 sec; 10x ATK & reduces damage with an L shape of 5 Dark Orbs
-JP: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 13592/185 - 
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -50499,9 +50499,9 @@ KR: 1.5x all stats for Dark Att.; Increase orb movement time by 3 seconds
 # 13593/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 10x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 13594/138 - Eternal Dragon Roar - Torvio Off
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
@@ -51339,9 +51339,9 @@ KR: 7x ATK when 6 or more combos
 # 13835/138 - Tides of Fate
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: ATK increases with 6+ linked Wood Orbs, up to 5x; 3.5x ATK & reduces damage with an L shape of 5 Orbs
-JP: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs; 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13836/119 - 
 Tags: ENHANCED_ATK
@@ -51353,9 +51353,9 @@ KR: 3.5x ATK when matching 6 or more connected Wood orbs up to 5x at 9 orbs
 # 13837/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 13841/138 - Rockbreaker
 Tags: ENHANCED_HP_ATK
@@ -51598,9 +51598,9 @@ KR: 3x ATK when matching 5 or more connected Wood or Dark orbs up to 4x at 6 orb
 # 13917/138 - ゾイドを…命をなんだと思ってやがるんだ！
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: バランスとマシンタイプのHPが1.5倍、攻撃力は3倍。 光の5個L字消しでダメージを軽減、攻撃力が3倍。
-JP: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 13918/129 - 
 Tags: ENHANCED_HP_ATK
@@ -51612,9 +51612,9 @@ KR: 3x ATK and 1.5x HP for Balanced, Machine type
 # 13919/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 13920/138 - Spirit of the Strategical God
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -51871,9 +51871,9 @@ KR: 2x HP & ATK if [3930] is on the team
 # 13975/138 - Worry not. I will not judge you...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces damage when HP is 50% or more; 3.5x ATK with an L shape of 5 Light or Dark Orbs
-JP: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
-EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
-KR: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in L shape
+JP: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in an L shape
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in an L shape
+KR: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Light or Dark orbs in an L shape
 
 # 13976/183 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -51885,9 +51885,9 @@ KR: 4x ATK and reduce damage taken by 35% when above 50% HP
 # 13977/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 3.5x ATK when matching 5 Light or Dark orbs in L shape
-EN: 3.5x ATK when matching 5 Light or Dark orbs in L shape
-KR: 3.5x ATK when matching 5 Light or Dark orbs in L shape
+JP: 3.5x ATK when matching 5 Light or Dark orbs in an L shape
+EN: 3.5x ATK when matching 5 Light or Dark orbs in an L shape
+KR: 3.5x ATK when matching 5 Light or Dark orbs in an L shape
 
 # 13981/138 - Tremble before the greatest fear!
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -52431,9 +52431,9 @@ KR: 4x ATK when matching 5 or more connected orbs
 # 14125/138 - この右腕一本で十分だぜ
 Tags: ENHANCED_HP_ATK
 Game: 攻撃タイプのHPと攻撃力が2倍。 光の5個L字消しで、攻撃力が4.5倍。
-JP: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in L shape
-EN: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in L shape
-KR: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in L shape
+JP: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in an L shape
+EN: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in an L shape
+KR: 2x HP & ATK for Attacker type; 4.5x ATK when matching 5 Light orbs in an L shape
 
 # 14126/129 - 
 Tags: ENHANCED_HP_ATK
@@ -52445,9 +52445,9 @@ KR: 2x HP & ATK for Attacker type
 # 14127/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4.5x ATK when matching 5 Light orbs in L shape
-EN: 4.5x ATK when matching 5 Light orbs in L shape
-KR: 4.5x ATK when matching 5 Light orbs in L shape
+JP: 4.5x ATK when matching 5 Light orbs in an L shape
+EN: 4.5x ATK when matching 5 Light orbs in an L shape
+KR: 4.5x ATK when matching 5 Light orbs in an L shape
 
 # 14132/138 - 欲しいもんのためには全てを捨てる!!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
@@ -52599,16 +52599,16 @@ KR: 50000 additional damage when matching 3 or more colors
 # 14168/138 - Blue Sky Shooting Star Strike
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 3x ATK & halves damage with an L shape of 5 Water Orbs; 6x ATK & inflicts 50,000 damage with 6+ linked Orbs
-JP: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
-EN: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
-KR: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+JP: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+EN: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+KR: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape; 6x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
 
 # 14169/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape
-EN: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape
-KR: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in L shape
+JP: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape
+EN: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape
+KR: 3x ATK and reduce damage taken by 50% when matching 5 Water orbs in an L shape
 
 # 14170/159 - 
 Tags: ENHANCED_ATK
@@ -52914,9 +52914,9 @@ KR: 3x ATK when matching 4 or more connected orbs up to 7x at 8 orbs
 # 14246/138 - 不敗の流星
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Game: 【落ちコンなし】火の5個L字消しで、攻撃力が5倍。 パズル後の残りドロップ数が6個以下で攻撃力が4倍。
-JP: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in L shape
-EN: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in L shape
-KR: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in L shape
+JP: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in an L shape
+EN: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in an L shape
+KR: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining; 5x ATK when matching 5 Fire orbs in an L shape
 
 # 14247/177 - 
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
@@ -52928,9 +52928,9 @@ KR: [No skyfall] 4x ATK when there are 6 or fewer orbs remaining
 # 14248/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 5x ATK when matching 5 Fire orbs in L shape
-EN: 5x ATK when matching 5 Fire orbs in L shape
-KR: 5x ATK when matching 5 Fire orbs in L shape
+JP: 5x ATK when matching 5 Fire orbs in an L shape
+EN: 5x ATK when matching 5 Fire orbs in an L shape
+KR: 5x ATK when matching 5 Fire orbs in an L shape
 
 # 14250/138 - I have transcended human existence!
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
@@ -52984,9 +52984,9 @@ KR: 3x ATK and reduce damage taken by 25% when below 50% HP
 # 14263/138 - Witness the might of the dragonkin!
 Tags: ENHANCED_HP_ATK
 Game: 2x HP for Dragon Type; 4x ATK with an L shape of 5 Water Orbs; 4x ATK & adds 1 combo when 3+ Att. attack at once
-JP: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
-EN: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
-KR: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
+JP: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in an L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
+EN: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in an L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
+KR: 2x HP for Dragon type; 4x ATK when matching 5 Water orbs in an L shape; 4x ATK and increase combo by 1 when matching 3 or more colors
 
 # 14264/129 - 
 Tags: ENHANCED_HP
@@ -52998,9 +52998,9 @@ KR: 2x HP for Dragon type
 # 14265/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4x ATK when matching 5 Water orbs in L shape
-EN: 4x ATK when matching 5 Water orbs in L shape
-KR: 4x ATK when matching 5 Water orbs in L shape
+JP: 4x ATK when matching 5 Water orbs in an L shape
+EN: 4x ATK when matching 5 Water orbs in an L shape
+KR: 4x ATK when matching 5 Water orbs in an L shape
 
 # 14266/194 - 
 Tags: ENHANCED_ATK
@@ -53180,9 +53180,9 @@ KR: 2x ATK and reduce damage taken by 50% when matching 2+ Light combos
 # 14318/138 - Sins of Envy
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 2x HP for Wd Att., 4x ATK with an L shape of 5 Wd Orbs; 4x ATK & inflicts 50,000 damage with 6+ linked Orbs
-JP: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
-EN: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
-KR: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+JP: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in an L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+EN: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in an L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
+KR: 2x HP for Wood Att.; 4x ATK when matching 5 Wood orbs in an L shape; 4x ATK when matching 6 or more connected orbs; 50000 additional damage when matching 6 or more orbs
 
 # 14319/129 - 
 Tags: ENHANCED_HP
@@ -53194,9 +53194,9 @@ KR: 2x HP for Wood Att.
 # 14320/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4x ATK when matching 5 Wood orbs in L shape
-EN: 4x ATK when matching 5 Wood orbs in L shape
-KR: 4x ATK when matching 5 Wood orbs in L shape
+JP: 4x ATK when matching 5 Wood orbs in an L shape
+EN: 4x ATK when matching 5 Wood orbs in an L shape
+KR: 4x ATK when matching 5 Wood orbs in an L shape
 
 # 14321/159 - 
 Tags: ENHANCED_ATK
@@ -53250,9 +53250,9 @@ KR: 50000 additional damage when matching 6 or more Light orbs
 # 14335/138 - Protective Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK & reduces damage when HP is 50% or more; 3.5x ATK with an L shape of 5 Fire Orbs
-JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
-EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
-KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in L shape
+JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in an L shape
+EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in an L shape
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 Fire orbs in an L shape
 
 # 14336/183 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -53264,9 +53264,9 @@ KR: 3x ATK and reduce damage taken by 35% when above 50% HP
 # 14337/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 3.5x ATK when matching 5 Fire orbs in L shape
-EN: 3.5x ATK when matching 5 Fire orbs in L shape
-KR: 3.5x ATK when matching 5 Fire orbs in L shape
+JP: 3.5x ATK when matching 5 Fire orbs in an L shape
+EN: 3.5x ATK when matching 5 Fire orbs in an L shape
+KR: 3.5x ATK when matching 5 Fire orbs in an L shape
 
 # 14341/138 - Brilliant Sea Beast's Prowess
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
@@ -53299,9 +53299,9 @@ KR: 5x ATK for Dragon, Devil type
 # 14348/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 3x ATK when matching 5 Water orbs in L shape
-EN: 3x ATK when matching 5 Water orbs in L shape
-KR: 3x ATK when matching 5 Water orbs in L shape
+JP: 3x ATK when matching 5 Water orbs in an L shape
+EN: 3x ATK when matching 5 Water orbs in an L shape
+KR: 3x ATK when matching 5 Water orbs in an L shape
 
 # 14349/129 - 
 Tags: ENHANCED_HP_ATK
@@ -53411,9 +53411,9 @@ KR: 4x ATK when matching 6 or more connected Dark orbs up to 6x at 10 orbs
 # 14371/138 - 努力には努力をもって応える
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
 Game: 光属性のHPと攻撃力が1.5倍。ドロップ操作を2秒延長。 光の5個L字消しで攻撃力が6倍、回復力は2倍。
-JP: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in L shape
-EN: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in L shape
-KR: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in L shape
+JP: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
+EN: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
+KR: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds; 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
 
 # 14372/185 - 
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -53425,9 +53425,9 @@ KR: 1.5x HP & ATK for Light Att.; Increase orb movement time by 2 seconds
 # 14373/193 - 
 Tags: ENHANCED_ATK_RCV
 Game: 
-JP: 6x ATK and 2x RCV when matching 5 Light orbs in L shape
-EN: 6x ATK and 2x RCV when matching 5 Light orbs in L shape
-KR: 6x ATK and 2x RCV when matching 5 Light orbs in L shape
+JP: 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
+EN: 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
+KR: 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
 
 # 14374/138 - もっと厳しいコースを攻めてくれ
 Tags: ENHANCED_HP_ATK
@@ -54006,9 +54006,9 @@ KR: 3x ATK when matching 6 or more connected Wood orbs
 # 14496/138 - 雷帝の剣
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 5コンボ以上で攻撃力が4倍。ドロップ操作を3秒延長。 光の5個L字消しでダメージを軽減、攻撃力が4倍。
-JP: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 4x ATK when 5 or more combos; Increase orb movement time by 3 seconds; 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 14497/66 - 
 Tags: ENHANCED_ATK
@@ -54027,9 +54027,9 @@ KR: Increase orb movement time by 3 seconds
 # 14499/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 
 # 14515/129 - 
 Tags: ENHANCED_HP
@@ -54279,9 +54279,9 @@ KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 # 14592/138 - Over already...?
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 2x HP for Dark Att., 5x ATK with an L shape of 5 Orbs; 3x ATK & inflicts 50,000 dmg when 4+ Att. attack at once
-JP: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
-EN: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
-KR: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
+JP: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in an L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
+EN: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in an L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
+KR: 2x HP for Dark Att.; 5x ATK when matching 5 orbs in an L shape; 3x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
 
 # 14593/129 - 
 Tags: ENHANCED_HP
@@ -54293,9 +54293,9 @@ KR: 2x HP for Dark Att.
 # 14594/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 5x ATK when matching 5 orbs in L shape
-EN: 5x ATK when matching 5 orbs in L shape
-KR: 5x ATK when matching 5 orbs in L shape
+JP: 5x ATK when matching 5 orbs in an L shape
+EN: 5x ATK when matching 5 orbs in an L shape
+KR: 5x ATK when matching 5 orbs in an L shape
 
 # 14595/61 - 
 Tags: ENHANCED_ATK
@@ -54447,9 +54447,9 @@ KR: 5.5x ATK when matching 4 or more connected Wood orbs
 # 14654/138 - I am devoted to the gods.
 Tags: ENHANCED_HP_ATK_RCV
 Game: 1.5x to all stats for Fire Att., 2x ATK when skills used; 4x ATK with an L shape of 5 Fire Orbs
-JP: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in L shape
-EN: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in L shape
-KR: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in L shape
+JP: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in an L shape
+EN: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in an L shape
+KR: 1.5x all stats for Fire Att.; 2x ATK on the turn a skill is used; 4x ATK when matching 5 Fire orbs in an L shape
 
 # 14655/129 - 
 Tags: ENHANCED_HP_ATK_RCV
@@ -54468,9 +54468,9 @@ KR: 2x ATK on the turn a skill is used
 # 14657/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 4x ATK when matching 5 Fire orbs in L shape
-EN: 4x ATK when matching 5 Fire orbs in L shape
-KR: 4x ATK when matching 5 Fire orbs in L shape
+JP: 4x ATK when matching 5 Fire orbs in an L shape
+EN: 4x ATK when matching 5 Fire orbs in an L shape
+KR: 4x ATK when matching 5 Fire orbs in an L shape
 
 # 14664/138 - Would you like to taste my blade?
 Tags: ENHANCED_HP_ATK_RCV
@@ -54545,9 +54545,9 @@ KR: 7x ATK when matching 2+ Jammer combos
 # 14684/138 - You shall pay for this...both you and this world itself!
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Dark Att., 1.5x ATK with 6+ combos; 5x ATK with an L shape of 5 Jammers
-JP: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
-EN: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
-KR: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in L shape
+JP: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in an L shape
+EN: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in an L shape
+KR: 2x HP & ATK for Dark Att.; 1.5x ATK when 6 or more combos; 5x ATK when matching 5 Jammer orbs in an L shape
 
 # 14685/129 - 
 Tags: ENHANCED_HP_ATK
@@ -54566,9 +54566,9 @@ KR: 1.5x ATK when 6 or more combos
 # 14687/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 5x ATK when matching 5 Jammer orbs in L shape
-EN: 5x ATK when matching 5 Jammer orbs in L shape
-KR: 5x ATK when matching 5 Jammer orbs in L shape
+JP: 5x ATK when matching 5 Jammer orbs in an L shape
+EN: 5x ATK when matching 5 Jammer orbs in an L shape
+KR: 5x ATK when matching 5 Jammer orbs in an L shape
 
 # 14691/138 - Would you honor me with a match?
 Tags: ENHANCED_HP_ATK_RCV
@@ -55343,9 +55343,9 @@ KR: 200x ATK additional damage when matching orbs
 # 14924/138 - True Spirit of the Love Deity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 1.5x HP for Light Att., 4x ATK with 6+ combos; 4x ATK & reduces damage with an L shape of 5 Orbs
-JP: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 14925/129 - 
 Tags: ENHANCED_HP_RCV
@@ -55364,9 +55364,9 @@ KR: 4x ATK when 6 or more combos
 # 14927/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 14940/138 - Fireball
 Tags: ENHANCED_HP_ATK
@@ -55988,9 +55988,9 @@ KR: 7x ATK and reduce damage taken by 25% when 7 or more combos
 # 15105/138 - 行くぜ、ダッシュ軍団！！
 Tags: ENHANCED_HP_ATK
 Game: 火属性のHPが2倍。ドロップの5個L字消しで、攻撃力が3倍。 火を6個以上つなげて消すと攻撃力が4倍、1コンボ加算。
-JP: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
-EN: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
-KR: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
+JP: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in an L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
+EN: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in an L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
+KR: 2x HP for Fire Att.; 3x ATK when matching 5 orbs in an L shape; 4x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
 
 # 15106/129 - 
 Tags: ENHANCED_HP
@@ -56002,9 +56002,9 @@ KR: 2x HP for Fire Att.
 # 15107/193 - 
 Tags: ENHANCED_ATK
 Game: 
-JP: 3x ATK when matching 5 orbs in L shape
-EN: 3x ATK when matching 5 orbs in L shape
-KR: 3x ATK when matching 5 orbs in L shape
+JP: 3x ATK when matching 5 orbs in an L shape
+EN: 3x ATK when matching 5 orbs in an L shape
+KR: 3x ATK when matching 5 orbs in an L shape
 
 # 15108/192 - 
 Tags: ENHANCED_ATK
@@ -56107,9 +56107,9 @@ KR: 8x ATK and reduce damage taken by 25% when 6 or more combos
 # 15137/138 - Eternal Dragon Players - Kyao & Kyari
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & reduces dmg when Light & Dark attack at once; 4x ATK & reduces damage with an L shape of 5 Orbs
-JP: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching Light+Dark; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 15138/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -56121,9 +56121,9 @@ KR: 4x ATK and reduce damage taken by 25% when matching Light+Dark
 # 15139/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 15143/138 - Eternal Dragon Player - Karyukt
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -56380,9 +56380,9 @@ KR: 300000 additional damage when attacking with 3 or more Wood combos
 # 15197/138 - Twin Palm God Skill
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Game: [No Skyfall Combos], 4x ATK with 5+ linked Light Orbs; 4.5x ATK & reduces damage with an L shape of 5 Orbs
-JP: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 15198/163 - 
 Tags: NO_SKYFALL_COMBOS
@@ -56401,9 +56401,9 @@ KR: 4x ATK when matching 5 or more connected Light orbs
 # 15200/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-EN: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
-KR: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in L shape
+JP: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 15204/138 - Magic Staff's Holy Force
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
@@ -56695,9 +56695,9 @@ KR: 4.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 # 15281/138 - 超ダークカイサツソード
 Tags: ENHANCED_ATK_RCV
 Game: 闇属性の攻撃力が10倍。闇の2コンボ以上で固定10万ダメージ。 闇の5個L字消しで、攻撃力と回復力が2倍。
-JP: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
-EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
-KR: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in L shape; 100000 additional damage when attacking with 2 or more Dark combos
+JP: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
+EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
+KR: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
 
 # 15282/129 - 
 Tags: ENHANCED_ATK
@@ -56709,9 +56709,9 @@ KR: 10x ATK for Dark Att.
 # 15283/193 - 
 Tags: ENHANCED_ATK_RCV
 Game: 
-JP: 2x ATK & RCV when matching 5 Dark orbs in L shape
-EN: 2x ATK & RCV when matching 5 Dark orbs in L shape
-KR: 2x ATK & RCV when matching 5 Dark orbs in L shape
+JP: 2x ATK & RCV when matching 5 Dark orbs in an L shape
+EN: 2x ATK & RCV when matching 5 Dark orbs in an L shape
+KR: 2x ATK & RCV when matching 5 Dark orbs in an L shape
 
 # 15284/201 - 
 Tags: 
@@ -56772,9 +56772,9 @@ KR: 5x ATK for Fire Att.; 2x HP for Wood Att.
 # 15312/138 - ドウリンハンマー
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: マシンタイプのHPと攻撃力が1.5倍。 闇の5個L字消しでダメージを軽減、攻撃力が6倍。
-JP: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 1.5x HP & ATK for Machine type; 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 15313/129 - 
 Tags: ENHANCED_HP_ATK
@@ -56786,9 +56786,9 @@ KR: 1.5x HP & ATK for Machine type
 # 15314/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-EN: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
-KR: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in L shape
+JP: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+EN: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
+KR: 6x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shape
 
 # 15321/138 - カンカンガン
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
@@ -57283,9 +57283,9 @@ KR: 3x ATK and reduce damage taken by 25% when 7 or more combos
 # 15477/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in L shape
-EN: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in L shape
-KR: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in L shape
+JP: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
 
 # 15478/138 - オレのターン、ドロー！
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
@@ -57479,16 +57479,16 @@ KR: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP fro
 # 15523/138 - オレは諦めねぇ！最後の最後まで！
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 火の5個L字消しでダメージを半減、攻撃力が3倍。 4色以上同時攻撃で攻撃力が6倍、1コンボ加算。
-JP: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
-EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
-KR: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
+JP: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
+EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
+KR: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
 
 # 15524/193 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 
-JP: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape
-EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape
-KR: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in L shape
+JP: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape
+EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape
+KR: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape
 
 # 15525/194 - 
 Tags: ENHANCED_ATK
@@ -58079,11 +58079,18 @@ EN: 20x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 20x ATK and reduce damage taken by 25% when 7 or more combos
 
 # 15690/138 - 優雅の心胆
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復の2コンボ以上でダメージを軽減、攻撃力が5倍。
-JP: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
-EN: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
-KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+JP: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+
+# 15691/203 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 4x ATK & RCV when all cards are Pixel Evolutions
+EN: 4x ATK & RCV when all cards are Pixel Evolutions
+KR: 4x ATK & RCV when all cards are Pixel Evolutions
 
 # 15692/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58093,11 +58100,18 @@ EN: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
 # 15693/138 - 節度の心胆
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 水の2コンボ以上でダメージを軽減、攻撃力が5倍。
-JP: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
-EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
-KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+JP: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+
+# 15694/203 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 4x ATK & RCV when all cards are Pixel Evolutions
+EN: 4x ATK & RCV when all cards are Pixel Evolutions
+KR: 4x ATK & RCV when all cards are Pixel Evolutions
 
 # 15695/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58107,11 +58121,18 @@ EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 
 # 15696/138 - 無心の心胆
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
-JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
-EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
-KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+JP: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+
+# 15697/203 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 4x ATK & RCV when all cards are Pixel Evolutions
+EN: 4x ATK & RCV when all cards are Pixel Evolutions
+KR: 4x ATK & RCV when all cards are Pixel Evolutions
 
 # 15698/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58121,11 +58142,18 @@ EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Ligh
 KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 
 # 15699/138 - 高潔の心胆
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
-JP: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
-EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
-KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+JP: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
+
+# 15700/203 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 4x ATK & RCV when all cards are Pixel Evolutions
+EN: 4x ATK & RCV when all cards are Pixel Evolutions
+KR: 4x ATK & RCV when all cards are Pixel Evolutions
 
 # 15701/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58135,11 +58163,18 @@ EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal
 KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
 
 # 15702/138 - 緋天の連舞
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火木光の同時攻撃でダメージを軽減、攻撃力が8倍。
-JP: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
-EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
-KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+JP: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
+
+# 15703/203 - 
+Tags: ENHANCED_HP_ATK
+Game: 
+JP: 2x HP & ATK when all cards are Pixel Evolutions
+EN: 2x HP & ATK when all cards are Pixel Evolutions
+KR: 2x HP & ATK when all cards are Pixel Evolutions
 
 # 15704/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58149,11 +58184,18 @@ EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at onc
 KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, Light at once
 
 # 15705/138 - 昇竜の連舞
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 水木闇の同時攻撃でダメージを軽減、攻撃力が8倍。
-JP: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
-EN: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
-KR: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+JP: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
+
+# 15706/203 - 
+Tags: ENHANCED_HP_ATK
+Game: 
+JP: 2x HP & ATK when all cards are Pixel Evolutions
+EN: 2x HP & ATK when all cards are Pixel Evolutions
+KR: 2x HP & ATK when all cards are Pixel Evolutions
 
 # 15707/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58163,11 +58205,18 @@ EN: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at onc
 KR: 8x ATK and reduce damage taken by 25% when matching Water, Wood, Dark at once
 
 # 15708/138 - 霊亀の連舞
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 木光闇の同時攻撃でダメージを軽減、攻撃力が8倍。
-JP: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
-EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
-KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+JP: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
+
+# 15709/203 - 
+Tags: ENHANCED_HP_ATK
+Game: 
+JP: 2x HP & ATK when all cards are Pixel Evolutions
+EN: 2x HP & ATK when all cards are Pixel Evolutions
+KR: 2x HP & ATK when all cards are Pixel Evolutions
 
 # 15710/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58177,11 +58226,18 @@ EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at onc
 KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, Dark at once
 
 # 15711/138 - 四源の連舞
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水木光の同時攻撃でダメージを軽減、攻撃力が9倍。
-JP: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
-EN: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
-KR: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+JP: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+EN: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+KR: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
+
+# 15712/203 - 
+Tags: ENHANCED_HP_ATK
+Game: 
+JP: 2x HP & ATK when all cards are Pixel Evolutions
+EN: 2x HP & ATK when all cards are Pixel Evolutions
+KR: 2x HP & ATK when all cards are Pixel Evolutions
 
 # 15713/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58191,11 +58247,18 @@ EN: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light
 KR: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Light at once
 
 # 15714/138 - 虎咆の連舞
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水闇の同時攻撃でダメージを軽減、攻撃力が8倍。
-JP: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
-EN: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
-KR: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+JP: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
+
+# 15715/203 - 
+Tags: ENHANCED_HP_ATK
+Game: 
+JP: 2x HP & ATK when all cards are Pixel Evolutions
+EN: 2x HP & ATK when all cards are Pixel Evolutions
+KR: 2x HP & ATK when all cards are Pixel Evolutions
 
 # 15716/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58205,11 +58268,18 @@ EN: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at onc
 KR: 8x ATK and reduce damage taken by 25% when matching Fire, Water, Dark at once
 
 # 15717/138 - ゾーン・オブ・ゼウス
-Tags: ENHANCED_ATK
+Tags: ENHANCED_HP_ATK_RCV
 Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP満タン時に攻撃力が10倍。
-JP: 10x ATK when HP is full
-EN: 10x ATK when HP is full
-KR: 10x ATK when HP is full
+JP: 2x all stats when all cards are Pixel Evolutions; 10x ATK when HP is full
+EN: 2x all stats when all cards are Pixel Evolutions; 10x ATK when HP is full
+KR: 2x all stats when all cards are Pixel Evolutions; 10x ATK when HP is full
+
+# 15718/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Game: 
+JP: 2x all stats when all cards are Pixel Evolutions
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
 
 # 15719/183 - 
 Tags: ENHANCED_ATK
@@ -58219,11 +58289,18 @@ EN: 10x ATK when HP is full
 KR: 10x ATK when HP is full
 
 # 15720/138 - 神王妃の微笑
-Tags: ENHANCED_ATK
+Tags: ENHANCED_HP_ATK_RCV
 Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP50％以下で攻撃力が9倍。
-JP: 9x ATK when below 50% HP
-EN: 9x ATK when below 50% HP
-KR: 9x ATK when below 50% HP
+JP: 2x all stats when all cards are Pixel Evolutions; 9x ATK when below 50% HP
+EN: 2x all stats when all cards are Pixel Evolutions; 9x ATK when below 50% HP
+KR: 2x all stats when all cards are Pixel Evolutions; 9x ATK when below 50% HP
+
+# 15721/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Game: 
+JP: 2x all stats when all cards are Pixel Evolutions
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
 
 # 15722/183 - 
 Tags: ENHANCED_ATK

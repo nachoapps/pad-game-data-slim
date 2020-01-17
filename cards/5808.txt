@@ -4,7 +4,7 @@ AWK: 10,10,21,28,19,57,57,57,45
 SAWK: 54,43,61
 
 # 15577/116 - ホーリー・エルフの祝福
-Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER
+Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: 最大HP50％分のHP回復、消せないドロップ状態を全回復。 左端縦1列を回復ドロップに変化。
 JP: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
 EN: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs

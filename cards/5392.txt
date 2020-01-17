@@ -4,7 +4,7 @@ AWK: 10,10,21,21,21,28,43,43,43
 SAWK: 53,21,44
 
 # 13757/116 - Rising of the Orbs
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes Orbs to all Attributes & Heal
 JP: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs

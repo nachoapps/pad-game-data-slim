@@ -4,7 +4,7 @@ AWK: 10,10,21,21,21,27,27,43,43
 SAWK: 27,48,45
 
 # 1836/116 - Tokei Koho
-Tags: VOID_DAMAGE,RECOVER_BIND
+Tags: VOID_DAMAGE,RECOVER_BIND,REDUCE_MATCH_RESTRICTION
 Game: Voids damage received for 1 turn, fully recovers bind status; reduces unmatchable Orb status by 5 turns
 JP: For 1 turn, reduce damage taken by 100%; Remove all binds; Reduce unable to match orbs effect by 5 turns
 EN: For 1 turn, reduce damage taken by 100%; Remove all binds; Reduce unable to match orbs effect by 5 turns

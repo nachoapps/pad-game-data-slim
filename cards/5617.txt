@@ -4,7 +4,7 @@ AWK: 49,21,11,11,13,1
 SAWK: 
 
 # 15377/116 - 意味のないことを……
-Tags: ORB_CONVERT,REMOVE_LOCK
+Tags: ORB_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: ドロップのロック状態を解除。消せないドロップ状態を全回復。 水、闇、お邪魔、毒ドロップを木ドロップに変化。
 JP: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 EN: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs

@@ -4,7 +4,7 @@ AWK: 10,10,21,46,47,34,34,35,35
 SAWK: 35,46,47
 
 # 15056/116 - Rock 'n' roll!
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes all Orbs to Fire, Dark & Heal Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs

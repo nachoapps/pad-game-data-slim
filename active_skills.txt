@@ -6131,7 +6131,7 @@ EN: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change 
 KR: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change the bottom row to Heal orbs
 
 # 1645/116 - Gravity Room
-Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT
+Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT,REDUCE_MATCH_RESTRICTION
 Game: Reduces enemies' HP by 10%; changes Jammers & Poison Orbs to Heal Orbs
 JP: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs
 EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer, Poison orbs to Heal orbs
@@ -6467,7 +6467,7 @@ EN: Reduce enemies' HP by 10%; Enhance all Water orbs
 KR: Reduce enemies' HP by 10%; Enhance all Water orbs
 
 # 1807/116 - Gravity World
-Tags: GRAVITY,EXTENDS_TIME
+Tags: GRAVITY,EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
 Game: Reduces enemies' HP by 25%; extends Orb move time by 5 seconds for 5 turns
 JP: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
@@ -6670,7 +6670,7 @@ EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, increase orb move t
 KR: For 1 turn, reduce enemies' defense by 100%; For 1 turn, increase orb move time by 7 seconds; Enhance all orbs
 
 # 1836/116 - Tokei Koho
-Tags: VOID_DAMAGE,RECOVER_BIND
+Tags: VOID_DAMAGE,RECOVER_BIND,REDUCE_MATCH_RESTRICTION
 Game: Voids damage received for 1 turn, fully recovers bind status; reduces unmatchable Orb status by 5 turns
 JP: For 1 turn, reduce damage taken by 100%; Remove all binds; Reduce unable to match orbs effect by 5 turns
 EN: For 1 turn, reduce damage taken by 100%; Remove all binds; Reduce unable to match orbs effect by 5 turns
@@ -17324,7 +17324,7 @@ EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 6780/116 - Sweet Words
-Tags: RECOVER_BIND
+Tags: RECOVER_BIND,REDUCE_MATCH_RESTRICTION
 Game: Creates 3 Fire & Heal Orbs each at random; reduces unmatchable Orb status & bind status by 5 turns
 JP: Create 3 Fire and Heal orbs; Reduce unable to match orbs effect by 5 turns; Reduce binds by 5 turns
 EN: Create 3 Fire and Heal orbs; Reduce unable to match orbs effect by 5 turns; Reduce binds by 5 turns
@@ -18745,7 +18745,7 @@ EN: For 1 turn, increase ATK by 30% for each Enhanced Fire Att. and Enhanced Woo
 KR: For 1 turn, increase ATK by 30% for each Enhanced Fire Att. and Enhanced Wood Att. awakening skill on the team
 
 # 7536/116 - Live by my side!!
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,REDUCE_MATCH_RESTRICTION
 Game: Changes Fire Orbs to Wood & Dark Orbs to Heal; reduces bind status by 3 turns
 JP: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Reduce binds by 5 turns; Reduce unable to match orbs effect by 5 turns
 EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Reduce binds by 5 turns; Reduce unable to match orbs effect by 5 turns
@@ -31403,7 +31403,7 @@ EN: Deal 150000 damage to an enemy
 KR: Deal 150000 damage to an enemy
 
 # 12448/116 - Arrow of Exorcism
-Tags: ORB_CONVERT,VOID_DAMAGE_ABSORBS
+Tags: ORB_CONVERT,VOID_DAMAGE_ABSORBS,REDUCE_MATCH_RESTRICTION
 Game: Voids damage absorption for 1 turn; changes Fire Orbs to Wood Orbs, fully recovers unmatchable Orb status
 JP: For 1 turn, bypass damage absorb shield effects; Change Fire orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns
 EN: For 1 turn, bypass damage absorb shield effects; Change Fire orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns
@@ -34798,14 +34798,14 @@ EN: Change all orbs to Fire, Water, Wood, and Light orbs
 KR: Change all orbs to Fire, Water, Wood, and Light orbs
 
 # 13548/116 - Moon-Filled Night Shake
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; changes the bottom row to Dark Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 KR: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 
 # 13549/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -34854,7 +34854,7 @@ EN: For 1 turn, Jammer orbs are more likely to appear by 25%
 KR: For 1 turn, Jammer orbs are more likely to appear by 25%
 
 # 13566/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 0 turns
 EN: Reduce unable to match orbs effect by 0 turns
@@ -35505,14 +35505,14 @@ EN: Change all orbs to Heal orbs
 KR: Change all orbs to Heal orbs
 
 # 13757/116 - Rising of the Orbs
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes Orbs to all Attributes & Heal
 JP: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13758/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -36100,7 +36100,7 @@ EN: Recover all HP; Remove all awoken skill binds
 KR: Recover all HP; Remove all awoken skill binds
 
 # 13948/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -36135,7 +36135,7 @@ EN: For 1 turn, 2x ATK for Wood, Dark Att.
 KR: For 1 turn, 2x ATK for Wood, Dark Att.
 
 # 13963/116 - Heartfelt Time
-Tags: ENHANCED_ORBS,ENHANCED_HEAL
+Tags: ENHANCED_ORBS,ENHANCED_HEAL,REDUCE_MATCH_RESTRICTION
 Game: 2x RCV for 4 turns, Fire Orbs enhanced; reduces unmatchable Orb status by 5 turns
 JP: For 4 turns, 2x RCV; Enhance all Fire orbs; Reduce unable to match orbs effect by 5 turns
 EN: For 4 turns, 2x RCV; Enhance all Fire orbs; Reduce unable to match orbs effect by 5 turns
@@ -36156,7 +36156,7 @@ EN: Enhance all Fire orbs
 KR: Enhance all Fire orbs
 
 # 13966/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -36604,7 +36604,7 @@ EN: For 3 turns, 0x RCV
 KR: For 3 turns, 0x RCV
 
 # 14105/116 - 思いっきり楽しんできてね!!
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ状態を5ターン回復。 最上段横1列を木ドロップに変化。
 JP: Reduce unable to match orbs effect by 5 turns; Change the top row to Wood orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the top row to Wood orbs
@@ -36618,7 +36618,7 @@ EN: Change the top row to Wood orbs
 KR: Change the top row to Wood orbs
 
 # 14107/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -36933,14 +36933,14 @@ EN: For 1 turn, 0.25x RCV
 KR: For 1 turn, 0.25x RCV
 
 # 14219/116 - Starlight Shower
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; changes all Orbs to Water & Light Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Change all orbs to Water and Light orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change all orbs to Water and Light orbs
 KR: Reduce unable to match orbs effect by 5 turns; Change all orbs to Water and Light orbs
 
 # 14220/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -37395,14 +37395,14 @@ EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 14367/116 - 練習の鬼
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ状態を5ターン回復。 左端縦1列を光に、右端縦1列を回復ドロップに変化。
 JP: Reduce unable to match orbs effect by 5 turns; Change the far left column to Light orbs and change the far right column to Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change the far left column to Light orbs and change the far right column to Heal orbs
 KR: Reduce unable to match orbs effect by 5 turns; Change the far left column to Light orbs and change the far right column to Heal orbs
 
 # 14368/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -37801,7 +37801,7 @@ EN: Lock Water orbs
 KR: Lock Water orbs
 
 # 14514/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -37829,7 +37829,7 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 14519/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -38123,7 +38123,7 @@ EN: Delay enemies' next attack by 2 turns
 KR: Delay enemies' next attack by 2 turns
 
 # 14600/116 - Skand's Divine Squall
-Tags: RECOVER_BIND,ORB_REFRESH,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: RECOVER_BIND,ORB_REFRESH,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: Fully recovers bind status (incl. Awoken) & unmatchable Orb status; replaces all Orbs
 JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Replace all orbs
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Replace all orbs
@@ -38137,7 +38137,7 @@ EN: Remove all binds and awoken skill binds
 KR: Remove all binds and awoken skill binds
 
 # 14602/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -39768,14 +39768,14 @@ EN: Change Water orbs to Wood orbs
 KR: Change Water orbs to Wood orbs
 
 # 15056/116 - Rock 'n' roll!
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; removes Orb locks, changes all Orbs to Fire, Dark & Heal Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
 EN: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
 KR: Reduce unable to match orbs effect by 5 turns; Unlock all orbs; Change all orbs to Fire, Dark, and Heal orbs
 
 # 15057/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -40461,7 +40461,7 @@ EN: For 1 turn, 2x ATK for Dark Att.
 KR: For 1 turn, 2x ATK for Dark Att.
 
 # 15285/116 - 指示に従います
-Tags: VOID_ATT_ABSORBS
+Tags: VOID_ATT_ABSORBS,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ状態を全回復。 1ターンの間、属性吸収を無効化する。
 JP: Reduce unable to match orbs effect by 9999 turns; For 1 turn, bypass att. absorb shield effects
 EN: Reduce unable to match orbs effect by 9999 turns; For 1 turn, bypass att. absorb shield effects
@@ -40475,7 +40475,7 @@ EN: Recover all HP
 KR: Recover all HP
 
 # 15287/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -40489,14 +40489,14 @@ EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
 # 15289/116 - シンカリオン Ｈ５はやぶさ
-Tags: VOID_ATT_ABSORBS
+Tags: VOID_ATT_ABSORBS,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ状態を全回復。 2ターンの間、属性吸収を無効化する。
 JP: Reduce unable to match orbs effect by 9999 turns; For 2 turns, bypass att. absorb shield effects
 EN: Reduce unable to match orbs effect by 9999 turns; For 2 turns, bypass att. absorb shield effects
 KR: Reduce unable to match orbs effect by 9999 turns; For 2 turns, bypass att. absorb shield effects
 
 # 15290/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -40846,7 +40846,7 @@ EN: Remove all binds and awoken skill binds
 KR: Remove all binds and awoken skill binds
 
 # 15377/116 - 意味のないことを……
-Tags: ORB_CONVERT,REMOVE_LOCK
+Tags: ORB_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: ドロップのロック状態を解除。消せないドロップ状態を全回復。 水、闇、お邪魔、毒ドロップを木ドロップに変化。
 JP: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 EN: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
@@ -40860,7 +40860,7 @@ EN: Unlock all orbs
 KR: Unlock all orbs
 
 # 15379/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -41175,7 +41175,7 @@ EN: Create 3 Fire and Wood orbs
 KR: Create 3 Fire and Wood orbs
 
 # 15465/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -41546,7 +41546,7 @@ EN: Create an L shape of Dark orbs with its center at the bottom row and the far
 KR: Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
 # 15577/116 - ホーリー・エルフの祝福
-Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER
+Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
 Game: 最大HP50％分のHP回復、消せないドロップ状態を全回復。 左端縦1列を回復ドロップに変化。
 JP: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
 EN: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
@@ -41560,7 +41560,7 @@ EN: Recover 50% of max HP
 KR: Recover 50% of max HP
 
 # 15579/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -41686,7 +41686,7 @@ EN: Changes to [5802] for the duration of the dungeon
 KR: Changes to [5802] for the duration of the dungeon
 
 # 15617/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 5 turns
 EN: Reduce unable to match orbs effect by 5 turns
@@ -41924,7 +41924,7 @@ EN: Remove all awoken skill binds
 KR: Remove all awoken skill binds
 
 # 15688/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -42211,14 +42211,14 @@ EN: Changes to [5842] for the duration of the dungeon
 KR: Changes to [5842] for the duration of the dungeon
 
 # 15767/116 - ホワイトブースト
-Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 1ターンの間、ドロップ操作を2秒延長。
 JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
 KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
 
 # 15768/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns
@@ -42281,7 +42281,7 @@ EN: Change the far left column to Dark orbs and change the far right column to H
 KR: Change the far left column to Dark orbs and change the far right column to Heal orbs
 
 # 15789/116 - デザンブースト
-Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 3ターンの間、回復力とドロップ操作時間が2倍。
 JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
@@ -42323,7 +42323,7 @@ EN: Change the far left column to Dark orbs and change the far right column to H
 KR: Change the far left column to Dark orbs and change the far right column to Heal orbs
 
 # 15795/196 - 
-Tags: 
+Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns
 EN: Reduce unable to match orbs effect by 9999 turns

@@ -4,7 +4,7 @@ AWK: 52,21,21,28,48,48,11,12,13
 SAWK: 43,21,64
 
 # 14219/116 - Starlight Shower
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_MATCH_RESTRICTION
 Game: Reduces unmatchable Orb status by 5 turns; changes all Orbs to Water & Light Orbs
 JP: Reduce unable to match orbs effect by 5 turns; Change all orbs to Water and Light orbs
 EN: Reduce unable to match orbs effect by 5 turns; Change all orbs to Water and Light orbs

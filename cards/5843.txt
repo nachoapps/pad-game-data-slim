@@ -4,7 +4,7 @@ AWK: 49,17,17,17,17,17,2
 SAWK: 
 
 # 15789/116 - デザンブースト
-Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 3ターンの間、回復力とドロップ操作時間が2倍。
 JP: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
