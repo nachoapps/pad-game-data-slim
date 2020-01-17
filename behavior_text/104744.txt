@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: always turn 1
      | (10563:83) Rúro Pari + Synchronized Burst
-     | Delay active skills by 3 turns + Deal 80% damage (4 hits, 20% each), Deal 80% damage (4 hits, 20% each)
+     | Delay active skills by 0~3 turns + Deal 80% damage (4 hits, 20% each), Deal 80% damage (4 hits, 20% each)
    | group:
      | condition: 25% chance
      | (10565:83) Synchronized Burst + Gloom

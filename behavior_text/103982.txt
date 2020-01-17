@@ -26,7 +26,7 @@ level: 4
    | Deal 105~150% damage (7~10 hits, 15% each)
    | condition: 33% chance
    | (8435:89) Flanking Assault
-   | Delay active skills by 2 turns, Deal 110% damage
+   | Delay active skills by 0~2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
    | Change a random attribute to Fire orbs, Deal 130% damage
@@ -40,7 +40,7 @@ level: 4
    | Deal 105~150% damage (7~10 hits, 15% each)
    | condition: 33% chance
    | (8435:89) Flanking Assault
-   | Delay active skills by 2 turns, Deal 110% damage
+   | Delay active skills by 0~2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
    | Change a random attribute to Fire orbs, Deal 130% damage
@@ -53,7 +53,7 @@ level: 4
    | Deal 105~150% damage (7~10 hits, 15% each)
    | condition: 33% chance
    | (8435:89) Flanking Assault
-   | Delay active skills by 2 turns, Deal 110% damage
+   | Delay active skills by 0~2 turns, Deal 110% damage
    | condition: 33% chance
    | (8441:48) Apokaliptan Weaponry
    | Change a random attribute to Fire orbs, Deal 130% damage

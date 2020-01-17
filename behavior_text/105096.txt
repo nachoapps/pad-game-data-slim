@@ -40,7 +40,7 @@ level: 4
    | group:
      | condition: 50% chance
      | (12410:89) Tiger Spike
-     | Delay active skills by 2 turns, Deal 120% damage
+     | Delay active skills by 0~2 turns, Deal 120% damage
      | condition: 50% chance
      | (12411:15) Tiger Rush
      | Deal 140% damage (2 hits, 70% each)

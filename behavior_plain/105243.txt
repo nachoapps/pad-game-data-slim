@@ -47,7 +47,7 @@ end_turn
 flag SET 0b0
 
 #14: ESSkillDelay(89:13229) -> 100 percent Integration Vorpal Dance
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

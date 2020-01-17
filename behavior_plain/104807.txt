@@ -13,7 +13,7 @@ Blind all orbs on the board, Deal 50% damage
 
 #3: ESSkillDelay(89:10746) -> Dark Shine
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
-Delay active skills by 3 turns
+Delay active skills by 0~3 turns
 
 #4: ESBlindStickyRandom(97:10747) -> Anghel Feldamis
 Condition: When < 10% HP (ai:100 rnd:0)

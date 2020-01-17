@@ -20,7 +20,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 79
    | (15481:89) Muspell's Hellish Hosts
-   | Delay active skills by 2 turns
+   | Delay active skills by 0~2 turns
  | group:
  | condition: always turn 2, hp <= 49
    | (15485:83) Overheat + Body burns up even more...

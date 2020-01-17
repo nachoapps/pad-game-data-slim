@@ -16,7 +16,7 @@ Increase damage to 150% for the next 999 turns
 
 #4: ESSkillDelay(89:13454) -> Comfortable High-Pitched Sound
 Condition: 50% chance (ai:0 rnd:50)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #5: ESColumnSpawnMulti(77:13455) -> Echoing Melody
 Condition: 50% chance (ai:0 rnd:50)

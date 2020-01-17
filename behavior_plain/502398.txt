@@ -13,7 +13,7 @@ Change all orbs to Fire, Deal 150% damage
 
 #3: ESSkillDelay(89:15481) -> Muspell's Hellish Hosts
 Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 2)
-Delay active skills by 2 turns
+Delay active skills by 0~2 turns
 
 #4: SkillSet:
 	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)

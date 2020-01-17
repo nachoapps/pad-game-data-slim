@@ -73,7 +73,7 @@ Branch on hp < 10, target rnd 28
 
 #22: ESSkillDelay(89:11456) -> Downward Sword Slash
 Condition: 20% chance (ai:0 rnd:20)
-Delay active skills by 2 turns, Deal 100% damage
+Delay active skills by 0~2 turns, Deal 100% damage
 
 #23: ESRowSpawnMulti(79:11457) -> Sweeping Beam Attack
 Condition: 20% chance (ai:0 rnd:20)

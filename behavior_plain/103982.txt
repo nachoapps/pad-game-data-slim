@@ -37,7 +37,7 @@ Deal 105~150% damage (7~10 hits, 15% each)
 
 #11: ESSkillDelay(89:8435) -> Flanking Assault
 Condition: 33% chance (ai:0 rnd:33)
-Delay active skills by 2 turns, Deal 110% damage
+Delay active skills by 0~2 turns, Deal 110% damage
 
 #12: ESOrbChangeAttack(48:8441) -> Apokaliptan Weaponry
 Condition: 33% chance (ai:0 rnd:33)

@@ -33,7 +33,7 @@ Change all Jammer orbs to Fire orbs, Deal 150% damage
 	[0] ESRowSpawnMulti(79:3036) -> Dark Color Fire
 	Change the 1st, 3rd, and 5th rows to Fire, Dark, and Jammer orbs, Deal 100% damage
 	[1] ESSkillDelay(89:3037) -> Beast's Ambition
-	Delay active skills by 2 turns
+	Delay active skills by 0~2 turns
 
 #9: SkillSet:
 	[0] ESPoisonChangeRandomCount(60:3047) -> Serpent Poison
