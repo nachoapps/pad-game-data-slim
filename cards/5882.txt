@@ -1,0 +1,19 @@
+#5882 スキルコネクト・キリト
+HP: 3765 ATK: 2045 RCV: 368 LB: 25
+AWK: 52,21,28,53,45,51,51,61,63
+SAWK: 43,56,69
+
+# 15798/116 - 全開でぶっ飛ばそうぜ
+Tags: 
+Game: 1ターンの間、ダメージ無効を貫通し、チーム内の スキルチャージの覚醒数に応じて攻撃力が上昇。
+JP: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
+EN: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
+KR: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
+
+# 15802/138 - 悪いな、ここは通行止めだ
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Game: 【7×6マス】7コンボ以上で攻撃力と回復力が4.5倍。 4色以上同時攻撃でダメージを軽減、攻撃力が2倍。
+JP: [Board becomes 7x6] 4.5x ATK & RCV when 7 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+EN: [Board becomes 7x6] 4.5x ATK & RCV when 7 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: [Board becomes 7x6] 4.5x ATK & RCV when 7 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+
