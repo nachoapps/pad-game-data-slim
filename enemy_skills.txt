@@ -3319,7 +3319,7 @@ EN: Deal 650% damage (2 hits, 325% each)
 KR: Deal 650% damage (2 hits, 325% each)
 
 # 664/60 - Poison Breath
-JP: ランダムで6個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで6個のドロップを毒ドロップに変化
 EN: Change 6 random orbs (excluding hearts) to Poison orbs
 KR: Change 6 random orbs (excluding hearts) to Poison orbs
 
@@ -3374,7 +3374,7 @@ EN: Deal 70% damage
 KR: Deal 70% damage
 
 # 675/60 - Take this!
-JP: ランダムで5個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで5個のドロップを毒ドロップに変化
 EN: Change 5 random orbs (excluding hearts) to Poison orbs
 KR: Change 5 random orbs (excluding hearts) to Poison orbs
 
@@ -3424,7 +3424,7 @@ EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
 
 # 685/60 - Acid Blossom
-JP: ランダムで6個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで6個のドロップを毒ドロップに変化
 EN: Change 6 random orbs (excluding hearts) to Poison orbs
 KR: Change 6 random orbs (excluding hearts) to Poison orbs
 
@@ -3614,7 +3614,7 @@ EN: Deal 200% damage (4 hits, 50% each)
 KR: Deal 200% damage (4 hits, 50% each)
 
 # 723/60 - Devilit Poison
-JP: ランダムで6個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで6個のドロップを毒ドロップに変化
 EN: Change 6 random orbs (excluding hearts) to Poison orbs
 KR: Change 6 random orbs (excluding hearts) to Poison orbs
 
@@ -3724,7 +3724,7 @@ EN: Movetime -2s for 10 turns
 KR: Movetime -2s for 10 turns
 
 # 745/60 - An Invitation to Corruption
-JP: ランダムで8個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで8個のドロップを毒ドロップに変化
 EN: Change 8 random orbs (excluding hearts) to Poison orbs
 KR: Change 8 random orbs (excluding hearts) to Poison orbs
 
@@ -4094,7 +4094,7 @@ EN: Voids status ailments for 10 turns
 KR: Voids status ailments for 10 turns
 
 # 819/60 - Poison Strike
-JP: ランダムで5個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで5個のドロップを毒ドロップに変化
 EN: Change 5 random orbs (excluding hearts) to Poison orbs
 KR: Change 5 random orbs (excluding hearts) to Poison orbs
 
@@ -4339,7 +4339,7 @@ EN: Bind 6 random cards for 2 turns
 KR: Bind 6 random cards for 2 turns
 
 # 868/60 - Hydra's Poison Dart
-JP: ランダムで7個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで7個のドロップを毒ドロップに変化
 EN: Change 7 random orbs (excluding hearts) to Poison orbs
 KR: Change 7 random orbs (excluding hearts) to Poison orbs
 
@@ -6579,7 +6579,7 @@ EN: Bind Dark cards for 3 turns
 KR: Bind Dark cards for 3 turns
 
 # 1313/60 - I will be your opponent
-JP: ランダムで3個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs (excluding hearts) to Poison orbs
 KR: Change 3 random orbs (excluding hearts) to Poison orbs
 
@@ -7413,7 +7413,7 @@ EN: Change 4 random orbs to Poison orbs
 KR: Change 4 random orbs to Poison orbs
 
 # 1478/60 - ペッペッ
-JP: ランダムで4個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで4個のドロップを毒ドロップに変化
 EN: Change 4 random orbs (excluding hearts) to Poison orbs
 KR: Change 4 random orbs (excluding hearts) to Poison orbs
 
@@ -9678,7 +9678,7 @@ EN: Player -99% HP
 KR: Player -99% HP
 
 # 1931/60 - 消化液
-JP: ランダムで3個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs (excluding hearts) to Poison orbs
 KR: Change 3 random orbs (excluding hearts) to Poison orbs
 
@@ -9693,7 +9693,7 @@ EN: Change the 3rd row to Light orbs
 KR: Change the 3rd row to Light orbs
 
 # 1934/60 - みだれ消化液
-JP: ランダムで12個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで12個のドロップを毒ドロップに変化
 EN: Change 12 random orbs (excluding hearts) to Poison orbs
 KR: Change 12 random orbs (excluding hearts) to Poison orbs
 
@@ -10093,7 +10093,7 @@ EN: Bind active skills for 2 turns
 KR: Bind active skills for 2 turns
 
 # 2014/60 - Poison quiz! Can you erase them all?
-JP: ランダムで5個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで5個のドロップを毒ドロップに変化
 EN: Change 5 random orbs (excluding hearts) to Poison orbs
 KR: Change 5 random orbs (excluding hearts) to Poison orbs
 
@@ -10386,7 +10386,7 @@ EN: Enemy recover 10% HP
 KR: Enemy recover 10% HP
 
 # 2072/60 - Let me help!
-JP: ランダムで1個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで1個のドロップを毒ドロップに変化
 EN: Change 1 random orb (excluding hearts) to Poison orbs
 KR: Change 1 random orb (excluding hearts) to Poison orbs
 
@@ -10421,7 +10421,7 @@ EN: Increase damage to 200% for the next 2 turns
 KR: Increase damage to 200% for the next 2 turns
 
 # 2079/60 - What do you think you're doing?!
-JP: ランダムで6個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで6個のドロップを毒ドロップに変化
 EN: Change 6 random orbs (excluding hearts) to Poison orbs
 KR: Change 6 random orbs (excluding hearts) to Poison orbs
 
@@ -12101,7 +12101,7 @@ EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
 # 2415/60 - Vishuddha
-JP: ランダムで3個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs (excluding hearts) to Poison orbs
 KR: Change 3 random orbs (excluding hearts) to Poison orbs
 
@@ -18569,7 +18569,7 @@ EN: Spawn 3 random Jammer orbs
 KR: Spawn 3 random Jammer orbs
 
 # 3708/60 - Toxic Gas Cloud
-JP: ランダムで3個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs (excluding hearts) to Poison orbs
 KR: Change 3 random orbs (excluding hearts) to Poison orbs
 
@@ -30180,7 +30180,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison
 
 # 6029/60 - Floating Radiance
-JP: ランダムで3個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs (excluding hearts) to Poison orbs
 KR: Change 3 random orbs (excluding hearts) to Poison orbs
 
@@ -32340,7 +32340,7 @@ EN:
 KR: 
 
 # 6461/60 - An Invitation to Death & Decay
-JP: ランダムで11個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで11個のドロップを毒ドロップに変化
 EN: Change 11 random orbs (excluding hearts) to Poison orbs
 KR: Change 11 random orbs (excluding hearts) to Poison orbs
 
@@ -47528,7 +47528,7 @@ EN: Change all orbs to Mortal Poison
 KR: Change all orbs to Mortal Poison
 
 # 9498/60 - Take this!
-JP: ランダムで7個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで7個のドロップを毒ドロップに変化
 EN: Change 7 random orbs (excluding hearts) to Poison orbs
 KR: Change 7 random orbs (excluding hearts) to Poison orbs
 
@@ -47768,7 +47768,7 @@ EN: Bind 6 random cards for 4 turns
 KR: Bind 6 random cards for 4 turns
 
 # 9546/60 - Hydra's Poison Dart
-JP: ランダムで7個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで7個のドロップを毒ドロップに変化
 EN: Change 7 random orbs (excluding hearts) to Poison orbs
 KR: Change 7 random orbs (excluding hearts) to Poison orbs
 
@@ -76843,7 +76843,7 @@ EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
 # 15361/60 - Poisonous Pollen
-JP: ランダムで4個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで4個のドロップを毒ドロップに変化
 EN: Change 4 random orbs (excluding hearts) to Poison orbs
 KR: Change 4 random orbs (excluding hearts) to Poison orbs
 
@@ -77243,7 +77243,7 @@ EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
 # 15441/60 - Rotten Breath
-JP: ランダムで5個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで5個のドロップを毒ドロップに変化
 EN: Change 5 random orbs (excluding hearts) to Poison orbs
 KR: Change 5 random orbs (excluding hearts) to Poison orbs
 
@@ -77373,7 +77373,7 @@ EN: Bind 1 random card for 1 turn
 KR: Bind 1 random card for 1 turn
 
 # 15467/60 - Snake Tail Poison
-JP: ランダムで2個のドロップを毒ドロップに変化
+JP: 回復ドロップ以外ランダムで2個のドロップを毒ドロップに変化
 EN: Change 2 random orbs (excluding hearts) to Poison orbs
 KR: Change 2 random orbs (excluding hearts) to Poison orbs
 
