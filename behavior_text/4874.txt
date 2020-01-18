@@ -1,0 +1,20 @@
+#4874 - Sachi
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 1
+monster_id: 4874
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16445:94) なんでここから出られないの？
+ | Lock 15 random orbs
+ group:
+ condition: execute repeatedly, turn 1 of 3, hp <= 100
+ | (16447:74) 私、死ぬの怖い……
+ | Reduce damage from all sources by 30% for 3 turns
+ type: UNKNOWN_USE
+ | condition: 50% chance
+ | (16446:92) こんなことに何の意味があるの？
+ | Spawn 2 random Dark orbs, Deal 95% damage
