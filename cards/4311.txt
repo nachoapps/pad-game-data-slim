@@ -4,7 +4,7 @@ AWK: 17,17,21,19,60,44
 SAWK: 52,43,53
 
 # 10218/116 - Spirit Sword
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd column from the right to Light Orbs
 JP: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs

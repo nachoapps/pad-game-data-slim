@@ -7503,7 +7503,7 @@ EN: Deal 49 fixed damage to an enemy
 KR: Deal 49 fixed damage to an enemy
 
 # 2059/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 3rd column from the right to Light orbs
 EN: Change the 3rd column from the right to Light orbs
@@ -12438,7 +12438,7 @@ EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3805/116 - Inversion - Glitter of Aegis
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER
 Game: All Orbs enhanced, creates a cross of Heal Orbs; other allies' skills charged by 1 turn
 JP: Enhance all orbs; Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
 EN: Enhance all orbs; Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
@@ -15959,14 +15959,14 @@ EN: For 3 turns, reduce damage taken by 35%
 KR: For 3 turns, reduce damage taken by 35%
 
 # 5351/116 - Time to meet your maker!
-Tags: ADD_COMBO
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
 Game: Changes the second row from the bottom into Wood Orbs; adds 1 combo for 1 turn
 JP: Change the 2nd row from the bottom to Wood orbs; For 1 turn, increase combo count by 1
 EN: Change the 2nd row from the bottom to Wood orbs; For 1 turn, increase combo count by 1
 KR: Change the 2nd row from the bottom to Wood orbs; For 1 turn, increase combo count by 1
 
 # 5352/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the bottom to Wood orbs
 EN: Change the 2nd row from the bottom to Wood orbs
@@ -16834,7 +16834,7 @@ EN: For 2 turns, Heal orbs are more likely to appear by 15%
 KR: For 2 turns, Heal orbs are more likely to appear by 15%
 
 # 6273/127 - Healing Cut
-Tags: GUARD_STANCE
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Changes the 2nd column from the right to Heal Orbs
 JP: Change the 2nd column from the right to Heal orbs
 EN: Change the 2nd column from the right to Heal orbs
@@ -17681,7 +17681,7 @@ EN: Change Heal orbs to Light orbs
 KR: Change Heal orbs to Light orbs
 
 # 7005/116 - I'm taking on the baseball world!
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd row from the bottom to Fire Orbs
 JP: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
@@ -17695,7 +17695,7 @@ EN: Deal 100000 fixed damage to an enemy
 KR: Deal 100000 fixed damage to an enemy
 
 # 7007/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the bottom to Fire orbs
 EN: Change the 2nd row from the bottom to Fire orbs
@@ -17926,7 +17926,7 @@ EN: For 5 turns, Fire and Dark orbs are more likely to appear by 10%
 KR: For 5 turns, Fire and Dark orbs are more likely to appear by 10%
 
 # 7149/118 - Heroine Power
-Tags: ENHANCED_ATTACK,ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,FIXED_DAMAGE,ADD_COMBO,ETC
+Tags: ENHANCED_ATTACK,ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,FIXED_DAMAGE,LINE_ORBS_CONVERTER,ADD_COMBO,ETC
 Game: Activates a random skill from a set pool
 JP: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
 EN: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
@@ -19781,7 +19781,7 @@ EN: For 6 turns, Heal orbs are more likely to appear by 15%
 KR: For 6 turns, Heal orbs are more likely to appear by 15%
 
 # 7980/116 - Tail Grind
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
 Game: 2x ATK for Dragon & Attacker Types for 1 turn; changes the 2nd column from the right to Fire Orbs
 JP: For 1 turn, 2x ATK for Dragon and Attacker types; Change the 2nd column from the right to Fire orbs
 EN: For 1 turn, 2x ATK for Dragon and Attacker types; Change the 2nd column from the right to Fire orbs
@@ -19795,7 +19795,7 @@ EN: For 1 turn, 2x ATK for Dragon and Attacker types
 KR: For 1 turn, 2x ATK for Dragon and Attacker types
 
 # 7982/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the right to Fire orbs
 EN: Change the 2nd column from the right to Fire orbs
@@ -19886,7 +19886,7 @@ EN: Poison all enemies (50x ATK)
 KR: Poison all enemies (50x ATK)
 
 # 8010/116 - Tail Slam
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Other allies' skills charged by 1 turn; changes the 2nd column from the left to Dark Orbs
 JP: Charge all allies' skills by 1 turn; Change the 2nd column from the left to Dark orbs
 EN: Charge all allies' skills by 1 turn; Change the 2nd column from the left to Dark orbs
@@ -19900,7 +19900,7 @@ EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 8012/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the left to Dark orbs
 EN: Change the 2nd column from the left to Dark orbs
@@ -19914,7 +19914,7 @@ EN: Recover 20% of max HP
 KR: Recover 20% of max HP
 
 # 8017/116 - Roundslash
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
 Game: Reduces damage for 1 turn; changes the 2nd row from the bottom to Fire Orbs
 JP: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
 EN: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
@@ -19928,7 +19928,7 @@ EN: For 1 turn, reduce damage taken by 35%
 KR: For 1 turn, reduce damage taken by 35%
 
 # 8019/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the bottom to Fire orbs
 EN: Change the 2nd row from the bottom to Fire orbs
@@ -22309,7 +22309,7 @@ KR: Deal Light damage equal to 30x of team's total Dark ATK to an enemy
 
 # 9283/116 - The Scent of Hakubaiko
 
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
 Game: Reduces damage for 8 turns; changes the 2nd row from the top to Light Orbs
 JP: For 8 turns, reduce damage taken by 30%; Change the 2nd row from the top to Light orbs
 EN: For 8 turns, reduce damage taken by 30%; Change the 2nd row from the top to Light orbs
@@ -22323,7 +22323,7 @@ EN: For 8 turns, reduce damage taken by 30%
 KR: For 8 turns, reduce damage taken by 30%
 
 # 9285/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top to Light orbs
 EN: Change the 2nd row from the top to Light orbs
@@ -24795,7 +24795,7 @@ EN: Create 6 Dark orbs
 KR: Create 6 Dark orbs
 
 # 10218/116 - Spirit Sword
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd column from the right to Light Orbs
 JP: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd column from the right to Light orbs
@@ -24809,7 +24809,7 @@ EN: Deal 100000 fixed damage to an enemy
 KR: Deal 100000 fixed damage to an enemy
 
 # 10220/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the right to Light orbs
 EN: Change the 2nd column from the right to Light orbs
@@ -25201,7 +25201,7 @@ EN: Change all orbs to Water, Wood, and Light orbs
 KR: Change all orbs to Water, Wood, and Light orbs
 
 # 10351/127 - You think you can beat me?!
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Changes the 2nd column from the left to Wood Orbs; changes the 2nd column from the right to Dark Orbs
 JP: Change the 2nd column from the left to Wood orbs and change the 2nd column from the right to Dark orbs
 EN: Change the 2nd column from the left to Wood orbs and change the 2nd column from the right to Dark orbs
@@ -25712,7 +25712,7 @@ EN: Change all orbs to Fire, Light, and Dark orbs
 KR: Change all orbs to Fire, Light, and Dark orbs
 
 # 10525/116 - Mantra Luckbringer
-Tags: ADD_COMBO
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes the second row from the bottom to Wood Orbs
 JP: For 1 turn, increase combo count by 2; Change the 2nd row from the bottom to Wood orbs
 EN: For 1 turn, increase combo count by 2; Change the 2nd row from the bottom to Wood orbs
@@ -25726,7 +25726,7 @@ EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
 # 10527/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the bottom to Wood orbs
 EN: Change the 2nd row from the bottom to Wood orbs
@@ -26902,7 +26902,7 @@ EN: Change Dark orbs to Wood orbs; Change Light orbs to Heal orbs
 KR: Change Dark orbs to Wood orbs; Change Light orbs to Heal orbs
 
 # 11023/116 - No-Look Pass
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Fire attack of 10x team's Fire ATK on 1 enemy; changes the 2nd row from the top to Fire Orbs
 JP: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
 EN: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
@@ -26916,7 +26916,7 @@ EN: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy
 KR: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy
 
 # 11025/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top to Fire orbs
 EN: Change the 2nd row from the top to Fire orbs
@@ -27063,14 +27063,14 @@ EN: Change all orbs to Fire and Dark orbs
 KR: Change all orbs to Fire and Dark orbs
 
 # 11088/116 - High-Speed Base Running
-Tags: STOP_TIME
+Tags: STOP_TIME,LINE_ORBS_CONVERTER
 Game: Changes the 2nd column from the right to Wood Orbs; move Orbs freely for 10 seconds
 JP: Change the 2nd column from the right to Wood orbs; Freely move orbs for 10 seconds
 EN: Change the 2nd column from the right to Wood orbs; Freely move orbs for 10 seconds
 KR: Change the 2nd column from the right to Wood orbs; Freely move orbs for 10 seconds
 
 # 11089/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the right to Wood orbs
 EN: Change the 2nd column from the right to Wood orbs
@@ -27532,7 +27532,7 @@ EN: Change the middle row to Water orbs
 KR: Change the middle row to Water orbs
 
 # 11229/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 3rd column from the right to Water orbs
 EN: Change the 3rd column from the right to Water orbs
@@ -29485,7 +29485,7 @@ EN: Change the far right column to Fire orbs
 KR: Change the far right column to Fire orbs
 
 # 11883/116 - We can hold them off!
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
 Game: Vastly reduces damage for 1 turn; changes the 2nd row from the top to Fire Orbs
 JP: For 1 turn, reduce damage taken by 75%; Change the 2nd row from the top to Fire orbs
 EN: For 1 turn, reduce damage taken by 75%; Change the 2nd row from the top to Fire orbs
@@ -29499,7 +29499,7 @@ EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
 # 11885/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top to Fire orbs
 EN: Change the 2nd row from the top to Fire orbs
@@ -31795,14 +31795,14 @@ EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
 # 12571/116 - Tsubamegaeshi
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes the 2nd row from the top & 2nd from the bottom to Wood Orbs; inflicts a 200x ATK attack on 1 enemy
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy
 KR: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy
 
 # 12572/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs
@@ -31949,7 +31949,7 @@ EN: For 1 turn, increase combo count by 1
 KR: For 1 turn, increase combo count by 1
 
 # 12623/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right
 EN: Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right
@@ -32243,21 +32243,21 @@ EN: For 1 turn, increase combo count by 1
 KR: For 1 turn, increase combo count by 1
 
 # 12738/116 - Mystic Crown
-Tags: VOID_ATT_ABSORBS
+Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; creates 1 cross of Light Orbs & 1 cross of Dark Orbs
 JP: For 1 turn, bypass att. absorb shield effects; Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right; Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: For 1 turn, bypass att. absorb shield effects; Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right; Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 KR: For 1 turn, bypass att. absorb shield effects; Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right; Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12739/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right
 EN: Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right
 KR: Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right
 
 # 12740/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
@@ -32306,7 +32306,7 @@ EN: Create an L shape of Light orbs with its center at the bottom row and the fa
 KR: Create an L shape of Light orbs with its center at the bottom row and the far right column
 
 # 12760/176 - Metsu Hadoken
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Creates a square of 3x3 Dark Orbs; creates a rectangle of 3x4 Dark Orbs when board is 7x6
 JP: Create a square of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left
@@ -32432,14 +32432,14 @@ EN: Deal 10000 fixed damage to all enemies
 KR: Deal 10000 fixed damage to all enemies
 
 # 12797/116 - Sonic Hurricane
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes the 2 top rows to Wood Orbs; inflicts 100x ATK Wood Att. attack on 1 enemy
 JP: Change the top row and the 2nd row from the top to Wood orbs; Deal 100x Wood damage to an enemy
 EN: Change the top row and the 2nd row from the top to Wood orbs; Deal 100x Wood damage to an enemy
 KR: Change the top row and the 2nd row from the top to Wood orbs; Deal 100x Wood damage to an enemy
 
 # 12798/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the top row and the 2nd row from the top to Wood orbs
 EN: Change the top row and the 2nd row from the top to Wood orbs
@@ -32579,14 +32579,14 @@ EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
 # 12842/116 - Mujinkyaku
-Tags: ADD_COMBO
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
 Game: Creates a cross of Light Orbs; adds 1 combo for 1 turn
 JP: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
 EN: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
 KR: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left; For 1 turn, increase combo count by 1
 
 # 12843/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 EN: Create a cross of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
@@ -32621,7 +32621,7 @@ EN: For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x orb move time
 
 # 12854/116 - Cannon Spike
-Tags: VOID_DAMAGE
+Tags: VOID_DAMAGE,LINE_ORBS_CONVERTER
 Game: Voids damage received for 1 turn; changes the second row from the top to Wood Orbs
 JP: For 1 turn, reduce damage taken by 100%; Change the 2nd row from the top to Wood orbs
 EN: For 1 turn, reduce damage taken by 100%; Change the 2nd row from the top to Wood orbs
@@ -32635,21 +32635,21 @@ EN: For 1 turn, reduce damage taken by 100%
 KR: For 1 turn, reduce damage taken by 100%
 
 # 12856/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top to Wood orbs
 EN: Change the 2nd row from the top to Wood orbs
 KR: Change the 2nd row from the top to Wood orbs
 
 # 12860/116 - Shoryuken
-Tags: ADD_COMBO
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
 Game: Changes the 2nd column from the left to Fire Orbs; adds 1 combo for 1 turn
 JP: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1
 EN: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1
 KR: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1
 
 # 12861/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the left to Fire orbs
 EN: Change the 2nd column from the left to Fire orbs
@@ -32922,7 +32922,7 @@ EN: Change the bottom row to Fire orbs
 KR: Change the bottom row to Fire orbs
 
 # 12949/176 - Enormous Spirit Gun
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Creates a square of 3x3 Light Orbs; creates a rectangle of 3x4 Light Orbs when board is 7x6
 JP: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left
@@ -33097,7 +33097,7 @@ EN: Create 3 Light orbs
 KR: Create 3 Light orbs
 
 # 13015/116 - Jigen-Tou
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,LINE_ORBS_CONVERTER
 Game: Voids enemies' DEF for 1 turn; changes the 2nd columns from the left & the right to Light Orbs
 JP: For 1 turn, reduce enemies' defense by 100%; Change the 2nd column from the left and the 2nd column from the right to Light orbs
 EN: For 1 turn, reduce enemies' defense by 100%; Change the 2nd column from the left and the 2nd column from the right to Light orbs
@@ -33111,7 +33111,7 @@ EN: For 1 turn, reduce enemies' defense by 100%
 KR: For 1 turn, reduce enemies' defense by 100%
 
 # 13017/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the left and the 2nd column from the right to Light orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Light orbs
@@ -33608,7 +33608,7 @@ EN: Reduce awoken skill binds by 4 turns
 KR: Reduce awoken skill binds by 4 turns
 
 # 13185/176 - マジカルスマイル
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 3×3の正方形に回復ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
 JP: Create a square of Heal orbs with its center at the middle row and the 2nd column from the left
 EN: Create a square of Heal orbs with its center at the middle row and the 2nd column from the left
@@ -33909,7 +33909,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 13271/176 - The Five Great Nature Spirits
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Creates a square of 3x3 Fire Orbs; creates a rectangle of 3x4 Fire Orbs when board is 7x6
 JP: Create a square of Fire orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 EN: Create a square of Fire orbs with its center at the 2nd row from the bottom and the 2nd column from the left
@@ -34056,7 +34056,7 @@ EN: For 4 turns, Water orbs are more likely to appear by 15%
 KR: For 4 turns, Water orbs are more likely to appear by 15%
 
 # 13307/128 - Knowledge is the greatest weapon.
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Changes the second row from the top to Light Orbs and the second row from the bottom to Wood Orbs
 JP: Change the 2nd row from the top to Light orbs and change the 2nd row from the bottom to Wood orbs
 EN: Change the 2nd row from the top to Light orbs and change the 2nd row from the bottom to Wood orbs
@@ -34343,14 +34343,14 @@ EN: Create 5 Light and Dark orbs
 KR: Create 5 Light and Dark orbs
 
 # 13375/116 - You passed the test.
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Changes the 2nd row from the top to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the 2nd row from the top to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the 2nd row from the top to Wood orbs; Charge all allies' skills by 1 turn
 KR: Change the 2nd row from the top to Wood orbs; Charge all allies' skills by 1 turn
 
 # 13376/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top to Wood orbs
 EN: Change the 2nd row from the top to Wood orbs
@@ -34973,7 +34973,7 @@ EN: For 1 turn, 2x RCV
 KR: For 1 turn, 2x RCV
 
 # 13618/176 - Natural Slur
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Creates a square of 3x3 Wood Orbs; creates a rectangle of 3x4 Wood Orbs when board is 7x6
 JP: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
@@ -35743,7 +35743,7 @@ EN: Create an L shape of Wood orbs with its center at the top row and the far ri
 KR: Create an L shape of Wood orbs with its center at the top row and the far right column; Create an L shape of Wood orbs with its center at the bottom row and the far left column
 
 # 13838/116 - I was hoping you'd say that.
-Tags: REMOVE_LOCK
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the 2 leftmost columns to Fire Orbs
 JP: Unlock all orbs; Change the far left column and the 2nd column from the left to Fire orbs
 EN: Unlock all orbs; Change the far left column and the 2nd column from the left to Fire orbs
@@ -35757,7 +35757,7 @@ EN: Unlock all orbs
 KR: Unlock all orbs
 
 # 13840/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the far left column and the 2nd column from the left to Fire orbs
 EN: Change the far left column and the 2nd column from the left to Fire orbs
@@ -35904,14 +35904,14 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13868/116 - ...I'll smash it.
-Tags: EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Changes the 2 top rows to Light Orbs; 2x Orb move time for 1 turn
 JP: Change the top row and the 2nd row from the top to Light orbs; For 1 turn, 2x orb move time
 EN: Change the top row and the 2nd row from the top to Light orbs; For 1 turn, 2x orb move time
 KR: Change the top row and the 2nd row from the top to Light orbs; For 1 turn, 2x orb move time
 
 # 13869/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the top row and the 2nd row from the top to Light orbs
 EN: Change the top row and the 2nd row from the top to Light orbs
@@ -36457,7 +36457,7 @@ EN: Change the bottom row to Wood orbs
 KR: Change the bottom row to Wood orbs
 
 # 14059/176 - アリス!!
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 3×3の正方形に水ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
 JP: Create a square of Water orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Water orbs with its center at the 2nd row from the top and the 2nd column from the left
@@ -36730,14 +36730,14 @@ EN: Create an L shape of Fire orbs with its center at the top row and the far le
 KR: Create an L shape of Fire orbs with its center at the top row and the far left column
 
 # 14138/116 - わははははは
-Tags: EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: 十字型に木ドロップを1つ生成。 1ターンの間、ドロップ操作時間が2倍。
 JP: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
 EN: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
 KR: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right; For 1 turn, 2x orb move time
 
 # 14139/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right
 EN: Create a cross of Wood orbs with its center at the 2nd row from the top and the 2nd column from the right
@@ -37605,7 +37605,7 @@ EN: Change all orbs to Fire and Dark orbs
 KR: Change all orbs to Fire and Dark orbs
 
 # 14462/116 - 本物の氷の魔法を見せてやる
-Tags: ORB_LOCK
+Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左から2列目と右から2列目の縦1列を水ドロップに変化。 水ドロップをロック。
 JP: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
@@ -37787,7 +37787,7 @@ EN: Unlock all orbs
 KR: Unlock all orbs
 
 # 14512/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the left and the 2nd column from the right to Water orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs
@@ -38193,7 +38193,7 @@ EN: Change the outermost orbs of the board to Heal orbs
 KR: Change the outermost orbs of the board to Heal orbs
 
 # 14616/127 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 3rd column from the right to Dark orbs
 EN: Change the 3rd column from the right to Dark orbs
@@ -39362,21 +39362,21 @@ EN: For 2 turns, 3x ATK for Water Att.
 KR: For 2 turns, 3x ATK for Water Att.
 
 # 14928/116 - Beard Wave
-Tags: GUARD_STANCE
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: Changes the 2nd columns from the left & right to Heal; changes the 2nd lines from the top & bottom to Water
 JP: Change the 2nd column from the left and the 2nd column from the right to Heal orbs; Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Heal orbs; Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
 KR: Change the 2nd column from the left and the 2nd column from the right to Heal orbs; Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
 
 # 14929/127 - 
-Tags: GUARD_STANCE
+Tags: GUARD_STANCE,LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd column from the left and the 2nd column from the right to Heal orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Heal orbs
 KR: Change the 2nd column from the left and the 2nd column from the right to Heal orbs
 
 # 14930/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Water orbs
@@ -39915,14 +39915,14 @@ EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
 # 15102/116 - スーパーアタックランディング！！
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER
 Game: 上から2列目と下から2列目の横1列を火ドロップに変化。 火ドロップを強化。
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Fire orbs; Enhance all Fire orbs
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Fire orbs; Enhance all Fire orbs
 KR: Change the 2nd row from the top and the 2nd row from the bottom to Fire orbs; Enhance all Fire orbs
 
 # 15103/128 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Fire orbs
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Fire orbs
@@ -40783,14 +40783,14 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 15357/116 - ストロングムーブ
-Tags: EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
 JP: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 KR: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 15358/176 - 
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: 
 JP: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left

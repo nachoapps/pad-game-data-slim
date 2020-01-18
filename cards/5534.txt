@@ -4,7 +4,7 @@ AWK: 10,10,21,28,19,43,43,31,31
 SAWK: 47,45,55
 
 # 14462/116 - 本物の氷の魔法を見せてやる
-Tags: ORB_LOCK
+Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左から2列目と右から2列目の縦1列を水ドロップに変化。 水ドロップをロック。
 JP: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
 EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs

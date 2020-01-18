@@ -4,7 +4,7 @@ AWK: 21,21,28,19,19,19
 SAWK: 
 
 # 15357/116 - ストロングムーブ
-Tags: EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
 JP: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left

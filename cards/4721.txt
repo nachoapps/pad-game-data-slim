@@ -4,7 +4,7 @@ AWK: 22,22,22,21,21
 SAWK: 
 
 # 11023/116 - No-Look Pass
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Fire attack of 10x team's Fire ATK on 1 enemy; changes the 2nd row from the top to Fire Orbs
 JP: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
 EN: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs

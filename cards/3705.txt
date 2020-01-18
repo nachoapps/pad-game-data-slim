@@ -4,7 +4,7 @@ AWK: 22,22,21,28,30,31
 SAWK: 48,55,52
 
 # 8017/116 - Roundslash
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
 Game: Reduces damage for 1 turn; changes the 2nd row from the bottom to Fire Orbs
 JP: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs
 EN: For 1 turn, reduce damage taken by 35%; Change the 2nd row from the bottom to Fire orbs

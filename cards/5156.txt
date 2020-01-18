@@ -4,7 +4,7 @@ AWK: 10,10,21,21,28,19,48,48,58
 SAWK: 58,48,53
 
 # 12949/176 - Enormous Spirit Gun
-Tags: 
+Tags: LINE_ORBS_CONVERTER
 Game: Creates a square of 3x3 Light Orbs; creates a rectangle of 3x4 Light Orbs when board is 7x6
 JP: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left
 EN: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left

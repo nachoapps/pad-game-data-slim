@@ -4,7 +4,7 @@ AWK: 10,10,21,28,28,28,27,27,63
 SAWK: 27,21,28
 
 # 12571/116 - Tsubamegaeshi
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes the 2nd row from the top & 2nd from the bottom to Wood Orbs; inflicts a 200x ATK attack on 1 enemy
 JP: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Wood orbs; Deal 200x ATK damage to an enemy

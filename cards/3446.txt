@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 7005/116 - I'm taking on the baseball world!
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 100,000 damage on 1 enemy; changes the 2nd row from the bottom to Fire Orbs
 JP: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs
 EN: Deal 100000 fixed damage to an enemy; Change the 2nd row from the bottom to Fire orbs

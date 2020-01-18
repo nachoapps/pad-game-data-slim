@@ -4,7 +4,7 @@ AWK: 17,17,21,19,60,44,21,28,48
 SAWK: 52,43,53
 
 # 13015/116 - Jigen-Tou
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,LINE_ORBS_CONVERTER
 Game: Voids enemies' DEF for 1 turn; changes the 2nd columns from the left & the right to Light Orbs
 JP: For 1 turn, reduce enemies' defense by 100%; Change the 2nd column from the left and the 2nd column from the right to Light orbs
 EN: For 1 turn, reduce enemies' defense by 100%; Change the 2nd column from the left and the 2nd column from the right to Light orbs

@@ -4,7 +4,7 @@ AWK: 10,10,21,28,19,27,27,43,63
 SAWK: 27,43,60
 
 # 12860/116 - Shoryuken
-Tags: ADD_COMBO
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
 Game: Changes the 2nd column from the left to Fire Orbs; adds 1 combo for 1 turn
 JP: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1
 EN: Change the 2nd column from the left to Fire orbs; For 1 turn, increase combo count by 1

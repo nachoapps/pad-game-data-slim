@@ -4,7 +4,7 @@ AWK: 21,21,28,36,36,63
 SAWK: 52,53,43
 
 # 12854/116 - Cannon Spike
-Tags: VOID_DAMAGE
+Tags: VOID_DAMAGE,LINE_ORBS_CONVERTER
 Game: Voids damage received for 1 turn; changes the second row from the top to Wood Orbs
 JP: For 1 turn, reduce damage taken by 100%; Change the 2nd row from the top to Wood orbs
 EN: For 1 turn, reduce damage taken by 100%; Change the 2nd row from the top to Wood orbs
