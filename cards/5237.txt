@@ -6,9 +6,9 @@ SAWK: 53,48,50
 # 13219/116 - It'll work out.
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes Dark & Fire Orbs to Wood and Water Orbs to Heal
-JP: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
-EN: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
-KR: For 1 turn, increase combo count by 2; Change Dark, Fire orbs to Wood orbs; Change Water orbs to Heal orbs
+JP: For 1 turn, increase combo count by 2; Change Dark and Fire orbs to Wood orbs; Change Water orbs to Heal orbs
+EN: For 1 turn, increase combo count by 2; Change Dark and Fire orbs to Wood orbs; Change Water orbs to Heal orbs
+KR: For 1 turn, increase combo count by 2; Change Dark and Fire orbs to Wood orbs; Change Water orbs to Heal orbs
 
 # 13223/138 - Integrate
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME

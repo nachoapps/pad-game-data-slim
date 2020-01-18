@@ -6,9 +6,9 @@ SAWK: 27,48,56
 # 13475/116 - Friendship Fight of Super Heroes!
 Tags: REDUCE_DAMAGE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Halves damage for 1 turn; changes Fire & Water Orbs to Dark Orbs and Wood Orbs to Light Orbs
-JP: For 1 turn, reduce damage taken by 50%; Change Fire, Water orbs to Dark orbs; Change Wood orbs to Light orbs
-EN: For 1 turn, reduce damage taken by 50%; Change Fire, Water orbs to Dark orbs; Change Wood orbs to Light orbs
-KR: For 1 turn, reduce damage taken by 50%; Change Fire, Water orbs to Dark orbs; Change Wood orbs to Light orbs
+JP: For 1 turn, reduce damage taken by 50%; Change Fire and Water orbs to Dark orbs; Change Wood orbs to Light orbs
+EN: For 1 turn, reduce damage taken by 50%; Change Fire and Water orbs to Dark orbs; Change Wood orbs to Light orbs
+KR: For 1 turn, reduce damage taken by 50%; Change Fire and Water orbs to Dark orbs; Change Wood orbs to Light orbs
 
 # 13479/138 - Rolling Savate
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME

@@ -4,7 +4,7 @@ AWK: 29,29,27,21,17,27,28,17,19
 SAWK: 48,60,52
 
 # 3924/116 - Sunlight Harmony
-Tags: ATTACK_STANCE,DROP_CHANCE
+Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
 Game: Changes Dark & Heal Orbs to Light Orbs; Light Orbs slightly more likely to appear for 2 turns
 JP: Change Dark and Heal orbs to Light orbs; For 2 turns, Light orbs are more likely to appear by 15%
 EN: Change Dark and Heal orbs to Light orbs; For 2 turns, Light orbs are more likely to appear by 15%

@@ -4,7 +4,7 @@ AWK: 21,19,28,15,15,15
 SAWK: 
 
 # 5233/116 - Water Ring Jail
-Tags: EXTENDS_TIME
+Tags: ORB_CONVERT,EXTENDS_TIME
 Game: Changes Fire & Wood Orbs to Water Orbs; 1.5x Orb move time for 1 turn
 JP: Change Fire and Wood orbs to Water orbs; For 1 turn, 1.5x orb move time
 EN: Change Fire and Wood orbs to Water orbs; For 1 turn, 1.5x orb move time

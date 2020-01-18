@@ -4,7 +4,7 @@ AWK: 55,21,28,10,10,46
 SAWK: 60,46,59
 
 # 12295/116 - No Way Through
-Tags: ATTACK_STANCE,REDUCE_DAMAGE
+Tags: ATTACK_STANCE,REDUCE_DAMAGE,ORB_CONVERT
 Game: Halves damage for 1 turn; changes Fire & Heal Orbs to Wood Orbs
 JP: For 1 turn, reduce damage taken by 50%; Change Fire and Heal orbs to Wood orbs
 EN: For 1 turn, reduce damage taken by 50%; Change Fire and Heal orbs to Wood orbs

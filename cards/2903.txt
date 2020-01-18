@@ -4,7 +4,7 @@ AWK: 24,16,12,21,21,10,10,24
 SAWK: 
 
 # 5101/116 - Recovering Chance
-Tags: ATTACK_STANCE,HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Changes Dark & Heal Orbs to Wood Orbs; heals 20% of Max HP, reduces bind status by 2 turns
 JP: Change Dark and Heal orbs to Wood orbs; Recover 20% of max HP; Reduce binds by 2 turns
 EN: Change Dark and Heal orbs to Wood orbs; Recover 20% of max HP; Reduce binds by 2 turns

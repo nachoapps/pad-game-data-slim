@@ -4,7 +4,7 @@ AWK: 15,15,15,15,15,56,21,64,63
 SAWK: 38,48,53
 
 # 14629/116 - Upun Orb
-Tags: EXTENDS_TIME
+Tags: ORB_CONVERT,EXTENDS_TIME
 Game: Changes Poison Orbs to Water Orbs; Orb move time +2 seconds for 1 turn
 JP: Change Poison and Mortal Poison orbs to Water orbs; For 1 turn, increase orb move time by 2 seconds
 EN: Change Poison and Mortal Poison orbs to Water orbs; For 1 turn, increase orb move time by 2 seconds

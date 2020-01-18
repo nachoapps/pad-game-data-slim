@@ -4,7 +4,7 @@ AWK: 28,21,21,23,23,27,15,15,19
 SAWK: 48,60,52
 
 # 3918/116 - Dream Water
-Tags: ATTACK_STANCE,DROP_CHANCE
+Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
 Game: Changes Wood & Heal Orbs to Water Orbs; Water Orbs slightly more likely to appear for 2 turns
 JP: Change Wood and Heal orbs to Water orbs; For 2 turns, Water orbs are more likely to appear by 15%
 EN: Change Wood and Heal orbs to Water orbs; For 2 turns, Water orbs are more likely to appear by 15%
