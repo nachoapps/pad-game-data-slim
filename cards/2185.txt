@@ -4,7 +4,7 @@ AWK: 10,10,21,22,22,20,21,22
 SAWK: 22,50
 
 # 2667/116 - Flame Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Fire Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Fire orbs; Charge all allies' skills by 1 turn

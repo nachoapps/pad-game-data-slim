@@ -4,7 +4,7 @@ AWK: 19,19,19,21,21,28,43,43,47
 SAWK: 
 
 # 6889/116 - Wild Wind
-Tags: VOID_DAMAGE_ABSORBS
+Tags: REDUCE_SKILL_TURN,VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 EN: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn

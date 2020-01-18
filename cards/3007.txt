@@ -4,7 +4,7 @@ AWK: 27,28,21,19,20,21,27,30,61
 SAWK: 52,56
 
 # 5178/116 - Astral Blast
-Tags: GRAVITY,ADD_COMBO
+Tags: GRAVITY,REDUCE_SKILL_TURN,ADD_COMBO
 Game: Reduces enemies' HP by 40%, adds 2 combos for 1 turn; other allies' skills charged by 1 turn
 JP: Reduce enemies' HP by 40%; For 1 turn, increase combo count by 2; Charge all allies' skills by 1 turn
 EN: Reduce enemies' HP by 40%; For 1 turn, increase combo count by 2; Charge all allies' skills by 1 turn

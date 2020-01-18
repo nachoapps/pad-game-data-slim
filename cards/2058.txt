@@ -4,7 +4,7 @@ AWK: 21,26,26,26,21
 SAWK: 
 
 # 2619/116 - Hyperdrive
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: A 250x ATK Dark Att. attack is made on 1 enemy; other allies' skills charged by 1 turn
 JP: Deal 250x Dark damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 250x Dark damage to an enemy; Charge all allies' skills by 1 turn

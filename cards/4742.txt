@@ -4,7 +4,7 @@ AWK: 27,27,28,19,21,30,30,45,61
 SAWK: 
 
 # 7664/116 - Alighting Madness
-Tags: ADD_COMBO
+Tags: REDUCE_SKILL_TURN,ADD_COMBO
 Game: Adds 2 combos for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, increase combo count by 2; Charge all allies' skills by 2 turns
 EN: For 1 turn, increase combo count by 2; Charge all allies' skills by 2 turns

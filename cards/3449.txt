@@ -4,7 +4,7 @@ AWK: 19,28,21,28,21,19,27,27,19
 SAWK: 43,27,54
 
 # 5154/116 - Heaven-Shaking Lightning Wall
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn

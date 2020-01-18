@@ -4,7 +4,7 @@ AWK: 21,21,28,48,31,32,33,34,35
 SAWK: 54,55,36,37,38
 
 # 11008/116 - Departing Light
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Light Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Light orbs; Charge all allies' skills by 2 turns

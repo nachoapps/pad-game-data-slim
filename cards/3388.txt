@@ -4,7 +4,7 @@ AWK: 20,10,10,21,21,27,28,28,27
 SAWK: 27,57,44
 
 # 3355/116 - Divine Illumination
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
 Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
 JP: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
 EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn

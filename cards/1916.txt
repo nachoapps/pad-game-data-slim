@@ -4,7 +4,7 @@ AWK: 11,21,19
 SAWK: 
 
 # 1848/116 - Fermata
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Reduces damage for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, reduce damage taken by 25%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 25%; Charge all allies' skills by 1 turn

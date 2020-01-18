@@ -4,7 +4,7 @@ AWK: 10,10,21,21,19,19,28,61,44
 SAWK: 32,43,48
 
 # 10140/116 - Dark Sun Crown
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to all Attributes & Heal; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 2 turns

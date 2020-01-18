@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 10165/116 - Spirit Gun
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Other allies' skills charged by 1 turn; removes locks and changes all Orbs to Water & Light Orbs
 JP: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs
 EN: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs

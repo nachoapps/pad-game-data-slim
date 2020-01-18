@@ -4,7 +4,7 @@ AWK: 21,21,28,19,43,10,10
 SAWK: 
 
 # 8559/116 - Valiant Wanderer
-Tags: EXTENDS_TIME
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN
 Game: 3x Orb move time for 1 turn; other allies' skills charged by 3 turns
 JP: For 1 turn, 3x orb move time; Charge all allies' skills by 3 turns
 EN: For 1 turn, 3x orb move time; Charge all allies' skills by 3 turns

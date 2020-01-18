@@ -4,7 +4,7 @@ AWK: 10,10,21,28,28,19,19,55,43
 SAWK: 
 
 # 10954/116 - Nasty Darkness
-Tags: HEAL
+Tags: HEAL,REDUCE_SKILL_TURN
 Game: Recovers 40% of max HP for 6 turns; other allies' skills charged by 1 turn
 JP: For 6 turns, recover 40% of max HP; Charge all allies' skills by 1 turn
 EN: For 6 turns, recover 40% of max HP; Charge all allies' skills by 1 turn

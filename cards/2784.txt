@@ -4,7 +4,7 @@ AWK: 14,22,22,14,21,35,35
 SAWK: 43,52
 
 # 3954/116 - This is my duty as a knight!
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Vastly reduces damage for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn

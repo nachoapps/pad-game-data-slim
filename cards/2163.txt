@@ -4,7 +4,7 @@ AWK: 28,56,24,27,19,28,13,12,11
 SAWK: 52,55,43
 
 # 2641/116 - ドラゴン・サポート
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2ターンの間、ドラゴンタイプの攻撃力が1.5倍。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
 EN: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn

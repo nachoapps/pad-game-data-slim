@@ -4,7 +4,7 @@ AWK: 49,60,54,2,2
 SAWK: 
 
 # 15812/116 - あなたと戦います！
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 自分以外の味方スキルが2ターン溜まる。 2ターンの間、回復力と光属性の攻撃力が3倍。
 JP: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 EN: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.

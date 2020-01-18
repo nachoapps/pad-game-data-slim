@@ -4,7 +4,7 @@ AWK: 21,21,14,15,16,17,18
 SAWK: 52,21,54
 
 # 9147/118 - Fabled Rebirth
-Tags: ORB_CONVERT,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,ORB_REFRESH,ADD_COMBO,ETC
+Tags: ORB_CONVERT,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,ORB_REFRESH,ADD_COMBO,ETC
 Game: Activates a random skill
 JP: Activate a random skill from the list: 1) Charge all allies' skills by 1 turn; Replace all orbs, 2) Change the far right column to Fire orbs; Charge all allies' skills by 1 turn, 3) For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs, and 4) Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Activate a random skill from the list: 1) Charge all allies' skills by 1 turn; Replace all orbs, 2) Change the far right column to Fire orbs; Charge all allies' skills by 1 turn, 3) For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs, and 4) Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn

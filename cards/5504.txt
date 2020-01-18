@@ -4,7 +4,7 @@ AWK: 52,21,28,18,18,18,26,26,26
 SAWK: 33,34,37,38
 
 # 14357/116 - ハンデは無用
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: 全ドロップを闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn

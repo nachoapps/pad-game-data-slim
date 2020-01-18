@@ -881,35 +881,35 @@ EN: For 3 turns, all attacks become mass attack
 KR: For 3 turns, all attacks become mass attack
 
 # 172/116 - Flame Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x Fire Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Fire Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Fire Att.; Charge all allies' skills by 1 turn
 KR: For 3 turns, 1.5x ATK for Fire Att.; Charge all allies' skills by 1 turn
 
 # 173/116 - Water Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x Water Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Water Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Water Att.; Charge all allies' skills by 1 turn
 KR: For 3 turns, 1.5x ATK for Water Att.; Charge all allies' skills by 1 turn
 
 # 174/116 - Earth Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x Wood Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Wood Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Wood Att.; Charge all allies' skills by 1 turn
 KR: For 3 turns, 1.5x ATK for Wood Att.; Charge all allies' skills by 1 turn
 
 # 175/116 - Light Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x Light Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Light Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Light Att.; Charge all allies' skills by 1 turn
 KR: For 3 turns, 1.5x ATK for Light Att.; Charge all allies' skills by 1 turn
 
 # 176/116 - Dark Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x Dark Att. ATK for 3 turns, plus other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Dark Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Dark Att.; Charge all allies' skills by 1 turn
@@ -1889,7 +1889,7 @@ EN: For 1 turn, 1.5x ATK for Fire, Dark Att.
 KR: For 1 turn, 1.5x ATK for Fire, Dark Att.
 
 # 618/116 - Emergency Launch!
-Tags: ATTACK_STANCE,ORB_CONVERT
+Tags: ATTACK_STANCE,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Dark and Heal Orbs to Fire Orbs, other allies' skills charged by 1 turn
 JP: Change Dark, Heal orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Dark, Heal orbs to Fire orbs; Charge all allies' skills by 1 turn
@@ -2141,7 +2141,7 @@ EN: For 1 turn, reduce enemies' defense by 100%
 KR: For 1 turn, reduce enemies' defense by 100%
 
 # 655/116 - Improved Sweet Shoot
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 150x ATK Light attack on 1 enemy; other allies' skills charged by 1 turn
 JP: Deal 150x ATK Light damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 150x ATK Light damage to an enemy; Charge all allies' skills by 1 turn
@@ -2183,7 +2183,7 @@ EN: Deal 20x ATK Fire damage to all enemies; For 2 turns, 1.3x ATK for Dragon ty
 KR: Deal 20x ATK Fire damage to all enemies; For 2 turns, 1.3x ATK for Dragon type
 
 # 661/116 - Firing up nya!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Attacker Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 2x ATK for Attacker type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 2x ATK for Attacker type; Charge all allies' skills by 1 turn
@@ -2204,21 +2204,21 @@ EN: For 6 turns, reduce damage taken by 30%
 KR: For 6 turns, reduce damage taken by 30%
 
 # 664/116 - Cheering nya!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Healer Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 2x ATK for Healer type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 2x ATK for Healer type; Charge all allies' skills by 1 turn
 KR: For 1 turn, 2x ATK for Healer type; Charge all allies' skills by 1 turn
 
 # 665/116 - Preparation Rush nya!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Balanced Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 2x ATK for Balanced type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 2x ATK for Balanced type; Charge all allies' skills by 1 turn
 KR: For 1 turn, 2x ATK for Balanced type; Charge all allies' skills by 1 turn
 
 # 666/116 - Storing Power nya!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Physical Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 2x ATK for Physical type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 2x ATK for Physical type; Charge all allies' skills by 1 turn
@@ -2512,7 +2512,7 @@ EN: For 2 turns, reduce damage taken by 30%
 KR: For 2 turns, reduce damage taken by 30%
 
 # 908/116 - 壱乃掌
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: 2ターンの間、敵の防御力が激減。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
@@ -2638,7 +2638,7 @@ EN: Replace all orbs
 KR: Replace all orbs
 
 # 926/116 - Devastating Wink!
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Voids enemies' DEF for 3 turns; other allies' skills charged by 2 turns
 JP: For 3 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
 EN: For 3 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
@@ -2792,7 +2792,7 @@ EN: For 1 turn, reduce damage taken by 50%; Change Heal, Dark orbs to Water orbs
 KR: For 1 turn, reduce damage taken by 50%; Change Heal, Dark orbs to Water orbs
 
 # 948/116 - Hyper Heal
-Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
 Game: Recovers 7x RCV as HP; reduces bind status by 3 turns; other allies' skills charged by 1 turn
 JP: Recover 7x RCV as HP; Reduce binds by 3 turns; Charge all allies' skills by 1 turn
 EN: Recover 7x RCV as HP; Reduce binds by 3 turns; Charge all allies' skills by 1 turn
@@ -2841,7 +2841,7 @@ EN: Enhance all Dark orbs; For 2 turns, reduce damage taken by 35%
 KR: Enhance all Dark orbs; For 2 turns, reduce damage taken by 35%
 
 # 956/116 - Final Judgement
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Light, Dark & Heal Orbs, plus other allies' skills charged by 1 turn
 JP: Change all orbs to Heal, Light, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Heal, Light, and Dark orbs; Charge all allies' skills by 1 turn
@@ -4283,7 +4283,7 @@ EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
 # 1178/146 - 壱乃掌
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -4724,35 +4724,35 @@ EN: Change Water orbs to Heal orbs
 KR: Change Water orbs to Heal orbs
 
 # 1343/146 - Flame Enhancement
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1344/146 - Water Enhancement
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1345/146 - Earth Enhancement
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1346/146 - Light Enhancement
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1347/146 - Dark Enhancement
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -5599,7 +5599,7 @@ EN: Change Jammer, Poison orbs to Heal orbs
 KR: Change Jammer, Poison orbs to Heal orbs
 
 # 1469/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -5613,21 +5613,21 @@ EN: Poison all enemies (1x ATK)
 KR: Poison all enemies (1x ATK)
 
 # 1471/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1472/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 1473/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -6334,35 +6334,35 @@ EN: Deal 10000 fixed damage to all enemies; Change all orbs to Fire, Water, and 
 KR: Deal 10000 fixed damage to all enemies; Change all orbs to Fire, Water, and Light orbs
 
 # 1688/116 - Arctic Breath
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Lt, and the rightmost into Wt; allies' skills charged by 1 turn
 JP: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
 KR: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
 
 # 1689/116 - Harpoon of Atlantis
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 3x ATK for Physical Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 3x ATK for Physical type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 3x ATK for Physical type; Charge all allies' skills by 1 turn
 KR: For 1 turn, 3x ATK for Physical type; Charge all allies' skills by 1 turn
 
 # 1690/116 - Broken Arrow
-Tags: ENHANCED_ORBS,REDUCE_DEFENSE
+Tags: ENHANCED_ORBS,REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: All Orbs enhanced, vastly reduces enemies' DEF for 1 turn; other allies' skills charged by 1 turn
 JP: Enhance all orbs; For 1 turn, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: Enhance all orbs; For 1 turn, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 KR: Enhance all orbs; For 1 turn, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 
 # 1691/116 - Infinite Mass Punch
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 3x ATK for Attacker Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 3x ATK for Attacker type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 3x ATK for Attacker type; Charge all allies' skills by 1 turn
 KR: For 1 turn, 3x ATK for Attacker type; Charge all allies' skills by 1 turn
 
 # 1692/116 - Batarang Blitz
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 3x ATK for Balanced Type for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 3x ATK for Balanced type; Charge all allies' skills by 1 turn
 EN: For 1 turn, 3x ATK for Balanced type; Charge all allies' skills by 1 turn
@@ -6656,7 +6656,7 @@ EN: For 1 turn, 10x Dark counterattack; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, 10x Dark counterattack; For 1 turn, reduce damage taken by 50%
 
 # 1834/116 - Heavenly Destruction
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Fire Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
@@ -6733,7 +6733,7 @@ EN: Change Heal orbs to Dark orbs; Reduce binds by 3 turns
 KR: Change Heal orbs to Dark orbs; Reduce binds by 3 turns
 
 # 1846/116 - Smile
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Wood, Light, Dark, and Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -6747,7 +6747,7 @@ EN: Change the far left column to Light orbs and change the far right column to 
 KR: Change the far left column to Light orbs and change the far right column to Dark orbs; For 1 turn, 5x Light counterattack
 
 # 1848/116 - Fermata
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Reduces damage for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, reduce damage taken by 25%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 25%; Charge all allies' skills by 1 turn
@@ -6831,14 +6831,14 @@ EN: Create 3 Wood orbs
 KR: Create 3 Wood orbs
 
 # 1861/116 - Sunrise Zone
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Light, Dark, and Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Fire, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 
 # 1862/116 - Sunset Zone
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Water, Dark, and Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -6915,7 +6915,7 @@ EN: For 4 turns, 5x Dark counterattack; Change Wood, Jammer, Poison, and Mortal 
 KR: For 4 turns, 5x Dark counterattack; Change Wood, Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 1873/116 - Pureblood Pillar
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Water, Wood, Dark & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Wood, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Wood, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -7020,7 +7020,7 @@ EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; 
 KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
 
 # 1888/116 - Genbu Seven-Star Formation
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Wood, Light & Dark Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
@@ -7069,14 +7069,14 @@ EN: Create 3 Water orbs
 KR: Create 3 Water orbs
 
 # 1896/116 - Blaze Charge
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN
 Game: Fire Orbs enhanced; other allies' skills charged by 2 turns
 JP: Enhance all Fire orbs; Charge all allies' skills by 2 turns
 EN: Enhance all Fire orbs; Charge all allies' skills by 2 turns
 KR: Enhance all Fire orbs; Charge all allies' skills by 2 turns
 
 # 1897/116 - Rising Dark
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Dark Orbs slightly more likely to appear for  3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 EN: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
@@ -7937,28 +7937,28 @@ EN: Enhance all Dark orbs
 KR: Enhance all Dark orbs
 
 # 2121/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2122/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2123/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2124/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -8168,7 +8168,7 @@ EN: For 1 turn, 1.5x ATK for Attacker type
 KR: For 1 turn, 1.5x ATK for Attacker type
 
 # 2154/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -8497,77 +8497,77 @@ EN: For 1 turn, increase orb move time by 2 seconds
 KR: For 1 turn, increase orb move time by 2 seconds
 
 # 2601/116 - It's not my problem.
-Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Removes Orb locks, changes the rightmost column to Light Orbs; other allies' skills charged by 1 turn
 JP: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn
 EN: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn
 KR: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn
 
 # 2602/116 - I am the chosen one.
-Tags: ENHANCED_ORBS,HEAL,AWOKEN_INVALID_RECOVERY
+Tags: ENHANCED_ORBS,HEAL,REDUCE_SKILL_TURN,AWOKEN_INVALID_RECOVERY
 Game: All Orbs enhanced, fully recovers HP & Awoken Skill bind status; other allies' skills charged by 2 turns
 JP: Enhance all orbs; Recover all HP; Remove all awoken skill binds; Charge all allies' skills by 2 turns
 EN: Enhance all orbs; Recover all HP; Remove all awoken skill binds; Charge all allies' skills by 2 turns
 KR: Enhance all orbs; Recover all HP; Remove all awoken skill binds; Charge all allies' skills by 2 turns
 
 # 2603/116 - Just stay close to me.
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Fire Orbs; Fire Orbs enhanced, other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
 
 # 2604/116 - Hey, again.
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
 Game: Recovers 50% of max HP and fully recovers bind status; other allies' skills charged by 1 turn
 JP: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
 EN: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
 KR: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
 
 # 2605/116 - We'll destroy you and prove you wrong!
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Wood & Light Orbs slightly more likely to appear for 10 turns; other allies' skills charged by 1 turn
 JP: For 10 turns, Wood and Light orbs are more likely to appear by 10%; Charge all allies' skills by 1 turn
 EN: For 10 turns, Wood and Light orbs are more likely to appear by 10%; Charge all allies' skills by 1 turn
 KR: For 10 turns, Wood and Light orbs are more likely to appear by 10%; Charge all allies' skills by 1 turn
 
 # 2606/116 - Don't come any closer!
-Tags: COUNTERATTACK
+Tags: COUNTERATTACK,REDUCE_SKILL_TURN
 Game: Massive Dark Att. counterattack for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 70x Dark counterattack; Charge all allies' skills by 1 turn
 EN: For 1 turn, 70x Dark counterattack; Charge all allies' skills by 1 turn
 KR: For 1 turn, 70x Dark counterattack; Charge all allies' skills by 1 turn
 
 # 2607/116 - This is my story!
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 2x ATK for Water Att. & 2x RCV for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, 2x RCV; For 2 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
 EN: For 2 turns, 2x RCV; For 2 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
 KR: For 2 turns, 2x RCV; For 2 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
 
 # 2608/116 - I have become a summoner!
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Halves damage for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, reduce damage taken by 50%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce damage taken by 50%; Charge all allies' skills by 1 turn
 KR: For 2 turns, reduce damage taken by 50%; Charge all allies' skills by 1 turn
 
 # 2609/116 - We have arrived!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 4x ATK for Fire & Dark Att. for 2 turns; other allies' skills charged by 2 turns
 JP: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
 EN: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
 KR: For 2 turns, 4x ATK for Fire, Dark Att.; Charge all allies' skills by 2 turns
 
 # 2610/116 - I want to change that future, too.
-Tags: STOP_TIME
+Tags: STOP_TIME,REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 2 turns; move Orbs freely for 12 seconds
 JP: Charge all allies' skills by 2 turns; Freely move orbs for 12 seconds
 EN: Charge all allies' skills by 2 turns; Freely move orbs for 12 seconds
 KR: Charge all allies' skills by 2 turns; Freely move orbs for 12 seconds
 
 # 2611/116 - Know divine wrath!
-Tags: ENHANCED_ORBS,SINGLE_TARGET_ATTACK
+Tags: ENHANCED_ORBS,SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts a 200x ATK attack on 1 enemy, Fire & Light Orbs enhanced; other allies' skills charged by 1 turn
 JP: Deal 200x ATK damage to an enemy; Enhance all Fire and Light orbs; Charge all allies' skills by 1 turn
 EN: Deal 200x ATK damage to an enemy; Enhance all Fire and Light orbs; Charge all allies' skills by 1 turn
@@ -8581,28 +8581,28 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Recover 10
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Recover 1000 HP
 
 # 2613/116 - Soul of Oblivion
-Tags: MASSIVE_ATTACK
+Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 50x ATK Dark Att. attack on all enemies; other allies' skills charged by 1 turn
 JP: Deal 50x ATK Dark damage to all enemies; Charge all allies' skills by 1 turn
 EN: Deal 50x ATK Dark damage to all enemies; Charge all allies' skills by 1 turn
 KR: Deal 50x ATK Dark damage to all enemies; Charge all allies' skills by 1 turn
 
 # 2614/116 - Starfall
-Tags: MASSIVE_ATTACK
+Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 50x ATK Water Att. attack on all enemies; other allies' skills charged by 1 turn
 JP: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
 EN: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
 KR: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
 
 # 2615/116 - Particle Beam
-Tags: MASSIVE_ATTACK
+Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 50x ATK Wood Att. attack on all enemies; other allies' skills charged by 1 turn
 JP: Deal 50x ATK Wood damage to all enemies; Charge all allies' skills by 1 turn
 EN: Deal 50x ATK Wood damage to all enemies; Charge all allies' skills by 1 turn
 KR: Deal 50x ATK Wood damage to all enemies; Charge all allies' skills by 1 turn
 
 # 2616/116 - Big Bang
-Tags: MASSIVE_ATTACK
+Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 200x ATK Dark Att. attack on all enemies; other allies' skills charged by 1 turn
 JP: Deal 200x ATK Dark damage to all enemies; Charge all allies' skills by 1 turn
 EN: Deal 200x ATK Dark damage to all enemies; Charge all allies' skills by 1 turn
@@ -8616,14 +8616,14 @@ EN: Deal 50x ATK Light damage to all enemies; Delay enemies' next attack by 1 tu
 KR: Deal 50x ATK Light damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 2618/118 - My Collection
-Tags: REDUCE_DAMAGE,FIXED_DAMAGE,ETC
+Tags: REDUCE_DAMAGE,FIXED_DAMAGE,REDUCE_SKILL_TURN,ETC
 Game: Activates a random skill; other allies' skills charged by 1 turn
 JP: Activate a random skill from the list: 1) Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn, 2) Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn, 3) Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn, and 4) For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: Activate a random skill from the list: 1) Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn, 2) Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn, 3) Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn, and 4) For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 KR: Activate a random skill from the list: 1) Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn, 2) Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn, 3) Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn, and 4) For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 
 # 2619/116 - Hyperdrive
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: A 250x ATK Dark Att. attack is made on 1 enemy; other allies' skills charged by 1 turn
 JP: Deal 250x Dark damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 250x Dark damage to an enemy; Charge all allies' skills by 1 turn
@@ -8644,7 +8644,7 @@ EN: For 2 turns, reduce damage taken by 25%
 KR: For 2 turns, reduce damage taken by 25%
 
 # 2622/116 - Vortex Counter
-Tags: COUNTERATTACK
+Tags: COUNTERATTACK,REDUCE_SKILL_TURN
 Game: Strong Water counterattack for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, 5x Water counterattack; Charge all allies' skills by 1 turn
 EN: For 1 turn, 5x Water counterattack; Charge all allies' skills by 1 turn
@@ -8700,56 +8700,56 @@ EN: For 3 turns, Light orbs are more likely to appear by 15%; Create 2 Light orb
 KR: For 3 turns, Light orbs are more likely to appear by 15%; Create 2 Light orbs
 
 # 2632/116 - Suzaku Seven-Star Formation
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Wood & Light Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Wood, and Light orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Wood, and Light orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Fire, Wood, and Light orbs; Charge all allies' skills by 1 turn
 
 # 2633/116 - Seiryuu Seven-Star Formation
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Water, Wood & Dark Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Water, Wood, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Water, Wood, and Dark orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Water, Wood, and Dark orbs; Charge all allies' skills by 1 turn
 
 # 2634/116 - Byakko Seven-Star Formation
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Water & Dark Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Fire, Water, and Dark orbs; Charge all allies' skills by 1 turn
 
 # 2635/116 - Holy Star
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Dark Orbs to Light Orbs; other allies' skills charged by 1 turn
 JP: Change Dark orbs to Light orbs; Charge all allies' skills by 1 turn
 EN: Change Dark orbs to Light orbs; Charge all allies' skills by 1 turn
 KR: Change Dark orbs to Light orbs; Charge all allies' skills by 1 turn
 
 # 2636/116 - Deathgazer
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Light Orbs to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change Light orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change Light orbs to Dark orbs; Charge all allies' skills by 1 turn
 KR: Change Light orbs to Dark orbs; Charge all allies' skills by 1 turn
 
 # 2637/116 - Dimension Formation - Scarlet Sun
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Fire and Light Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Fire and Light orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Fire and Light orbs; Charge all allies' skills by 1 turn
 KR: Create 3 Fire and Light orbs; Charge all allies' skills by 1 turn
 
 # 2638/116 - Dimension Formation - Blue Life
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Water and Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Water and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Water and Heal orbs; Charge all allies' skills by 1 turn
 KR: Create 3 Water and Heal orbs; Charge all allies' skills by 1 turn
 
 # 2639/116 - Dimension Formation - Green Life
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Wood & Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Wood and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Wood and Heal orbs; Charge all allies' skills by 1 turn
@@ -8763,49 +8763,49 @@ EN: For 3 turns, all attacks become mass attack; For 3 turns, 1.2x ATK for Devil
 KR: For 3 turns, all attacks become mass attack; For 3 turns, 1.2x ATK for Devil type
 
 # 2641/116 - ドラゴン・サポート
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2ターンの間、ドラゴンタイプの攻撃力が1.5倍。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
 EN: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
 KR: For 2 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
 
 # 2642/116 - ボルメテウス・W・フレア
-Tags: ORB_REFRESH
+Tags: REDUCE_SKILL_TURN,ORB_REFRESH
 Game: 自分以外の味方スキルが1ターン溜まる。 ランダムでドロップを入れ替える。
 JP: Charge all allies' skills by 1 turn; Replace all orbs
 EN: Charge all allies' skills by 1 turn; Replace all orbs
 KR: Charge all allies' skills by 1 turn; Replace all orbs
 
 # 2643/116 - ボルシャック・ファイアー
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: 右端縦1列を火ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
 KR: Change the far right column to Fire orbs; Charge all allies' skills by 1 turn
 
 # 2644/116 - スペル・シュトローム
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2ターンの間、ドラゴンと悪魔タイプの攻撃力が3.5倍。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, 3.5x ATK for Dragon and Devil types; Charge all allies' skills by 1 turn
 EN: For 2 turns, 3.5x ATK for Dragon and Devil types; Charge all allies' skills by 1 turn
 KR: For 2 turns, 3.5x ATK for Dragon and Devil types; Charge all allies' skills by 1 turn
 
 # 2645/116 - タオパブの力
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2ターンの間、木属性の攻撃力が2倍。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 EN: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 KR: For 2 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 
 # 2646/116 - 聖霊光
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: 水、お邪魔、毒ドロップを光ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 
 # 2647/116 - 魔弾ロマノフ・ストライク
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: 最下段横1列を闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the bottom row to Dark orbs; Charge all allies' skills by 1 turn
@@ -8840,28 +8840,28 @@ EN: Replace all orbs
 KR: Replace all orbs
 
 # 2652/116 - Dimension Song - Holy Fang
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2.5x ATK for God & Dragon Types for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, 2.5x ATK for Dragon and God types; Charge all allies' skills by 1 turn
 EN: For 2 turns, 2.5x ATK for Dragon and God types; Charge all allies' skills by 1 turn
 KR: For 2 turns, 2.5x ATK for Dragon and God types; Charge all allies' skills by 1 turn
 
 # 2653/116 - Dimension Dance - Purple Sky
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Water Orbs to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change Water, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
 
 # 2654/116 - 死神の円舞曲
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: 全ドロップを火、木、光、闇、回復ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 
 # 2655/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -8917,7 +8917,7 @@ EN: For 1 turn, 1.5x ATK for Devil type
 KR: For 1 turn, 1.5x ATK for Devil type
 
 # 2667/116 - Flame Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Fire Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Fire orbs; Charge all allies' skills by 1 turn
@@ -8931,14 +8931,14 @@ EN: Change the top row to Fire orbs
 KR: Change the top row to Fire orbs
 
 # 2669/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2670/116 - Aqua Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Water Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Water orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Water orbs; Charge all allies' skills by 1 turn
@@ -8952,14 +8952,14 @@ EN: Change the top row to Water orbs
 KR: Change the top row to Water orbs
 
 # 2672/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2673/116 - Wind Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
@@ -8973,14 +8973,14 @@ EN: Change the top row to Wood orbs
 KR: Change the top row to Wood orbs
 
 # 2675/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2676/116 - Lightning Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Light Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Light orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Light orbs; Charge all allies' skills by 1 turn
@@ -8994,14 +8994,14 @@ EN: Change the top row to Light orbs
 KR: Change the top row to Light orbs
 
 # 2678/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2679/116 - Phantom Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Dark Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Dark orbs; Charge all allies' skills by 1 turn
@@ -9015,14 +9015,14 @@ EN: Change the top row to Dark orbs
 KR: Change the top row to Dark orbs
 
 # 2681/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2682/116 - Blast Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Fire Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
@@ -9036,14 +9036,14 @@ EN: Change the far left column to Fire orbs
 KR: Change the far left column to Fire orbs
 
 # 2684/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2685/116 - Blizzard Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the rightmost column into Water Orbs; other allies' skills charged by 1 turn
 JP: Change the far right column to Water orbs; Charge all allies' skills by 1 turn
 EN: Change the far right column to Water orbs; Charge all allies' skills by 1 turn
@@ -9057,14 +9057,14 @@ EN: Change the far right column to Water orbs
 KR: Change the far right column to Water orbs
 
 # 2687/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2688/116 - Tornado Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Wood orbs; Charge all allies' skills by 1 turn
@@ -9078,14 +9078,14 @@ EN: Change the far left column to Wood orbs
 KR: Change the far left column to Wood orbs
 
 # 2690/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2691/116 - Plasma Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the rightmost column into Light Orbs; other allies' skills charged by 1 turn
 JP: Change the far right column to Light orbs; Charge all allies' skills by 1 turn
 EN: Change the far right column to Light orbs; Charge all allies' skills by 1 turn
@@ -9099,14 +9099,14 @@ EN: Change the far right column to Light orbs
 KR: Change the far right column to Light orbs
 
 # 2693/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2694/116 - Gravity Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Dark Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Dark orbs; Charge all allies' skills by 1 turn
@@ -9120,14 +9120,14 @@ EN: Change the far left column to Dark orbs
 KR: Change the far left column to Dark orbs
 
 # 2696/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2697/116 - Rose Flare
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Fire Orbs at random; other allies' skills charged by 1 turn
 JP: Create 4 Fire orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Fire orbs; Charge all allies' skills by 1 turn
@@ -9141,14 +9141,14 @@ EN: Create 4 Fire orbs
 KR: Create 4 Fire orbs
 
 # 2699/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2700/146 - Rudraksha
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Other allies' skills charge by 2 turns
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -9176,7 +9176,7 @@ EN: Change the far right column to Light orbs
 KR: Change the far right column to Light orbs
 
 # 2704/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -9218,7 +9218,7 @@ EN: For 2 turns, 4x ATK for Fire, Dark Att.
 KR: For 2 turns, 4x ATK for Fire, Dark Att.
 
 # 2710/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9274,7 +9274,7 @@ EN: For 10 turns, Wood and Light orbs are more likely to appear by 10%
 KR: For 10 turns, Wood and Light orbs are more likely to appear by 10%
 
 # 2718/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -9414,7 +9414,7 @@ EN: For 2 turns, 1.5x ATK for Dragon type
 KR: For 2 turns, 1.5x ATK for Dragon type
 
 # 2739/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9785,7 +9785,7 @@ EN: Change all orbs to Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Wood, Light, Dark, and Heal orbs
 
 # 2793/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9841,14 +9841,14 @@ EN: Enhance all Fire and Heal orbs
 KR: Enhance all Fire and Heal orbs
 
 # 2802/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2803/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9862,35 +9862,35 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 2805/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2806/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2807/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2808/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2809/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -9904,14 +9904,14 @@ EN: Enhance all Fire and Light orbs
 KR: Enhance all Fire and Light orbs
 
 # 2811/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2812/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9925,7 +9925,7 @@ EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
 # 2814/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9939,14 +9939,14 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 2816/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2817/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9960,28 +9960,28 @@ EN: Freely move orbs for 12 seconds
 KR: Freely move orbs for 12 seconds
 
 # 2819/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2820/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2821/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2822/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -9995,77 +9995,77 @@ EN: Reduce HP to 1; Deal 100x Light damage to all enemies
 KR: Reduce HP to 1; Deal 100x Light damage to all enemies
 
 # 2824/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 2825/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2826/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2827/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2828/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2829/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2830/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2831/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2832/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2833/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2834/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10086,7 +10086,7 @@ EN: For 3 turns, 1.2x ATK for Devil type
 KR: For 3 turns, 1.2x ATK for Devil type
 
 # 2838/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10100,35 +10100,35 @@ EN: Replace all orbs
 KR: Replace all orbs
 
 # 2840/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2841/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2842/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2843/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2844/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10156,21 +10156,21 @@ EN: Change all orbs to Fire, Water, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Light, and Dark orbs
 
 # 2848/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2849/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2850/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10205,7 +10205,7 @@ EN: Create 2 Light orbs
 KR: Create 2 Light orbs
 
 # 2855/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10233,14 +10233,14 @@ EN: Create 8 Fire orbs
 KR: Create 8 Fire orbs
 
 # 2859/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 2860/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10268,7 +10268,7 @@ EN: Reduce binds and awoken skill binds by 7 turns
 KR: Reduce binds and awoken skill binds by 7 turns
 
 # 2864/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10282,7 +10282,7 @@ EN: For 1 turn, 2x ATK for Light, Fire Att.
 KR: For 1 turn, 2x ATK for Light, Fire Att.
 
 # 2866/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10415,7 +10415,7 @@ EN: Recover 7x RCV as HP; Reduce binds by 3 turns
 KR: Recover 7x RCV as HP; Reduce binds by 3 turns
 
 # 2885/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10541,7 +10541,7 @@ EN: Enhance all Fire orbs
 KR: Enhance all Fire orbs
 
 # 3304/116 - Parable of the Three Arrows
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire & Water Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire and Water orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire and Water orbs; Charge all allies' skills by 2 turns
@@ -10555,14 +10555,14 @@ EN: Change all orbs to Fire and Water orbs
 KR: Change all orbs to Fire and Water orbs
 
 # 3306/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 3307/116 - Heroic Blade
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Wood, Dark & Heal Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Wood, Dark, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Wood, Dark, and Heal orbs; Charge all allies' skills by 2 turns
@@ -10576,21 +10576,21 @@ EN: Change all orbs to Wood, Dark, and Heal orbs
 KR: Change all orbs to Wood, Dark, and Heal orbs
 
 # 3309/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 3310/116 - Landscape-Patterned Cup
-Tags: ORB_REFRESH
+Tags: REDUCE_SKILL_TURN,ORB_REFRESH
 Game: Other allies' skills charged by 1 turn; all Orbs replaced
 JP: Charge all allies' skills by 1 turn; Replace all orbs
 EN: Charge all allies' skills by 1 turn; Replace all orbs
 KR: Charge all allies' skills by 1 turn; Replace all orbs
 
 # 3311/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10667,7 +10667,7 @@ EN: For 1 turn, 2x RCV
 KR: For 1 turn, 2x RCV
 
 # 3328/116 - Heaven and Earth Creation
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Light and Dark Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Light and Dark orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Light and Dark orbs; Charge all allies' skills by 1 turn
@@ -10681,7 +10681,7 @@ EN: Create 3 Light and Dark orbs
 KR: Create 3 Light and Dark orbs
 
 # 3330/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10709,7 +10709,7 @@ EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
 # 3334/116 - Hydra Horn
-Tags: POISON
+Tags: POISON,REDUCE_SKILL_TURN
 Game: Mortally poisons all enemies; other allies' skills charged by 2 turns
 JP: Poison all enemies (100x ATK); Charge all allies' skills by 2 turns
 EN: Poison all enemies (100x ATK); Charge all allies' skills by 2 turns
@@ -10723,7 +10723,7 @@ EN: Poison all enemies (100x ATK)
 KR: Poison all enemies (100x ATK)
 
 # 3336/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -10751,7 +10751,7 @@ EN: Lock Water and Heal orbs
 KR: Lock Water and Heal orbs
 
 # 3340/116 - Sea Draco Summoning Circle-Wt & Wd
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Water & Wood Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns
@@ -10765,14 +10765,14 @@ EN: Change all orbs to Water and Wood orbs
 KR: Change all orbs to Water and Wood orbs
 
 # 3342/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 3343/116 - Draupnir
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 50% of max HP, fully recovers bind status (incl. Awoken); allies' skills charged by 1 turn
 JP: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
 EN: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
@@ -10786,7 +10786,7 @@ EN: Recover 50% of max HP; Remove all binds and awoken skill binds
 KR: Recover 50% of max HP; Remove all binds and awoken skill binds
 
 # 3345/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10821,7 +10821,7 @@ EN: Delay enemies' next attack by 4 turns
 KR: Delay enemies' next attack by 4 turns
 
 # 3352/116 - Blazing Storm Barricade
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Halves damage for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, reduce damage taken by 50%; Charge all allies' skills by 1 turn
 EN: For 3 turns, reduce damage taken by 50%; Charge all allies' skills by 1 turn
@@ -10835,14 +10835,14 @@ EN: For 3 turns, reduce damage taken by 50%
 KR: For 3 turns, reduce damage taken by 50%
 
 # 3354/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3355/116 - Divine Illumination
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
 Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
 JP: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
 EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
@@ -10856,7 +10856,7 @@ EN: Recover 40% of max HP; Reduce binds by 4 turns
 KR: Recover 40% of max HP; Reduce binds by 4 turns
 
 # 3357/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -10926,7 +10926,7 @@ EN: For 1 turn, 1.5x ATK for Machine type
 KR: For 1 turn, 1.5x ATK for Machine type
 
 # 3367/116 - Sunlight Crown
-Tags: EXTENDS_TIME
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN
 Game: Orb move time extended by 5 seconds for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns
 EN: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns
@@ -10940,7 +10940,7 @@ EN: For 1 turn, increase orb move time by 5 seconds
 KR: For 1 turn, increase orb move time by 5 seconds
 
 # 3369/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -11031,14 +11031,14 @@ EN: Deal 100 fixed damage to all enemies
 KR: Deal 100 fixed damage to all enemies
 
 # 3384/116 - I'll kill them all!
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 30% of max HP and reduces bind status by 3 turns; other allies' skills charged by 1 turn
 JP: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 
 # 3385/116 - I'll survive no matter what!
-Tags: AWOKEN_INVALID_RECOVERY
+Tags: REDUCE_SKILL_TURN,AWOKEN_INVALID_RECOVERY
 Game: 4 Water Orbs created at random; other allies' skills charged by 1 turn
 JP: Create 4 Water orbs; Reduce awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 EN: Create 4 Water orbs; Reduce awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
@@ -11052,14 +11052,14 @@ EN: Create 4 Water orbs
 KR: Create 4 Water orbs
 
 # 3387/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3388/116 - Choose whatever you'll regret the least
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Water, Light, Dark & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11073,7 +11073,7 @@ EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 
 # 3390/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11129,7 +11129,7 @@ EN: For 3 turns, all attacks become mass attack
 KR: For 3 turns, all attacks become mass attack
 
 # 3398/116 - Mind if I try an experiment?
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Vastly reduces enemies' DEF for 5 turns; other allies' skills charged by 1 turn
 JP: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
@@ -11143,7 +11143,7 @@ EN: For 5 turns, reduce enemies' defense by 75%
 KR: For 5 turns, reduce enemies' defense by 75%
 
 # 3400/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11171,7 +11171,7 @@ EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
 # 3504/116 - Here...take half...
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: ATK increases slightly for Physical Type for 6 turns; other allies' skills charged by 1 turn
 JP: For 6 turns, 1.3x ATK for Physical type; Charge all allies' skills by 1 turn
 EN: For 6 turns, 1.3x ATK for Physical type; Charge all allies' skills by 1 turn
@@ -11185,7 +11185,7 @@ EN: For 6 turns, 1.3x ATK for Physical type
 KR: For 6 turns, 1.3x ATK for Physical type
 
 # 3506/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11276,7 +11276,7 @@ EN: Reduce binds by 5 turns
 KR: Reduce binds by 5 turns
 
 # 3519/116 - Moon God's Arm
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Dark and Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 4 Dark and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Dark and Heal orbs; Charge all allies' skills by 1 turn
@@ -11290,7 +11290,7 @@ EN: Create 4 Dark and Heal orbs
 KR: Create 4 Dark and Heal orbs
 
 # 3521/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11318,7 +11318,7 @@ EN: For 6 turns, 1.2x ATK for Physical type
 KR: For 6 turns, 1.2x ATK for Physical type
 
 # 3525/116 - Rune Enhance - Fire & Water
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Fire & Water Att. for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 2.5x ATK for Fire, Water Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2.5x ATK for Fire, Water Att.; Charge all allies' skills by 1 turn
@@ -11332,14 +11332,14 @@ EN: For 3 turns, 2.5x ATK for Fire, Water Att.
 KR: For 3 turns, 2.5x ATK for Fire, Water Att.
 
 # 3527/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3528/116 - Rune Enhance - Water & Dark
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Water & Dark Att. & 2.5x RCV for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 2.5x ATK for Water, Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2.5x ATK for Water, Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
@@ -11353,14 +11353,14 @@ EN: For 3 turns, 2.5x ATK for Water, Dark Att.
 KR: For 3 turns, 2.5x ATK for Water, Dark Att.
 
 # 3530/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3531/116 - Rune Enhance - Wood & Dark
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Wood & Dark Att. for 3 turns;  other allies' skills charged by 1 turn
 JP: For 3 turns, 2.5x ATK for Wood, Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2.5x ATK for Wood, Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
@@ -11374,14 +11374,14 @@ EN: For 3 turns, 2.5x ATK for Wood, Dark Att.
 KR: For 3 turns, 2.5x ATK for Wood, Dark Att.
 
 # 3533/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3534/116 - Rune Enhance - Light & Water
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Light & Water Att. for 3 turns;  other allies' skills charged by 1 turn
 JP: For 3 turns, 2.5x ATK for Light, Water Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2.5x ATK for Light, Water Att.; Charge all allies' skills by 1 turn
@@ -11395,14 +11395,14 @@ EN: For 3 turns, 2.5x ATK for Light, Water Att.
 KR: For 3 turns, 2.5x ATK for Light, Water Att.
 
 # 3536/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3537/116 - Rune Enhance - Dark & Light
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Dark & Light Att. for 3 turns;  other allies' skills charged by 1 turn
 JP: For 3 turns, 2.5x ATK for Dark, Light Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2.5x ATK for Dark, Light Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
@@ -11416,7 +11416,7 @@ EN: For 3 turns, 2.5x ATK for Dark, Light Att.
 KR: For 3 turns, 2.5x ATK for Dark, Light Att.
 
 # 3539/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11430,7 +11430,7 @@ EN: Change all orbs to Fire orbs
 KR: Change all orbs to Fire orbs
 
 # 3541/116 - Shine Flare Ring
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Light & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Light, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Light, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11444,14 +11444,14 @@ EN: Change all orbs to Fire, Light, and Heal orbs
 KR: Change all orbs to Fire, Light, and Heal orbs
 
 # 3543/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3544/116 - Abyss Dark Ring
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Water, Dark & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11465,7 +11465,7 @@ EN: Change all orbs to Water, Dark, and Heal orbs
 KR: Change all orbs to Water, Dark, and Heal orbs
 
 # 3546/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11493,7 +11493,7 @@ EN: For 3 turns, Poison orbs are more likely to appear by 15%
 KR: For 3 turns, Poison orbs are more likely to appear by 15%
 
 # 3550/116 - Jack-o'-Lantern
-Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: RECOVER_BIND,REDUCE_SKILL_TURN,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status (incl. Awoken) by 7 turns; other allies' skills charged by 1 turn
 JP: Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn
 EN: Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn
@@ -11507,14 +11507,14 @@ EN: Reduce binds and awoken skill binds by 7 turns
 KR: Reduce binds and awoken skill binds by 7 turns
 
 # 3552/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3553/116 - Holiday Summoning Circle-Wt & Dk
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Water & Dark Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Water and Dark orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Water and Dark orbs; Charge all allies' skills by 2 turns
@@ -11528,7 +11528,7 @@ EN: Change all orbs to Water and Dark orbs
 KR: Change all orbs to Water and Dark orbs
 
 # 3555/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -11626,7 +11626,7 @@ EN: For 4 turns, 2x ATK for Water Att.
 KR: For 4 turns, 2x ATK for Water Att.
 
 # 3569/116 - Astrocharge - Flare
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Fire Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
@@ -11640,14 +11640,14 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 
 # 3571/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3572/116 - Astrocharge - Aqua
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Water Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Charge all allies' skills by 1 turn
@@ -11661,14 +11661,14 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 3574/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3575/116 - Astrocharge - Land
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Charge all allies' skills by 1 turn
@@ -11682,14 +11682,14 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 3577/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3578/116 - Astrocharge - Light
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Light Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
@@ -11703,14 +11703,14 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 
 # 3580/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3581/116 - Astrocharge - Dark
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
@@ -11724,7 +11724,7 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 3583/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11787,7 +11787,7 @@ EN: For 3 turns, increase orb move time by 1 second
 KR: For 3 turns, increase orb move time by 1 second
 
 # 3592/116 - Storm Light Ring
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Wood, Light & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Wood, Light, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Wood, Light, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11801,7 +11801,7 @@ EN: Change all orbs to Wood, Light, and Heal orbs
 KR: Change all orbs to Wood, Light, and Heal orbs
 
 # 3594/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -11815,7 +11815,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Poison orbs
 
 # 3596/116 - All Orbs Charge
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to all Attributes & Heal; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11829,14 +11829,14 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 3598/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3701/116 - I'll protect you with my life
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Wood, Light, Dark and Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -11850,14 +11850,14 @@ EN: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Wood, Light, Dark, and Heal orbs
 
 # 3703/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3704/116 - Sit boy!
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Vastly reduces enemies' DEF for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
@@ -11871,7 +11871,7 @@ EN: For 2 turns, reduce enemies' defense by 75%
 KR: For 2 turns, reduce enemies' defense by 75%
 
 # 3706/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12074,7 +12074,7 @@ EN: For 1 turn, increase orb move time by 2 seconds
 KR: For 1 turn, increase orb move time by 2 seconds
 
 # 3735/116 - I'm gonna eat you!
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN
 Game: Light & Dark Orbs enhanced; other allies' skills charged by 2 turns
 JP: Enhance all Light and Dark orbs; Charge all allies' skills by 2 turns
 EN: Enhance all Light and Dark orbs; Charge all allies' skills by 2 turns
@@ -12088,7 +12088,7 @@ EN: Enhance all Light and Dark orbs
 KR: Enhance all Light and Dark orbs
 
 # 3737/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -12158,7 +12158,7 @@ EN: For 4 turns, Wood and Heal orbs are more likely to appear by 10%
 KR: For 4 turns, Wood and Heal orbs are more likely to appear by 10%
 
 # 3756/116 - Holy Draco Summoning Circle-Fr & Wd
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire & Wood Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire and Wood orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire and Wood orbs; Charge all allies' skills by 2 turns
@@ -12172,7 +12172,7 @@ EN: Change all orbs to Fire and Wood orbs
 KR: Change all orbs to Fire and Wood orbs
 
 # 3758/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -12200,7 +12200,7 @@ EN: Recover 30% of max HP
 KR: Recover 30% of max HP
 
 # 3762/116 - Charge Gravity-G
-Tags: GRAVITY
+Tags: GRAVITY,REDUCE_SKILL_TURN
 Game: Reduces enemies' HP by 30%; other allies' skills charged by 1 turn
 JP: Reduce enemies' HP by 30%; Charge all allies' skills by 1 turn
 EN: Reduce enemies' HP by 30%; Charge all allies' skills by 1 turn
@@ -12214,14 +12214,14 @@ EN: Reduce enemies' HP by 30%
 KR: Reduce enemies' HP by 30%
 
 # 3764/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3765/116 - Charge Gravity-H
-Tags: GRAVITY
+Tags: GRAVITY,REDUCE_SKILL_TURN
 Game: Reduces enemies' HP by 35%; other allies' skills charged by 1 turn
 JP: Reduce enemies' HP by 35%; Charge all allies' skills by 1 turn
 EN: Reduce enemies' HP by 35%; Charge all allies' skills by 1 turn
@@ -12235,7 +12235,7 @@ EN: Reduce enemies' HP by 35%
 KR: Reduce enemies' HP by 35%
 
 # 3767/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12263,7 +12263,7 @@ EN: Create 3 Wood and Jammer orbs; For 1 turn, increase orb move time by 1 secon
 KR: Create 3 Wood and Jammer orbs; For 1 turn, increase orb move time by 1 second
 
 # 3774/116 - Meteor Charge - Light
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Dark, Heal & Poison Orbs to Light Orbs; other allies' skills charged by 1 turn
 JP: Change Dark, Heal, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 EN: Change Dark, Heal, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
@@ -12277,7 +12277,7 @@ EN: Change Dark, Heal, Poison, and Mortal Poison orbs to Light orbs
 KR: Change Dark, Heal, Poison, and Mortal Poison orbs to Light orbs
 
 # 3776/116 - Meteor Charge - Dark
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Light, Heal & Poison to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change Light, Heal, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change Light, Heal, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn
@@ -12319,7 +12319,7 @@ EN: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 KR: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 3782/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12361,7 +12361,7 @@ EN: For 4 turns, Dark orbs are more likely to appear by 15%
 KR: For 4 turns, Dark orbs are more likely to appear by 15%
 
 # 3788/116 - Jingle Bells
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Fire & Light Orbs more likely to appear for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, Fire and Light orbs are more likely to appear by 10%; Charge all allies' skills by 1 turn
 EN: For 3 turns, Fire and Light orbs are more likely to appear by 10%; Charge all allies' skills by 1 turn
@@ -12375,14 +12375,14 @@ EN: For 3 turns, Fire and Light orbs are more likely to appear by 10%
 KR: For 3 turns, Fire and Light orbs are more likely to appear by 10%
 
 # 3790/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3791/116 - Rising Sun Sparkle
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN
 Game: All Orbs enhanced; other allies' skills charged by 1 turn
 JP: Enhance all orbs; Charge all allies' skills by 1 turn
 EN: Enhance all orbs; Charge all allies' skills by 1 turn
@@ -12396,7 +12396,7 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 3793/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12417,7 +12417,7 @@ EN: Create 3 Light orbs
 KR: Create 3 Light orbs
 
 # 3802/116 - Bumper Crop Prayer
-Tags: GUARD_STANCE
+Tags: GUARD_STANCE,REDUCE_SKILL_TURN
 Game: Changes Wood & Dark Orbs to Heal Orbs; other allies' skills charged by 1 turn
 JP: Change Wood and Dark orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Wood and Dark orbs to Heal orbs; Charge all allies' skills by 1 turn
@@ -12431,14 +12431,14 @@ EN: Change Wood and Dark orbs to Heal orbs
 KR: Change Wood and Dark orbs to Heal orbs
 
 # 3804/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3805/116 - Inversion - Glitter of Aegis
-Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER
+Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: All Orbs enhanced, creates a cross of Heal Orbs; other allies' skills charged by 1 turn
 JP: Enhance all orbs; Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
 EN: Enhance all orbs; Create a cross of Heal orbs with its center at the 2nd row from the bottom and the 2nd column from the right; Charge all allies' skills by 1 turn
@@ -12452,7 +12452,7 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 3807/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12480,7 +12480,7 @@ EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
 # 3811/116 - Inversion-Draco Summoning Circle-Fr & Dk
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Removes Orb locks, changes Orbs to Fire & Dark Orbs; other allies' skills charged by 1 turn
 JP: Unlock all orbs; Change all orbs to Fire and Dark orbs; Charge all allies' skills by 1 turn
 EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Charge all allies' skills by 1 turn
@@ -12494,7 +12494,7 @@ EN: Change all orbs to Fire and Dark orbs
 KR: Change all orbs to Fire and Dark orbs
 
 # 3813/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12508,7 +12508,7 @@ EN: Becomes Team leader; changes back when used again
 KR: Becomes Team leader; changes back when used again
 
 # 3815/116 - Don't lay your hands on him!
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Fire and Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 4 Fire and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Fire and Heal orbs; Charge all allies' skills by 1 turn
@@ -12522,7 +12522,7 @@ EN: Create 4 Fire and Heal orbs
 KR: Create 4 Fire and Heal orbs
 
 # 3817/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12557,7 +12557,7 @@ EN: Create 4 Dark orbs
 KR: Create 4 Dark orbs
 
 # 3822/116 - I can do it by myself
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Light Orbs slightly more likely to appear for 3 turns; other allies' skills charged by 1 turn
 JP: For 5 turns, Light orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 EN: For 5 turns, Light orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
@@ -12571,7 +12571,7 @@ EN: For 5 turns, Light orbs are more likely to appear by 15%
 KR: For 5 turns, Light orbs are more likely to appear by 15%
 
 # 3824/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12627,7 +12627,7 @@ EN: For 2 turns, 2.5x ATK for Physical and Attacker types
 KR: For 2 turns, 2.5x ATK for Physical and Attacker types
 
 # 3832/116 - Well, let's start
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x ATK for Balanced Type for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Balanced type; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Balanced type; Charge all allies' skills by 1 turn
@@ -12641,7 +12641,7 @@ EN: For 3 turns, 1.5x ATK for Balanced type
 KR: For 3 turns, 1.5x ATK for Balanced type
 
 # 3834/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12809,7 +12809,7 @@ EN: For 1 turn, Jammer orbs are more likely to appear by 20%
 KR: For 1 turn, Jammer orbs are more likely to appear by 20%
 
 # 3858/116 - Forbidden Box
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Wood Orbs to Dark & Light Orbs to Heal; other allies' skills charged by 1 turn
 JP: Change Wood orbs to Dark orbs; Change Light orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Wood orbs to Dark orbs; Change Light orbs to Heal orbs; Charge all allies' skills by 1 turn
@@ -12823,7 +12823,7 @@ EN: Change Wood orbs to Dark orbs; Change Light orbs to Heal orbs
 KR: Change Wood orbs to Dark orbs; Change Light orbs to Heal orbs
 
 # 3860/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -12928,7 +12928,7 @@ EN: For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x orb move time
 
 # 3875/116 - Then get stronger.
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Water Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Water orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Water orbs; Charge all allies' skills by 1 turn
@@ -12942,7 +12942,7 @@ EN: Change the far left column to Water orbs
 KR: Change the far left column to Water orbs
 
 # 3877/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -13040,7 +13040,7 @@ EN: Create 3 Jammer orbs over non Wood orbs
 KR: Create 3 Jammer orbs over non Wood orbs
 
 # 3891/116 - Stand back. I'll handle this!
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Water Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
@@ -13054,7 +13054,7 @@ EN: Change all orbs to Water orbs
 KR: Change all orbs to Water orbs
 
 # 3893/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -13383,7 +13383,7 @@ EN: Change all orbs to Heal, Light, and Dark orbs
 KR: Change all orbs to Heal, Light, and Dark orbs
 
 # 3940/116 - It's just a trick I learned from my dad
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the rightmost and leftmost column to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column and the far right column to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column and the far right column to Wood orbs; Charge all allies' skills by 1 turn
@@ -13397,14 +13397,14 @@ EN: Change the far left column and the far right column to Wood orbs
 KR: Change the far left column and the far right column to Wood orbs
 
 # 3942/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3943/116 - Espers... Heed my call.
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column to Fire and the rightmost to Light; allies' skills charged by 1 turn
 JP: Change the far left column to Fire orbs and change the far right column to Light orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Fire orbs and change the far right column to Light orbs; Charge all allies' skills by 1 turn
@@ -13418,7 +13418,7 @@ EN: Change the far left column to Fire orbs and change the far right column to L
 KR: Change the far left column to Fire orbs and change the far right column to Light orbs
 
 # 3945/116 - O-hohohohoho!
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row to Dark and the bottom row to Wood Orbs; allies' skills charged by 1 turn
 JP: Change the top row to Dark orbs and change the bottom row to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Dark orbs and change the bottom row to Wood orbs; Charge all allies' skills by 1 turn
@@ -13432,7 +13432,7 @@ EN: Change the top row to Dark orbs and change the bottom row to Wood orbs
 KR: Change the top row to Dark orbs and change the bottom row to Wood orbs
 
 # 3947/116 - Got a surprise for you!
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row to Light and the bottom row to Fire Orbs; allies' skills charged by 1 turn
 JP: Change the top row to Light orbs and change the bottom row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Light orbs and change the bottom row to Fire orbs; Charge all allies' skills by 1 turn
@@ -13467,7 +13467,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 3952/116 - Let's go. Focus!
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Dark Orbs to Water Orbs & Fire Orbs to Heal Orbs; other allies' skills charged by 1 turn
 JP: Change Dark orbs to Water orbs; Change Fire orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Dark orbs to Water orbs; Change Fire orbs to Heal orbs; Charge all allies' skills by 1 turn
@@ -13481,7 +13481,7 @@ EN: Change Dark orbs to Water orbs; Change Fire orbs to Heal orbs
 KR: Change Dark orbs to Water orbs; Change Fire orbs to Heal orbs
 
 # 3954/116 - This is my duty as a knight!
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Vastly reduces damage for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
@@ -13537,7 +13537,7 @@ EN: Create 8 Fire orbs
 KR: Create 8 Fire orbs
 
 # 3962/116 - Ultimate Jecht Shot
-Tags: MASSIVE_ATTACK
+Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Dark attack of 10x team's Water ATK on all enemies; other allies' skills charged by 1 turn
 JP: Deal Dark damage equal to 10x of team's total Water ATK to all enemies; Charge all allies' skills by 1 turn
 EN: Deal Dark damage equal to 10x of team's total Water ATK to all enemies; Charge all allies' skills by 1 turn
@@ -13621,28 +13621,28 @@ EN: Create 3 Jammer orbs over non Fire orbs
 KR: Create 3 Jammer orbs over non Fire orbs
 
 # 3974/116 - Excalibur
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: 
 JP: Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn
 KR: Deal 100x Light damage to an enemy; Charge all allies' skills by 1 turn
 
 # 3975/116 - Excalipoor
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,REDUCE_SKILL_TURN
 Game: 
 JP: Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn
 KR: Deal 1 fixed damage to an enemy; Charge all allies' skills by 1 turn
 
 # 3976/116 - Masamune
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: 
 JP: Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn
 EN: Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn
 KR: Deal 50x Wood damage to an enemy; Charge all allies' skills by 1 turn
 
 # 3977/116 - Genji Shield
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: 
 JP: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 75%; Charge all allies' skills by 1 turn
@@ -13691,7 +13691,7 @@ EN: Enhance all Wood orbs
 KR: Enhance all Wood orbs
 
 # 3984/116 - Crimson Season
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Changes 6 non-Fire Orbs to Heal Orbs; other allies' skills charged by 1 turn
 JP: Create 6 Heal orbs over non Fire orbs; Charge all allies' skills by 1 turn
 EN: Create 6 Heal orbs over non Fire orbs; Charge all allies' skills by 1 turn
@@ -13705,14 +13705,14 @@ EN: Create 6 Heal orbs over non Fire orbs
 KR: Create 6 Heal orbs over non Fire orbs
 
 # 3986/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 3987/116 - Creation Routine
-Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Light Orbs to Fire Orbs & Dark Orbs to Jammers; other allies' skills charged by 2 turns
 JP: Change Light orbs to Fire orbs; Change Dark orbs to Jammer orbs; Charge all allies' skills by 2 turns
 EN: Change Light orbs to Fire orbs; Change Dark orbs to Jammer orbs; Charge all allies' skills by 2 turns
@@ -13726,14 +13726,14 @@ EN: Change Light orbs to Fire orbs; Change Dark orbs to Jammer orbs
 KR: Change Light orbs to Fire orbs; Change Dark orbs to Jammer orbs
 
 # 3989/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 3990/116 - Harmonic Feather
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to all Attributes; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
@@ -13747,7 +13747,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 3992/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -13831,7 +13831,7 @@ EN: Poison all enemies (100x ATK)
 KR: Poison all enemies (100x ATK)
 
 # 5005/116 - Kryptonite Spear
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Wood, Dark & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Wood, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Wood, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -13845,7 +13845,7 @@ EN: Change all orbs to Wood, Dark, and Heal orbs
 KR: Change all orbs to Wood, Dark, and Heal orbs
 
 # 5007/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -13873,7 +13873,7 @@ EN: Change Light orbs to Jammer orbs
 KR: Change Light orbs to Jammer orbs
 
 # 5011/116 - Purple Season
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Dark & Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Dark and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Dark and Heal orbs; Charge all allies' skills by 1 turn
@@ -13887,7 +13887,7 @@ EN: Create 3 Dark and Heal orbs
 KR: Create 3 Dark and Heal orbs
 
 # 5013/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -13957,7 +13957,7 @@ EN: Change Jammer, Poison, and Mortal Poison orbs to Water orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 5023/116 - I will show you no mercy!
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Orbs changed to Water, Light, Dark & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Water, Light, Dark, and Heal orbs; Charge all allies' skills by 1 turn
@@ -13971,14 +13971,14 @@ EN: Change all orbs to Water, Light, Dark, and Heal orbs
 KR: Change all orbs to Water, Light, Dark, and Heal orbs
 
 # 5025/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5026/116 - I'll send you to Hell!
-Tags: VOID_DAMAGE
+Tags: VOID_DAMAGE,REDUCE_SKILL_TURN
 Game: Voids damage received for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 1 turn
 EN: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 1 turn
@@ -13992,7 +13992,7 @@ EN: For 1 turn, reduce damage taken by 100%
 KR: For 1 turn, reduce damage taken by 100%
 
 # 5028/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -14706,7 +14706,7 @@ EN: For 4 turns, Light orbs are more likely to appear by 15%
 KR: For 4 turns, Light orbs are more likely to appear by 15%
 
 # 5130/116 - Dream Dragon Dance - White Cloud
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Water & Poison Orbs to Light Orbs; other allies' skills charged by 1 turn
 JP: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
@@ -14720,7 +14720,7 @@ EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs
 
 # 5132/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -14832,7 +14832,7 @@ EN: Enhance all Dark and Heal orbs
 KR: Enhance all Dark and Heal orbs
 
 # 5154/116 - Heaven-Shaking Lightning Wall
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
@@ -14846,7 +14846,7 @@ EN: For 2 turns, reduce damage taken by 75%
 KR: For 2 turns, reduce damage taken by 75%
 
 # 5156/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -14937,7 +14937,7 @@ EN: For 2 turns, 1.5x ATK for Dark Att.
 KR: For 2 turns, 1.5x ATK for Dark Att.
 
 # 5169/116 - My duel is not finished!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 1.5x ATK for Dragon Type for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
 EN: For 3 turns, 1.5x ATK for Dragon type; Charge all allies' skills by 1 turn
@@ -14951,7 +14951,7 @@ EN: For 3 turns, 1.5x ATK for Dragon type
 KR: For 3 turns, 1.5x ATK for Dragon type
 
 # 5171/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -15000,7 +15000,7 @@ EN: Reduce binds by 3 turns
 KR: Reduce binds by 3 turns
 
 # 5178/116 - Astral Blast
-Tags: GRAVITY,ADD_COMBO
+Tags: GRAVITY,REDUCE_SKILL_TURN,ADD_COMBO
 Game: Reduces enemies' HP by 40%, adds 2 combos for 1 turn; other allies' skills charged by 1 turn
 JP: Reduce enemies' HP by 40%; For 1 turn, increase combo count by 2; Charge all allies' skills by 1 turn
 EN: Reduce enemies' HP by 40%; For 1 turn, increase combo count by 2; Charge all allies' skills by 1 turn
@@ -15014,7 +15014,7 @@ EN: Reduce enemies' HP by 40%
 KR: Reduce enemies' HP by 40%
 
 # 5180/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -15028,7 +15028,7 @@ EN: For 1 turn, reduce damage taken by 8% for each Resistance-Skill Bind awakeni
 KR: For 1 turn, reduce damage taken by 8% for each Resistance-Skill Bind awakening skill on the team
 
 # 5182/116 - Earnest Mode
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Water & Poison Orbs to Jammers; other allies' skills charged by 2 turns
 JP: Change Water, Poison, and Mortal Poison orbs to Jammer orbs; Charge all allies' skills by 2 turns
 EN: Change Water, Poison, and Mortal Poison orbs to Jammer orbs; Charge all allies' skills by 2 turns
@@ -15042,7 +15042,7 @@ EN: Change Water, Poison, and Mortal Poison orbs to Jammer orbs
 KR: Change Water, Poison, and Mortal Poison orbs to Jammer orbs
 
 # 5184/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -15350,7 +15350,7 @@ EN: Deal 50x ATK Dark damage to all enemies
 KR: Deal 50x ATK Dark damage to all enemies
 
 # 5230/116 - Melting Masks
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Fire & Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Fire and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Fire and Heal orbs; Charge all allies' skills by 1 turn
@@ -15364,7 +15364,7 @@ EN: Create 3 Fire and Heal orbs
 KR: Create 3 Fire and Heal orbs
 
 # 5232/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -15413,7 +15413,7 @@ EN: Change Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 5239/116 - Sparkling Lips
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Light and Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 3 Light and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 3 Light and Heal orbs; Charge all allies' skills by 1 turn
@@ -15427,7 +15427,7 @@ EN: Create 3 Light and Heal orbs
 KR: Create 3 Light and Heal orbs
 
 # 5241/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -15525,14 +15525,14 @@ EN: Change all orbs to Fire, Water, Wood, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Dark, and Heal orbs
 
 # 5255/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5256/116 - Keeeeeeen!
-Tags: RECOVER_BIND,REMOVE_LOCK
+Tags: RECOVER_BIND,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Fully recovers bind status, removes Orb locks; other allies' skills charged by 1 turn
 JP: Remove all binds; Unlock all orbs; Charge all allies' skills by 1 turn
 EN: Remove all binds; Unlock all orbs; Charge all allies' skills by 1 turn
@@ -15546,14 +15546,14 @@ EN: Remove all binds
 KR: Remove all binds
 
 # 5258/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5259/116 - Charge of Aegis
-Tags: ENHANCED_ORBS,REMOVE_LOCK
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Wood, Light & Heal Orbs enhanced, removes Orb locks; other allies' skills charged by 1 turn
 JP: Enhance all Wood, Light, and Heal orbs; Unlock all orbs; Charge all allies' skills by 1 turn
 EN: Enhance all Wood, Light, and Heal orbs; Unlock all orbs; Charge all allies' skills by 1 turn
@@ -15567,7 +15567,7 @@ EN: Enhance all Wood, Light, and Heal orbs
 KR: Enhance all Wood, Light, and Heal orbs
 
 # 5261/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -15637,7 +15637,7 @@ EN: Enhance all Light orbs
 KR: Enhance all Light orbs
 
 # 5271/116 - Shower of Healing X
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
 Game: Fully recovers HP & bind status; other allies' skills charged by 1 turn
 JP: Recover all HP; Remove all binds; Charge all allies' skills by 1 turn
 EN: Recover all HP; Remove all binds; Charge all allies' skills by 1 turn
@@ -15651,14 +15651,14 @@ EN: Recover all HP; Remove all binds
 KR: Recover all HP; Remove all binds
 
 # 5273/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5274/116 - Sunset Zone X
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire, Water, Dark & Heal Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 2 turns
@@ -15672,7 +15672,7 @@ EN: Change all orbs to Fire, Water, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Dark, and Heal orbs
 
 # 5276/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -15833,7 +15833,7 @@ EN: Recover 30% of max HP
 KR: Recover 30% of max HP
 
 # 5333/116 - Evil Will Not Be Tolerated-TAMA!
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Heal Orbs slightly more likely to appear for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, Heal orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 EN: For 3 turns, Heal orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
@@ -15847,14 +15847,14 @@ EN: For 3 turns, Heal orbs are more likely to appear by 15%
 KR: For 3 turns, Heal orbs are more likely to appear by 15%
 
 # 5335/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5336/116 - I won't even need the push of my farts!
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Wood Orbs to Fire Orbs; other allies' skills charged by 1 turn
 JP: Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Charge all allies' skills by 1 turn
@@ -15868,7 +15868,7 @@ EN: Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 KR: Change Wood, Jammer, Poison, and Mortal Poison orbs to Fire orbs
 
 # 5338/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -16134,7 +16134,7 @@ EN: Change Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 5401/116 - Revolution Change
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire, Wood & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
@@ -16148,7 +16148,7 @@ EN: Change all orbs to Fire, Wood, and Heal orbs
 KR: Change all orbs to Fire, Wood, and Heal orbs
 
 # 5403/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -16302,7 +16302,7 @@ EN: Enhance all Dark orbs
 KR: Enhance all Dark orbs
 
 # 5425/116 - Ignis Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Fire Att. for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 2x ATK for Fire Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2x ATK for Fire Att.; Charge all allies' skills by 1 turn
@@ -16316,14 +16316,14 @@ EN: For 3 turns, 2x ATK for Fire Att.
 KR: For 3 turns, 2x ATK for Fire Att.
 
 # 5427/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5428/116 - Frost Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Water Att. for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2x ATK for Water Att.; Charge all allies' skills by 1 turn
@@ -16337,14 +16337,14 @@ EN: For 3 turns, 2x ATK for Water Att.
 KR: For 3 turns, 2x ATK for Water Att.
 
 # 5430/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5431/116 - Earth Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Wood Att. for 3 turns; other allies' skills charged by 1 turn
 JP: For 3 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
 EN: For 3 turns, 2x ATK for Wood Att.; Charge all allies' skills by 1 turn
@@ -16358,14 +16358,14 @@ EN: For 3 turns, 2x ATK for Wood Att.
 KR: For 3 turns, 2x ATK for Wood Att.
 
 # 5433/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5446/116 - Sign of Hera
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Light & Heal Orbs each at random;  other allies' skills charged by 1 turn
 JP: Create 4 Light and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Light and Heal orbs; Charge all allies' skills by 1 turn
@@ -16379,7 +16379,7 @@ EN: Create 4 Light and Heal orbs
 KR: Create 4 Light and Heal orbs
 
 # 5448/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -16498,7 +16498,7 @@ EN: For 1 turn, increase combo count by 1
 KR: For 1 turn, increase combo count by 1
 
 # 5466/116 - Divine Luckbringer
-Tags: ADD_COMBO
+Tags: REDUCE_SKILL_TURN,ADD_COMBO
 Game: Adds 1 combo for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, increase combo count by 1; Charge all allies' skills by 1 turn
 EN: For 1 turn, increase combo count by 1; Charge all allies' skills by 1 turn
@@ -16512,14 +16512,14 @@ EN: For 1 turn, increase combo count by 1
 KR: For 1 turn, increase combo count by 1
 
 # 5468/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 5469/116 - Divine Reckoning
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Light Att. for 3 turns; other allies' skills charged by 2 turns
 JP: For 3 turns, 2x ATK for Light Att.; Charge all allies' skills by 2 turns
 EN: For 3 turns, 2x ATK for Light Att.; Charge all allies' skills by 2 turns
@@ -16533,14 +16533,14 @@ EN: For 3 turns, 2x ATK for Light Att.
 KR: For 3 turns, 2x ATK for Light Att.
 
 # 5471/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 5472/116 - Divine Blessing
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2x ATK for Dark Att. for 3 turns; other allies' skills charged by 2 turns
 JP: For 3 turns, 2x ATK for Dark Att.; Charge all allies' skills by 2 turns
 EN: For 3 turns, 2x ATK for Dark Att.; Charge all allies' skills by 2 turns
@@ -16554,7 +16554,7 @@ EN: For 3 turns, 2x ATK for Dark Att.
 KR: For 3 turns, 2x ATK for Dark Att.
 
 # 5474/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -16589,7 +16589,7 @@ EN: Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Heal orbs
 
 # 5479/116 - Dragon Song - The Sea Deity
-Tags: POISON
+Tags: POISON,REDUCE_SKILL_TURN
 Game: Critically poisons all enemies; other allies' skills charged by 1 turn
 JP: Poison all enemies (8x ATK); Charge all allies' skills by 1 turn
 EN: Poison all enemies (8x ATK); Charge all allies' skills by 1 turn
@@ -16603,7 +16603,7 @@ EN: Poison all enemies (8x ATK)
 KR: Poison all enemies (8x ATK)
 
 # 5481/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -16666,7 +16666,7 @@ EN: For 1 turn, increase orb move time by -1 seconds
 KR: For 1 turn, increase orb move time by -1 seconds
 
 # 5494/116 - Pumpkin Season
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Changes 6 non-Dark Orbs into Heal Orbs; other allies' skills charged by 1 turn
 JP: Create 6 Heal orbs over non Dark orbs; Charge all allies' skills by 1 turn
 EN: Create 6 Heal orbs over non Dark orbs; Charge all allies' skills by 1 turn
@@ -16680,7 +16680,7 @@ EN: Create 6 Heal orbs over non Dark orbs
 KR: Create 6 Heal orbs over non Dark orbs
 
 # 5496/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -17303,7 +17303,7 @@ EN: Change Wood orbs to Fire orbs
 KR: Change Wood orbs to Fire orbs
 
 # 6774/116 - Gemini Star Road
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column to Light Orbs & rightmost to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Light orbs and change the far right column to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Light orbs and change the far right column to Dark orbs; Charge all allies' skills by 1 turn
@@ -17317,7 +17317,7 @@ EN: Change the far left column to Light orbs and change the far right column to 
 KR: Change the far left column to Light orbs and change the far right column to Dark orbs
 
 # 6776/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -17387,7 +17387,7 @@ EN: For 1 turn, 1.5x ATK for God and Attacker types
 KR: For 1 turn, 1.5x ATK for God and Attacker types
 
 # 6798/116 - Get set for lots of special goodies!
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire, Wood & Light Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Wood, and Light orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Wood, and Light orbs; Charge all allies' skills by 2 turns
@@ -17401,7 +17401,7 @@ EN: Change all orbs to Fire, Wood, and Light orbs
 KR: Change all orbs to Fire, Wood, and Light orbs
 
 # 6800/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -17492,7 +17492,7 @@ EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
 # 6889/116 - Wild Wind
-Tags: VOID_DAMAGE_ABSORBS
+Tags: REDUCE_SKILL_TURN,VOID_DAMAGE_ABSORBS
 Game: Voids damage absorption for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
 EN: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 1 turn
@@ -17506,7 +17506,7 @@ EN: For 1 turn, bypass damage absorb shield effects
 KR: For 1 turn, bypass damage absorb shield effects
 
 # 6891/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -17541,7 +17541,7 @@ EN: For 1 turn, increase ATK by 15% for each Enhanced Wood Orbs and Enhanced Lig
 KR: For 1 turn, increase ATK by 15% for each Enhanced Wood Orbs and Enhanced Light Orbs awakening skill on the team
 
 # 6911/116 - All that shall remain... is Evil!!
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the outermost columns to Dark Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
@@ -17555,14 +17555,14 @@ EN: Change the far left column and the far right column to Dark orbs
 KR: Change the far left column and the far right column to Dark orbs
 
 # 6913/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 6928/116 - God Tree's Sacred Arrow
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column to Light & rightmost column to Wood; other allies' skills charged by 1 turn
 JP: Change the far left column to Light orbs and change the far right column to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Light orbs and change the far right column to Wood orbs; Charge all allies' skills by 1 turn
@@ -17576,7 +17576,7 @@ EN: Change the far left column to Light orbs and change the far right column to 
 KR: Change the far left column to Light orbs and change the far right column to Wood orbs
 
 # 6930/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -17611,7 +17611,7 @@ EN: For 3 turns, reduce enemies' defense by 100%
 KR: For 3 turns, reduce enemies' defense by 100%
 
 # 6960/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -17639,7 +17639,7 @@ EN: For 2 turns, increase ATK by 30% for each Enhanced Light Att. awakening skil
 KR: For 2 turns, increase ATK by 30% for each Enhanced Light Att. awakening skill on the team
 
 # 6988/116 - Akane's MY fiancée!!
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Fire & Water Orbs each at random;  other allies' skills charged by 1 turn
 JP: Create 4 Fire and Water orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Fire and Water orbs; Charge all allies' skills by 1 turn
@@ -17653,7 +17653,7 @@ EN: Create 4 Fire and Water orbs
 KR: Create 4 Fire and Water orbs
 
 # 6990/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -17730,7 +17730,7 @@ EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
 KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
 
 # 7016/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -18010,7 +18010,7 @@ EN: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 7218/116 - The Dragonband Compliant Rod
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Water Orbs to Light & Dark Orbs to Heal; other allies' skills charged by 1 turn
 JP: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs; Charge all allies' skills by 1 turn
@@ -18024,7 +18024,7 @@ EN: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs
 KR: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs
 
 # 7220/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -18262,35 +18262,35 @@ EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs
 
 # 7356/116 - Nerva Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 5x ATK for Fire Att. for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, 5x ATK for Fire Att.; Charge all allies' skills by 2 turns
 EN: For 1 turn, 5x ATK for Fire Att.; Charge all allies' skills by 2 turns
 KR: For 1 turn, 5x ATK for Fire Att.; Charge all allies' skills by 2 turns
 
 # 7360/116 - Mercuria Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 5x ATK for Water Att. for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, 5x ATK for Water Att.; Charge all allies' skills by 2 turns
 EN: For 1 turn, 5x ATK for Water Att.; Charge all allies' skills by 2 turns
 KR: For 1 turn, 5x ATK for Water Att.; Charge all allies' skills by 2 turns
 
 # 7364/116 - Bacches Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 5x ATK for Wood Att. for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, 5x ATK for Wood Att.; Charge all allies' skills by 2 turns
 EN: For 1 turn, 5x ATK for Wood Att.; Charge all allies' skills by 2 turns
 KR: For 1 turn, 5x ATK for Wood Att.; Charge all allies' skills by 2 turns
 
 # 7368/116 - Apolluo Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 5x ATK for Light Att. for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, 5x ATK for Light Att.; Charge all allies' skills by 2 turns
 EN: For 1 turn, 5x ATK for Light Att.; Charge all allies' skills by 2 turns
 KR: For 1 turn, 5x ATK for Light Att.; Charge all allies' skills by 2 turns
 
 # 7372/116 - Diena Enhancement
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 5x ATK for Dark Att. for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, 5x ATK for Dark Att.; Charge all allies' skills by 2 turns
 EN: For 1 turn, 5x ATK for Dark Att.; Charge all allies' skills by 2 turns
@@ -18423,7 +18423,7 @@ EN: Create 2 Heal orbs over non Light orbs
 KR: Create 2 Heal orbs over non Light orbs
 
 # 7412/116 - Child of the Meteor
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Wood & Light Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 4 Wood and Light orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Wood and Light orbs; Charge all allies' skills by 1 turn
@@ -18437,14 +18437,14 @@ EN: Create 4 Wood and Light orbs
 KR: Create 4 Wood and Light orbs
 
 # 7414/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7421/116 - Inversion - Green Life
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Creates 4 Wood & Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: Create 4 Wood and Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 4 Wood and Heal orbs; Charge all allies' skills by 1 turn
@@ -18458,14 +18458,14 @@ EN: Create 4 Wood and Heal orbs
 KR: Create 4 Wood and Heal orbs
 
 # 7423/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7430/116 - Blaze Vision
-Tags: DROP_CHANCE
+Tags: DROP_CHANCE,REDUCE_SKILL_TURN
 Game: Fire Orbs more likely to appear for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, Fire orbs are more likely to appear by 25%; Charge all allies' skills by 1 turn
 EN: For 1 turn, Fire orbs are more likely to appear by 25%; Charge all allies' skills by 1 turn
@@ -18479,14 +18479,14 @@ EN: For 1 turn, Fire orbs are more likely to appear by 25%
 KR: For 1 turn, Fire orbs are more likely to appear by 25%
 
 # 7432/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7436/116 - Abyssal Vision
-Tags: EXTENDS_TIME
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN
 Game: Extends Orb move time 3x for 1 turn;  other allies' skills charged by 1 turn
 JP: For 1 turn, 3x orb move time; Charge all allies' skills by 1 turn
 EN: For 1 turn, 3x orb move time; Charge all allies' skills by 1 turn
@@ -18500,14 +18500,14 @@ EN: For 1 turn, 3x orb move time
 KR: For 1 turn, 3x orb move time
 
 # 7438/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7442/116 - Chameleonic Vision
-Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Light Orbs to Wood & Water Orbs to Poison; other allies' skills charged by 1 turn
 JP: Change Light orbs to Wood orbs; Change Water orbs to Poison orbs; Charge all allies' skills by 1 turn
 EN: Change Light orbs to Wood orbs; Change Water orbs to Poison orbs; Charge all allies' skills by 1 turn
@@ -18521,14 +18521,14 @@ EN: Change Light orbs to Wood orbs; Change Water orbs to Poison orbs
 KR: Change Light orbs to Wood orbs; Change Water orbs to Poison orbs
 
 # 7444/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7448/116 - Shining Vision
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Changes 5 non-Heal Orbs to Light Orbs;  other allies' skills charged by 1 turn
 JP: Create 5 Light orbs over non Heal orbs; Charge all allies' skills by 1 turn
 EN: Create 5 Light orbs over non Heal orbs; Charge all allies' skills by 1 turn
@@ -18542,14 +18542,14 @@ EN: Create 5 Light orbs over non Heal orbs
 KR: Create 5 Light orbs over non Heal orbs
 
 # 7450/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 7454/116 - Hellblaze Vision
-Tags: GUARD_STANCE,ORB_CONVERT
+Tags: GUARD_STANCE,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Wood Orbs to Heal Orbs; other allies' skills charged by 1 turn
 JP: Change Wood orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Wood orbs to Heal orbs; Charge all allies' skills by 1 turn
@@ -18563,7 +18563,7 @@ EN: Change Wood orbs to Heal orbs
 KR: Change Wood orbs to Heal orbs
 
 # 7456/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -18766,7 +18766,7 @@ EN: Reduce binds by 5 turns
 KR: Reduce binds by 5 turns
 
 # 7545/116 - In the name of Yakumo, I command you!
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the left columns to Water & the right one to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Water orbs and change the far right column to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Water orbs and change the far right column to Wood orbs; Charge all allies' skills by 1 turn
@@ -18780,7 +18780,7 @@ EN: Change the far left column to Water orbs and change the far right column to 
 KR: Change the far left column to Water orbs and change the far right column to Wood orbs
 
 # 7547/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -19102,7 +19102,7 @@ EN: For 1 turn, 5x ATK for Dark Att.
 KR: For 1 turn, 5x ATK for Dark Att.
 
 # 7659/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -19137,7 +19137,7 @@ EN: For 1 turn, increase orb move time by 1 second
 KR: For 1 turn, increase orb move time by 1 second
 
 # 7664/116 - Alighting Madness
-Tags: ADD_COMBO
+Tags: REDUCE_SKILL_TURN,ADD_COMBO
 Game: Adds 2 combos for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, increase combo count by 2; Charge all allies' skills by 2 turns
 EN: For 1 turn, increase combo count by 2; Charge all allies' skills by 2 turns
@@ -19151,7 +19151,7 @@ EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
 # 7666/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -19886,14 +19886,14 @@ EN: Poison all enemies (50x ATK)
 KR: Poison all enemies (50x ATK)
 
 # 8010/116 - Tail Slam
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 1 turn; changes the 2nd column from the left to Dark Orbs
 JP: Charge all allies' skills by 1 turn; Change the 2nd column from the left to Dark orbs
 EN: Charge all allies' skills by 1 turn; Change the 2nd column from the left to Dark orbs
 KR: Charge all allies' skills by 1 turn; Change the 2nd column from the left to Dark orbs
 
 # 8011/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -19942,7 +19942,7 @@ EN: For 1 turn, increase combo count by 1
 KR: For 1 turn, increase combo count by 1
 
 # 8024/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 0 turns
 EN: Charge all allies' skills by 0 turns
@@ -19963,7 +19963,7 @@ EN: For 2 turns, increase ATK by 50% for each Dragon Killer awakening skill on t
 KR: For 2 turns, increase ATK by 50% for each Dragon Killer awakening skill on the team
 
 # 8030/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 0 turns
 EN: Charge all allies' skills by 0 turns
@@ -19984,7 +19984,7 @@ EN: For 3 turns, increase combo count by 1
 KR: For 3 turns, increase combo count by 1
 
 # 8036/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 0 turns
 EN: Charge all allies' skills by 0 turns
@@ -20572,7 +20572,7 @@ EN: Change all orbs to Fire orbs
 KR: Change all orbs to Fire orbs
 
 # 8326/116 - Fireworks Extravaganza
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire orbs; Charge all allies' skills by 1 turn
@@ -20586,7 +20586,7 @@ EN: Change all orbs to Fire orbs
 KR: Change all orbs to Fire orbs
 
 # 8328/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -21188,7 +21188,7 @@ EN: For 0 turns, increase combo count by 0
 KR: For 0 turns, increase combo count by 0
 
 # 8559/116 - Valiant Wanderer
-Tags: EXTENDS_TIME
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN
 Game: 3x Orb move time for 1 turn; other allies' skills charged by 3 turns
 JP: For 1 turn, 3x orb move time; Charge all allies' skills by 3 turns
 EN: For 1 turn, 3x orb move time; Charge all allies' skills by 3 turns
@@ -21202,7 +21202,7 @@ EN: For 1 turn, 3x orb move time
 KR: For 1 turn, 3x orb move time
 
 # 8561/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
@@ -21412,7 +21412,7 @@ EN: Deal 2000 fixed damage to all enemies
 KR: Deal 2000 fixed damage to all enemies
 
 # 8827/118 - Vacation REM Power
-Tags: ATTACK_STANCE,STOP_TIME,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,VOID_ATT_ABSORBS,ETC
+Tags: ATTACK_STANCE,STOP_TIME,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,REDUCE_SKILL_TURN,VOID_ATT_ABSORBS,ETC
 Game: Activates a random skill
 JP: Activate a random skill from the list: 1) Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns, 2) Create 7 Heal orbs over non Water orbs; Freely move orbs for 12 seconds, 3) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 4 turns, Water orbs are more likely to appear by 15%, 4) Change all orbs to Water, Wood, and Light orbs, 5) For 3 turns, Heal orbs are more likely to appear by 15%, and 6) For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
 EN: Activate a random skill from the list: 1) Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns, 2) Create 7 Heal orbs over non Water orbs; Freely move orbs for 12 seconds, 3) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 4 turns, Water orbs are more likely to appear by 15%, 4) Change all orbs to Water, Wood, and Light orbs, 5) For 3 turns, Heal orbs are more likely to appear by 15%, and 6) For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
@@ -22042,7 +22042,7 @@ EN: Change all orbs to Fire, Water, and Heal orbs
 KR: Change all orbs to Fire, Water, and Heal orbs
 
 # 9059/116 - Beautiful Plant
-Tags: ORB_CONVERT
+Tags: ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Dark & Poison Orbs to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Charge all allies' skills by 1 turn
@@ -22056,7 +22056,7 @@ EN: Change Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 9061/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -22126,7 +22126,7 @@ EN: Create 7 Fire orbs
 KR: Create 7 Fire orbs
 
 # 9083/116 - Fever Fang
-Tags: CHANGE_ENEMIES_ATTRIBUTE
+Tags: REDUCE_SKILL_TURN,CHANGE_ENEMIES_ATTRIBUTE
 Game: All enemies' Att. change to Fire (ignores barriers); other allies' skills charged by 1 turn
 JP: Change all enemies to Fire Att.; Charge all allies' skills by 1 turn
 EN: Change all enemies to Fire Att.; Charge all allies' skills by 1 turn
@@ -22140,7 +22140,7 @@ EN: Change all enemies to Fire Att.
 KR: Change all enemies to Fire Att.
 
 # 9085/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -22238,7 +22238,7 @@ EN: Create 12 Dark orbs; For 1 turn, 3x orb move time
 KR: Create 12 Dark orbs; For 1 turn, 3x orb move time
 
 # 9147/118 - Fabled Rebirth
-Tags: ORB_CONVERT,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,ORB_REFRESH,ADD_COMBO,ETC
+Tags: ORB_CONVERT,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,ORB_REFRESH,ADD_COMBO,ETC
 Game: Activates a random skill
 JP: Activate a random skill from the list: 1) Charge all allies' skills by 1 turn; Replace all orbs, 2) Change the far right column to Fire orbs; Charge all allies' skills by 1 turn, 3) For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs, and 4) Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Activate a random skill from the list: 1) Charge all allies' skills by 1 turn; Replace all orbs, 2) Change the far right column to Fire orbs; Charge all allies' skills by 1 turn, 3) For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs, and 4) Change all orbs to Fire, Wood, and Heal orbs; Charge all allies' skills by 1 turn
@@ -22294,7 +22294,7 @@ EN: Change all orbs to Water, Dark, and Heal orbs
 KR: Change all orbs to Water, Dark, and Heal orbs
 
 # 9237/118 - Halloween REM Power
-Tags: REDUCE_DAMAGE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,RECOVER_BIND,LINE_ORBS_CONVERTER,ADD_COMBO,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ETC
+Tags: REDUCE_DAMAGE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ALL_ORBS_CONVERT,RECOVER_BIND,LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,ADD_COMBO,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ETC
 Game: Activates a random skill
 JP: Activate a random skill from the list: 1) Change all orbs to Water and Dark orbs; Charge all allies' skills by 2 turns, 2) Change the bottom row to Dark orbs, 3) Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn, 4) Create 6 Heal orbs over non Dark orbs; Charge all allies' skills by 1 turn, 5) Change the top row to Poison orbs; For 1 turn, reduce damage taken by 50%, 6) Change Wood orbs to Dark orbs, 7) Recover all HP; Change all orbs to Wood, Dark, and Heal orbs, and 8) For 1 turn, increase combo count by 2; Change all orbs to Water, Dark, and Heal orbs
 EN: Activate a random skill from the list: 1) Change all orbs to Water and Dark orbs; Charge all allies' skills by 2 turns, 2) Change the bottom row to Dark orbs, 3) Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn, 4) Create 6 Heal orbs over non Dark orbs; Charge all allies' skills by 1 turn, 5) Change the top row to Poison orbs; For 1 turn, reduce damage taken by 50%, 6) Change Wood orbs to Dark orbs, 7) Recover all HP; Change all orbs to Wood, Dark, and Heal orbs, and 8) For 1 turn, increase combo count by 2; Change all orbs to Water, Dark, and Heal orbs
@@ -22555,7 +22555,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 9412/116 - You look like you could use a hand.
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN
 Game: Changes Wood & Dark Orbs to Fire Orbs, Fire Orbs enhanced; other allies' skills charged by 1 turn
 JP: Change Wood and Dark orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Wood and Dark orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
@@ -22576,7 +22576,7 @@ EN: Enhance all Fire orbs
 KR: Enhance all Fire orbs
 
 # 9415/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -22877,7 +22877,7 @@ EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
 # 9518/116 - Voice of Madness
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Voids enemies' DEF for 2 turns; other allies' skills charged by 2 turns
 JP: For 2 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
 EN: For 2 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
@@ -22891,7 +22891,7 @@ EN: For 2 turns, reduce enemies' defense by 100%
 KR: For 2 turns, reduce enemies' defense by 100%
 
 # 9520/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -23010,7 +23010,7 @@ EN: For 2 turns, Fire orbs are more likely to appear by 15%
 KR: For 2 turns, Fire orbs are more likely to appear by 15%
 
 # 9565/116 - Chew on this!
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to Fire & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire and Heal orbs; Charge all allies' skills by 1 turn
@@ -23024,7 +23024,7 @@ EN: Change all orbs to Fire and Heal orbs
 KR: Change all orbs to Fire and Heal orbs
 
 # 9567/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -24221,7 +24221,7 @@ EN: For 1 turn, 2x orb move time
 KR: For 1 turn, 2x orb move time
 
 # 9992/116 - Cosmic Charge - Flare
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Fire Orbs; Fire Orbs enhanced, other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Enhance all Fire orbs; Charge all allies' skills by 1 turn
@@ -24242,14 +24242,14 @@ EN: Enhance all Fire orbs
 KR: Enhance all Fire orbs
 
 # 9995/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 10000/116 - Cosmic Charge - Aqua
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Water Orbs; Water Orbs enhanced, other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Enhance all Water orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; Enhance all Water orbs; Charge all allies' skills by 1 turn
@@ -24270,14 +24270,14 @@ EN: Enhance all Water orbs
 KR: Enhance all Water orbs
 
 # 10003/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 10008/116 - Cosmic Charge - Land
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Wood Orbs, Wood Orbs enhanced; other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all Wood orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all Wood orbs; Charge all allies' skills by 1 turn
@@ -24298,14 +24298,14 @@ EN: Enhance all Wood orbs
 KR: Enhance all Wood orbs
 
 # 10011/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 10016/116 - Cosmic Charge - Light
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Light Orbs; Light Orbs enhanced, other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Enhance all Light orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Enhance all Light orbs; Charge all allies' skills by 1 turn
@@ -24326,14 +24326,14 @@ EN: Enhance all Light orbs
 KR: Enhance all Light orbs
 
 # 10019/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 10024/116 - Cosmic Charge - Dark
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Jammers, Poison & Heal Orbs to Dark Orbs; Dark Orbs enhanced, other allies' skills charged by 1 turn
 JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Enhance all Dark orbs; Charge all allies' skills by 1 turn
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Enhance all Dark orbs; Charge all allies' skills by 1 turn
@@ -24354,7 +24354,7 @@ EN: Enhance all Dark orbs
 KR: Enhance all Dark orbs
 
 # 10027/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -24417,7 +24417,7 @@ EN: Change all orbs to Wood and Dark orbs
 KR: Change all orbs to Wood and Dark orbs
 
 # 10046/116 - Magnum Tornado
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire, Water, Light & Heal Orbs; other allies' skills charged by 1 turn
 JP: Change all orbs to Fire, Water, Light, and Heal orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Fire, Water, Light, and Heal orbs; Charge all allies' skills by 1 turn
@@ -24431,7 +24431,7 @@ EN: Change all orbs to Fire, Water, Light, and Heal orbs
 KR: Change all orbs to Fire, Water, Light, and Heal orbs
 
 # 10048/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -24620,7 +24620,7 @@ EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs; Show 
 KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs; Show path to 3 combos
 
 # 10140/116 - Dark Sun Crown
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Orbs to all Attributes & Heal; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Charge all allies' skills by 2 turns
@@ -24634,7 +24634,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 10142/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -24662,14 +24662,14 @@ EN: For 1 turn, increase orb move time by 2 seconds
 KR: For 1 turn, increase orb move time by 2 seconds
 
 # 10165/116 - Spirit Gun
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Other allies' skills charged by 1 turn; removes locks and changes all Orbs to Water & Light Orbs
 JP: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs
 EN: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs
 KR: Charge all allies' skills by 1 turn; Unlock all orbs; Change all orbs to Water and Light orbs
 
 # 10166/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -25159,7 +25159,7 @@ EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
 # 10336/116 - Secret Record
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 2.5x ATK for Dark & Wood Att. for 3 turns; other allies' skills charged by 2 turns
 JP: For 3 turns, 2.5x ATK for Dark, Wood Att.; Charge all allies' skills by 2 turns
 EN: For 3 turns, 2.5x ATK for Dark, Wood Att.; Charge all allies' skills by 2 turns
@@ -25173,7 +25173,7 @@ EN: For 3 turns, 2.5x ATK for Dark, Wood Att.
 KR: For 3 turns, 2.5x ATK for Dark, Wood Att.
 
 # 10338/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -26328,7 +26328,7 @@ EN: Change all orbs to Light, Heal, and Jammer orbs
 KR: Change all orbs to Light, Heal, and Jammer orbs
 
 # 10799/116 - Hour of Devastation
-Tags: VOID_DAMAGE
+Tags: VOID_DAMAGE,REDUCE_SKILL_TURN
 Game: Voids damage for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 2 turns
 EN: For 1 turn, reduce damage taken by 100%; Charge all allies' skills by 2 turns
@@ -26342,14 +26342,14 @@ EN: For 1 turn, reduce damage taken by 100%
 KR: For 1 turn, reduce damage taken by 100%
 
 # 10801/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 10808/116 - Tinker
-Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 50% of max HP, fully recovers bind status (incl. Awoken); other allies' skills charged by 1 turn
 JP: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
 EN: Recover 50% of max HP; Remove all binds and awoken skill binds; Charge all allies' skills by 1 turn
@@ -26363,7 +26363,7 @@ EN: Recover 50% of max HP; Remove all binds and awoken skill binds
 KR: Recover 50% of max HP; Remove all binds and awoken skill binds
 
 # 10810/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -26573,7 +26573,7 @@ EN: For 2 turns, recover 30% of max HP
 KR: For 2 turns, recover 30% of max HP
 
 # 10885/146 - Board the Weatherlight
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 1 to 3 turns
 JP: Charge all allies' skills by 1~3 turns
 EN: Charge all allies' skills by 1~3 turns
@@ -26769,7 +26769,7 @@ EN: Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
 KR: Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
 
 # 10954/116 - Nasty Darkness
-Tags: HEAL
+Tags: HEAL,REDUCE_SKILL_TURN
 Game: Recovers 40% of max HP for 6 turns; other allies' skills charged by 1 turn
 JP: For 6 turns, recover 40% of max HP; Charge all allies' skills by 1 turn
 EN: For 6 turns, recover 40% of max HP; Charge all allies' skills by 1 turn
@@ -26783,14 +26783,14 @@ EN: For 6 turns, recover 40% of max HP
 KR: For 6 turns, recover 40% of max HP
 
 # 10956/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
 # 10988/116 - Mighty Roar
-Tags: FIXED_DAMAGE
+Tags: FIXED_DAMAGE,REDUCE_SKILL_TURN
 Game: Inflicts 200,000 damage on all enemies; other allies' skills charged by 2 turns
 JP: Deal 200000 fixed damage to all enemies; Charge all allies' skills by 2 turns
 EN: Deal 200000 fixed damage to all enemies; Charge all allies' skills by 2 turns
@@ -26867,14 +26867,14 @@ EN: Deal 200000 fixed damage to all enemies
 KR: Deal 200000 fixed damage to all enemies
 
 # 11007/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
 # 11008/116 - Departing Light
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Light Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Light orbs; Charge all allies' skills by 2 turns
@@ -26888,7 +26888,7 @@ EN: Change all orbs to Light orbs
 KR: Change all orbs to Light orbs
 
 # 11010/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -27147,7 +27147,7 @@ EN: Delay enemies' next attack by 2 turns
 KR: Delay enemies' next attack by 2 turns
 
 # 11112/116 - Rice Ball Roulette
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Changes 5 non-Fire Orbs to Heal Orbs; other allies' skills charged by 1 to 2 turns
 JP: Create 5 Heal orbs over non Fire orbs; Charge all allies' skills by 1~2 turns
 EN: Create 5 Heal orbs over non Fire orbs; Charge all allies' skills by 1~2 turns
@@ -27161,7 +27161,7 @@ EN: Create 5 Heal orbs over non Fire orbs
 KR: Create 5 Heal orbs over non Fire orbs
 
 # 11114/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1~2 turns
 EN: Charge all allies' skills by 1~2 turns
@@ -28015,7 +28015,7 @@ EN: Change all orbs to Light and Dark orbs
 KR: Change all orbs to Light and Dark orbs
 
 # 11388/116 - Inferno Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row to Fire Orbs and the bottom row to Jammers; other allies' skills charged by 1 turn
 JP: Change the top row to Fire orbs and change the bottom row to Jammer orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Fire orbs and change the bottom row to Jammer orbs; Charge all allies' skills by 1 turn
@@ -28029,7 +28029,7 @@ EN: Change the top row to Fire orbs and change the bottom row to Jammer orbs
 KR: Change the top row to Fire orbs and change the bottom row to Jammer orbs
 
 # 11390/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -28099,7 +28099,7 @@ EN: Change all orbs to Wood and Dark orbs
 KR: Change all orbs to Wood and Dark orbs
 
 # 11416/116 - I'm gonna purge all
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 3x ATK for Light & Dark Att. for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, 3x ATK for Light, Dark Att.; Charge all allies' skills by 1 turn
 EN: For 2 turns, 3x ATK for Light, Dark Att.; Charge all allies' skills by 1 turn
@@ -28113,7 +28113,7 @@ EN: For 2 turns, 3x ATK for Light, Dark Att.
 KR: For 2 turns, 3x ATK for Light, Dark Att.
 
 # 11418/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -30318,14 +30318,14 @@ EN: Freely move orbs for 10 seconds
 KR: Freely move orbs for 10 seconds
 
 # 12131/116 - Heaven, Earth, and humanity calls for me!
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 2 turns; creates 8 Light Orbs at random
 JP: Charge all allies' skills by 2 turns; Create 8 Light orbs
 EN: Charge all allies' skills by 2 turns; Create 8 Light orbs
 KR: Charge all allies' skills by 2 turns; Create 8 Light orbs
 
 # 12132/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -31445,7 +31445,7 @@ EN: Change the top row to Dark orbs and change the bottom row to Light orbs
 KR: Change the top row to Dark orbs and change the bottom row to Light orbs
 
 # 12463/116 - Trace On!
-Tags: ENHANCED_ORBS,ADD_COMBO
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN,ADD_COMBO
 Game: Other allies' skills charged by 1 to 2 turns; adds 3 combos for 1 turn, all Orbs enhanced
 JP: Charge all allies' skills by 1~2 turns; For 1 turn, increase combo count by 3; Enhance all orbs
 EN: Charge all allies' skills by 1~2 turns; For 1 turn, increase combo count by 3; Enhance all orbs
@@ -31466,7 +31466,7 @@ EN: For 1 turn, increase combo count by 3
 KR: For 1 turn, increase combo count by 3
 
 # 12466/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1~2 turns
 EN: Charge all allies' skills by 1~2 turns
@@ -31732,7 +31732,7 @@ EN: Change the far left column and the far right column to Dark orbs
 KR: Change the far left column and the far right column to Dark orbs
 
 # 12552/116 - Your wish will at last come true.
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire, Light & Dark Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Light, and Dark orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Light, and Dark orbs; Charge all allies' skills by 2 turns
@@ -31746,7 +31746,7 @@ EN: Change all orbs to Fire, Light, and Dark orbs
 KR: Change all orbs to Fire, Light, and Dark orbs
 
 # 12554/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -32929,7 +32929,7 @@ EN: Create a square of Light orbs with its center at the 2nd row from the top an
 KR: Create a square of Light orbs with its center at the 2nd row from the top and the 2nd column from the left
 
 # 12950/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -33664,7 +33664,7 @@ EN: Change Water and Dark orbs to Wood orbs
 KR: Change Water and Dark orbs to Wood orbs
 
 # 13203/116 - Check this out.
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: Pierce through enemy's damage void for 2 turns; other allies' skills charged by 2 turns
 JP: For 2 turns, bypass void damage shield effects; Charge all allies' skills by 2 turns
 EN: For 2 turns, bypass void damage shield effects; Charge all allies' skills by 2 turns
@@ -33678,7 +33678,7 @@ EN: For 2 turns, bypass void damage shield effects
 KR: For 2 turns, bypass void damage shield effects
 
 # 13205/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -33818,7 +33818,7 @@ EN: Create 1 Dark orb over non Light orbs
 KR: Create 1 Dark orb over non Light orbs
 
 # 13243/116 - Ultimate Warlord
-Tags: ENHANCED_ORBS
+Tags: ENHANCED_ORBS,REDUCE_SKILL_TURN
 Game: All Orbs enhanced; other allies' skills charged by 3 turns
 JP: Enhance all orbs; Charge all allies' skills by 3 turns
 EN: Enhance all orbs; Charge all allies' skills by 3 turns
@@ -33832,7 +33832,7 @@ EN: Enhance all orbs
 KR: Enhance all orbs
 
 # 13245/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
@@ -33930,7 +33930,7 @@ EN: Create 3 Fire, Water, Wood, Light, and Dark orbs over non  orbs
 KR: Create 3 Fire, Water, Wood, Light, and Dark orbs over non  orbs
 
 # 13280/116 - Wanna dance punk?
-Tags: SINGLE_TARGET_ATTACK
+Tags: SINGLE_TARGET_ATTACK,REDUCE_SKILL_TURN
 Game: Dark attack of 80x team's Dark & Wood ATK on 1 enemy; other allies' skills charged by 1 turn
 JP: Deal Dark damage equal to 80x of team's total Wood and Dark ATK to an enemy; Charge all allies' skills by 1 turn
 EN: Deal Dark damage equal to 80x of team's total Wood and Dark ATK to an enemy; Charge all allies' skills by 1 turn
@@ -33944,7 +33944,7 @@ EN: Deal Dark damage equal to 80x of team's total Wood and Dark ATK to an enemy
 KR: Deal Dark damage equal to 80x of team's total Wood and Dark ATK to an enemy
 
 # 13282/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -34252,7 +34252,7 @@ EN: Deal 200x Wood damage to an enemy
 KR: Deal 200x Wood damage to an enemy
 
 # 13350/116 - Got a problem with it?
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Wood & Dark Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Wood and Dark orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Wood and Dark orbs; Charge all allies' skills by 2 turns
@@ -34266,7 +34266,7 @@ EN: Change all orbs to Wood and Dark orbs
 KR: Change all orbs to Wood and Dark orbs
 
 # 13352/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -34343,7 +34343,7 @@ EN: Create 5 Light and Dark orbs
 KR: Create 5 Light and Dark orbs
 
 # 13375/116 - You passed the test.
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the 2nd row from the top to Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the 2nd row from the top to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the 2nd row from the top to Wood orbs; Charge all allies' skills by 1 turn
@@ -34357,7 +34357,7 @@ EN: Change the 2nd row from the top to Wood orbs
 KR: Change the 2nd row from the top to Wood orbs
 
 # 13377/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -35323,7 +35323,7 @@ EN: Change all orbs to Water and Wood orbs
 KR: Change all orbs to Water and Wood orbs
 
 # 13696/116 - 彼らの死を利用するな
-Tags: ORB_CONVERT,SUICIDE,REMOVE_LOCK
+Tags: ORB_CONVERT,SUICIDE,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: HPが50％減るが、自分以外の味方スキルが1ターン溜まる。 全ドロップのロックを解除し、火ドロップを水ドロップに変化。
 JP: Reduce HP by 50%; Charge all allies' skills by 1 turn; Unlock all orbs; Change Fire orbs to Water orbs
 EN: Reduce HP by 50%; Charge all allies' skills by 1 turn; Unlock all orbs; Change Fire orbs to Water orbs
@@ -35337,7 +35337,7 @@ EN: Reduce HP by 50%
 KR: Reduce HP by 50%
 
 # 13698/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -35365,7 +35365,7 @@ EN: For 2 turns, increase ATK by 30% for each 80% or more HP Enhanced awakening 
 KR: For 2 turns, increase ATK by 30% for each 80% or more HP Enhanced awakening skill on the team
 
 # 13705/116 - とにかく移動するぞ
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: 全ドロップを火、水、木、闇ドロップに変化。 自分以外の味方スキルが2ターン溜まる。
 JP: Change all orbs to Fire, Water, Wood, and Dark orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Water, Wood, and Dark orbs; Charge all allies' skills by 2 turns
@@ -35407,7 +35407,7 @@ EN: Change all orbs to Fire, Water, Wood, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, and Dark orbs
 
 # 13722/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -35533,7 +35533,7 @@ EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13767/118 - The Power of Wishes
-Tags: ENHANCED_ATTACK,MENACE,VOID_DAMAGE,EXTENDS_TIME,ETC
+Tags: ENHANCED_ATTACK,MENACE,VOID_DAMAGE,EXTENDS_TIME,REDUCE_SKILL_TURN,ETC
 Game: Wonderful things will happen
 JP: Activate a random skill from the list: 1) Delay enemies' next attack by 4 turns, 2) For 4 turns, 4x orb move time, 3) Charge all allies' skills by 2~4 turns, 4) For 1 turn, reduce damage taken by 100%, and 5) For 1 turn, 4x ATK for Wood, Light Att.
 EN: Activate a random skill from the list: 1) Delay enemies' next attack by 4 turns, 2) For 4 turns, 4x orb move time, 3) Charge all allies' skills by 2~4 turns, 4) For 1 turn, reduce damage taken by 100%, and 5) For 1 turn, 4x ATK for Wood, Light Att.
@@ -35554,7 +35554,7 @@ EN: For 4 turns, 4x orb move time
 KR: For 4 turns, 4x orb move time
 
 # 13770/146 - Tin Woodman's Heart
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2~4 turns
 EN: Charge all allies' skills by 2~4 turns
@@ -36261,7 +36261,7 @@ EN: Change all orbs to Fire, Light, and Heal orbs
 KR: Change all orbs to Fire, Light, and Heal orbs
 
 # 13995/116 - ハニーの七変化
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: 全ドロップを火、光、回復ドロップに変化。 自分以外の味方スキルが2ターン溜まる。
 JP: Change all orbs to Fire, Light, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Light, and Heal orbs; Charge all allies' skills by 2 turns
@@ -36275,7 +36275,7 @@ EN: Change all orbs to Fire, Light, and Heal orbs
 KR: Change all orbs to Fire, Light, and Heal orbs
 
 # 13997/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -37374,7 +37374,7 @@ EN: For 1 turn, 3x orb move time
 KR: For 1 turn, 3x orb move time
 
 # 14357/116 - ハンデは無用
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: 全ドロップを闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
 JP: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
 EN: Change all orbs to Dark orbs; Charge all allies' skills by 1 turn
@@ -37388,7 +37388,7 @@ EN: Change all orbs to Dark orbs
 KR: Change all orbs to Dark orbs
 
 # 14359/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -37864,7 +37864,7 @@ EN: Change all enemies to Wood Att.
 KR: Change all enemies to Wood Att.
 
 # 14527/116 - Hokuto Iron Palm Wave
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top and bottom rows to Fire Orbs; other allies' skills charged by 1 turn
 JP: Change the top row and the bottom row to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the top row and the bottom row to Fire orbs; Charge all allies' skills by 1 turn
@@ -37878,7 +37878,7 @@ EN: Change the top row and the bottom row to Fire orbs
 KR: Change the top row and the bottom row to Fire orbs
 
 # 14529/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 1 turn
 EN: Charge all allies' skills by 1 turn
@@ -38305,7 +38305,7 @@ EN: Change all orbs to Fire, Water, Wood, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, and Heal orbs
 
 # 14642/116 - Geyser Thrust
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire, Water, Wood & Heal; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire, Water, Wood, and Heal orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire, Water, Wood, and Heal orbs; Charge all allies' skills by 2 turns
@@ -38319,7 +38319,7 @@ EN: Change all orbs to Fire, Water, Wood, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, and Heal orbs
 
 # 14644/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -39404,14 +39404,14 @@ EN: Unlock all orbs
 KR: Unlock all orbs
 
 # 14937/116 - Magic Boosting Vessel
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 2 turns; 3x ATK for Fire Att. & 3x RCV for 2 turns
 JP: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Fire Att.
 EN: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Fire Att.
 KR: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Fire Att.
 
 # 14938/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -39957,14 +39957,14 @@ EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
 # 15112/116 - Act Skill Senka Assist
-Tags: ENHANCED_HEAL
+Tags: ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: Other allies' skills charged by 3 turns; 3x RCV for 6 turns
 JP: Charge all allies' skills by 3 turns; For 6 turns, 3x RCV
 EN: Charge all allies' skills by 3 turns; For 6 turns, 3x RCV
 KR: Charge all allies' skills by 3 turns; For 6 turns, 3x RCV
 
 # 15113/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
@@ -40874,7 +40874,7 @@ EN: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 15381/116 - お前さん、詰んでるよ
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 3ターンの間、ダメージ無効を貫通する。 自分以外の味方スキルが3ターン溜まる。
 JP: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
 EN: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
@@ -40888,7 +40888,7 @@ EN: For 3 turns, bypass void damage shield effects
 KR: For 3 turns, bypass void damage shield effects
 
 # 15383/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
@@ -41112,7 +41112,7 @@ EN: Recover 30% of max HP; Reduce binds and awoken skill binds by 3 turns
 KR: Recover 30% of max HP; Reduce binds and awoken skill binds by 3 turns
 
 # 15447/116 - White Snow Light
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes all Orbs to Fire Orbs; other allies' skills charged by 2 turns
 JP: Change all orbs to Fire orbs; Charge all allies' skills by 2 turns
 EN: Change all orbs to Fire orbs; Charge all allies' skills by 2 turns
@@ -41126,7 +41126,7 @@ EN: Change all orbs to Fire orbs
 KR: Change all orbs to Fire orbs
 
 # 15449/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns
@@ -41665,14 +41665,14 @@ EN: For 3 turns, recover 20% of max HP
 KR: For 3 turns, recover 20% of max HP
 
 # 15614/116 - アドバンス召喚
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 自分以外の味方スキルが3ターン溜まる。 ブラック・マジシャン・ガールに変身する。
 JP: Charge all allies' skills by 3 turns; Changes to [5802] for the duration of the dungeon
 EN: Charge all allies' skills by 3 turns; Changes to [5802] for the duration of the dungeon
 KR: Charge all allies' skills by 3 turns; Changes to [5802] for the duration of the dungeon
 
 # 15615/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
@@ -42386,14 +42386,14 @@ EN: For 2 turns, 2x orb move time
 KR: For 2 turns, 2x orb move time
 
 # 15812/116 - あなたと戦います！
-Tags: ENHANCED_ATTACK,ENHANCED_HEAL
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 自分以外の味方スキルが2ターン溜まる。 2ターンの間、回復力と光属性の攻撃力が3倍。
 JP: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 EN: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 KR: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 
 # 15813/146 - 
-Tags: 
+Tags: REDUCE_SKILL_TURN
 Game: 
 JP: Charge all allies' skills by 2 turns
 EN: Charge all allies' skills by 2 turns

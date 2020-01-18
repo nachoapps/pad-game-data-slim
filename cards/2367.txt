@@ -4,7 +4,7 @@ AWK: 21,19,27,19,63
 SAWK: 
 
 # 3398/116 - Mind if I try an experiment?
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Vastly reduces enemies' DEF for 5 turns; other allies' skills charged by 1 turn
 JP: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 5 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn

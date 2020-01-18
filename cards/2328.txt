@@ -4,7 +4,7 @@ AWK: 22,27,21,10,10,20,27,27
 SAWK: 
 
 # 618/116 - Emergency Launch!
-Tags: ATTACK_STANCE,ORB_CONVERT
+Tags: ATTACK_STANCE,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Dark and Heal Orbs to Fire Orbs, other allies' skills charged by 1 turn
 JP: Change Dark, Heal orbs to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change Dark, Heal orbs to Fire orbs; Charge all allies' skills by 1 turn

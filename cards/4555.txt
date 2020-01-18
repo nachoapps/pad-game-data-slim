@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3762/116 - Charge Gravity-G
-Tags: GRAVITY
+Tags: GRAVITY,REDUCE_SKILL_TURN
 Game: Reduces enemies' HP by 30%; other allies' skills charged by 1 turn
 JP: Reduce enemies' HP by 30%; Charge all allies' skills by 1 turn
 EN: Reduce enemies' HP by 30%; Charge all allies' skills by 1 turn

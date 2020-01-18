@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3811/116 - Inversion-Draco Summoning Circle-Fr & Dk
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Removes Orb locks, changes Orbs to Fire & Dark Orbs; other allies' skills charged by 1 turn
 JP: Unlock all orbs; Change all orbs to Fire and Dark orbs; Charge all allies' skills by 1 turn
 EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Charge all allies' skills by 1 turn

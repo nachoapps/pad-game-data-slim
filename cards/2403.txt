@@ -4,7 +4,7 @@ AWK: 18,15,21,46,47,40,40,42,42
 SAWK: 61,54,52
 
 # 3550/116 - Jack-o'-Lantern
-Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: RECOVER_BIND,REDUCE_SKILL_TURN,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status (incl. Awoken) by 7 turns; other allies' skills charged by 1 turn
 JP: Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn
 EN: Reduce binds and awoken skill binds by 7 turns; Charge all allies' skills by 1 turn

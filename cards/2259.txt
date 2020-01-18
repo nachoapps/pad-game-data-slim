@@ -4,7 +4,7 @@ AWK: 10,10,21,21,27,27,19,19
 SAWK: 
 
 # 3367/116 - Sunlight Crown
-Tags: EXTENDS_TIME
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN
 Game: Orb move time extended by 5 seconds for 1 turn; other allies' skills charged by 2 turns
 JP: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns
 EN: For 1 turn, increase orb move time by 5 seconds; Charge all allies' skills by 2 turns

@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3704/116 - Sit boy!
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Vastly reduces enemies' DEF for 2 turns; other allies' skills charged by 1 turn
 JP: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn

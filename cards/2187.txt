@@ -4,7 +4,7 @@ AWK: 10,10,21,24,24,20,21,24
 SAWK: 24,50
 
 # 2673/116 - Wind Charge
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Wood Orbs; other allies' skills charged by 1 turn
 JP: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
 EN: Change the top row to Wood orbs; Charge all allies' skills by 1 turn

@@ -4,7 +4,7 @@ AWK: 25,20,21,28,25,19,10,10
 SAWK: 
 
 # 7218/116 - The Dragonband Compliant Rod
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Water Orbs to Light & Dark Orbs to Heal; other allies' skills charged by 1 turn
 JP: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs; Charge all allies' skills by 1 turn
 EN: Change Water orbs to Light orbs; Change Dark orbs to Heal orbs; Charge all allies' skills by 1 turn

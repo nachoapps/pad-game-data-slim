@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 908/116 - 壱乃掌
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: 2ターンの間、敵の防御力が激減。 自分以外の味方スキルが1ターン溜まる。
 JP: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn
 EN: For 2 turns, reduce enemies' defense by 75%; Charge all allies' skills by 1 turn

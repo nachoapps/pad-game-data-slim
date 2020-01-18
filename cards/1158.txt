@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 926/116 - Devastating Wink!
-Tags: REDUCE_DEFENSE
+Tags: REDUCE_DEFENSE,REDUCE_SKILL_TURN
 Game: Voids enemies' DEF for 3 turns; other allies' skills charged by 2 turns
 JP: For 3 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns
 EN: For 3 turns, reduce enemies' defense by 100%; Charge all allies' skills by 2 turns

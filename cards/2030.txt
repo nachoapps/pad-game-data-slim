@@ -4,7 +4,7 @@ AWK: 25,27,28,56,33,25,27,19,43
 SAWK: 27,43,48
 
 # 2601/116 - It's not my problem.
-Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Removes Orb locks, changes the rightmost column to Light Orbs; other allies' skills charged by 1 turn
 JP: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn
 EN: Unlock all orbs; Change the far right column to Light orbs; Charge all allies' skills by 1 turn

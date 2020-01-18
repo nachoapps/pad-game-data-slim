@@ -4,7 +4,7 @@ AWK: 10,10,21,27,27,28,21,27
 SAWK: 27,45
 
 # 2682/116 - Blast Signal
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Fire Orbs; other allies' skills charged by 1 turn
 JP: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn

@@ -4,7 +4,7 @@ AWK: 19,19,19,21,28,30
 SAWK: 43,55,52
 
 # 5466/116 - Divine Luckbringer
-Tags: ADD_COMBO
+Tags: REDUCE_SKILL_TURN,ADD_COMBO
 Game: Adds 1 combo for 1 turn; other allies' skills charged by 1 turn
 JP: For 1 turn, increase combo count by 1; Charge all allies' skills by 1 turn
 EN: For 1 turn, increase combo count by 1; Charge all allies' skills by 1 turn

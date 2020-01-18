@@ -4,7 +4,7 @@ AWK: 27,56,28,27,27,27,19,46,46
 SAWK: 46,52,27
 
 # 1688/116 - Arctic Breath
-Tags: LINE_ORBS_CONVERTER
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Lt, and the rightmost into Wt; allies' skills charged by 1 turn
 JP: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
 EN: Change the far left column to Light orbs and change the far right column to Water orbs; Charge all allies' skills by 1 turn
