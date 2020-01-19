@@ -212,3 +212,227 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+            trigger_monsters: 2744
+          }
+          enemy_skill_id: 13690
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 13688
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5979
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 2
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5980
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 3
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5981
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 4
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5982
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 5
+                always_trigger_above: 19
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5983
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 6
+                always_trigger_above: 19
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5984
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 7
+                always_trigger_above: 98
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5988
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 5994
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5995
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 98
+            trigger_turn: 7
+            always_trigger_above: 19
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 5989
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 19
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 5
+                trigger_turn_end: 7
+              }
+              children {
+                behavior {
+                  condition {
+                    global_one_time: true
+                  }
+                  enemy_skill_id: 5997
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5993
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5993
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
