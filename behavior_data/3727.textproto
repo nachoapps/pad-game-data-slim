@@ -333,14 +333,20 @@
     level: 4
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 7376
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -355,6 +361,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7348
                 }
               }
@@ -368,6 +376,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7352
                 }
               }
@@ -381,6 +391,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7360
                 }
               }
@@ -393,59 +405,17 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
+            global_one_time: true
           }
           children {
             group {
               condition {
-                trigger_turn: 1
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7378
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7348
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7352
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7360
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7348
                 }
               }
             }
@@ -468,6 +438,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 7353
             }
           }
@@ -478,15 +450,20 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
-            trigger_turn: 1
           }
           children {
             behavior {
+              condition {
+                global_one_time: true
+              }
               enemy_skill_id: 7378
             }
           }
           children {
             behavior {
+              condition {
+                global_one_time: true
+              }
               enemy_skill_id: 7353
             }
           }
@@ -498,14 +475,20 @@
     level: 5
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 7355
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -520,6 +503,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7348
                 }
               }
@@ -533,6 +518,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7352
                 }
               }
@@ -546,6 +533,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7360
                 }
               }
@@ -558,59 +547,17 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
+            global_one_time: true
           }
           children {
             group {
               condition {
-                trigger_turn: 1
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7378
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7348
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7352
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7360
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7348
                 }
               }
             }
@@ -633,6 +580,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 7353
             }
           }
@@ -643,15 +592,20 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
-            trigger_turn: 1
           }
           children {
             behavior {
+              condition {
+                global_one_time: true
+              }
               enemy_skill_id: 7378
             }
           }
           children {
             behavior {
+              condition {
+                global_one_time: true
+              }
               enemy_skill_id: 7353
             }
           }
@@ -659,4 +613,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
