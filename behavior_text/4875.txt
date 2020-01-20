@@ -8,17 +8,11 @@ approved: False
 
 level: 1
  type: PREEMPT
- | condition: 50% chance
- | (16449:127) 情報の取りようがネーヨ
- | No skyfall for 1 turn
- | (16450:97) お前、目星ついてんダロ
- | Blind random 1 orbs for 1 turn, Deal 105% damage
+ | (16448:67) マジに、ソロで挑む気カ？
+ | Absorb damage when combos <= 5 for 5 turns
  group:
  | condition: 50% chance
  | (16449:127) 情報の取りようがネーヨ
  | No skyfall for 1 turn
  | (16450:97) お前、目星ついてんダロ
  | Blind random 1 orbs for 1 turn, Deal 105% damage
- type: UNKNOWN_USE
- | (16448:67) マジに、ソロで挑む気カ？
- | Absorb damage when combos <= 5 for 5 turns

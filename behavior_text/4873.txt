@@ -8,11 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | condition: 50% chance
- | (16442:48) てや――!!!
- | Change all Dark orbs to Water orbs, Deal 90% damage
- | (16443:15) やあ！
- | Deal 100% damage
+ | (16441:100) あたしも頑張りますよ！
+ | Seal the 5th row for 3 turns
  group:
  | group:
    | condition: 50% chance
@@ -24,6 +21,3 @@ level: 1
  | condition: hp <= 29
    | (16444:76) ピナ！【バブルブレス】！
    | Change the 4th column to Water orbs
- type: UNKNOWN_USE
- | (16441:100) あたしも頑張りますよ！
- | Seal the 5th row for 3 turns

@@ -8,11 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | condition: 50% chance
- | (16435:15) ちくしょー!!
- | Deal 100% damage
- | (16436:15) うおおおお！
- | Deal 120% damage (2 hits, 60% each)
+ | (16433:68) いくぞ！
+ | Wood skyfall +15% for 5 turns
  group:
  | group:
    | condition: 50% chance
@@ -22,10 +19,10 @@ level: 1
    | Deal 120% damage (2 hits, 60% each)
  | group:
  | condition: hp <= 29
-   | (16436:15) うおおおお！
-   | Deal 120% damage (2 hits, 60% each)
- type: UNKNOWN_USE
- | (16433:68) いくぞ！
- | Wood skyfall +15% for 5 turns
- | (16434:94) 暴れんじゃねえ!!
- | Lock 9 random orbs, Deal 90% damage
+   | group:
+   | condition: turn 1
+     | (16434:94) 暴れんじゃねえ!!
+     | Lock 9 random orbs, Deal 90% damage
+   | group:
+     | (16436:15) うおおおお！
+     | Deal 120% damage (2 hits, 60% each)

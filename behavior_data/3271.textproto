@@ -31,8 +31,29 @@
             hp_threshold: 100
           }
           children {
-            behavior {
-              enemy_skill_id: 16210
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16193
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16210
+                }
+              }
             }
           }
         }
@@ -58,6 +79,23 @@
           }
           children {
             group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16199
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
               children {
                 behavior {
                   enemy_skill_id: 16202
@@ -107,23 +145,6 @@
               enemy_skill_id: 16206
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 16193
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 16199
         }
       }
     }

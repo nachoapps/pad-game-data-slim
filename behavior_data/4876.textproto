@@ -5,7 +5,7 @@
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 16452
+          enemy_skill_id: 16451
         }
       }
     }
@@ -18,8 +18,29 @@
             hp_threshold: 100
           }
           children {
-            behavior {
-              enemy_skill_id: 16452
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16452
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16451
+                }
+              }
             }
           }
         }
@@ -29,23 +50,45 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
-            trigger_turn: 1
           }
           children {
-            behavior {
-              enemy_skill_id: 16453
+            group {
+              condition {
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16453
+                }
+              }
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16451
+                }
+              }
+            }
           }
-          enemy_skill_id: 16451
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 16452
+                }
+              }
+            }
+          }
         }
       }
     }

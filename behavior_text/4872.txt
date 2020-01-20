@@ -12,8 +12,14 @@ level: 1
  | Player -50% HP
  group:
  | group:
-   | (16440:15) おりゃ――!!!
-   | Deal 110% damage
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (16438:13) ホント、やりづらいったら……
+     | Change 1 random orb to Jammer orbs
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (16440:15) おりゃ――!!!
+     | Deal 110% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -24,6 +30,3 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | (16440:15) おりゃ――!!!
      | Deal 110% damage
- type: UNKNOWN_USE
- | (16438:13) ホント、やりづらいったら……
- | Change 1 random orb to Jammer orbs
