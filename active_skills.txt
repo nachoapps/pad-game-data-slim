@@ -1785,21 +1785,21 @@ KR: Reduce enemies' HP by 35%; For 1 turn, reduce enemies' defense by 100%
 
 # 601/116 - Balanced Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
-Game: 3x ATK for Balanced Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+Game: Inflicts a 100x ATK attack on 1 enemy; 3x ATK for Balanced Type for 1 turn
 JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Balanced type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Balanced type
 KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Balanced type
 
 # 602/116 - Muscle Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
-Game: 3x ATK for Physical Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+Game: Inflicts a 100x ATK attack on 1 enemy; 3x ATK for Physical Type for 1 turn
 JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
 KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Physical type
 
 # 603/116 - Recovery Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
-Game: 3x ATK for Healer Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+Game: Inflicts a 100x ATK attack on 1 enemy; 3x ATK for Healer Type for 1 turn
 JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Healer type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Healer type
 KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Healer type
@@ -1820,14 +1820,14 @@ KR: For 1 turn, 3x ATK for God type
 
 # 606/116 - Attack Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
-Game: 3x ATK for Attacker Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+Game: Inflicts a 100x ATK attack on 1 enemy; 3x ATK for Attacker Type for 1 turn
 JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Attacker type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Attacker type
 KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Attacker type
 
 # 607/116 - Devilish Enhancement
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
-Game: 3x ATK for Devil Type for 1 turn, plus a 10x ATK attack is made on 1 enemy
+Game: Inflicts a 100x ATK attack on 1 enemy; 3x ATK for Devil Type for 1 turn
 JP: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Devil type
 EN: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Devil type
 KR: Deal 100x ATK damage to an enemy; For 1 turn, 3x ATK for Devil type
@@ -5873,7 +5873,7 @@ KR: For 2 turns, 2.5x ATK for God and Devil types; Reduce HP to 1; Deal 40x Dark
 
 # 1608/116 - Dragon Strike Stance - Fire
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
-Game: Changes Heal Orbs to Fire Orbs, plus bind status is reduced by 3 turns
+Game: Changes Heal Orbs to Fire Orbs, reduces bind status by 5 turns
 JP: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
 EN: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
 KR: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
@@ -6468,7 +6468,7 @@ KR: Reduce enemies' HP by 10%; Enhance all Water orbs
 
 # 1807/116 - Gravity World
 Tags: GRAVITY,EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
-Game: Reduces enemies' HP by 25%; extends Orb move time by 5 seconds for 5 turns
+Game: Reduces enemies' HP by 25%, reduces unmatchable Orb status by 5 turns; Orb move time +5 seconds for 5 turns
 JP: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 KR: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
@@ -20314,7 +20314,7 @@ KR: Create 2 Water and Wood orbs
 
 # 8147/116 - All Orbs Cure
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes Orbs to all Attributes & Heal
+Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes Orbs to all Attributes & Heal
 JP: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -20335,7 +20335,7 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 8153/116 - Draco Nesting Circle - Dark, Fire & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes all Orbs to Fire, Dark & Heal Orbs
+Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Fire, Dark & Heal Orbs
 JP: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Dark, and Heal orbs
 EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Dark, and Heal orbs
 KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Dark, and Heal orbs
@@ -20356,7 +20356,7 @@ KR: Change all orbs to Fire, Dark, and Heal orbs
 
 # 8159/116 - Draco Nesting Circle - Dark, Water & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes all Orbs to Water, Dark & Heal Orbs
+Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Water, Dark & Heal Orbs
 JP: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Water, Dark, and Heal orbs
 EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Water, Dark, and Heal orbs
 KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Water, Dark, and Heal orbs
@@ -20377,7 +20377,7 @@ KR: Change all orbs to Water, Dark, and Heal orbs
 
 # 8165/116 - Draco Nesting Circle - Dark, Wood & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes all Orbs to Wood, Dark & Heal Orbs
+Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Wood, Dark & Heal Orbs
 JP: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Wood, Dark, and Heal orbs
 EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Wood, Dark, and Heal orbs
 KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Wood, Dark, and Heal orbs
@@ -20398,7 +20398,7 @@ KR: Change all orbs to Wood, Dark, and Heal orbs
 
 # 8171/116 - Draco Nesting Circle - Dark, Light & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes all Orbs to Light, Dark & Heal Orbs
+Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Light, Dark & Heal Orbs
 JP: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Light, Dark, and Heal orbs
 EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Light, Dark, and Heal orbs
 KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Light, Dark, and Heal orbs
@@ -20419,7 +20419,7 @@ KR: Change all orbs to Light, Dark, and Heal orbs
 
 # 8177/116 - Draco Nesting Circle - Dark, Demon & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 25% of max HP, reduces bind status by 2 turns; changes all Orbs to Dark Orbs, Heal Orbs & Jammers
+Game: Recovers 30% of max HP, fully recovers bind status; changes all Orbs to Dark Orbs, Heal Orbs & Jammers
 JP: Recover 30% of max HP; Remove all binds; Change all orbs to Dark, Heal, and Jammer orbs
 EN: Recover 30% of max HP; Remove all binds; Change all orbs to Dark, Heal, and Jammer orbs
 KR: Recover 30% of max HP; Remove all binds; Change all orbs to Dark, Heal, and Jammer orbs
@@ -22197,7 +22197,7 @@ KR: Change the far left column to Water orbs and change the far right column to 
 
 # 9107/56 - Little Dragon Attack
 Tags: FIXED_DAMAGE
-Game: Inflicts 5 damage on all enemies
+Game: Inflicts 50 damage on all enemies
 JP: Deal 50 fixed damage to all enemies
 EN: Deal 50 fixed damage to all enemies
 KR: Deal 50 fixed damage to all enemies
@@ -24362,7 +24362,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 10032/116 - Guardian Star Summoning Circle - Water & Dark
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
-Game: Reduces bind status by 3 turns, removes Orb locks; changes all Orbs to Water & Dark Orbs
+Game: Reduces bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wt & Dk
 JP: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
 EN: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
 KR: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
@@ -24390,7 +24390,7 @@ KR: Change all orbs to Water and Dark orbs
 
 # 10039/116 - Guardian Star Summoning Circle - Wood & Dark
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
-Game: Reduces bind status by 3 turns, removes Orb locks; changes all Orbs to Wood & Dark Orbs
+Game: Reduces bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wood & Dark
 JP: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Wood and Dark orbs
 EN: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Wood and Dark orbs
 KR: Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Wood and Dark orbs
@@ -39172,7 +39172,7 @@ JP: Create 3 Heal orbs
 EN: Create 3 Heal orbs
 KR: Create 3 Heal orbs
 
-# 14867/116 - Zeo Megazord Saber, Now! 
+# 14867/116 - Zeo Megazord Saber, Now!
 Tags: HEAL,ALL_ORBS_CONVERT
 Game: Recovers 30% of max HP for 2 turns; changes all Orbs to Water, Wood, Light & Heal Orbs
 JP: For 2 turns, recover 30% of max HP; Change all orbs to Water, Wood, Light, and Heal orbs
@@ -40803,9 +40803,9 @@ JP: For 1 turn, 3x orb move time
 EN: For 1 turn, 3x orb move time
 KR: For 1 turn, 3x orb move time
 
-# 15363/116 - ラースウィンド
+# 15363/116 - Wrathful Wind
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
-Game: 2ターンの間、受けるダメージを激減。 1ターンの間、攻撃タイプの攻撃力が4倍。
+Game: Vastly reduces damage for 2 turns; 4x ATK for Attacker Type for 1 turn
 JP: For 2 turns, reduce damage taken by 75%; For 1 turn, 4x ATK for Attacker type
 EN: For 2 turns, reduce damage taken by 75%; For 1 turn, 4x ATK for Attacker type
 KR: For 2 turns, reduce damage taken by 75%; For 1 turn, 4x ATK for Attacker type
@@ -40845,9 +40845,9 @@ JP: Remove all binds and awoken skill binds
 EN: Remove all binds and awoken skill binds
 KR: Remove all binds and awoken skill binds
 
-# 15377/116 - 意味のないことを……
+# 15377/116 - What a waste.
 Tags: ORB_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
-Game: ドロップのロック状態を解除。消せないドロップ状態を全回復。 水、闇、お邪魔、毒ドロップを木ドロップに変化。
+Game: Removes Orb locks, fully recovers unmatchable Orb status; changes Water, Dark, Poison & Jammers to Wood Orbs
 JP: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 EN: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Unlock all orbs; Reduce unable to match orbs effect by 9999 turns; Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
@@ -40873,9 +40873,9 @@ JP: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 EN: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
-# 15381/116 - お前さん、詰んでるよ
+# 15381/116 - Check.
 Tags: REDUCE_SKILL_TURN
-Game: 3ターンの間、ダメージ無効を貫通する。 自分以外の味方スキルが3ターン溜まる。
+Game: Pierce through enemy's damage void for 3 turns; other allies' skills charged by 3 turns
 JP: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
 EN: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
 KR: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
@@ -40894,9 +40894,9 @@ JP: Charge all allies' skills by 3 turns
 EN: Charge all allies' skills by 3 turns
 KR: Charge all allies' skills by 3 turns
 
-# 15384/116 - そのへんにしておきな
+# 15384/116 - Enough of this.
 Tags: MENACE,REMOVE_LOCK
-Game: ドロップのロック状態を解除。敵の行動を4ターン遅らせる。 ランダムで火と回復ドロップを5個ずつ生成。
+Game: Removes Orb locks, delays enemies' next move for 4 turns; creates 5 Fire & Heal Orbs each at random
 JP: Unlock all orbs; Delay enemies' next attack by 4 turns; Create 5 Fire and Heal orbs
 EN: Unlock all orbs; Delay enemies' next attack by 4 turns; Create 5 Fire and Heal orbs
 KR: Unlock all orbs; Delay enemies' next attack by 4 turns; Create 5 Fire and Heal orbs
@@ -41909,9 +41909,9 @@ JP: For 6 turns, increase orb move time by 2 seconds
 EN: For 6 turns, increase orb move time by 2 seconds
 KR: For 6 turns, increase orb move time by 2 seconds
 
-# 15683/141 - ストーンプレス
+# 15683/141 - Stone Press
 Tags: 
-Game: ランダムで木とお邪魔ドロップを15個ずつ生成。
+Game: Creates 15 Wood Orbs & Jammers each at random
 JP: Create 15 Wood and Jammer orbs over any orbs
 EN: Create 15 Wood and Jammer orbs over any orbs
 KR: Create 15 Wood and Jammer orbs over any orbs
@@ -41923,7 +41923,7 @@ JP: Remove all awoken skill binds
 EN: Remove all awoken skill binds
 KR: Remove all awoken skill binds
 
-# 15688/196 - 
+# 15688/196 - ______Gravity Room
 Tags: REDUCE_MATCH_RESTRICTION
 Game: 
 JP: Reduce unable to match orbs effect by 9999 turns

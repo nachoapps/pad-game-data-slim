@@ -69662,12 +69662,12 @@ JP: 500%ダメージ (5連続攻撃、100%ごと)
 EN: Deal 500% damage (5 hits, 100% each)
 KR: Deal 500% damage (5 hits, 100% each)
 
-# 13925/15 - Take this Tyrra!
+# 13925/15 - Not Tyrrable!
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 13926/74 - Not bad Tyrra!
+# 13926/74 - Tyrrake this!
 JP: 1ターンの間、受けるダメージからの攻撃を30%減少
 EN: Reduce damage from all sources by 30% for 1 turn
 KR: Reduce damage from all sources by 30% for 1 turn
@@ -69717,7 +69717,7 @@ JP: 火ドロップを2個生成
 EN: Spawn 2 random Fire orbs
 KR: Spawn 2 random Fire orbs
 
-# 13936/92 - Cerulean Flame's Breath
+# 13936/92 - Cerulean Flame Breath
 JP: 火と水ドロップを2個ずつ生成
 EN: Spawn 2 random Fire or Water orbs
 KR: Spawn 2 random Fire or Water orbs
@@ -69787,17 +69787,17 @@ JP:
 EN: 
 KR: 
 
-# 13950/1 - Firey Cage
+# 13950/1 - Flame Cage
 JP: 3ターンの間、ランダムで4体がバインド
 EN: Bind 4 random cards for 3 turns
 KR: Bind 4 random cards for 3 turns
 
-# 13951/15 - Eat this!
+# 13951/15 - Take this!
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 13952/77 - Blade of Flame
+# 13952/77 - Flame Blade
 JP: 上から3列目のドロップが火ドロップに変化
 EN: Change the 3rd column to Fire orbs
 KR: Change the 3rd column to Fire orbs
@@ -69807,12 +69807,12 @@ JP: 110%ダメージ (2連続攻撃、55%ごと)
 EN: Deal 110% damage (2 hits, 55% each)
 KR: Deal 110% damage (2 hits, 55% each)
 
-# 13954/17 - Not finish yet!
+# 13954/17 - It's not over yet!
 JP: 1ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 1 turn
 KR: Increase damage to 150% for the next 1 turn
 
-# 13955/84 - Scattering Board
+# 13955/84 - Scattered Board
 JP: 全ドロップを火、水、木、光、闇に変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark
@@ -69872,7 +69872,7 @@ JP: 5ターンの間、ランダムで5体がバインド
 EN: Bind 5 random cards for 5 turns
 KR: Bind 5 random cards for 5 turns
 
-# 13967/89 - Eat my Dust!
+# 13967/89 - Eat my dust!
 JP: スキルターンを2ターン遅延
 EN: Delay active skills by 2 turns
 KR: Delay active skills by 2 turns
@@ -69887,7 +69887,7 @@ JP:
 EN: 
 KR: 
 
-# 13970/66 - I don't feel so good!
+# 13970/66 - I'm in a bad mood now!
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
@@ -69932,7 +69932,7 @@ JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 13979/17 - Don't bug me man...
+# 13979/17 - Impudent brats...
 JP: 999ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 999 turns
 KR: Increase damage to 150% for the next 999 turns
@@ -72662,7 +72662,7 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 14525/101 - Sword and Wings' Guidance
+# 14525/101 - Winged Sword of Guidance
 JP: ドロップ操作開始位置をランダムで固定される
 EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
@@ -72757,7 +72757,7 @@ JP: 5ターンの間、4コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 4 for 5 turns
 KR: Absorb damage when combos <= 4 for 5 turns
 
-# 14544/66 - Storing up Power
+# 14544/66 - Storing up power
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
@@ -76597,7 +76597,7 @@ JP: 2.0ターンの間、特定の位置のマスが1.0秒毎に変化する
 EN: Specific orbs change every 1.0s for 2 turns
 KR: Specific orbs change every 1.0s for 2 turns
 
-# 15312/67 - Geko Replication
+# 15312/67 - Gecko Clone
 JP: 10ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 10 turns
 KR: Absorb damage when combos <= 7 for 10 turns
@@ -76672,7 +76672,7 @@ JP: 999ターンの間、攻撃力が120%に上昇
 EN: Increase damage to 120% for the next 999 turns
 KR: Increase damage to 120% for the next 999 turns
 
-# 15327/20 - I...am the strongest!
+# 15327/20 - I'm...the strongest!!!
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
@@ -76702,7 +76702,7 @@ JP:
 EN: 
 KR: 
 
-# 15333/67 - Enlightening Bonfire
+# 15333/67 - Bonfire of Enlightenment
 JP: 1ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 1 turn
 KR: Absorb damage when combos <= 7 for 1 turn
@@ -76722,7 +76722,7 @@ JP:
 EN: 
 KR: 
 
-# 15337/20 - Skeletal Guise
+# 15337/20 - Skeletal Form
 JP: 3ターンの間、状態異常無効化
 EN: Voids status ailments for 3 turns
 KR: Voids status ailments for 3 turns
@@ -78357,7 +78357,7 @@ JP: 5ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 5 turns
 KR: Bind awoken skills for 5 turns
 
-# 15664/67 - Try and make your dreams come true...
+# 15664/67 - Now, grasp hold of hope...
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 1 turn
 KR: Absorb damage when combos <= 9 for 1 turn
@@ -78542,7 +78542,7 @@ JP: 1ターンの間、左から4列目、上から1列目の6×2マスの長方
 EN: A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column
 KR: A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column
 
-# 15701/20 - Protective Cloud Wall
+# 15701/20 - Protective Cloud Formation
 JP: 99ターンの間、状態異常無効化
 EN: Voids status ailments for 99 turns
 KR: Voids status ailments for 99 turns
@@ -80017,7 +80017,7 @@ JP: 90%ダメージ (3連続攻撃、30%ごと)
 EN: Deal 90% damage (3 hits, 30% each)
 KR: Deal 90% damage (3 hits, 30% each)
 
-# 15996/92 - Amenomina's 8 seals of creation
+# 15996/92 - Amenomina's 8 Seals of Creation
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを5個ずつ生成
 EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
 KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
@@ -81117,202 +81117,202 @@ JP: 火、木、猛毒ドロップを15個ずつ生成
 EN: Spawn 15 random Fire, Wood, or Mortal Poison orbs
 KR: Spawn 15 random Fire, Wood, or Mortal Poison orbs
 
-# 16216/83 - ＿先制
+# 16216/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 16217/39 - いびきをかいている
+# 16217/39 - Snore
 JP: 4ターンの間、操作時間+50%
 EN: Movetime +50% for 4 turns
 KR: Movetime +50% for 4 turns
 
-# 16218/3 - 威圧する眼光
+# 16218/3 - Overpowering Gaze
 JP: 10ターンの間、悪魔タイプがバインド
 EN: Bind Devil cards for 10 turns
 KR: Bind Devil cards for 10 turns
 
-# 16219/83 - ＿50％以下A
+# 16219/83 - ＿50％+ A
 JP: 
 EN: 
 KR: 
 
-# 16220/83 - ＿50％以下B
+# 16220/83 - ＿50％+ B
 JP: 
 EN: 
 KR: 
 
-# 16221/83 - ＿50％以下C
+# 16221/83 - ＿50％+ C
 JP: 
 EN: 
 KR: 
 
-# 16222/83 - ＿50％以下D
+# 16222/83 - ＿50％+ D
 JP: 
 EN: 
 KR: 
 
-# 16223/83 - ＿50％以下E
+# 16223/83 - ＿50％+ E
 JP: 
 EN: 
 KR: 
 
-# 16224/83 - ＿50％以下F
+# 16224/83 - ＿50% + F
 JP: 
 EN: 
 KR: 
 
-# 16225/83 - ＿1回目
+# 16225/83 - ＿First time
 JP: 
 EN: 
 KR: 
 
-# 16226/92 - あなたに試練を与えます
+# 16226/92 - I have a trial for you
 JP: 火、水、木、光、闇ドロップを6個ずつ生成
 EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
 KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
 
-# 16227/107 - 火ドロップを全て消しなさい
+# 16227/107 - Get rid of every Fire Orb
 JP: 1ターンの間、水、木、光、闇ドロップを消せなくなる
 EN: Unable to match Water, Wood, Light, and Dark orbs for 1 turn
 KR: Unable to match Water, Wood, Light, and Dark orbs for 1 turn
 
-# 16228/39 - 残した場合は許しません
+# 16228/39 - I won't forgive you if any are left behind
 JP: 6ターンの間、操作時間+20%
 EN: Movetime +20% for 6 turns
 KR: Movetime +20% for 6 turns
 
-# 16229/68 - これは過程に過ぎません
+# 16229/68 - This is just a matter of course
 JP: 6ターンの間、お邪魔ドロップを+100%に落ちてくる
 EN: Jammer skyfall +100% for 6 turns
 KR: Jammer skyfall +100% for 6 turns
 
-# 16230/127 - 先を見据えるのです
+# 16230/127 - Focus on what lies ahead
 JP: 6ターンの間、落ちコンしなくなる
 EN: No skyfall for 6 turns
 KR: No skyfall for 6 turns
 
-# 16231/108 - お残しは許しません
+# 16231/108 - I won't allow any left behind
 JP: 火ドロップをお邪魔ドロップに変化
 EN: Change all Fire orbs to Jammer orbs
 KR: Change all Fire orbs to Jammer orbs
 
-# 16232/83 - ＿2回目
+# 16232/83 - ＿Second time
 JP: 
 EN: 
 KR: 
 
-# 16233/108 - これは戻しましょう
+# 16233/108 - Let's return this to as it was
 JP: お邪魔ドロップを火ドロップに変化
 EN: Change all Jammer orbs to Fire orbs
 KR: Change all Jammer orbs to Fire orbs
 
-# 16234/107 - 水ドロップを全て消しなさい
+# 16234/107 - Get rid of every Water Orb
 JP: 1ターンの間、火、木、光、闇ドロップを消せなくなる
 EN: Unable to match Fire, Wood, Light, and Dark orbs for 1 turn
 KR: Unable to match Fire, Wood, Light, and Dark orbs for 1 turn
 
-# 16235/108 - お残しは許しません
+# 16235/108 - I won't allow any left behind
 JP: 水ドロップをお邪魔ドロップに変化
 EN: Change all Water orbs to Jammer orbs
 KR: Change all Water orbs to Jammer orbs
 
-# 16236/83 - ＿3回目
+# 16236/83 - ＿Third time
 JP: 
 EN: 
 KR: 
 
-# 16237/108 - これは戻しましょう
+# 16237/108 - Let's return this to as it was
 JP: お邪魔ドロップを水ドロップに変化
 EN: Change all Jammer orbs to Water orbs
 KR: Change all Jammer orbs to Water orbs
 
-# 16238/107 - 木ドロップを全て消しなさい
+# 16238/107 - Get rid of every Wood Orb
 JP: 1ターンの間、火、水、光、闇ドロップを消せなくなる
 EN: Unable to match Fire, Water, Light, and Dark orbs for 1 turn
 KR: Unable to match Fire, Water, Light, and Dark orbs for 1 turn
 
-# 16239/108 - お残しは許しません
+# 16239/108 - I won't allow any left behind
 JP: 木ドロップをお邪魔ドロップに変化
 EN: Change all Wood orbs to Jammer orbs
 KR: Change all Wood orbs to Jammer orbs
 
-# 16240/83 - ＿4回目
+# 16240/83 - ＿Fourth time
 JP: 
 EN: 
 KR: 
 
-# 16241/108 - これは戻しましょう
+# 16241/108 - Let's return this to as it was
 JP: お邪魔ドロップを木ドロップに変化
 EN: Change all Jammer orbs to Wood orbs
 KR: Change all Jammer orbs to Wood orbs
 
-# 16242/107 - 光ドロップを全て消しなさい
+# 16242/107 - Get rid of every Light Orb
 JP: 1ターンの間、火、水、木、闇ドロップを消せなくなる
 EN: Unable to match Fire, Water, Wood, and Dark orbs for 1 turn
 KR: Unable to match Fire, Water, Wood, and Dark orbs for 1 turn
 
-# 16243/108 - お残しは許しません
+# 16243/108 - I won't allow any left behind
 JP: 光ドロップをお邪魔ドロップに変化
 EN: Change all Light orbs to Jammer orbs
 KR: Change all Light orbs to Jammer orbs
 
-# 16244/83 - ＿5回目
+# 16244/83 - ＿Fifth time
 JP: 
 EN: 
 KR: 
 
-# 16245/108 - これは戻しましょう
+# 16245/108 - Let's return this to as it was
 JP: お邪魔ドロップを光ドロップに変化
 EN: Change all Jammer orbs to Light orbs
 KR: Change all Jammer orbs to Light orbs
 
-# 16246/107 - 闇ドロップを全て消しなさい
+# 16246/107 - Get rid of every Dark Orb
 JP: 1ターンの間、火、水、木、光ドロップを消せなくなる
 EN: Unable to match Fire, Water, Wood, and Light orbs for 1 turn
 KR: Unable to match Fire, Water, Wood, and Light orbs for 1 turn
 
-# 16247/108 - お残しは許しません
+# 16247/108 - I won't allow any left behind
 JP: 闇ドロップをお邪魔ドロップに変化
 EN: Change all Dark orbs to Jammer orbs
 KR: Change all Dark orbs to Jammer orbs
 
-# 16248/83 - ＿6回目
+# 16248/83 - ＿Sixth time
 JP: 
 EN: 
 KR: 
 
-# 16249/108 - これは戻しましょう
+# 16249/108 - Let's return this to as it was
 JP: お邪魔ドロップを闇ドロップに変化
 EN: Change all Jammer orbs to Dark orbs
 KR: Change all Jammer orbs to Dark orbs
 
-# 16250/67 - 最後は10コンボを見せてください
+# 16250/67 - Lastly, please show me a combo of 10
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 1 turn
 KR: Absorb damage when combos <= 9 for 1 turn
 
-# 16251/40 - あなたなら出来ると思ってました
+# 16251/40 - I thought that you'd be able to do it
 JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0
 
-# 16252/83 - ＿9コンボ以下
+# 16252/83 - ＿9 combos or fewer
 JP: 
 EN: 
 KR: 
 
-# 16253/88 - 読み違えたようですね
+# 16253/88 - It seems that I misjudged you
 JP: 1ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 1 turn
 KR: Bind awoken skills for 1 turn
 
-# 16254/15 - 次は頑張ってください
+# 16254/15 - Please try harder next time
 JP: 10000%ダメージ (10連続攻撃、1000%ごと)
 EN: Deal 10000% damage (10 hits, 1000% each)
 KR: Deal 10000% damage (10 hits, 1000% each)
 
-# 16255/40 - 次の機会を楽しみにしていますね
+# 16255/40 - I look forward to our next meeting
 JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0

@@ -3,16 +3,16 @@ HP: 4313 ATK: 1463 RCV: 103 LB: 40
 AWK: 21,21,24,24,9,48,33,36,30
 SAWK: 52,71,40
 
-# 15683/141 - ストーンプレス
+# 15683/141 - Stone Press
 Tags: 
-Game: ランダムで木とお邪魔ドロップを15個ずつ生成。
+Game: Creates 15 Wood Orbs & Jammers each at random
 JP: Create 15 Wood and Jammer orbs over any orbs
 EN: Create 15 Wood and Jammer orbs over any orbs
 KR: Create 15 Wood and Jammer orbs over any orbs
 
-# 15684/138 - 碧岩の龍鱗
+# 15684/138 - Jade Dragon Scales
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Game: 【操作時間3秒】木属性の全パラメータが1.5倍。 7コンボ以上でダメージを軽減、攻撃力が20倍。
+Game: [Orb move time: 3 sec], 1.5x to all stats for Wood Att.; 20x ATK & reduces damage with 7+ combos
 JP: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
 EN: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
 KR: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos

@@ -3143,7 +3143,7 @@ KR: 3x ATK for Dark Att.
 
 # 817/185 - Magic Dragon Tribe's Pride
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
-Game: 2.5x ATK & RCV for Devil Type
+Game: 4x ATK & 2.5x RCV for Dragon & Devil Types; Orb move time +3 seconds
 JP: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds
 EN: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds
 KR: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds
@@ -6314,7 +6314,7 @@ KR: 1.5x HP & ATK for Dark Att.; 4x ATK when below 50% HP; 3x ATK when below 80%
 
 # 1983/138 - Magic Dragon Tribe's Essence
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
-Game: 2.5x ATK & RCV for Dragon & Devil Types, plus 1.5x ATK with 6+ combos
+Game: 4x ATK & 2.5x RCV for Dragon & Devil Types, 3x ATK with 3+ combos, Orb move time +3 seconds
 JP: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds; 3x ATK when 3 or more combos
 EN: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds; 3x ATK when 3 or more combos
 KR: 4x ATK and 2.5x RCV for Dragon, Devil type; Increase orb movement time by 3 seconds; 3x ATK when 3 or more combos
@@ -11277,7 +11277,7 @@ KR: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Wood Att. on the turn a 
 
 # 3233/138 - Gold Coating
 Tags: ENHANCED_HP_ATK_RCV
-Game: 2x ATK & RCV for Machine Type; 1.5x ATK for Light Att. when skills used
+Game: 2x to all stats for Machine Type; 6x ATK for Light Att. when skills used
 JP: 2x all stats for Machine type; 6x ATK for Light Att. on the turn a skill is used
 EN: 2x all stats for Machine type; 6x ATK for Light Att. on the turn a skill is used
 KR: 2x all stats for Machine type; 6x ATK for Light Att. on the turn a skill is used
@@ -16107,7 +16107,7 @@ KR: 2x ATK when matching 4 or more connected Light orbs
 
 # 4435/138 - Bat Charm
 Tags: ENHANCED_HP_ATK_RCV
-Game: 1.5x ATK & RCV for Dark Att.; 2x ATK when erasing 4+ linked Dark Orbs
+Game: 1.5x to all stats for Dark Att.; ATK increases with 4+ linked Dark Orbs, up to 8x
 JP: 1.5x all stats for Dark Att.; 6x ATK when matching 4 or more connected Dark orbs up to 8x at 6 orbs
 EN: 1.5x all stats for Dark Att.; 6x ATK when matching 4 or more connected Dark orbs up to 8x at 6 orbs
 KR: 1.5x all stats for Dark Att.; 6x ATK when matching 4 or more connected Dark orbs up to 8x at 6 orbs
@@ -22904,7 +22904,7 @@ KR: 2x ATK when matching 2+ Light combos
 
 # 6225/138 - Spirit of the Underlord
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: 3x ATK for Dark Att.; 2x ATK with 2+ Dark combos; vastly reduces damage from Dark Att. enemies
+Game: 3x ATK for Dark Att., 3x ATK with 2+ Dark combos; vastly reduces Dark Att. damage
 JP: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
 EN: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
 KR: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
@@ -30079,7 +30079,7 @@ KR: 2.5x ATK when matching Water and Wood
 
 # 8150/175 - Draco Summoning Law
 Tags: ENHANCED_ATK_RCV
-Game: 9x ATK & 3x RCV when all sub-monsters are  non-collab Dragonbounds or Dragon Callers
+Game: 12x ATK & 3x RCV when all sub-monsters are  non-collab Dragonbounds or Dragon Callers
 JP: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
 EN: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
 KR: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
@@ -30100,7 +30100,7 @@ KR:
 
 # 8156/138 - Eternal Dragon Armor - Gainaut
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 8x ATK & reduces damage when Fire & Dark attack at once; Orb move time +5 seconds
+Game: 8x ATK & reduces damage when Fire & Dark attack at once; Orb move time +10 seconds
 JP: 8x ATK and reduce damage taken by 25% when matching Fire and Dark; Increase orb movement time by 10 seconds
 EN: 8x ATK and reduce damage taken by 25% when matching Fire and Dark; Increase orb movement time by 10 seconds
 KR: 8x ATK and reduce damage taken by 25% when matching Fire and Dark; Increase orb movement time by 10 seconds
@@ -30121,7 +30121,7 @@ KR: Increase orb movement time by 10 seconds
 
 # 8162/138 - Eternal Dragon Armor - Volsung
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 8x ATK & reduces damage when Water & Dark attack at once; Orb move time +5 seconds
+Game: 8x ATK & reduces damage when Water & Dark attack at once; Orb move time +10 seconds
 JP: 8x ATK and reduce damage taken by 25% when matching Water and Dark; Increase orb movement time by 10 seconds
 EN: 8x ATK and reduce damage taken by 25% when matching Water and Dark; Increase orb movement time by 10 seconds
 KR: 8x ATK and reduce damage taken by 25% when matching Water and Dark; Increase orb movement time by 10 seconds
@@ -30142,7 +30142,7 @@ KR: Increase orb movement time by 10 seconds
 
 # 8168/138 - Eternal Dragon Armor - Linthia
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 8x ATK & reduces damage when Wood & Dark attack at once; Orb move time +5 seconds
+Game: 8x ATK & reduces damage when Wood & Dark attack at once; Orb move time +10 seconds
 JP: 8x ATK and reduce damage taken by 25% when matching Wood and Dark; Increase orb movement time by 10 seconds
 EN: 8x ATK and reduce damage taken by 25% when matching Wood and Dark; Increase orb movement time by 10 seconds
 KR: 8x ATK and reduce damage taken by 25% when matching Wood and Dark; Increase orb movement time by 10 seconds
@@ -30163,7 +30163,7 @@ KR: Increase orb movement time by 10 seconds
 
 # 8174/138 - Eternal Dragon Armor - Nordis
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 8x ATK & reduces damage when Light & Dark attack at once; Orb move time +5 seconds
+Game: 8x ATK & reduces damage when Light & Dark attack at once; Orb move time +10 seconds
 JP: 8x ATK and reduce damage taken by 25% when matching Light and Dark; Increase orb movement time by 10 seconds
 EN: 8x ATK and reduce damage taken by 25% when matching Light and Dark; Increase orb movement time by 10 seconds
 KR: 8x ATK and reduce damage taken by 25% when matching Light and Dark; Increase orb movement time by 10 seconds
@@ -30184,7 +30184,7 @@ KR: Increase orb movement time by 10 seconds
 
 # 8180/138 - Eternal Dragon Armor - Zaerog∞
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Game: 7x ATK & reduces damage with 2+ Dark combos; Orb move time +5 seconds
+Game: 7x ATK & reduces damage with 2+ Dark combos; Orb move time +10 seconds
 JP: 7x ATK and reduce damage taken by 25% when matching 2+ Dark combos; Increase orb movement time by 10 seconds
 EN: 7x ATK and reduce damage taken by 25% when matching 2+ Dark combos; Increase orb movement time by 10 seconds
 KR: 7x ATK and reduce damage taken by 25% when matching 2+ Dark combos; Increase orb movement time by 10 seconds
@@ -32326,7 +32326,7 @@ KR: 3x ATK when matching 5 or more colors (4+heal) up to 5x at 5 colors+heal
 
 # 8894/175 - Draco Summoning Aid
 Tags: ENHANCED_HP_ATK
-Game: 2x HP & 9x ATK when all sub-monsters are non-collab Dragonbounds or Dragon Callers
+Game: 2x HP & 13x ATK when all sub-monsters are non-collab Dragonbounds or Dragon Callers
 JP: 13x ATK and 2x HP when all cards are from Dragonbound & Dragoncaller
 EN: 13x ATK and 2x HP when all cards are from Dragonbound & Dragoncaller
 KR: 13x ATK and 2x HP when all cards are from Dragonbound & Dragoncaller
@@ -32347,7 +32347,7 @@ KR:  when matching  at once
 
 # 8900/138 - Eternal Dragon Roar-Flare Drall
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: 5x ATK & reduces damage with 2+ Fire combos; 2.5x ATK & RCV with 6+ combos
+Game: 6x ATK & reduces damage with 2+ Fire combos; 2.5x ATK & RCV with 6+ combos
 JP: 6x ATK and reduce damage taken by 25% when matching 2+ Fire combos; 2.5x ATK & RCV when 6 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 2+ Fire combos; 2.5x ATK & RCV when 6 or more combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Fire combos; 2.5x ATK & RCV when 6 or more combos
@@ -32368,7 +32368,7 @@ KR: 2.5x ATK & RCV when 6 or more combos
 
 # 8906/138 - Eternal Dragon Roar-Megalodran
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: 5x ATK & reduces damage with 2+ Water combos; 2.5x ATK & RCV with 6+ combos
+Game: 6x ATK & reduces damage with 2+ Water combos; 2.5x ATK & RCV with 6+ combos
 JP: 6x ATK and reduce damage taken by 25% when matching 2+ Water combos; 2.5x ATK & RCV when 6 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 2+ Water combos; 2.5x ATK & RCV when 6 or more combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Water combos; 2.5x ATK & RCV when 6 or more combos
@@ -32389,7 +32389,7 @@ KR: 2.5x ATK & RCV when 6 or more combos
 
 # 8912/138 - Eternal Dragon Roar-Fortoytops
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: 5x ATK & reduces damage with 2+ Wood combos; 2.5x ATK & RCV with 6+ combos
+Game: 6x ATK & reduces damage with 2+ Wood combos; 2.5x ATK & RCV with 6+ combos
 JP: 6x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK & RCV when 6 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK & RCV when 6 or more combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK & RCV when 6 or more combos
@@ -32410,7 +32410,7 @@ KR: 2.5x ATK & RCV when 6 or more combos
 
 # 8918/138 - Eternal Dragon Roar-Angelion
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: 5x ATK & reduces damage with 2+ Light combos; 2.5x ATK & RCV with 6+ combos
+Game: 6x ATK & reduces damage with 2+ Light combos; 2.5x ATK & RCV with 6+ combos
 JP: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos; 2.5x ATK & RCV when 6 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos; 2.5x ATK & RCV when 6 or more combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos; 2.5x ATK & RCV when 6 or more combos
@@ -32431,7 +32431,7 @@ KR: 2.5x ATK & RCV when 6 or more combos
 
 # 8924/138 - Eternal Dragon Roar-Drawn Joker
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Game: 5x ATK & reduces damage with 2+ Dark combos; 2.5x ATK & RCV with 6+ combos
+Game: 6x ATK & reduces damage with 2+ Dark combos; 2.5x ATK & RCV with 6+ combos
 JP: 6x ATK and reduce damage taken by 25% when matching 2+ Dark combos; 2.5x ATK & RCV when 6 or more combos
 EN: 6x ATK and reduce damage taken by 25% when matching 2+ Dark combos; 2.5x ATK & RCV when 6 or more combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Dark combos; 2.5x ATK & RCV when 6 or more combos
@@ -36309,7 +36309,7 @@ KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
 # 10036/138 - Crystal Dragon Tribe's Protection
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Game: 1.5x to all stats for Dragon Type, Orb move time +2 sec; 5x ATK & reduces dmg when Water & Dark attack at once
+Game: 1.5x to all stats for Dragon Type, Orb move time +2 sec; 6x ATK & reduces dmg when Water & Dark attack at once
 JP: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Water and Dark
 EN: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Water and Dark
 KR: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Water and Dark
@@ -36330,7 +36330,7 @@ KR: 6x ATK and reduce damage taken by 25% when matching Water and Dark
 
 # 10043/138 - Ancient Dragon Tribe's Protection
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Game: 1.5x to all stats for Dragon Type, Orb move time +2 sec; 5x ATK & reduces dmg when Wood & Dark attack at once
+Game: 1.5x to all stats for Dragon Type, Orb move time +2 sec; 6x ATK & reduces dmg when Wood & Dark attack at once
 JP: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Wood and Dark
 EN: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Wood and Dark
 KR: 1.5x all stats for Dragon type; Increase orb movement time by 2 seconds; 6x ATK and reduce damage taken by 25% when matching Wood and Dark
@@ -55342,7 +55342,7 @@ KR: 200x ATK additional damage when matching orbs
 
 # 14924/138 - True Spirit of the Love Deity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Game: 1.5x HP for Light Att., 4x ATK with 6+ combos; 4x ATK & reduces damage with an L shape of 5 Orbs
+Game: 1.5x HP & RCV for Light Att., 4x ATK with 6+ combos; 4x ATK & reduces damage with an L shape of 5 Orbs
 JP: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 EN: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 KR: 1.5x HP & RCV for Light Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
@@ -56167,9 +56167,9 @@ JP: 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
 EN: 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
 KR: 5x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
 
-# 15152/138 - ドットストライク・火
+# 15152/138 - Pixel Strike - Fire
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
-Game: 火を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 火を9個以上つなげて消すと、固定1ダメージ。
+Game: ATK increases with 6+ linked Fire Orbs, up to 30x (30 Orbs); inflicts 1 damage with 9+ linked Fire Orbs
 JP: 6x ATK when matching 6 or more connected Fire orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Fire orbs
 EN: 6x ATK when matching 6 or more connected Fire orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Fire orbs
 KR: 6x ATK when matching 6 or more connected Fire orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Fire orbs
@@ -56188,9 +56188,9 @@ JP: 1 additional damage when matching 9 or more Fire orbs
 EN: 1 additional damage when matching 9 or more Fire orbs
 KR: 1 additional damage when matching 9 or more Fire orbs
 
-# 15155/138 - ドットストライク・水
+# 15155/138 - Pixel Strike - Water
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
-Game: 水を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 水を9個以上つなげて消すと、固定1ダメージ。
+Game: ATK increases with 6+ linked Water Orbs, up to 30x (30 Orbs); inflicts 1 damage with 9+ linked Water Orbs
 JP: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
 EN: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
 KR: 6x ATK when matching 6 or more connected Water orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Water orbs
@@ -56209,9 +56209,9 @@ JP: 1 additional damage when matching 9 or more Water orbs
 EN: 1 additional damage when matching 9 or more Water orbs
 KR: 1 additional damage when matching 9 or more Water orbs
 
-# 15158/138 - ドットストライク・木
+# 15158/138 - Pixel Strike - Wood
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
-Game: 木を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 木を9個以上つなげて消すと、固定1ダメージ。
+Game: ATK increases with 6+ linked Wood Orbs, up to 30x (30 Orbs); inflicts 1 damage with 9+ linked Wood Orbs
 JP: 6x ATK when matching 6 or more connected Wood orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Wood orbs
 EN: 6x ATK when matching 6 or more connected Wood orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Wood orbs
 KR: 6x ATK when matching 6 or more connected Wood orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Wood orbs
@@ -56230,9 +56230,9 @@ JP: 1 additional damage when matching 9 or more Wood orbs
 EN: 1 additional damage when matching 9 or more Wood orbs
 KR: 1 additional damage when matching 9 or more Wood orbs
 
-# 15161/138 - ドットストライク・光
+# 15161/138 - Pixel Strike - Light
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
-Game: 光を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 光を9個以上つなげて消すと、固定1ダメージ。
+Game: ATK increases with 6+ linked Light Orbs, up to 30x (30 Orbs); inflicts 1 damage with 9+ linked Light Orbs
 JP: 6x ATK when matching 6 or more connected Light orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Light orbs
 EN: 6x ATK when matching 6 or more connected Light orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Light orbs
 KR: 6x ATK when matching 6 or more connected Light orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Light orbs
@@ -56251,9 +56251,9 @@ JP: 1 additional damage when matching 9 or more Light orbs
 EN: 1 additional damage when matching 9 or more Light orbs
 KR: 1 additional damage when matching 9 or more Light orbs
 
-# 15164/138 - ドットストライク・闇
+# 15164/138 - Pixel Strike - Dark
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
-Game: 闇を6個以上つなげて消すと攻撃力が上昇、最大30倍（30個）。 闇を9個以上つなげて消すと、固定1ダメージ。
+Game: ATK increases with 6+ linked Dark Orbs, up to 30x (30 Orbs); inflicts 1 damage with 9+ linked Dark Orbs
 JP: 6x ATK when matching 6 or more connected Dark orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Dark orbs
 EN: 6x ATK when matching 6 or more connected Dark orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Dark orbs
 KR: 6x ATK when matching 6 or more connected Dark orbs up to 30x at 30 orbs; 1 additional damage when matching 9 or more Dark orbs
@@ -56272,9 +56272,9 @@ JP: 1 additional damage when matching 9 or more Dark orbs
 EN: 1 additional damage when matching 9 or more Dark orbs
 KR: 1 additional damage when matching 9 or more Dark orbs
 
-# 15167/138 - 冥狼神の真魂
+# 15167/138 - True Spirit of the Hell Deity
 Tags: ENHANCED_ATK_RCV
-Game: 8コンボ以上で攻撃力が上昇、最大10倍。 スキル使用時、攻撃力が4倍、回復力は2倍。
+Game: ATK increases with 8+ combos, up to 10x; 4x ATK & 2x RCV when skills used
 JP: 6x ATK when 8 or more combos up to 10x at 12 combos; 4x ATK and 2x RCV on the turn a skill is used
 EN: 6x ATK when 8 or more combos up to 10x at 12 combos; 4x ATK and 2x RCV on the turn a skill is used
 KR: 6x ATK when 8 or more combos up to 10x at 12 combos; 4x ATK and 2x RCV on the turn a skill is used
@@ -56923,9 +56923,9 @@ JP: 2x ATK and increase combo by 2 when matching 9 or more connected Wood orbs a
 EN: 2x ATK and increase combo by 2 when matching 9 or more connected Wood orbs at once
 KR: 2x ATK and increase combo by 2 when matching 9 or more connected Wood orbs at once
 
-# 15366/138 - 打倒の戦技
+# 15366/138 - Artful Strike
 Tags: ENHANCED_HP_ATK
-Game: 攻撃タイプのHPと攻撃力が2倍。7コンボ以上で攻撃力が8倍。 5色同時攻撃で2コンボ加算。
+Game: 2x HP & ATK for Attacker Type, 8x ATK with 7+ combos; adds 2 combos when 5 Att. attack at once
 JP: 2x HP & ATK for Attacker type; 8x ATK when 7 or more combos; increase combo by 2 when matching 5 or more colors
 EN: 2x HP & ATK for Attacker type; 8x ATK when 7 or more combos; increase combo by 2 when matching 5 or more colors
 KR: 2x HP & ATK for Attacker type; 8x ATK when 7 or more combos; increase combo by 2 when matching 5 or more colors
@@ -56972,9 +56972,9 @@ JP: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs a
 EN: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
 KR: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once
 
-# 15376/129 - 潜在覚醒枠解放
+# 15376/129 - Latent Awakening! (Extra Slot)
 Tags: 
-Game: 転生進化、転生進化後の究極進化、超転生進化モンスターに 合成すると、潜在覚醒スキルの枠を1つ解放。（最大8枠まで）
+Game: +1 Latent Awkn Skill slot when fused with Reincarnated monsters (incl. Ult Evo & Super Reincarn.), max 8 slots
 JP: 
 EN: 
 KR: 
@@ -58057,9 +58057,9 @@ JP: 1 additional damage when matching 9 or more Wood orbs
 EN: 1 additional damage when matching 9 or more Wood orbs
 KR: 1 additional damage when matching 9 or more Wood orbs
 
-# 15684/138 - 碧岩の龍鱗
+# 15684/138 - Jade Dragon Scales
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Game: 【操作時間3秒】木属性の全パラメータが1.5倍。 7コンボ以上でダメージを軽減、攻撃力が20倍。
+Game: [Orb move time: 3 sec], 1.5x to all stats for Wood Att.; 20x ATK & reduces damage with 7+ combos
 JP: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
 EN: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
 KR: [Fixed 3 second movetime] 1.5x all stats for Wood Att.; 20x ATK and reduce damage taken by 25% when 7 or more combos
