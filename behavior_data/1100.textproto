@@ -154,14 +154,20 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 1086
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -176,6 +182,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1077
                 }
               }
@@ -189,6 +197,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1078
                 }
               }
@@ -202,6 +212,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1079
                 }
               }
@@ -215,6 +227,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1080
                 }
               }
@@ -235,64 +249,9 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1076
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1077
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1078
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1079
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1080
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 4
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1077
                 }
               }
             }
@@ -301,4 +260,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
