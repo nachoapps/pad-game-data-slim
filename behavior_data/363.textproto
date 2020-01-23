@@ -135,20 +135,14 @@
     level: 1
     groups {
       group_type: PREEMPT
-      condition {
-      }
       children {
         behavior {
-          condition {
-          }
           enemy_skill_id: 6124
         }
       }
     }
     groups {
       group_type: STANDARD
-      condition {
-      }
       children {
         group {
           group_type: STANDARD
@@ -157,8 +151,6 @@
           }
           children {
             behavior {
-              condition {
-              }
               enemy_skill_id: 6124
             }
           }
@@ -178,8 +170,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 6127
                 }
               }
@@ -193,8 +183,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 6134
                 }
               }
@@ -211,8 +199,8 @@
           children {
             group {
               condition {
-                global_one_time: true
                 trigger_turn: 1
+                always_trigger_above: 1
               }
               children {
                 behavior {
@@ -227,8 +215,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 6130
                 }
               }
@@ -242,8 +228,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 6133
                 }
               }
@@ -257,8 +241,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 6135
                 }
               }
@@ -274,8 +256,6 @@
           }
           children {
             behavior {
-              condition {
-              }
               enemy_skill_id: 6136
             }
           }
@@ -283,4 +263,4 @@
       }
     }
   }
-  status: APPROVED_WITH_CHANGES
+  status: APPROVED_AS_IS
