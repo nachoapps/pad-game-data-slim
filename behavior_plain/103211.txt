@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:15337) -> Skeletal Guise
+	[0] ESStatusShield(20:15337) -> Skeletal Form
 	Voids status ailments for 3 turns
 	[1] ESGravity(50:15338) -> Dark Realm of Exorcism
 	Player -99% HP

@@ -16,7 +16,7 @@ flag SET 0b1
 #4: SkillSet:
 	[0] ESCloud(104:15700) -> Cloud Cluster
 	A 6×2 rectangle of clouds appears for 1 turn at 4th row, 1st column
-	[1] ESStatusShield(20:15701) -> Protective Cloud Wall
+	[1] ESStatusShield(20:15701) -> Protective Cloud Formation
 	Voids status ailments for 99 turns
 	[2] ESAbsorbCombo(67:15702) -> Rainbow Fog
 	Absorb damage when combos <= 7 for 1 turn

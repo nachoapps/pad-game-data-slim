@@ -11,7 +11,7 @@ Enable preempt if level 1
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Water skyfall +15% for 5 turns
 
-#3: ESAttackUPRemainingEnemies(17:13979) -> Don't bug me man...
+#3: ESAttackUPRemainingEnemies(17:13979) -> Impudent brats...
 Condition: When < 50% HP , one-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 999 turns
 

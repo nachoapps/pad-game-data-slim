@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESInactivity66(66:13970) -> I don't feel so good!
+	[0] ESInactivity66(66:13970) -> I'm in a bad mood now!
 	Do nothing
 	[1] ESAttackUPRemainingEnemies(17:13971) -> This isn't over!
 	Increase damage to 200% for the next 999 turns

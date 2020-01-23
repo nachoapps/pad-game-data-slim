@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESAbsorbCombo(67:15333) -> Enlightening Bonfire
+	[0] ESAbsorbCombo(67:15333) -> Bonfire of Enlightenment
 	Absorb damage when combos <= 7 for 1 turn
 	[1] ESColumnSpawnMulti(77:15334) -> Triple Fireball
 	Change the 1st column to Heal orbs, the 2nd column to Dark orbs, and the 3rd column to Fire orbs, Deal 140% damage

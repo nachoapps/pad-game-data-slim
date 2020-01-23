@@ -11,7 +11,7 @@ level: 1
  | (16073:73) Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (16057:83) いざ、参る！ + 見切り + 威圧する眼光
+ | (16057:83) Attacking now! + Abandonment + Overpowering Gaze
  | Voids status ailments for 999 turns + Absorb damage when combos <= 9 for 2 turns + Bind Devil cards for 10 turns
  group:
  | group:

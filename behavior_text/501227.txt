@@ -19,7 +19,7 @@ level: 1
    | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: always turn 1, hp <= 49
-   | (13979:17) Don't bug me man...
+   | (13979:17) Impudent brats...
    | Increase damage to 150% for the next 999 turns
  | group:
  | condition: hp <= 9

@@ -9,11 +9,11 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
-	[0] ESStatusShield(20:16058) -> いざ、参る！
+	[0] ESStatusShield(20:16058) -> Attacking now!
 	Voids status ailments for 999 turns
-	[1] ESAbsorbCombo(67:16059) -> 見切り
+	[1] ESAbsorbCombo(67:16059) -> Abandonment
 	Absorb damage when combos <= 9 for 2 turns
-	[2] ESBindTyping(3:16218) -> 威圧する眼光
+	[2] ESBindTyping(3:16218) -> Overpowering Gaze
 	Bind Devil cards for 10 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP

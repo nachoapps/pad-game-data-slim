@@ -27,7 +27,7 @@ Branch on hp < 50, target rnd 10
 Condition: One-time use (ai:100 rnd:0) (cost: 3)
 Change the 3rd and 4th columns to Fire orbs, Deal 100% damage
 
-#8: ESFixedStart(101:14525) -> Sword and Wings' Guidance
+#8: ESFixedStart(101:14525) -> Winged Sword of Guidance
 Fix orb movement starting point to random position on the board, Deal 100% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -52,7 +52,7 @@ Branch on hp < 10, target rnd 18
 Condition: One-time use (ai:100 rnd:0) (cost: 3)
 Change the 3rd and 4th columns to Fire orbs, Deal 100% damage
 
-#16: ESFixedStart(101:14525) -> Sword and Wings' Guidance
+#16: ESFixedStart(101:14525) -> Winged Sword of Guidance
 Fix orb movement starting point to random position on the board, Deal 100% damage
 
 #17: ESEndPath(36:26) -> ESEndPath

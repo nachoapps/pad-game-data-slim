@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (13972:83) I don't feel so good! + This isn't over!
+ | (13972:83) I'm in a bad mood now! + This isn't over!
  | Do nothing + Increase damage to 200% for the next 999 turns
  group:
  | (13973:15) Extreme Metal Claw

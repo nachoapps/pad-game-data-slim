@@ -9,5 +9,5 @@ approved: False
 level: 1
  type: DEATH
  condition: when defeated
- | (13949:95) Explosion + Bomb Blast + Scattering Board
+ | (13949:95) Explosion + Bomb Blast + Scattered Board
  | Player -80% HP + Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, and Dark

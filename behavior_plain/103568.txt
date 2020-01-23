@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESStatusShield(20:15327) -> I...am the strongest!
+	[0] ESStatusShield(20:15327) -> I'm...the strongest!!!
 	Voids status ailments for 999 turns
 	[1] ESVoidShield(71:15328) -> X Wall
 	Void damage >= 25000000 for 999 turns

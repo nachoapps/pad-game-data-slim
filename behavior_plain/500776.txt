@@ -17,7 +17,7 @@ Branch on counter >= 3, target rnd 7
 #4: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#5: ESInactivity66(66:14544) -> Storing up Power
+#5: ESInactivity66(66:14544) -> Storing up power
 Do nothing
 
 #6: ESEndPath(36:26) -> ESEndPath

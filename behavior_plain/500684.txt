@@ -6,5 +6,5 @@ counter increment: 0
 
 #1: SkillSet:
 	Condition: On death (ai:0 rnd:0)
-	[0] ESSkillSet(83:13956) -> Explosion + Bomb Blast + Scattering Board
+	[0] ESSkillSet(83:13956) -> Explosion + Bomb Blast + Scattered Board
 	Player -80% HP + Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, and Dark
