@@ -114,3 +114,131 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 12130
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 1
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 7784
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 2
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 7785
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 3
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 7786
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 4
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+                hp_threshold: 101
+              }
+              enemy_skill_id: 7787
+            }
+          }
+          children {
+            behavior {
+              condition {
+                hp_threshold: 99
+              }
+              enemy_skill_id: 7790
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 99
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 7784
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 7785
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 7786
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
