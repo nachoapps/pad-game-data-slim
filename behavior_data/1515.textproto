@@ -107,14 +107,59 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 16074
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            trigger_turn: 1
+            always_trigger_above: 1
+          }
+          children {
+            group {
+              group_type: STANDARD
+              condition {
+                hp_threshold: 100
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 16077
+                }
+              }
+            }
+          }
+          children {
+            group {
+              group_type: STANDARD
+              condition {
+                hp_threshold: 79
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 16078
+                }
+              }
+            }
+          }
+        }
+      }
       children {
         group {
           condition {
@@ -123,6 +168,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 16081
             }
           }
@@ -137,18 +184,7 @@
           children {
             group {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 79
               }
-              children {
-                behavior {
-                  enemy_skill_id: 16077
-                }
-              }
-            }
-          }
-          children {
-            group {
               children {
                 behavior {
                   condition {
@@ -181,25 +217,12 @@
         group {
           group_type: STANDARD
           condition {
-            hp_threshold: 79
-            trigger_turn: 1
-            always_trigger_above: 1
-          }
-          children {
-            behavior {
-              enemy_skill_id: 16078
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
             hp_threshold: 9
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 16085
             }
           }
@@ -207,4 +230,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
