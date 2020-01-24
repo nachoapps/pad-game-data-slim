@@ -25898,8 +25898,8 @@ KR: Blind all orbs on the board
 
 # 5173/39 - Dazzler Splash
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 5174/77 - Hydro Cannon
 JP: 上から3と4列目のドロップが水ドロップに変化
@@ -26881,8 +26881,8 @@ KR: Change all Heal orbs to Mortal Poison orbs
 
 # 5369/39 - Zeit Rauben
 JP: 3ターンの間、操作時間+50%
-EN: Movetime +50% for 3 turns
-KR: Movetime +50% for 3 turns
+EN: Movetime 50% for 3 turns
+KR: Movetime 50% for 3 turns
 
 # 5370/15 - Eisen Zorn
 JP: 1500%ダメージ (5連続攻撃、300%ごと)
@@ -26941,8 +26941,8 @@ KR: Change all Heal orbs to Mortal Poison orbs
 
 # 5381/39 - Zeit Radieren
 JP: 5ターンの間、操作時間+25%
-EN: Movetime +25% for 5 turns
-KR: Movetime +25% for 5 turns
+EN: Movetime 25% for 5 turns
+KR: Movetime 25% for 5 turns
 
 # 5382/15 - Eisen Ärger
 JP: 3500%ダメージ (5連続攻撃、700%ごと)
@@ -28266,8 +28266,8 @@ KR: Absorb damage when combos <= 4 for 1 turn
 
 # 5646/39 - Hesitant Opening Notes
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 5647/83 - Start 2 times
 JP: 
@@ -28556,8 +28556,8 @@ KR:
 
 # 5704/39 - Blazing Brand of Retribution
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 5705/85 - Fireball Destruction
 JP: 全ドロップを火とお邪魔に変化
@@ -28831,8 +28831,8 @@ KR: Blind random 3 orbs for 2 turns
 
 # 5759/39 - Trick & Trick
 JP: 5ターンの間、操作時間+200%
-EN: Movetime +200% for 5 turns
-KR: Movetime +200% for 5 turns
+EN: Movetime 200% for 5 turns
+KR: Movetime 200% for 5 turns
 
 # 5760/15 - Nightmare Cane
 JP: 120%ダメージ (2連続攻撃、60%ごと)
@@ -29906,8 +29906,8 @@ KR:
 
 # 5974/39 - Miséricorde
 JP: 20ターンの間、操作時間+200%
-EN: Movetime +200% for 20 turns
-KR: Movetime +200% for 20 turns
+EN: Movetime 200% for 20 turns
+KR: Movetime 200% for 20 turns
 
 # 5975/67 - Diadème de la Reine
 JP: 999ターンの間、7コンボ以下の攻撃を吸収
@@ -30116,8 +30116,8 @@ KR: Seal the 6th column for 1 turn
 
 # 6016/39 - Fear Book♪
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 6017/15 - Green Star Sword
 JP: 600%ダメージ
@@ -30131,8 +30131,8 @@ KR:
 
 # 6019/39 - Menacing Bloodshot Eyes
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 6020/74 - Solid Scales
 JP: 1ターンの間、受けるダメージからの攻撃を99%減少
@@ -30281,8 +30281,8 @@ KR:
 
 # 6049/39 - Eyes are fixed on the prey
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 6050/74 - Saw someone and prepared to fight
 JP: 1ターンの間、受けるダメージからの攻撃を99%減少
@@ -30941,8 +30941,8 @@ KR:
 
 # 6181/39 - Black Qualm
 JP: 99ターンの間、操作時間+50%
-EN: Movetime +50% for 99 turns
-KR: Movetime +50% for 99 turns
+EN: Movetime 50% for 99 turns
+KR: Movetime 50% for 99 turns
 
 # 6182/17 - Hell Crown
 JP: 999ターンの間、攻撃力が300%に上昇
@@ -31891,8 +31891,8 @@ KR: Absorb damage when combos <= 6 for 999 turns
 
 # 6371/39 - Vines get in the way of the puzzle!
 JP: 6ターンの間、操作時間+25%
-EN: Movetime +25% for 6 turns
-KR: Movetime +25% for 6 turns
+EN: Movetime 25% for 6 turns
+KR: Movetime 25% for 6 turns
 
 # 6372/90 - Susano Jump
 JP: Branch on player_cards HAS [2323], target rnd None
@@ -32331,8 +32331,8 @@ KR: Reduce damage from all sources by 50% for 3 turns
 
 # 6459/39 - Malicious Laughter
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 6460/83 - Dark Izanami 1 Set
 JP: 
@@ -32431,8 +32431,8 @@ KR: Void damage >= 10000000 for 999 turns
 
 # 6479/105 - Discerning Lifechains
 JP: 20ターンの間、回復力を50%になる
-EN: RCV +50% for 20 turns
-KR: RCV +50% for 20 turns
+EN: RCV 50% for 20 turns
+KR: RCV 50% for 20 turns
 
 # 6480/67 - Test of Skill
 JP: 10ターンの間、5コンボ以下の攻撃を吸収
@@ -32446,8 +32446,8 @@ KR: A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 
 # 6482/39 - Test of Speed
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 6483/19 - Test of Endurance
 JP: 10ターンの間、攻撃力が150%に上昇
@@ -33041,8 +33041,8 @@ KR: Void damage >= 10000000 for 999 turns
 
 # 6601/105 - Salvation Flame
 JP: 9ターンの間、回復力を200%になる
-EN: RCV +200% for 9 turns
-KR: RCV +200% for 9 turns
+EN: RCV 200% for 9 turns
+KR: RCV 200% for 9 turns
 
 # 6602/15 - Crossdraw Breath
 JP: 760%ダメージ
@@ -33841,8 +33841,8 @@ KR: Deal 400% damage (2 hits, 200% each)
 
 # 6761/39 - Thousand-Echo Windmill
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 6762/15 - Nevergreen Tempest
 JP: 1750%ダメージ (5連続攻撃、350%ごと)
@@ -34011,8 +34011,8 @@ KR: Deal 30000% damage (10 hits, 3000% each)
 
 # 6795/39 - Sealing Silence of the Deep
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 6796/94 - Dreaded Celestial
 JP: ランダムで15個ドロップをロック
@@ -34256,8 +34256,8 @@ KR: Deal 30000% damage (10 hits, 3000% each)
 
 # 6844/105 - White Wings of Divine Intervention
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 6845/67 - Trials of Heaven
 JP: 999ターンの間、5コンボ以下の攻撃を吸収
@@ -34321,8 +34321,8 @@ KR: Reduce damage from all sources by 75% for 3 turns
 
 # 6857/39 - Burn Claw
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 6858/62 - Flash Burn
 JP: 全ドロップを真っ暗にする
@@ -34926,13 +34926,13 @@ KR: Movetime -3s for 1 turn
 
 # 6978/39 - Time Mixup
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 6979/39 - Time Mixup
 JP: 1ターンの間、操作時間+150%
-EN: Movetime +150% for 1 turn
-KR: Movetime +150% for 1 turn
+EN: Movetime 150% for 1 turn
+KR: Movetime 150% for 1 turn
 
 # 6980/15 - Wonder Bolt
 JP: 350%ダメージ (7連続攻撃、50%ごと)
@@ -34971,8 +34971,8 @@ KR: Delay active skills by 10 turns
 
 # 6987/105 - Lifeseal Talisman
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 6988/14 - Chime of the Demon Moon
 JP: 10ターンの間、スキル使用不可
@@ -35226,8 +35226,8 @@ KR: Absorb Dark damage for 2 turns
 
 # 7038/105 - Disturbed Forest
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 7039/63 - Silk Chains
 JP: 2ターンの間、ランダムで1体がバインド
@@ -35741,8 +35741,8 @@ KR:
 
 # 7141/105 - Shadow of Hel! Extinguish all life!
 JP: 99ターンの間、回復力を50%になる
-EN: RCV +50% for 99 turns
-KR: RCV +50% for 99 turns
+EN: RCV 50% for 99 turns
+KR: RCV 50% for 99 turns
 
 # 7142/50 - Deathland Rune
 JP: 現HPの99%のダメージ
@@ -35786,8 +35786,8 @@ KR: Change all orbs to Light, Heal, and Jammer
 
 # 7150/39 - Oh, fine... I'll let you have your fun
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 7151/89 - Can you erase all the Jammers?
 JP: スキルターンを30ターン遅延
@@ -35971,8 +35971,8 @@ KR: Branch on player_cards HAS [3706], target rnd None
 
 # 7187/39 - Bubble Breath
 JP: 1ターンの間、操作時間+150%
-EN: Movetime +150% for 1 turn
-KR: Movetime +150% for 1 turn
+EN: Movetime 150% for 1 turn
+KR: Movetime 150% for 1 turn
 
 # 7188/67 - Second Bubble Breath Stance
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
@@ -36871,8 +36871,8 @@ KR:
 
 # 7367/39 - Exalted Flame
 JP: 5ターンの間、操作時間+150%
-EN: Movetime +150% for 5 turns
-KR: Movetime +150% for 5 turns
+EN: Movetime 150% for 5 turns
+KR: Movetime 150% for 5 turns
 
 # 7368/83 - Success 2 times
 JP: 
@@ -37091,8 +37091,8 @@ KR: Voids status ailments for 999 turns
 
 # 7411/105 - Let's have a little more fun
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 7412/83 - 50% 2 times
 JP: 
@@ -37101,8 +37101,8 @@ KR:
 
 # 7413/39 - Icicle Sting
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 7414/102 - Bubble Bomb
 JP: 爆弾ドロップを5個生成
@@ -37341,8 +37341,8 @@ KR:
 
 # 7461/105 - Give me a hand, Baby Genie!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 7462/104 - Leave it to me! Rub that lamp!
 JP: 4ターンの間、左から1列目の縦1列を雲で隠す
@@ -37816,8 +37816,8 @@ KR: Player -90% HP
 
 # 7556/39 - Eye of the Storm Dragon
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 7557/85 - Valiant Gale
 JP: 全ドロップを木とお邪魔に変化
@@ -37846,8 +37846,8 @@ KR: Change the 1st row to Fire orbs
 
 # 7562/39 - Raises hand
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 7563/20 - Hardened Body
 JP: 9ターンの間、状態異常無効化
@@ -38121,8 +38121,8 @@ KR: Lock all orbs
 
 # 7617/105 - Demon Cyclone
 JP: 4ターンの間、回復力を50%になる
-EN: RCV +50% for 4 turns
-KR: RCV +50% for 4 turns
+EN: RCV 50% for 4 turns
+KR: RCV 50% for 4 turns
 
 # 7618/83 - Alt. God Canopus Preemptive
 JP: 
@@ -38236,8 +38236,8 @@ KR: Movetime -1s for 2 turns
 
 # 7640/39 - Persephone is so beautiful♪
 JP: 2ターンの間、操作時間+150%
-EN: Movetime +150% for 2 turns
-KR: Movetime +150% for 2 turns
+EN: Movetime 150% for 2 turns
+KR: Movetime 150% for 2 turns
 
 # 7641/104 - Fresh Cream Paint
 JP: 1ターンの間、ランダムでの2×1マスの長方形を雲で隠す
@@ -38326,8 +38326,8 @@ KR: Spawn 3 random Mortal Poison orbs
 
 # 7658/105 - Chiming Rings
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 7659/50 - Brutal Wisp Fangs
 JP: 現HPの90%のダメージ
@@ -38401,8 +38401,8 @@ KR: Do nothing
 
 # 7673/39 - By all means! Please go through♪
 JP: 10ターンの間、操作時間+300%
-EN: Movetime +300% for 10 turns
-KR: Movetime +300% for 10 turns
+EN: Movetime 300% for 10 turns
+KR: Movetime 300% for 10 turns
 
 # 7674/40 - Well, please excuse me
 JP: 自爆
@@ -38771,8 +38771,8 @@ KR: Blind orbs in specific positions for 10 turns
 
 # 7747/39 - I will be reborn again here.
 JP: 3ターンの間、操作時間+50%
-EN: Movetime +50% for 3 turns
-KR: Movetime +50% for 3 turns
+EN: Movetime 50% for 3 turns
+KR: Movetime 50% for 3 turns
 
 # 7748/72 - Dark damage halved
 JP: 闇属性からの攻撃からの攻撃を50%減少
@@ -38816,8 +38816,8 @@ KR:
 
 # 7756/105 - Show me your worth!
 JP: 6ターンの間、回復力を50%になる
-EN: RCV +50% for 6 turns
-KR: RCV +50% for 6 turns
+EN: RCV 50% for 6 turns
+KR: RCV 50% for 6 turns
 
 # 7757/74 - Holy Ark of Sanctuary
 JP: 6ターンの間、受けるダメージからの攻撃を75%減少
@@ -39626,8 +39626,8 @@ KR:
 
 # 7918/39 - Open Ocean
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 7919/53 - Water Horse Neigh
 JP: 2ターンの間、水属性のダメージを吸収
@@ -39986,8 +39986,8 @@ KR: Change all Fire orbs to Wood orbs
 
 # 7990/105 - Ancient Dragon Wind
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 7991/50 - Great Reduction
 JP: 現HPの99%のダメージ
@@ -40231,8 +40231,8 @@ KR:
 
 # 8039/105 - Don't mess with a demon!
 JP: 7ターンの間、回復力を50%になる
-EN: RCV +50% for 7 turns
-KR: RCV +50% for 7 turns
+EN: RCV 50% for 7 turns
+KR: RCV 50% for 7 turns
 
 # 8040/74 - Steel Demonskin
 JP: 7ターンの間、受けるダメージからの攻撃を75%減少
@@ -41691,8 +41691,8 @@ KR:
 
 # 8331/105 - Ancient Field
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 8332/74 - Hyper Dragon Shield
 JP: 5ターンの間、受けるダメージからの攻撃を99%減少
@@ -41991,8 +41991,8 @@ KR: Absorb damage when combos <= 7 for 5 turns
 
 # 8391/39 - Nerophobos
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 8392/85 - Mercury Genesis
 JP: 全ドロップを水に変化
@@ -42771,8 +42771,8 @@ KR: Change the 3rd column to Wood orbs
 
 # 8547/105 - Flower Cutter
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 8548/109 - Uzu Tomoe
 JP: 1ターンの間、ランダムで3箇所のマスがが1.0秒毎に変化する
@@ -43021,8 +43021,8 @@ KR: Do nothing
 
 # 8597/105 - Resonance of Cockatrice
 JP: 5ターンの間、回復力を200%になる
-EN: RCV +200% for 5 turns
-KR: RCV +200% for 5 turns
+EN: RCV 200% for 5 turns
+KR: RCV 200% for 5 turns
 
 # 8598/66 - ♪
 JP: 何もしない
@@ -43541,8 +43541,8 @@ KR: Spawn 6 random locked Bomb orbs
 
 # 8701/39 - Guardian Flame
 JP: 5ターンの間、操作時間+150%
-EN: Movetime +150% for 5 turns
-KR: Movetime +150% for 5 turns
+EN: Movetime 150% for 5 turns
+KR: Movetime 150% for 5 turns
 
 # 8702/53 - Anti-Fire
 JP: 3ターンの間、火属性のダメージを吸収
@@ -45041,8 +45041,8 @@ KR: Seal the 5th row for 1 turn
 
 # 9001/39 - Devil's Devotion
 JP: 3ターンの間、操作時間+150%
-EN: Movetime +150% for 3 turns
-KR: Movetime +150% for 3 turns
+EN: Movetime 150% for 3 turns
+KR: Movetime 150% for 3 turns
 
 # 9002/109 - Bitter Spot
 JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
@@ -45276,8 +45276,8 @@ KR: Deal 240% damage (3 hits, 80% each)
 
 # 9048/39 - Show me your highest combo!
 JP: 4ターンの間、操作時間+150%
-EN: Movetime +150% for 4 turns
-KR: Movetime +150% for 4 turns
+EN: Movetime 150% for 4 turns
+KR: Movetime 150% for 4 turns
 
 # 9049/101 - Let's have a trial first
 JP: ドロップ操作開始位置をランダムで固定される
@@ -45456,8 +45456,8 @@ KR: Deal 110% damage (2 hits, 55% each)
 
 # 9084/39 - I'm really going to give my all now!
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 9085/85 - Time's up!
 JP: 全ドロップを水に変化
@@ -45921,8 +45921,8 @@ KR: Delay active skills by 0~1 turns
 
 # 9177/39 - Instant Ripped Death
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 9178/74 - The Purple Augite is pulsating
 JP: 6ターンの間、受けるダメージからの攻撃を35%減少
@@ -46166,8 +46166,8 @@ KR: Player -99% HP
 
 # 9226/105 - And another boom!
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 9227/83 - Sylph 2 times
 JP: 
@@ -46271,8 +46271,8 @@ KR: Voids status ailments for 999 turns
 
 # 9247/39 - Nornil Curse
 JP: 12ターンの間、操作時間+50%
-EN: Movetime +50% for 12 turns
-KR: Movetime +50% for 12 turns
+EN: Movetime 50% for 12 turns
+KR: Movetime 50% for 12 turns
 
 # 9248/83 - Norn 50% 2 times
 JP: 
@@ -46336,8 +46336,8 @@ KR: Change the 1st row to Fire orbs and the 5th row to Water orbs
 
 # 9260/105 - Norn Resistance
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 9261/83 - Urd Second Half A2 times
 JP: 
@@ -46571,8 +46571,8 @@ KR: Spawn 6 random Heal orbs
 
 # 9307/105 - Dazzling Pulse
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 9308/15 - Extinction - Gulp Gulp!!
 JP: 500%ダメージ (2連続攻撃、250%ごと)
@@ -47414,8 +47414,8 @@ KR: Change a random attribute to Jammer orbs
 
 # 9475/39 - Patience Reward
 JP: 10ターンの間、操作時間+150%
-EN: Movetime +150% for 10 turns
-KR: Movetime +150% for 10 turns
+EN: Movetime 150% for 10 turns
+KR: Movetime 150% for 10 turns
 
 # 9476/98 - Let's have some fun!
 JP: 3ターンの間、特定のドロップが超暗闇にする
@@ -47439,8 +47439,8 @@ KR: Absorb damage when combos <= 7 for 1 turn
 
 # 9480/39 - Take this!
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 9481/109 - Take this!
 JP: 1ターンの間、ランダムで3箇所のマスがが1.0秒毎に変化する
@@ -47454,8 +47454,8 @@ KR: Absorb damage when combos <= 7 for 1 turn
 
 # 9483/39 - How about this?!
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 9484/109 - How about this?!
 JP: 1ターンの間、ランダムで3箇所のマスがが1.0秒毎に変化する
@@ -47469,8 +47469,8 @@ KR: Absorb damage when combos <= 7 for 1 turn
 
 # 9486/39 - I'll end this now!
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 9487/109 - I'll end this now!
 JP: 1ターンの間、ランダムで3箇所のマスがが1.0秒毎に変化する
@@ -47539,8 +47539,8 @@ KR: Absorb damage when combos <= 7 for 10 turns
 
 # 9500/39 - Underworld Charity
 JP: 10ターンの間、操作時間+150%
-EN: Movetime +150% for 10 turns
-KR: Movetime +150% for 10 turns
+EN: Movetime 150% for 10 turns
+KR: Movetime 150% for 10 turns
 
 # 9501/109 - Swirling Fire
 JP: 10ターンの間、ランダムで1箇所のマスがが1.5秒毎に変化する
@@ -47814,8 +47814,8 @@ KR: Absorb damage when combos <= 6 for 1 turn
 
 # 9555/39 - Let's get excited ♪
 JP: 5ターンの間、操作時間+200%
-EN: Movetime +200% for 5 turns
-KR: Movetime +200% for 5 turns
+EN: Movetime 200% for 5 turns
+KR: Movetime 200% for 5 turns
 
 # 9556/83 - Sakuya Preemptive
 JP: 
@@ -47984,8 +47984,8 @@ KR: Enemy recover 50% HP
 
 # 9589/39 - Rudeness is no good!
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 9590/83 - Freyja 1% 2 times
 JP: 
@@ -48079,8 +48079,8 @@ KR: Player -99% HP
 
 # 9608/105 - Song of Life Binding
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 9609/83 - Preemptive 2 times
 JP: 
@@ -48549,8 +48549,8 @@ KR:
 
 # 9702/105 - How long can you bear through this?
 JP: 5ターンの間、回復力を10%になる
-EN: RCV +10% for 5 turns
-KR: RCV +10% for 5 turns
+EN: RCV 10% for 5 turns
+KR: RCV 10% for 5 turns
 
 # 9703/15 - Eternity's Judgment
 JP: 30%ダメージ (2連続攻撃、15%ごと)
@@ -48579,8 +48579,8 @@ KR: Deal 900% damage (6 hits, 150% each)
 
 # 9708/39 - Tears of the Sacred Divinity
 JP: 2ターンの間、操作時間+50%
-EN: Movetime +50% for 2 turns
-KR: Movetime +50% for 2 turns
+EN: Movetime 50% for 2 turns
+KR: Movetime 50% for 2 turns
 
 # 9709/95 - Hathor on Death
 JP: 
@@ -48659,8 +48659,8 @@ KR: Change all orbs to Heal and Poison
 
 # 9724/105 - Ocean Current Mayhem
 JP: 99ターンの間、回復力を50%になる
-EN: RCV +50% for 99 turns
-KR: RCV +50% for 99 turns
+EN: RCV 50% for 99 turns
+KR: RCV 50% for 99 turns
 
 # 9725/1 - Freeze Wave
 JP: 10ターンの間、ランダムで6体がバインド
@@ -48684,8 +48684,8 @@ KR: Absorb Water damage for 1 turn
 
 # 9729/39 - Sand Disaster
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 9730/15 - Tidal Wave
 JP: 125%ダメージ (5連続攻撃、25%ごと)
@@ -48744,8 +48744,8 @@ KR: Voids status ailments for 999 turns
 
 # 9741/39 - Do your absolute best!
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 9742/83 - Preemptive 2 times Spica
 JP: 
@@ -49814,8 +49814,8 @@ KR: Change a random attribute to Water orbs
 
 # 9955/105 - Rakunda
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 9956/83 - 2 Times Action Jack Frost
 JP: 
@@ -50339,8 +50339,8 @@ KR: Deal 270% damage (3 hits, 90% each)
 
 # 10060/39 - The Malice of Rebellion
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 10061/17 - Aaru's Throne
 JP: 99ターンの間、攻撃力が150%に上昇
@@ -50569,8 +50569,8 @@ KR: Survive attacks with 1 HP when HP > 50%
 
 # 10106/39 - Swirling Black Emotions
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 10107/48 - Threat Removal
 JP: 回復ドロップをお邪魔ドロップに変化
@@ -50594,8 +50594,8 @@ KR: Spawn locked Bomb orbs in the specified positions
 
 # 10111/105 - Look of False Evil
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 10112/83 - First time 2 times Nut
 JP: 
@@ -50959,8 +50959,8 @@ KR:
 
 # 10184/39 - Well done!
 JP: 1ターンの間、操作時間+200%
-EN: Movetime +200% for 1 turn
-KR: Movetime +200% for 1 turn
+EN: Movetime 200% for 1 turn
+KR: Movetime 200% for 1 turn
 
 # 10185/96 - Next, this!
 JP: 3ターンの間、ロックされた回復ドロップを+100%に落ちてくる
@@ -50979,8 +50979,8 @@ KR:
 
 # 10188/105 - No, no, you can do better!
 JP: 4ターンの間、回復力を50%になる
-EN: RCV +50% for 4 turns
-KR: RCV +50% for 4 turns
+EN: RCV 50% for 4 turns
+KR: RCV 50% for 4 turns
 
 # 10189/83 - Second time miss
 JP: 
@@ -51034,8 +51034,8 @@ KR: Lock 4 random orbs
 
 # 10199/105 - It's almost over !
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 10200/111 - It's SHOWTIME!!!
 JP: 2ターンの間、最大HPを500000で固定される
@@ -51114,8 +51114,8 @@ KR: Specific orbs change every 1.0s for 1 turn
 
 # 10215/39 - Hehe! You give up?
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 10216/104 - Run more!
 JP: 1ターンの間、左から1列目、上から2列目の4×5マスの長方形を雲で隠す
@@ -52619,8 +52619,8 @@ KR: Spawn 4 random Bomb orbs
 
 # 10516/105 - Scorching Heat
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 10517/17 - Flame Up
 JP: 99ターンの間、攻撃力が200%に上昇
@@ -52639,8 +52639,8 @@ KR: Heal skyfall +20% for 10 turns
 
 # 10520/105 - Withered Flowers
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 10521/83 - Preemptive 2 times Action
 JP: 
@@ -53169,8 +53169,8 @@ KR: Spawn 6 random Heal orbs
 
 # 10626/39 - Don't forget this sensation now.
 JP: 1ターンの間、操作時間+200%
-EN: Movetime +200% for 1 turn
-KR: Movetime +200% for 1 turn
+EN: Movetime 200% for 1 turn
+KR: Movetime 200% for 1 turn
 
 # 10627/83 - Success 2 times Action
 JP: 
@@ -53689,8 +53689,8 @@ KR: Deal 100% damage
 
 # 10730/105 - White Rabbit Rumble
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 10731/72 - Light Halved
 JP: 光属性からの攻撃からの攻撃を50%減少
@@ -53784,8 +53784,8 @@ KR: Absorb damage when combos <= 5 for 3 turns
 
 # 10749/105 - Sad Verse of Wind
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 10750/15 - Fuldofa Rulia
 JP: 120%ダメージ (2連続攻撃、60%ごと)
@@ -53879,8 +53879,8 @@ KR: Deal 117% damage (9 hits, 13% each)
 
 # 10768/39 - Abomination
 JP: 2ターンの間、操作時間+50%
-EN: Movetime +50% for 2 turns
-KR: Movetime +50% for 2 turns
+EN: Movetime 50% for 2 turns
+KR: Movetime 50% for 2 turns
 
 # 10769/50 - Black Pain
 JP: 現HPの99%のダメージ
@@ -54329,8 +54329,8 @@ KR: Lock 6 random orbs
 
 # 10858/39 - Leakage
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 10859/15 - God's Holy Breath
 JP: 400%ダメージ (4連続攻撃、100%ごと)
@@ -54589,8 +54589,8 @@ KR: Specific orbs change every 1.0s for 3 turns
 
 # 10910/105 - Shifa'a
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 10911/83 - 50% or less first time 2 times
 JP: 
@@ -54654,8 +54654,8 @@ KR: Bind awoken skills for 3 turns
 
 # 10923/39 - Sahwakt
 JP: 3ターンの間、操作時間+50%
-EN: Movetime +50% for 3 turns
-KR: Movetime +50% for 3 turns
+EN: Movetime 50% for 3 turns
+KR: Movetime 50% for 3 turns
 
 # 10924/83 - 50% or less first time 2 times
 JP: 
@@ -54719,8 +54719,8 @@ KR:
 
 # 10936/105 - Salvation of the Holy Ship
 JP: 9ターンの間、回復力を300%になる
-EN: RCV +300% for 9 turns
-KR: RCV +300% for 9 turns
+EN: RCV 300% for 9 turns
+KR: RCV 300% for 9 turns
 
 # 10937/15 - Strike from the Heavens
 JP: 4999%ダメージ
@@ -54929,8 +54929,8 @@ KR: Delay active skills by 2~3 turns
 
 # 10978/39 - Battle of Persistence
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 10979/79 - Flash of Affection
 JP: 左から3列目のドロップが回復ドロップに変化
@@ -55014,8 +55014,8 @@ KR: Bind 3 random subs for 4 turns
 
 # 10995/39 - Astaroth's Murmurs
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 10996/83 - 15% or less 2 times
 JP: 
@@ -55644,8 +55644,8 @@ KR: Do nothing
 
 # 11121/105 - And on that note!...
 JP: 9ターンの間、回復力を300%になる
-EN: RCV +300% for 9 turns
-KR: RCV +300% for 9 turns
+EN: RCV 300% for 9 turns
+KR: RCV 300% for 9 turns
 
 # 11122/40 - I'll let you take care of it!
 JP: 自爆
@@ -55824,8 +55824,8 @@ KR: Spawn Bomb orbs in the specified positions
 
 # 11157/39 - You will regret that
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 11158/17 - I'll end this for you NOW!
 JP: 99ターンの間、攻撃力が200%に上昇
@@ -55869,8 +55869,8 @@ KR: Poison skyfall +15% for 10 turns
 
 # 11166/105 - It's d-d-dangerous!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 11167/92 - B-Be careful!
 JP: 回復と猛毒ドロップを3個ずつ生成
@@ -55969,8 +55969,8 @@ KR:
 
 # 11186/39 - I've not had my full of training yet!
 JP: 3ターンの間、操作時間+200%
-EN: Movetime +200% for 3 turns
-KR: Movetime +200% for 3 turns
+EN: Movetime 200% for 3 turns
+KR: Movetime 200% for 3 turns
 
 # 11187/67 - Train properly!
 JP: 10ターンの間、7コンボ以下の攻撃を吸収
@@ -55984,8 +55984,8 @@ KR:
 
 # 11189/105 - Well, this has a lot of promise
 JP: 3ターンの間、回復力を200%になる
-EN: RCV +200% for 3 turns
-KR: RCV +200% for 3 turns
+EN: RCV 200% for 3 turns
+KR: RCV 200% for 3 turns
 
 # 11190/74 - Come and fight me!
 JP: 99ターンの間、受けるダメージからの攻撃を75%減少
@@ -56184,8 +56184,8 @@ KR: Bind awoken skills for 1 turn
 
 # 11229/39 - Keep the fun going!
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 11230/15 - That was a blast!
 JP: 500%ダメージ (5連続攻撃、100%ごと)
@@ -56604,8 +56604,8 @@ KR:
 
 # 11313/39 - Oh! Who are you?!
 JP: 15ターンの間、操作時間+50%
-EN: Movetime +50% for 15 turns
-KR: Movetime +50% for 15 turns
+EN: Movetime 50% for 15 turns
+KR: Movetime 50% for 15 turns
 
 # 11314/74 - She's vigilant
 JP: 15ターンの間、受けるダメージからの攻撃を75%減少
@@ -56724,8 +56724,8 @@ KR:
 
 # 11337/105 - Bad Halloween!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 11338/71 - Trick or Treat
 JP: 99ターンの間、10000000以上のダメージを無効化
@@ -56864,8 +56864,8 @@ KR: Blind random 10 orbs for 2 turns
 
 # 11365/39 - Trick & Trick
 JP: 2ターンの間、操作時間+25%
-EN: Movetime +25% for 2 turns
-KR: Movetime +25% for 2 turns
+EN: Movetime 25% for 2 turns
+KR: Movetime 25% for 2 turns
 
 # 11366/101 - Pumpkin Magic
 JP: ドロップ操作開始位置をランダムで固定される
@@ -57794,8 +57794,8 @@ KR: Absorb damage when damage >= 30,000,000 for 999 turns
 
 # 11551/105 - Discerning Lifechains
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 11552/89 - Fighting Maiden's Appearance
 JP: スキルターンを10ターン遅延
@@ -58049,8 +58049,8 @@ KR:
 
 # 11602/39 - Against the Wind
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 11603/17 - Burst of Rage
 JP: 999ターンの間、攻撃力が200%に上昇
@@ -58199,8 +58199,8 @@ KR: Player -99% HP
 
 # 11632/105 - Life Deprivation
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 11633/48 - Lame du Tonnerre
 JP: ランダム属性のドロップを光ドロップに変化
@@ -58379,8 +58379,8 @@ KR: Reduce damage from all sources by 50% for 99 turns
 
 # 11668/39 - Prepare yourself!
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 11669/83 - 1% or less 2 times
 JP: 
@@ -59379,8 +59379,8 @@ KR: Player -99% HP
 
 # 11868/105 - Lost Water of Life
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 11869/65 - Torrential Downpour
 JP: 2~3ターンの間、ランダムでサブ1体がバインド
@@ -59459,8 +59459,8 @@ KR:
 
 # 11884/39 - Congratulations
 JP: 10ターンの間、操作時間+200%
-EN: Movetime +200% for 10 turns
-KR: Movetime +200% for 10 turns
+EN: Movetime 200% for 10 turns
+KR: Movetime 200% for 10 turns
 
 # 11885/40 - I give you hope
 JP: 自爆
@@ -59479,8 +59479,8 @@ KR: Delay active skills by 10 turns
 
 # 11888/39 - Overflowed Despair
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 11889/40 - Farewell
 JP: 自爆
@@ -59564,8 +59564,8 @@ KR: Change a random attribute to Heal orbs
 
 # 11905/105 - Babaan... (It's hard for you too)
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 11906/15 - Loving Slap
 JP: 200%ダメージ
@@ -59674,8 +59674,8 @@ KR: Player recover 100% HP
 
 # 11927/39 - Here is some happiness!
 JP: 5ターンの間、操作時間+150%
-EN: Movetime +150% for 5 turns
-KR: Movetime +150% for 5 turns
+EN: Movetime 150% for 5 turns
+KR: Movetime 150% for 5 turns
 
 # 11928/15 - Kapu!
 JP: 110%ダメージ
@@ -59829,8 +59829,8 @@ KR: Absorb damage when combos <= 4 for 5 turns
 
 # 11958/105 - I won't lose!
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 11959/15 - Cool!
 JP: 100%ダメージ
@@ -60014,8 +60014,8 @@ KR:
 
 # 11995/39 - How skillful are you?...
 JP: 5ターンの間、操作時間+150%
-EN: Movetime +150% for 5 turns
-KR: Movetime +150% for 5 turns
+EN: Movetime 150% for 5 turns
+KR: Movetime 150% for 5 turns
 
 # 11996/67 - I will try that!
 JP: 5ターンの間、7コンボ以下の攻撃を吸収
@@ -60049,8 +60049,8 @@ KR:
 
 # 12002/39 - This power is certainly a formidable enemy!...
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 12003/17 - It's fine to call me "Tomo"!
 JP: 5ターンの間、攻撃力が150%に上昇
@@ -60114,8 +60114,8 @@ KR: Increase damage to 150% for the next 1 turn
 
 # 12015/105 - Well, let's liven things up some more!
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 12016/15 - Crimson Hell
 JP: 250%ダメージ
@@ -60244,13 +60244,13 @@ KR:
 
 # 12041/39 - It's seems I underestimated you...
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 12042/105 - Fight with all your strength!
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 12043/86 - To be driven this far...
 JP: 敵のHPが50%回復
@@ -60364,8 +60364,8 @@ KR: Spawn 3 random Mortal Poison orbs
 
 # 12065/105 - Babaan... (It's hard for you too)
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 12066/14 - Never Sleep Ever
 JP: 5ターンの間、スキル使用不可
@@ -60539,8 +60539,8 @@ KR: Delay active skills by 1~6 turns
 
 # 12100/39 - Backdraft
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 12101/100 - Fallen Angel's Wings
 JP: 4ターンの間、左から1と5列目のドロップが操作不可
@@ -60589,8 +60589,8 @@ KR:
 
 # 12110/105 - Give me a hand, Baby Genie!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12111/104 - Leave it to me! Rub that lamp!
 JP: 4ターンの間、左から1列目、上から3列目の2×5マスの長方形を雲で隠す
@@ -60824,8 +60824,8 @@ KR: Reduce damage from all sources by 50% for 10 turns
 
 # 12157/39 - Realm of Hades's Law
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 12158/83 - Preemptive Persephone Set
 JP: 
@@ -60839,8 +60839,8 @@ KR: Absorb damage when combos <= 6 for 1 turn
 
 # 12160/39 - Hesitant Opening Notes
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 12161/83 - Plus use 2 times
 JP: 
@@ -60944,8 +60944,8 @@ KR: Voids status ailments for 999 turns
 
 # 12181/39 - Nornil Curse
 JP: 12ターンの間、操作時間+50%
-EN: Movetime +50% for 12 turns
-KR: Movetime +50% for 12 turns
+EN: Movetime 50% for 12 turns
+KR: Movetime 50% for 12 turns
 
 # 12182/83 - Norn 50% 2 times
 JP: 
@@ -61134,8 +61134,8 @@ KR: Void damage >= 1000000 for 3 turns
 
 # 12219/105 - Don't bother.
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 12220/48 - Ha!
 JP: ランダム属性のドロップをお邪魔ドロップに変化
@@ -61259,8 +61259,8 @@ KR: Void damage >= 10000000 for 5 turns
 
 # 12244/105 - Don't bother.
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12245/88 - I'm telling you, don't bother with it.
 JP: 5ターンの間、覚醒スキル無効化
@@ -61414,8 +61414,8 @@ KR:
 
 # 12275/39 - Value of Freedom
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 12276/102 - Independent Assembly
 JP: 爆弾ドロップを10個生成
@@ -61539,8 +61539,8 @@ KR: Jammer skyfall +20% for 10 turns
 
 # 12300/105 - Sacrifice to the Furnace
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12301/83 - Normal A
 JP: 
@@ -61894,8 +61894,8 @@ KR:
 
 # 12371/105 - Here I come!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12372/83 - 50% or less 2 times
 JP: 
@@ -61904,8 +61904,8 @@ KR:
 
 # 12373/39 - I'm hungry...
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 12374/6 - Chomp!
 JP: こちらにかかっている状態変化を解除
@@ -62984,8 +62984,8 @@ KR: Change the 4th and 5th columns to Light orbs
 
 # 12589/105 - Bow down before my Psycho Power!
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12590/39 - Humph, so it's you.
 JP: 10ターンの間、操作時間-1秒
@@ -63709,8 +63709,8 @@ KR: Voids status ailments for 999 turns
 
 # 12734/105 - Sama' Shams Sakhr
 JP: 4ターンの間、回復力を50%になる
-EN: RCV +50% for 4 turns
-KR: RCV +50% for 4 turns
+EN: RCV 50% for 4 turns
+KR: RCV 50% for 4 turns
 
 # 12735/6 - Kl Yufqid Falash
 JP: こちらにかかっている状態変化を解除
@@ -64059,8 +64059,8 @@ KR:
 
 # 12804/105 - Decaying Life
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 12805/50 - Fading Scenery
 JP: 現HPの99%のダメージ
@@ -64539,8 +64539,8 @@ KR: Player recover 100% HP
 
 # 12900/105 - Falsehood
 JP: 4ターンの間、回復力を25%になる
-EN: RCV +25% for 4 turns
-KR: RCV +25% for 4 turns
+EN: RCV 25% for 4 turns
+KR: RCV 25% for 4 turns
 
 # 12901/15 - Crimson Double-Edge
 JP: 600%ダメージ (6連続攻撃、100%ごと)
@@ -64559,8 +64559,8 @@ KR: Enemy recover 50% HP
 
 # 12904/39 - Limited Survival
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 12905/83 - Preemptive 2 times
 JP: 
@@ -64654,8 +64654,8 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 12923/105 - Tranche Compote
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 12924/46 - Fraise Brulée
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
@@ -64794,8 +64794,8 @@ KR:
 
 # 12951/39 - Syncronised Battle
 JP: 2ターンの間、操作時間+25%
-EN: Movetime +25% for 2 turns
-KR: Movetime +25% for 2 turns
+EN: Movetime 25% for 2 turns
+KR: Movetime 25% for 2 turns
 
 # 12952/101 - Sword's Back Strike
 JP: ドロップ操作開始位置をランダムで固定される
@@ -64904,8 +64904,8 @@ KR:
 
 # 12973/39 - Annihilating Life
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 12974/85 - Sea of Hell
 JP: 全ドロップを猛毒に変化
@@ -64944,8 +64944,8 @@ KR: Absorb Fire, Water, and Wood damage for 5 turns
 
 # 12981/39 - Second Hand's Limited Time
 JP: 10ターンの間、操作時間+50%
-EN: Movetime +50% for 10 turns
-KR: Movetime +50% for 10 turns
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
 # 12982/83 - Normal A
 JP: 
@@ -65254,8 +65254,8 @@ KR: Seal the 5th row for 1 turn
 
 # 13043/105 - Frenzied Wyrm's Breath
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 13044/63 - Binding Attack
 JP: 2ターンの間、ランダムでサブ1体がバインド
@@ -65439,8 +65439,8 @@ KR: Deal 270% damage (3 hits, 90% each)
 
 # 13080/39 - Nice to meet you!
 JP: 10ターンの間、操作時間+300%
-EN: Movetime +300% for 10 turns
-KR: Movetime +300% for 10 turns
+EN: Movetime 300% for 10 turns
+KR: Movetime 300% for 10 turns
 
 # 13081/109 - Thank you in advance
 JP: 10ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
@@ -65864,8 +65864,8 @@ KR: Deal 112% damage (4 hits, 28% each)
 
 # 13165/39 - Constraining Martial Art
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 13166/15 - Hero's Sword
 JP: 420%ダメージ (6連続攻撃、70%ごと)
@@ -66759,8 +66759,8 @@ KR: Player -99% HP
 
 # 13344/105 - Anti-Cure
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 13345/83 - ＿Normal A
 JP: 
@@ -66829,8 +66829,8 @@ KR:
 
 # 13358/39 - You will struggle
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 13359/111 - Look
 JP: 1ターンの間、最大HPを1000000で固定される
@@ -66899,8 +66899,8 @@ KR: Change the 1st column to Fire orbs
 
 # 13372/105 - Burn
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 13373/99 - Firewall Boundary
 JP: 1ターンの間、上から6列目のドロップが操作不可
@@ -66914,8 +66914,8 @@ KR: Spawn 15 random Fire orbs
 
 # 13375/39 - Affliction of the Water Dragon
 JP: 2ターンの間、操作時間+50%
-EN: Movetime +50% for 2 turns
-KR: Movetime +50% for 2 turns
+EN: Movetime 50% for 2 turns
+KR: Movetime 50% for 2 turns
 
 # 13376/79 - Raging Rapids of Dirty Water
 JP: 左から2列目のドロップが水と毒ドロップに変化
@@ -67124,8 +67124,8 @@ KR: Absorb damage when combos <= 4 for 1 turn
 
 # 13417/39 - Hesitant Opening Notes
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 13418/83 - Start 2 times
 JP: 
@@ -67164,8 +67164,8 @@ KR: Voids status ailments for 7 turns
 
 # 13425/39 - Overture
 JP: 7ターンの間、操作時間+75%
-EN: Movetime +75% for 7 turns
-KR: Movetime +75% for 7 turns
+EN: Movetime 75% for 7 turns
+KR: Movetime 75% for 7 turns
 
 # 13426/83 - ＿First time
 JP: 
@@ -67254,8 +67254,8 @@ KR: Spawn 10 random Heal orbs
 
 # 13443/105 - Symphonic Harmony
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 13444/92 - Sforzato Pesante
 JP: 回復ドロップを1個生成
@@ -67369,8 +67369,8 @@ KR: Absorb damage when combos <= 6 for 1 turn
 
 # 13466/39 - King's Edict
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 13467/88 - That's it?
 JP: 10ターンの間、覚醒スキル無効化
@@ -67744,8 +67744,8 @@ KR:
 
 # 13541/39 - I won't forgive you
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 13542/15 - Let's play together next time
 JP: 1000%ダメージ (4連続攻撃、250%ごと)
@@ -67824,8 +67824,8 @@ KR: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
 
 # 13557/39 - Have you decided on your wish?
 JP: 5ターンの間、操作時間+120%
-EN: Movetime +120% for 5 turns
-KR: Movetime +120% for 5 turns
+EN: Movetime 120% for 5 turns
+KR: Movetime 120% for 5 turns
 
 # 13558/66 - Today is Tanabata TAMA!
 JP: 何もしない
@@ -68004,8 +68004,8 @@ KR: Absorb damage when combos <= 7 for 99 turns
 
 # 13593/105 - Golden Cap Spell
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 13594/83 - ＿91% or less 2 times
 JP: 
@@ -68164,8 +68164,8 @@ KR: Reduce damage from all sources by 75% for 1 turn
 
 # 13625/39 - Magic Wand's Sealing Power
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 13626/85 - Breaking of a Taboo
 JP: 全ドロップを闇に変化
@@ -68469,8 +68469,8 @@ KR:
 
 # 13686/39 - Miséricorde
 JP: 20ターンの間、操作時間+150%
-EN: Movetime +150% for 20 turns
-KR: Movetime +150% for 20 turns
+EN: Movetime 150% for 20 turns
+KR: Movetime 150% for 20 turns
 
 # 13687/67 - Diadème de la Reine
 JP: 999ターンの間、8コンボ以下の攻撃を吸収
@@ -68514,8 +68514,8 @@ KR: Heal skyfall +20% for 10 turns
 
 # 13695/105 - Withered Flowers
 JP: 10ターンの間、回復力を25%になる
-EN: RCV +25% for 10 turns
-KR: RCV +25% for 10 turns
+EN: RCV 25% for 10 turns
+KR: RCV 25% for 10 turns
 
 # 13696/83 - ＿Preemptive 2 times action
 JP: 
@@ -68674,8 +68674,8 @@ KR: Absorb damage when combos <= 8 for 10 turns
 
 # 13727/39 - Underworld Charity
 JP: 10ターンの間、操作時間+200%
-EN: Movetime +200% for 10 turns
-KR: Movetime +200% for 10 turns
+EN: Movetime 200% for 10 turns
+KR: Movetime 200% for 10 turns
 
 # 13728/109 - Swirling Fire
 JP: 10ターンの間、ランダムで1箇所のマスがが1.5秒毎に変化する
@@ -70144,8 +70144,8 @@ KR:
 
 # 14021/39 - Exciting Moment
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 14022/76 - Gift of Violence
 JP: 上から1と6列目のドロップが毒ドロップに変化
@@ -70374,8 +70374,8 @@ KR: Do nothing
 
 # 14067/105 - キミタチにお見せしよう
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 14068/83 - ＿2回行動
 JP: 
@@ -70759,8 +70759,8 @@ KR: Movetime -2s for 5 turns
 
 # 14144/105 - 正義の刃を受けよ!!
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 14145/79 - ハニーッブーメラン!!!
 JP: 左から3列目のドロップが光ドロップに変化
@@ -70814,8 +70814,8 @@ KR: Bind awoken skills for 5 turns
 
 # 14155/39 - 愛の戦士キューティーハニー
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 14156/83 - ＿先制2回
 JP: 
@@ -71104,13 +71104,13 @@ KR: Deal 60% damage (4 hits, 15% each)
 
 # 14213/105 - Pululatiyaahol Appanee
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 14214/39 - Kaala Appanee
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 14215/83 - ＿4th turn
 JP: 
@@ -71304,8 +71304,8 @@ KR: Bind awoken skills for 2 turns
 
 # 14253/39 - Adowan Pakusha
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 14254/15 - Kurtosuna Pulluronchee
 JP: 450%ダメージ (3連続攻撃、150%ごと)
@@ -71614,8 +71614,8 @@ KR: Blind random 15~20 orbs for 5 turns
 
 # 14315/39 - Time Split
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 14316/15 - Darkness Execution
 JP: 300%ダメージ (6連続攻撃、50%ごと)
@@ -71739,8 +71739,8 @@ KR: Reduce damage from all sources by 75% for 10 turns
 
 # 14340/105 - Grovel before me
 JP: 3ターンの間、回復力を0%になる
-EN: RCV +0% for 3 turns
-KR: RCV +0% for 3 turns
+EN: RCV 0% for 3 turns
+KR: RCV 0% for 3 turns
 
 # 14341/83 - ＿Regular 2 times
 JP: 
@@ -71934,8 +71934,8 @@ KR: Absorb damage when combos <= 6 for 999 turns
 
 # 14379/39 - The Swansong
 JP: 5ターンの間、操作時間+25%
-EN: Movetime +25% for 5 turns
-KR: Movetime +25% for 5 turns
+EN: Movetime 25% for 5 turns
+KR: Movetime 25% for 5 turns
 
 # 14380/83 - ＿Frenzy
 JP: 
@@ -72829,8 +72829,8 @@ KR: Player -70% HP
 
 # 14558/39 - Dragon King's Eyes
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 14559/5 - Shall we end this?
 JP: 全ドロップを真っ暗にする
@@ -73399,8 +73399,8 @@ KR: Deal 245% damage (7 hits, 35% each)
 
 # 14672/105 - I'll offer you to my gods.
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 14673/15 - Paguna Paguna
 JP: 108%ダメージ (6連続攻撃、18%ごと)
@@ -73779,8 +73779,8 @@ KR: Change all orbs to Fire
 
 # 14748/105 - Heartbeat Overheat
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 14749/83 - ＿Preemptive 2 times
 JP: 
@@ -74054,8 +74054,8 @@ KR: Spawn 10 random Heal, Jammer, or Poison orbs
 
 # 14803/105 - This'll make you better
 JP: 1ターンの間、回復力を500%になる
-EN: RCV +500% for 1 turn
-KR: RCV +500% for 1 turn
+EN: RCV 500% for 1 turn
+KR: RCV 500% for 1 turn
 
 # 14804/83 - ＿3rd time
 JP: 
@@ -74174,8 +74174,8 @@ KR:
 
 # 14827/39 - Fight♪
 JP: 99ターンの間、操作時間+500%
-EN: Movetime +500% for 99 turns
-KR: Movetime +500% for 99 turns
+EN: Movetime 500% for 99 turns
+KR: Movetime 500% for 99 turns
 
 # 14828/92 - Don't give up!
 JP: 火、水、木、光、闇、回復ドロップを5個ずつ生成
@@ -74409,8 +74409,8 @@ KR: Change a random attribute to Jammer orbs
 
 # 14874/105 - Terror and desperation. I love it.
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 14875/15 - The entire universe trembles before me!
 JP: 200%ダメージ
@@ -74429,8 +74429,8 @@ KR: Spawn 3 random Mortal Poison orbs
 
 # 14878/105 - Terror and desperation. I love it.
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 14879/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
@@ -74704,8 +74704,8 @@ KR: Reduce damage from all sources by 75% for 5 turns
 
 # 14933/105 - Here we go!
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 14934/71 - Lambda Drive activated.
 JP: 5ターンの間、5000000以上のダメージを無効化
@@ -75304,8 +75304,8 @@ KR: No skyfall for 2 turns
 
 # 15053/39 - Hmm, is that so...
 JP: 2ターンの間、操作時間+240%
-EN: Movetime +240% for 2 turns
-KR: Movetime +240% for 2 turns
+EN: Movetime 240% for 2 turns
+KR: Movetime 240% for 2 turns
 
 # 15054/92 - 40 combos in 4 turns!
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを6個ずつ生成
@@ -75564,8 +75564,8 @@ KR: Spawn 6 random Fire, Water, Wood, Light, or Jammer orbs
 
 # 15105/39 - Well, let's try your best
 JP: 4ターンの間、操作時間+200%
-EN: Movetime +200% for 4 turns
-KR: Movetime +200% for 4 turns
+EN: Movetime 200% for 4 turns
+KR: Movetime 200% for 4 turns
 
 # 15106/83 - ＿1st Time
 JP: 
@@ -76069,8 +76069,8 @@ KR: Enemy recover 100% HP
 
 # 15206/39 - まだだ！
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 15207/71 - やってやる！
 JP: 6ターンの間、5000000以上のダメージを無効化
@@ -76404,8 +76404,8 @@ KR: Absorb damage when combos <= 6 for 3 turns
 
 # 15273/39 - 俺の好きな四字熟語は即断即決だぜ！
 JP: 1ターンの間、操作時間+50%
-EN: Movetime +50% for 1 turn
-KR: Movetime +50% for 1 turn
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
 # 15274/104 - いくぞ！
 JP: 4ターンの間、ランダムでの6×2マスの長方形を雲で隠す
@@ -76624,8 +76624,8 @@ KR: Void damage >= 10000000 for 999 turns
 
 # 15317/105 - I want to dance some more
 JP: 10ターンの間、回復力を25%になる
-EN: RCV +25% for 10 turns
-KR: RCV +25% for 10 turns
+EN: RCV 25% for 10 turns
+KR: RCV 25% for 10 turns
 
 # 15318/15 - Puuuunch
 JP: 400%ダメージ
@@ -76639,8 +76639,8 @@ KR:
 
 # 15320/39 - Hey, you're pretty strong!
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 15321/17 - Next turn is my real power!
 JP: 999ターンの間、攻撃力が150%に上昇
@@ -76659,8 +76659,8 @@ KR: Spawn Bomb orbs in the specified positions
 
 # 15324/105 - Break Burst
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 15325/103 - Catastrophe Booster
 JP: 特定の位置に爆弾ドロップを生成
@@ -76809,8 +76809,8 @@ KR: Deal 105% damage (3 hits, 35% each)
 
 # 15354/105 - Scream
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 15355/15 - Strike
 JP: 90%ダメージ (3連続攻撃、30%ごと)
@@ -76909,8 +76909,8 @@ KR: Enemy ally recover 50% HP
 
 # 15374/105 - Green Eyes
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 15375/50 - Green Power
 JP: 現HPの99%のダメージ
@@ -77234,8 +77234,8 @@ KR: Enemy ally recover 50% HP
 
 # 15439/105 - Dead Howling
 JP: 4ターンの間、回復力を50%になる
-EN: RCV +50% for 4 turns
-KR: RCV +50% for 4 turns
+EN: RCV 50% for 4 turns
+KR: RCV 50% for 4 turns
 
 # 15440/15 - Gnaw
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -77354,8 +77354,8 @@ KR: Absorb Wood damage for 2 turns
 
 # 15463/105 - Tsuranuki
 JP: 2ターンの間、回復力を50%になる
-EN: RCV +50% for 2 turns
-KR: RCV +50% for 2 turns
+EN: RCV 50% for 2 turns
+KR: RCV 50% for 2 turns
 
 # 15464/17 - Wake Enhance
 JP: 6ターンの間、攻撃力が200%に上昇
@@ -77684,8 +77684,8 @@ KR: Show message: 甘いぞ|神々はすべて我にひれ伏す…
 
 # 15529/105 - Bring it on, foolish Gods!
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 15530/71 - Rebellion Barrier
 JP: 10ターンの間、4000000以上のダメージを無効化
@@ -77744,8 +77744,8 @@ KR: Random 2 orbs change every 1.0s for 3 turns
 
 # 15541/39 - I won't forgive you!
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 15542/15 - Erase them all!
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -77779,8 +77779,8 @@ KR: Void damage >= 30000000 for 999 turns
 
 # 15548/105 - The Path to Victory
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 15549/110 - Offering to God
 JP: 1.0ターンの間、特定の位置のマスが1.0秒毎に変化する
@@ -77889,8 +77889,8 @@ KR: Deal 100% damage
 
 # 15570/39 - Velvet Finger
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 15571/15 - Wint Breath
 JP: 100%ダメージ
@@ -78009,8 +78009,8 @@ KR:
 
 # 15594/105 - Have you prepared yourself?
 JP: 3ターンの間、回復力を50%になる
-EN: RCV +50% for 3 turns
-KR: RCV +50% for 3 turns
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
 
 # 15595/67 - Follow my moves
 JP: 3ターンの間、7コンボ以下の攻撃を吸収
@@ -78049,8 +78049,8 @@ KR:
 
 # 15602/39 - Have you prepared yourself?
 JP: 3ターンの間、操作時間+50%
-EN: Movetime +50% for 3 turns
-KR: Movetime +50% for 3 turns
+EN: Movetime 50% for 3 turns
+KR: Movetime 50% for 3 turns
 
 # 15603/67 - Follow my moves
 JP: 3ターンの間、5コンボ以下の攻撃を吸収
@@ -78374,8 +78374,8 @@ KR:
 
 # 15667/39 - Congratulations
 JP: 99ターンの間、操作時間+110%
-EN: Movetime +110% for 99 turns
-KR: Movetime +110% for 99 turns
+EN: Movetime 110% for 99 turns
+KR: Movetime 110% for 99 turns
 
 # 15668/67 - Right, I'll give it my all
 JP: 999ターンの間、7コンボ以下の攻撃を吸収
@@ -78429,8 +78429,8 @@ KR:
 
 # 15678/105 - Pleased to meet you
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 15679/53 - Are you ready?
 JP: 5ターンの間、火属性のダメージを吸収
@@ -79244,8 +79244,8 @@ KR: Voids status ailments for 999 turns
 
 # 15841/39 - クリボー召喚
 JP: 2ターンの間、操作時間+150%
-EN: Movetime +150% for 2 turns
-KR: Movetime +150% for 2 turns
+EN: Movetime 150% for 2 turns
+KR: Movetime 150% for 2 turns
 
 # 15842/50 - 暗黒騎士ガイア召喚
 JP: 現HPの50%のダメージ
@@ -79334,8 +79334,8 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
 # 15859/39 - Okay then, I'll give you a little bonus
 JP: 99ターンの間、操作時間+400%
-EN: Movetime +400% for 99 turns
-KR: Movetime +400% for 99 turns
+EN: Movetime 400% for 99 turns
+KR: Movetime 400% for 99 turns
 
 # 15860/85 - Do your best♪
 JP: 全ドロップを火、水、木、光、闇、回復に変化
@@ -79674,8 +79674,8 @@ KR: Seal the 6th column for 4 turns
 
 # 15927/39 - Black Christmas
 JP: 3ターンの間、操作時間+25%
-EN: Movetime +25% for 3 turns
-KR: Movetime +25% for 3 turns
+EN: Movetime 25% for 3 turns
+KR: Movetime 25% for 3 turns
 
 # 15928/57 - Dark Snow
 JP: ランダム属性のドロップを毒ドロップに変化
@@ -80009,8 +80009,8 @@ KR:
 
 # 15994/39 - Buddha's Mercy
 JP: 10ターンの間、操作時間+300%
-EN: Movetime +300% for 10 turns
-KR: Movetime +300% for 10 turns
+EN: Movetime 300% for 10 turns
+KR: Movetime 300% for 10 turns
 
 # 15995/15 - Sandaraku Palm Fate Line
 JP: 90%ダメージ (3連続攻撃、30%ごと)
@@ -80104,8 +80104,8 @@ KR:
 
 # 16013/39 - Solomon's Key
 JP: 5ターンの間、操作時間+150%
-EN: Movetime +150% for 5 turns
-KR: Movetime +150% for 5 turns
+EN: Movetime 150% for 5 turns
+KR: Movetime 150% for 5 turns
 
 # 16014/92 - Grimoire Element
 JP: 火ドロップを10個生成
@@ -80174,8 +80174,8 @@ KR:
 
 # 16027/39 - Show me your full power
 JP: 2ターンの間、操作時間+200%
-EN: Movetime +200% for 2 turns
-KR: Movetime +200% for 2 turns
+EN: Movetime 200% for 2 turns
+KR: Movetime 200% for 2 turns
 
 # 16028/92 - Dream Eater
 JP: 光ドロップを3個生成
@@ -80239,8 +80239,8 @@ KR: Spawn Bomb orbs in the specified positions
 
 # 16040/39 - ＿After 10 turns Action
 JP: 1ターンの間、操作時間+25%
-EN: Movetime +25% for 1 turn
-KR: Movetime +25% for 1 turn
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
 # 16041/83 - Limited Lifespan
 JP: 
@@ -80399,8 +80399,8 @@ KR: Enemy recover 100% HP
 
 # 16072/39 - Prepare yourself
 JP: 5ターンの間、操作時間+25%
-EN: Movetime +25% for 5 turns
-KR: Movetime +25% for 5 turns
+EN: Movetime 25% for 5 turns
+KR: Movetime 25% for 5 turns
 
 # 16073/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
@@ -80719,8 +80719,8 @@ KR: Player -99% HP
 
 # 16136/105 - Are you having a great New Year?
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 16137/15 - New Year's Dance
 JP: 110%ダメージ
@@ -81099,8 +81099,8 @@ KR: Poison skyfall +20% for 2 turns
 
 # 16212/105 - I...will be...immortal...
 JP: 1ターンの間、回復力を50%になる
-EN: RCV +50% for 1 turn
-KR: RCV +50% for 1 turn
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
 # 16213/127 - ＿2 moves
 JP: 1ターンの間、落ちコンしなくなる
@@ -81124,8 +81124,8 @@ KR:
 
 # 16217/39 - Snore
 JP: 4ターンの間、操作時間+50%
-EN: Movetime +50% for 4 turns
-KR: Movetime +50% for 4 turns
+EN: Movetime 50% for 4 turns
+KR: Movetime 50% for 4 turns
 
 # 16218/3 - Overpowering Gaze
 JP: 10ターンの間、悪魔タイプがバインド
@@ -81179,8 +81179,8 @@ KR: Unable to match Water, Wood, Light, and Dark orbs for 1 turn
 
 # 16228/39 - I won't forgive you if any are left behind
 JP: 6ターンの間、操作時間+20%
-EN: Movetime +20% for 6 turns
-KR: Movetime +20% for 6 turns
+EN: Movetime 20% for 6 turns
+KR: Movetime 20% for 6 turns
 
 # 16229/68 - This is just a matter of course
 JP: 6ターンの間、お邪魔ドロップを+100%に落ちてくる
@@ -81454,8 +81454,8 @@ KR:
 
 # 16283/105 - 神王妃の怨念
 JP: 10ターンの間、回復力を50%になる
-EN: RCV +50% for 10 turns
-KR: RCV +50% for 10 turns
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 16284/83 - ＿1回目
 JP: 
@@ -81574,8 +81574,8 @@ KR: Deal 500% damage (5 hits, 100% each)
 
 # 16307/105 - ドットブルーム
 JP: 5ターンの間、回復力を50%になる
-EN: RCV +50% for 5 turns
-KR: RCV +50% for 5 turns
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
 
 # 16308/15 - エアリアルクラッシュ
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -81724,8 +81724,8 @@ KR: Deal 300% damage
 
 # 16337/39 - 冷徹な眼光
 JP: 5ターンの間、操作時間+50%
-EN: Movetime +50% for 5 turns
-KR: Movetime +50% for 5 turns
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
 # 16338/83 - ＿残り1体
 JP: 
