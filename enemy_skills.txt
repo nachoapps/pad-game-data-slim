@@ -22699,14 +22699,14 @@ EN: Deal 150% damage (2 hits, 75% each)
 KR: Deal 150% damage (2 hits, 75% each)
 
 # 4534/92 - Dusky Malice
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 火ドロップをお邪魔ドロップに変化
+EN: Change all Fire orbs to Jammer orbs
+KR: Change all Fire orbs to Jammer orbs
 
 # 4535/92 - Robbing Heat
-JP: 全ドロップを毒に変化
-EN: Change all orbs to Poison
-KR: Change all orbs to Poison
+JP: お邪魔ドロップを毒ドロップに変化
+EN: Change all Jammer orbs to Poison orbs
+KR: Change all Jammer orbs to Poison orbs
 
 # 4536/72 - Water & Dark Halven
 JP: 水と闇属性からの攻撃からの攻撃を50%減少
@@ -23054,9 +23054,9 @@ EN: Change the 5th row to Heal orbs
 KR: Change the 5th row to Heal orbs
 
 # 4605/92 - Time Purification
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 毒ドロップをお邪魔ドロップに変化
+EN: Change all Poison orbs to Jammer orbs
+KR: Change all Poison orbs to Jammer orbs
 
 # 4606/96 - Time Sealing Lock
 JP: 5ターンの間、ロックされたランダム属性のドロップを+30%に落ちてくる
@@ -24142,19 +24142,19 @@ EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
 # 4822/92 - Mind Breaking Hell Guidance
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 回復ドロップをお邪魔ドロップに変化
+EN: Change all Heal orbs to Jammer orbs
+KR: Change all Heal orbs to Jammer orbs
 
 # 4823/92 - Nothingness Light
-JP: 全ドロップを回復に変化
-EN: Change all orbs to Heal
-KR: Change all orbs to Heal
+JP: お邪魔ドロップを回復ドロップに変化
+EN: Change all Jammer orbs to Heal orbs
+KR: Change all Jammer orbs to Heal orbs
 
 # 4824/92 - Celestial Wicked Exorcism
-JP: 全ドロップを木に変化
-EN: Change all orbs to Wood
-KR: Change all orbs to Wood
+JP: お邪魔ドロップを木ドロップに変化
+EN: Change all Jammer orbs to Wood orbs
+KR: Change all Jammer orbs to Wood orbs
 
 # 4825/20 - Heaven Dragon Knight's Soul
 JP: 999ターンの間、状態異常無効化
@@ -24187,9 +24187,9 @@ EN:
 KR: 
 
 # 4831/92 - Shining Railgun
-JP: 全ドロップを光に変化
-EN: Change all orbs to Light
-KR: Change all orbs to Light
+JP: 猛毒ドロップを光ドロップに変化
+EN: Change all Mortal Poison orbs to Light orbs
+KR: Change all Mortal Poison orbs to Light orbs
 
 # 4832/55 - Heaven's Compassion
 JP: プレイヤーのHPが100%回復
@@ -24427,9 +24427,9 @@ EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
 
 # 4879/92 - Thanks for taking care of it ♪
-JP: 全ドロップを回復に変化
-EN: Change all orbs to Heal
-KR: Change all orbs to Heal
+JP: お邪魔ドロップを回復ドロップに変化
+EN: Change all Jammer orbs to Heal orbs
+KR: Change all Jammer orbs to Heal orbs
 
 # 4880/86 - I told you to take care of it...
 JP: 敵のHPが100%回復
@@ -24812,9 +24812,9 @@ EN: Do nothing
 KR: Do nothing
 
 # 4956/92 - 2
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 火ドロップをお邪魔ドロップに変化
+EN: Change all Fire orbs to Jammer orbs
+KR: Change all Fire orbs to Jammer orbs
 
 # 4957/66 - 2
 JP: 何もしない
@@ -25842,9 +25842,9 @@ EN: Change the 1st row to Wood orbs
 KR: Change the 1st row to Wood orbs
 
 # 5162/92 - Wind Pulse
-JP: 全ドロップを木に変化
-EN: Change all orbs to Wood
-KR: Change all orbs to Wood
+JP: 回復ドロップを木ドロップに変化
+EN: Change all Heal orbs to Wood orbs
+KR: Change all Heal orbs to Wood orbs
 
 # 5163/92 - Wind Pulse
 JP: 木ドロップを6個生成
@@ -26870,14 +26870,14 @@ EN: Spawn 4 random Heal orbs
 KR: Spawn 4 random Heal orbs
 
 # 5367/92 - Drehung Klinge
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 回復ドロップをお邪魔ドロップに変化
+EN: Change all Heal orbs to Jammer orbs
+KR: Change all Heal orbs to Jammer orbs
 
 # 5368/92 - Windhose
-JP: 全ドロップを猛毒に変化
-EN: Change all orbs to Mortal Poison
-KR: Change all orbs to Mortal Poison
+JP: 回復ドロップを猛毒ドロップに変化
+EN: Change all Heal orbs to Mortal Poison orbs
+KR: Change all Heal orbs to Mortal Poison orbs
 
 # 5369/39 - Zeit Rauben
 JP: 3ターンの間、操作時間+50%
@@ -26930,14 +26930,14 @@ EN: Spawn 4 random Heal orbs
 KR: Spawn 4 random Heal orbs
 
 # 5379/92 - Gewitter Klinge
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 回復ドロップをお邪魔ドロップに変化
+EN: Change all Heal orbs to Jammer orbs
+KR: Change all Heal orbs to Jammer orbs
 
 # 5380/92 - Sturm Wind
-JP: 全ドロップを猛毒に変化
-EN: Change all orbs to Mortal Poison
-KR: Change all orbs to Mortal Poison
+JP: 回復ドロップを猛毒ドロップに変化
+EN: Change all Heal orbs to Mortal Poison orbs
+KR: Change all Heal orbs to Mortal Poison orbs
 
 # 5381/39 - Zeit Radieren
 JP: 5ターンの間、操作時間+25%
@@ -27075,19 +27075,19 @@ EN: nothing
 KR: nothing
 
 # 5408/92 - Drops from Heaven
-JP: 全ドロップを毒に変化
-EN: Change all orbs to Poison
-KR: Change all orbs to Poison
+JP: お邪魔ドロップを毒ドロップに変化
+EN: Change all Jammer orbs to Poison orbs
+KR: Change all Jammer orbs to Poison orbs
 
 # 5409/92 - Drops from Heaven
-JP: 全ドロップを毒に変化
-EN: Change all orbs to Poison
-KR: Change all orbs to Poison
+JP: お邪魔ドロップを毒ドロップに変化
+EN: Change all Jammer orbs to Poison orbs
+KR: Change all Jammer orbs to Poison orbs
 
 # 5410/92 - Drops from Heaven
-JP: 全ドロップを毒に変化
-EN: Change all orbs to Poison
-KR: Change all orbs to Poison
+JP: お邪魔ドロップを毒ドロップに変化
+EN: Change all Jammer orbs to Poison orbs
+KR: Change all Jammer orbs to Poison orbs
 
 # 5411/0 - Hold
 JP: nothing
@@ -28165,9 +28165,9 @@ EN: Reduce damage from all sources by 50% for 9 turns
 KR: Reduce damage from all sources by 50% for 9 turns
 
 # 5626/92 - Heart Smash
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 回復ドロップをお邪魔ドロップに変化
+EN: Change all Heal orbs to Jammer orbs
+KR: Change all Heal orbs to Jammer orbs
 
 # 5627/103 - Burst Bomb
 JP: 特定の位置に爆弾ドロップを生成
@@ -28350,9 +28350,9 @@ EN: Deal 160% damage (4 hits, 40% each)
 KR: Deal 160% damage (4 hits, 40% each)
 
 # 5663/92 - Guard Stance-Water
-JP: 全ドロップを回復に変化
-EN: Change all orbs to Heal
-KR: Change all orbs to Heal
+JP: 火ドロップを回復ドロップに変化
+EN: Change all Fire orbs to Heal orbs
+KR: Change all Fire orbs to Heal orbs
 
 # 5664/0 - deb_RCV halved
 JP: nothing
@@ -34430,9 +34430,9 @@ EN: Bind active skills for 5 turns
 KR: Bind active skills for 5 turns
 
 # 6879/92 - Vanishing Lifespring - Red Sun
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 火と光ドロップをお邪魔ドロップに変化
+EN: Change all Fire and Light orbs to Jammer orbs
+KR: Change all Fire and Light orbs to Jammer orbs
 
 # 6880/67 - Crimson Blossom Storm
 JP: 5ターンの間、6コンボ以下の攻撃を吸収
@@ -34880,9 +34880,9 @@ EN:
 KR: 
 
 # 6969/92 - Arced Horn of Truth
-JP: 全ドロップを闇に変化
-EN: Change all orbs to Dark
-KR: Change all orbs to Dark
+JP: お邪魔と猛毒ドロップを闇ドロップに変化
+EN: Change all Jammer and Mortal Poison orbs to Dark orbs
+KR: Change all Jammer and Mortal Poison orbs to Dark orbs
 
 # 6970/99 - Orb Rust
 JP: 5ターンの間、上から6列目のドロップが操作不可
@@ -40440,9 +40440,9 @@ EN:
 KR: 
 
 # 8081/92 - Demon Tree Creation
-JP: 全ドロップを木に変化
-EN: Change all orbs to Wood
-KR: Change all orbs to Wood
+JP: お邪魔ドロップを木ドロップに変化
+EN: Change all Jammer orbs to Wood orbs
+KR: Change all Jammer orbs to Wood orbs
 
 # 8082/92 - Dark Tree Thorns
 JP: お邪魔ドロップを5個生成
@@ -41430,29 +41430,29 @@ EN: Deal 150% damage (3 hits, 50% each)
 KR: Deal 150% damage (3 hits, 50% each)
 
 # 8279/92 - Flame Pit
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 火ドロップをお邪魔ドロップに変化
+EN: Change all Fire orbs to Jammer orbs
+KR: Change all Fire orbs to Jammer orbs
 
 # 8280/92 - Ice Pit
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 水ドロップをお邪魔ドロップに変化
+EN: Change all Water orbs to Jammer orbs
+KR: Change all Water orbs to Jammer orbs
 
 # 8281/92 - Earth Pit
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 木ドロップをお邪魔ドロップに変化
+EN: Change all Wood orbs to Jammer orbs
+KR: Change all Wood orbs to Jammer orbs
 
 # 8282/92 - Light Pit
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 光ドロップをお邪魔ドロップに変化
+EN: Change all Light orbs to Jammer orbs
+KR: Change all Light orbs to Jammer orbs
 
 # 8283/92 - Dark Pit
-JP: 全ドロップをお邪魔に変化
-EN: Change all orbs to Jammer
-KR: Change all orbs to Jammer
+JP: 闇ドロップをお邪魔ドロップに変化
+EN: Change all Dark orbs to Jammer orbs
+KR: Change all Dark orbs to Jammer orbs
 
 # 8284/7 - Food Supply
 JP: 敵のHPが100%回復
