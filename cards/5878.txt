@@ -1,0 +1,19 @@
+#5878 端午の空鯉竜・鶉月
+HP: 5256 ATK: 1140 RCV: 0 LB: 20
+AWK: 15,15,15,15,21,21,28,60,60
+SAWK: 52,60,55
+
+# 15843/116 - 晴天の鼓舞
+Tags: MASSIVE_ATTACK
+Game: 敵全体に攻撃力×150倍の水属性攻撃。 L字型に水ドロップを1つ生成。
+JP: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+EN: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+KR: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+
+# 15846/138 - 皐月の竜心
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドロップの5個L字消しでダメージを軽減、攻撃力が3倍。 強化ドロップを含めて5個消した属性の攻撃力が4倍。
+JP: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

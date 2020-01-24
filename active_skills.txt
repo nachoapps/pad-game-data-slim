@@ -42455,3 +42455,143 @@ JP: For 1 turn, reduce damage taken by 75%
 EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
+# 15843/116 - 晴天の鼓舞
+Tags: MASSIVE_ATTACK
+Game: 敵全体に攻撃力×150倍の水属性攻撃。 L字型に水ドロップを1つ生成。
+JP: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+EN: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+KR: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
+
+# 15844/58 - 
+Tags: MASSIVE_ATTACK
+Game: 
+JP: Deal 150x Water damage to all enemies
+EN: Deal 150x Water damage to all enemies
+KR: Deal 150x Water damage to all enemies
+
+# 15845/176 - 
+Tags: 
+Game: 
+JP: Create an L shape of Water orbs with its center at the bottom row and the far left column
+EN: Create an L shape of Water orbs with its center at the bottom row and the far left column
+KR: Create an L shape of Water orbs with its center at the bottom row and the far left column
+
+# 15849/116 - 生い茂る苔
+Tags: ORB_LOCK
+Game: ランダムで木ドロップを3個生成。 全ドロップをロック。
+JP: Create 3 Wood orbs; Lock all orbs
+EN: Create 3 Wood orbs; Lock all orbs
+KR: Create 3 Wood orbs; Lock all orbs
+
+# 15854/116 - 千代紙の技法
+Tags: GRAVITY,ADD_COMBO
+Game: 1ターンの間、3コンボ加算される。 敵のHPが20％減少。
+JP: For 1 turn, increase combo count by 3; Reduce enemies' HP by 20%
+EN: For 1 turn, increase combo count by 3; Reduce enemies' HP by 20%
+KR: For 1 turn, increase combo count by 3; Reduce enemies' HP by 20%
+
+# 15855/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: For 1 turn, increase combo count by 3
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 15856/6 - 
+Tags: GRAVITY
+Game: 
+JP: Reduce enemies' HP by 20%
+EN: Reduce enemies' HP by 20%
+KR: Reduce enemies' HP by 20%
+
+# 15861/176 - シャー77フィーバー
+Tags: 
+Game: 7の形に火ドロップを1つ生成。
+JP: 
+EN: 
+KR: 
+
+# 15865/118 - セーフティシグナル
+Tags: REDUCE_DAMAGE,ENHANCED_HEAL,EXTENDS_TIME,CHANGE_ATTRIBUTE,ETC
+Game: 特定のスキルがランダムで発動。
+JP: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+EN: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+KR: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+
+# 15866/116 - セーフティシグナル・レッド
+Tags: ENHANCED_HEAL,CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV
+EN: Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV
+KR: Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV
+
+# 15867/142 - 
+Tags: CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Fire for 3 turns
+EN: Change own Att. to Fire for 3 turns
+KR: Change own Att. to Fire for 3 turns
+
+# 15868/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: For 3 turns, 3x RCV
+EN: For 3 turns, 3x RCV
+KR: For 3 turns, 3x RCV
+
+# 15869/116 - セーフティシグナル・イエロー
+Tags: REDUCE_DAMAGE,CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%
+EN: Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%
+KR: Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%
+
+# 15870/142 - 
+Tags: CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Light for 3 turns
+EN: Change own Att. to Light for 3 turns
+KR: Change own Att. to Light for 3 turns
+
+# 15871/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: For 3 turns, reduce damage taken by 50%
+EN: For 3 turns, reduce damage taken by 50%
+KR: For 3 turns, reduce damage taken by 50%
+
+# 15872/116 - セーフティシグナル・グリーン
+Tags: EXTENDS_TIME,CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+EN: Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+KR: Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+
+# 15873/142 - 
+Tags: CHANGE_ATTRIBUTE
+Game: 
+JP: Change own Att. to Wood for 3 turns
+EN: Change own Att. to Wood for 3 turns
+KR: Change own Att. to Wood for 3 turns
+
+# 15874/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: For 3 turns, 3x orb move time
+EN: For 3 turns, 3x orb move time
+KR: For 3 turns, 3x orb move time
+
+# 15878/141 - 
+Tags: 
+Game: 
+JP: Create 3 Wood orbs
+EN: Create 3 Wood orbs
+KR: Create 3 Wood orbs
+
+# 15879/152 - 
+Tags: 
+Game: 
+JP: Lock all orbs
+EN: Lock all orbs
+KR: Lock all orbs
+

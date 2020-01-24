@@ -1,0 +1,19 @@
+#5879 盆栽龍・ショウリュウサイ
+HP: 3555 ATK: 1550 RCV: 260 LB: 20
+AWK: 21,19,19,19,28,46,46,39,39
+SAWK: 52,21,60
+
+# 15849/116 - 生い茂る苔
+Tags: ORB_LOCK
+Game: ランダムで木ドロップを3個生成。 全ドロップをロック。
+JP: Create 3 Wood orbs; Lock all orbs
+EN: Create 3 Wood orbs; Lock all orbs
+KR: Create 3 Wood orbs; Lock all orbs
+
+# 15850/138 - 盆栽龍の侘寂
+Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Game: 【7×6マス】ドロップ操作を5秒延長。 木の2コンボ以上で攻撃力が上昇、最大5倍。
+JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+KR: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+

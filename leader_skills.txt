@@ -58631,3 +58631,122 @@ JP: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs a
 EN: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 KR: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 
+# 15846/138 - 皐月の竜心
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: ドロップの5個L字消しでダメージを軽減、攻撃力が3倍。 強化ドロップを含めて5個消した属性の攻撃力が4倍。
+JP: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+
+# 15847/193 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
+
+# 15848/150 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+EN: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+
+# 15850/138 - 盆栽龍の侘寂
+Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Game: 【7×6マス】ドロップ操作を5秒延長。 木の2コンボ以上で攻撃力が上昇、最大5倍。
+JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+KR: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+
+# 15851/162 - 
+Tags: BOARD_CHANGE_7X6
+Game: 
+JP: [Board becomes 7x6]
+EN: [Board becomes 7x6]
+KR: [Board becomes 7x6]
+
+# 15852/15 - 
+Tags: EXTEND_TIME
+Game: 
+JP: Increase orb movement time by 5 seconds
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
+
+# 15853/124 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+EN: 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+KR: 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
+
+# 15857/138 - 招福の祈念
+Tags: ENHANCED_HP_ATK_RCV
+Game: ドラゴンタイプのHPが1.5倍。HP50％以上で攻撃力が4倍。 6コンボ以上で攻撃力と回復力が3倍。
+JP: 1.5x HP for Dragon type; 4x ATK when above 50% HP; 3x ATK & RCV when 6 or more combos
+EN: 1.5x HP for Dragon type; 4x ATK when above 50% HP; 3x ATK & RCV when 6 or more combos
+KR: 1.5x HP for Dragon type; 4x ATK when above 50% HP; 3x ATK & RCV when 6 or more combos
+
+# 15858/129 - 
+Tags: ENHANCED_HP
+Game: 
+JP: 1.5x HP for Dragon type
+EN: 1.5x HP for Dragon type
+KR: 1.5x HP for Dragon type
+
+# 15859/183 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 4x ATK when above 50% HP
+EN: 4x ATK when above 50% HP
+KR: 4x ATK when above 50% HP
+
+# 15860/166 - 
+Tags: ENHANCED_ATK_RCV
+Game: 
+JP: 3x ATK & RCV when 6 or more combos
+EN: 3x ATK & RCV when 6 or more combos
+KR: 3x ATK & RCV when 6 or more combos
+
+# 15862/138 - 7のとつげき
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Game: 【落ちコンなし】7コンボ以上でダメージを軽減、攻撃力が4倍。 パズル後の残りドロップ数が7個以下で攻撃力が3.5倍。
+JP: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 7 or more combos
+EN: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 7 or more combos
+KR: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 7 or more combos
+
+# 15863/177 - 
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Game: 
+JP: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining
+EN: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining
+KR: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining
+
+# 15864/169 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when 7 or more combos
+EN: 4x ATK and reduce damage taken by 25% when 7 or more combos
+KR: 4x ATK and reduce damage taken by 25% when 7 or more combos
+
+# 15875/138 - サイン・オブ・カラー
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 火か木か光の5個十字消し1個につき攻撃力が2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍。
+JP: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+EN: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+
+# 15876/157 - 
+Tags: ENHANCED_ATK
+Game: 
+JP: 2x ATK for each cross of 5 Fire, Wood, Light orbs
+EN: 2x ATK for each cross of 5 Fire, Wood, Light orbs
+KR: 2x ATK for each cross of 5 Fire, Wood, Light orbs
+
+# 15877/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+EN: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+

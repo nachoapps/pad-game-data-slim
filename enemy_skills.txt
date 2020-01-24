@@ -59757,10 +59757,10 @@ JP:
 EN: 
 KR: 
 
-# 11944/17 - You don't wanna play with snow?
-JP: 3ターンの間、攻撃力が150%に上昇
-EN: Increase damage to 150% for the next 3 turns
-KR: Increase damage to 150% for the next 3 turns
+# 11944/104 - You don't wanna play with snow?
+JP: 3ターンの間、ランダムでの2×2マスの正方形を雲で隠す
+EN: A 2×2 square of clouds appears for 3 turns at a random location
+KR: A 2×2 square of clouds appears for 3 turns at a random location
 
 # 11945/39 - Hurry up or it's gonna melt!
 JP: 3ターンの間、操作時間-2秒
@@ -59818,14 +59818,14 @@ EN: Do nothing
 KR: Do nothing
 
 # 11956/15 - Glittering Snow Make-Up
-JP: 200%ダメージ (4連続攻撃、50%ごと)
-EN: Deal 200% damage (4 hits, 50% each)
-KR: Deal 200% damage (4 hits, 50% each)
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
 
-# 11957/67 - Great!!
-JP: 5ターンの間、4コンボ以下の攻撃を吸収
-EN: Absorb damage when combos <= 4 for 5 turns
-KR: Absorb damage when combos <= 4 for 5 turns
+# 11957/5 - Great!!
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
 # 11958/105 - I won't lose!
 JP: 1ターンの間、回復力を50%になる
@@ -59853,14 +59853,14 @@ EN: Movetime -2s for 5 turns
 KR: Movetime -2s for 5 turns
 
 # 11963/15 - Wind-Bringing Thunder
-JP: 180%ダメージ (3連続攻撃、60%ごと)
-EN: Deal 180% damage (3 hits, 60% each)
-KR: Deal 180% damage (3 hits, 60% each)
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
 
 # 11964/88 - Be gutsy and get over it!
-JP: 3ターンの間、覚醒スキル無効化
-EN: Bind awoken skills for 3 turns
-KR: Bind awoken skills for 3 turns
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
 
 # 11965/15 - Guts!!
 JP: 110%ダメージ (2連続攻撃、55%ごと)
@@ -59888,14 +59888,14 @@ EN: Change the 6th column to Dark orbs
 KR: Change the 6th column to Dark orbs
 
 # 11970/17 - All people are friends! I will protect them all!
-JP: 5ターンの間、攻撃力が150%に上昇
-EN: Increase damage to 150% for the next 5 turns
-KR: Increase damage to 150% for the next 5 turns
+JP: 3ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 3 turns
+KR: Increase damage to 150% for the next 3 turns
 
 # 11971/15 - Super Gutsy Straight Paw Strike
-JP: 200%ダメージ
-EN: Deal 200% damage
-KR: Deal 200% damage
+JP: 105%ダメージ
+EN: Deal 105% damage
+KR: Deal 105% damage
 
 # 11972/83 - Preemptive 2 moves
 JP: 
@@ -60203,9 +60203,9 @@ EN:
 KR: 
 
 # 12033/94 - You will understand what the spirit world is!
-JP: 火、水、木、闇、回復ドロップをロック
-EN: Lock all Fire, Water, Wood, Dark, and Heal orbs
-KR: Lock all Fire, Water, Wood, Dark, and Heal orbs
+JP: ランダムで10個火、水、木、闇、回復ドロップをロック
+EN: Lock 10 random Fire, Water, Wood, Dark, and Heal orbs
+KR: Lock 10 random Fire, Water, Wood, Dark, and Heal orbs
 
 # 12034/50 - I won't let you go through!
 JP: 現HPの75%のダメージ
@@ -60242,15 +60242,15 @@ JP:
 EN: 
 KR: 
 
-# 12041/39 - It's seems I underestimated you...
-JP: 5ターンの間、操作時間+50%
-EN: Movetime 50% for 5 turns
-KR: Movetime 50% for 5 turns
+# 12041/20 - It's seems I underestimated you...
+JP: 3ターンの間、状態異常無効化
+EN: Voids status ailments for 3 turns
+KR: Voids status ailments for 3 turns
 
-# 12042/105 - Fight with all your strength!
-JP: 5ターンの間、回復力を50%になる
-EN: RCV 50% for 5 turns
-KR: RCV 50% for 5 turns
+# 12042/67 - Fight with all your strength!
+JP: 3ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 3 turns
+KR: Absorb damage when combos <= 5 for 3 turns
 
 # 12043/86 - To be driven this far...
 JP: 敵のHPが50%回復
@@ -60273,14 +60273,14 @@ EN:
 KR: 
 
 # 12047/74 - Show me your strength!
-JP: 3ターンの間、受けるダメージからの攻撃を90%減少
-EN: Reduce damage from all sources by 90% for 3 turns
-KR: Reduce damage from all sources by 90% for 3 turns
+JP: 3ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 3 turns
+KR: Reduce damage from all sources by 50% for 3 turns
 
-# 12048/67 - Come and fight!
-JP: 99ターンの間、5コンボ以下の攻撃を吸収
-EN: Absorb damage when combos <= 5 for 99 turns
-KR: Absorb damage when combos <= 5 for 99 turns
+# 12048/53 - Come and fight!
+JP: 3ターンの間、闇属性のダメージを吸収
+EN: Absorb Dark damage for 3 turns
+KR: Absorb Dark damage for 3 turns
 
 # 12049/15 - Can you withstand this !?
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -82727,398 +82727,398 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16538/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16539/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16540/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16541/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16542/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16543/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16544/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16545/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16546/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16547/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16548/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16549/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16550/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16551/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16552/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16553/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16554/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16555/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16556/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16557/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16558/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16559/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16560/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16561/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16562/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16563/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16564/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16565/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16566/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16567/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16568/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16569/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16570/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16571/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16572/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16573/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16574/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16575/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16576/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16577/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16578/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16579/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16580/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16581/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16582/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16583/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16584/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16585/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16586/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16587/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16588/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16589/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16590/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16591/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16592/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16593/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16594/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16595/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16596/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16597/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16598/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16599/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16600/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16601/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16602/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16603/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16604/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16605/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16606/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16607/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16608/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16609/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16610/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16611/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16612/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16613/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16614/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16615/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16616/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16538/98 - セブンスカー
+JP: 7ターンの間、特定のドロップが超暗闇にする
+EN: Blind orbs in specific positions for 7 turns
+KR: Blind orbs in specific positions for 7 turns
+
+# 16539/92 - シャードラグフレア
+JP: 火ドロップを7個生成
+EN: Spawn 7 random Fire orbs
+KR: Spawn 7 random Fire orbs
+
+# 16540/92 - レインボー77
+JP: 火、水、木、光、闇、お邪魔、毒ドロップを1個ずつ生成
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb
+
+# 16541/15 - セブンスインパクト
+JP: 315%ダメージ (7連続攻撃、45%ごと)
+EN: Deal 315% damage (7 hits, 45% each)
+KR: Deal 315% damage (7 hits, 45% each)
+
+# 16542/103 - 77ボム
+JP: 特定の位置にロックされた爆弾ドロップを生成
+EN: Spawn locked Bomb orbs in the specified positions
+KR: Spawn locked Bomb orbs in the specified positions
+
+# 16543/15 - シャーデッドインパクト-77-
+JP: 700%ダメージ (7連続攻撃、100%ごと)
+EN: Deal 700% damage (7 hits, 100% each)
+KR: Deal 700% damage (7 hits, 100% each)
+
+# 16544/106 - 切り詰め
+JP: 75%HP以下で行動ターンが1に変わる
+EN: Enemy turn counter change to 1 when HP <= 75%
+KR: Enemy turn counter change to 1 when HP <= 75%
+
+# 16545/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16546/20 - 昇天樹冠
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
+
+# 16547/74 - 棚割り
+JP: 5ターンの間、受けるダメージからの攻撃を75%減少
+EN: Reduce damage from all sources by 75% for 5 turns
+KR: Reduce damage from all sources by 75% for 5 turns
+
+# 16548/63 - 芽摘み
+JP: 3ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 3 turns
+KR: Bind 1 random card for 3 turns
+
+# 16549/92 - 植え込み
+JP: 木ドロップを10個生成
+EN: Spawn 10 random Wood orbs
+KR: Spawn 10 random Wood orbs
+
+# 16550/75 - 植え替え
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
+
+# 16551/83 - ＿75％以下2回
+JP: 
+EN: 
+KR: 
+
+# 16552/50 - 枯枝の神
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
+
+# 16553/89 - 朽幹の舎利
+JP: スキルターンを5ターン遅延
+EN: Delay active skills by 5 turns
+KR: Delay active skills by 5 turns
+
+# 16554/92 - 主木の葉性
+JP: 木ドロップを20個生成
+EN: Spawn 20 random Wood orbs
+KR: Spawn 20 random Wood orbs
+
+# 16555/83 - ＿先制2回A
+JP: 
+EN: 
+KR: 
+
+# 16556/83 - ＿先制2回B
+JP: 
+EN: 
+KR: 
+
+# 16557/83 - ＿先制2回C
+JP: 
+EN: 
+KR: 
+
+# 16558/83 - ＿先制2回D
+JP: 
+EN: 
+KR: 
+
+# 16559/83 - ＿先制2回E
+JP: 
+EN: 
+KR: 
+
+# 16560/53 - 端午の祈願
+JP: 2ターンの間、火属性のダメージを吸収
+EN: Absorb Fire damage for 2 turns
+KR: Absorb Fire damage for 2 turns
+
+# 16561/53 - 端午の祈願
+JP: 2ターンの間、水属性のダメージを吸収
+EN: Absorb Water damage for 2 turns
+KR: Absorb Water damage for 2 turns
+
+# 16562/53 - 端午の祈願
+JP: 2ターンの間、木属性のダメージを吸収
+EN: Absorb Wood damage for 2 turns
+KR: Absorb Wood damage for 2 turns
+
+# 16563/53 - 端午の祈願
+JP: 2ターンの間、光属性のダメージを吸収
+EN: Absorb Light damage for 2 turns
+KR: Absorb Light damage for 2 turns
+
+# 16564/53 - 端午の祈願
+JP: 2ターンの間、闇属性のダメージを吸収
+EN: Absorb Dark damage for 2 turns
+KR: Absorb Dark damage for 2 turns
+
+# 16565/108 - 吹流し
+JP: 火、水、木、光、闇ドロップを火、水、木、光、闇ドロップに変化
+EN: Change all Fire, Water, Wood, Light, and Dark orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Change all Fire, Water, Wood, Light, and Dark orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16566/83 - ＿91％以上2回
+JP: 
+EN: 
+KR: 
+
+# 16567/68 - 五節句の恵み
+JP: 1ターンの間、火、水、木、光、闇ドロップを+100%に落ちてくる
+EN: Fire, Water, Wood, Light, and Dark skyfall +100% for 1 turn
+KR: Fire, Water, Wood, Light, and Dark skyfall +100% for 1 turn
+
+# 16568/50 - 印地打ち
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 16569/108 - 五月忌
+JP: 回復ドロップを火、水、木、光、闇ドロップに変化
+EN: Change all Heal orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Change all Heal orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16570/15 - 菖蒲切り
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
+
+# 16571/88 - 魔除の菖蒲
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
+
+# 16572/85 - 五色吹流し
+JP: 全ドロップを火、水、木、光、闇に変化
+EN: Change all orbs to Fire, Water, Wood, Light, and Dark
+KR: Change all orbs to Fire, Water, Wood, Light, and Dark
+
+# 16573/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 16574/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16575/20 - 地点制御
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
+
+# 16576/110 - 胸が緑色に光りだした
+JP: 5.0ターンの間、特定の位置のマスが2.0秒毎に変化する
+EN: Specific orbs change every 2.0s for 5 turns
+KR: Specific orbs change every 2.0s for 5 turns
+
+# 16577/83 - ＿初回行動
+JP: 
+EN: 
+KR: 
+
+# 16578/67 - 目が緑色に光りだした
+JP: 99ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 99 turns
+KR: Absorb damage when combos <= 5 for 99 turns
+
+# 16579/48 - 進行つげる灯火
+JP: ランダム属性のドロップを木ドロップに変化
+EN: Change a random attribute to Wood orbs
+KR: Change a random attribute to Wood orbs
+
+# 16580/101 - 感応式信号
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 16581/15 - 混沌する交通
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
+
+# 16582/83 - ＿75％以下
+JP: 
+EN: 
+KR: 
+
+# 16583/96 - 目が黄色に光りだした
+JP: 5ターンの間、ロックされたランダム属性のドロップを+100%に落ちてくる
+EN: Locked random skyfall +100% for 5 turns
+KR: Locked random skyfall +100% for 5 turns
+
+# 16584/79 - 危険の兆候
+JP: 左から3列目のドロップが光とお邪魔ドロップに変化
+EN: Change the 3rd row to Light and Jammer orbs
+KR: Change the 3rd row to Light and Jammer orbs
+
+# 16585/94 - 信号制御
+JP: ランダムで15個ドロップをロック
+EN: Lock 15 random orbs
+KR: Lock 15 random orbs
+
+# 16586/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
+
+# 16587/17 - 目が赤色に光りだした
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 16588/78 - 規制の代償
+JP: 左から1列目のドロップがお邪魔ドロップに変化。左から3列目のドロップがお邪魔ドロップに変化
+EN: Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
+KR: Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
+
+# 16589/92 - 行動の抑止力
+JP: 火と毒ドロップを6個ずつ生成
+EN: Spawn 6 random Fire or Poison orbs
+KR: Spawn 6 random Fire or Poison orbs
+
+# 16590/62 - 光なき街明かり
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
+
+# 16591/84 - 混沌の交通網
+JP: 全ドロップをお邪魔と毒に変化
+EN: Change all orbs to Jammer and Poison
+KR: Change all orbs to Jammer and Poison
+
+# 16592/15 - 立ち上る赤き輝き
+JP: 300%ダメージ (3連続攻撃、100%ごと)
+EN: Deal 300% damage (3 hits, 100% each)
+KR: Deal 300% damage (3 hits, 100% each)
+
+# 16593/83 - ＿1％以下
+JP: 
+EN: 
+KR: 
+
+# 16594/86 - リペアフェーズ
+JP: 敵のHPが50%回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
+
+# 16595/99 - 胸が赤色に光りだした
+JP: 5ターンの間、上から1と6列目のドロップが操作不可
+EN: Seal the 1st and 6th columns for 5 turns
+KR: Seal the 1st and 6th columns for 5 turns
+
+# 16596/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16597/74 - 細技の鱗
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16598/71 - 千代紙の香り
+JP: 3ターンの間、100000以上のダメージを無効化
+EN: Void damage >= 100000 for 3 turns
+KR: Void damage >= 100000 for 3 turns
+
+# 16599/67 - 冠山折り
+JP: 10ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 10 turns
+KR: Absorb damage when combos <= 7 for 10 turns
+
+# 16600/105 - 麗しの紙翼
+JP: 1ターンの間、回復力を200%になる
+EN: RCV 200% for 1 turn
+KR: RCV 200% for 1 turn
+
+# 16601/39 - 麗しの紙翼
+JP: 1ターンの間、操作時間+150%
+EN: Movetime 150% for 1 turn
+KR: Movetime 150% for 1 turn
+
+# 16602/15 - 紙毬
+JP: 110%ダメージ (5連続攻撃、22%ごと)
+EN: Deal 110% damage (5 hits, 22% each)
+KR: Deal 110% damage (5 hits, 22% each)
+
+# 16603/17 - 華重ね
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
+
+# 16604/85 - 千折りの龍歌
+JP: 全ドロップを火と光に変化
+EN: Change all orbs to Fire and Light
+KR: Change all orbs to Fire and Light
+
+# 16605/98 - セブンスカー
+JP: 1ターンの間、特定のドロップが超暗闇にする
+EN: Blind orbs in specific positions for 1 turn
+KR: Blind orbs in specific positions for 1 turn
+
+# 16606/63 - 芽摘み
+JP: 1ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 1 turn
+KR: Bind 1 random card for 1 turn
+
+# 16607/83 - ＿91％以上2回
+JP: 
+EN: 
+KR: 
+
+# 16608/50 - 印地打ち
+JP: 現HPの50%のダメージ
+EN: Player -50% HP
+KR: Player -50% HP
+
+# 16609/110 - 胸が緑色に光りだした
+JP: 1.0ターンの間、特定の位置のマスが2.0秒毎に変化する
+EN: Specific orbs change every 2.0s for 1 turn
+KR: Specific orbs change every 2.0s for 1 turn
+
+# 16610/67 - 目が緑色に光りだした
+JP: 5ターンの間、3コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 3 for 5 turns
+KR: Absorb damage when combos <= 3 for 5 turns
+
+# 16611/96 - 目が黄色に光りだした
+JP: 1ターンの間、ロックされたランダム属性のドロップを+100%に落ちてくる
+EN: Locked random skyfall +100% for 1 turn
+KR: Locked random skyfall +100% for 1 turn
+
+# 16612/17 - 目が赤色に光りだした
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 16613/67 - 冠山折り
+JP: 10ターンの間、3コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 3 for 10 turns
+KR: Absorb damage when combos <= 3 for 10 turns
+
+# 16614/83 - ＿初回行動
+JP: 
+EN: 
+KR: 
+
+# 16615/67 - 目が緑色に光りだした
+JP: 99ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 99 turns
+KR: Absorb damage when combos <= 4 for 99 turns
+
+# 16616/67 - 冠山折り
+JP: 10ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 10 turns
+KR: Absorb damage when combos <= 6 for 10 turns
 
