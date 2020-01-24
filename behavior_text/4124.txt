@@ -11,15 +11,13 @@ level: 1
  | (8708:67) Vile Cerulean Flame
  | Absorb damage when combos <= 6 for 99 turns
  group:
- | type: DISPEL_PLAYER
-   | (8710:6) Wave of Nothingness
-   | Voids player buff effects
- | group:
-   | condition: 20% chance
-   | (8711:7) Healing Flame
-   | Enemy recover 15% HP
-   | (8712:94) Freeze Flame
-   | Lock 4 random orbs, Deal 70% damage
+ | (8710:6) Wave of Nothingness
+ | Voids player buff effects
+ | condition: 20% chance
+ | (8711:7) Healing Flame
+ | Enemy recover 15% HP
+ | (8712:94) Freeze Flame
+ | Lock 4 random orbs, Deal 70% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (8709:52) Revival Flame

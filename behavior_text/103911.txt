@@ -11,12 +11,10 @@ level: 4
  | (9306:92) Healing Radiance
  | Spawn 6 random Heal orbs
  group:
- | type: DISPEL_PLAYER
-   | (9305:6) The jewel's light shined
-   | Voids player buff effects
- | group:
-   | (9303:92) Bizarre Radiance
-   | Spawn 6 random Poison orbs
+ | (9305:6) The jewel's light shined
+ | Voids player buff effects
+ | (9303:92) Bizarre Radiance
+ | Spawn 6 random Poison orbs
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (9304:52) Shining Life

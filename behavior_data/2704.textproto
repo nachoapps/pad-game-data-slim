@@ -48,99 +48,89 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
       children {
         group {
-          group_type: DISPEL_PLAYER
+          condition {
+            trigger_turn: 1
+          }
           children {
             behavior {
-              enemy_skill_id: 2773
+              enemy_skill_id: 2771
             }
           }
         }
       }
       children {
         group {
-          group_type: STANDARD
           condition {
-            hp_threshold: 100
+            trigger_turn: 2
           }
           children {
-            group {
-              condition {
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2771
-                }
-              }
+            behavior {
+              enemy_skill_id: 1
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 3
+          }
+          children {
+            behavior {
+              enemy_skill_id: 2773
             }
           }
           children {
-            group {
-              condition {
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1
-                }
-              }
+            behavior {
+              enemy_skill_id: 2801
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 4
+          }
+          children {
+            behavior {
+              enemy_skill_id: 2772
             }
           }
           children {
-            group {
-              condition {
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2801
-                }
-              }
+            behavior {
+              enemy_skill_id: 2774
             }
           }
-          children {
-            group {
-              condition {
-                trigger_turn: 4
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2772
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2774
-                }
-              }
-            }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 2
+            trigger_turn: 1
           }
           children {
-            group {
-              condition {
-                repeats_every: 2
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1
-                }
-              }
+            behavior {
+              enemy_skill_id: 1
             }
           }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 2
+            trigger_turn: 2
+          }
           children {
-            group {
-              condition {
-                repeats_every: 2
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2774
-                }
-              }
+            behavior {
+              enemy_skill_id: 2774
             }
           }
         }

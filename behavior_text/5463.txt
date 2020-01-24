@@ -11,11 +11,10 @@ level: 1
  | (14096:66) 私は海からの使者イカ娘でゲソ!!
  | Do nothing
  group:
- | type: DISPEL_PLAYER
+ | group:
    | condition: 50% chance
    | (14101:6) しかたない発光するでゲソ！
    | Voids player buff effects
- | group:
    | condition: 33% chance
    | (14097:15) 私の本気を見せてやるでゲソ
    | Deal 105% damage (3 hits, 35% each)
@@ -35,6 +34,9 @@ level: 1
      | condition: 50% chance
      | (14102:97) イカスミアターック!!
      | Blind random 3 orbs for 2 turns, Deal 100% damage
+     | condition: 50% chance
+     | (14101:6) しかたない発光するでゲソ！
+     | Voids player buff effects
      | condition: 33% chance
      | (14097:15) 私の本気を見せてやるでゲソ
      | Deal 105% damage (3 hits, 35% each)

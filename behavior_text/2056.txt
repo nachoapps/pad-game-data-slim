@@ -11,10 +11,9 @@ level: 5
  | (2117:83) All memories...dimensions...existence... + All that is shall be returned to nothing. + Then I, too, can disappear...forever!!!
  | Do nothing + Do nothing + Voids status ailments for 999 turns
  group:
- | type: DISPEL_PLAYER
+ | group:
    | (2118:6) Dispel
    | Voids player buff effects
- | group:
    | condition: 40% chance
    | (2119:15) Almagest
    | Deal 120~160% damage (3~4 hits, 40% each)

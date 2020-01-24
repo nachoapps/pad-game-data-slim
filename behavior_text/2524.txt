@@ -11,12 +11,11 @@ level: 1
  | (3638:62) Chimney Drop
  | Blind all orbs on the board, Deal 100% damage
  group:
- | type: DISPEL_PLAYER
-   | (3645:6) Rudolph's Steely Gaze
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
+     | (3645:6) Rudolph's Steely Gaze
+     | Voids player buff effects
      | condition: 34% chance
      | (3639:92) Present Box
      | Spawn 5 random Jammer orbs, Deal 120% damage
@@ -28,6 +27,8 @@ level: 1
      | Player -80% HP
    | group:
    | condition: execute repeatedly, turn 2 of 3
+     | (3645:6) Rudolph's Steely Gaze
+     | Voids player buff effects
      | condition: 50% chance
      | (3642:15) Rudolph Attack
      | Deal 160% damage (2 hits, 80% each)
@@ -37,6 +38,8 @@ level: 1
      | Delay active skills by 2 turns, Deal 160% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
+     | (3645:6) Rudolph's Steely Gaze
+     | Voids player buff effects
      | condition: 50% chance
      | (3642:15) Rudolph Attack
      | Deal 160% damage (2 hits, 80% each)

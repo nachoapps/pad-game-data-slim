@@ -26,19 +26,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              condition {
-                use_chance: 15
-              }
-              enemy_skill_id: 12925
-            }
-          }
-        }
-      }
-      children {
-        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
@@ -67,6 +54,14 @@
                 repeats_every: 4
                 trigger_turn: 2
                 trigger_turn_end: 4
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 15
+                  }
+                  enemy_skill_id: 12925
+                }
               }
               children {
                 behavior {

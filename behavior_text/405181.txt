@@ -16,10 +16,6 @@ level: 1
  | (12916:83) Aging Agar + Brilliant Recipe + Caramelisé Coating
  | Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns + Reduce damage from all sources by 90% for 4 turns
  group:
- | type: DISPEL_PLAYER
-   | condition: 15% chance
-   | (12925:6) Ebarbé Piqué
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 4
@@ -29,6 +25,9 @@ level: 1
      | A 3×2 rectangle of clouds appears for 4 turns at a random location, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
+     | condition: 15% chance
+     | (12925:6) Ebarbé Piqué
+     | Voids player buff effects
      | condition: 33% chance
      | (12920:83) Piping Tourage + Glassage Haché
      | Change player HP to 50000 for 1 turn + Deal 90% damage (3 hits, 30% each), Deal 90% damage (3 hits, 30% each)

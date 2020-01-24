@@ -16,9 +16,6 @@ level: 1
  | (2463:83) Here I come, brave rival! + Dragon Knight
  | Voids status ailments for 999 turns + Bind Dark cards for 3 turns
  group:
- | type: DISPEL_PLAYER
-   | (2467:6) Brave Resistance
-   | Voids player buff effects
  | group:
    | condition: 30% chance
    | (2475:83) His sword is raised + Proud Slash
@@ -31,6 +28,8 @@ level: 1
    | Delay active skills by 0~1 turns + Deal 110% damage, Deal 110% damage
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
+   | (2467:6) Brave Resistance
+   | Voids player buff effects
    | (2468:50) Brave Resistance
    | Player -99% HP
  | group:

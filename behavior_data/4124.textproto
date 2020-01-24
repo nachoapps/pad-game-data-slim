@@ -11,35 +11,25 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
       children {
-        group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 8710
-            }
-          }
+        behavior {
+          enemy_skill_id: 8710
         }
       }
       children {
-        group {
-          group_type: STANDARD
+        behavior {
           condition {
-            hp_threshold: 100
+            use_chance: 20
           }
-          children {
-            behavior {
-              condition {
-                use_chance: 20
-              }
-              enemy_skill_id: 8711
-            }
-          }
-          children {
-            behavior {
-              enemy_skill_id: 8712
-            }
-          }
+          enemy_skill_id: 8711
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 8712
         }
       }
     }

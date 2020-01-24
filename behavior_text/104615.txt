@@ -11,12 +11,15 @@ level: 4
  | (10247:48) Nature's Knowledge
  | Change a random attribute to Wood orbs, Deal 100% damage
  group:
- | type: DISPEL_PLAYER
-   | (10248:6) Naturalize
-   | Voids player buff effects
  | group:
    | group:
-   | condition: execute repeatedly, turn 1-2 of 3
+   | condition: execute repeatedly, turn 1 of 3
+     | (10248:6) Naturalize
+     | Voids player buff effects
+     | (10247:48) Nature's Knowledge
+     | Change a random attribute to Wood orbs, Deal 100% damage
+   | group:
+   | condition: execute repeatedly, turn 2 of 3
      | (10247:48) Nature's Knowledge
      | Change a random attribute to Wood orbs, Deal 100% damage
    | group:

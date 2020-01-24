@@ -14,10 +14,9 @@ level: 1
  | (12732:83) Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
  | Voids status ailments for 999 turns + RCV 50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage
  group:
- | type: DISPEL_PLAYER
+ | group:
    | (12735:6) Kl Yufqid Falash
    | Voids player buff effects, Deal 110% damage
- | group:
    | condition: 50% chance
    | (12736:50) Kalb Aintahaz Zufur
    | Player -99% HP

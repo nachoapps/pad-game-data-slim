@@ -23,9 +23,6 @@ level: 4
  | (3967:83) Go back to oblivion! + Doom
  | Reduce damage from all sources by 75% for 3 turns + Voids status ailments for 8 turns
  group:
- | type: DISPEL_PLAYER
-   | (3956:6) Temporal Hollow
-   | Voids player buff effects
  | group:
  | condition: always turn 1
    | (3957:15) Sanction
@@ -53,6 +50,8 @@ level: 4
      | Reduce damage from all sources by 75% for 2 turns + Deal 100~150% damage (2~3 hits, 50% each), Deal 100~150% damage (2~3 hits, 50% each)
    | group:
    | condition: turn 4 while HP > 59
+     | (3956:6) Temporal Hollow
+     | Voids player buff effects
      | condition: 50% chance
      | (3979:89) Emitter
      | Delay active skills by 1 turn, Deal 50% damage

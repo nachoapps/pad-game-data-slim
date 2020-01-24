@@ -13,16 +13,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 10248
-            }
-          }
-        }
-      }
-      children {
-        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
@@ -32,7 +22,24 @@
               condition {
                 repeats_every: 3
                 trigger_turn: 1
-                trigger_turn_end: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 10248
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 10247
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 2
               }
               children {
                 behavior {

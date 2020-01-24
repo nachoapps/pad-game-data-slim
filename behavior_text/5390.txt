@@ -11,13 +11,12 @@ level: 1
  | (13586:83) Soft Straw Skin + Steel Plate Body + King of Beasts' Dignity + Golden Cap Spell
  | Delay active skills by 5 turns + Void damage >= 30000000 for 999 turns + Voids status ailments for 999 turns + Change leader to [5057] for 3 turns
  group:
- | type: DISPEL_PLAYER
-   | condition: 10% chance
-   | (13596:6) Toto's Eccentricity
-   | Voids player buff effects, Deal 110% damage
  | group:
    | group:
    | condition: turns 1-2 while HP > 89
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
@@ -32,6 +31,9 @@ level: 1
      | (13638:83) Magic of the Silver Shoes + Golden Cap Spell
      | Absorb damage when combos <= 6 for 99 turns + RCV 50% for 5 turns
    | group:
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
@@ -53,6 +55,9 @@ level: 1
      | Player -99% HP + Blind orbs in specific positions for 5 turns
    | group:
    | condition: execute repeatedly, turn 1 of 2
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
@@ -92,13 +97,12 @@ level: 6
  | (13586:83) Soft Straw Skin + Steel Plate Body + King of Beasts' Dignity + Golden Cap Spell
  | Delay active skills by 5 turns + Void damage >= 30000000 for 999 turns + Voids status ailments for 999 turns + Change leader to [5057] for 3 turns
  group:
- | type: DISPEL_PLAYER
-   | condition: 10% chance
-   | (13596:6) Toto's Eccentricity
-   | Voids player buff effects, Deal 110% damage
  | group:
    | group:
    | condition: turns 1-2 while HP > 89
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
@@ -113,6 +117,9 @@ level: 6
      | (13591:83) Magic of the Silver Shoes + Golden Cap Spell
      | Absorb damage when combos <= 7 for 99 turns + RCV 50% for 5 turns
    | group:
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage
@@ -134,6 +141,9 @@ level: 6
      | Player -99% HP + Blind orbs in specific positions for 5 turns
    | group:
    | condition: execute repeatedly, turn 1 of 2
+     | condition: 10% chance
+     | (13596:6) Toto's Eccentricity
+     | Voids player buff effects, Deal 110% damage
      | condition: 30% chance
      | (13597:74) Straw Body
      | Reduce damage from all sources by 50% for 1 turn, Deal 100% damage

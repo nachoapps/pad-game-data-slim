@@ -16,11 +16,10 @@ level: 1
  | (11514:20) Concept of Boundless Worlds
  | Voids status ailments for 999 turns
  group:
- | type: DISPEL_PLAYER
+ | group:
    | condition: 10% chance
    | (11541:6) Death of Sudden Help
    | Voids player buff effects
- | group:
    | condition: 60% chance
    | (11523:15) A Sound like Nothing from this Universe
    | Deal 100% damage (2 hits, 50% each)
@@ -53,6 +52,9 @@ level: 1
  | condition: turns 2-4 while HP > 9, hp <= 14
    | (11521:88) He Who Shall Not Be Named
    | Bind awoken skills for 5 turns
+   | condition: 10% chance
+   | (11541:6) Death of Sudden Help
+   | Voids player buff effects
    | condition: 60% chance
    | (11523:15) A Sound like Nothing from this Universe
    | Deal 100% damage (2 hits, 50% each)

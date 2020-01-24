@@ -11,10 +11,9 @@ level: 4
  | (3531:62) Stealth Eye
  | Blind all orbs on the board, Deal 60% damage
  group:
- | type: DISPEL_PLAYER
+ | group:
    | (3473:6) Lovely Pose
    | Voids player buff effects
- | group:
    | condition: 25% chance
    | (3472:94) Skipping about
    | Lock 4 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
@@ -29,9 +28,13 @@ level: 4
    | Deal 120% damage (3 hits, 40% each)
  | group:
  | condition: always turn 1, hp <= 69
+   | (3473:6) Lovely Pose
+   | Voids player buff effects
    | (3471:75) Whim
    | Leader changes to random sub for 1 turn
  | group:
  | condition: hp <= 9
+   | (3473:6) Lovely Pose
+   | Voids player buff effects
    | (3470:15) Meteorite
    | Deal 270% damage (3 hits, 90% each)

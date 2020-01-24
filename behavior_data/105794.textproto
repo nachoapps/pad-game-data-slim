@@ -13,16 +13,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 15744
-            }
-          }
-        }
-      }
-      children {
-        group {
           condition {
             trigger_turn: 1
             always_trigger_above: 1
@@ -39,6 +29,11 @@
           group_type: STANDARD
           condition {
             hp_threshold: 100
+          }
+          children {
+            behavior {
+              enemy_skill_id: 15744
+            }
           }
           children {
             behavior {
@@ -75,6 +70,11 @@
           }
           children {
             group {
+              children {
+                behavior {
+                  enemy_skill_id: 15744
+                }
+              }
               children {
                 behavior {
                   enemy_skill_id: 15746
@@ -173,4 +173,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

@@ -26,16 +26,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 2467
-            }
-          }
-        }
-      }
-      children {
-        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
@@ -73,6 +63,11 @@
             hp_threshold: 49
             trigger_turn: 1
             always_trigger_above: 19
+          }
+          children {
+            behavior {
+              enemy_skill_id: 2467
+            }
           }
           children {
             behavior {

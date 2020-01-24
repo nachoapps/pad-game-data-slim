@@ -251,6 +251,14 @@
               children {
                 behavior {
                   condition {
+                    use_chance: 10
+                  }
+                  enemy_skill_id: 13522
+                }
+              }
+              children {
+                behavior {
+                  condition {
                     use_chance: 15
                   }
                   enemy_skill_id: 13519
@@ -362,14 +370,6 @@
             use_chance: 10
           }
           enemy_skill_id: 13500
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 10
-          }
-          enemy_skill_id: 13522
         }
       }
     }
@@ -626,6 +626,14 @@
               children {
                 behavior {
                   condition {
+                    use_chance: 10
+                  }
+                  enemy_skill_id: 13522
+                }
+              }
+              children {
+                behavior {
+                  condition {
                     use_chance: 15
                   }
                   enemy_skill_id: 13519
@@ -737,14 +745,6 @@
             use_chance: 10
           }
           enemy_skill_id: 13500
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 10
-          }
-          enemy_skill_id: 13522
         }
       }
     }

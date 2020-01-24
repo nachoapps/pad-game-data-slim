@@ -16,17 +16,19 @@ level: 1
  | (11530:83) Concept of Boundless Worlds + Cycle of Scorched-Earth Madness
  | Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
  group:
- | type: DISPEL_PLAYER
-   | condition: 10% chance
-   | (11541:6) Death of Sudden Help
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
+     | condition: 10% chance
+     | (11541:6) Death of Sudden Help
+     | Voids player buff effects
      | (11535:50) Reminiscence of Universe's Last Flame
      | Player -99% HP
    | group:
    | condition: execute repeatedly, turn 2 of 2
+     | condition: 10% chance
+     | (11541:6) Death of Sudden Help
+     | Voids player buff effects
      | condition: 50% chance
      | (11537:97) Scraping Jet-Black Flames
      | Blind random 1~3 orbs for 4 turns, Deal 70% damage

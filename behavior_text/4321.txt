@@ -16,9 +16,6 @@ level: 4
  | (9448:83) There's something missing in your eyes... + ...and that something is fear.
  | Reduce damage from all sources by 75% for 3 turns + Movetime -2s for 3 turns
  group:
- | type: DISPEL_PLAYER
-   | (9449:6) Oooooooaaah!!!
-   | Voids player buff effects
  | group:
    | group:
    | condition: turn 1 while HP > 19
@@ -30,6 +27,8 @@ level: 4
      | Deal 120% damage (4 hits, 30% each)
    | group:
    | condition: turn 3 while HP > 19
+     | (9449:6) Oooooooaaah!!!
+     | Voids player buff effects
      | (9454:83) Remaining at top strength is demanding... + ...and my body gets an impulse to devour.
      | Spawn 6 random Jammer orbs + Enemy recover 30% HP
    | group:

@@ -8,11 +8,10 @@ approved: False
 
 level: 1
  group:
- | type: DISPEL_PLAYER
+ | group:
    | condition: 50% chance
    | (6:6) Reset Wave
    | Voids player buff effects
- | group:
    | condition: 10% chance
    | (5:5) Dark World
    | Blind all orbs on the board
@@ -24,6 +23,9 @@ level: 1
    | condition: 70% chance
    | (110:15) Nightmare Slash
    | Deal 180% damage (3 hits, 60% each)
+   | condition: 50% chance
+   | (6:6) Reset Wave
+   | Voids player buff effects
    | condition: 10% chance
    | (5:5) Dark World
    | Blind all orbs on the board

@@ -8,15 +8,19 @@ approved: False
 
 level: 5
  group:
- | type: DISPEL_PLAYER
+ | group:
    | (2483:6) 波がきてるね～、俺♪
    | Voids player buff effects
  | group:
  | condition: hp <= 79
+   | (2483:6) 波がきてるね～、俺♪
+   | Voids player buff effects
    | condition: 50% chance
    | (2482:77) アクア・360°
    | Change the 2nd and 3rd columns to Water orbs, Deal 120% damage
  | group:
  | condition: turn 1, hp <= 49
+   | (2483:6) 波がきてるね～、俺♪
+   | Voids player buff effects
    | (2481:89) 神秘のサーフボード
    | Delay active skills by 0~1 turns

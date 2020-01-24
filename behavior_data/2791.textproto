@@ -48,16 +48,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 3956
-            }
-          }
-        }
-      }
-      children {
-        group {
           condition {
             trigger_turn: 1
             always_trigger_above: 1
@@ -145,6 +135,11 @@
               condition {
                 trigger_turn: 4
                 always_trigger_above: 59
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 3956
+                }
               }
               children {
                 behavior {

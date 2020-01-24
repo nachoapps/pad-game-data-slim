@@ -22,9 +22,6 @@ level: 5
  | (2197:20) I'll destroy them all!
  | Voids status ailments for 999 turns
  group:
- | type: DISPEL_PLAYER
-   | (2199:6) Vengeance
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 6
@@ -57,6 +54,8 @@ level: 5
      | Player -99% HP
    | group:
    | condition: execute repeatedly, turn 2-6 of 6
+     | (2199:6) Vengeance
+     | Voids player buff effects
      | condition: 40% chance
      | (2148:15) Havoc Wing
      | Deal 140% damage (2 hits, 70% each)

@@ -14,9 +14,6 @@ level: 1
  | (4563:39) Try to find my real form!
  | Movetime -2s for 5 turns
  group:
- | type: DISPEL_PLAYER
-   | (4567:6) Time Skip
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
@@ -28,6 +25,8 @@ level: 1
      | Spawn 5 random Jammer orbs, Deal 140% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
+     | (4567:6) Time Skip
+     | Voids player buff effects
      | (4566:65) Time Bind
      | Bind 2 random subs for 1 turn
  | group:
@@ -46,6 +45,8 @@ level: 1
      | Spawn 10 random Jammer orbs, Deal 160% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
+     | (4567:6) Time Skip
+     | Voids player buff effects
      | (4573:1) Time Bind
      | Bind 3 random cards for 1 turn
  | group:

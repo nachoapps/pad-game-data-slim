@@ -11,17 +11,19 @@ level: 4
  | (3884:20) Insolent fools!
  | Voids status ailments for 999 turns
  group:
- | type: DISPEL_PLAYER
-   | condition: 50% chance
-   | (3889:6) Dispel
-   | Voids player buff effects
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
+     | condition: 50% chance
+     | (3889:6) Dispel
+     | Voids player buff effects
      | (3886:48) Tornado
      | Change a random attribute to Wood orbs, Deal 150% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
+     | condition: 50% chance
+     | (3889:6) Dispel
+     | Voids player buff effects
      | condition: 25% chance
      | (3885:64) Bio
      | Change 5 random orbs to Poison orbs, Deal 80% damage

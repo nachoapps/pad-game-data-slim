@@ -11,15 +11,15 @@ level: 1
  | (266:47) Glitter of Devil's Eyes
  | Deal 100% damage
  group:
- | type: DISPEL_PLAYER
+ | group:
+ | condition: turn 1
+   | (269:20) Demonic Shield
+   | Voids status ailments for 999 turns
+ | group:
+ | condition: execute repeatedly, turn 1-2 of 3
    | (268:6) Wave of Nothingness
    | Voids player buff effects
  | group:
-   | group:
-   | condition: turn 1
-     | (269:20) Demonic Shield
-     | Voids status ailments for 999 turns
-   | group:
-   | condition: execute repeatedly, turn 3 of 3
-     | (267:15) World Ends
-     | Deal 1080% damage (6 hits, 180% each)
+ | condition: execute repeatedly, turn 3 of 3
+   | (267:15) World Ends
+   | Deal 1080% damage (6 hits, 180% each)

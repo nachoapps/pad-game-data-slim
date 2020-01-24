@@ -11,27 +11,17 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
       children {
-        group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 9305
-            }
-          }
+        behavior {
+          enemy_skill_id: 9305
         }
       }
       children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 100
-          }
-          children {
-            behavior {
-              enemy_skill_id: 9303
-            }
-          }
+        behavior {
+          enemy_skill_id: 9303
         }
       }
     }
@@ -97,4 +87,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

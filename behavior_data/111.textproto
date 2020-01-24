@@ -5,7 +5,10 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
           children {
             behavior {
               condition {
@@ -13,14 +16,6 @@
               }
               enemy_skill_id: 6
             }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 100
           }
           children {
             behavior {
@@ -53,6 +48,14 @@
                 use_chance: 70
               }
               enemy_skill_id: 110
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 50
+              }
+              enemy_skill_id: 6
             }
           }
           children {
@@ -135,4 +138,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

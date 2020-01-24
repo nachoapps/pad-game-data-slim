@@ -84,6 +84,9 @@ level: 1
      | condition: 45% chance
      | (13518:109) Hectic Transformation
      | Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+     | condition: 10% chance
+     | (13522:6) Sacred Flame Breath
+     | Voids player buff effects, Deal 125% damage
      | condition: 15% chance
      | (13519:83) Fruit of Dissension + Ugly Competition
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 125% damage
@@ -123,9 +126,6 @@ level: 1
  | condition: 10% chance
  | (13500:6) Sacred Flame Breath
  | Voids player buff effects, Deal 100% damage
- | condition: 10% chance
- | (13522:6) Sacred Flame Breath
- | Voids player buff effects, Deal 125% damage
 
 level: 6
  type: PREEMPT
@@ -205,6 +205,9 @@ level: 6
      | condition: 45% chance
      | (13518:109) Hectic Transformation
      | Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+     | condition: 10% chance
+     | (13522:6) Sacred Flame Breath
+     | Voids player buff effects, Deal 125% damage
      | condition: 15% chance
      | (13519:83) Fruit of Dissension + Ugly Competition
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 125% damage
@@ -244,6 +247,3 @@ level: 6
  | condition: 10% chance
  | (13500:6) Sacred Flame Breath
  | Voids player buff effects, Deal 100% damage
- | condition: 10% chance
- | (13522:6) Sacred Flame Breath
- | Voids player buff effects, Deal 125% damage

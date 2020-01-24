@@ -24,33 +24,31 @@ level: 4
  | (2775:95) Can you still stand and continue?
  | Spawn 3 random Heal orbs
  group:
- | type: DISPEL_PLAYER
+ | group:
+ | condition: turn 1
+   | (2771:74) Too weak.
+   | Reduce damage from all sources by 50% for 1 turn
+ | group:
+ | condition: turn 2
+   | (1:82) Disable Skill
+   | Deal 100% damage
+ | group:
+ | condition: turn 3
    | (2773:6) You haven't the time to be crawling around!!
    | Voids player buff effects
+   | (2801:20) You don't have time to be kneeling!
+   | Voids status ailments for 3 turns
  | group:
-   | group:
-   | condition: turn 1
-     | (2771:74) Too weak.
-     | Reduce damage from all sources by 50% for 1 turn
-   | group:
-   | condition: turn 2
-     | (1:82) Disable Skill
-     | Deal 100% damage
-   | group:
-   | condition: turn 3
-     | (2801:20) You don't have time to be kneeling!
-     | Voids status ailments for 3 turns
-   | group:
-   | condition: turn 4
-     | (2772:94) Move on to the next one!
-     | Lock all Dark orbs, Deal 100% damage
-     | (2774:17) Never take your eyes off the enemy.
-     | Increase damage to 200% for the next 1 turn
-   | group:
-   | condition: execute repeatedly, turn 1 of 2
-     | (1:82) Disable Skill
-     | Deal 100% damage
-   | group:
-   | condition: execute repeatedly, turn 2 of 2
-     | (2774:17) Never take your eyes off the enemy.
-     | Increase damage to 200% for the next 1 turn
+ | condition: turn 4
+   | (2772:94) Move on to the next one!
+   | Lock all Dark orbs, Deal 100% damage
+   | (2774:17) Never take your eyes off the enemy.
+   | Increase damage to 200% for the next 1 turn
+ | group:
+ | condition: execute repeatedly, turn 1 of 2
+   | (1:82) Disable Skill
+   | Deal 100% damage
+ | group:
+ | condition: execute repeatedly, turn 2 of 2
+   | (2774:17) Never take your eyes off the enemy.
+   | Increase damage to 200% for the next 1 turn
