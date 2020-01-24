@@ -33,22 +33,22 @@ flag SET 0b11
 
 #9: ESRandomSpawn(92:4822) -> Mind Breaking Hell Guidance
 Condition: When heal orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer, Deal 70% damage
+Change all Heal orbs to Jammer orbs, Deal 70% damage
 
 #10: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b10
 
 #11: ESRandomSpawn(92:4824) -> Celestial Wicked Exorcism
 Condition: When < 10% HP & when Jammer orbs are on the board (ai:100 rnd:0)
-Change all orbs to Wood, Deal 300% damage
+Change all Jammer orbs to Wood orbs, Deal 300% damage
 
 #12: ESRandomSpawn(92:4823) -> Nothingness Light
 Condition: When jammer orbs are on the board (ai:100 rnd:0)
-Change all orbs to Heal, Deal 30% damage
+Change all Jammer orbs to Heal orbs, Deal 30% damage
 
 #13: ESRandomSpawn(92:4822) -> Mind Breaking Hell Guidance
 Condition: When heal orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer, Deal 70% damage
+Change all Heal orbs to Jammer orbs, Deal 70% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

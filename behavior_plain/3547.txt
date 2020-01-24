@@ -36,7 +36,7 @@ flag SET 0b11
 
 #9: ESRandomSpawn(92:6969) -> Arced Horn of Truth
 Condition: One-time use & when Jammer or Mortal Poison orbs are on the board (ai:100 rnd:0) (cost: 4)
-Change all orbs to Dark, Deal 1200% damage
+Change all Jammer and Mortal Poison orbs to Dark orbs, Deal 1200% damage
 
 #10: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)

@@ -16,7 +16,7 @@ Enemy recover 100% HP
 
 #4: ESRandomSpawn(92:8280) -> アイスピット
 Condition: 40% chance & when Water orbs are on the board (ai:40 rnd:0)
-Change all orbs to Jammer, Deal 100% damage
+Change all Water orbs to Jammer orbs, Deal 100% damage
 
 #5: ESAttackMultihit(15:8278) -> かじる
 Deal 150% damage (3 hits, 50% each)

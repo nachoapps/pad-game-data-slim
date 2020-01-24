@@ -37,11 +37,11 @@ Deal 150% damage (2 hits, 75% each)
 
 #11: ESRandomSpawn(92:4534) -> Dusky Malice
 Condition: When fire orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer, Deal 100% damage
+Change all Fire orbs to Jammer orbs, Deal 100% damage
 
 #12: ESRandomSpawn(92:4535) -> Robbing Heat
 Condition: When jammer orbs are on the board (ai:100 rnd:0)
-Change all orbs to Poison, Deal 100% damage
+Change all Jammer orbs to Poison orbs, Deal 100% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

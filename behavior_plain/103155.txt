@@ -49,11 +49,11 @@ flag UNSET 0b10
 
 #13: ESRandomSpawn(92:5367) -> Drehung Klinge
 Condition: 50% chance & when Heal orbs are on the board (ai:50 rnd:0)
-Change all orbs to Jammer, Deal 150% damage
+Change all Heal orbs to Jammer orbs, Deal 150% damage
 
 #14: ESRandomSpawn(92:5368) -> Windhose
 Condition: When heal orbs are on the board (ai:100 rnd:0)
-Change all orbs to Mortal Poison
+Change all Heal orbs to Mortal Poison orbs
 
 #15: ESColumnSpawnMulti(77:5371) -> Blitz Lanze
 Change the 3rd and 4th columns to Light and Heal orbs, Deal 170% damage

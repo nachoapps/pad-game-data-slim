@@ -23,10 +23,10 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance, when required attributes on board
      | (5379:92) Gewitter Klinge
-     | Change all orbs to Jammer, Deal 170% damage
+     | Change all Heal orbs to Jammer orbs, Deal 170% damage
      | condition: when required attributes on board
      | (5380:92) Sturm Wind
-     | Change all orbs to Mortal Poison, Deal 100% damage
+     | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
      | (5383:77) Wirbel Lanze
      | Change the 3rd and 4th columns to Water, Wood, and Poison orbs, Deal 150% damage
  | group:

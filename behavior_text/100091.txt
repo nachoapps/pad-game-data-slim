@@ -10,7 +10,7 @@ level: 1
  type: PREEMPT
  | condition: when required attributes on board
  | (5663:92) Guard Stance-Water
- | Change all orbs to Heal
+ | Change all Fire orbs to Heal orbs
  | (5668:63) The Sound of Confinement
  | Bind 1 random sub for 2 turns, Deal 80% damage
  group:

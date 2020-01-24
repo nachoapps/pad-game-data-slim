@@ -20,7 +20,7 @@ level: 1
    | condition: execute repeatedly, turn 1 of 2
      | condition: when required attributes on board
      | (4605:92) Time Purification
-     | Change all orbs to Jammer, Deal 180% damage
+     | Change all Poison orbs to Jammer orbs, Deal 180% damage
      | (4604:79) Break Time
      | Change the 5th row to Heal orbs, Deal 140% damage
    | group:

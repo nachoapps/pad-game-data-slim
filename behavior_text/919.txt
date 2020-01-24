@@ -24,10 +24,10 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: when required attributes on board
      | (4534:92) Dusky Malice
-     | Change all orbs to Jammer, Deal 100% damage
+     | Change all Fire orbs to Jammer orbs, Deal 100% damage
      | condition: when required attributes on board
      | (4535:92) Robbing Heat
-     | Change all orbs to Poison, Deal 100% damage
+     | Change all Jammer orbs to Poison orbs, Deal 100% damage
  | group:
  | condition: turn 2, hp <= 49
    | (4532:14) Flame Commandment

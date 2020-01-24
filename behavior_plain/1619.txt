@@ -58,7 +58,7 @@ flag SET 0b111
 
 #14: ESRandomSpawn(92:4879) -> Thanks for taking care of it ♪
 Condition: When jammer orbs are on the board (ai:100 rnd:0)
-Change all orbs to Heal
+Change all Jammer orbs to Heal orbs
 
 #15: ESRecoverEnemy86(86:4880) -> I told you to take care of it...
 Enemy recover 100% HP

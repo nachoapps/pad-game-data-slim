@@ -53,7 +53,7 @@ flag SET 0b111
 
 #14: ESRandomSpawn(92:4605) -> Time Purification
 Condition: When poison orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer, Deal 180% damage
+Change all Poison orbs to Jammer orbs, Deal 180% damage
 
 #15: ESRowSpawnMulti(79:4604) -> Break Time
 Change the 5th row to Heal orbs, Deal 140% damage
@@ -78,7 +78,7 @@ flag UNSET 0b1000
 
 #22: ESRandomSpawn(92:4605) -> Time Purification
 Condition: When poison orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer, Deal 180% damage
+Change all Poison orbs to Jammer orbs, Deal 180% damage
 
 #23: ESRowSpawnMulti(79:4604) -> Break Time
 Change the 5th row to Heal orbs, Deal 140% damage

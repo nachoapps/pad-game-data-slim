@@ -17,24 +17,24 @@ level: 1
  | group:
    | condition: when required attributes on board
    | (4822:92) Mind Breaking Hell Guidance
-   | Change all orbs to Jammer, Deal 70% damage
+   | Change all Heal orbs to Jammer orbs, Deal 70% damage
    | condition: when required attributes on board
    | (4823:92) Nothingness Light
-   | Change all orbs to Heal, Deal 30% damage
+   | Change all Jammer orbs to Heal orbs, Deal 30% damage
    | condition: when required attributes on board
    | (4822:92) Mind Breaking Hell Guidance
-   | Change all orbs to Jammer, Deal 70% damage
+   | Change all Heal orbs to Jammer orbs, Deal 70% damage
  | group:
  | condition: hp <= 9
    | condition: when required attributes on board
    | (4822:92) Mind Breaking Hell Guidance
-   | Change all orbs to Jammer, Deal 70% damage
+   | Change all Heal orbs to Jammer orbs, Deal 70% damage
    | condition: when required attributes on board
    | (4824:92) Celestial Wicked Exorcism
-   | Change all orbs to Wood, Deal 300% damage
+   | Change all Jammer orbs to Wood orbs, Deal 300% damage
    | condition: when required attributes on board
    | (4823:92) Nothingness Light
-   | Change all orbs to Heal, Deal 30% damage
+   | Change all Jammer orbs to Heal orbs, Deal 30% damage
    | condition: when required attributes on board
    | (4822:92) Mind Breaking Hell Guidance
-   | Change all orbs to Jammer, Deal 70% damage
+   | Change all Heal orbs to Jammer orbs, Deal 70% damage

@@ -19,7 +19,7 @@ level: 1
  | condition: turn 2
    | condition: when required attributes on board
    | (4956:92) 2
-   | Change all orbs to Jammer
+   | Change all Fire orbs to Jammer orbs
    | (4957:66) 2
    | Do nothing
  | group:
@@ -38,7 +38,7 @@ level: 1
  | condition: execute repeatedly, turn 3 of 4
    | condition: when required attributes on board
    | (4956:92) 2
-   | Change all orbs to Jammer
+   | Change all Fire orbs to Jammer orbs
    | (4957:66) 2
    | Do nothing
  | group:

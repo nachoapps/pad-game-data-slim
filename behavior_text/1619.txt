@@ -30,7 +30,7 @@ level: 1
    | condition: turn 1
      | condition: when required attributes on board
      | (4879:92) Thanks for taking care of it ♪
-     | Change all orbs to Heal
+     | Change all Jammer orbs to Heal orbs
      | (4880:86) I told you to take care of it...
      | Enemy recover 100% HP
    | group:

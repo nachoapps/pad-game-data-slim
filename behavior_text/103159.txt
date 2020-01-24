@@ -22,7 +22,7 @@ level: 1
  | condition: turn 2
    | condition: when required attributes on board
    | (5408:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 130% damage
+   | Change all Jammer orbs to Poison orbs, Deal 130% damage
    | (5488:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 130% damage
  | group:
@@ -39,7 +39,7 @@ level: 1
  | condition: turn 5
    | condition: when required attributes on board
    | (5409:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 140% damage
+   | Change all Jammer orbs to Poison orbs, Deal 140% damage
    | (5489:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 140% damage
  | group:
@@ -54,7 +54,7 @@ level: 1
  | condition: turn 8
    | condition: when required attributes on board
    | (5410:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 150% damage
+   | Change all Jammer orbs to Poison orbs, Deal 150% damage
    | (5490:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 150% damage
  | group:
@@ -81,7 +81,7 @@ level: 6
  | condition: turn 2
    | condition: when required attributes on board
    | (5408:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 130% damage
+   | Change all Jammer orbs to Poison orbs, Deal 130% damage
    | (5488:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 130% damage
  | group:
@@ -98,7 +98,7 @@ level: 6
  | condition: turn 5
    | condition: when required attributes on board
    | (5409:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 140% damage
+   | Change all Jammer orbs to Poison orbs, Deal 140% damage
    | (5489:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 140% damage
  | group:
@@ -113,7 +113,7 @@ level: 6
  | condition: turn 8
    | condition: when required attributes on board
    | (5410:92) Drops from Heaven
-   | Change all orbs to Poison, Deal 150% damage
+   | Change all Jammer orbs to Poison orbs, Deal 150% damage
    | (5490:62) Holy Rays of the Sun
    | Blind all orbs on the board, Deal 150% damage
  | group:

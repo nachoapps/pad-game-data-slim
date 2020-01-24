@@ -26,7 +26,7 @@ Branch on hp < 10, target rnd 19
 
 #5: ESRandomSpawn(92:5408) -> Drops from Heaven
 Condition: One-time use & when Jammer orbs are on the board (ai:100 rnd:0) (cost: 128)
-Change all orbs to Poison, Deal 130% damage
+Change all Jammer orbs to Poison orbs, Deal 130% damage
 
 #6: ESBlind62(62:5488) -> Holy Rays of the Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 128)
@@ -45,7 +45,7 @@ Bind awoken skills for 3 turns
 
 #9: ESRandomSpawn(92:5409) -> Drops from Heaven
 Condition: One-time use & when Jammer orbs are on the board (ai:100 rnd:0) (cost: 16)
-Change all orbs to Poison, Deal 140% damage
+Change all Jammer orbs to Poison orbs, Deal 140% damage
 
 #10: ESBlind62(62:5489) -> Holy Rays of the Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
@@ -71,7 +71,7 @@ Reduce damage from all sources by 75% for 3 turns
 
 #15: ESRandomSpawn(92:5410) -> Drops from Heaven
 Condition: One-time use & when Jammer orbs are on the board (ai:100 rnd:0) (cost: 2)
-Change all orbs to Poison, Deal 150% damage
+Change all Jammer orbs to Poison orbs, Deal 150% damage
 
 #16: ESBlind62(62:5490) -> Holy Rays of the Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 2)

@@ -18,7 +18,7 @@ level: 1
  | group:
    | condition: when required attributes on board
    | (8081:92) Demon Tree Creation
-   | Change all orbs to Wood, Deal 10000% damage
+   | Change all Jammer orbs to Wood orbs, Deal 10000% damage
    | condition: 80% chance, when required attributes on board
    | (8082:92) Dark Tree Thorns
    | Spawn 5 random Jammer orbs, Deal 280% damage
@@ -28,13 +28,13 @@ level: 1
  | condition: turn 2 while HP > 9, hp <= 49
    | condition: when required attributes on board
    | (8081:92) Demon Tree Creation
-   | Change all orbs to Wood, Deal 10000% damage
+   | Change all Jammer orbs to Wood orbs, Deal 10000% damage
    | (8086:83) Hallucination + Start from here♪
    | Change all orbs to Wood, Heal, Jammer, and Poison + Fix orb movement starting point to random position on the board, Deal 350% damage
  | group:
  | condition: hp <= 9
    | condition: when required attributes on board
    | (8081:92) Demon Tree Creation
-   | Change all orbs to Wood, Deal 10000% damage
+   | Change all Jammer orbs to Wood orbs, Deal 10000% damage
    | (8087:15) Jupiter Origin
    | Deal 12000% damage (6 hits, 2000% each)

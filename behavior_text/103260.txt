@@ -25,7 +25,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 19
      | (6881:83) Vanishing Lifespring - Red Sun + Crimson Blossom Storm
-     | Change all orbs to Jammer + Absorb damage when combos <= 6 for 5 turns
+     | Change all Fire and Light orbs to Jammer orbs + Absorb damage when combos <= 6 for 5 turns
    | group:
      | (6882:48) Banishing Firebrand
      | Change all Jammer orbs to Fire orbs, Deal 800% damage

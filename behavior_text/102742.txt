@@ -19,6 +19,6 @@ level: 1
  | condition: execute repeatedly, turn 4 of 4
    | condition: when required attributes on board
    | (4831:92) Shining Railgun
-   | Change all orbs to Light, Deal 5000% damage
+   | Change all Mortal Poison orbs to Light orbs, Deal 5000% damage
    | (4832:55) Heaven's Compassion
    | Player recover 100% HP

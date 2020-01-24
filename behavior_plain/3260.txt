@@ -31,7 +31,7 @@ Deal 2700% damage (9 hits, 300% each)
 #7: SkillSet:
 	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRandomSpawn(92:6879) -> Vanishing Lifespring - Red Sun
-	Change all orbs to Jammer
+	Change all Fire and Light orbs to Jammer orbs
 	[1] ESAbsorbCombo(67:6880) -> Crimson Blossom Storm
 	Absorb damage when combos <= 6 for 5 turns
 

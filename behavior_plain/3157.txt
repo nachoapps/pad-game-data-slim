@@ -49,11 +49,11 @@ flag UNSET 0b10
 
 #13: ESRandomSpawn(92:5379) -> Gewitter Klinge
 Condition: 50% chance & when Heal orbs are on the board (ai:50 rnd:0)
-Change all orbs to Jammer, Deal 170% damage
+Change all Heal orbs to Jammer orbs, Deal 170% damage
 
 #14: ESRandomSpawn(92:5380) -> Sturm Wind
 Condition: When heal orbs are on the board (ai:100 rnd:0)
-Change all orbs to Mortal Poison, Deal 100% damage
+Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
 
 #15: ESColumnSpawnMulti(77:5383) -> Wirbel Lanze
 Change the 3rd and 4th columns to Water, Wood, and Poison orbs, Deal 150% damage

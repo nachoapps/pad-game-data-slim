@@ -35,7 +35,7 @@ flag SET 0b11
 
 #9: ESRandomSpawn(92:4956) -> 2
 Condition: When fire orbs are on the board (ai:100 rnd:0)
-Change all orbs to Jammer
+Change all Fire orbs to Jammer orbs
 
 #10: ESInactivity66(66:4957) -> 2
 Do nothing

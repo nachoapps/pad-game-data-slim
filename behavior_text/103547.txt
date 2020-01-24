@@ -20,7 +20,7 @@ level: 1
    | condition: turn 1 while HP > 4
      | condition: when required attributes on board
      | (6969:92) Arced Horn of Truth
-     | Change all orbs to Dark, Deal 1200% damage
+     | Change all Jammer and Mortal Poison orbs to Dark orbs, Deal 1200% damage
      | (6972:83) Orb Rust + Distortion Field
      | Seal the 6th column for 5 turns + Absorb damage when combos <= 5 for 5 turns
    | group:
