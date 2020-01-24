@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (6476:83) White Valkyrie Shield + Fylgja Fur + Discerning Lifechains
- | Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + RCV +50% for 20 turns
+ | Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + RCV 50% for 20 turns
  group:
  | group:
    | (6507:83) Sweeping Spirit Garments + Saintly Valkyrie Blade
@@ -32,11 +32,11 @@ level: 1
  | group:
  | condition: turn 1 while HP > 59, hp <= 69
    | (6506:83) Test of Skill + Test of Perception + Test of Speed
-   | Absorb damage when combos <= 5 for 10 turns + A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns
+   | Absorb damage when combos <= 5 for 10 turns + A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns
  | group:
  | condition: turn 1 while HP > 49, hp <= 59
    | (6486:83) Test of Skill + Test of Perception + Test of Speed + Test of Endurance
-   | Absorb damage when combos <= 5 for 10 turns + A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
+   | Absorb damage when combos <= 5 for 10 turns + A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
  | group:
  | condition: hp <= 49
    | (6487:83) Resurrection + Sweeping Spirit Garments
@@ -44,19 +44,19 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 2 times
  | (6485:83) Test of Perception + Test of Speed + Test of Endurance
- | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
+ | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
  | condition: at most 2 times
  | (6505:83) Test of Perception + Test of Speed
- | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime +50% for 10 turns
+ | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column + Movetime 50% for 10 turns
  | condition: at most 3 times
  | (6481:104) Test of Perception
  | A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
  | condition: at most 5 times
  | (6484:83) Test of Speed + Test of Endurance
- | Movetime +50% for 10 turns + Increase damage to 150% for the next 10 turns
+ | Movetime 50% for 10 turns + Increase damage to 150% for the next 10 turns
  | condition: at most 7 times
  | (6482:39) Test of Speed
- | Movetime +50% for 10 turns
+ | Movetime 50% for 10 turns
  | condition: at most 15 times
  | (6483:19) Test of Endurance
  | Increase damage to 150% for the next 10 turns

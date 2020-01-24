@@ -32,7 +32,7 @@ Branch on hp > 51, target rnd 9
 	[1] ESAttackUPRemainingEnemies(17:12014) -> それじゃ　こんなのはどうだい？
 	Increase damage to 150% for the next 1 turn
 	[2] ESDebuffRCV(105:12015) -> さあ　もっと楽しませてよ！
-	RCV +50% for 1 turn
+	RCV 50% for 1 turn
 
 #9: SkillSet:
 	Condition: 50% chance (ai:0 rnd:50)

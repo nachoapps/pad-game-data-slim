@@ -43,7 +43,7 @@ level: 1
      | (10187:83) Well done! + Next, this! + It's SHOWTIME!!!
      | Player recover 100% HP + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
      | (10189:83) No, no, you can do better! + Next, this! + It's SHOWTIME!!!
-     | RCV +50% for 4 turns + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
+     | RCV 50% for 4 turns + Locked Heal skyfall +100% for 3 turns + Change player HP to 100000 for 5 turns
    | group:
    | condition: turns 7-9
      | condition: 33% chance
@@ -63,7 +63,7 @@ level: 1
    | condition: turn 11
      | condition: when 10 combos last turn
      | (10195:83) Well done! + Well, well, what's next? + It's SHOWTIME!!!
-     | Movetime +200% for 1 turn + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
+     | Movetime 200% for 1 turn + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
      | (10197:83) No, no, you can do better! + Well, well, what's next? + It's SHOWTIME!!!
      | Movetime -1s for 4 turns + Random 3 orbs change every 1.0s for 4 turns + Change player HP to 11111 for 5 turns
    | group:
@@ -73,7 +73,7 @@ level: 1
    | group:
    | condition: turn 15
      | (10201:83) It's almost over ! + It's SHOWTIME!!!
-     | RCV +50% for 1 turn + Change player HP to 500000 for 2 turns
+     | RCV 50% for 1 turn + Change player HP to 500000 for 2 turns
    | group:
    | condition: turn 16
      | (10202:15) Grand Finale

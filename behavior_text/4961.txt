@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 33% chance
    | (11958:105) オラ　負けないズラよ！
-   | RCV +50% for 1 turn, Deal 80% damage
+   | RCV 50% for 1 turn, Deal 80% damage
    | condition: 33% chance
    | (11959:15) ズラッ！
    | Deal 100% damage

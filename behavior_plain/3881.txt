@@ -52,7 +52,7 @@ end_turn
 #14: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESDebuffRCV(105:8039) -> Don't mess with a demon!
-	RCV +50% for 7 turns
+	RCV 50% for 7 turns
 	[1] ESDamageShield(74:8040) -> Steel Demonskin
 	Reduce damage from all sources by 75% for 7 turns
 

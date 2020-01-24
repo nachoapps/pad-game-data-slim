@@ -65,7 +65,7 @@ flag SET 0b11
 	[0] ESBombFixedSpawn(103:11156) -> Your life is at an end!
 	Spawn Bomb orbs in the specified positions
 	[1] ESDebuffMovetime(39:11157) -> You will regret that
-	Movetime +50% for 5 turns
+	Movetime 50% for 5 turns
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13082:83) Nice to meet you! + Thank you in advance
- | Movetime +300% for 10 turns + Random 1 orbs change every 1.0s for 10 turns
+ | Movetime 300% for 10 turns + Random 1 orbs change every 1.0s for 10 turns
  group:
  | group:
    | group:

@@ -20,4 +20,4 @@ level: 4
  | group:
  | condition: turn 1, hp <= 49
    | (5759:39) Trick & Trick
-   | Movetime +200% for 5 turns, Deal 200% damage
+   | Movetime 200% for 5 turns, Deal 200% damage

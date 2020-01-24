@@ -25,11 +25,11 @@ level: 1
      | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 70% damage (5 hits, 14% each), Deal 70% damage (5 hits, 14% each)
      | condition: 34% chance
      | (16214:83) I...will be...immortal... + ＿2 moves
-     | RCV +50% for 1 turn + No skyfall for 1 turn
+     | RCV 50% for 1 turn + No skyfall for 1 turn
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | (16037:83) The Will of Destruction and Creation + Unripened Earth + ＿After 10 turns Action
-     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime +25% for 1 turn
+     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime 25% for 1 turn
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (16041:83) It should be destroyed + Boundless Infinity
@@ -55,7 +55,7 @@ level: 1
    | group:
    | condition: turn 5
      | (16037:83) The Will of Destruction and Creation + Unripened Earth + ＿After 10 turns Action
-     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime +25% for 1 turn
+     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime 25% for 1 turn
    | group:
    | condition: turn 6
      | (16041:83) It should be destroyed + Boundless Infinity
@@ -75,7 +75,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 6
      | (16037:83) The Will of Destruction and Creation + Unripened Earth + ＿After 10 turns Action
-     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime +25% for 1 turn
+     | Bind awoken skills for 1 turn + Spawn Bomb orbs in the specified positions + Movetime 25% for 1 turn
    | group:
    | condition: execute repeatedly, turn 4 of 6
      | (16041:83) It should be destroyed + Boundless Infinity

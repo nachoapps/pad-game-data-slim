@@ -46,4 +46,4 @@ level: 4
  | group:
  | condition: turn 1, hp <= 1
    | (9590:83) Covering myself in flowers heals all wounds + Rudeness is no good!
-   | Enemy recover 50% HP + Movetime +50% for 10 turns
+   | Enemy recover 50% HP + Movetime 50% for 10 turns

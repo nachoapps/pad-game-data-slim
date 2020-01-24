@@ -69,7 +69,7 @@ Branch on counter >= 10, target rnd 28
 #18: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffMovetime(39:12275) -> Value of Freedom
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 	[1] ESBombRandomSpawn(102:12276) -> Independent Assembly
 	Spawn 10 random Bomb orbs
 

@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESDamageShield(74:14339) -> Are you challenging me?
 	Reduce damage from all sources by 75% for 10 turns
 	[2] ESDebuffRCV(105:14340) -> Grovel before me
-	RCV +0% for 3 turns
+	RCV 0% for 3 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 14

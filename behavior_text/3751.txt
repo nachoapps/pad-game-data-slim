@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13463:83) Get over it! + King's Test + King's Edict
- | Voids status ailments for 999 turns + Absorb damage when combos <= 6 for 1 turn + Movetime +25% for 1 turn
+ | Voids status ailments for 999 turns + Absorb damage when combos <= 6 for 1 turn + Movetime 25% for 1 turn
  group:
  | group:
  | condition: when hp is full

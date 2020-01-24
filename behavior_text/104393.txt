@@ -36,7 +36,7 @@ level: 4
  | group:
  | condition: turn 1
    | (9956:83) Hee-ho! + Rakunda
-   | Change a random attribute to Water orbs + RCV +50% for 3 turns, Deal 115% damage
+   | Change a random attribute to Water orbs + RCV 50% for 3 turns, Deal 115% damage
  | group:
    | condition: 30% chance
    | (9957:94) Mabufu

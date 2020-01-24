@@ -26,13 +26,13 @@ Branch on combo >= 9, target rnd 6
 	[0] ESSkillDelay(89:11887) -> Too bad...
 	Delay active skills by 10 turns
 	[1] ESDebuffMovetime(39:11888) -> Overflowed Despair
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[2] ESEndBattle(40:11889) -> Farewell
 	Reduce self HP to 0
 
 #6: SkillSet:
 	[0] ESDebuffMovetime(39:11884) -> Congratulations
-	Movetime +200% for 10 turns
+	Movetime 200% for 10 turns
 	[1] ESEndBattle(40:11885) -> I give you hope
 	Reduce self HP to 0
 
@@ -55,13 +55,13 @@ Branch on combo >= 10, target rnd 11
 	[0] ESSkillDelay(89:11887) -> Too bad...
 	Delay active skills by 10 turns
 	[1] ESDebuffMovetime(39:11888) -> Overflowed Despair
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[2] ESEndBattle(40:11889) -> Farewell
 	Reduce self HP to 0
 
 #11: SkillSet:
 	[0] ESDebuffMovetime(39:11884) -> Congratulations
-	Movetime +200% for 10 turns
+	Movetime 200% for 10 turns
 	[1] ESEndBattle(40:11885) -> I give you hope
 	Reduce self HP to 0
 

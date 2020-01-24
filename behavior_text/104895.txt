@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (15545:83) Crazed Costume + Hero's Divine Protection + The Path to Victory
- | Absorb damage when combos <= 7 for 10 turns + Void damage >= 30000000 for 999 turns + RCV +50% for 10 turns
+ | Absorb damage when combos <= 7 for 10 turns + Void damage >= 30000000 for 999 turns + RCV 50% for 10 turns
  group:
  | group:
    | condition: 20% chance

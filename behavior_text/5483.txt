@@ -22,10 +22,10 @@ level: 1
    | condition: execute repeatedly, turn 1-3 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)
@@ -59,10 +59,10 @@ level: 1
    | condition: execute repeatedly, turn 1-2 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)
@@ -90,10 +90,10 @@ level: 1
    | condition: execute repeatedly, turn 8 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)
@@ -133,10 +133,10 @@ level: 6
    | condition: execute repeatedly, turn 1-3 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)
@@ -170,10 +170,10 @@ level: 6
    | condition: execute repeatedly, turn 1-2 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)
@@ -201,10 +201,10 @@ level: 6
    | condition: execute repeatedly, turn 8 of 8
      | condition: 25% chance
      | (14213:105) Pululatiyaahol Appanee
-     | RCV +50% for 1 turn, Deal 100% damage
+     | RCV 50% for 1 turn, Deal 100% damage
      | condition: 33% chance
      | (14214:39) Kaala Appanee
-     | Movetime +50% for 1 turn, Deal 100% damage
+     | Movetime 50% for 1 turn, Deal 100% damage
      | condition: 50% chance
      | (14206:83) Uttarlotaarla Abeebhan + Agni Taara
      | Deal 60% damage (4 hits, 15% each) + Change a random attribute to Fire orbs, Deal 60% damage (4 hits, 15% each)

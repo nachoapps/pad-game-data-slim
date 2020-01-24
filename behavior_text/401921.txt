@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13696:83) Full Blooming + Withered Flowers
- | Heal skyfall +20% for 10 turns + RCV +25% for 10 turns
+ | Heal skyfall +20% for 10 turns + RCV 25% for 10 turns
  group:
  | group:
    | condition: 33% chance

@@ -59,7 +59,7 @@ flag SET 0b111
 
 #16: SkillSet:
 	[0] ESDebuffRCV(105:7141) -> Shadow of Hel! Extinguish all life!
-	RCV +50% for 99 turns
+	RCV 50% for 99 turns
 	[1] ESGravity(50:7142) -> Deathland Rune
 	Player -99% HP
 
@@ -129,7 +129,7 @@ flag SET 0b11111
 	[0] ESBoardChange(84:7149) -> Hold on! It's not your turn yet!
 	Change all orbs to Light, Heal, and Jammer
 	[1] ESDebuffMovetime(39:7150) -> Oh, fine... I'll let you have your fun
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 	[2] ESSkillDelay(89:7151) -> Can you erase all the Jammers?
 	Delay active skills by 30 turns
 

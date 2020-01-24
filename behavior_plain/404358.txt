@@ -12,7 +12,7 @@ Enable preempt if level 1
 	[0] ESAbsorbCombo(67:13726) -> Crimson Giant
 	Absorb damage when combos <= 8 for 10 turns
 	[1] ESDebuffMovetime(39:13727) -> Underworld Charity
-	Movetime +200% for 10 turns
+	Movetime 200% for 10 turns
 	[2] ESSpinnersRandom(109:13728) -> Swirling Fire
 	Random 1 orbs change every 1.5s for 10 turns
 

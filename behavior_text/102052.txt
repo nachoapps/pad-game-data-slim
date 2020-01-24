@@ -17,7 +17,7 @@ level: 5
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (7747:39) I will be reborn again here.
- | Movetime +50% for 3 turns
+ | Movetime 50% for 3 turns
  group:
  | group:
    | condition: 40% chance

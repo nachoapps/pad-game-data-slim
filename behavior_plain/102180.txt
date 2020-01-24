@@ -19,7 +19,7 @@ flag SET 0b1
 	[1] ESDamageShield(74:6458) -> The Feathered Garment of Yomi
 	Reduce damage from all sources by 50% for 3 turns
 	[2] ESDebuffMovetime(39:6459) -> Malicious Laughter
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #5: SkillSet:
 	Condition: When < 1% HP , one-time use (ai:100 rnd:0) (cost: 1)
@@ -51,7 +51,7 @@ Branch on flag & 2, target rnd 13
 flag SET 0b11
 
 #10: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime +50% for 10 turns
+Movetime 50% for 10 turns
 
 #11: SkillSet:
 	[0] ESPoisonChangeRandomCount(60:6461) -> An Invitation to Death & Decay
@@ -69,7 +69,7 @@ Branch on flag & 4, target rnd 19
 flag SET 0b111
 
 #15: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime +50% for 10 turns
+Movetime 50% for 10 turns
 
 #16: ESOrbChangeAttack(48:6463) -> Anguished Wailing
 Change all Heal orbs to Jammer orbs, Deal 100% damage
@@ -84,7 +84,7 @@ end_turn
 flag UNSET 0b110
 
 #20: ESDebuffMovetime(39:6459) -> Malicious Laughter
-Movetime +50% for 10 turns
+Movetime 50% for 10 turns
 
 #21: SkillSet:
 	[0] ESDamageShield(74:6458) -> The Feathered Garment of Yomi

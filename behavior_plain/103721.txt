@@ -45,7 +45,7 @@ Branch on hp > 100, target rnd 13
 	[0] ESDamageShield(74:7364) -> Insulating Firescales
 	Reduce damage from all sources by 75% for 4 turns
 	[1] ESDebuffMovetime(39:7367) -> Exalted Flame
-	Movetime +150% for 5 turns
+	Movetime 150% for 5 turns
 
 #13: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 3)

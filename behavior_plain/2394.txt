@@ -77,7 +77,7 @@ flag SET 0b11
 	[0] ESRecoverEnemy86(86:9588) -> Covering myself in flowers heals all wounds
 	Enemy recover 50% HP
 	[1] ESDebuffMovetime(39:9589) -> Rudeness is no good!
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

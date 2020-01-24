@@ -21,7 +21,7 @@ flag SET 0b1
 	[2] ESAbsorbCombo(67:9554) -> Here I come!
 	Absorb damage when combos <= 6 for 1 turn
 	[3] ESDebuffMovetime(39:9555) -> Let's get excited ♪
-	Movetime +200% for 5 turns
+	Movetime 200% for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

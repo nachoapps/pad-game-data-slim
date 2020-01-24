@@ -80,11 +80,11 @@ Movetime -3s for 1 turn, Deal 300% damage
 
 #19: ESDebuffMovetime(39:6978) -> Time Mixup
 Condition: 6% chance (ai:0 rnd:6)
-Movetime +50% for 1 turn, Deal 300% damage
+Movetime 50% for 1 turn, Deal 300% damage
 
 #20: ESDebuffMovetime(39:6979) -> Time Mixup
 Condition: 6% chance (ai:0 rnd:6)
-Movetime +150% for 1 turn, Deal 300% damage
+Movetime 150% for 1 turn, Deal 300% damage
 
 #21: ESAttackMultihit(15:6980) -> Wonder Bolt
 Condition: 30% chance (ai:0 rnd:30)

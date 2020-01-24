@@ -16,7 +16,7 @@ Enable preempt if level 1
 	[2] ESAttributeBlock(107:15103) -> Erase everything but Jammers
 	Unable to match Jammer orbs for 4 turns
 	[3] ESDebuffMovetime(39:15105) -> Well, let's try your best
-	Movetime +200% for 4 turns
+	Movetime 200% for 4 turns
 
 #3: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 10

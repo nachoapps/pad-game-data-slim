@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDebuffRCV(105:8331) -> Ancient Field
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[1] ESDamageShield(74:8332) -> Hyper Dragon Shield
 	Reduce damage from all sources by 99% for 5 turns
 

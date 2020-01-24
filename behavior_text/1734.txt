@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 1
      | (13165:39) Constraining Martial Art
-     | Movetime +25% for 1 turn
+     | Movetime 25% for 1 turn
    | group:
      | (13166:15) Hero's Sword
      | Deal 420% damage (6 hits, 70% each)
@@ -49,4 +49,4 @@ level: 1
    | group:
    | condition: turn 2
      | (13165:39) Constraining Martial Art
-     | Movetime +25% for 1 turn
+     | Movetime 25% for 1 turn

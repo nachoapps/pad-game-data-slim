@@ -86,7 +86,7 @@ flag SET 0b11
 	[0] ESBlindStickyRandom(97:14314) -> Plunged into Darkness
 	Blind random 15~20 orbs for 5 turns
 	[1] ESDebuffMovetime(39:14315) -> Time Split
-	Movetime +50% for 5 turns
+	Movetime 50% for 5 turns
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn

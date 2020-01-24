@@ -20,7 +20,7 @@ level: 1
    | (10214:110) Hum! What about this?
    | Specific orbs change every 1.0s for 1 turn
    | (10215:39) Hehe! You give up?
-   | Movetime +25% for 1 turn
+   | Movetime 25% for 1 turn
  | group:
  | condition: execute repeatedly, turn 2 of 5
    | (10216:104) Run more!
@@ -31,7 +31,7 @@ level: 1
    | (10214:110) Hum! What about this?
    | Specific orbs change every 1.0s for 1 turn
    | (10215:39) Hehe! You give up?
-   | Movetime +25% for 1 turn
+   | Movetime 25% for 1 turn
  | group:
  | condition: execute repeatedly, turn 4 of 5
    | (10217:15) Let's attack together!

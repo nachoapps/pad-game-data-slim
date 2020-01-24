@@ -95,7 +95,7 @@ Branch on combo >= 10, target rnd 25
 
 #24: SkillSet:
 	[0] ESDebuffRCV(105:10188) -> No, no, you can do better!
-	RCV +50% for 4 turns
+	RCV 50% for 4 turns
 	[1] ESSkyfallLocked(96:10185) -> Next, this!
 	Locked Heal skyfall +100% for 3 turns
 	[2] ESMaxHPChange(111:10186) -> It's SHOWTIME!!!
@@ -155,7 +155,7 @@ Branch on combo >= 10, target rnd 38
 
 #38: SkillSet:
 	[0] ESDebuffMovetime(39:10184) -> Well done!
-	Movetime +200% for 1 turn
+	Movetime 200% for 1 turn
 	[1] ESSpinnersRandom(109:10193) -> Well, well, what's next?
 	Random 3 orbs change every 1.0s for 4 turns
 	[2] ESMaxHPChange(111:10194) -> It's SHOWTIME!!!
@@ -181,7 +181,7 @@ flag SET 0b11111
 
 #45: SkillSet:
 	[0] ESDebuffRCV(105:10199) -> It's almost over !
-	RCV +50% for 1 turn
+	RCV 50% for 1 turn
 	[1] ESMaxHPChange(111:10200) -> It's SHOWTIME!!!
 	Change player HP to 500000 for 2 turns
 

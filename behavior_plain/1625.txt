@@ -13,7 +13,7 @@ Branch on level >= 6, target rnd 4
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffMovetime(39:13358) -> You will struggle
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 	[1] ESMaxHPChange(111:13359) -> Look
 	Change player HP to 1000000 for 1 turn
 	[2] ESBombRandomSpawn(102:13396) -> Keep giving all you've got
@@ -22,7 +22,7 @@ Branch on level >= 6, target rnd 4
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESDebuffMovetime(39:13358) -> You will struggle
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 	[1] ESMaxHPChange(111:13359) -> Look
 	Change player HP to 1000000 for 1 turn
 	[2] ESBombRandomSpawn(102:13360) -> Keep giving all you've got
@@ -79,7 +79,7 @@ Branch on flag & 1, target rnd 20
 flag SET 0b1
 
 #18: ESDebuffMovetime(39:13358) -> You will struggle
-Movetime +25% for 1 turn
+Movetime 25% for 1 turn
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

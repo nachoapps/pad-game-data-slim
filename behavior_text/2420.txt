@@ -17,7 +17,7 @@ level: 4
  | Reduce damage from God and Machine types by 50%
  type: PREEMPT
  | (9742:83) Hehehe + Do your absolute best!
- | Voids status ailments for 999 turns + Movetime +25% for 1 turn
+ | Voids status ailments for 999 turns + Movetime 25% for 1 turn
  group:
  | group:
  | condition: always turn 1

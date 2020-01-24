@@ -79,7 +79,7 @@ Branch on hp < 75, target rnd 20
 
 #19: SkillSet:
 	[0] ESDebuffRCV(105:15594) -> Have you prepared yourself?
-	RCV +50% for 3 turns
+	RCV 50% for 3 turns
 	[1] ESAbsorbCombo(67:15599) -> Follow my moves
 	Absorb damage when combos <= 6 for 3 turns
 	[2] ESAttackUPRemainingEnemies(17:15596) -> I'm gonna beat you up!
@@ -95,7 +95,7 @@ Branch on hp < 75, target rnd 20
 
 #21: SkillSet:
 	[0] ESDebuffMovetime(39:15602) -> Have you prepared yourself?
-	Movetime +50% for 3 turns
+	Movetime 50% for 3 turns
 	[1] ESAbsorbCombo(67:15624) -> Follow my moves
 	Absorb damage when combos <= 4 for 3 turns
 	[2] ESAttackUPRemainingEnemies(17:15604) -> I'm gonna beat you up!
@@ -112,7 +112,7 @@ Branch on hp < 75, target rnd 26
 
 #25: SkillSet:
 	[0] ESDebuffRCV(105:15594) -> Have you prepared yourself?
-	RCV +50% for 3 turns
+	RCV 50% for 3 turns
 	[1] ESAbsorbCombo(67:15595) -> Follow my moves
 	Absorb damage when combos <= 7 for 3 turns
 	[2] ESAttackUPRemainingEnemies(17:15596) -> I'm gonna beat you up!
@@ -128,7 +128,7 @@ Branch on hp < 75, target rnd 26
 
 #27: SkillSet:
 	[0] ESDebuffMovetime(39:15602) -> Have you prepared yourself?
-	Movetime +50% for 3 turns
+	Movetime 50% for 3 turns
 	[1] ESAbsorbCombo(67:15603) -> Follow my moves
 	Absorb damage when combos <= 5 for 3 turns
 	[2] ESAttackUPRemainingEnemies(17:15604) -> I'm gonna beat you up!

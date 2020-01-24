@@ -31,7 +31,7 @@ end_turn
 #8: SkillSet:
 	Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESDebuffRCV(105:7990) -> Ancient Dragon Wind
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[1] ESGravity(50:7991) -> Great Reduction
 	Player -99% HP
 

@@ -54,7 +54,7 @@ end_turn
 	[0] ESDamageShield(74:11667) -> Finally, you will struggle...
 	Reduce damage from all sources by 50% for 99 turns
 	[1] ESDebuffMovetime(39:11668) -> Prepare yourself!
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #13: ESAttackMultihit(15:11672) -> Abyss Maelstrom
 Deal 1000% damage (5 hits, 200% each)

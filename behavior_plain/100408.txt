@@ -37,7 +37,7 @@ Branch on flag & 1, target rnd 5
 flag SET 0b1
 
 #10: ESDebuffRCV(105:10516) -> Scorching Heat
-RCV +50% for 5 turns
+RCV 50% for 5 turns
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

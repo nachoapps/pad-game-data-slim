@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESDebuffRCV(105:9307) -> Dazzling Pulse
-RCV +50% for 3 turns
+RCV 50% for 3 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

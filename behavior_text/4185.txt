@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: turn 1
      | (13623:83) Silver Disk Divine Protection + Magic Wand's Sealing Power
-     | Reduce damage from all sources by 75% for 1 turn + Movetime +50% for 1 turn
+     | Reduce damage from all sources by 75% for 1 turn + Movetime 50% for 1 turn
    | group:
      | (13626:85) Breaking of a Taboo
      | Change all orbs to Dark, Deal 300% damage
@@ -46,4 +46,4 @@ level: 1
    | group:
    | condition: turn 2
      | (13623:83) Silver Disk Divine Protection + Magic Wand's Sealing Power
-     | Reduce damage from all sources by 75% for 1 turn + Movetime +50% for 1 turn
+     | Reduce damage from all sources by 75% for 1 turn + Movetime 50% for 1 turn

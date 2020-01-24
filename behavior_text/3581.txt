@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (6989:83) Demonic Eye of Truth + Lifeseal Talisman + Chime of the Demon Moon
- | Delay active skills by 10 turns + RCV +50% for 10 turns + Bind active skills for 10 turns
+ | Delay active skills by 10 turns + RCV 50% for 10 turns + Bind active skills for 10 turns
  group:
  | type: MONSTER_STATUS
    | (6998:18) Accursed Tiara

@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: turn 5
    | (15863:83) Okay then, I'll give you a little bonus + Do your best♪
-   | Movetime +400% for 99 turns + Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 100% damage
+   | Movetime 400% for 99 turns + Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 100% damage
  | group:
    | (15861:84) Saint Kugel
    | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal

@@ -48,7 +48,7 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #13: ESDebuffRCV(105:12219) -> Don't bother.
-RCV +50% for 3 turns
+RCV 50% for 3 turns
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

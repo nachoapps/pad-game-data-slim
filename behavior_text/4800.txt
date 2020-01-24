@@ -22,9 +22,9 @@ level: 1
  | condition: always turn 2
    | condition: when 8 combos last turn
    | (11188:83) Well, this has a lot of promise + Come and fight me!
-   | RCV +200% for 3 turns + Reduce damage from all sources by 75% for 99 turns
+   | RCV 200% for 3 turns + Reduce damage from all sources by 75% for 99 turns
    | (11185:83) I've not had my full of training yet! + Train properly!
-   | Movetime +200% for 3 turns + Absorb damage when combos <= 7 for 10 turns
+   | Movetime 200% for 3 turns + Absorb damage when combos <= 7 for 10 turns
  | group:
    | group:
    | condition: turn 3

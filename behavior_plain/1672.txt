@@ -85,7 +85,7 @@ flag SET 0b111
 	[0] ESStatusShield(20:9246) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[1] ESDebuffMovetime(39:9247) -> Nornil Curse
-	Movetime +50% for 12 turns
+	Movetime 50% for 12 turns
 
 #24: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -137,7 +137,7 @@ flag SET 0b111
 	[1] ESStatusShield(20:9246) -> The cogs of fate are now in motion
 	Voids status ailments for 999 turns
 	[2] ESDebuffMovetime(39:9247) -> Nornil Curse
-	Movetime +50% for 12 turns
+	Movetime 50% for 12 turns
 
 #37: ESEndPath(36:26) -> ESEndPath
 end_turn

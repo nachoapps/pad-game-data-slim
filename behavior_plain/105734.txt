@@ -55,7 +55,7 @@ Branch on hp < 50, target rnd 19
 #12: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)
 	[0] ESDebuffRCV(105:16212) -> I...will be...immortal...
-	RCV +50% for 1 turn
+	RCV 50% for 1 turn
 	[1] ESNoSkyfall(127:16213) -> ＿2 moves
 	No skyfall for 1 turn
 
@@ -68,7 +68,7 @@ end_turn
 	[1] ESBombFixedSpawn(103:16039) -> Unripened Earth
 	Spawn Bomb orbs in the specified positions
 	[2] ESDebuffMovetime(39:16040) -> ＿After 10 turns Action
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

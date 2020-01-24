@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Fire attrs by 50%
  type: PREEMPT
  | (6603:83) Blaze Armor + Salvation Flame + Crossdraw Breath
- | Void damage >= 10000000 for 999 turns + RCV +200% for 9 turns + Deal 760% damage, Deal 760% damage
+ | Void damage >= 10000000 for 999 turns + RCV 200% for 9 turns + Deal 760% damage, Deal 760% damage
  group:
  | group:
    | (6606:83) First Glisten + Triple Blaze

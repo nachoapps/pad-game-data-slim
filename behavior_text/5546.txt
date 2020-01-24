@@ -91,7 +91,7 @@ level: 1
    | group:
    | condition: turn 1
      | (14376:83) Guardian's Wrath + Joyous Sanctuary + The Swansong
-     | Increase damage to 200% for the next 999 turns + Absorb damage when combos <= 6 for 999 turns + Movetime +25% for 5 turns
+     | Increase damage to 200% for the next 999 turns + Absorb damage when combos <= 6 for 999 turns + Movetime 25% for 5 turns
    | group:
      | (14380:83) Komainu Transformation + Forever Frolicking
      | Change own attribute to random one of Fire, Water, Wood, or Dark + Deal 2000% damage (10 hits, 200% each), Deal 2000% damage (10 hits, 200% each)

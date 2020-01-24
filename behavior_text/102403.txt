@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (11336:83) Bad Halloween! + Trick or Treat
- | RCV +50% for 10 turns + Void damage >= 10000000 for 99 turns
+ | RCV 50% for 10 turns + Void damage >= 10000000 for 99 turns
  group:
  | group:
  | condition: always turn 1

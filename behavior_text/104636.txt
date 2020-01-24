@@ -16,7 +16,7 @@ level: 1
  | Reduce damage from Devil types by 50%
  type: PREEMPT
  | (15324:105) Break Burst
- | RCV +50% for 10 turns
+ | RCV 50% for 10 turns
  group:
  | group:
    | group:

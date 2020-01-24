@@ -26,7 +26,7 @@ Branch on player_cards HAS [789, 790, 2404, 3122], target rnd 8
 Do nothing
 
 #8: ESDebuffRCV(105:8597) -> Resonance of Cockatrice
-RCV +200% for 5 turns
+RCV 200% for 5 turns
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

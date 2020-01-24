@@ -42,7 +42,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 9, hp <= 50
    | (12298:83) Ashes + Sacrifice to the Furnace
-   | Jammer skyfall +20% for 10 turns + RCV +50% for 10 turns
+   | Jammer skyfall +20% for 10 turns + RCV 50% for 10 turns
  | group:
  | condition: hp <= 9
    | (12309:85) Burn it all!

@@ -22,7 +22,7 @@ level: 1
  | group:
  | condition: turn 10
    | (15315:83) Are you tired? + I want to dance some more
-   | Void damage >= 10000000 for 999 turns + RCV +25% for 10 turns
+   | Void damage >= 10000000 for 999 turns + RCV 25% for 10 turns
  | group:
    | condition: 50% chance
    | (15313:110) Folding Fan Dance

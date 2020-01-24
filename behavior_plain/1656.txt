@@ -62,7 +62,7 @@ counter = 6
 	[0] ESGravity(50:11631) -> Convicting Justice
 	Player -99% HP
 	[1] ESDebuffRCV(105:11632) -> Life Deprivation
-	RCV +50% for 3 turns
+	RCV 50% for 3 turns
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

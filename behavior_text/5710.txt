@@ -28,4 +28,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 14
    | (15269:83) させるか！ + まだだ！
-   | Enemy recover 100% HP + Movetime +50% for 1 turn
+   | Enemy recover 100% HP + Movetime 50% for 1 turn

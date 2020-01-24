@@ -27,7 +27,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (14745:83) Heartbeat Overheat + Jurassic Flame
-   | RCV +50% for 10 turns + Player -99% HP
+   | RCV 50% for 10 turns + Player -99% HP
  | group:
  | condition: hp <= 19
    | (14746:15) Wild Rush

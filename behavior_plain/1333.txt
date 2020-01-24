@@ -25,7 +25,7 @@ Branch on hp < 30, target rnd 11
 	[0] ESGravity(50:11867) -> Drought
 	Player -99% HP
 	[1] ESDebuffRCV(105:11868) -> Lost Water of Life
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 
 #6: ESBindRandomSub(65:11869) -> Torrential Downpour
 Condition: 25% chance (ai:0 rnd:25)

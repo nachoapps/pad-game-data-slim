@@ -39,7 +39,7 @@ counter + 1
 
 #12: ESDebuffMovetime(39:9177) -> Instant Ripped Death
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #13: ESAttackMultihit(15:9171) -> Disorientating Flash
 Deal 300% damage (3 hits, 100% each)

@@ -15,7 +15,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (12065:105) Babaan... (It's hard for you too)
-     | RCV +50% for 5 turns
+     | RCV 50% for 5 turns
    | group:
      | condition: 40% chance
      | (11903:15) Baba!

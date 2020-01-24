@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: always turn 3
    | (9475:39) Patience Reward
-   | Movetime +150% for 10 turns
+   | Movetime 150% for 10 turns
  | group:
    | group:
    | condition: turns 1-2 while HP > 49

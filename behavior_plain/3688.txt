@@ -74,7 +74,7 @@ flag SET 0b11
 	[0] ESSpinnersFixed(110:10909) -> Dawaaran
 	Specific orbs change every 1.0s for 3 turns
 	[1] ESDebuffRCV(105:10910) -> Shifa'a
-	RCV +50% for 3 turns
+	RCV 50% for 3 turns
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

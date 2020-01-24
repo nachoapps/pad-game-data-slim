@@ -19,7 +19,7 @@ Spawn 10 random Heal orbs
 
 #5: ESDebuffRCV(105:13443) -> Symphonic Harmony
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-RCV +50% for 3 turns
+RCV 50% for 3 turns
 
 #6: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 10

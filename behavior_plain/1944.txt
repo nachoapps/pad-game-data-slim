@@ -10,7 +10,7 @@ Enable preempt if level 1
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESDebuffMovetime(39:13557) -> Have you decided on your wish?
-	Movetime +120% for 5 turns
+	Movetime 120% for 5 turns
 	[1] ESNoSkyfall(127:13552) -> Moonlight Shadow 
 	No skyfall for 5 turns
 	[2] ESRandomSpawn(92:13553) -> Brilliant Star Gem

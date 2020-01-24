@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESDebuffMovetime(39:7747) -> I will be reborn again here.
-Movetime +50% for 3 turns
+Movetime 50% for 3 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

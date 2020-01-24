@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Fire attrs by 50%
  type: PREEMPT
  | (15841:39) クリボー召喚
- | Movetime +150% for 2 turns
+ | Movetime 150% for 2 turns
  group:
  | group:
    | condition: 33% chance

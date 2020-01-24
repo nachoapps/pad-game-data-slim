@@ -14,13 +14,13 @@ level: 1
  | Survive attacks with 1 HP when HP > 88%
  type: PREEMPT
  | (6456:83) Dark Protection of Yomi + The Feathered Garment of Yomi + Malicious Laughter
- | Voids status ailments for 10 turns + Reduce damage from all sources by 50% for 3 turns + Movetime +50% for 10 turns
+ | Voids status ailments for 10 turns + Reduce damage from all sources by 50% for 3 turns + Movetime 50% for 10 turns
  group:
  | group:
    | group:
    | condition: turn 1 while HP > 49
      | (6459:39) Malicious Laughter
-     | Movetime +50% for 10 turns
+     | Movetime 50% for 10 turns
    | group:
    | condition: turn 2 while HP > 49
      | (6463:48) Anguished Wailing
@@ -66,7 +66,7 @@ level: 1
    | group:
    | condition: turn 11 while HP > 49
      | (6459:39) Malicious Laughter
-     | Movetime +50% for 10 turns
+     | Movetime 50% for 10 turns
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (6465:83) The Feathered Garment of Yomi + Last Embrace
@@ -90,7 +90,7 @@ level: 1
    | group:
    | condition: turn 2 while HP > 4
      | (6459:39) Malicious Laughter
-     | Movetime +50% for 10 turns
+     | Movetime 50% for 10 turns
    | group:
    | condition: turn 3 while HP > 4
      | (6463:48) Anguished Wailing
@@ -136,7 +136,7 @@ level: 1
    | group:
    | condition: turn 12 while HP > 4
      | (6459:39) Malicious Laughter
-     | Movetime +50% for 10 turns
+     | Movetime 50% for 10 turns
  | group:
  | condition: hp <= 4
    | (6464:15) Fires of Deicide

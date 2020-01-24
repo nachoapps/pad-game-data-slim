@@ -31,7 +31,7 @@ level: 1
      | Absorb Fire damage for 2 turns + Bind 1 random card for 2 turns, Deal 260% damage
      | condition: 15% chance
      | (7045:83) Disturbed Forest + Silk Chains
-     | RCV +50% for 2 turns + Bind 1 random card for 2 turns, Deal 260% damage
+     | RCV 50% for 2 turns + Bind 1 random card for 2 turns, Deal 260% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (7054:83) Fire Beacon + Glistening Sword

@@ -15,7 +15,7 @@ level: 4
    | group:
    | condition: turn 1 while HP > 19
      | (14878:105) Terror and desperation. I love it.
-     | RCV +50% for 5 turns
+     | RCV 50% for 5 turns
    | group:
      | condition: 40% chance
      | (14872:15) Your efforts are futile.

@@ -64,7 +64,7 @@ Branch on counter >= 2, target rnd 19
 
 #18: SkillSet:
 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
-	RCV +300% for 9 turns
+	RCV 300% for 9 turns
 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
 	Change all Wood orbs to Heal orbs, Deal 500% damage
 
@@ -121,7 +121,7 @@ counter = 1
 
 #29: SkillSet:
 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
-	RCV +300% for 9 turns
+	RCV 300% for 9 turns
 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
 	Change all Wood orbs to Heal orbs, Deal 500% damage
 

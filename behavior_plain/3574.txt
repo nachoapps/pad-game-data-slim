@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESVoidShield(71:6600) -> Blaze Armor
 	Void damage >= 10000000 for 999 turns
 	[1] ESDebuffRCV(105:6601) -> Salvation Flame
-	RCV +200% for 9 turns
+	RCV 200% for 9 turns
 	[2] ESAttackMultihit(15:6602) -> Crossdraw Breath
 	Deal 760% damage
 

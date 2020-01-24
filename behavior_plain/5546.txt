@@ -124,7 +124,7 @@ flag SET 0b1111
 	[1] ESAbsorbCombo(67:14378) -> Joyous Sanctuary
 	Absorb damage when combos <= 6 for 999 turns
 	[2] ESDebuffMovetime(39:14379) -> The Swansong
-	Movetime +25% for 5 turns
+	Movetime 25% for 5 turns
 
 #30: ESEndPath(36:26) -> ESEndPath
 end_turn

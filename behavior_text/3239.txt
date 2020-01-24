@@ -45,7 +45,7 @@ level: 1
    | group:
    | condition: turn 1
      | (11666:83) Finally, you will struggle... + Prepare yourself!
-     | Reduce damage from all sources by 50% for 99 turns + Movetime +50% for 10 turns
+     | Reduce damage from all sources by 50% for 99 turns + Movetime 50% for 10 turns
    | group:
      | (11672:15) Abyss Maelstrom
      | Deal 1000% damage (5 hits, 200% each)

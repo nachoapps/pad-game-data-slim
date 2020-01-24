@@ -36,4 +36,4 @@ level: 4
  | group:
  | condition: hp <= 9
    | (7918:39) Open Ocean
-   | Movetime +25% for 1 turn, Deal 250% damage
+   | Movetime 25% for 1 turn, Deal 250% damage

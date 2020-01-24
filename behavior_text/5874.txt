@@ -55,7 +55,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (16282:83) 神々の祝福 + 神王妃の怨念 + 女神の障壁
-   | Enemy recover 100% HP + RCV +50% for 10 turns + Reduce damage from all sources by 50% for 10 turns
+   | Enemy recover 100% HP + RCV 50% for 10 turns + Reduce damage from all sources by 50% for 10 turns
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3

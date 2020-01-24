@@ -62,13 +62,13 @@ Branch on level >= 6, target rnd 16
 	[0] ESAbsorbCombo(67:13634) -> Magic of the Silver Shoes
 	Absorb damage when combos <= 6 for 99 turns
 	[1] ESDebuffRCV(105:13593) -> Golden Cap Spell
-	RCV +50% for 5 turns
+	RCV 50% for 5 turns
 
 #16: SkillSet:
 	[0] ESAbsorbCombo(67:13592) -> Magic of the Silver Shoes
 	Absorb damage when combos <= 7 for 99 turns
 	[1] ESDebuffRCV(105:13593) -> Golden Cap Spell
-	RCV +50% for 5 turns
+	RCV 50% for 5 turns
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

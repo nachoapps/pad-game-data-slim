@@ -25,7 +25,7 @@ level: 1
      | Change the 3rd column to Wood orbs, Deal 250% damage
      | condition: 25% chance
      | (8547:105) Flower Cutter
-     | RCV +50% for 1 turn, Deal 220% damage
+     | RCV 50% for 1 turn, Deal 220% damage
      | condition: 25% chance
      | (8548:109) Uzu Tomoe
      | Random 3 orbs change every 1.0s for 1 turn, Deal 230% damage

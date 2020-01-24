@@ -76,7 +76,7 @@ flag SET 0b11
 	[0] ESBindRandomSub(65:10994) -> Cauchemar Mind
 	Bind 3 random subs for 4 turns
 	[1] ESDebuffMovetime(39:10995) -> Astaroth's Murmurs
-	Movetime +50% for 5 turns
+	Movetime 50% for 5 turns
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

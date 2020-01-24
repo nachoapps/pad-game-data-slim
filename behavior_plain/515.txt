@@ -19,7 +19,7 @@ flag SET 0b1
 	[1] ESVoidShield(71:6478) -> Fylgja Fur
 	Void damage >= 10000000 for 999 turns
 	[2] ESDebuffRCV(105:6479) -> Discerning Lifechains
-	RCV +50% for 20 turns
+	RCV 50% for 20 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -37,7 +37,7 @@ Branch on hp < 50, target rnd 20
 	[1] ESCloud(104:6481) -> Test of Perception
 	A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 	[2] ESDebuffMovetime(39:6482) -> Test of Speed
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[3] ESAttackUPCooldown(19:6483) -> Test of Endurance
 	Increase damage to 150% for the next 10 turns
 
@@ -48,7 +48,7 @@ Branch on hp < 50, target rnd 20
 	[1] ESCloud(104:6481) -> Test of Perception
 	A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 	[2] ESDebuffMovetime(39:6482) -> Test of Speed
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #10: SkillSet:
 	Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 24)
@@ -66,7 +66,7 @@ Absorb damage when combos <= 5 for 10 turns
 	[0] ESCloud(104:6481) -> Test of Perception
 	A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 	[1] ESDebuffMovetime(39:6482) -> Test of Speed
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[2] ESAttackUPCooldown(19:6483) -> Test of Endurance
 	Increase damage to 150% for the next 10 turns
 
@@ -75,7 +75,7 @@ Absorb damage when combos <= 5 for 10 turns
 	[0] ESCloud(104:6481) -> Test of Perception
 	A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 	[1] ESDebuffMovetime(39:6482) -> Test of Speed
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #14: ESCloud(104:6481) -> Test of Perception
 Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 8)
@@ -84,13 +84,13 @@ A 2×3 rectangle of clouds appears for 10 turns at 2nd row, 3rd column
 #15: SkillSet:
 	Condition: When < 60% HP , one-time use (ai:100 rnd:0) (cost: 6)
 	[0] ESDebuffMovetime(39:6482) -> Test of Speed
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESAttackUPCooldown(19:6483) -> Test of Endurance
 	Increase damage to 150% for the next 10 turns
 
 #16: ESDebuffMovetime(39:6482) -> Test of Speed
 Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 4)
-Movetime +50% for 10 turns
+Movetime 50% for 10 turns
 
 #17: ESAttackUPCooldown(19:6483) -> Test of Endurance
 Condition: When < 60% HP , one-time use (ai:100 rnd:0) (cost: 2)

@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (11925:83) ツチノコスマイル + しあわせ　あげちゃうっ！
- | Player recover 100% HP + Movetime +150% for 5 turns
+ | Player recover 100% HP + Movetime 150% for 5 turns
  group:
  | condition: 25% chance
  | (11928:15) カプッ！

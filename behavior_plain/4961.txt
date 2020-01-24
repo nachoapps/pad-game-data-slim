@@ -19,7 +19,7 @@ Branch on hp < 50, target rnd 9
 
 #5: ESDebuffRCV(105:11958) -> オラ　負けないズラよ！
 Condition: 33% chance (ai:0 rnd:33)
-RCV +50% for 1 turn, Deal 80% damage
+RCV 50% for 1 turn, Deal 80% damage
 
 #6: ESAttackMultihit(15:11959) -> ズラッ！
 Condition: 33% chance (ai:0 rnd:33)

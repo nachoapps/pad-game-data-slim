@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESSkillDelay(89:6986) -> Demonic Eye of Truth
 	Delay active skills by 10 turns
 	[1] ESDebuffRCV(105:6987) -> Lifeseal Talisman
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[2] ESBindSkill(14:6988) -> Chime of the Demon Moon
 	Bind active skills for 10 turns
 

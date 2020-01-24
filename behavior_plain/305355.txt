@@ -18,7 +18,7 @@ end_turn
 	[0] ESStatusShield(20:13424) -> You better listen to my music
 	Voids status ailments for 7 turns
 	[1] ESDebuffMovetime(39:13425) -> Overture
-	Movetime +75% for 7 turns
+	Movetime 75% for 7 turns
 
 #5: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 14

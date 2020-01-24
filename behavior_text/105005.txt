@@ -24,7 +24,7 @@ level: 4
  | group:
  | condition: turn 1 while HP > 19, hp <= 49
    | (12244:105) Don't bother.
-   | RCV +50% for 10 turns
+   | RCV 50% for 10 turns
  | group:
  | condition: hp <= 19
    | group:

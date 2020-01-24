@@ -84,7 +84,7 @@ Branch on player_cards HAS [3706], target rnd 21
 
 #21: SkillSet:
 	[0] ESDebuffMovetime(39:7187) -> Bubble Breath
-	Movetime +150% for 1 turn
+	Movetime 150% for 1 turn
 	[1] ESAbsorbCombo(67:7188) -> Second Bubble Breath Stance
 	Absorb damage when combos <= 6 for 1 turn
 	[2] ESInactivity66(66:7189) -> Interrupt it with an attack!

@@ -13,14 +13,14 @@ Branch on player_cards HAS [2744], target rnd 4
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:5974) -> Miséricorde
-	Movetime +200% for 20 turns
+	Movetime 200% for 20 turns
 	[1] ESAbsorbCombo(67:5975) -> Diadème de la Reine
 	Absorb damage when combos <= 7 for 999 turns
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:5974) -> Miséricorde
-	Movetime +200% for 20 turns
+	Movetime 200% for 20 turns
 	[1] ESAbsorbCombo(67:6054) -> Your humanity is meaningless to me.
 	Absorb damage when combos <= 7 for 999 turns
 

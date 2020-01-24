@@ -32,7 +32,7 @@ level: 1
    | group:
    | condition: turn 1
      | (14313:83) Plunged into Darkness + Time Split
-     | Blind random 15~20 orbs for 5 turns + Movetime +50% for 5 turns
+     | Blind random 15~20 orbs for 5 turns + Movetime 50% for 5 turns
    | group:
    | condition: turns 2-5
      | condition: 50% chance

@@ -147,7 +147,7 @@ flag SET 0b111
 
 #35: SkillSet:
 	[0] ESDebuffMovetime(39:11602) -> Against the Wind
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESAttackUPRemainingEnemies(17:11603) -> Burst of Rage
 	Increase damage to 200% for the next 999 turns
 

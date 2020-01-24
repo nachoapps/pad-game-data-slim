@@ -86,7 +86,7 @@ counter + 1
 	[0] ESRecoverEnemy86(86:16071) -> How regrettable
 	Enemy recover 100% HP
 	[1] ESDebuffMovetime(39:16072) -> Prepare yourself
-	Movetime +25% for 5 turns
+	Movetime 25% for 5 turns
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

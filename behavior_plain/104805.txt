@@ -21,7 +21,7 @@ Change all orbs to Wood, Deal 200% damage
 
 #5: ESDebuffRCV(105:10749) -> Sad Verse of Wind
 Condition: 50% chance (ai:50 rnd:0)
-RCV +50% for 1 turn, Deal 100% damage
+RCV 50% for 1 turn, Deal 100% damage
 
 #6: ESAttackMultihit(15:10750) -> Fuldofa Rulia
 Deal 120% damage (2 hits, 60% each)

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (12109:83) Give me a hand, Baby Genie! + Leave it to me! Rub that lamp!
- | RCV +50% for 10 turns + A 2×5 rectangle of clouds appears for 4 turns at 1st row, 3rd column
+ | RCV 50% for 10 turns + A 2×5 rectangle of clouds appears for 4 turns at 1st row, 3rd column
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 5

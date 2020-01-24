@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:12733) -> Dhu Yahtariq Jadar
 	Voids status ailments for 999 turns
 	[1] ESDebuffRCV(105:12734) -> Sama' Shams Sakhr
-	RCV +50% for 4 turns
+	RCV 50% for 4 turns
 	[2] ESBlindStickyRandom(97:12739) -> Zalaam Dakhil Sataa Dhu
 	Blind random 25 orbs for 4 turns, Deal 150% damage
 

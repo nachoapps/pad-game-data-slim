@@ -26,7 +26,7 @@ Absorb damage when combos <= 7 for 1 turn
 
 #7: ESDebuffMovetime(39:9480) -> Take this!
 Condition: One-time use (ai:50 rnd:0) (cost: 8)
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #8: ESSpinnersRandom(109:9481) -> Take this!
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
@@ -38,7 +38,7 @@ Absorb damage when combos <= 7 for 1 turn
 
 #10: ESDebuffMovetime(39:9483) -> How about this?!
 Condition: One-time use (ai:50 rnd:0) (cost: 4)
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #11: ESSpinnersRandom(109:9484) -> How about this?!
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
@@ -50,7 +50,7 @@ Absorb damage when combos <= 7 for 1 turn
 
 #13: ESDebuffMovetime(39:9486) -> I'll end this now!
 Condition: One-time use (ai:50 rnd:0) (cost: 2)
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #14: ESSpinnersRandom(109:9487) -> I'll end this now!
 Condition: One-time use (ai:100 rnd:0) (cost: 2)

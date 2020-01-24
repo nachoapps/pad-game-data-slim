@@ -16,7 +16,7 @@ Branch on hp < 15, target rnd 18
 
 #4: ESDebuffMovetime(39:6857) -> Burn Claw
 Condition: One-time use (ai:100 rnd:0) (cost: 512)
-Movetime +50% for 1 turn, Deal 300% damage
+Movetime 50% for 1 turn, Deal 300% damage
 
 #5: ESBlind62(62:6858) -> Flash Burn
 Condition: One-time use (ai:100 rnd:0) (cost: 256)

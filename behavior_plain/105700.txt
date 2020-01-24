@@ -38,7 +38,7 @@ Player -50% HP
 
 #10: ESDebuffMovetime(39:15273) -> 俺の好きな四字熟語は即断即決だぜ！
 Condition: 50% chance (ai:50 rnd:0)
-Movetime +50% for 1 turn, Deal 100% damage
+Movetime 50% for 1 turn, Deal 100% damage
 
 #11: ESAttackMultihit(15:15170) -> シャリンドリル
 Deal 120% damage (3 hits, 40% each)

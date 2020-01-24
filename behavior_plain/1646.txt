@@ -54,7 +54,7 @@ end_turn
 
 #11: ESDebuffMovetime(39:6181) -> Black Qualm
 Condition: When < 33% HP , one-time use (ai:100 rnd:0) (cost: 1)
-Movetime +50% for 99 turns
+Movetime 50% for 99 turns
 
 #12: ESAttackUPRemainingEnemies(17:6182) -> Hell Crown
 Condition: When < 16% HP, when <= 1 enemies remain (ai:100 rnd:0)

@@ -35,7 +35,7 @@ level: 1
      | Deal 400% damage (8 hits, 50% each)
      | condition: 25% chance
      | (6795:39) Sealing Silence of the Deep
-     | Movetime +25% for 1 turn, Deal 360% damage
+     | Movetime 25% for 1 turn, Deal 360% damage
      | condition: 25% chance
      | (6796:94) Dreaded Celestial
      | Lock 15 random orbs, Deal 380% damage
@@ -52,7 +52,7 @@ level: 1
      | Deal 400% damage (8 hits, 50% each)
      | condition: 25% chance
      | (6795:39) Sealing Silence of the Deep
-     | Movetime +25% for 1 turn, Deal 360% damage
+     | Movetime 25% for 1 turn, Deal 360% damage
      | condition: 25% chance
      | (6796:94) Dreaded Celestial
      | Lock 15 random orbs, Deal 380% damage

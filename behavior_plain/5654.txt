@@ -16,7 +16,7 @@ Branch on hp < 50, target rnd 9
 
 #4: ESDebuffRCV(105:14933) -> Here we go!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-RCV +50% for 5 turns
+RCV 50% for 5 turns
 
 #5: ESAttackMultihit(15:14935) -> Chain guns, crowd control.
 Condition: 33% chance (ai:0 rnd:33)

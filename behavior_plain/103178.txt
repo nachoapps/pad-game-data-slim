@@ -51,7 +51,7 @@ flag SET 0b11
 
 #14: SkillSet:
 	[0] ESDebuffRCV(105:12804) -> Decaying Life
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[1] ESGravity(50:12805) -> Fading Scenery
 	Player -99% HP
 

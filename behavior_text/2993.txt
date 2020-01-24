@@ -22,7 +22,7 @@ level: 1
    | (14811:108) No good!
    | Change all Jammer, Poison, and Mortal Poison orbs to Water orbs, Deal 100% damage
    | (14800:83) He, he♪ + How about this? + Tougher than expected? + This'll make you better
-   | Bind awoken skills for 2 turns + Change player HP to 100000 for 1 turn + Spawn 10 random Heal, Jammer, or Poison orbs + RCV +500% for 1 turn
+   | Bind awoken skills for 2 turns + Change player HP to 100000 for 1 turn + Spawn 10 random Heal, Jammer, or Poison orbs + RCV 500% for 1 turn
  | group:
  | condition: turn 3
    | (14811:108) No good!

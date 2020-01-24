@@ -59,7 +59,7 @@ Branch on flag & 1, target rnd 15
 flag SET 0b1
 
 #14: ESDebuffMovetime(39:6761) -> Thousand-Echo Windmill
-Movetime +50% for 1 turn, Deal 300% damage
+Movetime 50% for 1 turn, Deal 300% damage
 
 #15: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1

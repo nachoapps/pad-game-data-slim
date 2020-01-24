@@ -74,7 +74,7 @@ Spawn 6 random Water orbs, Deal 100% damage
 end_turn
 
 #20: ESDebuffRCV(105:10910) -> Shifa'a
-RCV +50% for 3 turns
+RCV 50% for 3 turns
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13555:83) Have you decided on your wish? + Moonlight Shadow  + Brilliant Star Gem
- | Movetime +120% for 5 turns + No skyfall for 5 turns + Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
+ | Movetime 120% for 5 turns + No skyfall for 5 turns + Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
  group:
  | group:
    | (13556:92) Brilliant Star Gem

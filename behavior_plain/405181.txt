@@ -49,7 +49,7 @@ Voids player buff effects
 
 #12: ESDebuffRCV(105:12923) -> Tranche Compote
 Condition: 33% chance (ai:0 rnd:33)
-RCV +50% for 2 turns, Deal 80% damage
+RCV 50% for 2 turns, Deal 80% damage
 
 #13: ESChangeAttribute(46:12924) -> Fraise Brulée
 Condition: 34% chance (ai:0 rnd:34)

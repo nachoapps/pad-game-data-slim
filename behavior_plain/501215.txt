@@ -73,7 +73,7 @@ Branch on counter >= 2, target rnd 23
 counter + 1
 
 #21: ESDebuffMovetime(39:14558) -> Dragon King's Eyes
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

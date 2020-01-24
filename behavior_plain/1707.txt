@@ -40,7 +40,7 @@ end_turn
 
 #11: SkillSet:
 	[0] ESDebuffMovetime(39:13541) -> I won't forgive you
-	Movetime +50% for 1 turn
+	Movetime 50% for 1 turn
 	[1] ESAttackMultihit(15:13542) -> Let's play together next time
 	Deal 1000% damage (4 hits, 250% each)
 

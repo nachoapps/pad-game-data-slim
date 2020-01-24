@@ -20,7 +20,7 @@ level: 4
  | group:
  | condition: always turn 1, hp <= 49
    | (7992:83) Ancient Dragon Wind + Great Reduction
-   | RCV +50% for 10 turns + Player -99% HP
+   | RCV 50% for 10 turns + Player -99% HP
  | group:
  | condition: hp <= 39
    | (7997:83) Miasma + Full Head-On Strike

@@ -52,7 +52,7 @@ end_turn
 	[0] ESOrbChangeAttack(48:9954) -> Hee-ho!
 	Change a random attribute to Water orbs, Deal 115% damage
 	[1] ESDebuffRCV(105:9955) -> Rakunda
-	RCV +50% for 3 turns
+	RCV 50% for 3 turns
 
 #16: ESOrbLock(94:9957) -> Mabufu
 Condition: 30% chance (ai:0 rnd:30)

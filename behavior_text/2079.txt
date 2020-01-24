@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (14230:83) Memories of a Forelife + Ready against incoming attack + Adowan Pakusha
- | Absorb damage when damage >= 8,000,000 for 99 turns + Delay active skills by 3~6 turns + Movetime +25% for 1 turn
+ | Absorb damage when damage >= 8,000,000 for 99 turns + Delay active skills by 3~6 turns + Movetime 25% for 1 turn
  group:
  | group:
    | condition: 33% chance
@@ -44,7 +44,7 @@ level: 1
    | group:
    | condition: turn 5
      | (14251:83) Udaaha Krtatu Kusaya + Adowan Pakusha
-     | Bind awoken skills for 2 turns + Movetime +25% for 1 turn
+     | Bind awoken skills for 2 turns + Movetime 25% for 1 turn
    | group:
      | (14254:15) Kurtosuna Pulluronchee
      | Deal 450% damage (3 hits, 150% each)

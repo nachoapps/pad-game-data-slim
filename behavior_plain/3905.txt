@@ -29,7 +29,7 @@ Branch on hp < 50, target rnd 12
 
 #7: ESDebuffMovetime(39:8391) -> Nerophobos
 Condition: When < 30% HP , one-time use (ai:100 rnd:0) (cost: 1)
-Movetime +50% for 1 turn
+Movetime 50% for 1 turn
 
 #8: ESBoardChangeAttackBits(85:8392) -> Mercury Genesis
 Condition: When < 30% HP (ai:100 rnd:0)

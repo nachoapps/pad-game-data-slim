@@ -58,7 +58,7 @@ Branch on hp > 51, target rnd 13
 	[0] ESSkyfall(68:12299) -> Ashes
 	Jammer skyfall +20% for 10 turns
 	[1] ESDebuffRCV(105:12300) -> Sacrifice to the Furnace
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 
 #13: SkillSet:
 	Condition: 25% chance (ai:0 rnd:25)

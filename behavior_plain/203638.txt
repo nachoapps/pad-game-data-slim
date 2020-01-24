@@ -50,7 +50,7 @@ Deal 400% damage (8 hits, 50% each)
 
 #12: ESDebuffMovetime(39:6795) -> Sealing Silence of the Deep
 Condition: 25% chance (ai:0 rnd:25)
-Movetime +25% for 1 turn, Deal 360% damage
+Movetime 25% for 1 turn, Deal 360% damage
 
 #13: ESOrbLock(94:6796) -> Dreaded Celestial
 Condition: 25% chance (ai:0 rnd:25)

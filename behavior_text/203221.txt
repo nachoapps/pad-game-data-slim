@@ -12,9 +12,9 @@ level: 1
  | Reduce damage from Water and Wood attrs by 50%
  type: UNKNOWN_USE
  | (5647:83) Play me your puzzle's song ♪ + Hesitant Opening Notes
- | Absorb damage when combos <= 4 for 1 turn + Movetime +25% for 1 turn
+ | Absorb damage when combos <= 4 for 1 turn + Movetime 25% for 1 turn
  | (5671:83) Play me your puzzle's song ♪ + Hesitant Opening Notes
- | Absorb damage when combos <= 5 for 1 turn + Movetime +25% for 1 turn
+ | Absorb damage when combos <= 5 for 1 turn + Movetime 25% for 1 turn
 
 level: 4
  type: PASSIVE
@@ -22,7 +22,7 @@ level: 4
  | Reduce damage from Water and Wood attrs by 50%
  type: PREEMPT
  | (13418:83) Let's play music together♪ + Hesitant Opening Notes
- | Absorb damage when combos <= 4 for 1 turn + Movetime +50% for 1 turn
+ | Absorb damage when combos <= 4 for 1 turn + Movetime 50% for 1 turn
  group:
  | group:
    | group:
@@ -66,6 +66,6 @@ level: 4
      | Deal 5000% damage (10 hits, 500% each)
  type: UNKNOWN_USE
  | (5647:83) Play me your puzzle's song ♪ + Hesitant Opening Notes
- | Absorb damage when combos <= 4 for 1 turn + Movetime +25% for 1 turn
+ | Absorb damage when combos <= 4 for 1 turn + Movetime 25% for 1 turn
  | (5671:83) Play me your puzzle's song ♪ + Hesitant Opening Notes
- | Absorb damage when combos <= 5 for 1 turn + Movetime +25% for 1 turn
+ | Absorb damage when combos <= 5 for 1 turn + Movetime 25% for 1 turn

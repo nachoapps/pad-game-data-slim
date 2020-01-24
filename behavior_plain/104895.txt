@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESVoidShield(71:15547) -> Hero's Divine Protection
 	Void damage >= 30000000 for 999 turns
 	[2] ESDebuffRCV(105:15548) -> The Path to Victory
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 
 #3: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 51, target rnd 9

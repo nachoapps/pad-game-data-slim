@@ -39,7 +39,7 @@ level: 1
  | group:
  | condition: turn 3 while HP > 4, hp <= 32
    | (6181:39) Black Qualm
-   | Movetime +50% for 99 turns
+   | Movetime 50% for 99 turns
  | group:
  | condition: turn 4 while HP > 4, hp <= 15
    | (6182:17) Hell Crown
@@ -82,7 +82,7 @@ level: 10
  | group:
  | condition: turn 3 while HP > 4, hp <= 32
    | (6181:39) Black Qualm
-   | Movetime +50% for 99 turns
+   | Movetime 50% for 99 turns
  | group:
  | condition: turn 4 while HP > 4, hp <= 15
    | (6182:17) Hell Crown

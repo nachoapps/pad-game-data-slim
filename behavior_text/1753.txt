@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (16012:83) Solomon's Key + Grimoire Element
- | Movetime +150% for 5 turns + Spawn 10 random Fire orbs
+ | Movetime 150% for 5 turns + Spawn 10 random Fire orbs
  group:
  | group:
  | condition: turns 1-4

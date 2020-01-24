@@ -21,7 +21,7 @@ level: 3
  | group:
  | condition: execute repeatedly, turn 1 of 2
    | (7562:39) Raises hand
-   | Movetime +50% for 1 turn
+   | Movetime 50% for 1 turn
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (7560:15) Severe Blow

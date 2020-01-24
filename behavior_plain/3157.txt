@@ -25,7 +25,7 @@ Reduce damage from all sources by 50% for 5 turns
 
 #6: ESDebuffMovetime(39:5381) -> Zeit Radieren
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
-Movetime +25% for 5 turns
+Movetime 25% for 5 turns
 
 #7: ESSkyfall(68:5385) -> Tot Regen
 Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)

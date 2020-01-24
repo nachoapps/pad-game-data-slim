@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (9556:83) Is everyone ready? + Brace yourself! + Here I come! + Let's get excited ♪
- | Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb damage when combos <= 6 for 1 turn + Movetime +200% for 5 turns
+ | Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb damage when combos <= 6 for 1 turn + Movetime 200% for 5 turns
  group:
  | group:
  | condition: turn 1

@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDebuffRCV(105:12110) -> Give me a hand, Baby Genie!
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[1] ESCloud(104:12111) -> Leave it to me! Rub that lamp!
 	A 2×5 rectangle of clouds appears for 4 turns at 1st row, 3rd column
 

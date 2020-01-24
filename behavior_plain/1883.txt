@@ -38,7 +38,7 @@ Change the 3rd column to Wood orbs, Deal 250% damage
 
 #11: ESDebuffRCV(105:8547) -> Flower Cutter
 Condition: 25% chance (ai:0 rnd:25)
-RCV +50% for 1 turn, Deal 220% damage
+RCV 50% for 1 turn, Deal 220% damage
 
 #12: ESSpinnersRandom(109:8548) -> Uzu Tomoe
 Condition: 25% chance (ai:0 rnd:25)

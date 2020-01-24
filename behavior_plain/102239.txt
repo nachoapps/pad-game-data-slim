@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESDamageShield(74:12156) -> Harbinger of Corrosion
 	Reduce damage from all sources by 50% for 10 turns
 	[1] ESDebuffMovetime(39:12157) -> Realm of Hades's Law
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -181,7 +181,7 @@ counter + 1
 	[0] ESGravity(50:13343) -> Hey
 	Player -99% HP
 	[1] ESDebuffRCV(105:13344) -> Anti-Cure
-	RCV +50% for 2 turns
+	RCV 50% for 2 turns
 
 #38: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -33,4 +33,4 @@ level: 1
  | group:
  | condition: hp <= 9
    | (12972:83) Annihilating Life + Sea of Hell
-   | Movetime +25% for 1 turn + Change all orbs to Mortal Poison, Deal 800% damage
+   | Movetime 25% for 1 turn + Change all orbs to Mortal Poison, Deal 800% damage

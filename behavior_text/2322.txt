@@ -10,12 +10,12 @@ level: 1
  type: PREEMPT
  | condition: when 2983 on team
  | (6048:83) Eyes are fixed on the prey + Solid Scales + Yashiori's Protective Wine
- | Movetime +50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
+ | Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
  | condition: when 2323 on team
  | (6047:83) Menacing Bloodshot Eyes + Saw someone and prepared to fight + Yashiori's Protective Wine
- | Movetime +50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
+ | Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
  | (6018:83) Menacing Bloodshot Eyes + Solid Scales + Yashiori's Protective Wine
- | Movetime +50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
+ | Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1 turn + Voids status ailments for 999 turns
  group:
  | group:
    | group:

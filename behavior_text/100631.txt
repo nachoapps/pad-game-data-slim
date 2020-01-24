@@ -18,7 +18,7 @@ level: 1
    | Absorb damage when combos <= 7 for 1 turn
    | condition: 50% chance
    | (9480:39) Take this!
-   | Movetime +50% for 1 turn
+   | Movetime 50% for 1 turn
    | (9481:109) Take this!
    | Random 3 orbs change every 1.0s for 1 turn
  | group:
@@ -28,7 +28,7 @@ level: 1
    | Absorb damage when combos <= 7 for 1 turn
    | condition: 50% chance
    | (9483:39) How about this?!
-   | Movetime +50% for 1 turn
+   | Movetime 50% for 1 turn
    | (9484:109) How about this?!
    | Random 3 orbs change every 1.0s for 1 turn
  | group:
@@ -38,7 +38,7 @@ level: 1
    | Absorb damage when combos <= 7 for 1 turn
    | condition: 50% chance
    | (9486:39) I'll end this now!
-   | Movetime +50% for 1 turn
+   | Movetime 50% for 1 turn
    | (9487:109) I'll end this now!
    | Random 3 orbs change every 1.0s for 1 turn
  | group:

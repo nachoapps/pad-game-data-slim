@@ -10,9 +10,9 @@ level: 1
  type: PREEMPT
  | condition: when 2744 on team
  | (6055:83) Miséricorde + Your humanity is meaningless to me.
- | Movetime +200% for 20 turns + Absorb damage when combos <= 7 for 999 turns
+ | Movetime 200% for 20 turns + Absorb damage when combos <= 7 for 999 turns
  | (5976:83) Miséricorde + Diadème de la Reine
- | Movetime +200% for 20 turns + Absorb damage when combos <= 7 for 999 turns
+ | Movetime 200% for 20 turns + Absorb damage when combos <= 7 for 999 turns
  group:
  | group:
    | group:

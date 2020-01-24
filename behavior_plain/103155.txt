@@ -25,7 +25,7 @@ Reduce damage from all sources by 50% for 3 turns
 
 #6: ESDebuffMovetime(39:5369) -> Zeit Rauben
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 2)
-Movetime +50% for 3 turns
+Movetime 50% for 3 turns
 
 #7: ESSkyfall(68:5373) -> Licht Regen
 Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)

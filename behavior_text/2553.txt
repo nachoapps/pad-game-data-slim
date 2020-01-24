@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: turn 1
    | (15319:83) Hey, you're pretty strong! + Next turn is my real power!
-   | Movetime +50% for 5 turns + Increase damage to 150% for the next 999 turns
+   | Movetime 50% for 5 turns + Increase damage to 150% for the next 999 turns
  | group:
    | (15318:15) Puuuunch
    | Deal 400% damage

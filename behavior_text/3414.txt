@@ -48,7 +48,7 @@ level: 1
      | Spawn 6 random Water orbs, Deal 100% damage
    | group:
      | (10910:105) Shifa'a
-     | RCV +50% for 3 turns
+     | RCV 50% for 3 turns
  | group:
  | condition: hp <= 9
    | (10913:104) Gunpowder Smoke

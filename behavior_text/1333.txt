@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: turn 1 while HP > 29
      | (11866:83) Drought + Lost Water of Life
-     | Player -99% HP + RCV +50% for 10 turns
+     | Player -99% HP + RCV 50% for 10 turns
    | group:
      | condition: 25% chance
      | (11869:65) Torrential Downpour

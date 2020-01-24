@@ -38,7 +38,7 @@ Change all Poison orbs to Fire and Dark orbs, Deal 200% damage
 	[0] ESRandomSpawn(92:10625) -> Alright, great!
 	Spawn 6 random Heal orbs
 	[1] ESDebuffMovetime(39:10626) -> Don't forget this sensation now.
-	Movetime +200% for 1 turn
+	Movetime 200% for 1 turn
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

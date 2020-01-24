@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:9740) -> Hehehe
 	Voids status ailments for 999 turns
 	[1] ESDebuffMovetime(39:9741) -> Do your absolute best!
-	Movetime +25% for 1 turn
+	Movetime 25% for 1 turn
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

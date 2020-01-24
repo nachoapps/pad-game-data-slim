@@ -21,7 +21,7 @@ flag SET 0b1
 
 #6: SkillSet:
 	[0] ESDebuffMovetime(39:10106) -> Swirling Black Emotions
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESOrbChangeAttack(48:10107) -> Threat Removal
 	Change all Heal orbs to Jammer orbs, Deal 120% damage
 	[2] ESStatusShield(20:10108) -> Quat Dafiea Easifah
@@ -40,7 +40,7 @@ flag SET 0b11
 	[0] ESBombFixedSpawn(103:10110) -> Exploding Heresy
 	Spawn locked Bomb orbs in the specified positions
 	[1] ESDebuffRCV(105:10111) -> Look of False Evil
-	RCV +50% for 10 turns, Deal 100% damage
+	RCV 50% for 10 turns, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

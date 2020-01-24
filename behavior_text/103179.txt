@@ -27,7 +27,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
    | (12898:83) Praise + Falsehood
-   | Player recover 100% HP + RCV +25% for 4 turns
+   | Player recover 100% HP + RCV 25% for 4 turns
  | group:
  | condition: hp <= 9
    | (12901:15) Crimson Double-Edge
@@ -35,4 +35,4 @@ level: 1
  | group:
  | condition: turn 1, hp <= 1
    | (12902:83) Burn Up Life + Limited Survival
-   | Enemy recover 50% HP + Movetime +50% for 10 turns
+   | Enemy recover 50% HP + Movetime 50% for 10 turns

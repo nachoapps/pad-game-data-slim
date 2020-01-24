@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESSkyfall(68:10519) -> Full Blooming
 	Heal skyfall +20% for 10 turns
 	[1] ESDebuffRCV(105:10520) -> Withered Flowers
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

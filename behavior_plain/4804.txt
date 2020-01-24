@@ -38,7 +38,7 @@ flag SET 0b11
 	[0] ESSkyfall(68:11165) -> G-Go back!
 	Poison skyfall +15% for 10 turns
 	[1] ESDebuffRCV(105:11166) -> It's d-d-dangerous!
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

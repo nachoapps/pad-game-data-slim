@@ -121,7 +121,7 @@ Branch on hp < 20, target rnd 31
 	[0] ESBindAwoken(88:11228) -> Shall we end this soon?
 	Bind awoken skills for 1 turn
 	[1] ESDebuffMovetime(39:11229) -> Keep the fun going!
-	Movetime +50% for 1 turn
+	Movetime 50% for 1 turn
 
 #29: ESAttackMultihit(15:11230) -> That was a blast!
 Deal 500% damage (5 hits, 100% each)

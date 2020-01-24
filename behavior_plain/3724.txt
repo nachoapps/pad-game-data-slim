@@ -73,7 +73,7 @@ Branch on flag & 4, target rnd 20
 flag SET 0b111
 
 #19: ESDebuffRCV(105:7658) -> Chiming Rings
-RCV +50% for 2 turns, Deal 130% damage
+RCV 50% for 2 turns, Deal 130% damage
 
 #20: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 8, target rnd 23

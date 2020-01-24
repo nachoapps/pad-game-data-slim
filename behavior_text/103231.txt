@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (11365:39) Trick & Trick
-   | Movetime +25% for 2 turns, Deal 100% damage
+   | Movetime 25% for 2 turns, Deal 100% damage
  | group:
    | condition: 50% chance
    | (11366:101) Pumpkin Magic

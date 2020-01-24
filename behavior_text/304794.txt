@@ -27,7 +27,7 @@ level: 1
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 50000% damage (4 hits, 12500% each), Deal 50000% damage (4 hits, 12500% each)
  type: UNKNOWN_USE
  | (10935:83) Salvation of the Holy Ship + Charity from Heaven
- | RCV +300% for 9 turns + Change all Wood orbs to Heal orbs, Deal 500% damage
+ | RCV 300% for 9 turns + Change all Wood orbs to Heal orbs, Deal 500% damage
  | (10937:15) Strike from the Heavens
  | Deal 4999% damage
  | (10939:83) Veil of Darkness + Tempest Rain

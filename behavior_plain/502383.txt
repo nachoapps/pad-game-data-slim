@@ -23,7 +23,7 @@ Branch on hp > 50, target rnd 7
 
 #5: ESDebuffRCV(105:15463) -> Tsuranuki
 Condition: 30% chance (ai:30 rnd:0)
-RCV +50% for 2 turns, Deal 170% damage
+RCV 50% for 2 turns, Deal 170% damage
 
 #6: ESAttackMultihit(15:15461) -> Rebellious God's Jaws
 Deal 100% damage (4 hits, 25% each)

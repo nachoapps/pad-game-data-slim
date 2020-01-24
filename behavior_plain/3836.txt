@@ -37,7 +37,7 @@ end_turn
 
 #9: ESDebuffMovetime(39:7918) -> Open Ocean
 Condition: When < 10% HP (ai:100 rnd:0)
-Movetime +25% for 1 turn, Deal 250% damage
+Movetime 25% for 1 turn, Deal 250% damage
 
 #10: SkillSet:
 	Condition: When < 20% HP (ai:100 rnd:0)

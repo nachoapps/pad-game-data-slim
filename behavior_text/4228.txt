@@ -19,7 +19,7 @@ level: 1
  | Deal 100% damage
  type: UNKNOWN_USE
  | (9177:39) Instant Ripped Death
- | Movetime +50% for 1 turn
+ | Movetime 50% for 1 turn
  | (9171:15) Disorientating Flash
  | Deal 300% damage (3 hits, 100% each)
  | condition: when 1 enemies remain

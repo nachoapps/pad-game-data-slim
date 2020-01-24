@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: ESDebuffRCV(105:15439) -> Dead Howling
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-RCV +50% for 4 turns
+RCV 50% for 4 turns
 
 #3: ESPoisonChangeRandomCount(60:15441) -> Rotten Breath
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)

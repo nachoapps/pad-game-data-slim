@@ -17,7 +17,7 @@ level: 3
  | Reduce damage from Fire and Dark attrs by 50%
  type: PREEMPT
  | (7619:83) Barrier Field + Demon Cyclone
- | Voids status ailments for 999 turns + RCV +50% for 4 turns
+ | Voids status ailments for 999 turns + RCV 50% for 4 turns
  group:
  | group:
    | group:

@@ -10,7 +10,7 @@ level: 4
  type: PREEMPT
  | condition: when 789, 790, 2404, 3122 on team
  | (8597:105) Resonance of Cockatrice
- | RCV +200% for 5 turns
+ | RCV 200% for 5 turns
  | (8598:66) ♪
  | Do nothing
  group:

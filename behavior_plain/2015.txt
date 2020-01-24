@@ -13,14 +13,14 @@ Branch on player_cards HAS [2015], target rnd 4
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13080) -> Nice to meet you!
-	Movetime +300% for 10 turns
+	Movetime 300% for 10 turns
 	[1] ESSpinnersRandom(109:13081) -> Thank you in advance
 	Random 1 orbs change every 1.0s for 10 turns
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 128)
 	[0] ESDebuffMovetime(39:13080) -> Nice to meet you!
-	Movetime +300% for 10 turns
+	Movetime 300% for 10 turns
 	[1] ESSpinnersRandom(109:13081) -> Thank you in advance
 	Random 1 orbs change every 1.0s for 10 turns
 

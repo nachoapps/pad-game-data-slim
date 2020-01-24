@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDebuffRCV(105:6844) -> White Wings of Divine Intervention
-	RCV +50% for 10 turns
+	RCV 50% for 10 turns
 	[1] ESAbsorbCombo(67:6845) -> Trials of Heaven
 	Absorb damage when combos <= 5 for 999 turns
 

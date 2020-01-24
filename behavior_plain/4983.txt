@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESRecoverPlayer(55:11926) -> ツチノコスマイル
 	Player recover 100% HP
 	[1] ESDebuffMovetime(39:11927) -> しあわせ　あげちゃうっ！
-	Movetime +150% for 5 turns
+	Movetime 150% for 5 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

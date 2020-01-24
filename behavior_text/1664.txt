@@ -25,7 +25,7 @@ level: 1
    | group:
    | condition: turn 10 while HP > 19
      | (10062:83) The Malice of Rebellion + Aaru's Throne
-     | Movetime +50% for 10 turns + Increase damage to 150% for the next 99 turns
+     | Movetime 50% for 10 turns + Increase damage to 150% for the next 99 turns
    | group:
      | condition: 50% chance
      | (10063:79) Hudr Leaf

@@ -14,7 +14,7 @@ level: 4
  | group:
  | condition: always turn 1
    | (13443:105) Symphonic Harmony
-   | RCV +50% for 3 turns
+   | RCV 50% for 3 turns
  | group:
    | condition: 50% chance
    | (13444:92) Sforzato Pesante

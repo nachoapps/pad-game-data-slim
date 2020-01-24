@@ -34,7 +34,7 @@ level: 1
      | Change player HP to 50000 for 1 turn + Deal 90% damage (3 hits, 30% each), Deal 90% damage (3 hits, 30% each)
      | condition: 33% chance
      | (12923:105) Tranche Compote
-     | RCV +50% for 2 turns, Deal 80% damage
+     | RCV 50% for 2 turns, Deal 80% damage
      | condition: 34% chance
      | (12924:46) Fraise Brulée
      | Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 84% damage

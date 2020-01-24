@@ -21,7 +21,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #6: SkillSet:
 	[0] ESDebuffMovetime(39:6019) -> Menacing Bloodshot Eyes
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -29,7 +29,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #7: SkillSet:
 	[0] ESDebuffMovetime(39:6019) -> Menacing Bloodshot Eyes
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESDamageShield(74:6050) -> Saw someone and prepared to fight
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -37,7 +37,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #8: SkillSet:
 	[0] ESDebuffMovetime(39:6049) -> Eyes are fixed on the prey
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine
@@ -45,7 +45,7 @@ Branch on player_cards HAS [2983], target rnd 8
 
 #9: SkillSet:
 	[0] ESDebuffMovetime(39:6049) -> Eyes are fixed on the prey
-	Movetime +50% for 10 turns
+	Movetime 50% for 10 turns
 	[1] ESDamageShield(74:6020) -> Solid Scales
 	Reduce damage from all sources by 99% for 1 turn
 	[2] ESStatusShield(20:6024) -> Yashiori's Protective Wine

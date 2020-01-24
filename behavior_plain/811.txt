@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESAttributeBlock(107:16227) -> Get rid of every Fire Orb
 	Unable to match Water, Wood, Light, and Dark orbs for 1 turn
 	[2] ESDebuffMovetime(39:16228) -> I won't forgive you if any are left behind
-	Movetime +20% for 6 turns
+	Movetime 20% for 6 turns
 	[3] ESSkyfall(68:16229) -> This is just a matter of course
 	Jammer skyfall +100% for 6 turns
 	[4] ESNoSkyfall(127:16230) -> Focus on what lies ahead

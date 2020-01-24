@@ -67,7 +67,7 @@ Seal the 5th row for 1 turn, Deal 110% damage
 
 #19: ESDebuffRCV(105:13043) -> Frenzied Wyrm's Breath
 Condition: 34% chance (ai:0 rnd:34)
-RCV +50% for 1 turn, Deal 95% damage
+RCV 50% for 1 turn, Deal 95% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn
