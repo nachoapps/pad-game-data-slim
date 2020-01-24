@@ -112,6 +112,7 @@
       children {
         group {
           condition {
+            repeats_every: 6
             trigger_turn: 1
           }
           children {
@@ -124,6 +125,7 @@
       children {
         group {
           condition {
+            repeats_every: 6
             trigger_turn: 2
           }
           children {
@@ -136,6 +138,7 @@
       children {
         group {
           condition {
+            repeats_every: 6
             trigger_turn: 3
           }
           children {
@@ -148,6 +151,7 @@
       children {
         group {
           condition {
+            repeats_every: 6
             trigger_turn: 4
           }
           children {
@@ -159,6 +163,10 @@
       }
       children {
         group {
+          condition {
+            repeats_every: 6
+            trigger_turn: 5
+          }
           children {
             behavior {
               enemy_skill_id: 9230
@@ -166,6 +174,19 @@
           }
         }
       }
+      children {
+        group {
+          condition {
+            repeats_every: 6
+            trigger_turn: 6
+          }
+          children {
+            behavior {
+              enemy_skill_id: 9227
+            }
+          }
+        }
+      }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
