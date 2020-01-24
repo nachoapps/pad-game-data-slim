@@ -1,20 +1,12 @@
-#103725 - Alt. Dark Orb Dragon, Eyro
+#3725 - Dark Orb Dragon, Eyro
 monster size: 5
 new AI: True
 start/max counter: 3
 counter increment: 1
-monster_id: 103725
+monster_id: 3725
 approved: False
 
-level: 1
- type: PASSIVE
- | (8211:72) Dark Jewel Halved
- | Reduce damage from Dark attrs by 50%
-
 level: 4
- type: PASSIVE
- | (8211:72) Dark Jewel Halved
- | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (7701:83) Black Smokescreen + Timed Explosion
  | Blind orbs in specific positions for 1 turn + Spawn 6 random locked Bomb orbs

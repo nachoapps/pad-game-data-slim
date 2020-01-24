@@ -37,7 +37,7 @@ level: 1
      | (12604:17) Dohatsu Shoten
      | Increase damage to 150% for the next 10 turns
    | group:
-   | condition: turns 2-9 while HP > 10
+   | condition: execute repeatedly, turn 1-8 of 10
      | condition: 25% chance
      | (12592:83) Rakan + No use! Rakan Gosho
      | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 0~2 turns, Deal 100% damage
@@ -51,11 +51,11 @@ level: 1
      | (12600:83) Sekia Goshoha + Goshoryuken
      | Change the 3rd row to Fire orbs + Deal 60% damage, Deal 50% damage
    | group:
-   | condition: turn 10 while HP > 10
+   | condition: execute repeatedly, turn 9 of 10
      | (12605:77) Sekia Kuretsuha
      | Change the 3rd and 4th columns to Fire orbs, Deal 350% damage
    | group:
-   | condition: execute repeatedly, turn 1-3 of 3
+   | condition: execute repeatedly, turn 10 of 10
      | condition: 25% chance
      | (12592:83) Rakan + No use! Rakan Gosho
      | Reduce damage from all sources by 50% for 1 turn + Delay active skills by 0~2 turns, Deal 100% damage

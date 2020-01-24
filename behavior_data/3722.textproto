@@ -1,30 +1,11 @@
-  monster_id: 103721
-  levels {
-    level: 1
-    groups {
-      group_type: PASSIVE
-      children {
-        behavior {
-          enemy_skill_id: 8207
-        }
-      }
-    }
-  }
+  monster_id: 3722
   levels {
     level: 4
-    groups {
-      group_type: PASSIVE
-      children {
-        behavior {
-          enemy_skill_id: 8207
-        }
-      }
-    }
     groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 7363
+          enemy_skill_id: 7487
         }
       }
     }
@@ -34,16 +15,17 @@
         group {
           group_type: STANDARD
           condition {
-            hp_threshold: 101
+            hp_threshold: 100
           }
           children {
             group {
               condition {
                 trigger_turn: 1
+                always_trigger_above: 19
               }
               children {
                 behavior {
-                  enemy_skill_id: 7366
+                  enemy_skill_id: 7492
                 }
               }
             }
@@ -56,7 +38,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7371
+                  enemy_skill_id: 7495
                 }
               }
             }
@@ -69,12 +51,12 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7372
+                  enemy_skill_id: 7496
                 }
               }
               children {
                 behavior {
-                  enemy_skill_id: 7373
+                  enemy_skill_id: 7497
                 }
               }
             }
@@ -87,7 +69,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7371
+                  enemy_skill_id: 7495
                 }
               }
             }
@@ -100,7 +82,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7369
+                  enemy_skill_id: 7493
                 }
               }
             }
@@ -113,12 +95,12 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7372
+                  enemy_skill_id: 7496
                 }
               }
               children {
                 behavior {
-                  enemy_skill_id: 7373
+                  enemy_skill_id: 7497
                 }
               }
             }
@@ -131,7 +113,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7371
+                  enemy_skill_id: 7495
                 }
               }
             }
@@ -144,12 +126,12 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7372
+                  enemy_skill_id: 7496
                 }
               }
               children {
                 behavior {
-                  enemy_skill_id: 7373
+                  enemy_skill_id: 7497
                 }
               }
             }
@@ -162,7 +144,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7370
+                  enemy_skill_id: 7494
                 }
               }
             }
@@ -175,7 +157,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7371
+                  enemy_skill_id: 7495
                 }
               }
             }
@@ -188,12 +170,12 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7372
+                  enemy_skill_id: 7496
                 }
               }
               children {
                 behavior {
-                  enemy_skill_id: 7373
+                  enemy_skill_id: 7497
                 }
               }
             }
@@ -206,7 +188,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7371
+                  enemy_skill_id: 7495
                 }
               }
             }
@@ -219,24 +201,9 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7370
+                  enemy_skill_id: 7494
                 }
               }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 99
-            trigger_turn: 1
-            always_trigger_above: 19
-          }
-          children {
-            behavior {
-              enemy_skill_id: 7368
             }
           }
         }
@@ -254,7 +221,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 7374
+                  enemy_skill_id: 7498
                 }
               }
             }
@@ -263,7 +230,7 @@
             group {
               children {
                 behavior {
-                  enemy_skill_id: 7375
+                  enemy_skill_id: 7499
                 }
               }
             }

@@ -76,9 +76,9 @@
           children {
             group {
               condition {
-                trigger_turn: 2
-                trigger_turn_end: 10
-                always_trigger_above: 7
+                repeats_every: 10
+                trigger_turn: 1
+                trigger_turn_end: 9
               }
               children {
                 behavior {
@@ -90,21 +90,12 @@
           children {
             group {
               condition {
-                trigger_turn: 11
-                always_trigger_above: 7
+                repeats_every: 10
+                trigger_turn: 10
               }
               children {
                 behavior {
                   enemy_skill_id: 11558
-                }
-              }
-            }
-          }
-          children {
-            group {
-              children {
-                behavior {
-                  enemy_skill_id: 11557
                 }
               }
             }
@@ -285,4 +276,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

@@ -95,9 +95,9 @@
           children {
             group {
               condition {
-                trigger_turn: 2
-                trigger_turn_end: 9
-                always_trigger_above: 10
+                repeats_every: 10
+                trigger_turn: 1
+                trigger_turn_end: 8
               }
               children {
                 behavior {
@@ -136,8 +136,8 @@
           children {
             group {
               condition {
-                trigger_turn: 10
-                always_trigger_above: 10
+                repeats_every: 10
+                trigger_turn: 9
               }
               children {
                 behavior {
@@ -149,9 +149,8 @@
           children {
             group {
               condition {
-                repeats_every: 3
-                trigger_turn: 1
-                trigger_turn_end: 3
+                repeats_every: 10
+                trigger_turn: 10
               }
               children {
                 behavior {
