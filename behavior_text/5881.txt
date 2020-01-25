@@ -1,0 +1,196 @@
+#5881 - トラフィケイオス
+monster size: 5
+new AI: True
+start/max counter: 15
+counter increment: 0
+monster_id: 5881
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (16573:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (16609:110) 胸が緑色に光りだした
+ | Specific orbs change every 2.0s for 1 turn
+ group:
+ | group:
+   | group:
+   | condition: turn 1
+     | (16610:67) 目が緑色に光りだした
+     | Absorb damage when combos <= 3 for 5 turns
+   | group:
+     | condition: 50% chance
+     | (16580:101) 感応式信号
+     | Fix orb movement starting point to random position on the board, Deal 100% damage
+     | condition: 50% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 74
+   | group:
+   | condition: turn 2
+     | (16611:96) 目が黄色に光りだした
+     | Locked random skyfall +100% for 1 turn
+   | group:
+     | condition: 50% chance
+     | (16585:94) 信号制御
+     | Lock 15 random orbs, Deal 100% damage
+     | condition: 50% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 3
+     | (16612:17) 目が赤色に光りだした
+     | Increase damage to 150% for the next 999 turns
+   | group:
+     | condition: 50% chance
+     | (16590:62) 光なき街明かり
+     | Blind all orbs on the board, Deal 100% damage
+     | condition: 50% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: turn 1, hp <= 1
+   | (16594:86) リペアフェーズ
+   | Enemy recover 50% HP
+
+level: 5
+ type: PASSIVE
+ | (16573:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (16574:83) 地点制御 + 胸が緑色に光りだした
+ | Voids status ailments for 999 turns + Specific orbs change every 2.0s for 5 turns
+ group:
+ | group:
+   | group:
+   | condition: turn 1
+     | (16614:83) 目が緑色に光りだした + 進行つげる灯火
+     | Absorb damage when combos <= 4 for 99 turns + Change a random attribute to Wood orbs, Deal 95% damage
+   | group:
+     | condition: 33% chance
+     | (16579:48) 進行つげる灯火
+     | Change a random attribute to Wood orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16580:101) 感応式信号
+     | Fix orb movement starting point to random position on the board, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 74
+   | group:
+   | condition: turn 2 while HP > 19
+     | (16582:83) 目が黄色に光りだした + 危険の兆候
+     | Locked random skyfall +100% for 5 turns + Change the 3rd row to Light and Jammer orbs, Deal 95% damage
+   | group:
+     | condition: 33% chance
+     | (16584:79) 危険の兆候
+     | Change the 3rd row to Light and Jammer orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16585:94) 信号制御
+     | Lock 15 random orbs, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 3 while HP > 19
+     | (16586:83) 目が赤色に光りだした + 規制の代償
+     | Increase damage to 150% for the next 999 turns + Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
+   | group:
+     | condition: 33% chance
+     | (16589:92) 行動の抑止力
+     | Spawn 6 random Fire or Poison orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16590:62) 光なき街明かり
+     | Blind all orbs on the board, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: always turn 2
+     | (16591:84) 混沌の交通網
+     | Change all orbs to Jammer and Poison
+   | group:
+     | (16592:15) 立ち上る赤き輝き
+     | Deal 300% damage (3 hits, 100% each)
+ | group:
+ | condition: turn 1, hp <= 1
+   | (16593:83) リペアフェーズ + 胸が赤色に光りだした
+   | Enemy recover 50% HP + Seal the 1st and 6th columns for 5 turns
+
+level: 7
+ type: PASSIVE
+ | (16573:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (16574:83) 地点制御 + 胸が緑色に光りだした
+ | Voids status ailments for 999 turns + Specific orbs change every 2.0s for 5 turns
+ group:
+ | group:
+   | group:
+   | condition: turn 1
+     | (16577:83) 目が緑色に光りだした + 進行つげる灯火
+     | Absorb damage when combos <= 5 for 99 turns + Change a random attribute to Wood orbs, Deal 95% damage
+   | group:
+     | condition: 33% chance
+     | (16579:48) 進行つげる灯火
+     | Change a random attribute to Wood orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16580:101) 感応式信号
+     | Fix orb movement starting point to random position on the board, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 74
+   | group:
+   | condition: turn 2 while HP > 19
+     | (16582:83) 目が黄色に光りだした + 危険の兆候
+     | Locked random skyfall +100% for 5 turns + Change the 3rd row to Light and Jammer orbs, Deal 95% damage
+   | group:
+     | condition: 33% chance
+     | (16584:79) 危険の兆候
+     | Change the 3rd row to Light and Jammer orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16585:94) 信号制御
+     | Lock 15 random orbs, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 3 while HP > 19
+     | (16586:83) 目が赤色に光りだした + 規制の代償
+     | Increase damage to 150% for the next 999 turns + Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
+   | group:
+     | condition: 33% chance
+     | (16589:92) 行動の抑止力
+     | Spawn 6 random Fire or Poison orbs, Deal 95% damage
+     | condition: 33% chance
+     | (16590:62) 光なき街明かり
+     | Blind all orbs on the board, Deal 100% damage
+     | condition: 34% chance
+     | (16581:15) 混沌する交通
+     | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: always turn 2
+     | (16591:84) 混沌の交通網
+     | Change all orbs to Jammer and Poison
+   | group:
+     | (16592:15) 立ち上る赤き輝き
+     | Deal 300% damage (3 hits, 100% each)
+ | group:
+ | condition: turn 1, hp <= 1
+   | (16593:83) リペアフェーズ + 胸が赤色に光りだした
+   | Enemy recover 50% HP + Seal the 1st and 6th columns for 5 turns

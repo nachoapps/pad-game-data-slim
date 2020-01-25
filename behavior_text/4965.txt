@@ -9,13 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (11964:88) ガッツで乗り越えてみせろ！
- | Bind awoken skills for 3 turns
- | condition: 50% chance
- | (11965:15) ガッツ！！
- | Deal 110% damage (2 hits, 55% each)
- | condition: 50% chance
- | (11966:48) そこは飲み込んでくれ！
- | Change a random attribute to Wood orbs, Deal 95% damage
+ | Bind awoken skills for 1 turn
  group:
  | group:
    | condition: 50% chance
@@ -46,8 +40,8 @@ level: 1
  | group:
  | condition: hp <= 19
    | (11971:15) ど根性ストレート肉球
-   | Deal 200% damage
+   | Deal 105% damage
  type: REMAINING
  condition: when 1 enemies remain, turn 1, hp <= 19
  | (11970:17) 世界はトモダチ！　全部守るぜ！
- | Increase damage to 150% for the next 5 turns
+ | Increase damage to 150% for the next 3 turns

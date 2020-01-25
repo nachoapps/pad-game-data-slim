@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (11957:67) もんげーーっ！
- | Absorb damage when combos <= 4 for 5 turns
+ | (11957:5) もんげーーっ！
+ | Blind all orbs on the board
  group:
  | group:
    | condition: 33% chance
@@ -33,4 +33,4 @@ level: 1
      | Movetime -2s for 5 turns
    | group:
      | (11963:15) 風来サンダー
-     | Deal 180% damage (3 hits, 60% each)
+     | Deal 105% damage (3 hits, 35% each)

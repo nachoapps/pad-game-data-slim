@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: ESBindAwoken(88:11964) -> ガッツで乗り越えてみせろ！
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Bind awoken skills for 3 turns
+Bind awoken skills for 1 turn
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 17
@@ -61,10 +61,10 @@ end_turn
 
 #17: ESAttackUPRemainingEnemies(17:11970) -> 世界はトモダチ！　全部守るぜ！
 Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
-Increase damage to 150% for the next 5 turns
+Increase damage to 150% for the next 3 turns
 
 #18: ESAttackMultihit(15:11971) -> ど根性ストレート肉球
-Deal 200% damage
+Deal 105% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

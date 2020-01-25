@@ -13,11 +13,8 @@ Branch on flag & 1, target rnd 6
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: SkillSet:
-	[0] ESAttackUPRemainingEnemies(17:11944) -> 雪あそび　したくない？
-	Increase damage to 150% for the next 3 turns
-	[1] ESDebuffMovetime(39:11945) -> 急がないと　とろけちゃう！
-	Movetime -2s for 3 turns
+#4: ESCloud(104:11944) -> 雪あそび　したくない？
+A 2×2 square of clouds appears for 3 turns at a random location
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -68,8 +65,8 @@ end_turn
 counter = 0
 
 #17: SkillSet:
-	[0] ESAttackUPRemainingEnemies(17:11944) -> 雪あそび　したくない？
-	Increase damage to 150% for the next 3 turns
+	[0] ESCloud(104:11944) -> 雪あそび　したくない？
+	A 2×2 square of clouds appears for 3 turns at a random location
 	[1] ESDebuffMovetime(39:11945) -> 急がないと　とろけちゃう！
 	Movetime -2s for 3 turns
 
@@ -77,7 +74,7 @@ counter = 0
 end_turn
 
 #19: ESAttackMultihit(15:11956) -> キラキラ雪化粧
-Deal 200% damage (4 hits, 50% each)
+Deal 120% damage (4 hits, 30% each)
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn

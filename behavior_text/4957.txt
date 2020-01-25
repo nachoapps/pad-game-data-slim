@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (12046:83) お前のチカラ　見せてもらおう！ + さあ　かかってこい！
- | Reduce damage from all sources by 90% for 3 turns + Absorb damage when combos <= 5 for 99 turns
+ | Reduce damage from all sources by 50% for 3 turns + Absorb Dark damage for 3 turns
  group:
  | group:
    | condition: 25% chance

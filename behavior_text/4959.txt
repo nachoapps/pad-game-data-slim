@@ -12,7 +12,7 @@ level: 1
  | Enemy turn counter change to 1 when HP <= 50%
  type: PREEMPT
  | (12032:83) 貴様に　妖魔界のなにが分かる！ + ここを通すわけにはいかん！
- | Lock all Fire, Water, Wood, Dark, and Heal orbs + Player -75% HP
+ | Lock 10 random Fire, Water, Wood, Dark, and Heal orbs + Player -75% HP
  group:
  | group:
    | condition: 20% chance
@@ -33,7 +33,7 @@ level: 1
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (12040:83) 貴様を甘く見ていたようだな… + 全力でいかせてもらう！
-   | Movetime 50% for 5 turns + RCV 50% for 5 turns
+   | Voids status ailments for 3 turns + Absorb damage when combos <= 5 for 3 turns
  | group:
  | condition: hp <= 14
    | group:

@@ -15,9 +15,9 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESDamageShield(74:12047) -> お前のチカラ　見せてもらおう！
-	Reduce damage from all sources by 90% for 3 turns
-	[1] ESAbsorbCombo(67:12048) -> さあ　かかってこい！
-	Absorb damage when combos <= 5 for 99 turns
+	Reduce damage from all sources by 50% for 3 turns
+	[1] ESAbsorbAttribute(53:12048) -> さあ　かかってこい！
+	Absorb Dark damage for 3 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
