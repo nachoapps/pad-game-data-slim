@@ -162,48 +162,9 @@
       children {
         group {
           condition {
-            trigger_turn: 2
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 20
-              }
-              enemy_skill_id: 3018
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 20
-              }
-              enemy_skill_id: 3016
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 20
-              }
-              enemy_skill_id: 3017
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 40
-              }
-              enemy_skill_id: 3019
-            }
-          }
-        }
-      }
-      children {
-        group {
-          condition {
-            repeats_every: 8
+            repeats_every: 9
             trigger_turn: 1
-            trigger_turn_end: 7
+            trigger_turn_end: 8
           }
           children {
             behavior {
@@ -242,8 +203,8 @@
       children {
         group {
           condition {
-            repeats_every: 8
-            trigger_turn: 8
+            repeats_every: 9
+            trigger_turn: 9
           }
           children {
             behavior {
