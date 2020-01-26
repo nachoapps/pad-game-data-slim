@@ -206,3 +206,232 @@
       }
     }
   }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 8900
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 15
+                  }
+                  enemy_skill_id: 8901
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 15
+                  }
+                  enemy_skill_id: 8902
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 35
+                  }
+                  enemy_skill_id: 8903
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 35
+                  }
+                  enemy_skill_id: 8904
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8907
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8909
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8905
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 3
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8908
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 39
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8912
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8907
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8909
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    hp_threshold: 30
+                  }
+                  enemy_skill_id: 8906
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8905
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8908
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 3
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 15
+                  }
+                  enemy_skill_id: 8901
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 15
+                  }
+                  enemy_skill_id: 8902
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 35
+                  }
+                  enemy_skill_id: 8903
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 35
+                  }
+                  enemy_skill_id: 8904
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
