@@ -410,12 +410,12 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
+            trigger_turn: 1
+            always_trigger_above: 19
           }
           children {
             group {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 19
               }
               children {
                 behavior {
