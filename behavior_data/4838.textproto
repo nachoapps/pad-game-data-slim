@@ -156,3 +156,123 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 12312
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 19
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 12324
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 12315
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 12318
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 12319
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 12320
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 74
+            trigger_turn: 1
+            always_trigger_above: 24
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 12321
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 24
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 12325
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
