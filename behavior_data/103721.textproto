@@ -351,21 +351,6 @@
           children {
             group {
               condition {
-                trigger_turn: 5
-                always_trigger_above: 19
-              }
-              children {
-                behavior {
-                  condition {
-                  }
-                  enemy_skill_id: 7369
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
                 repeats_every: 2
                 trigger_turn: 1
                 always_trigger_above: 19
@@ -406,6 +391,13 @@
             group {
               condition {
                 repeats_every: 4
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 7369
+                }
               }
               children {
                 behavior {
