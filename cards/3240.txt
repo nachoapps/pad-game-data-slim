@@ -6,14 +6,14 @@ SAWK: 56,59,60
 # 1615/117 - Soul Cure
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Recovers 30% of maximum HP, plus bind status is reduced by 3 turns
-JP: Recover 30% of max HP; Reduce binds by 3 turns
+JP: 最大HP30％分回復。バインドを3ターン回復
 EN: Recover 30% of max HP; Reduce binds by 3 turns
 KR: Recover 30% of max HP; Reduce binds by 3 turns
 
 # 6561/138 - Soul of the Fertility Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for Wood Att.; 2x ATK when Wood & Dark attack at once; halves damage from Wood, Light & Dark enemies
-JP: 3x ATK for Wood Att.; Reduce damage taken from wood, light, dark att. by 50%; 2x ATK when matching Wood and Dark
-EN: 3x ATK for Wood Att.; Reduce damage taken from wood, light, dark att. by 50%; 2x ATK when matching Wood and Dark
-KR: 3x ATK for Wood Att.; Reduce damage taken from wood, light, dark att. by 50%; 2x ATK when matching Wood and Dark
+JP: 3x ATK for Wood Att.; Reduce damage taken from Wood, Light, and Dark Att. by 50%; 2x ATK when matching Wood and Dark
+EN: 3x ATK for Wood Att.; Reduce damage taken from Wood, Light, and Dark Att. by 50%; 2x ATK when matching Wood and Dark
+KR: 3x ATK for Wood Att.; Reduce damage taken from Wood, Light, and Dark Att. by 50%; 2x ATK when matching Wood and Dark
 

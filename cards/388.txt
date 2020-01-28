@@ -6,14 +6,14 @@ SAWK:
 # 131/116 - Quick Bomb
 Tags: REDUCE_DEFENSE,FIXED_DAMAGE
 Game: Halves enemies' DEF for 1 turn; inflicts 99 damage on 1 enemy
-JP: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
+JP: 1ターンの間、敵の防御力が50％下がる。敵1体に99の固定ダメージ
 EN: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
 KR: For 1 turn, reduce enemies' defense by 50%; Deal 99 fixed damage to an enemy
 
 # 809/129 - Godly Wall of Sunlight
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: Greatly reduces Fire & Light Att. damage; 1.5x ATK for God Type
-JP: 1.5x ATK for God type; Reduce damage taken from fire, light att. by 55%
-EN: 1.5x ATK for God type; Reduce damage taken from fire, light att. by 55%
-KR: 1.5x ATK for God type; Reduce damage taken from fire, light att. by 55%
+JP: 1.5x ATK for God type; Reduce damage taken from Fire and Light Att. by 55%
+EN: 1.5x ATK for God type; Reduce damage taken from Fire and Light Att. by 55%
+KR: 1.5x ATK for God type; Reduce damage taken from Fire and Light Att. by 55%
 

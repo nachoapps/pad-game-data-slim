@@ -6,14 +6,14 @@ SAWK: 27,45
 # 2682/116 - Blast Signal
 Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column into Fire Orbs; other allies' skills charged by 1 turn
-JP: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
+JP: 最左端を火ドロップに変化。自分以外の味方スキルが1ターンの溜まる
 EN: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
 KR: Change the far left column to Fire orbs; Charge all allies' skills by 1 turn
 
 # 3256/138 - Ruby Converter
 Tags: ENHANCED_ATK
 Game: 3x ATK for Machine & God Types; 2.5x ATK for Fire Att. when skills used
-JP: 3x ATK for God, Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
-EN: 3x ATK for God, Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
-KR: 3x ATK for God, Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
+JP: 3x ATK for God and Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
+EN: 3x ATK for God and Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
+KR: 3x ATK for God and Machine type; 2.5x ATK for Fire Att. on the turn a skill is used
 

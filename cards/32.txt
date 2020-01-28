@@ -6,14 +6,14 @@ SAWK:
 # 24/1 - Thunder Ball
 Tags: MASSIVE_ATTACK
 Game: Inflicts 3,000 Light Att. damage on all enemies
-JP: Deal 3000 Light damage to all enemies
+JP: 敵全体に3000の光属性攻撃
 EN: Deal 3000 Light damage to all enemies
 KR: Deal 3000 Light damage to all enemies
 
 # 74/17 - Light Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces Light Att. damage
-JP: Reduce damage taken from light att. by 30%
-EN: Reduce damage taken from light att. by 30%
-KR: Reduce damage taken from light att. by 30%
+JP: Reduce damage taken from Light Att. by 30%
+EN: Reduce damage taken from Light Att. by 30%
+KR: Reduce damage taken from Light Att. by 30%
 

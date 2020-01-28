@@ -6,14 +6,14 @@ SAWK:
 # 160/9 - Guard Stance - Fire
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Wood Orbs to Heal Orbs
-JP: Change Wood orbs to Heal orbs
+JP: 木ドロップを回復ドロップに変化
 EN: Change Wood orbs to Heal orbs
 KR: Change Wood orbs to Heal orbs
 
 # 301/36 - Fire and Wood Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces Fire & Wood Att. damage
-JP: Reduce damage taken from fire, wood att. by 30%
-EN: Reduce damage taken from fire, wood att. by 30%
-KR: Reduce damage taken from fire, wood att. by 30%
+JP: Reduce damage taken from Fire and Wood Att. by 30%
+EN: Reduce damage taken from Fire and Wood Att. by 30%
+KR: Reduce damage taken from Fire and Wood Att. by 30%
 

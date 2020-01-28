@@ -6,7 +6,7 @@ SAWK:
 # 12848/116 - Kanzuki-Ryu Hadorokushiki Hasha No Kata
 Tags: EXTENDS_TIME
 Game: Creates 5 Fire, Light & Heal Orbs each at random; 1.5x Orb move time for 1 turn
-JP: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
+JP: ランダムで火、光、回復を5個ずつ生成。1ターンの間、ドロップ操作時間が1.5倍
 EN: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
 KR: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
 

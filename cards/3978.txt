@@ -6,14 +6,14 @@ SAWK: 21,27,48
 # 9319/116 - Metal & Bone
 Tags: ENHANCED_ATTACK,HEAL
 Game: 3x ATK for Dark Att. for 1 turn; recovers 50% of max HP
-JP: For 1 turn, 3x ATK for Dark Att.; Recover 50% of max HP
+JP: 1ターンの間、闇属性の攻撃力が3倍。最大HP50％分回復
 EN: For 1 turn, 3x ATK for Dark Att.; Recover 50% of max HP
 KR: For 1 turn, 3x ATK for Dark Att.; Recover 50% of max HP
 
 # 9322/138 - Advanced Technology
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 3x ATK & 2x RCV for Devil & Machine Types; 4x ATK & reduces damage when Dark & Fire attack at once
-JP: 3x ATK and 2x RCV for Devil, Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
-EN: 3x ATK and 2x RCV for Devil, Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
-KR: 3x ATK and 2x RCV for Devil, Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
+JP: 3x ATK and 2x RCV for Devil and Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
+EN: 3x ATK and 2x RCV for Devil and Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
+KR: 3x ATK and 2x RCV for Devil and Machine type; 4x ATK and reduce damage taken by 25% when matching Dark and Fire
 

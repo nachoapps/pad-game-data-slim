@@ -6,14 +6,14 @@ SAWK:
 # 1626/117 - Merciful Radiance
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Recovers 30% of your total HP, plus bind status is reduced by 1 turn
-JP: Recover 30% of max HP; Reduce binds by 1 turn
+JP: 最大HP30％分回復。バインドを1ターン回復
 EN: Recover 30% of max HP; Reduce binds by 1 turn
 KR: Recover 30% of max HP; Reduce binds by 1 turn
 
 # 1785/121 - Honorable Dragon Crest
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & ATK for Dragon & Attacker Types
-JP: 2x HP & ATK for Dragon, Attacker type
-EN: 2x HP & ATK for Dragon, Attacker type
-KR: 2x HP & ATK for Dragon, Attacker type
+JP: 2x HP & ATK for Dragon and Attacker type
+EN: 2x HP & ATK for Dragon and Attacker type
+KR: 2x HP & ATK for Dragon and Attacker type
 

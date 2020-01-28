@@ -6,14 +6,14 @@ SAWK: 43,27,52
 # 7992/116 - Lightning Breath
 Tags: MENACE,DROP_CHANCE
 Game: Delays enemies' next move for 2 turns; Light Orbs slightly more likely to appear for 2 turns
-JP: Delay enemies' next attack by 2 turns; For 2 turns, Light orbs are more likely to appear by 15%
+JP: 敵の行動を2ターン遅らせる。2ターンの間、光ドロップが15％落ちやすくなる
 EN: Delay enemies' next attack by 2 turns; For 2 turns, Light orbs are more likely to appear by 15%
 KR: Delay enemies' next attack by 2 turns; For 2 turns, Light orbs are more likely to appear by 15%
 
 # 7995/138 - The Thunderclaw Wyvern
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 7x ATK with 2 Light combos, 10x with 3+ combos; halves Light & Dark Att. damage
-JP: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from light, dark att. by 50%
-EN: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from light, dark att. by 50%
-KR: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from light, dark att. by 50%
+JP: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from Light and Dark Att. by 50%
+EN: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from Light and Dark Att. by 50%
+KR: 7x ATK when matching 2 Light combos, up to 10x at 3 Light combos; Reduce damage taken from Light and Dark Att. by 50%
 

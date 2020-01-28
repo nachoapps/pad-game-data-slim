@@ -6,7 +6,7 @@ SAWK: 54,55,46
 # 15590/116 - 増殖コンボ
 Tags: REDUCE_DAMAGE,ADD_COMBO
 Game: 5ターンの間、1コンボ加算される。 5ターンの間、受けるダメージを軽減。
-JP: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
+JP: 5ターンの間、1コンボ加算される。5ターンの間、受けるダメージを30％減少
 EN: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
 KR: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
 

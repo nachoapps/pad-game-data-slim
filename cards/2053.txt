@@ -6,14 +6,14 @@ SAWK: 52,54,57
 # 2614/116 - Starfall
 Tags: MASSIVE_ATTACK,REDUCE_SKILL_TURN
 Game: Inflicts 50x ATK Water Att. attack on all enemies; other allies' skills charged by 1 turn
-JP: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
+JP: 敵全体に攻撃力ｘ50倍の水属性攻撃。自分以外の味方スキルが1ターンの溜まる
 EN: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
 KR: Deal 50x ATK Water damage to all enemies; Charge all allies' skills by 1 turn
 
 # 2936/129 - Man can never defeat the lord of Hell!
 Tags: ENHANCED_ATK
 Game: 2x ATK for Balanced & Devil Types
-JP: 2x ATK for Balanced, Devil type
-EN: 2x ATK for Balanced, Devil type
-KR: 2x ATK for Balanced, Devil type
+JP: 2x ATK for Balanced and Devil type
+EN: 2x ATK for Balanced and Devil type
+KR: 2x ATK for Balanced and Devil type
 

@@ -6,14 +6,14 @@ SAWK:
 # 40/117 - Shower of Healing
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Fully recovers HP & bind status
-JP: Recover all HP; Remove all binds
+JP: HPを全回復。バインドを全回復
 EN: Recover all HP; Remove all binds
 KR: Recover all HP; Remove all binds
 
 # 78/17 - Tree Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Wood Att. damage
-JP: Reduce damage taken from wood att. by 50%
-EN: Reduce damage taken from wood att. by 50%
-KR: Reduce damage taken from wood att. by 50%
+JP: Reduce damage taken from Wood Att. by 50%
+EN: Reduce damage taken from Wood Att. by 50%
+KR: Reduce damage taken from Wood Att. by 50%
 

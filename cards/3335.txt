@@ -6,14 +6,14 @@ SAWK:
 # 6312/116 - Wisdom of the Trees
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Creates 3 Wood & Heal Orbs each at random; adds 1 combo for 1 turn
-JP: Change all orbs to Fire, Wood, and Light orbs; For 1 turn, increase combo count by 1
+JP: 全ドロップを火、木、光ドロップに変化。1ターンの間、1コンボ加算される
 EN: Change all orbs to Fire, Wood, and Light orbs; For 1 turn, increase combo count by 1
 KR: Change all orbs to Fire, Wood, and Light orbs; For 1 turn, increase combo count by 1
 
 # 6314/138 - Legacy: Elder's Glory
 Tags: ENHANCED_ATK
 Game: 2.5x ATK when Eldora Armor X Dragon Caller, Ana is on your team; 3x ATK for each cross of 5 Wood or Fire Orbs
-JP: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire, Wood orbs
-EN: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire, Wood orbs
-KR: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire, Wood orbs
+JP: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire or Wood orbs
+EN: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire or Wood orbs
+KR: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire or Wood orbs
 

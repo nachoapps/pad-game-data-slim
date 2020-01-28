@@ -6,14 +6,14 @@ SAWK: 52,59,60
 # 1807/116 - Gravity World
 Tags: GRAVITY,EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
 Game: Reduces enemies' HP by 25%, reduces unmatchable Orb status by 5 turns; Orb move time +5 seconds for 5 turns
-JP: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
+JP: 敵の現HPの25％分のダメージ。消せないドロップ状態を5ターン回復。5ターンの間、ドロップ操作時間が5秒に延長
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 KR: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 
 # 6225/138 - Spirit of the Underlord
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for Dark Att., 3x ATK with 2+ Dark combos; vastly reduces Dark Att. damage
-JP: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
-EN: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
-KR: 3x ATK for Dark Att.; Reduce damage taken from dark att. by 75%; 3x ATK when matching 2+ Dark combos
+JP: 3x ATK for Dark Att.; Reduce damage taken from Dark Att. by 75%; 3x ATK when matching 2+ Dark combos
+EN: 3x ATK for Dark Att.; Reduce damage taken from Dark Att. by 75%; 3x ATK when matching 2+ Dark combos
+KR: 3x ATK for Dark Att.; Reduce damage taken from Dark Att. by 75%; 3x ATK when matching 2+ Dark combos
 

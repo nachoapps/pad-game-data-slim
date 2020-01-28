@@ -6,14 +6,14 @@ SAWK:
 # 465/116 - Grape Shower
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT
 Game: Changes Light Orbs to Heal Orbs; heals 30% of Max HP
-JP: Change Light orbs to Heal orbs; Recover 30% of max HP
+JP: 光ドロップを回復ドロップに変化。最大HP30％分回復
 EN: Change Light orbs to Heal orbs; Recover 30% of max HP
 KR: Change Light orbs to Heal orbs; Recover 30% of max HP
 
 # 1909/17 - Damage Guard - Dark
 Tags: REDUCE_DAMAGE
 Game: Halves Light Att. damage
-JP: Reduce damage taken from light att. by 50%
-EN: Reduce damage taken from light att. by 50%
-KR: Reduce damage taken from light att. by 50%
+JP: Reduce damage taken from Light Att. by 50%
+EN: Reduce damage taken from Light Att. by 50%
+KR: Reduce damage taken from Light Att. by 50%
 

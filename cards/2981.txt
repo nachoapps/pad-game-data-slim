@@ -6,14 +6,14 @@ SAWK:
 # 5160/116 - Recovery Encouragement
 Tags: ENHANCED_HEAL,RECOVER_BIND
 Game: 2x RCV for 4 turns; bind status reduced by 4 turns
-JP: For 4 turns, 2x RCV; Reduce binds by 4 turns
+JP: 4ターンの間、回復力が2倍。バインドを4ターン回復
 EN: For 4 turns, 2x RCV; Reduce binds by 4 turns
 KR: For 4 turns, 2x RCV; Reduce binds by 4 turns
 
 # 4955/138 - Heaven's Gate Dance Performance
 Tags: ENHANCED_HP_ATK
 Game: 1.5x ATK & HP for Physical & Devil Types; 5x ATK for Fire Att. when HP is 80% or more
-JP: 1.5x HP & ATK for Physical, Devil type; 5x ATK for Fire Att. when above 80% HP
-EN: 1.5x HP & ATK for Physical, Devil type; 5x ATK for Fire Att. when above 80% HP
-KR: 1.5x HP & ATK for Physical, Devil type; 5x ATK for Fire Att. when above 80% HP
+JP: 1.5x HP & ATK for Physical and Devil type; 5x ATK for Fire Att. when above 80% HP
+EN: 1.5x HP & ATK for Physical and Devil type; 5x ATK for Fire Att. when above 80% HP
+KR: 1.5x HP & ATK for Physical and Devil type; 5x ATK for Fire Att. when above 80% HP
 

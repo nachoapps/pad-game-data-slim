@@ -6,14 +6,14 @@ SAWK: 55,43,52
 # 3835/116 - We're gonna settle this!
 Tags: DROP_CHANCE
 Game: Dark Orbs slightly more likely to appear for 2 turns; creates 3 Dark Orbs at random
-JP: For 2 turns, Dark orbs are more likely to appear by 15%; Create 3 Dark orbs
+JP: 2ターンの間、闇ドロップが15％落ちやすくなる。闇ドロップを3個生成
 EN: For 2 turns, Dark orbs are more likely to appear by 15%; Create 3 Dark orbs
 KR: For 2 turns, Dark orbs are more likely to appear by 15%; Create 3 Dark orbs
 
 # 4354/129 - Not a drop of The Armament's blood will be spilled!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 2x ATK & 1.5x RCV for Devil Type; reduces non-Dark Att. damage
-JP: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from fire, water, wood, light att. by 20%
-EN: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from fire, water, wood, light att. by 20%
-KR: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from fire, water, wood, light att. by 20%
+JP: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from Fire, Water, Wood, and Light Att. by 20%
+EN: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from Fire, Water, Wood, and Light Att. by 20%
+KR: 2x ATK and 1.5x RCV for Devil type; Reduce damage taken from Fire, Water, Wood, and Light Att. by 20%
 

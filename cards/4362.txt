@@ -6,7 +6,7 @@ SAWK: 27,43,45
 # 10295/116 - Whirling Spiral
 Tags: REDUCE_DAMAGE,ADD_COMBO
 Game: Adds 2 combos for 1 turn; halves damage for 1 turn
-JP: For 1 turn, increase combo count by 2; For 1 turn, reduce damage taken by 50%
+JP: 1ターンの間、2コンボ加算される。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, increase combo count by 2; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, increase combo count by 2; For 1 turn, reduce damage taken by 50%
 

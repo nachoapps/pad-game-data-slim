@@ -6,14 +6,14 @@ SAWK: 52,27,43
 # 10242/116 - Death Print Bull's Eye
 Tags: REDUCE_DEFENSE,REMOVE_LOCK
 Game: Removes Orb locks; voids enemies' DEF for 1 turn
-JP: Unlock all orbs; For 1 turn, reduce enemies' defense by 100%
+JP: 全ドロップのロック状態を解除。1ターンの間、敵の防御力が100％下がる
 EN: Unlock all orbs; For 1 turn, reduce enemies' defense by 100%
 KR: Unlock all orbs; For 1 turn, reduce enemies' defense by 100%
 
 # 10245/138 - You can no longer escape from me.
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for Attacker Type; 2.5x ATK for each cross of 5 Fire or Dark Orbs
-JP: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire, Dark orbs
-EN: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire, Dark orbs
-KR: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire, Dark orbs
+JP: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire or Dark orbs
+EN: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire or Dark orbs
+KR: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire or Dark orbs
 

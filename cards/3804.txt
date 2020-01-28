@@ -6,14 +6,14 @@ SAWK: 52,43,48
 # 8439/156 - Faith
 Tags: 
 Game: ATK increases by the number of [Resistance-Skill Bind] Awoken Skills in team for 2 turns
-JP: For 2 turns, increase ATK by 15% for each Resistance-Skill Bind awakening skill on the team
+JP: チーム内の封印耐性の覚醒数1つにつき攻撃力が15％上がる
 EN: For 2 turns, increase ATK by 15% for each Resistance-Skill Bind awakening skill on the team
 KR: For 2 turns, increase ATK by 15% for each Resistance-Skill Bind awakening skill on the team
 
 # 8442/138 - Growing Threat
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK when HP is 20% or less; halves non-Dark Att. damage
-JP: 4x ATK when below 20% HP; Reduce damage taken from fire, water, wood, light att. by 50%
-EN: 4x ATK when below 20% HP; Reduce damage taken from fire, water, wood, light att. by 50%
-KR: 4x ATK when below 20% HP; Reduce damage taken from fire, water, wood, light att. by 50%
+JP: 4x ATK when below 20% HP; Reduce damage taken from Fire, Water, Wood, and Light Att. by 50%
+EN: 4x ATK when below 20% HP; Reduce damage taken from Fire, Water, Wood, and Light Att. by 50%
+KR: 4x ATK when below 20% HP; Reduce damage taken from Fire, Water, Wood, and Light Att. by 50%
 

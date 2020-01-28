@@ -6,14 +6,14 @@ SAWK:
 # 17/1 - Cold Ball
 Tags: MASSIVE_ATTACK
 Game: Inflicts 1,000 Water Att. damage on all enemies
-JP: Deal 1000 Water damage to all enemies
+JP: 敵全体に1000の水属性攻撃
 EN: Deal 1000 Water damage to all enemies
 KR: Deal 1000 Water damage to all enemies
 
 # 72/17 - Water Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces Water Att. damage
-JP: Reduce damage taken from water att. by 30%
-EN: Reduce damage taken from water att. by 30%
-KR: Reduce damage taken from water att. by 30%
+JP: Reduce damage taken from Water Att. by 30%
+EN: Reduce damage taken from Water Att. by 30%
+KR: Reduce damage taken from Water Att. by 30%
 

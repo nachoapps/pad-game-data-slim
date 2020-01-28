@@ -6,14 +6,14 @@ SAWK: 24,50
 # 2673/116 - Wind Charge
 Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the top row into Wood Orbs; other allies' skills charged by 1 turn
-JP: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
+JP: 最上段を木ドロップに変化。自分以外の味方スキルが1ターンの溜まる
 EN: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
 KR: Change the top row to Wood orbs; Charge all allies' skills by 1 turn
 
 # 3232/138 - Emerald Coating
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Machine & Dragon Types; 2.5x ATK for Wood Att. when skills used
-JP: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
-EN: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
-KR: 2x ATK & RCV for Dragon, Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
+JP: 2x ATK & RCV for Dragon and Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
+EN: 2x ATK & RCV for Dragon and Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
+KR: 2x ATK & RCV for Dragon and Machine type; 2.5x ATK for Wood Att. on the turn a skill is used
 

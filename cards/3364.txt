@@ -6,7 +6,7 @@ SAWK:
 # 6458/116 - You're out of moves...
 Tags: POISON,EXTENDS_TIME
 Game: Poisons all enemies; halves Orb move time for 1 turn
-JP: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
+JP: 敵全体を毒にする（攻撃力ｘ1倍）。1ターンの間、ドロップ操作時間が0.5倍
 EN: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
 KR: Poison all enemies (1x ATK); For 1 turn, 0.5x orb move time
 

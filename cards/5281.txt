@@ -6,14 +6,14 @@ SAWK: 53,27,54
 # 13398/116 - Happy Stars
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Changes all Orbs to Water, Wood, Light & Dark Orbs; adds 1 combo for 1 turn
-JP: Change all orbs to Water, Wood, Light, and Dark orbs; For 1 turn, increase combo count by 1
+JP: 全ドロップを水、木、光、闇ドロップに変化。1ターンの間、1コンボ加算される
 EN: Change all orbs to Water, Wood, Light, and Dark orbs; For 1 turn, increase combo count by 1
 KR: Change all orbs to Water, Wood, Light, and Dark orbs; For 1 turn, increase combo count by 1
 
 # 13404/138 - Sparkling Star of the Mountains and Seas
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board], 1.5x to all stats for Water & Light Att.; 6x ATK when Water, Wood, Light & Dark attack at once
-JP: [Board becomes 7x6] 1.5x all stats for Water, Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
-EN: [Board becomes 7x6] 1.5x all stats for Water, Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
-KR: [Board becomes 7x6] 1.5x all stats for Water, Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
+JP: [Board becomes 7x6] 1.5x all stats for Water and Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
+EN: [Board becomes 7x6] 1.5x all stats for Water and Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
+KR: [Board becomes 7x6] 1.5x all stats for Water and Light Att.; 6x ATK when matching Water, Wood, Light, and Dark at once
 

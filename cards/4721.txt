@@ -6,7 +6,7 @@ SAWK:
 # 11023/116 - No-Look Pass
 Tags: SINGLE_TARGET_ATTACK,LINE_ORBS_CONVERTER
 Game: Fire attack of 10x team's Fire ATK on 1 enemy; changes the 2nd row from the top to Fire Orbs
-JP: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
+JP: 敵1体にチームの火属性の総攻撃力ｘ10倍の火属性攻撃。上から2行目を火ドロップに変化
 EN: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
 KR: Deal Fire damage equal to 10x of team's total Fire ATK to an enemy; Change the 2nd row from the top to Fire orbs
 

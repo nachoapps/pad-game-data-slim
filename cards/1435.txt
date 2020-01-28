@@ -6,7 +6,7 @@ SAWK:
 # 988/116 - 鳳翼天翔
 Tags: HEAL,RECOVER_BIND,FIXED_DAMAGE,HEAL_BIND_RECOVERY
 Game: 敵全体に10000の固定ダメージ。 最大HP50％分のHP回復、バインド状態を5ターン回復。
-JP: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
+JP: 敵全体に1万の固定ダメージ。最大HP50％分回復。バインドを5ターン回復
 EN: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 KR: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 

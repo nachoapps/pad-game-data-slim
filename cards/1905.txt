@@ -6,14 +6,14 @@ SAWK:
 # 447/116 - Rainbow Magnet
 Tags: STOP_TIME,RECOVER_BIND
 Game: Move Orbs freely for 7 seconds; bind status is reduced by 4 turns
-JP: Reduce binds by 4 turns; Freely move orbs for 7 seconds
+JP: バインドを4ターン回復。7秒間、時を止めてドロップを動かせる
 EN: Reduce binds by 4 turns; Freely move orbs for 7 seconds
 KR: Reduce binds by 4 turns; Freely move orbs for 7 seconds
 
 # 2523/138 - Regenerator Improved
 Tags: AUTO_HEAL,ENHANCED_ATK
 Game: 5x ATK for Healer & Machine Types when HP is full, 3x ATK at -99%; recovers 5x RCV as HP when matching Orbs
-JP: 5x ATK for Healer, Machine type when HP is full; 3x ATK for Healer, Machine type when below 99% HP; 5x RCV additional heal when matching orbs
-EN: 5x ATK for Healer, Machine type when HP is full; 3x ATK for Healer, Machine type when below 99% HP; 5x RCV additional heal when matching orbs
-KR: 5x ATK for Healer, Machine type when HP is full; 3x ATK for Healer, Machine type when below 99% HP; 5x RCV additional heal when matching orbs
+JP: 5x ATK for Healer and Machine type when HP is full; 3x ATK for Healer and Machine type when below 99% HP; 5x RCV additional heal when matching orbs
+EN: 5x ATK for Healer and Machine type when HP is full; 3x ATK for Healer and Machine type when below 99% HP; 5x RCV additional heal when matching orbs
+KR: 5x ATK for Healer and Machine type when HP is full; 3x ATK for Healer and Machine type when below 99% HP; 5x RCV additional heal when matching orbs
 

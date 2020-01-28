@@ -6,14 +6,14 @@ SAWK:
 # 980/116 - Poison Fang of Temptation
 Tags: MASSIVE_ATTACK,POISON
 Game: Inflicts 10x ATK Water Att. attack on all enemies, plus all enemies are critically poisoned
-JP: Deal 10x ATK Water damage to all enemies; Poison all enemies (8x ATK)
+JP: 敵全体に攻撃力ｘ10倍の水属性攻撃。敵全体を毒にする（攻撃力ｘ8倍）
 EN: Deal 10x ATK Water damage to all enemies; Poison all enemies (8x ATK)
 KR: Deal 10x ATK Water damage to all enemies; Poison all enemies (8x ATK)
 
 # 1588/121 - Bond of the Hidden Ocean Dragon
 Tags: ENHANCED_ATK
 Game: 2x ATK for Dragon & Balanced Types
-JP: 2x ATK for Balanced, Dragon type
-EN: 2x ATK for Balanced, Dragon type
-KR: 2x ATK for Balanced, Dragon type
+JP: 2x ATK for Balanced and Dragon type
+EN: 2x ATK for Balanced and Dragon type
+KR: 2x ATK for Balanced and Dragon type
 

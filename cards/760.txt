@@ -6,14 +6,14 @@ SAWK:
 # 44/9 - Guard Stance - Light
 Tags: GUARD_STANCE,ORB_CONVERT
 Game: Changes Dark Orbs to Heal Orbs
-JP: Change Dark orbs to Heal orbs
+JP: 闇ドロップを回復ドロップに変化
 EN: Change Dark orbs to Heal orbs
 KR: Change Dark orbs to Heal orbs
 
 # 308/36 - Holy Forest Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Light & Wood Att. damage
-JP: Reduce damage taken from light, wood att. by 50%
-EN: Reduce damage taken from light, wood att. by 50%
-KR: Reduce damage taken from light, wood att. by 50%
+JP: Reduce damage taken from Light and Wood Att. by 50%
+EN: Reduce damage taken from Light and Wood Att. by 50%
+KR: Reduce damage taken from Light and Wood Att. by 50%
 

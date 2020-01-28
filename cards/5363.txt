@@ -6,9 +6,9 @@ SAWK: 54,43,60
 # 13778/116 - 大音量ババァーン
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: バインド状態と覚醒無効状態を3ターン回復。 1ターンの間、水と闇属性の攻撃力が2倍。
-JP: Reduce binds and awoken skill binds by 3 turns; For 1 turn, 2x ATK for Water, Dark Att.
-EN: Reduce binds and awoken skill binds by 3 turns; For 1 turn, 2x ATK for Water, Dark Att.
-KR: Reduce binds and awoken skill binds by 3 turns; For 1 turn, 2x ATK for Water, Dark Att.
+JP: バインドと覚醒無効を3ターン回復。1ターンの間、水と闇属性の攻撃力が2倍
+EN: Reduce binds and awoken skill binds by 3 turns; For 1 turn, 2x ATK for Water and Dark Att.
+KR: Reduce binds and awoken skill binds by 3 turns; For 1 turn, 2x ATK for Water and Dark Att.
 
 # 13781/138 - ババァーン！（あんたを応援するよ！）
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE

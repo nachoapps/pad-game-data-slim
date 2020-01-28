@@ -6,7 +6,7 @@ SAWK: 53,55,54
 # 14203/116 - Combo Creation
 Tags: ADD_COMBO
 Game: Adds 2 combos for 1 turn; halves RCV for 1 turn
-JP: For 1 turn, increase combo count by 2; For 1 turn, 0.5x RCV
+JP: 1ターンの間、2コンボ加算される。1ターンの間、回復力が0.5倍
 EN: For 1 turn, increase combo count by 2; For 1 turn, 0.5x RCV
 KR: For 1 turn, increase combo count by 2; For 1 turn, 0.5x RCV
 

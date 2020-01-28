@@ -6,7 +6,7 @@ SAWK: 52,51,44
 # 10236/116 - Bingo, bingo! You win the prize!
 Tags: VOID_DAMAGE,ADD_COMBO
 Game: Adds 2 combos for 1 turn; voids Dark Att. damage for 1 turn
-JP: For 1 turn, increase combo count by 2; For 1 turn, void all Dark damage
+JP: 1ターンの間、2コンボ加算される。1ターンの間、闇属性の攻撃を無効化
 EN: For 1 turn, increase combo count by 2; For 1 turn, void all Dark damage
 KR: For 1 turn, increase combo count by 2; For 1 turn, void all Dark damage
 

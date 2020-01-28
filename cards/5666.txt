@@ -6,14 +6,14 @@ SAWK: 60,53,55
 # 15070/116 - That...is a secret.
 Tags: ALL_ORBS_CONVERT
 Game: Only Fire, Water, Wood & Dark Orbs appear for 1 turn; changes all Orbs to Fire, Water, Wood & Dark Orbs
-JP: For 1 turn, only Fire, Water, Wood, and Dark orbs will appear; Change all orbs to Fire, Water, Wood, and Dark orbs
+JP: 1ターンの間、火、水、木、闇ドロップのみ落ちてくる。全ドロップを火、水、木、闇ドロップに変化
 EN: For 1 turn, only Fire, Water, Wood, and Dark orbs will appear; Change all orbs to Fire, Water, Wood, and Dark orbs
 KR: For 1 turn, only Fire, Water, Wood, and Dark orbs will appear; Change all orbs to Fire, Water, Wood, and Dark orbs
 
 # 15073/138 - Dragon Slayer
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Game: 3x ATK & 2x RCV for Devil & Attacker Types; 5x ATK & reduces damage when 4+ Att. attack at once
-JP: 3x ATK and 2x RCV for Attacker, Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
-EN: 3x ATK and 2x RCV for Attacker, Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
-KR: 3x ATK and 2x RCV for Attacker, Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+JP: 3x ATK and 2x RCV for Attacker and Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+EN: 3x ATK and 2x RCV for Attacker and Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 3x ATK and 2x RCV for Attacker and Devil type; 5x ATK and reduce damage taken by 25% when matching 4 or more colors
 

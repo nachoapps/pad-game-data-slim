@@ -6,7 +6,7 @@ SAWK: 60,45,54
 # 12817/116 - Shunpukyaku
 Tags: EXTENDS_TIME
 Game: Creates an L shape of Fire Orbs; 2x Orb move time for 1 turn
-JP: Create an L shape of Fire orbs with its center at the bottom row and the far left column; For 1 turn, 2x orb move time
+JP: 最下段と最左端の中心にL字形の火ドロップを1つ生成。1ターンの間、ドロップ操作時間が2倍
 EN: Create an L shape of Fire orbs with its center at the bottom row and the far left column; For 1 turn, 2x orb move time
 KR: Create an L shape of Fire orbs with its center at the bottom row and the far left column; For 1 turn, 2x orb move time
 

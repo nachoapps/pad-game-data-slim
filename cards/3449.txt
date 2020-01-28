@@ -6,14 +6,14 @@ SAWK: 43,27,54
 # 5154/116 - Heaven-Shaking Lightning Wall
 Tags: REDUCE_DAMAGE,REDUCE_SKILL_TURN
 Game: Vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
-JP: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
+JP: 2ターンの間、受けるダメージを75％減少。自分以外の味方スキルが1ターンの溜まる
 EN: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 KR: For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 
 # 7020/138 - Soul of the Thunderdragon
 Tags: ENHANCED_ATK_RCV
 Game: 2x ATK & RCV for Dragon & Physical Types; 3.5x ATK when Light & Dark attack at once
-JP: 2x ATK & RCV for Physical, Dragon type; 3.5x ATK when matching Light and Dark
-EN: 2x ATK & RCV for Physical, Dragon type; 3.5x ATK when matching Light and Dark
-KR: 2x ATK & RCV for Physical, Dragon type; 3.5x ATK when matching Light and Dark
+JP: 2x ATK & RCV for Physical and Dragon type; 3.5x ATK when matching Light and Dark
+EN: 2x ATK & RCV for Physical and Dragon type; 3.5x ATK when matching Light and Dark
+KR: 2x ATK & RCV for Physical and Dragon type; 3.5x ATK when matching Light and Dark
 

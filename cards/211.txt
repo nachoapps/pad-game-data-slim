@@ -6,14 +6,14 @@ SAWK:
 # 116/116 - Magma Ball
 Tags: MASSIVE_ATTACK,ORB_CONVERT
 Game: Inflicts 20,000 Fire Att. damage on all enemies; changes Dark Orbs to Fire Orbs
-JP: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
+JP: 敵全体に2万の火属性攻撃。闇ドロップを火ドロップに変化
 EN: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
 KR: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
 
 # 76/17 - Flame Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Fire Att. damage
-JP: Reduce damage taken from fire att. by 50%
-EN: Reduce damage taken from fire att. by 50%
-KR: Reduce damage taken from fire att. by 50%
+JP: Reduce damage taken from Fire Att. by 50%
+EN: Reduce damage taken from Fire Att. by 50%
+KR: Reduce damage taken from Fire Att. by 50%
 

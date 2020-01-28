@@ -6,14 +6,14 @@ SAWK:
 # 159/9 - Attack Stance - Light
 Tags: ATTACK_STANCE,ORB_CONVERT
 Game: Changes Heal Orbs to Light Orbs
-JP: Change Heal orbs to Light orbs
+JP: 回復ドロップを光ドロップに変化
 EN: Change Heal orbs to Light orbs
 KR: Change Heal orbs to Light orbs
 
 # 79/17 - Light Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Light Att. damage
-JP: Reduce damage taken from light att. by 50%
-EN: Reduce damage taken from light att. by 50%
-KR: Reduce damage taken from light att. by 50%
+JP: Reduce damage taken from Light Att. by 50%
+EN: Reduce damage taken from Light Att. by 50%
+KR: Reduce damage taken from Light Att. by 50%
 

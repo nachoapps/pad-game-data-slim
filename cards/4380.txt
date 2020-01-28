@@ -6,7 +6,7 @@ SAWK:
 # 10419/116 - Diarahan
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,VOID_ATT_ABSORBS
 Game: Fully recovers HP & bind status; voids Attribute absorption for 1 turn
-JP: Recover all HP; Remove all binds; For 1 turn, bypass att. absorb shield effects
+JP: HPを全回復。バインドを全回復。1ターンの間、属性吸収を無効化する
 EN: Recover all HP; Remove all binds; For 1 turn, bypass att. absorb shield effects
 KR: Recover all HP; Remove all binds; For 1 turn, bypass att. absorb shield effects
 

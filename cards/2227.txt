@@ -6,14 +6,14 @@ SAWK:
 # 902/116 - 落雷
 Tags: MENACE,FIXED_DAMAGE
 Game: 敵全体に10000の固定ダメージ。 敵の行動を1ターン遅らせる。
-JP: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
+JP: 敵全体に1万の固定ダメージ。敵の行動を1ターン遅らせる
 EN: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 KR: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 3294/138 - Just Blowing Off Some Steam
 Tags: ENHANCED_ATK_RCV
 Game: ATK & RCV increase a little for Physical & Devil; 4x ATK for Dark Att. when HP is 80% or more
-JP: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker, Devil type
-EN: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker, Devil type
-KR: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker, Devil type
+JP: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker and Devil type
+EN: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker and Devil type
+KR: 4x ATK for Dark Att. when above 80% HP; 1.5x ATK & RCV for Attacker and Devil type
 

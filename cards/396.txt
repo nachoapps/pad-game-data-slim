@@ -6,14 +6,14 @@ SAWK:
 # 35/6 - Ultra Gravity
 Tags: GRAVITY
 Game: Reduces enemies' HP by 30%
-JP: Reduce enemies' HP by 30%
+JP: 敵の現HPの30％分のダメージ
 EN: Reduce enemies' HP by 30%
 KR: Reduce enemies' HP by 30%
 
 # 825/129 - Godly Wall of Light & Dark
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: Greatly reduces Light & Dark Att. damage; 1.5x ATK for God Type
-JP: 1.5x ATK for God type; Reduce damage taken from light, dark att. by 55%
-EN: 1.5x ATK for God type; Reduce damage taken from light, dark att. by 55%
-KR: 1.5x ATK for God type; Reduce damage taken from light, dark att. by 55%
+JP: 1.5x ATK for God type; Reduce damage taken from Light and Dark Att. by 55%
+EN: 1.5x ATK for God type; Reduce damage taken from Light and Dark Att. by 55%
+KR: 1.5x ATK for God type; Reduce damage taken from Light and Dark Att. by 55%
 

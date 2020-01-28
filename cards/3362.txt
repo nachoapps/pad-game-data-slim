@@ -6,7 +6,7 @@ SAWK:
 # 6451/110 - I can't stand that!!
 Tags: MASSIVE_ATTACK,GRUDGE_STRIKE
 Game: The less HP you have, the more Light damage caused to all enemies
-JP: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
+JP: 残りHPが応じ敵全体に光属性ダメージを与え（HP1のとき攻撃力ｘ250倍、満タン50倍）
 EN: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
 KR: Deal Light damage to all enemies depending on HP level (250x at 1 HP and 50x at 100% HP)
 

@@ -6,14 +6,14 @@ SAWK:
 # 13914/116 - ストライククロー
 Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
 Game: 1ターンの間、バランスとマシンタイプの攻撃力が4倍。 1ターンの間、受けるダメージを半減。
-JP: For 1 turn, 4x ATK for Balanced and Machine types; For 1 turn, reduce damage taken by 50%
+JP: 1ターンの間、バランスとマシンタイプの攻撃力が4倍。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, 4x ATK for Balanced and Machine types; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, 4x ATK for Balanced and Machine types; For 1 turn, reduce damage taken by 50%
 
 # 13917/138 - ゾイドを…命をなんだと思ってやがるんだ！
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: バランスとマシンタイプのHPが1.5倍、攻撃力は3倍。 光の5個L字消しでダメージを軽減、攻撃力が3倍。
-JP: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
-EN: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
-KR: 3x ATK and 1.5x HP for Balanced, Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+JP: 3x ATK and 1.5x HP for Balanced and Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+EN: 3x ATK and 1.5x HP for Balanced and Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
+KR: 3x ATK and 1.5x HP for Balanced and Machine type; 3x ATK and reduce damage taken by 25% when matching 5 Light orbs in an L shape
 

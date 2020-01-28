@@ -6,14 +6,14 @@ SAWK: 27,52,59
 # 12657/156 - Beautiful Memories
 Tags: REDUCE_DAMAGE
 Game: Reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
-JP: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+JP: チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
 EN: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 KR: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 
 # 12660/138 - May my love reach you
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for Light Att., 4x ATK when 4+ Att. attack at once; halves Light & Dark Att. damage
-JP: 3x ATK for Light Att.; Reduce damage taken from light, dark att. by 50%; 4x ATK when matching 4 or more colors
-EN: 3x ATK for Light Att.; Reduce damage taken from light, dark att. by 50%; 4x ATK when matching 4 or more colors
-KR: 3x ATK for Light Att.; Reduce damage taken from light, dark att. by 50%; 4x ATK when matching 4 or more colors
+JP: 3x ATK for Light Att.; Reduce damage taken from Light and Dark Att. by 50%; 4x ATK when matching 4 or more colors
+EN: 3x ATK for Light Att.; Reduce damage taken from Light and Dark Att. by 50%; 4x ATK when matching 4 or more colors
+KR: 3x ATK for Light Att.; Reduce damage taken from Light and Dark Att. by 50%; 4x ATK when matching 4 or more colors
 

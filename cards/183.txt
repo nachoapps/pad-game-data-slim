@@ -6,14 +6,14 @@ SAWK:
 # 157/9 - Attack Stance - Water
 Tags: ATTACK_STANCE,ORB_CONVERT
 Game: Changes Heal Orbs to Water Orbs
-JP: Change Heal orbs to Water orbs
+JP: 回復ドロップを水ドロップに変化
 EN: Change Heal orbs to Water orbs
 KR: Change Heal orbs to Water orbs
 
 # 77/17 - Ice Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Water Att. damage
-JP: Reduce damage taken from water att. by 50%
-EN: Reduce damage taken from water att. by 50%
-KR: Reduce damage taken from water att. by 50%
+JP: Reduce damage taken from Water Att. by 50%
+EN: Reduce damage taken from Water Att. by 50%
+KR: Reduce damage taken from Water Att. by 50%
 

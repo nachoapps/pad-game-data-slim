@@ -6,14 +6,14 @@ SAWK: 57,53,21
 # 12848/116 - Kanzuki-Ryu Hadorokushiki Hasha No Kata
 Tags: EXTENDS_TIME
 Game: Creates 5 Fire, Light & Heal Orbs each at random; 1.5x Orb move time for 1 turn
-JP: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
+JP: ランダムで火、光、回復を5個ずつ生成。1ターンの間、ドロップ操作時間が1.5倍
 EN: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
 KR: Create 5 Fire, Light, and Heal orbs; For 1 turn, 1.5x orb move time
 
 # 12851/138 - I'll show you the divide in our class!
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
 Game: [7x6 board], 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light Orbs
-JP: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire, Light orbs
-EN: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire, Light orbs
-KR: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire, Light orbs
+JP: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light orbs
+EN: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light orbs
+KR: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light orbs
 

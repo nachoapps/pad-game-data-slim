@@ -6,9 +6,9 @@ SAWK: 53,43,48
 # 14888/116 - Emperor of All
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Fully recovers bind status (incl. Awoken); 2x ATK for Fire & Dark Att. for 1 turn
-JP: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
-EN: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
-KR: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire, Dark Att.
+JP: バインドと覚醒無効を全回復。1ターンの間、火と闇属性の攻撃力が2倍
+EN: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire and Dark Att.
+KR: Remove all binds and awoken skill binds; For 1 turn, 2x ATK for Fire and Dark Att.
 
 # 14891/138 - Ours for the Taking
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE

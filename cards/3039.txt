@@ -6,7 +6,7 @@ SAWK: 33,34,31
 # 5217/116 - Secret Blow
 Tags: MENACE,SINGLE_TARGET_ATTACK,SUICIDE
 Game: Inflicts 100,000 Fire dmg on 1 enemy but halves overall HP; delays enemies' next move for 1 turn
-JP: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
+JP: HPが50％減少。敵1体に火属性の10万ダメージ。敵の行動を1ターン遅らせる
 EN: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
 KR: Reduce HP by 50%; Deal 100000 Fire damage to an enemy; Delay enemies' next attack by 1 turn
 

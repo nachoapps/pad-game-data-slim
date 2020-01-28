@@ -6,7 +6,7 @@ SAWK: 53,27,70
 # 15020/116 - How about putting up a little more resistance?
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Adds 2 combos for 1 turn; removes Orb locks, changes all Orbs to Water & Light Orbs
-JP: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Light orbs
+JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを水と光ドロップに変化
 EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Light orbs
 KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Light orbs
 
@@ -14,7 +14,7 @@ KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to W
 
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Game: 1.5x to all stats for Wt & Lt Att., Orb move time +3sec; 9x ATK, reduces dmg & adds 1 combo when Wt & Lt attack
-JP: 1.5x all stats for Water, Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
-EN: 1.5x all stats for Water, Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
-KR: 1.5x all stats for Water, Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
+JP: 1.5x all stats for Water and Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
+EN: 1.5x all stats for Water and Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
+KR: 1.5x all stats for Water and Light Att.; Increase orb movement time by 3 seconds; 9x ATK and reduce damage taken by 25% when matching Water and Light; increase combo by 1 when matching Water and Light at once
 

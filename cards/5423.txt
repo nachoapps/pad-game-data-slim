@@ -6,7 +6,7 @@ SAWK: 48,62,34
 # 14172/116 - Imperial Space Dragon Roar
 Tags: EXTENDS_TIME
 Game: Creates 2 Dark Orbs at random; Orb move time +1 second for 1 turn
-JP: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
+JP: 闇ドロップを2個生成。1ターンの間、ドロップ操作時間が1秒に延長
 EN: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
 KR: Create 2 Dark orbs; For 1 turn, increase orb move time by 1 second
 

@@ -6,14 +6,14 @@ SAWK: 48,60,52
 # 13838/116 - I was hoping you'd say that.
 Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the 2 leftmost columns to Fire Orbs
-JP: Unlock all orbs; Change the far left column and the 2nd column from the left to Fire orbs
+JP: 全ドロップのロック状態を解除。最左端と左から2列目を火ドロップに変化
 EN: Unlock all orbs; Change the far left column and the 2nd column from the left to Fire orbs
 KR: Unlock all orbs; Change the far left column and the 2nd column from the left to Fire orbs
 
 # 13841/138 - Rockbreaker
 Tags: ENHANCED_HP_ATK
 Game: 1.5x HP & ATK for Attacker & Physical Types; 9x ATK with 7+ linked Fire Orbs
-JP: 1.5x HP & ATK for Physical, Attacker type; 9x ATK when matching 7 or more connected Fire orbs
-EN: 1.5x HP & ATK for Physical, Attacker type; 9x ATK when matching 7 or more connected Fire orbs
-KR: 1.5x HP & ATK for Physical, Attacker type; 9x ATK when matching 7 or more connected Fire orbs
+JP: 1.5x HP & ATK for Physical and Attacker type; 9x ATK when matching 7 or more connected Fire orbs
+EN: 1.5x HP & ATK for Physical and Attacker type; 9x ATK when matching 7 or more connected Fire orbs
+KR: 1.5x HP & ATK for Physical and Attacker type; 9x ATK when matching 7 or more connected Fire orbs
 

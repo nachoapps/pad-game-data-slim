@@ -6,14 +6,14 @@ SAWK: 4,59,60
 # 1613/116 - Hellish Inferno
 Tags: REDUCE_DEFENSE,ORB_CONVERT
 Game: Halves enemies' DEF for 2 turns; changes Dark Orbs to Fire Orbs
-JP: For 2 turns, reduce enemies' defense by 50%; Change Dark orbs to Fire orbs
+JP: 2ターンの間、敵の防御力が50％下がる。闇ドロップを火ドロップに変化
 EN: For 2 turns, reduce enemies' defense by 50%; Change Dark orbs to Fire orbs
 KR: For 2 turns, reduce enemies' defense by 50%; Change Dark orbs to Fire orbs
 
 # 6555/138 - Soul of the Warrior Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 3x ATK for Fire Att.; 2x ATK when Fire & Light attack at once; halves damage from Fire, Light & Dark enemies
-JP: 3x ATK for Fire Att.; Reduce damage taken from fire, light, dark att. by 50%; 2x ATK when matching Fire and Light
-EN: 3x ATK for Fire Att.; Reduce damage taken from fire, light, dark att. by 50%; 2x ATK when matching Fire and Light
-KR: 3x ATK for Fire Att.; Reduce damage taken from fire, light, dark att. by 50%; 2x ATK when matching Fire and Light
+JP: 3x ATK for Fire Att.; Reduce damage taken from Fire, Light, and Dark Att. by 50%; 2x ATK when matching Fire and Light
+EN: 3x ATK for Fire Att.; Reduce damage taken from Fire, Light, and Dark Att. by 50%; 2x ATK when matching Fire and Light
+KR: 3x ATK for Fire Att.; Reduce damage taken from Fire, Light, and Dark Att. by 50%; 2x ATK when matching Fire and Light
 

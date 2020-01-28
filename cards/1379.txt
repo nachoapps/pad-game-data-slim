@@ -6,14 +6,14 @@ SAWK:
 # 960/6 - デスボール
 Tags: GRAVITY
 Game: 敵のHPを25％減らす。
-JP: Reduce enemies' HP by 25%
+JP: 敵の現HPの25％分のダメージ
 EN: Reduce enemies' HP by 25%
 KR: Reduce enemies' HP by 25%
 
 # 1565/121 - お待ちかね100パーセント!
 Tags: ENHANCED_HP_ATK
 Game: ドラゴンと悪魔タイプのHPが1.5倍、攻撃力は2.5倍。
-JP: 2.5x ATK and 1.5x HP for Dragon, Devil type
-EN: 2.5x ATK and 1.5x HP for Dragon, Devil type
-KR: 2.5x ATK and 1.5x HP for Dragon, Devil type
+JP: 2.5x ATK and 1.5x HP for Dragon and Devil type
+EN: 2.5x ATK and 1.5x HP for Dragon and Devil type
+KR: 2.5x ATK and 1.5x HP for Dragon and Devil type
 

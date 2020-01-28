@@ -6,14 +6,14 @@ SAWK:
 # 12/116 - Blizzard Breath
 Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
 Game: 1.5x ATK for Water Att. for 2 turns; inflicts 20x ATK Water Att. Mass Attack
-JP: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
+JP: 2ターンの間、水属性の攻撃力が1.5倍。敵全体に攻撃力ｘ20倍の水属性攻撃
 EN: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
 KR: For 2 turns, 1.5x ATK for Water Att.; Deal 20x ATK Water damage to all enemies
 
 # 77/17 - Ice Barrier
 Tags: REDUCE_DAMAGE
 Game: Halves Water Att. damage
-JP: Reduce damage taken from water att. by 50%
-EN: Reduce damage taken from water att. by 50%
-KR: Reduce damage taken from water att. by 50%
+JP: Reduce damage taken from Water Att. by 50%
+EN: Reduce damage taken from Water Att. by 50%
+KR: Reduce damage taken from Water Att. by 50%
 

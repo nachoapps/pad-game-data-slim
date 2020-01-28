@@ -6,14 +6,14 @@ SAWK:
 # 10947/116 - Pulsar 67
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER
 Game: Changes leftmost column to Dark & rightmost to Wood; Wood attack of 40x team's Wood ATK on all enemies
-JP: Change the far left column to Dark orbs and change the far right column to Wood orbs; Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
+JP: 最左端を闇に、最右端を木ドロップに変化。敵全体にチームの木属性の総攻撃力ｘ40倍の木属性攻撃
 EN: Change the far left column to Dark orbs and change the far right column to Wood orbs; Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
 KR: Change the far left column to Dark orbs and change the far right column to Wood orbs; Deal Wood damage equal to 40x of team's total Wood ATK to all enemies
 
 # 10950/138 - Tactical Control
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 2x HP for Wd & Dk Att., 6x ATK when Wd & Dk attack at once; bonus attack equal to 100x ATK when matching Orbs
-JP: 2x HP for Wood, Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
-EN: 2x HP for Wood, Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
-KR: 2x HP for Wood, Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
+JP: 2x HP for Wood and Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
+EN: 2x HP for Wood and Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
+KR: 2x HP for Wood and Dark Att.; 6x ATK when matching Wood and Dark; 100x ATK additional damage when matching orbs
 

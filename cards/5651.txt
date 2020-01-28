@@ -6,14 +6,14 @@ SAWK: 43,54,60
 # 14986/116 - Get them!
 Tags: ENHANCED_HEAL,LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Voids RCV & Orb move time -2 seconds for 1 turn; changes the top row to Light Orbs
-JP: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
+JP: 1ターンの間、回復力が0倍。1ターンの間、ドロップ操作時間が-2秒に延長。最上段を光ドロップに変化
 EN: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
 KR: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs
 
 # 14996/138 - Deep Dragon Familiar
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Game: 2x HP for Light & Dark Att., Orb move time +2 seconds; 15x ATK & adds 2 combos with 9+ linked Light Orbs
-JP: 2x HP for Light, Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
-EN: 2x HP for Light, Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
-KR: 2x HP for Light, Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
+JP: 2x HP for Light and Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
+EN: 2x HP for Light and Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
+KR: 2x HP for Light and Dark Att.; Increase orb movement time by 2 seconds; 15x ATK and increase combo by 2 when matching 9 or more connected Light orbs at once
 

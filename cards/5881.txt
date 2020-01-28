@@ -6,14 +6,14 @@ SAWK: 52,55,43
 # 15865/118 - セーフティシグナル
 Tags: REDUCE_DAMAGE,ENHANCED_HEAL,EXTENDS_TIME,CHANGE_ATTRIBUTE,ETC
 Game: 特定のスキルがランダムで発動。
-JP: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
+JP: 下からスキルをランダムて発動：１、3ターンの間、自分の属性が火属性に変化。3ターンの間、回復力が3倍；２、3ターンの間、自分の属性が光属性に変化。3ターンの間、受けるダメージを50％減少；３、3ターンの間、自分の属性が木属性に変化。3ターンの間、ドロップ操作時間が3倍
 EN: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
 KR: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
 
 # 15875/138 - サイン・オブ・カラー
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 火か木か光の5個十字消し1個につき攻撃力が2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍。
-JP: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
-EN: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
-KR: 2x ATK for each cross of 5 Fire, Wood, Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+JP: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+EN: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 

@@ -6,14 +6,14 @@ SAWK:
 # 693/3 - Merciful Protection
 Tags: REDUCE_DAMAGE
 Game: Reduces damage for 1 turn
-JP: For 1 turn, reduce damage taken by 35%
+JP: 1ターンの間、受けるダメージを35％減少
 EN: For 1 turn, reduce damage taken by 35%
 KR: For 1 turn, reduce damage taken by 35%
 
 # 4399/138 - Godly Efficiency of Creation
 Tags: ENHANCED_ATK
 Game: 4x ATK for God & Balanced Types, but reduces overall HP
-JP: 0.75x HP; 4x ATK for Balanced, God type
-EN: 0.75x HP; 4x ATK for Balanced, God type
-KR: 0.75x HP; 4x ATK for Balanced, God type
+JP: 0.75x HP; 4x ATK for Balanced and God type
+EN: 0.75x HP; 4x ATK for Balanced and God type
+KR: 0.75x HP; 4x ATK for Balanced and God type
 

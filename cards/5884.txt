@@ -6,14 +6,14 @@ SAWK: 43,56,48
 # 15812/116 - あなたと戦います！
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 自分以外の味方スキルが2ターン溜まる。 2ターンの間、回復力と光属性の攻撃力が3倍。
-JP: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
+JP: 自分以外の味方スキルが2ターンの溜まる。2ターンの間、回復力が3倍。2ターンの間、光属性の攻撃力が3倍
 EN: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 KR: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 
 # 15815/138 - 私の花を止められるはずもありません
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Game: 水と光属性の攻撃力が8倍。ドロップ操作を2秒延長。 ドロップを6個以上つなげて消すとダメージを軽減、攻撃力が2倍。
-JP: 8x ATK for Water, Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
-EN: 8x ATK for Water, Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
-KR: 8x ATK for Water, Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
+JP: 8x ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
+EN: 8x ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
+KR: 8x ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 

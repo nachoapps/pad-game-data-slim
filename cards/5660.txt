@@ -6,9 +6,9 @@ SAWK: 21,27,57
 # 15034/116 - I don't chase carrots.
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
 Game: 5x ATK for Wood & Dark Att. for 2 turns; changes the leftmost column to Wood & the rightmost to Dark Orbs
-JP: For 2 turns, 5x ATK for Wood, Dark Att.; Change the far left column to Wood orbs and change the far right column to Dark orbs
-EN: For 2 turns, 5x ATK for Wood, Dark Att.; Change the far left column to Wood orbs and change the far right column to Dark orbs
-KR: For 2 turns, 5x ATK for Wood, Dark Att.; Change the far left column to Wood orbs and change the far right column to Dark orbs
+JP: 2ターンの間、木と闇属性の攻撃力が5倍。最左端を木に、最右端を闇ドロップに変化
+EN: For 2 turns, 5x ATK for Wood and Dark Att.; Change the far left column to Wood orbs and change the far right column to Dark orbs
+KR: For 2 turns, 5x ATK for Wood and Dark Att.; Change the far left column to Wood orbs and change the far right column to Dark orbs
 
 # 15037/138 - Astral Vine
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

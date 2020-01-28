@@ -6,14 +6,14 @@ SAWK: 52,58,32
 # 9712/116 - Dark Moon
 Tags: ORB_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Heal Orbs & Poison Orbs to Dark Orbs
-JP: Unlock all orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs
+JP: 全ドロップのロック状態を解除。回復、毒、猛毒ドロップを闇ドロップに変化
 EN: Unlock all orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs
 KR: Unlock all orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs
 
 # 9715/138 - Dark Acolyte's Covenant
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Game: 2x ATK & RCV for Devil Type, Orb move time +1 second; 2.5x ATK for each cross of 5 Dark or Light Orbs
-JP: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light, Dark orbs
-EN: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light, Dark orbs
-KR: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light, Dark orbs
+JP: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light or Dark orbs
+EN: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light or Dark orbs
+KR: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light or Dark orbs
 

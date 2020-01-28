@@ -6,14 +6,14 @@ SAWK:
 # 16/1 - Heat Ball
 Tags: MASSIVE_ATTACK
 Game: Inflicts 1,000 Fire Att. damage on all enemies
-JP: Deal 1000 Fire damage to all enemies
+JP: 敵全体に1000の火属性攻撃
 EN: Deal 1000 Fire damage to all enemies
 KR: Deal 1000 Fire damage to all enemies
 
 # 71/17 - Fire Guard
 Tags: REDUCE_DAMAGE
 Game: Reduces Fire Att. damage
-JP: Reduce damage taken from fire att. by 30%
-EN: Reduce damage taken from fire att. by 30%
-KR: Reduce damage taken from fire att. by 30%
+JP: Reduce damage taken from Fire Att. by 30%
+EN: Reduce damage taken from Fire Att. by 30%
+KR: Reduce damage taken from Fire Att. by 30%
 

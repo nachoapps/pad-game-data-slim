@@ -6,7 +6,7 @@ SAWK: 48,43,45
 # 12732/116 - Destiny Masks
 Tags: EXTENDS_TIME,ADD_COMBO
 Game: Creates 3 Fire & Heal Orbs each at random; adds 1 combo & 2x Orb move time for 1 turn
-JP: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 turn, 2x orb move time
+JP: ランダムで火と回復を3個ずつ生成。1ターンの間、1コンボ加算される。1ターンの間、ドロップ操作時間が2倍
 EN: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 turn, 2x orb move time
 KR: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 turn, 2x orb move time
 

@@ -6,14 +6,14 @@ SAWK:
 # 3710/116 - Beast Spear
 Tags: ORB_CONVERT,RECOVER_BIND
 Game: Changes Poison & Heal Orbs to Light Orbs; bind status reduced by 3 turns
-JP: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Reduce binds by 3 turns
+JP: 回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。バインドを3ターン回復
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Reduce binds by 3 turns
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Reduce binds by 3 turns
 
 # 4114/138 - We're really strong!
 Tags: ENHANCED_ATK
 Game: 1.5x ATK for Physical & Devil Types; ATK increases with 5+ combos, up to 5x
-JP: 1.5x ATK for Physical, Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
-EN: 1.5x ATK for Physical, Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
-KR: 1.5x ATK for Physical, Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
+JP: 1.5x ATK for Physical and Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
+EN: 1.5x ATK for Physical and Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
+KR: 1.5x ATK for Physical and Devil type; 2x ATK when 5 or more combos up to 5x at 8 combos
 

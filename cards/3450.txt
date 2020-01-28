@@ -6,14 +6,14 @@ SAWK: 55,52,58
 # 5157/116 - Abyssal Strike
 Tags: ENHANCED_ATTACK,MASSIVE_ATTACK,GRUDGE_STRIKE
 Game: The less HP you have, the more Dark dmg caused to all enemies; 2x ATK for Dark Att. for 1 turn
-JP: Deal Dark damage to all enemies depending on HP level (200x at 1 HP and 40x at 100% HP); For 1 turn, 2x ATK for Dark Att.
+JP: 残りHPが応じ敵全体に闇属性ダメージを与え（HP1のとき攻撃力ｘ200倍、満タン40倍）。1ターンの間、闇属性の攻撃力が2倍
 EN: Deal Dark damage to all enemies depending on HP level (200x at 1 HP and 40x at 100% HP); For 1 turn, 2x ATK for Dark Att.
 KR: Deal Dark damage to all enemies depending on HP level (200x at 1 HP and 40x at 100% HP); For 1 turn, 2x ATK for Dark Att.
 
 # 7023/138 - Soul of the Darkdragon
 Tags: ENHANCED_HP_ATK
 Game: 2x ATK & HP for Dragon & Devil Types; 3.5x ATK when Light & Dark attack at once
-JP: 2x HP & ATK for Dragon, Devil type; 3.5x ATK when matching Dark and Light
-EN: 2x HP & ATK for Dragon, Devil type; 3.5x ATK when matching Dark and Light
-KR: 2x HP & ATK for Dragon, Devil type; 3.5x ATK when matching Dark and Light
+JP: 2x HP & ATK for Dragon and Devil type; 3.5x ATK when matching Dark and Light
+EN: 2x HP & ATK for Dragon and Devil type; 3.5x ATK when matching Dark and Light
+KR: 2x HP & ATK for Dragon and Devil type; 3.5x ATK when matching Dark and Light
 

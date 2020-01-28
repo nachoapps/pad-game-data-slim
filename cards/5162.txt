@@ -6,14 +6,14 @@ SAWK: 57,45,48
 # 12970/116 - Now, I am satisfied.
 Tags: HEAL,ADD_COMBO
 Game: Fully recovers HP; adds 2 combos for 1 turn
-JP: Recover all HP; For 1 turn, increase combo count by 2
+JP: HPを全回復。1ターンの間、2コンボ加算される
 EN: Recover all HP; For 1 turn, increase combo count by 2
 KR: Recover all HP; For 1 turn, increase combo count by 2
 
 # 12976/138 - I will show you this and so much more.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Game: 4x ATK & vastly reduces damage when HP is full; 4x ATK for Fire & Dark Att.
-JP: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire, Dark Att.
-EN: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire, Dark Att.
-KR: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire, Dark Att.
+JP: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire and Dark Att.
+EN: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire and Dark Att.
+KR: 4x ATK and reduce damage taken by 80% when HP is full; 4x ATK for Fire and Dark Att.
 

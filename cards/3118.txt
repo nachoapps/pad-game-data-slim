@@ -6,14 +6,14 @@ SAWK: 52,58
 # 1867/116 - True Ninja Art Fireworks
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,SUICIDE
 Game: Changes Orbs to Fire Orbs; inflicts a critical Fire attack on all enemies but HP reduced to 1
-JP: Change all orbs to Fire orbs; Reduce HP to 1; Deal 200000 Fire damage to all enemies
+JP: 全ドロップを火ドロップに変化。HPが1になる。敵全体に火属性の20万ダメージ
 EN: Change all orbs to Fire orbs; Reduce HP to 1; Deal 200000 Fire damage to all enemies
 KR: Change all orbs to Fire orbs; Reduce HP to 1; Deal 200000 Fire damage to all enemies
 
 # 5793/138 - WAV! What a View!!
 Tags: ENHANCED_ATK
 Game: ATK increases slightly for Physical & Dragon Types; ATK increases with low HP, up to 5x
-JP: 1.2x ATK for Physical, Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
-EN: 1.2x ATK for Physical, Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
-KR: 1.2x ATK for Physical, Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
+JP: 1.2x ATK for Physical and Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
+EN: 1.2x ATK for Physical and Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
+KR: 1.2x ATK for Physical and Dragon type; 5x ATK when below 20% HP; 2.5x ATK when below 50% HP
 

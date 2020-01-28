@@ -6,14 +6,14 @@ SAWK:
 # 995/116 - Protection Magic - Water
 Tags: GUARD_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Wood Orbs to Heal Orbs, plus bind status is reduced by 3 turns
-JP: Change Wood orbs to Heal orbs; Reduce binds by 3 turns
+JP: 木ドロップを回復ドロップに変化。バインドを3ターン回復
 EN: Change Wood orbs to Heal orbs; Reduce binds by 3 turns
 KR: Change Wood orbs to Heal orbs; Reduce binds by 3 turns
 
 # 1736/121 - The Sleep of the Just
 Tags: ENHANCED_HP_RCV
 Game: 1.5x HP & RCV for Physical & God Types
-JP: 1.5x HP & RCV for Physical, God type
-EN: 1.5x HP & RCV for Physical, God type
-KR: 1.5x HP & RCV for Physical, God type
+JP: 1.5x HP & RCV for Physical and God type
+EN: 1.5x HP & RCV for Physical and God type
+KR: 1.5x HP & RCV for Physical and God type
 

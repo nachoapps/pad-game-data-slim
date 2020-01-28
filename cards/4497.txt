@@ -6,7 +6,7 @@ SAWK:
 # 5370/116 - Magic Chain
 Tags: EXTENDS_TIME,ADD_COMBO
 Game: Adds 2 combos for 1 turn; Orb move time +2 seconds for 1 turn
-JP: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds
+JP: 1ターンの間、2コンボ加算される。1ターンの間、ドロップ操作時間が2秒に延長
 EN: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds
 KR: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds
 

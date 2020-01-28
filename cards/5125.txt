@@ -6,7 +6,7 @@ SAWK:
 # 12663/116 - Dragon Roar of the Master of Nine Strikes
 Tags: EXTENDS_TIME
 Game: Creates 2 Wood Orbs at random; Orb move time +1 second for 1 turn
-JP: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
+JP: 木ドロップを2個生成。1ターンの間、ドロップ操作時間が1秒に延長
 EN: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
 KR: Create 2 Wood orbs; For 1 turn, increase orb move time by 1 second
 

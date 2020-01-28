@@ -6,14 +6,14 @@ SAWK: 52,27,54
 # 8341/116 - Star Wedding Road
 Tags: GUARD_STANCE,DROP_CHANCE,LINE_ORBS_CONVERTER
 Game: Changes leftmost column to Light & rightmost to Heal; Light Orbs slightly more likely to appear for 4 turns
-JP: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
+JP: 最左端を光に、最右端を回復ドロップに変化。4ターンの間、光ドロップが15％落ちやすくなる
 EN: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
 KR: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%
 
 # 10747/138 - Aren't you a little too happy?
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & 3x ATK for God & Machine Types; 3x ATK with 2 Light combos, 5x ATK with 3+ combos
-JP: 3x ATK and 2x HP for God, Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
-EN: 3x ATK and 2x HP for God, Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
-KR: 3x ATK and 2x HP for God, Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
+JP: 3x ATK and 2x HP for God and Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
+EN: 3x ATK and 2x HP for God and Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
+KR: 3x ATK and 2x HP for God and Machine type; 3x ATK when matching 2 Light combos, up to 5x at 3 Light combos
 

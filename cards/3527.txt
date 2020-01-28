@@ -6,14 +6,14 @@ SAWK: 52,59,47
 # 5092/116 - Astray Mist
 Tags: REDUCE_DEFENSE,REDUCE_DAMAGE
 Game: Voids enemies' DEF for 1 turn; halves damage for 1 turn
-JP: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
+JP: 1ターンの間、敵の防御力が100％下がる。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce enemies' defense by 100%; For 1 turn, reduce damage taken by 50%
 
 # 7233/138 - Hermit Cycle
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Game: 1.5x HP & ATK for Water & Wood Att.; 5x ATK & reduces damage when Water & Wood attack at once
-JP: 1.5x HP & ATK for Water, Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
-EN: 1.5x HP & ATK for Water, Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
-KR: 1.5x HP & ATK for Water, Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
+JP: 1.5x HP & ATK for Water and Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
+EN: 1.5x HP & ATK for Water and Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
+KR: 1.5x HP & ATK for Water and Wood Att.; 5x ATK and reduce damage taken by 25% when matching Water and Wood
 

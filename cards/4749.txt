@@ -6,14 +6,14 @@ SAWK: 48,44,55
 # 11401/116 - Gin's special move, activate!
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes all Orbs to Water & Light Orbs
-JP: For 1 turn, increase combo count by 1; Change all orbs to Water and Light orbs
+JP: 1ターンの間、1コンボ加算される。全ドロップを水と光ドロップに変化
 EN: For 1 turn, increase combo count by 1; Change all orbs to Water and Light orbs
 KR: For 1 turn, increase combo count by 1; Change all orbs to Water and Light orbs
 
 # 11404/138 - Drop deeeead!!
 Tags: ENHANCED_HP_ATK
 Game: 2x HP & 4x ATK for Water & Light Att.; 4x ATK with 5+ linked Water or Light Orbs
-JP: 4x ATK and 2x HP for Water, Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
-EN: 4x ATK and 2x HP for Water, Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
-KR: 4x ATK and 2x HP for Water, Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
+JP: 4x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
+EN: 4x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
+KR: 4x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
 

@@ -6,7 +6,7 @@ SAWK: 60,43,45
 # 11821/116 - Dear Words
 Tags: GUARD_STANCE,RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes the leftmost column to Dark & rightmost to Heal Orbs; fully recovers bind status (incl. Awoken)
-JP: Change the far left column to Dark orbs and change the far right column to Heal orbs; Remove all binds and awoken skill binds
+JP: 最左端を闇に、最右端を回復ドロップに変化。バインドと覚醒無効を全回復
 EN: Change the far left column to Dark orbs and change the far right column to Heal orbs; Remove all binds and awoken skill binds
 KR: Change the far left column to Dark orbs and change the far right column to Heal orbs; Remove all binds and awoken skill binds
 

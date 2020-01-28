@@ -6,14 +6,14 @@ SAWK: 43,55,52
 # 12990/116 - Devil with Six Hands
 Tags: MENACE,VOID_SKYFALLS
 Game: Delays enemies' next move for 3 turns; no Skyfall Combos for 3 turns
-JP: Delay enemies' next attack by 3 turns; For 3 turns, no skyfall
+JP: 敵の行動を3ターン遅らせる。3ターンの間、落ちコンしなくなる
 EN: Delay enemies' next attack by 3 turns; For 3 turns, no skyfall
 KR: Delay enemies' next attack by 3 turns; For 3 turns, no skyfall
 
 # 12993/129 - I was only his shadow.
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Game: 2x HP & RCV & 4x ATK for Wood & Dark Att.; reduces non-Light Att. damage
-JP: 4x ATK and 2x HP & RCV for Wood, Dark Att.; Reduce damage taken from fire, water, wood, dark att. by 30%
-EN: 4x ATK and 2x HP & RCV for Wood, Dark Att.; Reduce damage taken from fire, water, wood, dark att. by 30%
-KR: 4x ATK and 2x HP & RCV for Wood, Dark Att.; Reduce damage taken from fire, water, wood, dark att. by 30%
+JP: 4x ATK and 2x HP & RCV for Wood and Dark Att.; Reduce damage taken from Fire, Water, Wood, and Dark Att. by 30%
+EN: 4x ATK and 2x HP & RCV for Wood and Dark Att.; Reduce damage taken from Fire, Water, Wood, and Dark Att. by 30%
+KR: 4x ATK and 2x HP & RCV for Wood and Dark Att.; Reduce damage taken from Fire, Water, Wood, and Dark Att. by 30%
 
