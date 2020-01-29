@@ -202,3 +202,232 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 11466
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 11466
+        }
+      }
+    }
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 11455
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 1
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              condition {
+                hp_threshold: 100
+              }
+              enemy_skill_id: 11471
+            }
+          }
+          children {
+            behavior {
+              condition {
+                hp_threshold: 95
+              }
+              enemy_skill_id: 11461
+            }
+          }
+          children {
+            behavior {
+              condition {
+                global_one_time: true
+              }
+              enemy_skill_id: 11471
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 11456
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 11457
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 11458
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 11459
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 11461
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 50
+          }
+          children {
+            group {
+              condition {
+                global_one_time: true
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 11471
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 11472
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 20
+                  }
+                  enemy_skill_id: 11456
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 20
+                  }
+                  enemy_skill_id: 11457
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 20
+                  }
+                  enemy_skill_id: 11458
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 20
+                  }
+                  enemy_skill_id: 11459
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 20
+                  }
+                  enemy_skill_id: 11461
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 9
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 11465
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
