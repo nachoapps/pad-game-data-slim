@@ -1,18 +1,18 @@
-#5788 闇マリク＆ラーの翼神竜-不死鳥-
+#5788 Yami Marik & The Winged Dragon of Ra - Immortal Phoenix
 HP: 6005 ATK: 3220 RCV: 470 LB: 25
 AWK: 10,10,21,21,21,28,53,43,61
 SAWK: 44,27,53
 
-# 15503/116 - ゴッド・フェニックス
+# 15503/116 - Immortal Phoenix
 Tags: RECOVER_BIND,ADD_COMBO,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を全回復。 1ターンの間、2コンボ加算される。
+Game: Fully recovers bind status (incl. Awoken); adds 2 combos for 1 turn
 JP: バインドと覚醒無効を全回復。1ターンの間、2コンボ加算される
 EN: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2
 KR: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2
 
-# 15509/138 - お前を闇へと誘う不死鳥が舞う…
+# 15509/138 - The phoenix rises tonight!
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Game: 【落ちコンなし】5色（4色＋回復）以上同時攻撃で3コンボ加算。 火と闇属性のHPと攻撃力が2倍。10コンボ以上で攻撃力が9倍。
+Game: [No Skyfall Combos], adds 3 combos when 5+ Att. (4+Heal) attack; 2x HP & ATK for Fr & Dk, 9x ATK with 10+ combos
 JP: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)
 EN: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)
 KR: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)

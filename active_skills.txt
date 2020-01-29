@@ -41181,9 +41181,9 @@ JP: 消せないドロップ状態を5ターン回復
 EN: Reduce unable to match orbs effect by 5 turns
 KR: Reduce unable to match orbs effect by 5 turns
 
-# 15466/116 - サイレント・バーニング
+# 15466/116 - Silent Burning Attack
 Tags: ALL_ORBS_CONVERT
-Game: 全ドロップを光、闇、回復ドロップに変化。 闇遊戯＆ブラック・マジシャン師弟に変身する。
+Game: Changes all Orbs to Light, Dark & Heal Orbs; changes to Yami Yugi & The Dark Magician Duo
 JP: 全ドロップを光、闇、回復ドロップに変化。[5781]に変身する
 EN: Change all orbs to Light, Dark, and Heal orbs; Changes to [5781] for the duration of the dungeon
 KR: Change all orbs to Light, Dark, and Heal orbs; Changes to [5781] for the duration of the dungeon
@@ -41202,9 +41202,9 @@ JP: [5781]に変身する
 EN: Changes to [5781] for the duration of the dungeon
 KR: Changes to [5781] for the duration of the dungeon
 
-# 15469/116 - マジシャンズ・クロス
+# 15469/116 - Magicians Unite
 Tags: ORB_CONVERT,ADD_COMBO,VOID_DAMAGE_ABSORBS
-Game: 火、水、お邪魔、毒ドロップを闇ドロップに変化。 2ターンの間、2コンボ加算、ダメージ吸収を無効化する。
+Game: Changes Fire, Water, Jammers & Poison Orbs to Dark Orbs; voids damage absorption & adds 2 combos for 2 turns
 JP: 火、水、お邪魔、毒、猛毒ドロップを闇ドロップに変化。2ターンの間、2コンボ加算される。2ターンの間、ダメージ吸収を無効化する
 EN: Change Fire, Water, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 2 turns, increase combo count by 2; For 2 turns, bypass damage absorb shield effects
 KR: Change Fire, Water, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 2 turns, increase combo count by 2; For 2 turns, bypass damage absorb shield effects
@@ -41223,9 +41223,9 @@ JP: 2ターンの間、ダメージ吸収を無効化する
 EN: For 2 turns, bypass damage absorb shield effects
 KR: For 2 turns, bypass damage absorb shield effects
 
-# 15472/116 - 超電導波サンダー・フォース
+# 15472/116 - Thunderforce Attack
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を全回復。 最上段横1列を闇に、最下段横1列を光ドロップに変化。
+Game: Fully recovers Awoken Skill bind status; changes the top row to Dark Orbs & the bottom row to Light Orbs
 JP: 覚醒無効を全回復。最上段を闇に、最下段を光ドロップに変化
 EN: Remove all awoken skill binds; Change the top row to Dark orbs and change the bottom row to Light orbs
 KR: Remove all awoken skill binds; Change the top row to Dark orbs and change the bottom row to Light orbs
@@ -41244,9 +41244,9 @@ JP: 最上段を闇に、最下段を光ドロップに変化
 EN: Change the top row to Dark orbs and change the bottom row to Light orbs
 KR: Change the top row to Dark orbs and change the bottom row to Light orbs
 
-# 15485/116 - 粉砕せよ！
+# 15485/116 - Annihilate!
 Tags: LINE_ORBS_CONVERTER,VOID_SKYFALLS
-Game: 1ターンの間、落ちコンしなくなる。 最上段横1列と最下段横1列を水ドロップに変化。
+Game: No Skyfall Combos for 1 turn; changes the top & bottom rows to Water Orbs
 JP: 1ターンの間、落ちコンしなくなる。最上段と最下段を水ドロップに変化
 EN: For 1 turn, no skyfall; Change the top row and the bottom row to Water orbs
 KR: For 1 turn, no skyfall; Change the top row and the bottom row to Water orbs
@@ -41265,9 +41265,9 @@ JP: 最上段と最下段を水ドロップに変化
 EN: Change the top row and the bottom row to Water orbs
 KR: Change the top row and the bottom row to Water orbs
 
-# 15488/116 - ゴッド・ハンド・クラッシャー
+# 15488/116 - Fist of Fate
 Tags: REMOVE_LOCK
-Game: 全ドロップのロック状態を解除。 ランダムで水と闇ドロップを15個ずつ生成。
+Game: Removes Orb locks; creates 15 Water & Dark Orbs each at random
 JP: 全ドロップのロック状態を解除。ランダムで水と闇を15個ずつ生成
 EN: Unlock all orbs; Create 15 Water and Dark orbs over any orbs
 KR: Unlock all orbs; Create 15 Water and Dark orbs over any orbs
@@ -41286,9 +41286,9 @@ JP: ランダムで水と闇を15個ずつ生成
 EN: Create 15 Water and Dark orbs over any orbs
 KR: Create 15 Water and Dark orbs over any orbs
 
-# 15500/116 - ゴッド・ブレイズ・キャノン
+# 15500/116 - Blaze Cannon
 Tags: ENHANCED_ATTACK,GUARD_STANCE,ORB_CONVERT,ENHANCED_HEAL,DOUBLE_ORBS_CONVERT
-Game: 1ターンの間、回復力と闇属性の攻撃力が2倍。 木ドロップを闇に、水ドロップを回復に変化。
+Game: 2x RCV & 2x ATK for Dark Att. for 1 turn; changes Wood Orbs to Dark & Water Orbs to Heal
 JP: 1ターンの間、回復力が2倍。1ターンの間、闇属性の攻撃力が2倍。木ドロップを闇ドロップに、水ドロップを回復ドロップに変化
 EN: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Dark Att.; Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
 KR: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Dark Att.; Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
@@ -41307,9 +41307,9 @@ JP: 木ドロップを闇ドロップに、水ドロップを回復ドロップ�
 EN: Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
 KR: Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
 
-# 15503/116 - ゴッド・フェニックス
+# 15503/116 - Immortal Phoenix
 Tags: RECOVER_BIND,ADD_COMBO,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を全回復。 1ターンの間、2コンボ加算される。
+Game: Fully recovers bind status (incl. Awoken); adds 2 combos for 1 turn
 JP: バインドと覚醒無効を全回復。1ターンの間、2コンボ加算される
 EN: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2
 KR: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2
@@ -41328,9 +41328,9 @@ JP: 1ターンの間、2コンボ加算される
 EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
-# 15513/116 - 皆の友情を託す
+# 15513/116 - We're all in this together!
 Tags: HEAL,ORB_REFRESH
-Game: HPを全回復。3ターンの間、最大HP20％分回復。 ランダムでドロップを入れ替える。
+Game: Fully recovers HP, recovers 20% of max HP for 3 turns; replaces all Orbs
 JP: HPを全回復。3ターンの間、最大HPの20％分回復。ランダムでドロップを入れ替える
 EN: Recover all HP; For 3 turns, recover 20% of max HP; Replace all orbs
 KR: Recover all HP; For 3 turns, recover 20% of max HP; Replace all orbs
@@ -41349,9 +41349,9 @@ JP: ランダムでドロップを入れ替える
 EN: Replace all orbs
 KR: Replace all orbs
 
-# 15520/116 - 黒炎弾
+# 15520/116 - Inferno Fire Blast
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER
-Game: 敵全体に攻撃力×150倍の火属性攻撃。 最上段横1列を火に、最下段横1列を闇ドロップに変化。
+Game: Inflicts 150x ATK Fr Att. attack on all enemies; changes the top row to Fr Orbs and the bottom row to Dk Orbs
 JP: 敵全体に攻撃力ｘ150倍の火属性攻撃。最上段を火に、最下段を闇ドロップに変化
 EN: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and change the bottom row to Dark orbs
 KR: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and change the bottom row to Dark orbs
@@ -41370,9 +41370,9 @@ JP: 最上段を火に、最下段を闇ドロップに変化
 EN: Change the top row to Fire orbs and change the bottom row to Dark orbs
 KR: Change the top row to Fire orbs and change the bottom row to Dark orbs
 
-# 15526/116 - スクラッチ・クラッシュ
+# 15526/116 - Virtual Slash Attack
 Tags: MENACE,REMOVE_LOCK
-Game: 敵の行動を2ターン遅らせる。ドロップのロック状態を解除。 火と木以外のドロップから回復ドロップを6個生成。
+Game: Delays enemies' next move for 2 turns, removes Orb locks; changes 6 non-Fire or non-Wood Orbs to Heal Orbs
 JP: 敵の行動を2ターン遅らせる。全ドロップのロック状態を解除。火と木以外回復ドロップを6個生成
 EN: Delay enemies' next attack by 2 turns; Unlock all orbs; Create 6 Heal orbs over non Fire and Wood orbs
 KR: Delay enemies' next attack by 2 turns; Unlock all orbs; Create 6 Heal orbs over non Fire and Wood orbs
@@ -41398,9 +41398,9 @@ JP: 火と木以外回復ドロップを6個生成
 EN: Create 6 Heal orbs over non Fire and Wood orbs
 KR: Create 6 Heal orbs over non Fire and Wood orbs
 
-# 15534/116 - 念眼殺
+# 15534/116 - Doom Gaze
 Tags: POISON,ALL_ORBS_CONVERT
-Game: 敵全体を超猛毒にする。 全ドロップを闇、回復、毒ドロップに変化。
+Game: Mortally poisons all enemies; changes all Orbs to Dark, Heal & Poison Orbs
 JP: 敵全体を毒にする（攻撃力ｘ30倍）。全ドロップを闇、回復、毒ドロップに変化
 EN: Poison all enemies (30x ATK); Change all orbs to Dark, Heal, and Poison orbs
 KR: Poison all enemies (30x ATK); Change all orbs to Dark, Heal, and Poison orbs
@@ -41419,9 +41419,9 @@ JP: 全ドロップを闇、回復、毒ドロップに変化
 EN: Change all orbs to Dark, Heal, and Poison orbs
 KR: Change all orbs to Dark, Heal, and Poison orbs
 
-# 15541/116 - ブラック・マジック
+# 15541/116 - Dark Magic Attack
 Tags: MENACE,ORB_CONVERT,REMOVE_LOCK
-Game: 敵の行動を3ターン遅らせる。ドロップのロック状態を解除。 お邪魔、毒、爆弾ドロップを闇ドロップに変化。
+Game: Delays enemies' next move for 3 turns, removes Orb locks; changes Jammers, Poison Orbs & Bombs to Dark
 JP: 敵の行動を3ターン遅らせる。全ドロップのロック状態を解除。お邪魔、毒、猛毒、爆弾ドロップを闇ドロップに変化
 EN: Delay enemies' next attack by 3 turns; Unlock all orbs; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
 KR: Delay enemies' next attack by 3 turns; Unlock all orbs; Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
@@ -41447,9 +41447,9 @@ JP: お邪魔、毒、猛毒、爆弾ドロップを闇ドロップに変化
 EN: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
 KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Dark orbs
 
-# 15549/116 - 滅びのバースト・ストリーム
+# 15549/116 - White Lightning
 Tags: LINE_ORBS_CONVERTER,ADD_COMBO
-Game: 1ターンの間、2コンボ加算される。 左端縦2列を水に、右端縦2列を光ドロップに変化。
+Game: Adds 2 combos for 1 turn; changes the 2 leftmost columns to Water Orbs & the 2 rightmost columns to Light Orbs
 JP: 1ターンの間、2コンボ加算される。最左端と左から2列目を水に、右から2列目と最右端を光ドロップに変化
 EN: For 1 turn, increase combo count by 2; Change the far left column and the 2nd column from the left to Water orbs and change the 2nd column from the right and the far right column to Light orbs
 KR: For 1 turn, increase combo count by 2; Change the far left column and the 2nd column from the left to Water orbs and change the 2nd column from the right and the far right column to Light orbs
@@ -41468,9 +41468,9 @@ JP: 最左端と左から2列目を水に、右から2列目と最右端を光�
 EN: Change the far left column and the 2nd column from the left to Water orbs and change the 2nd column from the right and the far right column to Light orbs
 KR: Change the far left column and the 2nd column from the left to Water orbs and change the 2nd column from the right and the far right column to Light orbs
 
-# 15556/116 - ブラック・バーニング
+# 15556/116 - Dark Burning Attack
 Tags: REMOVE_LOCK
-Game: 全ドロップのロック状態を解除。 ランダムで光と闇ドロップを5個ずつ生成。
+Game: Removes Orb locks; creates 5 Light & Dark Orbs each at random
 JP: 全ドロップのロック状態を解除。ランダムで光と闇を5個ずつ生成
 EN: Unlock all orbs; Create 5 Light and Dark orbs
 KR: Unlock all orbs; Create 5 Light and Dark orbs
@@ -41496,9 +41496,9 @@ JP: 覚醒無効を全回復
 EN: Remove all awoken skill binds
 KR: Remove all awoken skill binds
 
-# 15563/116 - デストロイ・ギガ・レイズ
+# 15563/116 - Boundless Gigarays
 Tags: SUICIDE
-Game: 1ターンの間、チーム内のチームHP強化の覚醒数に応じて 攻撃力が上昇。HPが50％減少。
+Game: ATK increases by the number of [Enhanced Team HP] Awoken Skills in team for 1 turn; halves HP
 JP: チーム内のチームHP強化の覚醒数1つにつき攻撃力が30％上がる。HPが50％減少
 EN: For 1 turn, increase ATK by 30% for each Enhanced Team HP awakening skill on the team; Reduce HP by 50%
 KR: For 1 turn, increase ATK by 30% for each Enhanced Team HP awakening skill on the team; Reduce HP by 50%
@@ -41517,9 +41517,9 @@ JP: HPが50％減少
 EN: Reduce HP by 50%
 KR: Reduce HP by 50%
 
-# 15569/116 - スパイラル・シェイバー
+# 15569/116 - Spiral Shaver
 Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
-Game: 敵全体に10万の固定ダメージ。 左端縦2列を木に、右端縦2列を闇ドロップに変化。
+Game: Inflicts 100,000 damage on all enemies; changes the 2 leftmost columns to Wood & the 2 rightmost to Dark
 JP: 敵全体に10万の固定ダメージ。最左端と左から2列目を木に、右から2列目と最右端を闇ドロップに変化
 EN: Deal 100000 fixed damage to all enemies; Change the far left column and the 2nd column from the left to Wood orbs and change the 2nd column from the right and the far right column to Dark orbs
 KR: Deal 100000 fixed damage to all enemies; Change the far left column and the 2nd column from the left to Wood orbs and change the 2nd column from the right and the far right column to Dark orbs
@@ -41545,9 +41545,9 @@ JP: 最下段と最右端の中心にL字形の闇ドロップを1つ生成
 EN: Create an L shape of Dark orbs with its center at the bottom row and the far right column
 KR: Create an L shape of Dark orbs with its center at the bottom row and the far right column
 
-# 15577/116 - ホーリー・エルフの祝福
+# 15577/116 - Gift of The Mystical Elf
 Tags: GUARD_STANCE,HEAL,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
-Game: 最大HP50％分のHP回復、消せないドロップ状態を全回復。 左端縦1列を回復ドロップに変化。
+Game: Recovers 50% of max HP, fully recovers unmatchable Orb status; changes the leftmost column to Heal Orbs
 JP: 最大HP50％分回復。消せないドロップ状態を9999ターン回復。最左端を回復ドロップに変化
 EN: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
 KR: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column to Heal orbs
@@ -41573,9 +41573,9 @@ JP: 最左端を回復ドロップに変化
 EN: Change the far left column to Heal orbs
 KR: Change the far left column to Heal orbs
 
-# 15584/116 - 火球の飛礫
+# 15584/116 - Fireball Attack
 Tags: REDUCE_DAMAGE,ORB_CONVERT
-Game: 回復、お邪魔、毒ドロップを火ドロップに変化。 1ターンの間、受けるダメージを激減。
+Game: Changes Jammers, Poison & Heal Orbs to Fire Orbs; vastly reduces damage for 1 turn
 JP: 回復、お邪魔、毒、猛毒ドロップを火ドロップに変化。1ターンの間、受けるダメージを75％減少
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 1 turn, reduce damage taken by 75%
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 1 turn, reduce damage taken by 75%
@@ -41594,9 +41594,9 @@ JP: 1ターンの間、受けるダメージを75％減少
 EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
-# 15590/116 - 増殖コンボ
+# 15590/116 - Multiply
 Tags: REDUCE_DAMAGE,ADD_COMBO
-Game: 5ターンの間、1コンボ加算される。 5ターンの間、受けるダメージを軽減。
+Game: Adds 1 combo for 5 turns; reduces damage for 5 turns
 JP: 5ターンの間、1コンボ加算される。5ターンの間、受けるダメージを30％減少
 EN: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
 KR: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 30%
@@ -41615,9 +41615,9 @@ JP: 5ターンの間、受けるダメージを30％減少
 EN: For 5 turns, reduce damage taken by 30%
 KR: For 5 turns, reduce damage taken by 30%
 
-# 15596/116 - 攻撃を封じる
+# 15596/116 - Stops attacks
 Tags: MENACE,DROP_CHANCE
-Game: 3ターンの間、光ドロップが落ちやすくなる。 敵の行動を3ターン遅らせる。
+Game: Light Orbs more likely to appear for 3 turns; delays enemies' next move for 3 turns
 JP: 3ターンの間、光ドロップが25％落ちやすくなる。敵の行動を3ターン遅らせる
 EN: For 3 turns, Light orbs are more likely to appear by 25%; Delay enemies' next attack by 3 turns
 KR: For 3 turns, Light orbs are more likely to appear by 25%; Delay enemies' next attack by 3 turns
@@ -41664,9 +41664,9 @@ JP: 3ターンの間、最大HPの20％分回復
 EN: For 3 turns, recover 20% of max HP
 KR: For 3 turns, recover 20% of max HP
 
-# 15614/116 - アドバンス召喚
+# 15614/116 - Tribute Summon
 Tags: REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが3ターン溜まる。 ブラック・マジシャン・ガールに変身する。
+Game: Other allies' skills charged by 3 turns; changes to Dark Magician Girl
 JP: 自分以外の味方スキルが3ターンの溜まる。[5802]に変身する
 EN: Charge all allies' skills by 3 turns; Changes to [5802] for the duration of the dungeon
 KR: Charge all allies' skills by 3 turns; Changes to [5802] for the duration of the dungeon

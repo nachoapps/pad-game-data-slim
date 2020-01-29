@@ -1,11 +1,11 @@
-#5786 オベリスクの巨神兵のカード
+#5786 Obelisk the Tormentor Card
 HP: 6540 ATK: 2660 RCV: 650 LB: 0
 AWK: 49,21,46,47,19,19,1
 SAWK: 
 
-# 15488/116 - ゴッド・ハンド・クラッシャー
+# 15488/116 - Fist of Fate
 Tags: REMOVE_LOCK
-Game: 全ドロップのロック状態を解除。 ランダムで水と闇ドロップを15個ずつ生成。
+Game: Removes Orb locks; creates 15 Water & Dark Orbs each at random
 JP: 全ドロップのロック状態を解除。ランダムで水と闇を15個ずつ生成
 EN: Unlock all orbs; Create 15 Water and Dark orbs over any orbs
 KR: Unlock all orbs; Create 15 Water and Dark orbs over any orbs

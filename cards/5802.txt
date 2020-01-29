@@ -1,18 +1,18 @@
-#5802 ブラック・マジシャン・ガール
+#5802 Dark Magician Girl
 HP: 4558 ATK: 2105 RCV: 390 LB: 25
 AWK: 52,56,53,25,25,25,26,26,26
 SAWK: 56,55,43
 
-# 15556/116 - ブラック・バーニング
+# 15556/116 - Dark Burning Attack
 Tags: REMOVE_LOCK
-Game: 全ドロップのロック状態を解除。 ランダムで光と闇ドロップを5個ずつ生成。
+Game: Removes Orb locks; creates 5 Light & Dark Orbs each at random
 JP: 全ドロップのロック状態を解除。ランダムで光と闇を5個ずつ生成
 EN: Unlock all orbs; Create 5 Light and Dark orbs
 KR: Unlock all orbs; Create 5 Light and Dark orbs
 
-# 15560/138 - 師の魂を受け継ぐ
+# 15560/138 - Follows in her master's footsteps
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 光と闇属性のHPが1.5倍、攻撃力は3.5倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP & 3.5x ATK for Light & Dark Att.; 4x ATK & reduces dmg when recovering 50,000+ HP with Heal Orbs
 JP: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 EN: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs

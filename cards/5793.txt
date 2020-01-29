@@ -1,11 +1,11 @@
-#5793 真紅眼の黒竜のカード
+#5793 Red-Eyes B. Dragon Card
 HP: 3835 ATK: 2595 RCV: 308 LB: 0
 AWK: 49,60,52,2
 SAWK: 
 
-# 15520/116 - 黒炎弾
+# 15520/116 - Inferno Fire Blast
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER
-Game: 敵全体に攻撃力×150倍の火属性攻撃。 最上段横1列を火に、最下段横1列を闇ドロップに変化。
+Game: Inflicts 150x ATK Fr Att. attack on all enemies; changes the top row to Fr Orbs and the bottom row to Dk Orbs
 JP: 敵全体に攻撃力ｘ150倍の火属性攻撃。最上段を火に、最下段を闇ドロップに変化
 EN: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and change the bottom row to Dark orbs
 KR: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and change the bottom row to Dark orbs

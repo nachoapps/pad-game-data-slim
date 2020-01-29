@@ -1,11 +1,11 @@
-#5803 ブラック・マジシャン・ガールのカード
+#5803 Dark Magician Girl Card
 HP: 4558 ATK: 2105 RCV: 390 LB: 0
 AWK: 49,25,25,26,26,28,1
 SAWK: 
 
-# 15556/116 - ブラック・バーニング
+# 15556/116 - Dark Burning Attack
 Tags: REMOVE_LOCK
-Game: 全ドロップのロック状態を解除。 ランダムで光と闇ドロップを5個ずつ生成。
+Game: Removes Orb locks; creates 5 Light & Dark Orbs each at random
 JP: 全ドロップのロック状態を解除。ランダムで光と闇を5個ずつ生成
 EN: Unlock all orbs; Create 5 Light and Dark orbs
 KR: Unlock all orbs; Create 5 Light and Dark orbs

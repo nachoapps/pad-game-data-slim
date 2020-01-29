@@ -1,11 +1,11 @@
-#5789 ラーの翼神竜のカード
+#5789 The Winged Dragon of Ra Card
 HP: 6005 ATK: 3220 RCV: 470 LB: 0
 AWK: 49,54,53,28,20,20,2
 SAWK: 
 
-# 15503/116 - ゴッド・フェニックス
+# 15503/116 - Immortal Phoenix
 Tags: RECOVER_BIND,ADD_COMBO,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を全回復。 1ターンの間、2コンボ加算される。
+Game: Fully recovers bind status (incl. Awoken); adds 2 combos for 1 turn
 JP: バインドと覚醒無効を全回復。1ターンの間、2コンボ加算される
 EN: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2
 KR: Remove all binds and awoken skill binds; For 1 turn, increase combo count by 2

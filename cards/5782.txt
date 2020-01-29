@@ -1,18 +1,18 @@
-#5782 闇遊戯＆オシリスの天空竜
+#5782 Yami Yugi & Slifer the Sky Dragon
 HP: 5573 ATK: 3395 RCV: 498 LB: 25
 AWK: 52,56,53,68,26,26,26,26,26
 SAWK: 53,56,62
 
-# 15472/116 - 超電導波サンダー・フォース
+# 15472/116 - Thunderforce Attack
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を全回復。 最上段横1列を闇に、最下段横1列を光ドロップに変化。
+Game: Fully recovers Awoken Skill bind status; changes the top row to Dark Orbs & the bottom row to Light Orbs
 JP: 覚醒無効を全回復。最上段を闇に、最下段を光ドロップに変化
 EN: Remove all awoken skill binds; Change the top row to Dark orbs and change the bottom row to Light orbs
 KR: Remove all awoken skill binds; Change the top row to Dark orbs and change the bottom row to Light orbs
 
-# 15481/138 - 闘いの結末はカードだけが知っている！
+# 15481/138 - Only the cards know how this Duel will end!
 Tags: ENHANCED_HP_ATK
-Game: 光と闇を同時に4個以上つなげて消すと攻撃力が4倍、 2コンボ加算。闇属性のHPが2倍、攻撃力は5倍。
+Game: 4x ATK & adds 2 combos with 4+ linked Light & Dark Orbs each; 2x HP & 5x ATK for Dark Att.
 JP: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 EN: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 KR: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.

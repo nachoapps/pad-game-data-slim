@@ -1,18 +1,18 @@
-#5790 真崎杏子＆フレンドシップ＆ファイヤーソーサラー
+#5790 Téa Gardner & Shining Friendship & Fire Sorcerer
 HP: 2740 ATK: 2145 RCV: 908 LB: 25
 AWK: 10,10,56,28,53,55,47,47,47
 SAWK: 56,47,45
 
-# 15513/116 - 皆の友情を託す
+# 15513/116 - We're all in this together!
 Tags: HEAL,ORB_REFRESH
-Game: HPを全回復。3ターンの間、最大HP20％分回復。 ランダムでドロップを入れ替える。
+Game: Fully recovers HP, recovers 20% of max HP for 3 turns; replaces all Orbs
 JP: HPを全回復。3ターンの間、最大HPの20％分回復。ランダムでドロップを入れ替える
 EN: Recover all HP; For 3 turns, recover 20% of max HP; Replace all orbs
 KR: Recover all HP; For 3 turns, recover 20% of max HP; Replace all orbs
 
-# 15516/138 - 友情を守ってみせる
+# 15516/138 - My friends are worth it... always!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 回復タイプのHPが1.5倍。4色以上同時攻撃で攻撃力が4倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP for Healer Type, 4x ATK when 4+ Att. attack; 4x ATK & reduces damage when rcv 50,000+ HP with Heal Orbs
 JP: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 EN: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs

@@ -1,18 +1,18 @@
-#5787 闇マリク＆ラーの翼神竜
+#5787 Yami Marik & The Winged Dragon of Ra
 HP: 6505 ATK: 3420 RCV: 200 LB: 25
 AWK: 10,10,21,28,70,43,43,27,27
 SAWK: 44,27,53
 
-# 15500/116 - ゴッド・ブレイズ・キャノン
+# 15500/116 - Blaze Cannon
 Tags: ENHANCED_ATTACK,GUARD_STANCE,ORB_CONVERT,ENHANCED_HEAL,DOUBLE_ORBS_CONVERT
-Game: 1ターンの間、回復力と闇属性の攻撃力が2倍。 木ドロップを闇に、水ドロップを回復に変化。
+Game: 2x RCV & 2x ATK for Dark Att. for 1 turn; changes Wood Orbs to Dark & Water Orbs to Heal
 JP: 1ターンの間、回復力が2倍。1ターンの間、闇属性の攻撃力が2倍。木ドロップを闇ドロップに、水ドロップを回復ドロップに変化
 EN: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Dark Att.; Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
 KR: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Dark Att.; Change Wood orbs to Dark orbs; Change Water orbs to Heal orbs
 
-# 15506/138 - さぁ、闇のゲームの始まりだ
+# 15506/138 - Let the Shadow Game begin.
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 悪魔と神タイプのHPが2倍、攻撃力は6倍。 闇の2コンボ以上でダメージを軽減、攻撃力が3倍。
+Game: 2x HP & 6x ATK for Devil & God Types; 3x ATK & reduces damage with 2+ Dark combos
 JP: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 EN: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos

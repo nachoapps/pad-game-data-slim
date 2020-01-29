@@ -57266,9 +57266,9 @@ JP: 6x ATK and increase combo by 1 when matching 6 or more connected Fire orbs a
 EN: 6x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
 KR: 6x ATK and increase combo by 1 when matching 6 or more connected Fire orbs at once
 
-# 15475/119 - ボクは君と共に闘う!!
+# 15475/119 - We'll fight together!
 Tags: ENHANCED_ATK
-Game: 光か闇を9個以上つなげて消すと、攻撃力が9倍。
+Game: 9x ATK with 9+ linked Light or Dark Orbs
 JP: 9x ATK when matching 9 or more connected Light or Dark orbs
 EN: 9x ATK when matching 9 or more connected Light or Dark orbs
 KR: 9x ATK when matching 9 or more connected Light or Dark orbs
@@ -57287,9 +57287,9 @@ JP: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in 
 EN: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
 KR: 3x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
 
-# 15478/138 - オレのターン、ドロー！
+# 15478/138 - It's my turn! I draw!
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
-Game: 悪魔タイプの全パラメータが2倍。毒ダメージを無効化。 闇を6個以上つなげて消すと攻撃力が10倍、固定100万ダメージ。
+Game: 2x all stats for Devil Type, voids Poison damage; 10x ATK & 1,000,000 damage with 6+ linked Dark Orbs
 JP: [Disable Poison & Mortal Poison orb effects] 2x all stats for Devil type; 10x ATK when matching 6 or more connected Dark orbs; 1000000 additional damage when matching 6 or more Dark orbs
 EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Devil type; 10x ATK when matching 6 or more connected Dark orbs; 1000000 additional damage when matching 6 or more Dark orbs
 KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Devil type; 10x ATK when matching 6 or more connected Dark orbs; 1000000 additional damage when matching 6 or more Dark orbs
@@ -57308,9 +57308,9 @@ JP: 10x ATK when matching 6 or more connected Dark orbs
 EN: 10x ATK when matching 6 or more connected Dark orbs
 KR: 10x ATK when matching 6 or more connected Dark orbs
 
-# 15481/138 - 闘いの結末はカードだけが知っている！
+# 15481/138 - Only the cards know how this Duel will end!
 Tags: ENHANCED_HP_ATK
-Game: 光と闇を同時に4個以上つなげて消すと攻撃力が4倍、 2コンボ加算。闇属性のHPが2倍、攻撃力は5倍。
+Game: 4x ATK & adds 2 combos with 4+ linked Light & Dark Orbs each; 2x HP & 5x ATK for Dark Att.
 JP: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 EN: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 KR: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
@@ -57336,9 +57336,9 @@ JP: 0x ATK and reduce damage taken by 25% when matching Light and Dark at once
 EN: 0x ATK and reduce damage taken by 25% when matching Light and Dark at once
 KR: 0x ATK and reduce damage taken by 25% when matching Light and Dark at once
 
-# 15491/138 - ブルーアイズ・ホワイト・ドラゴンで攻撃！
+# 15491/138 - Blue-Eyes White Dragon! Attack!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
-Game: 水属性の攻撃力が5倍。HP80％以上で受けるダメージを半減。 水を6個以上つなげて消すと攻撃力が3.5倍、固定5万ダメージ。
+Game: 5x ATK for Wt Att., halves dmg when HP is 80% or more; 3.5x ATK & inflicts 50,000 dmg with 6+ linked Water Orbs
 JP: 5x ATK for Water Att.; Reduce damage taken by 50% when above 80% HP; 3.5x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
 EN: 5x ATK for Water Att.; Reduce damage taken by 50% when above 80% HP; 3.5x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
 KR: 5x ATK for Water Att.; Reduce damage taken by 50% when above 80% HP; 3.5x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
@@ -57371,9 +57371,9 @@ JP: 50000 additional damage when matching 6 or more Water orbs
 EN: 50000 additional damage when matching 6 or more Water orbs
 KR: 50000 additional damage when matching 6 or more Water orbs
 
-# 15496/138 - 神を見せてやる
+# 15496/138 - My mighty Egyptian God is here at last! 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: HP50％以上でダメージを軽減、水属性の攻撃力が5倍。 水を6個以上つなげて消すと攻撃力が4倍、9個以上で2コンボ加算。
+Game: 5x ATK for Water Att. & reduces dmg when HP is 50%+; 4x ATK with 6+ linked Wt Orbs, adds 2 combos with 9+ Orbs
 JP: 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Water orbs; Increase combo by 2 when matching 9 or more connected Water orbs at once
 EN: 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Water orbs; Increase combo by 2 when matching 9 or more connected Water orbs at once
 KR: 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 6 or more connected Water orbs; Increase combo by 2 when matching 9 or more connected Water orbs at once
@@ -57399,9 +57399,9 @@ JP: Increase combo by 2 when matching 9 or more connected Water orbs at once
 EN: Increase combo by 2 when matching 9 or more connected Water orbs at once
 KR: Increase combo by 2 when matching 9 or more connected Water orbs at once
 
-# 15506/138 - さぁ、闇のゲームの始まりだ
+# 15506/138 - Let the Shadow Game begin.
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 悪魔と神タイプのHPが2倍、攻撃力は6倍。 闇の2コンボ以上でダメージを軽減、攻撃力が3倍。
+Game: 2x HP & 6x ATK for Devil & God Types; 3x ATK & reduces damage with 2+ Dark combos
 JP: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 EN: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 6x ATK and 2x HP for God and Devil type; 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
@@ -57420,9 +57420,9 @@ JP: 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 EN: 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 3x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 
-# 15509/138 - お前を闇へと誘う不死鳥が舞う…
+# 15509/138 - The phoenix rises tonight!
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Game: 【落ちコンなし】5色（4色＋回復）以上同時攻撃で3コンボ加算。 火と闇属性のHPと攻撃力が2倍。10コンボ以上で攻撃力が9倍。
+Game: [No Skyfall Combos], adds 3 combos when 5+ Att. (4+Heal) attack; 2x HP & ATK for Fr & Dk, 9x ATK with 10+ combos
 JP: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)
 EN: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)
 KR: [No skyfall] 2x HP & ATK for Fire and Dark Att.; 9x ATK when 10 or more combos; increase combo by 3 when matching 5 or more colors (4+heal)
@@ -57448,9 +57448,9 @@ JP: increase combo by 3 when matching 5 or more colors (4+heal)
 EN: increase combo by 3 when matching 5 or more colors (4+heal)
 KR: increase combo by 3 when matching 5 or more colors (4+heal)
 
-# 15516/138 - 友情を守ってみせる
+# 15516/138 - My friends are worth it... always!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 回復タイプのHPが1.5倍。4色以上同時攻撃で攻撃力が4倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP for Healer Type, 4x ATK when 4+ Att. attack; 4x ATK & reduces damage when rcv 50,000+ HP with Heal Orbs
 JP: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 EN: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 4x ATK when matching 4 or more colors; 1.5x HP for Healer type; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
@@ -57476,9 +57476,9 @@ JP: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP fro
 EN: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 
-# 15523/138 - オレは諦めねぇ！最後の最後まで！
+# 15523/138 - I can't give up! Not while everyone is countin' on me!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: 火の5個L字消しでダメージを半減、攻撃力が3倍。 4色以上同時攻撃で攻撃力が6倍、1コンボ加算。
+Game: 3x ATK & halves damage with an L shape of 5 Fire Orbs; 6x ATK & adds 1 combo when attacking with 4+ Att.
 JP: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
 EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
 KR: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors
@@ -57497,9 +57497,9 @@ JP: 6x ATK and increase combo by 1 when matching 4 or more colors
 EN: 6x ATK and increase combo by 1 when matching 4 or more colors
 KR: 6x ATK and increase combo by 1 when matching 4 or more colors
 
-# 15530/138 - ハーピィ・レディの華麗なる10連コンボ!!
+# 15530/138 - My Harpie Lady combo will slash you up!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: 5コンボ以上で攻撃力が上昇、最大9倍。 回復の2コンボ以上でダメージを軽減、攻撃力が2倍。
+Game: ATK increases with 5+ combos, up to 9x; 2x ATK & reduces damage with 2+ Heal combos
 JP: 4x ATK when 5 or more combos up to 9x at 10 combos; 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 EN: 4x ATK when 5 or more combos up to 9x at 10 combos; 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 KR: 4x ATK when 5 or more combos up to 9x at 10 combos; 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
@@ -57525,9 +57525,9 @@ JP: 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 EN: 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 KR: 2x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
-# 15537/138 - オレの計画を邪魔する奴は消すぜ！
+# 15537/138 - I'll erase anyone who stands in my way!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: HP50％以上でダメージを軽減。毒ダメージを無効化。 毒か猛毒を4個以上つなげて消すと、攻撃力が15倍。
+Game: Reduces damage when HP is 50%+, voids Poison damage; 15x ATK with 4+ linked Poison or Lethal Poison Orbs
 JP: [Disable Poison & Mortal Poison orb effects] Reduce damage taken by 35% when above 50% HP; 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
 EN: [Disable Poison & Mortal Poison orb effects] Reduce damage taken by 35% when above 50% HP; 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
 KR: [Disable Poison & Mortal Poison orb effects] Reduce damage taken by 35% when above 50% HP; 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
@@ -57553,9 +57553,9 @@ JP: 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
 EN: 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
 KR: 15x ATK when matching 4 or more connected Poison or Mortal Poison orbs
 
-# 15545/138 - 黒き魔術師
+# 15545/138 - Dark Spellcaster
 Tags: ENHANCED_HP_ATK
-Game: 闇属性のHPと攻撃力が2倍。スキル使用時、攻撃力が7倍。 闇を9個以上つなげて消すと、1コンボ加算。
+Game: 2x HP & ATK for Dark Att., 7x ATK when skills used; adds 1 combo with 9+ linked Dark Orbs
 JP: 2x HP & ATK for Dark Att.; 7x ATK on the turn a skill is used; Increase combo by 1 when matching 9 or more connected Dark orbs at once
 EN: 2x HP & ATK for Dark Att.; 7x ATK on the turn a skill is used; Increase combo by 1 when matching 9 or more connected Dark orbs at once
 KR: 2x HP & ATK for Dark Att.; 7x ATK on the turn a skill is used; Increase combo by 1 when matching 9 or more connected Dark orbs at once
@@ -57581,9 +57581,9 @@ JP: Increase combo by 1 when matching 9 or more connected Dark orbs at once
 EN: Increase combo by 1 when matching 9 or more connected Dark orbs at once
 KR: Increase combo by 1 when matching 9 or more connected Dark orbs at once
 
-# 15552/138 - 白き龍
+# 15552/138 - White Dragon
 Tags: ENHANCED_HP_ATK
-Game: ドラゴンタイプのHPが1.5倍、攻撃力は5倍。 水光の同時攻撃で攻撃力が3倍、1コンボ加算。
+Game: 1.5x HP & 5x ATK for Dragon Type; 3x ATK & adds 1 combo when Water & Light attack at once
 JP: 5x ATK and 1.5x HP for Dragon type; 3x ATK and increase combo by 1 when matching Water and Light at once
 EN: 5x ATK and 1.5x HP for Dragon type; 3x ATK and increase combo by 1 when matching Water and Light at once
 KR: 5x ATK and 1.5x HP for Dragon type; 3x ATK and increase combo by 1 when matching Water and Light at once
@@ -57609,9 +57609,9 @@ JP: 3x ATK and increase combo by 1 when matching Water and Light at once
 EN: 3x ATK and increase combo by 1 when matching Water and Light at once
 KR: 3x ATK and increase combo by 1 when matching Water and Light at once
 
-# 15560/138 - 師の魂を受け継ぐ
+# 15560/138 - Follows in her master's footsteps
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Game: 光と闇属性のHPが1.5倍、攻撃力は3.5倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP & 3.5x ATK for Light & Dark Att.; 4x ATK & reduces dmg when recovering 50,000+ HP with Heal Orbs
 JP: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 EN: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 3.5x ATK and 1.5x HP for Light and Dark Att.; 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
@@ -57630,9 +57630,9 @@ JP: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP fro
 EN: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 KR: 4x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 
-# 15566/138 - 特殊魔法攻撃
+# 15566/138 - Special magic attack
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Game: 【落ちコンなし】HPが2倍。闇の2コンボ以上で攻撃力が2倍。 パズル後の残りドロップ数が10個以下で攻撃力が上昇、最大11倍。
+Game: [No Skyfall Combos], 2x HP; 2x ATK with 2+ Dark combos, up to 11x ATK when 10 Orbs or less remain on the board
 JP: [No skyfall] 2x HP; 6x ATK when there are 10 or fewer orbs remaining up to 11x ATK when 0 orbs left; 2x ATK when matching 2+ Dark combos
 EN: [No skyfall] 2x HP; 6x ATK when there are 10 or fewer orbs remaining up to 11x ATK when 0 orbs left; 2x ATK when matching 2+ Dark combos
 KR: [No skyfall] 2x HP; 6x ATK when there are 10 or fewer orbs remaining up to 11x ATK when 0 orbs left; 2x ATK when matching 2+ Dark combos
@@ -57651,9 +57651,9 @@ JP: 2x ATK when matching 2+ Dark combos
 EN: 2x ATK when matching 2+ Dark combos
 KR: 2x ATK when matching 2+ Dark combos
 
-# 15573/138 - 戦士族モンスター
+# 15573/138 - Warrior-Type Monster
 Tags: ENHANCED_HP_ATK
-Game: 攻撃タイプのHPが2倍。木闇の同時攻撃で攻撃力が3倍。 木か闇を5個以上つなげて消すと、攻撃力が3倍。
+Game: 2x HP for Attacker Type, 3x ATK when Wood & Dark attack at once; 3x ATK with 5+ linked Wood or Dark Orbs
 JP: 2x HP for Attacker type; 3x ATK when matching Wood and Dark; 3x ATK when matching 5 or more connected Wood or Dark orbs
 EN: 2x HP for Attacker type; 3x ATK when matching Wood and Dark; 3x ATK when matching 5 or more connected Wood or Dark orbs
 KR: 2x HP for Attacker type; 3x ATK when matching Wood and Dark; 3x ATK when matching 5 or more connected Wood or Dark orbs
@@ -57679,9 +57679,9 @@ JP: 3x ATK when matching 5 or more connected Wood or Dark orbs
 EN: 3x ATK when matching 5 or more connected Wood or Dark orbs
 KR: 3x ATK when matching 5 or more connected Wood or Dark orbs
 
-# 15581/138 - 魔法使い族モンスター
+# 15581/138 - Spellcaster-Type Monster
 Tags: AUTO_HEAL,ENHANCED_ATK,REDUCE_DAMAGE
-Game: 回復の2コンボ以上でダメージを半減、攻撃力が7倍。 ドロップを消した時、回復力×10倍のHPを回復。
+Game: 7x ATK & halves damage with 2+ Heal combos; recovers 10x RCV as HP when matching Orbs
 JP: 7x ATK and reduce damage taken by 50% when matching 2+ Heal combos; 10x RCV additional heal when matching orbs
 EN: 7x ATK and reduce damage taken by 50% when matching 2+ Heal combos; 10x RCV additional heal when matching orbs
 KR: 7x ATK and reduce damage taken by 50% when matching 2+ Heal combos; 10x RCV additional heal when matching orbs
@@ -57700,9 +57700,9 @@ JP: 10x RCV additional heal when matching orbs
 EN: 10x RCV additional heal when matching orbs
 KR: 10x RCV additional heal when matching orbs
 
-# 15587/138 - ドラゴン族モンスター
+# 15587/138 - Dragon-Type Monster
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Game: 4コンボ以上で攻撃力が上昇、最大3倍。 HP50％以上でダメージを軽減、攻撃力が3倍。
+Game: ATK increases with 4+ combos, up to 3x; 3x ATK & reduces damage when HP is 50% or more
 JP: 2x ATK when 4 or more combos up to 3x at 6 combos; 3x ATK and reduce damage taken by 35% when above 50% HP
 EN: 2x ATK when 4 or more combos up to 3x at 6 combos; 3x ATK and reduce damage taken by 35% when above 50% HP
 KR: 2x ATK when 4 or more combos up to 3x at 6 combos; 3x ATK and reduce damage taken by 35% when above 50% HP
@@ -57721,9 +57721,9 @@ JP: 3x ATK and reduce damage taken by 35% when above 50% HP
 EN: 3x ATK and reduce damage taken by 35% when above 50% HP
 KR: 3x ATK and reduce damage taken by 35% when above 50% HP
 
-# 15593/138 - 効果モンスター
+# 15593/138 - Effect Monster
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
-Game: 【7×6マス】木属性のHPと回復力が1.5倍。 4コンボ以上で攻撃力が上昇、最大10倍。
+Game: [7x6 board], 1.5x HP & RCV for Wood Att.; ATK increases with 4+ combos, up to 10x
 JP: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos
 EN: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos
 KR: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos
@@ -57742,9 +57742,9 @@ JP: 2x ATK when 4 or more combos up to 10x at 12 combos
 EN: 2x ATK when 4 or more combos up to 10x at 12 combos
 KR: 2x ATK when 4 or more combos up to 10x at 12 combos
 
-# 15599/138 - 神戦馬の嘶き
+# 15599/138 - Wail of the Divine War Horse
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Game: 木属性のHPと攻撃力が1.5倍。ドロップ操作を2秒延長。  4コンボ以上で攻撃力が上昇、最大6倍。
+Game: 1.5x HP & ATK for Wood Att., Orb move time +2 sec; ATK increases with 4+ combos, up to 6x
 JP: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
 EN: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
 KR: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
@@ -57763,9 +57763,9 @@ JP: 4x ATK when 4 or more combos up to 6x at 6 combos
 EN: 4x ATK when 4 or more combos up to 6x at 6 combos
 KR: 4x ATK when 4 or more combos up to 6x at 6 combos
 
-# 15602/138 - 主護馬の嘶き
+# 15602/138 - Wail of the Divine Guardian Horse
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Game: 木属性のHPが1.5倍。ドロップ操作を2秒延長。 4コンボ以上で攻撃力が上昇、最大6倍。
+Game: 1.5x HP for Wood Att., Orb move time +2 sec; ATK increases with 4+ combos, up to 6x
 JP: 1.5x HP for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
 EN: 1.5x HP for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
 KR: 1.5x HP for Wood Att.; Increase orb movement time by 2 seconds; 4x ATK when 4 or more combos up to 6x at 6 combos
