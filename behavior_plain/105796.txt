@@ -1,4 +1,4 @@
-#105796 - 闇バクラ＆ダーク・ネクロフィア
+#105796 - Yami Bakura & Dark Necrofear
 monster size: 5
 new AI: True
 start/max counter: 5
@@ -19,7 +19,7 @@ Branch on flag & 1, target rnd 8
 #5: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#6: ESAttributeBlock(107:15845) -> デュエル！
+#6: ESAttributeBlock(107:15845) -> Duel!
 Unable to match Light orbs for 4 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -31,13 +31,13 @@ Branch on hp < 75, target rnd 32
 #9: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 12
 
-#10: ESAttackMultihit(15:15732) -> 念眼殺
+#10: ESAttackMultihit(15:15732) -> Doom Gaze
 Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#12: ESDamageShield(74:15733) -> 永続罠「ウィジャ盤」
+#12: ESDamageShield(74:15733) -> Continuous Trap "Destiny Board"
 Condition: One-time use (ai:100 rnd:0) (cost: 5)
 Reduce damage from all sources by 30% for 4 turns
 
@@ -47,7 +47,7 @@ Branch on counter >= 1, target rnd 17
 #14: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#15: ESInactivity66(66:15734) -> 死のメッセージ「D」
+#15: ESInactivity66(66:15734) -> Spirit Message "F"
 Do nothing
 
 #16: ESEndPath(36:26) -> ESEndPath
@@ -59,7 +59,7 @@ Branch on counter >= 2, target rnd 21
 #18: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#19: ESInactivity66(66:15735) -> 死のメッセージ「E」
+#19: ESInactivity66(66:15735) -> Spirit Message "I"
 Do nothing
 
 #20: ESEndPath(36:26) -> ESEndPath
@@ -71,7 +71,7 @@ Branch on counter >= 3, target rnd 25
 #22: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#23: ESInactivity66(66:15736) -> 死のメッセージ「A」
+#23: ESInactivity66(66:15736) -> Spirit Message "N"
 Do nothing
 
 #24: ESEndPath(36:26) -> ESEndPath
@@ -83,7 +83,7 @@ Branch on counter >= 4, target rnd 29
 #26: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#27: ESInactivity66(66:15737) -> 死のメッセージ「T」
+#27: ESInactivity66(66:15737) -> Spirit Message "A"
 Do nothing
 
 #28: ESEndPath(36:26) -> ESEndPath
@@ -92,7 +92,7 @@ end_turn
 #29: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#30: ESAttackMultihit(15:15738) -> 死のメッセージ「H」
+#30: ESAttackMultihit(15:15738) -> Spirit Message "L"
 Deal 260% damage
 
 #31: ESEndPath(36:26) -> ESEndPath
@@ -104,7 +104,7 @@ Branch on flag & 2, target rnd 9
 #33: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#34: ESBlind5(5:15731) -> ダーク・ネクロフィア召喚
+#34: ESBlind5(5:15731) -> Summon Dark Necrofear
 Blind all orbs on the board
 
 #35: ESEndPath(36:26) -> ESEndPath

@@ -1,4 +1,4 @@
-#5804 - 破壊竜ガンドラ
+#5804 - Gandora the Dragon of Destruction
 monster size: 5
 new AI: True
 start/max counter: 15
@@ -7,24 +7,24 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESStatusShield(20:15837) -> 破壊竜ガンドラ召喚
+#2: ESStatusShield(20:15837) -> Summon Gandora the Dragon of Destruction
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
 Voids status ailments for 999 turns
 
-#3: ESAttackUPRemainingEnemies(17:15780) -> 破壊竜ガンドラの特殊魔法攻撃
+#3: ESAttackUPRemainingEnemies(17:15780) -> Gandora the Dragon of Destruction's Effect
 Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 4)
 Increase damage to 1000% for the next 1 turn
 
-#4: ESAttackMultihit(15:15781) -> デストロイ・ギガ・レイズ
+#4: ESAttackMultihit(15:15781) -> Boundless Gigarays
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Deal 111% damage
 
-#5: ESEndBattle(40:15782) -> 墓地へ送られた
+#5: ESEndBattle(40:15782) -> Sent to the Graveyard
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Reduce self HP to 0
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#7: ESAttributeResist(72:15833) -> 光半減
+#7: ESAttributeResist(72:15833) -> Light damage halved
 Reduce damage from Light attrs by 50%

@@ -1,4 +1,4 @@
-#5804 - 破壊竜ガンドラ
+#5804 - Gandora the Dragon of Destruction
 monster size: 5
 new AI: True
 start/max counter: 15
@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (15833:72) 光半減
+ | (15833:72) Light damage halved
  | Reduce damage from Light attrs by 50%
  type: PREEMPT
- | (15837:20) 破壊竜ガンドラ召喚
+ | (15837:20) Summon Gandora the Dragon of Destruction
  | Voids status ailments for 999 turns
  group:
  | group:
  | condition: turn 1
-   | (15780:17) 破壊竜ガンドラの特殊魔法攻撃
+   | (15780:17) Gandora the Dragon of Destruction's Effect
    | Increase damage to 1000% for the next 1 turn
  | group:
  | condition: turn 2
-   | (15781:15) デストロイ・ギガ・レイズ
+   | (15781:15) Boundless Gigarays
    | Deal 111% damage
  | group:
  | condition: turn 3
-   | (15782:40) 墓地へ送られた
+   | (15782:40) Sent to the Graveyard
    | Reduce self HP to 0

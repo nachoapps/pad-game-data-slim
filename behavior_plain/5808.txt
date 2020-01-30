@@ -1,4 +1,4 @@
-#5808 - ホーリー・エルフ
+#5808 - Mystical Elf
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSkyfall(68:15839) -> ホーリー・エルフ召喚
+#2: ESSkyfall(68:15839) -> Summon Mystical Elf
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Heal skyfall +25% for 3 turns
 
@@ -32,7 +32,7 @@ Branch on counter >= 3, target rnd 12
 #9: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#10: ESDamageShield(74:15776) -> 守備表示
+#10: ESDamageShield(74:15776) -> Defense Position
 Reduce damage from all sources by 75% for 1 turn
 
 #11: ESEndPath(36:26) -> ESEndPath
@@ -42,15 +42,15 @@ end_turn
 counter = 0
 
 #13: SkillSet:
-	[0] ESAttackUPRemainingEnemies(17:15835) -> 攻撃表示
+	[0] ESAttackUPRemainingEnemies(17:15835) -> Attack Position
 	Increase damage to 120% for the next 1 turn
-	[1] ESAttackSinglehit(82:1) -> 通常攻撃
+	[1] ESAttackSinglehit(82:1) -> Disable Skill
 	Deal 100% damage
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#15: ESRecoverEnemy86(86:15777) -> ホーリー・エルフの祝福
+#15: ESRecoverEnemy86(86:15777) -> Gift of The Mystical Elf
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Enemy recover 50% HP
 
@@ -60,5 +60,5 @@ Branch on counter >= 0, target rnd 4
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#18: ESAttributeResist(72:15834) -> 闇半減
+#18: ESAttributeResist(72:15834) -> Dark damage halved
 Reduce damage from Dark attrs by 50%

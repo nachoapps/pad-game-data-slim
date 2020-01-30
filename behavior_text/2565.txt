@@ -8,9 +8,9 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15990:94) 閉じ込めてあげる
+ | (15990:94) I'll lock it all away
  | Lock all orbs
  group:
  condition: turn 1, hp <= 100
- | (15991:40) もう眠いわ…さようなら
+ | (15991:40) I'm sleepy... Farewell
  | Reduce self HP to 0
