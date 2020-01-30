@@ -23516,6 +23516,10 @@
         "file_name": "mons_5890.bc"
     },
     {
+        "compressed_size": 47166,
+        "file_name": "mons_5960.bc"
+    },
+    {
         "compressed_size": 708961,
         "file_name": "cards_001.bc"
     },
@@ -23750,5 +23754,9 @@
     {
         "compressed_size": 678405,
         "file_name": "cards_059.bc"
+    },
+    {
+        "compressed_size": 12682,
+        "file_name": "cards_060.bc"
     }
 ]
