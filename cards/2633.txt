@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3818/116 - I'll win for sure!!
-Tags: MENACE,FIXED_DAMAGE
+Tags: MENACE,MASSIVE_ATTACK,FIXED_DAMAGE
 Game: Inflicts 50,000 damage on all enemies; delays enemies' next move for 1 turn
 JP: 敵全体に5万の固定ダメージ。敵の行動を1ターン遅らせる
 EN: Deal 50000 fixed damage to all enemies; Delay enemies' next attack by 1 turn

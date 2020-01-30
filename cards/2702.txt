@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3907/116 - I'll crush that power!!
-Tags: REDUCE_DAMAGE,FIXED_DAMAGE
+Tags: REDUCE_DAMAGE,MASSIVE_ATTACK,FIXED_DAMAGE
 Game: Inflicts 1,000 damage on all enemies; reduces damage for 1 turn
 JP: 敵全体に1000の固定ダメージ。1ターンの間、受けるダメージを35％減少
 EN: Deal 1000 fixed damage to all enemies; For 1 turn, reduce damage taken by 35%

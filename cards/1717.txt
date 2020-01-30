@@ -4,7 +4,7 @@ AWK: 21,16
 SAWK: 
 
 # 940/116 - Unwavering Faith
-Tags: HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Changes Poison & Heal Orbs to Wood Orbs; bind status reduced by 3 turns, 3000 HP recovered
 JP: 回復と毒ドロップを木ドロップに変化。HPを3000回復。バインドを3ターン回復
 EN: Change Heal and Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3 turns

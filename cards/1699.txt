@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 1694/56 - Omega Sanction
-Tags: FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
 Game: Inflicts 8000 damage on all enemies
 JP: 敵全体に8000の固定ダメージ
 EN: Deal 8000 fixed damage to all enemies

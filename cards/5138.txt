@@ -4,7 +4,7 @@ AWK: 21,28,19,19,57,57,57,10,10
 SAWK: 57,56,55
 
 # 12738/116 - Mystic Crown
-Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
+Tags: VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; creates 1 cross of Light Orbs & 1 cross of Dark Orbs
 JP: 1ターンの間、属性吸収を無効化する。上から2行目と右から2列目の中心に十字形の光ドロップを1つ生成。上から2行目と左から2列目の中心に十字形の闇ドロップを1つ生成
 EN: For 1 turn, bypass att. absorb shield effects; Create a cross of Light orbs with its center at the 2nd row from the top and the 2nd column from the right; Create a cross of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left

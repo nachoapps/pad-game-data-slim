@@ -4,7 +4,7 @@ AWK: 25,21,20,25
 SAWK: 
 
 # 455/116 - Miracle of Healing
-Tags: GUARD_STANCE,VOID_DAMAGE,ALL_ORBS_CONVERT
+Tags: VOID_DAMAGE,ALL_ORBS_CONVERT
 Game: Changes Orbs to Heal Orbs; received damage is voided for 2 turns
 JP: 全ドロップを回復ドロップに変化。2ターンの間、受けるダメージを100％減少
 EN: Change all orbs to Heal orbs; For 2 turns, reduce damage taken by 100%

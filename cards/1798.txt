@@ -4,7 +4,7 @@ AWK: 10,21,27,10
 SAWK: 
 
 # 1816/116 - ダブル気功波
-Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: 敵全体に10000の固定ダメージ。 全ドロップを火、木、闇ドロップに変化。
 JP: 敵全体に1万の固定ダメージ。全ドロップを火、木、闇ドロップに変化
 EN: Deal 10000 fixed damage to all enemies; Change all orbs to Fire, Wood, and Dark orbs

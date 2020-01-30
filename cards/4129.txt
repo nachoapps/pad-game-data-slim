@@ -4,7 +4,7 @@ AWK: 21,21,19,10,10,30,30,28,44
 SAWK: 61,55,54
 
 # 9730/116 - Dance of Blessed Fortuity
-Tags: SINGLE_TARGET_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: SINGLE_TARGET_ATTACK,RECOVER_BIND,FIXED_DAMAGE,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Fully recovers bind status (incl. Awoken); inflicts 100,000 damage on 1 enemy five times
 JP: バインドと覚醒無効を全回復。敵1体に100000ダメージｘ5回
 EN: Remove all binds and awoken skill binds; Deal 100000 damage to an enemy 5 times

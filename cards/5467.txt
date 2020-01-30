@@ -4,7 +4,7 @@ AWK: 28,28,28,58,58,58
 SAWK: 52,55,21
 
 # 14098/116 - アームストロングクライムや!!
-Tags: ENHANCED_HEAL,SUICIDE
+Tags: SUICIDE
 Game: HPが50％減少。ランダムで火ドロップを9個生成。 3ターンの間、回復力が0になる。
 JP: HPが50％減少。火ドロップを9個生成。3ターンの間、回復力が0倍
 EN: Reduce HP by 50%; Create 9 Fire orbs; For 3 turns, 0x RCV

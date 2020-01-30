@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 1885/116 - Mystic Lazer
-Tags: FIXED_DAMAGE,EXTENDS_TIME
+Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE,EXTENDS_TIME
 Game: Inflicts 6,666 damage on 1 enemy; Orb move time +2 seconds for 1 turn
 JP: 敵1体に6666の固定ダメージ。1ターンの間、ドロップ操作時間が2秒に延長
 EN: Deal 6666 fixed damage to an enemy; For 1 turn, increase orb move time by 2 seconds

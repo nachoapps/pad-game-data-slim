@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 7887/116 - Guardian Spirit of Land
-Tags: ORB_CONVERT,FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,ORB_CONVERT,FIXED_DAMAGE
 Game: Inflicts 99 damage on all enemies; changes Dark Orbs & Jammers to Light Orbs
 JP: 敵全体に99の固定ダメージ。闇とお邪魔ドロップを光ドロップに変化
 EN: Deal 99 fixed damage to all enemies; Change Dark and Jammer orbs to Light orbs

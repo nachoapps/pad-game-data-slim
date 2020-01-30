@@ -4,7 +4,7 @@ AWK: 52,21,53,27,27,27,46,46,63
 SAWK: 27,28,48
 
 # 12791/116 - Somersault Kick
-Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Changes the leftmost column to Wood Orbs; inflicts 10,000 damage on all enemies
 JP: 最左端を木ドロップに変化。敵全体に1万の固定ダメージ
 EN: Change the far left column to Wood orbs; Deal 10000 fixed damage to all enemies

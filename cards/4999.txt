@@ -4,7 +4,7 @@ AWK: 10,10,28,21,21,21,19,43,43
 SAWK: 60,44,57
 
 # 12442/116 - Unburdening Mallet
-Tags: VOID_DAMAGE,SINGLE_TARGET_ATTACK
+Tags: VOID_DAMAGE,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: Voids damage for 1 turn; inflicts 150,000 damage on 1 enemy three times
 JP: 1ターンの間、受けるダメージを100％減少。敵1体に150000ダメージｘ3回
 EN: For 1 turn, reduce damage taken by 100%; Deal 150000 damage to an enemy 3 times

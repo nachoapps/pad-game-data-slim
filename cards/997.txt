@@ -4,7 +4,7 @@ AWK: 15,17,10,10,30,28
 SAWK: 
 
 # 432/117 - Quick Heal
-Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Heals 5x RCV in HP; bind status reduced by 2 turns
 JP: 回復力ｘ5倍のHPを回復。バインドを2ターン回復
 EN: Recover 5x RCV as HP; Reduce binds by 2 turns

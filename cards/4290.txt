@@ -4,7 +4,7 @@ AWK: 17,17,17,29,29,21,28,60,60
 SAWK: 57,59,54
 
 # 3707/116 - Electric Shock Daccha
-Tags: MENACE,FIXED_DAMAGE
+Tags: MENACE,MASSIVE_ATTACK,FIXED_DAMAGE
 Game: Inflicts a 10,000 damage Mass Attack; delays enemies' next move for 1 turn
 JP: 敵全体に1万の固定ダメージ。敵の行動を1ターン遅らせる
 EN: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn

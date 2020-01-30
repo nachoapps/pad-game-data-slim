@@ -4,7 +4,7 @@ AWK: 21,19,9,9,9,9,31,33
 SAWK: 52
 
 # 12596/116 - Orion Tri-star
-Tags: REDUCE_DAMAGE,DROP_CHANCE
+Tags: REDUCE_DAMAGE
 Game: Reduces damage for 5 turns; 50% chance of Enhanced Orbs appearing for 3 turns
 JP: 5ターンの間、受けるダメージを30％減少。3ターンの間、強化ドロップを50％の確率で落ちてくる
 EN: For 5 turns, reduce damage taken by 30%; For 3 turns, enhanced orbs are more likely to appear by 50%

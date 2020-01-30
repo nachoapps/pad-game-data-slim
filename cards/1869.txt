@@ -4,7 +4,7 @@ AWK: 28,26,24,26,24,26,24,48,48
 SAWK: 52,54,60
 
 # 1839/116 - Secret Technique Kessho Shi
-Tags: FIXED_DAMAGE
+Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: Inflicts 49 damage on 1 enemy; creates 2 Wood & Dark Orbs each at random
 JP: 敵1体に49の固定ダメージ。ランダムで木と闇を2個ずつ生成
 EN: Deal 49 fixed damage to an enemy; Create 2 Wood and Dark orbs

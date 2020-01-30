@@ -4,7 +4,7 @@ AWK: 21,28,19,61,12,12,11,11,63
 SAWK: 52,54,45
 
 # 14639/116 - Sabre Thrust
-Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 100,000 damage on 1 enemy five times; changes all Orbs to Fire, Water, Wood & Heal
 JP: 敵1体に100000ダメージｘ5回。全ドロップを火、水、木、回復ドロップに変化
 EN: Deal 100000 damage to an enemy 5 times; Change all orbs to Fire, Water, Wood, and Heal orbs

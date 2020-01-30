@@ -4,7 +4,7 @@ AWK: 15,15,15,19,21,21
 SAWK: 
 
 # 9652/116 - There's no training to guarantee a win.
-Tags: ALL_ORBS_CONVERT,DROP_CHANCE
+Tags: ALL_ORBS_CONVERT
 Game: 50% chance of Enhanced Orbs appearing for 3 turns; changes Orbs to Fire, Water, Light & Heal Orbs
 JP: 3ターンの間、強化ドロップを50％の確率で落ちてくる。全ドロップを火、水、光、回復ドロップに変化
 EN: For 3 turns, enhanced orbs are more likely to appear by 50%; Change all orbs to Fire, Water, Light, and Heal orbs

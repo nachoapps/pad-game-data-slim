@@ -4,7 +4,7 @@ AWK: 21,19,19,19,9,9,4,6,45
 SAWK: 
 
 # 11199/116 - Blooming Flowers
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Halves Orb move time for 1 turn; changes the leftmost column to Heal Orbs
 JP: 1ターンの間、ドロップ操作時間が0.5倍。最左端を回復ドロップに変化
 EN: For 1 turn, 0.5x orb move time; Change the far left column to Heal orbs

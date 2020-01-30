@@ -4,7 +4,7 @@ AWK: 16,24
 SAWK: 
 
 # 5121/116 - Wind Spiral
-Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 1,000 damage on all enemies; changes the top row to Wood Orbs
 JP: 敵全体に1000の固定ダメージ。最上段を木ドロップに変化
 EN: Deal 1000 fixed damage to all enemies; Change the top row to Wood orbs

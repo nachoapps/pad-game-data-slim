@@ -4,7 +4,7 @@ AWK: 19,19,21,28,28,11,12,13,32
 SAWK: 52,58,32
 
 # 9712/116 - Dark Moon
-Tags: ORB_CONVERT,REMOVE_LOCK
+Tags: ATTACK_STANCE,ORB_CONVERT,REMOVE_LOCK
 Game: Removes Orb locks; changes Heal Orbs & Poison Orbs to Dark Orbs
 JP: 全ドロップのロック状態を解除。回復、毒、猛毒ドロップを闇ドロップに変化
 EN: Unlock all orbs; Change Heal, Poison, and Mortal Poison orbs to Dark orbs

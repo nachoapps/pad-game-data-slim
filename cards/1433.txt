@@ -4,7 +4,7 @@ AWK: 22,27,21,14
 SAWK: 
 
 # 987/116 - ネビュラチェーン
-Tags: ENHANCED_ATTACK,FIXED_DAMAGE
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: 敵1体に10000の固定ダメージ。 2ターンの間、回復タイプの攻撃力が2倍。
 JP: 敵1体に1万の固定ダメージ。2ターンの間、回復タイプの攻撃力が2倍
 EN: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type

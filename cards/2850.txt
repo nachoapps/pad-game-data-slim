@@ -4,7 +4,7 @@ AWK: 17,17,17,17,17,7,7,7,7
 SAWK: 60,43,52
 
 # 5038/116 - I can do it too!!
-Tags: FIXED_DAMAGE
+Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: Inflicts 50,000 damage on 1 enemy; creates 3 Light Orbs at random
 JP: 敵1体に5万の固定ダメージ。光ドロップを3個生成
 EN: Deal 50000 fixed damage to an enemy; Create 3 Light orbs

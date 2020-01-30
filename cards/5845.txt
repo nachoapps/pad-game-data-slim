@@ -4,7 +4,7 @@ AWK: 52,28,26,26,26,45,48,48,48
 SAWK: 
 
 # 15780/116 - ブラックアクアリウム
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
 Game: 1ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
 JP: 1ターンの間、ダメージ吸収を無効化する。最左端を闇に、最右端を回復ドロップに変化
 EN: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs

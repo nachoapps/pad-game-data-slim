@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 5119/116 - Mirage Blade
-Tags: FIXED_DAMAGE,LINE_ORBS_CONVERTER
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE,LINE_ORBS_CONVERTER
 Game: Inflicts 1,000 damage on all enemies; changes the top row to Water Orbs
 JP: 敵全体に1000の固定ダメージ。最上段を水ドロップに変化
 EN: Deal 1000 fixed damage to all enemies; Change the top row to Water orbs

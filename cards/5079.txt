@@ -4,7 +4,7 @@ AWK: 52,21,21,46,46,46,48,48,63
 SAWK: 48,46,43
 
 # 12760/176 - Metsu Hadoken
-Tags: LINE_ORBS_CONVERTER
+Tags: 
 Game: Creates a square of 3x3 Dark Orbs; creates a rectangle of 3x4 Dark Orbs when board is 7x6
 JP: 上から2行目と左から2列目の中心に正方形の闇ドロップを1つ生成
 EN: Create a square of Dark orbs with its center at the 2nd row from the top and the 2nd column from the left

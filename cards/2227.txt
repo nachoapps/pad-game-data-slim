@@ -4,7 +4,7 @@ AWK: 18,26,13,10,10,21,27,27,27
 SAWK: 
 
 # 902/116 - 落雷
-Tags: MENACE,FIXED_DAMAGE
+Tags: MENACE,MASSIVE_ATTACK,FIXED_DAMAGE
 Game: 敵全体に10000の固定ダメージ。 敵の行動を1ターン遅らせる。
 JP: 敵全体に1万の固定ダメージ。敵の行動を1ターン遅らせる
 EN: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn

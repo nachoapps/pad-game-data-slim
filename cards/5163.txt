@@ -4,7 +4,7 @@ AWK: 10,10,21,21,28,19
 SAWK: 
 
 # 12979/116 - Makoi-style Demonic Absorption Wall
-Tags: VOID_DAMAGE,ORB_CONVERT
+Tags: ATTACK_STANCE,VOID_DAMAGE,ORB_CONVERT
 Game: Changes Jammers, Poison & Heal Orbs to Dark Orbs; voids damage for 1 turn
 JP: 回復、お邪魔、毒、猛毒ドロップを闇ドロップに変化。1ターンの間、受けるダメージを100％減少
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 1 turn, reduce damage taken by 100%

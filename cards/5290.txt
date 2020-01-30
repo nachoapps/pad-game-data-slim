@@ -4,7 +4,7 @@ AWK: 21,28,19,57,57
 SAWK: 
 
 # 13445/116 - Pocha Pocha Walking
-Tags: FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
 Game: Inflicts 77,777 damage on all enemies; creates 3 Orbs of all Attributes each at random
 JP: 敵全体に7万7777の固定ダメージ。ランダムで火、水、木、光、闇を3個ずつ生成
 EN: Deal 77777 fixed damage to all enemies; Create 3 Fire, Water, Wood, Light, and Dark orbs over any orbs

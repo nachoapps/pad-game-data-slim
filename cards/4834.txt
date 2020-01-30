@@ -4,7 +4,7 @@ AWK: 10,10,21,21,28,31,32,33,34
 SAWK: 31,32,33,34
 
 # 11780/116 - Sacred Feather
-Tags: ORB_CONVERT,RECOVER_BIND
+Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Fully recovers bind status; changes Jammers, Heal & Poison Orbs to Light Orbs
 JP: バインドを全回復。回復、お邪魔、毒、猛毒ドロップを光ドロップに変化
 EN: Remove all binds; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs

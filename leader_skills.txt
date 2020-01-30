@@ -104,7 +104,7 @@ EN: Reduce damage taken by 10%
 KR: Reduce damage taken by 10%
 
 # 66/12 - Purgatory
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -342,7 +342,7 @@ EN: 2x ATK
 KR: 2x ATK
 
 # 215/12 - Hellfire
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 5x ATK when matching Orbs
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs
@@ -377,7 +377,7 @@ EN: Reduce damage taken by 30%
 KR: Reduce damage taken by 30%
 
 # 220/12 - Deb_ExtraAttack
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflict extra 3x damage after attack
 JP: 3x ATK additional damage when matching orbs
 EN: 3x ATK additional damage when matching orbs
@@ -1420,7 +1420,7 @@ EN: 2x RCV additional heal when matching orbs
 KR: 2x RCV additional heal when matching orbs
 
 # 370/12 - Karma
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -1497,7 +1497,7 @@ EN: 1.5x all stats for Balanced type
 KR: 1.5x all stats for Balanced type
 
 # 381/12 - King's Bite
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -2211,7 +2211,7 @@ EN: Reduce damage taken by 20%
 KR: Reduce damage taken by 20%
 
 # 584/12 - Poison Fog Spray
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -2253,7 +2253,7 @@ EN: 3x ATK for God type
 KR: 3x ATK for God type
 
 # 590/12 - Flamme Rouge
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 5x ATK when matching Orbs
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs
@@ -2715,7 +2715,7 @@ EN: 2x HP & RCV for Light Att.; 5x Light counterattack
 KR: 2x HP & RCV for Light Att.; 5x Light counterattack
 
 # 756/12 - ポイズンアタック
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: ドロップを消した時、攻撃力×2倍の追い打ち。
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -3156,7 +3156,7 @@ EN: 2.5x ATK & RCV for Balanced and Dragon type
 KR: 2.5x ATK & RCV for Balanced and Dragon type
 
 # 819/12 - Maniac Mastermind
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 5x ATK when matching Orbs
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs
@@ -6082,7 +6082,7 @@ EN: 2x ATK for Devil type and Fire Att.
 KR: 2x ATK for Devil type and Fire Att.
 
 # 1944/12 - Banshee Curse
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -6355,7 +6355,7 @@ EN: May survive when HP is reduced to 0 (HP>70%)
 KR: May survive when HP is reduced to 0 (HP>70%)
 
 # 1989/12 - Pummel
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: Inflicts a bonus attack equal to 2x ATK when matching Orbs
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -10387,7 +10387,7 @@ EN: 3x ATK when matching Fire and Dark
 KR: 3x ATK when matching Fire and Dark
 
 # 3082/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -20208,7 +20208,7 @@ EN: 4x ATK when 6 or more combos
 KR: 4x ATK when 6 or more combos
 
 # 5551/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs
@@ -20229,7 +20229,7 @@ EN: 4.5x ATK when 6 or more combos
 KR: 4.5x ATK when 6 or more combos
 
 # 5554/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 10x ATK additional damage when matching orbs
 EN: 10x ATK additional damage when matching orbs
@@ -20509,7 +20509,7 @@ EN: 2x ATK for Physical type
 KR: 2x ATK for Physical type
 
 # 5594/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -21839,7 +21839,7 @@ EN: 8x ATK and reduce damage taken by 25% when matching 6 or more connected Dark
 KR: 8x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 
 # 5832/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -22938,7 +22938,7 @@ EN: 3x ATK and 1.5x RCV when matching Fire and Dark
 KR: 3x ATK and 1.5x RCV when matching Fire and Dark
 
 # 6230/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 40x ATK additional damage when matching orbs
 EN: 40x ATK additional damage when matching orbs
@@ -24464,7 +24464,7 @@ EN: 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
 KR: 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
 
 # 6530/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -24485,7 +24485,7 @@ EN: 3x ATK when 5 or more combos up to 6x at 8 combos
 KR: 3x ATK when 5 or more combos up to 6x at 8 combos
 
 # 6533/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -25192,7 +25192,7 @@ EN: [No skyfall] 8x ATK for Dark Att.
 KR: [No skyfall] 8x ATK for Dark Att.
 
 # 6916/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -28307,7 +28307,7 @@ EN: 6x ATK when matching 4 or more colors
 KR: 6x ATK when matching 4 or more colors
 
 # 7556/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 50x ATK additional damage when matching orbs
 EN: 50x ATK additional damage when matching orbs
@@ -28328,7 +28328,7 @@ EN: 10x ATK and reduce damage taken by 25% when matching 4 or more colors
 KR: 10x ATK and reduce damage taken by 25% when matching 4 or more colors
 
 # 7559/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -28370,7 +28370,7 @@ EN: 2.5x ATK and 1.25x HP for Attacker type
 KR: 2.5x ATK and 1.25x HP for Attacker type
 
 # 7571/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -31590,7 +31590,7 @@ EN: 2x ATK for Dragon type and Dark Att.
 KR: 2x ATK for Dragon type and Dark Att.
 
 # 8704/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 2x ATK additional damage when matching orbs
 EN: 2x ATK additional damage when matching orbs
@@ -32675,7 +32675,7 @@ EN: 4x ATK when matching 6 or more connected Fire orbs up to 7x at 9 orbs
 KR: 4x ATK when matching 6 or more connected Fire orbs up to 7x at 9 orbs
 
 # 8976/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs
@@ -34180,7 +34180,7 @@ EN: 4x ATK for Balanced type; Increase orb movement time by 2 seconds
 KR: 4x ATK for Balanced type; Increase orb movement time by 2 seconds
 
 # 9446/185 - 
-Tags: 
+Tags: EXTEND_TIME
 Game: 
 JP: 
 EN: 
@@ -36693,7 +36693,7 @@ EN: 6x ATK when 6 or more combos
 KR: 6x ATK when 6 or more combos
 
 # 10123/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -37225,7 +37225,7 @@ EN: [Board becomes 7x6] 2x HP & RCV for Water Att.
 KR: [Board becomes 7x6] 2x HP & RCV for Water Att.
 
 # 10234/185 - 
-Tags: 
+Tags: EXTEND_TIME
 Game: 
 JP: 
 EN: 
@@ -38905,7 +38905,7 @@ EN: 4x ATK when matching 4 or more colors (3+heal) up to 12x at 5 colors+heal
 KR: 4x ATK when matching 4 or more colors (3+heal) up to 12x at 5 colors+heal
 
 # 10635/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -38926,7 +38926,7 @@ EN: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Light combos
 
 # 10641/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -38947,7 +38947,7 @@ EN: 5x ATK when 5 or more combos up to 10x at 10 combos
 KR: 5x ATK when 5 or more combos up to 10x at 10 combos
 
 # 10644/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -38968,7 +38968,7 @@ EN: 6x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 6x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 
 # 10650/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -40305,7 +40305,7 @@ EN: 6x ATK when matching Wood and Dark
 KR: 6x ATK when matching Wood and Dark
 
 # 10953/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -42433,7 +42433,7 @@ EN: 4x ATK when matching 5 or more connected Wood or Jammer orbs
 KR: 4x ATK when matching 5 or more connected Wood or Jammer orbs
 
 # 11494/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -42874,7 +42874,7 @@ EN: 7x ATK when matching 6 or more connected Water orbs
 KR: 7x ATK when matching 6 or more connected Water orbs
 
 # 11604/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -42902,7 +42902,7 @@ EN: 7x ATK when matching 6 or more connected Wood orbs
 KR: 7x ATK when matching 6 or more connected Wood orbs
 
 # 11612/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -44862,7 +44862,7 @@ EN: 4x ATK when matching 5 or more connected orbs
 KR: 4x ATK when matching 5 or more connected orbs
 
 # 12123/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 80x ATK additional damage when matching orbs
 EN: 80x ATK additional damage when matching orbs
@@ -45422,7 +45422,7 @@ EN: 3x ATK and reduce damage taken by 25% when 4 or more combos
 KR: 3x ATK and reduce damage taken by 25% when 4 or more combos
 
 # 12254/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -45758,7 +45758,7 @@ EN: 2.5x ATK when matching 2+ Fire combos
 KR: 2.5x ATK when matching 2+ Fire combos
 
 # 12347/138 - I'll make you happy!
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
+Tags: ADDITIONAL_ATTACK,EXTEND_TIME
 Game: Orb move time +10 seconds; bonus attack equal to 30x ATK when matching Orbs
 JP: Increase orb movement time by 10 seconds; 30x ATK additional damage when matching orbs
 EN: Increase orb movement time by 10 seconds; 30x ATK additional damage when matching orbs
@@ -45772,7 +45772,7 @@ EN: Increase orb movement time by 10 seconds
 KR: Increase orb movement time by 10 seconds
 
 # 12349/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 30x ATK additional damage when matching orbs
 EN: 30x ATK additional damage when matching orbs
@@ -48180,7 +48180,7 @@ EN: 2x HP & ATK for Dark Att.
 KR: 2x HP & ATK for Dark Att.
 
 # 13002/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 50x ATK additional damage when matching orbs
 EN: 50x ATK additional damage when matching orbs
@@ -48621,7 +48621,7 @@ EN: 5x ATK when 7 or more combos
 KR: 5x ATK when 7 or more combos
 
 # 13105/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 50x ATK additional damage when matching orbs
 EN: 50x ATK additional damage when matching orbs
@@ -52058,7 +52058,7 @@ EN: 4x ATK when 4 or more combos
 KR: 4x ATK when 4 or more combos
 
 # 14027/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100x ATK additional damage when matching orbs
 EN: 100x ATK additional damage when matching orbs
@@ -53647,7 +53647,7 @@ EN: May survive when HP is reduced to 0 (HP>50%)
 KR: May survive when HP is reduced to 0 (HP>50%)
 
 # 14426/165 - 
-Tags: ENHANCED_ATK_RCV
+Tags: ENHANCED_RCV
 Game: 
 JP: 3x RCV and 0x ATK when matching 4 or more colors
 EN: 3x RCV and 0x ATK when matching 4 or more colors
@@ -54977,7 +54977,7 @@ EN: 3x ATK when 3 or more combos
 KR: 3x ATK when 3 or more combos
 
 # 14806/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 200x ATK additional damage when matching orbs
 EN: 200x ATK additional damage when matching orbs
@@ -55313,7 +55313,7 @@ EN: 12x ATK and reduce damage taken by 25% when matching 2+ Light combos
 KR: 12x ATK and reduce damage taken by 25% when matching 2+ Light combos
 
 # 14920/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 200x ATK additional damage when matching orbs
 EN: 200x ATK additional damage when matching orbs
@@ -55334,7 +55334,7 @@ EN: 12x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 12x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 
 # 14923/12 - 
-Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 200x ATK additional damage when matching orbs
 EN: 200x ATK additional damage when matching orbs
@@ -55369,7 +55369,7 @@ EN: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 14940/138 - Fireball
-Tags: ENHANCED_HP_ATK
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 2x HP & ATK for Fire Att., 8x ATK with 2+ Fire combos; inflicts 1,000,000 damage with 3+ Fire combos
 JP: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
 EN: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
@@ -55958,7 +55958,7 @@ EN: 7x ATK when 7 or more combos
 KR: 7x ATK when 7 or more combos
 
 # 15096/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 1000000 additional damage when attacking with 3 or more Fire combos
 EN: 1000000 additional damage when attacking with 3 or more Fire combos
@@ -56294,7 +56294,7 @@ EN: 4x ATK and 2x RCV on the turn a skill is used
 KR: 4x ATK and 2x RCV on the turn a skill is used
 
 # 15174/138 - Fire Tool Reverse Technique
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 4x ATK for Fire Att., inflicts 300,000 damage with 3+ Fire combos; 4x ATK & reduces damage with 6+ combos
 JP: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Fire combos
 EN: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Fire combos
@@ -56315,14 +56315,14 @@ EN: 4x ATK and reduce damage taken by 25% when 6 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 15177/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 300000 additional damage when attacking with 3 or more Fire combos
 EN: 300000 additional damage when attacking with 3 or more Fire combos
 KR: 300000 additional damage when attacking with 3 or more Fire combos
 
 # 15182/138 - Blue Sword Flow Dance
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 4x ATK for Water Att., inflicts 300,000 damage with 3+ Water combos; 4x ATK & reduces damage with 6+ combos
 JP: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Water combos
 EN: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Water combos
@@ -56343,14 +56343,14 @@ EN: 4x ATK and reduce damage taken by 25% when 6 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 15185/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 300000 additional damage when attacking with 3 or more Water combos
 EN: 300000 additional damage when attacking with 3 or more Water combos
 KR: 300000 additional damage when attacking with 3 or more Water combos
 
 # 15190/138 - Cauldron's Motive
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Game: 4x ATK for Wood Att., inflicts 300,000 damage with 3+ Wood combos; 4x ATK & reduces damage with 6+ combos
 JP: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Wood combos
 EN: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Wood combos
@@ -56371,7 +56371,7 @@ EN: 4x ATK and reduce damage taken by 25% when 6 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 15193/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 300000 additional damage when attacking with 3 or more Wood combos
 EN: 300000 additional damage when attacking with 3 or more Wood combos
@@ -56693,7 +56693,7 @@ EN: 4.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 4.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 
 # 15281/138 - 超ダークカイサツソード
-Tags: ENHANCED_ATK_RCV
+Tags: ENHANCED_ATK_RCV,ADDITIONAL_ATTACK
 Game: 闇属性の攻撃力が10倍。闇の2コンボ以上で固定10万ダメージ。 闇の5個L字消しで、攻撃力と回復力が2倍。
 JP: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
 EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
@@ -56714,7 +56714,7 @@ EN: 2x ATK & RCV when matching 5 Dark orbs in an L shape
 KR: 2x ATK & RCV when matching 5 Dark orbs in an L shape
 
 # 15284/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 100000 additional damage when attacking with 2 or more Dark combos
 EN: 100000 additional damage when attacking with 2 or more Dark combos
@@ -57330,7 +57330,7 @@ EN: 5x ATK and 2x HP for Dark Att.
 KR: 5x ATK and 2x HP for Dark Att.
 
 # 15484/170 - 
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE
 Game: 
 JP: 0x ATK and reduce damage taken by 25% when matching Light and Dark at once
 EN: 0x ATK and reduce damage taken by 25% when matching Light and Dark at once
@@ -58506,7 +58506,7 @@ EN: 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 KR: 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 
 # 15818/138 - 私自身が求めるもののために戦う
-Tags: ENHANCED_HP_ATK
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Game: 光属性のHPが2倍。4コンボ以上で攻撃力が上昇、最大10倍。 光の2コンボ以上で攻撃力が2倍、3コンボ以上で固定1ダメージ。
 JP: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when attacking with 3 or more Light combos; 2x ATK when matching 2+ Light combos
 EN: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when attacking with 3 or more Light combos; 2x ATK when matching 2+ Light combos
@@ -58534,7 +58534,7 @@ EN: 2x ATK when matching 2+ Light combos
 KR: 2x ATK when matching 2+ Light combos
 
 # 15822/201 - 
-Tags: 
+Tags: ADDITIONAL_ATTACK
 Game: 
 JP: 1 additional damage when attacking with 3 or more Light combos
 EN: 1 additional damage when attacking with 3 or more Light combos

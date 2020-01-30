@@ -4,7 +4,7 @@ AWK: 10,10,56,28,47,47,48,48,48
 SAWK: 43,54,60
 
 # 14986/116 - Get them!
-Tags: ENHANCED_HEAL,LINE_ORBS_CONVERTER,EXTENDS_TIME
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
 Game: Voids RCV & Orb move time -2 seconds for 1 turn; changes the top row to Light Orbs
 JP: 1ターンの間、回復力が0倍。1ターンの間、ドロップ操作時間が-2秒に延長。最上段を光ドロップに変化
 EN: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Light orbs

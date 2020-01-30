@@ -4,7 +4,7 @@ AWK: 21,28,19,46,47,48,43,45,63
 SAWK: 52,48,43
 
 # 14658/116 - Tri-Slash
-Tags: GUARD_STANCE,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
+Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
 Game: Changes all Orbs to Water & Wood Orbs; changes the leftmost column to Heal Orbs
 JP: 全ドロップを水と木ドロップに変化。最左端を回復ドロップに変化
 EN: Change all orbs to Water and Wood orbs; Change the far left column to Heal orbs

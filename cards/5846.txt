@@ -4,7 +4,7 @@ AWK: 49,18,18,18,18,18,2
 SAWK: 
 
 # 15792/116 - ビリオスアクアリウム
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
 Game: 2ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
 JP: 2ターンの間、ダメージ吸収を無効化する。最左端を闇に、最右端を回復ドロップに変化
 EN: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs

@@ -4,7 +4,7 @@ AWK: 52,21,28,53,43,48,48,51,63
 SAWK: 48,43,32
 
 # 12473/116 - Excalibur
-Tags: HEAL,ORB_CONVERT,FIXED_DAMAGE
+Tags: ATTACK_STANCE,MASSIVE_ATTACK,HEAL,ORB_CONVERT,FIXED_DAMAGE
 Game: Fully recovers HP, inflicts 100,000 dmg on all enemies; changes Heal, Jammers & Poison Orbs to Water Orbs
 JP: HPを全回復。敵全体に10万の固定ダメージ。回復、お邪魔、毒、猛毒ドロップを水ドロップに変化
 EN: Recover all HP; Deal 100000 fixed damage to all enemies; Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs

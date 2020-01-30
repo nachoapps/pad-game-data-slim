@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 7076/116 - No hard feelings, asshole!
-Tags: GUARD_STANCE,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the leftmost column to Fire Orbs and the rightmost to Heal Orbs
 JP: 全ドロップのロック状態を解除。最左端を火に、最右端を回復ドロップに変化
 EN: Unlock all orbs; Change the far left column to Fire orbs and change the far right column to Heal orbs

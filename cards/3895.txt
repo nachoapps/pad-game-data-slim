@@ -4,7 +4,7 @@ AWK: 21,28,19,19,27,10,10,46,32
 SAWK: 
 
 # 5089/116 - Force of All Orbs 
-Tags: ALL_ORBS_CONVERT,FIXED_DAMAGE
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 999 damage on 1 enemy; changes Orbs to all Attributes & Heal
 JP: 敵1体に999の固定ダメージ。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Deal 999 fixed damage to an enemy; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs

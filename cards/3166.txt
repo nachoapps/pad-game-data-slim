@@ -4,7 +4,7 @@ AWK: 22,22,19,56,48,28,22,43,43
 SAWK: 52,55,48
 
 # 5459/116 - Dogiragon Entry
-Tags: ORB_CONVERT,ADD_COMBO
+Tags: ATTACK_STANCE,ORB_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes Jammers, Poison, Light & Heal Orbs to Fire Orbs
 JP: 1ターンの間、1コンボ加算される。光、回復、お邪魔、毒、猛毒ドロップを火ドロップに変化
 EN: For 1 turn, increase combo count by 1; Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs

@@ -4,7 +4,7 @@ AWK: 21,28,19,51,37,38,38
 SAWK: 52,37,38
 
 # 11583/116 - Hydro Break
-Tags: REDUCE_DEFENSE,ORB_CONVERT
+Tags: REDUCE_DEFENSE,ATTACK_STANCE,ORB_CONVERT
 Game: Voids enemies' DEF for 1 turn; changes Heal & Poison Orbs to Water Orbs
 JP: 1ターンの間、敵の防御力が100％下がる。回復、毒、猛毒ドロップを水ドロップに変化
 EN: For 1 turn, reduce enemies' defense by 100%; Change Heal, Poison, and Mortal Poison orbs to Water orbs

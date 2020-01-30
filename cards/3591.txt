@@ -4,7 +4,7 @@ AWK: 18,18,21,28,28,19
 SAWK: 
 
 # 3776/116 - Meteor Charge - Dark
-Tags: ORB_CONVERT,REDUCE_SKILL_TURN
+Tags: ATTACK_STANCE,ORB_CONVERT,REDUCE_SKILL_TURN
 Game: Changes Light, Heal & Poison to Dark Orbs; other allies' skills charged by 1 turn
 JP: 光、回復、毒、猛毒ドロップを闇ドロップに変化。自分以外の味方スキルが1ターンの溜まる
 EN: Change Light, Heal, Poison, and Mortal Poison orbs to Dark orbs; Charge all allies' skills by 1 turn

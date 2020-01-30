@@ -4,7 +4,7 @@ AWK: 28,28,10,10
 SAWK: 
 
 # 640/117 - Quick Cure
-Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
 JP: 回復力ｘ8倍のHPを回復。バインドと覚醒無効を3ターン回復
 EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns

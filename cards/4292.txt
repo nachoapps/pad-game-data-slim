@@ -4,7 +4,7 @@ AWK: 21,28,53,17,17,29,29,43,43
 SAWK: 60,55,47
 
 # 3718/116 - You're a brave one
-Tags: ORB_CONVERT,EXTENDS_TIME
+Tags: ATTACK_STANCE,ORB_CONVERT,EXTENDS_TIME
 Game: Changes Heal & Poison Orbs to Light Orbs; extends time to move Orbs 1.5x for 2 turns
 JP: 回復、毒、猛毒ドロップを光ドロップに変化。2ターンの間、ドロップ操作時間が1.5倍
 EN: Change Heal, Poison, and Mortal Poison orbs to Light orbs; For 2 turns, 1.5x orb move time

@@ -4,7 +4,7 @@ AWK: 10,10,21,21,28,19,19,50,50
 SAWK: 46,43,55
 
 # 13185/176 - マジカルスマイル
-Tags: LINE_ORBS_CONVERTER
+Tags: 
 Game: 3×3の正方形に回復ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
 JP: 上から3行目と左から2列目の中心に正方形の回復ドロップを1つ生成
 EN: Create a square of Heal orbs with its center at the middle row and the 2nd column from the left

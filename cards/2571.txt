@@ -4,7 +4,7 @@ AWK: 10,10,20,21,17
 SAWK: 57,31,36
 
 # 1884/117 - Gleaming Amaterasu Ring
-Tags: HEAL,ENHANCED_HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Recovers 10x RCV in HP, plus bind status is reduced by 2 turns
 JP: 回復力ｘ10倍のHPを回復。バインドを2ターン回復
 EN: Recover 10x RCV as HP; Reduce binds by 2 turns

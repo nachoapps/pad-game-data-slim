@@ -4,7 +4,7 @@ AWK: 27,27,28,28,28,48,48,27
 SAWK: 43,27,52
 
 # 8535/116 - Bring it on!
-Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,ORB_CONVERT,DOUBLE_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 99 damage on all enemies; changes Wood Orbs to Fire & Dark Orbs to Light
 JP: 敵全体に99の固定ダメージ。木ドロップを火ドロップに、闇ドロップを光ドロップに変化
 EN: Deal 99 fixed damage to all enemies; Change Wood orbs to Fire orbs; Change Dark orbs to Light orbs

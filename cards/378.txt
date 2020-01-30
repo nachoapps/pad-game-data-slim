@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 182/116 - Fire&Wood Orbs Change
-Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Wood Orbs & Jammers to Fire Orbs, and Heal Orbs & Poison Orbs to Wood Orbs
 JP: 木とお邪魔ドロップを火ドロップに変化。回復、毒、猛毒ドロップを木ドロップに変化
 EN: Change Wood and Jammer orbs to Fire orbs; Change Heal, Poison, and Mortal Poison orbs to Wood orbs

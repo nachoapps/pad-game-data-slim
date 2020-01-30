@@ -4,7 +4,7 @@ AWK: 43,27,19,21,27,21,19,10,10
 SAWK: 
 
 # 1866/116 - 超ベジットソード
-Tags: MENACE,FIXED_DAMAGE
+Tags: MENACE,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: 敵1体に15万の固定ダメージ。 敵の行動を1ターン遅らせる。
 JP: 敵1体に15万の固定ダメージ。敵の行動を1ターン遅らせる
 EN: Deal 150000 fixed damage to an enemy; Delay enemies' next attack by 1 turn

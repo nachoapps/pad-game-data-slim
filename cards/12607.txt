@@ -4,7 +4,7 @@ AWK: 17,17,21,28,19
 SAWK: 
 
 # 7856/116 - Princess who guides the Paladins
-Tags: ORB_CONVERT,DROP_CHANCE
+Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
 Game: Changes Heal Orbs, Jammers & Poison Orbs to Light Orbs; Light Orbs slightly more likely to appear for 3 turns
 JP: 回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。3ターンの間、光ドロップが15％落ちやすくなる
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 3 turns, Light orbs are more likely to appear by 15%

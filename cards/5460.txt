@@ -4,7 +4,7 @@ AWK: 10,10,21,21,28,43,60,60,60
 SAWK: 56,48,55
 
 # 14059/176 - アリス!!
-Tags: LINE_ORBS_CONVERTER
+Tags: 
 Game: 3×3の正方形に水ドロップを1つ生成。 （7×6マスの場合は3×4の長方形）
 JP: 上から2行目と左から2列目の中心に正方形の水ドロップを1つ生成
 EN: Create a square of Water orbs with its center at the 2nd row from the top and the 2nd column from the left

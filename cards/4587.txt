@@ -4,7 +4,7 @@ AWK: 27,27,27,27,27,21,21,53,45
 SAWK: 52,27,54
 
 # 8341/116 - Star Wedding Road
-Tags: GUARD_STANCE,DROP_CHANCE,LINE_ORBS_CONVERTER
+Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
 Game: Changes leftmost column to Light & rightmost to Heal; Light Orbs slightly more likely to appear for 4 turns
 JP: 最左端を光に、最右端を回復ドロップに変化。4ターンの間、光ドロップが15％落ちやすくなる
 EN: Change the far left column to Light orbs and change the far right column to Heal orbs; For 4 turns, Light orbs are more likely to appear by 15%

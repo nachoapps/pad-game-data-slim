@@ -4,7 +4,7 @@ AWK: 21,22
 SAWK: 
 
 # 1635/55 - 暗黒魔界の炎
-Tags: FIXED_DAMAGE
+Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: 敵1体に10000の固定ダメージ。
 JP: 敵1体に1万の固定ダメージ
 EN: Deal 10000 fixed damage to an enemy

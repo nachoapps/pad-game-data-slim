@@ -4,7 +4,7 @@ AWK: 10,10,56,21,53,19,59,44,61
 SAWK: 31,32,33
 
 # 13529/116 - Fresh Color Trill
-Tags: GUARD_STANCE,ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REMOVE_LOCK
+Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks, changes Orbs to all Attributes; changes the rightmost column to Heal Orbs
 JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇ドロップに変化。最右端を回復ドロップに変化
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Change the far right column to Heal orbs

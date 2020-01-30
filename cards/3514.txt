@@ -4,7 +4,7 @@ AWK: 14,14,14,14,14,14,14,28,56
 SAWK: 54,57,60
 
 # 6243/116 - Aero Wake - Flare
-Tags: ORB_CONVERT,DROP_CHANCE
+Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
 Game: Changes Wood, Heal, Poison & Jammers to Fire;  Fire Orbs slightly more likely to appear for 4 turns
 JP: 木、回復、お邪魔、毒、猛毒ドロップを火ドロップに変化。4ターンの間、火ドロップが15％落ちやすくなる
 EN: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%

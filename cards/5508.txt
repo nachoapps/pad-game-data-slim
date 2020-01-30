@@ -4,7 +4,7 @@ AWK: 10,10,21,21,19,19,43,27,27
 SAWK: 43,27,55
 
 # 14378/116 - 野球のリズム
-Tags: AWOKEN_INVALID_RECOVERY
+Tags: DROP_CHANCE,AWOKEN_INVALID_RECOVERY
 Game: 覚醒無効状態を5ターン回復。 1ターンの間、水、木、光、闇ドロップのみ落ちてくる。
 JP: 覚醒無効を5ターン回復。1ターンの間、水、木、光、闇ドロップのみ落ちてくる
 EN: Reduce awoken skill binds by 5 turns; For 1 turn, only Water, Wood, Light, and Dark orbs will appear

@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3724/116 - I want to fight too
-Tags: ORB_CONVERT,EXTENDS_TIME
+Tags: ATTACK_STANCE,ORB_CONVERT,EXTENDS_TIME
 Game: Changes Heal & Poison Orbs to Fire Orbs; extends Orb move time by 1 second for 2 turns
 JP: 回復、毒、猛毒ドロップを火ドロップに変化。2ターンの間、ドロップ操作時間が1秒に延長
 EN: Change Heal, Poison, and Mortal Poison orbs to Fire orbs; For 2 turns, increase orb move time by 1 second

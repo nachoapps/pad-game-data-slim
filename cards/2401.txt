@@ -4,7 +4,7 @@ AWK:
 SAWK: 
 
 # 3547/116 - Hell's Garden
-Tags: ORB_CONVERT,DROP_CHANCE
+Tags: GUARD_STANCE,ORB_CONVERT,DROP_CHANCE
 Game: Randomly changes Fire & Water Orbs to Heal & Poison; Poison more likely to appear for 3 turns
 JP: 火と水ドロップを回復と毒ドロップに変化。3ターンの間、毒が15％の確率で落ちてくる
 EN: Change Fire and Water orbs to Heal and Poison orbs; For 3 turns, Poison orbs are more likely to appear by 15%

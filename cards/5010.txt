@@ -4,7 +4,7 @@ AWK: 52,21,21,28,19,19,19,44,63
 SAWK: 21,43,61
 
 # 12497/116 - Gate of Babylon
-Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: 5x ATK for God Type for 1 turn; inflicts 150,000 damage on 1 enemy five times
 JP: 1ターンの間、神タイプの攻撃力が5倍。敵1体に150000ダメージｘ5回
 EN: For 1 turn, 5x ATK for God type; Deal 150000 damage to an enemy 5 times
