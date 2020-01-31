@@ -225,22 +225,32 @@
     level: 1
     groups {
       group_type: PASSIVE
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 10828
         }
       }
     }
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 10831
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -288,6 +298,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 10840
                 }
               }
@@ -300,96 +312,14 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
+            trigger_turn: 1
+            always_trigger_above: 14
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 14
               }
-              children {
-                behavior {
-                  enemy_skill_id: 10844
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 1
-                trigger_turn_end: 3
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 34
-                  }
-                  enemy_skill_id: 10836
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 10837
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 10838
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 4
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 10840
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 5
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 34
-                  }
-                  enemy_skill_id: 10836
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 10837
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 10838
-                }
-              }
+              enemy_skill_id: 10844
             }
           }
         }
@@ -402,6 +332,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 10847
             }
           }
@@ -421,6 +353,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 10850
                 }
               }
@@ -434,6 +368,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 10852
                 }
               }
@@ -443,4 +379,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
