@@ -1,0 +1,20 @@
+#5892 親愛の彩龍喚士・イデアル
+HP: 4555 ATK: 2295 RCV: 875 LB: 30
+AWK: 52,28,51,43,43,43,53,53,56
+SAWK: 60,46,31,54,55
+
+# 15883/116 - スイートメモリーズ
+Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
+Game: 3ターンの間、回復力が3倍。覚醒無効状態を全回復。 全ドロップのロックを解除し、5属性＋回復ドロップに変化。
+JP: 3ターンの間、回復力が3倍。覚醒無効を全回復。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 15888/138 - 沢山あるから、いっぱい食べてね
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Stats: [2.0, 18.0, 2.0, 0.25]
+Game: 【落ちコンなし】ドラゴンとバランスタイプの全パラメータが2倍。 4色以上同時攻撃でダメージを軽減、攻撃力が9倍、2コンボ加算。
+JP: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+EN: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+KR: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+

@@ -1,0 +1,20 @@
+#5891 献身の赤龍喚士・ソニア
+HP: 5444 ATK: 2428 RCV: 214 LB: 30
+AWK: 52,28,56,45,48,48,48,33,34
+SAWK: 56,33,53
+
+# 12650/116 - Dragon Sweets-Fr & Dk
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: Removes all Orb locks and changes Orbs to Fire & Dark Orbs; creates 3 Heal Orbs at random
+JP: 全ドロップのロック状態を解除。全ドロップを火と闇ドロップに変化。回復ドロップを3個生成
+EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs
+KR: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs
+
+# 15880/138 - 味見してもらえないだろうか
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 17.5, 3.5, 0.5]
+Game: ドラゴン、悪魔、体力タイプの攻撃力と回復力が3.5倍。 火を6個以上つなげて消すとダメージを半減、攻撃力が5倍。
+JP: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+EN: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+KR: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+

@@ -4,11 +4,11 @@ AWK: 10,10,28,56,19,16,16,60,60
 SAWK: 60,43,45
 
 # 9885/116 - Sweet Spice
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,ENHANCED_HEAL
 Game: Changes Jammers, Fire & Poison Orbs to Wood Orbs; all Orbs enhanced
-JP: 火、お邪魔、毒、猛毒ドロップを木ドロップに変化。全ドロップを強化
-EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs
-KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs
+JP: 火、お邪魔、毒、猛毒ドロップを木ドロップに変化。全ドロップを強化。1ターンの間、回復力が1.5倍
+EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
+KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
 
 # 9888/138 - Get tastyyy!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

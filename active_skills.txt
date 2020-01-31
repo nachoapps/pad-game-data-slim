@@ -23920,11 +23920,11 @@ EN: Enhance all Dark orbs
 KR: Enhance all Dark orbs
 
 # 9879/116 - Draco Summoning Perception - Dark, Light & Life
-Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
 Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Light, Dark & Heal Orbs
-JP: バインドと覚醒無効を5ターン回復。全ドロップを光、闇、回復ドロップに変化
-EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Light, Dark, and Heal orbs
-KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Light, Dark, and Heal orbs
+JP: バインドと覚醒無効を5ターン回復。全ドロップのロック状態を解除。全ドロップを光、闇、回復ドロップに変化
+EN: Reduce binds and awoken skill binds by 5 turns; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
 
 # 9880/117 - 
 Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -23941,11 +23941,11 @@ EN: Change all orbs to Light, Dark, and Heal orbs
 KR: Change all orbs to Light, Dark, and Heal orbs
 
 # 9885/116 - Sweet Spice
-Tags: ENHANCED_ORBS,ORB_CONVERT
+Tags: ENHANCED_ORBS,ORB_CONVERT,ENHANCED_HEAL
 Game: Changes Jammers, Fire & Poison Orbs to Wood Orbs; all Orbs enhanced
-JP: 火、お邪魔、毒、猛毒ドロップを木ドロップに変化。全ドロップを強化
-EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs
-KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs
+JP: 火、お邪魔、毒、猛毒ドロップを木ドロップに変化。全ドロップを強化。1ターンの間、回復力が1.5倍
+EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
+KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
 
 # 9886/154 - 
 Tags: ORB_CONVERT
@@ -32060,12 +32060,12 @@ JP: 回復ドロップを3個生成
 EN: Create 3 Heal orbs
 KR: Create 3 Heal orbs
 
-# 12657/156 - Beautiful Memories
-Tags: REDUCE_DAMAGE
+# 12657/116 - Beautiful Memories
+Tags: REDUCE_DAMAGE,EXTENDS_TIME
 Game: Reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
-JP: チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
-EN: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
-KR: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+JP: 1ターンの間、ドロップ操作時間が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
+EN: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+KR: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 
 # 12658/18 - 
 Tags: MENACE
@@ -42595,10 +42595,101 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
+# 15883/116 - スイートメモリーズ
+Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
+Game: 3ターンの間、回復力が3倍。覚醒無効状態を全回復。 全ドロップのロックを解除し、5属性＋回復ドロップに変化。
+JP: 3ターンの間、回復力が3倍。覚醒無効を全回復。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 15884/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 3ターンの間、回復力が3倍
+EN: For 3 turns, 3x RCV
+KR: For 3 turns, 3x RCV
+
+# 15885/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を全回復
+EN: Remove all awoken skill binds
+KR: Remove all awoken skill binds
+
+# 15886/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 15887/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 15892/116 - ラブリーチェーン
+Tags: VOID_ATT_ABSORBS
+Game: 1ターンの間、回復力が激減。 1ターンの間、属性吸収を無効化する。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、属性吸収を無効化する
+EN: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
+
+# 15893/50 - 
+Tags: 
+Game: 
+JP: 1ターンの間、回復力が0.25倍
+EN: For 1 turn, 0.25x RCV
+KR: For 1 turn, 0.25x RCV
+
+# 15894/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 1ターンの間、属性吸収を無効化する
+EN: For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, bypass att. absorb shield effects
+
+# 15899/117 - ピュアチョコマジック
+Tags: HEAL
+Game: HPを全回復。
+JP: HPを全回復
+EN: Recover all HP
+KR: Recover all HP
+
 # 16054/179 - 8周年記念たまぁ！
 Tags: HEAL
 Game: 8ターンの間、最大HPの8％分回復。
 JP: 8ターンの間、最大HPの8％分回復
 EN: For 8 turns, recover 8% of max HP
 KR: For 8 turns, recover 8% of max HP
+
+# 16190/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 16191/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が1.5倍
+EN: For 1 turn, 1.5x RCV
+KR: For 1 turn, 1.5x RCV
+
+# 16192/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3倍
+EN: For 1 turn, 3x orb move time
+KR: For 1 turn, 3x orb move time
+
+# 16193/156 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
+EN: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+KR: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 

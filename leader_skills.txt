@@ -40784,11 +40784,11 @@ KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
 # 9882/138 - Will you accept this?...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.0, 12.0, 1.0, 0.25]
+Stats: [1.0, 18.0, 1.0, 0.25]
 Game: 4x ATK & reduces damage when Dark & Light attack at once; 3x ATK for Dragon Type, Orb move time +2 seconds
-JP: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 3x ATK for Dragon type; Increase orb movement time by 2 seconds
-EN: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 3x ATK for Dragon type; Increase orb movement time by 2 seconds
-KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 3x ATK for Dragon type; Increase orb movement time by 2 seconds
+JP: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
+EN: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
+KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
 
 # 9883/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -40800,11 +40800,11 @@ KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light
 
 # 9884/185 - 
 Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 3.0, 1.0, 0]
+Stats: [1.0, 4.5, 1.0, 0]
 Game: 
-JP: 3x ATK for Dragon type; Increase orb movement time by 2 seconds
-EN: 3x ATK for Dragon type; Increase orb movement time by 2 seconds
-KR: 3x ATK for Dragon type; Increase orb movement time by 2 seconds
+JP: 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
+EN: 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
+KR: 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
 
 # 9888/138 - Get tastyyy!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -67142,4 +67142,92 @@ Game:
 JP: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 KR: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+
+# 15880/138 - 味見してもらえないだろうか
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 17.5, 3.5, 0.5]
+Game: ドラゴン、悪魔、体力タイプの攻撃力と回復力が3.5倍。 火を6個以上つなげて消すとダメージを半減、攻撃力が5倍。
+JP: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+EN: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+KR: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+
+# 15881/129 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 3.5, 3.5, 0.0]
+Game: 
+JP: 3.5x ATK & RCV for Physical, Dragon, and Devil type
+EN: 3.5x ATK & RCV for Physical, Dragon, and Devil type
+KR: 3.5x ATK & RCV for Physical, Dragon, and Devil type
+
+# 15882/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.5]
+Game: 
+JP: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+EN: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+KR: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+
+# 15888/138 - 沢山あるから、いっぱい食べてね
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
+Stats: [2.0, 18.0, 2.0, 0.25]
+Game: 【落ちコンなし】ドラゴンとバランスタイプの全パラメータが2倍。 4色以上同時攻撃でダメージを軽減、攻撃力が9倍、2コンボ加算。
+JP: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+EN: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+KR: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
+
+# 15889/163 - 
+Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
+Stats: [2.0, 2.0, 2.0, 0.0]
+Game: 
+JP: [No skyfall] 2x all stats for Balanced and Dragon type
+EN: [No skyfall] 2x all stats for Balanced and Dragon type
+KR: [No skyfall] 2x all stats for Balanced and Dragon type
+
+# 15890/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 9.0, 1, 0.25]
+Game: 
+JP: 9x ATK and reduce damage taken by 25% when matching 4 or more colors
+EN: 9x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 9x ATK and reduce damage taken by 25% when matching 4 or more colors
+
+# 15891/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: increase combo by 2 when matching 4 or more colors
+EN: increase combo by 2 when matching 4 or more colors
+KR: increase combo by 2 when matching 4 or more colors
+
+# 15895/138 - こっ、これからもよろしくね♪
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 1.0, 0.0]
+Game: 神と回復タイプのHPが2倍、攻撃力は4倍。 水を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+JP: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+EN: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+KR: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+
+# 15896/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 4.0, 1.0, 0.0]
+Game: 
+JP: 4x ATK and 2x HP for Healer and God type
+EN: 4x ATK and 2x HP for Healer and God type
+KR: 4x ATK and 2x HP for Healer and God type
+
+# 15897/159 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4x ATK when matching 6 or more connected Water orbs
+EN: 4x ATK when matching 6 or more connected Water orbs
+KR: 4x ATK when matching 6 or more connected Water orbs
+
+# 15898/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 50000 additional damage when matching 6 or more Water orbs
+EN: 50000 additional damage when matching 6 or more Water orbs
+KR: 50000 additional damage when matching 6 or more Water orbs
 

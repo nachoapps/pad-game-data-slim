@@ -1,0 +1,20 @@
+#5894 バレンタインの星海神・アンドロメダ
+HP: 3165 ATK: 1913 RCV: 698 LB: 30
+AWK: 10,10,21,21,28,19,43,33,33
+SAWK: 54,43,48
+
+# 15892/116 - ラブリーチェーン
+Tags: VOID_ATT_ABSORBS
+Game: 1ターンの間、回復力が激減。 1ターンの間、属性吸収を無効化する。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、属性吸収を無効化する
+EN: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
+
+# 15895/138 - こっ、これからもよろしくね♪
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 1.0, 0.0]
+Game: 神と回復タイプのHPが2倍、攻撃力は4倍。 水を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+JP: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+EN: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+KR: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
+
