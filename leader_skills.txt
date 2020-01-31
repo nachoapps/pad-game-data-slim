@@ -3344,7 +3344,7 @@ KR: 1.5x Coin Drop rate
 
 # 786/138 - Monster Hunter 4G Collab Series
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 3.0, 1, 0.75]
+Stats: [1, 9.0, 1, 0.75]
 Game: Greatly reduces damage when HP is full; 3x ATK for each cross of 5 Wood Orbs
 JP: Reduce damage taken by 75% when HP is full; 3x ATK for each cross of 5 Wood orbs
 EN: Reduce damage taken by 75% when HP is full; 3x ATK for each cross of 5 Wood orbs
@@ -4648,7 +4648,7 @@ KR: Reduce damage taken from Light Att. by 70%
 
 # 1249/138 - Monster Hunter 4G Collab Series
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 5.0, 1.0, 0]
+Stats: [1.5, 10.0, 1.0, 0]
 Game: 1.5x HP & 2.5x ATK for Water Att. & Physical Type; 2x ATK for each cross of 5 Water Orbs
 JP: 2.5x ATK and 1.5x HP for Physical type and Water Att.; 2x ATK for each cross of 5 Water orbs
 EN: 2.5x ATK and 1.5x HP for Physical type and Water Att.; 2x ATK for each cross of 5 Water orbs
@@ -8544,7 +8544,7 @@ KR: May survive when HP is reduced to 0 (HP>50%)
 
 # 2355/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -9752,7 +9752,7 @@ KR: 2x ATK for Attacker type; May survive when HP is reduced to 0 (HP>50%)
 
 # 2510/157 - Perish Along With Your Love!!
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 3x ATK for each cross of 5 Light Orbs
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -9760,7 +9760,7 @@ KR: 3x ATK for each cross of 5 Light orbs
 
 # 2511/138 - No Retreat!! No Groveling!!
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 3.0, 1.0, 0.0]
+Stats: [1.5, 9.0, 1.0, 0.0]
 Game: 1.5x HP for Devil Type; 3x ATK for each cross of 5 Light Orbs
 JP: 1.5x HP for Devil type; 3x ATK for each cross of 5 Light orbs
 EN: 1.5x HP for Devil type; 3x ATK for each cross of 5 Light orbs
@@ -11888,7 +11888,7 @@ KR: Reduce damage taken by 75% when HP is full
 
 # 3084/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Wood orbs
 EN: 3x ATK for each cross of 5 Wood orbs
@@ -11904,7 +11904,7 @@ KR: 2.5x ATK and 1.5x HP for Physical type and Water Att.
 
 # 3086/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Water orbs
 EN: 2x ATK for each cross of 5 Water orbs
@@ -22952,7 +22952,7 @@ KR: 2x HP & ATK when in multiplayer mode
 
 # 5533/157 - Let's go.
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 3x ATK for each cross of 5 Fire or Light Orbs
 JP: 3x ATK for each cross of 5 Fire or Light orbs
 EN: 3x ATK for each cross of 5 Fire or Light orbs
@@ -22960,7 +22960,7 @@ KR: 3x ATK for each cross of 5 Fire or Light orbs
 
 # 5534/138 - You give strength to this one's heart.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 7.5, 1, 0.25]
+Stats: [1, 67.5, 1, 0.25]
 Game: 3x ATK for each cross of 5 Fire or Light Orbs; 2.5x ATK & reduces dmg when Fire & Light attack at once
 JP: 3x ATK for each cross of 5 Fire or Light orbs; 2.5x ATK and reduce damage taken by 25% when matching Fire and Light
 EN: 3x ATK for each cross of 5 Fire or Light orbs; 2.5x ATK and reduce damage taken by 25% when matching Fire and Light
@@ -23176,7 +23176,7 @@ KR: Increase orb movement time by 1 seconds
 
 # 5561/138 - I will deny everything that you are.
 Tags: ENHANCED_ATK
-Stats: [1, 6.0, 1.0, 0]
+Stats: [1, 18.0, 1.0, 0]
 Game: 3x ATK for each cross of 5 Dark Orbs; 2x ATK when skills used
 JP: 3x ATK for each cross of 5 Dark orbs; 2x ATK on the turn a skill is used
 EN: 3x ATK for each cross of 5 Dark orbs; 2x ATK on the turn a skill is used
@@ -23184,7 +23184,7 @@ KR: 3x ATK for each cross of 5 Dark orbs; 2x ATK on the turn a skill is used
 
 # 5562/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Dark orbs
 EN: 3x ATK for each cross of 5 Dark orbs
@@ -23200,7 +23200,7 @@ KR: 2x ATK on the turn a skill is used
 
 # 5564/138 - A whipped dog who ran, ought not love his own bark.
 Tags: ENHANCED_ATK_RCV
-Stats: [1, 9.0, 3.0, 0]
+Stats: [1, 27.0, 3.0, 0]
 Game: 3x ATK for each cross of 5 Dark Orbs; 3x ATK & RCV when skills used
 JP: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is used
 EN: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is used
@@ -23208,7 +23208,7 @@ KR: 3x ATK for each cross of 5 Dark orbs; 3x ATK & RCV on the turn a skill is us
 
 # 5565/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Dark orbs
 EN: 3x ATK for each cross of 5 Dark orbs
@@ -23480,7 +23480,7 @@ KR: Reduce damage taken by 20%
 
 # 5599/138 - Evil's Knowledge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 10.5, 1, 0.25]
+Stats: [1, 36.75, 1, 0.25]
 Game: 3.5x ATK for each cross of 5 Fire Orbs; 3x ATK & reduces damage with 2+ Heal combos
 JP: 3.5x ATK for each cross of 5 Fire orbs; 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 EN: 3.5x ATK for each cross of 5 Fire orbs; 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
@@ -23488,7 +23488,7 @@ KR: 3.5x ATK for each cross of 5 Fire orbs; 3x ATK and reduce damage taken by 25
 
 # 5600/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire orbs
 EN: 3.5x ATK for each cross of 5 Fire orbs
@@ -23504,7 +23504,7 @@ KR: 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
 # 5602/138 - Evil Water's Charm
 Tags: ENHANCED_HP_ATK
-Stats: [1.35, 4.05, 1.0, 0.0]
+Stats: [1.35, 12.15, 1.0, 0.0]
 Game: HP & ATK increase a little for Devil Type; 3x ATK for each cross of 5 Water Orbs
 JP: 1.35x HP & ATK for Devil type; 3x ATK for each cross of 5 Water orbs
 EN: 1.35x HP & ATK for Devil type; 3x ATK for each cross of 5 Water orbs
@@ -23520,7 +23520,7 @@ KR: 1.35x HP & ATK for Devil type
 
 # 5604/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK for each cross of 5 Water orbs
@@ -23552,7 +23552,7 @@ KR: 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross f
 
 # 5608/138 - Evil Voice's Jail
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 9.0, 1.0, 0.35]
+Stats: [1, 27.0, 1.0, 0.35]
 Game: 3x ATK for each cross of 5 Light Orbs; 3x ATK & reduces dmg with a cross of 5 Heal Orbs
 JP: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
@@ -23560,7 +23560,7 @@ KR: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35%
 
 # 5609/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -23600,7 +23600,7 @@ KR: 6x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross f
 
 # 5614/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire or Light orbs
 EN: 3x ATK for each cross of 5 Fire or Light orbs
@@ -23872,7 +23872,7 @@ KR: 2.5x ATK when in multiplayer mode
 
 # 5689/138 - The Star of Beauty won't shine again!!
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 9.0, 1.0, 0.0]
+Stats: [1.5, 27.0, 1.0, 0.0]
 Game: 3x ATK & 1.5x HP for Attacker Type; 3x ATK for each cross of 5 Water Orbs
 JP: 3x ATK and 1.5x HP for Attacker type; 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK and 1.5x HP for Attacker type; 3x ATK for each cross of 5 Water orbs
@@ -23888,7 +23888,7 @@ KR: 3x ATK and 1.5x HP for Attacker type
 
 # 5691/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK for each cross of 5 Water orbs
@@ -24008,7 +24008,7 @@ KR: 2x ATK when matching 3+ Light combos
 
 # 5706/138 - Godly Wall of Holy Forest X
 Tags: ENHANCED_ATK
-Stats: [1, 6.0, 1, 0]
+Stats: [1, 13.52, 1, 0]
 Game: 1.5x ATK for each cross of 5 Wood or Light Orbs; 4x ATK when Wood & Light attack at once
 JP: 1.5x ATK for each cross of 5 Wood or Light orbs; 4x ATK when matching Wood and Light
 EN: 1.5x ATK for each cross of 5 Wood or Light orbs; 4x ATK when matching Wood and Light
@@ -24016,7 +24016,7 @@ KR: 1.5x ATK for each cross of 5 Wood or Light orbs; 4x ATK when matching Wood a
 
 # 5707/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 3.38, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Wood or Light orbs
 EN: 1.5x ATK for each cross of 5 Wood or Light orbs
@@ -24328,7 +24328,7 @@ KR: 3x ATK & RCV for Machine type
 
 # 5749/138 - Robe of Protection X
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 3.0, 1, 0.8]
+Stats: [1, 9.0, 1, 0.8]
 Game: Vastly reduces damage when HP is full; 3x ATK for each cross of 5 Wood Orbs
 JP: Reduce damage taken by 80% when HP is full; 3x ATK for each cross of 5 Wood orbs
 EN: Reduce damage taken by 80% when HP is full; 3x ATK for each cross of 5 Wood orbs
@@ -24344,7 +24344,7 @@ KR: Reduce damage taken by 80% when HP is full
 
 # 5751/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Wood orbs
 EN: 3x ATK for each cross of 5 Wood orbs
@@ -24728,7 +24728,7 @@ KR: 1.5x HP & ATK for Machine type
 
 # 5803/138 - Song of Valhalla X
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 3.75, 1.0, 0.0]
+Stats: [2.0, 5.62, 1.0, 0.0]
 Game: 2.5x ATK & 2x HP for Fire Att. and God Type; 1.5x ATK for each cross of 5 Fire Orbs
 JP: 2.5x ATK and 2x HP for God type and Fire Att.; 1.5x ATK for each cross of 5 Fire orbs
 EN: 2.5x ATK and 2x HP for God type and Fire Att.; 1.5x ATK for each cross of 5 Fire orbs
@@ -24744,7 +24744,7 @@ KR: 2.5x ATK and 2x HP for God type and Fire Att.
 
 # 5805/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 2.25, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Fire orbs
 EN: 1.5x ATK for each cross of 5 Fire orbs
@@ -26616,7 +26616,7 @@ KR: 4x ATK when matching 2+ Dark combos
 
 # 6304/138 - Legacy: Ancient Dragon's Hellfire
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 5.25, 1.5, 0.0]
+Stats: [1.0, 18.38, 1.5, 0.0]
 Game: 1.5x ATK & RCV for Dragon Type; 3.5x ATK for each cross of 5 Fire Orbs
 JP: 1.5x ATK & RCV for Dragon type; 3.5x ATK for each cross of 5 Fire orbs
 EN: 1.5x ATK & RCV for Dragon type; 3.5x ATK for each cross of 5 Fire orbs
@@ -26632,7 +26632,7 @@ KR: 1.5x ATK & RCV for Dragon type
 
 # 6306/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire orbs
 EN: 3.5x ATK for each cross of 5 Fire orbs
@@ -26640,7 +26640,7 @@ KR: 3.5x ATK for each cross of 5 Fire orbs
 
 # 6314/138 - Legacy: Elder's Glory
 Tags: ENHANCED_ATK
-Stats: [1.0, 7.5, 1.0, 0]
+Stats: [1.0, 67.5, 1.0, 0]
 Game: 2.5x ATK when Eldora Armor X Dragon Caller, Ana is on your team; 3x ATK for each cross of 5 Wood or Fire Orbs
 JP: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire or Wood orbs
 EN: 2.5x ATK if [3447] is on the team; 3x ATK for each cross of 5 Fire or Wood orbs
@@ -26656,7 +26656,7 @@ KR: 2.5x ATK if [3447] is on the team
 
 # 6316/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire or Wood orbs
 EN: 3x ATK for each cross of 5 Fire or Wood orbs
@@ -27080,7 +27080,7 @@ KR: 1.5x HP & RCV for God type
 
 # 6404/138 - Unrest in Asgard
 Tags: AUTO_HEAL,ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 3.5x ATK for each cross of 5 Wood or Light Orbs; recovers 10x RCV as HP when matching Orbs
 JP: 3.5x ATK for each cross of 5 Wood or Light orbs; 10x RCV additional heal when matching orbs
 EN: 3.5x ATK for each cross of 5 Wood or Light orbs; 10x RCV additional heal when matching orbs
@@ -27088,7 +27088,7 @@ KR: 3.5x ATK for each cross of 5 Wood or Light orbs; 10x RCV additional heal whe
 
 # 6405/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Wood or Light orbs
 EN: 3.5x ATK for each cross of 5 Wood or Light orbs
@@ -27272,7 +27272,7 @@ KR: 4x ATK when matching 6 or more connected Fire orbs
 
 # 6438/138 - Shatter, Kyokasuigetsu.
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 9.0, 1.5, 0]
+Stats: [1.0, 13.5, 1.5, 0]
 Game: 6x ATK for Dark Att. & 1.5x RCV for Water Att.;  1.5x ATK for each cross of 5 Dark Orbs;
 JP: 6x ATK for Dark Att.; 1.5x RCV for Water Att.; 1.5x ATK for each cross of 5 Dark orbs
 EN: 6x ATK for Dark Att.; 1.5x RCV for Water Att.; 1.5x ATK for each cross of 5 Dark orbs
@@ -27288,7 +27288,7 @@ KR: 6x ATK for Dark Att.; 1.5x RCV for Water Att.
 
 # 6440/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 2.25, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Dark orbs
 EN: 1.5x ATK for each cross of 5 Dark orbs
@@ -27296,7 +27296,7 @@ KR: 1.5x ATK for each cross of 5 Dark orbs
 
 # 6441/138 - From now on... I alone will stand at the top.
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 12.0, 2.0, 0]
+Stats: [1.0, 24.0, 2.0, 0]
 Game: 6x ATK for Dark Att. & 2x RCV for Water Att.;  2x ATK for each cross of 5 Dark Orbs
 JP: 6x ATK for Dark Att.; 2x RCV for Water Att.; 2x ATK for each cross of 5 Dark orbs
 EN: 6x ATK for Dark Att.; 2x RCV for Water Att.; 2x ATK for each cross of 5 Dark orbs
@@ -27312,7 +27312,7 @@ KR: 6x ATK for Dark Att.; 2x RCV for Water Att.
 
 # 6443/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Dark orbs
 EN: 2x ATK for each cross of 5 Dark orbs
@@ -27704,7 +27704,7 @@ KR: 2.5x ATK when matching 6 or more connected Fire orbs
 
 # 6498/138 - This is the only choice I have
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 3.0, 1.0, 0.0]
+Stats: [2.0, 4.5, 1.0, 0.0]
 Game: 2x HP & ATK for Light Att.; 1.5x ATK for each cross of 5 Light Orbs
 JP: 2x HP & ATK for Light Att.; 1.5x ATK for each cross of 5 Light orbs
 EN: 2x HP & ATK for Light Att.; 1.5x ATK for each cross of 5 Light orbs
@@ -27720,7 +27720,7 @@ KR: 2x HP & ATK for Light Att.
 
 # 6500/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 2.25, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Light orbs
 EN: 1.5x ATK for each cross of 5 Light orbs
@@ -27728,7 +27728,7 @@ KR: 1.5x ATK for each cross of 5 Light orbs
 
 # 6501/138 - Sign of Mimir X
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 2.5, 1.0, 0.0]
+Stats: [2.0, 15.62, 1.0, 0.0]
 Game: 2x HP for Water Att. & God Type; 2.5x ATK with each cross of 5 Water or Dark Orbs
 JP: 2x HP for God type and Water Att.; 2.5x ATK for each cross of 5 Water or Dark orbs
 EN: 2x HP for God type and Water Att.; 2.5x ATK for each cross of 5 Water or Dark orbs
@@ -27744,7 +27744,7 @@ KR: 2x HP for God type and Water Att.
 
 # 6503/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Water or Dark orbs
 EN: 2.5x ATK for each cross of 5 Water or Dark orbs
@@ -27920,7 +27920,7 @@ KR: 3x ATK when matching 2 Water combos, up to 10x at 4 Water combos
 
 # 6525/138 - Axiom of Salvation
 Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
-Stats: [1.5, 4.5, 1.5, 0.0]
+Stats: [1.5, 40.5, 1.5, 0.0]
 Game: [No Skyfall Combos], 1.5x to all stats for Wood Att.; 3x ATK for each cross of 5 Wood or Fire Orbs
 JP: [No skyfall] 1.5x all stats for Wood Att.; 3x ATK for each cross of 5 Wood or Fire orbs
 EN: [No skyfall] 1.5x all stats for Wood Att.; 3x ATK for each cross of 5 Wood or Fire orbs
@@ -27936,7 +27936,7 @@ KR: [No skyfall] 1.5x all stats for Wood Att.
 
 # 6527/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Wood or Fire orbs
 EN: 3x ATK for each cross of 5 Wood or Fire orbs
@@ -28752,7 +28752,7 @@ KR: 1.5x ATK when matching 2 Fire combos, up to 2x at 3 Fire combos
 
 # 6908/138 - Sacred Young Flora
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 3.0, 1.0, 0.0]
+Stats: [2.0, 6.76, 1.0, 0.0]
 Game: 2x HP & ATK for Healer Type; 1.5x ATK for each cross of 5 Wood or Light Orbs
 JP: 2x HP & ATK for Healer type; 1.5x ATK for each cross of 5 Wood or Light orbs
 EN: 2x HP & ATK for Healer type; 1.5x ATK for each cross of 5 Wood or Light orbs
@@ -28768,7 +28768,7 @@ KR: 2x HP & ATK for Healer type
 
 # 6910/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 3.38, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Wood or Light orbs
 EN: 1.5x ATK for each cross of 5 Wood or Light orbs
@@ -29336,7 +29336,7 @@ KR: 3x ATK when matching 2+ Light combos
 
 # 7008/157 - I'm gonna play on that field!!
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 2.5x ATK for each cross of 5 Fire or Wood Orbs
 JP: 2.5x ATK for each cross of 5 Fire or Wood orbs
 EN: 2.5x ATK for each cross of 5 Fire or Wood orbs
@@ -29344,7 +29344,7 @@ KR: 2.5x ATK for each cross of 5 Fire or Wood orbs
 
 # 7009/138 - I'm not letting you hit this ball!
 Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 3x ATK for each cross of 5 Fire or Wood Orbs; Orb move time +2 seconds
 JP: 3x ATK for each cross of 5 Fire or Wood orbs; Increase orb movement time by 2 seconds
 EN: 3x ATK for each cross of 5 Fire or Wood orbs; Increase orb movement time by 2 seconds
@@ -29600,7 +29600,7 @@ KR: 1.5x ATK when matching 5 or more connected Light or Dark orbs
 
 # 7052/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire or Wood orbs
 EN: 3x ATK for each cross of 5 Fire or Wood orbs
@@ -29776,7 +29776,7 @@ KR: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross f
 
 # 7079/138 - You can change!
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 5.25, 1.0, 0.0]
+Stats: [1.5, 18.38, 1.0, 0.0]
 Game: 1.5x ATK & HP for Attacker & Physical Types; 3.5x ATK for each cross of 5 Fire Orbs
 JP: 1.5x HP & ATK for Physical and Attacker type; 3.5x ATK for each cross of 5 Fire orbs
 EN: 1.5x HP & ATK for Physical and Attacker type; 3.5x ATK for each cross of 5 Fire orbs
@@ -29792,7 +29792,7 @@ KR: 1.5x HP & ATK for Physical and Attacker type
 
 # 7081/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire orbs
 EN: 3.5x ATK for each cross of 5 Fire orbs
@@ -29800,7 +29800,7 @@ KR: 3.5x ATK for each cross of 5 Fire orbs
 
 # 7082/138 - Givin' it all I got, every damn day!
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [2.0, 8.0, 1.0, 0]
+Stats: [2.0, 32.0, 1.0, 0]
 Game: 2x HP & ATK for Attacker & Physical Types, Orb move time +3 seconds; 4x ATK for each cross of 5 Fire Orbs
 JP: 2x HP & ATK for Physical and Attacker type; Increase orb movement time by 3 seconds; 4x ATK for each cross of 5 Fire orbs
 EN: 2x HP & ATK for Physical and Attacker type; Increase orb movement time by 3 seconds; 4x ATK for each cross of 5 Fire orbs
@@ -29816,7 +29816,7 @@ KR: 2x HP & ATK for Physical and Attacker type; Increase orb movement time by 3 
 
 # 7084/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Fire orbs
 EN: 4x ATK for each cross of 5 Fire orbs
@@ -31344,7 +31344,7 @@ KR: [Board becomes 7x6] 1.5x HP & ATK for Devil type
 
 # 7352/138 - Divine Clock of Woven Destinies
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 5.25, 1.0, 0]
+Stats: [2.0, 7.88, 1.0, 0]
 Game: 3.5x ATK for Wood Att. & 2x HP for Fire Att.; 1.5x ATK for each cross of 5 Wood Orbs
 JP: 3.5x ATK for Wood Att.; 2x HP for Fire Att.; 1.5x ATK for each cross of 5 Wood orbs
 EN: 3.5x ATK for Wood Att.; 2x HP for Fire Att.; 1.5x ATK for each cross of 5 Wood orbs
@@ -31360,7 +31360,7 @@ KR: 3.5x ATK for Wood Att.; 2x HP for Fire Att.
 
 # 7354/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 2.25, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Wood orbs
 EN: 1.5x ATK for each cross of 5 Wood orbs
@@ -31544,7 +31544,7 @@ KR: 2x ATK when matching 6 or more connected Light orbs
 
 # 7391/138 - Thunderstone Swordplay
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 10.0, 1.0, 0]
+Stats: [1.5, 20.0, 1.0, 0]
 Game: 5x ATK for Light Att. & 1.5x HP for Wood Att.; 2x ATK for each cross of 5 Light Orbs
 JP: 5x ATK for Light Att.; 1.5x HP for Wood Att.; 2x ATK for each cross of 5 Light orbs
 EN: 5x ATK for Light Att.; 1.5x HP for Wood Att.; 2x ATK for each cross of 5 Light orbs
@@ -31560,7 +31560,7 @@ KR: 5x ATK for Light Att.; 1.5x HP for Wood Att.
 
 # 7393/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Light orbs
 EN: 2x ATK for each cross of 5 Light orbs
@@ -31736,7 +31736,7 @@ KR: 2.5x ATK & RCV for God type on the turn a skill is used
 
 # 7433/138 - Fifth Dragon Awakening
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 10.0, 1, 0.5]
+Stats: [1, 25.0, 1, 0.5]
 Game: 4x ATK & halves damage with 7+ combos; 2.5x ATK for each cross of 5 Fire Orbs
 JP: 4x ATK and reduce damage taken by 50% when 7 or more combos; 2.5x ATK for each cross of 5 Fire orbs
 EN: 4x ATK and reduce damage taken by 50% when 7 or more combos; 2.5x ATK for each cross of 5 Fire orbs
@@ -31752,7 +31752,7 @@ KR: 4x ATK and reduce damage taken by 50% when 7 or more combos
 
 # 7435/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire orbs
 EN: 2.5x ATK for each cross of 5 Fire orbs
@@ -31760,7 +31760,7 @@ KR: 2.5x ATK for each cross of 5 Fire orbs
 
 # 7439/138 - Eighth Dragon Awakening - Sea
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 15.0, 1, 0.5]
+Stats: [1, 37.5, 1, 0.5]
 Game: 6x ATK & halves damage when attacking with 5+ Att.; 2.5x ATK for each cross of 5 Water Orbs
 JP: 6x ATK and reduce damage taken by 50% when matching 5 or more colors; 2.5x ATK for each cross of 5 Water orbs
 EN: 6x ATK and reduce damage taken by 50% when matching 5 or more colors; 2.5x ATK for each cross of 5 Water orbs
@@ -31776,7 +31776,7 @@ KR: 6x ATK and reduce damage taken by 50% when matching 5 or more colors
 
 # 7441/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Water orbs
 EN: 2.5x ATK for each cross of 5 Water orbs
@@ -31784,7 +31784,7 @@ KR: 2.5x ATK for each cross of 5 Water orbs
 
 # 7445/138 - Seventh Dragon Awakening
 Tags: ENHANCED_ATK_RCV
-Stats: [1, 15.0, 3.0, 0]
+Stats: [1, 375.0, 3.0, 0]
 Game: 2x ATK & RCV with 2 Wood combos, 3x ATK with 3+ combos; 5x ATK for each cross of 5 Poison or Lethal Poison Orbs
 JP: 2x ATK & RCV when matching 2 Wood combos, up to 3x at 3 Wood combos; 5x ATK for each cross of 5 Poison or Mortal Poison orbs
 EN: 2x ATK & RCV when matching 2 Wood combos, up to 3x at 3 Wood combos; 5x ATK for each cross of 5 Poison or Mortal Poison orbs
@@ -31800,7 +31800,7 @@ KR: 2x ATK & RCV when matching 2 Wood combos, up to 3x at 3 Wood combos
 
 # 7447/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 5.0, 1, 0]
+Stats: [1, 125.0, 1, 0]
 Game: 
 JP: 5x ATK for each cross of 5 Poison or Mortal Poison orbs
 EN: 5x ATK for each cross of 5 Poison or Mortal Poison orbs
@@ -31832,7 +31832,7 @@ KR: 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross f
 
 # 7457/138 - Ninth Dragon Awakening
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 17.5, 1, 0.5]
+Stats: [1, 43.75, 1, 0.5]
 Game: 7x ATK & halves damage with 3+ Heal combos; 2.5x ATK for each cross of 5 Dark Orbs
 JP: 7x ATK and reduce damage taken by 50% when matching 3+ Heal combos; 2.5x ATK for each cross of 5 Dark orbs
 EN: 7x ATK and reduce damage taken by 50% when matching 3+ Heal combos; 2.5x ATK for each cross of 5 Dark orbs
@@ -31848,7 +31848,7 @@ KR: 7x ATK and reduce damage taken by 50% when matching 3+ Heal combos
 
 # 7459/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Dark orbs
 EN: 2.5x ATK for each cross of 5 Dark orbs
@@ -32456,7 +32456,7 @@ KR: 8x RCV additional heal when matching orbs
 
 # 7579/157 - Death Seal
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 2.5x ATK for each cross of 5 Dark Orbs
 JP: 2.5x ATK for each cross of 5 Dark orbs
 EN: 2.5x ATK for each cross of 5 Dark orbs
@@ -32720,7 +32720,7 @@ KR: 2.5x ATK when matching 5 or more connected Water or Light orbs up to 4x at 8
 
 # 7634/138 - Hallowed Authority
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 7.5, 2.5, 0.0]
+Stats: [1.0, 22.5, 2.5, 0.0]
 Game: 2.5x ATK & RCV for God Type; 3x ATK for each cross of 5 Light Orbs
 JP: 2.5x ATK & RCV for God type; 3x ATK for each cross of 5 Light orbs
 EN: 2.5x ATK & RCV for God type; 3x ATK for each cross of 5 Light orbs
@@ -32736,7 +32736,7 @@ KR: 2.5x ATK & RCV for God type
 
 # 7636/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -32968,7 +32968,7 @@ KR: 6x ATK when matching 5 or more colors (4+heal)
 
 # 7830/138 - Show me what you're made of!
 Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
-Stats: [1.5, 4.5, 1.5, 0.0]
+Stats: [1.5, 40.5, 1.5, 0.0]
 Game: [No Skyfall Combos], 1.5x to all stats for Water Att.; 3x ATK for each cross of 5 Water or Wood Orbs
 JP: [No skyfall] 1.5x all stats for Water Att.; 3x ATK for each cross of 5 Water or Wood orbs
 EN: [No skyfall] 1.5x all stats for Water Att.; 3x ATK for each cross of 5 Water or Wood orbs
@@ -32984,7 +32984,7 @@ KR: [No skyfall] 1.5x all stats for Water Att.
 
 # 7832/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water or Wood orbs
 EN: 3x ATK for each cross of 5 Water or Wood orbs
@@ -33008,7 +33008,7 @@ KR: Reduce damage taken by 20%
 
 # 7838/138 - Form Voltron!
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 4.5, 1.0, 0.0]
+Stats: [1.5, 13.5, 1.0, 0.0]
 Game: 1.5x HP & ATK for Machine & Physical Types; 3x ATK for each cross of 5 Fire Orbs
 JP: 1.5x HP & ATK for Physical and Machine type; 3x ATK for each cross of 5 Fire orbs
 EN: 1.5x HP & ATK for Physical and Machine type; 3x ATK for each cross of 5 Fire orbs
@@ -33024,7 +33024,7 @@ KR: 1.5x HP & ATK for Physical and Machine type
 
 # 7840/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire orbs
 EN: 3x ATK for each cross of 5 Fire orbs
@@ -33032,7 +33032,7 @@ KR: 3x ATK for each cross of 5 Fire orbs
 
 # 7841/138 - Form shoulder cannon!
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 5.25, 1.0, 0.0]
+Stats: [1.5, 18.38, 1.0, 0.0]
 Game: 1.5x HP & ATK for Machine & Physical Types; 3.5x ATK for each cross of 5 Fire Orbs
 JP: 1.5x HP & ATK for Physical and Machine type; 3.5x ATK for each cross of 5 Fire orbs
 EN: 1.5x HP & ATK for Physical and Machine type; 3.5x ATK for each cross of 5 Fire orbs
@@ -33048,7 +33048,7 @@ KR: 1.5x HP & ATK for Physical and Machine type
 
 # 7843/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire orbs
 EN: 3.5x ATK for each cross of 5 Fire orbs
@@ -33056,7 +33056,7 @@ KR: 3.5x ATK for each cross of 5 Fire orbs
 
 # 7844/138 - Form sword!
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 7.0, 1.0, 0.0]
+Stats: [2.0, 24.5, 1.0, 0.0]
 Game: 2x HP & ATK for Machine & Physical Types; 3.5x ATK for each cross of 5 Fire Orbs
 JP: 2x HP & ATK for Physical and Machine type; 3.5x ATK for each cross of 5 Fire orbs
 EN: 2x HP & ATK for Physical and Machine type; 3.5x ATK for each cross of 5 Fire orbs
@@ -33072,7 +33072,7 @@ KR: 2x HP & ATK for Physical and Machine type
 
 # 7846/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire orbs
 EN: 3.5x ATK for each cross of 5 Fire orbs
@@ -33552,7 +33552,7 @@ KR:
 
 # 7941/138 - End's Return
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 6.0, 1.5, 0.0]
+Stats: [1.5, 24.0, 1.5, 0.0]
 Game: 1.5x to all stats for Dragon & Devil Types; 4x ATK for each cross of 5 Jammers
 JP: 1.5x all stats for Dragon and Devil type; 4x ATK for each cross of 5 Jammer orbs
 EN: 1.5x all stats for Dragon and Devil type; 4x ATK for each cross of 5 Jammer orbs
@@ -33568,7 +33568,7 @@ KR: 1.5x all stats for Dragon and Devil type
 
 # 7943/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Jammer orbs
 EN: 4x ATK for each cross of 5 Jammer orbs
@@ -33720,7 +33720,7 @@ KR: 3x ATK when matching 2+ Water combos
 
 # 7983/138 - The Scorching Blade
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 6.0, 2.0, 0.0]
+Stats: [1.0, 54.0, 2.0, 0.0]
 Game: 2x ATK & RCV for Dragon & Attacker Types; 3x ATK for each cross of 5 Fire or Dark Orbs
 JP: 2x ATK & RCV for Dragon and Attacker type; 3x ATK for each cross of 5 Fire or Dark orbs
 EN: 2x ATK & RCV for Dragon and Attacker type; 3x ATK for each cross of 5 Fire or Dark orbs
@@ -33736,7 +33736,7 @@ KR: 2x ATK & RCV for Dragon and Attacker type
 
 # 7985/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire or Dark orbs
 EN: 3x ATK for each cross of 5 Fire or Dark orbs
@@ -33792,7 +33792,7 @@ KR: Reduce damage taken from Light and Dark Att. by 50%
 
 # 8001/138 - The Queen of the Land
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 10.0, 1, 0.25]
+Stats: [1, 25.0, 1, 0.25]
 Game: 4x ATK & reduces damage with 2+ Wood combos; 2.5x ATK for each cross of 5 Wood Orbs
 JP: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK for each cross of 5 Wood orbs
 EN: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2.5x ATK for each cross of 5 Wood orbs
@@ -33808,7 +33808,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 2+ Wood combos
 
 # 8003/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Wood orbs
 EN: 2.5x ATK for each cross of 5 Wood orbs
@@ -33816,7 +33816,7 @@ KR: 2.5x ATK for each cross of 5 Wood orbs
 
 # 8007/138 - The Raging Brute
 Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
-Stats: [1.5, 5.25, 1.5, 0.0]
+Stats: [1.5, 64.32, 1.5, 0.0]
 Game: [No Skyfall Combos], 1.5x to all stats for Dragon Type; 3.5x ATK for each cross of 5 Fire or Wood Orbs
 JP: [No skyfall] 1.5x all stats for Dragon type; 3.5x ATK for each cross of 5 Fire or Wood orbs
 EN: [No skyfall] 1.5x all stats for Dragon type; 3.5x ATK for each cross of 5 Fire or Wood orbs
@@ -33832,7 +33832,7 @@ KR: [No skyfall] 1.5x all stats for Dragon type
 
 # 8009/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire or Wood orbs
 EN: 3.5x ATK for each cross of 5 Fire or Wood orbs
@@ -33912,7 +33912,7 @@ KR: 1.5x all stats when in multiplayer mode
 
 # 8032/157 - Massacre Spirit
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 64.0, 1, 0]
 Game: 4x ATK for each cross of 5 Wood or Dark Orbs
 JP: 4x ATK for each cross of 5 Wood or Dark orbs
 EN: 4x ATK for each cross of 5 Wood or Dark orbs
@@ -34008,7 +34008,7 @@ KR: 8x ATK when matching 8 or more connected Fire orbs
 
 # 8062/138 - Prophecy of Judgment
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [2.0, 2.0, 2.0, 0.0]
+Stats: [2.0, 4.0, 2.0, 0.0]
 Game: 2x HP & RCV for Light Att.; 2x ATK for each cross of 5 Light Orbs
 JP: 2x HP & RCV for Light Att.; 2x ATK for each cross of 5 Light orbs
 EN: 2x HP & RCV for Light Att.; 2x ATK for each cross of 5 Light orbs
@@ -34024,7 +34024,7 @@ KR: 2x HP & RCV for Light Att.
 
 # 8064/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Light orbs
 EN: 2x ATK for each cross of 5 Light orbs
@@ -34128,7 +34128,7 @@ KR: 4x ATK when matching 4 or more colors
 
 # 8092/138 - Reminiscences of the Morning Star
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 10.0, 1.0, 0.35]
+Stats: [1, 62.48, 1.0, 0.35]
 Game: 2.5x ATK for each cross of 5 Dark or Wood Orbs; 4x ATK & reduces damage with a cross of 5 Heal Orbs
 JP: 2.5x ATK for each cross of 5 Dark or Wood orbs; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 2.5x ATK for each cross of 5 Dark or Wood orbs; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
@@ -34136,7 +34136,7 @@ KR: 2.5x ATK for each cross of 5 Dark or Wood orbs; 4x ATK and reduce damage tak
 
 # 8093/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Dark or Wood orbs
 EN: 2.5x ATK for each cross of 5 Dark or Wood orbs
@@ -36520,7 +36520,7 @@ KR:
 
 # 8820/138 - Chojin Cross Slam
 Tags: ENHANCED_HP_ATK
-Stats: [1.35, 4.5, 1.0, 0.0]
+Stats: [1.35, 6.75, 1.0, 0.0]
 Game: 3x ATK for Devil & Attacker Types, plus their HP increases slightly; 1.5x ATK for each cross of 5 Fire Orbs
 JP: 3x ATK and 1.35x HP for Attacker and Devil type; 1.5x ATK for each cross of 5 Fire orbs
 EN: 3x ATK and 1.35x HP for Attacker and Devil type; 1.5x ATK for each cross of 5 Fire orbs
@@ -36536,7 +36536,7 @@ KR: 3x ATK and 1.35x HP for Attacker and Devil type
 
 # 8822/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 1.5, 1, 0]
+Stats: [1, 2.25, 1, 0]
 Game: 
 JP: 1.5x ATK for each cross of 5 Fire orbs
 EN: 1.5x ATK for each cross of 5 Fire orbs
@@ -36648,7 +36648,7 @@ KR: 4x ATK when matching 4 or more connected Water or Dark orbs up to 8x at 8 or
 
 # 8848/138 - Demon Crown Mania
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 9.0, 1.0, 0.5]
+Stats: [1, 27.0, 1.0, 0.5]
 Game: 3x ATK for each cross of 5 Light Orbs; 3x ATK & halves damage with a cross of 5 Heal Orbs
 JP: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
@@ -36656,7 +36656,7 @@ KR: 3x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 50%
 
 # 8849/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -36672,7 +36672,7 @@ KR: 3x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross f
 
 # 8851/138 - Hell's March
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 12.0, 1.0, 0.35]
+Stats: [1, 48.0, 1.0, 0.35]
 Game: 4x ATK for each cross of 5 Light Orbs; 3x ATK & reduces damage with a cross of 5 Heal Orbs
 JP: 4x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 4x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
@@ -36680,7 +36680,7 @@ KR: 4x ATK for each cross of 5 Light orbs; 3x ATK and reduce damage taken by 35%
 
 # 8852/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Light orbs
 EN: 4x ATK for each cross of 5 Light orbs
@@ -37232,7 +37232,7 @@ KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal
 
 # 8962/138 - Avatar of Vidyaraja
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Stats: [2.0, 6.0, 1.0, 0.0]
+Stats: [2.0, 54.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 2x HP & ATK for God & Healer Types; 3x ATK for each cross of 5 Wood or Light Orbs
 JP: [No skyfall] 2x HP & ATK for Healer and God type; 3x ATK for each cross of 5 Wood or Light orbs
 EN: [No skyfall] 2x HP & ATK for Healer and God type; 3x ATK for each cross of 5 Wood or Light orbs
@@ -37248,7 +37248,7 @@ KR: [No skyfall] 2x HP & ATK for Healer and God type
 
 # 8964/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Wood or Light orbs
 EN: 3x ATK for each cross of 5 Wood or Light orbs
@@ -37744,7 +37744,7 @@ KR: 4x ATK when matching Light and Fire
 
 # 9074/138 - Time Judgment's Draco Summoning Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 8.0, 1, 0.25]
+Stats: [1, 32.0, 1, 0.25]
 Game: 4x ATK & reduces dmg when Dark & Wood attack at once; 2x ATK for each cross of 5 Wood, Light or Dark Orbs
 JP: 4x ATK and reduce damage taken by 25% when matching Dark and Wood; 2x ATK for each cross of 5 Wood, Light, or Dark orbs
 EN: 4x ATK and reduce damage taken by 25% when matching Dark and Wood; 2x ATK for each cross of 5 Wood, Light, or Dark orbs
@@ -37760,7 +37760,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching Dark and Wood
 
 # 9076/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 8.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Wood, Light, or Dark orbs
 EN: 2x ATK for each cross of 5 Wood, Light, or Dark orbs
@@ -38280,7 +38280,7 @@ KR: 2.5x ATK & RCV when matching 2+ Light combos
 
 # 9286/138 - I'll stay here a while longer.
 Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Stats: [1.0, 10.0, 1.0, 0.0]
 Game: 2.5x ATK for Balanced Type; 2x ATK for each cross of 5 Light Orbs
 JP: 2.5x ATK for Balanced type; 2x ATK for each cross of 5 Light orbs
 EN: 2.5x ATK for Balanced type; 2x ATK for each cross of 5 Light orbs
@@ -38296,7 +38296,7 @@ KR: 2.5x ATK for Balanced type
 
 # 9288/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Light orbs
 EN: 2x ATK for each cross of 5 Light orbs
@@ -38304,7 +38304,7 @@ KR: 2x ATK for each cross of 5 Light orbs
 
 # 9289/138 - I can't have him die again...
 Tags: ENHANCED_ATK
-Stats: [1.0, 6.0, 1.0, 0.0]
+Stats: [1.0, 12.0, 1.0, 0.0]
 Game: 3x ATK for Balanced Type; 2x ATK for each cross of 5 Light Orbs
 JP: 3x ATK for Balanced type; 2x ATK for each cross of 5 Light orbs
 EN: 3x ATK for Balanced type; 2x ATK for each cross of 5 Light orbs
@@ -38320,7 +38320,7 @@ KR: 3x ATK for Balanced type
 
 # 9291/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 4.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Light orbs
 EN: 2x ATK for each cross of 5 Light orbs
@@ -39296,7 +39296,7 @@ KR: 2x ATK when 4 or more combos up to 4x at 8 combos
 
 # 9500/138 - Phantom's Knowledge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 10.5, 1, 0.25]
+Stats: [1, 128.64, 1, 0.25]
 Game: 3.5x ATK for each cross of 5 Fire or Dark Orbs; 3x ATK & reduces damage with 2+ Heal combos
 JP: 3.5x ATK for each cross of 5 Fire or Dark orbs; 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 EN: 3.5x ATK for each cross of 5 Fire or Dark orbs; 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
@@ -39304,7 +39304,7 @@ KR: 3.5x ATK for each cross of 5 Fire or Dark orbs; 3x ATK and reduce damage tak
 
 # 9501/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire or Dark orbs
 EN: 3.5x ATK for each cross of 5 Fire or Dark orbs
@@ -39320,7 +39320,7 @@ KR: 3x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
 # 9503/138 - Evil Aroma's Charm
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 4.5, 1.0, 0.0]
+Stats: [1.5, 40.5, 1.0, 0.0]
 Game: 1.5x HP & ATK for Devil Type;  3x ATK for each cross of 5 Water or Light Orbs
 JP: 1.5x HP & ATK for Devil type; 3x ATK for each cross of 5 Water or Light orbs
 EN: 1.5x HP & ATK for Devil type; 3x ATK for each cross of 5 Water or Light orbs
@@ -39336,7 +39336,7 @@ KR: 1.5x HP & ATK for Devil type
 
 # 9505/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water or Light orbs
 EN: 3x ATK for each cross of 5 Water or Light orbs
@@ -39392,7 +39392,7 @@ KR:
 
 # 9521/138 - Furious Augur
 Tags: ENHANCED_ATK
-Stats: [1, 12.5, 1, 0]
+Stats: [1, 78.1, 1, 0]
 Game: 5x ATK with 5+ combos; 2.5x ATK for each  cross of 5 Fire, Wood, or Light Orbs
 JP: 5x ATK when 5 or more combos; 2.5x ATK for each cross of 5 Fire, Wood, or Light orbs
 EN: 5x ATK when 5 or more combos; 2.5x ATK for each cross of 5 Fire, Wood, or Light orbs
@@ -39408,7 +39408,7 @@ KR: 5x ATK when 5 or more combos
 
 # 9523/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire, Wood, or Light orbs
 EN: 2.5x ATK for each cross of 5 Fire, Wood, or Light orbs
@@ -40184,7 +40184,7 @@ KR: 2.5x ATK on the turn a skill is used
 
 # 9697/138 - Chou Kaen Senpuu Kon
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 3.0, 1.0, 0.0]
+Stats: [1.5, 27.0, 1.0, 0.0]
 Game: 1.5x HP for Fire Att.; 3x ATK for each cross of 5 Fire or Water Orbs
 JP: 1.5x HP for Fire Att.; 3x ATK for each cross of 5 Fire or Water orbs
 EN: 1.5x HP for Fire Att.; 3x ATK for each cross of 5 Fire or Water orbs
@@ -40200,7 +40200,7 @@ KR: 1.5x HP for Fire Att.
 
 # 9699/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire or Water orbs
 EN: 3x ATK for each cross of 5 Fire or Water orbs
@@ -40208,7 +40208,7 @@ KR: 3x ATK for each cross of 5 Fire or Water orbs
 
 # 9703/138 - Gigantic Pressure
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 7.5, 1.0, 0.0]
+Stats: [1.5, 46.86, 1.0, 0.0]
 Game: 1.5x HP & 3x ATK for Dark Att.; 2.5x ATK for each cross of 5 Dark Orbs or Jammers
 JP: 3x ATK and 1.5x HP for Dark Att.; 2.5x ATK for each cross of 5 Jammer or Dark orbs
 EN: 3x ATK and 1.5x HP for Dark Att.; 2.5x ATK for each cross of 5 Jammer or Dark orbs
@@ -40224,7 +40224,7 @@ KR: 3x ATK and 1.5x HP for Dark Att.
 
 # 9705/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Jammer or Dark orbs
 EN: 2.5x ATK for each cross of 5 Jammer or Dark orbs
@@ -40232,7 +40232,7 @@ KR: 2.5x ATK for each cross of 5 Jammer or Dark orbs
 
 # 9706/138 - Genocide Cutter
 Tags: ENHANCED_ATK
-Stats: [1, 10.0, 1, 0]
+Stats: [1, 62.48, 1, 0]
 Game: ATK increases when erasing 4+ linked Dark Orbs, up to 4x; 2.5x ATK for each cross of 5 Dark Orbs or Jammers
 JP: 2x ATK when matching 4 or more connected Dark orbs up to 4x at 8 orbs; 2.5x ATK for each cross of 5 Jammer or Dark orbs
 EN: 2x ATK when matching 4 or more connected Dark orbs up to 4x at 8 orbs; 2.5x ATK for each cross of 5 Jammer or Dark orbs
@@ -40248,7 +40248,7 @@ KR: 2x ATK when matching 4 or more connected Dark orbs up to 4x at 8 orbs
 
 # 9708/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Jammer or Dark orbs
 EN: 2.5x ATK for each cross of 5 Jammer or Dark orbs
@@ -40256,7 +40256,7 @@ KR: 2.5x ATK for each cross of 5 Jammer or Dark orbs
 
 # 9715/138 - Dark Acolyte's Covenant
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
-Stats: [1.0, 5.0, 2.0, 0]
+Stats: [1.0, 31.24, 2.0, 0]
 Game: 2x ATK & RCV for Devil Type, Orb move time +1 second; 2.5x ATK for each cross of 5 Dark or Light Orbs
 JP: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds; 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -40272,7 +40272,7 @@ KR: 2x ATK & RCV for Devil type; Increase orb movement time by 1 seconds
 
 # 9717/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -40592,7 +40592,7 @@ KR: 3x ATK and reduce damage taken by 25% when 7 or more combos
 
 # 9798/138 - Paolumu Power
 Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 9.0, 1.0, 0]
+Stats: [1.0, 81.0, 1.0, 0]
 Game: 3x ATK for Dragon Type, Orb move time +2 seconds; 3x ATK for each cross of 5 Dark or Water Orbs
 JP: 3x ATK for Dragon type; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Dark or Water orbs
 EN: 3x ATK for Dragon type; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Dark or Water orbs
@@ -40608,7 +40608,7 @@ KR: 3x ATK for Dragon type; Increase orb movement time by 2 seconds
 
 # 9800/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Dark or Water orbs
 EN: 3x ATK for each cross of 5 Dark or Water orbs
@@ -40688,7 +40688,7 @@ KR: 3x ATK when matching 2+ Light combos
 
 # 9822/138 - Full-Force
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 10.5, 1.0, 0]
+Stats: [1.0, 36.75, 1.0, 0]
 Game: [No Skyfall Combos], 3.5x ATK for each cross of 5 Dk Orbs; 3x ATK when 8 Orbs or less remain on the board
 JP: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 3.5x ATK for each cross of 5 Dark orbs
 EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining; 3.5x ATK for each cross of 5 Dark orbs
@@ -40704,7 +40704,7 @@ KR: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining
 
 # 9824/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Dark orbs
 EN: 3.5x ATK for each cross of 5 Dark orbs
@@ -41080,7 +41080,7 @@ KR: 4.5x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 9943/138 - Secret Wind Technique
 Tags: ENHANCED_ATK
-Stats: [1, 15.0, 1, 0]
+Stats: [1, 37.5, 1, 0]
 Game: ATK increases with 4+ combos, up to 6x; 2.5x ATK for each cross of 5 Wood Orbs
 JP: 3x ATK when 4 or more combos up to 6x at 6 combos; 2.5x ATK for each cross of 5 Wood orbs
 EN: 3x ATK when 4 or more combos up to 6x at 6 combos; 2.5x ATK for each cross of 5 Wood orbs
@@ -41096,7 +41096,7 @@ KR: 3x ATK when 4 or more combos up to 6x at 6 combos
 
 # 9945/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 6.25, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Wood orbs
 EN: 2.5x ATK for each cross of 5 Wood orbs
@@ -41128,7 +41128,7 @@ KR: 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 
 # 9949/138 - Secret Thunder Technique
 Tags: ENHANCED_ATK
-Stats: [1, 21.0, 1, 0]
+Stats: [1, 63.0, 1, 0]
 Game: ATK increases when attacking with 3+ Att., up to 7x; 3x ATK for each cross of 5 Light Orbs
 JP: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
 EN: 4x ATK when matching 3 or more colors up to 7x at 5 colors; 3x ATK for each cross of 5 Light orbs
@@ -41144,7 +41144,7 @@ KR: 4x ATK when matching 3 or more colors up to 7x at 5 colors
 
 # 9951/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -41240,7 +41240,7 @@ KR: 10x ATK when exactly 7 combos
 
 # 9970/138 - Air Mastery's Locking Claws
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 15.0, 1, 0.25]
+Stats: [1, 45.0, 1, 0.25]
 Game: 3x ATK for each cross of 5 Water Orbs; 5x ATK & reduces damage with 5+ linked Dark Orbs
 JP: 3x ATK for each cross of 5 Water orbs; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
 EN: 3x ATK for each cross of 5 Water orbs; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
@@ -41248,7 +41248,7 @@ KR: 3x ATK for each cross of 5 Water orbs; 5x ATK and reduce damage taken by 25%
 
 # 9971/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK for each cross of 5 Water orbs
@@ -41688,7 +41688,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 1+ Heal combos
 
 # 10079/138 - Black Divine Clock
 Tags: ENHANCED_ATK_RCV
-Stats: [1, 10.5, 3.0, 0]
+Stats: [1, 128.64, 3.0, 0]
 Game: 3x ATK & RCV with 6+ combos; 3.5x ATK for each cross of 5 Dark or Fire Orbs
 JP: 3x ATK & RCV when 6 or more combos; 3.5x ATK for each cross of 5 Dark or Fire orbs
 EN: 3x ATK & RCV when 6 or more combos; 3.5x ATK for each cross of 5 Dark or Fire orbs
@@ -41704,7 +41704,7 @@ KR: 3x ATK & RCV when 6 or more combos
 
 # 10081/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Dark or Fire orbs
 EN: 3.5x ATK for each cross of 5 Dark or Fire orbs
@@ -42584,7 +42584,7 @@ KR: 3x RCV when matching 4 Heal orbs
 
 # 10245/138 - You can no longer escape from me.
 Tags: ENHANCED_HP_ATK
-Stats: [1.5, 3.75, 1.0, 0.0]
+Stats: [1.5, 23.43, 1.0, 0.0]
 Game: 1.5x HP & ATK for Attacker Type; 2.5x ATK for each cross of 5 Fire or Dark Orbs
 JP: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire or Dark orbs
 EN: 1.5x HP & ATK for Attacker type; 2.5x ATK for each cross of 5 Fire or Dark orbs
@@ -42600,7 +42600,7 @@ KR: 1.5x HP & ATK for Attacker type
 
 # 10247/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire or Dark orbs
 EN: 2.5x ATK for each cross of 5 Fire or Dark orbs
@@ -42720,7 +42720,7 @@ KR: 2x ATK and reduce damage taken by 35% when above 50% HP
 
 # 10280/138 - Hell Beast's Domain
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 18.0, 1.0, 0]
+Stats: [1.0, 54.0, 1.0, 0]
 Game: [No Skyfall Combos], 3x ATK for each cross of 5 Fire Orbs; 6x ATK when 5 Orbs or less remain on the board
 JP: [No skyfall] 6x ATK when there are 5 or fewer orbs remaining; 3x ATK for each cross of 5 Fire orbs
 EN: [No skyfall] 6x ATK when there are 5 or fewer orbs remaining; 3x ATK for each cross of 5 Fire orbs
@@ -42736,7 +42736,7 @@ KR: [No skyfall] 6x ATK when there are 5 or fewer orbs remaining
 
 # 10282/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire orbs
 EN: 3x ATK for each cross of 5 Fire orbs
@@ -42904,7 +42904,7 @@ KR: 3x ATK when matching 4 or more colors up to 4x at 5 colors
 
 # 10319/138 - Flame Haze of the Underworld
 Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: [7x6 board], Orb move time +5 seconds; 2.5x ATK for each cross of 5 Fire, Water or Dark Orbs
 JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs
 EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs
@@ -42928,7 +42928,7 @@ KR: Increase orb movement time by 5 seconds
 
 # 10322/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs
 EN: 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs
@@ -43016,7 +43016,7 @@ KR: 3.5x ATK and reduce damage taken by 25% when matching Wood and Fire
 
 # 10339/138 - It's OK, I'm doing it properly!
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 3.0, 1.5, 0.0]
+Stats: [1.5, 12.0, 1.5, 0.0]
 Game: 1.5x to all stats for Dark Att.; 2x ATK for each cross of 5 Dark or Wood Orbs
 JP: 1.5x all stats for Dark Att.; 2x ATK for each cross of 5 Dark or Wood orbs
 EN: 1.5x all stats for Dark Att.; 2x ATK for each cross of 5 Dark or Wood orbs
@@ -43032,7 +43032,7 @@ KR: 1.5x all stats for Dark Att.
 
 # 10341/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 8.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Dark or Wood orbs
 EN: 2x ATK for each cross of 5 Dark or Wood orbs
@@ -43896,7 +43896,7 @@ KR: 6x ATK & RCV when 8 or more combos up to 7x at 9 combos
 
 # 10528/138 - Harangue of Salvation
 Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
-Stats: [1.5, 5.25, 1.5, 0.0]
+Stats: [1.5, 64.32, 1.5, 0.0]
 Game: [No Skyfall Combos], 1.5x to all stats for Wood Att.; 3.5x ATK for each cross of 5 Wood or Fire Orbs
 JP: [No skyfall] 1.5x all stats for Wood Att.; 3.5x ATK for each cross of 5 Fire or Wood orbs
 EN: [No skyfall] 1.5x all stats for Wood Att.; 3.5x ATK for each cross of 5 Fire or Wood orbs
@@ -43912,7 +43912,7 @@ KR: [No skyfall] 1.5x all stats for Wood Att.
 
 # 10530/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire or Wood orbs
 EN: 3.5x ATK for each cross of 5 Fire or Wood orbs
@@ -43944,7 +43944,7 @@ KR: 7x ATK and reduce damage taken by 25% when 8 or more combos
 
 # 10534/138 - Secret Seal of Salvation
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Stats: [1.5, 6.0, 1.0, 0.0]
+Stats: [1.5, 24.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 1.5x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood Orbs
 JP: [No skyfall] 1.5x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood orbs
 EN: [No skyfall] 1.5x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood orbs
@@ -43960,7 +43960,7 @@ KR: [No skyfall] 1.5x HP & ATK for Wood Att.
 
 # 10536/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Wood orbs
 EN: 4x ATK for each cross of 5 Wood orbs
@@ -43968,7 +43968,7 @@ KR: 4x ATK for each cross of 5 Wood orbs
 
 # 10540/138 - Mowa's Wings
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1.0, 28.0, 1.0, 0.25]
+Stats: [1.0, 112.0, 1.0, 0.25]
 Game: [Orb move time: 4 sec], 7x ATK & reduces damage with 5+ combos; 4x ATK for each cross of 5 Jammers
 JP: [Fixed 4 second movetime] 7x ATK and reduce damage taken by 25% when 5 or more combos; 4x ATK for each cross of 5 Jammer orbs
 EN: [Fixed 4 second movetime] 7x ATK and reduce damage taken by 25% when 5 or more combos; 4x ATK for each cross of 5 Jammer orbs
@@ -43992,7 +43992,7 @@ KR: 7x ATK and reduce damage taken by 25% when 5 or more combos
 
 # 10543/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Jammer orbs
 EN: 4x ATK for each cross of 5 Jammer orbs
@@ -45144,7 +45144,7 @@ KR: 4x ATK when matching 5 or more colors (4+heal)
 
 # 10760/138 - Happiness will always be with you
 Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: [7x6 board], Orb move time +5 seconds; 2.5x ATK for each cross of 5 Water, Wood or Light Orbs
 JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Water, Wood, or Light orbs
 EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Water, Wood, or Light orbs
@@ -45168,7 +45168,7 @@ KR: Increase orb movement time by 5 seconds
 
 # 10763/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Water, Wood, or Light orbs
 EN: 2.5x ATK for each cross of 5 Water, Wood, or Light orbs
@@ -46784,7 +46784,7 @@ KR: 3x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
 # 11109/138 - Since I'll do it, I intend to win!
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [1.5, 3.0, 1.0, 0]
+Stats: [1.5, 9.0, 1.0, 0]
 Game: 1.5x HP for Light Att., Orb move time +2 seconds; 3x ATK for each cross of 5 Light Orbs
 JP: 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Light orbs
 EN: 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Light orbs
@@ -46800,7 +46800,7 @@ KR: 1.5x HP for Light Att.; Increase orb movement time by 2 seconds
 
 # 11111/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -49824,7 +49824,7 @@ KR: 6x ATK when matching Light and Heal
 
 # 11798/138 - Spirit of the Seraph
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 12.0, 1.0, 0.5]
+Stats: [1, 108.0, 1.0, 0.5]
 Game: 3x ATK for each cross of 5 Dark or Light Orbs; 4x ATK & halves damage with a cross of 5 Heal Orbs
 JP: 3x ATK for each cross of 5 Dark or Light orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK for each cross of 5 Dark or Light orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
@@ -49832,7 +49832,7 @@ KR: 3x ATK for each cross of 5 Dark or Light orbs; 4x ATK and reduce damage take
 
 # 11799/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Dark or Light orbs
 EN: 3x ATK for each cross of 5 Dark or Light orbs
@@ -51576,7 +51576,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Wate
 
 # 12189/138 - Blue Ice Spirit's Battle Technique
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 30.0, 1.0, 0]
+Stats: [1.0, 90.0, 1.0, 0]
 Game: [No Skyfall Combos], 3x ATK for each cross of 5 Water Orbs; 10x ATK when 11 Orbs or less remain on the board
 JP: [No skyfall] 10x ATK when there are 11 or fewer orbs remaining; 3x ATK for each cross of 5 Water orbs
 EN: [No skyfall] 10x ATK when there are 11 or fewer orbs remaining; 3x ATK for each cross of 5 Water orbs
@@ -51592,7 +51592,7 @@ KR: [No skyfall] 10x ATK when there are 11 or fewer orbs remaining
 
 # 12191/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK for each cross of 5 Water orbs
@@ -53024,7 +53024,7 @@ KR: 3x ATK when matching 2 Dark combos, up to 4x at 3 Dark combos
 
 # 12555/138 - A hero of justice must have a villain to defeat.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 7.5, 1, 0.25]
+Stats: [1, 67.5, 1, 0.25]
 Game: 3x ATK for each cross of 5 Fire, Light or Dark Orbs; 2.5x ATK & reduces damage with 2+ Dark combos
 JP: 3x ATK for each cross of 5 Fire, Light, or Dark orbs; 2.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 EN: 3x ATK for each cross of 5 Fire, Light, or Dark orbs; 2.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
@@ -53032,7 +53032,7 @@ KR: 3x ATK for each cross of 5 Fire, Light, or Dark orbs; 2.5x ATK and reduce da
 
 # 12556/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire, Light, or Dark orbs
 EN: 3x ATK for each cross of 5 Fire, Light, or Dark orbs
@@ -53904,7 +53904,7 @@ KR: 3.5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
 # 12741/138 - Maniac Demon Crown of Hellven
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 14.0, 1.0, 0.35]
+Stats: [1, 171.52, 1.0, 0.35]
 Game: 4x ATK & reduces damage when HP is 50% or more; 3.5x ATK for each cross of 5 Light or Dark Orbs
 JP: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK for each cross of 5 Light or Dark orbs
 EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK for each cross of 5 Light or Dark orbs
@@ -53920,7 +53920,7 @@ KR: 4x ATK and reduce damage taken by 35% when above 50% HP
 
 # 12743/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Light or Dark orbs
 EN: 3.5x ATK for each cross of 5 Light or Dark orbs
@@ -54352,7 +54352,7 @@ KR: 3x ATK and reduce damage taken by 50% when 7 or more combos
 
 # 12845/138 - Oh-hohohoho!
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [1.5, 12.0, 1.0, 0]
+Stats: [1.5, 36.0, 1.0, 0]
 Game: 1.5x HP & 4x ATK for Light Att., Orb move time +2 seconds; 3x ATK for each cross of 5 Light Orbs
 JP: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Light orbs
 EN: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 3x ATK for each cross of 5 Light orbs
@@ -54368,7 +54368,7 @@ KR: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds
 
 # 12847/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light orbs
 EN: 3x ATK for each cross of 5 Light orbs
@@ -54376,7 +54376,7 @@ KR: 3x ATK for each cross of 5 Light orbs
 
 # 12851/138 - I'll show you the divide in our class!
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
-Stats: [1.0, 7.0, 2.0, 0]
+Stats: [1.0, 85.76, 2.0, 0]
 Game: [7x6 board], 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light Orbs
 JP: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light orbs
 EN: [Board becomes 7x6] 2x ATK & RCV for Light Att.; 3.5x ATK for each cross of 5 Fire or Light orbs
@@ -54392,7 +54392,7 @@ KR: [Board becomes 7x6] 2x ATK & RCV for Light Att.
 
 # 12853/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire or Light orbs
 EN: 3.5x ATK for each cross of 5 Fire or Light orbs
@@ -54600,7 +54600,7 @@ KR: 4x ATK when matching 2 Wood combos, up to 5x at 3 Wood combos
 
 # 12906/138 - This'll be perfect for a warm up.
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [2.0, 3.5, 1.0, 0]
+Stats: [2.0, 12.25, 1.0, 0]
 Game: 2x HP for Light Att., Orb move time +3 seconds; 3.5x ATK for each cross of 5 Light Orbs
 JP: 2x HP for Light Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Light orbs
 EN: 2x HP for Light Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Light orbs
@@ -54616,7 +54616,7 @@ KR: 2x HP for Light Att.; Increase orb movement time by 3 seconds
 
 # 12908/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 12.25, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Light orbs
 EN: 3.5x ATK for each cross of 5 Light orbs
@@ -55216,7 +55216,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark
 
 # 13034/138 - Mad Augur
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 15.0, 1, 0.25]
+Stats: [1, 135.0, 1, 0.25]
 Game: 5x ATK & reduces damage with 5+ combos; 3x ATK for each cross of 5 Fire, Wood or Light Orbs
 JP: 5x ATK and reduce damage taken by 25% when 5 or more combos; 3x ATK for each cross of 5 Fire, Wood, or Light orbs
 EN: 5x ATK and reduce damage taken by 25% when 5 or more combos; 3x ATK for each cross of 5 Fire, Wood, or Light orbs
@@ -55232,7 +55232,7 @@ KR: 5x ATK and reduce damage taken by 25% when 5 or more combos
 
 # 13036/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire, Wood, or Light orbs
 EN: 3x ATK for each cross of 5 Fire, Wood, or Light orbs
@@ -55864,7 +55864,7 @@ KR: 5x RCV additional heal when matching orbs
 
 # 13176/138 - Full Up Distortion
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 14.0, 1, 0.25]
+Stats: [1, 171.52, 1, 0.25]
 Game: 3.5x ATK for each cross of 5 Fire, Wood or Dark Orbs; 4x ATK & reduces dmg when Fr, Wd & Dk attack at once
 JP: 3.5x ATK for each cross of 5 Fire, Wood, or Dark orbs; 4x ATK and reduce damage taken by 25% when matching Fire, Wood, and Dark at once
 EN: 3.5x ATK for each cross of 5 Fire, Wood, or Dark orbs; 4x ATK and reduce damage taken by 25% when matching Fire, Wood, and Dark at once
@@ -55872,7 +55872,7 @@ KR: 3.5x ATK for each cross of 5 Fire, Wood, or Dark orbs; 4x ATK and reduce dam
 
 # 13177/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire, Wood, or Dark orbs
 EN: 3.5x ATK for each cross of 5 Fire, Wood, or Dark orbs
@@ -56376,7 +56376,7 @@ KR: 3x ATK when matching 4 or more connected Water orbs up to 4x at 6 orbs
 
 # 13311/138 - SLICE
 Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: Orb move time +5 seconds; 3.5x ATK for each cross of 5 Wood or Light Orbs
 JP: Increase orb movement time by 5 seconds; 3.5x ATK for each cross of 5 Wood or Light orbs
 EN: Increase orb movement time by 5 seconds; 3.5x ATK for each cross of 5 Wood or Light orbs
@@ -56392,7 +56392,7 @@ KR: Increase orb movement time by 5 seconds
 
 # 13313/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Wood or Light orbs
 EN: 3.5x ATK for each cross of 5 Wood or Light orbs
@@ -57608,7 +57608,7 @@ KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 
 # 13577/138 - Spirit of the Compassion Goddess
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Stats: [2.0, 8.0, 1.0, 0.0]
+Stats: [2.0, 32.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 2x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood Orbs
 JP: [No skyfall] 2x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood orbs
 EN: [No skyfall] 2x HP & ATK for Wood Att.; 4x ATK for each cross of 5 Wood orbs
@@ -57624,7 +57624,7 @@ KR: [No skyfall] 2x HP & ATK for Wood Att.
 
 # 13579/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 16.0, 1, 0]
 Game: 
 JP: 4x ATK for each cross of 5 Wood orbs
 EN: 4x ATK for each cross of 5 Wood orbs
@@ -58120,7 +58120,7 @@ KR:
 
 # 13717/138 - Victory is Mine-nya!
 Tags: ENHANCED_ATK
-Stats: [1, 36.0, 1, 0]
+Stats: [1, 2916.0, 1, 0]
 Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 3x ATK for each cross of 5 Orbs of any Attribute
 JP: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
@@ -58136,7 +58136,7 @@ KR: 4x ATK and increase combo by 2 when matching 4 or more colors
 
 # 13719/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
 EN: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
@@ -58144,7 +58144,7 @@ KR: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
 
 # 13720/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light or Dark orbs
 EN: 3x ATK for each cross of 5 Light or Dark orbs
@@ -58232,7 +58232,7 @@ KR: 8x ATK and reduce damage taken by 25% when matching 2+ Light combos
 
 # 13745/138 - Now, cheer up
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
-Stats: [1.5, 3.0, 1.0, 0]
+Stats: [1.5, 27.0, 1.0, 0]
 Game: [7x6 board], 1.5x HP for God Type, Orb move time +5 sec; 3x ATK for each cross of 5 Water, Wood or Light Orbs
 JP: [Board becomes 7x6] 1.5x HP for God type; Increase orb movement time by 5 seconds; 3x ATK for each cross of 5 Water, Wood, or Light orbs
 EN: [Board becomes 7x6] 1.5x HP for God type; Increase orb movement time by 5 seconds; 3x ATK for each cross of 5 Water, Wood, or Light orbs
@@ -58256,7 +58256,7 @@ KR: 1.5x HP for God type; Increase orb movement time by 5 seconds
 
 # 13748/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water, Wood, or Light orbs
 EN: 3x ATK for each cross of 5 Water, Wood, or Light orbs
@@ -59968,7 +59968,7 @@ KR: 2x ATK and 1.5x HP for Dark Att.
 
 # 14141/138 - どーやら俺の出番らしいな
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [2.0, 3.0, 1.0, 0]
+Stats: [2.0, 27.0, 1.0, 0]
 Game: 木属性のHPが2倍。ドロップ操作を4秒延長。 水か木の5個十字消し1個につき攻撃力が3倍。
 JP: 2x HP for Wood Att.; Increase orb movement time by 4 seconds; 3x ATK for each cross of 5 Water or Wood orbs
 EN: 2x HP for Wood Att.; Increase orb movement time by 4 seconds; 3x ATK for each cross of 5 Water or Wood orbs
@@ -59984,7 +59984,7 @@ KR: 2x HP for Wood Att.; Increase orb movement time by 4 seconds
 
 # 14143/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water or Wood orbs
 EN: 3x ATK for each cross of 5 Water or Wood orbs
@@ -60072,7 +60072,7 @@ KR: 4x ATK when matching 2 or more colors (1+heal) up to 20x at 5 colors+heal
 
 # 14163/138 - Split Sky Stance
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
-Stats: [2.0, 12.0, 1.0, 0.0]
+Stats: [2.0, 36.0, 1.0, 0.0]
 Game: 2x HP for Wt Att., 3x ATK for each cross of 5 Wt Orbs; 4x ATK & inflicts 50,000 damage when 3+ Att. attack
 JP: 2x HP for Water Att.; 3x ATK for each cross of 5 Water orbs; 4x ATK when matching 3 or more colors; 50000 additional damage when matching 3 or more colors
 EN: 2x HP for Water Att.; 3x ATK for each cross of 5 Water orbs; 4x ATK when matching 3 or more colors; 50000 additional damage when matching 3 or more colors
@@ -60088,7 +60088,7 @@ KR: 2x HP for Water Att.
 
 # 14165/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 9.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Water orbs
 EN: 3x ATK for each cross of 5 Water orbs
@@ -60616,7 +60616,7 @@ KR: 4x ATK and increase combo by 1 when matching Water, Light, and Dark at once
 
 # 14279/138 - There's something only I can see.
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [2.0, 7.0, 1.0, 0]
+Stats: [2.0, 85.76, 1.0, 0]
 Game: 2x HP & ATK for Dark Att.; Orb move time +3 seconds; 3.5x ATK for each cross of 5 Fire or Dark Orbs
 JP: 2x HP & ATK for Dark Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Fire or Dark orbs
 EN: 2x HP & ATK for Dark Att.; Increase orb movement time by 3 seconds; 3.5x ATK for each cross of 5 Fire or Dark orbs
@@ -60632,7 +60632,7 @@ KR: 2x HP & ATK for Dark Att.; Increase orb movement time by 3 seconds
 
 # 14281/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.5, 1, 0]
+Stats: [1, 42.88, 1, 0]
 Game: 
 JP: 3.5x ATK for each cross of 5 Fire or Dark orbs
 EN: 3.5x ATK for each cross of 5 Fire or Dark orbs
@@ -61584,7 +61584,7 @@ KR: 7x ATK when matching 2 Water combos, up to 10x at 3 Water combos
 
 # 14466/138 - 氷魔剣
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 37.5, 1.0, 0.0]
+Stats: [2.0, 1463.91, 1.0, 0.0]
 Game: 水属性のHPが2倍。3コンボ以上で攻撃力が上昇、最大6倍。 5属性いずれかの5個十字消し1個につき攻撃力が2.5倍。
 JP: 2x HP for Water Att.; 4x ATK when 3 or more combos up to 6x at 5 combos; 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs; 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2x HP for Water Att.; 4x ATK when 3 or more combos up to 6x at 5 combos; 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs; 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -61608,7 +61608,7 @@ KR: 4x ATK when 3 or more combos up to 6x at 5 combos
 
 # 14469/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
 EN: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
@@ -61616,7 +61616,7 @@ KR: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
 
 # 14470/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -63592,7 +63592,7 @@ KR: 6x ATK and reduce damage taken by 25% when 6 or more combos
 
 # 15015/138 - AI "Al" integrated ARX-8
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 43.75, 1.0, 0.0]
+Stats: [2.0, 1707.89, 1.0, 0.0]
 Game: 2x HP for Attacker Type, 7x ATK when 4+ Att. attack at once; 2.5x ATK for each cross of 5 Orbs of any Attribute
 JP: 2x HP for Attacker type; 7x ATK when matching 4 or more colors; 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs; 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2x HP for Attacker type; 7x ATK when matching 4 or more colors; 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs; 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -63616,7 +63616,7 @@ KR: 7x ATK when matching 4 or more colors
 
 # 15018/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
 EN: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
@@ -63624,7 +63624,7 @@ KR: 2.5x ATK for each cross of 5 Fire, Water, or Wood orbs
 
 # 15019/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.5, 1, 0]
+Stats: [1, 15.62, 1, 0]
 Game: 
 JP: 2.5x ATK for each cross of 5 Light or Dark orbs
 EN: 2.5x ATK for each cross of 5 Light or Dark orbs
@@ -66641,7 +66641,7 @@ KR: 9x ATK when below 50% HP
 
 # 15732/138 - 宵月の狐心
 Tags: ENHANCED_ATK
-Stats: [1.0, 27.0, 1.0, 0]
+Stats: [1.0, 2187.0, 1.0, 0]
 Game: 【操作時間4秒】光闇の同時攻撃で攻撃力が3倍、3コンボ加算。 5属性いずれかの5個十字消し1個につき攻撃力が3倍。
 JP: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
 EN: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
@@ -66665,7 +66665,7 @@ KR: 3x ATK and increase combo by 3 when matching Light and Dark at once
 
 # 15735/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
 EN: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
@@ -66673,7 +66673,7 @@ KR: 3x ATK for each cross of 5 Fire, Water, or Wood orbs
 
 # 15736/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 27.0, 1, 0]
 Game: 
 JP: 3x ATK for each cross of 5 Light or Dark orbs
 EN: 3x ATK for each cross of 5 Light or Dark orbs
@@ -67121,7 +67121,7 @@ KR: 4x ATK and reduce damage taken by 25% when 7 or more combos
 
 # 15875/138 - サイン・オブ・カラー
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 8.0, 1, 0.25]
+Stats: [1, 32.0, 1, 0.25]
 Game: 火か木か光の5個十字消し1個につき攻撃力が2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍。
 JP: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
@@ -67129,7 +67129,7 @@ KR: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce dama
 
 # 15876/157 - 
 Tags: ENHANCED_ATK
-Stats: [1, 2.0, 1, 0]
+Stats: [1, 8.0, 1, 0]
 Game: 
 JP: 2x ATK for each cross of 5 Fire, Wood, or Light orbs
 EN: 2x ATK for each cross of 5 Fire, Wood, or Light orbs
