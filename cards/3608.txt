@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 2 turns; Change all orbs to Fire, Water, Dark,
 
 # 7513/138 - Mass Counter
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,COUNTERATTACK
+Stats: [1, 10.0, 1.0, 0.5]
 Game: 4x ATK & halves damage with a cross of 5 Heal Orbs; massive Dark counterattack
 JP: 10x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 10x Dark counterattack
 EN: 10x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 10x Dark counterattack

@@ -12,6 +12,7 @@ KR: Deal 50000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 4332/138 - I'll take this fight!
 Tags: ENHANCED_ATK_RCV,RESOLVE
+Stats: [1.0, 3.0, 1.5, 0.0]
 Game: 3x ATK for Attacker Type; may survive when HP is reduced to 0
 JP: 3x ATK and 1.5x RCV for Physical type; May survive when HP is reduced to 0 (HP>50%)
 EN: 3x ATK and 1.5x RCV for Physical type; May survive when HP is reduced to 0 (HP>50%)

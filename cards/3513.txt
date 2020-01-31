@@ -12,6 +12,7 @@ KR: Deal 100000 fixed damage to all enemies; Unlock all orbs; Change all orbs to
 
 # 7349/138 - Hidden Sorcery
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1.5, 10.5, 1.0, 0.25]
 Game: [7x6 board], 1.5x HP & ATK for Devil Type; 7x ATK & reduces dmg when Light & Fire attack at once
 JP: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light and Fire; 1.5x HP & ATK for Devil type
 EN: [Board becomes 7x6] 7x ATK and reduce damage taken by 25% when matching Light and Fire; 1.5x HP & ATK for Devil type

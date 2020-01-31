@@ -12,6 +12,7 @@ KR: Deal 20x ATK Fire damage to an enemy and recover 50% of the damage as HP; Fo
 
 # 1763/43 - Super Armor
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves damage when HP is full
 JP: Reduce damage taken by 50% when HP is full
 EN: Reduce damage taken by 50% when HP is full

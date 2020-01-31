@@ -12,6 +12,7 @@ KR: For 1 turn, increase combo count by 2; Charge all allies' skills by 2 turns
 
 # 11654/138 - Mysterious Scold Flame
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1.0, 0.25]
 Game: 5x ATK when HP is 50% or more, 2.5x ATK when 49% or less; 3x ATK & reduces damage with 7+ combos
 JP: 5x ATK when above 50% HP; 2.5x ATK when below 49% HP; 3x ATK and reduce damage taken by 25% when 7 or more combos
 EN: 5x ATK when above 50% HP; 2.5x ATK when below 49% HP; 3x ATK and reduce damage taken by 25% when 7 or more combos

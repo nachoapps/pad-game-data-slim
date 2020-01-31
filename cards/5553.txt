@@ -12,6 +12,7 @@ KR: Reduce awoken skill binds by 2 turns; For 1 turn, increase orb move time by 
 
 # 14443/138 - Spirit of the Songstress
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1, 10.0, 2.5, 0.25]
 Game: [7x6 board], 2.5x ATK & RCV with 8+ combos; 4x ATK & reduces damage with 5+ linked Light Orbs
 JP: [Board becomes 7x6] 2.5x ATK & RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 EN: [Board becomes 7x6] 2.5x ATK & RCV when 8 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs

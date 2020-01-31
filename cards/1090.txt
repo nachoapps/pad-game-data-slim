@@ -12,6 +12,7 @@ KR: Deal 20000 Fire damage to all enemies; Change Dark orbs to Fire orbs
 
 # 594/17 - Fire Dragon's Protection
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.55]
 Game: Greatly reduces Fire Att. damage
 JP: Reduce damage taken from Fire Att. by 55%
 EN: Reduce damage taken from Fire Att. by 55%

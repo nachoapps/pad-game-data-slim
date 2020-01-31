@@ -12,6 +12,7 @@ KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Recover a
 
 # 9397/138 - Stand up and walk. Keep going forward.
 Tags: ENHANCED_ATK
+Stats: [1, 12.0, 1.0, 0]
 Game: 3x ATK when HP is 50% or more; ATK increases with 4+ combos, up to 4x
 JP: 3x ATK when above 50% HP; 2x ATK when 4 or more combos up to 4x at 6 combos
 EN: 3x ATK when above 50% HP; 2x ATK when 4 or more combos up to 4x at 6 combos

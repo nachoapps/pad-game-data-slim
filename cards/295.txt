@@ -12,6 +12,7 @@ KR: Change Water orbs to Heal orbs
 
 # 305/36 - Water and Wood Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Wood & Water Att. damage
 JP: Reduce damage taken from Wood and Water Att. by 30%
 EN: Reduce damage taken from Wood and Water Att. by 30%

@@ -12,6 +12,7 @@ KR: Change Fire orbs to Heal orbs
 
 # 303/36 - Fire and Water Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Water & Fire Att. damage
 JP: Reduce damage taken from Water and Fire Att. by 30%
 EN: Reduce damage taken from Water and Fire Att. by 30%

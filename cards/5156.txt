@@ -12,6 +12,7 @@ KR: Create a square of Light orbs with its center at the 2nd row from the top an
 
 # 12953/138 - Your luck could run out.
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 16.0, 1.0, 0.25]
 Game: 2x HP for Light Att., reduces dmg when HP is 50% or less; ATK increases with 4+ linked Light Orbs, up to 16x
 JP: 2x HP for Light Att.; Reduce damage taken by 25% when below 50% HP; 8x ATK when matching 4 or more connected Light orbs up to 16x at 8 orbs
 EN: 2x HP for Light Att.; Reduce damage taken by 25% when below 50% HP; 8x ATK when matching 4 or more connected Light orbs up to 16x at 8 orbs

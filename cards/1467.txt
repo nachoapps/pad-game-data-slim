@@ -12,6 +12,7 @@ KR: Recover all HP; Remove all binds
 
 # 4321/13 - miracle
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals 5x RCV in HP when matching Orbs
 JP: 5x RCV additional heal when matching orbs
 EN: 5x RCV additional heal when matching orbs

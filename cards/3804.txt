@@ -12,6 +12,7 @@ KR: For 2 turns, increase ATK by 15% for each Resistance-Skill Bind awakening sk
 
 # 8442/138 - Growing Threat
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 4.0, 1.0, 0.5]
 Game: 4x ATK when HP is 20% or less; halves non-Dark Att. damage
 JP: 4x ATK when below 20% HP; Reduce damage taken from Fire, Water, Wood, and Light Att. by 50%
 EN: 4x ATK when below 20% HP; Reduce damage taken from Fire, Water, Wood, and Light Att. by 50%

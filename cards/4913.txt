@@ -12,6 +12,7 @@ KR: Recover all HP; Change the bottom row to Water orbs
 
 # 12058/138 - Spark Cutter
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 18.0, 1.0, 0.5]
 Game: 3x ATK & halves damage when HP is 80% or more; ATK increases with 4+ linked Orbs, up to 6x
 JP: 3x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
 EN: 3x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs

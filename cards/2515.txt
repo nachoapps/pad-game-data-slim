@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 3 turns
 
 # 4192/138 - Everyone, let's feast!
 Tags: AUTO_HEAL,ENHANCED_HP_ATK
+Stats: [2.5, 1.5, 1.0, 0.0]
 Game: 2.5x HP & 1.5x ATK for Healer Type; heals 4x RCV in HP when matching Orbs
 JP: 2.5x HP and 1.5x ATK for Healer type; 4x RCV additional heal when matching orbs
 EN: 2.5x HP and 1.5x ATK for Healer type; 4x RCV additional heal when matching orbs

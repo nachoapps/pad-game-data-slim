@@ -12,6 +12,7 @@ KR: Deal 1000 Light damage to all enemies
 
 # 74/17 - Light Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Light Att. damage
 JP: Reduce damage taken from Light Att. by 30%
 EN: Reduce damage taken from Light Att. by 30%

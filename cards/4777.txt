@@ -12,6 +12,7 @@ KR: Reduce binds by 5 turns; For 5 turns, increase orb move time by 5 seconds
 
 # 11488/138 - Those are combos, Katsura
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Stats: [1, 5.0, 1, 0]
 Game: [7x6 board]; ATK increases with 5+ combos, up to 3x
 JP: [Board becomes 7x6] 1.5x ATK when 3 or more combos up to 5x at 10 combos
 EN: [Board becomes 7x6] 1.5x ATK when 3 or more combos up to 5x at 10 combos

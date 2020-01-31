@@ -12,6 +12,7 @@ KR: For 3 turns, reduce damage taken by 35%; Change the far left column to Light
 
 # 9068/138 - Cataphract's Draco Summoning Seal
 Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 10.0, 2.5, 0]
 Game: [Orb move time: 4 sec], 4x ATK when Lt & Fr attack at once; 2.5x ATK & RCV for Dragon & Physical Types
 JP: [Fixed 4 second movetime] 2.5x ATK & RCV for Physical and Dragon type; 4x ATK when matching Light and Fire
 EN: [Fixed 4 second movetime] 2.5x ATK & RCV for Physical and Dragon type; 4x ATK when matching Light and Fire

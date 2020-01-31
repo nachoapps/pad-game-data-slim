@@ -12,6 +12,7 @@ KR: Deal 1000 Water damage to all enemies
 
 # 72/17 - Water Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Water Att. damage
 JP: Reduce damage taken from Water Att. by 30%
 EN: Reduce damage taken from Water Att. by 30%

@@ -12,6 +12,7 @@ KR: Deal Light damage to an enemy depending on HP level (200x at 1 HP and 20x at
 
 # 4050/138 - Haisui is the true essence of my fist
 Tags: ENHANCED_ATK
+Stats: [1, 5.25, 0.5, 0.0]
 Game: 3.5x ATK, but halves overall RCV; 1.5x ATK for Attacker Type when HP is 20% or less
 JP: 3.5x ATK and 0.5x RCV; 1.5x ATK for Attacker type when below 20% HP
 EN: 3.5x ATK and 0.5x RCV; 1.5x ATK for Attacker type when below 20% HP

@@ -12,6 +12,7 @@ KR: Change Water and Jammer orbs to Wood orbs; Change Heal, Poison, and Mortal P
 
 # 831/17 - 抹茶
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: 木属性の敵から受けるダメージを半減。
 JP: Reduce damage taken from Wood Att. by 50%
 EN: Reduce damage taken from Wood Att. by 50%

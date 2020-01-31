@@ -12,6 +12,7 @@ KR: Reduce HP by 50%; Deal 100x Light damage to an enemy; Unlock all orbs; Chang
 
 # 11870/138 - You're dead.
 Tags: ENHANCED_HP_ATK
+Stats: [2.0, 20.0, 1.0, 0.0]
 Game: 2x HP & ATK for Attacker Type, 2x ATK when HP is 80% or less; 4x ATK when 4 Att. attack at once (5x for 5 Att.)
 JP: 2x HP & ATK for Attacker type; 2x ATK when below 80% HP; 4x ATK when matching 4 or more colors up to 5x at 5 colors
 EN: 2x HP & ATK for Attacker type; 2x ATK when below 80% HP; 4x ATK when matching 4 or more colors up to 5x at 5 colors

@@ -12,6 +12,7 @@ KR: Change all orbs to Fire, Water, Light, Dark, and Heal orbs; Charge all allie
 
 # 3627/138 - Don't lose sight of the core objective
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Stats: [1.0, 12.0, 1.0, 0]
 Game: 4x ATK when 4+ Att. attack at once; ATK increases a little for Attacker & Machine Types
 JP: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker and Machine type
 EN: [Board becomes 7x6] 4x ATK when matching 4 or more colors; 3x ATK for Attacker and Machine type

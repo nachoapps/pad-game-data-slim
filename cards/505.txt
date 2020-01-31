@@ -12,6 +12,7 @@ KR: For 4 turns, 1.5x ATK for Water Att.; Deal 40x ATK Water damage to all enemi
 
 # 382/16 - Bouncy Body
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.2]
 Game: Reduces damage
 JP: Reduce damage taken by 20%
 EN: Reduce damage taken by 20%

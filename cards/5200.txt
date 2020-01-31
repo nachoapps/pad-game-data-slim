@@ -12,6 +12,7 @@ KR: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects
 
 # 13121/138 - Thunderblade Strike
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1, 15.0, 1.0, 0.0]
 Game: 7.5x ATK when HP is full, 2x ATK with 2+ combos; recovers 10x RCV as HP when matching Orbs
 JP: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
 EN: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs

@@ -12,6 +12,7 @@ KR: For 1 turn, increase combo count by 1; Change all orbs to Fire, Water, Wood,
 
 # 14028/138 - これ…最後の技です……………
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 20.0, 1, 0.5]
 Game: 4色以上同時攻撃でダメージを半減。 3コンボ以上で攻撃力が上昇、最大20倍。
 JP: Reduce damage taken by 50% when matching 4 or more colors; 6x ATK when 3 or more combos up to 20x at 10 combos
 EN: Reduce damage taken by 50% when matching 4 or more colors; 6x ATK when 3 or more combos up to 20x at 10 combos

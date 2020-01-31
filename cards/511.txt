@@ -12,6 +12,7 @@ KR: For 4 turns, 1.5x ATK for Dark Att.; Deal 40x ATK Dark damage to all enemies
 
 # 385/17 - Devil's Field
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Dark Att. damage
 JP: Reduce damage taken from Dark Att. by 50%
 EN: Reduce damage taken from Dark Att. by 50%

@@ -12,6 +12,7 @@ KR: Change Water orbs to Heal orbs
 
 # 306/36 - Frost Forest Barrier
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Wood & Water Att. damage
 JP: Reduce damage taken from Wood and Water Att. by 50%
 EN: Reduce damage taken from Wood and Water Att. by 50%

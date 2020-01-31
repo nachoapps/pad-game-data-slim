@@ -12,6 +12,7 @@ KR: For 1 turn, reduce damage taken by 50%; Change Wood and Heal orbs to Fire or
 
 # 14885/138 - Make my monsters grow!
 Tags: ENHANCED_HP_ATK_RCV,RESOLVE,EXTEND_TIME
+Stats: [1.5, 1.5, 1.5, 0]
 Game: 1.5x to all stats for Fire Att., Orb move time +5 seconds; may survive when HP is reduced to 0
 JP: 1.5x all stats for Fire Att.; Increase orb movement time by 5 seconds; May survive when HP is reduced to 0 (HP>50%)
 EN: 1.5x all stats for Fire Att.; Increase orb movement time by 5 seconds; May survive when HP is reduced to 0 (HP>50%)

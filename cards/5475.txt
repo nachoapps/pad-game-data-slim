@@ -12,6 +12,7 @@ KR: Change all enemies to Dark Att.; Change Jammer, Poison, Mortal Poison, and B
 
 # 14147/138 - これが三戦てんだよ
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 5.0, 2.0, 0.5]
 Game: 攻撃タイプの攻撃力が5倍、回復力は2倍。 回復の5個十字消しでダメージを半減。
 JP: 5x ATK and 2x RCV for Attacker type; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 5x ATK and 2x RCV for Attacker type; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation

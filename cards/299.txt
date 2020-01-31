@@ -12,6 +12,7 @@ KR: Change Dark orbs to Heal orbs
 
 # 308/36 - Holy Forest Barrier
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Light & Wood Att. damage
 JP: Reduce damage taken from Light and Wood Att. by 50%
 EN: Reduce damage taken from Light and Wood Att. by 50%

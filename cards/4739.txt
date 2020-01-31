@@ -12,6 +12,7 @@ KR: For 3 turns, enhanced orbs are more likely to appear by 50%; Recover 30% of 
 
 # 11371/138 - Ethereal Bond
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1, 17.5, 3.0, 0.25]
 Game: 5x ATK when HP is 80% or more, 3x ATK & RCV when 79% or less; 3.5x ATK & reduces dmg when Dk & Wd attack at once
 JP: 5x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 25% when matching Dark and Wood
 EN: 5x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 25% when matching Dark and Wood

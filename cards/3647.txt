@@ -12,6 +12,7 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 7820/138 - Can you give me a hand?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 20.0, 1, 0.25]
 Game: 4x ATK & reduces damage when attacking with 4+ Att.; ATK increases with 4+ linked Wood Orbs, up to 5x
 JP: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 3x ATK when matching 4 or more connected Wood orbs up to 5x at 8 orbs
 EN: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 3x ATK when matching 4 or more connected Wood orbs up to 5x at 8 orbs

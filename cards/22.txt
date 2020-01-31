@@ -12,6 +12,7 @@ KR: Deal 1000 Fire damage to all enemies
 
 # 71/17 - Fire Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Fire Att. damage
 JP: Reduce damage taken from Fire Att. by 30%
 EN: Reduce damage taken from Fire Att. by 30%

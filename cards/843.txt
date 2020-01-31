@@ -12,6 +12,7 @@ KR: Randomized Fire damage to all enemies(50~100x)
 
 # 751/138 - 翼竜の使命
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 5.0, 1.0, 0.25]
 Game: ドラゴンタイプの攻撃力が2.5倍。 火を6個以上つなげて消すとダメージを軽減、攻撃力が2倍。
 JP: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
 EN: 2.5x ATK for Dragon type; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs

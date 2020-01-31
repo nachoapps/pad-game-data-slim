@@ -12,6 +12,7 @@ KR: Remove all awoken skill binds; Change all orbs to Water, Wood, and Light orb
 
 # 11746/138 - Deadlock-Breaking Tactics
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1, 12.0, 1, 0.25]
 Game: [7x6 board], 4x ATK & reduces damage with 9+ combos; 3x ATK with 5+ linked Orbs
 JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 9 or more combos; 3x ATK when matching 5 or more connected orbs
 EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 9 or more combos; 3x ATK when matching 5 or more connected orbs

@@ -12,6 +12,7 @@ KR: For 3 turns, increase orb move time by 1 second
 
 # 10502/138 - Keela's Eye
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Stats: [1.0, 18.0, 1.0, 0]
 Game: [7x6 board], 1.5x ATK but unable to erase 3 Orbs or less; ATK increases with 4+ combos, up to 12x
 JP: [Board becomes 7x6][Unable to erase 3 orbs or less] 1.5x ATK; 3x ATK when 4 or more combos up to 12x at 7 combos
 EN: [Board becomes 7x6][Unable to erase 3 orbs or less] 1.5x ATK; 3x ATK when 4 or more combos up to 12x at 7 combos

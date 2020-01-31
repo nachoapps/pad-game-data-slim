@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 3 turns
 
 # 590/12 - Flamme Rouge
 Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
 Game: Inflicts a bonus attack equal to 5x ATK when matching Orbs
 JP: 5x ATK additional damage when matching orbs
 EN: 5x ATK additional damage when matching orbs

@@ -5,6 +5,7 @@ SAWK:
 
 # 833/17 - チョップドチョコレート
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: 闇属性の敵から受けるダメージを半減。
 JP: Reduce damage taken from Dark Att. by 50%
 EN: Reduce damage taken from Dark Att. by 50%

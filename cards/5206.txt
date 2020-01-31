@@ -12,6 +12,7 @@ KR: Becomes Team leader; changes back when used again; For 1 turn, reduce damage
 
 # 13027/138 - Demented Augur
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1, 0.25]
 Game: 8x ATK when HP is 80% or less, 10x when 50% or less; 1.5x ATK & reduces damage with 7+ combos
 JP: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos
 EN: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos

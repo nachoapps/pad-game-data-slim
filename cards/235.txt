@@ -12,6 +12,7 @@ KR: Deal 832 Light damage to all enemies
 
 # 279/13 - ファミ通Appの加護
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: ドロップを消した時、回復力分のHPを回復。
 JP: 1x RCV additional heal when matching orbs
 EN: 1x RCV additional heal when matching orbs

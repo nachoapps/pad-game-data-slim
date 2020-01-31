@@ -12,6 +12,7 @@ KR: Change Light orbs to Heal orbs
 
 # 309/36 - Dark and Water Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Dark & Water Att. damage
 JP: Reduce damage taken from Dark and Water Att. by 30%
 EN: Reduce damage taken from Dark and Water Att. by 30%

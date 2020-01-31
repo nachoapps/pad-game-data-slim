@@ -12,6 +12,7 @@ KR: Deal 100000 fixed damage to all enemies; Change all orbs to Fire, Light, and
 
 # 9536/138 - Merry... Christmas...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1.0, 7.5, 1.0, 0.35]
 Game: [7x6 board]; 3x ATK for Light Att.; 2.5x ATK & reduces damage with a cross of 5 Heal Orbs
 JP: [Board becomes 7x6] 3x ATK for Light Att.; 2.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: [Board becomes 7x6] 3x ATK for Light Att.; 2.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation

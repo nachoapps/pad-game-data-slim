@@ -12,6 +12,7 @@ KR: Reduce binds by 4 turns; Freely move orbs for 7 seconds
 
 # 97/13 - Regenerator
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 2x RCV when matching Orbs
 JP: 2x RCV additional heal when matching orbs
 EN: 2x RCV additional heal when matching orbs

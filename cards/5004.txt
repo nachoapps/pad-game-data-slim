@@ -12,6 +12,7 @@ KR: Recover all HP; Deal 100000 fixed damage to all enemies; Change Heal, Jammer
 
 # 12477/138 - O wind! Enrage!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 18.0, 1.0, 0.35]
 Game: 4x ATK & reduces damage when HP is 50% or more; ATK increases when attacking with 3+ Att., up to 4.5x
 JP: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 3 or more colors up to 4.5x at 5 colors
 EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 3 or more colors up to 4.5x at 5 colors

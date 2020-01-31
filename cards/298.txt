@@ -12,6 +12,7 @@ KR: Change Dark orbs to Heal orbs
 
 # 307/36 - Light and Wood Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Light & Wood Att. damage
 JP: Reduce damage taken from Light and Wood Att. by 30%
 EN: Reduce damage taken from Light and Wood Att. by 30%

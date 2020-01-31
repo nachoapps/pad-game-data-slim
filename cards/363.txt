@@ -12,6 +12,7 @@ KR: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; 
 
 # 338/43 - Robe of Protection
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.8]
 Game: Vastly reduces damage when HP is full
 JP: Reduce damage taken by 80% when HP is full
 EN: Reduce damage taken by 80% when HP is full

@@ -12,6 +12,7 @@ KR: Reduce binds by 4 turns; Freely move orbs for 7 seconds
 
 # 2523/138 - Regenerator Improved
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1, 5.0, 1, 0]
 Game: 5x ATK for Healer & Machine Types when HP is full, 3x ATK at -99%; recovers 5x RCV as HP when matching Orbs
 JP: 5x ATK for Healer and Machine type when HP is full; 3x ATK for Healer and Machine type when below 99% HP; 5x RCV additional heal when matching orbs
 EN: 5x ATK for Healer and Machine type when HP is full; 3x ATK for Healer and Machine type when below 99% HP; 5x RCV additional heal when matching orbs

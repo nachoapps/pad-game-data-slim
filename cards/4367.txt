@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 3 turns; Change all orbs to Fire, Water, and D
 
 # 10319/138 - Flame Haze of the Underworld
 Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
+Stats: [1, 2.5, 1, 0]
 Game: [7x6 board], Orb move time +5 seconds; 2.5x ATK for each cross of 5 Fire, Water or Dark Orbs
 JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs
 EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2.5x ATK for each cross of 5 Fire, Water, or Dark orbs

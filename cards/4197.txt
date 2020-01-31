@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 2 turns; Change all orbs to Wood, Light, Dark,
 
 # 10085/138 - Silent Moon Talisman
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 6.0, 1.5, 0.25]
 Game: 1.5x ATK & RCV for Light Att.; 4x ATK & reduces damage when Wood, Light & Dark attack at once
 JP: 1.5x ATK & RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once
 EN: 1.5x ATK & RCV for Light Att.; 4x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once

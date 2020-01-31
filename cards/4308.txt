@@ -12,6 +12,7 @@ KR: Change the far left column to Heal orbs; Reduce HP to 1; Deal 200x Light dam
 
 # 10205/138 - I'm so hungry...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 18.0, 1.0, 0.5]
 Game: 3x ATK for Light Att., 2x ATK when HP is 50% or less; 3x ATK & halves damage with 5+ linked Light Orbs
 JP: 3x ATK for Light Att.; 2x ATK when below 50% HP; 3x ATK and reduce damage taken by 50% when matching 5 or more connected Light orbs
 EN: 3x ATK for Light Att.; 2x ATK when below 50% HP; 3x ATK and reduce damage taken by 50% when matching 5 or more connected Light orbs

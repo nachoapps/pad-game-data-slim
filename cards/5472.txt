@@ -12,6 +12,7 @@ KR: Reduce HP by 50%; Change the 2nd column from the right and the far right col
 
 # 14132/138 - 欲しいもんのためには全てを捨てる!!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [1.5, 12.0, 1.0, 0.25]
 Game: HP50％以下でダメージを軽減、攻撃力が6倍。 闇属性のHPが1.5倍、攻撃力は2倍。
 JP: 6x ATK and reduce damage taken by 25% when below 50% HP; 2x ATK and 1.5x HP for Dark Att.
 EN: 6x ATK and reduce damage taken by 25% when below 50% HP; 2x ATK and 1.5x HP for Dark Att.

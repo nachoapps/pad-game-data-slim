@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 1 turn; Reduce awoken skill binds by 2 turns
 
 # 11002/138 - The Brigadier's Command
 Tags: ENHANCED_HP_ATK
+Stats: [1.5, 12.0, 1.0, 0.0]
 Game: 1.5x HP for Physical Type, 3x ATK when Dark & Water attack at once; 4x ATK when HP is 50% or less
 JP: 1.5x HP for Physical type; 3x ATK when matching Dark and Water; 4x ATK when below 50% HP
 EN: 1.5x HP for Physical type; 3x ATK when matching Dark and Water; 4x ATK when below 50% HP

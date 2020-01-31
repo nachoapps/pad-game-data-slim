@@ -12,6 +12,7 @@ KR: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
 
 # 216/13 - Rondo of Healing
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 3x RCV when matching Orbs
 JP: 3x RCV additional heal when matching orbs
 EN: 3x RCV additional heal when matching orbs

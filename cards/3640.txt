@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 1 turn; Change Heal, Jammer, Poison, and Morta
 
 # 7607/138 - The Writhing Unknown
 Tags: ENHANCED_ATK_RCV
+Stats: [1, 10.0, 2.0, 0]
 Game: 5x ATK when HP is full, 2.5x ATK when 99% or less; 2x ATK & RCV with 2+ Wood combos
 JP: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 2+ Wood combos
 EN: 5x ATK when HP is full; 2.5x ATK when below 99% HP; 2x ATK & RCV when matching 2+ Wood combos

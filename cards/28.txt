@@ -12,6 +12,7 @@ KR: Deal 1000 Wood damage to all enemies
 
 # 73/17 - Wood Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Wood Att. damage
 JP: Reduce damage taken from Wood Att. by 30%
 EN: Reduce damage taken from Wood Att. by 30%

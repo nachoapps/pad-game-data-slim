@@ -12,6 +12,7 @@ KR: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemi
 
 # 11341/129 - Protection of the Stone Soldier
 Tags: REDUCE_DAMAGE
+Stats: [1.0, 1.0, 1.0, 0.2]
 Game: Reduces damage
 JP: Reduce damage taken by 20%
 EN: Reduce damage taken by 20%

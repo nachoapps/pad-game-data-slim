@@ -12,6 +12,7 @@ KR: For 1 turn, 2x ATK for Physical type; Charge all allies' skills by 1 turn
 
 # 777/17 - Light Resistance Enhance <Mid>
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Light Att. damage
 JP: Reduce damage taken from Light Att. by 50%
 EN: Reduce damage taken from Light Att. by 50%

@@ -12,6 +12,7 @@ KR: For 99 turns, increase orb move time by 1 second; Delay enemies' next attack
 
 # 15066/138 - AI "Yukari" integrated M9
 Tags: ENHANCED_HP_ATK
+Stats: [2.0, 16.0, 1.0, 0.0]
 Game: 2x HP for Machine Type, 4x ATK when skills used; 4x ATK with 4+ combos
 JP: 2x HP for Machine type; 4x ATK on the turn a skill is used; 4x ATK when 4 or more combos
 EN: 2x HP for Machine type; 4x ATK on the turn a skill is used; 4x ATK when 4 or more combos

@@ -12,6 +12,7 @@ KR: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by
 
 # 4804/138 - divine healing of the sun
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
 Game: Healer Type ATK increases with HP; heals HP equal to 10x RCV when matching Orbs
 JP: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
 EN: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs

@@ -12,6 +12,7 @@ KR: For 1 turn, reduce enemies' defense by 100%; For 3 turns, void all Light dam
 
 # 861/138 - ふたりのエール
 Tags: AUTO_HEAL,ENHANCED_ATK_RCV
+Stats: [1.0, 2.0, 2.0, 0.0]
 Game: バランスタイプの攻撃力と回復力が2倍。 ドロップを消した時、回復力×5倍のHPを回復。
 JP: 2x ATK & RCV for Balanced type; 5x RCV additional heal when matching orbs
 EN: 2x ATK & RCV for Balanced type; 5x RCV additional heal when matching orbs

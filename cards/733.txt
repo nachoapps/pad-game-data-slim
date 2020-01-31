@@ -12,6 +12,7 @@ KR: For 1 turn, reduce damage taken by 50%
 
 # 361/16 - Choco Barrier
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.1]
 Game: Slightly reduces damage
 JP: Reduce damage taken by 10%
 EN: Reduce damage taken by 10%

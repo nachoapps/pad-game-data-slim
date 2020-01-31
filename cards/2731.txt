@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change 
 
 # 4540/138 - Spacetime Phone
 Tags: EXTEND_TIME,ETC
+Stats: [1, 1, 1, 0]
 Game: Extends time to move Orbs by 5 seconds, plus a drumming sound is made when Orbs are moved
 JP: Increase orb movement time by 5 seconds; Turn orb sound effects into Taiko noises
 EN: Increase orb movement time by 5 seconds; Turn orb sound effects into Taiko noises

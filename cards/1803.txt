@@ -12,6 +12,7 @@ KR: Recover 50% of max HP; Reduce binds by 2 turns
 
 # 2466/138 - すぐなおしてあげる!!
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1.0, 2.0, 1.0, 0.0]
 Game: 神タイプの攻撃力が2倍。 ドロップを消した時、回復力×4倍のHPを回復。
 JP: 2x ATK for God type; 4x RCV additional heal when matching orbs
 EN: 2x ATK for God type; 4x RCV additional heal when matching orbs

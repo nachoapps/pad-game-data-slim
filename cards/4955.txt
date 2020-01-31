@@ -12,6 +12,7 @@ KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Loc
 
 # 12262/138 - Do you like cold stuff?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1.0, 0.35]
 Game: 3x ATK & reduces damage when HP is 50% or less; ATK increases with 5+ Water Orbs, up to 5x
 JP: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 or more connected Water orbs up to 5x at 8 orbs
 EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching 5 or more connected Water orbs up to 5x at 8 orbs

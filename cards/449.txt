@@ -12,6 +12,7 @@ KR: Deal Fire damage to all enemies depending on HP level (150x at 1 HP and 10x 
 
 # 362/39 - Critical: Berserk
 Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1.0, 0]
 Game: 3x ATK when HP is 30% or less
 JP: 3x ATK when below 30% HP
 EN: 3x ATK when below 30% HP

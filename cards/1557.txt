@@ -12,6 +12,7 @@ KR: Recover all HP; Remove all binds
 
 # 1794/138 - Dispelling Circle
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1.0, 3.0, 1.0, 0]
 Game: 3x ATK for Attacker Type; heals HP equal to 5x RCV when matching Orbs
 JP: 3x ATK for Attacker type; 5x RCV additional heal when matching orbs
 EN: 3x ATK for Attacker type; 5x RCV additional heal when matching orbs

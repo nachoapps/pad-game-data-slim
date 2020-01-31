@@ -12,6 +12,7 @@ KR: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; 
 
 # 1277/43 - Protective Vestments
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves damage when HP is full
 JP: Reduce damage taken by 50% when HP is full
 EN: Reduce damage taken by 50% when HP is full

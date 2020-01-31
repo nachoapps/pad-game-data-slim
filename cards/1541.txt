@@ -12,6 +12,7 @@ KR: Change Water orbs to Heal orbs; Recover 30% of max HP
 
 # 1905/17 - Damage Guard - Wood
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Water Att. damage
 JP: Reduce damage taken from Water Att. by 50%
 EN: Reduce damage taken from Water Att. by 50%

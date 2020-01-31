@@ -12,6 +12,7 @@ KR: For 3 turns, reduce damage taken by 30%; Change all orbs to Light, Dark, and
 
 # 14982/138 - I release thee, Sword of Light!
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1, 9.0, 4.5, 0.25]
 Game: [7x6 board], 4.5x ATK & RCV with 8+ combos; 2x ATK & reduces dmg when Light & Dark attack at once
 JP: [Board becomes 7x6] 4.5x ATK & RCV when 8 or more combos; 2x ATK and reduce damage taken by 25% when matching Light and Dark
 EN: [Board becomes 7x6] 4.5x ATK & RCV when 8 or more combos; 2x ATK and reduce damage taken by 25% when matching Light and Dark

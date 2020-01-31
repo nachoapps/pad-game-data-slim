@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 3 turns; Deal 200x ATK damage to an enemy and 
 
 # 12543/138 - You are fine, I see. That is splendid.
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
+Stats: [1.0, 6.0, 2.0, 0]
 Game: [7x6 board], 2x ATK & RCV for Water & Dark Att.; 3x ATK when Dark & Water attack at once
 JP: [Board becomes 7x6] 2x ATK & RCV for Water and Dark Att.; 3x ATK when matching Dark and Water
 EN: [Board becomes 7x6] 2x ATK & RCV for Water and Dark Att.; 3x ATK when matching Dark and Water

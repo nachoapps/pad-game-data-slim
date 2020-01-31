@@ -12,6 +12,7 @@ KR: Recover 50% of max HP; Reduce unable to match orbs effect by 9999 turns; Cha
 
 # 15581/138 - Spellcaster-Type Monster
 Tags: AUTO_HEAL,ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 7.0, 1, 0.5]
 Game: 7x ATK & halves damage with 2+ Heal combos; recovers 10x RCV as HP when matching Orbs
 JP: 7x ATK and reduce damage taken by 50% when matching 2+ Heal combos; 10x RCV additional heal when matching orbs
 EN: 7x ATK and reduce damage taken by 50% when matching 2+ Heal combos; 10x RCV additional heal when matching orbs

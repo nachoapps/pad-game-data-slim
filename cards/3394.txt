@@ -12,6 +12,7 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn
 
 # 6795/138 - Kali's Providence
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 12.5, 2.5, 0.25]
 Game: 2.5x ATK & RCV for Attacker & God Types; 5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
 JP: 2.5x ATK & RCV for God and Attacker type; 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once
 EN: 2.5x ATK & RCV for God and Attacker type; 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once

@@ -12,6 +12,7 @@ KR: For 1 turn, reduce damage taken by 75%; Change the top row to Fire orbs
 
 # 11688/138 - People burdened with many things become stronger!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME,BOARD_CHANGE_7X6
+Stats: [1, 5.0, 1, 0.25]
 Game: [7x6 board], Orb move time +5 seconds; 5x ATK & reduces damage with 7+ linked Fire Orbs
 JP: [Board becomes 7x6] Increase orb movement time by 5 seconds; 5x ATK and reduce damage taken by 25% when matching 7 or more connected Fire orbs
 EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 5x ATK and reduce damage taken by 25% when matching 7 or more connected Fire orbs

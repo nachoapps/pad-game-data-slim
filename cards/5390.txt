@@ -12,6 +12,7 @@ KR: Activate a random skill from the list: 1) Delay enemies' next attack by 4 tu
 
 # 13773/138 - Magical Protection
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 20.0, 2.0, 0.5]
 Game: 2x ATK & RCV for Light Att., halves damage sometimes; ATK increases with 4+ combos, up to 10x
 JP: 2x ATK & RCV for Light Att.; 20% chance to reduce damage taken by 50%; 4x ATK when 4 or more combos up to 10x at 10 combos
 EN: 2x ATK & RCV for Light Att.; 20% chance to reduce damage taken by 50%; 4x ATK when 4 or more combos up to 10x at 10 combos

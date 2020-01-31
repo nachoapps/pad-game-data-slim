@@ -12,6 +12,7 @@ KR: For 1 turn, increase combo count by 1; For 1 turn, 0x RCV; For 1 turn, bypas
 
 # 15241/138 - シャリンドリル
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [1, 15.0, 1.0, 0.35]
 Game: 4コンボ以上で攻撃力が3倍。ドロップ操作を2秒延長。 HP50％以上でダメージを軽減、水属性の攻撃力が5倍。
 JP: 3x ATK when 4 or more combos; Increase orb movement time by 2 seconds; 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP
 EN: 3x ATK when 4 or more combos; Increase orb movement time by 2 seconds; 5x ATK for Water Att. and reduce damage taken by 35% when above 50% HP

@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 1 turn; For 1 turn, only Fire, Water, Light, a
 
 # 12826/138 - Uh-oh! Pleased to meet you!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [1.5, 15.0, 1.0, 0.25]
 Game: [Orb move time: 5 sec], 1.5x HP & 3x ATK for all Att.; 5x ATK & reduces damage with 6+ combos
 JP: [Fixed 5 second movetime] 3x ATK and 1.5x HP; 5x ATK and reduce damage taken by 25% when 6 or more combos
 EN: [Fixed 5 second movetime] 3x ATK and 1.5x HP; 5x ATK and reduce damage taken by 25% when 6 or more combos

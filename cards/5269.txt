@@ -12,6 +12,7 @@ KR: For 1 turn, reduce damage taken by 75%; Change all orbs to Wood, Light, Dark
 
 # 13359/138 - Ascetic in Training
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1.0, 0.5]
 Game: 3x ATK & halves damage when HP is 80% or more; ATK increases with 4+ combos, up to 5x
 JP: 3x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when 4 or more combos up to 5x at 10 combos
 EN: 3x ATK and reduce damage taken by 50% when above 80% HP; 2x ATK when 4 or more combos up to 5x at 10 combos

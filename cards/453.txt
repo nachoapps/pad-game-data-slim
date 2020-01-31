@@ -12,6 +12,7 @@ KR: For 1 turn, reduce enemies' defense by 100%; For 3 turns, void all Light dam
 
 # 364/13 - First Aid
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 3x RCV when matching Orbs
 JP: 3x RCV additional heal when matching orbs
 EN: 3x RCV additional heal when matching orbs

@@ -12,6 +12,7 @@ KR: For 2 turns, 1.5x ATK for Light Att.; Deal 20x ATK Light damage to all enemi
 
 # 79/17 - Light Barrier
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Light Att. damage
 JP: Reduce damage taken from Light Att. by 50%
 EN: Reduce damage taken from Light Att. by 50%

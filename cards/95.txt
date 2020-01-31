@@ -12,6 +12,7 @@ KR: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
 
 # 67/13 - Healing Song
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to RCV when matching Orbs
 JP: 1x RCV additional heal when matching orbs
 EN: 1x RCV additional heal when matching orbs

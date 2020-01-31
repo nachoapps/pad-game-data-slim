@@ -12,6 +12,7 @@ KR: Change Wood orbs to Heal orbs
 
 # 301/36 - Fire and Wood Guard
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.3]
 Game: Reduces Fire & Wood Att. damage
 JP: Reduce damage taken from Fire and Wood Att. by 30%
 EN: Reduce damage taken from Fire and Wood Att. by 30%

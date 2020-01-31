@@ -12,6 +12,7 @@ KR: Change the bottom row to Dark orbs; Changes to [5845] for the duration of th
 
 # 15783/138 - 古石霊の魔印
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
+Stats: [1, 4.0, 1, 0.25]
 Game: 【7×6マス】 闇を7個以上つなげて消すとダメージを軽減、攻撃力が4倍。
 JP: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
 EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs

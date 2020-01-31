@@ -12,6 +12,7 @@ KR: Delay enemies' next attack by 3 turns
 
 # 4204/138 - I'll show you a wonderful dream
 Tags: AUTO_HEAL,ENHANCED_ATK
+Stats: [1.0, 3.0, 1.0, 0.0]
 Game: 3x ATK for Healer Type; heals 4x RCV in HP when matching Orbs
 JP: 3x ATK for Healer type; 4x RCV additional heal when matching orbs
 EN: 3x ATK for Healer type; 4x RCV additional heal when matching orbs

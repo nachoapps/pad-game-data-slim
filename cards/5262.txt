@@ -12,6 +12,7 @@ KR: Reduce HP by 50%; Enhance all Light orbs; Delay enemies' next attack by 2 tu
 
 # 13329/138 - Battle Clothes
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 14.0, 1.0, 0.5]
 Game: 7x ATK when HP is 50% or less; 2x ATK & halves damage with a cross of 5 Heal Orbs
 JP: 7x ATK when below 50% HP; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 EN: 7x ATK when below 50% HP; 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation

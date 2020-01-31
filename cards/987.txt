@@ -12,6 +12,7 @@ KR: For 5 turns, reduce damage taken by 50%
 
 # 845/16 - Iron Will of the Gods
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.25]
 Game: Reduces damage
 JP: Reduce damage taken by 25%
 EN: Reduce damage taken by 25%

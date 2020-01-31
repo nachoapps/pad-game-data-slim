@@ -12,6 +12,7 @@ KR: Create 2 Heal orbs over non Wood orbs; Change Jammer, Poison, and Mortal Poi
 
 # 9123/138 - Explosion Shockwaves
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.35]
 Game: ATK increases when attacking with 3+ Att., up to 4x; 4x ATK & reduces damage with a cross of 5 Heal Orbs
 JP: 3x ATK when matching 3 or more colors up to 4x at 5 colors; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation
 EN: 3x ATK when matching 3 or more colors up to 4x at 5 colors; 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross formation

@@ -12,6 +12,7 @@ KR: Reduce HP by 50%; Deal 100x Dark damage to an enemy; For 1 turn, only Fire, 
 
 # 12807/138 - You will feel my wrath!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [1, 12.5, 1.0, 0.25]
 Game: 2.5x ATK when HP is 99% or less, Orb move time +2 seconds; 5x ATK & reduces damage with 5+ combos
 JP: 2.5x ATK when below 99% HP; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when 5 or more combos
 EN: 2.5x ATK when below 99% HP; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when 5 or more combos

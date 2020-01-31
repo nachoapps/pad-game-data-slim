@@ -12,6 +12,7 @@ KR: Change Heal orbs to Water orbs
 
 # 77/17 - Ice Barrier
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Water Att. damage
 JP: Reduce damage taken from Water Att. by 50%
 EN: Reduce damage taken from Water Att. by 50%

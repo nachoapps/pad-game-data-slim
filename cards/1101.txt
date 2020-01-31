@@ -12,6 +12,7 @@ KR: Recover 10x RCV as HP; Reduce binds by 3 turns; For 7 turns, 1.5x RCV
 
 # 205/13 - Song of Rest
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 4x RCV when matching Orbs
 JP: 4x RCV additional heal when matching orbs
 EN: 4x RCV additional heal when matching orbs

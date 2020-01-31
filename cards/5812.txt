@@ -12,6 +12,7 @@ KR: For 5 turns, increase combo count by 1; For 5 turns, reduce damage taken by 
 
 # 15593/138 - Effect Monster
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
+Stats: [1.5, 10.0, 1.5, 0]
 Game: [7x6 board], 1.5x HP & RCV for Wood Att.; ATK increases with 4+ combos, up to 10x
 JP: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos
 EN: [Board becomes 7x6] 1.5x HP & RCV for Wood Att.; 2x ATK when 4 or more combos up to 10x at 12 combos

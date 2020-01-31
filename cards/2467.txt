@@ -12,6 +12,7 @@ KR: For 2 turns, reduce damage taken by 35%; Reduce binds by 5 turns
 
 # 4121/138 - I'll save you!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 2.5, 1.0, 0.35]
 Game: 2.5x ATK for Attacker Type; reduces damage when HP is 50% or more
 JP: 2.5x ATK for Attacker type; Reduce damage taken by 35% when above 50% HP
 EN: 2.5x ATK for Attacker type; Reduce damage taken by 35% when above 50% HP

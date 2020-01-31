@@ -12,6 +12,7 @@ KR: Deal 150x ATK Wood damage to an enemy; For 3 turns, reduce enemies' defense 
 
 # 3657/129 - Hardened Body
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 1.5, 1.0, 0.2]
 Game: 1.5x ATK for Physical Type; reduces damage
 JP: 1.5x ATK for Physical type; Reduce damage taken by 20%
 EN: 1.5x ATK for Physical type; Reduce damage taken by 20%

@@ -12,6 +12,7 @@ KR: Recover 2000 HP
 
 # 62/13 - Healing Prayer
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to half RCV when matching Orbs
 JP: 0.5x RCV additional heal when matching orbs
 EN: 0.5x RCV additional heal when matching orbs

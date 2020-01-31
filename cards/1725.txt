@@ -12,6 +12,7 @@ KR: Deal 100000 fixed damage to an enemy; Change Heal and Jammer orbs to Light o
 
 # 2410/138 - これが最後の一矢だあーッ
 Tags: ENHANCED_ATK_RCV
+Stats: [1, 8.0, 2.0, 0]
 Game: HP満タン時に攻撃力が4倍。 スキル使用時、攻撃力と回復力が2倍
 JP: 4x ATK when HP is full; 2x ATK & RCV on the turn a skill is used
 EN: 4x ATK when HP is full; 2x ATK & RCV on the turn a skill is used

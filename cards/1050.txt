@@ -12,6 +12,7 @@ KR: For 2 turns, reduce enemies' defense by 75%; Deal 50x ATK damage to an enemy
 
 # 895/17 - Flameproof
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Fire Att. damage
 JP: Reduce damage taken from Fire Att. by 50%
 EN: Reduce damage taken from Fire Att. by 50%

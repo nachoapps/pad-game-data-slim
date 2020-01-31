@@ -12,6 +12,7 @@ KR: For 5 turns, 1.3x ATK for Balanced type; Poison all enemies (1x ATK)
 
 # 770/17 - Fire Resistance Enhance <Mid>
 Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.5]
 Game: Halves Fire Att. damage
 JP: Reduce damage taken from Fire Att. by 50%
 EN: Reduce damage taken from Fire Att. by 50%

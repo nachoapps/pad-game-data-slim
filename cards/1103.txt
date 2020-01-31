@@ -12,6 +12,7 @@ KR: Recover 5x RCV as HP; Reduce binds by 2 turns; For 3 turns, 1.5x RCV
 
 # 217/13 - Miracle
 Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 5x RCV when matching Orbs
 JP: 5x RCV additional heal when matching orbs
 EN: 5x RCV additional heal when matching orbs

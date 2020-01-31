@@ -12,6 +12,7 @@ KR: Deal 100000 fixed damage to an enemy; Delay enemies' next attack by 1 turn
 
 # 875/139 - 最初はグー
 Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
 Game: HP満タンか50％以下で木属性の攻撃力が4倍。
 JP: 4x ATK for Wood Att. when HP is full; 4x ATK for Wood Att. when below 50% HP
 EN: 4x ATK for Wood Att. when HP is full; 4x ATK for Wood Att. when below 50% HP
