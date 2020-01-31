@@ -14,23 +14,23 @@ level: 1
  | group:
    | group:
    | condition: execute repeatedly, turn 1-2 of 4
+     | condition: 33% chance
+     | (11954:94) こごえさせてあげるっ！
+     | Lock 8 random orbs
+     | condition: 33% chance
+     | (11950:48) ひえひえプレゼントっ♪
+     | Change a random attribute to Water orbs, Deal 95% damage
      | condition: 34% chance
-     | (11946:83) 冷やしちゃう！ + こおりなさいっ！
-     | Player -25% HP + Deal 50% damage, Deal 50% damage
-     | condition: 33% chance
-     | (11947:83) ひえひえプレゼントっ♪ + ず～っと　溶けないでいてね？
-     | Change a random attribute to Water orbs + Delay active skills by 0~1 turns, Deal 95% damage
-     | condition: 33% chance
-     | (11948:83) こごえさせてあげるっ！ + ぴゅう～～っ♪
-     | Lock 8 random orbs + Bind 1 random sub for 2 turns, Deal 90% damage
+     | (11952:15) こおりなさいっ！
+     | Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 3 of 4
      | (11955:66) 夏バテだわ…
      | Do nothing
    | group:
    | condition: execute repeatedly, turn 4 of 4
-     | (11943:83) 雪あそび　したくない？ + 急がないと　とろけちゃう！
-     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -2s for 3 turns
+     | (11944:104) 雪あそび　したくない？
+     | A 2×2 square of clouds appears for 3 turns at a random location
  | group:
  | condition: hp <= 19
    | group:
@@ -39,5 +39,5 @@ level: 1
      | Deal 120% damage (4 hits, 30% each)
    | group:
    | condition: execute repeatedly, turn 4 of 4
-     | (11943:83) 雪あそび　したくない？ + 急がないと　とろけちゃう！
-     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -2s for 3 turns
+     | (11944:104) 雪あそび　したくない？
+     | A 2×2 square of clouds appears for 3 turns at a random location

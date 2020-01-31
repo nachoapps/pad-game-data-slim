@@ -1,0 +1,12 @@
+#4181 - Composed God of Great Knowledge, Dagda
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 4181
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16512:66) 今後ともよろしくたまぁ～！
+ | Do nothing

@@ -20,7 +20,7 @@
           children {
             group {
               condition {
-                repeats_every: 3
+                repeats_every: 2
                 trigger_turn: 1
               }
               children {
@@ -33,9 +33,8 @@
           children {
             group {
               condition {
-                repeats_every: 3
+                repeats_every: 2
                 trigger_turn: 2
-                trigger_turn_end: 3
               }
               children {
                 behavior {
@@ -125,4 +124,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

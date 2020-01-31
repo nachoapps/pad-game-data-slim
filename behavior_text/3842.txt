@@ -1,8 +1,8 @@
 #3842 - Awoken Ishida Mitsunari
 monster size: 5
 new AI: True
-start/max counter: 2
-counter increment: 1
+start/max counter: 3
+counter increment: 0
 monster_id: 3842
 approved: False
 
@@ -13,11 +13,11 @@ level: 1
  group:
  | group:
    | group:
-   | condition: execute repeatedly, turn 1 of 3
+   | condition: execute repeatedly, turn 1 of 2
      | (6945:50) Focused Laser
      | Player -99% HP
    | group:
-   | condition: execute repeatedly, turn 2-3 of 3
+   | condition: execute repeatedly, turn 2 of 2
      | (6944:15) Spread Laser
      | Deal 120% damage (3 hits, 40% each)
  | group:
