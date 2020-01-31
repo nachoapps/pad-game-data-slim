@@ -152,3 +152,191 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: DEATH
+      condition {
+        if_defeated: true
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5969
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+            trigger_monsters: 2744
+          }
+          enemy_skill_id: 5973
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5957
+        }
+      }
+    }
+    groups {
+      group_type: DEATH
+      condition {
+        if_defeated: true
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 5969
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  condition {
+                    trigger_monsters: 1849
+                  }
+                  enemy_skill_id: 5959
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    trigger_monsters: 1849
+                  }
+                  enemy_skill_id: 5960
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 60
+                  }
+                  enemy_skill_id: 5960
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5961
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5964
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5965
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 3
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5966
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 4
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5967
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 5968
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
