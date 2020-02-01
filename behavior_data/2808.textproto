@@ -339,3 +339,156 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 8011
+        }
+      }
+    }
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 8012
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                always_trigger_above: 70
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8013
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 10
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8019
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 8022
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8021
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 8023
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8025
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 8024
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 69
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 8017
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 29
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 8016
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
