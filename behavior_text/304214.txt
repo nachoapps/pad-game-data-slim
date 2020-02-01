@@ -1,0 +1,29 @@
+#304214 - 寄道の親愛神・サクヤ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 304214
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (12650:74) ふぉふぉは通ひまへん
+ | Reduce damage from all sources by 75% for 4 turns
+ group:
+ | group:
+ | condition: execute repeatedly, turn 1 of 4
+   | (12651:104) もっちりふわふわ肉まん
+   | A row of clouds appears for 3 turns at a random location
+ | group:
+ | condition: execute repeatedly, turn 2 of 4
+   | (12652:66) もぐもぐ
+   | Do nothing
+ | group:
+ | condition: execute repeatedly, turn 3 of 4
+   | (12653:83) ごちそうさまです♪ + お待たせしました行きます
+   | Do nothing + Increase damage to 500% for the next 3 turns
+ | group:
+ | condition: execute repeatedly, turn 4 of 4
+   | (12656:15) 四神乱舞
+   | Deal 120% damage (4 hits, 30% each)
