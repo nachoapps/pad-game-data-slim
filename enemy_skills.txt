@@ -485,13 +485,13 @@ KR: Change all Heal orbs to Jammer orbs
 
 # 97/13 - Random Change
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 98/13 - Random Change Lv.2
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 99/1 - Crystal Coffin
 JP: 2〜3ターンの間、ランダムで3体がバインド
@@ -500,8 +500,8 @@ KR: Bind 3 random cards for 2~3 turns
 
 # 100/13 - Mischief by God
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 101/15 - Double Strike
 JP: 140%ダメージ (2連続攻撃、70%ごと)
@@ -720,8 +720,8 @@ KR: Blind all orbs on the board
 
 # 144/13 - Miracle of the Lamp
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 145/1 - Miracle of the Lamp
 JP: 2〜5ターンの間、ランダムで4体がバインド
@@ -950,8 +950,8 @@ KR: Change all Heal orbs to Jammer orbs
 
 # 190/13 - Random Jammer
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 191/15 - Tri Attack
 JP: 135%ダメージ (3連続攻撃、45%ごと)
@@ -1195,8 +1195,8 @@ KR: Bind 3 random cards for 1~3 turns
 
 # 239/13 - Elf's Mischief
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 240/15 - Wolf Combo
 JP: 125%ダメージ (5連続攻撃、25%ごと)
@@ -1285,8 +1285,8 @@ KR: Deal 150% damage
 
 # 257/13 - Impish Mischief
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 258/8 - Power Charge
 JP: 次の攻撃の攻撃力が200%に上昇
@@ -2515,8 +2515,8 @@ KR: Bind 1 random card for 5 turns
 
 # 503/13 - Chaos Eye
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 504/1 - Pupil of the Evil Eye
 JP: 4ターンの間、ランダムで2体がバインド
@@ -2850,8 +2850,8 @@ KR: Bind 1 random card for 5 turns
 
 # 570/13 - Howl
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 571/15 - Tail Attack
 JP: 110%ダメージ (2連続攻撃、55%ごと)
@@ -3415,8 +3415,8 @@ KR: Change all Poison orbs to Dark orbs
 
 # 683/13 - It's Show Time!
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 684/48 - Laughing Gas
 JP: ランダム属性のドロップをお邪魔ドロップに変化
@@ -3680,8 +3680,8 @@ KR: Player recover 100% HP
 
 # 736/13 - Triplet Trouble
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 737/5 - Pitch Black
 JP: 全ドロップを真っ暗にする
@@ -3765,8 +3765,8 @@ KR: Change all Fire orbs to Water orbs
 
 # 753/13 - Fragile Fantasy
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 754/15 - Creation
 JP: 250%ダメージ (5連続攻撃、50%ごと)
@@ -4205,8 +4205,8 @@ KR: Change a random attribute to Water orbs
 
 # 841/13 - びびってたりしてぇ～
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 842/20 - 我は女王なり!!
 JP: 999ターンの間、状態異常無効化
@@ -5015,8 +5015,8 @@ KR: Deal 210% damage (3 hits, 70% each)
 
 # 1003/13 - Cold Angelic Smile
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 1004/17 - Sadistic Switch
 JP: 999ターンの間、攻撃力が200%に上昇
@@ -5435,8 +5435,8 @@ KR: Change all Water orbs to Heal orbs
 
 # 1084/13 - Father Sea's Curse
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 1085/15 - Sea God's Strike
 JP: 400%ダメージ
@@ -5535,8 +5535,8 @@ KR: Change a random attribute to Light orbs
 
 # 1104/13 - チェーンジ!!!
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1105/39 - ぜったいにゆるさんぞ虫ケラども!!!!!
 JP: 5ターンの間、操作時間-1秒
@@ -5760,8 +5760,8 @@ KR: Deal 150% damage
 
 # 1149/13 - Jurassic Howling
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1150/48 - Heat Axe
 JP: 水ドロップを火ドロップに変化
@@ -5950,8 +5950,8 @@ KR: Deal 200% damage (5 hits, 40% each)
 
 # 1187/13 - きみたちすこし行儀がわるいな
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1188/15 - 天魔降伏!!
 JP: 100%ダメージ
@@ -6125,8 +6125,8 @@ KR: Change a random attribute to Heal orbs
 
 # 1222/13 - Ark Judgement
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1223/15 - Punishment Thunder
 JP: 1000%ダメージ
@@ -6140,8 +6140,8 @@ KR: Player recover 100% HP
 
 # 1225/13 - Mystery Illusion
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1226/48 - Magical Wash
 JP: 木ドロップを水ドロップに変化
@@ -6550,8 +6550,8 @@ KR: Do nothing
 
 # 1307/13 - Hell Howl
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1308/64 - Death Bite
 JP: ランダムで3個のドロップを毒ドロップに変化
@@ -6645,8 +6645,8 @@ KR: Jammer skyfall +10% for 5 turns
 
 # 1326/13 - Draconic Howling
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 1327/48 - Lightning Wing
 JP: 闇ドロップを光ドロップに変化
@@ -6710,8 +6710,8 @@ KR: Deal 400% damage (4 hits, 100% each)
 
 # 1339/13 - Pardon me.
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 1340/65 - I'm going to keep you from moving.
 JP: 2〜3ターンの間、ランダムでサブ3体がバインド
@@ -7919,8 +7919,8 @@ KR: Player -99% HP
 
 # 1579/13 - Arrr!
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1580/67 - Ironclad
 JP: 5ターンの間、3コンボ以下の攻撃を吸収
@@ -8849,8 +8849,8 @@ KR: Bind 3 random cards for 2~3 turns
 
 # 1765/13 - Opening Howl
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 1766/48 - Shrimp Horn Charge
 JP: ランダム属性のドロップを水ドロップに変化
@@ -8929,8 +8929,8 @@ KR: Do nothing
 
 # 1781/13 - Swelling
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 1782/15 - Mochi Explosion
 JP: 5000%ダメージ (5連続攻撃、1000%ごと)
@@ -11317,8 +11317,8 @@ KR: Survive attacks with 1 HP when HP > 1%
 
 # 2258/13 - I won't let you interfere with Zhou Yu!
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 2259/79 - Celestial Observation
 JP: 左から1列目のドロップが光ドロップに変化。左から5列目のドロップが水ドロップに変化
@@ -12992,8 +12992,8 @@ KR: Deal 150% damage (3 hits, 50% each)
 
 # 2593/13 - Monster Hunter 4G Collab Series
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 2594/89 - Energy Fall
 JP: スキルターンを1ターン遅延
@@ -19465,8 +19465,8 @@ KR: Change a random attribute to Wood orbs
 
 # 3887/13 - Meltdown
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 3888/1 - Stop
 JP: 1〜3ターンの間、ランダムで1体がバインド
@@ -19980,8 +19980,8 @@ KR: Survive attacks with 1 HP when HP > 50%
 
 # 3990/13 - Wall Burst
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 3991/62 - Cinder Storm
 JP: 全ドロップを真っ暗にする
@@ -22350,8 +22350,8 @@ KR: Reduce damage from Water, Light, and Dark attrs by 50%
 
 # 4464/13 - Hell Howl
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 4465/71 - Earth Circle's Construction
 JP: 5ターンの間、1000000以上のダメージを無効化
@@ -23883,8 +23883,8 @@ KR: Deal 600% damage
 
 # 4770/13 - Mischief by God
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 4771/64 - Poison Lightning
 JP: ランダムで6個のドロップを毒ドロップに変化
@@ -24558,8 +24558,8 @@ KR: Delay active skills by 0~2 turns
 
 # 4905/13 - Dimension-Curse of the Sea God
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 4906/83 - Preemptive Wadatsumi D Set
 JP: 
@@ -26736,8 +26736,8 @@ KR: Spawn 5 random Water orbs
 
 # 5340/13 - Hilarious Eye
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 5341/15 - Snake Dance
 JP: 100%ダメージ (2連続攻撃、50%ごと)
@@ -29056,8 +29056,8 @@ KR: Delay active skills by 1~3 turns
 
 # 5804/13 - Blow it hard!
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 5805/17 - Demon Solo
 JP: 999ターンの間、攻撃力が300%に上昇
@@ -32256,8 +32256,8 @@ KR:
 
 # 6444/13 - Fragile Fantasy
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 6445/14 - Request for Peace
 JP: 10ターンの間、スキル使用不可
@@ -36791,8 +36791,8 @@ KR: Reduce damage from all sources by 35% for 2 turns
 
 # 7351/13 - Yaoshu
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 7352/15 - Gongji
 JP: 100%ダメージ (2連続攻撃、50%ごと)
@@ -42386,8 +42386,8 @@ KR: Spawn 3 random Heal orbs
 
 # 8470/13 - Cruelty
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 8471/15 - The Truth of Suffering
 JP: 280%ダメージ (4連続攻撃、70%ごと)
@@ -46931,8 +46931,8 @@ KR: Deal 120% damage (2 hits, 60% each)
 
 # 9379/13 - Divine Mischief
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 9380/94 - Freeze
 JP: お邪魔ドロップをロック
@@ -48109,8 +48109,8 @@ KR:
 
 # 9614/13 - Father Sea's Curse
 JP: ランダムで3個のドロップをお邪魔ドロップに変化
-EN: Change 3 random orbs to Jammer orbs
-KR: Change 3 random orbs to Jammer orbs
+EN: Change 3 random orb types to Jammer orbs
+KR: Change 3 random orb types to Jammer orbs
 
 # 9615/94 - Hollow Vortex
 JP: ランダムで15個ドロップをロック
@@ -53549,8 +53549,8 @@ KR: Absorb damage when combos <= 6 for 1 turn
 
 # 10702/13 - I'm gonna get in your way.
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 10703/62 - Well, it's bed-time!
 JP: 全ドロップを真っ暗にする
@@ -69199,8 +69199,8 @@ KR: Bind 6 random cards for 3 turns
 
 # 13832/13 - Mischief by God
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 13833/15 - Double Slap
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -77089,8 +77089,8 @@ KR: Reduce damage from all sources by 50% for 2 turns
 
 # 15410/13 - Falling seeds from the evil tree
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 15411/53 - Grand Tree Barrier
 JP: 3ターンの間、木属性のダメージを吸収
@@ -79089,8 +79089,8 @@ KR: Delay active skills by 2 turns
 
 # 15810/13 - Trap Card "Life Shaver"
 JP: ランダムで2個のドロップをお邪魔ドロップに変化
-EN: Change 2 random orbs to Jammer orbs
-KR: Change 2 random orbs to Jammer orbs
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
 # 15811/15 - Nothing can stop the wrath of Obelisk!
 JP: 94%ダメージ (2連続攻撃、47%ごと)
@@ -79389,8 +79389,8 @@ KR: Do nothing
 
 # 15870/13 - A present for you
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 15871/77 - Gemini Star Lord
 JP: 上から1列目のドロップが光ドロップに変化。上から6列目のドロップが闇ドロップに変化
@@ -82229,8 +82229,8 @@ KR: Player -50% HP
 
 # 16438/13 - ホント、やりづらいったら……
 JP: ランダムで1個のドロップをお邪魔ドロップに変化
-EN: Change 1 random orb to Jammer orbs
-KR: Change 1 random orb to Jammer orbs
+EN: Change 1 random orb type to Jammer orbs
+KR: Change 1 random orb type to Jammer orbs
 
 # 16439/17 - はぁあああ
 JP: 1ターンの間、攻撃力が150%に上昇
