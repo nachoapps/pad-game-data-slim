@@ -12,6 +12,49 @@ level: 1
  | Immune to damage from all sources for 999 turns
  group:
  | group:
+   | condition: 33% chance
+   | (12353:15) Light Sword Dance Strike
+   | Deal 68% damage (4 hits, 17% each)
+   | condition: 33% chance
+   | (12354:50) Hah!!
+   | Player -77% HP
+   | condition: 34% chance
+   | (12355:89) Double Sword Wave
+   | Delay active skills by 0~2 turns, Deal 60% damage
+ | group:
+ | condition: turn 1 while HP > 49, hp <= 74
+   | (12371:105) Here I come!
+   | RCV 50% for 10 turns
+ | group:
+ | condition: turn 1 while HP > 24, hp <= 49
+   | (12373:39) I'm hungry...
+   | Movetime 50% for 5 turns
+ | group:
+ | condition: hp <= 24
+   | group:
+   | condition: always turn 1
+     | (12376:89) I won't forgive you anymore!
+     | Delay active skills by 12 turns
+   | group:
+     | condition: 50% chance
+     | (12356:74) Protective Impact
+     | Reduce damage from all sources by 50% for 1 turn, Deal 65% damage
+     | condition: 33% chance
+     | (12353:15) Light Sword Dance Strike
+     | Deal 68% damage (4 hits, 17% each)
+     | condition: 33% chance
+     | (12354:50) Hah!!
+     | Player -77% HP
+     | condition: 34% chance
+     | (12355:89) Double Sword Wave
+     | Delay active skills by 0~2 turns, Deal 60% damage
+ | group:
+ | condition: hp <= 10
+   | (12379:15) Strong Blade Boisterous Dance
+   | Deal 1000% damage (10 hits, 100% each)
+ type: REMAINING
+ condition: when 1 enemies remain
+ | group:
  | condition: always turn 1
    | (12357:83) Okay, get ready to rumble! + Now I'm serious! + Are you ready?
    | Remove damage immunity effect + Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
@@ -92,24 +135,3 @@ level: 1
  | condition: hp <= 10
    | (12377:83) Changing Armor + Strong Blade Boisterous Dance
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)
- type: UNKNOWN_USE
- | condition: 50% chance
- | (12356:74) Protective Impact
- | Reduce damage from all sources by 50% for 1 turn, Deal 65% damage
- | condition: 33% chance
- | (12353:15) Light Sword Dance Strike
- | Deal 68% damage (4 hits, 17% each)
- | condition: 33% chance
- | (12354:50) Hah!!
- | Player -77% HP
- | condition: 34% chance
- | (12355:89) Double Sword Wave
- | Delay active skills by 0~2 turns, Deal 60% damage
- | (12371:105) Here I come!
- | RCV 50% for 10 turns
- | (12373:39) I'm hungry...
- | Movetime 50% for 5 turns
- | (12376:89) I won't forgive you anymore!
- | Delay active skills by 12 turns
- | (12379:15) Strong Blade Boisterous Dance
- | Deal 1000% damage (10 hits, 100% each)

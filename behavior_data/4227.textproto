@@ -22,6 +22,71 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 9139
+        }
+      }
+    }
+    groups {
+      group_type: REMAINING
+      condition {
+        hp_threshold: 100
+        trigger_enemies_remaining: 3
+      }
+      children {
+        behavior {
+          enemy_skill_id: 9140
+        }
+      }
+    }
+    groups {
+      group_type: REMAINING
+      condition {
+        hp_threshold: 100
+        trigger_enemies_remaining: 2
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 9141
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 9142
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 9143
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 9144
+        }
+      }
+    }
+    groups {
+      group_type: REMAINING
+      condition {
+        trigger_enemies_remaining: 1
+      }
       children {
         group {
           condition {
@@ -162,53 +227,7 @@
         behavior {
           condition {
           }
-          enemy_skill_id: 9139
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
           enemy_skill_id: 9182
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 9140
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 25
-          }
-          enemy_skill_id: 9141
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 25
-          }
-          enemy_skill_id: 9142
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 25
-          }
-          enemy_skill_id: 9143
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 25
-          }
-          enemy_skill_id: 9144
         }
       }
     }

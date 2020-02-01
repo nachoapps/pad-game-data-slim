@@ -15,6 +15,28 @@ level: 1
  | (9138:123) Protected from damage by the Augites
  | Immune to damage from all sources for 999 turns
  group:
+ | (9139:94) Stellar Dragon's Glare
+ | Lock all orbs, Deal 100% damage
+ type: REMAINING
+ condition: when 3 enemies remain, hp <= 100
+ | (9140:104) Dragon Cloud
+ | A 6×2 rectangle of clouds appears for 3 turns at a random location, Deal 100% damage
+ type: REMAINING
+ condition: when 2 enemies remain, hp <= 100
+ | condition: 25% chance
+ | (9141:99) Sealing Pulse
+ | Seal the 1st column for 3 turns, Deal 100% damage
+ | condition: 25% chance
+ | (9142:99) Sealing Pulse
+ | Seal the 6th column for 3 turns, Deal 100% damage
+ | condition: 25% chance
+ | (9143:100) Sealing Pulse
+ | Seal the 1st row for 3 turns, Deal 100% damage
+ | condition: 25% chance
+ | (9144:100) Sealing Pulse
+ | Seal the 5th row for 3 turns, Deal 100% damage
+ type: REMAINING
+ condition: when 1 enemies remain
  | group:
  | condition: always turn 1
    | (9149:83) All Augites have successfully shattered + Chest Core's Shine + Fortified Scales
@@ -56,21 +78,5 @@ level: 1
      | (9167:83) Metamorphosis + Six Limitless Flashes
      | Change own attribute to random one of Water or Light + Deal 3600% damage (6 hits, 600% each), Deal 3600% damage (6 hits, 600% each)
  type: UNKNOWN_USE
- | (9139:94) Stellar Dragon's Glare
- | Lock all orbs, Deal 100% damage
  | (9182:66) Wait and See
  | Do nothing
- | (9140:104) Dragon Cloud
- | A 6×2 rectangle of clouds appears for 3 turns at a random location, Deal 100% damage
- | condition: 25% chance
- | (9141:99) Sealing Pulse
- | Seal the 1st column for 3 turns, Deal 100% damage
- | condition: 25% chance
- | (9142:99) Sealing Pulse
- | Seal the 6th column for 3 turns, Deal 100% damage
- | condition: 25% chance
- | (9143:100) Sealing Pulse
- | Seal the 1st row for 3 turns, Deal 100% damage
- | condition: 25% chance
- | (9144:100) Sealing Pulse
- | Seal the 5th row for 3 turns, Deal 100% damage
