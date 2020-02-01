@@ -21,7 +21,7 @@ end_turn
 
 #6: ESJammerChangeRandom(13:1084) -> Father Sea's Curse
 Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
-Change 3 random orbs to Jammer orbs
+Change 3 random orb types to Jammer orbs
 
 #7: ESAttackMultihit(15:1085) -> Sea God's Strike
 Condition: When < 25% HP (ai:100 rnd:0)

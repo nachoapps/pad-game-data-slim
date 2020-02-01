@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (1003:13) Cold Angelic Smile
- | Change 1 random orb to Jammer orbs
+ | Change 1 random orb type to Jammer orbs
  group:
  | group:
    | condition: 40% chance

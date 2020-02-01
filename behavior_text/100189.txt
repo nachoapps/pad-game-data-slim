@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 10% chance
    | (4770:13) Mischief by God
-   | Change 2 random orbs to Jammer orbs
+   | Change 2 random orb types to Jammer orbs
    | condition: 50% chance
    | (4767:15) Double Slap
    | Deal 120% damage (3 hits, 40% each)

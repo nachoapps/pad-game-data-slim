@@ -24,7 +24,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 54
    | (9381:83) Divine Mischief + Freeze
-   | Change 2 random orbs to Jammer orbs + Lock all Jammer orbs, Deal 100% damage
+   | Change 2 random orb types to Jammer orbs + Lock all Jammer orbs, Deal 100% damage
  | group:
  | condition: turn 2, hp <= 29
    | (9384:83) Crystal Coffin + Serene Wrath

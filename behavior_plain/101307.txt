@@ -25,7 +25,7 @@ end_turn
 #6: SkillSet:
 	Condition: When < 75% HP , one-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESJammerChangeRandom(13:9614) -> Father Sea's Curse
-	Change 3 random orbs to Jammer orbs
+	Change 3 random orb types to Jammer orbs
 	[1] ESOrbLock(94:9615) -> Hollow Vortex
 	Lock 15 random orbs
 

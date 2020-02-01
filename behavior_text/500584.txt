@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from all sources by 50% for 2 turns
  group:
  | (15410:13) Falling seeds from the evil tree
- | Change 1 random orb to Jammer orbs
+ | Change 1 random orb type to Jammer orbs
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | group:

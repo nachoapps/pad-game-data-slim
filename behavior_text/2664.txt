@@ -17,7 +17,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (6443:83) Fragile Fantasy + Request for Peace
-   | Change 3 random orbs to Jammer orbs + Bind active skills for 10 turns
+   | Change 3 random orb types to Jammer orbs + Bind active skills for 10 turns
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
@@ -30,7 +30,7 @@ level: 1
      | (6452:48) Celestial Purification
      | Change all Jammer orbs to Heal orbs, Deal 360% damage
      | (6473:83) Merciful Protection + Fragile Fantasy
-     | Reduce damage from all sources by 75% for 1 turn + Change 3 random orbs to Jammer orbs
+     | Reduce damage from all sources by 75% for 1 turn + Change 3 random orb types to Jammer orbs
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (6452:48) Celestial Purification
@@ -54,4 +54,4 @@ level: 1
  type: UNKNOWN_USE
  | condition: at most 3 times
  | (6449:83) Fragile Fantasy + World Cleansing
- | Change 3 random orbs to Jammer orbs + Lock all orbs
+ | Change 3 random orb types to Jammer orbs + Lock all orbs

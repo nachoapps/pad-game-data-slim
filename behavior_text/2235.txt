@@ -24,7 +24,7 @@ level: 1
      | (3993:83) Cinder Storm + Hidden Ember
      | Blind all orbs on the board + Change a random attribute to Fire orbs, Deal 100% damage
      | (3990:13) Wall Burst
-     | Change 3 random orbs to Jammer orbs, Deal 800% damage
+     | Change 3 random orb types to Jammer orbs, Deal 800% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (3995:48) Rubble Incineration
@@ -50,7 +50,7 @@ level: 1
      | (3993:83) Cinder Storm + Hidden Ember
      | Blind all orbs on the board + Change a random attribute to Fire orbs, Deal 100% damage
      | (3990:13) Wall Burst
-     | Change 3 random orbs to Jammer orbs, Deal 800% damage
+     | Change 3 random orb types to Jammer orbs, Deal 800% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (3995:48) Rubble Incineration

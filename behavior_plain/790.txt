@@ -17,7 +17,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #5: ESJammerChangeRandom(13:503) -> Chaos Eye
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #6: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 30, target rnd 8

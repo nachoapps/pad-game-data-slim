@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (736:13) Triplet Trouble
- | Change 3 random orbs to Jammer orbs
+ | Change 3 random orb types to Jammer orbs
  group:
  | group:
  | condition: hp <= 74

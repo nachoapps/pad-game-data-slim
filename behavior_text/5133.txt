@@ -22,10 +22,10 @@ level: 1
    | group:
    | condition: turns 1-2 while HP > 98
      | (13832:13) Mischief by God
-     | Change 2 random orbs to Jammer orbs, Deal 80% damage
+     | Change 2 random orb types to Jammer orbs, Deal 80% damage
    | group:
      | (13832:13) Mischief by God
-     | Change 2 random orbs to Jammer orbs, Deal 80% damage
+     | Change 2 random orb types to Jammer orbs, Deal 80% damage
  | group:
  | condition: always turn 3, hp <= 99
    | (13830:67) Dark Matter

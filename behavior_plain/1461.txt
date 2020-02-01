@@ -69,7 +69,7 @@ end_turn
 
 #22: ESJammerChangeRandom(13:1222) -> Ark Judgement
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #23: ESAttackMultihit(15:1223) -> Punishment Thunder
 Deal 1000% damage

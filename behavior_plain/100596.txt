@@ -25,7 +25,7 @@ end_turn
 #6: SkillSet:
 	Condition: When < 55% HP , one-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESJammerChangeRandom(13:9379) -> Divine Mischief
-	Change 2 random orbs to Jammer orbs
+	Change 2 random orb types to Jammer orbs
 	[1] ESOrbLock(94:9380) -> Freeze
 	Lock all Jammer orbs, Deal 100% damage
 

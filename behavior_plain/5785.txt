@@ -49,7 +49,7 @@ Branch on counter >= 1, target rnd 16
 counter + 1
 
 #14: ESJammerChangeRandom(13:15810) -> Trap Card "Life Shaver"
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

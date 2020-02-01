@@ -71,7 +71,7 @@ Deal 280% damage (4 hits, 70% each)
 Spawn 3 random Heal orbs, Deal 200% damage
 
 #18: ESJammerChangeRandom(13:8470) -> Cruelty
-Change 1 random orb to Jammer orbs, Deal 230% damage
+Change 1 random orb type to Jammer orbs, Deal 230% damage
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

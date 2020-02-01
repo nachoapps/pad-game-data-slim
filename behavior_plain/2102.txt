@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESJammerChangeRandom(13:4464) -> Hell Howl
-	Change 2 random orbs to Jammer orbs
+	Change 2 random orb types to Jammer orbs
 	[1] ESVoidShield(71:4465) -> Earth Circle's Construction
 	Void damage >= 1000000 for 5 turns
 

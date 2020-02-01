@@ -53,7 +53,7 @@ level: 10
  | group:
  | condition: execute repeatedly, turn 1-2 of 3
    | (1781:13) Swelling
-   | Change 2 random orbs to Jammer orbs
+   | Change 2 random orb types to Jammer orbs
  | group:
  | condition: execute repeatedly, turn 3 of 3
    | condition: 80% chance

@@ -11,7 +11,7 @@ level: 1
  | group:
    | condition: 10% chance
    | (97:13) Random Change
-   | Change 1 random orb to Jammer orbs
+   | Change 1 random orb type to Jammer orbs
  | group:
  | condition: hp <= 39
    | condition: 60% chance, one time only
@@ -19,4 +19,4 @@ level: 1
    | Enemy recover 30% HP
    | condition: 10% chance
    | (97:13) Random Change
-   | Change 1 random orb to Jammer orbs
+   | Change 1 random orb type to Jammer orbs

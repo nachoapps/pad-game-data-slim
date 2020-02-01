@@ -21,7 +21,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 74
    | (1084:13) Father Sea's Curse
-   | Change 3 random orbs to Jammer orbs
+   | Change 3 random orb types to Jammer orbs
  | group:
  | condition: hp <= 24
    | (1085:15) Sea God's Strike

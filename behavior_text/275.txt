@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 54
  | condition: 75% chance, one time only
  | (257:13) Impish Mischief
- | Change 1 random orb to Jammer orbs
+ | Change 1 random orb type to Jammer orbs

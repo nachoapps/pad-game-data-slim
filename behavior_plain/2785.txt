@@ -45,7 +45,7 @@ Change 5 random orbs to Poison orbs, Deal 80% damage
 
 #13: ESJammerChangeRandom(13:3887) -> Meltdown
 Condition: 50% chance (ai:0 rnd:50)
-Change 2 random orbs to Jammer orbs, Deal 100% damage
+Change 2 random orb types to Jammer orbs, Deal 100% damage
 
 #14: ESBindRandom(1:3888) -> Stop
 Condition: 25% chance (ai:0 rnd:25)

@@ -16,7 +16,7 @@ Deal 180% damage (3 hits, 60% each)
 
 #4: ESJammerChangeRandom(13:100) -> Mischief by God
 Condition: One-time use (ai:0 rnd:25) (cost: 1)
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

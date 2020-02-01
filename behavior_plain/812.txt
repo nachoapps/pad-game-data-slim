@@ -44,7 +44,7 @@ flag SET 0b1
 
 #13: ESJammerChangeRandom(13:753) -> Fragile Fantasy
 Condition: When < 50% HP (ai:100 rnd:0)
-Change 3 random orbs to Jammer orbs
+Change 3 random orb types to Jammer orbs
 
 #14: ESAttackMultihit(15:754) -> Creation
 Deal 250% damage (5 hits, 50% each)

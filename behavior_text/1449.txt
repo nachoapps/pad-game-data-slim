@@ -11,7 +11,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (1187:13) きみたちすこし行儀がわるいな
-   | Change 2 random orbs to Jammer orbs
+   | Change 2 random orb types to Jammer orbs
  | group:
    | (1188:15) 天魔降伏!!
    | Deal 100% damage
@@ -36,7 +36,7 @@ level: 1
 level: 5
  type: PREEMPT
  | (1187:13) きみたちすこし行儀がわるいな
- | Change 2 random orbs to Jammer orbs
+ | Change 2 random orb types to Jammer orbs
  group:
  | group:
    | (1188:15) 天魔降伏!!

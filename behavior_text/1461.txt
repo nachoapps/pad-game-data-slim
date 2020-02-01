@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (1222:13) Ark Judgement
-     | Change 2 random orbs to Jammer orbs
+     | Change 2 random orb types to Jammer orbs
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (1223:15) Punishment Thunder

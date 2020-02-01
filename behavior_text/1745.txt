@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (2258:13) I won't let you interfere with Zhou Yu!
- | Change 2 random orbs to Jammer orbs
+ | Change 2 random orb types to Jammer orbs
  group:
  | group:
    | condition: 50% chance

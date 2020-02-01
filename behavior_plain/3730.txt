@@ -46,7 +46,7 @@ Branch on flag & 2, target rnd 16
 flag SET 0b11
 
 #14: ESJammerChangeRandom(13:7351) -> Yaoshu
-Change 2 random orbs to Jammer orbs, Deal 80% damage
+Change 2 random orb types to Jammer orbs, Deal 80% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

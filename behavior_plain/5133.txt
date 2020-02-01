@@ -40,7 +40,7 @@ Branch on hp < 20, target rnd 21
 Branch on hp < 99, target rnd 12
 
 #11: ESJammerChangeRandom(13:13832) -> Mischief by God
-Change 2 random orbs to Jammer orbs, Deal 80% damage
+Change 2 random orb types to Jammer orbs, Deal 80% damage
 
 #12: ESAttackMultihit(15:13833) -> Double Slap
 Condition: 50% chance (ai:0 rnd:50)

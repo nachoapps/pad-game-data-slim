@@ -9,7 +9,7 @@ approved: False
 level: 4
  type: PREEMPT
  | (5804:13) Blow it hard!
- | Change 2 random orbs to Jammer orbs
+ | Change 2 random orb types to Jammer orbs
  group:
  condition: execute repeatedly, turn 1 of 2, hp <= 100
  | (5807:85) Shakuhachi Whirlwind

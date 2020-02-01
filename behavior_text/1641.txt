@@ -9,7 +9,7 @@ approved: False
 level: 5
  type: PREEMPT
  | (1579:13) Arrr!
- | Change 2 random orbs to Jammer orbs
+ | Change 2 random orb types to Jammer orbs
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2, hp <= 100

@@ -11,4 +11,4 @@ level: 1
  condition: hp <= 49
  | condition: 30% chance
  | (190:13) Random Jammer
- | Change 1 random orb to Jammer orbs
+ | Change 1 random orb type to Jammer orbs

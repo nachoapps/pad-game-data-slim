@@ -17,7 +17,7 @@ level: 5
  | Reduce damage from Wood attrs by 50%
  type: PREEMPT
  | (1765:13) Opening Howl
- | Change 1 random orb to Jammer orbs
+ | Change 1 random orb type to Jammer orbs
  group:
  | group:
    | condition: 40% chance

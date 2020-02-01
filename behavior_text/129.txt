@@ -16,7 +16,7 @@ level: 1
    | group:
      | condition: 10% chance
      | (97:13) Random Change
-     | Change 1 random orb to Jammer orbs
+     | Change 1 random orb type to Jammer orbs
  | group:
  | condition: hp <= 49
    | group:
@@ -29,4 +29,4 @@ level: 1
      | Deal 175% damage (7 hits, 25% each)
      | condition: 10% chance
      | (97:13) Random Change
-     | Change 1 random orb to Jammer orbs
+     | Change 1 random orb type to Jammer orbs

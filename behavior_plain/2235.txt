@@ -62,7 +62,7 @@ Bind 4 random subs for 1 turn, Deal 900% damage
 	Change a random attribute to Fire orbs, Deal 600% damage
 
 #14: ESJammerChangeRandom(13:3990) -> Wall Burst
-Change 3 random orbs to Jammer orbs, Deal 800% damage
+Change 3 random orb types to Jammer orbs, Deal 800% damage
 
 #15: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 4, target rnd 20

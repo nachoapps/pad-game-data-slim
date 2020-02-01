@@ -31,7 +31,7 @@ Condition: 70% chance (ai:70 rnd:0)
 Deal 130% damage (2 hits, 65% each)
 
 #9: ESJammerChangeRandom(13:503) -> Chaos Eye
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

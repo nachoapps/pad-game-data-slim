@@ -24,7 +24,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 74
    | (9616:83) Father Sea's Curse + Hollow Vortex
-   | Change 3 random orbs to Jammer orbs + Lock 15 random orbs
+   | Change 3 random orb types to Jammer orbs + Lock 15 random orbs
  | group:
  | condition: hp <= 24
    | (1085:15) Sea God's Strike

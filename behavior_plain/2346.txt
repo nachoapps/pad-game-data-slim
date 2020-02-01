@@ -38,7 +38,7 @@ Deal 100% damage
 
 #11: ESJammerChangeRandom(13:2593) -> Monster Hunter 4G Collab Series
 Condition: 20% chance (ai:0 rnd:20)
-Change 2 random orbs to Jammer orbs
+Change 2 random orb types to Jammer orbs
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn
