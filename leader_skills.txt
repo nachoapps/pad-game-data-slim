@@ -40785,7 +40785,7 @@ KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 # 9882/138 - Will you accept this?...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 18.0, 1.0, 0.25]
-Game: 4x ATK & reduces damage when Dark & Light attack at once; 3x ATK for Dragon Type, Orb move time +2 seconds
+Game: 4x ATK & reduces damage when Dark & Light attack at once; 4.5x ATK for Dragon Type, Orb move time +3 seconds
 JP: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
 EN: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
 KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light; 4.5x ATK for Dragon type; Increase orb movement time by 3 seconds
@@ -67143,10 +67143,10 @@ JP: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 EN: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 KR: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 
-# 15880/138 - 味見してもらえないだろうか
+# 15880/138 - Won't you let me have a taste?
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 17.5, 3.5, 0.5]
-Game: ドラゴン、悪魔、体力タイプの攻撃力と回復力が3.5倍。 火を6個以上つなげて消すとダメージを半減、攻撃力が5倍。
+Game: 3.5x ATK & RCV for Dragon, Devil & Physical Types; 5x ATK and halves damage with 6+ linked Fire Orbs
 JP: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
 EN: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
 KR: 3.5x ATK & RCV for Physical, Dragon, and Devil type; 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
@@ -67167,10 +67167,10 @@ JP: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire
 EN: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
 KR: 5x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
 
-# 15888/138 - 沢山あるから、いっぱい食べてね
+# 15888/138 - There's plenty so make sure you eat up
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [2.0, 18.0, 2.0, 0.25]
-Game: 【落ちコンなし】ドラゴンとバランスタイプの全パラメータが2倍。 4色以上同時攻撃でダメージを軽減、攻撃力が9倍、2コンボ加算。
+Game: [No Skyfall Combos], 2x all stats for Dragon & Balanced;  9x ATK, reduces dmg & adds 2 combos when 4+ Att. attack
 JP: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
 EN: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
 KR: [No skyfall] 2x all stats for Balanced and Dragon type; 9x ATK and reduce damage taken by 25% when matching 4 or more colors; increase combo by 2 when matching 4 or more colors
@@ -67199,10 +67199,10 @@ JP: increase combo by 2 when matching 4 or more colors
 EN: increase combo by 2 when matching 4 or more colors
 KR: increase combo by 2 when matching 4 or more colors
 
-# 15895/138 - こっ、これからもよろしくね♪
+# 15895/138 - T-Take good care of me♪
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 1.0, 0.0]
-Game: 神と回復タイプのHPが2倍、攻撃力は4倍。 水を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+Game: 2x HP & 4x ATK for God & Healer Types; 4x ATK & inflicts 50,000 damage with 6+ linked Water Orbs
 JP: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
 EN: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs
 KR: 4x ATK and 2x HP for Healer and God type; 4x ATK when matching 6 or more connected Water orbs; 50000 additional damage when matching 6 or more Water orbs

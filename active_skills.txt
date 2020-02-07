@@ -23921,7 +23921,7 @@ KR: Enhance all Dark orbs
 
 # 9879/116 - Draco Summoning Perception - Dark, Light & Life
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
-Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Light, Dark & Heal Orbs
+Game: Reduces bind status (incl. Awoken) by 5 turns; removes Orb locks, changes all Orbs to Light, Dark & Heal Orbs
 JP: バインドと覚醒無効を5ターン回復。全ドロップのロック状態を解除。全ドロップを光、闇、回復ドロップに変化
 EN: Reduce binds and awoken skill binds by 5 turns; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
 KR: Reduce binds and awoken skill binds by 5 turns; Unlock all orbs; Change all orbs to Light, Dark, and Heal orbs
@@ -23942,7 +23942,7 @@ KR: Change all orbs to Light, Dark, and Heal orbs
 
 # 9885/116 - Sweet Spice
 Tags: ENHANCED_ORBS,ORB_CONVERT,ENHANCED_HEAL
-Game: Changes Jammers, Fire & Poison Orbs to Wood Orbs; all Orbs enhanced
+Game: Changes Fire, Jammers & Poison Orbs to Wood Orbs; all Orbs enhanced, 1.5x RCV for 1 turn
 JP: 火、お邪魔、毒、猛毒ドロップを木ドロップに変化。全ドロップを強化。1ターンの間、回復力が1.5倍
 EN: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
 KR: Change Fire, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Enhance all orbs; For 1 turn, 1.5x RCV
@@ -32062,7 +32062,7 @@ KR: Create 3 Heal orbs
 
 # 12657/116 - Beautiful Memories
 Tags: REDUCE_DAMAGE,EXTENDS_TIME
-Game: Reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
+Game: 3x Orb move time & reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
 JP: 1ターンの間、ドロップ操作時間が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
 EN: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 KR: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
@@ -42595,9 +42595,9 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 15883/116 - スイートメモリーズ
+# 15883/116 - Sweet Memories
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
-Game: 3ターンの間、回復力が3倍。覚醒無効状態を全回復。 全ドロップのロックを解除し、5属性＋回復ドロップに変化。
+Game: 3x RCV for 3 turns, fully restores Awoken Skill bind  status; removes Orb locks, changes Orbs to all Att. & Heal
 JP: 3ターンの間、回復力が3倍。覚醒無効を全回復。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 3 turns, 3x RCV; Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -42630,9 +42630,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 15892/116 - ラブリーチェーン
+# 15892/116 - Lovely Chain
 Tags: VOID_ATT_ABSORBS
-Game: 1ターンの間、回復力が激減。 1ターンの間、属性吸収を無効化する。
+Game: Vastly reduces RCV for 1 turn; voids Attribute absorption for 1 turn
 JP: 1ターンの間、回復力が0.25倍。1ターンの間、属性吸収を無効化する
 EN: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, 0.25x RCV; For 1 turn, bypass att. absorb shield effects
@@ -42651,9 +42651,9 @@ JP: 1ターンの間、属性吸収を無効化する
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
-# 15899/117 - ピュアチョコマジック
+# 15899/117 - Pure Chocolate Magic
 Tags: HEAL
-Game: HPを全回復。
+Game: Fully recovers HP
 JP: HPを全回復
 EN: Recover all HP
 KR: Recover all HP
