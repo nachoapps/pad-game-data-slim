@@ -67231,3 +67231,267 @@ JP: 50000 additional damage when matching 6 or more Water orbs
 EN: 50000 additional damage when matching 6 or more Water orbs
 KR: 50000 additional damage when matching 6 or more Water orbs
 
+# 15903/138 - お花見なんてどうかしら？
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 16.0, 4.0, 0]
+Game: 水属性のHPが1.5倍、攻撃力は4倍。ドロップ操作を2秒延長。 水を6個以上つなげて消すと攻撃力と回復力が4倍。
+JP: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+EN: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+KR: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+
+# 15904/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 4.0, 1.0, 0]
+Game: 
+JP: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds
+EN: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds
+KR: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds
+
+# 15905/167 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 4.0, 4.0, 0]
+Game: 
+JP: 4x ATK & RCV when matching 6 Water orbs
+EN: 4x ATK & RCV when matching 6 Water orbs
+KR: 4x ATK & RCV when matching 6 Water orbs
+
+# 15907/138 - 覚醒せし大王
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 20.0, 2.0, 0]
+Game: 火属性のHPが2倍。木属性の回復力が2倍。 6コンボ以上で攻撃力が上昇、最大20倍。
+JP: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+EN: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+KR: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+
+# 15908/136 - 
+Tags: ENHANCED_HP_RCV
+Stats: [2.0, 1.0, 2.0, 0]
+Game: 
+JP: 2x HP for Fire Att.; 2x RCV for Wood Att.
+EN: 2x HP for Fire Att.; 2x RCV for Wood Att.
+KR: 2x HP for Fire Att.; 2x RCV for Wood Att.
+
+# 15909/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 20.0, 1, 0]
+Game: 
+JP: 10x ATK when 6 or more combos up to 20x at 10 combos
+EN: 10x ATK when 6 or more combos up to 20x at 10 combos
+KR: 10x ATK when 6 or more combos up to 20x at 10 combos
+
+# 15913/138 - 神々しき大妖魔
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.44]
+Game: 光か闇の5個L字消しでダメージを軽減、攻撃力が4倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍、1コンボ加算。
+JP: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+EN: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+KR: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+
+# 15914/193 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1.0, 0.25]
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
+EN: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
+KR: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape
+
+# 15915/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.25]
+Game: 
+JP: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+EN: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+KR: 4x ATK and reduce damage taken by 25% when matching 3 or more colors
+
+# 15916/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: increase combo by 1 when matching 3 or more colors
+EN: increase combo by 1 when matching 3 or more colors
+KR: increase combo by 1 when matching 3 or more colors
+
+# 15923/138 - 『本家』のトップ 大ガマ参上だぜ！
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 17.5, 3.5, 0.25]
+Game: 体力と悪魔タイプの攻撃力と回復力が3.5倍。 水の2コンボ以上でダメージを軽減、攻撃力が5倍。
+JP: 3.5x ATK & RCV for Physical and Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+EN: 3.5x ATK & RCV for Physical and Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 3.5x ATK & RCV for Physical and Devil type; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+
+# 15924/129 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 3.5, 3.5, 0.0]
+Game: 
+JP: 3.5x ATK & RCV for Physical and Devil type
+EN: 3.5x ATK & RCV for Physical and Devil type
+KR: 3.5x ATK & RCV for Physical and Devil type
+
+# 15925/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.25]
+Game: 
+JP: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
+
+# 15932/138 - 『元祖』の頭 土蜘蛛が助太刀いたそう！
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 20.0, 0.5, 0.0]
+Game: 総回復力が半分になるが、HPが2倍、攻撃力は5倍。 木を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+JP: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+EN: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+KR: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+
+# 15933/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 5.0, 0.5, 0.0]
+Game: 
+JP: 5x ATK and 2x HP and 0.5x RCV
+EN: 5x ATK and 2x HP and 0.5x RCV
+KR: 5x ATK and 2x HP and 0.5x RCV
+
+# 15934/159 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4x ATK when matching 6 or more connected Wood orbs
+EN: 4x ATK when matching 6 or more connected Wood orbs
+KR: 4x ATK when matching 6 or more connected Wood orbs
+
+# 15935/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 50000 additional damage when matching 6 or more Wood orbs
+EN: 50000 additional damage when matching 6 or more Wood orbs
+KR: 50000 additional damage when matching 6 or more Wood orbs
+
+# 15942/138 - ソレガシは 武士にござる！
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 18.0, 1.0, 0.0]
+Game: 攻撃タイプのHPが2倍。HP80％以下で攻撃力が4倍。 4色以上同時攻撃で攻撃力が4.5倍。
+JP: 2x HP for Attacker type; 4x ATK when below 80% HP; 4.5x ATK when matching 4 or more colors
+EN: 2x HP for Attacker type; 4x ATK when below 80% HP; 4.5x ATK when matching 4 or more colors
+KR: 2x HP for Attacker type; 4x ATK when below 80% HP; 4.5x ATK when matching 4 or more colors
+
+# 15943/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 2x HP for Attacker type
+EN: 2x HP for Attacker type
+KR: 2x HP for Attacker type
+
+# 15944/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1.0, 0.0]
+Game: 
+JP: 4x ATK when below 80% HP
+EN: 4x ATK when below 80% HP
+KR: 4x ATK when below 80% HP
+
+# 15945/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.5, 1, 0]
+Game: 
+JP: 4.5x ATK when matching 4 or more colors
+EN: 4.5x ATK when matching 4 or more colors
+KR: 4.5x ATK when matching 4 or more colors
+
+# 15952/138 - どんなミッションも 完璧にこなしてあげる
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 16.0, 4.0, 0.0]
+Game: HP50％以上で攻撃力が3倍、49％以下で攻撃力と回復力が4倍。 闇の5個L字消しで、攻撃力が4倍。
+JP: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+EN: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+KR: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+
+# 15953/183 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 4.0, 4.0, 0.0]
+Game: 
+JP: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP
+EN: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP
+KR: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP
+
+# 15954/193 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1.0, 0.0]
+Game: 
+JP: 4x ATK when matching 5 Dark orbs in an L shape
+EN: 4x ATK when matching 5 Dark orbs in an L shape
+KR: 4x ATK when matching 5 Dark orbs in an L shape
+
+# 15961/138 - ニッポン全国で 思い出づくりズラ～♪
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 9.0, 2.0, 0.0]
+Game: 木属性のHPと回復力が2倍。 4コンボ以上で攻撃力が上昇、最大9倍。
+JP: 2x HP & RCV for Wood Att.; 4x ATK when 4 or more combos up to 9x at 9 combos
+EN: 2x HP & RCV for Wood Att.; 4x ATK when 4 or more combos up to 9x at 9 combos
+KR: 2x HP & RCV for Wood Att.; 4x ATK when 4 or more combos up to 9x at 9 combos
+
+# 15962/129 - 
+Tags: ENHANCED_HP_RCV
+Stats: [2.0, 1.0, 2.0, 0.0]
+Game: 
+JP: 2x HP & RCV for Wood Att.
+EN: 2x HP & RCV for Wood Att.
+KR: 2x HP & RCV for Wood Att.
+
+# 15963/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1, 0]
+Game: 
+JP: 4x ATK when 4 or more combos up to 9x at 9 combos
+EN: 4x ATK when 4 or more combos up to 9x at 9 combos
+KR: 4x ATK when 4 or more combos up to 9x at 9 combos
+
+# 15970/138 - ミーといっしょに 宇宙をめざすダニ！
+Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
+Stats: [1.5, 7.0, 1.0, 0]
+Game: 【7×6マス】水属性のHPが1.5倍。 水の2コンボ以上で攻撃力が上昇、最大7倍。
+JP: [Board becomes 7x6] 1.5x HP for Water Att.; 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+EN: [Board becomes 7x6] 1.5x HP for Water Att.; 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+KR: [Board becomes 7x6] 1.5x HP for Water Att.; 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+
+# 15971/186 - 
+Tags: ENHANCED_HP,BOARD_CHANGE_7X6
+Stats: [1.5, 1.0, 1.0, 0]
+Game: 
+JP: [Board becomes 7x6] 1.5x HP for Water Att.
+EN: [Board becomes 7x6] 1.5x HP for Water Att.
+KR: [Board becomes 7x6] 1.5x HP for Water Att.
+
+# 15972/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.0, 1, 0]
+Game: 
+JP: 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+EN: 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+KR: 5x ATK when matching 2 Water combos, up to 7x at 4 Water combos
+
+# 15979/138 - アイルビーバック！
+Tags: ENHANCED_HP_ATK
+Stats: [1.5, 10.0, 1.0, 0.0]
+Game: マシンと悪魔タイプのHPが1.5倍、攻撃力は10倍。 毒ダメージを無効化。
+JP: [Disable Poison & Mortal Poison orb effects] 10x ATK and 1.5x HP for Devil and Machine type
+EN: [Disable Poison & Mortal Poison orb effects] 10x ATK and 1.5x HP for Devil and Machine type
+KR: [Disable Poison & Mortal Poison orb effects] 10x ATK and 1.5x HP for Devil and Machine type
+
+# 15980/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [1.5, 10.0, 1.0, 0.0]
+Game: 
+JP: 10x ATK and 1.5x HP for Devil and Machine type
+EN: 10x ATK and 1.5x HP for Devil and Machine type
+KR: 10x ATK and 1.5x HP for Devil and Machine type
+
+# 15981/197 - 
+Tags: 
+Stats: [1, 1, 1, 0]
+Game: 
+JP: [Disable Poison & Mortal Poison orb effects]
+EN: [Disable Poison & Mortal Poison orb effects]
+KR: [Disable Poison & Mortal Poison orb effects]
+

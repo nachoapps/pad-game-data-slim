@@ -1,14 +1,14 @@
 #4959 ぬらりひょん
 HP: 4138 ATK: 2020 RCV: 260 LB: 25
-AWK: 10,10,21,21,28,19,60,60,60
+AWK: 10,10,56,28,19,54,60,60,60
 SAWK: 43,60,48
 
 # 12271/116 - Judgment Wave
 Tags: REDUCE_DEFENSE,MENACE
 Game: Voids enemies' DEF for 1 turn; delays enemies' next move for 2 turns
-JP: 1ターンの間、敵の防御力が100％下がる。敵の行動を2ターン遅らせる
-EN: For 1 turn, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
-KR: For 1 turn, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
+JP: 3ターンの間、敵の防御力が100％下がる。敵の行動を2ターン遅らせる
+EN: For 3 turns, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
+KR: For 3 turns, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
 
 # 12274/138 - Yo-kai Council's Supervisor
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK

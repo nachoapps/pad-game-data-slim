@@ -1,0 +1,20 @@
+#5914 覚醒エンマ
+HP: 5810 ATK: 1913 RCV: 123 LB: 25
+AWK: 10,10,56,21,28,19,19,38,38
+SAWK: 43,53,48
+
+# 15906/141 - 魔眼獄滅波
+Tags: 
+Game: ランダムで火と木ドロップを15個ずつ生成。
+JP: ランダムで火と木を15個ずつ生成
+EN: Create 15 Fire and Wood orbs over any orbs
+KR: Create 15 Fire and Wood orbs over any orbs
+
+# 15907/138 - 覚醒せし大王
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 20.0, 2.0, 0]
+Game: 火属性のHPが2倍。木属性の回復力が2倍。 6コンボ以上で攻撃力が上昇、最大20倍。
+JP: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+EN: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+KR: 2x HP for Fire Att.; 2x RCV for Wood Att.; 10x ATK when 6 or more combos up to 20x at 10 combos
+

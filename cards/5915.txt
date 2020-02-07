@@ -1,0 +1,20 @@
+#5915 ぬらり神
+HP: 4138 ATK: 2520 RCV: 260 LB: 25
+AWK: 10,10,56,21,28,43,43,60,48
+SAWK: 43,60,48
+
+# 15910/116 - 神剣ヌラノツルギ
+Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
+Game: 左端縦1列を光ドロップに変化。 3ターンの間、光ドロップが少し落ちやすくなる。
+JP: 最左端を光ドロップに変化。3ターンの間、光ドロップが15％落ちやすくなる
+EN: Change the far left column to Light orbs; For 3 turns, Light orbs are more likely to appear by 15%
+KR: Change the far left column to Light orbs; For 3 turns, Light orbs are more likely to appear by 15%
+
+# 15913/138 - 神々しき大妖魔
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.44]
+Game: 光か闇の5個L字消しでダメージを軽減、攻撃力が4倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍、1コンボ加算。
+JP: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+EN: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+KR: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors
+

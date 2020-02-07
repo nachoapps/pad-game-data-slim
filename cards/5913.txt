@@ -1,0 +1,20 @@
+#5913 桜ふぶき姫
+HP: 3763 ATK: 2573 RCV: 335 LB: 25
+AWK: 21,56,19,28,55,60,43,48,48
+SAWK: 57,48,52
+
+# 15900/116 - キラキラ桜吹雪
+Tags: LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
+Game: 消せないドロップ状態を5ターン回復。 最上段横1列を水ドロップに変化。
+JP: 消せないドロップ状態を5ターン回復。最上段を水ドロップに変化
+EN: Reduce unable to match orbs effect by 5 turns; Change the top row to Water orbs
+KR: Reduce unable to match orbs effect by 5 turns; Change the top row to Water orbs
+
+# 15903/138 - お花見なんてどうかしら？
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 16.0, 4.0, 0]
+Game: 水属性のHPが1.5倍、攻撃力は4倍。ドロップ操作を2秒延長。 水を6個以上つなげて消すと攻撃力と回復力が4倍。
+JP: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+EN: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+KR: 4x ATK and 1.5x HP for Water Att.; Increase orb movement time by 2 seconds; 4x ATK & RCV when matching 6 Water orbs
+

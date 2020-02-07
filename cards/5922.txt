@@ -1,0 +1,20 @@
+#5922 バニー・ミント
+HP: 3260 ATK: 1355 RCV: 335 LB: 30
+AWK: 19,21,28,43,43,60,32
+SAWK: 52,43,32
+
+# 15946/116 - 切り札はハートのＡ
+Tags: ATTACK_STANCE,ORB_CONVERT,EXTENDS_TIME
+Game: 1ターンの間、ドロップ操作を1秒延長。 回復ドロップを闇ドロップに変化。
+JP: 1ターンの間、ドロップ操作時間が1秒に延長。回復ドロップを闇ドロップに変化
+EN: For 1 turn, increase orb move time by 1 second; Change Heal orbs to Dark orbs
+KR: For 1 turn, increase orb move time by 1 second; Change Heal orbs to Dark orbs
+
+# 15952/138 - どんなミッションも 完璧にこなしてあげる
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 16.0, 4.0, 0.0]
+Game: HP50％以上で攻撃力が3倍、49％以下で攻撃力と回復力が4倍。 闇の5個L字消しで、攻撃力が4倍。
+JP: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+EN: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+KR: 3x ATK when above 50% HP; 4x ATK & RCV when below 49% HP; 4x ATK when matching 5 Dark orbs in an L shape
+

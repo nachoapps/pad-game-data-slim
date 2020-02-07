@@ -1,0 +1,20 @@
+#5918 土蜘蛛
+HP: 3685 ATK: 2690 RCV: 0 LB: 25
+AWK: 10,10,56,28,24,24,24,48,48
+SAWK: 53,48,55
+
+# 15926/116 - 土蜘蛛・土遁の術
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 3ターンの間、受けるダメージを軽減。 最上段横1列を木ドロップに変化。
+JP: 3ターンの間、受けるダメージを35％減少。最上段を木ドロップに変化
+EN: For 3 turns, reduce damage taken by 35%; Change the top row to Wood orbs
+KR: For 3 turns, reduce damage taken by 35%; Change the top row to Wood orbs
+
+# 15932/138 - 『元祖』の頭 土蜘蛛が助太刀いたそう！
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 20.0, 0.5, 0.0]
+Game: 総回復力が半分になるが、HPが2倍、攻撃力は5倍。 木を6個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
+JP: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+EN: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+KR: 5x ATK and 2x HP and 0.5x RCV; 4x ATK when matching 6 or more connected Wood orbs; 50000 additional damage when matching 6 or more Wood orbs
+
