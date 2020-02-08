@@ -1,0 +1,23 @@
+  monster_id: 4179
+  levels {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          condition {
+            use_chance: 20
+          }
+          enemy_skill_id: 16511
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 20
+          }
+          enemy_skill_id: 16512
+        }
+      }
+    }
+  }

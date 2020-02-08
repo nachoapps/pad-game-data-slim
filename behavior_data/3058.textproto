@@ -5,7 +5,7 @@
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 15986
+          enemy_skill_id: 15989
         }
       }
     }
@@ -17,16 +17,6 @@
       children {
         behavior {
           enemy_skill_id: 15986
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 15989
         }
       }
     }
