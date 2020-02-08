@@ -14,7 +14,7 @@ KR: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by
 Tags: AUTO_HEAL,ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: Healer Type ATK increases with HP; heals HP equal to 10x RCV when matching Orbs
-JP: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
+JP: HPが満タン時回復タイプの攻撃力が4倍。HPが99%以下で回復タイプの攻撃力が3倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
 EN: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
 KR: 4x ATK for Healer type when HP is full; 3x ATK for Healer type when below 99% HP; 10x RCV additional heal when matching orbs
 

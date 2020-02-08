@@ -14,7 +14,7 @@ KR: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects
 Tags: AUTO_HEAL,ENHANCED_ATK
 Stats: [1, 15.0, 1.0, 0.0]
 Game: 7.5x ATK when HP is full, 2x ATK with 2+ combos; recovers 10x RCV as HP when matching Orbs
-JP: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+JP: HPが満タン時攻撃力が7.5倍。2コンボ以上で攻撃力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
 EN: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
 KR: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
 

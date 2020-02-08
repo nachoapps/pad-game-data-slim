@@ -14,7 +14,7 @@ KR: Becomes Team leader; changes back when used again; For 1 turn, reduce damage
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 15.0, 1, 0.25]
 Game: 8x ATK when HP is 80% or less, 10x when 50% or less; 1.5x ATK & reduces damage with 7+ combos
-JP: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos
+JP: HPが50%以下で攻撃力が10倍。HPが80%以下で攻撃力が8倍。7コンボ以上で攻撃力が1.5倍、受けるダメージを25％減少。
 EN: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 10x ATK when below 50% HP; 8x ATK when below 80% HP; 1.5x ATK and reduce damage taken by 25% when 7 or more combos
 

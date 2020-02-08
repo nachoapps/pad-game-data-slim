@@ -14,7 +14,7 @@ KR: Recover 10x RCV as HP; Reduce binds by 3 turns; For 7 turns, 1.5x RCV
 Tags: AUTO_HEAL
 Stats: [1, 1, 1, 0]
 Game: Heals HP equal to half RCV when matching Orbs
-JP: 0.5x RCV additional heal when matching orbs
+JP: ドロップ消した時、回復力ｘ0.5倍のHPを回復。
 EN: 0.5x RCV additional heal when matching orbs
 KR: 0.5x RCV additional heal when matching orbs
 

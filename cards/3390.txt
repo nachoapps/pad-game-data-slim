@@ -14,7 +14,7 @@ KR: Deal 100x ATK Light damage to an enemy and recover 15% of the damage as HP; 
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1, 8.0, 3.0, 0.8]
 Game: Vastly reduces damage when HP is full;  2.5x ATK & RCV when erasing 4+ linked Wood Orbs
-JP: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
+JP: HPが99%以下受けるダメージを80％減少。木ドロップを4個以上つなげて消すと攻撃力が8倍、回復力が3倍。ドロップ操作時間を4秒延長。
 EN: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
 KR: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
 

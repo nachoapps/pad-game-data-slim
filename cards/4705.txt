@@ -14,7 +14,7 @@ KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy; Change Fire, Dark, Jamm
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 1.0, 0.35]
 Game: 5x ATK & reduces damage when HP is 80% or more, 10x when 79% or less; 1.5x HP & ATK for Wood Att.
-JP: 5x ATK and reduce damage taken by 35% when above 80% HP; 10x ATK when below 79% HP; 1.5x HP & ATK for Wood Att.
+JP: HPが80%以上で攻撃力が5倍、受けるダメージを35％減少。HPが79%以下で攻撃力が10倍。木属性のHPと攻撃力が1.5倍。
 EN: 5x ATK and reduce damage taken by 35% when above 80% HP; 10x ATK when below 79% HP; 1.5x HP & ATK for Wood Att.
 KR: 5x ATK and reduce damage taken by 35% when above 80% HP; 10x ATK when below 79% HP; 1.5x HP & ATK for Wood Att.
 

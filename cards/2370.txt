@@ -14,7 +14,7 @@ KR: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by
 Tags: AUTO_HEAL,ENHANCED_ATK_RCV
 Stats: [1.0, 4.0, 2.0, 0.0]
 Game: 2.5x ATK & 1.5x RCV for Healer Type; heals HP (2x RCV) when matching Orbs
-JP: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
+JP: 回復タイプの攻撃力が4倍、回復力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
 EN: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
 KR: 4x ATK and 2x RCV for Healer type; 10x RCV additional heal when matching orbs
 

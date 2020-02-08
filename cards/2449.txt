@@ -14,7 +14,7 @@ KR: Deal Light damage to an enemy depending on HP level (200x at 1 HP and 20x at
 Tags: ENHANCED_ATK
 Stats: [1, 5.25, 0.5, 0.0]
 Game: 3.5x ATK, but halves overall RCV; 1.5x ATK for Attacker Type when HP is 20% or less
-JP: 3.5x ATK and 0.5x RCV; 1.5x ATK for Attacker type when below 20% HP
+JP: 攻撃力が3.5倍、回復力が0.5倍。HPが20%以下で攻撃タイプの攻撃力が1.5倍。
 EN: 3.5x ATK and 0.5x RCV; 1.5x ATK for Attacker type when below 20% HP
 KR: 3.5x ATK and 0.5x RCV; 1.5x ATK for Attacker type when below 20% HP
 

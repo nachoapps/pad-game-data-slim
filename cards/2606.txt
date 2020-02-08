@@ -14,7 +14,7 @@ KR: Deal 50000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 Tags: ENHANCED_ATK_RCV,RESOLVE
 Stats: [1.0, 3.0, 1.5, 0.0]
 Game: 3x ATK for Attacker Type; may survive when HP is reduced to 0
-JP: 3x ATK and 1.5x RCV for Physical type; May survive when HP is reduced to 0 (HP>50%)
+JP: 体力タイプの攻撃力が3倍、回復力が1.5倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
 EN: 3x ATK and 1.5x RCV for Physical type; May survive when HP is reduced to 0 (HP>50%)
 KR: 3x ATK and 1.5x RCV for Physical type; May survive when HP is reduced to 0 (HP>50%)
 
