@@ -15,7 +15,7 @@ flag SET 0b1
 
 #4: SkillSet:
 	[0] ESAbsorbCombo(67:11502) -> Ok, who's next?
-	Absorb damage when combos <= 6 for 5 turns
+	Absorb damage when combos <= 5 for 5 turns
 	[1] ESDebuffMovetime(39:11503) -> Ok then. Let's finish it.
 	Movetime -3s for 5 turns
 

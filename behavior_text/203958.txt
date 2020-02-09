@@ -1,4 +1,4 @@
-#203958 - ミドホンドラ
+#203958 - Green Book Dragon
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -10,11 +10,11 @@ level: 4
  group:
  | group:
    | condition: 40% chance, when required attributes on board
-   | (8281:92) アースピット
+   | (8281:92) Earth Pit
    | Change all Wood orbs to Jammer orbs, Deal 100% damage
-   | (8278:15) かじる
+   | (8278:15) Bite
    | Deal 150% damage (3 hits, 50% each)
  | group:
  | condition: turn 1, hp <= 49
-   | (8284:7) 食糧補給
+   | (8284:7) Food Supply
    | Enemy recover 100% HP

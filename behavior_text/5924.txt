@@ -1,0 +1,30 @@
+#5924 - コマみ
+monster size: 4
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 5924
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16502:15) 竜巻の術
+ | Deal 120% damage (4 hits, 30% each)
+ group:
+ | group:
+   | group:
+   | condition: turn 1 while HP > 49
+     | (16503:100) 次はなにして遊ぶズラ～？
+     | Seal the 1st row for 3 turns
+   | group:
+     | (16501:15) パンチ
+     | Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (16504:101) インズラばえるズラ
+     | Fix orb movement starting point to random position on the board
+   | group:
+     | (16505:15) いいねサイクロン
+     | Deal 150% damage (5 hits, 30% each)

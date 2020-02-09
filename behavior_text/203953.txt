@@ -1,4 +1,4 @@
-#203953 - 熱狂の雷虎龍・バリドゥーラ
+#203953 - Thundershock Tiger Dragon, Balidoora
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -8,50 +8,50 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (8289:83) ・・・ギィエルルル + 縛雷の甲殻
+ | (8289:83) ...Hyah + Thunder Bound Chitin
  | Voids status ailments for 5 turns + Absorb damage when combos <= 5 for 5 turns
  group:
  | group:
    | condition: 25% chance
-   | (8290:77) 切り裂く
+   | (8290:77) Tear to Pieces
    | Change the 2nd, 4th, and 6th columns to Jammer orbs, Deal 140% damage
    | condition: 25% chance
-   | (8291:79) 切り裂く
+   | (8291:79) Tear to Pieces
    | Change the 1st, 3rd, and 5th rows to Jammer orbs, Deal 140% damage
    | condition: 25% chance
-   | (8292:50) 雷禅光
+   | (8292:50) Lightning Zen
    | Player -70% HP
    | condition: 25% chance
-   | (1:82) 通常攻撃
+   | (1:82) Disable Skill
    | Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: always turn 1
      | condition: 20% chance
-     | (8299:83) 抗火 + 体が硬化した
+     | (8299:83) Anti-Fire + Body hardened
      | Absorb Fire damage for 3 turns + Reduce damage from all sources by 50% for 1 turn
      | condition: 20% chance
-     | (8300:83) 抗水 + 体が硬化した
+     | (8300:83) Anti-Water + Body hardened
      | Absorb Water damage for 3 turns + Reduce damage from all sources by 50% for 1 turn
      | condition: 20% chance
-     | (8301:83) 抗風 + 体が硬化した
+     | (8301:83) Anti-Wind + Body hardened
      | Absorb Wood damage for 3 turns + Reduce damage from all sources by 50% for 1 turn
      | condition: 20% chance
-     | (8302:83) 抗光 + 体が硬化した
+     | (8302:83) Anti-Light + Body hardened
      | Absorb Light damage for 3 turns + Reduce damage from all sources by 50% for 1 turn
      | condition: 20% chance
-     | (8303:83) 抗闇 + 体が硬化した
+     | (8303:83) Anti-Dark + Body hardened
      | Absorb Dark damage for 3 turns + Reduce damage from all sources by 50% for 1 turn
    | group:
-     | (8304:15) 暴走
+     | (8304:15) Run Amok
      | Deal 150~250% damage (3~5 hits, 50% each)
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 2
-     | (8305:17) ギィィグルルル
+     | (8305:17) Hyah!
      | Increase damage to 1000% for the next 999 turns
    | group:
-     | (8306:15) ギャリィィィグォォォ！！！
+     | (8306:15) Hyahhhh!!!
      | Deal 1000% damage (10 hits, 100% each)

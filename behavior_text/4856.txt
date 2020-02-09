@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (11501:83) Ok, who's next? + Ok then. Let's finish it.
- | Absorb damage when combos <= 6 for 5 turns + Movetime -3s for 5 turns
+ | Absorb damage when combos <= 5 for 5 turns + Movetime -3s for 5 turns
  group:
  | group:
    | condition: 34% chance

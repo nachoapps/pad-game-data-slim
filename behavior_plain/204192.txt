@@ -1,4 +1,4 @@
-#204192 - ヤミマキドラ
+#204192 - Dark Scroll Dragon
 monster size: 3
 new AI: True
 start/max counter: 0
@@ -19,7 +19,7 @@ Branch on flag & 1, target rnd 8
 #5: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#6: ESBombRandomSpawn(102:9183) -> ケケケッ
+#6: ESBombRandomSpawn(102:9183) -> Hehehe
 Spawn 3 random Bomb orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -31,7 +31,7 @@ Branch on hp < 30, target rnd 16
 #9: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 75, target rnd 12
 
-#10: ESRandomSpawn(92:9184) -> た～のしいね～♪
+#10: ESRandomSpawn(92:9184) -> So fuuun ♪
 Condition: 50% chance (ai:50 rnd:0)
 Spawn 2 random Jammer or Poison orbs, Deal 70% damage
 
@@ -44,7 +44,7 @@ Branch on flag & 2, target rnd 10
 #13: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#14: ESColumnSpawnMulti(76:9185) -> もっと楽しみなよ♪
+#14: ESColumnSpawnMulti(76:9185) -> Have a blast ♪
 Change the 2nd column to Jammer and Poison orbs and the 5th column to Jammer and Poison orbs
 
 #15: ESEndPath(36:26) -> ESEndPath
@@ -56,7 +56,7 @@ Branch on flag & 4, target rnd 10
 #17: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b111
 
-#18: ESBombFixedSpawn(103:9186) -> お口チャック
+#18: ESBombFixedSpawn(103:9186) -> Zip it
 Spawn locked Bomb orbs in the specified positions
 
 #19: ESEndPath(36:26) -> ESEndPath
