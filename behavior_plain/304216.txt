@@ -1,4 +1,4 @@
-#304216 - バレンタインの王妃・ヘラ・ソエル
+#304216 - Valentine Queen, Hera-Sowilo
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -13,7 +13,7 @@ Branch on level >= 4, target rnd 4
 #3: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#4: ESRecoverPlayer(55:8996) -> ハッピーバレンタイ～ン♪
+#4: ESRecoverPlayer(55:8996) -> Happy Valentine's Day! ♪
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Player recover 100% HP
 
@@ -23,7 +23,7 @@ Branch on hp < 20, target rnd 18
 #6: ESBranchFlag(43:10) -> ESBranchFlag
 Branch on flag & 1, target rnd 22
 
-#7: ESDebuffMovetime(39:9001) -> 悪魔の真心
+#7: ESDebuffMovetime(39:9001) -> Devil's Devotion
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Movetime 150% for 3 turns
 
@@ -33,29 +33,29 @@ Branch on counter >= 2, target rnd 11
 #9: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#10: ESAttackMultihit(15:8995) -> スイートコンボ
+#10: ESAttackMultihit(15:8995) -> Sweet Combo
 Deal 100% damage (2 hits, 50% each)
 
 #11: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#12: ESOrbSealColumn(99:8997) -> ラッピングアロー
+#12: ESOrbSealColumn(99:8997) -> Wrapping Arrow
 Condition: 20% chance (ai:0 rnd:20)
 Seal the 1st column for 1 turn, Deal 130% damage
 
-#13: ESOrbSealColumn(99:8998) -> ラッピングアロー
+#13: ESOrbSealColumn(99:8998) -> Wrapping Arrow
 Condition: 20% chance (ai:0 rnd:20)
 Seal the 6th column for 1 turn, Deal 130% damage
 
-#14: ESOrbSealRow(100:8999) -> ラッピングアロー
+#14: ESOrbSealRow(100:8999) -> Wrapping Arrow
 Condition: 20% chance (ai:0 rnd:20)
 Seal the 1st row for 1 turn, Deal 130% damage
 
-#15: ESOrbSealRow(100:9000) -> ラッピングアロー
+#15: ESOrbSealRow(100:9000) -> Wrapping Arrow
 Condition: 20% chance (ai:0 rnd:20)
 Seal the 5th row for 1 turn, Deal 130% damage
 
-#16: ESSpinnersRandom(109:9002) -> ビタースポット
+#16: ESSpinnersRandom(109:9002) -> Bitter Spot
 Condition: 20% chance (ai:0 rnd:20)
 Random 1 orbs change every 1.0s for 1 turn, Deal 130% damage
 
@@ -68,7 +68,7 @@ Branch on flag & 1, target rnd 22
 #19: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#20: ESAbsorbCombo(67:9003) -> 本命獲得の試練
+#20: ESAbsorbCombo(67:9003) -> Test of One's True Feelings
 Absorb damage when combos <= 6 for 1 turn
 
 #21: ESEndPath(36:26) -> ESEndPath
@@ -80,7 +80,7 @@ flag SET 0b0
 #23: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 7, target rnd 7
 
-#24: ESBoardChangeAttackBits(85:9004) -> ギリチョコマミレーション
+#24: ESBoardChangeAttackBits(85:9004) -> Chocolate Smothering
 Change all orbs to Heal, Jammer, and Poison, Deal 200% damage
 
 #25: ESEndPath(36:26) -> ESEndPath
