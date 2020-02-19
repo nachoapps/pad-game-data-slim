@@ -1,0 +1,20 @@
+#5935 超転生熾天使ルシファー
+HP: 4429 ATK: 3288 RCV: 315 LB: 15
+AWK: 10,10,21,28,53,53,58,58,58
+SAWK: 56,54,55,45,64
+
+# 8089/116 - Eternal Vesper
+Tags: SINGLE_TARGET_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
+Game: Inflicts 200x ATK Dark Att. attack on 1 enemy, but halves HP; changes leftmost column to Dark & rightmost to Heal
+JP: HPが50％減少。敵1体に攻撃力ｘ200倍の闇属性攻撃。最左端を闇に、最右端を回復ドロップに変化
+EN: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
+KR: Reduce HP by 50%; Deal 200x Dark damage to an enemy; Change the far left column to Dark orbs and change the far right column to Heal orbs
+
+# 16092/138 - 熾天使の真魂
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 18.0, 1.0, 0.5]
+Game: 闇を5個以上つなげて消すと攻撃力が4.5倍、固定1ダメージ。 回復の5個十字消しでダメージを半減、攻撃力が4倍。
+JP: 闇を5個以上つなげて消すと攻撃力が4.5倍。回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。闇を5個以上つなげて消しと固定1ダメージ。
+EN: 4.5x ATK when matching 5 or more connected Dark orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 1 additional damage when matching 5 or more Dark orbs
+KR: 4.5x ATK when matching 5 or more connected Dark orbs; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 1 additional damage when matching 5 or more Dark orbs
+

@@ -1,0 +1,20 @@
+#5909 ドット・時女神・ヴェルダンディ
+HP: 4255 ATK: 1617 RCV: 482 LB: 15
+AWK: 10,10,21,21,28,29,29,29,48
+SAWK: 48,29,70
+
+# 16165/116 - 時空調流陣・木火
+Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
+Game: 全ドロップを火、木、回復ドロップに変化。 3ターンの間、回復力が2倍。
+JP: 全ドロップを火、木、回復ドロップに変化。3ターンの間、回復力が2倍
+EN: Change all orbs to Fire, Wood, and Heal orbs; For 3 turns, 2x RCV
+KR: Change all orbs to Fire, Wood, and Heal orbs; For 3 turns, 2x RCV
+
+# 16168/138 - 翠紅の秘時計
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 15.0, 1.5, 0.25]
+Game: ドット進化のみでチームを組むと、全パラメータが1.5倍。 木火の同時攻撃でダメージを軽減、攻撃力が10倍。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが1.5倍。木、火の同時攻撃で攻撃力が10倍、受けるダメージを25％減少。
+EN: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire
+KR: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire
+

@@ -81882,15 +81882,15 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16369/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16369/68 - 焦陽の大気
+JP: 3ターンの間、火ドロップを+15%に落ちてくる
+EN: Fire skyfall +15% for 3 turns
+KR: Fire skyfall +15% for 3 turns
 
-# 16370/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16370/15 - コロナスパーク
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
 # 16371/0 - なし
 JP: nothing
@@ -85237,310 +85237,310 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 17040/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17040/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 17041/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17041/67 - 秘密の領域
+JP: 999ターンの間、18コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 18 for 999 turns
+KR: Absorb damage when combos <= 18 for 999 turns
 
-# 17042/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17042/68 - 至高の神秘
+JP: 4ターンの間、回復ドロップを+5%に落ちてくる
+EN: Heal skyfall +5% for 4 turns
+KR: Heal skyfall +5% for 4 turns
 
-# 17043/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17043/84 - 全てを見聞する者
+JP: 全ドロップを木、光、闇、回復に変化
+EN: Change all orbs to Wood, Light, Dark, and Heal
+KR: Change all orbs to Wood, Light, Dark, and Heal
 
-# 17044/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17044/105 - パラダイス・ロスト
+JP: 1ターンの間、回復力を50%になる
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
 
-# 17045/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17045/62 - パーガトリアル・エンド
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
-# 17046/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17046/15 - ボイド・エタニティ
+JP: 140%ダメージ (10連続攻撃、14%ごと)
+EN: Deal 140% damage (10 hits, 14% each)
+KR: Deal 140% damage (10 hits, 14% each)
 
-# 17047/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17047/17 - 天地全容の書
+JP: 1ターンの間、攻撃力が8800%に上昇
+EN: Increase damage to 8800% for the next 1 turn
+KR: Increase damage to 8800% for the next 1 turn
 
-# 17048/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17048/83 - ＿超・絶地獄先制
+JP: 
+EN: 
+KR: 
 
-# 17049/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17049/67 - 至高の神秘
+JP: 999ターンの間、16コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 16 for 999 turns
+KR: Absorb damage when combos <= 16 for 999 turns
 
-# 17050/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17050/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
 
-# 17051/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17051/20 - 大天使の導き
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 17052/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17052/71 - 神秘の翼
+JP: 999ターンの間、15000000以上のダメージを無効化
+EN: Void damage >= 15000000 for 999 turns
+KR: Void damage >= 15000000 for 999 turns
 
-# 17053/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17053/83 - ＿通常A
+JP: 
+EN: 
+KR: 
 
-# 17054/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17054/83 - ＿通常B
+JP: 
+EN: 
+KR: 
 
-# 17055/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17055/83 - ＿通常C
+JP: 
+EN: 
+KR: 
 
-# 17056/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17056/110 - 幻惑の審判
+JP: 2.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 2 turns
+KR: Specific orbs change every 1.0s for 2 turns
 
-# 17057/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17057/97 - 暗黒の審判
+JP: 2ターンの間、ランダムで10個のドロップを超暗闇にする
+EN: Blind random 10 orbs for 2 turns
+KR: Blind random 10 orbs for 2 turns
 
-# 17058/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17058/77 - 干渉の審判
+JP: 上から4列目のドロップが水とお邪魔ドロップに変化
+EN: Change the 4th column to Water and Jammer orbs
+KR: Change the 4th column to Water and Jammer orbs
 
-# 17059/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17059/15 - 正義の剣
+JP: 60%ダメージ (3連続攻撃、20%ごと)
+EN: Deal 60% damage (3 hits, 20% each)
+KR: Deal 60% damage (3 hits, 20% each)
 
-# 17060/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17060/83 - ＿50%以下
+JP: 
+EN: 
+KR: 
 
-# 17061/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17061/13 - 消失する加護
+JP: ランダムで2色をお邪魔ドロップに変化
+EN: Change 2 random orb types to Jammer orbs
+KR: Change 2 random orb types to Jammer orbs
 
-# 17062/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17062/17 - 久遠の輝き
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
 
-# 17063/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17063/15 - 終焉の日
+JP: 600%ダメージ (6連続攻撃、100%ごと)
+EN: Deal 600% damage (6 hits, 100% each)
+KR: Deal 600% damage (6 hits, 100% each)
 
-# 17064/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17064/118 - 神悪魔半減
+JP: 神と悪魔タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from God and Devil types by 50%
+KR: Reduce damage from God and Devil types by 50%
 
-# 17065/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17065/106 - 敵の行動ターンが変化した
+JP: 50%HP以下で行動ターンが1に変わる
+EN: Enemy turn counter change to 1 when HP <= 50%
+KR: Enemy turn counter change to 1 when HP <= 50%
 
-# 17066/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17066/83 - ＿先制3回
+JP: 
+EN: 
+KR: 
 
-# 17067/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17067/67 - 敏速な天翼
+JP: 999ターンの間、8コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 8 for 999 turns
+KR: Absorb damage when combos <= 8 for 999 turns
 
-# 17068/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17068/50 - 窮地からの覚悟
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
 
-# 17069/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17069/100 - 恵みなき未来
+JP: 5ターンの間、左から1列目のドロップが操作不可
+EN: Seal the 1st row for 5 turns
+KR: Seal the 1st row for 5 turns
 
-# 17070/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17070/79 - 神炎の業火
+JP: 左から3列目のドロップが火ドロップに変化
+EN: Change the 3rd row to Fire orbs
+KR: Change the 3rd row to Fire orbs
 
-# 17071/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17071/48 - 神火による灰燼
+JP: ランダム属性のドロップをお邪魔ドロップに変化
+EN: Change a random attribute to Jammer orbs
+KR: Change a random attribute to Jammer orbs
 
-# 17072/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17072/15 - 神光の輝き
+JP: 120%ダメージ (3連続攻撃、40%ごと)
+EN: Deal 120% damage (3 hits, 40% each)
+KR: Deal 120% damage (3 hits, 40% each)
 
-# 17073/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17073/83 - ＿4カウント
+JP: 
+EN: 
+KR: 
 
-# 17074/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17074/5 - 失われし神光
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
-# 17075/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17075/103 - 悪への贈り物
+JP: 特定の位置に爆弾ドロップを生成
+EN: Spawn Bomb orbs in the specified positions
+KR: Spawn Bomb orbs in the specified positions
 
-# 17076/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17076/15 - 燃え盛る炎の猛襲
+JP: 300%ダメージ (3連続攻撃、100%ごと)
+EN: Deal 300% damage (3 hits, 100% each)
+KR: Deal 300% damage (3 hits, 100% each)
 
-# 17077/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17077/83 - ＿1％
+JP: 
+EN: 
+KR: 
 
-# 17078/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17078/17 - 悪への裁き
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 17079/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17079/39 - 聖なる守護
+JP: 1ターンの間、操作時間-3秒
+EN: Movetime -3s for 1 turn
+KR: Movetime -3s for 1 turn
 
-# 17080/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17080/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 17081/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17081/104 - 電煙集積
+JP: 5ターンの間、ランダムでの2×3マスの長方形を雲で隠す
+EN: A 2×3 rectangle of clouds appears for 5 turns at a random location
+KR: A 2×3 rectangle of clouds appears for 5 turns at a random location
 
-# 17082/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17082/109 - 磁場が発生している
+JP: 1ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
+EN: Random 2 orbs change every 1.0s for 1 turn
+KR: Random 2 orbs change every 1.0s for 1 turn
 
-# 17083/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17083/17 - 強力な電気を纏った
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
 
-# 17084/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17084/17 - 強力な電気を纏った
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 17085/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17085/17 - 強力な電気を纏った
+JP: 999ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 999 turns
+KR: Increase damage to 300% for the next 999 turns
 
-# 17086/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17086/17 - 強力な電気を纏った
+JP: 999ターンの間、攻撃力が400%に上昇
+EN: Increase damage to 400% for the next 999 turns
+KR: Increase damage to 400% for the next 999 turns
 
-# 17087/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17087/17 - 強力な電気を纏った
+JP: 999ターンの間、攻撃力が500%に上昇
+EN: Increase damage to 500% for the next 999 turns
+KR: Increase damage to 500% for the next 999 turns
 
-# 17088/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17088/15 - 電撃突進
+JP: 90%ダメージ (3連続攻撃、30%ごと)
+EN: Deal 90% damage (3 hits, 30% each)
+KR: Deal 90% damage (3 hits, 30% each)
 
-# 17089/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17089/97 - 巨木の葉陰
+JP: 3ターンの間、ランダムで20個のドロップを超暗闇にする
+EN: Blind random 20 orbs for 3 turns
+KR: Blind random 20 orbs for 3 turns
 
-# 17090/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17090/102 - 巨木の実
+JP: 爆弾ドロップを5個生成
+EN: Spawn 5 random Bomb orbs
+KR: Spawn 5 random Bomb orbs
 
-# 17091/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17091/92 - 盤面緑化
+JP: 木ドロップを3個生成
+EN: Spawn 3 random Wood orbs
+KR: Spawn 3 random Wood orbs
 
-# 17092/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17092/19 - 大自然の怒り
+JP: 999ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 999 turns
+KR: Increase damage to 300% for the next 999 turns
 
-# 17093/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17093/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 17094/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17094/118 - 悪魔バランス半減
+JP: バランスと悪魔タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from Balanced and Devil types by 50%
+KR: Reduce damage from Balanced and Devil types by 50%
 
-# 17095/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17095/108 - ホーリー・アトーンメント
+JP: 火と水ドロップを回復ドロップに変化
+EN: Change all Fire and Water orbs to Heal orbs
+KR: Change all Fire and Water orbs to Heal orbs
 
-# 17096/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17096/108 - ホーリー・アトーンメント
+JP: 水と木ドロップを回復ドロップに変化
+EN: Change all Water and Wood orbs to Heal orbs
+KR: Change all Water and Wood orbs to Heal orbs
 
-# 17097/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17097/108 - ホーリー・アトーンメント
+JP: 木と光ドロップを回復ドロップに変化
+EN: Change all Wood and Light orbs to Heal orbs
+KR: Change all Wood and Light orbs to Heal orbs
 
-# 17098/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17098/108 - ホーリー・アトーンメント
+JP: 光と闇ドロップを回復ドロップに変化
+EN: Change all Light and Dark orbs to Heal orbs
+KR: Change all Light and Dark orbs to Heal orbs
 
-# 17099/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17099/108 - ホーリー・アトーンメント
+JP: 火と闇ドロップを回復ドロップに変化
+EN: Change all Fire and Dark orbs to Heal orbs
+KR: Change all Fire and Dark orbs to Heal orbs
 
-# 17100/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17100/15 - レンヴェントシンズ
+JP: 8000%ダメージ (8連続攻撃、1000%ごと)
+EN: Deal 8000% damage (8 hits, 1000% each)
+KR: Deal 8000% damage (8 hits, 1000% each)
 
 # 17101/0 - なし
 JP: nothing

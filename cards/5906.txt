@@ -1,0 +1,20 @@
+#5906 ドット・忠義神・関羽
+HP: 4345 ATK: 1787 RCV: 333 LB: 20
+AWK: 52,21,21,21,53,28,43,48,48
+SAWK: 54,48,53
+
+# 16147/116 - 首尾一貫の剛心
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_ATT_ABSORBS
+Game: 回復、お邪魔、毒ドロップを火ドロップに変化。 1ターンの間、属性吸収を無効化する。
+JP: 回復、お邪魔、毒、猛毒ドロップを火ドロップに変化。1ターンの間、属性吸収を無効化する
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 1 turn, bypass att. absorb shield effects
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 1 turn, bypass att. absorb shield effects
+
+# 16150/138 - 龍来の礼節
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 16.0, 1.0, 0]
+Game: ドット進化のみでチームを組むと、HPが2倍、攻撃力は4倍。 火を9個以上つなげて消すと攻撃力が4倍、2コンボ加算。
+JP: ドット進化キャラのみでチームを組むと、攻撃力が4倍、HPが2倍。火を9個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+EN: 4x ATK and 2x HP when all cards are Pixel Evolutions; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+KR: 4x ATK and 2x HP when all cards are Pixel Evolutions; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
+

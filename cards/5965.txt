@@ -1,0 +1,20 @@
+#5965 雷放龍・ウルボーク
+HP: 3335 ATK: 1871 RCV: 144 LB: 40
+AWK: 21,21,19,19,17,43,31,37,30
+SAWK: 52,43,41
+
+# 16361/127 - サンダーライン
+Tags: LINE_ORBS_CONVERTER
+Game: 左端縦2列と右端縦2列を、 ランダムで光とお邪魔ドロップに変化。
+JP: 最左端と左から2列目と右から2列目と最右端を光ドロップに変化
+EN: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
+KR: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
+
+# 16364/138 - 黄電の龍角
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6,NO_SKYFALL_COMBOS
+Stats: [1.0, 30.0, 1.0, 0]
+Game: 【7×6マス/落ちコンなし】9コンボ以上で攻撃力が6倍。 パズル後の残りドロップ数が3個以下で攻撃力が5倍。
+JP: 【7×6マス】【落ちコンなし】9コンボ以上で攻撃力が6倍。パズル後の残りドロップ数が3個以下で攻撃力が5倍。
+EN: [Board becomes 7x6][No skyfall] 6x ATK when 9 or more combos; 5x ATK when there are 3 or fewer orbs remaining
+KR: [Board becomes 7x6][No skyfall] 6x ATK when 9 or more combos; 5x ATK when there are 3 or fewer orbs remaining
+

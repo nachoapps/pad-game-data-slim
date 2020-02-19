@@ -1,0 +1,20 @@
+#5948 装身・エンシェントドラゴンナイト -REX-
+HP: 6093 ATK: 3140 RCV: 495 LB: 0
+AWK: 10,10,53,28,48,48,43,43,60
+SAWK: 
+
+# 15986/116 - 装身術・フレイヤ
+Tags: EXTENDS_TIME
+Game: 10ターンの間、ドロップ操作を2秒延長。 装身・フレイヤに変身。
+JP: 10ターンの間、ドロップ操作時間が2秒に延長。[5949]に変身する
+EN: For 10 turns, increase orb move time by 2 seconds; Changes to [5949] for the duration of the dungeon
+KR: For 10 turns, increase orb move time by 2 seconds; Changes to [5949] for the duration of the dungeon
+
+# 16006/138 - 幻土の忍術
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
+Stats: [2.0, 17.5, 1.0, 0]
+Game: 木属性のHPが2倍、攻撃力は5倍。ドロップ操作を2秒延長。 木の2コンボ以上で攻撃力が3.5倍、3コンボ以上で固定1ダメージ。
+JP: 木属性の攻撃力が5倍、HPが2倍。ドロップ操作時間を2秒延長。木の2コンボ以上で攻撃力が3.5倍。木の3コンボ以上で固定1ダメージ。
+EN: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos
+KR: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos
+

@@ -1,0 +1,20 @@
+#5956 灼鉄の機神帝・グランディス
+HP: 6518 ATK: 2565 RCV: 113 LB: 15
+AWK: 10,10,56,21,53,46,48,48,48
+SAWK: 46,54,53,34
+
+# 16025/116 - ラーヴァグランツ
+Tags: ORB_CONVERT,ORB_LOCK
+Game: 光と闇ドロップを火ドロップに変化。火ドロップをロック。 10ターンの間、火ドロップがロック状態で落ちてくる。
+JP: 光と闇ドロップを火ドロップに変化。火ドロップをロック
+EN: Change Light and Dark orbs to Fire orbs; Lock Fire orbs
+KR: Change Light and Dark orbs to Fire orbs; Lock Fire orbs
+
+# 16028/138 - 機神帝の灼拳
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 18.0, 1, 0.5]
+Game: 火の2コンボ以上でダメージを半減、攻撃力が9倍。 火を6個以上つなげて消すと攻撃力が2倍、固定5万ダメージ。
+JP: 火の2コンボ以上で攻撃力が9倍、受けるダメージを50％減少。火を6個以上つなげて消すと攻撃力が2倍。火を6個以上つなげて消しと固定50000ダメージ。
+EN: 9x ATK and reduce damage taken by 50% when matching 2+ Fire combos; 2x ATK when matching 6 or more connected Fire orbs; 50000 additional damage when matching 6 or more Fire orbs
+KR: 9x ATK and reduce damage taken by 50% when matching 2+ Fire combos; 2x ATK when matching 6 or more connected Fire orbs; 50000 additional damage when matching 6 or more Fire orbs
+

@@ -1,0 +1,20 @@
+#5941 転生シヴァ＝ドラゴン
+HP: 5206 ATK: 2575 RCV: 222 LB: 10
+AWK: 28,28,56,19,19,27,27,27,27
+SAWK: 27,52,31,56,53
+
+# 16129/116 - 真・ルドラークシャ
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
+Game: 左端縦1列を火ドロップに変化。 自分以外の味方スキルが2ターン溜まる。
+JP: 最左端を火ドロップに変化。自分以外の味方スキルが2ターンの溜まる
+EN: Change the far left column to Fire orbs; Charge all allies' skills by 2 turns
+KR: Change the far left column to Fire orbs; Charge all allies' skills by 2 turns
+
+# 16113/138 - 破壊神龍の魂
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 18.0, 3.0, 0.0]
+Game: 転生、超転生進化のみでチームを組むと、攻撃力が6倍。 火属性の攻撃力と回復力が3倍。
+JP: 〈不明なグループ：2〉キャラのみでチームを組むと、攻撃力が6倍。火属性の攻撃力と回復力が3倍。
+EN: 6x ATK when all cards are <not populated:2>; 3x ATK & RCV for Fire Att.
+KR: 6x ATK when all cards are <not populated:2>; 3x ATK & RCV for Fire Att.
+

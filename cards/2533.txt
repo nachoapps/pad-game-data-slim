@@ -4,11 +4,11 @@ AWK: 20,52,21,21,28,28,19,47,33
 SAWK: 54,47,44
 
 # 3355/116 - Divine Illumination
-Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
+Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
-JP: 最大HP40％分回復。バインドを4ターン回復。自分以外の味方スキルが1ターンの溜まる
-EN: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
-KR: Recover 40% of max HP; Reduce binds by 4 turns; Charge all allies' skills by 1 turn
+JP: 最大HP40％分回復。バインドと覚醒無効を4ターン回復。自分以外の味方スキルが1ターンの溜まる
+EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
+KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 
 # 4270/138 - Don't you want to play with me?
 Tags: AUTO_HEAL,ENHANCED_ATK

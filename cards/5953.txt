@@ -1,0 +1,20 @@
+#5953 秘輝蛙の幻忍・児雷也
+HP: 3950 ATK: 4030 RCV: 10 LB: 15
+AWK: 10,10,56,53,69,57,57,57,57
+SAWK: 43,48,53,33
+
+# 16009/116 - 風縛変化の術
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
+Game: 水ドロップを木に、光ドロップを火に変化。木ドロップをロック。 10ターンの間、木ドロップがロック状態で落ちてくる。
+JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック
+EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
+KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
+
+# 16013/138 - 極現の忍道
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 18.0, 1, 0.5]
+Game: 火木の同時攻撃で攻撃力が9倍。7コンボ以上で攻撃力が2倍。 木の2コンボ以上でダメージを半減、固定1ダメージ。
+JP: 火、木同時攻撃で攻撃力が9倍。7コンボ以上で攻撃力が2倍。木の2コンボ以上で受けるダメージを50％減少。木の2コンボ以上で固定1ダメージ。
+EN: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when attacking with 2 or more Wood combos
+KR: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when attacking with 2 or more Wood combos
+

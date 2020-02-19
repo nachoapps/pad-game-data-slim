@@ -1,0 +1,20 @@
+#5945 転生ツクヨミ＝ドラゴン
+HP: 5247 ATK: 2572 RCV: 343 LB: 10
+AWK: 52,56,53,28,60,18,18,18,33
+SAWK: 60,45,34,56,53
+
+# 16144/116 - 真・ツキガミノカイナ
+Tags: REDUCE_SKILL_TURN
+Game: ランダムで闇と回復ドロップを5個ずつ生成。 自分以外の味方スキルが1ターン溜まる。
+JP: ランダムで闇と回復を5個ずつ生成。自分以外の味方スキルが1ターンの溜まる
+EN: Create 5 Dark and Heal orbs; Charge all allies' skills by 1 turn
+KR: Create 5 Dark and Heal orbs; Charge all allies' skills by 1 turn
+
+# 16125/138 - 夜刻神龍の魂
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 20.0, 5.0, 0]
+Game: 転生、超転生進化のみでチームを組むと、攻撃力と回復力が5倍。 強化ドロップを含めて5個消した属性の攻撃力が4倍。
+JP: 〈不明なグループ：2〉キャラのみでチームを組むと、攻撃力と回復力が5倍。強化ドロップを含めてを5個消した属性の攻撃力が4倍。
+EN: 5x ATK & RCV when all cards are <not populated:2>; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 5x ATK & RCV when all cards are <not populated:2>; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+
