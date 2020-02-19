@@ -2744,7 +2744,7 @@ KR: Change Heal and Poison orbs to Wood orbs; Recover 3000 HP; Reduce binds by 3
 
 # 941/116 - Solid Fortitude
 Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status by 5 turns
+Game: Changes Poison & Heal Orbs to Fire Orbs; recovers 5000 HP, reduces bind status (incl. Awoken) by 5 turns
 JP: 回復と毒ドロップを火ドロップに変化。HPを5000回復。バインドと覚醒無効を5ターン回復
 EN: Change Heal and Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
 KR: Change Heal and Poison orbs to Fire orbs; Recover 5000 HP; Reduce binds and awoken skill binds by 5 turns
@@ -6125,14 +6125,14 @@ KR: Change the far right column to Dark orbs; Enhance all Dark orbs
 
 # 1644/116 - Break Time
 Tags: MENACE,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
-Game: Delays enemies' next move for 1 turn; the bottom row changes to Heal Orbs
+Game: Delays enemies' next move for 1 turn, fully rcv Awoken Skill bind status; changes the bottom row to Heal Orbs
 JP: 敵の行動を1ターン遅らせる。覚醒無効を全回復。最下段を回復ドロップに変化
 EN: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change the bottom row to Heal orbs
 KR: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change the bottom row to Heal orbs
 
 # 1645/116 - Gravity Room
 Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT,REDUCE_MATCH_RESTRICTION
-Game: Reduces enemies' HP by 10%; changes Jammers & Poison Orbs to Heal Orbs
+Game: Reduces enemies' HP by 10%, fully recovers unmatchable Orb status; changes Jammers & Poison Orbs to Heal Orbs
 JP: 敵の現HPの10％分のダメージ。消せないドロップ状態を9999ターン回復。お邪魔と毒ドロップを回復ドロップに変化
 EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer and Poison orbs to Heal orbs
 KR: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer and Poison orbs to Heal orbs
@@ -7014,7 +7014,7 @@ KR: Recover 4000 HP; Reduce binds by 4 turns
 
 # 1887/116 - Devastating Third Eye
 Tags: ENHANCED_ORBS,REDUCE_DEFENSE,REDUCE_DAMAGE
-Game: Vastly reduces enemies' DEF for 1 turn; Fire & Heal Orbs enhanced
+Game: Vastly reduces enemies' DEF for 1 turn, Fire & Heal Orbs enhanced; vastly reduces damage for 1 turn
 JP: 1ターンの間、敵の防御力が75％下がる。火と回復ドロップを強化。1ターンの間、受けるダメージを75％減少
 EN: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce enemies' defense by 75%; Enhance all Fire and Heal orbs; For 1 turn, reduce damage taken by 75%
@@ -14917,7 +14917,7 @@ KR: Reduce HP by 50%; Deal 100000 Light damage to an enemy
 
 # 5166/116 - Masterful Foundation
 Tags: ENHANCED_ATTACK,MENACE,EXTENDS_TIME
-Game: Delays enemies' next move for 2 turns; 1.5x ATK for Dark Att. for 2 turns
+Game: Delays enemies' next move for 2 turns; 1.5x ATK for Dark Att. & 1.5x Orb move time for 2 turns
 JP: 敵の行動を2ターン遅らせる。2ターンの間、闇属性の攻撃力が1.5倍。2ターンの間、ドロップ操作時間が1.5倍
 EN: Delay enemies' next attack by 2 turns; For 2 turns, 1.5x ATK for Dark Att.; For 2 turns, 1.5x orb move time
 KR: Delay enemies' next attack by 2 turns; For 2 turns, 1.5x ATK for Dark Att.; For 2 turns, 1.5x orb move time
@@ -41937,9 +41937,9 @@ JP: 2ターンの間、ドロップ操作時間が1.5倍
 EN: For 2 turns, 1.5x orb move time
 KR: For 2 turns, 1.5x orb move time
 
-# 15723/116 - レイ・オブ・ゴッド
+# 15723/116 - Ray of God
 Tags: HEAL,LINE_ORBS_CONVERTER
-Game: HPを全回復。 最上段横1列を光ドロップに変化。
+Game: Fully recovers HP;  changes the top row to Light Orbs
 JP: HPを全回復。最上段を光ドロップに変化
 EN: Recover all HP; Change the top row to Light orbs
 KR: Recover all HP; Change the top row to Light orbs
@@ -41958,9 +41958,9 @@ JP: 最上段を光ドロップに変化
 EN: Change the top row to Light orbs
 KR: Change the top row to Light orbs
 
-# 15726/116 - タンブリングダーク
+# 15726/116 - Tumbling Dark
 Tags: SUICIDE
-Game: HPが50％減少。 ランダムで闇ドロップを6個生成。
+Game: Halves HP; creates 6 Dark Orbs at random
 JP: HPが50％減少。闇ドロップを6個生成
 EN: Reduce HP by 50%; Create 6 Dark orbs
 KR: Reduce HP by 50%; Create 6 Dark orbs
@@ -42000,9 +42000,9 @@ JP: 回復ドロップを闇ドロップに、木ドロップを光ドロップ�
 EN: Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 KR: Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 
-# 15737/116 - 芳春の時節
+# 15737/116 - Lush Springtime
 Tags: REDUCE_DAMAGE
-Game: 火以外のドロップから回復ドロップを6個生成。 1ターンの間、受けるダメージを半減。
+Game: Changes 6 non-Fire Orbs to Heal Orbs; halves damage for 1 turn
 JP: 火以外回復ドロップを6個生成。1ターンの間、受けるダメージを50％減少
 EN: Create 6 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 50%
 KR: Create 6 Heal orbs over non Fire orbs; For 1 turn, reduce damage taken by 50%
@@ -42021,9 +42021,9 @@ JP: 1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
-# 15740/116 - 清夏の時節
+# 15740/116 - Crisp Summertime
 Tags: ENHANCED_ATTACK
-Game: 1ターンの間、攻撃タイプの攻撃力が2倍。 ランダムで水ドロップを6個生成。
+Game: 2x ATK for Attacker Type for 1 turn; creates 6 Water Orbs at random
 JP: 1ターンの間、攻撃タイプの攻撃力が2倍。水ドロップを6個生成
 EN: For 1 turn, 2x ATK for Attacker type; Create 6 Water orbs
 KR: For 1 turn, 2x ATK for Attacker type; Create 6 Water orbs
@@ -42042,9 +42042,9 @@ JP: 水ドロップを6個生成
 EN: Create 6 Water orbs
 KR: Create 6 Water orbs
 
-# 15743/116 - 錦秋の時節
+# 15743/116 - Vibrant Autumntime
 Tags: ENHANCED_ATTACK
-Game: 1ターンの間、体力タイプの攻撃力が2倍。 ランダムで光ドロップを8個生成。
+Game: 2x ATK for Physical Type for 1 turn; creates 8 Light Orbs at random
 JP: 1ターンの間、体力タイプの攻撃力が2倍。光ドロップを8個生成
 EN: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
 KR: For 1 turn, 2x ATK for Physical type; Create 8 Light orbs
@@ -42063,9 +42063,9 @@ JP: 光ドロップを8個生成
 EN: Create 8 Light orbs
 KR: Create 8 Light orbs
 
-# 15746/116 - 盛冬の時節
+# 15746/116 - Frosty Wintertime
 Tags: REDUCE_DAMAGE
-Game: ランダムで闇と回復ドロップを3個ずつ生成。 1ターンの間、受けるダメージを半減。
+Game: Creates 3 Dark and Heal Orbs each at random; halves damage for 1 turn
 JP: ランダムで闇と回復を3個ずつ生成。1ターンの間、受けるダメージを50％減少
 EN: Create 3 Dark and Heal orbs; For 1 turn, reduce damage taken by 50%
 KR: Create 3 Dark and Heal orbs; For 1 turn, reduce damage taken by 50%
@@ -42084,9 +42084,9 @@ JP: 1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
-# 15749/116 - 南方七宿陣
+# 15749/116 - Seven Southern Encampments
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを火、木、光ドロップに変化。
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Fire, Wood & Light Orbs
 JP: バインドと覚醒無効を5ターン回復。全ドロップを火、木、光ドロップに変化
 EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
 KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Wood, and Light orbs
@@ -42105,9 +42105,9 @@ JP: 全ドロップを火、木、光ドロップに変化
 EN: Change all orbs to Fire, Wood, and Light orbs
 KR: Change all orbs to Fire, Wood, and Light orbs
 
-# 15752/116 - 東方七宿陣
+# 15752/116 - Seven Eastern Encampments
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを水、木、闇ドロップに変化。
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Water, Wood & Dark Orbs
 JP: バインドと覚醒無効を5ターン回復。全ドロップを水、木、闇ドロップに変化
 EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Water, Wood, and Dark orbs
 KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Water, Wood, and Dark orbs
@@ -42126,9 +42126,9 @@ JP: 全ドロップを水、木、闇ドロップに変化
 EN: Change all orbs to Water, Wood, and Dark orbs
 KR: Change all orbs to Water, Wood, and Dark orbs
 
-# 15755/116 - 北方七宿陣
+# 15755/116 - Seven Northern Encampments
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを木、光、闇ドロップに変化。
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Wood, Light & Dark Orbs
 JP: バインドと覚醒無効を5ターン回復。全ドロップを木、光、闇ドロップに変化
 EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
 KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Dark orbs
@@ -42147,9 +42147,9 @@ JP: 全ドロップを木、光、闇ドロップに変化
 EN: Change all orbs to Wood, Light, and Dark orbs
 KR: Change all orbs to Wood, Light, and Dark orbs
 
-# 15758/116 - 四神輪舞
+# 15758/116 - Circle Dance of the Four Gods
 Tags: GRAVITY,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を全回復。 敵のHPが20％減少。
+Game: Fully recovers bind status (incl. Awoken); reduces enemies' HP by 20%
 JP: バインドと覚醒無効を全回復。敵の現HPの20％分のダメージ
 EN: Remove all binds and awoken skill binds; Reduce enemies' HP by 20%
 KR: Remove all binds and awoken skill binds; Reduce enemies' HP by 20%
@@ -42168,9 +42168,9 @@ JP: 敵の現HPの20％分のダメージ
 EN: Reduce enemies' HP by 20%
 KR: Reduce enemies' HP by 20%
 
-# 15761/116 - 西方七宿陣
+# 15761/116 - Seven Western Encampments
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を5ターン回復。 全ドロップを火、水、闇ドロップに変化。
+Game: Reduces bind status (incl. Awoken) by 5 turns; changes all Orbs to Fire, Water & Dark Orbs
 JP: バインドと覚醒無効を5ターン回復。全ドロップを火、水、闇ドロップに変化
 EN: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Water, and Dark orbs
 KR: Reduce binds and awoken skill binds by 5 turns; Change all orbs to Fire, Water, and Dark orbs

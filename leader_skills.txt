@@ -4945,7 +4945,7 @@ KR: 3.5x ATK and 1.5x RCV for Physical and Dragon type
 # 1286/138 - Flying Dragon's Decorum
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 16.0, 2.0, 0.0]
-Game: 4x ATK & 2x RCV for Dragon & Balanced Types
+Game: 4x ATK & 2x RCV for Dragon & Balanced Types; 4x ATK & adds 2 combos with 9+ linked Fire Orbs
 JP: バランスとドラゴンタイプの攻撃力が4倍、回復力が2倍。火を9個以上つなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and 2x RCV for Balanced and Dragon type; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 KR: 4x ATK and 2x RCV for Balanced and Dragon type; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
@@ -6873,7 +6873,7 @@ KR: 2x Coin Drop rate
 # 1934/129 - Wind Clock of the Endless Era
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 10.0, 1.0, 0.5]
-Game: 2.5x ATK for Wood Att.; reduces Wood Att. damage
+Game: 10x ATK for Wood Att.; halves Wood Att. damage
 JP: 木属性の攻撃力が10倍。木属性の敵からのダメージを50％減少。
 EN: 10x ATK for Wood Att.; Reduce damage taken from Wood Att. by 50%
 KR: 10x ATK for Wood Att.; Reduce damage taken from Wood Att. by 50%
@@ -6881,7 +6881,7 @@ KR: 10x ATK for Wood Att.; Reduce damage taken from Wood Att. by 50%
 # 1935/129 - Twilight Jigsaw Puzzle
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 10.0, 1.0, 0.5]
-Game: 2.5x ATK for Fire Att.; reduces Fire Att. damage
+Game: 10x ATK for Fire Att.; halves Fire Att. Damage
 JP: 火属性の攻撃力が10倍。火属性の敵からのダメージを50％減少。
 EN: 10x ATK for Fire Att.; Reduce damage taken from Fire Att. by 50%
 KR: 10x ATK for Fire Att.; Reduce damage taken from Fire Att. by 50%
@@ -7305,7 +7305,7 @@ KR: 2x HP & ATK for God type
 # 1994/129 - Chivalry of the Green Globe
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 10.0, 1.0, 0.0]
-Game: 2x ATK & HP for Balanced Type
+Game: 2x HP & 10x ATK for Balanced Type
 JP: バランスタイプの攻撃力が10倍、HPが2倍。
 EN: 10x ATK and 2x HP for Balanced type
 KR: 10x ATK and 2x HP for Balanced type
@@ -9577,7 +9577,7 @@ KR: 3.5x ATK for Wood Att.
 # 2488/129 - Burning Fencing
 Tags: ENHANCED_ATK
 Stats: [1.0, 12.0, 1.0, 0.0]
-Game: 3.5x ATK for Fire Att.
+Game: 12x ATK for Fire Att.
 JP: 火属性の攻撃力が12倍。
 EN: 12x ATK for Fire Att.
 KR: 12x ATK for Fire Att.
@@ -26225,7 +26225,7 @@ KR: 40x ATK additional damage when matching orbs
 # 6231/138 - Spirit of the Blazing Falcon God
 Tags: ENHANCED_ATK_RCV
 Stats: [1, 18.0, 3.0, 0]
-Game: 4x ATK when 4 Att. attack at once, 5x ATK with 5 Att.; 2x ATK & RCV when skills used
+Game: 4x ATK when 4 Att. attack at once, 6x ATK with 5 Att.; 3x ATK & RCV when skills used
 JP: 4色以上同時攻撃で攻撃力が4倍、最大5色で6倍。スキル使用時、攻撃力と回復力が3倍。
 EN: 4x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK & RCV on the turn a skill is used
 KR: 4x ATK when matching 4 or more colors up to 6x at 5 colors; 3x ATK & RCV on the turn a skill is used
@@ -28233,7 +28233,7 @@ KR: 2x ATK when matching Wood and Dark
 # 6564/138 - Soul of the Destroyer
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 17.5, 5.0, 0.0]
-Game: 2x ATK & RCV for Fire Attribute; ATK increases with 4+ combos, up to 3.5x ATK
+Game: 5x ATK & RCV for Fire Att.; ATK increases with 4+ combos, up to 3.5x
 JP: 火属性の攻撃力と回復力が5倍。4コンボ以上で攻撃力が2倍、最大7コンボで3.5倍。
 EN: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
 KR: 5x ATK & RCV for Fire Att.; 2x ATK when 4 or more combos up to 3.5x at 7 combos
@@ -41289,7 +41289,7 @@ KR: 5x ATK when matching 2 Light combos, up to 7x at 3 Light combos
 # 9979/138 - Spirit of the National Founder
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 25.0, 1, 0.25]
-Game: ATK increases with 6+ combos, up to 6x; 2.5x ATK & reduces damage with 2+ Dark combos
+Game: ATK increases with 6+ combos, up to 10x; 2.5x ATK & reduces damage with 2+ Dark combos
 JP: 6コンボ以上で攻撃力が4倍、最大10コンボで10倍。闇の2コンボ以上で攻撃力が2.5倍、受けるダメージを25％減少。
 EN: 4x ATK when 6 or more combos up to 10x at 10 combos; 2.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
 KR: 4x ATK when 6 or more combos up to 10x at 10 combos; 2.5x ATK and reduce damage taken by 25% when matching 2+ Dark combos
@@ -60233,7 +60233,7 @@ KR: Increase orb movement time by 5 seconds
 # 14187/138 - True Spirit of the Fortune Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 1.0, 0.5]
-Game: 4x ATK for Wt Att., 4x ATK when skills used; halves dmg when recovering 50,000 HP or more with Heal Orbs
+Game: 4x ATK for Wt Att., 4.5x ATK when skills used; halves  dmg when recovering 50,000 HP or more with Heal Orbs
 JP: 水属性の攻撃力が4倍。スキル使用時、攻撃力が4.5倍。回復ドロップで50000以上回復すると受けるダメージを50％減少。
 EN: 4x ATK for Water Att.; 4.5x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
 KR: 4x ATK for Water Att.; 4.5x ATK on the turn a skill is used; reduce damage taken by 50% when recovering more than 50000 HP from Heal orbs
@@ -66159,7 +66159,7 @@ JP: 木を5個以上つなげて消すと攻撃力が3倍、受けるダメー�
 EN: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Wood orbs
 KR: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Wood orbs
 
-# 15639/138 - Wonderous Dazzling Shine
+# 15639/138 - Dazzling Wonder
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1, 18.0, 4.0, 0.25]
 Game: 6x ATK when HP is 50% or more, 4x ATK & RCV when 49% or less; 3x ATK & reduces damage with 2+ Light combos
@@ -66194,7 +66194,7 @@ KR: Increase combo by 2 when matching 9 or more connected Light orbs at once
 # 15643/138 - Spirit of the Green Angel
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 1.5, 0.25]
-Game: 1.5x to all stats for Wood Att., 2x ATK when HP is 50% or more; 5x ATK & reduces damage with 2 Wood combos
+Game: 1.5x to all stats for Wood Att., 2x ATK when HP is 50% or more; 5x ATK & reduces damage with 2+ Wood combos
 JP: 木属性の全パラメータが1.5倍。木の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。HPが50%以上で攻撃力が2倍。
 EN: 1.5x all stats for Wood Att.; 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2x ATK when above 50% HP
 KR: 1.5x all stats for Wood Att.; 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 2x ATK when above 50% HP
@@ -66375,10 +66375,10 @@ JP: 7コンボ以上で攻撃力が20倍、受けるダメージを25％減少�
 EN: 20x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 20x ATK and reduce damage taken by 25% when 7 or more combos
 
-# 15690/138 - 優雅の心胆
+# 15690/138 - Elegant Heart
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 4.0, 0.25]
-Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復の2コンボ以上でダメージを軽減、攻撃力が5倍。
+Game: 4x ATK & RCV when all monsters in team are Pixel Evo; 5x ATK & reduces damage with 2+ Heal combos
 JP: ドット進化キャラのみでチームを組むと、攻撃力と回復力が4倍。回復の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
@@ -66399,10 +66399,10 @@ JP: 回復の2コンボ以上で攻撃力が5倍、受けるダメージを25％
 EN: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 
-# 15693/138 - 節度の心胆
+# 15693/138 - Modest Heart
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 4.0, 0.25]
-Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 水の2コンボ以上でダメージを軽減、攻撃力が5倍。
+Game: 4x ATK & RCV when all monsters in team are Pixel Evo; 5x ATK & reduces damage with 2+ Water combos
 JP: ドット進化キャラのみでチームを組むと、攻撃力と回復力が4倍。水の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
@@ -66423,10 +66423,10 @@ JP: 水の2コンボ以上で攻撃力が5倍、受けるダメージを25％減
 EN: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 KR: 5x ATK and reduce damage taken by 25% when matching 2+ Water combos
 
-# 15696/138 - 無心の心胆
+# 15696/138 - Innocent Heart
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 4.0, 0.25]
-Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
+Game: 4x ATK & RCV when all monsters in team are Pixel Evo; 5x ATK & reduces damage with 5+ linked Light Orbs
 JP: ドット進化キャラのみでチームを組むと、攻撃力と回復力が4倍。光を5個以上つなげて消すと攻撃力が5倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
@@ -66447,10 +66447,10 @@ JP: 光を5個以上つなげて消すと攻撃力が5倍、受けるダメー�
 EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 
-# 15699/138 - 高潔の心胆
+# 15699/138 - Virtuous Heart
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 4.0, 0.25]
-Game: ドット進化のみでチームを組むと、攻撃力と回復力が4倍。 回復を5個以上つなげて消すとダメージを軽減、攻撃力が5倍。
+Game: 4x ATK & RCV when all monsters in team are Pixel Evo; 5x ATK & reduces damage with 5+ linked Heal Orbs
 JP: ドット進化キャラのみでチームを組むと、攻撃力と回復力が4倍。回復を5個以上つなげて消すと攻撃力が5倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
 KR: 4x ATK & RCV when all cards are Pixel Evolutions; 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
@@ -66471,10 +66471,10 @@ JP: 回復を5個以上つなげて消すと攻撃力が5倍、受けるダメ�
 EN: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
 KR: 5x ATK and reduce damage taken by 25% when matching 5 or more connected Heal orbs
 
-# 15702/138 - 緋天の連舞
+# 15702/138 - Group Dance of the Crimson Heaven
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火木光の同時攻撃でダメージを軽減、攻撃力が8倍。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 8x ATK & reduces damage when Fr, Wd & Lt attack at once
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。火、木、光同時攻撃で攻撃力が8倍、受けるダメージを25％減少。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Wood, and Light at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Wood, and Light at once
@@ -66495,10 +66495,10 @@ JP: 火、木、光同時攻撃で攻撃力が8倍、受けるダメージを25�
 EN: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, and Light at once
 KR: 8x ATK and reduce damage taken by 25% when matching Fire, Wood, and Light at once
 
-# 15705/138 - 昇竜の連舞
+# 15705/138 - Group Dance of the Rising Dragon
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 水木闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 8x ATK & reduces damage when Wt, Wd & Dk attack at once
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。水、木、闇同時攻撃で攻撃力が8倍、受けるダメージを25％減少。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Water, Wood, and Dark at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Water, Wood, and Dark at once
@@ -66519,10 +66519,10 @@ JP: 水、木、闇同時攻撃で攻撃力が8倍、受けるダメージを25�
 EN: 8x ATK and reduce damage taken by 25% when matching Water, Wood, and Dark at once
 KR: 8x ATK and reduce damage taken by 25% when matching Water, Wood, and Dark at once
 
-# 15708/138 - 霊亀の連舞
+# 15708/138 - Group Dance of the Spirit Turtle
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 木光闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 8x ATK & reduces damage when Wd, Lt & Dk attack at once
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。木、光、闇同時攻撃で攻撃力が8倍、受けるダメージを25％減少。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once
@@ -66543,10 +66543,10 @@ JP: 木、光、闇同時攻撃で攻撃力が8倍、受けるダメージを25�
 EN: 8x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once
 KR: 8x ATK and reduce damage taken by 25% when matching Wood, Light, and Dark at once
 
-# 15711/138 - 四源の連舞
+# 15711/138 - Group Dance of the Four Origins
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 18.0, 1.0, 0.25]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水木光の同時攻撃でダメージを軽減、攻撃力が9倍。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 9x ATK & reduces damage when Fr, Wt, Wd & Lt attack
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。火、水、木、光同時攻撃で攻撃力が9倍、受けるダメージを25％減少。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
@@ -66567,10 +66567,10 @@ JP: 火、水、木、光同時攻撃で攻撃力が9倍、受けるダメージ
 EN: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 KR: 9x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 
-# 15714/138 - 虎咆の連舞
+# 15714/138 - Group Dance of the Tiger's Roar
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 火水闇の同時攻撃でダメージを軽減、攻撃力が8倍。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 8x ATK & reduces damage when Fr, Wt & Dk attack at once
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。火、水、闇同時攻撃で攻撃力が8倍、受けるダメージを25％減少。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark at once
@@ -66591,10 +66591,10 @@ JP: 火、水、闇同時攻撃で攻撃力が8倍、受けるダメージを25�
 EN: 8x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark at once
 KR: 8x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark at once
 
-# 15717/138 - ゾーン・オブ・ゼウス
+# 15717/138 - Zone of Zeus
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 20.0, 2.0, 0.0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP満タン時に攻撃力が10倍。
+Game: 2x all stats when all monsters in team are Pixel Evo; 10x ATK when HP is full
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。HPが満タン時攻撃力が10倍。
 EN: 2x all stats when all cards are Pixel Evolutions; 10x ATK when HP is full
 KR: 2x all stats when all cards are Pixel Evolutions; 10x ATK when HP is full
@@ -66615,10 +66615,10 @@ JP: HPが満タン時攻撃力が10倍。
 EN: 10x ATK when HP is full
 KR: 10x ATK when HP is full
 
-# 15720/138 - 神王妃の微笑
+# 15720/138 - Divine Queen's Smile
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 18.0, 2.0, 0.0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 HP50％以下で攻撃力が9倍。
+Game: 2x all stats when all monsters in team are Pixel Evo; 9x ATK when HP is 50% or less
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。HPが50%以下で攻撃力が9倍。
 EN: 2x all stats when all cards are Pixel Evolutions; 9x ATK when below 50% HP
 KR: 2x all stats when all cards are Pixel Evolutions; 9x ATK when below 50% HP
