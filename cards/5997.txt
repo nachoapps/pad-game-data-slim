@@ -1,0 +1,20 @@
+#5997 浮遊の道化師・チェニ
+HP: 2013 ATK: 1155 RCV: 228 LB: 0
+AWK: 19,19,32,18
+SAWK: 
+
+# 16341/116 - 神器宿装・ディグ
+Tags: DROP_CHANCE
+Game: 10ターンの間、闇ドロップが少し落ちやすくなる。 銀遊龍の道化師・チェニに変身。
+JP: 10ターンの間、闇ドロップが15％落ちやすくなる。[5998]に変身する
+EN: For 10 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
+KR: For 10 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
+
+# 16292/150 - 魔銀の純心
+Tags: ENHANCED_ATK
+Stats: [1, 5.0, 1, 0]
+Game: 強化ドロップを含めて5個消した属性の攻撃力が5倍。
+JP: 強化ドロップを含めてを5個消した属性の攻撃力が5倍。
+EN: 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+

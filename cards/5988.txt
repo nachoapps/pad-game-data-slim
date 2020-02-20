@@ -1,0 +1,20 @@
+#5988 先見の傭兵・リシェイラ
+HP: 3008 ATK: 2263 RCV: 460 LB: 0
+AWK: 21,21,28,19
+SAWK: 
+
+# 16315/116 - 神器宿装・マファス
+Tags: REDUCE_DAMAGE
+Game: 4ターンの間、受けるダメージを軽減。 迅援龍の薬師・リシェイラに変身。
+JP: 4ターンの間、受けるダメージを35％減少。[5989]に変身する
+EN: For 4 turns, reduce damage taken by 35%; Changes to [5989] for the duration of the dungeon
+KR: For 4 turns, reduce damage taken by 35%; Changes to [5989] for the duration of the dungeon
+
+# 16322/138 - 秘薬の追求
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.5]
+Game: 回復の5個十字消しでダメージを半減、攻撃力が4倍。 木光の同時攻撃で攻撃力が4倍、1コンボ加算。
+JP: 回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。木、光同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK and increase combo by 1 when matching Wood and Light at once
+KR: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK and increase combo by 1 when matching Wood and Light at once
+

@@ -1,0 +1,20 @@
+#5972 旅立ちの冒険者・ダイヤ
+HP: 2820 ATK: 1610 RCV: 303 LB: 0
+AWK: 28,53,46,46
+SAWK: 
+
+# 16225/116 - 神器宿装・アーウィル
+Tags: ADD_COMBO
+Game: 10ターンの間、1コンボ加算される。 聖輝龍の勇者・ダイヤに変身。
+JP: 10ターンの間、1コンボ加算される。[5973]に変身する
+EN: For 10 turns, increase combo count by 1; Changes to [5973] for the duration of the dungeon
+KR: For 10 turns, increase combo count by 1; Changes to [5973] for the duration of the dungeon
+
+# 16228/61 - 勇気の導き
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 4色以上同時攻撃で攻撃力が6倍。
+JP: 4色以上同時攻撃で攻撃力が6倍。
+EN: 6x ATK when matching 4 or more colors
+KR: 6x ATK when matching 4 or more colors
+

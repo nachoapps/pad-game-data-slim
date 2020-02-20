@@ -1,0 +1,20 @@
+#5979 地守龍の騎士団長・リータ
+HP: 4868 ATK: 2510 RCV: 648 LB: 0
+AWK: 51,10,10,43,69,53,53,37,38
+SAWK: 
+
+# 16262/116 - セイクリッドフォーム
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE
+Game: 3ターンの間、受けるダメージを軽減。 3ターンの間、神とバランスタイプの攻撃力が1.5倍。
+JP: 3ターンの間、受けるダメージを35％減少。3ターンの間、バランスと神タイプの攻撃力が1.5倍
+EN: For 3 turns, reduce damage taken by 35%; For 3 turns, 1.5x ATK for Balanced and God types
+KR: For 3 turns, reduce damage taken by 35%; For 3 turns, 1.5x ATK for Balanced and God types
+
+# 16265/138 - グラオルの共感
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,NO_SKYFALL_COMBOS
+Stats: [1.0, 20.0, 1.0, 0.5]
+Game: 【落ちコンなし】4色以上同時攻撃でダメージ半減、固定1ダメージ。 パズル後の残りドロップ数が6個以下で攻撃力が20倍。
+JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が20倍。4色以上同時攻撃で受けるダメージを50％減少。4色以上同時攻撃、固定1ダメージ。
+EN: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
+KR: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
+

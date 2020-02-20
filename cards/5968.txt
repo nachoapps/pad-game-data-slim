@@ -1,0 +1,20 @@
+#5968 兎人の武闘家・ディーナ
+HP: 2083 ATK: 1955 RCV: 308 LB: 0
+AWK: 28,48,48,53
+SAWK: 
+
+# 16206/116 - 神器宿装・ジンド
+Tags: EXTENDS_TIME
+Game: 10ターンの間、ドロップ操作を1秒延長。 氷戒龍の武闘家・ディーナに変身。
+JP: 10ターンの間、ドロップ操作時間が1秒に延長。[5969]に変身する
+EN: For 10 turns, increase orb move time by 1 second; Changes to [5969] for the duration of the dungeon
+KR: For 10 turns, increase orb move time by 1 second; Changes to [5969] for the duration of the dungeon
+
+# 16209/66 - 我道の貫徹
+Tags: ENHANCED_ATK
+Stats: [1, 5.0, 1, 0]
+Game: 7コンボ以上で攻撃力が5倍。
+JP: 7コンボ以上で攻撃力が5倍。
+EN: 5x ATK when 7 or more combos
+KR: 5x ATK when 7 or more combos
+

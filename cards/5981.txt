@@ -1,0 +1,20 @@
+#5981 爆昂龍の狂戦士・ドゥバル
+HP: 5273 ATK: 3423 RCV: 0 LB: 0
+AWK: 52,68,27,27,27,27,28,48,48
+SAWK: 
+
+# 16272/116 - フューリーエッジ
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
+Game: 左端縦1列を火ドロップに変化。 1ターンの間、体力とドラゴンタイプの攻撃力が2倍。
+JP: 最左端を火ドロップに変化。1ターンの間、体力とドラゴンタイプの攻撃力が2倍
+EN: Change the far left column to Fire orbs; For 1 turn, 2x ATK for Physical and Dragon types
+KR: Change the far left column to Fire orbs; For 1 turn, 2x ATK for Physical and Dragon types
+
+# 16275/138 - 本能の昂揚
+Tags: ENHANCED_ATK
+Stats: [1.0, 22.5, 1.0, 0.0]
+Game: 体力とドラゴンタイプの攻撃力が5倍。 火を4個以上つなげて消すと、攻撃力が4.5倍。
+JP: 体力とドラゴンタイプの攻撃力が5倍。火を4個以上つなげて消すと攻撃力が4.5倍。
+EN: 5x ATK for Physical and Dragon type; 4.5x ATK when matching 4 or more connected Fire orbs
+KR: 5x ATK for Physical and Dragon type; 4.5x ATK when matching 4 or more connected Fire orbs
+

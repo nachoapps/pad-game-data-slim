@@ -1,0 +1,20 @@
+#5998 銀遊龍の道化師・チェニ
+HP: 4023 ATK: 2155 RCV: 518 LB: 0
+AWK: 19,19,32,18,18,18,18,18,60
+SAWK: 
+
+# 16344/141 - ダークフラグメント
+Tags: 
+Game: ランダムで闇ドロップを3個生成。
+JP: 闇ドロップを3個生成
+EN: Create 3 Dark orbs
+KR: Create 3 Dark orbs
+
+# 16347/138 - ディグの共感
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0]
+Game: 強化ドロップを含めて5個消した属性の攻撃力が15倍。 悪魔タイプのHPが2倍。ドロップ操作を2秒延長。
+JP: 強化ドロップを含めてを5個消した属性の攻撃力が15倍。悪魔タイプのHPが2倍。ドロップ操作時間を2秒延長。
+EN: 15x ATK for matched Att. when matching 5 Orbs with 1+ enhanced; 2x HP for Devil type; Increase orb movement time by 2 seconds
+KR: 15x ATK for matched Att. when matching 5 Orbs with 1+ enhanced; 2x HP for Devil type; Increase orb movement time by 2 seconds
+

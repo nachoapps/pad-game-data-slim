@@ -84837,310 +84837,310 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16960/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16960/92 - ジェルンアタック
+JP: 水ドロップを1個生成
+EN: Spawn 1 random Water orb
+KR: Spawn 1 random Water orb
 
-# 16961/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16961/92 - 溶ける
+JP: 水ドロップを2個生成
+EN: Spawn 2 random Water orbs
+KR: Spawn 2 random Water orbs
 
-# 16962/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16962/7 - 吸収
+JP: 敵のHPが10％回復
+EN: Enemy recover 10% HP
+KR: Enemy recover 10% HP
 
-# 16963/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16963/1 - ウォーターファング
+JP: 1ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 1 turn
+KR: Bind 1 random card for 1 turn
 
-# 16964/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16964/15 - ジェルンシュート
+JP: 120%ダメージ (3連続攻撃、40%ごと)
+EN: Deal 120% damage (3 hits, 40% each)
+KR: Deal 120% damage (3 hits, 40% each)
 
-# 16965/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16965/92 - ジェルンアタック
+JP: 光ドロップを1個生成
+EN: Spawn 1 random Light orb
+KR: Spawn 1 random Light orb
 
-# 16966/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16966/92 - 溶ける
+JP: 光ドロップを2個生成
+EN: Spawn 2 random Light orbs
+KR: Spawn 2 random Light orbs
 
-# 16967/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16967/7 - 吸収
+JP: 敵のHPが10％回復
+EN: Enemy recover 10% HP
+KR: Enemy recover 10% HP
 
-# 16968/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16968/94 - フラッシュニードル
+JP: ランダムで2個ドロップをロック
+EN: Lock 2 random orbs
+KR: Lock 2 random orbs
 
-# 16969/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16969/15 - ジェルンクラッシュ
+JP: 120%ダメージ
+EN: Deal 120% damage
+KR: Deal 120% damage
 
-# 16970/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16970/68 - べノムレイン
+JP: 5ターンの間、毒ドロップを+10%に落ちてくる
+EN: Poison skyfall +10% for 5 turns
+KR: Poison skyfall +10% for 5 turns
 
-# 16971/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16971/50 - 暗殺の心得
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
 
-# 16972/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16972/15 - デススティング
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
-# 16973/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16973/57 - ポイズンショット
+JP: ランダム属性のドロップを毒ドロップに変化
+EN: Change a random attribute to Poison orbs
+KR: Change a random attribute to Poison orbs
 
-# 16974/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16974/1 - シェイドバインド
+JP: 3ターンの間、ランダムで2体がバインド
+EN: Bind 2 random cards for 3 turns
+KR: Bind 2 random cards for 3 turns
 
-# 16975/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16975/15 - アサルトナイフ
+JP: 120%ダメージ (6連続攻撃、20%ごと)
+EN: Deal 120% damage (6 hits, 20% each)
+KR: Deal 120% damage (6 hits, 20% each)
 
-# 16976/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16976/104 - ペインフォッグ
+JP: 4ターンの間、ランダムでの2×2マスの正方形を雲で隠す
+EN: A 2×2 square of clouds appears for 4 turns at a random location
+KR: A 2×2 square of clouds appears for 4 turns at a random location
 
-# 16977/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16977/67 - フレイムウォール
+JP: 5ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 5 turns
+KR: Absorb damage when combos <= 5 for 5 turns
 
-# 16978/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16978/92 - 火炎棍
+JP: 火ドロップを4個生成
+EN: Spawn 4 random Fire orbs
+KR: Spawn 4 random Fire orbs
 
-# 16979/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16979/15 - ぶん殴る
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
 
-# 16980/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16980/79 - バーニングブロウ
+JP: 左から4列目のドロップが火ドロップに変化
+EN: Change the 4th row to Fire orbs
+KR: Change the 4th row to Fire orbs
 
-# 16981/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16981/17 - 武器を振り上げた
+JP: 1ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 1 turn
+KR: Increase damage to 300% for the next 1 turn
 
-# 16982/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16982/15 - モーニングスター
+JP: 135%ダメージ
+EN: Deal 135% damage
+KR: Deal 135% damage
 
-# 16983/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16983/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 16984/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16984/94 - チェインロック
+JP: ランダムで6個ドロップをロック
+EN: Lock 6 random orbs
+KR: Lock 6 random orbs
 
-# 16985/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16985/104 - ガスティークラウド
+JP: 1ターンの間、ランダムでの1×7マスの長方形を雲で隠す
+EN: A 1×7 rectangle of clouds appears for 1 turn at a random location
+KR: A 1×7 rectangle of clouds appears for 1 turn at a random location
 
-# 16986/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16986/39 - タイムバック
+JP: 4ターンの間、操作時間-2秒
+EN: Movetime -2s for 4 turns
+KR: Movetime -2s for 4 turns
 
-# 16987/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16987/79 - ウインドエッジ
+JP: 左から2列目のドロップが木ドロップに変化
+EN: Change the 2nd row to Wood orbs
+KR: Change the 2nd row to Wood orbs
 
-# 16988/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16988/17 - 魔術を唱えている
+JP: 1ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 1 turn
+KR: Increase damage to 300% for the next 1 turn
 
-# 16989/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16989/62 - ブラックサイクロン
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
-# 16990/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16990/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 16991/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16991/20 - ジェスターロード
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 16992/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16992/66 - チェニは不気味に笑っている…
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 16993/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16993/53 - ミステリアスオーラ
+JP: 5ターンの間、光属性のダメージを吸収
+EN: Absorb Light damage for 5 turns
+KR: Absorb Light damage for 5 turns
 
-# 16994/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16994/15 - ムーブジャグリング
+JP: 102%ダメージ (2連続攻撃、51%ごと)
+EN: Deal 102% damage (2 hits, 51% each)
+KR: Deal 102% damage (2 hits, 51% each)
 
-# 16995/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16995/75 - ダイナミックイリュージョン
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
 
-# 16996/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16996/97 - ブラックアート
+JP: 1ターンの間、ランダムで3個のドロップを超暗闇にする
+EN: Blind random 3 orbs for 1 turn
+KR: Blind random 3 orbs for 1 turn
 
-# 16997/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16997/15 - 心無い冷笑
+JP: 240%ダメージ (4連続攻撃、60%ごと)
+EN: Deal 240% damage (4 hits, 60% each)
+KR: Deal 240% damage (4 hits, 60% each)
 
-# 16998/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16998/74 - ディグソウル
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
 
-# 16999/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16999/69 - 道化師変身
+JP: 「チェニの姿が変化していく|真の姿を現した！」を表示
+EN: Show message: チェニの姿が変化していく|真の姿を現した！
+KR: Show message: チェニの姿が変化していく|真の姿を現した！
 
-# 17000/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17000/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 17001/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17001/71 - 混沌結界
+JP: 3ターンの間、2000000以上のダメージを無効化
+EN: Void damage >= 2000000 for 3 turns
+KR: Void damage >= 2000000 for 3 turns
 
-# 17002/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17002/92 - カオスインフェルノ
+JP: 火と闇ドロップを3個生成
+EN: Spawn 3 random Fire or Dark orbs
+KR: Spawn 3 random Fire or Dark orbs
 
-# 17003/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17003/50 - 魔王の威圧
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
 
-# 17004/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17004/14 - 邪龍の咆哮
+JP: 5ターンの間、スキル使用不可
+EN: Bind active skills for 5 turns
+KR: Bind active skills for 5 turns
 
-# 17005/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17005/17 - 紫球の邪力
+JP: 5ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 5 turns
+KR: Increase damage to 200% for the next 5 turns
 
-# 17006/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17006/79 - イビルスターフレイム
+JP: 左から1列目のドロップが光ドロップに変化。左から5列目のドロップが闇ドロップに変化
+EN: Change the 1st row to Light orbs and the 5th row to Dark orbs
+KR: Change the 1st row to Light orbs and the 5th row to Dark orbs
 
-# 17007/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17007/15 - ワールドカタストロフ
+JP: 180%ダメージ (6連続攻撃、30%ごと)
+EN: Deal 180% damage (6 hits, 30% each)
+KR: Deal 180% damage (6 hits, 30% each)
 
-# 17008/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17008/66 - ぐああぁあぁぁぁ……！
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17009/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17009/95 - 死亡時
+JP: 
+EN: 
+KR: 
 
-# 17010/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17010/83 - ＿中級先制
+JP: 
+EN: 
+KR: 
 
-# 17011/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17011/66 - 混沌結界
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17012/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17012/66 - 魔王の威圧
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17013/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17013/52 - リバイブ
+JP: 敵の仲間のHPが50％回復
+EN: Enemy ally recover 50% HP
+KR: Enemy ally recover 50% HP
 
-# 17014/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17014/118 - バランス神半減
+JP: バランスと神タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from Balanced and God types by 50%
+KR: Reduce damage from Balanced and God types by 50%
 
-# 17015/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17015/118 - 回復攻撃半減
+JP: 回復と攻撃タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from Healer and Attacker types by 50%
+KR: Reduce damage from Healer and Attacker types by 50%
 
-# 17016/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17016/118 - ドラゴン悪魔半減
+JP: ドラゴンと悪魔タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from Dragon and Devil types by 50%
+KR: Reduce damage from Dragon and Devil types by 50%
 
-# 17017/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17017/67 - フレイムウォール
+JP: 5ターンの間、3コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 3 for 5 turns
+KR: Absorb damage when combos <= 3 for 5 turns
 
-# 17018/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17018/46 - 突然変異
+JP: 自分の属性が{}のうちいずれかに変化する火、木、闇
+EN: Change own attribute to random one of Fire, Wood, or Dark
+KR: Change own attribute to random one of Fire, Wood, or Dark
 
-# 17019/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17019/88 - ゾーク・ナイトメア
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
 
-# 17020/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17020/66 - チェニは不気味に笑っている…
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
 # 17021/0 - なし
 JP: nothing

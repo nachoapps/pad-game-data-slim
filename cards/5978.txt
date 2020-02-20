@@ -1,0 +1,20 @@
+#5978 高貴の騎士団長・リータ
+HP: 2438 ATK: 1310 RCV: 288 LB: 0
+AWK: 53,10,10,43
+SAWK: 
+
+# 16255/116 - 神器宿装・グラオル
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Game: 全ドロップのロックを解除し、5属性＋回復ドロップに変化。 地守龍の騎士団長・リータに変身。
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。[5979]に変身する
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Changes to [5979] for the duration of the dungeon
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Changes to [5979] for the duration of the dungeon
+
+# 16259/138 - 統率の信念
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Stats: [1.0, 9.0, 1.0, 0]
+Game: 【落ちコンなし】4色以上同時攻撃で攻撃力が3倍。 パズル後の残りドロップ数が6個以下で攻撃力が3倍。
+JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が3倍。4色以上同時攻撃で攻撃力が3倍。
+EN: [No skyfall] 3x ATK when there are 6 or fewer orbs remaining; 3x ATK when matching 4 or more colors
+KR: [No skyfall] 3x ATK when there are 6 or fewer orbs remaining; 3x ATK when matching 4 or more colors
+

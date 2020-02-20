@@ -1,0 +1,20 @@
+#5975 魔滅龍の魔法使い・エレメイ
+HP: 5235 ATK: 3445 RCV: 573 LB: 0
+AWK: 52,28,53,53,60,55,48,48,48
+SAWK: 
+
+# 16239/116 - ブラックライトゾーン
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ORB_LOCK
+Game: 1ターンの間、回復力と闇属性の攻撃力が3倍。 闇ドロップをロック。
+JP: 1ターンの間、回復力が3倍。1ターンの間、闇属性の攻撃力が3倍。闇ドロップをロック
+EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
+KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
+
+# 16243/138 - 深淵の葛藤
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 16.0, 1.0, 0]
+Game: 闇属性のHPと攻撃力が2倍。ドロップ操作を4秒延長。 光闇の同時攻撃で攻撃力が8倍、1コンボ加算。
+JP: 闇属性のHPと攻撃力が2倍。ドロップ操作時間を4秒延長。光、闇同時攻撃で攻撃力が8倍、1コンボ加算。
+EN: 2x HP & ATK for Dark Att.; Increase orb movement time by 4 seconds; 8x ATK and increase combo by 1 when matching Light and Dark at once
+KR: 2x HP & ATK for Dark Att.; Increase orb movement time by 4 seconds; 8x ATK and increase combo by 1 when matching Light and Dark at once
+

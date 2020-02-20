@@ -1,0 +1,20 @@
+#5989 迅援龍の薬師・リシェイラ
+HP: 4008 ATK: 2263 RCV: 460 LB: 0
+AWK: 52,28,28,19,69,47,47,47,47
+SAWK: 
+
+# 16319/116 - ブライトポーション
+Tags: ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を5ターン回復。 全ドロップを木、光、回復ドロップに変化。
+JP: 覚醒無効を5ターン回復。全ドロップを木、光、回復ドロップに変化
+EN: Reduce awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Heal orbs
+KR: Reduce awoken skill binds by 5 turns; Change all orbs to Wood, Light, and Heal orbs
+
+# 16322/138 - 秘薬の追求
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.5]
+Game: 回復の5個十字消しでダメージを半減、攻撃力が4倍。 木光の同時攻撃で攻撃力が4倍、1コンボ加算。
+JP: 回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。木、光同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK and increase combo by 1 when matching Wood and Light at once
+KR: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK and increase combo by 1 when matching Wood and Light at once
+
