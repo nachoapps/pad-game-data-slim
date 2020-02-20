@@ -6,9 +6,9 @@ SAWK: 43,47,53,32
 # 16032/116 - トゥインクルスノー
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左端縦1列を水ドロップに変化。水ドロップをロック。 10ターンの間、水ドロップがロック状態で落ちてくる。
-JP: 最左端を水ドロップに変化。水ドロップをロック
-EN: Change the far left column to Water orbs; Lock Water orbs
-KR: Change the far left column to Water orbs; Lock Water orbs
+JP: 最左端を水ドロップに変化。水ドロップをロック。10ターンの間、水ドロップがロック状態で落ちてくる
+EN: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
+KR: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
 
 # 16036/138 - 氷晶の恵み
 Tags: ENHANCED_HP_ATK,EXTEND_TIME

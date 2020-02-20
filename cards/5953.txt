@@ -6,9 +6,9 @@ SAWK: 43,48,53,33
 # 16009/116 - 風縛変化の術
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
 Game: 水ドロップを木に、光ドロップを火に変化。木ドロップをロック。 10ターンの間、木ドロップがロック状態で落ちてくる。
-JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック
-EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
-KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
+JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック。10ターンの間、木ドロップがロック状態で落ちてくる
+EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
+KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
 
 # 16013/138 - 極現の忍道
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK

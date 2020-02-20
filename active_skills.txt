@@ -43172,9 +43172,9 @@ KR: Changes to [5946] for the duration of the dungeon
 # 16009/116 - 風縛変化の術
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
 Game: 水ドロップを木に、光ドロップを火に変化。木ドロップをロック。 10ターンの間、木ドロップがロック状態で落ちてくる。
-JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック
-EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
-KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs
+JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック。10ターンの間、木ドロップがロック状態で落ちてくる
+EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
+KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
 
 # 16010/20 - 
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -43189,6 +43189,13 @@ Game:
 JP: 木ドロップをロック
 EN: Lock Wood orbs
 KR: Lock Wood orbs
+
+# 16012/205 - 
+Tags: 
+Game: 
+JP: 10ターンの間、木ドロップがロック状態で落ちてくる
+EN: For 10 turns, Wood orbs appear locked
+KR: For 10 turns, Wood orbs appear locked
 
 # 16018/116 - オーバーフレイム
 Tags: REDUCE_DAMAGE
@@ -43221,9 +43228,9 @@ KR: Change the bottom row to Fire orbs
 # 16025/116 - ラーヴァグランツ
 Tags: ORB_CONVERT,ORB_LOCK
 Game: 光と闇ドロップを火ドロップに変化。火ドロップをロック。 10ターンの間、火ドロップがロック状態で落ちてくる。
-JP: 光と闇ドロップを火ドロップに変化。火ドロップをロック
-EN: Change Light and Dark orbs to Fire orbs; Lock Fire orbs
-KR: Change Light and Dark orbs to Fire orbs; Lock Fire orbs
+JP: 光と闇ドロップを火ドロップに変化。火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
+EN: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
+KR: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
 
 # 16026/154 - 
 Tags: ORB_CONVERT
@@ -43232,12 +43239,19 @@ JP: 光と闇ドロップを火ドロップに変化
 EN: Change Light and Dark orbs to Fire orbs
 KR: Change Light and Dark orbs to Fire orbs
 
+# 16027/205 - 
+Tags: 
+Game: 
+JP: 10ターンの間、火ドロップがロック状態で落ちてくる
+EN: For 10 turns, Fire orbs appear locked
+KR: For 10 turns, Fire orbs appear locked
+
 # 16032/116 - トゥインクルスノー
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左端縦1列を水ドロップに変化。水ドロップをロック。 10ターンの間、水ドロップがロック状態で落ちてくる。
-JP: 最左端を水ドロップに変化。水ドロップをロック
-EN: Change the far left column to Water orbs; Lock Water orbs
-KR: Change the far left column to Water orbs; Lock Water orbs
+JP: 最左端を水ドロップに変化。水ドロップをロック。10ターンの間、水ドロップがロック状態で落ちてくる
+EN: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
+KR: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
 
 # 16033/127 - 
 Tags: LINE_ORBS_CONVERTER
@@ -43253,12 +43267,26 @@ JP: 水ドロップをロック
 EN: Lock Water orbs
 KR: Lock Water orbs
 
+# 16035/205 - 
+Tags: 
+Game: 
+JP: 10ターンの間、水ドロップがロック状態で落ちてくる
+EN: For 10 turns, Water orbs appear locked
+KR: For 10 turns, Water orbs appear locked
+
 # 16039/116 - ヒーリングヘイル
 Tags: 
 Game: 水以外のドロップから回復ドロップを2個生成。 2ターンの間、回復ドロップがロック状態で落ちてくる。
-JP: 水以外回復ドロップを2個生成
-EN: Create 2 Heal orbs over non Water orbs
-KR: Create 2 Heal orbs over non Water orbs
+JP: 水以外回復ドロップを2個生成。2ターンの間、回復ドロップがロック状態で落ちてくる
+EN: Create 2 Heal orbs over non Water orbs; For 2 turns, Heal orbs appear locked
+KR: Create 2 Heal orbs over non Water orbs; For 2 turns, Heal orbs appear locked
+
+# 16040/205 - 
+Tags: 
+Game: 
+JP: 2ターンの間、回復ドロップがロック状態で落ちてくる
+EN: For 2 turns, Heal orbs appear locked
+KR: For 2 turns, Heal orbs appear locked
 
 # 16041/141 - 
 Tags: 
@@ -44376,9 +44404,9 @@ KR: Lock all orbs
 # 16361/127 - サンダーライン
 Tags: LINE_ORBS_CONVERTER
 Game: 左端縦2列と右端縦2列を、 ランダムで光とお邪魔ドロップに変化。
-JP: 最左端と左から2列目と右から2列目と最右端を光ドロップに変化
-EN: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
-KR: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
+JP: 最左端と左から2列目と右から2列目と最右端を光とお邪魔ドロップに変化
+EN: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light and Jammer orbs
+KR: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light and Jammer orbs
 
 # 16362/42 - 
 Tags: ATTRIBUTE_ATTACK
@@ -44397,9 +44425,9 @@ KR: Change the 2nd column from the left and the 2nd column from the right to Lig
 # 16372/127 - ウォーターバイト
 Tags: LINE_ORBS_CONVERTER
 Game: 両端縦1列を、ランダムで水と回復ドロップに変化。
-JP: 最左端と最右端を水ドロップに変化
-EN: Change the far left column and the far right column to Water orbs
-KR: Change the far left column and the far right column to Water orbs
+JP: 最左端と最右端を水と回復ドロップに変化
+EN: Change the far left column and the far right column to Water and Heal orbs
+KR: Change the far left column and the far right column to Water and Heal orbs
 
 # 16373/152 - フラッシュニードル
 Tags: ORB_LOCK

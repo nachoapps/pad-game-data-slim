@@ -6,9 +6,9 @@ SAWK: 52,43,41
 # 16361/127 - サンダーライン
 Tags: LINE_ORBS_CONVERTER
 Game: 左端縦2列と右端縦2列を、 ランダムで光とお邪魔ドロップに変化。
-JP: 最左端と左から2列目と右から2列目と最右端を光ドロップに変化
-EN: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
-KR: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light orbs
+JP: 最左端と左から2列目と右から2列目と最右端を光とお邪魔ドロップに変化
+EN: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light and Jammer orbs
+KR: Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Light and Jammer orbs
 
 # 16364/138 - 黄電の龍角
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6,NO_SKYFALL_COMBOS
