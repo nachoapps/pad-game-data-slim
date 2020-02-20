@@ -8,9 +8,9 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16351:76) ドットチェンジ・水
+ | (16351:76) Pixel Change - Water
  | Change the 3rd and 4th columns to Water orbs
  group:
  | condition: 50% chance
- | (16352:92) ドットストライク・水
+ | (16352:92) Pixel Strike - Water
  | Spawn 1 random Water orb, Deal 130% damage
