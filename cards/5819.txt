@@ -1,4 +1,4 @@
-#5819 リーリア
+#5819 Lilia
 HP: 3148 ATK: 2403 RCV: 638 LB: 25
 AWK: 52,21,28,19,24,24,24,48,48
 SAWK: 48,53,43
@@ -10,7 +10,7 @@ JP: 1ターンの間、1コンボ加算される。全ドロップをロック
 EN: For 1 turn, increase combo count by 1; Lock all orbs
 KR: For 1 turn, increase combo count by 1; Lock all orbs
 
-# 15658/138 - The wind whispers to me...fight!
+# 15658/138 - The wind speaks. It tells me...to fight!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 20.0, 1.0, 0.25]
 Game: 1.5x HP for Wd Att., ATK increases with 4+ combos, up to 20x; adds 1 combo & reduces dmg with 6+ linked Wood Orbs

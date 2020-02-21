@@ -66287,7 +66287,7 @@ JP: 木を6個以上つなげて消すと受けるダメージを25％減少。
 EN: Reduce damage taken by 25% when matching 6 or more connected Wood orbs
 KR: Reduce damage taken by 25% when matching 6 or more connected Wood orbs
 
-# 15658/138 - The wind whispers to me...fight!
+# 15658/138 - The wind speaks. It tells me...to fight!
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 20.0, 1.0, 0.25]
 Game: 1.5x HP for Wd Att., ATK increases with 4+ combos, up to 20x; adds 1 combo & reduces dmg with 6+ linked Wood Orbs
@@ -66319,7 +66319,7 @@ JP: 木を6個以上つなげて消しと、1コンボ加算。
 EN: Increase combo by 1 when matching 6 or more connected Wood orbs at once
 KR: Increase combo by 1 when matching 6 or more connected Wood orbs at once
 
-# 15665/138 - The wind is omniscient
+# 15665/138 - The wind knows all.
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 1.0, 0.0]
 Game: 2x HP for Wood Att., ATK increases with 4+ combos, up to 20x; inflicts 1 damage with 9+ linked Wood Orbs

@@ -41790,9 +41790,9 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 15662/116 - Furious Windstorm
+# 15662/116 - Raging Tempest
 Tags: ORB_CONVERT,ORB_LOCK
-Game: Changes Water, Jammers & Poison to Wood Orbs; Wood Orbs locked
+Game: Changes Water, Poison & Jammers to Wood Orbs; Wood Orbs locked
 JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化。木ドロップをロック
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
@@ -41811,14 +41811,14 @@ JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
-# 15669/152 - Fascination
+# 15669/152 - Beguile
 Tags: ORB_LOCK
 Game: Fire & Heal Orbs locked
 JP: 火と回復ドロップをロック
 EN: Lock Fire and Heal orbs
 KR: Lock Fire and Heal orbs
 
-# 15670/116 - Death Evoker
+# 15670/116 - Bearer of the Slain
 Tags: HEAL,DROP_CHANCE
 Game: Poison Orbs more likely to appear for 1 turn; recovers 30% of max HP for 2 turns
 JP: 1ターンの間、毒が20％の確率で落ちてくる。2ターンの間、最大HPの30％分回復
@@ -41839,49 +41839,49 @@ JP: 2ターンの間、最大HPの30％分回復
 EN: For 2 turns, recover 30% of max HP
 KR: For 2 turns, recover 30% of max HP
 
-# 15673/156 - Seimei's Divination
+# 15673/156 - Elemental Astrology
 Tags: ENHANCED_ATTACK
-Game: ATK increases by 100% for each [Resistance-Immobility] Awoken Skills in team for 1 turn
+Game: ATK increases by 100% for each [Resistance-Immobility] Awoken Skill in team for 1 turn
 JP: チーム内の操作不可耐性の覚醒数1つにつき攻撃力が100％上がる
 EN: For 1 turn, increase ATK by 100% for each Resistance-Immobility awakening skill on the team
 KR: For 1 turn, increase ATK by 100% for each Resistance-Immobility awakening skill on the team
 
-# 15674/50 - White Hare's Oracle
+# 15674/50 - The White Hare's Message
 Tags: ENHANCED_ATTACK
 Game: 2x ATK for Fire Att. for 3 turns
 JP: 3ターンの間、火属性の攻撃力が2倍
 EN: For 3 turns, 2x ATK for Fire Att.
 KR: For 3 turns, 2x ATK for Fire Att.
 
-# 15675/3 - Sturdy Mighty Shield
+# 15675/3 - Solid Bulwark
 Tags: REDUCE_DAMAGE
 Game: Halves damage for 1 turn
 JP: 1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, reduce damage taken by 50%
 
-# 15676/126 - Budding of the Earth
+# 15676/126 - Budbreak
 Tags: DROP_CHANCE
 Game: Heal Orbs more likely to appear for 5 turns
 JP: 5ターンの間、回復ドロップが15％落ちやすくなる
 EN: For 5 turns, Heal orbs are more likely to appear by 15%
 KR: For 5 turns, Heal orbs are more likely to appear by 15%
 
-# 15677/180 - Spirit Power
+# 15677/180 - Fae Power
 Tags: 
 Game: 50% chance of Enhanced Orbs appearing for 5 turns
 JP: 5ターンの間、強化ドロップを50％の確率で落ちてくる
 EN: For 5 turns, enhanced orbs are more likely to appear by 50%
 KR: For 5 turns, enhanced orbs are more likely to appear by 50%
 
-# 15678/19 - Exorcising Method
+# 15678/19 - Dispelling Breath
 Tags: REDUCE_DEFENSE
 Game: Voids enemies' DEF for 1 turn
 JP: 1ターンの間、敵の防御力が100％下がる
 EN: For 1 turn, reduce enemies' defense by 100%
 KR: For 1 turn, reduce enemies' defense by 100%
 
-# 15679/117 - Faint Hope
+# 15679/117 - Glimmer of Hope
 Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status (incl. Awoken) by 5 turns
 JP: バインドと覚醒無効を5ターン回復

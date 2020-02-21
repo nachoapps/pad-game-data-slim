@@ -1,9 +1,9 @@
-#5839 金剛力士のカード
+#5839 Guardian Deva Card
 HP: 2305 ATK: 343 RCV: 0 LB: 0
 AWK: 49,11,13,7,1
 SAWK: 
 
-# 15678/19 - Exorcising Method
+# 15678/19 - Dispelling Breath
 Tags: REDUCE_DEFENSE
 Game: Voids enemies' DEF for 1 turn
 JP: 1ターンの間、敵の防御力が100％下がる
