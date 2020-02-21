@@ -1,0 +1,40 @@
+#5993 - イエロージェルン
+monster size: 2
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 5993
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (17014:118) バランス神半減
+ | Reduce damage from Balanced and God types by 50%
+
+level: 4
+ type: PASSIVE
+ | (17014:118) バランス神半減
+ | Reduce damage from Balanced and God types by 50%
+ type: PREEMPT
+ | condition: 25% chance
+ | (17018:46) 突然変異
+ | Change own attribute to random one of Fire, Wood, or Dark
+ group:
+ | group:
+   | condition: 10% chance
+   | (16967:7) 吸収
+   | Enemy recover 10% HP, Deal 100% damage
+   | condition: 40% chance
+   | (16968:94) フラッシュニードル
+   | Lock 2 random orbs, Deal 100% damage
+   | (16965:92) ジェルンアタック
+   | Spawn 1 random Light orb, Deal 98% damage
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 1
+     | (16966:92) 溶ける
+     | Spawn 2 random Light orbs
+   | group:
+     | (16969:15) ジェルンクラッシュ
+     | Deal 120% damage
