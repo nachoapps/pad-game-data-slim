@@ -36,7 +36,7 @@ level: 1
    | (13833:15) Double Slap
    | Deal 105% damage (3 hits, 35% each)
    | condition: 50% chance
-   | (13834:63) Shadow Shackler
+   | (13834:63) Shadow Bind
    | Bind friend leader for 2 turns, Deal 100% damage
  | group:
  | condition: hp <= 19

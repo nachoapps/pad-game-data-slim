@@ -46,7 +46,7 @@ Change 2 random orb types to Jammer orbs, Deal 80% damage
 Condition: 50% chance (ai:0 rnd:50)
 Deal 105% damage (3 hits, 35% each)
 
-#13: ESBindAttack(63:13834) -> Shadow Shackler
+#13: ESBindAttack(63:13834) -> Shadow Bind
 Condition: 50% chance (ai:0 rnd:50)
 Bind friend leader for 2 turns, Deal 100% damage
 
