@@ -6,9 +6,9 @@ SAWK: 46,54,53,34
 # 16025/116 - ラーヴァグランツ
 Tags: ORB_CONVERT,ORB_LOCK
 Game: 光と闇ドロップを火ドロップに変化。火ドロップをロック。 10ターンの間、火ドロップがロック状態で落ちてくる。
-JP: 光と闇ドロップを火ドロップに変化。火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
-EN: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
-KR: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
+JP: 光と闇ドロップを火ドロップに変化。全火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
+EN: Change Light and Dark orbs to Fire orbs; Lock all Fire orbs; For 10 turns, Fire orbs appear locked
+KR: Change Light and Dark orbs to Fire orbs; Lock all Fire orbs; For 10 turns, Fire orbs appear locked
 
 # 16028/138 - 機神帝の灼拳
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK

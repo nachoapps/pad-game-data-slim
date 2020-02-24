@@ -6,9 +6,9 @@ SAWK: 54,57,59
 # 11597/116 - Abyss Darksphere
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,ORB_LOCK
 Game: Removes Orb locks, changes all Orbs to Water & Dark Orbs; Water Orbs locked
-JP: 全ドロップのロック状態を解除。全ドロップを水と闇ドロップに変化。水ドロップをロック
-EN: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock Water orbs
-KR: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock Water orbs
+JP: 全ドロップのロック状態を解除。全ドロップを水と闇ドロップに変化。全水ドロップをロック
+EN: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock all Water orbs
+KR: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock all Water orbs
 
 # 11601/138 - Eternal Dragon Union - Toa
 Tags: ENHANCED_HP_ATK,EXTEND_TIME

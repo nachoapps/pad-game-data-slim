@@ -10627,9 +10627,9 @@ KR: Enhance all Dark orbs
 # 3322/116 - Freeze Lock
 Tags: ORB_LOCK
 Game: Creates 3 Water and Dark Orbs each at random; Water & Dark Orbs locked
-JP: ランダムで水と闇を3個ずつ生成。水と闇ドロップをロック
-EN: Create 3 Water and Dark orbs; Lock Water and Dark orbs
-KR: Create 3 Water and Dark orbs; Lock Water and Dark orbs
+JP: ランダムで水と闇を3個ずつ生成。全水と闇ドロップをロック
+EN: Create 3 Water and Dark orbs; Lock all Water and Dark orbs
+KR: Create 3 Water and Dark orbs; Lock all Water and Dark orbs
 
 # 3323/141 - 
 Tags: 
@@ -10641,9 +10641,9 @@ KR: Create 3 Water and Dark orbs
 # 3324/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水と闇ドロップをロック
-EN: Lock Water and Dark orbs
-KR: Lock Water and Dark orbs
+JP: 全水と闇ドロップをロック
+EN: Lock all Water and Dark orbs
+KR: Lock all Water and Dark orbs
 
 # 3325/116 - The 6 Wings Legend
 Tags: ENHANCED_HEAL
@@ -10732,9 +10732,9 @@ KR: Charge all allies' skills by 2 turns
 # 3337/116 - Freezing Zone
 Tags: ORB_LOCK
 Game: Creates 5 Water & Heal Orbs each at random; Water & Heal Orbs locked
-JP: ランダムで水と回復を5個ずつ生成。水と回復ドロップをロック
-EN: Create 5 Water and Heal orbs; Lock Water and Heal orbs
-KR: Create 5 Water and Heal orbs; Lock Water and Heal orbs
+JP: ランダムで水と回復を5個ずつ生成。全水と回復ドロップをロック
+EN: Create 5 Water and Heal orbs; Lock all Water and Heal orbs
+KR: Create 5 Water and Heal orbs; Lock all Water and Heal orbs
 
 # 3338/141 - 
 Tags: 
@@ -10746,9 +10746,9 @@ KR: Create 5 Water and Heal orbs
 # 3339/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水と回復ドロップをロック
-EN: Lock Water and Heal orbs
-KR: Lock Water and Heal orbs
+JP: 全水と回復ドロップをロック
+EN: Lock all Water and Heal orbs
+KR: Lock all Water and Heal orbs
 
 # 3340/116 - Sea Draco Summoning Circle-Wt & Wd
 Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
@@ -10795,9 +10795,9 @@ KR: Charge all allies' skills by 1 turn
 # 3346/116 - Earth Light Impact
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
 Game: Changes Dark Orbs to Wood & Fire Orbs to Light;  Wood and Light Orbs Locked
-JP: 闇ドロップを木ドロップに、火ドロップを光ドロップに変化。木と光ドロップをロック
-EN: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock Wood and Light orbs
-KR: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock Wood and Light orbs
+JP: 闇ドロップを木ドロップに、火ドロップを光ドロップに変化。全木と光ドロップをロック
+EN: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock all Wood and Light orbs
+KR: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock all Wood and Light orbs
 
 # 3347/20 - 
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -10809,9 +10809,9 @@ KR: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs
 # 3348/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木と光ドロップをロック
-EN: Lock Wood and Light orbs
-KR: Lock Wood and Light orbs
+JP: 全木と光ドロップをロック
+EN: Lock all Wood and Light orbs
+KR: Lock all Wood and Light orbs
 
 # 3349/18 - Eight-Headed Suppression
 Tags: MENACE
@@ -20679,9 +20679,9 @@ KR:
 # 8399/152 - Ancient Tri-God Mask's Discernment
 Tags: ORB_LOCK
 Game: Locks Orbs of all Attributes & Heal
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 8403/116 - Pirates without a sky.
 Tags: ORB_CONVERT
@@ -22725,9 +22725,9 @@ KR: For 1 turn, 2x ATK for Wood and Dark Att.
 # 9466/116 - The truth is cruel.
 Tags: ORB_LOCK
 Game: Creates 6 Light & Dark Orbs each at random;  Light & Dark Orbs locked
-JP: ランダムで光と闇を6個ずつ生成。光と闇ドロップをロック
-EN: Create 6 Light and Dark orbs; Lock Light and Dark orbs
-KR: Create 6 Light and Dark orbs; Lock Light and Dark orbs
+JP: ランダムで光と闇を6個ずつ生成。全光と闇ドロップをロック
+EN: Create 6 Light and Dark orbs; Lock all Light and Dark orbs
+KR: Create 6 Light and Dark orbs; Lock all Light and Dark orbs
 
 # 9467/141 - 
 Tags: 
@@ -22739,9 +22739,9 @@ KR: Create 6 Light and Dark orbs
 # 9468/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 光と闇ドロップをロック
-EN: Lock Light and Dark orbs
-KR: Lock Light and Dark orbs
+JP: 全光と闇ドロップをロック
+EN: Lock all Light and Dark orbs
+KR: Lock all Light and Dark orbs
 
 # 9475/116 - It'll take more than that to kill me!
 Tags: SINGLE_TARGET_ATTACK,HEAL,FIXED_DAMAGE
@@ -25567,9 +25567,9 @@ KR: Reduce awoken skill binds by 3 turns
 # 10483/116 - Bufu
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Jammers & Poison Orbs to Water Orbs; locks Orbs of all Attributes & Heal
-JP: お邪魔、毒、猛毒ドロップを水ドロップに変化。火、水、木、光、闇、回復ドロップをロック
-EN: Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: お邪魔、毒、猛毒ドロップを水ドロップに変化。全火、水、木、光、闇、回復ドロップをロック
+EN: Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 10484/154 - 
 Tags: ORB_CONVERT
@@ -25581,9 +25581,9 @@ KR: Change Jammer, Poison, and Mortal Poison orbs to Water orbs
 # 10485/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 10486/116 - Agidyne
 Tags: DROP_CHANCE,ADD_COMBO
@@ -25889,9 +25889,9 @@ KR: Change the bottom row to Wood orbs
 # 10593/116 - I'll leave it to all of you
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the bottom row to Light Orbs; Light Orbs Locked
-JP: 最下段を光ドロップに変化。光ドロップをロック
-EN: Change the bottom row to Light orbs; Lock Light orbs
-KR: Change the bottom row to Light orbs; Lock Light orbs
+JP: 最下段を光ドロップに変化。全光ドロップをロック
+EN: Change the bottom row to Light orbs; Lock all Light orbs
+KR: Change the bottom row to Light orbs; Lock all Light orbs
 
 # 10594/50 - 
 Tags: ENHANCED_ATTACK
@@ -25910,9 +25910,9 @@ KR: Change the bottom row to Light orbs
 # 10596/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 光ドロップをロック
-EN: Lock Light orbs
-KR: Lock Light orbs
+JP: 全光ドロップをロック
+EN: Lock all Light orbs
+KR: Lock all Light orbs
 
 # 10605/116 - I'll make a king of Brago!!!
 Tags: MENACE,DROP_CHANCE
@@ -26484,9 +26484,9 @@ KR: Poison all enemies (70x ATK)
 # 10853/116 - Mutilate
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Dark attack of 50x team's Dark ATK on all enemies; changes the top row to Dark Orbs, Dark Orbs locked
-JP: 敵全体にチームの闇属性の総攻撃力ｘ50倍の闇属性攻撃。最上段を闇ドロップに変化。闇ドロップをロック
-EN: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock Dark orbs
-KR: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock Dark orbs
+JP: 敵全体にチームの闇属性の総攻撃力ｘ50倍の闇属性攻撃。最上段を闇ドロップに変化。全闇ドロップをロック
+EN: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock all Dark orbs
+KR: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock all Dark orbs
 
 # 10854/144 - 
 Tags: MASSIVE_ATTACK
@@ -26505,9 +26505,9 @@ KR: Change the top row to Dark orbs
 # 10856/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 10860/116 - Lightning Bolt
 Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
@@ -27240,9 +27240,9 @@ KR: Change Fire, Poison, and Mortal Poison orbs to Water orbs
 # 11137/116 - Stardrive
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Water, Light & Dark Orbs; Water, Light & Dark Orbs locked
-JP: 全ドロップを水、光、闇ドロップに変化。水、光、闇ドロップをロック
-EN: Change all orbs to Water, Light, and Dark orbs; Lock Water, Light, and Dark orbs
-KR: Change all orbs to Water, Light, and Dark orbs; Lock Water, Light, and Dark orbs
+JP: 全ドロップを水、光、闇ドロップに変化。全水、光、闇ドロップをロック
+EN: Change all orbs to Water, Light, and Dark orbs; Lock all Water, Light, and Dark orbs
+KR: Change all orbs to Water, Light, and Dark orbs; Lock all Water, Light, and Dark orbs
 
 # 11138/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -27254,9 +27254,9 @@ KR: Change all orbs to Water, Light, and Dark orbs
 # 11139/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水、光、闇ドロップをロック
-EN: Lock Water, Light, and Dark orbs
-KR: Lock Water, Light, and Dark orbs
+JP: 全水、光、闇ドロップをロック
+EN: Lock all Water, Light, and Dark orbs
+KR: Lock all Water, Light, and Dark orbs
 
 # 11146/116 - Violent Ball
 Tags: REDUCE_DEFENSE,MASSIVE_ATTACK
@@ -27667,9 +27667,9 @@ KR: For 4 turns, recover 10% of max HP
 # 11270/116 - Dark Wolflord of Protection
 Tags: ENHANCED_ATTACK,ORB_CONVERT,ORB_LOCK
 Game: 1.5x ATK for Dark Att. for 2 turns; changes Water Orbs to Dark and locks Dark Orbs
-JP: 2ターンの間、闇属性の攻撃力が1.5倍。水ドロップを闇ドロップに変化。闇ドロップをロック
-EN: For 2 turns, 1.5x ATK for Dark Att.; Change Water orbs to Dark orbs; Lock Dark orbs
-KR: For 2 turns, 1.5x ATK for Dark Att.; Change Water orbs to Dark orbs; Lock Dark orbs
+JP: 2ターンの間、闇属性の攻撃力が1.5倍。水ドロップを闇ドロップに変化。全闇ドロップをロック
+EN: For 2 turns, 1.5x ATK for Dark Att.; Change Water orbs to Dark orbs; Lock all Dark orbs
+KR: For 2 turns, 1.5x ATK for Dark Att.; Change Water orbs to Dark orbs; Lock all Dark orbs
 
 # 11271/50 - 
 Tags: ENHANCED_ATTACK
@@ -27688,9 +27688,9 @@ KR: Change Water orbs to Dark orbs
 # 11273/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 11277/116 - Heart of the Warrior
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT
@@ -28185,9 +28185,9 @@ KR: For 3 turns, 2.5x RCV
 # 11447/116 - Heeeey!!
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the second row from the bottom to Wood & the bottom row to Light Orbs; Wood & Light Orbs locked
-JP: 下から2行目を木に、最下段を光ドロップに変化。木と光ドロップをロック
-EN: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock Wood and Light orbs
-KR: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock Wood and Light orbs
+JP: 下から2行目を木に、最下段を光ドロップに変化。全木と光ドロップをロック
+EN: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock all Wood and Light orbs
+KR: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock all Wood and Light orbs
 
 # 11448/128 - 
 Tags: LINE_ORBS_CONVERTER
@@ -28199,9 +28199,9 @@ KR: Change the 2nd row from the bottom to Wood orbs and change the bottom row to
 # 11449/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木と光ドロップをロック
-EN: Lock Wood and Light orbs
-KR: Lock Wood and Light orbs
+JP: 全木と光ドロップをロック
+EN: Lock all Wood and Light orbs
+KR: Lock all Wood and Light orbs
 
 # 11453/116 - This is my sukonbuuuuuu!!
 Tags: ORB_CONVERT,REMOVE_LOCK
@@ -28409,9 +28409,9 @@ KR: For 1 turn, 1.5x RCV
 # 11510/116 - Those shades are a part of me
 Tags: VOID_DAMAGE,ORB_LOCK
 Game: Voids Light Att. damage for 1 turn; locks Orbs of all Attributes & Heal
-JP: 1ターンの間、光属性の攻撃を無効化。火、水、木、光、闇、回復ドロップをロック
-EN: For 1 turn, void all Light damage; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: For 1 turn, void all Light damage; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 1ターンの間、光属性の攻撃を無効化。全火、水、木、光、闇、回復ドロップをロック
+EN: For 1 turn, void all Light damage; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 1 turn, void all Light damage; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11511/21 - 
 Tags: VOID_DAMAGE
@@ -28423,9 +28423,9 @@ KR: For 1 turn, void all Light damage
 # 11512/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11518/116 - Dancing Darkness
 Tags: ORB_CONVERT
@@ -28647,9 +28647,9 @@ KR: Unlock all orbs
 # 11597/116 - Abyss Darksphere
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,ORB_LOCK
 Game: Removes Orb locks, changes all Orbs to Water & Dark Orbs; Water Orbs locked
-JP: 全ドロップのロック状態を解除。全ドロップを水と闇ドロップに変化。水ドロップをロック
-EN: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock Water orbs
-KR: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock Water orbs
+JP: 全ドロップのロック状態を解除。全ドロップを水と闇ドロップに変化。全水ドロップをロック
+EN: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock all Water orbs
+KR: Unlock all orbs; Change all orbs to Water and Dark orbs; Lock all Water orbs
 
 # 11598/172 - 
 Tags: REMOVE_LOCK
@@ -28668,16 +28668,16 @@ KR: Change all orbs to Water and Dark orbs
 # 11600/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水ドロップをロック
-EN: Lock Water orbs
-KR: Lock Water orbs
+JP: 全水ドロップをロック
+EN: Lock all Water orbs
+KR: Lock all Water orbs
 
 # 11605/116 - Storm Lightsphere
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,ORB_LOCK
 Game: Removes Orb locks, changes all Orbs to Wood & Light Orbs; Wood Orbs locked
-JP: 全ドロップのロック状態を解除。全ドロップを木と光ドロップに変化。木ドロップをロック
-EN: Unlock all orbs; Change all orbs to Wood and Light orbs; Lock Wood orbs
-KR: Unlock all orbs; Change all orbs to Wood and Light orbs; Lock Wood orbs
+JP: 全ドロップのロック状態を解除。全ドロップを木と光ドロップに変化。全木ドロップをロック
+EN: Unlock all orbs; Change all orbs to Wood and Light orbs; Lock all Wood orbs
+KR: Unlock all orbs; Change all orbs to Wood and Light orbs; Lock all Wood orbs
 
 # 11606/172 - 
 Tags: REMOVE_LOCK
@@ -28696,9 +28696,9 @@ KR: Change all orbs to Wood and Light orbs
 # 11608/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木ドロップをロック
-EN: Lock Wood orbs
-KR: Lock Wood orbs
+JP: 全木ドロップをロック
+EN: Lock all Wood orbs
+KR: Lock all Wood orbs
 
 # 11617/116 - Corona Spiral
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT
@@ -29046,9 +29046,9 @@ KR: Change all orbs to Light, Dark, and Heal orbs
 # 11730/116 - Rising Sweets
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the top row to Dark Orbs & the bottom row to Wood Orbs; locks Orbs of all Attributes & Heal
-JP: 最上段を闇に、最下段を木ドロップに変化。火、水、木、光、闇、回復ドロップをロック
-EN: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 最上段を闇に、最下段を木ドロップに変化。全火、水、木、光、闇、回復ドロップをロック
+EN: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change the top row to Dark orbs and change the bottom row to Wood orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11731/128 - 
 Tags: LINE_ORBS_CONVERTER
@@ -29060,16 +29060,16 @@ KR: Change the top row to Dark orbs and change the bottom row to Wood orbs
 # 11732/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11736/152 - Chaos Candy
 Tags: ORB_LOCK
 Game: Locks Dark Orbs
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 11740/116 - Time Summoner & White Blade Bride
 Tags: SINGLE_TARGET_ATTACK,EXTENDS_TIME
@@ -29116,9 +29116,9 @@ KR: Change all orbs to Water, Wood, and Light orbs
 # 11750/116 - Furinkazan Stance
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Fire, Wood & Heal Orbs; Fire, Wood & Heal Orbs locked
-JP: 全ドロップを火、木、回復ドロップに変化。火、木、回復ドロップをロック
-EN: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
-KR: Change all orbs to Fire, Wood, and Heal orbs; Lock Fire, Wood, and Heal orbs
+JP: 全ドロップを火、木、回復ドロップに変化。全火、木、回復ドロップをロック
+EN: Change all orbs to Fire, Wood, and Heal orbs; Lock all Fire, Wood, and Heal orbs
+KR: Change all orbs to Fire, Wood, and Heal orbs; Lock all Fire, Wood, and Heal orbs
 
 # 11751/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -29130,9 +29130,9 @@ KR: Change all orbs to Fire, Wood, and Heal orbs
 # 11752/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、木、回復ドロップをロック
-EN: Lock Fire, Wood, and Heal orbs
-KR: Lock Fire, Wood, and Heal orbs
+JP: 全火、木、回復ドロップをロック
+EN: Lock all Fire, Wood, and Heal orbs
+KR: Lock all Fire, Wood, and Heal orbs
 
 # 11756/116 - Merciless Strike
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,VOID_DAMAGE_ABSORBS
@@ -29179,9 +29179,9 @@ KR: For 1 turn, increase combo count by 2
 # 11768/116 - Mysterious Changing Orbs
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Water & Light Orbs; Water & Light Orbs locked
-JP: 全ドロップを水と光ドロップに変化。水と光ドロップをロック
-EN: Change all orbs to Water and Light orbs; Lock Water and Light orbs
-KR: Change all orbs to Water and Light orbs; Lock Water and Light orbs
+JP: 全ドロップを水と光ドロップに変化。全水と光ドロップをロック
+EN: Change all orbs to Water and Light orbs; Lock all Water and Light orbs
+KR: Change all orbs to Water and Light orbs; Lock all Water and Light orbs
 
 # 11769/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -29193,9 +29193,9 @@ KR: Change all orbs to Water and Light orbs
 # 11770/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水と光ドロップをロック
-EN: Lock Water and Light orbs
-KR: Lock Water and Light orbs
+JP: 全水と光ドロップをロック
+EN: Lock all Water and Light orbs
+KR: Lock all Water and Light orbs
 
 # 11774/116 - Bewitched Sword of the Inviting Dusk
 Tags: POISON,VOID_SKYFALLS
@@ -29305,9 +29305,9 @@ KR: Change Wood, Poison, and Mortal Poison orbs to Dark orbs
 # 11814/116 - Will of the Orbs
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes Orbs to all Attributes & Heal; locks Orbs of all Attributes & Heal
-JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。火、水、木、光、闇、回復ドロップをロック
-EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。全火、水、木、光、闇、回復ドロップをロック
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11815/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -29319,9 +29319,9 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 # 11816/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11821/116 - Dear Words
 Tags: RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -29613,9 +29613,9 @@ KR: Reduce awoken skill binds by 3 turns
 # 11920/116 - Hey! I caught you slacking off again!
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Water & Poison Orbs to Light Orbs; Light Orbs Locked
-JP: 水、毒、猛毒ドロップを光ドロップに変化。光ドロップをロック
-EN: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
-KR: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
+JP: 水、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
+EN: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
+KR: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
 
 # 11921/154 - 
 Tags: ORB_CONVERT
@@ -29627,9 +29627,9 @@ KR: Change Water, Poison, and Mortal Poison orbs to Light orbs
 # 11922/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 光ドロップをロック
-EN: Lock Light orbs
-KR: Lock Light orbs
+JP: 全光ドロップをロック
+EN: Lock all Light orbs
+KR: Lock all Light orbs
 
 # 11926/116 - I'll be the one...to protect you!
 Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
@@ -30166,9 +30166,9 @@ KR: For 1 turn, 2x ATK for Wood Att.
 # 12087/116 - I WILL PROTECT FRIENDS
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the leftmost column to Water Orbs; Water Orbs locked
-JP: 最左端を水ドロップに変化。水ドロップをロック
-EN: Change the far left column to Water orbs; Lock Water orbs
-KR: Change the far left column to Water orbs; Lock Water orbs
+JP: 最左端を水ドロップに変化。全水ドロップをロック
+EN: Change the far left column to Water orbs; Lock all Water orbs
+KR: Change the far left column to Water orbs; Lock all Water orbs
 
 # 12088/127 - 
 Tags: LINE_ORBS_CONVERTER
@@ -30180,9 +30180,9 @@ KR: Change the far left column to Water orbs
 # 12089/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水ドロップをロック
-EN: Lock Water orbs
-KR: Lock Water orbs
+JP: 全水ドロップをロック
+EN: Lock all Water orbs
+KR: Lock all Water orbs
 
 # 12093/50 - It'll be alright!
 Tags: ENHANCED_ATTACK
@@ -30628,9 +30628,9 @@ KR: For 1 turn, 2x orb move time
 # 12259/116 - Shiny Snowdrifts
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Jammers, Fire, Dark & Poison Orbs to Water Orbs; Water Orbs locked
-JP: 火、闇、お邪魔、毒、猛毒ドロップを水ドロップに変化。水ドロップをロック
-EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Water orbs
-KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Water orbs
+JP: 火、闇、お邪魔、毒、猛毒ドロップを水ドロップに変化。全水ドロップをロック
+EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Water orbs
+KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Water orbs
 
 # 12260/154 - 
 Tags: ORB_CONVERT
@@ -30642,9 +30642,9 @@ KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs
 # 12261/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水ドロップをロック
-EN: Lock Water orbs
-KR: Lock Water orbs
+JP: 全水ドロップをロック
+EN: Lock all Water orbs
+KR: Lock all Water orbs
 
 # 12265/116 - Hao Enma-dama
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -31153,9 +31153,9 @@ KR: Change the top row to Water orbs
 # 12393/116 - No Way!
 Tags: REDUCE_DAMAGE,ORB_LOCK
 Game: Halves damage for 2 turns; locks Orbs of all Attributes & Heal
-JP: 2ターンの間、受けるダメージを50％減少。火、水、木、光、闇、回復ドロップをロック
-EN: For 2 turns, reduce damage taken by 50%; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: For 2 turns, reduce damage taken by 50%; Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 2ターンの間、受けるダメージを50％減少。全火、水、木、光、闇、回復ドロップをロック
+EN: For 2 turns, reduce damage taken by 50%; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 2 turns, reduce damage taken by 50%; Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 12394/3 - 
 Tags: REDUCE_DAMAGE
@@ -31167,9 +31167,9 @@ KR: For 2 turns, reduce damage taken by 50%
 # 12395/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇、回復ドロップをロック
-EN: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Lock Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 全火、水、木、光、闇、回復ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Lock all Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 12396/116 - Luring Eyes
 Tags: MENACE,REMOVE_LOCK
@@ -31818,16 +31818,16 @@ KR: Deal 200x ATK damage to an enemy
 # 12577/116 - Zabaniya
 Tags: ORB_LOCK
 Game: Heal Orbs locked; creates 5 Fire, Dark & Poison Orbs each at random
-JP: 回復ドロップをロック。ランダムで火、闇、毒を5個ずつ生成
-EN: Lock Heal orbs; Create 5 Fire, Dark, and Poison orbs
-KR: Lock Heal orbs; Create 5 Fire, Dark, and Poison orbs
+JP: 全回復ドロップをロック。ランダムで火、闇、毒を5個ずつ生成
+EN: Lock all Heal orbs; Create 5 Fire, Dark, and Poison orbs
+KR: Lock all Heal orbs; Create 5 Fire, Dark, and Poison orbs
 
 # 12578/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 回復ドロップをロック
-EN: Lock Heal orbs
-KR: Lock Heal orbs
+JP: 全回復ドロップをロック
+EN: Lock all Heal orbs
+KR: Lock all Heal orbs
 
 # 12579/141 - 
 Tags: 
@@ -32665,16 +32665,16 @@ KR: For 1 turn, increase combo count by 1
 # 12867/116 - Flying Barcelona Attack
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Light & Heal Orbs locked; changes all Orbs to Dark Orbs
-JP: 光と回復ドロップをロック。全ドロップを闇ドロップに変化
-EN: Lock Light and Heal orbs; Change all orbs to Dark orbs
-KR: Lock Light and Heal orbs; Change all orbs to Dark orbs
+JP: 全光と回復ドロップをロック。全ドロップを闇ドロップに変化
+EN: Lock all Light and Heal orbs; Change all orbs to Dark orbs
+KR: Lock all Light and Heal orbs; Change all orbs to Dark orbs
 
 # 12868/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 光と回復ドロップをロック
-EN: Lock Light and Heal orbs
-KR: Lock Light and Heal orbs
+JP: 全光と回復ドロップをロック
+EN: Lock all Light and Heal orbs
+KR: Lock all Light and Heal orbs
 
 # 12869/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -33568,16 +33568,16 @@ KR: For 7 turns, reduce damage taken by 15%
 # 13173/116 - Rock You! Baby!
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Locks Heal Orbs; changes all Orbs to Fire, Wood & Dark Orbs
-JP: 回復ドロップをロック。全ドロップを火、木、闇ドロップに変化
-EN: Lock Heal orbs; Change all orbs to Fire, Wood, and Dark orbs
-KR: Lock Heal orbs; Change all orbs to Fire, Wood, and Dark orbs
+JP: 全回復ドロップをロック。全ドロップを火、木、闇ドロップに変化
+EN: Lock all Heal orbs; Change all orbs to Fire, Wood, and Dark orbs
+KR: Lock all Heal orbs; Change all orbs to Fire, Wood, and Dark orbs
 
 # 13174/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 回復ドロップをロック
-EN: Lock Heal orbs
-KR: Lock Heal orbs
+JP: 全回復ドロップをロック
+EN: Lock all Heal orbs
+KR: Lock all Heal orbs
 
 # 13175/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -34016,16 +34016,16 @@ KR: Change Heal orbs to Dark orbs
 # 13298/116 - I'm the fittest.
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Locks Heal Orbs; changes all Orbs to Water Orbs
-JP: 回復ドロップをロック。全ドロップを水ドロップに変化
-EN: Lock Heal orbs; Change all orbs to Water orbs
-KR: Lock Heal orbs; Change all orbs to Water orbs
+JP: 全回復ドロップをロック。全ドロップを水ドロップに変化
+EN: Lock all Heal orbs; Change all orbs to Water orbs
+KR: Lock all Heal orbs; Change all orbs to Water orbs
 
 # 13299/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 回復ドロップをロック
-EN: Lock Heal orbs
-KR: Lock Heal orbs
+JP: 全回復ドロップをロック
+EN: Lock all Heal orbs
+KR: Lock all Heal orbs
 
 # 13300/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -34604,9 +34604,9 @@ KR: For 1 turn, increase combo count by 2; Change all orbs to Light, Dark, and H
 # 13486/116 - Unachieved Muscle Spark
 Tags: SUICIDE,ORB_LOCK
 Game: Creates 3 Fire Orbs at random but halves HP; locks Fire Orbs
-JP: HPが50％減少。火ドロップを9個生成。火ドロップをロック
-EN: Reduce HP by 50%; Create 9 Fire orbs; Lock Fire orbs
-KR: Reduce HP by 50%; Create 9 Fire orbs; Lock Fire orbs
+JP: HPが50％減少。火ドロップを9個生成。全火ドロップをロック
+EN: Reduce HP by 50%; Create 9 Fire orbs; Lock all Fire orbs
+KR: Reduce HP by 50%; Create 9 Fire orbs; Lock all Fire orbs
 
 # 13487/195 - 
 Tags: SUICIDE
@@ -34625,9 +34625,9 @@ KR: Create 9 Fire orbs
 # 13489/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火ドロップをロック
-EN: Lock Fire orbs
-KR: Lock Fire orbs
+JP: 全火ドロップをロック
+EN: Lock all Fire orbs
+KR: Lock all Fire orbs
 
 # 13490/116 - Double Tusk Suplex
 Tags: ENHANCED_ATTACK,DROP_CHANCE
@@ -37551,9 +37551,9 @@ KR: Deal 500x ATK Light damage to an enemy
 # 14414/116 - Jumping Artillery
 Tags: ORB_LOCK
 Game: Creates 3 Light & Heal Orbs each at random; Light & Heal Orbs locked
-JP: ランダムで光と回復を3個ずつ生成。光と回復ドロップをロック
-EN: Create 3 Light and Heal orbs; Lock Light and Heal orbs
-KR: Create 3 Light and Heal orbs; Lock Light and Heal orbs
+JP: ランダムで光と回復を3個ずつ生成。全光と回復ドロップをロック
+EN: Create 3 Light and Heal orbs; Lock all Light and Heal orbs
+KR: Create 3 Light and Heal orbs; Lock all Light and Heal orbs
 
 # 14415/141 - _Jumping Artillery
 Tags: 
@@ -37565,9 +37565,9 @@ KR: Create 3 Light and Heal orbs
 # 14416/152 - __Jumping Artillery
 Tags: ORB_LOCK
 Game: 
-JP: 光と回復ドロップをロック
-EN: Lock Light and Heal orbs
-KR: Lock Light and Heal orbs
+JP: 全光と回復ドロップをロック
+EN: Lock all Light and Heal orbs
+KR: Lock all Light and Heal orbs
 
 # 14451/128 - Exorcising Destructive Dual Flame
 Tags: LINE_ORBS_CONVERTER
@@ -37607,9 +37607,9 @@ KR: Change all orbs to Fire and Dark orbs
 # 14462/116 - 本物の氷の魔法を見せてやる
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左から2列目と右から2列目の縦1列を水ドロップに変化。 水ドロップをロック。
-JP: 左から2列目と右から2列目を水ドロップに変化。水ドロップをロック
-EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
-KR: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
+JP: 左から2列目と右から2列目を水ドロップに変化。全水ドロップをロック
+EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock all Water orbs
+KR: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock all Water orbs
 
 # 14471/116 - カットボール改
 Tags: VOID_DAMAGE_ABSORBS,VOID_SKYFALLS
@@ -37796,9 +37796,9 @@ KR: Change the 2nd column from the left and the 2nd column from the right to Wat
 # 14513/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水ドロップをロック
-EN: Lock Water orbs
-KR: Lock Water orbs
+JP: 全水ドロップをロック
+EN: Lock all Water orbs
+KR: Lock all Water orbs
 
 # 14514/196 - 
 Tags: REDUCE_MATCH_RESTRICTION
@@ -38440,16 +38440,16 @@ KR: Deal 200x ATK Light damage to an enemy
 # 14675/116 - Ravaging Wind
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Dark Orbs locked; changes all Orbs to Heal & Jammers
-JP: 闇ドロップをロック。全ドロップを回復とお邪魔ドロップに変化
-EN: Lock Dark orbs; Change all orbs to Heal and Jammer orbs
-KR: Lock Dark orbs; Change all orbs to Heal and Jammer orbs
+JP: 全闇ドロップをロック。全ドロップを回復とお邪魔ドロップに変化
+EN: Lock all Dark orbs; Change all orbs to Heal and Jammer orbs
+KR: Lock all Dark orbs; Change all orbs to Heal and Jammer orbs
 
 # 14676/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 14677/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -38860,9 +38860,9 @@ KR: For 1 turn, 2x orb move time
 # 14794/116 - Guess Who's Back?
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Jammers, Fire, Dark & Poison Orbs to Light Orbs; Light Orbs locked
-JP: 火、闇、お邪魔、毒、猛毒ドロップを光ドロップに変化。光ドロップをロック
-EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
-KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
+JP: 火、闇、お邪魔、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
+EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
+KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
 
 # 14795/154 - 
 Tags: ORB_CONVERT
@@ -38874,9 +38874,9 @@ KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Light orbs
 # 14796/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 光ドロップをロック
-EN: Lock Light orbs
-KR: Lock Light orbs
+JP: 全光ドロップをロック
+EN: Lock all Light orbs
+KR: Lock all Light orbs
 
 # 14800/116 - Your story isn't through just yet.
 Tags: REDUCE_DEFENSE,VOID_DAMAGE_ABSORBS
@@ -39469,9 +39469,9 @@ KR: Deal 3000000 Light damage to all Dark Att. enemies
 # 14964/116 - This is me.
 Tags: ATTACK_STANCE,ORB_CONVERT,SUICIDE,REMOVE_LOCK,ORB_LOCK
 Game: Halves HP, removes Orb locks; changes Heal Orbs to Dark Orbs, Dark Orbs locked
-JP: HPが50％減少。全ドロップのロック状態を解除。回復ドロップを闇ドロップに変化。闇ドロップをロック
-EN: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
-KR: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock Dark orbs
+JP: HPが50％減少。全ドロップのロック状態を解除。回復ドロップを闇ドロップに変化。全闇ドロップをロック
+EN: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock all Dark orbs
+KR: Reduce HP by 50%; Unlock all orbs; Change Heal orbs to Dark orbs; Lock all Dark orbs
 
 # 14965/195 - 
 Tags: SUICIDE
@@ -39497,9 +39497,9 @@ KR: Change Heal orbs to Dark orbs
 # 14968/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 14969/116 - I guess I'll walk to the farthest place I can go.
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
@@ -40001,9 +40001,9 @@ KR: For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill o
 # 15124/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火と光ドロップをロック
-EN: Lock Fire and Light orbs
-KR: Lock Fire and Light orbs
+JP: 全火と光ドロップをロック
+EN: Lock all Fire and Light orbs
+KR: Lock all Fire and Light orbs
 
 # 15125/195 - 
 Tags: SUICIDE
@@ -40771,9 +40771,9 @@ KR: Lock all orbs
 # 15352/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火、水、木、光、闇ドロップをロック
-EN: Lock Fire, Water, Wood, Light, and Dark orbs
-KR: Lock Fire, Water, Wood, Light, and Dark orbs
+JP: 全火、水、木、光、闇ドロップをロック
+EN: Lock all Fire, Water, Wood, Light, and Dark orbs
+KR: Lock all Fire, Water, Wood, Light, and Dark orbs
 
 # 15356/140 - 
 Tags: ENHANCED_ORBS
@@ -41793,16 +41793,16 @@ KR: Lock all orbs
 # 15662/116 - Raging Tempest
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Water, Poison & Jammers to Wood Orbs; Wood Orbs locked
-JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化。木ドロップをロック
-EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
-KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
+JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化。全木ドロップをロック
+EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock all Wood orbs
+KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock all Wood orbs
 
 # 15663/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木ドロップをロック
-EN: Lock Wood orbs
-KR: Lock Wood orbs
+JP: 全木ドロップをロック
+EN: Lock all Wood orbs
+KR: Lock all Wood orbs
 
 # 15664/154 - 
 Tags: ORB_CONVERT
@@ -41814,9 +41814,9 @@ KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 # 15669/152 - Beguile
 Tags: ORB_LOCK
 Game: Fire & Heal Orbs locked
-JP: 火と回復ドロップをロック
-EN: Lock Fire and Heal orbs
-KR: Lock Fire and Heal orbs
+JP: 全火と回復ドロップをロック
+EN: Lock all Fire and Heal orbs
+KR: Lock all Fire and Heal orbs
 
 # 15670/116 - Bearer of the Slain
 Tags: HEAL,DROP_CHANCE
@@ -43172,9 +43172,9 @@ KR: Changes to [5946] for the duration of the dungeon
 # 16009/116 - 風縛変化の術
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
 Game: 水ドロップを木に、光ドロップを火に変化。木ドロップをロック。 10ターンの間、木ドロップがロック状態で落ちてくる。
-JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。木ドロップをロック。10ターンの間、木ドロップがロック状態で落ちてくる
-EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
-KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock Wood orbs; For 10 turns, Wood orbs appear locked
+JP: 水ドロップを木ドロップに、光ドロップを火ドロップに変化。全木ドロップをロック。10ターンの間、木ドロップがロック状態で落ちてくる
+EN: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock all Wood orbs; For 10 turns, Wood orbs appear locked
+KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs; Lock all Wood orbs; For 10 turns, Wood orbs appear locked
 
 # 16010/20 - 
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -43186,9 +43186,9 @@ KR: Change Water orbs to Wood orbs; Change Light orbs to Fire orbs
 # 16011/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木ドロップをロック
-EN: Lock Wood orbs
-KR: Lock Wood orbs
+JP: 全木ドロップをロック
+EN: Lock all Wood orbs
+KR: Lock all Wood orbs
 
 # 16012/205 - 
 Tags: 
@@ -43228,9 +43228,9 @@ KR: Change the bottom row to Fire orbs
 # 16025/116 - ラーヴァグランツ
 Tags: ORB_CONVERT,ORB_LOCK
 Game: 光と闇ドロップを火ドロップに変化。火ドロップをロック。 10ターンの間、火ドロップがロック状態で落ちてくる。
-JP: 光と闇ドロップを火ドロップに変化。火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
-EN: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
-KR: Change Light and Dark orbs to Fire orbs; Lock Fire orbs; For 10 turns, Fire orbs appear locked
+JP: 光と闇ドロップを火ドロップに変化。全火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
+EN: Change Light and Dark orbs to Fire orbs; Lock all Fire orbs; For 10 turns, Fire orbs appear locked
+KR: Change Light and Dark orbs to Fire orbs; Lock all Fire orbs; For 10 turns, Fire orbs appear locked
 
 # 16026/154 - 
 Tags: ORB_CONVERT
@@ -43249,9 +43249,9 @@ KR: For 10 turns, Fire orbs appear locked
 # 16032/116 - トゥインクルスノー
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左端縦1列を水ドロップに変化。水ドロップをロック。 10ターンの間、水ドロップがロック状態で落ちてくる。
-JP: 最左端を水ドロップに変化。水ドロップをロック。10ターンの間、水ドロップがロック状態で落ちてくる
-EN: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
-KR: Change the far left column to Water orbs; Lock Water orbs; For 10 turns, Water orbs appear locked
+JP: 最左端を水ドロップに変化。全水ドロップをロック。10ターンの間、水ドロップがロック状態で落ちてくる
+EN: Change the far left column to Water orbs; Lock all Water orbs; For 10 turns, Water orbs appear locked
+KR: Change the far left column to Water orbs; Lock all Water orbs; For 10 turns, Water orbs appear locked
 
 # 16033/127 - 
 Tags: LINE_ORBS_CONVERTER
@@ -43263,9 +43263,9 @@ KR: Change the far left column to Water orbs
 # 16034/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 水ドロップをロック
-EN: Lock Water orbs
-KR: Lock Water orbs
+JP: 全水ドロップをロック
+EN: Lock all Water orbs
+KR: Lock all Water orbs
 
 # 16035/205 - 
 Tags: 
@@ -43298,9 +43298,9 @@ KR: Create 2 Heal orbs over non Water orbs
 # 16047/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 火ドロップをロック
-EN: Lock Fire orbs
-KR: Lock Fire orbs
+JP: 全火ドロップをロック
+EN: Lock all Fire orbs
+KR: Lock all Fire orbs
 
 # 16048/126 - 
 Tags: DROP_CHANCE
@@ -43795,9 +43795,9 @@ KR: Changes to [5971] for the duration of the dungeon
 # 16218/116 - ナチュラルコール
 Tags: RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ORB_LOCK
 Game: バインド状態と覚醒無効状態を全回復。 最上段横1列を木ドロップに変化。木ドロップをロック。
-JP: バインドと覚醒無効を全回復。最上段を木ドロップに変化。木ドロップをロック
-EN: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock Wood orbs
-KR: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock Wood orbs
+JP: バインドと覚醒無効を全回復。最上段を木ドロップに変化。全木ドロップをロック
+EN: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock all Wood orbs
+KR: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock all Wood orbs
 
 # 16219/117 - 
 Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -43879,9 +43879,9 @@ KR: Changes to [5975] for the duration of the dungeon
 # 16239/116 - ブラックライトゾーン
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ORB_LOCK
 Game: 1ターンの間、回復力と闇属性の攻撃力が3倍。 闇ドロップをロック。
-JP: 1ターンの間、回復力が3倍。1ターンの間、闇属性の攻撃力が3倍。闇ドロップをロック
-EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
-KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
+JP: 1ターンの間、回復力が3倍。1ターンの間、闇属性の攻撃力が3倍。全闇ドロップをロック
+EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock all Dark orbs
+KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock all Dark orbs
 
 # 16240/90 - 
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL
@@ -43893,9 +43893,9 @@ KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.
 # 16241/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 16242/18 - 
 Tags: MENACE
@@ -44019,9 +44019,9 @@ KR: Changes to [5981] for the duration of the dungeon
 # 16271/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 木ドロップをロック
-EN: Lock Wood orbs
-KR: Lock Wood orbs
+JP: 全木ドロップをロック
+EN: Lock all Wood orbs
+KR: Lock all Wood orbs
 
 # 16272/116 - フューリーエッジ
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
@@ -44348,9 +44348,9 @@ KR: Create 2 Dark orbs
 # 16346/152 - 
 Tags: ORB_LOCK
 Game: 
-JP: 闇ドロップをロック
-EN: Lock Dark orbs
-KR: Lock Dark orbs
+JP: 全闇ドロップをロック
+EN: Lock all Dark orbs
+KR: Lock all Dark orbs
 
 # 16350/116 - インテリジェンスライト
 Tags: ENHANCED_ORBS,ORB_LOCK
@@ -44432,9 +44432,9 @@ KR: Change the far left column and the far right column to Water and Heal orbs
 # 16373/152 - フラッシュニードル
 Tags: ORB_LOCK
 Game: ランダムでドロップを15個ロック。
-JP: 全ドロップをロック
-EN: Lock all orbs
-KR: Lock all orbs
+JP: ランダムで15個ドロップをロック
+EN: Lock 15 orbs
+KR: Lock 15 orbs
 
 # 16374/126 - 降炎の祈祷
 Tags: DROP_CHANCE

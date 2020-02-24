@@ -6,9 +6,9 @@ SAWK: 47,45,55
 # 14462/116 - 本物の氷の魔法を見せてやる
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: 左から2列目と右から2列目の縦1列を水ドロップに変化。 水ドロップをロック。
-JP: 左から2列目と右から2列目を水ドロップに変化。水ドロップをロック
-EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
-KR: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock Water orbs
+JP: 左から2列目と右から2列目を水ドロップに変化。全水ドロップをロック
+EN: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock all Water orbs
+KR: Change the 2nd column from the left and the 2nd column from the right to Water orbs; Lock all Water orbs
 
 # 14466/138 - 氷魔剣
 Tags: ENHANCED_HP_ATK

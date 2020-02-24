@@ -6,9 +6,9 @@ SAWK: 52,53,56
 # 11920/116 - Hey! I caught you slacking off again!
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Water & Poison Orbs to Light Orbs; Light Orbs Locked
-JP: 水、毒、猛毒ドロップを光ドロップに変化。光ドロップをロック
-EN: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
-KR: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock Light orbs
+JP: 水、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
+EN: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
+KR: Change Water, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
 
 # 11923/138 - Look forward to tomorrow's lunch, okay?
 Tags: ENHANCED_ATK_RCV

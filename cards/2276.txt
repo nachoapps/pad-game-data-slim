@@ -6,9 +6,9 @@ SAWK:
 # 3337/116 - Freezing Zone
 Tags: ORB_LOCK
 Game: Creates 5 Water & Heal Orbs each at random; Water & Heal Orbs locked
-JP: ランダムで水と回復を5個ずつ生成。水と回復ドロップをロック
-EN: Create 5 Water and Heal orbs; Lock Water and Heal orbs
-KR: Create 5 Water and Heal orbs; Lock Water and Heal orbs
+JP: ランダムで水と回復を5個ずつ生成。全水と回復ドロップをロック
+EN: Create 5 Water and Heal orbs; Lock all Water and Heal orbs
+KR: Create 5 Water and Heal orbs; Lock all Water and Heal orbs
 
 # 3445/138 - Permafrost Dragon Emperor's Power
 Tags: ENHANCED_ATK

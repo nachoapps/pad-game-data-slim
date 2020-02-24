@@ -6,9 +6,9 @@ SAWK:
 # 10853/116 - Mutilate
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Dark attack of 50x team's Dark ATK on all enemies; changes the top row to Dark Orbs, Dark Orbs locked
-JP: 敵全体にチームの闇属性の総攻撃力ｘ50倍の闇属性攻撃。最上段を闇ドロップに変化。闇ドロップをロック
-EN: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock Dark orbs
-KR: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock Dark orbs
+JP: 敵全体にチームの闇属性の総攻撃力ｘ50倍の闇属性攻撃。最上段を闇ドロップに変化。全闇ドロップをロック
+EN: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock all Dark orbs
+KR: Deal Dark damage equal to 50x of team's total Dark ATK to all enemies; Change the top row to Dark orbs; Lock all Dark orbs
 
 # 10857/138 - Death Wielder
 Tags: ENHANCED_ATK_RCV

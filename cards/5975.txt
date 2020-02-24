@@ -6,9 +6,9 @@ SAWK:
 # 16239/116 - ブラックライトゾーン
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ORB_LOCK
 Game: 1ターンの間、回復力と闇属性の攻撃力が3倍。 闇ドロップをロック。
-JP: 1ターンの間、回復力が3倍。1ターンの間、闇属性の攻撃力が3倍。闇ドロップをロック
-EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
-KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock Dark orbs
+JP: 1ターンの間、回復力が3倍。1ターンの間、闇属性の攻撃力が3倍。全闇ドロップをロック
+EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock all Dark orbs
+KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Dark Att.; Lock all Dark orbs
 
 # 16243/138 - 深淵の葛藤
 Tags: ENHANCED_HP_ATK,EXTEND_TIME

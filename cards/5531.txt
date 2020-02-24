@@ -6,9 +6,9 @@ SAWK: 54,27,52
 # 14414/116 - Jumping Artillery
 Tags: ORB_LOCK
 Game: Creates 3 Light & Heal Orbs each at random; Light & Heal Orbs locked
-JP: ランダムで光と回復を3個ずつ生成。光と回復ドロップをロック
-EN: Create 3 Light and Heal orbs; Lock Light and Heal orbs
-KR: Create 3 Light and Heal orbs; Lock Light and Heal orbs
+JP: ランダムで光と回復を3個ずつ生成。全光と回復ドロップをロック
+EN: Create 3 Light and Heal orbs; Lock all Light and Heal orbs
+KR: Create 3 Light and Heal orbs; Lock all Light and Heal orbs
 
 # 14417/138 - City of Gods' Spear Mastery
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME

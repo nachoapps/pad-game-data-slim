@@ -6,9 +6,9 @@ SAWK: 48,53,43
 # 15662/116 - Raging Tempest
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Water, Poison & Jammers to Wood Orbs; Wood Orbs locked
-JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化。木ドロップをロック
-EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
-KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock Wood orbs
+JP: 水、お邪魔、毒、猛毒ドロップを木ドロップに変化。全木ドロップをロック
+EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock all Wood orbs
+KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Wood orbs; Lock all Wood orbs
 
 # 15665/138 - The wind knows all.
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK

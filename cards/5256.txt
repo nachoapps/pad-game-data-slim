@@ -6,9 +6,9 @@ SAWK: 50,48,52
 # 13298/116 - I'm the fittest.
 Tags: ALL_ORBS_CONVERT,ORB_LOCK
 Game: Locks Heal Orbs; changes all Orbs to Water Orbs
-JP: 回復ドロップをロック。全ドロップを水ドロップに変化
-EN: Lock Heal orbs; Change all orbs to Water orbs
-KR: Lock Heal orbs; Change all orbs to Water orbs
+JP: 全回復ドロップをロック。全ドロップを水ドロップに変化
+EN: Lock all Heal orbs; Change all orbs to Water orbs
+KR: Lock all Heal orbs; Change all orbs to Water orbs
 
 # 13304/138 - Kawkaw Puri-Wenpe
 Tags: ENHANCED_HP_ATK

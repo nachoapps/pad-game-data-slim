@@ -6,9 +6,9 @@ SAWK:
 # 3322/116 - Freeze Lock
 Tags: ORB_LOCK
 Game: Creates 3 Water and Dark Orbs each at random; Water & Dark Orbs locked
-JP: ランダムで水と闇を3個ずつ生成。水と闇ドロップをロック
-EN: Create 3 Water and Dark orbs; Lock Water and Dark orbs
-KR: Create 3 Water and Dark orbs; Lock Water and Dark orbs
+JP: ランダムで水と闇を3個ずつ生成。全水と闇ドロップをロック
+EN: Create 3 Water and Dark orbs; Lock all Water and Dark orbs
+KR: Create 3 Water and Dark orbs; Lock all Water and Dark orbs
 
 # 3290/129 - Hailstone of Refusal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

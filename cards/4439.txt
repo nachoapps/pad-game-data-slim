@@ -6,9 +6,9 @@ SAWK: 48,62,43
 # 10593/116 - I'll leave it to all of you
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
 Game: Changes the bottom row to Light Orbs; Light Orbs Locked
-JP: 最下段を光ドロップに変化。光ドロップをロック
-EN: Change the bottom row to Light orbs; Lock Light orbs
-KR: Change the bottom row to Light orbs; Lock Light orbs
+JP: 最下段を光ドロップに変化。全光ドロップをロック
+EN: Change the bottom row to Light orbs; Lock all Light orbs
+KR: Change the bottom row to Light orbs; Lock all Light orbs
 
 # 10597/138 - We will definitely be victorious!!!
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE

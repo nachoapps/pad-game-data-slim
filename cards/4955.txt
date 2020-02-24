@@ -6,9 +6,9 @@ SAWK: 57,48,52
 # 12259/116 - Shiny Snowdrifts
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Jammers, Fire, Dark & Poison Orbs to Water Orbs; Water Orbs locked
-JP: 火、闇、お邪魔、毒、猛毒ドロップを水ドロップに変化。水ドロップをロック
-EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Water orbs
-KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock Water orbs
+JP: 火、闇、お邪魔、毒、猛毒ドロップを水ドロップに変化。全水ドロップをロック
+EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Water orbs
+KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Water orbs; Lock all Water orbs
 
 # 12262/138 - Do you like cold stuff?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
