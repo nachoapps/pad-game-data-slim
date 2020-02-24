@@ -3930,17 +3930,17 @@ KR: 3x ATK when matching 3 or more colors (2+heal) up to 4.5x at 5 colors+heal
 Tags: 
 Stats: [1.0, 1, 1, 0]
 Game: Unlocks one of the base monster's Awoken Skills when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、ベースが持つ覚醒スキルを必ず解放。
+EN: Unlocks one of the base monster's Awoken Skills when used as Fusion Material
+KR: 강화 합성 시 소재로 사용할 경우, 베이스 몬스터의 각성 스킬이 반드시 적용된다
 
 # 860/48 - An Ability Awakens?
 Tags: 
 Stats: [1.0, 1, 1, 0]
 Game: May unlock one of the base monster's Awoken Skills when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、 ベースが持つ覚醒スキルを解放する事がある。
+EN: May unlock one of the base monster's Awoken Skills when used as Fusion Material
+KR: 강화 합성 시 소재로 사용할 경우, 베이스 몬스터의 각성 스킬이 적용되기도 한다
 
 # 861/138 - ふたりのエール
 Tags: AUTO_HEAL,ENHANCED_ATK_RCV
@@ -5834,9 +5834,9 @@ KR: 1.25x HP for Devil type; 3.5x ATK for Devil type when above 50% HP
 Tags: 
 Stats: [1.0, 1, 1, 0]
 Game: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
+EN: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
+KR: 강화 합성 시 소재로 사용할 경우, 베이스  몬스터의 각성 스킬이 드물게 적용될 때가 있다
 
 # 1701/121 - 全力でたおすだけだぜ！
 Tags: ENHANCED_ATK
@@ -6690,41 +6690,41 @@ KR: 50% chance to counterattack with 5x Dark damage
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: Improves a Fire Att. base monster's skill when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 火属性モンスターの合成素材にすると、 ベースが持つスキルのレベルが必ず上がる。
+EN: Improves a Fire Att. base monster's skill when used as Fusion Material
+KR: 불속성 몬스터의 합성 몬스터로 사용하면 베이스 몬스터의 스킬 레벨이 반드시 상승한다
 
 # 1912/121 - Skill Level Up - Water
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: Improves a Water Att. base monster's skill level when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 水属性モンスターの合成素材にすると、 ベースが持つスキルのレベルが必ず上がる。
+EN: Improves a Water Att. base monster's skill level when used as Fusion Material
+KR: 물속성 몬스터의 합성 몬스터로 사용하면 베이스 몬스터의 스킬 레벨이 반드시 상승한다
 
 # 1913/121 - Skill Level Up - Wood
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: Improves a Wood Att. base monster's skill level when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 木属性モンスターの合成素材にすると、 ベースが持つスキルのレベルが必ず上がる。
+EN: Improves a Wood Att. base monster's skill level when used as Fusion Material
+KR: 나무속성 몬스터의 합성 몬스터로 사용하면 베이스 몬스터의 스킬 레벨이 반드시 상승한다
 
 # 1914/121 - Skill Level Up - Light
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: Improves a Light Att. base monster's skill level when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 光属性モンスターの合成素材にすると、 ベースが持つスキルのレベルが必ず上がる。
+EN: Improves a Light Att. base monster's skill level when used as Fusion Material
+KR: 빛속성 몬스터의 합성 몬스터로 사용하면 베이스 몬스터의 스킬 레벨이 반드시 상승한다
 
 # 1915/121 - Skill Level Up - Dark
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: Improves a Dark Att. base monster's skill level when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 闇属性モンスターの合成素材にすると、 ベースが持つスキルのレベルが必ず上がる。
+EN: Improves a Dark Att. base monster's skill level when used as Fusion Material
+KR: 어둠속성 몬스터의 합성 몬스터로 사용하면 베이스 몬스터의 스킬 레벨이 반드시 상승한다
 
 # 1916/138 - さっさとやろうぜ
 Tags: ENHANCED_HP_ATK
@@ -7850,7 +7850,7 @@ KR: 1.25x HP & ATK for Balanced type
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -8610,7 +8610,7 @@ KR: 2x ATK when 3 or more combos up to 2.5x at 4 combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -9562,9 +9562,9 @@ KR: Increase orb movement time by 5 seconds; 1.5x ATK for Devil type
 Tags: 
 Stats: [1.0, 1, 1, 0]
 Game: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
+EN: 合成素材にすると、ベースが持つ覚醒スキルを稀に解放。
+KR: 강화 합성 시 소재로 사용할 경우, 베이스 몬스터의 각성 스킬이 드물게 적용될 때가 있다
 
 # 2487/129 - Gale Fencing
 Tags: ENHANCED_ATK
@@ -12994,81 +12994,81 @@ KR: 2x ATK when 10 or more combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved HP Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、HP強化の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes an Improved HP Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 HP 강화의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3247/129 - Latent Awakening! (Imp. ATK)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved ATK Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、攻撃強化の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes an Improved ATK Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 공격 강화의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3248/129 - Latent Awakening! (Imp. RCV)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved RCV Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、回復強化の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes an Improved RCV Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 회복 강화의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3249/129 - Latent Awakening! (Auto-RCV)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Auto-RCV Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、自動回復の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes an Auto-RCV Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 자동 회복의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3250/129 - Latent Awakening! (Ext. Move Time)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Extended Move Time Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、操作時間延長の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes an Extended Move Time Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 조작 시간 연장의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3251/129 - Latent Awakening! (Fire Dmg. Red.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Fire Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、火ダメージ軽減の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Fire Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 불 대미지 경감의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3252/129 - Latent Awakening! (Water Dmg. Red.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Water Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、水ダメージ軽減の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Water Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 물 대미지 경감의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3253/129 - Latent Awakening! (Wood Dmg. Red.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Wood Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、木ダメージ軽減の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Wood Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 나무 대미지 경감의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3254/129 - Latent Awakening! (Light Dmg. Red.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Light Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、光ダメージ軽減の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Light Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 빛 대미지 경감의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3255/129 - Latent Awakening! (Dark Dmg. Red.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Dark Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、闇ダメージ軽減の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Dark Damage Reduction Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 어둠 대미지 경감의 잠재 각성 스킬 부여 ※1칸 사용
 
 # 3256/138 - Ruby Converter
 Tags: ENHANCED_ATK
@@ -13226,9 +13226,9 @@ KR: 2.5x ATK and 1.5x RCV for God type
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Skill Delay Resistance Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、スキル遅延耐性の潜在覚醒スキルを付与。 ※1枠使用
+EN: Causes a Skill Delay Resistance Latent Awakening upon fusion with an eligible base monster (uses 1 slot)
+KR: 강화합성 소재로 사용 시 스킬 지연 내성의 잠재각성 부여 ※1칸 사용
 
 # 3278/129 - 
 Tags: ENHANCED_ATK_RCV
@@ -13314,17 +13314,17 @@ KR: 2.5x ATK for Dark Att. on the turn a skill is used
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 3,000 Monster Points
-JP: 。
-EN: 
-KR: 
+JP: 売却すると3000モンスターポイントが手に入る。
+EN: Selling this monster grants 3,000 Monster Points
+KR: 판매하면 3000 몬스터 포인트를 획득
 
 # 3289/129 - Point Redemption - Medium
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 10,000 Monster Points
-JP: 。
-EN: 
-KR: 
+JP: 売却すると10000モンスターポイントが手に入る。
+EN: Selling this monster grants 10,000 Monster Points
+KR: 판매하면 10000 몬스터 포인트를 획득
 
 # 3290/129 - Hailstone of Refusal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -13386,9 +13386,9 @@ KR: 1.5x ATK & RCV for Attacker and Devil type
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 500 Monster Points
-JP: 。
-EN: 
-KR: 
+JP: 売却すると500モンスターポイントが手に入る。
+EN: Selling this monster grants 500 Monster Points
+KR: 판매하면 500 몬스터 포인트를 획득
 
 # 3298/138 - Puppet Master's Dark Cogwheel
 Tags: ENHANCED_HP_ATK_RCV
@@ -15762,9 +15762,9 @@ KR: 1.5x ATK for Wood Att. on the turn a skill is used
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 100 Monster Points
-JP: 。
-EN: 
-KR: 
+JP: 売却すると100モンスターポイントが手に入る。
+EN: Selling this monster grants 100 Monster Points
+KR: 판매하면 100 몬스터 포인트를 획득
 
 # 4101/61 - Iron Reaver Soul Stealer
 Tags: ENHANCED_ATK
@@ -19394,9 +19394,9 @@ KR: 2.5x ATK when 5 or more combos up to 5x at 10 combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Used as Material during Skill Transfer
-JP: 。
-EN: 
-KR: 
+JP: スキル継承を行う時、素材として必要になる。
+EN: Used as Material during Skill Transfer
+KR: 스킬 전수 시에 소재로 필요합니다
 
 # 4559/138 - Shadow Bringer
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -23898,7 +23898,7 @@ KR: 3x ATK for each cross of 5 Water orbs
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0]
 Game: 3x ATK & adds 1 combo with 4+ linked Water & Light Orbs each; 6x ATK for Water Att., 2x HP for Light Att.
-JP: 水と光を4同時に個以上つなげて消しと攻撃力が3倍、1コンボ加算。水属性の攻撃力が6倍。光属性のHPが2倍。
+JP: 水と光を4個以上同時につなげて消しと攻撃力が3倍、1コンボ加算。水属性の攻撃力が6倍。光属性のHPが2倍。
 EN: 3x ATK and increase combo by 1 when matching 4 or more connected Water and Light orbs at once; 6x ATK for Water Att.; 2x HP for Light Att.
 KR: 3x ATK and increase combo by 1 when matching 4 or more connected Water and Light orbs at once; 6x ATK for Water Att.; 2x HP for Light Att.
 
@@ -23906,7 +23906,7 @@ KR: 3x ATK and increase combo by 1 when matching 4 or more connected Water and L
 Tags: ENHANCED_ATK
 Stats: [1, 3.0, 1, 0]
 Game: 
-JP: 水と光を4同時に個以上つなげて消しと攻撃力が3倍、1コンボ加算。
+JP: 水と光を4個以上同時につなげて消しと攻撃力が3倍、1コンボ加算。
 EN: 3x ATK and increase combo by 1 when matching 4 or more connected Water and Light orbs at once
 KR: 3x ATK and increase combo by 1 when matching 4 or more connected Water and Light orbs at once
 
@@ -24786,9 +24786,9 @@ KR: 2x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross f
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 10 million Coins & 10,000 Monster Points
-JP: 。
-EN: 
-KR: 
+JP: 売却すると1000万コインと 10000モンスターポイントが手に入る。
+EN: Selling this monster grants 10 million Coins & 10,000 Monster Points
+KR: 판매하면 1000만 코인과 10000 몬스터 포인트를 획득
 
 # 5811/138 - Samba's so much fun!
 Tags: ENHANCED_ATK_RCV
@@ -26858,7 +26858,7 @@ KR: [Board becomes 7x6] 2x ATK and 1.5x HP for Light Att.
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
 Stats: [1.5, 10.0, 1.0, 0]
 Game: [7x6 board], 1.5x HP & 2x ATK for Light Att.; 5x ATK with 4+ linked Fire & Light Orbs each
-JP: 【7×6マス】火と光を4同時に個以上つなげて消しと攻撃力が5倍、0コンボ加算。光属性の攻撃力が2倍、HPが1.5倍。
+JP: 【7×6マス】火と光を4個以上同時につなげて消しと攻撃力が5倍、0コンボ加算。光属性の攻撃力が2倍、HPが1.5倍。
 EN: [Board becomes 7x6] 5x ATK and increase combo by 0 when matching 4 or more connected Fire and Light orbs at once; 2x ATK and 1.5x HP for Light Att.
 KR: [Board becomes 7x6] 5x ATK and increase combo by 0 when matching 4 or more connected Fire and Light orbs at once; 2x ATK and 1.5x HP for Light Att.
 
@@ -26866,7 +26866,7 @@ KR: [Board becomes 7x6] 5x ATK and increase combo by 0 when matching 4 or more c
 Tags: ENHANCED_ATK
 Stats: [1, 5.0, 1, 0]
 Game: 
-JP: 火と光を4同時に個以上つなげて消しと攻撃力が5倍、0コンボ加算。
+JP: 火と光を4個以上同時につなげて消しと攻撃力が5倍、0コンボ加算。
 EN: 5x ATK and increase combo by 0 when matching 4 or more connected Fire and Light orbs at once
 KR: 5x ATK and increase combo by 0 when matching 4 or more connected Fire and Light orbs at once
 
@@ -27450,113 +27450,113 @@ KR: Increase orb movement time by 13 seconds
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Levels up a Fire monster's skill when used in fusion (at least 1 material with that skill is also required)
-JP: 。
-EN: 
-KR: 
+JP: 火属性のベースモンスターと同じスキルを持ったモンスターと 一緒に合成すると、100％スキルレベルアップする。
+EN: Levels up a Fire monster's skill when used in fusion (at least 1 material with that skill is also required)
+KR: 불속성의 베이스 몬스터와 같은 스킬을 가진 몬스터를 함께 합성하면 스킬 레벨업의 확률이 100% 가 됩니다
 
 # 6467/129 - Skill Level Up Aid - Water
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Levels up a Water monster's skill when used in fusion (at least 1 material with that skill is also required)
-JP: 。
-EN: 
-KR: 
+JP: 水属性のベースモンスターと同じスキルを持ったモンスターと 一緒に合成すると、100％スキルレベルアップする。
+EN: Levels up a Water monster's skill when used in fusion (at least 1 material with that skill is also required)
+KR: 물속성의 베이스 몬스터와 같은 스킬을 가진 몬스터를 함께 합성하면 스킬 레벨업의 확률이 100% 가 됩니다
 
 # 6468/129 - Skill Level Up Aid - Wood
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Levels up a Wood monster's skill when used in fusion (at least 1 material with that skill is also required)
-JP: 。
-EN: 
-KR: 
+JP: 木属性のベースモンスターと同じスキルを持ったモンスターと 一緒に合成すると、100％スキルレベルアップする。
+EN: Levels up a Wood monster's skill when used in fusion (at least 1 material with that skill is also required)
+KR: 나무속성의 베이스 몬스터와 같은 스킬을 가진 몬스터를 함께 합성하면 스킬 레벨업의 확률이 100% 가 됩니다
 
 # 6469/129 - Skill Level Up Aid - Light
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Levels up a Light monster's skill when used in fusion  (at least 1 material with that skill is also required)
-JP: 。
-EN: 
-KR: 
+JP: 光属性のベースモンスターと同じスキルを持ったモンスターと 一緒に合成すると、100％スキルレベルアップする。
+EN: Levels up a Light monster's skill when used in fusion  (at least 1 material with that skill is also required)
+KR: 빛속성의 베이스 몬스터와 같은 스킬을 가진 몬스터를 함께 합성하면 스킬 레벨업의 확률이 100% 가 됩니다
 
 # 6470/129 - Skill Level Up Aid - Dark
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Levels up a Dark monster's skill when used in fusion (at least 1 material with that skill is also required)
-JP: 。
-EN: 
-KR: 
+JP: 闇属性のベースモンスターと同じスキルを持ったモンスターと 一緒に合成すると、100％スキルレベルアップする。
+EN: Levels up a Dark monster's skill when used in fusion (at least 1 material with that skill is also required)
+KR: 어둠속성의 베이스 몬스터와 같은 스킬을 가진 몬스터를 함께 합성하면 스킬 레벨업의 확률이 100% 가 됩니다
 
 # 6471/129 - Latent Awakening! (All Stats Improved)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an All Stats Improved Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、全パラメータ強化の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an All Stats Improved Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 모든 파라미터 강화의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 6472/129 - Latent Awakening! (God Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a God Killer Latent Awakening when fused with Balanced, Devil or Machine Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、神キラーの潜在覚醒スキルを付与。 （バランス、悪魔、マシンタイプのみ装備可能）　※2枠使用
+EN: Causes a God Killer Latent Awakening when fused with Balanced, Devil or Machine Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 신 킬러의 잠재 각성 스킬 부여 (밸런스, 악마, 머신타입 사용 가능) ※2칸 사용
 
 # 6473/129 - Latent Awakening! (Dragon Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Dragon Killer Latent Awakening when fused with Balanced or Healer Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、ドラゴンキラーの潜在覚醒スキルを付与。 （バランス、回復タイプのみ装備可能）　※2枠使用
+EN: Causes a Dragon Killer Latent Awakening when fused with Balanced or Healer Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 드래곤 킬러의 잠재 각성 스킬 부여 (밸런스, 회복타입 사용 가능) ※2칸 사용
 
 # 6474/129 - Latent Awakening! (Devil Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Devil Killer Latent Awakening when fused with Balanced, God or Attacker Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、悪魔キラーの潜在覚醒スキルを付与。 （バランス、神、攻撃タイプのみ装備可能）　※2枠使用
+EN: Causes a Devil Killer Latent Awakening when fused with Balanced, God or Attacker Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 악마 킬러의 잠재 각성 스킬 부여 (밸런스, 신, 공격타입 사용 가능) ※2칸 사용
 
 # 6475/129 - Latent Awakening! (Machine Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Machine Killer Latent Awakening when fused with Balanced, Dragon or Physical Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、マシンキラーの潜在覚醒スキルを付与。 （バランス、ドラゴン、体力タイプのみ装備可能）　※2枠使用
+EN: Causes a Machine Killer Latent Awakening when fused with Balanced, Dragon or Physical Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 머신 킬러의 잠재 각성 스킬 부여 (밸런스, 드래곤, 체력타입 사용 가능) ※2칸 사용
 
 # 6476/129 - Latent Awakening! (Balanced Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Balanced Killer Latent Awakening when fused with Balanced or Machine Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、バランスキラーの潜在覚醒スキルを付与。 （バランス、マシンタイプのみ装備可能）　※2枠使用
+EN: Causes a Balanced Killer Latent Awakening when fused with Balanced or Machine Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 밸런스 킬러의 잠재 각성 스킬 부여 (밸런스, 머신타입 사용 가능) ※2칸 사용
 
 # 6477/129 - Latent Awakening! (Attacker Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Attacker Killer Latent Awakening when fused with Balanced or Healer Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、攻撃キラーの潜在覚醒スキルを付与。 （バランス、回復タイプのみ装備可能）　※2枠使用
+EN: Causes an Attacker Killer Latent Awakening when fused with Balanced or Healer Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 공격 킬러의 잠재 각성 스킬 부여 (밸런스, 회복타입 사용 가능) ※2칸 사용
 
 # 6478/129 - Latent Awakening! (Physical Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Physical Killer Latent Awakening when fused with Balanced or Attacker Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、体力キラーの潜在覚醒スキルを付与。 （バランス、攻撃タイプのみ装備可能）　※2枠使用
+EN: Causes a Physical Killer Latent Awakening when fused with Balanced or Attacker Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 체력 킬러의 잠재 각성 스킬 부여 (밸런스, 공격타입 사용 가능) ※2칸 사용
 
 # 6479/129 - Latent Awakening! (Healer Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Healer Killer Latent Awakening when fused with Balanced, Dragon or Physical Types (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、回復キラーの潜在覚醒スキルを付与。 （バランス、ドラゴン、体力タイプのみ装備可能）　※2枠使用
+EN: Causes a Healer Killer Latent Awakening when fused with Balanced, Dragon or Physical Types (uses 2 slots)
+KR: 강화합성 소재로 사용 시 회복 킬러의 잠재 각성 스킬 부여 (밸런스, 드래곤, 체력타입 사용 가능) ※2칸 사용
 
 # 6480/138 - Spirit of the Water Deity
 Tags: ENHANCED_ATK_RCV
@@ -27754,7 +27754,7 @@ KR: 2.5x ATK for each cross of 5 Water or Dark orbs
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Stats: [1.0, 13.0, 1.0, 0.0]
 Game: [No Skyfall Combos], ATK increases with 5+ combos, up to 13x
-JP: 【落ちコンなし】5コンボ以上で攻撃力が3倍、最大10コンボで13倍。。
+JP: 【落ちコンなし】5コンボ以上で攻撃力が3倍、最大10コンボで13倍。
 EN: [No skyfall] 3x ATK when 5 or more combos up to 13x at 10 combos
 KR: [No skyfall] 3x ATK when 5 or more combos up to 13x at 10 combos
 
@@ -27770,7 +27770,7 @@ KR: 3x ATK when 5 or more combos up to 13x at 10 combos
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -31370,9 +31370,9 @@ KR: 1.5x ATK for each cross of 5 Wood orbs
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Perseverance pays off! Just wait till you get its evolved form!
-JP: 。
-EN: 
-KR: 
+JP: 育てるのは大変だけど、進化させると…
+EN: Perseverance pays off! Just wait till you get its evolved form!
+KR: 키우는 건 힘들지만 진화 시키면…
 
 # 7357/138 - Wildfire Sorcery
 Tags: ENHANCED_ATK,EXTEND_TIME
@@ -33522,33 +33522,33 @@ KR: 5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and D
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved HP+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、HP強化＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Improved HP+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 HP 강화+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 7935/129 - Latent Awakening! (Imp. ATK+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved ATK+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、攻撃強化＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Improved ATK+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 공격 강화+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 7936/129 - Latent Awakening! (Imp. RCV+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Improved RCV+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、回復強化＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Improved RCV+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 회복 강화+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 7937/129 - Latent Awakening! (Ext. Move Time+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Extended Move Time+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、操作時間延長＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Extended Move Time+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 조작시간 연장+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 7941/138 - End's Return
 Tags: ENHANCED_HP_ATK_RCV
@@ -33922,7 +33922,7 @@ KR: 4x ATK for each cross of 5 Wood or Dark orbs
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -34154,33 +34154,33 @@ KR: 4x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross f
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Evo Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、進化用キラーの潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Evo Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 진화용 킬러의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 8096/129 - Latent Awakening! (Awoken Material Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Awoken Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、能力覚醒用キラーの潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Awoken Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 능력각성용 킬러의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 8097/129 - Latent Awakening! (Enhanced Material Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes an Enhanced Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、強化合成用キラーの潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes an Enhanced Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 강화합성용 킬러의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 8098/129 - Latent Awakening! (Redeemable Material Killer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Redeemable Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、売却用キラーの潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Redeemable Material Killer Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 판매용 킬러의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 8102/138 - Famitsu Raid
 Tags: ENHANCED_HP_ATK_RCV
@@ -36506,7 +36506,7 @@ KR: 3x ATK and 1.35x HP for Devil type
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -36554,9 +36554,9 @@ KR: 6x ATK and 2x HP when all cards are from Kinnikuman Collab
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Unlocks all of the base monster's Awoken Skills when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、ベースが持つ覚醒スキルを全て解放。
+EN: Unlocks all of the base monster's Awoken Skills when used as Fusion Material
+KR: 강화 합성 시 소재로 사용할 경우, 베이스 몬스터의 각성 스킬이 모두 적용된다
 
 # 8831/138 - Six Coin Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -37450,9 +37450,9 @@ KR: Increase orb movement time by 5 seconds
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Increases a base monster's skill level by 2 when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、 ベースが持つスキルのレベルが必ず2上がる。
+EN: Increases a base monster's skill level by 2 when used as Fusion Material
+KR: 강화합성에 사용하면 베이스 몬스터의 스킬 레벨이 반드시 2 상승한다
 
 # 8990/138 - Cancer's Lush Mechanical Star
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -38114,9 +38114,9 @@ KR: 6x ATK and 2x HP when all cards are from Duel Masters Collab
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Selling this monster grants 100 million coins
-JP: 。
-EN: 
-KR: 
+JP: 売却すると1億コインが手に入る。
+EN: Selling this monster grants 100 million coins
+KR: 몬스터 판매 시 1억 코인을 획득
 
 # 9158/138 - All of Japan is now Gunma
 Tags: ENHANCED_ATK_RCV
@@ -38146,9 +38146,9 @@ KR: 4x ATK on the turn a skill is used
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Resets a base monster's skill level to 1 when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、 ベースが持つスキルのレベルが1になる。
+EN: Resets a base monster's skill level to 1 when used as Fusion Material
+KR: 강화 합성 시 소재로 사용할 경우, 베이스 몬스터의 스킬 레벨이 1이 된다
 
 # 9219/138 - Shall we liven things up?
 Tags: ENHANCED_HP_ATK
@@ -38250,9 +38250,9 @@ KR: 2.5x ATK & RCV when matching Dark and Wood
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Increases the level cap for certain Level 99 monsters when used in fusion
-JP: 。
-EN: 
-KR: 
+JP: 特定のレベル99のモンスターに合成すると レベルの上限が解放される。
+EN: Increases the level cap for certain Level 99 monsters when used in fusion
+KR: 레벨이 99인 특별한 몬스터의 강화 합성 소재로 사용하면  레벨 상한이 개방된다
 
 # 9280/138 - That strike was truly impressive!
 Tags: ENHANCED_HP_ATK_RCV
@@ -38762,9 +38762,9 @@ KR: 7x ATK when matching Fire, Water, Wood, Dark, and Heal at once
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Resets all of the base monster's unlocked Awoken Skills when used in Power-Up Fusion
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、 解放されている覚醒スキルをリセットする。
+EN: Resets all of the base monster's unlocked Awoken Skills when used in Power-Up Fusion
+KR: 강화 합성 시 소재로 사용할 경우, 각성되어 있던 각성 스킬이 모두 리셋된다
 
 # 9387/138 - Eternal Dragon Descent - Ryoen
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
@@ -39378,7 +39378,7 @@ KR: 10x ATK when above 80% HP
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -39386,7 +39386,7 @@ KR:
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -42746,49 +42746,49 @@ KR: 3x ATK for each cross of 5 Fire orbs
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Fire Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、火ダメージ軽減＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Fire Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 불 대미지 경감+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 10284/129 - Latent Awakening! (Water Dmg. Red.+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Water Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、水ダメージ軽減＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Water Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 물 대미지 경감+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 10285/129 - Latent Awakening! (Wood Dmg. Red.+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Wood Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、木ダメージ軽減＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Wood Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 나무 대미지 경감+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 10286/129 - Latent Awakening! (Light Dmg. Red.+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Light Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、光ダメージ軽減＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Light Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 빛 대미지 경감+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 10287/129 - Latent Awakening! (Dark Dmg. Red.+)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Causes a Dark Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、闇ダメージ軽減＋の潜在覚醒スキルを付与。 ※2枠使用
+EN: Causes a Dark Damage Reduction+ Latent Awakening upon fusion with an eligible base monster (uses 2 slots)
+KR: 강화합성 소재로 사용 시 어둠 대미지 경감+의 잠재 각성 스킬 부여 ※2칸 사용
 
 # 10288/129 - Monster EXP Power Up
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Receive lots of Monster EXP when used as Fusion Material
-JP: 。
-EN: 
-KR: 
+JP: 合成素材にすると、 モンスター経験値をたくさんもらえる。
+EN: Receive lots of Monster EXP when used as Fusion Material
+KR: 합성 소재로 사용 시 몬스터 경험치를 많이 획득할 수 있다
 
 # 10292/138 - Kingly Dream's Guidance
 Tags: ENHANCED_ATK
@@ -43970,7 +43970,7 @@ KR: 4x ATK for each cross of 5 Wood orbs
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 112.0, 1.0, 0.25]
 Game: [Orb move time: 4 sec], 7x ATK & reduces damage with 5+ combos; 4x ATK for each cross of 5 Jammers
-JP: 【操作時間4秒固定】。5コンボ以上で攻撃力が7倍、受けるダメージを25％減少。お邪魔の5個十字消し1個につき攻撃力が4倍。
+JP: 【操作時間4秒固定】5コンボ以上で攻撃力が7倍、受けるダメージを25％減少。お邪魔の5個十字消し1個につき攻撃力が4倍。
 EN: [Fixed 4 second movetime] 7x ATK and reduce damage taken by 25% when 5 or more combos; 4x ATK for each cross of 5 Jammer orbs
 KR: [Fixed 4 second movetime] 7x ATK and reduce damage taken by 25% when 5 or more combos; 4x ATK for each cross of 5 Jammer orbs
 
@@ -43978,7 +43978,7 @@ KR: [Fixed 4 second movetime] 7x ATK and reduce damage taken by 25% when 5 or mo
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 【操作時間4秒固定】。
+JP: 【操作時間4秒固定】
 EN: [Fixed 4 second movetime]
 KR: [Fixed 4 second movetime]
 
@@ -44026,7 +44026,7 @@ KR: 2.5x ATK when matching 5 or more connected Wood orbs
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Stats: [1.0, 24.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 3x ATK with exactly 6 combos; ATK increases with 6+ linked Heal Orbs, up to 8x
-JP: 【落ちコンなし】。6コンボちょっとで攻撃力が3倍。回復を6個以上つなげて消すと攻撃力が3.5倍、最大9個で8倍。
+JP: 【落ちコンなし】6コンボちょっとで攻撃力が3倍。回復を6個以上つなげて消すと攻撃力が3.5倍、最大9個で8倍。
 EN: [No skyfall] 3x ATK when exactly 6 combos; 3.5x ATK when matching 6 or more connected Heal orbs up to 8x at 9 orbs
 KR: [No skyfall] 3x ATK when exactly 6 combos; 3.5x ATK when matching 6 or more connected Heal orbs up to 8x at 9 orbs
 
@@ -44034,7 +44034,7 @@ KR: [No skyfall] 3x ATK when exactly 6 combos; 3.5x ATK when matching 6 or more 
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -44402,17 +44402,17 @@ KR: 4x ATK when matching 4 or more colors
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: A special Evo Material you can obtain through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所などで入手できる特別な進化素材。
+EN: A special Evo Material you can obtain through [Monster Exchange]
+KR: 몬스터 교환소 등에서 획득할 수 있는 특별한 진화 소재
 
 # 10628/129 - Gem
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: A special Evo Material you can obtain through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所などで入手できる特別な進化素材。
+EN: A special Evo Material you can obtain through [Monster Exchange]
+KR: 몬스터 교환소 등에서 획득할 수 있는 특별한 진화 소재
 
 # 10629/15 - 
 Tags: EXTEND_TIME
@@ -45018,25 +45018,25 @@ KR: Increase orb movement time by 2 seconds
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Event  Medal - Silver through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所でイベントメダル【銀】と交換できる。
+EN: You can exchange this monster for Event  Medal - Silver through [Monster Exchange]
+KR: 몬스터 교환소에서 이벤트 메달(은)과 교환 가능
 
 # 10720/129 - Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Event Medal - Gold through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所でイベントメダル【金】と交換できる。
+EN: You can exchange this monster for Event Medal - Gold through [Monster Exchange]
+KR: 몬스터 교환소에서 이벤트 메달(금)과 교환 가능
 
 # 10721/129 - Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 10725/138 - いただ禁貨ー！！
 Tags: COIN,EXP
@@ -46034,9 +46034,9 @@ KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: This monster cannot be put in a team and cannot receive any Latent Awoken Skills
-JP: 。
-EN: 
-KR: 
+JP: このモンスターはチームに入れる事が出来ず、 潜在覚醒スキルも付与出来ない。
+EN: This monster cannot be put in a team and cannot receive any Latent Awoken Skills
+KR: 이 몬스터는 팀 편성을 할 수 없으며 잠재 각성 스킬을 부여할 수 없습니다
 
 # 10950/138 - Tactical Control
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
@@ -47010,17 +47010,17 @@ KR: Increase orb movement time by 10 seconds
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: You can exchange this monster for various other monsters through [Monster Exchange]
 
 # 11161/129 - Power Pro Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Power Pro Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【パワプロコラボ】モンスターと交換できる。
+EN: You can exchange this monster for Power Pro Collab monsters through [Monster Exchange]
+KR: You can exchange this monster for Power Pro Collab monsters through [Monster Exchange]
 
 # 11162/138 - Harangue of Nectar
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
@@ -48578,17 +48578,17 @@ KR: May survive when HP is reduced to 0 (HP>50%)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: You can exchange this monster for various other monsters through [Monster Exchange]
 
 # 11517/129 - Gintama Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【銀魂コラボ】モンスターと交換できる。
+EN: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
+KR: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
 
 # 11521/138 - Ancient Shadow Spirit's Magic Seal
 Tags: ENHANCED_ATK,EGG
@@ -48618,7 +48618,7 @@ KR: 5x ATK when 5 or more combos
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 18.0, 3.0, 0.25]
 Game: [No Skyfall Combos], 3x ATK & RCV with 5+ combos; 6x ATK & reduces damage with 6+ linked Dark Orbs
-JP: 【落ちコンなし】。5コンボ以上で攻撃力と回復力が3倍。闇を6個以上つなげて消すと攻撃力が6倍、受けるダメージを25％減少。
+JP: 【落ちコンなし】5コンボ以上で攻撃力と回復力が3倍。闇を6個以上つなげて消すと攻撃力が6倍、受けるダメージを25％減少。
 EN: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 KR: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 
@@ -48626,7 +48626,7 @@ KR: [No skyfall] 3x ATK & RCV when 5 or more combos; 6x ATK and reduce damage ta
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -48946,7 +48946,7 @@ KR: 2.5x ATK when matching 4 or more colors
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Stats: [1.0, 40.0, 1.0, 0.0]
 Game: [No Skyfall Combos, Orb move time: 4 sec], 2x ATK for Dark Att.; ATK increases with 3+ combos, up to 20x
-JP: 【操作時間4秒固定】【落ちコンなし】。闇属性の攻撃力が2倍。3コンボ以上で攻撃力が2倍、最大9コンボで20倍。
+JP: 【操作時間4秒固定】【落ちコンなし】闇属性の攻撃力が2倍。3コンボ以上で攻撃力が2倍、最大9コンボで20倍。
 EN: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or more combos up to 20x at 9 combos
 KR: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or more combos up to 20x at 9 combos
 
@@ -48954,7 +48954,7 @@ KR: [Fixed 4 second movetime][No skyfall] 2x ATK for Dark Att.; 2x ATK when 3 or
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -50594,25 +50594,25 @@ KR: 6x ATK when below 50% HP; 4x ATK when below 80% HP
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능 
 
 # 11969/129 - SAO Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for SAO Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【SAOコラボ】モンスターと交換できる。
+EN: You can exchange this monster for SAO Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [SAO 콜라보] 몬스터와 교환 가능
 
 # 11970/129 - Anniversary Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Exchangeable for other specific monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特別なモンスターと交換できる。
+EN: Exchangeable for other specific monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 특별한 몬스터와 교환 가능
 
 # 11974/138 - Gold Divine Protection
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -51482,17 +51482,17 @@ KR: 2x ATK and reduce damage taken by 25% when 6 or more combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 12170/129 - Kamen Rider Collab Exchangeable Character
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Kamen Rider Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【仮面ライダーコラボ】モンスターと交換できる。
+EN: You can exchange this monster for Kamen Rider Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [가면라이더 콜라보] 몬스터와 교환 가능
 
 # 12175/138 - Red Fire Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
@@ -51690,17 +51690,17 @@ KR: Increase orb movement time by 2 seconds
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for GungHo Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【ガンホーコラボ】モンスターと交換できる。
+EN: You can exchange this monster for GungHo Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [겅호 콜라보] 몬스터와 교환 가능
 
 # 12207/129 - Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所でキングタンと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 킹 탕과 교환 할 수 있다
 
 # 12211/138 - I'm the prince of Monster Land
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -52378,17 +52378,17 @@ KR: 2x ATK & RCV on the turn a skill is used
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for certain monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特定のモンスターと交換できる。
+EN: You can exchange this monster for certain monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 특정 몬스터와 교환 가능
 
 # 12364/129 - Yokai Watch W Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【妖怪ウォッチＷコラボ】モンスターと交換できる。
+EN: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
+KR: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
 
 # 12366/138 - Demon's Dragon Battle Talisman
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
@@ -53162,17 +53162,17 @@ KR: [No skyfall]
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 12585/129 - Fate [HF] Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Fate [HF] Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【Fate[HF]コラボ】モンスターと交換できる。
+EN: You can exchange this monster for Fate [HF] Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [Fate[HF] 콜라보] 몬스터와 교환 가능
 
 # 12590/138 - Enlightened Sky's Flash
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -53330,17 +53330,17 @@ KR: 2x ATK and reduce damage taken by 25% when matching 3 or more colors
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 12620/129 - Shinrabansho Choco Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Shinrabansho Choco Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【神羅万象チョココラボ】モンスターと交換できる。
+EN: You can exchange this monster for Shinrabansho Choco Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [신라만상 초콜렛 콜라보] 몬스터와 교환 가능
 
 # 12626/136 - 
 Tags: ENHANCED_HP_ATK
@@ -54658,17 +54658,17 @@ KR: 4x ATK when 6 or more combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 12917/129 - SFV: AE Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for a Street Fighter V: AE Collab monster through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【ストリートファイターV AEコラボ】モンスターと交換できる。
+EN: You can exchange this monster for a Street Fighter V: AE Collab monster through [Monster Exchange]
+KR: 몬스터 교환소에서 [Street Fighter V: AE 콜라보] 몬스터와 교환 가능
 
 # 12921/138 - Seven Step Dance
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
@@ -54722,9 +54722,9 @@ KR: [No skyfall] 3x ATK when there are 5 or fewer orbs remaining
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: Exchangeable for other specific monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特別なモンスターと交換できる。
+EN: Exchangeable for other specific monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 특별한 몬스터와 교환이 가능합니다
 
 # 12929/129 - 
 Tags: ENHANCED_ATK
@@ -54786,7 +54786,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching Light and Dark
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,NO_SKYFALL_COMBOS
 Stats: [1.5, 10.5, 1.0, 0.0]
 Game: 【落ちコンなし】3コンボ以上で攻撃力が上昇、最大7倍。 火属性のHPと攻撃力が1.5倍。ドロップ操作を1秒延長。
-JP: 【落ちコンなし】。3コンボ以上で攻撃力が3倍、最大7コンボで7倍。火属性のHPと攻撃力が1.5倍。ドロップ操作時間を1秒延長。
+JP: 【落ちコンなし】3コンボ以上で攻撃力が3倍、最大7コンボで7倍。火属性のHPと攻撃力が1.5倍。ドロップ操作時間を1秒延長。
 EN: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & ATK for Fire Att.; Increase orb movement time by 1 seconds
 KR: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & ATK for Fire Att.; Increase orb movement time by 1 seconds
 
@@ -54794,7 +54794,7 @@ KR: [No skyfall] 3x ATK when 3 or more combos up to 7x at 7 combos; 1.5x HP & AT
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -55026,7 +55026,7 @@ KR: 4x ATK and 2x HP & RCV for Wood and Dark Att.; Reduce damage taken from Fire
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -55490,7 +55490,7 @@ KR: 3x ATK and reduce damage taken by 25% when matching 5 Dark orbs in an L shap
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 24.0, 1.0, 0.0]
 Game: 4x ATK & adds 2 combos with 6+ linked Wood & Light Orbs each; 2x HP & 6x ATK for Wood Att.
-JP: 木と光を6同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。木属性の攻撃力が6倍、HPが2倍。
+JP: 木と光を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。木属性の攻撃力が6倍、HPが2倍。
 EN: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Light orbs at once; 6x ATK and 2x HP for Wood Att.
 KR: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Light orbs at once; 6x ATK and 2x HP for Wood Att.
 
@@ -55498,7 +55498,7 @@ KR: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Li
 Tags: ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: 
-JP: 木と光を6同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+JP: 木と光を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Light orbs at once
 KR: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Light orbs at once
 
@@ -55962,7 +55962,7 @@ KR: 4x ATK when matching 3 or more colors up to 10x at 5 colors
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 16.0, 1.0, 0.0]
 Game: 8x ATK & adds 2 combos with 5+ linked Fire & Heal Orbs each; 2x HP & ATK for Fire Att.
-JP: 火属性のHPと攻撃力が2倍。火と回復を5同時に個以上つなげて消しと攻撃力が8倍、2コンボ加算。
+JP: 火属性のHPと攻撃力が2倍。火と回復を5個以上同時につなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 2x HP & ATK for Fire Att.; 8x ATK and increase combo by 2 when matching 5 or more connected Fire and Heal orbs at once
 KR: 2x HP & ATK for Fire Att.; 8x ATK and increase combo by 2 when matching 5 or more connected Fire and Heal orbs at once
 
@@ -55978,7 +55978,7 @@ KR: 2x HP & ATK for Fire Att.
 Tags: ENHANCED_ATK
 Stats: [1, 8.0, 1, 0]
 Game: 
-JP: 火と回復を5同時に個以上つなげて消しと攻撃力が8倍、2コンボ加算。
+JP: 火と回復を5個以上同時につなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 8x ATK and increase combo by 2 when matching 5 or more connected Fire and Heal orbs at once
 KR: 8x ATK and increase combo by 2 when matching 5 or more connected Fire and Heal orbs at once
 
@@ -56018,7 +56018,7 @@ KR: 4x ATK when matching 5 or more connected non Light orbs
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 1.0, 0.25]
 Game: [Orb move time: 4 sec], 3x ATK with 5+ combos; 6x ATK & reduces dmg with an L shape of 5 Dk or Wt Orbs
-JP: 【操作時間4秒固定】。水か闇の5個L字消しで攻撃力が6倍、受けるダメージを25％減少。5コンボ以上で攻撃力が3倍。
+JP: 【操作時間4秒固定】水か闇の5個L字消しで攻撃力が6倍、受けるダメージを25％減少。5コンボ以上で攻撃力が3倍。
 EN: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape; 3x ATK when 5 or more combos
 KR: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matching 5 Water or Dark orbs in an L shape; 3x ATK when 5 or more combos
 
@@ -56026,7 +56026,7 @@ KR: [Fixed 4 second movetime] 6x ATK and reduce damage taken by 25% when matchin
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 【操作時間4秒固定】。
+JP: 【操作時間4秒固定】
 EN: [Fixed 4 second movetime]
 KR: [Fixed 4 second movetime]
 
@@ -56162,7 +56162,7 @@ KR: 6.5x ATK and reduce damage taken by 25% when matching 5 or more connected Da
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.5, 1, 0.25]
 Game: 5.5x ATK & adds 1 combo with 4+ linked Light & Dark Orbs each; 3x ATK & reduces damage with 5+ combos
-JP: 光と闇を4同時に個以上つなげて消しと攻撃力が5.5倍、1コンボ加算。5コンボ以上で攻撃力が3倍、受けるダメージを25％減少。
+JP: 光と闇を4個以上同時につなげて消しと攻撃力が5.5倍、1コンボ加算。5コンボ以上で攻撃力が3倍、受けるダメージを25％減少。
 EN: 5.5x ATK and increase combo by 1 when matching 4 or more connected Light and Dark orbs at once; 3x ATK and reduce damage taken by 25% when 5 or more combos
 KR: 5.5x ATK and increase combo by 1 when matching 4 or more connected Light and Dark orbs at once; 3x ATK and reduce damage taken by 25% when 5 or more combos
 
@@ -56170,7 +56170,7 @@ KR: 5.5x ATK and increase combo by 1 when matching 4 or more connected Light and
 Tags: ENHANCED_ATK
 Stats: [1, 5.5, 1, 0]
 Game: 
-JP: 光と闇を4同時に個以上つなげて消しと攻撃力が5.5倍、1コンボ加算。
+JP: 光と闇を4個以上同時につなげて消しと攻撃力が5.5倍、1コンボ加算。
 EN: 5.5x ATK and increase combo by 1 when matching 4 or more connected Light and Dark orbs at once
 KR: 5.5x ATK and increase combo by 1 when matching 4 or more connected Light and Dark orbs at once
 
@@ -56618,25 +56618,25 @@ KR: 7x ATK when 7 or more combos
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 13383/129 - Shaman King Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Shaman King Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【シャーマンキングコラボ】モンスターと交換できる。
+EN: You can exchange this monster for Shaman King Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [샤먼킹 콜라보] 몬스터와 교환 가능
 
 # 13384/129 - Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特別なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 특별한 몬스터와 교환 가능
 
 # 13385/15 - 
 Tags: EXTEND_TIME
@@ -57034,7 +57034,7 @@ KR: 7x ATK when matching 5 or more colors
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0.0]
 Game: 8x ATK & adds 2 combos with 4+ linked Fr, Wt, Wd & Lt Orbs each; 2x to all stats for Fire & Wood Att.
-JP: 火、水、木、光を4同時に個以上つなげて消しと攻撃力が8倍、2コンボ加算。火と木属性の全パラメータが2倍。
+JP: 火、水、木、光を4個以上同時につなげて消しと攻撃力が8倍、2コンボ加算。火と木属性の全パラメータが2倍。
 EN: 8x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once; 2x all stats for Fire and Wood Att.
 KR: 8x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once; 2x all stats for Fire and Wood Att.
 
@@ -57042,7 +57042,7 @@ KR: 8x ATK and increase combo by 2 when matching 4 or more connected Fire, Water
 Tags: ENHANCED_ATK
 Stats: [1, 8.0, 1, 0]
 Game: 
-JP: 火、水、木、光を4同時に個以上つなげて消しと攻撃力が8倍、2コンボ加算。
+JP: 火、水、木、光を4個以上同時につなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 8x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once
 KR: 8x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once
 
@@ -57058,17 +57058,17 @@ KR: 2x all stats for Fire and Wood Att.
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
 # 13461/129 - SANRIO CHARACTERS Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for SANRIO CHARACTERS Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【サンリオキャラクターズコラボ】モンスターと交換できる。
+EN: You can exchange this monster for SANRIO CHARACTERS Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [산리오캐릭터즈 콜라보] 몬스터와 교환 가능
 
 # 13465/15 - 
 Tags: EXTEND_TIME
@@ -57162,7 +57162,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [1.5, 6.0, 1.5, 0]
 Game: 6x ATK for Dark Att., 1.5x HP & RCV for Light Att.; adds 2 combos with 4+ linked Light & Dark Orbs each
-JP: 闇属性の攻撃力が6倍。光属性のHPと回復力が1.5倍。光と闇を4同時に個以上つなげて消しと、2コンボ加算。
+JP: 闇属性の攻撃力が6倍。光属性のHPと回復力が1.5倍。光と闇を4個以上同時につなげて消しと、2コンボ加算。
 EN: 6x ATK for Dark Att.; 1.5x HP & RCV for Light Att.; Increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 KR: 6x ATK for Dark Att.; 1.5x HP & RCV for Light Att.; Increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 
@@ -57178,7 +57178,7 @@ KR: 6x ATK for Dark Att.; 1.5x HP & RCV for Light Att.
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 光と闇を4同時に個以上つなげて消しと、2コンボ加算。
+JP: 光と闇を4個以上同時につなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 KR: Increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 
@@ -57226,25 +57226,25 @@ KR: [Board becomes 7x6]
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で キン肉マンイベントメダルと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: You can exchange this monster for various other monsters through [Monster Exchange]
 
 # 13507/129 - Kinnikuman Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: You can exchange this monster for various other monsters through [Monster Exchange]
 
 # 13508/129 - Kinnikuman Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Kinnikuman Collab monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【キン肉マンコラボ】モンスターと交換できる。
+EN: You can exchange this monster for Kinnikuman Collab monsters through [Monster Exchange]
+KR: You can exchange this monster for Kinnikuman Collab monsters through [Monster Exchange]
 
 # 13513/138 - Eternal Dragon Player - Arco
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
@@ -58090,33 +58090,33 @@ KR: 6x ATK when matching 3 or more colors
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: モンスター交換所で 駐屯兵団の紋章と交換できる。
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 駐屯兵団の紋章と交換できる。
+EN: モンスター交換所で 駐屯兵団の紋章と交換できる。
+KR: モンスター交換所で 駐屯兵団の紋章と交換できる。
 
 # 13711/129 - 進撃の巨人 交換用モンスター
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: モンスター交換所で 憲兵団の紋章と交換できる。
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 憲兵団の紋章と交換できる。
+EN: モンスター交換所で 憲兵団の紋章と交換できる。
+KR: モンスター交換所で 憲兵団の紋章と交換できる。
 
 # 13712/129 - 進撃の巨人 交換用モンスター
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: モンスター交換所で色々なモンスターと交換できる。
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で色々なモンスターと交換できる。
+EN: モンスター交換所で色々なモンスターと交換できる。
+KR: モンスター交換所で色々なモンスターと交換できる。
 
 # 13713/129 - 進撃の巨人 交換用モンスター
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: モンスター交換所で 【進撃の巨人コラボ】モンスターと交換できる。
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で 【進撃の巨人コラボ】モンスターと交換できる。
+EN: モンスター交換所で 【進撃の巨人コラボ】モンスターと交換できる。
+KR: モンスター交換所で 【進撃の巨人コラボ】モンスターと交換できる。
 
 # 13717/138 - Victory is Mine-nya!
 Tags: ENHANCED_ATK
@@ -58266,9 +58266,9 @@ KR: 3x ATK for each cross of 5 Water, Wood, or Light orbs
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for certain monsters through [Monster Exchange]
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特定のモンスターと交換できる。
+EN: You can exchange this monster for certain monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 특정 몬스터와 교환 가능
 
 # 13751/183 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -58458,7 +58458,7 @@ KR: 8x ATK when matching 5 or more connected Poison or Mortal Poison orbs
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 9.0, 1.0, 0.0]
 Game: 2x HP & 9x ATK for Water & Wood Att.; adds 2 combos with 4+ linked Water & Wood Orbs each
-JP: 水と木属性の攻撃力が9倍、HPが2倍。水と木を4同時に個以上つなげて消しと、2コンボ加算。
+JP: 水と木属性の攻撃力が9倍、HPが2倍。水と木を4個以上同時につなげて消しと、2コンボ加算。
 EN: 9x ATK and 2x HP for Water and Wood Att.; Increase combo by 2 when matching 4 or more connected Water and Wood orbs at once
 KR: 9x ATK and 2x HP for Water and Wood Att.; Increase combo by 2 when matching 4 or more connected Water and Wood orbs at once
 
@@ -58474,7 +58474,7 @@ KR: 9x ATK and 2x HP for Water and Wood Att.
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 水と木を4同時に個以上つなげて消しと、2コンボ加算。
+JP: 水と木を4個以上同時につなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 4 or more connected Water and Wood orbs at once
 KR: Increase combo by 2 when matching 4 or more connected Water and Wood orbs at once
 
@@ -59138,7 +59138,7 @@ KR: 2x ATK and increase combo by 1 when matching 3 or more colors
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [1.5, 24.0, 1.5, 0.0]
 Game: 16x ATK & adds 2 combos with 4+ linked Fire, Water & Dark Orbs each; 1.5x to all stats for Dark Att.
-JP: 闇属性の全パラメータが1.5倍。火、水、闇を4同時に個以上つなげて消しと攻撃力が16倍、2コンボ加算。
+JP: 闇属性の全パラメータが1.5倍。火、水、闇を4個以上同時につなげて消しと攻撃力が16倍、2コンボ加算。
 EN: 1.5x all stats for Dark Att.; 16x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, and Dark orbs at once
 KR: 1.5x all stats for Dark Att.; 16x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, and Dark orbs at once
 
@@ -59154,7 +59154,7 @@ KR: 1.5x all stats for Dark Att.
 Tags: ENHANCED_ATK
 Stats: [1, 16.0, 1, 0]
 Game: 
-JP: 火、水、闇を4同時に個以上つなげて消しと攻撃力が16倍、2コンボ加算。
+JP: 火、水、闇を4個以上同時につなげて消しと攻撃力が16倍、2コンボ加算。
 EN: 16x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, and Dark orbs at once
 KR: 16x ATK and increase combo by 2 when matching 4 or more connected Fire, Water, and Dark orbs at once
 
@@ -59162,7 +59162,7 @@ KR: 16x ATK and increase combo by 2 when matching 4 or more connected Fire, Wate
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 闇と回復を8同時に個以上つなげて消しと、2コンボ加算。
+JP: 闇と回復を8個以上同時につなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 8 or more connected Dark and Heal orbs at once
 KR: Increase combo by 2 when matching 8 or more connected Dark and Heal orbs at once
 
@@ -59170,7 +59170,7 @@ KR: Increase combo by 2 when matching 8 or more connected Dark and Heal orbs at 
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 25.0, 1.0, 0.0]
 Game: 25x ATK & adds 2 combos with 6+ linked Fire & Water Orbs each; 2x HP for Fire Att.
-JP: 火と水を6同時に個以上つなげて消しと攻撃力が25倍、2コンボ加算。火属性のHPが2倍。
+JP: 火と水を6個以上同時につなげて消しと攻撃力が25倍、2コンボ加算。火属性のHPが2倍。
 EN: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.
 KR: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.
 
@@ -59178,7 +59178,7 @@ KR: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and W
 Tags: ENHANCED_ATK
 Stats: [1, 25.0, 1, 0]
 Game: 
-JP: 火と水を6同時に個以上つなげて消しと攻撃力が25倍、2コンボ加算。
+JP: 火と水を6個以上同時につなげて消しと攻撃力が25倍、2コンボ加算。
 EN: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once
 KR: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once
 
@@ -59202,7 +59202,7 @@ KR: 2x HP for Water Att.
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 30.0, 1.0, 0.0]
 Game: 2x HP for Water Att., 30x ATK with 10+ combos; adds 3 combos with 7+ linked Fire & Water Orbs each
-JP: 火と水を7同時に個以上つなげて消しと、3コンボ加算。10コンボ以上で攻撃力が30倍。水属性のHPが2倍。
+JP: 火と水を7個以上同時につなげて消しと、3コンボ加算。10コンボ以上で攻撃力が30倍。水属性のHPが2倍。
 EN: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at once; 30x ATK when 10 or more combos; 2x HP for Water Att.
 KR: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at once; 30x ATK when 10 or more combos; 2x HP for Water Att.
 
@@ -59210,7 +59210,7 @@ KR: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 火と水を7同時に個以上つなげて消しと、3コンボ加算。
+JP: 火と水を7個以上同時につなげて消しと、3コンボ加算。
 EN: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at once
 KR: Increase combo by 3 when matching 7 or more connected Fire and Water orbs at once
 
@@ -59874,7 +59874,7 @@ KR: reduce awoken skill binds by 2 turns when recovering more than 10000 HP from
 Tags: ENHANCED_HP_ATK
 Stats: [1.5, 6.0, 1.0, 0]
 Game: 火属性の攻撃力が6倍、水属性のHPが1.5倍。 火と水を同時に6個以上つなげて消すと、1コンボ加算。
-JP: 火属性の攻撃力が6倍。水属性のHPが1.5倍。火と水を6同時に個以上つなげて消しと、1コンボ加算。
+JP: 火属性の攻撃力が6倍。水属性のHPが1.5倍。火と水を6個以上同時につなげて消しと、1コンボ加算。
 EN: 6x ATK for Fire Att.; 1.5x HP for Water Att.; Increase combo by 1 when matching 6 or more connected Fire and Water orbs at once
 KR: 6x ATK for Fire Att.; 1.5x HP for Water Att.; Increase combo by 1 when matching 6 or more connected Fire and Water orbs at once
 
@@ -59890,7 +59890,7 @@ KR: 6x ATK for Fire Att.; 1.5x HP for Water Att.
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 火と水を6同時に個以上つなげて消しと、1コンボ加算。
+JP: 火と水を6個以上同時につなげて消しと、1コンボ加算。
 EN: Increase combo by 1 when matching 6 or more connected Fire and Water orbs at once
 KR: Increase combo by 1 when matching 6 or more connected Fire and Water orbs at once
 
@@ -60642,7 +60642,7 @@ KR: 3.5x ATK for each cross of 5 Fire or Dark orbs
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 20.0, 1.0, 0.5]
 Game: [No Skyfall Combos], 4x ATK & halves dmg with 7+ combos; 4x ATK with 2 Dark combos, 5x ATK with 3+ combos
-JP: 【落ちコンなし】。7コンボ以上で攻撃力が4倍、受けるダメージを50％減少。闇の2コンボで攻撃力が4倍、最大3コンボで5倍。
+JP: 【落ちコンなし】7コンボ以上で攻撃力が4倍、受けるダメージを50％減少。闇の2コンボで攻撃力が4倍、最大3コンボで5倍。
 EN: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK when matching 2 Dark combos, up to 5x at 3 Dark combos
 KR: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK when matching 2 Dark combos, up to 5x at 3 Dark combos
 
@@ -60650,7 +60650,7 @@ KR: [No skyfall] 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -61010,7 +61010,7 @@ KR: 4x ATK when matching 4 or more connected Dark orbs up to 6x at 6 orbs
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
 Stats: [1.0, 30.0, 1.0, 0.0]
 Game: 【落ちコンなし】HP50％以下で攻撃力が5倍。 闇を6個以上つなげて消すと攻撃力が上昇、最大6倍。
-JP: 【落ちコンなし】。HPが50%以下で攻撃力が5倍。闇を6個以上つなげて消すと攻撃力が4倍、最大10個で6倍。
+JP: 【落ちコンなし】HPが50%以下で攻撃力が5倍。闇を6個以上つなげて消すと攻撃力が4倍、最大10個で6倍。
 EN: [No skyfall] 5x ATK when below 50% HP; 4x ATK when matching 6 or more connected Dark orbs up to 6x at 10 orbs
 KR: [No skyfall] 5x ATK when below 50% HP; 4x ATK when matching 6 or more connected Dark orbs up to 6x at 10 orbs
 
@@ -61018,7 +61018,7 @@ KR: [No skyfall] 5x ATK when below 50% HP; 4x ATK when matching 6 or more connec
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -61066,7 +61066,7 @@ KR: 6x ATK and 2x RCV when matching 5 Light orbs in an L shape
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 12.0, 1.0, 0.0]
 Game: 光属性のHPと攻撃力が2倍。7コンボ以上で攻撃力が6倍。 光と回復を同時に5個以上つなげて消すと、2コンボ加算。
-JP: 光属性のHPと攻撃力が2倍。7コンボ以上で攻撃力が6倍。光と回復を5同時に個以上つなげて消しと、2コンボ加算。
+JP: 光属性のHPと攻撃力が2倍。7コンボ以上で攻撃力が6倍。光と回復を5個以上同時につなげて消しと、2コンボ加算。
 EN: 2x HP & ATK for Light Att.; 6x ATK when 7 or more combos; Increase combo by 2 when matching 5 or more connected Light and Heal orbs at once
 KR: 2x HP & ATK for Light Att.; 6x ATK when 7 or more combos; Increase combo by 2 when matching 5 or more connected Light and Heal orbs at once
 
@@ -61090,7 +61090,7 @@ KR: 6x ATK when 7 or more combos
 Tags: 
 Stats: [1, 1.0, 1, 0]
 Game: 
-JP: 光と回復を5同時に個以上つなげて消しと、2コンボ加算。
+JP: 光と回復を5個以上同時につなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 5 or more connected Light and Heal orbs at once
 KR: Increase combo by 2 when matching 5 or more connected Light and Heal orbs at once
 
@@ -61122,7 +61122,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 4 or more colors
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
 Stats: [2.0, 8.0, 1.0, 0]
 Game: 【7×6マス】チームのサブをパワプロコラボキャラのみで組むと、 HPと攻撃力が2倍。6コンボ以上で攻撃力が4倍。
-JP: 【7×6マス】。実況パワフルプロ野球キャラのみでチームを組むと、HPと攻撃力が2倍。6コンボ以上で攻撃力が4倍。
+JP: 【7×6マス】実況パワフルプロ野球キャラのみでチームを組むと、HPと攻撃力が2倍。6コンボ以上で攻撃力が4倍。
 EN: [Board becomes 7x6] 2x HP & ATK when all cards are from Power Pros Collab; 4x ATK when 6 or more combos
 KR: [Board becomes 7x6] 2x HP & ATK when all cards are from Power Pros Collab; 4x ATK when 6 or more combos
 
@@ -61130,7 +61130,7 @@ KR: [Board becomes 7x6] 2x HP & ATK when all cards are from Power Pros Collab; 4
 Tags: BOARD_CHANGE_7X6
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 【7×6マス】。
+JP: 【7×6マス】
 EN: [Board becomes 7x6]
 KR: [Board becomes 7x6]
 
@@ -64067,7 +64067,7 @@ KR: 2x ATK & RCV when matching 4 or more connected Water or Dark orbs up to 4x a
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 14.0, 1.0, 0.0]
 Game: 7x ATK & adds 2 combos with 4+ linked Fire & Light Orbs each; 2x HP & ATK for Light Att.
-JP: 火と光を4同時に個以上つなげて消しと攻撃力が7倍、2コンボ加算。光属性のHPと攻撃力が2倍。
+JP: 火と光を4個以上同時につなげて消しと攻撃力が7倍、2コンボ加算。光属性のHPと攻撃力が2倍。
 EN: 7x ATK and increase combo by 2 when matching 4 or more connected Fire and Light orbs at once; 2x HP & ATK for Light Att.
 KR: 7x ATK and increase combo by 2 when matching 4 or more connected Fire and Light orbs at once; 2x HP & ATK for Light Att.
 
@@ -64075,7 +64075,7 @@ KR: 7x ATK and increase combo by 2 when matching 4 or more connected Fire and Li
 Tags: ENHANCED_ATK
 Stats: [1, 7.0, 1, 0]
 Game: 
-JP: 火と光を4同時に個以上つなげて消しと攻撃力が7倍、2コンボ加算。
+JP: 火と光を4個以上同時につなげて消しと攻撃力が7倍、2コンボ加算。
 EN: 7x ATK and increase combo by 2 when matching 4 or more connected Fire and Light orbs at once
 KR: 7x ATK and increase combo by 2 when matching 4 or more connected Fire and Light orbs at once
 
@@ -64147,7 +64147,7 @@ KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 12.0, 1.0, 0.35]
 Game: 4x ATK & adds 2 combos with 6+ linked Fr & Dk Orbs each; 3x ATK & reduces damage when HP is 50% or more
-JP: 火と闇を6同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。
+JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。
 EN: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
 KR: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
 
@@ -64155,7 +64155,7 @@ KR: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Da
 Tags: ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: 
-JP: 火と闇を6同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once
 KR: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once
 
@@ -64435,7 +64435,7 @@ KR: 300000 additional damage when attacking with 3 or more Wood combos
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 18.0, 1.0, 0.25]
 Game: [No Skyfall Combos], 4x ATK with 5+ linked Light Orbs; 4.5x ATK & reduces damage with an L shape of 5 Orbs
-JP: 【落ちコンなし】。光を5個以上つなげて消すと攻撃力が4倍。ドロップの5個L字消しで攻撃力が4.5倍、受けるダメージを25％減少。
+JP: 【落ちコンなし】光を5個以上つなげて消すと攻撃力が4倍。ドロップの5個L字消しで攻撃力が4.5倍、受けるダメージを25％減少。
 EN: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 KR: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
@@ -64443,7 +64443,7 @@ KR: [No skyfall] 4x ATK when matching 5 or more connected Light orbs; 4.5x ATK a
 Tags: NO_SKYFALL_COMBOS
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 【落ちコンなし】。
+JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
 
@@ -64467,7 +64467,7 @@ KR: 4.5x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 18.0, 1.0, 0.25]
 Game: [Orb move time: 6 sec], 6x ATK with 4+ linked Orbs; 3x ATK & 50,000 damage, reduces dmg when 4+ Att. Attack
-JP: 【操作時間6秒固定】。4色以上同時攻撃で攻撃力が3倍、受けるダメージを25％減少。4色以上同時攻撃、固定50000ダメージ。を4個以上つなげて消すと攻撃力が6倍。
+JP: 【操作時間6秒固定】4色以上同時攻撃で攻撃力が3倍、受けるダメージを25％減少。4色以上同時攻撃、固定50000ダメージ。を4個以上つなげて消すと攻撃力が6倍。
 EN: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matching 4 or more colors; 50000 additional damage when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
 KR: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matching 4 or more colors; 50000 additional damage when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
 
@@ -64475,7 +64475,7 @@ KR: [Fixed 6 second movetime] 3x ATK and reduce damage taken by 25% when matchin
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 【操作時間6秒固定】。
+JP: 【操作時間6秒固定】
 EN: [Fixed 6 second movetime]
 KR: [Fixed 6 second movetime]
 
@@ -65115,9 +65115,9 @@ KR: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs a
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: +1 Latent Awkn Skill slot when fused with Reincarnated monsters (incl. Ult Evo & Super Reincarn.), max 8 slots
-JP: 。
-EN: 
-KR: 
+JP: 転生進化、転生進化後の究極進化、超転生進化モンスターに 合成すると、潜在覚醒スキルの枠を1つ解放。（最大8枠まで）
+EN: +1 Latent Awkn Skill slot when fused with Reincarnated monsters (incl. Ult Evo & Super Reincarn.), max 8 slots
+KR: 환생진화, 환생진화 후 궁극진화, 초환생 진화 몬스터와 합성하면 잠재 각성 스킬 칸을 1개 해방(최대 8칸까지)
 
 # 15388/119 - 
 Tags: ENHANCED_ATK
@@ -65139,7 +65139,7 @@ KR: 6x ATK and 2x RCV for Attacker type
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -65147,7 +65147,7 @@ KR:
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: 
-JP: 。
+JP: 
 EN: 
 KR: 
 
@@ -65299,7 +65299,7 @@ KR: 6x ATK and increase combo by 2 when matching 6 or more connected Light orbs 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1, 0.25]
 Game: 4x ATK & adds 1 combo with 5+ linked Water & Light Orbs each; 4x ATK & reduces damage with 5+ combos
-JP: 水と光を5同時に個以上つなげて消しと攻撃力が4倍、1コンボ加算。5コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
+JP: 水と光を5個以上同時につなげて消しと攻撃力が4倍、1コンボ加算。5コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK and increase combo by 1 when matching 5 or more connected Water and Light orbs at once; 4x ATK and reduce damage taken by 25% when 5 or more combos
 KR: 4x ATK and increase combo by 1 when matching 5 or more connected Water and Light orbs at once; 4x ATK and reduce damage taken by 25% when 5 or more combos
 
@@ -65307,7 +65307,7 @@ KR: 4x ATK and increase combo by 1 when matching 5 or more connected Water and L
 Tags: ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: 
-JP: 水と光を5同時に個以上つなげて消しと攻撃力が4倍、1コンボ加算。
+JP: 水と光を5個以上同時につなげて消しと攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and increase combo by 1 when matching 5 or more connected Water and Light orbs at once
 KR: 4x ATK and increase combo by 1 when matching 5 or more connected Water and Light orbs at once
 
@@ -65499,7 +65499,7 @@ KR: 10x ATK when matching 6 or more connected Dark orbs
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 20.0, 1.0, 0.0]
 Game: 4x ATK & adds 2 combos with 4+ linked Light & Dark Orbs each; 2x HP & 5x ATK for Dark Att.
-JP: 光と闇を4同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。闇属性の攻撃力が5倍、HPが2倍。
+JP: 光と闇を4個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。闇属性の攻撃力が5倍、HPが2倍。
 EN: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 KR: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once; 5x ATK and 2x HP for Dark Att.
 
@@ -65507,7 +65507,7 @@ KR: 4x ATK and increase combo by 2 when matching 4 or more connected Light and D
 Tags: ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: 
-JP: 光と闇を4同時に個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+JP: 光と闇を4個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 KR: 4x ATK and increase combo by 2 when matching 4 or more connected Light and Dark orbs at once
 
@@ -66643,7 +66643,7 @@ KR: 9x ATK when below 50% HP
 Tags: ENHANCED_ATK
 Stats: [1.0, 2187.0, 1.0, 0]
 Game: 【操作時間4秒】光闇の同時攻撃で攻撃力が3倍、3コンボ加算。 5属性いずれかの5個十字消し1個につき攻撃力が3倍。
-JP: 【操作時間4秒固定】。光、闇同時攻撃で攻撃力が3倍、3コンボ加算。火か水か木の5個十字消し1個につき攻撃力が3倍。光か闇の5個十字消し1個につき攻撃力が3倍。
+JP: 【操作時間4秒固定】光、闇同時攻撃で攻撃力が3倍、3コンボ加算。火か水か木の5個十字消し1個につき攻撃力が3倍。光か闇の5個十字消し1個につき攻撃力が3倍。
 EN: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
 KR: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
 
@@ -66651,7 +66651,7 @@ KR: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0]
 Game: 
-JP: 【操作時間4秒固定】。
+JP: 【操作時間4秒固定】
 EN: [Fixed 4 second movetime]
 KR: [Fixed 4 second movetime]
 
@@ -67924,16 +67924,16 @@ Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 18.0, 3.0, 0.0]
 Game: 転生、超転生進化のみでチームを組むと、攻撃力が6倍。 火属性の攻撃力と回復力が3倍。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力が6倍。火属性の攻撃力と回復力が3倍。
-EN: 6x ATK when all cards are Reincarnated and Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
-KR: 6x ATK when all cards are Reincarnated and Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
+EN: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
+KR: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
 
 # 16114/203 - 
 Tags: ENHANCED_ATK
 Stats: [1.0, 6.0, 1.0, 0]
 Game: 
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力が6倍。
-EN: 6x ATK when all cards are Reincarnated and Super Reincarnated Evolutions
-KR: 6x ATK when all cards are Reincarnated and Super Reincarnated Evolutions
+EN: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions
+KR: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions
 
 # 16115/129 - 
 Tags: ENHANCED_ATK_RCV
@@ -67948,16 +67948,16 @@ Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 20.0, 2.0, 0]
 Game: 転生、超転生進化のみでチームを組むと、HPと回復力が2倍。 水か光を5個以上つなげて消すと攻撃力が上昇、最大20倍。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、HPと回復力が2倍。水か光を5個以上つなげて消すと攻撃力が14倍、最大9個で20倍。
-EN: 2x HP & RCV when all cards are Reincarnated and Super Reincarnated Evolutions; 14x ATK when matching 5 or more connected Water or Light orbs up to 20x at 9 orbs
-KR: 2x HP & RCV when all cards are Reincarnated and Super Reincarnated Evolutions; 14x ATK when matching 5 or more connected Water or Light orbs up to 20x at 9 orbs
+EN: 2x HP & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 14x ATK when matching 5 or more connected Water or Light orbs up to 20x at 9 orbs
+KR: 2x HP & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 14x ATK when matching 5 or more connected Water or Light orbs up to 20x at 9 orbs
 
 # 16117/203 - 
 Tags: ENHANCED_HP_RCV
 Stats: [2.0, 1.0, 2.0, 0]
 Game: 
 JP: 転生と超転生進化のみキャラのみでチームを組むと、HPと回復力が2倍。
-EN: 2x HP & RCV when all cards are Reincarnated and Super Reincarnated Evolutions
-KR: 2x HP & RCV when all cards are Reincarnated and Super Reincarnated Evolutions
+EN: 2x HP & RCV when all cards are Reincarnated or Super Reincarnated Evolutions
+KR: 2x HP & RCV when all cards are Reincarnated or Super Reincarnated Evolutions
 
 # 16118/119 - 
 Tags: ENHANCED_ATK
@@ -67972,16 +67972,16 @@ Tags: ENHANCED_HP_ATK
 Stats: [2.0, 85.76, 1.0, 0]
 Game: 転生、超転生進化のみでチームを組むと、HPと攻撃力が2倍。 木か闇の5個十字消し1個につき攻撃力が3.5倍。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、HPと攻撃力が2倍。木か闇の5個十字消し1個につき攻撃力が3.5倍。
-EN: 2x HP & ATK when all cards are Reincarnated and Super Reincarnated Evolutions; 3.5x ATK for each cross of 5 Wood or Dark orbs
-KR: 2x HP & ATK when all cards are Reincarnated and Super Reincarnated Evolutions; 3.5x ATK for each cross of 5 Wood or Dark orbs
+EN: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3.5x ATK for each cross of 5 Wood or Dark orbs
+KR: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3.5x ATK for each cross of 5 Wood or Dark orbs
 
 # 16120/203 - 
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 2.0, 1.0, 0]
 Game: 
 JP: 転生と超転生進化のみキャラのみでチームを組むと、HPと攻撃力が2倍。
-EN: 2x HP & ATK when all cards are Reincarnated and Super Reincarnated Evolutions
-KR: 2x HP & ATK when all cards are Reincarnated and Super Reincarnated Evolutions
+EN: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions
+KR: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions
 
 # 16121/157 - 
 Tags: ENHANCED_ATK
@@ -67996,16 +67996,16 @@ Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 22.0, 2.0, 0]
 Game: 転生、超転生進化のみでチームを組むと、全パラメータが2倍。 4色（3色＋回復）以上同時攻撃で攻撃力が上昇、最大11倍。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが2倍。4色(3色+回復)以上同時攻撃で攻撃力が8倍、最大5色+回復で11倍。
-EN: 2x all stats when all cards are Reincarnated and Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
-KR: 2x all stats when all cards are Reincarnated and Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
+EN: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
+KR: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
 
 # 16123/203 - 
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 2.0, 2.0, 0]
 Game: 
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが2倍。
-EN: 2x all stats when all cards are Reincarnated and Super Reincarnated Evolutions
-KR: 2x all stats when all cards are Reincarnated and Super Reincarnated Evolutions
+EN: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions
+KR: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions
 
 # 16124/61 - 
 Tags: ENHANCED_ATK
@@ -68020,16 +68020,16 @@ Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 20.0, 5.0, 0]
 Game: 転生、超転生進化のみでチームを組むと、攻撃力と回復力が5倍。 強化ドロップを含めて5個消した属性の攻撃力が4倍。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が5倍。強化ドロップを含めてを5個消した属性の攻撃力が4倍。
-EN: 5x ATK & RCV when all cards are Reincarnated and Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
-KR: 5x ATK & RCV when all cards are Reincarnated and Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+EN: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
 # 16126/203 - 
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 5.0, 5.0, 0]
 Game: 
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が5倍。
-EN: 5x ATK & RCV when all cards are Reincarnated and Super Reincarnated Evolutions
-KR: 5x ATK & RCV when all cards are Reincarnated and Super Reincarnated Evolutions
+EN: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions
+KR: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions
 
 # 16127/150 - 
 Tags: ENHANCED_ATK
@@ -68403,7 +68403,7 @@ KR: 8x ATK and increase combo by 1 when matching Light and Dark at once
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0.0]
 Game: 水と光を同時に5個以上つなげて消すと攻撃力が9倍、 2コンボ加算。水属性のHPと攻撃力が2倍。
-JP: 水と光を5同時に個以上つなげて消しと攻撃力が9倍、2コンボ加算。水属性のHPと攻撃力が2倍。
+JP: 水と光を5個以上同時につなげて消しと攻撃力が9倍、2コンボ加算。水属性のHPと攻撃力が2倍。
 EN: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once; 2x HP & ATK for Water Att.
 KR: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once; 2x HP & ATK for Water Att.
 
@@ -68411,7 +68411,7 @@ KR: 9x ATK and increase combo by 2 when matching 5 or more connected Water and L
 Tags: ENHANCED_ATK
 Stats: [1, 9.0, 1, 0]
 Game: 
-JP: 水と光を5同時に個以上つなげて消しと攻撃力が9倍、2コンボ加算。
+JP: 水と光を5個以上同時につなげて消しと攻撃力が9倍、2コンボ加算。
 EN: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once
 KR: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once
 
@@ -68819,7 +68819,7 @@ KR: 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: モンスター交換所で特別なモンスターと交換できる。
-JP: 。
-EN: 
-KR: 
+JP: モンスター交換所で特別なモンスターと交換できる。
+EN: モンスター交換所で特別なモンスターと交換できる。
+KR: モンスター交換所で特別なモンスターと交換できる。
 
