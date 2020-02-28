@@ -1,0 +1,20 @@
+#6012 ミッキーマウス＆ドナルドダック＆グーフィー
+HP: 5605 ATK: 2651 RCV: 30 LB: 20
+AWK: 10,10,21,21,28,53,51,43,43
+SAWK: 43,56,70
+
+# 16408/116 - ドリーム・オブ・アドベンチャー
+Tags: ALL_ORBS_CONVERT
+Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、光、闇、回復ドロップに変化。
+JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
+EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+
+# 16417/138 - ファンタスティック・パーティー
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 20.0, 1.0, 0]
+Game: 火属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 4色以上同時攻撃で攻撃力が10倍。
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。4色以上同時攻撃で攻撃力が10倍。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors
+

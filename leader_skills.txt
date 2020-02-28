@@ -68823,3 +68823,619 @@ JP: モンスター交換所で特別なモンスターと交換できる。
 EN: モンスター交換所で特別なモンスターと交換できる。
 KR: モンスター交換所で特別なモンスターと交換できる。
 
+# 16381/138 - セレブレーション
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 18.0, 2.0, 0]
+Game: 【操作時間8秒】全属性の全パラメータが2倍。 4コンボ以上で攻撃力が上昇、最大9倍。
+JP: 【操作時間8秒固定】全パラメータが2倍。4コンボ以上で攻撃力が6倍、最大7コンボで9倍。
+EN: [Fixed 8 second movetime] 2x all stats; 6x ATK when 4 or more combos up to 9x at 7 combos
+KR: [Fixed 8 second movetime] 2x all stats; 6x ATK when 4 or more combos up to 9x at 7 combos
+
+# 16382/178 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: 【操作時間8秒固定】全パラメータが2倍。
+EN: [Fixed 8 second movetime] 2x all stats
+KR: [Fixed 8 second movetime] 2x all stats
+
+# 16383/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1, 0]
+Game: 
+JP: 4コンボ以上で攻撃力が6倍、最大7コンボで9倍。
+EN: 6x ATK when 4 or more combos up to 9x at 7 combos
+KR: 6x ATK when 4 or more combos up to 9x at 7 combos
+
+# 16384/138 - ファンタスティック・セレブレーション
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 16.0, 2.0, 0]
+Game: 【操作時間8秒】全属性の全パラメータが2倍。 3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
+JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
+EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
+KR: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
+
+# 16385/178 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: 【操作時間8秒固定】全パラメータが2倍。
+EN: [Fixed 8 second movetime] 2x all stats
+KR: [Fixed 8 second movetime] 2x all stats
+
+# 16386/194 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
+EN: 8x ATK and increase combo by 1 when matching 3 or more colors
+KR: 8x ATK and increase combo by 1 when matching 3 or more colors
+
+# 16390/138 - スペシャル・ハピネス
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 15.0, 1.0, 0]
+Game: 火属性のHPと攻撃力が1.5倍。ドロップ操作を3秒延長。 2コンボ以上で攻撃力が10倍。
+JP: 火属性のHPと攻撃力が1.5倍。ドロップ操作時間を3秒延長。2コンボ以上で攻撃力が10倍。
+EN: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when 2 or more combos
+KR: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when 2 or more combos
+
+# 16391/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 1.5, 1.0, 0]
+Game: 
+JP: 火属性のHPと攻撃力が1.5倍。ドロップ操作時間を3秒延長。
+EN: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+KR: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16392/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 10.0, 1, 0]
+Game: 
+JP: 2コンボ以上で攻撃力が10倍。
+EN: 10x ATK when 2 or more combos
+KR: 10x ATK when 2 or more combos
+
+# 16393/138 - ファンタスティック・ハピネス
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [1.5, 15.0, 1.0, 0.25]
+Game: 火属性のHPと攻撃力が1.5倍。ドロップ操作を3秒延長。 4コンボ以上でダメージを軽減、攻撃力が10倍。
+JP: 火属性のHPと攻撃力が1.5倍。ドロップ操作時間を3秒延長。4コンボ以上で攻撃力が10倍、受けるダメージを25％減少。
+EN: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when 4 or more combos
+KR: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 25% when 4 or more combos
+
+# 16394/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 1.5, 1.0, 0]
+Game: 
+JP: 火属性のHPと攻撃力が1.5倍。ドロップ操作時間を3秒延長。
+EN: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+KR: 1.5x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16395/169 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 10.0, 1, 0.25]
+Game: 
+JP: 4コンボ以上で攻撃力が10倍、受けるダメージを25％減少。
+EN: 10x ATK and reduce damage taken by 25% when 4 or more combos
+KR: 10x ATK and reduce damage taken by 25% when 4 or more combos
+
+# 16399/138 - ファンタスティック・ラブ
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0]
+Game: 火属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 火光の同時攻撃で攻撃力が7.5倍。
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。火、光の同時攻撃で攻撃力が7.5倍。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 7.5x ATK when matching Fire and Light
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 7.5x ATK when matching Fire and Light
+
+# 16400/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 2.0, 1.0, 0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16401/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.5, 1, 0]
+Game: 
+JP: 火、光の同時攻撃で攻撃力が7.5倍。
+EN: 7.5x ATK when matching Fire and Light
+KR: 7.5x ATK when matching Fire and Light
+
+# 16405/138 - ワンダフル・バディ
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 16.0, 4.0, 0]
+Game: 火属性の攻撃力と回復力が4倍。ドロップ操作を3秒延長。 3色以上同時攻撃で攻撃力が4倍。
+JP: 火属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。3色以上同時攻撃で攻撃力が4倍。
+EN: 4x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds; 4x ATK when matching 3 or more colors
+KR: 4x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds; 4x ATK when matching 3 or more colors
+
+# 16406/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 4.0, 4.0, 0]
+Game: 
+JP: 火属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。
+EN: 4x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds
+KR: 4x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16407/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が4倍。
+EN: 4x ATK when matching 3 or more colors
+KR: 4x ATK when matching 3 or more colors
+
+# 16411/138 - スペシャル・アドベンチャー
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0]
+Game: 火属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 火水の同時攻撃で攻撃力が7.5倍。
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。火、水の同時攻撃で攻撃力が7.5倍。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 7.5x ATK when matching Fire and Water
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 7.5x ATK when matching Fire and Water
+
+# 16412/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 2.0, 1.0, 0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16413/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.5, 1, 0]
+Game: 
+JP: 火、水の同時攻撃で攻撃力が7.5倍。
+EN: 7.5x ATK when matching Fire and Water
+KR: 7.5x ATK when matching Fire and Water
+
+# 16417/138 - ファンタスティック・パーティー
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 20.0, 1.0, 0]
+Game: 火属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 4色以上同時攻撃で攻撃力が10倍。
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。4色以上同時攻撃で攻撃力が10倍。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors
+
+# 16418/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 2.0, 1.0, 0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16419/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 10.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が10倍。
+EN: 10x ATK when matching 4 or more colors
+KR: 10x ATK when matching 4 or more colors
+
+# 16423/138 - ハッピー・ドリーム
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 12.0, 4.0, 0]
+Game: 光属性の攻撃力と回復力が4倍。ドロップ操作を3秒延長。 2コンボ以上で攻撃力が3倍。
+JP: 光属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。2コンボ以上で攻撃力が3倍。
+EN: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK when 2 or more combos
+KR: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK when 2 or more combos
+
+# 16424/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 4.0, 4.0, 0]
+Game: 
+JP: 光属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。
+EN: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds
+KR: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds
+
+# 16425/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: 2コンボ以上で攻撃力が3倍。
+EN: 3x ATK when 2 or more combos
+KR: 3x ATK when 2 or more combos
+
+# 16426/138 - グレート・ドリーム
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 16.0, 4.0, 0]
+Game: 光属性の攻撃力と回復力が4倍。ドロップ操作を3秒延長。 4コンボ以上で攻撃力が4倍。
+JP: 光属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。4コンボ以上で攻撃力が4倍。
+EN: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 4x ATK when 4 or more combos
+KR: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 4x ATK when 4 or more combos
+
+# 16427/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 4.0, 4.0, 0]
+Game: 
+JP: 光属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。
+EN: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds
+KR: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds
+
+# 16428/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4コンボ以上で攻撃力が4倍。
+EN: 4x ATK when 4 or more combos
+KR: 4x ATK when 4 or more combos
+
+# 16429/138 - ファンタスティック・ドリーム
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 14.0, 1.0, 0]
+Game: 光属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 4コンボ以上で攻撃力が7倍。
+JP: 光属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。4コンボ以上で攻撃力が7倍。
+EN: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
+KR: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
+
+# 16430/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 2.0, 1.0, 0]
+Game: 
+JP: 光属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds
+KR: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds
+
+# 16431/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.0, 1, 0]
+Game: 
+JP: 4コンボ以上で攻撃力が7倍。
+EN: 7x ATK when 4 or more combos
+KR: 7x ATK when 4 or more combos
+
+# 16435/138 - ハッピー・エナジー
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 12.0, 1.5, 0]
+Game: 攻撃タイプの全パラメータが1.5倍。ドロップ操作を3秒延長。 HP50％以上で攻撃力が8倍。
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。HPが50%以上で攻撃力が8倍。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 8x ATK when above 50% HP
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 8x ATK when above 50% HP
+
+# 16436/185 - 
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 1.5, 1.5, 0]
+Game: 
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+
+# 16437/123 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: HPが50%以上で攻撃力が8倍。
+EN: 8x ATK when above 50% HP
+KR: 8x ATK when above 50% HP
+
+# 16438/138 - スペシャル・エナジー
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 15.0, 1.5, 0]
+Game: 攻撃タイプの全パラメータが1.5倍。ドロップ操作を3秒延長。 HP50％以上で攻撃力が10倍。
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。HPが50%以上で攻撃力が10倍。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 10x ATK when above 50% HP
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 10x ATK when above 50% HP
+
+# 16439/185 - 
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 1.5, 1.5, 0]
+Game: 
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+
+# 16440/123 - 
+Tags: ENHANCED_ATK
+Stats: [1, 10.0, 1, 0]
+Game: 
+JP: HPが50%以上で攻撃力が10倍。
+EN: 10x ATK when above 50% HP
+KR: 10x ATK when above 50% HP
+
+# 16441/138 - ファンタスティック・エナジー
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [1.5, 15.0, 1.5, 0.35]
+Game: 攻撃タイプの全パラメータが1.5倍。ドロップ操作を3秒延長。 HP50％以上でダメージを軽減、攻撃力が10倍。
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。HPが50%以上で攻撃力が10倍、受けるダメージを35％減少。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 35% when above 50% HP
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds; 10x ATK and reduce damage taken by 35% when above 50% HP
+
+# 16442/185 - 
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 1.5, 1.5, 0]
+Game: 
+JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を3秒延長。
+EN: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+KR: 1.5x all stats for Attacker type; Increase orb movement time by 3 seconds
+
+# 16443/183 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 10.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で攻撃力が10倍、受けるダメージを35％減少。
+EN: 10x ATK and reduce damage taken by 35% when above 50% HP
+KR: 10x ATK and reduce damage taken by 35% when above 50% HP
+
+# 16448/185 - ディライトフル・パワー
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 8.0, 1.0, 0]
+Game: 木属性のHPが2倍、攻撃力は8倍。 ドロップ操作を3秒延長。
+JP: 木属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16449/138 - ファンタスティック・ディライト
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 12.0, 1.0, 0]
+Game: 木属性のHPが2倍、攻撃力は8倍。ドロップ操作を3秒延長。 スキル使用時、攻撃力が1.5倍。
+JP: 木属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。スキル使用時、攻撃力が1.5倍。
+EN: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds; 1.5x ATK on the turn a skill is used
+KR: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds; 1.5x ATK on the turn a skill is used
+
+# 16450/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 8.0, 1.0, 0]
+Game: 
+JP: 木属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16451/133 - 
+Tags: ENHANCED_ATK
+Stats: [1, 1.5, 1.0, 0]
+Game: 
+JP: スキル使用時、攻撃力が1.5倍。
+EN: 1.5x ATK on the turn a skill is used
+KR: 1.5x ATK on the turn a skill is used
+
+# 16455/185 - ワンダフル・デイズ
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 3.0, 0]
+Game: 木属性の攻撃力が8倍、回復力は3倍。 ドロップ操作を3秒延長。
+JP: 木属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16456/185 - 
+Tags: ENHANCED_ATK,EXTEND_TIME
+Stats: [1.0, 8.0, 1.0, 0]
+Game: 
+JP: バランスタイプの攻撃力が8倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK for Balanced type; Increase orb movement time by 3 seconds
+KR: 8x ATK for Balanced type; Increase orb movement time by 3 seconds
+
+# 16457/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 
+JP: 4コンボ以上で攻撃力が4倍、最大6コンボで6倍。
+EN: 4x ATK when 4 or more combos up to 6x at 6 combos
+KR: 4x ATK when 4 or more combos up to 6x at 6 combos
+
+# 16458/138 - ファンタスティック・ワンダー
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 12.0, 3.0, 0]
+Game: 木属性の攻撃力が8倍、回復力は3倍。ドロップ操作を3秒延長。 スキル使用時、攻撃力が1.5倍。
+JP: 木属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。スキル使用時、攻撃力が1.5倍。
+EN: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds; 1.5x ATK on the turn a skill is used
+KR: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds; 1.5x ATK on the turn a skill is used
+
+# 16459/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 3.0, 0]
+Game: 
+JP: 木属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 3x RCV for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16460/133 - 
+Tags: ENHANCED_ATK
+Stats: [1, 1.5, 1.0, 0]
+Game: 
+JP: スキル使用時、攻撃力が1.5倍。
+EN: 1.5x ATK on the turn a skill is used
+KR: 1.5x ATK on the turn a skill is used
+
+# 16464/185 - ハッピー・ビューティー
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 4.0, 0]
+Game: 攻撃タイプの攻撃力が8倍、回復力は4倍。 ドロップ操作を3秒延長。
+JP: 攻撃タイプの攻撃力が8倍、回復力が4倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds
+KR: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds
+
+# 16465/138 - ファンタスティック・ビューティー
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 12.0, 4.0, 0]
+Game: 攻撃タイプの攻撃力が8倍、回復力は4倍。 ドロップ操作を3秒延長。HP50％以上で攻撃力が1.5倍。
+JP: 攻撃タイプの攻撃力が8倍、回復力が4倍。ドロップ操作時間を3秒延長。HPが50%以上で攻撃力が1.5倍。
+EN: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds; 1.5x ATK when above 50% HP
+KR: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds; 1.5x ATK when above 50% HP
+
+# 16466/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 4.0, 0]
+Game: 
+JP: 攻撃タイプの攻撃力が8倍、回復力が4倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds
+KR: 8x ATK and 4x RCV for Attacker type; Increase orb movement time by 3 seconds
+
+# 16467/123 - 
+Tags: ENHANCED_ATK
+Stats: [1, 1.5, 1, 0]
+Game: 
+JP: HPが50%以上で攻撃力が1.5倍。
+EN: 1.5x ATK when above 50% HP
+KR: 1.5x ATK when above 50% HP
+
+# 16471/185 - スペシャル・ジョイ
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 3.0, 0]
+Game: 水属性の攻撃力が8倍、回復力は3倍。 ドロップ操作を3秒延長。
+JP: 水属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds
+
+# 16472/186 - 
+Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
+Stats: [1.0, 2.0, 1.0, 0]
+Game: 
+JP: 【7×6マス】水属性の攻撃力が2倍。
+EN: [Board becomes 7x6] 2x ATK for Water Att.
+KR: [Board becomes 7x6] 2x ATK for Water Att.
+
+# 16473/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: を5個以上つなげて消すと攻撃力が3倍。
+EN: 3x ATK when matching 5 or more connected orbs
+KR: 3x ATK when matching 5 or more connected orbs
+
+# 16474/138 - ファンタスティック・ジョイ
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 12.0, 3.0, 0]
+Game: 水属性の攻撃力が8倍、回復力は3倍。ドロップ操作を3秒延長。 3色以上同時攻撃で攻撃力が1.5倍。
+JP: 水属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。3色以上同時攻撃で攻撃力が1.5倍。
+EN: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds; 1.5x ATK when matching 3 or more colors
+KR: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds; 1.5x ATK when matching 3 or more colors
+
+# 16475/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 3.0, 0]
+Game: 
+JP: 水属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 3x RCV for Water Att.; Increase orb movement time by 3 seconds
+
+# 16476/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 1.5, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が1.5倍。
+EN: 1.5x ATK when matching 3 or more colors
+KR: 1.5x ATK when matching 3 or more colors
+
+# 16480/185 - ハッピー・インテリジェンス
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 8.0, 1.0, 0]
+Game: 水属性のHPが2倍、攻撃力は8倍。 ドロップ操作を3秒延長。
+JP: 水属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+
+# 16481/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.0, 1.0, 0.0]
+Game: 
+JP: HPが50%以上で攻撃力が7倍。
+EN: 7x ATK when above 50% HP
+KR: 7x ATK when above 50% HP
+
+# 16482/185 - 
+Tags: ENHANCED_HP,EXTEND_TIME
+Stats: [1.5, 1.0, 1.0, 0]
+Game: 
+JP: 水属性のHPが1.5倍。ドロップ操作時間を5秒延長。
+EN: 1.5x HP for Water Att.; Increase orb movement time by 5 seconds
+KR: 1.5x HP for Water Att.; Increase orb movement time by 5 seconds
+
+# 16483/138 - ファンタスティック・インテリジェンス
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 12.0, 1.0, 0]
+Game: 水属性のHPが2倍、攻撃力は8倍。ドロップ操作を3秒延長。 3色以上同時攻撃で攻撃力が1.5倍。
+JP: 水属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。3色以上同時攻撃で攻撃力が1.5倍。
+EN: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds; 1.5x ATK when matching 3 or more colors
+KR: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds; 1.5x ATK when matching 3 or more colors
+
+# 16484/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 8.0, 1.0, 0]
+Game: 
+JP: 水属性の攻撃力が8倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+
+# 16485/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 1.5, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が1.5倍。
+EN: 1.5x ATK when matching 3 or more colors
+KR: 1.5x ATK when matching 3 or more colors
+
+# 16487/138 - マジカル・セレブレーション
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 16.0, 2.0, 0]
+Game: 「ミッキー＆フレンズ」のキャラクターのみでチームを組むと、 全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍。
+JP: 〈不明なコラボ：90〉キャラのみでチームを組むと、全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍。
+EN: 2x all stats when all cards are from <not populated:90>; 8x ATK when matching 3 or more colors
+KR: 2x all stats when all cards are from <not populated:90>; 8x ATK when matching 3 or more colors
+
+# 16488/175 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: 〈不明なコラボ：90〉キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are from <not populated:90>
+KR: 2x all stats when all cards are from <not populated:90>
+
+# 16489/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が8倍。
+EN: 8x ATK when matching 3 or more colors
+KR: 8x ATK when matching 3 or more colors
+
+# 16491/185 - ハッピー・セレブレーション
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 8.0, 1.0, 0]
+Game: 火属性のHPが1.5倍、攻撃力は8倍。 ドロップ操作を3秒延長。
+JP: 火属性の攻撃力が8倍、HPが1.5倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 3 seconds
+
+# 16493/185 - ドリーミー・セレブレーション
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 8.0, 3.0, 0]
+Game: 闇属性の攻撃力が8倍、回復力は3倍。 ドロップ操作を3秒延長。
+JP: 闇属性の攻撃力が8倍、回復力が3倍。ドロップ操作時間を3秒延長。
+EN: 8x ATK and 3x RCV for Dark Att.; Increase orb movement time by 3 seconds
+KR: 8x ATK and 3x RCV for Dark Att.; Increase orb movement time by 3 seconds
+
+# 16495/185 - エネジェティック・セレブレーション
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 7.0, 1.0, 0]
+Game: 水属性のHPが2倍、攻撃力は7倍。 ドロップ操作を3秒延長。
+JP: 水属性の攻撃力が7倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 7x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+KR: 7x ATK and 2x HP for Water Att.; Increase orb movement time by 3 seconds
+
+# 16497/185 - ディライトフル・セレブレーション
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 7.0, 1.0, 0]
+Game: 木属性のHPが2倍、攻撃力は7倍。 ドロップ操作を3秒延長。
+JP: 木属性の攻撃力が7倍、HPが2倍。ドロップ操作時間を3秒延長。
+EN: 7x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+KR: 7x ATK and 2x HP for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16499/185 - ワンダフル・セレブレーション
+Tags: ENHANCED_ATK,EXTEND_TIME
+Stats: [1.0, 10.0, 1.0, 0]
+Game: 木属性の攻撃力が10倍。 ドロップ操作を3秒延長。
+JP: 木属性の攻撃力が10倍。ドロップ操作時間を3秒延長。
+EN: 10x ATK for Wood Att.; Increase orb movement time by 3 seconds
+KR: 10x ATK for Wood Att.; Increase orb movement time by 3 seconds
+
+# 16501/185 - ビューティフル・セレブレーション
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 6.0, 1.0, 0]
+Game: 闇属性のHPが2倍、攻撃力は6倍。 ドロップ操作を10秒延長。
+JP: 闇属性の攻撃力が6倍、HPが2倍。ドロップ操作時間を10秒延長。
+EN: 6x ATK and 2x HP for Dark Att.; Increase orb movement time by 10 seconds
+KR: 6x ATK and 2x HP for Dark Att.; Increase orb movement time by 10 seconds
+

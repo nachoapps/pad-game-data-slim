@@ -1,0 +1,20 @@
+#6014 ミニーマウス
+HP: 3263 ATK: 1645 RCV: 761 LB: 0
+AWK: 10,10,21,21,20,28,53,60,60
+SAWK: 
+
+# 16420/116 - ドリーム・オブ・ドリーム
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 最上段横1列を回復ドロップに変化。 6ターンの間、受けるダメージを軽減。
+JP: 最上段を回復ドロップに変化。6ターンの間、受けるダメージを30％減少
+EN: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+KR: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+
+# 16423/138 - ハッピー・ドリーム
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 12.0, 4.0, 0]
+Game: 光属性の攻撃力と回復力が4倍。ドロップ操作を3秒延長。 2コンボ以上で攻撃力が3倍。
+JP: 光属性の攻撃力と回復力が4倍。ドロップ操作時間を3秒延長。2コンボ以上で攻撃力が3倍。
+EN: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK when 2 or more combos
+KR: 4x ATK & RCV for Light Att.; Increase orb movement time by 3 seconds; 3x ATK when 2 or more combos
+

@@ -1,0 +1,20 @@
+#6016 ミニーマウス【ドリーム】
+HP: 4563 ATK: 1695 RCV: 581 LB: 20
+AWK: 10,10,56,21,20,28,19,60,55
+SAWK: 56,53,33
+
+# 16420/116 - ドリーム・オブ・ドリーム
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 最上段横1列を回復ドロップに変化。 6ターンの間、受けるダメージを軽減。
+JP: 最上段を回復ドロップに変化。6ターンの間、受けるダメージを30％減少
+EN: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+KR: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+
+# 16429/138 - ファンタスティック・ドリーム
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 14.0, 1.0, 0]
+Game: 光属性のHPと攻撃力が2倍。ドロップ操作を3秒延長。 4コンボ以上で攻撃力が7倍。
+JP: 光属性のHPと攻撃力が2倍。ドロップ操作時間を3秒延長。4コンボ以上で攻撃力が7倍。
+EN: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
+KR: 2x HP & ATK for Light Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
+

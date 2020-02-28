@@ -81887,7 +81887,7 @@ JP: 3ターンの間、火ドロップを+15%に落ちてくる
 EN: Fire skyfall +15% for 3 turns
 KR: Fire skyfall +15% for 3 turns
 
-# 16370/15 - コロナスパーク
+# 16370/15 - ヒートフィスト
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
@@ -81912,30 +81912,30 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16375/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16375/69 - ファンシードリーム
+JP: 死亡効果を表示
+EN: Show death effect
+KR: Show death effect
 
-# 16376/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16376/124 - ミッキーベガス火
+JP: フィーバーモード: 火ドロップが40個消す
+EN: Fever Mode: clear 40 Fire orbs
+KR: Fever Mode: clear 40 Fire orbs
 
-# 16377/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16377/124 - ミッキーベガス水
+JP: フィーバーモード: 水ドロップが40個消す
+EN: Fever Mode: clear 40 Water orbs
+KR: Fever Mode: clear 40 Water orbs
 
-# 16378/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16378/124 - ミッキーベガス木
+JP: フィーバーモード: 木ドロップが40個消す
+EN: Fever Mode: clear 40 Wood orbs
+KR: Fever Mode: clear 40 Wood orbs
 
-# 16379/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16379/124 - ミッキーベガス闇
+JP: フィーバーモード: 闇ドロップが40個消す
+EN: Fever Mode: clear 40 Dark orbs
+KR: Fever Mode: clear 40 Dark orbs
 
 # 16380/0 - なし
 JP: nothing
@@ -82602,130 +82602,130 @@ JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 16513/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16513/5 - まだまだいくぞ！！
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
-# 16514/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16514/15 - 先ずは小手調べだ
+JP: 145%ダメージ
+EN: Deal 145% damage
+KR: Deal 145% damage
 
-# 16515/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16515/74 - …よく耐えたな
+JP: 99ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 99 turns
+KR: Reduce damage from all sources by 50% for 99 turns
 
-# 16516/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16516/67 - ここからが本番だ
+JP: 99ターンの間、11コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 11 for 99 turns
+KR: Absorb damage when combos <= 11 for 99 turns
 
-# 16517/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16517/39 - 少しはやるようだな
+JP: 10ターンの間、操作時間-2秒
+EN: Movetime -2s for 10 turns
+KR: Movetime -2s for 10 turns
 
-# 16518/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16518/17 - オレをもっと楽しませろ
+JP: 99ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 99 turns
+KR: Increase damage to 150% for the next 99 turns
 
-# 16519/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16519/6 - 破壊棍
+JP: こちらにかかっている状態変化を解除
+EN: Voids player buff effects
+KR: Voids player buff effects
 
-# 16520/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16520/88 - これで終わりだ…
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
 
-# 16521/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16521/15 - 旋風爆鎚棍！！
+JP: 1010%ダメージ (10連続攻撃、101%ごと)
+EN: Deal 1010% damage (10 hits, 101% each)
+KR: Deal 1010% damage (10 hits, 101% each)
 
-# 16522/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16522/15 - 竪琴・悲哀奏
+JP: 110%ダメージ
+EN: Deal 110% damage
+KR: Deal 110% damage
 
-# 16523/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16523/85 - 竪琴・喜遊奏
+JP: 全ドロップを火、水、木、光、闇、回復に変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
-# 16524/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16524/1 - 竪琴・揺籃奏
+JP: 10ターンの間、ランダムで2体がバインド
+EN: Bind 2 random cards for 10 turns
+KR: Bind 2 random cards for 10 turns
 
-# 16525/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16525/20 - 豊穣の大釜
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 16526/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16526/83 - ＿先制1
+JP: 
+EN: 
+KR: 
 
-# 16527/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16527/83 - ＿連続1
+JP: 
+EN: 
+KR: 
 
-# 16528/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16528/83 - ＿連続2
+JP: 
+EN: 
+KR: 
 
-# 16529/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16529/83 - ＿連続3
+JP: 
+EN: 
+KR: 
 
-# 16530/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16530/73 - 根性
+JP: HP30%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 30%
+KR: Survive attacks with 1 HP when HP > 30%
 
-# 16531/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16531/86 - 再生棍
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 16532/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16532/127 - 白騎士の試練
+JP: 99ターンの間、落ちコンしなくなる
+EN: No skyfall for 99 turns
+KR: No skyfall for 99 turns
 
-# 16533/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16533/110 - いくぞ！
+JP: 99.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 99 turns
+KR: Specific orbs change every 1.0s for 99 turns
 
-# 16534/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16534/67 - パラディンシールド
+JP: 99ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 99 turns
+KR: Absorb damage when combos <= 6 for 99 turns
 
-# 16535/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16535/50 - ガードブレイク
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
 
-# 16536/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16536/15 - ホワイトブレード
+JP: 400〜600%ダメージ (4〜6連続攻撃、100%ごと)
+EN: Deal 400~600% damage (4~6 hits, 100% each)
+KR: Deal 400~600% damage (4~6 hits, 100% each)
 
-# 16537/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16537/83 - ＿先制1
+JP: 
+EN: 
+KR: 
 
 # 16538/98 - セブンスカー
 JP: 7ターンの間、特定のドロップが超暗闇にする
@@ -86303,6 +86303,156 @@ EN: nothing
 KR: nothing
 
 # 17253/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17254/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17255/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17256/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17257/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17258/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17259/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17260/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17261/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17262/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17263/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17264/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17265/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17266/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17267/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17268/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17269/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17270/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17271/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17272/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17273/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17274/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17275/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17276/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17277/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17278/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17279/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17280/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17281/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17282/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17283/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing

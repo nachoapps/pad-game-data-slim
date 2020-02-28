@@ -44457,3 +44457,346 @@ JP: 2ターンの間、回復力が2倍
 EN: For 2 turns, 2x RCV
 KR: For 2 turns, 2x RCV
 
+# 16378/116 - ドリーム・オブ・セレブレーション
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: 消せないドロップ、バインド、覚醒無効状態と HPを全回復。
+JP: 消せないドロップ状態を9999ターン回復。HPを全回復。バインドと覚醒無効を全回復
+EN: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all binds and awoken skill binds
+KR: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all binds and awoken skill binds
+
+# 16379/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を9999ターン回復
+EN: Reduce unable to match orbs effect by 9999 turns
+KR: Reduce unable to match orbs effect by 9999 turns
+
+# 16380/117 - 
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: HPを全回復。バインドと覚醒無効を全回復
+EN: Recover all HP; Remove all binds and awoken skill binds
+KR: Recover all HP; Remove all binds and awoken skill binds
+
+# 16387/116 - ドリーム・オブ・ハピネス
+Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
+Game: 全ドロップを5属性＋回復ドロップに変化。 4ターンの間、回復力が2倍。
+JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。4ターンの間、回復力が2倍
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 2x RCV
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 2x RCV
+
+# 16388/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 16389/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 4ターンの間、回復力が2倍
+EN: For 4 turns, 2x RCV
+KR: For 4 turns, 2x RCV
+
+# 16396/116 - ドリーム・オブ・ファンタジー
+Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: 2ターンの間、属性吸収を無効化する。 全ドロップを火、水、光、回復ドロップに変化。
+JP: 2ターンの間、属性吸収を無効化する。全ドロップを火、水、光、回復ドロップに変化
+EN: For 2 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Heal orbs
+KR: For 2 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Heal orbs
+
+# 16397/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 2ターンの間、属性吸収を無効化する
+EN: For 2 turns, bypass att. absorb shield effects
+KR: For 2 turns, bypass att. absorb shield effects
+
+# 16398/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、光、回復ドロップに変化
+EN: Change all orbs to Fire, Water, Light, and Heal orbs
+KR: Change all orbs to Fire, Water, Light, and Heal orbs
+
+# 16402/116 - ドリーム・オブ・バディ
+Tags: VOID_DAMAGE_ABSORBS,ORB_LOCK
+Game: 2ターンの間、ダメージ吸収を無効化する。 全ドロップをロック。
+JP: 2ターンの間、ダメージ吸収を無効化する。全ドロップをロック
+EN: For 2 turns, bypass damage absorb shield effects; Lock all orbs
+KR: For 2 turns, bypass damage absorb shield effects; Lock all orbs
+
+# 16403/173 - 
+Tags: VOID_DAMAGE_ABSORBS
+Game: 
+JP: 2ターンの間、ダメージ吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield effects
+KR: For 2 turns, bypass damage absorb shield effects
+
+# 16404/152 - 
+Tags: ORB_LOCK
+Game: 
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
+
+# 16408/116 - ドリーム・オブ・アドベンチャー
+Tags: ALL_ORBS_CONVERT
+Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、光、闇、回復ドロップに変化。
+JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
+EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+
+# 16409/191 - 
+Tags: 
+Game: 
+JP: 1ターンの間、ダメージ無効を貫通する
+EN: For 1 turn, bypass void damage shield effects
+KR: For 1 turn, bypass void damage shield effects
+
+# 16410/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、光、闇、回復ドロップに変化
+EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+KR: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+
+# 16414/116 - ドリーム・オブ・パーティー
+Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
+Game: 3ターンの間、属性吸収を無効化する。 全ドロップを火、水、光、闇ドロップに変化。
+JP: 3ターンの間、属性吸収を無効化する。全ドロップを火、水、光、闇ドロップに変化
+EN: For 3 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Dark orbs
+KR: For 3 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Dark orbs
+
+# 16415/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 3ターンの間、属性吸収を無効化する
+EN: For 3 turns, bypass att. absorb shield effects
+KR: For 3 turns, bypass att. absorb shield effects
+
+# 16416/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、光、闇ドロップに変化
+EN: Change all orbs to Fire, Water, Light, and Dark orbs
+KR: Change all orbs to Fire, Water, Light, and Dark orbs
+
+# 16420/116 - ドリーム・オブ・ドリーム
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 最上段横1列を回復ドロップに変化。 6ターンの間、受けるダメージを軽減。
+JP: 最上段を回復ドロップに変化。6ターンの間、受けるダメージを30％減少
+EN: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+KR: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+
+# 16421/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最上段を回復ドロップに変化
+EN: Change the top row to Heal orbs
+KR: Change the top row to Heal orbs
+
+# 16422/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 6ターンの間、受けるダメージを30％減少
+EN: For 6 turns, reduce damage taken by 30%
+KR: For 6 turns, reduce damage taken by 30%
+
+# 16432/116 - ドリーム・オブ・エナジー
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
+Game: 1ターンの間、攻撃タイプの攻撃力が2.5倍。 最上段横1列を水ドロップに変化。
+JP: 1ターンの間、攻撃タイプの攻撃力が2.5倍。最上段を水ドロップに変化
+EN: For 1 turn, 2.5x ATK for Attacker type; Change the top row to Water orbs
+KR: For 1 turn, 2.5x ATK for Attacker type; Change the top row to Water orbs
+
+# 16433/88 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、攻撃タイプの攻撃力が2.5倍
+EN: For 1 turn, 2.5x ATK for Attacker type
+KR: For 1 turn, 2.5x ATK for Attacker type
+
+# 16434/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最上段を水ドロップに変化
+EN: Change the top row to Water orbs
+KR: Change the top row to Water orbs
+
+# 16444/116 - ドリーム・オブ・ディライト
+Tags: MENACE,LINE_ORBS_CONVERTER
+Game: 敵の行動を2ターン遅らせる。 最下段横1列を木ドロップに変化。
+JP: 敵の行動を2ターン遅らせる。最下段を木ドロップに変化
+EN: Delay enemies' next attack by 2 turns; Change the bottom row to Wood orbs
+KR: Delay enemies' next attack by 2 turns; Change the bottom row to Wood orbs
+
+# 16445/18 - 
+Tags: MENACE
+Game: 
+JP: 敵の行動を2ターン遅らせる
+EN: Delay enemies' next attack by 2 turns
+KR: Delay enemies' next attack by 2 turns
+
+# 16446/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最下段を木ドロップに変化
+EN: Change the bottom row to Wood orbs
+KR: Change the bottom row to Wood orbs
+
+# 16447/146 - 
+Tags: REDUCE_SKILL_TURN
+Game: 
+JP: 自分以外の味方スキルが1ターンの溜まる
+EN: Charge all allies' skills by 1 turn
+KR: Charge all allies' skills by 1 turn
+
+# 16452/116 - ドリーム・オブ・ワンダー
+Tags: ADD_COMBO
+Game: 1ターンの間、1コンボ加算される。 ランダムで5属性ドロップを6個ずつ生成。
+JP: 1ターンの間、1コンボ加算される。ランダムで火、水、木、光、闇を6個ずつ生成
+EN: For 1 turn, increase combo count by 1; Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
+KR: For 1 turn, increase combo count by 1; Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
+
+# 16453/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 16454/141 - 
+Tags: 
+Game: 
+JP: ランダムで火、水、木、光、闇を6個ずつ生成
+EN: Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
+KR: Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
+
+# 16461/116 - ドリーム・オブ・ビューティー
+Tags: REDUCE_DAMAGE,MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 敵全体に30万の固定ダメージ。 1ターンの間、受けるダメージを激減。
+JP: 敵全体に30万の固定ダメージ。1ターンの間、受けるダメージを75％減少
+EN: Deal 300000 fixed damage to all enemies; For 1 turn, reduce damage taken by 75%
+KR: Deal 300000 fixed damage to all enemies; For 1 turn, reduce damage taken by 75%
+
+# 16462/56 - 
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 
+JP: 敵全体に30万の固定ダメージ
+EN: Deal 300000 fixed damage to all enemies
+KR: Deal 300000 fixed damage to all enemies
+
+# 16463/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 1ターンの間、受けるダメージを75％減少
+EN: For 1 turn, reduce damage taken by 75%
+KR: For 1 turn, reduce damage taken by 75%
+
+# 16468/116 - ドリーム・オブ・ジョイ
+Tags: EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を全回復。 3ターンの間、ドロップ操作時間が2倍。
+JP: 覚醒無効を全回復。3ターンの間、ドロップ操作時間が2倍
+EN: Remove all awoken skill binds; For 3 turns, 2x orb move time
+KR: Remove all awoken skill binds; For 3 turns, 2x orb move time
+
+# 16469/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を全回復
+EN: Remove all awoken skill binds
+KR: Remove all awoken skill binds
+
+# 16470/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 3ターンの間、ドロップ操作時間が2倍
+EN: For 3 turns, 2x orb move time
+KR: For 3 turns, 2x orb move time
+
+# 16477/116 - ドリーム・オブ・インテリジェンス
+Tags: HEAL,REMOVE_LOCK
+Game: 4ターンの間、最大HP40％分回復。 ドロップのロック状態を解除。
+JP: 4ターンの間、最大HPの40％分回復。全ドロップのロック状態を解除
+EN: For 4 turns, recover 40% of max HP; Unlock all orbs
+KR: For 4 turns, recover 40% of max HP; Unlock all orbs
+
+# 16478/179 - 
+Tags: HEAL
+Game: 
+JP: 4ターンの間、最大HPの40％分回復
+EN: For 4 turns, recover 40% of max HP
+KR: For 4 turns, recover 40% of max HP
+
+# 16479/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 16486/116 - マジック・オブ・ファンタジー
+Tags: ENHANCED_ORBS,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 全ドロップを強化。 バインド状態と覚醒無効状態を2ターン回復。
+JP: 全ドロップを強化。バインドと覚醒無効を2ターン回復
+EN: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
+KR: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
+
+# 16490/154 - マジック・オブ・ハピネス
+Tags: ORB_CONVERT
+Game: 闇ドロップを火ドロップに変化。
+JP: 闇ドロップを火ドロップに変化
+EN: Change Dark orbs to Fire orbs
+KR: Change Dark orbs to Fire orbs
+
+# 16492/154 - マジック・オブ・ドリーム
+Tags: ORB_CONVERT
+Game: 火ドロップを闇ドロップに変化。
+JP: 火ドロップを闇ドロップに変化
+EN: Change Fire orbs to Dark orbs
+KR: Change Fire orbs to Dark orbs
+
+# 16494/154 - マジック・オブ・エナジー
+Tags: ORB_CONVERT
+Game: 木ドロップを水ドロップに変化。
+JP: 木ドロップを水ドロップに変化
+EN: Change Wood orbs to Water orbs
+KR: Change Wood orbs to Water orbs
+
+# 16496/154 - マジック・オブ・ディライト
+Tags: ORB_CONVERT
+Game: 水ドロップを木ドロップに変化。
+JP: 水ドロップを木ドロップに変化
+EN: Change Water orbs to Wood orbs
+KR: Change Water orbs to Wood orbs
+
+# 16498/127 - マジック・オブ・ワンダー
+Tags: LINE_ORBS_CONVERTER
+Game: 右端縦1列を回復ドロップに変化。
+JP: 最右端を回復ドロップに変化
+EN: Change the far right column to Heal orbs
+KR: Change the far right column to Heal orbs
+
+# 16500/128 - マジック・オブ・ビューティー
+Tags: LINE_ORBS_CONVERTER
+Game: 最下段横1列を回復ドロップに変化。
+JP: 最下段を回復ドロップに変化
+EN: Change the bottom row to Heal orbs
+KR: Change the bottom row to Heal orbs
+
+# 16508/140 - 
+Tags: ENHANCED_ORBS
+Game: 
+JP: 全ドロップを強化
+EN: Enhance all orbs
+KR: Enhance all orbs
+
+# 16509/117 - 
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: 
+JP: バインドと覚醒無効を2ターン回復
+EN: Reduce binds and awoken skill binds by 2 turns
+KR: Reduce binds and awoken skill binds by 2 turns
+
