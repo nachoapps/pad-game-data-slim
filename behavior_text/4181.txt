@@ -7,5 +7,37 @@ monster_id: 4181
 approved: False
 
 level: 1
+ type: PASSIVE
+ | (16530:73) 根性
+ | Survive attacks with 1 HP when HP > 30%
  type: PREEMPT
-unknown ES
+ | (16526:83) 先ずは小手調べだ + …よく耐えたな + ここからが本番だ
+ | Deal 145% damage + Reduce damage from all sources by 50% for 99 turns + Absorb damage when combos <= 11 for 99 turns, Deal 145% damage
+ group:
+ | group:
+   | group:
+   | condition: turns 1-3 while HP > 49
+     | (16529:83) 豊穣の大釜 + 竪琴・揺籃奏
+     | Voids status ailments for 999 turns + Bind 2 random cards for 10 turns
+   | group:
+     | condition: 20% chance
+     | (16522:15) 竪琴・悲哀奏
+     | Deal 110% damage
+     | (16523:85) 竪琴・喜遊奏
+     | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 82% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (16527:83) 少しはやるようだな + オレをもっと楽しませろ
+     | Movetime -2s for 10 turns + Increase damage to 150% for the next 99 turns
+   | group:
+     | condition: 20% chance
+     | (16523:85) 竪琴・喜遊奏
+     | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 82% damage
+     | (16522:15) 竪琴・悲哀奏
+     | Deal 110% damage
+ | group:
+ | condition: hp <= 1
+   | (16528:83) 再生棍 + 破壊棍 + これで終わりだ… + 旋風爆鎚棍！！
+   | Enemy recover 50% HP + Voids player buff effects + Bind awoken skills for 1 turn + Deal 1010% damage (10 hits, 101% each), Deal 1010% damage (10 hits, 101% each)
