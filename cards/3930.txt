@@ -5,7 +5,7 @@ SAWK: 46,57,55
 
 # 9038/116 - All Orbs Time
 Tags: MENACE,ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
-Game: Delays enemies' next move for 2 turns; changes Orbs to all Attributes & Heal
+Game: Delays enemies' next move for 2 turns, voids Attribute absorption for 1 turn; changes Orbs to all Att. & Heal
 JP: 敵の行動を2ターン遅らせる。1ターンの間、属性吸収を無効化する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -13,7 +13,7 @@ KR: Delay enemies' next attack by 2 turns; For 1 turn, bypass att. absorb shield
 # 9041/138 - Colorful Dragon's Sacred Prayer Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 17.0, 1.0, 0.25]
-Game: ATK increases with 3+ Att. (2+Heal), up to 17x; Orb move time +3 seconds
+Game: Reduces damage, Orb move time +3 seconds; ATK increases when 3+ Att. (2+Heal) attack at once, up to 17x
 JP: 3色(2色+回復)以上同時攻撃で攻撃力が5倍、最大5色+回復で17倍。ドロップ操作時間を3秒延長。受けるダメージを25％減少。
 EN: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
 KR: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%

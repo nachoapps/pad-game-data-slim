@@ -3,6 +3,13 @@ HP: 200 ATK: 200 RCV: 200 LB: 0
 AWK: 
 SAWK: 
 
+# 12344/116 - Noko Smile
+Tags: VOID_DAMAGE
+Game: Voids Light Att. damage for 3 turns; creates 3 Light Orbs at random
+JP: 3ターンの間、光属性の攻撃を無効化。光ドロップを3個生成
+EN: For 3 turns, void all Light damage; Create 3 Light orbs
+KR: For 3 turns, void all Light damage; Create 3 Light orbs
+
 # 12363/129 - Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]

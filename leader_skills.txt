@@ -37601,7 +37601,7 @@ KR: 3x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark at
 # 9041/138 - Colorful Dragon's Sacred Prayer Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 17.0, 1.0, 0.25]
-Game: ATK increases with 3+ Att. (2+Heal), up to 17x; Orb move time +3 seconds
+Game: Reduces damage, Orb move time +3 seconds; ATK increases when 3+ Att. (2+Heal) attack at once, up to 17x
 JP: 3色(2色+回復)以上同時攻撃で攻撃力が5倍、最大5色+回復で17倍。ドロップ操作時間を3秒延長。受けるダメージを25％減少。
 EN: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
 KR: 5x ATK when matching 3 or more colors (2+heal) up to 17x at 5 colors+heal; Increase orb movement time by 3 seconds; Reduce damage taken by 25%
@@ -37625,7 +37625,7 @@ KR: Increase orb movement time by 3 seconds
 # 9044/138 - Curse Dragon's Calamity Seal
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Stats: [1.5, 20.0, 1.0, 0]
-Game: ATK increases with 2+ combos, up to 20x; Orb move time +3 seconds
+Game: 1.5x HP for all Att., Orb move time +3 seconds; ATK increases with 2+ combos, up to 20x
 JP: 2コンボ以上で攻撃力が5倍、最大12コンボで20倍。HPが1.5倍。ドロップ操作時間を3秒延長。
 EN: 5x ATK when 2 or more combos up to 20x at 12 combos; 1.5x HP; Increase orb movement time by 3 seconds
 KR: 5x ATK when 2 or more combos up to 20x at 12 combos; 1.5x HP; Increase orb movement time by 3 seconds
@@ -37825,7 +37825,7 @@ KR: 2.5x ATK on the turn a skill is used
 # 9098/138 - Eternal Dragon Control - Gharandus
 Tags: ENHANCED_ATK_RCV,RESOLVE
 Stats: [1, 14.0, 14.0, 0]
-Game: 10x ATK & RCV when HP is 20% or less; may survive when HP is reduced to 0
+Game: 14x ATK & RCV when HP is 50% or less; may survive when HP is reduced to 0
 JP: HPが50%以下で攻撃力と回復力が14倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
 EN: 14x ATK & RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
 KR: 14x ATK & RCV when below 50% HP; May survive when HP is reduced to 0 (HP>50%)
@@ -41569,7 +41569,7 @@ KR: 3x ATK when matching Fire, Water, and Light at once
 # 10055/138 - Eternal Dragon Control - Radkail
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1, 30.0, 1.0, 0.5]
-Game: ATK increases with 4+ linked Dark Orbs, up to 30x (30 Orbs); halves dmg when HP is 80%+, Orb move time +3 sec
+Game: ATK increases with 4+ linked Dark Orbs, up to 30x (21 Orbs); halves dmg when HP is 80%+, Orb move time +3 sec
 JP: 闇を4個以上つなげて消すと攻撃力が4.5倍、最大21個で30倍。HPが80%以上で受けるダメージを50％減少。ドロップ操作時間を3秒延長。
 EN: 4.5x ATK when matching 4 or more connected Dark orbs up to 30x at 21 orbs; Reduce damage taken by 50% when above 80% HP; Increase orb movement time by 3 seconds
 KR: 4.5x ATK when matching 4 or more connected Dark orbs up to 30x at 21 orbs; Reduce damage taken by 50% when above 80% HP; Increase orb movement time by 3 seconds
@@ -41593,7 +41593,7 @@ KR: Reduce damage taken by 50% when above 80% HP
 # 10058/138 - Eternal Dragon Control - Raddock
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 25.0, 1.0, 0.0]
-Game: 2x HP & 5x ATK for Dragon & Devil Types; ATK increases with 5+ linked Dark Orbs, up to 4x
+Game: 2x HP & 5x ATK for Dragon & Devil Types; ATK increases with 5+ linked Dark Orbs, up to 5x
 JP: ドラゴンと悪魔タイプの攻撃力が5倍、HPが2倍。闇を5個以上つなげて消すと攻撃力が1.5倍、最大12個で5倍。
 EN: 5x ATK and 2x HP for Dragon and Devil type; 1.5x ATK when matching 5 or more connected Dark orbs up to 5x at 12 orbs
 KR: 5x ATK and 2x HP for Dragon and Devil type; 1.5x ATK when matching 5 or more connected Dark orbs up to 5x at 12 orbs
