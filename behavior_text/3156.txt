@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15989:74) 鋼結の鎧
+ | (15989:74) Steel Chainmail
  | Reduce damage from all sources by 99% for 3 turns
  group:
- | (15986:83) フラッシュエナジー + 突天
+ | (15986:83) Energy Flash + Tsuki Ten
  | Blind all orbs on the board + No skyfall for 1 turn
