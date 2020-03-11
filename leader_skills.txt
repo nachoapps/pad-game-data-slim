@@ -66639,10 +66639,10 @@ JP: HPが50%以下で攻撃力が9倍。
 EN: 9x ATK when below 50% HP
 KR: 9x ATK when below 50% HP
 
-# 15732/138 - 宵月の狐心
+# 15732/138 - Fox Spirit of the Autumn Moon
 Tags: ENHANCED_ATK
 Stats: [1.0, 2187.0, 1.0, 0]
-Game: 【操作時間4秒】光闇の同時攻撃で攻撃力が3倍、3コンボ加算。 5属性いずれかの5個十字消し1個につき攻撃力が3倍。
+Game: [Orb move time: 4 sec], 3x ATK & adds 3 combos when Lt & Dk attack; 3x ATK for each cross of 5 Orbs of any Att.
 JP: 【操作時間4秒固定】光、闇同時攻撃で攻撃力が3倍、3コンボ加算。火か水か木の5個十字消し1個につき攻撃力が3倍。光か闇の5個十字消し1個につき攻撃力が3倍。
 EN: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
 KR: [Fixed 4 second movetime] 3x ATK and increase combo by 3 when matching Light and Dark at once; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs
@@ -66679,10 +66679,10 @@ JP: 光か闇の5個十字消し1個につき攻撃力が3倍。
 EN: 3x ATK for each cross of 5 Light or Dark orbs
 KR: 3x ATK for each cross of 5 Light or Dark orbs
 
-# 15771/138 - 古鳥霊の魔印
+# 15771/138 - Ancient Bird Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1, 4.0, 1, 0.25]
-Game: 【7×6マス】 8コンボ以上でダメージを軽減、攻撃力が4倍。
+Game: [7x6 board]; 4x ATK & reduces damage with 8+ combos
 JP: 【7×6マス】8コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
 KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when 8 or more combos
@@ -66703,10 +66703,10 @@ JP: 8コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK and reduce damage taken by 25% when 8 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 8 or more combos
 
-# 15774/138 - 古鳥霊の飛術
+# 15774/138 - Ancient Bird Spirit's Flight Technique
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 16.0, 4.0, 0.25]
-Game: 攻撃タイプのHPが1.5倍、攻撃力と回復力は4倍。 8コンボ以上でダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP and 4x ATK & RCV for Attacker Type; 4x ATK & reduces damage with 8+ combos
 JP: 攻撃タイプの攻撃力と回復力が4倍、HPが1.5倍。8コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
 KR: 4x ATK & RCV and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when 8 or more combos
@@ -66727,10 +66727,10 @@ JP: 8コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK and reduce damage taken by 25% when 8 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 8 or more combos
 
-# 15783/138 - 古石霊の魔印
+# 15783/138 - Ancient Stone Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1, 4.0, 1, 0.25]
-Game: 【7×6マス】 闇を7個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+Game: [7x6 board]; 4x ATK & reduces damage with 7+ linked Dark Orbs
 JP: 【7×6マス】闇を7個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
 KR: [Board becomes 7x6] 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
@@ -66751,10 +66751,10 @@ JP: 闇を7個以上つなげて消すと攻撃力が4倍、受けるダメー�
 EN: 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
 KR: 4x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
 
-# 15786/138 - 古石霊の迷術
+# 15786/138 - Ancient Stone Spirit's Illusion Technique
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [2.0, 18.0, 2.0, 0.25]
-Game: バランスタイプの全パラメータが2倍。ドロップ操作を2秒延長。 闇を7個以上つなげて消すとダメージを軽減、攻撃力が9倍。
+Game: 2x to all stats for Balanced Type, Orb move time +2 sec.;  9x ATK & reduces damage with 7+ linked Dark Orbs
 JP: バランスタイプの全パラメータが2倍。ドロップ操作時間を2秒延長。闇を7個以上つなげて消すと攻撃力が9倍、受けるダメージを25％減少。
 EN: 2x all stats for Balanced type; Increase orb movement time by 2 seconds; 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
 KR: 2x all stats for Balanced type; Increase orb movement time by 2 seconds; 9x ATK and reduce damage taken by 25% when matching 7 or more connected Dark orbs
@@ -67007,10 +67007,10 @@ JP: 火を9個以上つなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 KR: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 
-# 15846/138 - 皐月の竜心
+# 15846/138 - Dragon Heart of May
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 12.0, 1.0, 0.25]
-Game: ドロップの5個L字消しでダメージを軽減、攻撃力が3倍。 強化ドロップを含めて5個消した属性の攻撃力が4倍。
+Game: 3x ATK & reduces damage with an L shape of 5 Orbs; 4x ATK for Att. erasing 5 Orbs including enhanced
 JP: ドロップの5個L字消しで攻撃力が3倍、受けるダメージを25％減少。強化ドロップを含めてを5個消した属性の攻撃力が4倍。
 EN: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 KR: 3x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
@@ -67031,10 +67031,10 @@ JP: 強化ドロップを含めてを5個消した属性の攻撃力が4倍。
 EN: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
-# 15850/138 - 盆栽龍の侘寂
+# 15850/138 - Bonsai Dragon's Transient World View
 Tags: ENHANCED_ATK,EXTEND_TIME,BOARD_CHANGE_7X6
 Stats: [1, 5.0, 1, 0]
-Game: 【7×6マス】ドロップ操作を5秒延長。 木の2コンボ以上で攻撃力が上昇、最大5倍。
+Game: [7x6 board], Orb move time +5 seconds; ATK increases with 2+ Wood combos, up to 5x
 JP: 【7×6マス】ドロップ操作時間を5秒延長。木の2コンボで攻撃力が2倍、最大5コンボで5倍。
 EN: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
 KR: [Board becomes 7x6] Increase orb movement time by 5 seconds; 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
@@ -67063,10 +67063,10 @@ JP: 木の2コンボで攻撃力が2倍、最大5コンボで5倍。
 EN: 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
 KR: 2x ATK when matching 2 Wood combos, up to 5x at 5 Wood combos
 
-# 15857/138 - 招福の祈念
+# 15857/138 - Prayer for Good Luck
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [1.5, 12.0, 3.0, 0.0]
-Game: ドラゴンタイプのHPが1.5倍。HP50％以上で攻撃力が4倍。 6コンボ以上で攻撃力と回復力が3倍。
+Game: 1.5x HP for Dragon Type, 4x ATK when HP is 50% or more; 3x ATK & RCV with 6+ combos
 JP: ドラゴンタイプのHPが1.5倍。HPが50%以上で攻撃力が4倍。6コンボ以上で攻撃力と回復力が3倍。
 EN: 1.5x HP for Dragon type; 4x ATK when above 50% HP; 3x ATK & RCV when 6 or more combos
 KR: 1.5x HP for Dragon type; 4x ATK when above 50% HP; 3x ATK & RCV when 6 or more combos
@@ -67095,10 +67095,10 @@ JP: 6コンボ以上で攻撃力と回復力が3倍。
 EN: 3x ATK & RCV when 6 or more combos
 KR: 3x ATK & RCV when 6 or more combos
 
-# 15862/138 - 7のとつげき
+# 15862/138 - Seven's Charge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 14.0, 1.0, 0.25]
-Game: 【落ちコンなし】7コンボ以上でダメージを軽減、攻撃力が4倍。 パズル後の残りドロップ数が7個以下で攻撃力が3.5倍。
+Game: [No Skyfall combos], 4x ATK & reduces damage with 7+  combos; 3.5x ATK when 7 Orbs or less remain on the board
 JP: 【落ちコンなし】パズル後の残りドロップ数が7個以下で攻撃力が3.5倍。7コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 7 or more combos
 KR: [No skyfall] 3.5x ATK when there are 7 or fewer orbs remaining; 4x ATK and reduce damage taken by 25% when 7 or more combos
@@ -67119,10 +67119,10 @@ JP: 7コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 4x ATK and reduce damage taken by 25% when 7 or more combos
 
-# 15875/138 - サイン・オブ・カラー
+# 15875/138 - Colored Signal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 32.0, 1, 0.25]
-Game: 火か木か光の5個十字消し1個につき攻撃力が2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が4倍。
+Game: 2x ATK for each cross of 5 Fire, Wood or Light Orbs; 4x ATK & reduces damage when 3+ Att. attack at once
 JP: 火か木か光の5個十字消し1個につき攻撃力が2倍。3色以上同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
 EN: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors
 KR: 2x ATK for each cross of 5 Fire, Wood, or Light orbs; 4x ATK and reduce damage taken by 25% when matching 3 or more colors

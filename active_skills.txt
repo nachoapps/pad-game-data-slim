@@ -41979,9 +41979,9 @@ JP: 闇ドロップを6個生成
 EN: Create 6 Dark orbs
 KR: Create 6 Dark orbs
 
-# 15729/116 - 静夜の帳
+# 15729/116 - Memoirs of a Quiet Night
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,VOID_SKYFALLS
-Game: 1ターンの間、落ちコンしなくなる。 回復ドロップを闇に、木ドロップを光に変化。
+Game: No Skyfall Combos for 1 turn; changes Heal Orbs to Dark and Wood Orbs to Light
 JP: 1ターンの間、落ちコンしなくなる。回復ドロップを闇ドロップに、木ドロップを光ドロップに変化
 EN: For 1 turn, no skyfall; Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
 KR: For 1 turn, no skyfall; Change Heal orbs to Dark orbs; Change Wood orbs to Light orbs
@@ -42189,9 +42189,9 @@ JP: 全ドロップを火、水、闇ドロップに変化
 EN: Change all orbs to Fire, Water, and Dark orbs
 KR: Change all orbs to Fire, Water, and Dark orbs
 
-# 15764/116 - 魔印解放・デザン
+# 15764/116 - Magic Seal Release - Dezan
 Tags: ADD_COMBO
-Game: 1ターンの間、1コンボ加算される。 光翼の大魔女・ファスカに変身。
+Game: Adds 1 combo for 1 turn;  changes to Great Witch of the Radiant Wings, Fasca
 JP: 1ターンの間、1コンボ加算される。[5842]に変身する
 EN: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
 KR: For 1 turn, increase combo count by 1; Changes to [5842] for the duration of the dungeon
@@ -42210,9 +42210,9 @@ JP: [5842]に変身する
 EN: Changes to [5842] for the duration of the dungeon
 KR: Changes to [5842] for the duration of the dungeon
 
-# 15767/116 - ホワイトブースト
+# 15767/116 - White Boost
 Tags: RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 1ターンの間、ドロップ操作を2秒延長。
+Game: Fully recovers bind status (incl. Awoken) & unmatchable Orb status; Orb move time +2 seconds for 1 turn
 JP: 消せないドロップ状態を9999ターン回復。バインドと覚醒無効を全回復。1ターンの間、ドロップ操作時間が2秒に延長
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
 KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 1 turn, increase orb move time by 2 seconds
@@ -42238,9 +42238,9 @@ JP: 1ターンの間、ドロップ操作時間が2秒に延長
 EN: For 1 turn, increase orb move time by 2 seconds
 KR: For 1 turn, increase orb move time by 2 seconds
 
-# 15777/116 - 魔印解放・ビリオス
+# 15777/116 - Magic Seal Release - Billios
 Tags: LINE_ORBS_CONVERTER
-Game: 最下段横1列を闇ドロップに変化。 謎獣の大魔女・ネレに変身。
+Game: Changes the bottom row to Dark Orbs; changes to Great Witch of the Mysterious Beasts, Nelle
 JP: 最下段を闇ドロップに変化。[5845]に変身する
 EN: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
 KR: Change the bottom row to Dark orbs; Changes to [5845] for the duration of the dungeon
@@ -42259,9 +42259,9 @@ JP: [5845]に変身する
 EN: Changes to [5845] for the duration of the dungeon
 KR: Changes to [5845] for the duration of the dungeon
 
-# 15780/116 - ブラックアクアリウム
+# 15780/116 - Black Aquarium
 Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
-Game: 1ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
+Game: Voids damage absorption for 1 turn; changes leftmost column to Dark Orbs & rightmost column to Heal Orbs
 JP: 1ターンの間、ダメージ吸収を無効化する。最左端を闇に、最右端を回復ドロップに変化
 EN: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
 KR: For 1 turn, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
@@ -42280,9 +42280,9 @@ JP: 最左端を闇に、最右端を回復ドロップに変化
 EN: Change the far left column to Dark orbs and change the far right column to Heal orbs
 KR: Change the far left column to Dark orbs and change the far right column to Heal orbs
 
-# 15789/116 - デザンブースト
+# 15789/116 - Dezan Boost
 Tags: ENHANCED_HEAL,RECOVER_BIND,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 3ターンの間、回復力とドロップ操作時間が2倍。
+Game: Fully recovers bind status (incl. Awoken) & unmatchable Orb status; 2x RCV & Orb move time for 3 turns
 JP: 消せないドロップ状態を9999ターン回復。バインドと覚醒無効を全回復。3ターンの間、回復力が2倍。3ターンの間、ドロップ操作時間が2倍
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
 KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; For 3 turns, 2x RCV; For 3 turns, 2x orb move time
@@ -42301,9 +42301,9 @@ JP: 3ターンの間、ドロップ操作時間が2倍
 EN: For 3 turns, 2x orb move time
 KR: For 3 turns, 2x orb move time
 
-# 15792/116 - ビリオスアクアリウム
+# 15792/116 - Billios Aquarium
 Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
-Game: 2ターンの間、ダメージ吸収を無効化する。 左端縦1列を闇に、右端縦1列を回復ドロップに変化。
+Game: Voids damage absorption for 2 turns; changes leftmost  column to Dark Orbs & rightmost column to Heal Orbs
 JP: 2ターンの間、ダメージ吸収を無効化する。最左端を闇に、最右端を回復ドロップに変化
 EN: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
 KR: For 2 turns, bypass damage absorb shield effects; Change the far left column to Dark orbs and change the far right column to Heal orbs
@@ -42455,9 +42455,9 @@ JP: 1ターンの間、受けるダメージを75％減少
 EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
-# 15843/116 - 晴天の鼓舞
+# 15843/116 - Hope for Clear Skies
 Tags: MASSIVE_ATTACK
-Game: 敵全体に攻撃力×150倍の水属性攻撃。 L字型に水ドロップを1つ生成。
+Game: Inflicts 150x ATK Water Att. attack on all enemies; creates an L shape of Water Orbs
 JP: 敵全体に攻撃力ｘ150倍の水属性攻撃。最下段と最左端の中心にL字形の水ドロップを1つ生成
 EN: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
 KR: Deal 150x Water damage to all enemies; Create an L shape of Water orbs with its center at the bottom row and the far left column
@@ -42476,16 +42476,16 @@ JP: 最下段と最左端の中心にL字形の水ドロップを1つ生成
 EN: Create an L shape of Water orbs with its center at the bottom row and the far left column
 KR: Create an L shape of Water orbs with its center at the bottom row and the far left column
 
-# 15849/116 - 生い茂る苔
+# 15849/116 - Overgrown Moss
 Tags: ORB_LOCK
-Game: ランダムで木ドロップを3個生成。 全ドロップをロック。
+Game: Creates 3 Wood Orbs at random; locks all Orbs
 JP: 木ドロップを3個生成。全ドロップをロック
 EN: Create 3 Wood orbs; Lock all orbs
 KR: Create 3 Wood orbs; Lock all orbs
 
-# 15854/116 - 千代紙の技法
+# 15854/116 - Chiyogami Techniques
 Tags: GRAVITY,ADD_COMBO
-Game: 1ターンの間、3コンボ加算される。 敵のHPが20％減少。
+Game: Adds 3 combos for 1 turn; reduces enemies' HP by 20%
 JP: 1ターンの間、3コンボ加算される。敵の現HPの20％分のダメージ
 EN: For 1 turn, increase combo count by 3; Reduce enemies' HP by 20%
 KR: For 1 turn, increase combo count by 3; Reduce enemies' HP by 20%
@@ -42504,21 +42504,21 @@ JP: 敵の現HPの20％分のダメージ
 EN: Reduce enemies' HP by 20%
 KR: Reduce enemies' HP by 20%
 
-# 15861/176 - シャー77フィーバー
+# 15861/176 - Sha-Nana-Nana Fever
 Tags: 
-Game: 7の形に火ドロップを1つ生成。
+Game: Creates Fire Orbs in the shape of a 7
 JP: 7の形に火ドロップを1つ生成。
 EN: Create a 7-shape of Fire orbs in the upper right corner
 KR: Create a 7-shape of Fire orbs in the upper right corner
 
-# 15865/118 - セーフティシグナル
+# 15865/118 - Traffic Light
 Tags: REDUCE_DAMAGE,ENHANCED_HEAL,EXTENDS_TIME,CHANGE_ATTRIBUTE,ETC
-Game: 特定のスキルがランダムで発動。
+Game: Activates a random skill
 JP: 下からスキルをランダムて発動：１、3ターンの間、自分の属性が火属性に変化。3ターンの間、回復力が3倍；２、3ターンの間、自分の属性が光属性に変化。3ターンの間、受けるダメージを50％減少；３、3ターンの間、自分の属性が木属性に変化。3ターンの間、ドロップ操作時間が3倍
 EN: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
 KR: Activate a random skill from the list: 1) Change own Att. to Fire for 3 turns; For 3 turns, 3x RCV, 2) Change own Att. to Light for 3 turns; For 3 turns, reduce damage taken by 50%, and 3) Change own Att. to Wood for 3 turns; For 3 turns, 3x orb move time
 
-# 15866/116 - セーフティシグナル・レッド
+# 15866/116 - Traffic Light - Red
 Tags: ENHANCED_HEAL,CHANGE_ATTRIBUTE
 Game: 
 JP: 3ターンの間、自分の属性が火属性に変化。3ターンの間、回復力が3倍
@@ -42539,7 +42539,7 @@ JP: 3ターンの間、回復力が3倍
 EN: For 3 turns, 3x RCV
 KR: For 3 turns, 3x RCV
 
-# 15869/116 - セーフティシグナル・イエロー
+# 15869/116 - Traffic Light - Yellow
 Tags: REDUCE_DAMAGE,CHANGE_ATTRIBUTE
 Game: 
 JP: 3ターンの間、自分の属性が光属性に変化。3ターンの間、受けるダメージを50％減少
@@ -42560,7 +42560,7 @@ JP: 3ターンの間、受けるダメージを50％減少
 EN: For 3 turns, reduce damage taken by 50%
 KR: For 3 turns, reduce damage taken by 50%
 
-# 15872/116 - セーフティシグナル・グリーン
+# 15872/116 - Traffic Light - Green
 Tags: EXTENDS_TIME,CHANGE_ATTRIBUTE
 Game: 
 JP: 3ターンの間、自分の属性が木属性に変化。3ターンの間、ドロップ操作時間が3倍
