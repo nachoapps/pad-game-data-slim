@@ -1,4 +1,4 @@
-#5881 - トラフィケイオス
+#5881 - Traffikaos
 monster size: 5
 new AI: True
 start/max counter: 15
@@ -10,58 +10,58 @@ Enable preempt if level 1
 #2: ESBranchLevel(35:25) -> ESBranchLevel
 Branch on level >= 5, target rnd 23
 
-#3: ESSpinnersFixed(110:16609) -> 胸が緑色に光りだした
+#3: ESSpinnersFixed(110:16609) -> Chest Glows Green
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
 Specific orbs change every 2.0s for 1 turn
 
 #4: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 1, target rnd 19
 
-#5: ESAbsorbCombo(67:16610) -> 目が緑色に光りだした
+#5: ESAbsorbCombo(67:16610) -> Eye Glows Green
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
 Absorb damage when combos <= 3 for 5 turns
 
 #6: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 75, target rnd 10
 
-#7: ESFixedStart(101:16580) -> 感応式信号
+#7: ESFixedStart(101:16580) -> Traffic Signal Sensor
 Condition: 50% chance (ai:0 rnd:50)
 Fix orb movement starting point to random position on the board, Deal 100% damage
 
-#8: ESAttackMultihit(15:16581) -> 混沌する交通
+#8: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 50% chance (ai:0 rnd:50)
 Deal 105% damage (3 hits, 35% each)
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#10: ESSkyfallLocked(96:16611) -> 目が黄色に光りだした
+#10: ESSkyfallLocked(96:16611) -> Eye Glows Yellow
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Locked random skyfall +100% for 1 turn
 
 #11: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 15
 
-#12: ESOrbLock(94:16585) -> 信号制御
+#12: ESOrbLock(94:16585) -> Traffic Signal Controls
 Condition: 50% chance (ai:0 rnd:50)
 Lock 15 random orbs, Deal 100% damage
 
-#13: ESAttackMultihit(15:16581) -> 混沌する交通
+#13: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 50% chance (ai:0 rnd:50)
 Deal 105% damage (3 hits, 35% each)
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#15: ESAttackUPRemainingEnemies(17:16612) -> 目が赤色に光りだした
+#15: ESAttackUPRemainingEnemies(17:16612) -> Eye Glows Red
 Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 999 turns
 
-#16: ESBlind62(62:16590) -> 光なき街明かり
+#16: ESBlind62(62:16590) -> Light on an unlit street
 Condition: 50% chance (ai:0 rnd:50)
 Blind all orbs on the board, Deal 100% damage
 
-#17: ESAttackMultihit(15:16581) -> 混沌する交通
+#17: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 50% chance (ai:0 rnd:50)
 Deal 105% damage (3 hits, 35% each)
 
@@ -74,7 +74,7 @@ Branch on counter >= 1, target rnd 16
 #20: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#21: ESRecoverEnemy86(86:16594) -> リペアフェーズ
+#21: ESRecoverEnemy86(86:16594) -> Repair Phase
 Enemy recover 50% HP
 
 #22: ESEndPath(36:26) -> ESEndPath
@@ -82,9 +82,9 @@ end_turn
 
 #23: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
-	[0] ESStatusShield(20:16575) -> 地点制御
+	[0] ESStatusShield(20:16575) -> Area Control
 	Voids status ailments for 999 turns
-	[1] ESSpinnersFixed(110:16576) -> 胸が緑色に光りだした
+	[1] ESSpinnersFixed(110:16576) -> Chest Glows Green
 	Specific orbs change every 2.0s for 5 turns
 
 #24: ESBranchHP(28:18) -> ESBranchHP
@@ -95,16 +95,16 @@ Branch on level >= 7, target rnd 27
 
 #26: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
-	[0] ESAbsorbCombo(67:16615) -> 目が緑色に光りだした
+	[0] ESAbsorbCombo(67:16615) -> Eye Glows Green
 	Absorb damage when combos <= 4 for 99 turns
-	[1] ESOrbChangeAttack(48:16579) -> 進行つげる灯火
+	[1] ESOrbChangeAttack(48:16579) -> Lights lead the way
 	Change a random attribute to Wood orbs, Deal 95% damage
 
 #27: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
-	[0] ESAbsorbCombo(67:16578) -> 目が緑色に光りだした
+	[0] ESAbsorbCombo(67:16578) -> Eye Glows Green
 	Absorb damage when combos <= 5 for 99 turns
-	[1] ESOrbChangeAttack(48:16579) -> 進行つげる灯火
+	[1] ESOrbChangeAttack(48:16579) -> Lights lead the way
 	Change a random attribute to Wood orbs, Deal 95% damage
 
 #28: ESBranchHP(28:18) -> ESBranchHP
@@ -113,15 +113,15 @@ Branch on hp < 20, target rnd 45
 #29: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 75, target rnd 34
 
-#30: ESOrbChangeAttack(48:16579) -> 進行つげる灯火
+#30: ESOrbChangeAttack(48:16579) -> Lights lead the way
 Condition: 33% chance (ai:0 rnd:33)
 Change a random attribute to Wood orbs, Deal 95% damage
 
-#31: ESFixedStart(101:16580) -> 感応式信号
+#31: ESFixedStart(101:16580) -> Traffic Signal Sensor
 Condition: 33% chance (ai:0 rnd:33)
 Fix orb movement starting point to random position on the board, Deal 100% damage
 
-#32: ESAttackMultihit(15:16581) -> 混沌する交通
+#32: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 34% chance (ai:0 rnd:34)
 Deal 105% damage (3 hits, 35% each)
 
@@ -130,23 +130,23 @@ end_turn
 
 #34: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESSkyfallLocked(96:16583) -> 目が黄色に光りだした
+	[0] ESSkyfallLocked(96:16583) -> Eye Glows Yellow
 	Locked random skyfall +100% for 5 turns
-	[1] ESRowSpawnMulti(79:16584) -> 危険の兆候
+	[1] ESRowSpawnMulti(79:16584) -> Signs of Danger
 	Change the 3rd row to Light and Jammer orbs, Deal 95% damage
 
 #35: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 40
 
-#36: ESRowSpawnMulti(79:16584) -> 危険の兆候
+#36: ESRowSpawnMulti(79:16584) -> Signs of Danger
 Condition: 33% chance (ai:0 rnd:33)
 Change the 3rd row to Light and Jammer orbs, Deal 95% damage
 
-#37: ESOrbLock(94:16585) -> 信号制御
+#37: ESOrbLock(94:16585) -> Traffic Signal Controls
 Condition: 33% chance (ai:0 rnd:33)
 Lock 15 random orbs, Deal 100% damage
 
-#38: ESAttackMultihit(15:16581) -> 混沌する交通
+#38: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 34% chance (ai:0 rnd:34)
 Deal 105% damage (3 hits, 35% each)
 
@@ -155,20 +155,20 @@ end_turn
 
 #40: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESAttackUPRemainingEnemies(17:16587) -> 目が赤色に光りだした
+	[0] ESAttackUPRemainingEnemies(17:16587) -> Eye Glows Red
 	Increase damage to 150% for the next 999 turns
-	[1] ESRowSpawnMulti(78:16588) -> 規制の代償
+	[1] ESRowSpawnMulti(78:16588) -> Regulation Compensation
 	Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
 
-#41: ESRandomSpawn(92:16589) -> 行動の抑止力
+#41: ESRandomSpawn(92:16589) -> Movement Deterrent
 Condition: 33% chance (ai:0 rnd:33)
 Spawn 6 random Fire or Poison orbs, Deal 95% damage
 
-#42: ESBlind62(62:16590) -> 光なき街明かり
+#42: ESBlind62(62:16590) -> Light on an unlit street
 Condition: 33% chance (ai:0 rnd:33)
 Blind all orbs on the board, Deal 100% damage
 
-#43: ESAttackMultihit(15:16581) -> 混沌する交通
+#43: ESAttackMultihit(15:16581) -> Chaotic Traffic
 Condition: 34% chance (ai:0 rnd:34)
 Deal 105% damage (3 hits, 35% each)
 
@@ -181,13 +181,13 @@ Branch on flag & 1, target rnd 49
 #46: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#47: ESBoardChange(84:16591) -> 混沌の交通網
+#47: ESBoardChange(84:16591) -> Chaotic Traffic Network
 Change all orbs to Jammer and Poison
 
 #48: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#49: ESAttackMultihit(15:16592) -> 立ち上る赤き輝き
+#49: ESAttackMultihit(15:16592) -> Rising Red Glow
 Deal 300% damage (3 hits, 100% each)
 
 #50: ESEndPath(36:26) -> ESEndPath
@@ -200,13 +200,13 @@ Branch on counter >= 1, target rnd 45
 counter + 1
 
 #53: SkillSet:
-	[0] ESRecoverEnemy86(86:16594) -> リペアフェーズ
+	[0] ESRecoverEnemy86(86:16594) -> Repair Phase
 	Enemy recover 50% HP
-	[1] ESOrbSealColumn(99:16595) -> 胸が赤色に光りだした
+	[1] ESOrbSealColumn(99:16595) -> Chest Glows Red
 	Seal the 1st and 6th columns for 5 turns
 
 #54: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#55: ESResolve(73:16573) -> 根性
+#55: ESResolve(73:16573) -> Resolve
 Survive attacks with 1 HP when HP > 50%
