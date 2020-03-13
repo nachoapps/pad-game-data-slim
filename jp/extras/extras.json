@@ -1350,6 +1350,24 @@
         "file_name": "gc_button27.btex"
     },
     {
+        "file_name": "title033_35.btex"
+    },
+    {
+        "file_name": "title033_40.btex"
+    },
+    {
+        "file_name": "title033_58.btex"
+    },
+    {
+        "file_name": "title062_35.btex"
+    },
+    {
+        "file_name": "title062_40.btex"
+    },
+    {
+        "file_name": "title062_58.btex"
+    },
+    {
         "file_name": "padv001.wav"
     },
     {
@@ -1510,6 +1528,9 @@
     },
     {
         "file_name": "padv170.wav"
+    },
+    {
+        "file_name": "padv171.wav"
     },
     {
         "file_name": "skindata.bin"
@@ -3376,5 +3397,11 @@
     },
     {
         "file_name": "block041cb.btex"
+    },
+    {
+        "file_name": "block042.btex"
+    },
+    {
+        "file_name": "block042cb.btex"
     }
 ]
