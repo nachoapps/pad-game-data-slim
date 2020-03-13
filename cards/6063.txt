@@ -1,0 +1,20 @@
+#6063 鬼兵隊総督・高杉晋助
+HP: 3620 ATK: 2008 RCV: 423 LB: 25
+AWK: 10,10,21,28,53,51,58,58,58
+SAWK: 32,48,55
+
+# 16520/116 - 畳み掛けるなら今だぜ
+Tags: ALL_ORBS_CONVERT,SUICIDE
+Game: HPが50％減少。1ターンの間、ダメージ無効を貫通する。 全ドロップを5属性＋回復ドロップに変化。
+JP: HPが50％減少。1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 16525/138 - ろくでなしにしか通じねェ話もあらぁ
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 18.0, 1.0, 0.25]
+Game: 闇属性のHPが2倍。HP50％以下で攻撃力が9倍。 4色以上同時攻撃でダメージを軽減、攻撃力が2倍。
+JP: 闇属性のHPが2倍。HPが50%以下で攻撃力が9倍。4色以上同時攻撃で攻撃力が2倍、受けるダメージを25％減少。
+EN: 2x HP for Dark Att.; 9x ATK when below 50% HP; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 2x HP for Dark Att.; 9x ATK when below 50% HP; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+

@@ -1,6 +1,6 @@
 #4751 土方十四郎
 HP: 4213 ATK: 2400 RCV: 13 LB: 25
-AWK: 10,10,21,28,19,19,19,46,46
+AWK: 10,10,21,28,19,53,43,46,46
 SAWK: 43,21,54
 
 # 11407/116 - Not enough Mayonnaise!
@@ -12,9 +12,9 @@ KR: For 1 turn, no skyfall; Change all orbs to Wood and Dark orbs
 
 # 11410/138 - It's the Shisengumiiiii!!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
-Stats: [1.0, 28.0, 1.0, 0.25]
+Stats: [1.0, 32.0, 1.0, 0.25]
 Game: [No Skyfall Combos], 4x ATK & reduces dmg when Wd & Dk attack; ATK increases when 8 or less on board, up to 7x
-JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力3倍、0個のところまで7倍。木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
-EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
-KR: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力4倍、0個のところまで8倍。木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+KR: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 

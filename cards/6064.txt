@@ -1,0 +1,20 @@
+#6064 夜兎族・神威＆神楽
+HP: 4090 ATK: 2483 RCV: 0 LB: 25
+AWK: 56,28,53,53,27,27,27,27,27
+SAWK: 52,46,47
+
+# 16529/116 - 俺が殺るまでは誰も死なせない
+Tags: ALL_ORBS_CONVERT
+Game: 2ターンの間、回復力が半減。 全ドロップを火、木、光、闇ドロップに変化。
+JP: 2ターンの間、回復力が0.5倍。全ドロップを火、木、光、闇ドロップに変化
+EN: For 2 turns, 0.5x RCV; Change all orbs to Fire, Wood, Light, and Dark orbs
+KR: For 2 turns, 0.5x RCV; Change all orbs to Fire, Wood, Light, and Dark orbs
+
+# 16532/138 - 本物の夜兎って奴を見せてやるよ
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 16.0, 1.0, 0.35]
+Game: 火属性の攻撃力が8倍。HP50％以上で受けるダメージを軽減。 火を4個以上つなげて消すと攻撃力が2倍、1コンボ加算。
+JP: 火属性の攻撃力が8倍。HPが50%以上で受けるダメージを35％減少。火を4個以上つなげて消しと攻撃力が2倍、1コンボ加算。
+EN: 8x ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+KR: 8x ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+

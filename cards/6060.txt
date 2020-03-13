@@ -1,0 +1,20 @@
+#6060 戦部ワタル
+HP: 4028 ATK: 1659 RCV: 219 LB: 25
+AWK: 21,21,28,57,57,43,44,10,10
+SAWK: 53,54,43
+
+# 16502/116 - 救世主
+Tags: ATTACK_STANCE,ORB_CONVERT,ORB_LOCK
+Game: 回復、お邪魔、毒ドロップを光ドロップに変化。 光ドロップをロック。
+JP: 回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
+
+# 16505/138 - ハッキシ言って、おもしろカッコいいぜ！
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 16.0, 1.0, 0]
+Game: 光属性のHPが1.5倍、攻撃力は4倍。ドロップ操作を2秒延長。 3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+JP: 光属性の攻撃力が4倍、HPが1.5倍。ドロップ操作時間を2秒延長。3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 4x ATK and increase combo by 1 when matching 3 or more colors
+KR: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 4x ATK and increase combo by 1 when matching 3 or more colors
+

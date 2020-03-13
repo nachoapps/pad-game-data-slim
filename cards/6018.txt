@@ -1,14 +1,14 @@
 #6018 ドナルドダック
-HP: 4085 ATK: 2485 RCV: 6 LB: 0
-AWK: 10,10,21,21,53,28,46,46,46
+HP: 4285 ATK: 2635 RCV: 6 LB: 0
+AWK: 52,57,21,21,53,28,46,46,46
 SAWK: 
 
 # 16432/116 - ドリーム・オブ・エナジー
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
-Game: 1ターンの間、攻撃タイプの攻撃力が2.5倍。 最上段横1列を水ドロップに変化。
-JP: 1ターンの間、攻撃タイプの攻撃力が2.5倍。最上段を水ドロップに変化
-EN: For 1 turn, 2.5x ATK for Attacker type; Change the top row to Water orbs
-KR: For 1 turn, 2.5x ATK for Attacker type; Change the top row to Water orbs
+Game: 1ターンの間、攻撃タイプの攻撃力が3倍。 最上段横1列を水ドロップに変化。
+JP: 1ターンの間、攻撃タイプの攻撃力が3倍。最上段を水ドロップに変化
+EN: For 1 turn, 3x ATK for Attacker type; Change the top row to Water orbs
+KR: For 1 turn, 3x ATK for Attacker type; Change the top row to Water orbs
 
 # 16435/138 - ハッピー・エナジー
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME

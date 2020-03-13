@@ -1,12 +1,12 @@
 #6017 ミニーマウス【フォト】
-HP: 3263 ATK: 1645 RCV: 761 LB: 0
+HP: 3263 ATK: 1645 RCV: 911 LB: 0
 AWK: 49,21,60,3
 SAWK: 
 
 # 16420/116 - ドリーム・オブ・ドリーム
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
-Game: 最上段横1列を回復ドロップに変化。 6ターンの間、受けるダメージを軽減。
-JP: 最上段を回復ドロップに変化。6ターンの間、受けるダメージを30％減少
-EN: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
-KR: Change the top row to Heal orbs; For 6 turns, reduce damage taken by 30%
+Game: 最上段横1列を回復ドロップに変化。 7ターンの間、受けるダメージを軽減。
+JP: 最上段を回復ドロップに変化。7ターンの間、受けるダメージを30％減少
+EN: Change the top row to Heal orbs; For 7 turns, reduce damage taken by 30%
+KR: Change the top row to Heal orbs; For 7 turns, reduce damage taken by 30%
 

@@ -1,0 +1,20 @@
+#6079 星導の魔導機士・メノア
+HP: 4865 ATK: 2715 RCV: 515 LB: 15
+AWK: 10,10,28,56,53,53,44,43,43
+SAWK: 48,58,43,60,27
+
+# 16567/116 - メノアゲート-OPH2891
+Tags: ALL_ORBS_CONVERT,DROP_CHANCE
+Game: 1ターンの間、お邪魔ドロップが少し落ちやすくなる。 全ドロップを5属性＋回復ドロップに変化。
+JP: 1ターンの間、お邪魔が10％の確率で落ちてくる。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+
+# 16581/138 - 魔導機装・オルファリオン
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 18.0, 1, 0.35]
+Game: 木光の同時攻撃でダメージを軽減、2コンボ加算。 4色以上同時攻撃で攻撃力が18倍、5色で固定5万ダメージ。
+JP: 木、光の同時攻撃で受けるダメージを35％減少。木と光を3個以上同時につなげて消しと、2コンボ加算。4色以上同時攻撃で攻撃力が18倍。5色以上同時攻撃、固定50000ダメージ。
+EN: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+KR: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+

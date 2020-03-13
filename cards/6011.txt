@@ -1,14 +1,14 @@
 #6011 ミッキーマウス＆ドナルドダック
-HP: 5005 ATK: 2341 RCV: 30 LB: 20
-AWK: 10,10,21,21,28,19,51,33,33
+HP: 5505 ATK: 2341 RCV: 30 LB: 20
+AWK: 52,21,21,21,28,19,51,33,33
 SAWK: 43,56,70
 
 # 16408/116 - ドリーム・オブ・アドベンチャー
 Tags: ALL_ORBS_CONVERT
-Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、光、闇、回復ドロップに変化。
-JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
-EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
-KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+Game: 2ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、光、闇、回復ドロップに変化。
+JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
+EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
+KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 
 # 16411/138 - スペシャル・アドベンチャー
 Tags: ENHANCED_HP_ATK,EXTEND_TIME

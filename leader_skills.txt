@@ -48056,11 +48056,11 @@ KR: Increase orb movement time by 2 seconds
 
 # 11398/138 - What I protect won't change even once!
 Tags: ENHANCED_ATK_RCV
-Stats: [1, 30.0, 1.5, 0]
+Stats: [1, 30.0, 3.0, 0]
 Game: ATK increases with 8+ combos, up to 10x; 3x ATK & 1.5x RCV when skills used
-JP: 8コンボ以上で攻撃力が5倍、最大10コンボで10倍。スキル使用時、攻撃力が3倍、回復力が1.5倍。
-EN: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK and 1.5x RCV on the turn a skill is used
-KR: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK and 1.5x RCV on the turn a skill is used
+JP: 8コンボ以上で攻撃力が5倍、最大10コンボで10倍。スキル使用時、攻撃力と回復力が3倍。
+EN: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK & RCV on the turn a skill is used
+KR: 5x ATK when 8 or more combos up to 10x at 10 combos; 3x ATK & RCV on the turn a skill is used
 
 # 11399/98 - 
 Tags: ENHANCED_ATK
@@ -48072,27 +48072,27 @@ KR: 5x ATK when 8 or more combos up to 10x at 10 combos
 
 # 11400/133 - 
 Tags: ENHANCED_ATK_RCV
-Stats: [1, 3.0, 1.5, 0]
+Stats: [1, 3.0, 3.0, 0]
 Game: 
-JP: スキル使用時、攻撃力が3倍、回復力が1.5倍。
-EN: 3x ATK and 1.5x RCV on the turn a skill is used
-KR: 3x ATK and 1.5x RCV on the turn a skill is used
+JP: スキル使用時、攻撃力と回復力が3倍。
+EN: 3x ATK & RCV on the turn a skill is used
+KR: 3x ATK & RCV on the turn a skill is used
 
 # 11404/138 - Drop deeeead!!
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 16.0, 1.0, 0.0]
+Stats: [2.0, 18.0, 1.0, 0.0]
 Game: 2x HP & 4x ATK for Water & Light Att.; 4x ATK with 5+ linked Water or Light Orbs
-JP: 水と光属性の攻撃力が4倍、HPが2倍。水か光を5個以上つなげて消すと攻撃力が4倍。
-EN: 4x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
-KR: 4x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
+JP: 水と光属性の攻撃力が4.5倍、HPが2倍。水か光を5個以上つなげて消すと攻撃力が4倍。
+EN: 4.5x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
+KR: 4.5x ATK and 2x HP for Water and Light Att.; 4x ATK when matching 5 or more connected Water or Light orbs
 
 # 11405/129 - 
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 4.0, 1.0, 0.0]
+Stats: [2.0, 4.5, 1.0, 0.0]
 Game: 
-JP: 水と光属性の攻撃力が4倍、HPが2倍。
-EN: 4x ATK and 2x HP for Water and Light Att.
-KR: 4x ATK and 2x HP for Water and Light Att.
+JP: 水と光属性の攻撃力が4.5倍、HPが2倍。
+EN: 4.5x ATK and 2x HP for Water and Light Att.
+KR: 4.5x ATK and 2x HP for Water and Light Att.
 
 # 11406/159 - 
 Tags: ENHANCED_ATK
@@ -48104,19 +48104,19 @@ KR: 4x ATK when matching 5 or more connected Water or Light orbs
 
 # 11410/138 - It's the Shisengumiiiii!!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
-Stats: [1.0, 28.0, 1.0, 0.25]
+Stats: [1.0, 32.0, 1.0, 0.25]
 Game: [No Skyfall Combos], 4x ATK & reduces dmg when Wd & Dk attack; ATK increases when 8 or less on board, up to 7x
-JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力3倍、0個のところまで7倍。木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
-EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
-KR: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力4倍、0個のところまで8倍。木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+KR: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
 # 11411/177 - 
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 7.0, 1.0, 0]
+Stats: [1.0, 8.0, 1.0, 0]
 Game: 
-JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力3倍、0個のところまで7倍。
-EN: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left
-KR: [No skyfall] 3x ATK when there are 8 or fewer orbs remaining up to 7x ATK when 0 orbs left
+JP: 【落ちコンなし】パズル後の残りドロップ数が8個で攻撃力4倍、0個のところまで8倍。
+EN: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left
+KR: [No skyfall] 4x ATK when there are 8 or fewer orbs remaining up to 8x ATK when 0 orbs left
 
 # 11412/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -48128,11 +48128,11 @@ KR: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
 # 11413/138 - I'll show you a real fight
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 12.0, 1, 0.44]
+Stats: [1, 16.0, 1, 0.44]
 Game: 4x ATK & reduces damage with 6+ linked Wood Orbs; 3x ATK & reduces dmg when Wood & Dark attack at once
-JP: 木を6個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。木、闇の同時攻撃で攻撃力が3倍、受けるダメージを25％減少。
-EN: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs; 3x ATK and reduce damage taken by 25% when matching Wood and Dark
-KR: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs; 3x ATK and reduce damage taken by 25% when matching Wood and Dark
+JP: 木を6個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+KR: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood orbs; 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
 # 11414/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -48144,19 +48144,19 @@ KR: 4x ATK and reduce damage taken by 25% when matching 6 or more connected Wood
 
 # 11415/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 3.0, 1, 0.25]
+Stats: [1, 4.0, 1, 0.25]
 Game: 
-JP: 木、闇の同時攻撃で攻撃力が3倍、受けるダメージを25％減少。
-EN: 3x ATK and reduce damage taken by 25% when matching Wood and Dark
-KR: 3x ATK and reduce damage taken by 25% when matching Wood and Dark
+JP: 木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
+KR: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
 # 11419/138 - Just die already
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [2.0, 10.0, 2.0, 0]
+Stats: [2.0, 14.0, 2.0, 0]
 Game: 2x to all stats, but unable to erase 4 Orbs or less; 5x ATK with 6+ linked Light Orbs
-JP: 【ドロップを4個以下で消せない】全パラメータが2倍。光を6個以上つなげて消すと攻撃力が5倍。
-EN: [Unable to erase 4 orbs or less] 2x all stats; 5x ATK when matching 6 or more connected Light orbs
-KR: [Unable to erase 4 orbs or less] 2x all stats; 5x ATK when matching 6 or more connected Light orbs
+JP: 【ドロップを4個以下で消せない】全パラメータが2倍。光を6個以上つなげて消しと攻撃力が7倍、3コンボ加算。
+EN: [Unable to erase 4 orbs or less] 2x all stats; 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
+KR: [Unable to erase 4 orbs or less] 2x all stats; 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
 
 # 11420/158 - 
 Tags: ENHANCED_HP_ATK_RCV
@@ -48166,29 +48166,29 @@ JP: 【ドロップを4個以下で消せない】全パラメータが2倍。
 EN: [Unable to erase 4 orbs or less] 2x all stats
 KR: [Unable to erase 4 orbs or less] 2x all stats
 
-# 11421/159 - 
+# 11421/192 - 
 Tags: ENHANCED_ATK
-Stats: [1, 5.0, 1, 0]
+Stats: [1, 7.0, 1, 0]
 Game: 
-JP: 光を6個以上つなげて消すと攻撃力が5倍。
-EN: 5x ATK when matching 6 or more connected Light orbs
-KR: 5x ATK when matching 6 or more connected Light orbs
+JP: 光を6個以上つなげて消しと攻撃力が7倍、3コンボ加算。
+EN: 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
+KR: 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
 
 # 11422/138 - I only treat Hijakata with contempt!
-Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Stats: [1.0, 12.0, 3.0, 0.25]
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 16.0, 4.0, 0.25]
 Game: 3x ATK & RCV for Attacker & Devil Types; 4x ATK & reduces dmg when Light & Dark attack at once
-JP: 攻撃と悪魔タイプの攻撃力と回復力が3倍。光、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
-EN: 3x ATK & RCV for Attacker and Devil type; 4x ATK and reduce damage taken by 25% when matching Light and Dark
-KR: 3x ATK & RCV for Attacker and Devil type; 4x ATK and reduce damage taken by 25% when matching Light and Dark
+JP: 攻撃と悪魔タイプの攻撃力と回復力が4倍、HPが1.5倍。光、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK & RCV and 1.5x HP for Attacker and Devil type; 4x ATK and reduce damage taken by 25% when matching Light and Dark
+KR: 4x ATK & RCV and 1.5x HP for Attacker and Devil type; 4x ATK and reduce damage taken by 25% when matching Light and Dark
 
 # 11423/129 - 
-Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 3.0, 3.0, 0.0]
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 4.0, 4.0, 0.0]
 Game: 
-JP: 攻撃と悪魔タイプの攻撃力と回復力が3倍。
-EN: 3x ATK & RCV for Attacker and Devil type
-KR: 3x ATK & RCV for Attacker and Devil type
+JP: 攻撃と悪魔タイプの攻撃力と回復力が4倍、HPが1.5倍。
+EN: 4x ATK & RCV and 1.5x HP for Attacker and Devil type
+KR: 4x ATK & RCV and 1.5x HP for Attacker and Devil type
 
 # 11424/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -48202,9 +48202,9 @@ KR: 4x ATK and reduce damage taken by 25% when matching Light and Dark
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 24.0, 1, 0.25]
 Game: 4x ATK & reduces damage when 4+ Att. attack at once; ATK increases with 4+ linked Light Orbs, up to 6x
-JP: 4色以上同時攻撃で攻撃力が4倍、受けるダメージを25％減少。を4個以上つなげて消すと攻撃力が2倍、最大8個で6倍。
-EN: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
-KR: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
+JP: 4色以上同時攻撃で攻撃力が4倍、受けるダメージを25％減少。を4個以上つなげて消すと攻撃力が6倍。
+EN: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 4 or more colors; 6x ATK when matching 4 or more connected orbs
 
 # 11430/170 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -48218,25 +48218,25 @@ KR: 4x ATK and reduce damage taken by 25% when matching 4 or more colors
 Tags: ENHANCED_ATK
 Stats: [1, 6.0, 1, 0]
 Game: 
-JP: を4個以上つなげて消すと攻撃力が2倍、最大8個で6倍。
-EN: 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
-KR: 2x ATK when matching 4 or more connected orbs up to 6x at 8 orbs
+JP: を4個以上つなげて消すと攻撃力が6倍。
+EN: 6x ATK when matching 4 or more connected orbs
+KR: 6x ATK when matching 4 or more connected orbs
 
 # 11432/138 - Sleep tight in hell
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1.0, 8.0, 1.0, 0.5]
+Stats: [1.0, 10.0, 1.0, 0.5]
 Game: ATK increases with 4+ combos, up to 8x; halves Fire, Light & Dark Att. damage
-JP: 4コンボ以上で攻撃力が3倍、最大9コンボで8倍。火、光、闇属性の敵からのダメージを50％減少。
-EN: 3x ATK when 4 or more combos up to 8x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
-KR: 3x ATK when 4 or more combos up to 8x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
+JP: 4コンボ以上で攻撃力が5倍、最大9コンボで10倍。火、光、闇属性の敵からのダメージを50％減少。
+EN: 5x ATK when 4 or more combos up to 10x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
+KR: 5x ATK when 4 or more combos up to 10x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
 
 # 11433/98 - 
 Tags: ENHANCED_ATK
-Stats: [1, 8.0, 1, 0]
+Stats: [1, 10.0, 1, 0]
 Game: 
-JP: 4コンボ以上で攻撃力が3倍、最大9コンボで8倍。
-EN: 3x ATK when 4 or more combos up to 8x at 9 combos
-KR: 3x ATK when 4 or more combos up to 8x at 9 combos
+JP: 4コンボ以上で攻撃力が5倍、最大9コンボで10倍。
+EN: 5x ATK when 4 or more combos up to 10x at 9 combos
+KR: 5x ATK when 4 or more combos up to 10x at 9 combos
 
 # 11434/129 - 
 Tags: REDUCE_DAMAGE
@@ -48250,9 +48250,9 @@ KR: Reduce damage taken from Fire, Light, and Dark Att. by 50%
 Tags: ENHANCED_ATK
 Stats: [1.0, 21.0, 1.0, 0.0]
 Game: 6x ATK for Fire Att.; 2x ATK with 2 Fire combos, 3.5x ATK with 3+ combos
-JP: 火属性の攻撃力が6倍。火の2コンボで攻撃力が2倍、最大3コンボで3.5倍。
-EN: 6x ATK for Fire Att.; 2x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
-KR: 6x ATK for Fire Att.; 2x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
+JP: 火属性の攻撃力が6倍。火の2コンボで攻撃力が2.5倍、最大3コンボで3.5倍。火、闇同時攻撃で1コンボ加算。
+EN: 6x ATK for Fire Att.; 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos; increase combo by 1 when matching Fire and Dark at once
+KR: 6x ATK for Fire Att.; 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos; increase combo by 1 when matching Fire and Dark at once
 
 # 11439/129 - 
 Tags: ENHANCED_ATK
@@ -48266,17 +48266,17 @@ KR: 6x ATK for Fire Att.
 Tags: ENHANCED_ATK
 Stats: [1, 3.5, 1, 0]
 Game: 
-JP: 火の2コンボで攻撃力が2倍、最大3コンボで3.5倍。
-EN: 2x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
-KR: 2x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
+JP: 火の2コンボで攻撃力が2.5倍、最大3コンボで3.5倍。
+EN: 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
+KR: 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
 
 # 11441/138 - I pay my respects with a smile when killing
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 18.0, 1.5, 0.0]
+Stats: [1.5, 21.0, 1.5, 0.0]
 Game: 1.5x to all stats for Fire Att.; 4x ATK with 7+ combos, 3x ATK when attacking with 5+ Att. (4+Heal)
-JP: 火属性の全パラメータが1.5倍。7コンボ以上で攻撃力が4倍。5色(4色+回復)以上同時攻撃で攻撃力が3倍。
-EN: 1.5x all stats for Fire Att.; 4x ATK when 7 or more combos; 3x ATK when matching 5 or more colors (4+heal)
-KR: 1.5x all stats for Fire Att.; 4x ATK when 7 or more combos; 3x ATK when matching 5 or more colors (4+heal)
+JP: 火属性の全パラメータが1.5倍。7コンボ以上で攻撃力が4倍。5色(4色+回復)以上同時攻撃で攻撃力が3.5倍、1コンボ加算。
+EN: 1.5x all stats for Fire Att.; 4x ATK when 7 or more combos; 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
+KR: 1.5x all stats for Fire Att.; 4x ATK when 7 or more combos; 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
 
 # 11442/129 - 
 Tags: ENHANCED_HP_ATK_RCV
@@ -48294,13 +48294,13 @@ JP: 7コンボ以上で攻撃力が4倍。
 EN: 4x ATK when 7 or more combos
 KR: 4x ATK when 7 or more combos
 
-# 11444/61 - 
+# 11444/194 - 
 Tags: ENHANCED_ATK
-Stats: [1, 3.0, 1, 0]
+Stats: [1, 3.5, 1, 0]
 Game: 
-JP: 5色(4色+回復)以上同時攻撃で攻撃力が3倍。
-EN: 3x ATK when matching 5 or more colors (4+heal)
-KR: 3x ATK when matching 5 or more colors (4+heal)
+JP: 5色(4色+回復)以上同時攻撃で攻撃力が3.5倍、1コンボ加算。
+EN: 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
+KR: 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
 
 # 11450/138 - I'm Shinpachi Shimura of the Yorozuya
 Tags: ENHANCED_ATK_RCV
@@ -52388,7 +52388,7 @@ Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
 JP: モンスター交換所で 【妖怪ウォッチＷコラボ】モンスターと交換できる。
 EN: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
-KR: You can exchange this monster for Yokai Watch W Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [요괴워치 월드 콜라보] 몬스터와 교환 가능
 
 # 12366/138 - Demon's Dragon Battle Talisman
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
@@ -67095,7 +67095,7 @@ JP: 6コンボ以上で攻撃力と回復力が3倍。
 EN: 3x ATK & RCV when 6 or more combos
 KR: 3x ATK & RCV when 6 or more combos
 
-# 15862/138 - Seven's Charge
+# 15862/138 - 7's Charge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 14.0, 1.0, 0.25]
 Game: [No Skyfall combos], 4x ATK & reduces damage with 7+  combos; 3.5x ATK when 7 Orbs or less remain on the board
@@ -68850,10 +68850,10 @@ KR: 6x ATK when 4 or more combos up to 9x at 7 combos
 # 16384/138 - ファンタスティック・セレブレーション
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0]
-Game: 【操作時間8秒】全属性の全パラメータが2倍。 3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
-JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
-EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
-KR: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
+Game: 【操作時間8秒】全属性の全パラメータが2倍。 3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
+JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
+EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 2 when matching 3 or more colors
+KR: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 2 when matching 3 or more colors
 
 # 16385/178 - 
 Tags: ENHANCED_HP_ATK_RCV
@@ -68867,9 +68867,9 @@ KR: [Fixed 8 second movetime] 2x all stats
 Tags: ENHANCED_ATK
 Stats: [1, 8.0, 1, 0]
 Game: 
-JP: 3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
-EN: 8x ATK and increase combo by 1 when matching 3 or more colors
-KR: 8x ATK and increase combo by 1 when matching 3 or more colors
+JP: 3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
+EN: 8x ATK and increase combo by 2 when matching 3 or more colors
+KR: 8x ATK and increase combo by 2 when matching 3 or more colors
 
 # 16390/138 - スペシャル・ハピネス
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -69438,4 +69438,524 @@ Game: 闇属性のHPが2倍、攻撃力は6倍。 ドロップ操作を10秒延�
 JP: 闇属性の攻撃力が6倍、HPが2倍。ドロップ操作時間を10秒延長。
 EN: 6x ATK and 2x HP for Dark Att.; Increase orb movement time by 10 seconds
 KR: 6x ATK and 2x HP for Dark Att.; Increase orb movement time by 10 seconds
+
+# 16505/138 - ハッキシ言って、おもしろカッコいいぜ！
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 16.0, 1.0, 0]
+Game: 光属性のHPが1.5倍、攻撃力は4倍。ドロップ操作を2秒延長。 3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+JP: 光属性の攻撃力が4倍、HPが1.5倍。ドロップ操作時間を2秒延長。3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 4x ATK and increase combo by 1 when matching 3 or more colors
+KR: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds; 4x ATK and increase combo by 1 when matching 3 or more colors
+
+# 16506/185 - 
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [1.5, 4.0, 1.0, 0]
+Game: 
+JP: 光属性の攻撃力が4倍、HPが1.5倍。ドロップ操作時間を2秒延長。
+EN: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds
+KR: 4x ATK and 1.5x HP for Light Att.; Increase orb movement time by 2 seconds
+
+# 16507/194 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and increase combo by 1 when matching 3 or more colors
+KR: 4x ATK and increase combo by 1 when matching 3 or more colors
+
+# 16516/138 - 俺達ゃ俺達の戦をするだけだ
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 15.0, 1, 0.35]
+Game: 水の2コンボ以上でダメージを軽減、攻撃力が15倍。 水を6個以上つなげて消すと2コンボ加算、固定1ダメージ。
+JP: 水を6個以上つなげて消しと、2コンボ加算。水を6個以上つなげて消しと固定1ダメージ。水の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。
+EN: Increase combo by 2 when matching 6 or more connected Water orbs at once; 1 additional damage when matching 6 or more Water orbs; 15x ATK and reduce damage taken by 35% when matching 2+ Water combos
+KR: Increase combo by 2 when matching 6 or more connected Water orbs at once; 1 additional damage when matching 6 or more Water orbs; 15x ATK and reduce damage taken by 35% when matching 2+ Water combos
+
+# 16517/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1, 0.35]
+Game: 
+JP: 水の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。
+EN: 15x ATK and reduce damage taken by 35% when matching 2+ Water combos
+KR: 15x ATK and reduce damage taken by 35% when matching 2+ Water combos
+
+# 16518/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 水を6個以上つなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 6 or more connected Water orbs at once
+KR: Increase combo by 2 when matching 6 or more connected Water orbs at once
+
+# 16519/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 水を6個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 6 or more Water orbs
+KR: 1 additional damage when matching 6 or more Water orbs
+
+# 16523/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching 3 or more colors
+KR: increase combo by 1 when matching 3 or more colors
+
+# 16525/138 - ろくでなしにしか通じねェ話もあらぁ
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 18.0, 1.0, 0.25]
+Game: 闇属性のHPが2倍。HP50％以下で攻撃力が9倍。 4色以上同時攻撃でダメージを軽減、攻撃力が2倍。
+JP: 闇属性のHPが2倍。HPが50%以下で攻撃力が9倍。4色以上同時攻撃で攻撃力が2倍、受けるダメージを25％減少。
+EN: 2x HP for Dark Att.; 9x ATK when below 50% HP; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 2x HP for Dark Att.; 9x ATK when below 50% HP; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+
+# 16526/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 闇属性のHPが2倍。
+EN: 2x HP for Dark Att.
+KR: 2x HP for Dark Att.
+
+# 16527/130 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1.0, 0.0]
+Game: 
+JP: HPが50%以下で攻撃力が9倍。
+EN: 9x ATK when below 50% HP
+KR: 9x ATK when below 50% HP
+
+# 16528/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 2.0, 1, 0.25]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が2倍、受けるダメージを25％減少。
+EN: 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+KR: 2x ATK and reduce damage taken by 25% when matching 4 or more colors
+
+# 16532/138 - 本物の夜兎って奴を見せてやるよ
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 16.0, 1.0, 0.35]
+Game: 火属性の攻撃力が8倍。HP50％以上で受けるダメージを軽減。 火を4個以上つなげて消すと攻撃力が2倍、1コンボ加算。
+JP: 火属性の攻撃力が8倍。HPが50%以上で受けるダメージを35％減少。火を4個以上つなげて消しと攻撃力が2倍、1コンボ加算。
+EN: 8x ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+KR: 8x ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+
+# 16533/129 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 8.0, 1.0, 0.0]
+Game: 
+JP: 火属性の攻撃力が8倍。
+EN: 8x ATK for Fire Att.
+KR: 8x ATK for Fire Att.
+
+# 16534/183 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when above 50% HP
+KR: Reduce damage taken by 35% when above 50% HP
+
+# 16535/192 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 火を4個以上つなげて消しと攻撃力が2倍、1コンボ加算。
+EN: 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+KR: 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
+
+# 16540/138 - 友たちが生きるこの国を護る者だ
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1, 0.44]
+Game: 木の2コンボ以上でダメージを軽減、攻撃力が5倍。 回復を4個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+JP: 木の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。回復を4個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos; 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
+
+# 16541/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.25]
+Game: 
+JP: 木の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Wood combos
+
+# 16542/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1, 0.25]
+Game: 
+JP: 回復を4個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
+KR: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
+
+# 16543/138 - 「ダチ公」であろう
+Tags: ENHANCED_ATK,EXP
+Stats: [1, 16.0, 1, 0]
+Game: ダンジョン潜入時リーダーの時にランク経験値が1.8倍。 木の2コンボで攻撃力が12倍、3コンボ以上で16倍。
+JP: ランク経験値ｘ1.8倍。木の2コンボで攻撃力が12倍、最大3コンボで16倍。
+EN: 1.8x Rank EXP; 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
+KR: 1.8x Rank EXP; 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
+
+# 16544/148 - 
+Tags: EXP
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ランク経験値ｘ1.8倍。
+EN: 1.8x Rank EXP
+KR: 1.8x Rank EXP
+
+# 16545/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 16.0, 1, 0]
+Game: 
+JP: 木の2コンボで攻撃力が12倍、最大3コンボで16倍。
+EN: 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
+KR: 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
+
+# 16549/138 - 世界の半分をうけもってやらぁ
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [1.5, 16.0, 1.0, 0.25]
+Game: 光属性のHPが1.5倍。HP80％以下で受けるダメージを軽減。 4コンボ以上で攻撃力が上昇、最大16倍。
+JP: 光属性のHPが1.5倍。HPが80%以下で受けるダメージを25％減少。4コンボ以上で攻撃力が10倍、最大7コンボで16倍。
+EN: 1.5x HP for Light Att.; Reduce damage taken by 25% when below 80% HP; 10x ATK when 4 or more combos up to 16x at 7 combos
+KR: 1.5x HP for Light Att.; Reduce damage taken by 25% when below 80% HP; 10x ATK when 4 or more combos up to 16x at 7 combos
+
+# 16550/129 - 
+Tags: ENHANCED_HP
+Stats: [1.5, 1.0, 1.0, 0.0]
+Game: 
+JP: 光属性のHPが1.5倍。
+EN: 1.5x HP for Light Att.
+KR: 1.5x HP for Light Att.
+
+# 16551/38 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1, 0.25]
+Game: 
+JP: HPが80%以下で受けるダメージを25％減少。
+EN: Reduce damage taken by 25% when below 80% HP
+KR: Reduce damage taken by 25% when below 80% HP
+
+# 16552/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 16.0, 1, 0]
+Game: 
+JP: 4コンボ以上で攻撃力が10倍、最大7コンボで16倍。
+EN: 10x ATK when 4 or more combos up to 16x at 7 combos
+KR: 10x ATK when 4 or more combos up to 16x at 7 combos
+
+# 16553/138 - 何でもやんのが万事屋金ちゃんだ
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 18.0, 2.0, 0.0]
+Game: 光属性の全パラメータが2倍。スキル使用時、攻撃力が3倍。 光を6個以上つなげて消すと攻撃力が3倍、9個以上で2コンボ加算。
+JP: 光属性の全パラメータが2倍。スキル使用時、攻撃力が3倍。光を6個以上つなげて消すと攻撃力が3倍。光を9個以上つなげて消しと、2コンボ加算。
+EN: 2x all stats for Light Att.; 3x ATK on the turn a skill is used; 3x ATK when matching 6 or more connected Light orbs; Increase combo by 2 when matching 9 or more connected Light orbs at once
+KR: 2x all stats for Light Att.; 3x ATK on the turn a skill is used; 3x ATK when matching 6 or more connected Light orbs; Increase combo by 2 when matching 9 or more connected Light orbs at once
+
+# 16554/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0.0]
+Game: 
+JP: 光属性の全パラメータが2倍。
+EN: 2x all stats for Light Att.
+KR: 2x all stats for Light Att.
+
+# 16555/133 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1.0, 0]
+Game: 
+JP: スキル使用時、攻撃力が3倍。
+EN: 3x ATK on the turn a skill is used
+KR: 3x ATK on the turn a skill is used
+
+# 16556/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: 光を6個以上つなげて消すと攻撃力が3倍。
+EN: 3x ATK when matching 6 or more connected Light orbs
+KR: 3x ATK when matching 6 or more connected Light orbs
+
+# 16557/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 光を9個以上つなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 9 or more connected Light orbs at once
+KR: Increase combo by 2 when matching 9 or more connected Light orbs at once
+
+# 16561/138 - 日輪（たいよう）が番人月詠 参る
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 18.0, 2.0, 0.5]
+Game: 【操作時間8秒】光闇の同時攻撃でダメージを半減。 7コンボ以上で攻撃力が9倍。光と闇属性の攻撃力と回復力が2倍。
+JP: 【操作時間8秒固定】光と闇属性の攻撃力と回復力が2倍。光、闇同時攻撃で受けるダメージを50％減少。7コンボ以上で攻撃力が9倍。
+EN: [Fixed 8 second movetime] 2x ATK & RCV for Light and Dark Att.; Reduce damage taken by 50% when matching Light and Dark at once; 9x ATK when 7 or more combos
+KR: [Fixed 8 second movetime] 2x ATK & RCV for Light and Dark Att.; Reduce damage taken by 50% when matching Light and Dark at once; 9x ATK when 7 or more combos
+
+# 16562/178 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 2.0, 2.0, 0]
+Game: 
+JP: 【操作時間8秒固定】光と闇属性の攻撃力と回復力が2倍。
+EN: [Fixed 8 second movetime] 2x ATK & RCV for Light and Dark Att.
+KR: [Fixed 8 second movetime] 2x ATK & RCV for Light and Dark Att.
+
+# 16563/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 光、闇同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Light and Dark at once
+KR: increase combo by 1 when matching Light and Dark at once
+
+# 16564/170 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.5]
+Game: 
+JP: 光、闇同時攻撃で受けるダメージを50％減少。
+EN: Reduce damage taken by 50% when matching Light and Dark at once
+KR: Reduce damage taken by 50% when matching Light and Dark at once
+
+# 16565/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1, 0]
+Game: 
+JP: 7コンボ以上で攻撃力が9倍。
+EN: 9x ATK when 7 or more combos
+KR: 9x ATK when 7 or more combos
+
+# 16578/138 - 魔導機工学
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 16.0, 1.0, 0.5]
+Game: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。 ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+JP: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+KR: 4x ATK and increase combo by 2 when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+
+# 16579/194 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。
+EN: 4x ATK and increase combo by 2 when matching 4 or more colors
+KR: 4x ATK and increase combo by 2 when matching 4 or more colors
+
+# 16580/193 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1.0, 0.5]
+Game: 
+JP: ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+
+# 16581/138 - 魔導機装・オルファリオン
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 18.0, 1, 0.35]
+Game: 木光の同時攻撃でダメージを軽減、2コンボ加算。 4色以上同時攻撃で攻撃力が18倍、5色で固定5万ダメージ。
+JP: 木、光の同時攻撃で受けるダメージを35％減少。木と光を3個以上同時につなげて消しと、2コンボ加算。4色以上同時攻撃で攻撃力が18倍。5色以上同時攻撃、固定50000ダメージ。
+EN: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+KR: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+
+# 16582/171 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.35]
+Game: 
+JP: 木、光の同時攻撃で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when matching Wood and Light
+KR: Reduce damage taken by 35% when matching Wood and Light
+
+# 16583/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 木と光を3個以上同時につなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once
+KR: Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once
+
+# 16584/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 18.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が18倍。
+EN: 18x ATK when matching 4 or more colors
+KR: 18x ATK when matching 4 or more colors
+
+# 16585/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 5色以上同時攻撃、固定50000ダメージ。
+EN: 50000 additional damage when matching 5 or more colors
+KR: 50000 additional damage when matching 5 or more colors
+
+# 16586/138 - 魔導機装・デスファリオン
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 15.0, 1, 0.35]
+Game: 闇の2コンボ以上でダメージを軽減、攻撃力が15倍。 闇を6個以上つなげて消すと2コンボ加算、固定1ダメージ。
+JP: 闇の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。闇を6個以上つなげて消しと、2コンボ加算。闇を6個以上つなげて消しと固定1ダメージ。
+EN: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos; Increase combo by 2 when matching 6 or more connected Dark orbs at once; 1 additional damage when matching 6 or more Dark orbs
+KR: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos; Increase combo by 2 when matching 6 or more connected Dark orbs at once; 1 additional damage when matching 6 or more Dark orbs
+
+# 16587/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1, 0.35]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。
+EN: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos
+KR: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos
+
+# 16588/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 闇を6個以上つなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 6 or more connected Dark orbs at once
+KR: Increase combo by 2 when matching 6 or more connected Dark orbs at once
+
+# 16589/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇を6個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 6 or more Dark orbs
+KR: 1 additional damage when matching 6 or more Dark orbs
+
+# 16590/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇の3コンボ以上で固定1ダメージ。
+EN: 1 additional damage when attacking with 3 or more Dark combos
+KR: 1 additional damage when attacking with 3 or more Dark combos
+
+# 16591/138 - 魔導機装・からくり五右衛門
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1, 0.35]
+Game: 火木の同時攻撃でダメージを軽減、2コンボ加算。 火の2コンボ以上で攻撃力が16倍、3コンボ以上で固定1ダメージ。
+JP: 火、木同時攻撃で受けるダメージを35％減少。火、木同時攻撃で2コンボ加算。火の2コンボ以上で攻撃力が16倍。火の3コンボ以上で固定1ダメージ。
+EN: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when attacking with 3 or more Fire combos
+KR: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when attacking with 3 or more Fire combos
+
+# 16592/170 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.35]
+Game: 
+JP: 火、木同時攻撃で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when matching Fire and Wood at once
+KR: Reduce damage taken by 35% when matching Fire and Wood at once
+
+# 16593/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 火、木同時攻撃で2コンボ加算。
+EN: increase combo by 2 when matching Fire and Wood at once
+KR: increase combo by 2 when matching Fire and Wood at once
+
+# 16594/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 16.0, 1, 0]
+Game: 
+JP: 火の2コンボ以上で攻撃力が16倍。
+EN: 16x ATK when matching 2+ Fire combos
+KR: 16x ATK when matching 2+ Fire combos
+
+# 16595/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火の3コンボ以上で固定1ダメージ。
+EN: 1 additional damage when attacking with 3 or more Fire combos
+KR: 1 additional damage when attacking with 3 or more Fire combos
+
+# 16596/138 - 魔導機装・マシンノア
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1, 0.35]
+Game: 3色以上同時攻撃でダメージを軽減、2コンボ加算。 水を6個以上つなげて消すと攻撃力16倍、9個以上で固定1ダメージ。
+JP: 3色以上同時攻撃で受けるダメージを35％減少。3色以上同時攻撃で2コンボ加算。水を6個以上つなげて消すと攻撃力が16倍。水を9個以上つなげて消しと固定1ダメージ。
+EN: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs
+KR: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs
+
+# 16597/170 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.35]
+Game: 
+JP: 3色以上同時攻撃で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when matching 3 or more colors
+KR: Reduce damage taken by 35% when matching 3 or more colors
+
+# 16598/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 3色以上同時攻撃で2コンボ加算。
+EN: increase combo by 2 when matching 3 or more colors
+KR: increase combo by 2 when matching 3 or more colors
+
+# 16599/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 16.0, 1, 0]
+Game: 
+JP: 水を6個以上つなげて消すと攻撃力が16倍。
+EN: 16x ATK when matching 6 or more connected Water orbs
+KR: 16x ATK when matching 6 or more connected Water orbs
+
+# 16600/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 水を9個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 9 or more Water orbs
+KR: 1 additional damage when matching 9 or more Water orbs
+
+# 16601/138 - 魔導機装・マシンアテナ
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1, 0.35]
+Game: 木回復の同時攻撃でダメージを軽減、2コンボ加算。 木を6個以上つなげて消すと攻撃力16倍、9個以上で固定1ダメージ。
+JP: 木、回復の同時攻撃で受けるダメージを35％減少。木と回復を3個以上同時につなげて消しと、2コンボ加算。木を6個以上つなげて消すと攻撃力が16倍。木を9個以上つなげて消しと固定1ダメージ。
+EN: Reduce damage taken by 35% when matching Wood and Heal; Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once; 16x ATK when matching 6 or more connected Wood orbs; 1 additional damage when matching 9 or more Wood orbs
+KR: Reduce damage taken by 35% when matching Wood and Heal; Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once; 16x ATK when matching 6 or more connected Wood orbs; 1 additional damage when matching 9 or more Wood orbs
+
+# 16602/171 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.35]
+Game: 
+JP: 木、回復の同時攻撃で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when matching Wood and Heal
+KR: Reduce damage taken by 35% when matching Wood and Heal
+
+# 16603/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 木と回復を3個以上同時につなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once
+KR: Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once
+
+# 16604/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 16.0, 1, 0]
+Game: 
+JP: 木を6個以上つなげて消すと攻撃力が16倍。
+EN: 16x ATK when matching 6 or more connected Wood orbs
+KR: 16x ATK when matching 6 or more connected Wood orbs
+
+# 16605/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 木を9個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 9 or more Wood orbs
+KR: 1 additional damage when matching 9 or more Wood orbs
+
+# 16667/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 火、闇同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Fire and Dark at once
+KR: increase combo by 1 when matching Fire and Dark at once
 

@@ -1,0 +1,20 @@
+#6082 白虹の魔導機士・メノア
+HP: 7950 ATK: 2024 RCV: 0 LB: 15
+AWK: 10,10,28,56,53,43,43,55,48
+SAWK: 48,58,43,60,27
+
+# 16574/116 - メノアゲート-AMN4794
+Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
+Game: 全ドロップを水、木、光ドロップに変化。 左端縦1列を水ドロップに変化。
+JP: 全ドロップを水、木、光ドロップに変化。最左端を水ドロップに変化
+EN: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
+KR: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
+
+# 16596/138 - 魔導機装・マシンノア
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1, 0.35]
+Game: 3色以上同時攻撃でダメージを軽減、2コンボ加算。 水を6個以上つなげて消すと攻撃力16倍、9個以上で固定1ダメージ。
+JP: 3色以上同時攻撃で受けるダメージを35％減少。3色以上同時攻撃で2コンボ加算。水を6個以上つなげて消すと攻撃力が16倍。水を9個以上つなげて消しと固定1ダメージ。
+EN: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs
+KR: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs
+

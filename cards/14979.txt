@@ -10,11 +10,3 @@ JP: 全ドロップのロック状態を解除。全ドロップを火、木、�
 EN: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs
 KR: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs
 
-# 12334/138 - Look at my dragon power!
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 7.5, 1, 0.25]
-Game: 2.5x ATK with 4+ linked Orbs; 3x ATK & reduces damage when Dark & Water attack at once
-JP: を4個以上つなげて消すと攻撃力が2.5倍。闇、水の同時攻撃で攻撃力が3倍、受けるダメージを25％減少。
-EN: 2.5x ATK when matching 4 or more connected orbs; 3x ATK and reduce damage taken by 25% when matching Dark and Water
-KR: 2.5x ATK when matching 4 or more connected orbs; 3x ATK and reduce damage taken by 25% when matching Dark and Water
-

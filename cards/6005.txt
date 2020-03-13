@@ -1,6 +1,6 @@
 #6005 ミッキー＆フレンズ【セレブレーション】
-HP: 4555 ATK: 2424 RCV: 480 LB: 25
-AWK: 10,10,56,56,28,48,43,43,44
+HP: 4555 ATK: 2674 RCV: 480 LB: 25
+AWK: 52,60,56,56,28,48,43,43,44
 SAWK: 43,53,48
 
 # 16378/116 - ドリーム・オブ・セレブレーション
@@ -13,8 +13,8 @@ KR: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all
 # 16384/138 - ファンタスティック・セレブレーション
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0]
-Game: 【操作時間8秒】全属性の全パラメータが2倍。 3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
-JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、1コンボ加算。
-EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
-KR: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 1 when matching 3 or more colors
+Game: 【操作時間8秒】全属性の全パラメータが2倍。 3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
+JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
+EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 2 when matching 3 or more colors
+KR: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 2 when matching 3 or more colors
 
