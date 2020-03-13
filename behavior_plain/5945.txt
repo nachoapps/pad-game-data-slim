@@ -1,0 +1,74 @@
+#5945 - 転生ツクヨミ＝ドラゴン
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESNone(0:17251) -> ESNone
+nothing
+
+#3: ESNone(0:17252) -> ESNone
+nothing
+
+#4: ESNone(0:17253) -> ESNone
+nothing
+
+#5: ESNone(0:17254) -> ESNone
+nothing
+
+#6: ESNone(0:17255) -> ESNone
+nothing
+
+#7: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 10, target rnd 20
+
+#8: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 51, target rnd 14
+
+#9: ESNone(0:17264) -> ESNone
+nothing
+
+#10: ESNone(0:17265) -> ESNone
+nothing
+
+#11: ESNone(0:17266) -> ESNone
+nothing
+
+#12: ESNone(0:17267) -> ESNone
+nothing
+
+#13: ESNone(0:17268) -> ESNone
+nothing
+
+#14: ESNone(0:17270) -> ESNone
+nothing
+
+#15: ESNone(0:17271) -> ESNone
+nothing
+
+#16: ESNone(0:17272) -> ESNone
+nothing
+
+#17: ESNone(0:17273) -> ESNone
+nothing
+
+#18: ESNone(0:17274) -> ESNone
+nothing
+
+#19: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#20: ESNone(0:17278) -> ESNone
+nothing
+
+#21: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#22: ESNone(0:17250) -> ESNone
+nothing
+
+#23: ESTypeResist(118:16734) -> 神悪魔半減
+Reduce damage from God and Devil types by 50%

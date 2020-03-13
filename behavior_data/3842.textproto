@@ -2,10 +2,18 @@
   levels {
     level: 1
     groups {
+      group_type: PASSIVE
+      children {
+        behavior {
+          enemy_skill_id: 16677
+        }
+      }
+    }
+    groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 6943
+          enemy_skill_id: 16679
         }
       }
     }
@@ -20,27 +28,38 @@
           children {
             group {
               condition {
-                repeats_every: 2
                 trigger_turn: 1
+                always_trigger_above: 89
               }
               children {
                 behavior {
-                  enemy_skill_id: 6945
+                  enemy_skill_id: 16681
                 }
               }
             }
           }
           children {
             group {
-              condition {
-                repeats_every: 2
-                trigger_turn: 2
-              }
               children {
                 behavior {
-                  enemy_skill_id: 6944
+                  enemy_skill_id: 16687
                 }
               }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 89
+            trigger_turn: 1
+            always_trigger_above: 49
+          }
+          children {
+            behavior {
+              enemy_skill_id: 16684
             }
           }
         }
@@ -54,9 +73,19 @@
           }
           children {
             behavior {
-              enemy_skill_id: 6946
+              enemy_skill_id: 16688
             }
           }
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 16678
         }
       }
     }

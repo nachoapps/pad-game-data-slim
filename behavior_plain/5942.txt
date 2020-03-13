@@ -1,0 +1,59 @@
+#5942 - 転生ネプチューン＝ドラゴン
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESStatusShield(20:16749) -> 海王神の加護
+	Voids status ailments for 999 turns
+	[1] ESSkyfall(68:16750) -> 冥界の神水
+	Poison and Mortal Poison skyfall +15% for 10 turns
+	[2] ESAbsorbThreshold(87:16751) -> 聖舶への導き
+	Absorb damage when damage >= 30,000,000 for 999 turns
+	[3] ESUnknown(130:16752) -> 深海からの裁き
+	No description set
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 10, target rnd 10
+
+#4: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 51, target rnd 6
+
+#5: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 1)
+	[0] ESAttackUPRemainingEnemies(17:16754) -> 海王神の怒り
+	Increase damage to 200% for the next 999 turns
+	[1] ESBoardChangeAttackBits(85:16755) -> 冥海の渦潮
+	Change all orbs to Mortal Poison, Deal 100% damage
+
+#6: ESAttackMultihit(15:16756) -> トライバースト
+Condition: 34% chance (ai:0 rnd:34)
+Deal 90% damage (3 hits, 30% each)
+
+#7: ESRandomSpawn(92:16757) -> アビステンタクル
+Condition: 33% chance (ai:0 rnd:33)
+Spawn 5 random Water, Poison, or Mortal Poison orbs, Deal 80% damage
+
+#8: ESDebuffMovetime(39:16758) -> アースクエイク
+Condition: 33% chance (ai:0 rnd:33)
+Movetime 50% for 1 turn, Deal 85% damage
+
+#9: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#10: ESAttackMultihit(15:16759) -> カオスメイルシュトローム
+Deal 3000% damage (10 hits, 300% each)
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#12: ESResolve(73:16760) -> 根性
+Survive attacks with 1 HP when HP > 50%
+
+#13: ESTypeResist(118:16734) -> 神悪魔半減
+Reduce damage from God and Devil types by 50%

@@ -1,0 +1,15 @@
+#103324 - 裏潜在たまドラ☆体力キラー
+monster size: 4
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 103324
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (16784:74) 守るたまぁ～☆
+ | Reduce damage from all sources by 99% for 99 turns
+ group:
+ | (16783:15) たまぁ～☆
+ | Deal 100% damage
