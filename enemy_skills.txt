@@ -83388,7 +83388,10 @@ EN: Deal 600% damage (4 hits, 150% each)
 KR: Deal 600% damage (4 hits, 150% each)
 
 # 16670/129 - 10%超根性
-Error: Skill Type not in JP Skill Map
+JP: When reduced from HP > 10% to 0 HP, revive at 10% HP
+EN: When reduced from HP > 10% to 0 HP, revive at 10% HP
+KR: When reduced from HP > 10% to 0 HP, revive at 10% HP
+
 # 16671/106 - 敵の行動ターンが変化した
 JP: 10%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 10%
@@ -83730,7 +83733,10 @@ EN: Reduce damage from all sources by 75% for 5 turns
 KR: Reduce damage from all sources by 75% for 5 turns
 
 # 16739/130 - 滅世の浄化
-Error: Skill Type not in JP Skill Map
+JP: ATK -50% for 99 turns
+EN: ATK -50% for 99 turns
+KR: ATK -50% for 99 turns
+
 # 16740/83 - ＿50%以下
 JP: 
 EN: 
@@ -83792,7 +83798,10 @@ EN: Absorb damage when damage >= 30,000,000 for 999 turns
 KR: Absorb damage when damage >= 30,000,000 for 999 turns
 
 # 16752/130 - 深海からの裁き
-Error: Skill Type not in JP Skill Map
+JP: ATK -50% for 99 turns
+EN: ATK -50% for 99 turns
+KR: ATK -50% for 99 turns
+
 # 16753/83 - ＿50％以下
 JP: 
 EN: 
@@ -83854,7 +83863,10 @@ EN: Unable to match Heal orbs for 5 turns
 KR: Unable to match Heal orbs for 5 turns
 
 # 16765/130 - 抵抗なき争い
-Error: Skill Type not in JP Skill Map
+JP: ATK -50% for 99 turns
+EN: ATK -50% for 99 turns
+KR: ATK -50% for 99 turns
+
 # 16766/83 - ＿通常A
 JP: 
 EN: 
@@ -83951,7 +83963,10 @@ EN: Reduce damage from all sources by 99% for 99 turns
 KR: Reduce damage from all sources by 99% for 99 turns
 
 # 16785/130 - カインドスノー
-Error: Skill Type not in JP Skill Map
+JP: ATK -99% for 3 turns
+EN: ATK -99% for 3 turns
+KR: ATK -99% for 3 turns
+
 # 16786/15 - ギフトブレス
 JP: 100%ダメージ
 EN: Deal 100% damage
