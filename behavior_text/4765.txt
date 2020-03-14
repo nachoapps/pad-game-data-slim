@@ -1,0 +1,50 @@
+#4765 - 神楽
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 4765
+approved: False
+
+level: 1
+ group:
+ | group:
+ | condition: always turn 1
+   | (16936:50) そこをどくアル
+   | Player -50% HP
+ | group:
+   | group:
+   | condition: turn 2 while HP > 19
+     | (16937:14) 万事屋ナメんなヨ
+     | Bind active skills for 3 turns
+   | group:
+     | condition: 50% chance
+     | (16939:94) 何度だって止めてやるアル
+     | Lock 3 random orbs, Deal 95% damage
+     | (16938:15) ほァたァァァァァァ！！
+     | Deal 102% damage (2 hits, 51% each)
+ | group:
+ | condition: hp <= 19
+   | (16940:15) ブっ潰すアル
+   | Deal 140% damage
+
+level: 4
+ type: PREEMPT
+ | (16936:50) そこをどくアル
+ | Player -50% HP
+ group:
+ | group:
+   | group:
+   | condition: turn 1 while HP > 19
+     | (16937:14) 万事屋ナメんなヨ
+     | Bind active skills for 3 turns
+   | group:
+     | condition: 50% chance
+     | (16939:94) 何度だって止めてやるアル
+     | Lock 3 random orbs, Deal 95% damage
+     | (16938:15) ほァたァァァァァァ！！
+     | Deal 102% damage (2 hits, 51% each)
+ | group:
+ | condition: hp <= 19
+   | (16940:15) ブっ潰すアル
+   | Deal 140% damage

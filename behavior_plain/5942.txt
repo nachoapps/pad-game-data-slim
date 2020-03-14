@@ -15,8 +15,8 @@ Enable preempt if level 1
 	Poison and Mortal Poison skyfall +15% for 10 turns
 	[2] ESAbsorbThreshold(87:16751) -> 聖舶への導き
 	Absorb damage when damage >= 30,000,000 for 999 turns
-	[3] ESUnknown(130:16752) -> 深海からの裁き
-	No description set
+	[3] ESDebuffATK(130:16752) -> 深海からの裁き
+	ATK -50% for 99 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 10

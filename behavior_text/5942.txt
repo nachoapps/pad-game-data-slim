@@ -14,7 +14,7 @@ level: 1
  | Reduce damage from God and Devil types by 50%
  type: PREEMPT
  | (16748:83) 海王神の加護 + 冥界の神水 + 聖舶への導き + 深海からの裁き
- | Voids status ailments for 999 turns + Poison and Mortal Poison skyfall +15% for 10 turns + Absorb damage when damage >= 30,000,000 for 999 turns + No description set
+ | Voids status ailments for 999 turns + Poison and Mortal Poison skyfall +15% for 10 turns + Absorb damage when damage >= 30,000,000 for 999 turns + ATK -50% for 99 turns
  group:
  | group:
    | condition: 34% chance

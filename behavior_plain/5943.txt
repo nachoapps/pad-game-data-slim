@@ -15,8 +15,8 @@ Enable preempt if level 1
 	Bind awoken skills for 5 turns
 	[2] ESAttributeBlock(107:16764) -> 知識の渇望
 	Unable to match Heal orbs for 5 turns
-	[3] ESUnknown(130:16765) -> 抵抗なき争い
-	No description set
+	[3] ESDebuffATK(130:16765) -> 抵抗なき争い
+	ATK -50% for 99 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 20

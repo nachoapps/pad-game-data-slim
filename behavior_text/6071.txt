@@ -1,0 +1,46 @@
+#6071 - 月詠
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 6071
+approved: False
+
+level: 1
+ group:
+ | group:
+ | condition: always turn 1
+   | (16920:83) 日輪（たいよう）が番人月詠  + 参る
+   | Reduce damage from all sources by 30% for 5 turns + Deal 100% damage, Deal 100% damage
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (16917:101) 覚悟はできていような
+     | Fix orb movement starting point to random position on the board
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (16918:15) 吉原が法 死神太夫が許さぬ
+     | Deal 102% damage (2 hits, 51% each)
+ | group:
+ | condition: hp <= 29
+   | (16919:92) 今宵の月は決して沈まぬぞ
+   | Spawn 3 random Light or Dark orbs, Deal 150% damage
+
+level: 4
+ type: PREEMPT
+ | (16920:83) 日輪（たいよう）が番人月詠  + 参る
+ | Reduce damage from all sources by 30% for 5 turns + Deal 100% damage, Deal 100% damage
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (16917:101) 覚悟はできていような
+     | Fix orb movement starting point to random position on the board
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (16918:15) 吉原が法 死神太夫が許さぬ
+     | Deal 102% damage (2 hits, 51% each)
+ | group:
+ | condition: hp <= 29
+   | (16919:92) 今宵の月は決して沈まぬぞ
+   | Spawn 3 random Light or Dark orbs, Deal 150% damage

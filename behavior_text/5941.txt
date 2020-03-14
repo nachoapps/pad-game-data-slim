@@ -14,7 +14,7 @@ level: 1
  | Reduce damage from God and Devil types by 50%
  type: PREEMPT
  | (16735:83) 破壊神の障壁 + 滅世の神炎 + 回生の亡失 + 滅世の浄化
- | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Reduce damage from all sources by 75% for 5 turns + No description set
+ | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Reduce damage from all sources by 75% for 5 turns + ATK -50% for 99 turns
  group:
  | group:
    | condition: 34% chance

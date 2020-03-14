@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from God and Devil types by 50%
  type: PREEMPT
  | (16761:83) 神々の衣 + 隻眼による代償 + 知識の渇望 + 抵抗なき争い
- | Voids status ailments for 999 turns + Bind awoken skills for 5 turns + Unable to match Heal orbs for 5 turns + No description set
+ | Voids status ailments for 999 turns + Bind awoken skills for 5 turns + Unable to match Heal orbs for 5 turns + ATK -50% for 99 turns
  group:
  | group:
    | group:

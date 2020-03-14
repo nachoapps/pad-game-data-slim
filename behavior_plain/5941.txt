@@ -15,8 +15,8 @@ Enable preempt if level 1
 	Void damage >= 50000000 for 999 turns
 	[2] ESDamageShield(74:16738) -> 回生の亡失
 	Reduce damage from all sources by 75% for 5 turns
-	[3] ESUnknown(130:16739) -> 滅世の浄化
-	No description set
+	[3] ESDebuffATK(130:16739) -> 滅世の浄化
+	ATK -50% for 99 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 10
