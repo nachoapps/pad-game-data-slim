@@ -67679,6 +67679,38 @@ JP: 木の3コンボ以上で固定1ダメージ。
 EN: 1 additional damage when attacking with 3 or more Wood combos
 KR: 1 additional damage when attacking with 3 or more Wood combos
 
+# 16058/138 - 豊稔の舞
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 30.0, 1, 0.25]
+Game: 木の2コンボ以上で攻撃力が上昇、最大10倍。 回復を6個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+JP: 木の2コンボで攻撃力が4倍、最大5コンボで10倍。回復を6個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos; 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs
+KR: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos; 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs
+
+# 16059/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 木属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Wood Att.
+KR: 2x HP & ATK for Wood Att.
+
+# 16060/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 10.0, 1, 0]
+Game: 
+JP: 木の2コンボで攻撃力が4倍、最大5コンボで10倍。
+EN: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos
+KR: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos
+
+# 16061/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1, 0.25]
+Game: 
+JP: 回復を6個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs
+KR: 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs
+
 # 16065/138 - 光天の神護符
 Tags: ENHANCED_HP_ATK_RCV,NO_SKYFALL_COMBOS
 Stats: [2.0, 18.0, 4.5, 0.0]
@@ -69950,6 +69982,78 @@ Game:
 JP: 木を9個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 9 or more Wood orbs
 KR: 1 additional damage when matching 9 or more Wood orbs
+
+# 16619/138 - 聖湖の宝物
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 15.0, 3.0, 0.0]
+Game: 水属性のHPが2倍。スキル使用時、回復力が3倍。 水を4個以上つなげて消すと攻撃力が上昇、最大15倍。
+JP: 水属性のHPが2倍。スキル使用時、回復力が3倍。水を4個以上つなげて消すと攻撃力が10倍、最大9個で15倍。
+EN: 2x HP for Water Att.; 3x RCV on the turn a skill is used; 10x ATK when matching 4 or more connected Water orbs up to 15x at 9 orbs
+KR: 2x HP for Water Att.; 3x RCV on the turn a skill is used; 10x ATK when matching 4 or more connected Water orbs up to 15x at 9 orbs
+
+# 16620/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 水属性のHPが2倍。
+EN: 2x HP for Water Att.
+KR: 2x HP for Water Att.
+
+# 16621/133 - 
+Tags: ENHANCED_RCV
+Stats: [1, 1.0, 3.0, 0]
+Game: 
+JP: スキル使用時、回復力が3倍。
+EN: 3x RCV on the turn a skill is used
+KR: 3x RCV on the turn a skill is used
+
+# 16622/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 15.0, 1, 0]
+Game: 
+JP: 水を4個以上つなげて消すと攻撃力が10倍、最大9個で15倍。
+EN: 10x ATK when matching 4 or more connected Water orbs up to 15x at 9 orbs
+KR: 10x ATK when matching 4 or more connected Water orbs up to 15x at 9 orbs
+
+# 16626/138 - 黒煙の龍棘
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1.0, 20.0, 1.0, 0.25]
+Game: 【操作時間4秒】ドロップの5個L字消しでダメージを軽減。 4色以上同時攻撃で攻撃力が20倍、5色で2コンボ加算。
+JP: 【操作時間4秒固定】ドロップの5個L字消しで受けるダメージを25％減少。4色以上同時攻撃で攻撃力が20倍。5色以上同時攻撃で2コンボ加算。
+EN: [Fixed 4 second movetime] reduce damage taken by 25% when matching 5 orbs in an L shape; 20x ATK when matching 4 or more colors; increase combo by 2 when matching 5 or more colors
+KR: [Fixed 4 second movetime] reduce damage taken by 25% when matching 5 orbs in an L shape; 20x ATK when matching 4 or more colors; increase combo by 2 when matching 5 or more colors
+
+# 16627/178 - 
+Tags: 
+Stats: [1.0, 1.0, 1.0, 0]
+Game: 
+JP: 【操作時間4秒固定】
+EN: [Fixed 4 second movetime]
+KR: [Fixed 4 second movetime]
+
+# 16628/193 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1.0, 0.25]
+Game: 
+JP: ドロップの5個L字消しで受けるダメージを25％減少。
+EN: reduce damage taken by 25% when matching 5 orbs in an L shape
+KR: reduce damage taken by 25% when matching 5 orbs in an L shape
+
+# 16629/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 20.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が20倍。
+EN: 20x ATK when matching 4 or more colors
+KR: 20x ATK when matching 4 or more colors
+
+# 16630/194 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 5色以上同時攻撃で2コンボ加算。
+EN: increase combo by 2 when matching 5 or more colors
+KR: increase combo by 2 when matching 5 or more colors
 
 # 16667/194 - 
 Tags: 

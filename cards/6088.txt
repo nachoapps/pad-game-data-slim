@@ -1,0 +1,12 @@
+#6088 水聖剣・カリバーン
+HP: 3913 ATK: 1709 RCV: 369 LB: 0
+AWK: 49,15,15,15,23,23,2
+SAWK: 
+
+# 16616/116 - セイクリッドブルー
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 最下段横1列を水ドロップに変化。 3ターンの間、受けるダメージを半減。
+JP: 最下段を水ドロップに変化。3ターンの間、受けるダメージを50％減少
+EN: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
+KR: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
+

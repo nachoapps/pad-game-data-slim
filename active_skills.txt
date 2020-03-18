@@ -43351,6 +43351,27 @@ JP: 8ターンの間、最大HPの8％分回復
 EN: For 8 turns, recover 8% of max HP
 KR: For 8 turns, recover 8% of max HP
 
+# 16055/116 - ソウルメディケーション
+Tags: AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: 消せないドロップ状態と覚醒無効状態を3ターン回復。
+JP: 消せないドロップ状態を3ターン回復。覚醒無効を3ターン回復
+EN: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
+KR: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
+
+# 16056/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を3ターン回復
+EN: Reduce unable to match orbs effect by 3 turns
+KR: Reduce unable to match orbs effect by 3 turns
+
+# 16057/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を3ターン回復
+EN: Reduce awoken skill binds by 3 turns
+KR: Reduce awoken skill binds by 3 turns
+
 # 16062/116 - 転界逢龍導・神牙
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
 Game: 4ターンの間、回復力と神とドラゴンタイプの攻撃力が2倍。 自分以外の味方スキルが2ターン溜まる。
@@ -45079,4 +45100,67 @@ Game:
 JP: 上から2行目を闇ドロップに変化
 EN: Change the 2nd row from the top to Dark orbs
 KR: Change the 2nd row from the top to Dark orbs
+
+# 16613/116 - バブルシェル
+Tags: REDUCE_DAMAGE
+Game: ランダムで水ドロップを3個生成。 2ターンの間、受けるダメージを軽減。
+JP: 水ドロップを3個生成。2ターンの間、受けるダメージを30％減少
+EN: Create 3 Water orbs; For 2 turns, reduce damage taken by 30%
+KR: Create 3 Water orbs; For 2 turns, reduce damage taken by 30%
+
+# 16614/141 - 
+Tags: 
+Game: 
+JP: 水ドロップを3個生成
+EN: Create 3 Water orbs
+KR: Create 3 Water orbs
+
+# 16615/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 2ターンの間、受けるダメージを30％減少
+EN: For 2 turns, reduce damage taken by 30%
+KR: For 2 turns, reduce damage taken by 30%
+
+# 16616/116 - セイクリッドブルー
+Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
+Game: 最下段横1列を水ドロップに変化。 3ターンの間、受けるダメージを半減。
+JP: 最下段を水ドロップに変化。3ターンの間、受けるダメージを50％減少
+EN: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
+KR: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
+
+# 16617/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最下段を水ドロップに変化
+EN: Change the bottom row to Water orbs
+KR: Change the bottom row to Water orbs
+
+# 16618/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 3ターンの間、受けるダメージを50％減少
+EN: For 3 turns, reduce damage taken by 50%
+KR: For 3 turns, reduce damage taken by 50%
+
+# 16623/116 - ポイズンスチーム
+Tags: ORB_CONVERT,DROP_CHANCE
+Game: 2ターンの間、お邪魔と毒ドロップが少し落ちやすくなる。 お邪魔と毒ドロップを闇ドロップに変化。
+JP: 2ターンの間、お邪魔と毒が10％の確率で落ちてくる。お邪魔、毒、猛毒ドロップを闇ドロップに変化
+EN: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
+KR: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 16624/126 - 
+Tags: DROP_CHANCE
+Game: 
+JP: 2ターンの間、お邪魔と毒が10％の確率で落ちてくる
+EN: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%
+KR: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%
+
+# 16625/154 - 
+Tags: ORB_CONVERT
+Game: 
+JP: お邪魔、毒、猛毒ドロップを闇ドロップに変化
+EN: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
+KR: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 

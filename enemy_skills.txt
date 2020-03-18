@@ -81872,15 +81872,15 @@ JP: 5ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 5 turns
 KR: Bind awoken skills for 5 turns
 
-# 16367/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16367/68 - 豊穣の恵み
+JP: 3ターンの間、木ドロップを+15%に落ちてくる
+EN: Wood skyfall +15% for 3 turns
+KR: Wood skyfall +15% for 3 turns
 
-# 16368/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16368/15 - ソウルブラスト
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
 # 16369/68 - 焦陽の大気
 JP: 3ターンの間、火ドロップを+15%に落ちてくる
@@ -86432,372 +86432,1261 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 17279/0 - なし
+# 17279/83 - ＿超地獄先制
+JP: 
+EN: 
+KR: 
+
+# 17280/127 - 滑走
+JP: 2ターンの間、落ちコンしなくなる
+EN: No skyfall for 2 turns
+KR: No skyfall for 2 turns
+
+# 17281/67 - 飛翔
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 17282/83 - ＿超地獄初回
+JP: 
+EN: 
+KR: 
+
+# 17283/67 - 佩甲殻
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 17284/118 - 回体攻半減
+JP: 体力、回復、攻撃タイプからの攻撃からの攻撃を50%減少
+EN: Reduce damage from Physical, Healer, and Attacker types by 50%
+KR: Reduce damage from Physical, Healer, and Attacker types by 50%
+
+# 17285/129 - 超根性
+JP: When reduced from HP > 50% to 0 HP, revive at 50% HP
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
+
+# 17286/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 17287/20 - 霊水の衣
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
+
+# 17288/39 - 封剣の譲渡
+JP: 20ターンの間、操作時間+50%
+EN: Movetime 50% for 20 turns
+KR: Movetime 50% for 20 turns
+
+# 17289/74 - 纏甲殻
+JP: 1ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 1 turn
+KR: Reduce damage from all sources by 99% for 1 turn
+
+# 17290/128 - 真暗の湖底
+Error: Skill Type not in JP Skill Map
+# 17291/83 - ＿初回
+JP: 
+EN: 
+KR: 
+
+# 17292/67 - 佩甲殻
+JP: 999ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 999 turns
+KR: Absorb damage when combos <= 7 for 999 turns
+
+# 17293/96 - 湖中拘束
+JP: 99ターンの間、ロックされたランダム属性のドロップを+50%に落ちてくる
+EN: Locked random skyfall +50% for 99 turns
+KR: Locked random skyfall +50% for 99 turns
+
+# 17294/83 - ＿3ターン
+JP: 
+EN: 
+KR: 
+
+# 17295/126 - 湖底の神秘
+JP: 2ターンの間、盤面が7ｘ6になる
+EN: Change board size to 7x6 for 2 turns
+KR: Change board size to 7x6 for 2 turns
+
+# 17296/74 - 纏甲殻
+JP: 2ターンの間、受けるダメージからの攻撃を90%減少
+EN: Reduce damage from all sources by 90% for 2 turns
+KR: Reduce damage from all sources by 90% for 2 turns
+
+# 17297/19 - 剣の解放
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 17298/66 - 未使用
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 17299/130 - 湖水の流動
+JP: ATK -75% for 99 turns
+EN: ATK -75% for 99 turns
+KR: ATK -75% for 99 turns
+
+# 17300/83 - ＿4ターン
+JP: 
+EN: 
+KR: 
+
+# 17301/50 - ナイトメアグラッジ
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 17302/83 - ＿2コンボ以下
+JP: 
+EN: 
+KR: 
+
+# 17303/75 - マリスウェイヴラト
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
+
+# 17304/19 - 剣の解放
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 17305/83 - ＿通常Ａ
+JP: 
+EN: 
+KR: 
+
+# 17306/94 - クライシスリストリクト
+JP: ランダムで15個ドロップをロック
+EN: Lock 15 random orbs
+KR: Lock 15 random orbs
+
+# 17307/105 - マインドレイク
+JP: 1ターンの間、回復力を50%になる
+EN: RCV 50% for 1 turn
+KR: RCV 50% for 1 turn
+
+# 17308/83 - ＿通常Ｂ
+JP: 
+EN: 
+KR: 
+
+# 17309/15 - ブレイドシザー
+JP: 60%ダメージ (4連続攻撃、15%ごと)
+EN: Deal 60% damage (4 hits, 15% each)
+KR: Deal 60% damage (4 hits, 15% each)
+
+# 17310/110 - リピーテッドフィアー
+JP: 1.0ターンの間、特定の位置のマスが2.0秒毎に変化する
+EN: Specific orbs change every 2.0s for 1 turn
+KR: Specific orbs change every 2.0s for 1 turn
+
+# 17311/83 - ＿10％
+JP: 
+EN: 
+KR: 
+
+# 17312/88 - 霊水の変転
+JP: 3ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 3 turns
+KR: Bind awoken skills for 3 turns
+
+# 17313/15 - ヘイトリッドヴォーテックス
+JP: 1800%ダメージ (6連続攻撃、300%ごと)
+EN: Deal 1800% damage (6 hits, 300% each)
+KR: Deal 1800% damage (6 hits, 300% each)
+
+# 17314/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 17315/87 - 光の理
+JP: 999ターンの間、150万以上のダメージを吸収
+EN: Absorb damage when damage >= 1,500,000 for 999 turns
+KR: Absorb damage when damage >= 1,500,000 for 999 turns
+
+# 17316/130 - 減力の導玉
+JP: ATK -99% for 5 turns
+EN: ATK -99% for 5 turns
+KR: ATK -99% for 5 turns
+
+# 17317/83 - ＿6ターン
+JP: 
+EN: 
+KR: 
+
+# 17318/17 - 増力の導玉
+JP: 999ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 999 turns
+KR: Increase damage to 300% for the next 999 turns
+
+# 17319/15 - 陽槍ブリューナク
+JP: 100%ダメージ (5連続攻撃、20%ごと)
+EN: Deal 100% damage (5 hits, 20% each)
+KR: Deal 100% damage (5 hits, 20% each)
+
+# 17320/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 17321/106 - 敵の行動ターンが変化した
+JP: 50%HP以下で行動ターンが1に変わる
+EN: Enemy turn counter change to 1 when HP <= 50%
+KR: Enemy turn counter change to 1 when HP <= 50%
+
+# 17322/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 17323/127 - 滑走
+JP: 10ターンの間、落ちコンしなくなる
+EN: No skyfall for 10 turns
+KR: No skyfall for 10 turns
+
+# 17324/67 - 飛翔
+JP: 999ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 999 turns
+KR: Absorb damage when combos <= 7 for 999 turns
+
+# 17325/77 - ガイアブレード
+JP: 上から2と5列目のドロップが木ドロップに変化
+EN: Change the 2nd and 5th columns to Wood orbs
+KR: Change the 2nd and 5th columns to Wood orbs
+
+# 17326/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
+
+# 17327/84 - リミットオーバードガイア
+JP: 全ドロップを木に変化
+EN: Change all orbs to Wood
+KR: Change all orbs to Wood
+
+# 17328/89 - 緑翼の羽ばたき
+JP: スキルターンを3〜6ターン遅延
+EN: Delay active skills by 3~6 turns
+KR: Delay active skills by 3~6 turns
+
+# 17329/15 - オーバードスラッシュ
+JP: 240%ダメージ (4連続攻撃、60%ごと)
+EN: Deal 240% damage (4 hits, 60% each)
+KR: Deal 240% damage (4 hits, 60% each)
+
+# 17330/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 17331/103 - 火柱の天吹
+JP: 特定の位置に爆弾ドロップを生成
+EN: Spawn Bomb orbs in the specified positions
+KR: Spawn Bomb orbs in the specified positions
+
+# 17332/71 - 聖なる火
+JP: 999ターンの間、15000000以上のダメージを無効化
+EN: Void damage >= 15000000 for 999 turns
+KR: Void damage >= 15000000 for 999 turns
+
+# 17333/83 - ＿初回行動
+JP: 
+EN: 
+KR: 
+
+# 17334/99 - 光の防護柵
+JP: 5ターンの間、上から1と6列目のドロップが操作不可
+EN: Seal the 1st and 6th columns for 5 turns
+KR: Seal the 1st and 6th columns for 5 turns
+
+# 17335/103 - 素敵な工芸品
+JP: 特定の位置に爆弾ドロップを生成
+EN: Spawn Bomb orbs in the specified positions
+KR: Spawn Bomb orbs in the specified positions
+
+# 17336/83 - ＿通常Ａ
+JP: 
+EN: 
+KR: 
+
+# 17337/46 - 女神の変容
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+
+# 17338/15 - ソードダンス
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
+
+# 17339/83 - ＿通常Ｂ
+JP: 
+EN: 
+KR: 
+
+# 17340/103 - 素敵な工芸品
+JP: 特定の位置に爆弾ドロップを生成
+EN: Spawn Bomb orbs in the specified positions
+KR: Spawn Bomb orbs in the specified positions
+
+# 17341/50 - 消えゆく光道
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 17342/83 - ＿10%以下or5ターン
+JP: 
+EN: 
+KR: 
+
+# 17343/88 - 輝きなき道標
+JP: 3ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 3 turns
+KR: Bind awoken skills for 3 turns
+
+# 17344/15 - 女神の祝福
+JP: 600%ダメージ (6連続攻撃、100%ごと)
+EN: Deal 600% damage (6 hits, 100% each)
+KR: Deal 600% damage (6 hits, 100% each)
+
+# 17345/94 - 水馬の叫び
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
+
+# 17346/14 - 水馬の叫び
+JP: 10ターンの間、スキル使用不可
+EN: Bind active skills for 10 turns
+KR: Bind active skills for 10 turns
+
+# 17347/94 - 水馬の嘆き
+JP: ランダムで20個ドロップをロック
+EN: Lock 20 random orbs
+KR: Lock 20 random orbs
+
+# 17348/19 - 幻獣の怒り
+JP: 999ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 999 turns
+KR: Increase damage to 300% for the next 999 turns
+
+# 17349/128 - 一刻の腐食
+Error: Skill Type not in JP Skill Map
+# 17350/75 - 害動悪戯
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
+
+# 17351/88 - 熔解粘液
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
+
+# 17352/15 - 貪り食う
+JP: 1000%ダメージ (5連続攻撃、200%ごと)
+EN: Deal 1000% damage (5 hits, 200% each)
+KR: Deal 1000% damage (5 hits, 200% each)
+
+# 17353/39 - 狂気侵蝕
+JP: 3ターンの間、操作時間+25%
+EN: Movetime 25% for 3 turns
+KR: Movetime 25% for 3 turns
+
+# 17354/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17355/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17356/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17357/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17358/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17359/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17360/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17361/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17362/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17363/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17364/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17365/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17366/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17367/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17368/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17369/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17370/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17371/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17372/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17373/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17374/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17375/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17376/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17377/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17378/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17379/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17380/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17381/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17382/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17383/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17384/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17385/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17386/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17387/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17388/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17389/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17390/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17391/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17392/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17393/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17394/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17395/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17396/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17397/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17398/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17399/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17400/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17401/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17402/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17403/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17404/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17405/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17406/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17407/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17408/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17409/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17410/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17411/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17412/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17413/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17414/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17415/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17416/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17417/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17418/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17419/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17420/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17421/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17422/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17423/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17424/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17425/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17426/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17427/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17428/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17429/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17430/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17431/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17432/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17433/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17434/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17435/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17436/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17437/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17438/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17439/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17440/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17441/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17442/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17443/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17444/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17445/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17446/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17447/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17448/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17449/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17450/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17451/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17452/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17453/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17454/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17455/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17456/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17457/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17458/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17280/0 - なし
+# 17459/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17281/0 - なし
+# 17460/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17282/0 - なし
+# 17461/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17283/0 - なし
+# 17462/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17284/0 - なし
+# 17463/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17285/0 - なし
+# 17464/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17286/0 - なし
+# 17465/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17287/0 - なし
+# 17466/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17288/0 - なし
+# 17467/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17289/0 - なし
+# 17468/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17290/0 - なし
+# 17469/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17291/0 - なし
+# 17470/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17292/0 - なし
+# 17471/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17293/0 - なし
+# 17472/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17294/0 - なし
+# 17473/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17295/0 - なし
+# 17474/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17296/0 - なし
+# 17475/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17297/0 - なし
+# 17476/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17298/0 - なし
+# 17477/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17299/0 - なし
+# 17478/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17300/0 - なし
+# 17479/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17301/0 - なし
+# 17480/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17302/0 - なし
+# 17481/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17303/0 - なし
+# 17482/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17304/0 - なし
+# 17483/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17305/0 - なし
+# 17484/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17306/0 - なし
+# 17485/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17307/0 - なし
+# 17486/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17308/0 - なし
+# 17487/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17309/0 - なし
+# 17488/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17310/0 - なし
+# 17489/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17311/0 - なし
+# 17490/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17312/0 - なし
+# 17491/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17313/0 - なし
+# 17492/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17314/0 - なし
+# 17493/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17315/0 - なし
+# 17494/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17316/0 - なし
+# 17495/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17317/0 - なし
+# 17496/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17318/0 - なし
+# 17497/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17319/0 - なし
+# 17498/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17320/0 - なし
+# 17499/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17321/0 - なし
+# 17500/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17322/0 - なし
+# 17501/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17323/0 - なし
+# 17502/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17324/0 - なし
+# 17503/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17325/0 - なし
+# 17504/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17326/0 - なし
+# 17505/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17327/0 - なし
+# 17506/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17328/0 - なし
+# 17507/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17329/0 - なし
+# 17508/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17330/0 - なし
+# 17509/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17331/0 - なし
+# 17510/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17332/0 - なし
+# 17511/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17333/0 - なし
+# 17512/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17334/0 - なし
+# 17513/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17335/0 - なし
+# 17514/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17336/0 - なし
+# 17515/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17337/0 - なし
+# 17516/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17338/0 - なし
+# 17517/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17339/0 - なし
+# 17518/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17340/0 - なし
+# 17519/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17341/0 - なし
+# 17520/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17342/0 - なし
+# 17521/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17343/0 - なし
+# 17522/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17344/0 - なし
+# 17523/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17345/0 - なし
+# 17524/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17346/0 - なし
+# 17525/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17347/0 - なし
+# 17526/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17348/0 - なし
+# 17527/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17349/0 - なし
+# 17528/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17350/0 - なし
+# 17529/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17351/0 - なし
+# 17530/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17352/0 - なし
+# 17531/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
