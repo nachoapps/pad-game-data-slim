@@ -1,0 +1,36 @@
+#4177 - Sacred Fire Goddess of Gallantry, Brigid
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 4177
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17330:83) 輝きなき道標 + 火柱の天吹 + 聖なる火
+ | Bind awoken skills for 3 turns + Spawn Bomb orbs in the specified positions + Void damage >= 15000000 for 999 turns
+ group:
+ | group:
+   | group:
+   | condition: turn 1 while HP > 9
+     | (17333:83) 光の防護柵 + 素敵な工芸品
+     | Seal the 1st and 6th columns for 5 turns + Spawn Bomb orbs in the specified positions
+   | group:
+   | condition: turns 2-5 while HP > 9
+     | (17336:83) 女神の変容 + ソードダンス
+     | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
+   | group:
+   | condition: turn 6 while HP > 9
+     | (17342:83) 輝きなき道標 + 素敵な工芸品
+     | Bind awoken skills for 3 turns + Spawn Bomb orbs in the specified positions
+   | group:
+     | (17344:15) 女神の祝福
+     | Deal 600% damage (6 hits, 100% each)
+ | group:
+ | condition: turn 1, hp <= 9
+   | (17342:83) 輝きなき道標 + 素敵な工芸品
+   | Bind awoken skills for 3 turns + Spawn Bomb orbs in the specified positions
+ type: UNKNOWN_USE
+ | (17339:83) 素敵な工芸品 + 消えゆく光道
+ | Spawn Bomb orbs in the specified positions + Player -99% HP
