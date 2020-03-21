@@ -83388,7 +83388,7 @@ EN: Deal 600% damage (4 hits, 150% each)
 KR: Deal 600% damage (4 hits, 150% each)
 
 # 16670/129 - 10%超根性
-JP: When reduced from HP > 10% to 0 HP, revive at 10% HP
+JP: HP10%以上のとき、大ダメージを受けてもHP10%で耐える
 EN: When reduced from HP > 10% to 0 HP, revive at 10% HP
 KR: When reduced from HP > 10% to 0 HP, revive at 10% HP
 
@@ -83733,7 +83733,7 @@ EN: Reduce damage from all sources by 75% for 5 turns
 KR: Reduce damage from all sources by 75% for 5 turns
 
 # 16739/130 - 滅世の浄化
-JP: ATK -50% for 99 turns
+JP: 99ターンの間、攻撃力が50%減少
 EN: ATK -50% for 99 turns
 KR: ATK -50% for 99 turns
 
@@ -83798,7 +83798,7 @@ EN: Absorb damage when damage >= 30,000,000 for 999 turns
 KR: Absorb damage when damage >= 30,000,000 for 999 turns
 
 # 16752/130 - 深海からの裁き
-JP: ATK -50% for 99 turns
+JP: 99ターンの間、攻撃力が50%減少
 EN: ATK -50% for 99 turns
 KR: ATK -50% for 99 turns
 
@@ -83863,7 +83863,7 @@ EN: Unable to match Heal orbs for 5 turns
 KR: Unable to match Heal orbs for 5 turns
 
 # 16765/130 - 抵抗なき争い
-JP: ATK -50% for 99 turns
+JP: 99ターンの間、攻撃力が50%減少
 EN: ATK -50% for 99 turns
 KR: ATK -50% for 99 turns
 
@@ -83963,7 +83963,7 @@ EN: Reduce damage from all sources by 99% for 99 turns
 KR: Reduce damage from all sources by 99% for 99 turns
 
 # 16785/130 - カインドスノー
-JP: ATK -99% for 3 turns
+JP: 3ターンの間、攻撃力が99%減少
 EN: ATK -99% for 3 turns
 KR: ATK -99% for 3 turns
 
@@ -86463,7 +86463,7 @@ EN: Reduce damage from Physical, Healer, and Attacker types by 50%
 KR: Reduce damage from Physical, Healer, and Attacker types by 50%
 
 # 17285/129 - 超根性
-JP: When reduced from HP > 50% to 0 HP, revive at 50% HP
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
 EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
 KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
@@ -86488,7 +86488,10 @@ EN: Reduce damage from all sources by 99% for 1 turn
 KR: Reduce damage from all sources by 99% for 1 turn
 
 # 17290/128 - 真暗の湖底
-Error: Skill Type not in JP Skill Map
+JP: 4ターンの間、25%の確率を超暗闇ドロップNoneターンが発生
+EN: For 4 turns, 25% chance for skyfall orbs to be blinded for turn
+KR: For 4 turns, 25% chance for skyfall orbs to be blinded for turn
+
 # 17291/83 - ＿初回
 JP: 
 EN: 
@@ -86530,7 +86533,7 @@ EN: Do nothing
 KR: Do nothing
 
 # 17299/130 - 湖水の流動
-JP: ATK -75% for 99 turns
+JP: 99ターンの間、攻撃力が75%減少
 EN: ATK -75% for 99 turns
 KR: ATK -75% for 99 turns
 
@@ -86615,7 +86618,7 @@ EN: Absorb damage when damage >= 1,500,000 for 999 turns
 KR: Absorb damage when damage >= 1,500,000 for 999 turns
 
 # 17316/130 - 減力の導玉
-JP: ATK -99% for 5 turns
+JP: 5ターンの間、攻撃力が99%減少
 EN: ATK -99% for 5 turns
 KR: ATK -99% for 5 turns
 
@@ -86780,7 +86783,10 @@ EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
 # 17349/128 - 一刻の腐食
-Error: Skill Type not in JP Skill Map
+JP: 99ターンの間、15%の確率を超暗闇ドロップ2ターンが発生
+EN: For 99 turns, 15% chance for skyfall orbs to be blinded for 2 turns
+KR: For 99 turns, 15% chance for skyfall orbs to be blinded for 2 turns
+
 # 17350/75 - 害動悪戯
 JP: 1ターンの間、リーダーを交代
 EN: Leader changes to random sub for 1 turn
