@@ -5468,9 +5468,9 @@ KR: Reduce binds by 5 turns
 # 1450/117 - Dragon Strike Stance - Water
 Tags: RECOVER_BIND
 Game: 
-JP: バインドを3ターン回復
-EN: Reduce binds by 3 turns
-KR: Reduce binds by 3 turns
+JP: バインドを5ターン回復
+EN: Reduce binds by 5 turns
+KR: Reduce binds by 5 turns
 
 # 1451/117 - Dragon Strike Stance - Light
 Tags: RECOVER_BIND
@@ -5881,9 +5881,9 @@ KR: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
 # 1609/116 - Dragon Strike Stance - Water
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Heal Orbs to Water Orbs, plus bind status is reduced by 3 turns
-JP: 回復ドロップを水ドロップに変化。バインドを3ターン回復
-EN: Change Heal orbs to Water orbs; Reduce binds by 3 turns
-KR: Change Heal orbs to Water orbs; Reduce binds by 3 turns
+JP: 回復ドロップを水ドロップに変化。バインドを5ターン回復
+EN: Change Heal orbs to Water orbs; Reduce binds by 5 turns
+KR: Change Heal orbs to Water orbs; Reduce binds by 5 turns
 
 # 1610/116 - Dragon Strike Stance - Light
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
@@ -6721,9 +6721,9 @@ KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Recover 3
 # 1844/116 - Dragon Strike Stance - Wood
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Heal Orbs to Wood Orbs, plus bind status is reduced by 3 turns
-JP: 回復ドロップを木ドロップに変化。バインドを3ターン回復
-EN: Change Heal orbs to Wood orbs; Reduce binds by 3 turns
-KR: Change Heal orbs to Wood orbs; Reduce binds by 3 turns
+JP: 回復ドロップを木ドロップに変化。バインドを5ターン回復
+EN: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
+KR: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
 
 # 1845/116 - Dragon Strike Stance - Dark
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
@@ -8219,9 +8219,9 @@ KR: For 1 turn, 2x ATK for Dragon type
 # 2161/117 - 
 Tags: RECOVER_BIND
 Game: 
-JP: バインドを3ターン回復
-EN: Reduce binds by 3 turns
-KR: Reduce binds by 3 turns
+JP: バインドを5ターン回復
+EN: Reduce binds by 5 turns
+KR: Reduce binds by 5 turns
 
 # 2162/117 - 
 Tags: RECOVER_BIND

@@ -1,14 +1,14 @@
 #1897 Earth Dragon Knight
 HP: 2260 ATK: 1255 RCV: 294 LB: 0
-AWK: 27,10,21,10
+AWK: 10,10,21,27,27,16,16,16,16
 SAWK: 
 
 # 1844/116 - Dragon Strike Stance - Wood
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
 Game: Changes Heal Orbs to Wood Orbs, plus bind status is reduced by 3 turns
-JP: 回復ドロップを木ドロップに変化。バインドを3ターン回復
-EN: Change Heal orbs to Wood orbs; Reduce binds by 3 turns
-KR: Change Heal orbs to Wood orbs; Reduce binds by 3 turns
+JP: 回復ドロップを木ドロップに変化。バインドを5ターン回復
+EN: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
+KR: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
 
 # 2516/129 - Earth Dragon's Crest
 Tags: ENHANCED_ATK
