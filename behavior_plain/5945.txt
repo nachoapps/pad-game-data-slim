@@ -23,52 +23,58 @@ nothing
 nothing
 
 #7: ESBranchHP(28:18) -> ESBranchHP
-Branch on hp < 10, target rnd 20
+Branch on hp < 10, target rnd 22
 
-#8: ESBranchHP(29:19) -> ESBranchHP
-Branch on hp > 51, target rnd 14
+#8: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 9, target rnd 11
 
-#9: ESNone(0:17264) -> ESNone
+#9: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#10: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 51, target rnd 16
+
+#11: ESNone(0:17264) -> ESNone
 nothing
 
-#10: ESNone(0:17265) -> ESNone
+#12: ESNone(0:17265) -> ESNone
 nothing
 
-#11: ESNone(0:17266) -> ESNone
+#13: ESNone(0:17266) -> ESNone
 nothing
 
-#12: ESNone(0:17267) -> ESNone
+#14: ESNone(0:17267) -> ESNone
 nothing
 
-#13: ESNone(0:17268) -> ESNone
+#15: ESNone(0:17268) -> ESNone
 nothing
 
-#14: ESNone(0:17270) -> ESNone
+#16: ESNone(0:17270) -> ESNone
 nothing
 
-#15: ESNone(0:17271) -> ESNone
+#17: ESNone(0:17271) -> ESNone
 nothing
 
-#16: ESNone(0:17272) -> ESNone
+#18: ESNone(0:17272) -> ESNone
 nothing
 
-#17: ESNone(0:17273) -> ESNone
+#19: ESNone(0:17273) -> ESNone
 nothing
 
-#18: ESNone(0:17274) -> ESNone
-nothing
-
-#19: ESEndPath(36:26) -> ESEndPath
-end_turn
-
-#20: ESNone(0:17278) -> ESNone
+#20: ESNone(0:17274) -> ESNone
 nothing
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#22: ESNone(0:17250) -> ESNone
+#22: ESNone(0:17278) -> ESNone
 nothing
 
-#23: ESTypeResist(118:16734) -> 神悪魔半減
+#23: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#24: ESNone(0:17250) -> ESNone
+nothing
+
+#25: ESTypeResist(118:16734) -> 神悪魔半減
 Reduce damage from God and Devil types by 50%

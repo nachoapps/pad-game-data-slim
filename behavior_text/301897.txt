@@ -1,0 +1,37 @@
+#301897 - アースドラゴンナイト
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 301897
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (2449:6) 地龍の心眼
+ | Voids player buff effects
+ | (2450:67) 地龍の宝玉
+ | Absorb damage when combos <= 4 for 4 turns
+ group:
+ | group:
+ | condition: always turn 1
+   | (2451:53) グリーンエレメント
+   | Absorb Wood damage for 3 turns
+ | group:
+   | condition: 30% chance
+   | (2454:79) アースライトブレード
+   | Change the 4th row to Wood and Jammer orbs, Deal 80% damage
+   | condition: 30% chance
+   | (2455:14) 地龍縛
+   | Bind active skills for 2 turns, Deal 90% damage
+   | condition: 30% chance
+   | (1:82) 通常攻撃
+   | Deal 100% damage
+ | group:
+ | condition: turn 2 while HP > 19, hp <= 49
+   | (2453:86) スーパーナチュラル
+   | Enemy recover 30% HP
+ | group:
+ | condition: hp <= 19
+   | (2452:50) グラウンドバースト
+   | Player -100% HP

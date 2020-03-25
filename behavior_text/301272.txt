@@ -1,0 +1,32 @@
+#301272 - 紅の機神将・エルダーヨトゥン
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 301272
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (3217:14) 防衛システム起動
+ | Bind active skills for 3 turns
+ group:
+ | group:
+ | condition: turn 1
+   | (3218:66) 排除スル
+   | Do nothing
+ | group:
+ | condition: turn 2
+   | (3219:15) ロケットパンチ
+   | Deal 100% damage
+ | group:
+ | condition: turn 3
+   | (3220:15) ロケットパンチ
+   | Deal 110% damage
+ | group:
+ | condition: turn 4
+   | (3221:66) 突進スル
+   | Do nothing
+ | group:
+   | (3222:15) バーンタックル
+   | Deal 600% damage

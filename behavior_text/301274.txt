@@ -1,0 +1,32 @@
+#301274 - 碧の機神将・ヴィズアースガル
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 301274
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (3223:20) 防衛システム起動
+ | Voids status ailments for 999 turns
+ group:
+ | group:
+ | condition: turn 1
+   | (3224:66) 敵ノ妨害ヲ始メル
+   | Do nothing
+ | group:
+ | condition: turn 2
+   | (3225:68) レッドレイン
+   | Jammer skyfall +20% for 5 turns
+ | group:
+ | condition: turn 3
+   | (3226:94) ジャミングロック
+   | Lock all Jammer orbs
+ | group:
+ | condition: turn 4
+   | (3227:66) ブースト展開
+   | Do nothing
+ | group:
+   | (3228:15) ダブルハンマーサイクロン
+   | Deal 400% damage (4 hits, 100% each)

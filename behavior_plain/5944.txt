@@ -11,34 +11,40 @@ Enable preempt if level 1
 nothing
 
 #3: ESBranchHP(28:18) -> ESBranchHP
-Branch on hp < 10, target rnd 10
+Branch on hp < 10, target rnd 12
 
-#4: ESBranchHP(29:19) -> ESBranchHP
-Branch on hp > 51, target rnd 6
+#4: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 9, target rnd 7
 
-#5: ESNone(0:17244) -> ESNone
+#5: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#6: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 51, target rnd 8
+
+#7: ESNone(0:17244) -> ESNone
 nothing
 
-#6: ESNone(0:17246) -> ESNone
+#8: ESNone(0:17246) -> ESNone
 nothing
 
-#7: ESNone(0:17247) -> ESNone
+#9: ESNone(0:17247) -> ESNone
 nothing
 
-#8: ESNone(0:17248) -> ESNone
-nothing
-
-#9: ESEndPath(36:26) -> ESEndPath
-end_turn
-
-#10: ESNone(0:17249) -> ESNone
+#10: ESNone(0:17248) -> ESNone
 nothing
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#12: ESNone(0:17238) -> ESNone
+#12: ESNone(0:17249) -> ESNone
 nothing
 
-#13: ESTypeResist(118:16734) -> 神悪魔半減
+#13: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#14: ESNone(0:17238) -> ESNone
+nothing
+
+#15: ESTypeResist(118:16734) -> 神悪魔半減
 Reduce damage from God and Devil types by 50%
