@@ -1,0 +1,33 @@
+#3357 - Head Captain of 13 Court Guard Squads, Genryusai
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 3357
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17451:74) 万象一切灰燼と為せ『流刃若火』
+ | Reduce damage from all sources by 50% for 5 turns
+ group:
+ | group:
+   | condition: 33% chance
+   | (17452:108) 仕置きが足らんようじゃの
+   | Change all Water and Heal orbs to Fire orbs, Deal 70% damage
+   | condition: 33% chance
+   | (17454:77) 『流刃若火』一ツ目　撫斬
+   | Change the 5th column to Fire orbs, Deal 80% damage
+   | condition: 34% chance
+   | (17453:15) 何じゃ　届いとらんぞ
+   | Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (17455:17) もう止さんか
+     | Increase damage to 200% for the next 1 turn
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (17456:92) 止せというのが解らんか小童
+     | Spawn 6 random Fire orbs, Deal 130% damage

@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15411:53) Grand Tree Barrier
+ | (15411:53) Great Tree Barrier
  | Absorb Wood damage for 3 turns
  group:
  | group:
-   | (15414:15) World Tree Rage
+   | (15414:15) World Tree's Rage
    | Deal 120% damage (6 hits, 20% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (15413:104) Sky Dragon Cloud
+     | (15413:104) Dragon Clouds in the Sky
      | A row of clouds appears for 3 turns at 1st row, 1st column
    | group:
      | condition: 10% chance
      | (15412:15) God Gaia Breath
      | Deal 150% damage (2 hits, 75% each)
-     | (15414:15) World Tree Rage
+     | (15414:15) World Tree's Rage
      | Deal 120% damage (6 hits, 20% each)

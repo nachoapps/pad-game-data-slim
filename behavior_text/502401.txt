@@ -8,20 +8,20 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15443:68) Deadly Rain
+ | (15443:68) Death Rain
  | Poison skyfall +10% for 3 turns
  group:
  | group:
    | condition: 30% chance
    | (15445:64) Poison Tail
    | Change 4 random orbs to Poison orbs, Deal 120% damage
-   | (15444:15) Life Slash
+   | (15444:15) Life Shaver
    | Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (15446:109) Hell Swamp
+     | (15446:109) Infernal Swamp
      | Random 2 orbs change every 1.5s for 3 turns
    | group:
      | condition: 30% chance
@@ -30,5 +30,5 @@ level: 1
      | condition: 30% chance
      | (15445:64) Poison Tail
      | Change 4 random orbs to Poison orbs, Deal 120% damage
-     | (15444:15) Life Slash
+     | (15444:15) Life Shaver
      | Deal 100% damage (5 hits, 20% each)

@@ -8,29 +8,29 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (17064:118) 神悪魔半減
+ | (17064:118) God & Devil Halved
  | Reduce damage from God and Devil types by 50%
- | (17065:106) 敵の行動ターンが変化した
+ | (17065:106) Enemies' turn changed
  | Enemy turn counter change to 1 when HP <= 50%
  type: PREEMPT
- | (17050:83) 大天使の導き + 神秘の翼
+ | (17050:83) Archangel's Guidance + Mystic Wings
  | Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
  group:
  | group:
    | condition: 33% chance
-   | (17053:83) 正義の剣 + 幻惑の審判
+   | (17053:83) Sword of Justice + Bewitching Judgement
    | Deal 60% damage (3 hits, 20% each) + Specific orbs change every 1.0s for 2 turns, Deal 60% damage (3 hits, 20% each)
    | condition: 33% chance
-   | (17054:83) 正義の剣 + 暗黒の審判
+   | (17054:83) Sword of Justice + Dark Judgement
    | Deal 60% damage (3 hits, 20% each) + Blind random 10 orbs for 2 turns, Deal 60% damage (3 hits, 20% each)
    | condition: 34% chance
-   | (17055:83) 正義の剣 + 干渉の審判
+   | (17055:83) Sword of Justice + Meddling Judgement
    | Deal 60% damage (3 hits, 20% each) + Change the 4th column to Water and Jammer orbs, Deal 60% damage (3 hits, 20% each)
  | group:
  | condition: turn 1 while HP > 9, hp <= 50
-   | (17060:83) 消失する加護 + 久遠の輝き
+   | (17060:83) Vanishing Protection + Eternal Radiance
    | Change 2 random orb types to Jammer orbs + Increase damage to 150% for the next 999 turns
  | group:
  | condition: hp <= 9
-   | (17063:15) 終焉の日
+   | (17063:15) End of Days
    | Deal 600% damage (6 hits, 100% each)

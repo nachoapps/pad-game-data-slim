@@ -8,19 +8,19 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15469:88) Swift Current
+ | (15469:88) Raging Rapids
  | Bind awoken skills for 3 turns, Deal 80% damage
- | (15471:15) Rock Bubble
+ | (15471:15) Stone Bubbles
  | Deal 80~120% damage (4~6 hits, 20% each)
  type: DEATH
  condition: when defeated
- | (15476:95) Water Shadow + Aero Eraser
+ | (15476:95) Shadowed Water + Aero Eraser
  | Delay active skills by 1 turn + Change all orbs to Fire, Water, Light, Dark, and Heal
  group:
  | group:
-   | (15471:15) Rock Bubble
+   | (15471:15) Stone Bubbles
    | Deal 80~120% damage (4~6 hits, 20% each)
  | group:
  | condition: turn 1, hp <= 69
-   | (15470:68) Break in the Water
+   | (15470:68) Water Prayer
    | Water skyfall +20% for 3 turns

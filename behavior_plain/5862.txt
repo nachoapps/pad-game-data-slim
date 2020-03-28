@@ -14,10 +14,10 @@ Reduce damage from all sources by 90% for 3 turns
 #3: ESBranchRemainingEnemies(120:8595) -> ESBranchRemainingEnemies
 Branch on remaining enemies <= 2, target rnd 5
 
-#4: ESGravity(50:16087) -> Hangover
+#4: ESGravity(50:16087) -> Heavy Press
 Player -99% HP
 
-#5: ESRandomSpawn(92:16088) -> Green Change Press
+#5: ESRandomSpawn(92:16088) -> Gaia Storm
 Spawn 10 random Wood orbs, Deal 500% damage
 
 #6: ESEndPath(36:26) -> ESEndPath

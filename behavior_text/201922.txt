@@ -1,4 +1,4 @@
-#201922 - ゼウス＆ヘラ
+#201922 - Zeus & Hera
 monster size: 5
 new AI: True
 start/max counter: 2
@@ -11,44 +11,44 @@ level: 1
  | (1879:73) パッシブ・ゼウスヘラ
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (1917:83) よくぞここまで参った + いっぱい楽しみましょう♪
+ | (1917:83) You've done well to come this far + Let's have some fun!
  | Voids status ailments for 2 turns + Absorb damage when combos <= 4 for 999 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 20% chance
-     | (1918:83) 神の雷 + 往復ビンタ
+     | (1918:83) Lightning of God + Double Slap
      | Change the 3rd column to Light orbs and the 4th column to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 12000% damage
      | condition: 20% chance
-     | (1919:83) ゼウスブレード + 神の悪戯
+     | (1919:83) Zeus Blade + Mischief by God
      | Change the 4th row to Light orbs + Change all Light orbs to Jammer orbs, Deal 15000% damage
      | condition: 20% chance
-     | (1920:83) ゼウスブレード + 往復ビンタ
+     | (1920:83) Zeus Blade + Double Slap
      | Change the 4th row to Light orbs + Deal 18000% damage (3 hits, 6000% each), Deal 15000% damage
      | condition: 20% chance
-     | (1921:83) 神の雷 + 魔性の抱擁
+     | (1921:83) Lightning of God + Diabolic Embrace
      | Change the 3rd column to Light orbs and the 4th column to Light orbs + Bind 1 random sub for 1~2 turns, Deal 12000% damage
      | condition: 20% chance
-     | (1929:83) ゼウスブレード + ギガグラビティ
+     | (1929:83) Zeus Blade + Ultra Gravity
      | Change the 4th row to Light orbs + Player -99% HP, Deal 15000% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
-     | (1922:83) 神の雷 + 髪を整えている
+     | (1922:83) Lightning of God + Preening
      | Change the 3rd column to Light orbs and the 4th column to Light orbs + Voids status ailments for 2 turns, Deal 12000% damage
  | group:
  | condition: hp <= 39
    | group:
    | condition: turn 1 while HP > 9
-     | (1924:83) 神王の眼光 + とどめ、いっちゃうよ～！
+     | (1924:83) Glare of Zeus + Time to finish you off!
      | Bind God cards for 2~4 turns + Do nothing
    | group:
-     | (1925:83) スーパーノヴァ + グラビトンボム
+     | (1925:83) Super Nova + Graviton Bomb
      | Deal 45000% damage (10 hits, 4500% each) + Deal 80000% damage, Deal 45000% damage (10 hits, 4500% each)
  | group:
  | condition: hp <= 9
-   | (1926:83) ラース・オブ・ゴッド + 神々の祝福
+   | (1926:83) Wrath of God + Blessing of the Gods
    | Player -95% HP + Enemy recover 50% HP
  type: UNKNOWN_USE
- | (1923:83) 神王の眼光 + ギガグラビティ
+ | (1923:83) Glare of Zeus + Ultra Gravity
  | Bind God cards for 2~4 turns + Player -99% HP

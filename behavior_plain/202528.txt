@@ -1,4 +1,4 @@
-#202528 - 覚醒マシンゼウス
+#202528 - Awoken Machine Zeus
 monster size: 5
 new AI: True
 start/max counter: 2
@@ -14,9 +14,9 @@ Branch on flag & 1, target rnd 7
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESAbsorbCombo(67:3722) -> ハイテクニックフィールド
+	[0] ESAbsorbCombo(67:3722) -> High Technique Field
 	Absorb damage when combos <= 7 for 999 turns
-	[1] ESStatusShield(20:3565) -> マシナリーボディ
+	[1] ESStatusShield(20:3565) -> Machinery Body
 	Voids status ailments for 999 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -34,11 +34,11 @@ Branch on hp < 50, target rnd 16
 #9: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 70, target rnd 12
 
-#10: ESBindRandomSub(65:3724) -> ＺＥＵＳカノン
+#10: ESBindRandomSub(65:3724) -> ZEUS Cannon
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Bind 1 random sub for 3 turns, Deal 90% damage
 
-#11: ESRandomSpawn(92:3723) -> ＺＥＵＳソード
+#11: ESRandomSpawn(92:3723) -> ZEUS Sword
 Spawn 5 random Mortal Poison orbs, Deal 190% damage
 
 #12: ESBranchFlag(43:10) -> ESBranchFlag
@@ -47,10 +47,10 @@ Branch on flag & 2, target rnd 10
 #13: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#14: ESBindTyping(3:3725) -> 機王の眼光
+#14: ESBindTyping(3:3725) -> Machine King Gaze
 Bind God cards for 10 turns
 
-#15: ESBindRandom(1:3755) -> 機王の眼光
+#15: ESBindRandom(1:3755) -> Machine King Gaze
 Bind 2 random cards for 10 turns
 
 #16: ESBranchFlag(43:10) -> ESBranchFlag
@@ -60,26 +60,26 @@ Branch on flag & 4, target rnd 19
 flag SET 0b111
 
 #18: SkillSet:
-	[0] ESAbsorbThreshold(87:3727) -> イージスインビンシブルバリア
+	[0] ESAbsorbThreshold(87:3727) -> Aegis Invisible Field
 	Absorb damage when damage >= 2,000,000 for 5 turns
-	[1] ESInactivity66(66:3726) -> ソードビット展開
+	[1] ESInactivity66(66:3726) -> Sword Bit Deployment
 	Do nothing
 
 #19: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESSkillDelay(89:3729) -> アブソルートアブソーブ
+	[0] ESSkillDelay(89:3729) -> Absolute Absorb
 	Delay active skills by 3 turns
-	[1] ESAttackMultihit(15:3732) -> ソードビットラッシュ
+	[1] ESAttackMultihit(15:3732) -> Sword Bit Rush
 	Deal 180% damage (6 hits, 30% each)
 
 #20: SkillSet:
-	[0] ESRowSpawnMulti(79:3728) -> デルタデッドライトニング
+	[0] ESRowSpawnMulti(79:3728) -> Delta Dead Lightning
 	Change the 1st and 5th rows to Light, Jammer, and Mortal Poison orbs, Deal 180% damage
-	[1] ESAttackMultihit(15:3732) -> ソードビットラッシュ
+	[1] ESAttackMultihit(15:3732) -> Sword Bit Rush
 	Deal 180% damage (6 hits, 30% each)
 
-#21: ESAttackMultihit(15:3730) -> ハイパーノヴァ
+#21: ESAttackMultihit(15:3730) -> Hyper Nova
 Deal 6400% damage (8 hits, 800% each)
 
-#22: ESAttributeResist(72:3756) -> 闇半減
+#22: ESAttributeResist(72:3756) -> Halve Dark
 Reduce damage from Dark attrs by 50%

@@ -1,4 +1,4 @@
-#5964 - ウルボーク
+#5964 - Wulborc
 monster size: 4
 new AI: True
 start/max counter: 3
@@ -8,38 +8,38 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17081:104) 電煙集積
+ | (17081:104) Build-up of Electric Smoke
  | A 2×3 rectangle of clouds appears for 5 turns at a random location
  group:
  | group:
  | condition: turns 1-4
-   | (17082:109) 磁場が発生している
+   | (17082:109) Generating a Magnetic Field
    | Random 2 orbs change every 1.0s for 1 turn
  | group:
-   | (17088:15) 電撃突進
+   | (17088:15) Electric Shock Charge
    | Deal 90% damage (3 hits, 30% each)
  type: REMAINING
  condition: when 1 enemies remain
  | group:
    | group:
    | condition: turns 1-4 while HP > 49
-     | (17082:109) 磁場が発生している
+     | (17082:109) Generating a Magnetic Field
      | Random 2 orbs change every 1.0s for 1 turn
    | group:
    | condition: turn 5 while HP > 49
-     | (17087:17) 強力な電気を纏った
+     | (17087:17) Building a Strong Electric Charge
      | Increase damage to 500% for the next 999 turns
  | group:
  | condition: turn 1, hp <= 49
-   | (17083:17) 強力な電気を纏った
+   | (17083:17) Building a Strong Electric Charge
    | Increase damage to 150% for the next 999 turns
  type: UNKNOWN_USE
  | condition: when 1 enemies remain
- | (17084:17) 強力な電気を纏った
+ | (17084:17) Building a Strong Electric Charge
  | Increase damage to 200% for the next 999 turns
  | condition: when 1 enemies remain
- | (17085:17) 強力な電気を纏った
+ | (17085:17) Building a Strong Electric Charge
  | Increase damage to 300% for the next 999 turns
  | condition: when 1 enemies remain
- | (17086:17) 強力な電気を纏った
+ | (17086:17) Building a Strong Electric Charge
  | Increase damage to 400% for the next 999 turns

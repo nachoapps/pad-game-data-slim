@@ -9,7 +9,7 @@ approved: False
 level: 1
  group:
  | condition: 60% chance
- | (15427:101) Demon Pick
+ | (15427:101) Demon's Choice
  | Fix orb movement starting point to random position on the board, Deal 200% damage
  | (15426:15) Flare Rain
  | Deal 105% damage (3 hits, 35% each)

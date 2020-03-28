@@ -9,8 +9,18 @@ approved: False
 level: 1
  type: PREEMPT
  | condition: 20% chance
+ | (16510:79) Bunny Beam
+ | Change the 3rd row to Water orbs, Deal 100% damage
+ | condition: 20% chance
  | (16511:66) 8周年ありがとたまぁ～！
  | Do nothing
  | condition: 20% chance
  | (16512:66) 今後ともよろしくたまぁ～！
  | Do nothing
+ group:
+ condition: turn 1, hp <= 98
+ | (16509:17) It's pretty important!
+ | Increase damage to 150% for the next 3 turns
+ type: UNKNOWN_USE
+ | (16508:57) Enraged
+ | Change a random attribute to Poison orbs

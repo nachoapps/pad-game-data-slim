@@ -8,12 +8,12 @@ approved: False
 
 level: 1
  group:
- | (15437:15) Sudden Attack
+ | (15437:15) Charge
  | Deal 105% damage (3 hits, 35% each)
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | condition: 30% chance
- | (15438:52) Bones Resuscitation
+ | (15438:52) Bone Resurrection
  | Enemy ally recover 50% HP
- | (15437:15) Sudden Attack
+ | (15437:15) Charge
  | Deal 105% damage (3 hits, 35% each)

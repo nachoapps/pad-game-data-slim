@@ -13,8 +13,9 @@ Branch on flag & 1, target rnd 10
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: ESNone(0:16510) -> ESNone
-nothing
+#4: ESRowSpawnMulti(79:16510) -> Bunny Beam
+Condition: 20% chance (ai:20 rnd:0)
+Change the 3rd row to Water orbs, Deal 100% damage
 
 #5: ESInactivity66(66:16511) -> 8周年ありがとたまぁ～！
 Condition: 20% chance (ai:20 rnd:0)
@@ -42,8 +43,9 @@ counter + 1
 #12: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 99, target rnd 15
 
-#13: ESNone(0:16508) -> ESNone
-nothing
+#13: ESPoisonChangeRandom(57:16508) -> Enraged
+Condition: One-time use (ai:100 rnd:0) (cost: 3)
+Change a random attribute to Poison orbs
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -51,8 +53,9 @@ end_turn
 #15: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 2, target rnd 13
 
-#16: ESNone(0:16509) -> ESNone
-nothing
+#16: ESAttackUPRemainingEnemies(17:16509) -> It's pretty important!
+Condition: when <= 1 enemies remain (ai:100 rnd:0)
+Increase damage to 150% for the next 3 turns
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -8,15 +8,15 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (15433:106) Wide Wing Spread
+ | (15433:106) Spread its wings wide
  | Enemy turn counter change to 1 when HP <= 50%
  type: PREEMPT
- | (15431:67) Burning Aspiration
+ | (15431:67) Calamitous Intent
  | Absorb damage when combos <= 6 for 3 turns
  group:
  | group:
  | condition: always turn 1
-   | (15434:74) Gigantic Evil Flames
+   | (15434:74) Gigantic Body of Evil Flame
    | Reduce damage from all sources by 75% for 4 turns
  | group:
    | (15432:15) Steel Flame Breath

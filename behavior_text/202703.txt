@@ -1,0 +1,46 @@
+#202703 - 六番隊隊長・朽木白哉
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 202703
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (2804:83) これが千本桜の真の姿だ + 『殲景・千本桜景厳』
+ | Do nothing + Do nothing
+
+level: 4
+ type: PREEMPT
+ | (2793:83) よかろう その眼に強く刻むが良い + 『千本桜景厳』
+ | Voids status ailments for 999 turns + Deal 110% damage (10 hits, 11% each), Deal 110% damage (10 hits, 11% each)
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (2794:77) 破道の三十三 『蒼火墜』
+     | Change the 3rd column to Water orbs and the 4th column to Fire orbs, Deal 90% damage
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (2795:15) 無数の刃が襲う
+     | Deal 110% damage (10 hits, 11% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: always turn 1
+     | condition: when 2675, 2676, 2677, 3353, 3354 on team
+     | (2825:83) これが千本桜の真の姿だ + 『殲景・千本桜景厳』 + 見るのは貴様で二人目だ
+     | Do nothing + Increase damage to 200% for the next 999 turns + Do nothing
+     | (2861:83) これが千本桜の真の姿だ + 『殲景・千本桜景厳』
+     | Do nothing + Increase damage to 200% for the next 999 turns
+   | group:
+     | condition: 30% chance
+     | (2797:50) 破道の四 『白雷』
+     | Player -99% HP
+     | (2805:15) 斬撃
+     | Deal 110% damage
+ | group:
+ | condition: hp <= 14
+   | (2798:15) 千本桜景厳…『終景・白帝剣』
+   | Deal 600% damage

@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16369:68) 焦陽の大気
+ | (16369:68) Scorching Sun's Atmosphere
  | Fire skyfall +15% for 3 turns
  group:
- | (16370:15) ヒートフィスト
+ | (16370:15) Heat Fist
  | Deal 100% damage (2 hits, 50% each)

@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15480:85) Plunge everything into a sea of fire!
+ | (15480:85) I will plunge everything into a sea of fire!
  | Change all orbs to Fire, Deal 150% damage
  group:
  | group:
@@ -19,7 +19,7 @@ level: 1
    | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: always turn 1, hp <= 79
-   | (15481:89) Muspell's Hellish Hosts
+   | (15481:89) The Hordes of Muspel
    | Delay active skills by 0~2 turns
  | group:
  | condition: always turn 2, hp <= 49

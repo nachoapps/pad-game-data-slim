@@ -18,7 +18,7 @@ level: 1
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (15452:127) No Fall Zone
+     | (15452:127) Unfallen
      | No skyfall for 3 turns
    | group:
      | condition: 50% chance

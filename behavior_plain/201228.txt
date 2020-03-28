@@ -17,13 +17,13 @@ Branch on remaining enemies <= 1, target rnd 7
 #4: ESBranchRemainingEnemies(120:8595) -> ESBranchRemainingEnemies
 Branch on remaining enemies <= 2, target rnd 10
 
-#5: ESOrbChangeAttack(48:15721) -> Gungnir TAMA!
+#5: ESOrbChangeAttack(48:15721) -> Gungnir-TAMA!
 Change a random attribute to Light orbs, Deal 100% damage
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#7: ESAbsorbCombo(67:15718) -> Chief God Power-TAMA!
+#7: ESAbsorbCombo(67:15718) -> Chieftain God Power-TAMA!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 5 turns
 

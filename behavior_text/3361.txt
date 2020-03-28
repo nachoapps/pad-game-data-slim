@@ -1,0 +1,31 @@
+#3361 - The 4th Espada, Ulquiorra Shifar
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 1
+monster_id: 3361
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17472:17) 刀剣解放第二階層
+ | Increase damage to 150% for the next 5 turns
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1 of 4
+     | (17475:88) 舐めるな
+     | Bind awoken skills for 1 turn, Deal 45% damage
+   | group:
+   | condition: execute repeatedly, turn 2-4 of 4
+     | (17473:97) 愚劣だ
+     | Blind random 1~3 orbs for 1 turn, Deal 65% damage
+ | group:
+ | condition: hp <= 39
+   | group:
+   | condition: turn 1
+     | (17474:86) 超速再生
+     | Enemy recover 50% HP
+   | group:
+     | (17476:92) 雷霆の槍
+     | Spawn 4 random Light or Dark orbs, Deal 130% damage

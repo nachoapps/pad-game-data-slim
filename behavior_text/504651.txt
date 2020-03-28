@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15422:74) Huge Burning Mass
+ | (15422:74) Gigantic Burning Body
  | Reduce damage from all sources by 75% for 3 turns
  group:
  | condition: 20% chance
- | (15424:102) Explosive Shell
+ | (15424:102) Explosive Carapace
  | Spawn 3 random Bomb orbs, Deal 100% damage
- | (15423:15) Wild Flaming Fierce Claws
+ | (15423:15) Fierce Claws of Fervor
  | Deal 100% damage (5 hits, 20% each)

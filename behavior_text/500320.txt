@@ -16,5 +16,5 @@ level: 1
    | Deal 102% damage (6 hits, 17% each)
  | group:
  | condition: turn 1, hp <= 49
-   | (15430:68) Bug Rain
+   | (15430:68) Virus Rain
    | Jammer skyfall +15% for 3 turns

@@ -8,33 +8,33 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15516:83) Catastrophe Drive + Final Carving
+ | (15516:83) Catastrophe Drive + Mark of Ragnarok
  | Seal the 6th column for 5 turns + Reduce damage from all sources by 75% for 2 turns
  group:
  | group:
    | condition: 50% chance
    | (15517:71) Shield Blast
    | Void damage >= 500000 for 1 turn, Deal 150% damage
-   | (15518:15) Barrage Attack
+   | (15518:15) Fusillade
    | Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 4
-     | (15519:17) Power Charge
+     | (15519:17) Charge Power
      | Increase damage to 130% for the next 3 turns
    | group:
    | condition: execute repeatedly, turn 2-4 of 4
      | condition: 50% chance
      | (15517:71) Shield Blast
      | Void damage >= 500000 for 1 turn, Deal 150% damage
-     | (15518:15) Barrage Attack
+     | (15518:15) Fusillade
      | Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
-     | (15520:88) Power Delete
+     | (15520:88) Delete Power
      | Bind awoken skills for 1 turn
    | group:
      | (15521:15) Catastrophe Burst

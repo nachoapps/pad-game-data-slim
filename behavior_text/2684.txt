@@ -1,0 +1,24 @@
+#2684 - Yasutora Sado
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 2684
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17520:83) …通してもらうぞ + 先を急ぐんだ
+ | Voids status ailments for 999 turns + Movetime -2s for 7 turns
+ group:
+ | group:
+ | condition: turn 1
+   | (17485:15) …スキだらけだぞ
+   | Deal 100% damage
+ | group:
+ | condition: turn 2
+   | (17486:74) 退くわけにはいかない
+   | Reduce damage from all sources by 30% for 5 turns
+ | group:
+   | (17487:15) 俺は　こいつを倒す
+   | Deal 120% damage (2 hits, 60% each)

@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESDebuffRCV(105:15439) -> Dead Howling
+#2: ESDebuffRCV(105:15439) -> Deadly Howl
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 RCV 50% for 4 turns
 
@@ -19,7 +19,7 @@ Change 5 random orbs (excluding hearts) to Poison orbs
 Condition: 50% chance when < 50% HP, when <= 1 enemies remain (ai:50 rnd:0)
 Increase damage to 150% for the next 1 turn
 
-#5: ESAttackMultihit(15:15440) -> Gnaw
+#5: ESAttackMultihit(15:15440) -> Bite
 Deal 105% damage (3 hits, 35% each)
 
 #6: ESEndPath(36:26) -> ESEndPath

@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
-	[0] ESStatusShield(20:16058) -> Attacking now!
+	[0] ESStatusShield(20:16058) -> Here I come!
 	Voids status ailments for 999 turns
-	[1] ESAbsorbCombo(67:16059) -> Abandonment
+	[1] ESAbsorbCombo(67:16059) -> Detect
 	Absorb damage when combos <= 9 for 2 turns
 	[2] ESBindTyping(3:16218) -> Overpowering Gaze
 	Bind Devil cards for 10 turns
@@ -44,7 +44,7 @@ end_turn
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESAttackUPRemainingEnemies(17:16061) -> Ultimate Dedication
 	Increase damage to 200% for the next 1 turn
-	[1] ESAbsorbCombo(67:16062) -> Abandonment
+	[1] ESAbsorbCombo(67:16062) -> Detect
 	Absorb damage when combos <= 8 for 2 turns
 
 #12: ESAttackMultihit(15:16069) -> Buster Blade
@@ -54,7 +54,7 @@ Deal 85% damage
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESAttackUPRemainingEnemies(17:16064) -> Ultimate Dedication
 	Increase damage to 300% for the next 1 turn
-	[1] ESAbsorbCombo(67:16065) -> Abandonment
+	[1] ESAbsorbCombo(67:16065) -> Detect
 	Absorb damage when combos <= 7 for 2 turns
 
 #14: ESAttackMultihit(15:16069) -> Buster Blade
@@ -64,7 +64,7 @@ Deal 85% damage
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESAttackUPRemainingEnemies(17:16067) -> Ultimate Dedication
 	Increase damage to 400% for the next 999 turns
-	[1] ESAbsorbCombo(67:16068) -> Abandonment
+	[1] ESAbsorbCombo(67:16068) -> Detect
 	Absorb damage when combos <= 6 for 999 turns
 
 #16: ESAttackMultihit(15:16069) -> Buster Blade
@@ -83,9 +83,9 @@ flag SET 0b1
 counter + 1
 
 #21: SkillSet:
-	[0] ESRecoverEnemy86(86:16071) -> How regrettable
+	[0] ESRecoverEnemy86(86:16071) -> No Mercy
 	Enemy recover 100% HP
-	[1] ESDebuffMovetime(39:16072) -> Prepare yourself
+	[1] ESDebuffMovetime(39:16072) -> Are you ready?
 	Movetime 25% for 5 turns
 
 #22: ESEndPath(36:26) -> ESEndPath

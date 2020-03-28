@@ -13,7 +13,7 @@ Enable preempt if level 1
 	Fix orb movement starting point to random position on the board
 	[1] ESInactivity66(66:16095) -> Hey!
 	Do nothing
-	[2] ESSkillDelay(89:16096) -> Pick One
+	[2] ESSkillDelay(89:16096) -> Draw One
 	Delay active skills by 1 turn
 
 #3: SkillSet:

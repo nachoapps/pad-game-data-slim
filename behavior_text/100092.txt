@@ -1,4 +1,4 @@
-#100092 - 裏ドリヤード
+#100092 - Alt. Dryad
 monster size: 2
 new AI: True
 start/max counter: 3
@@ -8,24 +8,24 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17090:102) 巨木の実
+ | (17090:102) Giant Tree's Fruit
  | Spawn 5 random Bomb orbs
  group:
- | (17091:92) 盤面緑化
+ | (17091:92) Greening the Board
  | Spawn 3 random Wood orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, turn 1, hp <= 100
- | (17092:19) 大自然の怒り
+ | (17092:19) Wrath of Mother Nature
  | Increase damage to 300% for the next 999 turns
 
 level: 5
  type: PREEMPT
- | (17089:97) 巨木の葉陰
+ | (17089:97) Giant Tree's Shadow
  | Blind random 20 orbs for 3 turns
  group:
- | (17091:92) 盤面緑化
+ | (17091:92) Greening the Board
  | Spawn 3 random Wood orbs, Deal 100% damage
  type: REMAINING
  condition: when 2 enemies remain, turn 1, hp <= 100
- | (17092:19) 大自然の怒り
+ | (17092:19) Wrath of Mother Nature
  | Increase damage to 300% for the next 999 turns

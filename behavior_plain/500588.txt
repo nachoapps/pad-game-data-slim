@@ -10,7 +10,7 @@ Branch on remaining enemies <= 1, target rnd 3
 #2: ESAttackMultihit(15:15448) -> Moon Slash
 Deal 105% damage (3 hits, 35% each)
 
-#3: ESCloud(104:15449) -> Moon Wolf's Howl
+#3: ESCloud(104:15449) -> Lunar Wolf's Howl
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 A 2×2 square of clouds appears for 3 turns at a random location
 

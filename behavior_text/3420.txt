@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16093:83) Oh no you don't♪ + Hey! + Pick One
+ | (16093:83) Oh no you don't♪ + Hey! + Draw One
  | Fix orb movement starting point to random position on the board + Do nothing + Delay active skills by 1 turn
  group:
  | condition: 33% chance

@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15439:105) Dead Howling
+ | (15439:105) Deadly Howl
  | RCV 50% for 4 turns
  group:
  | group:
-   | (15440:15) Gnaw
+   | (15440:15) Bite
    | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: hp <= 49
@@ -24,5 +24,5 @@ level: 1
      | condition: 50% chance
      | (15442:17) Rage
      | Increase damage to 150% for the next 1 turn
-     | (15440:15) Gnaw
+     | (15440:15) Bite
      | Deal 105% damage (3 hits, 35% each)

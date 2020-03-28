@@ -8,13 +8,13 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15531:83) Bring it on, foolish Gods! + Rebellion Barrier
+ | (15531:83) Bring it on, foolish Gods! + Barrier of Treachery
  | RCV 50% for 5 turns + Void damage >= 4000000 for 10 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-3 of 4
-     | (15532:15) Blade of Depair
+     | (15532:15) Blade of Demise
      | Deal 105% damage (3 hits, 35% each)
    | group:
    | condition: execute repeatedly, turn 4 of 4
@@ -22,9 +22,9 @@ level: 1
      | Blind random 3~6 orbs for 2 turns
  | group:
  | condition: always turn 1, hp <= 49
-   | (15534:53) Pretty Weak...
+   | (15534:53) You're soft!
    | Absorb Wood damage for 2 turns
  | group:
  | condition: turn 2, hp <= 19
-   | (15535:17) Rune Enhancement
+   | (15535:17) Runic Enhancement
    | Increase damage to 130% for the next 3 turns

@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESBoardChangeAttackBits(85:15480) -> Plunge everything into a sea of fire!
+#2: ESBoardChangeAttackBits(85:15480) -> I will plunge everything into a sea of fire!
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
 Change all orbs to Fire, Deal 150% damage
 
-#3: ESSkillDelay(89:15481) -> Muspell's Hellish Hosts
+#3: ESSkillDelay(89:15481) -> The Hordes of Muspel
 Condition: When < 80% HP , one-time use (ai:100 rnd:0) (cost: 2)
 Delay active skills by 0~2 turns
 

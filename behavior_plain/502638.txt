@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSkyfall(68:15396) -> I'll follow you slowly
+#2: ESSkyfall(68:15396) -> I'm coming to get you!
 Condition: One-time use (ai:100 rnd:0) (cost: 64)
 Poison skyfall +10% for 5 turns
 
@@ -24,7 +24,7 @@ Deal 120% damage (4 hits, 30% each)
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#7: ESBlind5(5:15399) -> I'll have you swallow it up!
+#7: ESBlind5(5:15399) -> I'll swallow you whole!
 Condition: One-time use (ai:100 rnd:0) (cost: 32)
 Blind all orbs on the board
 

@@ -11,9 +11,9 @@ level: 1
  | (16086:74) Gaia Wall
  | Reduce damage from all sources by 90% for 3 turns
  group:
- | (16087:50) Hangover
+ | (16087:50) Heavy Press
  | Player -99% HP
  type: REMAINING
  condition: when 2 enemies remain, hp <= 100
- | (16088:92) Green Change Press
+ | (16088:92) Gaia Storm
  | Spawn 10 random Wood orbs, Deal 500% damage

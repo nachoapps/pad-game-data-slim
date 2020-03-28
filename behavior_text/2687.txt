@@ -1,0 +1,28 @@
+#2687 - Former Cmdr of Stealth Force, Yoruichi
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 2687
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17415:62) …往生際の悪い奴じゃの
+ | Blind all orbs on the board, Deal 80% damage
+ group:
+ | group:
+   | condition: 50% chance
+   | (17416:109) 捕えられると思うたか？
+   | Random 2 orbs change every 1.0s for 1 turn, Deal 80% damage
+   | (17417:15) …愚か者
+   | Deal 100% damage
+ | group:
+ | condition: hp <= 39
+   | group:
+   | condition: turn 1
+     | (17418:71) 反鬼相殺
+     | Void damage >= 1000000 for 1 turn
+   | group:
+     | (17419:92) 『瞬閧』
+     | Spawn 5 random Wood orbs, Deal 120% damage

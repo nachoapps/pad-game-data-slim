@@ -11,7 +11,7 @@ Enable preempt if level 1
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Reduce damage from all sources by 50% for 3 turns
 
-#3: ESOrbLock(94:15382) -> Defrost Wave
+#3: ESOrbLock(94:15382) -> Freeze Wave
 Condition: When < 50% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Lock all orbs
 
@@ -23,7 +23,7 @@ Deal 150% damage (2 hits, 75% each)
 Condition: 30% chance (ai:30 rnd:0)
 Bind 1 random sub for 1 turn, Deal 90% damage
 
-#6: ESAttackMultihit(15:15380) -> Ice Skipping Stone
+#6: ESAttackMultihit(15:15380) -> Hailstones
 Deal 77~110% damage (7~10 hits, 11% each)
 
 #7: ESEndPath(36:26) -> ESEndPath

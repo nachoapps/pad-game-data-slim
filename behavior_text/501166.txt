@@ -12,12 +12,12 @@ level: 1
  | Bind 4 random subs for 3 turns
  group:
  | group:
-   | (15420:15) Pedal Storm
+   | (15420:15) Petal Storm
    | Deal 80~160% damage (4~8 hits, 20% each)
  | group:
  | condition: hp <= 19
    | condition: 30% chance
-   | (15421:15) Earth Rage
+   | (15421:15) Rage of the Earth
    | Deal 300% damage
-   | (15420:15) Pedal Storm
+   | (15420:15) Petal Storm
    | Deal 80~160% damage (4~8 hits, 20% each)

@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15500:83) Chaos Rain + Final Carving
+ | (15500:83) Chaos Rain + Mark of Ragnarok
  | Jammer and Poison skyfall +8% for 5 turns + Reduce damage from all sources by 75% for 2 turns
  group:
  | group:
@@ -21,11 +21,11 @@ level: 1
  | condition: hp <= 49
    | group:
    | condition: always turn 1
-     | (15496:67) It can't end like this!
+     | (15496:67) It won't end like this!
      | Absorb damage when combos <= 6 for 2 turns
    | group:
      | condition: 30% chance
-     | (15495:53) Venomous Snake Jaws
+     | (15495:53) Venomous Snake's Huge Jaws
      | Absorb Wood damage for 1 turn, Deal 140% damage
      | condition: 30% chance
      | (15494:63) Snake's Deadening Fang

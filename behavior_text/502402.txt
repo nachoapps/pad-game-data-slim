@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15502:83) The Scales of Life and Death + Final Carving
+ | (15502:83) The Scales of Life and Death + Mark of Ragnarok
  | Heal and Mortal Poison skyfall +10% for 5 turns + Reduce damage from all sources by 75% for 2 turns
  group:
  | group:
@@ -31,7 +31,7 @@ level: 1
      | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
-   | (15506:88) Succumb to my grudge!
+   | (15506:88) Wither before my grudge!
    | Bind awoken skills for 2 turns
    | condition: 30% chance
    | (15505:94) Dead Judgment
@@ -42,7 +42,7 @@ level: 1
  | condition: hp <= 9
    | group:
    | condition: turn 1
-     | (15506:88) Succumb to my grudge!
+     | (15506:88) Wither before my grudge!
      | Bind awoken skills for 2 turns
    | group:
      | (15507:48) Eat Heart Strike

@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15396:68) I'll follow you slowly
+ | (15396:68) I'm coming to get you!
  | Poison skyfall +10% for 5 turns
  group:
  | group:
@@ -21,7 +21,7 @@ level: 1
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (15399:5) I'll have you swallow it up!
+     | (15399:5) I'll swallow you whole!
      | Blind all orbs on the board
    | group:
    | condition: turn 2

@@ -8,13 +8,13 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15347:53) Evil Wolf's Great Jaws
+ | (15347:53) Demon Wolf's Huge Jaws
  | Absorb Wood damage for 3 turns
  group:
  | group:
-   | (15348:15) Crunch to Pieces
+   | (15348:15) Crunch
    | Deal 120% damage (3 hits, 40% each)
  | group:
  | condition: turn 1, hp <= 49
-   | (15349:17) I'll have you finish here
+   | (15349:17) I'll finish you here!
    | Increase damage to 150% for the next 5 turns

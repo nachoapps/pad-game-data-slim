@@ -8,16 +8,16 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16090:104) The Will of Destruction and Creation
+ | (16090:104) Gyo gyo!
  | A column of clouds appears for 3 turns at 1st row, 1st column
  group:
- | (16092:92) Bon-bon
+ | (16092:92) Bonn bonn
  | Spawn 1 random Poison orb, Deal 100% damage
 
 level: 6
  type: PREEMPT
- | (16091:99) Gyo gyo gyo!
+ | (16091:99) Gyo gyo!
  | Seal the 6th column for 3 turns
  group:
- | (16092:92) Bon-bon
+ | (16092:92) Bonn bonn
  | Spawn 1 random Poison orb, Deal 100% damage
