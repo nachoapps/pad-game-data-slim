@@ -1,20 +1,20 @@
 #3353 The Final Getsugatensho, Ichigo Kurosaki
-HP: 3330 ATK: 1915 RCV: 428 LB: 0
-AWK: 26,21,28,19,21,10,10,33
-SAWK: 
+HP: 3630 ATK: 2015 RCV: 428 LB: 25
+AWK: 26,26,28,19,56,48,52,33,63
+SAWK: 56,33,48
 
-# 6416/156 - I'll end this... in an instant.
-Tags: ENHANCED_ATTACK
+# 6416/116 - I'll end this... in an instant.
+Tags: ENHANCED_ATTACK,ADD_COMBO
 Game: ATK increases by 50% with number of [Enhanced Dark Att.] Awoken Skills in team for 1 turn
-JP: チーム内の闇属性強化の覚醒数1つにつき攻撃力が50％上がる
-EN: For 1 turn, increase ATK by 50% for each Enhanced Dark Att. awakening skill on the team
-KR: For 1 turn, increase ATK by 50% for each Enhanced Dark Att. awakening skill on the team
+JP: チーム内の闇属性強化の覚醒数1つにつき攻撃力が50％上がる。2ターンの間、1コンボ加算される
+EN: For 2 turns, increase ATK by 50% for each Enhanced Dark Att. awakening skill on the team; For 2 turns, increase combo count by 1
+KR: For 2 turns, increase ATK by 50% for each Enhanced Dark Att. awakening skill on the team; For 2 turns, increase combo count by 1
 
 # 6417/138 - Mugetsu
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
-Stats: [1.5, 10.5, 1.0, 0.0]
+Stats: [2.0, 16.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 1.5x HP & ATK for Dark Att.; ATK increases with 6+ linked Dark Orbs, up to 7x
-JP: 【落ちコンなし】闇属性のHPと攻撃力が1.5倍。闇を6個以上つなげて消すと攻撃力が4倍、最大8個で7倍。
-EN: [No skyfall] 1.5x HP & ATK for Dark Att.; 4x ATK when matching 6 or more connected Dark orbs up to 7x at 8 orbs
-KR: [No skyfall] 1.5x HP & ATK for Dark Att.; 4x ATK when matching 6 or more connected Dark orbs up to 7x at 8 orbs
+JP: 【落ちコンなし】闇属性のHPと攻撃力が2倍。闇を6個以上つなげて消しと攻撃力が8倍、2コンボ加算。
+EN: [No skyfall] 2x HP & ATK for Dark Att.; 8x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
+KR: [No skyfall] 2x HP & ATK for Dark Att.; 8x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
 

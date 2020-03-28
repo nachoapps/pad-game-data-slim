@@ -1,0 +1,12 @@
+#6095 地獄蝶
+HP: 3715 ATK: 1863 RCV: 475 LB: 0
+AWK: 49,52,2,2,2,2
+SAWK: 
+
+# 16684/116 - 死神だけが扱える蝶
+Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
+Game: 消せないドロップ状態を全回復。 全ドロップのロックを解除し、水、光、闇ドロップに変化。
+JP: 消せないドロップ状態を9999ターン回復。全ドロップのロック状態を解除。全ドロップを水、光、闇ドロップに変化
+EN: Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Water, Light, and Dark orbs
+KR: Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Water, Light, and Dark orbs
+

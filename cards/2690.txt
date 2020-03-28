@@ -1,6 +1,6 @@
 #2690 Toshiro Hitsugaya
 HP: 1418 ATK: 746 RCV: 103 LB: 0
-AWK: 
+AWK: 21,21,23,13,13,63
 SAWK: 
 
 # 3891/116 - Stand back. I'll handle this!
@@ -10,11 +10,11 @@ JP: 全ドロップを水ドロップに変化。自分以外の味方スキル�
 EN: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
 
-# 4477/119 - Reign over the Frozen Sky, Hyorinmaru!
-Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+# 4477/138 - Reign over the Frozen Sky, Hyorinmaru!
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 7.5, 1.5, 0.0]
 Game: ATK increases erasing 5+ linked Water Orbs, up to 4x
-JP: 水を5個以上つなげて消すと攻撃力が2.5倍、最大8個で4倍。
-EN: 2.5x ATK when matching 5 or more connected Water orbs up to 4x at 8 orbs
-KR: 2.5x ATK when matching 5 or more connected Water orbs up to 4x at 8 orbs
+JP: 水属性の全パラメータが1.5倍。水を5個以上つなげて消すと攻撃力が5倍。
+EN: 1.5x all stats for Water Att.; 5x ATK when matching 5 or more connected Water orbs
+KR: 1.5x all stats for Water Att.; 5x ATK when matching 5 or more connected Water orbs
 

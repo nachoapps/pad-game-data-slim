@@ -1,7 +1,7 @@
 #2689 Former R&D Chief, Kisuke Urahara
-HP: 3310 ATK: 1570 RCV: 313 LB: 0
-AWK: 24,24,21,11,11,24,24,28
-SAWK: 
+HP: 3310 ATK: 1570 RCV: 313 LB: 30
+AWK: 24,24,21,68,24,24,24,28,63
+SAWK: 52,48,71
 
 # 3888/116 - Looks like you're in a bind.
 Tags: LINE_ORBS_CONVERTER
@@ -11,10 +11,10 @@ EN: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 KR: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 
 # 4474/138 - Scream, Benihime!
-Tags: ENHANCED_ATK
-Stats: [1.0, 7.5, 1.0, 0.0]
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 16.0, 4.0, 0.0]
 Game: 2.5x ATK for Wood Att.; ATK increases when erasing 3+ linked Jammers, up to 3x
-JP: 木属性の攻撃力が2.5倍。お邪魔を3個以上つなげて消すと攻撃力が2倍、最大5個で3倍。
-EN: 2.5x ATK for Wood Att.; 2x ATK when matching 3 or more connected Jammer orbs up to 3x at 5 orbs
-KR: 2.5x ATK for Wood Att.; 2x ATK when matching 3 or more connected Jammer orbs up to 3x at 5 orbs
+JP: 木属性の攻撃力と回復力が4倍。お邪魔を3個以上つなげて消しと攻撃力が4倍、1コンボ加算。
+EN: 4x ATK & RCV for Wood Att.; 4x ATK and increase combo by 1 when matching 3 or more connected Jammer orbs at once
+KR: 4x ATK & RCV for Wood Att.; 4x ATK and increase combo by 1 when matching 3 or more connected Jammer orbs at once
 

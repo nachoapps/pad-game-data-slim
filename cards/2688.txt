@@ -1,6 +1,6 @@
 #2688 Kisuke Urahara
 HP: 1490 ATK: 698 RCV: 108 LB: 0
-AWK: 
+AWK: 24,24,21,11,11,63
 SAWK: 
 
 # 3888/116 - Looks like you're in a bind.
@@ -11,10 +11,10 @@ EN: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 KR: Change the bottom row to Wood orbs; Create 3 Jammer orbs over non Wood orbs
 
 # 4471/138 - Good... That's the spirit.
-Tags: ENHANCED_ATK
-Stats: [1.0, 3.75, 1.0, 0.0]
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 12.0, 3.0, 0.0]
 Game: 2.5x ATK for Wood Att.; 1.5x ATK erasing 3+ linked Jammers
-JP: 木属性の攻撃力が2.5倍。お邪魔を3個以上つなげて消すと攻撃力が1.5倍。
-EN: 2.5x ATK for Wood Att.; 1.5x ATK when matching 3 or more connected Jammer orbs
-KR: 2.5x ATK for Wood Att.; 1.5x ATK when matching 3 or more connected Jammer orbs
+JP: 木属性の攻撃力と回復力が3倍。お邪魔を3個以上つなげて消すと攻撃力が4倍。
+EN: 3x ATK & RCV for Wood Att.; 4x ATK when matching 3 or more connected Jammer orbs
+KR: 3x ATK & RCV for Wood Att.; 4x ATK when matching 3 or more connected Jammer orbs
 

@@ -1,7 +1,7 @@
 #2681 SantenKesshun, Orihime Inoue
-HP: 2405 ATK: 1085 RCV: 583 LB: 0
-AWK: 16,13,29
-SAWK: 
+HP: 2405 ATK: 1085 RCV: 583 LB: 30
+AWK: 16,13,13,29,29,29,21,63
+SAWK: 52,54,45
 
 # 3878/116 - I reject.
 Tags: REDUCE_DAMAGE
@@ -12,9 +12,9 @@ KR: For 1 turn, reduce damage taken by 35%; Create 3 Heal orbs over non Wood orb
 
 # 4460/138 - Hey is everyone alright?
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 2.0, 2.5, 0.0]
+Stats: [1.0, 8.0, 3.0, 0.0]
 Game: 2x ATK for Wood Att.; heals 2.5x RCV in HP when erasing 4 Heal Orbs
-JP: 木属性の攻撃力が2倍。回復ドロップを4個つなげ消すと回復力が2.5倍。
-EN: 2x ATK for Wood Att.; 2.5x RCV when matching 4 Heal orbs
-KR: 2x ATK for Wood Att.; 2.5x RCV when matching 4 Heal orbs
+JP: 木属性の攻撃力が8倍。回復ドロップを4個つなげ消すと回復力が3倍。
+EN: 8x ATK for Wood Att.; 3x RCV when matching 4 Heal orbs
+KR: 8x ATK for Wood Att.; 3x RCV when matching 4 Heal orbs
 

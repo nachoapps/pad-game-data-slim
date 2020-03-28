@@ -1,7 +1,7 @@
 #2687 Former Cmdr of Stealth Force, Yoruichi
-HP: 2595 ATK: 1810 RCV: 93 LB: 0
-AWK: 21,19,28,24,24
-SAWK: 
+HP: 2595 ATK: 1810 RCV: 93 LB: 30
+AWK: 21,19,28,24,24,58,58,63
+SAWK: 52,58,48
 
 # 3885/116 - ...You are a fool.
 Tags: ENHANCED_ATTACK,MASSIVE_ATTACK,SUICIDE
@@ -11,10 +11,10 @@ EN: For 2 turns, 2.5x ATK for Wood Att.; Reduce HP to 1; Deal 10x Wood damage to
 KR: For 2 turns, 2.5x ATK for Wood Att.; Reduce HP to 1; Deal 10x Wood damage to all enemies
 
 # 4468/138 - Be careful...
-Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 3.0, 1.5, 0.0]
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 7.0, 2.0, 0.0]
 Game: 1.5x RCV for Wood Att.; 3x ATK when HP is 30% or less
-JP: 木属性の回復力が1.5倍。HPが30%以下で攻撃力が3倍。
-EN: 1.5x RCV for Wood Att.; 3x ATK when below 30% HP
-KR: 1.5x RCV for Wood Att.; 3x ATK when below 30% HP
+JP: 木属性のHPと回復力が2倍。HPが99%以下で攻撃力が7倍。
+EN: 2x HP & RCV for Wood Att.; 7x ATK when below 99% HP
+KR: 2x HP & RCV for Wood Att.; 7x ATK when below 99% HP
 
