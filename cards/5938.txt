@@ -10,10 +10,10 @@ JP: 最大HP40％分回復。バインドと覚醒無効を4ターン回復。�
 EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 
-# 16103/138 - 天舞神の真魂
+# 16103/138 - True Spirit of the Heavenly Dancing Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1.0, 0.5]
-Game: HP80％以上でダメージを半減、攻撃力が4倍。 回復ドロップで10万以上回復すると、攻撃力が4倍。
+Game: 4x ATK & halves damage when HP is 80% or more; 4x ATK when recovering 100,000+ HP with Heal Orbs
 JP: HPが80%以上で攻撃力が4倍、受けるダメージを50％減少。回復ドロップで100000以上回復すると攻撃力が4倍。
 EN: 4x ATK and reduce damage taken by 50% when above 80% HP; 4x ATK when recovering more than 100000 HP from Heal orbs
 KR: 4x ATK and reduce damage taken by 50% when above 80% HP; 4x ATK when recovering more than 100000 HP from Heal orbs

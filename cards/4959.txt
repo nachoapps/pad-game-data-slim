@@ -5,7 +5,7 @@ SAWK: 43,60,48
 
 # 12271/116 - Judgment Wave
 Tags: REDUCE_DEFENSE,MENACE
-Game: Voids enemies' DEF for 1 turn; delays enemies' next move for 2 turns
+Game: Voids enemies' DEF for 3 turns; delays enemies' next move by 2 turns
 JP: 3ターンの間、敵の防御力が100％下がる。敵の行動を2ターン遅らせる
 EN: For 3 turns, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns
 KR: For 3 turns, reduce enemies' defense by 100%; Delay enemies' next attack by 2 turns

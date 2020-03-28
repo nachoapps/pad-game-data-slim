@@ -1,19 +1,19 @@
-#5973 聖輝龍の勇者・ダイヤ
+#5973 Seraphic Dragon Hero, Dyer
 HP: 5020 ATK: 3110 RCV: 833 LB: 0
 AWK: 28,53,46,46,44,61,43,43,52
 SAWK: 
 
-# 16229/116 - シャイニングブレイブ
+# 16229/116 - Shining Bravely
 Tags: REDUCE_DAMAGE
-Game: 1ターンの間、ダメージ無効を貫通する。 1ターンの間、受けるダメージを半減。
+Game: Pierce through enemy's damage void for 1 turn; halves damage for 1 turn
 JP: 1ターンの間、ダメージ無効を貫通する。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, bypass void damage shield effects; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, bypass void damage shield effects; For 1 turn, reduce damage taken by 50%
 
-# 16232/138 - アーウィルの共感
+# 16232/138 - Arwill's Empathy
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK,EXTEND_TIME
 Stats: [2.0, 20.0, 2.0, 0]
-Game: 神タイプの全パラメータが2倍。ドロップ操作を3秒延長。 4色以上同時攻撃で攻撃力が10倍、固定5万ダメージ。
+Game: 2x all stats for God Type, Orb move time +3 seconds; 10x ATK & 50,000 damage when 4+ Att. attack at once
 JP: 神タイプの全パラメータが2倍。ドロップ操作時間を3秒延長。4色以上同時攻撃で攻撃力が10倍。4色以上同時攻撃、固定50000ダメージ。
 EN: 2x all stats for God type; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors
 KR: 2x all stats for God type; Increase orb movement time by 3 seconds; 10x ATK when matching 4 or more colors; 50000 additional damage when matching 4 or more colors

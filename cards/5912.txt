@@ -3,17 +3,17 @@ HP: 3211 ATK: 1702 RCV: 868 LB: 15
 AWK: 21,21,28,53,48,46,46,46,60
 SAWK: 52,48,53
 
-# 16183/116 - ゲイルシャウト
+# 16183/116 - Gale Shout
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
-Game: 2ターンの間、回復とお邪魔ドロップが少し落ちやすくなる。 左端縦1列を回復ドロップに変化。
+Game: Heal Orbs & Jammers more likely to appear for 2 turns; changes the leftmost column to Heal Orbs
 JP: 2ターンの間、回復とお邪魔が15％の確率で落ちてくる。最左端を回復ドロップに変化
 EN: For 2 turns, Heal and Jammer orbs are more likely to appear by 15%; Change the far left column to Heal orbs
 KR: For 2 turns, Heal and Jammer orbs are more likely to appear by 15%; Change the far left column to Heal orbs
 
-# 16186/138 - 響応の重音
+# 16186/138 - Double-Stop Reverberation
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 1.0, 0.5]
-Game: ドット進化のみでチームを組むと、攻撃力が5倍。 回復の5個十字消しでダメージ半減。3色以上同時攻撃で攻撃力4倍。
+Game: 5x ATK when all sub-monsters are Pixel Evo; halves damage  with a cross of 5 Heal Orbs, 4x ATK when 3+ Att. attack
 JP: ドット進化キャラのみでチームを組むと、攻撃力が5倍。回復の5個十字消しで受けるダメージを50％減少。3色以上同時攻撃で攻撃力が4倍。
 EN: 5x ATK when all cards are Pixel Evolutions; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK when matching 3 or more colors
 KR: 5x ATK when all cards are Pixel Evolutions; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK when matching 3 or more colors

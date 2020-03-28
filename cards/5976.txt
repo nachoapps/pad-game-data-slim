@@ -1,19 +1,19 @@
-#5976 妖精の踊り子・エルシャ
+#5976 Fairy Dancer, Elsha
 HP: 3045 ATK: 1408 RCV: 1210 LB: 0
 AWK: 21,21,21,47,47,47
 SAWK: 
 
-# 16246/116 - 神器宿装・カヌー
+# 16246/116 - Imbue with Sacred Relic, Canoue
 Tags: REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが3ターン溜まる。 流華龍の踊り子・エルシャに変身。
+Game: Other allies' skills charged by 3 turns; changes to Flowing Blossom Dragon Dancer, Elsha
 JP: 自分以外の味方スキルが3ターンの溜まる。[5977]に変身する
 EN: Charge all allies' skills by 3 turns; Changes to [5977] for the duration of the dungeon
 KR: Charge all allies' skills by 3 turns; Changes to [5977] for the duration of the dungeon
 
-# 16252/138 - 勇気の鼓舞
+# 16252/138 - Inspire Courage
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0.0]
-Game: 水と光を同時に5個以上つなげて消すと攻撃力が9倍、 2コンボ加算。水属性のHPと攻撃力が2倍。
+Game: 9x ATK & adds 2 combos with 5+ linked Water & Light Orbs at once; 2x HP & ATK for Water Att.
 JP: 水と光を5個以上同時につなげて消しと攻撃力が9倍、2コンボ加算。水属性のHPと攻撃力が2倍。
 EN: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once; 2x HP & ATK for Water Att.
 KR: 9x ATK and increase combo by 2 when matching 5 or more connected Water and Light orbs at once; 2x HP & ATK for Water Att.

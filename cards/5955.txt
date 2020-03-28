@@ -1,19 +1,19 @@
-#5955 真紅の機神王・グランディス
+#5955 Bright Crimson Mech Divine King, Grandis
 HP: 9569 ATK: 2230 RCV: 0 LB: 0
 AWK: 10,10,28,53,53,48,48,43,43
 SAWK: 
 
-# 16019/116 - キングスフレア
+# 16019/116 - King's Flare
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER,ADD_COMBO
-Game: 1ターンの間、1コンボ加算、火属性の攻撃力が3倍。 最下段横1列を火ドロップに変化。
+Game: 3x ATK for Fire Att. & adds 1 combo for 1 turn; changes the bottom row to Fire Orbs
 JP: 1ターンの間、1コンボ加算される。1ターンの間、火属性の攻撃力が3倍。最下段を火ドロップに変化
 EN: For 1 turn, increase combo count by 1; For 1 turn, 3x ATK for Fire Att.; Change the bottom row to Fire orbs
 KR: For 1 turn, increase combo count by 1; For 1 turn, 3x ATK for Fire Att.; Change the bottom row to Fire orbs
 
-# 16022/138 - 機神王の意志
+# 16022/138 - Mech Divine King's Will
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Stats: [2.0, 12.0, 1.0, 0]
-Game: 火属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 5コンボ以上で攻撃力が6倍。
+Game: 2x HP & ATK for Fire Att., Orb move time +2 seconds; 6x ATK with 5+ combos
 JP: 火属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。5コンボ以上で攻撃力が6倍。
 EN: 2x HP & ATK for Fire Att.; Increase orb movement time by 2 seconds; 6x ATK when 5 or more combos
 KR: 2x HP & ATK for Fire Att.; Increase orb movement time by 2 seconds; 6x ATK when 5 or more combos

@@ -1,19 +1,19 @@
-#5957 氷原の案内人・ユウリ
+#5957 Ice Floe Guide, Yuri
 HP: 2819 ATK: 2308 RCV: 1378 LB: 15
 AWK: 10,10,56,28,45,70,47,47,47
 SAWK: 43,47,53,32
 
-# 16032/116 - トゥインクルスノー
+# 16032/116 - Twinkling Snow
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
-Game: 左端縦1列を水ドロップに変化。水ドロップをロック。 10ターンの間、水ドロップがロック状態で落ちてくる。
+Game: Changes the leftmost column to Water Orbs, Water Orbs locked; Water Orbs locked as they appear for 10 turns
 JP: 最左端を水ドロップに変化。全水ドロップをロック。10ターンの間、水ドロップがロック状態で落ちてくる
 EN: Change the far left column to Water orbs; Lock all Water orbs; For 10 turns, Water orbs appear locked
 KR: Change the far left column to Water orbs; Lock all Water orbs; For 10 turns, Water orbs appear locked
 
-# 16036/138 - 氷晶の恵み
+# 16036/138 - Snow Crystals' Blessings
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Stats: [2.0, 17.0, 1.0, 0]
-Game: 水属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 スキル使用時、攻撃力が8.5倍。
+Game: 2x HP & ATK for Water Att., Orb move time +2 seconds; 8.5x ATK when skills used
 JP: 水属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。スキル使用時、攻撃力が8.5倍。
 EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 8.5x ATK on the turn a skill is used
 KR: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 8.5x ATK on the turn a skill is used

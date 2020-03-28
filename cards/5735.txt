@@ -1,11 +1,11 @@
-#5735 金靴の武術神・ヴィーザルの希石
+#5735 Golden Booted God of War, Vidar's Gem
 HP: 150 ATK: 150 RCV: 150 LB: 0
 AWK: 
 SAWK: 
 
-# 15357/116 - ストロングムーブ
+# 15357/116 - Strong Move
 Tags: EXTENDS_TIME
-Game: 1ターンの間、ドロップ操作時間が3倍。3×3の正方形に 木ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
+Game: 3x Orb move time for 1 turn, creates a square of 3x3 Wd Orbs; creates a rectangle of 3x4 Wd Orbs with 7x6 board
 JP: 1ターンの間、ドロップ操作時間が3倍。上から2行目と左から2列目の中心に正方形の木ドロップを1つ生成
 EN: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left
 KR: For 1 turn, 3x orb move time; Create a square of Wood orbs with its center at the 2nd row from the top and the 2nd column from the left

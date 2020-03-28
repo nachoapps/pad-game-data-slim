@@ -76772,17 +76772,17 @@ JP: 240%ダメージ (3連続攻撃、80%ごと)
 EN: Deal 240% damage (3 hits, 80% each)
 KR: Deal 240% damage (3 hits, 80% each)
 
-# 15347/53 - Evil Wolf's Great Jaws
+# 15347/53 - Demon Wolf's Huge Jaws
 JP: 3ターンの間、木属性のダメージを吸収
 EN: Absorb Wood damage for 3 turns
 KR: Absorb Wood damage for 3 turns
 
-# 15348/15 - Crunch to Pieces
+# 15348/15 - Crunch
 JP: 120%ダメージ (3連続攻撃、40%ごと)
 EN: Deal 120% damage (3 hits, 40% each)
 KR: Deal 120% damage (3 hits, 40% each)
 
-# 15349/17 - I'll have you finish here
+# 15349/17 - I'll finish you here!
 JP: 5ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 5 turns
 KR: Increase damage to 150% for the next 5 turns
@@ -76897,7 +76897,7 @@ JP:
 EN: 
 KR: 
 
-# 15372/15 - Blue Corkscrew
+# 15372/15 - Blue Screw
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
@@ -76937,7 +76937,7 @@ JP: 150%ダメージ (2連続攻撃、75%ごと)
 EN: Deal 150% damage (2 hits, 75% each)
 KR: Deal 150% damage (2 hits, 75% each)
 
-# 15380/15 - Ice Skipping Stone
+# 15380/15 - Hailstones
 JP: 77〜110%ダメージ (7〜10連続攻撃、11%ごと)
 EN: Deal 77~110% damage (7~10 hits, 11% each)
 KR: Deal 77~110% damage (7~10 hits, 11% each)
@@ -76947,7 +76947,7 @@ JP: 1ターンの間、ランダムでサブ1体がバインド
 EN: Bind 1 random sub for 1 turn
 KR: Bind 1 random sub for 1 turn
 
-# 15382/94 - Defrost Wave
+# 15382/94 - Freeze Wave
 JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
@@ -76992,7 +76992,7 @@ JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
-# 15391/67 - Window Armor
+# 15391/67 - Wind Armor
 JP: 3ターンの間、5コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 5 for 3 turns
 KR: Absorb damage when combos <= 5 for 3 turns
@@ -77017,7 +77017,7 @@ JP:
 EN: 
 KR: 
 
-# 15396/68 - I'll follow you slowly
+# 15396/68 - I'm coming to get you!
 JP: 5ターンの間、毒ドロップを+10%に落ちてくる
 EN: Poison skyfall +10% for 5 turns
 KR: Poison skyfall +10% for 5 turns
@@ -77032,7 +77032,7 @@ JP: ランダムで3個ドロップをロック
 EN: Lock 3 random orbs
 KR: Lock 3 random orbs
 
-# 15399/5 - I'll have you swallow it up!
+# 15399/5 - I'll swallow you whole!
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
@@ -77077,22 +77077,22 @@ JP: 120%ダメージ (4連続攻撃、30%ごと)
 EN: Deal 120% damage (4 hits, 30% each)
 KR: Deal 120% damage (4 hits, 30% each)
 
-# 15408/17 - Rage Tree
+# 15408/17 - Enraged Tree
 JP: 5ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 5 turns
 KR: Increase damage to 200% for the next 5 turns
 
-# 15409/74 - Trent's Boss
+# 15409/74 - Treant Chief
 JP: 2ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 2 turns
 KR: Reduce damage from all sources by 50% for 2 turns
 
-# 15410/13 - Falling seeds from the evil tree
+# 15410/13 - Evil Tree's Falling Seeds
 JP: ランダムで1色をお邪魔ドロップに変化
 EN: Change 1 random orb type to Jammer orbs
 KR: Change 1 random orb type to Jammer orbs
 
-# 15411/53 - Grand Tree Barrier
+# 15411/53 - Great Tree Barrier
 JP: 3ターンの間、木属性のダメージを吸収
 EN: Absorb Wood damage for 3 turns
 KR: Absorb Wood damage for 3 turns
@@ -77102,12 +77102,12 @@ JP: 150%ダメージ (2連続攻撃、75%ごと)
 EN: Deal 150% damage (2 hits, 75% each)
 KR: Deal 150% damage (2 hits, 75% each)
 
-# 15413/104 - Sky Dragon Cloud
+# 15413/104 - Dragon Clouds in the Sky
 JP: 3ターンの間、上から1列目の横1列を雲で隠す
 EN: A row of clouds appears for 3 turns at 1st row, 1st column
 KR: A row of clouds appears for 3 turns at 1st row, 1st column
 
-# 15414/15 - World Tree Rage
+# 15414/15 - World Tree's Rage
 JP: 120%ダメージ (6連続攻撃、20%ごと)
 EN: Deal 120% damage (6 hits, 20% each)
 KR: Deal 120% damage (6 hits, 20% each)
@@ -77137,27 +77137,27 @@ JP: 3ターンの間、ランダムでサブ4体がバインド
 EN: Bind 4 random subs for 3 turns
 KR: Bind 4 random subs for 3 turns
 
-# 15420/15 - Pedal Storm
+# 15420/15 - Petal Storm
 JP: 80〜160%ダメージ (4〜8連続攻撃、20%ごと)
 EN: Deal 80~160% damage (4~8 hits, 20% each)
 KR: Deal 80~160% damage (4~8 hits, 20% each)
 
-# 15421/15 - Earth Rage
+# 15421/15 - Rage of the Earth
 JP: 300%ダメージ
 EN: Deal 300% damage
 KR: Deal 300% damage
 
-# 15422/74 - Huge Burning Mass
+# 15422/74 - Gigantic Burning Body
 JP: 3ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 3 turns
 KR: Reduce damage from all sources by 75% for 3 turns
 
-# 15423/15 - Wild Flaming Fierce Claws
+# 15423/15 - Fierce Claws of Fervor
 JP: 100%ダメージ (5連続攻撃、20%ごと)
 EN: Deal 100% damage (5 hits, 20% each)
 KR: Deal 100% damage (5 hits, 20% each)
 
-# 15424/102 - Explosive Shell
+# 15424/102 - Explosive Carapace
 JP: 爆弾ドロップを3個生成
 EN: Spawn 3 random Bomb orbs
 KR: Spawn 3 random Bomb orbs
@@ -77172,7 +77172,7 @@ JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
-# 15427/101 - Demon Pick
+# 15427/101 - Demon's Choice
 JP: ドロップ操作開始位置をランダムで固定される
 EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
@@ -77187,12 +77187,12 @@ JP: 102%ダメージ (6連続攻撃、17%ごと)
 EN: Deal 102% damage (6 hits, 17% each)
 KR: Deal 102% damage (6 hits, 17% each)
 
-# 15430/68 - Bug Rain
+# 15430/68 - Virus Rain
 JP: 3ターンの間、お邪魔ドロップを+15%に落ちてくる
 EN: Jammer skyfall +15% for 3 turns
 KR: Jammer skyfall +15% for 3 turns
 
-# 15431/67 - Burning Aspiration
+# 15431/67 - Calamitous Intent
 JP: 3ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 3 turns
 KR: Absorb damage when combos <= 6 for 3 turns
@@ -77202,12 +77202,12 @@ JP: 100%ダメージ (4連続攻撃、25%ごと)
 EN: Deal 100% damage (4 hits, 25% each)
 KR: Deal 100% damage (4 hits, 25% each)
 
-# 15433/106 - Wide Wing Spread
+# 15433/106 - Spread its wings wide
 JP: 50%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 50%
 KR: Enemy turn counter change to 1 when HP <= 50%
 
-# 15434/74 - Gigantic Evil Flames
+# 15434/74 - Gigantic Body of Evil Flame
 JP: 4ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 4 turns
 KR: Reduce damage from all sources by 75% for 4 turns
@@ -77222,22 +77222,22 @@ JP: 1ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 1 turn
 KR: Increase damage to 150% for the next 1 turn
 
-# 15437/15 - Sudden Attack
+# 15437/15 - Charge
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
-# 15438/52 - Bones Resuscitation
+# 15438/52 - Bone Resurrection
 JP: 敵の仲間のHPが50％回復
 EN: Enemy ally recover 50% HP
 KR: Enemy ally recover 50% HP
 
-# 15439/105 - Dead Howling
+# 15439/105 - Deadly Howl
 JP: 4ターンの間、回復力を50%になる
 EN: RCV 50% for 4 turns
 KR: RCV 50% for 4 turns
 
-# 15440/15 - Gnaw
+# 15440/15 - Bite
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
@@ -77252,12 +77252,12 @@ JP: 1ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 1 turn
 KR: Increase damage to 150% for the next 1 turn
 
-# 15443/68 - Deadly Rain
+# 15443/68 - Death Rain
 JP: 3ターンの間、毒ドロップを+10%に落ちてくる
 EN: Poison skyfall +10% for 3 turns
 KR: Poison skyfall +10% for 3 turns
 
-# 15444/15 - Life Slash
+# 15444/15 - Life Shaver
 JP: 100%ダメージ (5連続攻撃、20%ごと)
 EN: Deal 100% damage (5 hits, 20% each)
 KR: Deal 100% damage (5 hits, 20% each)
@@ -77267,7 +77267,7 @@ JP: ランダムで4個のドロップを毒ドロップに変化
 EN: Change 4 random orbs to Poison orbs
 KR: Change 4 random orbs to Poison orbs
 
-# 15446/109 - Hell Swamp
+# 15446/109 - Infernal Swamp
 JP: 3ターンの間、ランダムで2箇所のマスがが1.5秒毎に変化する
 EN: Random 2 orbs change every 1.5s for 3 turns
 KR: Random 2 orbs change every 1.5s for 3 turns
@@ -77282,7 +77282,7 @@ JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
-# 15449/104 - Moon Wolf's Howl
+# 15449/104 - Lunar Wolf's Howl
 JP: 3ターンの間、ランダムでの2×2マスの正方形を雲で隠す
 EN: A 2×2 square of clouds appears for 3 turns at a random location
 KR: A 2×2 square of clouds appears for 3 turns at a random location
@@ -77297,7 +77297,7 @@ JP: 160%ダメージ (2連続攻撃、80%ごと)
 EN: Deal 160% damage (2 hits, 80% each)
 KR: Deal 160% damage (2 hits, 80% each)
 
-# 15452/127 - No Fall Zone
+# 15452/127 - Unfallen
 JP: 3ターンの間、落ちコンしなくなる
 EN: No skyfall for 3 turns
 KR: No skyfall for 3 turns
@@ -77332,7 +77332,7 @@ JP: 全ドロップを水とお邪魔に変化
 EN: Change all orbs to Water and Jammer
 KR: Change all orbs to Water and Jammer
 
-# 15459/94 - Water Bind
+# 15459/94 - Binding Water
 JP: ランダムで15個ドロップをロック
 EN: Lock 15 random orbs
 KR: Lock 15 random orbs
@@ -77342,22 +77342,22 @@ JP:
 EN: 
 KR: 
 
-# 15461/15 - Rebellious God's Jaws
+# 15461/15 - Defiant God's Clutches
 JP: 100%ダメージ (4連続攻撃、25%ごと)
 EN: Deal 100% damage (4 hits, 25% each)
 KR: Deal 100% damage (4 hits, 25% each)
 
-# 15462/53 - Protective Water God
+# 15462/53 - Sacred Waters of Protection
 JP: 2ターンの間、木属性のダメージを吸収
 EN: Absorb Wood damage for 2 turns
 KR: Absorb Wood damage for 2 turns
 
-# 15463/105 - Tsuranuki
+# 15463/105 - Impale
 JP: 2ターンの間、回復力を50%になる
 EN: RCV 50% for 2 turns
 KR: RCV 50% for 2 turns
 
-# 15464/17 - Wake Enhance
+# 15464/17 - Vik Enhancement
 JP: 6ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 6 turns
 KR: Increase damage to 200% for the next 6 turns
@@ -77382,17 +77382,17 @@ JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 15469/88 - Swift Current
+# 15469/88 - Raging Rapids
 JP: 3ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 3 turns
 KR: Bind awoken skills for 3 turns
 
-# 15470/68 - Break in the Water
+# 15470/68 - Water Prayer
 JP: 3ターンの間、水ドロップを+20%に落ちてくる
 EN: Water skyfall +20% for 3 turns
 KR: Water skyfall +20% for 3 turns
 
-# 15471/15 - Rock Bubble
+# 15471/15 - Stone Bubbles
 JP: 80〜120%ダメージ (4〜6連続攻撃、20%ごと)
 EN: Deal 80~120% damage (4~6 hits, 20% each)
 KR: Deal 80~120% damage (4~6 hits, 20% each)
@@ -77412,7 +77412,7 @@ JP:
 EN: 
 KR: 
 
-# 15475/89 - Water Shadow
+# 15475/89 - Shadowed Water
 JP: スキルターンを1ターン遅延
 EN: Delay active skills by 1 turn
 KR: Delay active skills by 1 turn
@@ -77437,12 +77437,12 @@ JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 15480/85 - Plunge everything into a sea of fire!
+# 15480/85 - I will plunge everything into a sea of fire!
 JP: 全ドロップを火に変化
 EN: Change all orbs to Fire
 KR: Change all orbs to Fire
 
-# 15481/89 - Muspell's Hellish Hosts
+# 15481/89 - The Hordes of Muspel
 JP: スキルターンを0〜2ターン遅延
 EN: Delay active skills by 0~2 turns
 KR: Delay active skills by 0~2 turns
@@ -77512,12 +77512,12 @@ JP: 1ターンの間、ランダムでサブ1体がバインド
 EN: Bind 1 random sub for 1 turn
 KR: Bind 1 random sub for 1 turn
 
-# 15495/53 - Venomous Snake Jaws
+# 15495/53 - Venomous Snake's Huge Jaws
 JP: 1ターンの間、木属性のダメージを吸収
 EN: Absorb Wood damage for 1 turn
 KR: Absorb Wood damage for 1 turn
 
-# 15496/67 - It can't end like this!
+# 15496/67 - It won't end like this!
 JP: 2ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 2 turns
 KR: Absorb damage when combos <= 6 for 2 turns
@@ -77532,7 +77532,7 @@ JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
 
-# 15499/74 - Final Carving
+# 15499/74 - Mark of Ragnarok
 JP: 2ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 2 turns
 KR: Reduce damage from all sources by 75% for 2 turns
@@ -77567,7 +77567,7 @@ JP: 毒と猛毒ドロップをロック
 EN: Lock all Poison and Mortal Poison orbs
 KR: Lock all Poison and Mortal Poison orbs
 
-# 15506/88 - Succumb to my grudge!
+# 15506/88 - Wither before my grudge!
 JP: 2ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 2 turns
 KR: Bind awoken skills for 2 turns
@@ -77627,17 +77627,17 @@ JP: 1ターンの間、500000以上のダメージを無効化
 EN: Void damage >= 500000 for 1 turn
 KR: Void damage >= 500000 for 1 turn
 
-# 15518/15 - Barrage Attack
+# 15518/15 - Fusillade
 JP: 100%ダメージ (5連続攻撃、20%ごと)
 EN: Deal 100% damage (5 hits, 20% each)
 KR: Deal 100% damage (5 hits, 20% each)
 
-# 15519/17 - Power Charge
+# 15519/17 - Charge Power
 JP: 3ターンの間、攻撃力が130%に上昇
 EN: Increase damage to 130% for the next 3 turns
 KR: Increase damage to 130% for the next 3 turns
 
-# 15520/88 - Power Delete
+# 15520/88 - Delete Power
 JP: 1ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 1 turn
 KR: Bind awoken skills for 1 turn
@@ -77647,7 +77647,7 @@ JP: 2400%ダメージ (8連続攻撃、300%ごと)
 EN: Deal 2400% damage (8 hits, 300% each)
 KR: Deal 2400% damage (8 hits, 300% each)
 
-# 15522/67 - Heavens Howl
+# 15522/67 - Sky Shaking Howl
 JP: 10ターンの間、5コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 5 for 10 turns
 KR: Absorb damage when combos <= 5 for 10 turns
@@ -77662,17 +77662,17 @@ JP: 98〜112%ダメージ (7〜8連続攻撃、14%ごと)
 EN: Deal 98~112% damage (7~8 hits, 14% each)
 KR: Deal 98~112% damage (7~8 hits, 14% each)
 
-# 15525/17 - Final Release
+# 15525/17 - Unleash Ragnarok
 JP: 1ターンの間、攻撃力が1000%に上昇
 EN: Increase damage to 1000% for the next 1 turn
 KR: Increase damage to 1000% for the next 1 turn
 
-# 15526/104 - Hell Smoke
+# 15526/104 - Infernal Smoke
 JP: 1ターンの間、ランダムでの3×1マスの長方形を雲で隠す
 EN: A 3×1 rectangle of clouds appears for 1 turn at a random location
 KR: A 3×1 rectangle of clouds appears for 1 turn at a random location
 
-# 15527/74 - Final Seal
+# 15527/74 - Mark of Ragnarok
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 5 turns
 KR: Reduce damage from all sources by 50% for 5 turns
@@ -77687,7 +77687,7 @@ JP: 5ターンの間、回復力を50%になる
 EN: RCV 50% for 5 turns
 KR: RCV 50% for 5 turns
 
-# 15530/71 - Rebellion Barrier
+# 15530/71 - Barrier of Treachery
 JP: 10ターンの間、4000000以上のダメージを無効化
 EN: Void damage >= 4000000 for 10 turns
 KR: Void damage >= 4000000 for 10 turns
@@ -77697,7 +77697,7 @@ JP:
 EN: 
 KR: 
 
-# 15532/15 - Blade of Depair
+# 15532/15 - Blade of Demise
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
@@ -77707,22 +77707,22 @@ JP: 2ターンの間、ランダムで3〜6個のドロップを超暗闇にす�
 EN: Blind random 3~6 orbs for 2 turns
 KR: Blind random 3~6 orbs for 2 turns
 
-# 15534/53 - Pretty Weak...
+# 15534/53 - You're soft!
 JP: 2ターンの間、木属性のダメージを吸収
 EN: Absorb Wood damage for 2 turns
 KR: Absorb Wood damage for 2 turns
 
-# 15535/17 - Rune Enhancement
+# 15535/17 - Runic Enhancement
 JP: 3ターンの間、攻撃力が130%に上昇
 EN: Increase damage to 130% for the next 3 turns
 KR: Increase damage to 130% for the next 3 turns
 
-# 15536/68 - The End is Nigh!
+# 15536/68 - It's time for you all to die!
 JP: 10ターンの間、お邪魔と毒ドロップを+16%に落ちてくる
 EN: Jammer and Poison skyfall +16% for 10 turns
 KR: Jammer and Poison skyfall +16% for 10 turns
 
-# 15537/74 - Final Seal
+# 15537/74 - Mark of Ragnarok
 JP: 3ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 3 turns
 KR: Reduce damage from all sources by 75% for 3 turns
@@ -77732,22 +77732,22 @@ JP:
 EN: 
 KR: 
 
-# 15539/15 - Blade of Insurgency
+# 15539/15 - Blade of Revolt
 JP: 100%ダメージ (4連続攻撃、25%ごと)
 EN: Deal 100% damage (4 hits, 25% each)
 KR: Deal 100% damage (4 hits, 25% each)
 
-# 15540/109 - Chaotic Rune
+# 15540/109 - Chaos Rune
 JP: 3ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
 EN: Random 2 orbs change every 1.0s for 3 turns
 KR: Random 2 orbs change every 1.0s for 3 turns
 
-# 15541/39 - I won't forgive you!
+# 15541/39 - I will not forgive this!
 JP: 5ターンの間、操作時間+50%
 EN: Movetime 50% for 5 turns
 KR: Movetime 50% for 5 turns
 
-# 15542/15 - Erase them all!
+# 15542/15 - Vanish from my sight!
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
@@ -78627,7 +78627,7 @@ JP: 5ターンの間、落ちコンしなくなる
 EN: No skyfall for 5 turns
 KR: No skyfall for 5 turns
 
-# 15718/67 - Chief God Power-TAMA!
+# 15718/67 - Chieftain God Power-TAMA!
 JP: 5ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 5 turns
 KR: Absorb damage when combos <= 6 for 5 turns
@@ -78637,12 +78637,12 @@ JP: 5ターンの間、水ドロップを消せなくなる
 EN: Unable to match Water orbs for 5 turns
 KR: Unable to match Water orbs for 5 turns
 
-# 15720/48 - Magic Spear Gungnir-TAMA!
+# 15720/48 - Diabolic Lance Gungnir-TAMA!
 JP: ランダム属性のドロップを闇ドロップに変化
 EN: Change a random attribute to Dark orbs
 KR: Change a random attribute to Dark orbs
 
-# 15721/48 - Gungnir TAMA!
+# 15721/48 - Gungnir-TAMA!
 JP: ランダム属性のドロップを光ドロップに変化
 EN: Change a random attribute to Light orbs
 KR: Change a random attribute to Light orbs
@@ -78652,7 +78652,7 @@ JP: ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs to Poison orbs
 KR: Change 3 random orbs to Poison orbs
 
-# 15723/48 - Magic Spear Gungnir-TAMA!
+# 15723/48 - Diabolic Lance Gungnir-TAMA!
 JP: ランダム属性のドロップを闇ドロップに変化
 EN: Change a random attribute to Dark orbs
 KR: Change a random attribute to Dark orbs
@@ -78667,7 +78667,7 @@ JP: ランダムで3個のドロップを毒ドロップに変化
 EN: Change 3 random orbs to Poison orbs
 KR: Change 3 random orbs to Poison orbs
 
-# 15726/48 - Magic Spear Gungnir-TAMA!
+# 15726/48 - Diabolic Lance Gungnir-TAMA!
 JP: ランダム属性のドロップを闇ドロップに変化
 EN: Change a random attribute to Dark orbs
 KR: Change a random attribute to Dark orbs
@@ -80202,17 +80202,17 @@ JP:
 EN: 
 KR: 
 
-# 16033/20 - Silence of the World
+# 16033/20 - Silent World
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 16034/74 - Firm Shoes
+# 16034/74 - Sturdy Shoes
 JP: 99ターンの間、受けるダメージからの攻撃を90%減少
 EN: Reduce damage from all sources by 90% for 99 turns
 KR: Reduce damage from all sources by 90% for 99 turns
 
-# 16035/67 - Poised Crocodile Jaws
+# 16035/67 - Divine Warrior Stance
 JP: 99ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 99 turns
 KR: Absorb damage when combos <= 7 for 99 turns
@@ -80227,27 +80227,27 @@ JP:
 EN: 
 KR: 
 
-# 16038/88 - The Will of Destruction and Creation
+# 16038/88 - Unripened Earth
 JP: 1ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 1 turn
 KR: Bind awoken skills for 1 turn
 
-# 16039/103 - Unripened Earth
+# 16039/103 - Fervent Destruction
 JP: 特定の位置に爆弾ドロップを生成
 EN: Spawn Bomb orbs in the specified positions
 KR: Spawn Bomb orbs in the specified positions
 
-# 16040/39 - ＿After 10 turns Action
+# 16040/39 - Limited Lifespan
 JP: 1ターンの間、操作時間+25%
 EN: Movetime 25% for 1 turn
 KR: Movetime 25% for 1 turn
 
-# 16041/83 - Limited Lifespan
+# 16041/83 - ＿6 turns
 JP: 
 EN: 
 KR: 
 
-# 16042/83 - ＿Normal A
+# 16042/83 - ＿50%+ A
 JP: 
 EN: 
 KR: 
@@ -80257,47 +80257,47 @@ JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 16044/83 - Loss of Power
+# 16044/83 - ＿50%+ B
 JP: 
 EN: 
 KR: 
 
-# 16045/46 - ＿Normal B
+# 16045/46 - Spirit Rune
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
 EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 16046/15 - Thirst for Life
+# 16046/15 - Dance Kick - One Horn
 JP: 80%ダメージ
 EN: Deal 80% damage
 KR: Deal 80% damage
 
-# 16047/15 - Judgement Shot
+# 16047/15 - Dance Kick - Two Claws
 JP: 96%ダメージ (2連続攻撃、48%ごと)
 EN: Deal 96% damage (2 hits, 48% each)
 KR: Deal 96% damage (2 hits, 48% each)
 
-# 16048/15 - Accumulating Dead Bodies
+# 16048/15 - Dance Kick - Three Hammers
 JP: 111%ダメージ (3連続攻撃、37%ごと)
 EN: Deal 111% damage (3 hits, 37% each)
 KR: Deal 111% damage (3 hits, 37% each)
 
-# 16049/15 - Passionate Collapse
+# 16049/15 - Dance Kick - Four Fangs
 JP: 128%ダメージ (4連続攻撃、32%ごと)
 EN: Deal 128% damage (4 hits, 32% each)
 KR: Deal 128% damage (4 hits, 32% each)
 
-# 16050/15 - Revenge's Hellfire
+# 16050/15 - Dance Kick - Five Howls
 JP: 145%ダメージ (5連続攻撃、29%ごと)
 EN: Deal 145% damage (5 hits, 29% each)
 KR: Deal 145% damage (5 hits, 29% each)
 
-# 16051/15 - ＿10% or less
+# 16051/15 - Dance Kick - Six Stabs
 JP: 162%ダメージ (6連続攻撃、27%ごと)
 EN: Deal 162% damage (6 hits, 27% each)
 KR: Deal 162% damage (6 hits, 27% each)
 
-# 16052/15 - Rebuilding the World
+# 16052/15 - Dance Kick - One Hundred Pins
 JP: 700%ダメージ (7連続攻撃、100%ごと)
 EN: Deal 700% damage (7 hits, 100% each)
 KR: Deal 700% damage (7 hits, 100% each)
@@ -80307,12 +80307,12 @@ JP:
 EN: 
 KR: 
 
-# 16054/6 - Pulse of the New World
+# 16054/6 - Beat of the World
 JP: こちらにかかっている状態変化を解除
 EN: Voids player buff effects
 KR: Voids player buff effects
 
-# 16055/15 - Farewell to the World
+# 16055/15 - Vengeful Hellfire
 JP: 70%ダメージ (5連続攻撃、14%ごと)
 EN: Deal 70% damage (5 hits, 14% each)
 KR: Deal 70% damage (5 hits, 14% each)
@@ -80327,12 +80327,12 @@ JP:
 EN: 
 KR: 
 
-# 16058/20 - Attacking now!
+# 16058/20 - Here I come!
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 16059/67 - Abandonment
+# 16059/67 - Detect
 JP: 2ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 2 turns
 KR: Absorb damage when combos <= 9 for 2 turns
@@ -80347,7 +80347,7 @@ JP: 1ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 1 turn
 KR: Increase damage to 200% for the next 1 turn
 
-# 16062/67 - Abandonment
+# 16062/67 - Detect
 JP: 2ターンの間、8コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 8 for 2 turns
 KR: Absorb damage when combos <= 8 for 2 turns
@@ -80362,7 +80362,7 @@ JP: 1ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 1 turn
 KR: Increase damage to 300% for the next 1 turn
 
-# 16065/67 - Abandonment
+# 16065/67 - Detect
 JP: 2ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 2 turns
 KR: Absorb damage when combos <= 7 for 2 turns
@@ -80377,7 +80377,7 @@ JP: 999ターンの間、攻撃力が400%に上昇
 EN: Increase damage to 400% for the next 999 turns
 KR: Increase damage to 400% for the next 999 turns
 
-# 16068/67 - Abandonment
+# 16068/67 - Detect
 JP: 999ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 999 turns
 KR: Absorb damage when combos <= 6 for 999 turns
@@ -80392,12 +80392,12 @@ JP:
 EN: 
 KR: 
 
-# 16071/86 - How regrettable
+# 16071/86 - No Mercy
 JP: 敵のHPが100％回復
 EN: Enemy recover 100% HP
 KR: Enemy recover 100% HP
 
-# 16072/39 - Prepare yourself
+# 16072/39 - Are you ready?
 JP: 5ターンの間、操作時間+25%
 EN: Movetime 25% for 5 turns
 KR: Movetime 25% for 5 turns
@@ -80472,32 +80472,32 @@ JP: 3ターンの間、受けるダメージからの攻撃を90%減少
 EN: Reduce damage from all sources by 90% for 3 turns
 KR: Reduce damage from all sources by 90% for 3 turns
 
-# 16087/50 - Hangover
+# 16087/50 - Heavy Press
 JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 16088/92 - Green Change Press
+# 16088/92 - Gaia Storm
 JP: 木ドロップを10個生成
 EN: Spawn 10 random Wood orbs
 KR: Spawn 10 random Wood orbs
 
-# 16089/118 - Gaia Storm
+# 16089/118 - Demonic Resistance
 JP: 悪魔タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from Devil types by 50%
 KR: Reduce damage from Devil types by 50%
 
-# 16090/104 - The Will of Destruction and Creation
+# 16090/104 - Gyo gyo!
 JP: 3ターンの間、左から1列目の縦1列を雲で隠す
 EN: A column of clouds appears for 3 turns at 1st row, 1st column
 KR: A column of clouds appears for 3 turns at 1st row, 1st column
 
-# 16091/99 - Gyo gyo gyo!
+# 16091/99 - Gyo gyo!
 JP: 3ターンの間、上から6列目のドロップが操作不可
 EN: Seal the 6th column for 3 turns
 KR: Seal the 6th column for 3 turns
 
-# 16092/92 - Bon-bon
+# 16092/92 - Bonn bonn
 JP: 毒ドロップを1個生成
 EN: Spawn 1 random Poison orb
 KR: Spawn 1 random Poison orb
@@ -80517,7 +80517,7 @@ JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 16096/89 - Pick One
+# 16096/89 - Draw One
 JP: スキルターンを1ターン遅延
 EN: Delay active skills by 1 turn
 KR: Delay active skills by 1 turn
@@ -81097,22 +81097,22 @@ JP: 2ターンの間、毒ドロップを+20%に落ちてくる
 EN: Poison skyfall +20% for 2 turns
 KR: Poison skyfall +20% for 2 turns
 
-# 16212/105 - I...will be...immortal...
+# 16212/105 - Thirst for Life
 JP: 1ターンの間、回復力を50%になる
 EN: RCV 50% for 1 turn
 KR: RCV 50% for 1 turn
 
-# 16213/127 - ＿2 moves
+# 16213/127 - Decayed Nature
 JP: 1ターンの間、落ちコンしなくなる
 EN: No skyfall for 1 turn
 KR: No skyfall for 1 turn
 
-# 16214/83 - ...It's over
+# 16214/83 - ＿50%+ C
 JP: 
 EN: 
 KR: 
 
-# 16215/92 - It should be destroyed
+# 16215/92 - Blessed Earth
 JP: 火、木、猛毒ドロップを15個生成
 EN: Spawn 15 random Fire, Wood, or Mortal Poison orbs
 KR: Spawn 15 random Fire, Wood, or Mortal Poison orbs
@@ -81882,12 +81882,12 @@ JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 16369/68 - 焦陽の大気
+# 16369/68 - Scorching Sun's Atmosphere
 JP: 3ターンの間、火ドロップを+15%に落ちてくる
 EN: Fire skyfall +15% for 3 turns
 KR: Fire skyfall +15% for 3 turns
 
-# 16370/15 - ヒートフィスト
+# 16370/15 - Heat Fist
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
@@ -82372,222 +82372,222 @@ JP:
 EN: 
 KR: 
 
-# 16467/68 - だるいニャ～ン…
+# 16467/68 - I'm feline tired...
 JP: 2ターンの間、お邪魔ドロップを+15%に落ちてくる
 EN: Jammer skyfall +15% for 2 turns
 KR: Jammer skyfall +15% for 2 turns
 
-# 16468/15 - するどいつめ
+# 16468/15 - Sharp Claws
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 16469/92 - 火花の術
+# 16469/92 - Fire
 JP: 火ドロップを3個生成
 EN: Spawn 3 random Fire orbs
 KR: Spawn 3 random Fire orbs
 
-# 16470/1 - しびれるお札
+# 16470/1 - Slow Down
 JP: 3ターンの間、ランダムで1体がバインド
 EN: Bind 1 random card for 3 turns
 KR: Bind 1 random card for 3 turns
 
-# 16471/15 - ひゃくれつ肉球
+# 16471/15 - Paws of Fury
 JP: 110%ダメージ (10連続攻撃、11%ごと)
 EN: Deal 110% damage (10 hits, 11% each)
 KR: Deal 110% damage (10 hits, 11% each)
 
-# 16472/15 - ニャッ！
+# 16472/15 - Meow!
 JP: 90%ダメージ
 EN: Deal 90% damage
 KR: Deal 90% damage
 
-# 16473/94 - ニャーン！
+# 16473/94 - Meeyow!
 JP: ランダムで6個ドロップをロック
 EN: Lock 6 random orbs
 KR: Lock 6 random orbs
 
-# 16474/83 - ＿先制
+# 16474/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 16475/53 - こ　こわいズラ…
+# 16475/53 - I'm s-scared y'all...
 JP: 2ターンの間、火属性のダメージを吸収
 EN: Absorb Fire damage for 2 turns
 KR: Absorb Fire damage for 2 turns
 
-# 16476/15 - パンチ
+# 16476/15 - Punch
 JP: 90%ダメージ
 EN: Deal 90% damage
 KR: Deal 90% damage
 
-# 16477/92 - 火炎の術
+# 16477/92 - Flames
 JP: 火ドロップを5個生成
 EN: Spawn 5 random Fire orbs
 KR: Spawn 5 random Fire orbs
 
-# 16478/78 - やけどさせる
+# 16478/78 - Burn
 JP: 左から5列目のドロップが火ドロップに変化
 EN: Change the 5th row to Fire orbs
 KR: Change the 5th row to Fire orbs
 
-# 16479/15 - ひとだま乱舞
+# 16479/15 - Spirit Dance
 JP: 105%ダメージ (5連続攻撃、21%ごと)
 EN: Deal 105% damage (5 hits, 21% each)
 KR: Deal 105% damage (5 hits, 21% each)
 
-# 16480/15 - ズラ！
+# 16480/15 - Hey y'all!
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 16481/5 - もんげーーっ！
+# 16481/5 - Oh my swirls!
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
-# 16482/83 - ＿先制
+# 16482/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 16483/50 - ドクロ割り
+# 16483/50 - Skull Splitter
 JP: 現HPの50%のダメージ
 EN: Player -50% HP
 KR: Player -50% HP
 
-# 16484/76 - 大滝の術
+# 16484/76 - Waterfall
 JP: 上から4列目のドロップが水ドロップに変化
 EN: Change the 4th column to Water orbs
 KR: Change the 4th column to Water orbs
 
-# 16485/17 - 許さないよ
+# 16485/17 - Unforgivable
 JP: 3ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 3 turns
 KR: Increase damage to 150% for the next 3 turns
 
-# 16486/92 - 大ガマ変化の術
+# 16486/92 - Toadal Dude Transformation
 JP: 水ドロップを4個生成
 EN: Spawn 4 random Water orbs
 KR: Spawn 4 random Water orbs
 
-# 16487/7 - 休息をもらうぞ！
+# 16487/7 - I'll take a break!
 JP: 敵のHPが10％回復
 EN: Enemy recover 10% HP
 KR: Enemy recover 10% HP
 
-# 16488/15 - ワンツーパンチ
+# 16488/15 - One-Two Punch
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 16489/68 - いん石の術
+# 16489/68 - Meteorite
 JP: 5ターンの間、木ドロップを+15%に落ちてくる
 EN: Wood skyfall +15% for 5 turns
 KR: Wood skyfall +15% for 5 turns
 
-# 16490/1 - くもの糸にからめる
+# 16490/1 - Entrap
 JP: 3ターンの間、ランダムで2体がバインド
 EN: Bind 2 random cards for 3 turns
 KR: Bind 2 random cards for 3 turns
 
-# 16491/92 - 土蜘蛛・土遁の術
+# 16491/92 - Spider Smash
 JP: 火と木ドロップを3個生成
 EN: Spawn 3 random Fire or Wood orbs
 KR: Spawn 3 random Fire or Wood orbs
 
-# 16492/15 - 閃光ぎり
+# 16492/15 - Lightning Slash
 JP: 99%ダメージ (3連続攻撃、33%ごと)
 EN: Deal 99% damage (3 hits, 33% each)
 KR: Deal 99% damage (3 hits, 33% each)
 
-# 16493/92 - 火炎の術
+# 16493/92 - Blaze
 JP: 火ドロップを5個生成
 EN: Spawn 5 random Fire orbs
 KR: Spawn 5 random Fire orbs
 
-# 16494/17 - 力の限りを果たそう！！
+# 16494/17 - Let's use all our power!
 JP: 3ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 3 turns
 KR: Increase damage to 150% for the next 3 turns
 
-# 16495/76 - ハラキリソード
+# 16495/76 - Harakiri Sword
 JP: 上から3列目のドロップが火ドロップに変化
 EN: Change the 3rd column to Fire orbs
 KR: Change the 3rd column to Fire orbs
 
-# 16496/92 - カード
+# 16496/92 - Card
 JP: 闇ドロップを4個生成
 EN: Spawn 4 random Dark orbs
 KR: Spawn 4 random Dark orbs
 
-# 16497/67 - 嵐の術
+# 16497/67 - Storm
 JP: 5ターンの間、5コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 5 for 5 turns
 KR: Absorb damage when combos <= 5 for 5 turns
 
-# 16498/7 - 休憩も作戦のうちよ
+# 16498/7 - Tactical Nap!
 JP: 敵のHPが30％回復
 EN: Enemy recover 30% HP
 KR: Enemy recover 30% HP
 
-# 16499/17 - 洗練させる
+# 16499/17 - Elegance
 JP: 5ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 5 turns
 KR: Increase damage to 200% for the next 5 turns
 
-# 16500/15 - 切り札はハートのＡ
+# 16500/15 - Ace of Hearts
 JP: 150%ダメージ (2連続攻撃、75%ごと)
 EN: Deal 150% damage (2 hits, 75% each)
 KR: Deal 150% damage (2 hits, 75% each)
 
-# 16501/15 - パンチ
+# 16501/15 - Punch
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 16502/15 - 竜巻の術
+# 16502/15 - Tornado
 JP: 120%ダメージ (4連続攻撃、30%ごと)
 EN: Deal 120% damage (4 hits, 30% each)
 KR: Deal 120% damage (4 hits, 30% each)
 
-# 16503/100 - 次はなにして遊ぶズラ～？
+# 16503/100 - What game will we play next y'all?
 JP: 3ターンの間、左から1列目のドロップが操作不可
 EN: Seal the 1st row for 3 turns
 KR: Seal the 1st row for 3 turns
 
-# 16504/101 - インズラばえるズラ
+# 16504/101 - It's instyagrammable y'all
 JP: ドロップ操作開始位置をランダムで固定される
 EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
 
-# 16505/15 - いいねサイクロン
+# 16505/15 - Cyclone of Likes
 JP: 150%ダメージ (5連続攻撃、30%ごと)
 EN: Deal 150% damage (5 hits, 30% each)
 KR: Deal 150% damage (5 hits, 30% each)
 
-# 16506/15 - ショット
+# 16506/15 - Shot
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 16507/68 - あられの術
+# 16507/68 - Hail
 JP: 5ターンの間、水ドロップを+15%に落ちてくる
 EN: Water skyfall +15% for 5 turns
 KR: Water skyfall +15% for 5 turns
 
-# 16508/57 - 怒りっぽくする
+# 16508/57 - Enraged
 JP: ランダム属性のドロップを毒ドロップに変化
 EN: Change a random attribute to Poison orbs
 KR: Change a random attribute to Poison orbs
 
-# 16509/17 - たいしたもんダニ！
+# 16509/17 - It's pretty important!
 JP: 3ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 3 turns
 KR: Increase damage to 150% for the next 3 turns
 
-# 16510/79 - 極太ＵＳＡビーム
+# 16510/79 - Bunny Beam
 JP: 左から3列目のドロップが水ドロップに変化
 EN: Change the 3rd row to Water orbs
 KR: Change the 3rd row to Water orbs
@@ -84837,307 +84837,307 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16960/92 - ジェルンアタック
+# 16960/92 - Jellime Attack
 JP: 水ドロップを1個生成
 EN: Spawn 1 random Water orb
 KR: Spawn 1 random Water orb
 
-# 16961/92 - 溶ける
+# 16961/92 - Melt
 JP: 水ドロップを2個生成
 EN: Spawn 2 random Water orbs
 KR: Spawn 2 random Water orbs
 
-# 16962/7 - 吸収
+# 16962/7 - Absorb
 JP: 敵のHPが10％回復
 EN: Enemy recover 10% HP
 KR: Enemy recover 10% HP
 
-# 16963/1 - ウォーターファング
+# 16963/1 - Water Fang
 JP: 1ターンの間、ランダムで1体がバインド
 EN: Bind 1 random card for 1 turn
 KR: Bind 1 random card for 1 turn
 
-# 16964/15 - ジェルンシュート
+# 16964/15 - Jellime Shoot
 JP: 120%ダメージ (3連続攻撃、40%ごと)
 EN: Deal 120% damage (3 hits, 40% each)
 KR: Deal 120% damage (3 hits, 40% each)
 
-# 16965/92 - ジェルンアタック
+# 16965/92 - Jellime Attack
 JP: 光ドロップを1個生成
 EN: Spawn 1 random Light orb
 KR: Spawn 1 random Light orb
 
-# 16966/92 - 溶ける
+# 16966/92 - Melt
 JP: 光ドロップを2個生成
 EN: Spawn 2 random Light orbs
 KR: Spawn 2 random Light orbs
 
-# 16967/7 - 吸収
+# 16967/7 - Absorb
 JP: 敵のHPが10％回復
 EN: Enemy recover 10% HP
 KR: Enemy recover 10% HP
 
-# 16968/94 - フラッシュニードル
+# 16968/94 - Flash Needle
 JP: ランダムで2個ドロップをロック
 EN: Lock 2 random orbs
 KR: Lock 2 random orbs
 
-# 16969/15 - ジェルンクラッシュ
+# 16969/15 - Jellime Crush
 JP: 120%ダメージ
 EN: Deal 120% damage
 KR: Deal 120% damage
 
-# 16970/68 - べノムレイン
+# 16970/68 - Venom Rain
 JP: 5ターンの間、毒ドロップを+10%に落ちてくる
 EN: Poison skyfall +10% for 5 turns
 KR: Poison skyfall +10% for 5 turns
 
-# 16971/50 - 暗殺の心得
+# 16971/50 - Mastery of Assassination
 JP: 現HPの75%のダメージ
 EN: Player -75% HP
 KR: Player -75% HP
 
-# 16972/15 - デススティング
+# 16972/15 - Death Sting
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 16973/57 - ポイズンショット
+# 16973/57 - Poison Shot
 JP: ランダム属性のドロップを毒ドロップに変化
 EN: Change a random attribute to Poison orbs
 KR: Change a random attribute to Poison orbs
 
-# 16974/1 - シェイドバインド
+# 16974/1 - Shade Bind
 JP: 3ターンの間、ランダムで2体がバインド
 EN: Bind 2 random cards for 3 turns
 KR: Bind 2 random cards for 3 turns
 
-# 16975/15 - アサルトナイフ
+# 16975/15 - Assault Knife
 JP: 120%ダメージ (6連続攻撃、20%ごと)
 EN: Deal 120% damage (6 hits, 20% each)
 KR: Deal 120% damage (6 hits, 20% each)
 
-# 16976/104 - ペインフォッグ
+# 16976/104 - Pain Fog
 JP: 4ターンの間、ランダムでの2×2マスの正方形を雲で隠す
 EN: A 2×2 square of clouds appears for 4 turns at a random location
 KR: A 2×2 square of clouds appears for 4 turns at a random location
 
-# 16977/67 - フレイムウォール
+# 16977/67 - Flame Wall
 JP: 5ターンの間、5コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 5 for 5 turns
 KR: Absorb damage when combos <= 5 for 5 turns
 
-# 16978/92 - 火炎棍
+# 16978/92 - Flaming Club
 JP: 火ドロップを4個生成
 EN: Spawn 4 random Fire orbs
 KR: Spawn 4 random Fire orbs
 
-# 16979/15 - ぶん殴る
+# 16979/15 - Thump
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 16980/79 - バーニングブロウ
+# 16980/79 - Burning Blow
 JP: 左から4列目のドロップが火ドロップに変化
 EN: Change the 4th row to Fire orbs
 KR: Change the 4th row to Fire orbs
 
-# 16981/17 - 武器を振り上げた
+# 16981/17 - Raised Weapon
 JP: 1ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 1 turn
 KR: Increase damage to 300% for the next 1 turn
 
-# 16982/15 - モーニングスター
+# 16982/15 - Morning Star
 JP: 135%ダメージ
 EN: Deal 135% damage
 KR: Deal 135% damage
 
-# 16983/73 - 根性
+# 16983/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 16984/94 - チェインロック
+# 16984/94 - Chain Lock
 JP: ランダムで6個ドロップをロック
 EN: Lock 6 random orbs
 KR: Lock 6 random orbs
 
-# 16985/104 - ガスティークラウド
+# 16985/104 - Gusty Cloud
 JP: 1ターンの間、ランダムでの1×7マスの長方形を雲で隠す
 EN: A 1×7 rectangle of clouds appears for 1 turn at a random location
 KR: A 1×7 rectangle of clouds appears for 1 turn at a random location
 
-# 16986/39 - タイムバック
+# 16986/39 - Reverse Time
 JP: 4ターンの間、操作時間-2秒
 EN: Movetime -2s for 4 turns
 KR: Movetime -2s for 4 turns
 
-# 16987/79 - ウインドエッジ
+# 16987/79 - Wind Edge
 JP: 左から2列目のドロップが木ドロップに変化
 EN: Change the 2nd row to Wood orbs
 KR: Change the 2nd row to Wood orbs
 
-# 16988/17 - 魔術を唱えている
+# 16988/17 - Chanting a magic spell...
 JP: 1ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 1 turn
 KR: Increase damage to 300% for the next 1 turn
 
-# 16989/62 - ブラックサイクロン
+# 16989/62 - Black Cyclone
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
-# 16990/83 - ＿先制
+# 16990/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 16991/20 - ジェスターロード
+# 16991/20 - Jester Lord
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 16992/66 - チェニは不気味に笑っている…
+# 16992/66 - Cherney is smiling eerily...
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 16993/53 - ミステリアスオーラ
+# 16993/53 - Mysterious Aura
 JP: 5ターンの間、光属性のダメージを吸収
 EN: Absorb Light damage for 5 turns
 KR: Absorb Light damage for 5 turns
 
-# 16994/15 - ムーブジャグリング
+# 16994/15 - Moving and Juggling
 JP: 102%ダメージ (2連続攻撃、51%ごと)
 EN: Deal 102% damage (2 hits, 51% each)
 KR: Deal 102% damage (2 hits, 51% each)
 
-# 16995/75 - ダイナミックイリュージョン
+# 16995/75 - Dynamic Illusion
 JP: 1ターンの間、リーダーを交代
 EN: Leader changes to random sub for 1 turn
 KR: Leader changes to random sub for 1 turn
 
-# 16996/97 - ブラックアート
+# 16996/97 - Dark Arts
 JP: 1ターンの間、ランダムで3個のドロップを超暗闇にする
 EN: Blind random 3 orbs for 1 turn
 KR: Blind random 3 orbs for 1 turn
 
-# 16997/15 - 心無い冷笑
+# 16997/15 - Cruel Sneer
 JP: 240%ダメージ (4連続攻撃、60%ごと)
 EN: Deal 240% damage (4 hits, 60% each)
 KR: Deal 240% damage (4 hits, 60% each)
 
-# 16998/74 - ディグソウル
+# 16998/74 - The Soul of Deig
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 5 turns
 KR: Reduce damage from all sources by 50% for 5 turns
 
-# 16999/69 - 道化師変身
+# 16999/69 - Clown Transformation
 JP: 「チェニの姿が変化していく|真の姿を現した！」を表示
 EN: Show message: チェニの姿が変化していく|真の姿を現した！
 KR: Show message: チェニの姿が変化していく|真の姿を現した！
 
-# 17000/83 - ＿先制
+# 17000/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 17001/71 - 混沌結界
+# 17001/71 - Chaos Barrier
 JP: 3ターンの間、2000000以上のダメージを無効化
 EN: Void damage >= 2000000 for 3 turns
 KR: Void damage >= 2000000 for 3 turns
 
-# 17002/92 - カオスインフェルノ
+# 17002/92 - Chaos Inferno
 JP: 火と闇ドロップを3個生成
 EN: Spawn 3 random Fire or Dark orbs
 KR: Spawn 3 random Fire or Dark orbs
 
-# 17003/50 - 魔王の威圧
+# 17003/50 - Demon King's Might
 JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 17004/14 - 邪龍の咆哮
+# 17004/14 - Evil Dragon's Roar
 JP: 5ターンの間、スキル使用不可
 EN: Bind active skills for 5 turns
 KR: Bind active skills for 5 turns
 
-# 17005/17 - 紫球の邪力
+# 17005/17 - Purple Ball of Evil
 JP: 5ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 5 turns
 KR: Increase damage to 200% for the next 5 turns
 
-# 17006/79 - イビルスターフレイム
+# 17006/79 - Evil Star Flame
 JP: 左から1列目のドロップが光ドロップに変化。左から5列目のドロップが闇ドロップに変化
 EN: Change the 1st row to Light orbs and the 5th row to Dark orbs
 KR: Change the 1st row to Light orbs and the 5th row to Dark orbs
 
-# 17007/15 - ワールドカタストロフ
+# 17007/15 - Global Catastrophe
 JP: 180%ダメージ (6連続攻撃、30%ごと)
 EN: Deal 180% damage (6 hits, 30% each)
 KR: Deal 180% damage (6 hits, 30% each)
 
-# 17008/66 - ぐああぁあぁぁぁ……！
+# 17008/66 - Graaaaaaaaaargh!
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 17009/95 - 死亡時
+# 17009/95 - Time of Death
 JP: 
 EN: 
 KR: 
 
-# 17010/83 - ＿中級先制
+# 17010/83 - ＿Int Preemptive
 JP: 
 EN: 
 KR: 
 
-# 17011/66 - 混沌結界
+# 17011/66 - Chaos Barrier
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 17012/66 - 魔王の威圧
+# 17012/66 - Demon Lord's Power
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 17013/52 - リバイブ
+# 17013/52 - Revive
 JP: 敵の仲間のHPが50％回復
 EN: Enemy ally recover 50% HP
 KR: Enemy ally recover 50% HP
 
-# 17014/118 - バランス神半減
+# 17014/118 - Balanced & God Halved
 JP: バランスと神タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from Balanced and God types by 50%
 KR: Reduce damage from Balanced and God types by 50%
 
-# 17015/118 - 回復攻撃半減
+# 17015/118 - Healer & Attacker Halved
 JP: 回復と攻撃タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from Healer and Attacker types by 50%
 KR: Reduce damage from Healer and Attacker types by 50%
 
-# 17016/118 - ドラゴン悪魔半減
+# 17016/118 - Dragon & Devil Halved
 JP: ドラゴンと悪魔タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from Dragon and Devil types by 50%
 KR: Reduce damage from Dragon and Devil types by 50%
 
-# 17017/67 - フレイムウォール
+# 17017/67 - Flame Wall
 JP: 5ターンの間、3コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 3 for 5 turns
 KR: Absorb damage when combos <= 3 for 5 turns
 
-# 17018/46 - 突然変異
+# 17018/46 - Mutation
 JP: 自分の属性が{}のうちいずれかに変化する火、木、闇
 EN: Change own attribute to random one of Fire, Wood, or Dark
 KR: Change own attribute to random one of Fire, Wood, or Dark
 
-# 17019/88 - ゾーク・ナイトメア
+# 17019/88 - Zorc Nightmare
 JP: 1ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 1 turn
 KR: Bind awoken skills for 1 turn
 
-# 17020/66 - チェニは不気味に笑っている…
+# 17020/66 - Cherney is smiling eerily...
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
@@ -85237,307 +85237,307 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 17040/83 - ＿先制
+# 17040/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 17041/67 - 秘密の領域
+# 17041/67 - Secret Domain
 JP: 999ターンの間、18コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 18 for 999 turns
 KR: Absorb damage when combos <= 18 for 999 turns
 
-# 17042/68 - 至高の神秘
+# 17042/68 - Supreme Mystery
 JP: 4ターンの間、回復ドロップを+5%に落ちてくる
 EN: Heal skyfall +5% for 4 turns
 KR: Heal skyfall +5% for 4 turns
 
-# 17043/84 - 全てを見聞する者
+# 17043/84 - The Watcher Over All
 JP: 全ドロップを木、光、闇、回復に変化
 EN: Change all orbs to Wood, Light, Dark, and Heal
 KR: Change all orbs to Wood, Light, Dark, and Heal
 
-# 17044/105 - パラダイス・ロスト
+# 17044/105 - Paradise Lost
 JP: 1ターンの間、回復力を50%になる
 EN: RCV 50% for 1 turn
 KR: RCV 50% for 1 turn
 
-# 17045/62 - パーガトリアル・エンド
+# 17045/62 - Purgatorial End
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
-# 17046/15 - ボイド・エタニティ
+# 17046/15 - Void of Eternity
 JP: 140%ダメージ (10連続攻撃、14%ごと)
 EN: Deal 140% damage (10 hits, 14% each)
 KR: Deal 140% damage (10 hits, 14% each)
 
-# 17047/17 - 天地全容の書
+# 17047/17 - Book of All Things in Heaven and Earth
 JP: 1ターンの間、攻撃力が8800%に上昇
 EN: Increase damage to 8800% for the next 1 turn
 KR: Increase damage to 8800% for the next 1 turn
 
-# 17048/83 - ＿超・絶地獄先制
+# 17048/83 - ＿Legend Plus/Mythical Plus Preemptive
 JP: 
 EN: 
 KR: 
 
-# 17049/67 - 至高の神秘
+# 17049/67 - Supreme Mystery
 JP: 999ターンの間、16コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 16 for 999 turns
 KR: Absorb damage when combos <= 16 for 999 turns
 
-# 17050/83 - ＿先制2回
+# 17050/83 - ＿Preemptive 2 times
 JP: 
 EN: 
 KR: 
 
-# 17051/20 - 大天使の導き
+# 17051/20 - Archangel's Guidance
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 17052/71 - 神秘の翼
+# 17052/71 - Mystic Wings
 JP: 999ターンの間、15000000以上のダメージを無効化
 EN: Void damage >= 15000000 for 999 turns
 KR: Void damage >= 15000000 for 999 turns
 
-# 17053/83 - ＿通常A
+# 17053/83 - ＿Regular A
 JP: 
 EN: 
 KR: 
 
-# 17054/83 - ＿通常B
+# 17054/83 - ＿Regular B
 JP: 
 EN: 
 KR: 
 
-# 17055/83 - ＿通常C
+# 17055/83 - ＿Regular C
 JP: 
 EN: 
 KR: 
 
-# 17056/110 - 幻惑の審判
+# 17056/110 - Bewitching Judgement
 JP: 2.0ターンの間、特定の位置のマスが1.0秒毎に変化する
 EN: Specific orbs change every 1.0s for 2 turns
 KR: Specific orbs change every 1.0s for 2 turns
 
-# 17057/97 - 暗黒の審判
+# 17057/97 - Dark Judgement
 JP: 2ターンの間、ランダムで10個のドロップを超暗闇にする
 EN: Blind random 10 orbs for 2 turns
 KR: Blind random 10 orbs for 2 turns
 
-# 17058/77 - 干渉の審判
+# 17058/77 - Meddling Judgement
 JP: 上から4列目のドロップが水とお邪魔ドロップに変化
 EN: Change the 4th column to Water and Jammer orbs
 KR: Change the 4th column to Water and Jammer orbs
 
-# 17059/15 - 正義の剣
+# 17059/15 - Sword of Justice
 JP: 60%ダメージ (3連続攻撃、20%ごと)
 EN: Deal 60% damage (3 hits, 20% each)
 KR: Deal 60% damage (3 hits, 20% each)
 
-# 17060/83 - ＿50%以下
+# 17060/83 - ＿50% or less
 JP: 
 EN: 
 KR: 
 
-# 17061/13 - 消失する加護
+# 17061/13 - Vanishing Protection
 JP: ランダムで2色をお邪魔ドロップに変化
 EN: Change 2 random orb types to Jammer orbs
 KR: Change 2 random orb types to Jammer orbs
 
-# 17062/17 - 久遠の輝き
+# 17062/17 - Eternal Radiance
 JP: 999ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 999 turns
 KR: Increase damage to 150% for the next 999 turns
 
-# 17063/15 - 終焉の日
+# 17063/15 - End of Days
 JP: 600%ダメージ (6連続攻撃、100%ごと)
 EN: Deal 600% damage (6 hits, 100% each)
 KR: Deal 600% damage (6 hits, 100% each)
 
-# 17064/118 - 神悪魔半減
+# 17064/118 - God & Devil Halved
 JP: 神と悪魔タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from God and Devil types by 50%
 KR: Reduce damage from God and Devil types by 50%
 
-# 17065/106 - 敵の行動ターンが変化した
+# 17065/106 - Enemies' turn changed
 JP: 50%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 50%
 KR: Enemy turn counter change to 1 when HP <= 50%
 
-# 17066/83 - ＿先制3回
+# 17066/83 - ＿Preemptive 3 times
 JP: 
 EN: 
 KR: 
 
-# 17067/67 - 敏速な天翼
+# 17067/67 - Agile Wings of Heaven
 JP: 999ターンの間、8コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 8 for 999 turns
 KR: Absorb damage when combos <= 8 for 999 turns
 
-# 17068/50 - 窮地からの覚悟
+# 17068/50 - Resolve in a Crisis
 JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 17069/100 - 恵みなき未来
+# 17069/100 - Unblessed Future
 JP: 5ターンの間、左から1列目のドロップが操作不可
 EN: Seal the 1st row for 5 turns
 KR: Seal the 1st row for 5 turns
 
-# 17070/79 - 神炎の業火
+# 17070/79 - Divine Inferno
 JP: 左から3列目のドロップが火ドロップに変化
 EN: Change the 3rd row to Fire orbs
 KR: Change the 3rd row to Fire orbs
 
-# 17071/48 - 神火による灰燼
+# 17071/48 - Divine Fire's Ashes
 JP: ランダム属性のドロップをお邪魔ドロップに変化
 EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
 
-# 17072/15 - 神光の輝き
+# 17072/15 - Divine Light's Radiance
 JP: 120%ダメージ (3連続攻撃、40%ごと)
 EN: Deal 120% damage (3 hits, 40% each)
 KR: Deal 120% damage (3 hits, 40% each)
 
-# 17073/83 - ＿4カウント
+# 17073/83 - ＿4 Count
 JP: 
 EN: 
 KR: 
 
-# 17074/5 - 失われし神光
+# 17074/5 - Extinguished Divine Light
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
-# 17075/103 - 悪への贈り物
+# 17075/103 - Gift for Evil
 JP: 特定の位置に爆弾ドロップを生成
 EN: Spawn Bomb orbs in the specified positions
 KR: Spawn Bomb orbs in the specified positions
 
-# 17076/15 - 燃え盛る炎の猛襲
+# 17076/15 - Blazing Flames' Fierce Attack
 JP: 300%ダメージ (3連続攻撃、100%ごと)
 EN: Deal 300% damage (3 hits, 100% each)
 KR: Deal 300% damage (3 hits, 100% each)
 
-# 17077/83 - ＿1％
+# 17077/83 - ＿1%
 JP: 
 EN: 
 KR: 
 
-# 17078/17 - 悪への裁き
+# 17078/17 - Judgement of Evil
 JP: 999ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
-# 17079/39 - 聖なる守護
+# 17079/39 - Sacred Protection
 JP: 1ターンの間、操作時間-3秒
 EN: Movetime -3s for 1 turn
 KR: Movetime -3s for 1 turn
 
-# 17080/73 - 根性
+# 17080/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 17081/104 - 電煙集積
+# 17081/104 - Build-up of Electric Smoke
 JP: 5ターンの間、ランダムでの2×3マスの長方形を雲で隠す
 EN: A 2×3 rectangle of clouds appears for 5 turns at a random location
 KR: A 2×3 rectangle of clouds appears for 5 turns at a random location
 
-# 17082/109 - 磁場が発生している
+# 17082/109 - Generating a Magnetic Field
 JP: 1ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
 EN: Random 2 orbs change every 1.0s for 1 turn
 KR: Random 2 orbs change every 1.0s for 1 turn
 
-# 17083/17 - 強力な電気を纏った
+# 17083/17 - Building a Strong Electric Charge
 JP: 999ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 999 turns
 KR: Increase damage to 150% for the next 999 turns
 
-# 17084/17 - 強力な電気を纏った
+# 17084/17 - Building a Strong Electric Charge
 JP: 999ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
-# 17085/17 - 強力な電気を纏った
+# 17085/17 - Building a Strong Electric Charge
 JP: 999ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
-# 17086/17 - 強力な電気を纏った
+# 17086/17 - Building a Strong Electric Charge
 JP: 999ターンの間、攻撃力が400%に上昇
 EN: Increase damage to 400% for the next 999 turns
 KR: Increase damage to 400% for the next 999 turns
 
-# 17087/17 - 強力な電気を纏った
+# 17087/17 - Building a Strong Electric Charge
 JP: 999ターンの間、攻撃力が500%に上昇
 EN: Increase damage to 500% for the next 999 turns
 KR: Increase damage to 500% for the next 999 turns
 
-# 17088/15 - 電撃突進
+# 17088/15 - Electric Shock Charge
 JP: 90%ダメージ (3連続攻撃、30%ごと)
 EN: Deal 90% damage (3 hits, 30% each)
 KR: Deal 90% damage (3 hits, 30% each)
 
-# 17089/97 - 巨木の葉陰
+# 17089/97 - Giant Tree's Shadow
 JP: 3ターンの間、ランダムで20個のドロップを超暗闇にする
 EN: Blind random 20 orbs for 3 turns
 KR: Blind random 20 orbs for 3 turns
 
-# 17090/102 - 巨木の実
+# 17090/102 - Giant Tree's Fruit
 JP: 爆弾ドロップを5個生成
 EN: Spawn 5 random Bomb orbs
 KR: Spawn 5 random Bomb orbs
 
-# 17091/92 - 盤面緑化
+# 17091/92 - Greening the Board
 JP: 木ドロップを3個生成
 EN: Spawn 3 random Wood orbs
 KR: Spawn 3 random Wood orbs
 
-# 17092/19 - 大自然の怒り
+# 17092/19 - Wrath of Mother Nature
 JP: 999ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
-# 17093/73 - 根性
+# 17093/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 17094/118 - 悪魔バランス半減
+# 17094/118 - Devil & Balanced Halved
 JP: バランスと悪魔タイプからの攻撃からの攻撃を50%減少
 EN: Reduce damage from Balanced and Devil types by 50%
 KR: Reduce damage from Balanced and Devil types by 50%
 
-# 17095/108 - ホーリー・アトーンメント
+# 17095/108 - Holy Atonement
 JP: 火と水ドロップを回復ドロップに変化
 EN: Change all Fire and Water orbs to Heal orbs
 KR: Change all Fire and Water orbs to Heal orbs
 
-# 17096/108 - ホーリー・アトーンメント
+# 17096/108 - Holy Atonement
 JP: 水と木ドロップを回復ドロップに変化
 EN: Change all Water and Wood orbs to Heal orbs
 KR: Change all Water and Wood orbs to Heal orbs
 
-# 17097/108 - ホーリー・アトーンメント
+# 17097/108 - Holy Atonement
 JP: 木と光ドロップを回復ドロップに変化
 EN: Change all Wood and Light orbs to Heal orbs
 KR: Change all Wood and Light orbs to Heal orbs
 
-# 17098/108 - ホーリー・アトーンメント
+# 17098/108 - Holy Atonement
 JP: 光と闇ドロップを回復ドロップに変化
 EN: Change all Light and Dark orbs to Heal orbs
 KR: Change all Light and Dark orbs to Heal orbs
 
-# 17099/108 - ホーリー・アトーンメント
+# 17099/108 - Holy Atonement
 JP: 火と闇ドロップを回復ドロップに変化
 EN: Change all Fire and Dark orbs to Heal orbs
 KR: Change all Fire and Dark orbs to Heal orbs
 
-# 17100/15 - レンヴェントシンズ
+# 17100/15 - Levent Sins
 JP: 8000%ダメージ (8連続攻撃、1000%ごと)
 EN: Deal 8000% damage (8 hits, 1000% each)
 KR: Deal 8000% damage (8 hits, 1000% each)

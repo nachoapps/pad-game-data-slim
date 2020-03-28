@@ -1,19 +1,19 @@
-#5986 エルフの弓戦士・パヌマス
+#5986 Elven Archer, P'numas
 HP: 2083 ATK: 2658 RCV: 498 LB: 0
 AWK: 10,10,28,28,28,57,57,57,54
 SAWK: 
 
-# 16305/116 - 神器宿装・ネイト
+# 16305/116 - Imbue with Sacred Relic, Neit
 Tags: ENHANCED_ATTACK
-Game: 1ターンの間、攻撃タイプの攻撃力が2.5倍。 旋貫龍の弓戦士・パヌマスに変身。
+Game: 2.5x ATK for Attacker Type for 1 turn; changes to Spiral-Piercing Dragon Archer, P'numas
 JP: 1ターンの間、攻撃タイプの攻撃力が2.5倍。[5987]に変身する
 EN: For 1 turn, 2.5x ATK for Attacker type; Changes to [5987] for the duration of the dungeon
 KR: For 1 turn, 2.5x ATK for Attacker type; Changes to [5987] for the duration of the dungeon
 
-# 16311/138 - 大樹の息吹
+# 16311/138 - Breath of the Great Tree
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: 木属性のHPと攻撃力が2倍。スキル使用時、攻撃力が2倍。 7コンボ以上でダメージを軽減、攻撃力が4倍。
+Game: 2x HP & ATK for Wood Att., 2x ATK when skills used; 4x ATK & reduces damage with 7+ combos
 JP: 木属性のHPと攻撃力が2倍。スキル使用時、攻撃力が2倍。7コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
 EN: 2x HP & ATK for Wood Att.; 2x ATK on the turn a skill is used; 4x ATK and reduce damage taken by 25% when 7 or more combos
 KR: 2x HP & ATK for Wood Att.; 2x ATK on the turn a skill is used; 4x ATK and reduce damage taken by 25% when 7 or more combos

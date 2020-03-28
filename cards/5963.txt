@@ -1,11 +1,11 @@
-#5963 知悉の大天使・ラジエルの希石
+#5963 Archangel of Knowledge, Raziel's Gem
 HP: 150 ATK: 150 RCV: 150 LB: 0
 AWK: 
 SAWK: 
 
-# 16353/116 - ブック・オブ・サンクチュアリ
+# 16353/116 - Book of Sanctuary
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ORB_LOCK
-Game: HP、バインド状態、覚醒無効状態を全回復。 全ドロップをロック。
+Game: Fully recovers HP & bind status (incl. Awoken); all Orbs locked
 JP: HPを全回復。バインドと覚醒無効を全回復。全ドロップをロック
 EN: Recover all HP; Remove all binds and awoken skill binds; Lock all orbs
 KR: Recover all HP; Remove all binds and awoken skill binds; Lock all orbs

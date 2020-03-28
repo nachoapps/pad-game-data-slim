@@ -1,4 +1,4 @@
-#5736 煽惑の狡知神・ロキ
+#5736 Inciting Trickster God, Loki
 HP: 3018 ATK: 1442 RCV: 527 LB: 0
 AWK: 32,32,32
 SAWK: 
@@ -10,10 +10,10 @@ JP: 3ターンの間、闇属性の攻撃力が1.5倍。自分以外の味方ス
 EN: For 3 turns, 1.5x ATK for Dark Att.; Charge all allies' skills by 1 turn
 KR: For 3 turns, 1.5x ATK for Dark Att.; Charge all allies' skills by 1 turn
 
-# 15440/138 - 狡知神の甘言
+# 15440/138 - Trickster God's Honeyed Words
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 6.0, 1.0, 0]
-Game: 【操作時間4秒】悪魔タイプのHPが2倍。 闇を6個以上つなげて消すと、攻撃力が6倍。
+Game: [Orb move time: 4 sec], 2x HP for Devil Type; 6x ATK with 6+ linked Dark Orbs
 JP: 【操作時間4秒固定】悪魔タイプのHPが2倍。闇を6個以上つなげて消すと攻撃力が6倍。
 EN: [Fixed 4 second movetime] 2x HP for Devil type; 6x ATK when matching 6 or more connected Dark orbs
 KR: [Fixed 4 second movetime] 2x HP for Devil type; 6x ATK when matching 6 or more connected Dark orbs

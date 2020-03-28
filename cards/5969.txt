@@ -1,19 +1,19 @@
-#5969 氷戒龍の武闘家・ディーナ
+#5969 Cryomancer Dragon Martial Artist, Deena
 HP: 3773 ATK: 3505 RCV: 968 LB: 0
 AWK: 28,48,48,53,60,43,43,52,33
 SAWK: 
 
-# 16210/116 - スプラッシュステップ
+# 16210/116 - Splash Step
 Tags: ORB_LOCK
-Game: ランダムで水ドロップを3個生成。 全ドロップをロック。
+Game: Creates 3 Water Orbs at random; all Orbs locked
 JP: 水ドロップを3個生成。全ドロップをロック
 EN: Create 3 Water orbs; Lock all orbs
 KR: Create 3 Water orbs; Lock all orbs
 
-# 16211/138 - ジンドの共感
+# 16211/138 - Jind's Empathy
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 21.0, 1.0, 0.25]
-Game: 攻撃タイプのHPが2倍。7コンボ以上で攻撃力が7倍。 水の2コンボ以上でダメージを軽減、攻撃力が3倍。
+Game: 2x HP for Attacker Type, 7x ATK with 7+ combos; 3x ATK & reduces damage with 2+ Water combos
 JP: 攻撃タイプのHPが2倍。7コンボ以上で攻撃力が7倍。水の2コンボ以上で攻撃力が3倍、受けるダメージを25％減少。
 EN: 2x HP for Attacker type; 7x ATK when 7 or more combos; 3x ATK and reduce damage taken by 25% when matching 2+ Water combos
 KR: 2x HP for Attacker type; 7x ATK when 7 or more combos; 3x ATK and reduce damage taken by 25% when matching 2+ Water combos

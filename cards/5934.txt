@@ -10,10 +10,10 @@ JP: 1ターンの間、受けるダメージを100％減少。3ターンの間�
 EN: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
 KR: For 1 turn, reduce damage taken by 100%; For 3 turns, recover 30% of max HP
 
-# 16089/138 - 輝天使の真魂
+# 16089/138 - True Spirit of the Shining Angel
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 36.0, 1.0, 0.5]
-Game: 【落ちコンなし】4色以上同時攻撃でダメージを半減、攻撃力が4倍。 パズル後の残りドロップ数が5個以下で攻撃力が9倍。
+Game: [No Skyfall Combos], 4x ATK & halves dmg when 4+ Att. attack at once; 9x ATK when 5 Orbs or less remain on the board
 JP: 【落ちコンなし】パズル後の残りドロップ数が5個以下で攻撃力が9倍。4色以上同時攻撃で攻撃力が4倍、受けるダメージを50％減少。
 EN: [No skyfall] 9x ATK when there are 5 or fewer orbs remaining; 4x ATK and reduce damage taken by 50% when matching 4 or more colors
 KR: [No skyfall] 9x ATK when there are 5 or fewer orbs remaining; 4x ATK and reduce damage taken by 50% when matching 4 or more colors

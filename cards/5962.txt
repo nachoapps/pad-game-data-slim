@@ -1,19 +1,19 @@
-#5962 知悉の大天使・ラジエル
+#5962 Archangel of Knowledge, Raziel
 HP: 3588 ATK: 1688 RCV: 588 LB: 20
 AWK: 10,10,21,21,28,53,45,60,48
 SAWK: 48,54,53
 
-# 16353/116 - ブック・オブ・サンクチュアリ
+# 16353/116 - Book of Sanctuary
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ORB_LOCK
-Game: HP、バインド状態、覚醒無効状態を全回復。 全ドロップをロック。
+Game: Fully recovers HP & bind status (incl. Awoken); all Orbs locked
 JP: HPを全回復。バインドと覚醒無効を全回復。全ドロップをロック
 EN: Recover all HP; Remove all binds and awoken skill binds; Lock all orbs
 KR: Recover all HP; Remove all binds and awoken skill binds; Lock all orbs
 
-# 16357/138 - 見聞の光輪
+# 16357/138 - Halo of Information
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 18.0, 3.0, 0.25]
-Game: 光属性のHPが1.5倍。7コンボ以上で攻撃力と回復力が3倍。 光回復の同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: 1.5x HP for Light Att., 3x ATK & RCV with 7+ combos; 6x ATK & reduces damage when Light & Heal attack at once
 JP: 光属性のHPが1.5倍。7コンボ以上で攻撃力と回復力が3倍。光、回復同時攻撃で攻撃力が6倍、受けるダメージを25％減少。
 EN: 1.5x HP for Light Att.; 3x ATK & RCV when 7 or more combos; 6x ATK and reduce damage taken by 25% when matching Light and Heal at once
 KR: 1.5x HP for Light Att.; 3x ATK & RCV when 7 or more combos; 6x ATK and reduce damage taken by 25% when matching Light and Heal at once

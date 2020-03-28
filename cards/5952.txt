@@ -1,19 +1,19 @@
-#5952 装身・ゼラ
+#5952 Zela Disguise
 HP: 6093 ATK: 3140 RCV: 495 LB: 0
 AWK: 10,10,53,28,48,48,43,43,60
 SAWK: 
 
-# 16001/116 - 解装・児雷也
+# 16001/116 - Remove Disguise - Jiraiya
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
-Game: 全ドロップのロックを解除し、木と回復ドロップに変化。 1ターンの間、2コンボ加算される。幻忍・児雷也に変身。
+Game: Removes Orb locks, changes all Orbs to Wood & Heal; adds 2 combos for 1 turn, changes to Phantom Ninja, Jiraiya
 JP: 全ドロップのロック状態を解除。全ドロップを木と回復ドロップに変化。1ターンの間、2コンボ加算される。[5946]に変身する
 EN: Unlock all orbs; Change all orbs to Wood and Heal orbs; For 1 turn, increase combo count by 2; Changes to [5946] for the duration of the dungeon
 KR: Unlock all orbs; Change all orbs to Wood and Heal orbs; For 1 turn, increase combo count by 2; Changes to [5946] for the duration of the dungeon
 
-# 16006/138 - 幻土の忍術
+# 16006/138 - Ninja Art - Illusory Earth
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
 Stats: [2.0, 17.5, 1.0, 0]
-Game: 木属性のHPが2倍、攻撃力は5倍。ドロップ操作を2秒延長。 木の2コンボ以上で攻撃力が3.5倍、3コンボ以上で固定1ダメージ。
+Game: 2x HP & 5x ATK for Wood Att., Orb move time +2 seconds; 3.5x ATK with 2+ Wood combos, 1 damage with 3+ combos
 JP: 木属性の攻撃力が5倍、HPが2倍。ドロップ操作時間を2秒延長。木の2コンボ以上で攻撃力が3.5倍。木の3コンボ以上で固定1ダメージ。
 EN: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos
 KR: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos

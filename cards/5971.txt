@@ -1,19 +1,19 @@
-#5971 樹望龍の癒し手・アリナ
+#5971 Watchful Grove Dragon Healer, Alynna
 HP: 3408 ATK: 2765 RCV: 1523 LB: 0
 AWK: 52,28,28,29,29,54,43,43,48
 SAWK: 
 
-# 16218/116 - ナチュラルコール
+# 16218/116 - Nature's Call
 Tags: RECOVER_BIND,LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,ORB_LOCK
-Game: バインド状態と覚醒無効状態を全回復。 最上段横1列を木ドロップに変化。木ドロップをロック。
+Game: Fully recovers bind status (incl. Awoken); changes the top row to Wood Orbs, Wood Orbs locked
 JP: バインドと覚醒無効を全回復。最上段を木ドロップに変化。全木ドロップをロック
 EN: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock all Wood orbs
 KR: Remove all binds and awoken skill binds; Change the top row to Wood orbs; Lock all Wood orbs
 
-# 16221/138 - 和平の願い
+# 16221/138 - Wish for Peace
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 16.5, 1.0, 0.25]
-Game: 木属性のHPと攻撃力が1.5倍。ドロップ操作を3秒延長。 木の2コンボ以上でダメージを軽減、攻撃力が11倍。
+Game: 1.5x HP & ATK for Wood Att., Orb move time +3 seconds; 11x ATK & reduces damage with 2+ Wood combos
 JP: 木属性のHPと攻撃力が1.5倍。ドロップ操作時間を3秒延長。木の2コンボ以上で攻撃力が11倍、受けるダメージを25％減少。
 EN: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 3 seconds; 11x ATK and reduce damage taken by 25% when matching 2+ Wood combos
 KR: 1.5x HP & ATK for Wood Att.; Increase orb movement time by 3 seconds; 11x ATK and reduce damage taken by 25% when matching 2+ Wood combos
