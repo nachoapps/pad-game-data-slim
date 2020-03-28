@@ -63283,8 +63283,8 @@ Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 1.0, 0.0]
 Game: 2x HP & ATK for Fire Att., 8x ATK with 2+ Fire combos; inflicts 1,000,000 damage with 3+ Fire combos
 JP: 火属性のHPと攻撃力が2倍。火の2コンボ以上で攻撃力が8倍。火の3コンボ以上で固定1000000ダメージ。
-EN: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
-KR: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when attacking with 3 or more Fire combos
+EN: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when matching 3 or more Fire combos
+KR: 2x HP & ATK for Fire Att.; 8x ATK when matching 2+ Fire combos; 1000000 additional damage when matching 3 or more Fire combos
 
 # 14941/129 - 
 Tags: ENHANCED_HP_ATK
@@ -63956,8 +63956,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 火の3コンボ以上で固定1000000ダメージ。
-EN: 1000000 additional damage when attacking with 3 or more Fire combos
-KR: 1000000 additional damage when attacking with 3 or more Fire combos
+EN: 1000000 additional damage when matching 3 or more Fire combos
+KR: 1000000 additional damage when matching 3 or more Fire combos
 
 # 15097/138 - Gleaming Purple Dragon Eye
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
@@ -64340,8 +64340,8 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 16.0, 1.0, 0.25]
 Game: 4x ATK for Fire Att., inflicts 300,000 damage with 3+ Fire combos; 4x ATK & reduces damage with 6+ combos
 JP: 火属性の攻撃力が4倍。6コンボ以上で攻撃力が4倍、受けるダメージを25％減少。火の3コンボ以上で固定300000ダメージ。
-EN: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Fire combos
-KR: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Fire combos
+EN: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Fire combos
+KR: 4x ATK for Fire Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Fire combos
 
 # 15175/129 - 
 Tags: ENHANCED_ATK
@@ -64364,16 +64364,16 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 火の3コンボ以上で固定300000ダメージ。
-EN: 300000 additional damage when attacking with 3 or more Fire combos
-KR: 300000 additional damage when attacking with 3 or more Fire combos
+EN: 300000 additional damage when matching 3 or more Fire combos
+KR: 300000 additional damage when matching 3 or more Fire combos
 
 # 15182/138 - Blue Sword Flow Dance
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 16.0, 1.0, 0.25]
 Game: 4x ATK for Water Att., inflicts 300,000 damage with 3+ Water combos; 4x ATK & reduces damage with 6+ combos
 JP: 水属性の攻撃力が4倍。6コンボ以上で攻撃力が4倍、受けるダメージを25％減少。水の3コンボ以上で固定300000ダメージ。
-EN: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Water combos
-KR: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Water combos
+EN: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Water combos
+KR: 4x ATK for Water Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Water combos
 
 # 15183/129 - 
 Tags: ENHANCED_ATK
@@ -64396,16 +64396,16 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 水の3コンボ以上で固定300000ダメージ。
-EN: 300000 additional damage when attacking with 3 or more Water combos
-KR: 300000 additional damage when attacking with 3 or more Water combos
+EN: 300000 additional damage when matching 3 or more Water combos
+KR: 300000 additional damage when matching 3 or more Water combos
 
 # 15190/138 - Cauldron's Motive
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 16.0, 1.0, 0.25]
 Game: 4x ATK for Wood Att., inflicts 300,000 damage with 3+ Wood combos; 4x ATK & reduces damage with 6+ combos
 JP: 木属性の攻撃力が4倍。6コンボ以上で攻撃力が4倍、受けるダメージを25％減少。木の3コンボ以上で固定300000ダメージ。
-EN: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Wood combos
-KR: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when attacking with 3 or more Wood combos
+EN: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Wood combos
+KR: 4x ATK for Wood Att.; 4x ATK and reduce damage taken by 25% when 6 or more combos; 300000 additional damage when matching 3 or more Wood combos
 
 # 15191/129 - 
 Tags: ENHANCED_ATK
@@ -64428,8 +64428,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 木の3コンボ以上で固定300000ダメージ。
-EN: 300000 additional damage when attacking with 3 or more Wood combos
-KR: 300000 additional damage when attacking with 3 or more Wood combos
+EN: 300000 additional damage when matching 3 or more Wood combos
+KR: 300000 additional damage when matching 3 or more Wood combos
 
 # 15197/138 - Twin Palm God Skill
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
@@ -64796,8 +64796,8 @@ Tags: ENHANCED_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [1.0, 20.0, 2.0, 0.0]
 Game: 闇属性の攻撃力が10倍。闇の2コンボ以上で固定10万ダメージ。 闇の5個L字消しで、攻撃力と回復力が2倍。
 JP: 闇属性の攻撃力が10倍。闇の5個L字消しで攻撃力と回復力が2倍。闇の2コンボ以上で固定100000ダメージ。
-EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
-KR: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when attacking with 2 or more Dark combos
+EN: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when matching 2 or more Dark combos
+KR: 10x ATK for Dark Att.; 2x ATK & RCV when matching 5 Dark orbs in an L shape; 100000 additional damage when matching 2 or more Dark combos
 
 # 15282/129 - 
 Tags: ENHANCED_ATK
@@ -64820,8 +64820,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 闇の2コンボ以上で固定100000ダメージ。
-EN: 100000 additional damage when attacking with 2 or more Dark combos
-KR: 100000 additional damage when attacking with 2 or more Dark combos
+EN: 100000 additional damage when matching 2 or more Dark combos
+KR: 100000 additional damage when matching 2 or more Dark combos
 
 # 15292/138 - カイサツソード
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
@@ -66868,8 +66868,8 @@ Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 1.0, 0.0]
 Game: 光属性のHPが2倍。4コンボ以上で攻撃力が上昇、最大10倍。 光の2コンボ以上で攻撃力が2倍、3コンボ以上で固定1ダメージ。
 JP: 光属性のHPが2倍。4コンボ以上で攻撃力が5倍、最大9コンボで10倍。光の3コンボ以上で固定1ダメージ。光の2コンボ以上で攻撃力が2倍。
-EN: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when attacking with 3 or more Light combos; 2x ATK when matching 2+ Light combos
-KR: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when attacking with 3 or more Light combos; 2x ATK when matching 2+ Light combos
+EN: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when matching 3 or more Light combos; 2x ATK when matching 2+ Light combos
+KR: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when matching 3 or more Light combos; 2x ATK when matching 2+ Light combos
 
 # 15819/129 - 
 Tags: ENHANCED_HP
@@ -66900,8 +66900,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 光の3コンボ以上で固定1ダメージ。
-EN: 1 additional damage when attacking with 3 or more Light combos
-KR: 1 additional damage when attacking with 3 or more Light combos
+EN: 1 additional damage when matching 3 or more Light combos
+KR: 1 additional damage when matching 3 or more Light combos
 
 # 15826/138 - 僕に力を貸してくれ、青薔薇の剣
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
@@ -67500,8 +67500,8 @@ Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
 Stats: [2.0, 17.5, 1.0, 0]
 Game: 2x HP & 5x ATK for Wood Att., Orb move time +2 seconds; 3.5x ATK with 2+ Wood combos, 1 damage with 3+ combos
 JP: 木属性の攻撃力が5倍、HPが2倍。ドロップ操作時間を2秒延長。木の2コンボ以上で攻撃力が3.5倍。木の3コンボ以上で固定1ダメージ。
-EN: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos
-KR: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when attacking with 3 or more Wood combos
+EN: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when matching 3 or more Wood combos
+KR: 5x ATK and 2x HP for Wood Att.; Increase orb movement time by 2 seconds; 3.5x ATK when matching 2+ Wood combos; 1 additional damage when matching 3 or more Wood combos
 
 # 16007/185 - 
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -67524,8 +67524,8 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 18.0, 1, 0.5]
 Game: 9x ATK when Fire & Wood attack at once, 2x ATK with 7+  combos; halves dmg & inflicts 1 dmg with 2+ Wood combos
 JP: 火、木同時攻撃で攻撃力が9倍。7コンボ以上で攻撃力が2倍。木の2コンボ以上で受けるダメージを50％減少。木の2コンボ以上で固定1ダメージ。
-EN: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when attacking with 2 or more Wood combos
-KR: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when attacking with 2 or more Wood combos
+EN: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when matching 2 or more Wood combos
+KR: 9x ATK when matching Fire and Wood at once; 2x ATK when 7 or more combos; Reduce damage taken by 50% when matching 2+ Wood combos; 1 additional damage when matching 2 or more Wood combos
 
 # 16014/61 - 
 Tags: ENHANCED_ATK
@@ -67556,8 +67556,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 木の2コンボ以上で固定1ダメージ。
-EN: 1 additional damage when attacking with 2 or more Wood combos
-KR: 1 additional damage when attacking with 2 or more Wood combos
+EN: 1 additional damage when matching 2 or more Wood combos
+KR: 1 additional damage when matching 2 or more Wood combos
 
 # 16022/138 - Mech Divine King's Will
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -67676,8 +67676,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 木の3コンボ以上で固定1ダメージ。
-EN: 1 additional damage when attacking with 3 or more Wood combos
-KR: 1 additional damage when attacking with 3 or more Wood combos
+EN: 1 additional damage when matching 3 or more Wood combos
+KR: 1 additional damage when matching 3 or more Wood combos
 
 # 16058/138 - 豊稔の舞
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -68259,9 +68259,9 @@ KR: 6x ATK when matching Fire and Wood
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 2.0, 0.0]
 Game: 2x all stats for Physical Type, voids Poison damage; 10x ATK & 1,000,000 damage when Fr & Wd attack at once
-JP: 【毒ダメージを無効化】体力タイプの全パラメータが2倍。火、木の同時攻撃で攻撃力が10倍。火か木の2コンボ以上で固定1000000ダメージ。
-EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Physical type; 10x ATK when matching Fire and Wood; 1000000 additional damage when attacking with 2 or more Fire or Wood combos
-KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Physical type; 10x ATK when matching Fire and Wood; 1000000 additional damage when attacking with 2 or more Fire or Wood combos
+JP: 【毒ダメージを無効化】体力タイプの全パラメータが2倍。火、木の同時攻撃で攻撃力が10倍。火木同時攻撃で固定1000000ダメージ。
+EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Physical type; 10x ATK when matching Fire and Wood; 1000000 additional damage when matching Fire and Wood
+KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Physical type; 10x ATK when matching Fire and Wood; 1000000 additional damage when matching Fire and Wood
 
 # 16202/129 - 
 Tags: ENHANCED_HP_ATK_RCV
@@ -68291,9 +68291,9 @@ KR: 10x ATK when matching Fire and Wood
 Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
-JP: 火か木の2コンボ以上で固定1000000ダメージ。
-EN: 1000000 additional damage when attacking with 2 or more Fire or Wood combos
-KR: 1000000 additional damage when attacking with 2 or more Fire or Wood combos
+JP: 火木同時攻撃で固定1000000ダメージ。
+EN: 1000000 additional damage when matching Fire and Wood
+KR: 1000000 additional damage when matching Fire and Wood
 
 # 16209/66 - Realizing One's Path
 Tags: ENHANCED_ATK
@@ -69860,16 +69860,16 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 闇の3コンボ以上で固定1ダメージ。
-EN: 1 additional damage when attacking with 3 or more Dark combos
-KR: 1 additional damage when attacking with 3 or more Dark combos
+EN: 1 additional damage when matching 3 or more Dark combos
+KR: 1 additional damage when matching 3 or more Dark combos
 
 # 16591/138 - 魔導機装・からくり五右衛門
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 16.0, 1, 0.35]
 Game: 火木の同時攻撃でダメージを軽減、2コンボ加算。 火の2コンボ以上で攻撃力が16倍、3コンボ以上で固定1ダメージ。
 JP: 火、木同時攻撃で受けるダメージを35％減少。火、木同時攻撃で2コンボ加算。火の2コンボ以上で攻撃力が16倍。火の3コンボ以上で固定1ダメージ。
-EN: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when attacking with 3 or more Fire combos
-KR: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when attacking with 3 or more Fire combos
+EN: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos
+KR: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos
 
 # 16592/170 - 
 Tags: REDUCE_DAMAGE
@@ -69900,8 +69900,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 火の3コンボ以上で固定1ダメージ。
-EN: 1 additional damage when attacking with 3 or more Fire combos
-KR: 1 additional damage when attacking with 3 or more Fire combos
+EN: 1 additional damage when matching 3 or more Fire combos
+KR: 1 additional damage when matching 3 or more Fire combos
 
 # 16596/138 - 魔導機装・マシンノア
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
@@ -70076,8 +70076,8 @@ Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 21.0, 1.0, 0.25]
 Game: 水属性の攻撃力が6倍。水の3コンボ以上で固定100万ダメージ。 5コンボ以上でダメージを軽減、攻撃力が3.5倍。
 JP: 水属性の攻撃力が6倍。水の3コンボ以上で固定1000000ダメージ。5コンボ以上で攻撃力が3.5倍、受けるダメージを25％減少。
-EN: 6x ATK for Water Att.; 1000000 additional damage when attacking with 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
-KR: 6x ATK for Water Att.; 1000000 additional damage when attacking with 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
+EN: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
+KR: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
 
 # 16675/129 - 
 Tags: ENHANCED_ATK
@@ -70092,8 +70092,8 @@ Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
 JP: 水の3コンボ以上で固定1000000ダメージ。
-EN: 1000000 additional damage when attacking with 3 or more Water combos
-KR: 1000000 additional damage when attacking with 3 or more Water combos
+EN: 1000000 additional damage when matching 3 or more Water combos
+KR: 1000000 additional damage when matching 3 or more Water combos
 
 # 16677/169 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
