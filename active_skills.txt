@@ -45517,9 +45517,9 @@ KR: Change all orbs to Water, Wood, and Light orbs
 # 16779/116 - 転界逢龍陣・降星
 Tags: MENACE
 Game: 敵の行動を2ターン遅らせる。 10ターンの間、ドロップがロック状態で落ちてくる。
-JP: 敵の行動を2ターン遅らせる。10ターンの間、火ドロップがロック状態で落ちてくる
-EN: Delay enemies' next attack by 2 turns; For 10 turns, Fire orbs appear locked
-KR: Delay enemies' next attack by 2 turns; For 10 turns, Fire orbs appear locked
+JP: 敵の行動を2ターン遅らせる。10ターンの間、ドロップがロック状態で落ちてくる
+EN: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
+KR: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
 
 # 16780/18 - 
 Tags: MENACE
@@ -45531,9 +45531,9 @@ KR: Delay enemies' next attack by 2 turns
 # 16781/205 - 
 Tags: 
 Game: 
-JP: 10ターンの間、火ドロップがロック状態で落ちてくる
-EN: For 10 turns, Fire orbs appear locked
-KR: For 10 turns, Fire orbs appear locked
+JP: 10ターンの間、ドロップがロック状態で落ちてくる
+EN: For 10 turns, all orbs appear locked
+KR: For 10 turns, all orbs appear locked
 
 # 16785/116 - 誰かの秘密
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
