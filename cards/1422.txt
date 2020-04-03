@@ -3,12 +3,12 @@ HP: 3018 ATK: 2101 RCV: 0 LB: 0
 AWK: 11,27,11,27,24,21
 SAWK: 
 
-# 646/91 - Glitter of Aegis
-Tags: ENHANCED_ORBS
+# 646/116 - Glitter of Aegis
+Tags: ENHANCED_ORBS,AWOKEN_INVALID_RECOVERY
 Game: Wood & Light Orbs enhanced
-JP: 木と光ドロップを強化
-EN: Enhance all Wood and Light orbs
-KR: Enhance all Wood and Light orbs
+JP: 木と光ドロップを強化。覚醒無効を4ターン回復
+EN: Enhance all Wood and Light orbs; Reduce awoken skill binds by 4 turns
+KR: Enhance all Wood and Light orbs; Reduce awoken skill binds by 4 turns
 
 # 1595/121 - Hymn of Nike
 Tags: ENHANCED_HP_ATK
