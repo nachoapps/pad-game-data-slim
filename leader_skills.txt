@@ -66783,10 +66783,10 @@ JP: 受けるダメージを25％減少。
 EN: Reduce damage taken by 25%
 KR: Reduce damage taken by 25%
 
-# 15802/138 - 悪いな、ここは通行止めだ
+# 15802/138 - This place is off-limits.
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1, 9.0, 4.5, 0.25]
-Game: 【7×6マス】7コンボ以上で攻撃力と回復力が4.5倍。 4色以上同時攻撃でダメージを軽減、攻撃力が2倍。
+Game: [7x6 board], 4.5x ATK & RCV with 7+ combos; 2x ATK & reduces damage when 4+ Att. attack at once
 JP: 【7×6マス】7コンボ以上で攻撃力と回復力が4.5倍。4色以上同時攻撃で攻撃力が2倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 4.5x ATK & RCV when 7 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
 KR: [Board becomes 7x6] 4.5x ATK & RCV when 7 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more colors
@@ -66807,10 +66807,10 @@ JP: 7コンボ以上で攻撃力と回復力が4.5倍。
 EN: 4.5x ATK & RCV when 7 or more combos
 KR: 4.5x ATK & RCV when 7 or more combos
 
-# 15808/138 - 次のボスは絶対にみんなで倒そう
+# 15808/138 - Let's defeat the next boss together!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 16.5, 1.0, 0.0]
-Game: 全属性のHPが2倍。8コンボ以上で攻撃力が5.5倍。 4色以上同時攻撃で攻撃力が3倍、1コンボ加算。
+Game: 2x HP for all Att., 5.5x ATK with 8+ combos; 3x ATK & adds 1 combo when 4+ Att. attack at once
 JP: HPが2倍。8コンボ以上で攻撃力が5.5倍。4色以上同時攻撃で攻撃力が3倍、1コンボ加算。
 EN: 2x HP; 5.5x ATK when 8 or more combos; 3x ATK and increase combo by 1 when matching 4 or more colors
 KR: 2x HP; 5.5x ATK when 8 or more combos; 3x ATK and increase combo by 1 when matching 4 or more colors
@@ -66839,10 +66839,10 @@ JP: 4色以上同時攻撃で攻撃力が3倍、1コンボ加算。
 EN: 3x ATK and increase combo by 1 when matching 4 or more colors
 KR: 3x ATK and increase combo by 1 when matching 4 or more colors
 
-# 15815/138 - 私の花を止められるはずもありません
+# 15815/138 - You have no hope of stopping my flowers.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 16.0, 1.0, 0.25]
-Game: 水と光属性の攻撃力が8倍。ドロップ操作を2秒延長。 ドロップを6個以上つなげて消すとダメージを軽減、攻撃力が2倍。
+Game: 8x ATK for Water & Light Att., Orb move time +2 sec; 2x ATK & reduces damage with 6+ linked Orbs
 JP: 水と光属性の攻撃力が8倍。ドロップ操作時間を2秒延長。を6個以上つなげて消すと攻撃力が2倍、受けるダメージを25％減少。
 EN: 8x ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 KR: 8x ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
@@ -66863,10 +66863,10 @@ JP: を6個以上つなげて消すと攻撃力が2倍、受けるダメージ�
 EN: 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 KR: 2x ATK and reduce damage taken by 25% when matching 6 or more connected orbs
 
-# 15818/138 - 私自身が求めるもののために戦う
+# 15818/138 - I'm going to fight for what I want to.
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 1.0, 0.0]
-Game: 光属性のHPが2倍。4コンボ以上で攻撃力が上昇、最大10倍。 光の2コンボ以上で攻撃力が2倍、3コンボ以上で固定1ダメージ。
+Game: 2x HP for Light Att., up to 10x ATK with 4+ combos; 2x ATK with 2+ Light combos, 1 dmg with 3+ combos
 JP: 光属性のHPが2倍。4コンボ以上で攻撃力が5倍、最大9コンボで10倍。光の3コンボ以上で固定1ダメージ。光の2コンボ以上で攻撃力が2倍。
 EN: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when matching 3 or more Light combos; 2x ATK when matching 2+ Light combos
 KR: 2x HP for Light Att.; 5x ATK when 4 or more combos up to 10x at 9 combos; 1 additional damage when matching 3 or more Light combos; 2x ATK when matching 2+ Light combos
@@ -66903,10 +66903,10 @@ JP: 光の3コンボ以上で固定1ダメージ。
 EN: 1 additional damage when matching 3 or more Light combos
 KR: 1 additional damage when matching 3 or more Light combos
 
-# 15826/138 - 僕に力を貸してくれ、青薔薇の剣
+# 15826/138 - Lend me your strength, Blue Rose Sword!
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 15.0, 5.0, 0]
-Game: 水属性の攻撃力と回復力が5倍。ドロップ操作を2秒延長。 水を6個以上つなげて消すと攻撃力が3倍、1コンボ加算。
+Game: 5x ATK & RCV for Water Att., Orb move time +2 sec; 3x ATK & adds 1 combo with 6+ linked Water Orbs
 JP: 水属性の攻撃力と回復力が5倍。ドロップ操作時間を2秒延長。水を6個以上つなげて消しと攻撃力が3倍、1コンボ加算。
 EN: 5x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds; 3x ATK and increase combo by 1 when matching 6 or more connected Water orbs at once
 KR: 5x ATK & RCV for Water Att.; Increase orb movement time by 2 seconds; 3x ATK and increase combo by 1 when matching 6 or more connected Water orbs at once
@@ -66927,10 +66927,10 @@ JP: 水を6個以上つなげて消しと攻撃力が3倍、1コンボ加算。
 EN: 3x ATK and increase combo by 1 when matching 6 or more connected Water orbs at once
 KR: 3x ATK and increase combo by 1 when matching 6 or more connected Water orbs at once
 
-# 15829/138 - 僕はあの人だけを知っていればいい
+# 15829/138 - She's the only one I need to know.
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
 Stats: [1.5, 25.0, 1.0, 0.0]
-Game: 【落ちコンなし】水を6個以上つなげて消すと攻撃力が5倍。 水属性のHPが1.5倍。HP80％以上で攻撃力が5倍。
+Game: [No Skyfall Combos], 5x ATK with 6+ linked Water Orbs; 1.5x HP for Water Att., 5x ATK when HP is 80% or more
 JP: 【落ちコンなし】水を6個以上つなげて消すと攻撃力が5倍。HPが80%以上で攻撃力が5倍。水属性のHPが1.5倍。
 EN: [No skyfall] 5x ATK when matching 6 or more connected Water orbs; 5x ATK when above 80% HP; 1.5x HP for Water Att.
 KR: [No skyfall] 5x ATK when matching 6 or more connected Water orbs; 5x ATK when above 80% HP; 1.5x HP for Water Att.
@@ -66959,10 +66959,10 @@ JP: HPが80%以上で攻撃力が5倍。
 EN: 5x ATK when above 80% HP
 KR: 5x ATK when above 80% HP
 
-# 15836/138 - 私の二百年は間違いじゃなかった
+# 15836/138 - Those 200 years I spent weren't in vain.
 Tags: ENHANCED_HP_ATK,EXP,BOARD_CHANGE_7X6
 Stats: [1.5, 2.0, 1.0, 0]
-Game: 【7×6マス】バランスタイプのHPが1.5倍、攻撃力は2倍。 ダンジョン潜入時リーダーの時にランク経験値が1.5倍。
+Game: [7x6 board], 1.5x HP & 2x ATK for Balanced Type; 1.5x Rank EXP when entering a dungeon as a Leader
 JP: 【7×6マス】バランスタイプの攻撃力が2倍、HPが1.5倍。ランク経験値ｘ1.5倍。
 EN: [Board becomes 7x6] 2x ATK and 1.5x HP for Balanced type; 1.5x Rank EXP
 KR: [Board becomes 7x6] 2x ATK and 1.5x HP for Balanced type; 1.5x Rank EXP

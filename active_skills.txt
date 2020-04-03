@@ -42336,9 +42336,9 @@ JP: 1ターンの間、属性吸収を無効化する
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
-# 15798/116 - 全開でぶっ飛ばそうぜ
+# 15798/116 - Let's give it all we've got!
 Tags: ENHANCED_ATTACK
-Game: 1ターンの間、ダメージ無効を貫通し、チーム内の スキルチャージの覚醒数に応じて攻撃力が上昇。
+Game: Pierces enemy's damage void and increases ATK by the number of [Skill Charge] Awoken Skills in team for 1 turn
 JP: 1ターンの間、ダメージ無効を貫通する。チーム内のスキルチャージの覚醒数1つにつき攻撃力が30％上がる
 EN: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
 KR: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
@@ -42364,9 +42364,9 @@ JP: ランダムで水、闇、回復を10個ずつ生成
 EN: Create 10 Water, Dark, and Heal orbs over any orbs
 KR: Create 10 Water, Dark, and Heal orbs over any orbs
 
-# 15805/116 - 勝ってくるね
+# 15805/116 - I'm off to go win.
 Tags: EXTENDS_TIME,VOID_DAMAGE_ABSORBS
-Game: 2ターンの間、ダメージ吸収を無効化する。 2ターンの間、ドロップ操作時間が2倍。
+Game: Voids damage absorption for 2 turns; 2x Orb move time for 2 turns
 JP: 2ターンの間、ダメージ吸収を無効化する。2ターンの間、ドロップ操作時間が2倍
 EN: For 2 turns, bypass damage absorb shield effects; For 2 turns, 2x orb move time
 KR: For 2 turns, bypass damage absorb shield effects; For 2 turns, 2x orb move time
@@ -42385,9 +42385,9 @@ JP: 2ターンの間、ドロップ操作時間が2倍
 EN: For 2 turns, 2x orb move time
 KR: For 2 turns, 2x orb move time
 
-# 15812/116 - あなたと戦います！
+# 15812/116 - I will fight you!
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが2ターン溜まる。 2ターンの間、回復力と光属性の攻撃力が3倍。
+Game: Other allies' skills charged by 2 turns; 3x ATK for Light Att. & 3x RCV for 2 turns
 JP: 自分以外の味方スキルが2ターンの溜まる。2ターンの間、回復力が3倍。2ターンの間、光属性の攻撃力が3倍
 EN: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 KR: Charge all allies' skills by 2 turns; For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
@@ -42406,9 +42406,9 @@ JP: 2ターンの間、回復力が3倍。2ターンの間、光属性の攻撃�
 EN: For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 KR: For 2 turns, 3x RCV; For 2 turns, 3x ATK for Light Att.
 
-# 15823/116 - 咲け、青薔薇！
+# 15823/116 - Bloom! Blue Roses!
 Tags: HEAL
-Game: ランダムで水ドロップを6個生成。 5ターンの間、最大HP40％分回復。
+Game: Creates 6 Water Orbs at random; recovers 40% of max HP for 5 turns
 JP: 水ドロップを6個生成。5ターンの間、最大HPの40％分回復
 EN: Create 6 Water orbs; For 5 turns, recover 40% of max HP
 KR: Create 6 Water orbs; For 5 turns, recover 40% of max HP
@@ -42427,9 +42427,9 @@ JP: 5ターンの間、最大HPの40％分回復
 EN: For 5 turns, recover 40% of max HP
 KR: For 5 turns, recover 40% of max HP
 
-# 15833/116 - ならばお主だってまだ立てる
+# 15833/116 - Therefore, you can stand again.
 Tags: REDUCE_DAMAGE,EXTENDS_TIME
-Game: 2ターンの間、受けるダメージを激減。 2ターンの間、ドロップ操作を2秒延長。
+Game: Vastly reduces damage for 2 turns; Orb move time +2 seconds for 2 turns
 JP: 2ターンの間、受けるダメージを75％減少。2ターンの間、ドロップ操作時間が2秒に延長
 EN: For 2 turns, reduce damage taken by 75%; For 2 turns, increase orb move time by 2 seconds
 KR: For 2 turns, reduce damage taken by 75%; For 2 turns, increase orb move time by 2 seconds
