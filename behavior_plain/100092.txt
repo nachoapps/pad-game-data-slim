@@ -16,11 +16,11 @@ Branch on level = 8, target rnd 6
 #4: ESBranchLevel(35:25) -> ESBranchLevel
 Branch on level >= 10, target rnd 6
 
-#5: ESBombRandomSpawn(102:17090) -> Giant Tree's Fruit
+#5: ESBombRandomSpawn(102:17090) -> Fruit of the Giant Tree
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Spawn 5 random Bomb orbs
 
-#6: ESBlindStickyRandom(97:17089) -> Giant Tree's Shadow
+#6: ESBlindStickyRandom(97:17089) -> Shade of the Giant Tree
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Blind random 20 orbs for 3 turns
 

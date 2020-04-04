@@ -21,7 +21,7 @@ level: 1
      | (17046:15) Void of Eternity
      | Deal 140% damage (10 hits, 14% each)
      | condition: 33% chance
-     | (17049:67) Supreme Mystery
+     | (17049:67) Secret Domain
      | Absorb damage when combos <= 16 for 999 turns
      | condition: 34% chance
      | (17052:71) Mystic Wings
@@ -36,7 +36,7 @@ level: 1
      | (17046:15) Void of Eternity
      | Deal 140% damage (10 hits, 14% each)
      | condition: 33% chance
-     | (17049:67) Supreme Mystery
+     | (17049:67) Secret Domain
      | Absorb damage when combos <= 16 for 999 turns
      | condition: 34% chance
      | (17052:71) Mystic Wings
@@ -50,7 +50,7 @@ level: 1
      | (17046:15) Void of Eternity
      | Deal 140% damage (10 hits, 14% each)
      | condition: 33% chance
-     | (17049:67) Supreme Mystery
+     | (17049:67) Secret Domain
      | Absorb damage when combos <= 16 for 999 turns
      | condition: 34% chance
      | (17052:71) Mystic Wings

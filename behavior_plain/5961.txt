@@ -20,7 +20,7 @@ counter + 1
 Branch on level >= 9, target rnd 7
 
 #6: SkillSet:
-	[0] ESAbsorbCombo(67:17049) -> Supreme Mystery
+	[0] ESAbsorbCombo(67:17049) -> Secret Domain
 	Absorb damage when combos <= 16 for 999 turns
 	[1] ESSkyfall(68:17042) -> Supreme Mystery
 	Heal skyfall +5% for 4 turns

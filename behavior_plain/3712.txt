@@ -65,7 +65,7 @@ Branch on hp > 2, target rnd 16
 	[1] ESDebuffMovetime(39:17079) -> Sacred Protection
 	Movetime -3s for 1 turn
 
-#16: ESAttackMultihit(15:17076) -> Blazing Flames' Fierce Attack
+#16: ESAttackMultihit(15:17076) -> Blazing Flame Attack
 Deal 300% damage (3 hits, 100% each)
 
 #17: ESEndPath(36:26) -> ESEndPath

@@ -42,7 +42,7 @@ level: 1
      | Deal 120% damage (3 hits, 40% each)
  | group:
  | condition: hp <= 9
-   | (17076:15) Blazing Flames' Fierce Attack
+   | (17076:15) Blazing Flame Attack
    | Deal 300% damage (3 hits, 100% each)
  | group:
  | condition: turn 1, hp <= 1

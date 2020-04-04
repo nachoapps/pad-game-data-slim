@@ -59,7 +59,7 @@ Change the 3rd row to Light orbs, Deal 55% damage
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#19: ESBoardChange(84:16273) -> Almighty Gods' Baptism
+#19: ESBoardChange(84:16273) -> Almighty God's Baptism
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Light
 
@@ -75,7 +75,7 @@ Branch on flag & 2, target rnd 10
 #23: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#24: ESAbsorbCombo(67:16257) -> Spirit of the Almighty God
+#24: ESAbsorbCombo(67:16257) -> Almighty God's Spirit
 Absorb damage when combos <= 7 for 10 turns
 
 #25: ESEndPath(36:26) -> ESEndPath
@@ -95,7 +95,7 @@ counter = 0
 	Enemy recover 100% HP
 	[1] ESStatusShield(20:16264) -> Divine King's Majesty
 	Voids status ailments for 999 turns
-	[2] ESAbsorbCombo(67:16257) -> Spirit of the Almighty God
+	[2] ESAbsorbCombo(67:16257) -> Almighty God's Spirit
 	Absorb damage when combos <= 7 for 10 turns
 
 #30: ESBranchHP(28:18) -> ESBranchHP
@@ -122,7 +122,7 @@ Branch on counter >= 2, target rnd 36
 #36: SkillSet:
 	[0] ESColumnSpawnMulti(77:16269) -> Lightning of God
 	Change the 3rd and 4th columns to Light orbs, Deal 100% damage
-	[1] ESAttackUPRemainingEnemies(17:16270) -> Almighty Gods' Fighting Spirit
+	[1] ESAttackUPRemainingEnemies(17:16270) -> Almighty God's Fighting Spirit
 	Increase damage to 300% for the next 1 turn
 
 #37: ESSetCounter(25:15) -> ESSetCounter
@@ -141,7 +141,7 @@ Branch on flag & 8, target rnd 44
 flag SET 0b1111
 
 #42: SkillSet:
-	[0] ESBoardChange(84:16273) -> Almighty Gods' Baptism
+	[0] ESBoardChange(84:16273) -> Almighty God's Baptism
 	Change all orbs to Light
 	[1] ESOrbLock(94:16267) -> Supercell
 	Lock all orbs, Deal 80% damage

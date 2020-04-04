@@ -35,13 +35,13 @@ level: 1
      | Change the 3rd row to Light orbs, Deal 55% damage
  | group:
  | condition: turn 2, hp <= 74
-   | (16257:67) Spirit of the Almighty God
+   | (16257:67) Almighty God's Spirit
    | Absorb damage when combos <= 7 for 10 turns
  | group:
  | condition: hp <= 9
    | group:
    | condition: turn 3
-     | (16273:84) Almighty Gods' Baptism
+     | (16273:84) Almighty God's Baptism
      | Change all orbs to Light
    | group:
      | (16261:15) Super Nova
@@ -54,7 +54,7 @@ level: 1
  condition: when 1 enemies remain
  | group:
  | condition: always turn 1
-   | (16262:83) Blessing of the Gods + Divine King's Majesty + Spirit of the Almighty God
+   | (16262:83) Blessing of the Gods + Divine King's Majesty + Almighty God's Spirit
    | Enemy recover 100% HP + Voids status ailments for 999 turns + Absorb damage when combos <= 7 for 10 turns
  | group:
    | group:
@@ -63,7 +63,7 @@ level: 1
      | No skyfall for 3 turns + Lock all orbs, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
-     | (16268:83) Lightning of God + Almighty Gods' Fighting Spirit
+     | (16268:83) Lightning of God + Almighty God's Fighting Spirit
      | Change the 3rd and 4th columns to Light orbs + Increase damage to 300% for the next 1 turn, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
@@ -73,7 +73,7 @@ level: 1
  | condition: hp <= 9
    | group:
    | condition: turn 2
-     | (16272:83) Almighty Gods' Baptism + Supercell
+     | (16272:83) Almighty God's Baptism + Supercell
      | Change all orbs to Light + Lock all orbs, Deal 80% damage
    | group:
      | (16274:83) Majesty of the Gods + Super Nova

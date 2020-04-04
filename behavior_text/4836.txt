@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (11674:83) Protection of the Gods + Raging Thunder's Might + Divine King's Armor + Almighty Gods' Majesty
+ | (11674:83) Protection of the Gods + Raging Thunder's Might + Divine King's Armor + Almighty God's Majesty
  | Voids status ailments for 999 turns + Absorb damage when combos <= 10 for 10 turns + Void damage >= 100000000 for 999 turns + Voids player buff effects
  group:
  | group:
@@ -38,13 +38,13 @@ level: 1
      | Deal 200% damage
  | group:
  | condition: turn 1 while HP > 6, hp <= 49
-   | (11682:83) Almighty Gods' Majesty + Divine King's Imperial Lightning
+   | (11682:83) Almighty God's Majesty + Divine King's Imperial Lightning
    | Voids player buff effects + Deal 200% damage, Deal 200% damage
  | group:
  | condition: hp <= 6
    | group:
    | condition: turn 1
-     | (11683:17) Almighty Gods' Fighting Spirit
+     | (11683:17) Almighty God's Fighting Spirit
      | Increase damage to 500% for the next 99 turns
    | group:
      | (11685:83) Divine King's Wave + Divine King's Imperial Lightning

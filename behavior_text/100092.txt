@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17090:102) Giant Tree's Fruit
+ | (17090:102) Fruit of the Giant Tree
  | Spawn 5 random Bomb orbs
  group:
  | (17091:92) Greening the Board
@@ -20,7 +20,7 @@ level: 1
 
 level: 5
  type: PREEMPT
- | (17089:97) Giant Tree's Shadow
+ | (17089:97) Shade of the Giant Tree
  | Blind random 20 orbs for 3 turns
  group:
  | (17091:92) Greening the Board

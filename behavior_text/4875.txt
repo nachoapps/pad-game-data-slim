@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16448:67) マジに、ソロで挑む気カ？
+ | (16448:67) Are you thinking of going solo?
  | Absorb damage when combos <= 5 for 5 turns
  group:
  | condition: 50% chance
- | (16449:127) 情報の取りようがネーヨ
+ | (16449:127) There's no way to get information.
  | No skyfall for 1 turn
- | (16450:97) お前、目星ついてんダロ
+ | (16450:97) You wouldn't happen to know where it is, would you?
  | Blind random 1 orbs for 1 turn, Deal 105% damage
