@@ -6851,12 +6851,12 @@ JP: 全ドロップを火と光ドロップに変化
 EN: Change all orbs to Fire and Light orbs
 KR: Change all orbs to Fire and Light orbs
 
-# 1864/71 - Chaotic Call
-Tags: ALL_ORBS_CONVERT
+# 1864/116 - Chaotic Call
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
 Game: Changes Orbs to Fire, Wood, and Dark Orbs
-JP: 全ドロップを火、木、闇ドロップに変化
-EN: Change all orbs to Fire, Wood, and Dark orbs
-KR: Change all orbs to Fire, Wood, and Dark orbs
+JP: 全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が1.5倍
+EN: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
+KR: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
 
 # 1865/5 - IT'S A SHOW TIME! 
 Tags: STOP_TIME
@@ -18033,9 +18033,9 @@ KR: Charge all allies' skills by 1 turn
 # 7224/116 - Smiles All Around
 Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS
 Game: Changes Orbs to all Attributes & Heal; voids damage absorption for 1 turn
-JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、ダメージ吸収を無効化する
-EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield effects
-KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield effects
+JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収を無効化する
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
 
 # 7225/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -18047,9 +18047,9 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 # 7226/173 - 
 Tags: VOID_DAMAGE_ABSORBS
 Game: 
-JP: 1ターンの間、ダメージ吸収を無効化する
-EN: For 1 turn, bypass damage absorb shield effects
-KR: For 1 turn, bypass damage absorb shield effects
+JP: 2ターンの間、ダメージ吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield effects
+KR: For 2 turns, bypass damage absorb shield effects
 
 # 7270/154 - 
 Tags: GUARD_STANCE,ORB_CONVERT
@@ -37733,9 +37733,9 @@ KR: Change all orbs to Fire and Light orbs
 # 14504/116 - All Drop Wink
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption for 1 turn
-JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、ダメージ吸収を無効化する
-EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield effects
-KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield effects
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収を無効化する
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
 
 # 14505/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -37747,9 +37747,9 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 # 14506/173 - 
 Tags: VOID_DAMAGE_ABSORBS
 Game: 
-JP: 1ターンの間、ダメージ吸収を無効化する
-EN: For 1 turn, bypass damage absorb shield effects
-KR: For 1 turn, bypass damage absorb shield effects
+JP: 2ターンの間、ダメージ吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield effects
+KR: For 2 turns, bypass damage absorb shield effects
 
 # 14507/172 - 
 Tags: REMOVE_LOCK
@@ -45164,6 +45164,146 @@ JP: お邪魔、毒、猛毒ドロップを闇ドロップに変化
 EN: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
+# 16631/116 - ワイルドブレイズ
+Tags: MENACE,AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: 敵の行動を2ターン遅らせる。 消せないドロップと覚醒無効状態を5ターン回復。
+JP: 敵の行動を2ターン遅らせる。消せないドロップ状態を5ターン回復。覚醒無効を5ターン回復
+EN: Delay enemies' next attack by 2 turns; Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns
+KR: Delay enemies' next attack by 2 turns; Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns
+
+# 16632/18 - 
+Tags: MENACE
+Game: 
+JP: 敵の行動を2ターン遅らせる
+EN: Delay enemies' next attack by 2 turns
+KR: Delay enemies' next attack by 2 turns
+
+# 16633/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を5ターン回復
+EN: Reduce unable to match orbs effect by 5 turns
+KR: Reduce unable to match orbs effect by 5 turns
+
+# 16637/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を5ターン回復
+EN: Reduce awoken skill binds by 5 turns
+KR: Reduce awoken skill binds by 5 turns
+
+# 16642/116 - トゥインクルダーク
+Tags: ADD_COMBO
+Game: 1ターンの間、回復力が激減。 1ターンの間、3コンボ加算される。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、3コンボ加算される
+EN: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
+KR: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
+
+# 16643/50 - 
+Tags: 
+Game: 
+JP: 1ターンの間、回復力が0.25倍
+EN: For 1 turn, 0.25x RCV
+KR: For 1 turn, 0.25x RCV
+
+# 16644/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 16650/116 - グリモワールウィル
+Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK
+Game: 敵全体に30万の固定ダメージ。 全ドロップのロックを解除し、火と光ドロップに変化。
+JP: 敵全体に30万の固定ダメージ。全ドロップのロック状態を解除。全ドロップを火と光ドロップに変化
+EN: Deal 300000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
+KR: Deal 300000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
+
+# 16651/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 16652/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火と光ドロップに変化
+EN: Change all orbs to Fire and Light orbs
+KR: Change all orbs to Fire and Light orbs
+
+# 16653/56 - 
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 
+JP: 敵全体に30万の固定ダメージ
+EN: Deal 300000 fixed damage to all enemies
+KR: Deal 300000 fixed damage to all enemies
+
+# 16654/152 - 
+Tags: ORB_LOCK
+Game: 
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
+
+# 16658/116 - つながる想い
+Tags: ADD_COMBO,VOID_ATT_ABSORBS
+Game: 1ターンの間、2コンボ加算される。 1ターンの間、属性吸収を無効化する。
+JP: 1ターンの間、2コンボ加算される。1ターンの間、属性吸収を無効化する
+EN: For 1 turn, increase combo count by 2; For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, increase combo count by 2; For 1 turn, bypass att. absorb shield effects
+
+# 16659/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、2コンボ加算される
+EN: For 1 turn, increase combo count by 2
+KR: For 1 turn, increase combo count by 2
+
+# 16660/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 1ターンの間、属性吸収を無効化する
+EN: For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, bypass att. absorb shield effects
+
+# 16661/116 - グリモワールボイス
+Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
+Game: 敵全体に30万の固定ダメージ。 全ドロップを光と闇ドロップに変化。
+JP: 敵全体に30万の固定ダメージ。全ドロップを光と闇ドロップに変化
+EN: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark orbs
+KR: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark orbs
+
+# 16662/56 - 
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 
+JP: 敵全体に30万の固定ダメージ
+EN: Deal 300000 fixed damage to all enemies
+KR: Deal 300000 fixed damage to all enemies
+
+# 16663/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを光と闇ドロップに変化
+EN: Change all orbs to Light and Dark orbs
+KR: Change all orbs to Light and Dark orbs
+
+# 16668/160 - イルミナの思い出
+Tags: ADD_COMBO
+Game: 1ターンの間、2コンボ加算される。
+JP: 1ターンの間、2コンボ加算される
+EN: For 1 turn, increase combo count by 2
+KR: For 1 turn, increase combo count by 2
+
+# 16669/173 - ロミアの思い出
+Tags: VOID_ATT_ABSORBS
+Game: 1ターンの間、属性吸収を無効化する。
+JP: 1ターンの間、属性吸収を無効化する
+EN: For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, bypass att. absorb shield effects
+
 # 16670/116 - 進化には恐怖が必要だ
 Tags: ADD_COMBO
 Game: ランダムで水ドロップを9個生成。 1ターンの間、2コンボ加算される。
@@ -45619,6 +45759,48 @@ JP: 2ターンの間、1コンボ加算される
 EN: For 2 turns, increase combo count by 1
 KR: For 2 turns, increase combo count by 1
 
+# 16856/116 - ランベントオーロラ
+Tags: ENHANCED_ATTACK,EXTENDS_TIME
+Game: 1ターンの間、闇属性の攻撃力が1.5倍。 1ターンの間、ドロップ操作時間が1.5倍。
+JP: 1ターンの間、闇属性の攻撃力が1.5倍。1ターンの間、ドロップ操作時間が1.5倍
+EN: For 1 turn, 1.5x ATK for Dark Att.; For 1 turn, 1.5x orb move time
+KR: For 1 turn, 1.5x ATK for Dark Att.; For 1 turn, 1.5x orb move time
+
+# 16857/50 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、闇属性の攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Dark Att.
+KR: For 1 turn, 1.5x ATK for Dark Att.
+
+# 16858/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が1.5倍
+EN: For 1 turn, 1.5x orb move time
+KR: For 1 turn, 1.5x orb move time
+
+# 16881/116 - メタモルマジック
+Tags: LINE_ORBS_CONVERTER
+Game: 最上段横1列を闇ドロップに変化。 溟華の魔女・ポンノに変身。
+JP: 最上段を闇ドロップに変化。[6151]に変身する
+EN: Change the top row to Dark orbs; Changes to [6151] for the duration of the dungeon
+KR: Change the top row to Dark orbs; Changes to [6151] for the duration of the dungeon
+
+# 16882/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最上段を闇ドロップに変化
+EN: Change the top row to Dark orbs
+KR: Change the top row to Dark orbs
+
+# 16883/202 - 
+Tags: 
+Game: 
+JP: [6151]に変身する
+EN: Changes to [6151] for the duration of the dungeon
+KR: Changes to [6151] for the duration of the dungeon
+
 # 16885/91 - 
 Tags: ENHANCED_ORBS
 Game: 
@@ -45632,4 +45814,18 @@ Game:
 JP: 覚醒無効を4ターン回復
 EN: Reduce awoken skill binds by 4 turns
 KR: Reduce awoken skill binds by 4 turns
+
+# 16887/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、木、闇ドロップに変化
+EN: Change all orbs to Fire, Wood, and Dark orbs
+KR: Change all orbs to Fire, Wood, and Dark orbs
+
+# 16888/88 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、悪魔タイプの攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Devil type
+KR: For 1 turn, 1.5x ATK for Devil type
 

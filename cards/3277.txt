@@ -3,12 +3,12 @@ HP: 3280 ATK: 1562 RCV: 449 LB: 0
 AWK: 19,19,19,19,21,31
 SAWK: 
 
-# 1864/71 - Chaotic Call
-Tags: ALL_ORBS_CONVERT
+# 1864/116 - Chaotic Call
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
 Game: Changes Orbs to Fire, Wood, and Dark Orbs
-JP: 全ドロップを火、木、闇ドロップに変化
-EN: Change all orbs to Fire, Wood, and Dark orbs
-KR: Change all orbs to Fire, Wood, and Dark orbs
+JP: 全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が1.5倍
+EN: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
+KR: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
 
 # 6255/138 - Abyssal Release
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6

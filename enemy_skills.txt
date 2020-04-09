@@ -82002,110 +82002,110 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16393/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16393/67 - これで最後
+JP: 1ターンの間、9コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 9 for 1 turn
+KR: Absorb damage when combos <= 9 for 1 turn
 
-# 16394/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16394/127 - はい
+JP: 1ターンの間、落ちコンしなくなる
+EN: No skyfall for 1 turn
+KR: No skyfall for 1 turn
 
-# 16395/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16395/94 - がんばって
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
 
-# 16396/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16396/84 - 次はこれ
+JP: 全ドロップを火、水、木、光、闇、回復に変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
-# 16397/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16397/67 - はい
+JP: 1ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 1 turn
+KR: Absorb damage when combos <= 6 for 1 turn
 
-# 16398/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16398/67 - はい
+JP: 1ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 1 turn
+KR: Absorb damage when combos <= 5 for 1 turn
 
-# 16399/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16399/15 - もう帰って
+JP: 100000000%ダメージ
+EN: Deal 100000000% damage
+KR: Deal 100000000% damage
 
-# 16400/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16400/40 - 凄いんだね
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
 
-# 16401/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16401/83 - ＿ラスト
+JP: 
+EN: 
+KR: 
 
-# 16402/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16402/83 - ＿2回
+JP: 
+EN: 
+KR: 
 
-# 16403/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16403/94 - 準備していいよ
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
 
-# 16404/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16404/84 - 次で最後だから
+JP: 全ドロップを火、水、木、光、闇、回復に変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
-# 16405/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16405/83 - ＿2ターン目
+JP: 
+EN: 
+KR: 
 
-# 16406/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16406/83 - ＿1ターン目
+JP: 
+EN: 
+KR: 
 
-# 16407/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16407/83 - ＿先制6回
+JP: 
+EN: 
+KR: 
 
-# 16408/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16408/67 - コンボして遊んでて
+JP: 1ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 1 turn
+KR: Absorb damage when combos <= 4 for 1 turn
 
-# 16409/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16409/127 - そんなに遊びたいなら
+JP: 5ターンの間、落ちコンしなくなる
+EN: No skyfall for 5 turns
+KR: No skyfall for 5 turns
 
-# 16410/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16410/126 - 魔力で時空が歪んだ
+JP: 5ターンの間、盤面が7ｘ6になる
+EN: Change board size to 7x6 for 5 turns
+KR: Change board size to 7x6 for 5 turns
 
-# 16411/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16411/14 - 白の呪縛
+JP: 5ターンの間、スキル使用不可
+EN: Bind active skills for 5 turns
+KR: Bind active skills for 5 turns
 
-# 16412/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16412/88 - 戦う気はないから
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
 
-# 16413/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16413/119 - 今、読書中
+JP: 999ターンの間、受けるダメージを無効化する
+EN: Immune to damage from all sources for 999 turns
+KR: Immune to damage from all sources for 999 turns
 
 # 16414/53 - I have to move forward!
 JP: 5ターンの間、木属性のダメージを吸収
@@ -83987,555 +83987,555 @@ JP: 1000%ダメージ (4連続攻撃、250%ごと)
 EN: Deal 1000% damage (4 hits, 250% each)
 KR: Deal 1000% damage (4 hits, 250% each)
 
-# 16790/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16791/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16792/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16793/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16794/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16795/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16796/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16797/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16798/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16799/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16800/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16801/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16802/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16803/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16804/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16805/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16806/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16807/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16808/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16809/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16810/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16811/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16812/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16813/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16814/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16815/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16816/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16817/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16818/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16819/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16820/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16821/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16822/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16823/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16824/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16825/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16826/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16827/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16828/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16829/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16830/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16831/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16832/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16833/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16834/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16835/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16836/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16837/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16838/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16839/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16840/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16841/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16842/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16843/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16844/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16845/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16846/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16847/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16848/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16849/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16850/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16851/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16852/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16853/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16854/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16855/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16856/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16857/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16858/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16859/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16860/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16861/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16862/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16863/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16864/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16865/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16866/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16867/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16868/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16869/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16870/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16871/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16872/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16873/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16874/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16875/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16876/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16877/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16878/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16879/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16880/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16881/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16882/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16883/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16884/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16885/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16886/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16887/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16888/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16889/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16890/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16891/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16892/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16893/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16894/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16895/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16896/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16897/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16898/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
-
-# 16899/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16790/97 - ・・・
+JP: 1ターンの間、ランダムで2個のドロップを超暗闇にする
+EN: Blind random 2 orbs for 1 turn
+KR: Blind random 2 orbs for 1 turn
+
+# 16791/40 - できた
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16792/46 - ちょっと待ってて…
+JP: 自分の属性が火に変化する
+EN: Change own attribute to Fire
+KR: Change own attribute to Fire
+
+# 16793/95 - ＿死亡時
+JP: 
+EN: 
+KR: 
+
+# 16794/66 - ふー、やっと捕まえた！
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 16795/15 - ガウ！
+JP: 90%ダメージ
+EN: Deal 90% damage
+KR: Deal 90% damage
+
+# 16796/83 - ＿1ターン目2回
+JP: 
+EN: 
+KR: 
+
+# 16797/101 - あなたはそっちをお願い！
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 16798/15 - ガウガウ！
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
+
+# 16799/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16800/105 - 補助魔法をかけておくわ！
+JP: 5ターンの間、回復力を300%になる
+EN: RCV 300% for 5 turns
+KR: RCV 300% for 5 turns
+
+# 16801/74 - この2匹をおとなしくさせて！
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16802/95 - ＿死亡時
+JP: 
+EN: 
+KR: 
+
+# 16803/66 - …戦闘終了
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 16804/77 - 大斬ナイトメアブレイド
+JP: 上から3と4列目のドロップが闇ドロップに変化
+EN: Change the 3rd and 4th columns to Dark orbs
+KR: Change the 3rd and 4th columns to Dark orbs
+
+# 16805/15 - デストロイキャノン
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16806/92 - フレアエッジソード
+JP: 火ドロップを4個生成
+EN: Spawn 4 random Fire orbs
+KR: Spawn 4 random Fire orbs
+
+# 16807/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16808/74 - 戦闘開始
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16809/66 - …搭乗モード起動
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 16810/69 - ＿変身バルディン
+JP: 「モード変更中…|トランスフォーム」を表示
+EN: Show message: モード変更中…|トランスフォーム
+KR: Show message: モード変更中…|トランスフォーム
+
+# 16811/15 - バーンミサイル
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
+
+# 16812/77 - バーンブレイド
+JP: 上から4列目のドロップが火ドロップに変化
+EN: Change the 4th column to Fire orbs
+KR: Change the 4th column to Fire orbs
+
+# 16813/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16814/17 - 戦闘開始
+JP: 99ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 99 turns
+KR: Increase damage to 200% for the next 99 turns
+
+# 16815/66 - …訓練モード起動
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 16816/108 - 立ち去りなさい
+JP: 火、水、光ドロップを火ドロップに変化
+EN: Change all Fire, Water, and Light orbs to Fire orbs
+KR: Change all Fire, Water, and Light orbs to Fire orbs
+
+# 16817/74 - 貴方はズオー様の敵
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16818/40 - 完了ですかね
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16819/40 - か、完璧です！
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16820/83 - ＿もっと2回
+JP: 
+EN: 
+KR: 
+
+# 16821/101 - ここからお願いします！
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 16822/78 - こっちの方がいいですかね…
+JP: 左から1、3、5列目のドロップが水ドロップに変化。左から2と4列目のドロップが回復ドロップに変化
+EN: Change the 1st, 3rd, and 5th rows to Water orbs and the 2nd and 4th rows to Heal orbs
+KR: Change the 1st, 3rd, and 5th rows to Water orbs and the 2nd and 4th rows to Heal orbs
+
+# 16823/83 - ＿ダメ2回
+JP: 
+EN: 
+KR: 
+
+# 16824/101 - ここからはどうでしょう？
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 16825/84 - ふむふむ…
+JP: 全ドロップを火、水、回復に変化
+EN: Change all orbs to Fire, Water, and Heal
+KR: Change all orbs to Fire, Water, and Heal
+
+# 16826/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16827/101 - では、ここから…
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 16828/67 - 指示を開始しますね！
+JP: 99ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 99 turns
+KR: Absorb damage when combos <= 5 for 99 turns
+
+# 16829/40 - おつかれさまー！
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16830/92 - 最後はここかなー
+JP: 光、回復、お邪魔ドロップを11個生成
+EN: Spawn 11 random Light, Heal, or Jammer orbs
+KR: Spawn 11 random Light, Heal, or Jammer orbs
+
+# 16831/92 - こっちだったかなー
+JP: 光、回復、お邪魔ドロップを11個生成
+EN: Spawn 11 random Light, Heal, or Jammer orbs
+KR: Spawn 11 random Light, Heal, or Jammer orbs
+
+# 16832/92 - お次はここー
+JP: 光、回復、お邪魔ドロップを12個生成
+EN: Spawn 12 random Light, Heal, or Jammer orbs
+KR: Spawn 12 random Light, Heal, or Jammer orbs
+
+# 16833/92 - オッケー！次いこー
+JP: 光、回復、お邪魔ドロップを12個生成
+EN: Spawn 12 random Light, Heal, or Jammer orbs
+KR: Spawn 12 random Light, Heal, or Jammer orbs
+
+# 16834/48 - 残ってるよー
+JP: お邪魔ドロップを光ドロップに変化
+EN: Change all Jammer orbs to Light orbs
+KR: Change all Jammer orbs to Light orbs
+
+# 16835/83 - ＿先制3回
+JP: 
+EN: 
+KR: 
+
+# 16836/92 - まずはここからー
+JP: 光、回復、お邪魔ドロップを12個生成
+EN: Spawn 12 random Light, Heal, or Jammer orbs
+KR: Spawn 12 random Light, Heal, or Jammer orbs
+
+# 16837/68 - 邪魔なものは片づけちゃって
+JP: 99ターンの間、光と回復ドロップを+100%に落ちてくる
+EN: Light and Heal skyfall +100% for 99 turns
+KR: Light and Heal skyfall +100% for 99 turns
+
+# 16838/127 - 検索開始ー
+JP: 99ターンの間、落ちコンしなくなる
+EN: No skyfall for 99 turns
+KR: No skyfall for 99 turns
+
+# 16839/97 - 暗黒刃
+JP: 1ターンの間、ランダムで3個のドロップを超暗闇にする
+EN: Blind random 3 orbs for 1 turn
+KR: Blind random 3 orbs for 1 turn
+
+# 16840/68 - デスコール
+JP: 3ターンの間、毒ドロップを+15%に落ちてくる
+EN: Poison skyfall +15% for 3 turns
+KR: Poison skyfall +15% for 3 turns
+
+# 16841/15 - 黒斬
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16842/74 - 幻魔の覇気
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16843/69 - ＿ズオー変身
+JP: 「白き悪魔よ|その心、試させてもらう」を表示
+EN: Show message: 白き悪魔よ|その心、試させてもらう
+KR: Show message: 白き悪魔よ|その心、試させてもらう
+
+# 16844/89 - カオティックバースト
+JP: スキルターンを2ターン遅延
+EN: Delay active skills by 2 turns
+KR: Delay active skills by 2 turns
+
+# 16845/68 - ダークネスコール
+JP: 3ターンの間、お邪魔ドロップを+15%に落ちてくる
+EN: Jammer skyfall +15% for 3 turns
+KR: Jammer skyfall +15% for 3 turns
+
+# 16846/15 - カオススラッシュ
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16847/67 - 手加減はせぬぞ
+JP: 5ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 5 turns
+KR: Absorb damage when combos <= 5 for 5 turns
+
+# 16848/15 - メルトスイング
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
+
+# 16849/100 - 魔獣の杖
+JP: 1ターンの間、左から1列目のドロップが操作不可
+EN: Seal the 1st row for 1 turn
+KR: Seal the 1st row for 1 turn
+
+# 16850/92 - ローズフレア
+JP: 火ドロップを3個生成
+EN: Spawn 3 random Fire orbs
+KR: Spawn 3 random Fire orbs
+
+# 16851/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16852/15 - お手柔らかにね
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16853/109 - こんなのはどうだい？
+JP: 1ターンの間、ランダムで3箇所のマスがが1.0秒毎に変化する
+EN: Random 3 orbs change every 1.0s for 1 turn
+KR: Random 3 orbs change every 1.0s for 1 turn
+
+# 16854/89 - なにをしようか？
+JP: スキルターンを3ターン遅延
+EN: Delay active skills by 3 turns
+KR: Delay active skills by 3 turns
+
+# 16855/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16856/74 - フリーズソウル
+JP: 1ターンの間、受けるダメージからの攻撃を75%減少
+EN: Reduce damage from all sources by 75% for 1 turn
+KR: Reduce damage from all sources by 75% for 1 turn
+
+# 16857/15 - コールドニードル
+JP: 99%ダメージ (3連続攻撃、33%ごと)
+EN: Deal 99% damage (3 hits, 33% each)
+KR: Deal 99% damage (3 hits, 33% each)
+
+# 16858/94 - 逃がしはしないわ
+JP: ランダムで24個ドロップをロック
+EN: Lock 24 random orbs
+KR: Lock 24 random orbs
+
+# 16859/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16860/40 - …？
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16861/17 - グリモワール、
+JP: 1ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 1 turn
+KR: Increase damage to 200% for the next 1 turn
+
+# 16862/130 - ドラゴンフェザー
+JP: 1ターンの間、攻撃力が50%減少
+EN: ATK -50% for 1 turn
+KR: ATK -50% for 1 turn
+
+# 16863/15 - ドラゴニッククロウ
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
+
+# 16864/62 - ブラックエレメント
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
+
+# 16865/74 - 来るがいい
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16866/15 - やー！
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
+
+# 16867/15 - えい！
+JP: 90%ダメージ
+EN: Deal 90% damage
+KR: Deal 90% damage
+
+# 16868/94 - これはどうかな！
+JP: ランダムで20個ドロップをロック
+EN: Lock 20 random orbs
+KR: Lock 20 random orbs
+
+# 16869/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16870/15 - ソードダンス
+JP: 99%ダメージ (3連続攻撃、33%ごと)
+EN: Deal 99% damage (3 hits, 33% each)
+KR: Deal 99% damage (3 hits, 33% each)
+
+# 16871/66 - 私からいくね！
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 16872/15 - フレイムスイング
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16873/109 - きっと気に入ると思うわ！
+JP: 1ターンの間、ランダムで3箇所のマスがが1.5秒毎に変化する
+EN: Random 3 orbs change every 1.5s for 1 turn
+KR: Random 3 orbs change every 1.5s for 1 turn
+
+# 16874/74 - いくわよ！
+JP: 2ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 2 turns
+KR: Reduce damage from all sources by 99% for 2 turns
+
+# 16875/74 - 素敵な弓でしょう？
+JP: 1ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 1 turn
+KR: Reduce damage from all sources by 99% for 1 turn
+
+# 16876/77 - ブルーアロー
+JP: 上から3列目のドロップが水ドロップに変化
+EN: Change the 3rd column to Water orbs
+KR: Change the 3rd column to Water orbs
+
+# 16877/67 - いきますよー！
+JP: 2ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 2 turns
+KR: Absorb damage when combos <= 4 for 2 turns
+
+# 16878/77 - ゲイルインパクト
+JP: 上から3と4列目のドロップが木ドロップに変化
+EN: Change the 3rd and 4th columns to Wood orbs
+KR: Change the 3rd and 4th columns to Wood orbs
+
+# 16879/15 - グラスストーム
+JP: 102%ダメージ (3連続攻撃、34%ごと)
+EN: Deal 102% damage (3 hits, 34% each)
+KR: Deal 102% damage (3 hits, 34% each)
+
+# 16880/74 - まだまだ楽しむよ！
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
+
+# 16881/40 - そんなもんかー
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16882/15 - エアロボール
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 16883/94 - 遊んであげる！
+JP: ランダムで10個ドロップをロック
+EN: Lock 10 random orbs
+KR: Lock 10 random orbs
+
+# 16884/69 - ＿変身リンシア
+JP: 「いいねぇ！」を表示
+EN: Show message: いいねぇ！
+KR: Show message: いいねぇ！
+
+# 16885/92 - もう少し必要かな
+JP: 火、水、回復ドロップを10個生成
+EN: Spawn 10 random Fire, Water, or Heal orbs
+KR: Spawn 10 random Fire, Water, or Heal orbs
+
+# 16886/83 - ＿3コンボ以上2回
+JP: 
+EN: 
+KR: 
+
+# 16887/40 - それじゃあ打ち消すよ
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16888/17 - うん、これぐらいで大丈夫かな
+JP: 1ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 1 turn
+KR: Increase damage to 200% for the next 1 turn
+
+# 16889/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 16890/92 - さぁ、僕に攻撃してみて
+JP: 火、水、回復ドロップを10個生成
+EN: Spawn 10 random Fire, Water, or Heal orbs
+KR: Spawn 10 random Fire, Water, or Heal orbs
+
+# 16891/87 - 準備はいいかな？
+JP: 99ターンの間、1以上のダメージを吸収
+EN: Absorb damage when damage >= 1 for 99 turns
+KR: Absorb damage when damage >= 1 for 99 turns
+
+# 16892/108 - 火除け
+JP: 火ドロップを回復ドロップに変化
+EN: Change all Fire orbs to Heal orbs
+KR: Change all Fire orbs to Heal orbs
+
+# 16893/40 - なるほどなるほど
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16894/15 - 風の刻み
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
+
+# 16895/74 - さぁ、どっからでもどうぞ
+JP: 1ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 1 turn
+KR: Reduce damage from all sources by 99% for 1 turn
+
+# 16896/83 - ＿先制3回
+JP: 
+EN: 
+KR: 
+
+# 16897/40 - 頑張ってねー！
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
+
+# 16898/68 - 私も応援してるから
+JP: 5ターンの間、水ドロップを+5%に落ちてくる
+EN: Water skyfall +5% for 5 turns
+KR: Water skyfall +5% for 5 turns
+
+# 16899/15 - ホーリーライト
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
 # 16900/15 - ヅラじゃない桂だァァ！！
 JP: 50%ダメージ (2連続攻撃、25%ごと)

@@ -30666,9 +30666,9 @@ KR: 2x ATK when matching 4 or more connected Light orbs up to 4x at 8 orbs
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1.5, 12.75, 1.0, 0.25]
 Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
-JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇、回復同時攻撃で攻撃力が8.5倍、受けるダメージを25％減少。
-EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once
-KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once
+JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇同時攻撃で攻撃力が8.5倍、受けるダメージを25％減少。
+EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
+KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
 
 # 7228/186 - 
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
@@ -30682,9 +30682,9 @@ KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 8.5, 1, 0.25]
 Game: 
-JP: 火、水、木、闇、回復同時攻撃で攻撃力が8.5倍、受けるダメージを25％減少。
-EN: 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once
-KR: 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, Dark, and Heal at once
+JP: 火、水、木、闇同時攻撃で攻撃力が8.5倍、受けるダメージを25％減少。
+EN: 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
+KR: 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
 
 # 7230/138 - Hermit Energy
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
@@ -31298,9 +31298,9 @@ KR: 3.5x ATK when matching Light and Fire
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
 Stats: [1.5, 12.75, 2.0, 0]
 Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & 2x RCV when Fr, Wt, Wd, Dk & Heal attack at once
-JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇、回復同時攻撃で攻撃力が8.5倍、回復力が2倍。
-EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, Dark, and Heal at once
-KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, Dark, and Heal at once
+JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇同時攻撃で攻撃力が8.5倍、回復力が2倍。
+EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
+KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
 
 # 7347/186 - 
 Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
@@ -31314,9 +31314,9 @@ KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type
 Tags: ENHANCED_ATK_RCV
 Stats: [1, 8.5, 2.0, 0]
 Game: 
-JP: 火、水、木、闇、回復同時攻撃で攻撃力が8.5倍、回復力が2倍。
-EN: 8.5x ATK and 2x RCV when matching Fire, Water, Wood, Dark, and Heal at once
-KR: 8.5x ATK and 2x RCV when matching Fire, Water, Wood, Dark, and Heal at once
+JP: 火、水、木、闇同時攻撃で攻撃力が8.5倍、回復力が2倍。
+EN: 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
+KR: 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
 
 # 7349/138 - Hidden Sorcery
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
@@ -70055,6 +70055,150 @@ JP: 5色以上同時攻撃で2コンボ加算。
 EN: increase combo by 2 when matching 5 or more colors
 KR: increase combo by 2 when matching 5 or more colors
 
+# 16634/138 - 緑樹霊の魔印
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 18.0, 1.0, 0]
+Game: 【操作時間9秒】木属性のHPが2倍、攻撃力は4倍。 木回復の同時攻撃で攻撃力が4.5倍、2コンボ加算。
+JP: 【操作時間9秒固定】木属性の攻撃力が4倍、HPが2倍。木、回復同時攻撃で攻撃力が4.5倍、2コンボ加算。
+EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.; 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
+KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.; 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
+
+# 16635/178 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 4.0, 1.0, 0]
+Game: 
+JP: 【操作時間9秒固定】木属性の攻撃力が4倍、HPが2倍。
+EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.
+KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.
+
+# 16636/194 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.5, 1, 0]
+Game: 
+JP: 木、回復同時攻撃で攻撃力が4.5倍、2コンボ加算。
+EN: 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
+KR: 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
+
+# 16638/138 - 緑樹霊の変術
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 18.0, 2.0, 0]
+Game: 【操作時間9秒】木属性の全パラメータが2倍。 木を6個以上つなげて消すと攻撃力が9倍、9個以上で2コンボ加算。
+JP: 【操作時間9秒固定】木属性の全パラメータが2倍。木を6個以上つなげて消すと攻撃力が9倍。木を9個以上つなげて消しと、2コンボ加算。
+EN: [Fixed 9 second movetime] 2x all stats for Wood Att.; 9x ATK when matching 6 or more connected Wood orbs; Increase combo by 2 when matching 9 or more connected Wood orbs at once
+KR: [Fixed 9 second movetime] 2x all stats for Wood Att.; 9x ATK when matching 6 or more connected Wood orbs; Increase combo by 2 when matching 9 or more connected Wood orbs at once
+
+# 16639/178 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: 【操作時間9秒固定】木属性の全パラメータが2倍。
+EN: [Fixed 9 second movetime] 2x all stats for Wood Att.
+KR: [Fixed 9 second movetime] 2x all stats for Wood Att.
+
+# 16640/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1, 0]
+Game: 
+JP: 木を6個以上つなげて消すと攻撃力が9倍。
+EN: 9x ATK when matching 6 or more connected Wood orbs
+KR: 9x ATK when matching 6 or more connected Wood orbs
+
+# 16641/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 木を9個以上つなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 9 or more connected Wood orbs at once
+KR: Increase combo by 2 when matching 9 or more connected Wood orbs at once
+
+# 16645/138 - 黄光霊の魔印
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 1.0, 0.0]
+Game: 悪魔と神タイプのHPと攻撃力が2倍。 光を6個以上つなげて消すと攻撃力が8倍、固定50万ダメージ。
+JP: 神と悪魔タイプのHPと攻撃力が2倍。光を6個以上つなげて消すと攻撃力が8倍。光を6個以上つなげて消しと固定500000ダメージ。
+EN: 2x HP & ATK for God and Devil type; 8x ATK when matching 6 or more connected Light orbs; 500000 additional damage when matching 6 or more Light orbs
+KR: 2x HP & ATK for God and Devil type; 8x ATK when matching 6 or more connected Light orbs; 500000 additional damage when matching 6 or more Light orbs
+
+# 16646/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 神と悪魔タイプのHPと攻撃力が2倍。
+EN: 2x HP & ATK for God and Devil type
+KR: 2x HP & ATK for God and Devil type
+
+# 16647/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 光を6個以上つなげて消すと攻撃力が8倍。
+EN: 8x ATK when matching 6 or more connected Light orbs
+KR: 8x ATK when matching 6 or more connected Light orbs
+
+# 16648/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 光を6個以上つなげて消しと固定500000ダメージ。
+EN: 500000 additional damage when matching 6 or more Light orbs
+KR: 500000 additional damage when matching 6 or more Light orbs
+
+# 16649/177 - 黄光霊の操術
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Stats: [2.0, 32.0, 1.0, 0]
+Game: 【落ちコンなし】バランスタイプのHPと攻撃力が2倍。 パズル後の残りドロップ数が8個以下で攻撃力が上昇、最大16倍。
+JP: 【落ちコンなし】バランスタイプのHPと攻撃力が2倍。パズル後の残りドロップ数が8個で攻撃力8倍、0個のところまで32倍。
+EN: [No skyfall] 2x HP & ATK for Balanced type; 8x ATK when there are 8 or fewer orbs remaining up to 32x ATK when 0 orbs left
+KR: [No skyfall] 2x HP & ATK for Balanced type; 8x ATK when there are 8 or fewer orbs remaining up to 32x ATK when 0 orbs left
+
+# 16655/138 - 親和の魔導
+Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
+Stats: [1.5, 12.0, 2.0, 0]
+Game: 【7×6マス】悪魔タイプのHPと攻撃力が1.5倍。 火光の同時攻撃で攻撃力が8倍、回復力は2倍。
+JP: 【7×6マス】悪魔タイプのHPと攻撃力が1.5倍。火、光の同時攻撃で攻撃力が8倍、回復力が2倍。
+EN: [Board becomes 7x6] 1.5x HP & ATK for Devil type; 8x ATK and 2x RCV when matching Fire and Light
+KR: [Board becomes 7x6] 1.5x HP & ATK for Devil type; 8x ATK and 2x RCV when matching Fire and Light
+
+# 16656/186 - 
+Tags: ENHANCED_HP_ATK,BOARD_CHANGE_7X6
+Stats: [1.5, 1.5, 1.0, 0]
+Game: 
+JP: 【7×6マス】悪魔タイプのHPと攻撃力が1.5倍。
+EN: [Board becomes 7x6] 1.5x HP & ATK for Devil type
+KR: [Board becomes 7x6] 1.5x HP & ATK for Devil type
+
+# 16657/164 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 8.0, 2.0, 0]
+Game: 
+JP: 火、光の同時攻撃で攻撃力が8倍、回復力が2倍。
+EN: 8x ATK and 2x RCV when matching Fire and Light
+KR: 8x ATK and 2x RCV when matching Fire and Light
+
+# 16664/138 - 魔導の知識
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 14.0, 1, 0.25]
+Game: 闇光の同時攻撃でダメージを軽減、攻撃力が14倍。 光と闇を同時に5個以上つなげて消すと、2コンボ加算。
+JP: 闇、光の同時攻撃で攻撃力が14倍、受けるダメージを25％減少。光と闇を5個以上同時につなげて消しと、2コンボ加算。
+EN: 14x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
+KR: 14x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
+
+# 16665/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 14.0, 1, 0.25]
+Game: 
+JP: 闇、光の同時攻撃で攻撃力が14倍、受けるダメージを25％減少。
+EN: 14x ATK and reduce damage taken by 25% when matching Dark and Light
+KR: 14x ATK and reduce damage taken by 25% when matching Dark and Light
+
+# 16666/192 - 
+Tags: 
+Stats: [1, 1.0, 1, 0]
+Game: 
+JP: 光と闇を5個以上同時につなげて消しと、2コンボ加算。
+EN: Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
+KR: Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
+
 # 16667/194 - 
 Tags: 
 Stats: [1, 1.0, 1, 0]
@@ -70686,6 +70830,62 @@ Game:
 JP: 水の2コンボ以上で攻撃力が2倍。
 EN: 2x ATK when matching 2+ Water combos
 KR: 2x ATK when matching 2+ Water combos
+
+# 16859/138 - Lスキルリーチェ弟子
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 9.0, 1.5, 0.25]
+Game: 攻撃タイプの全パラメータが1.5倍。 ドロップを4個以上つなげて消すとダメージを軽減、攻撃力が6倍。
+JP: 攻撃タイプの全パラメータが1.5倍。を4個以上つなげて消すと攻撃力が6倍、受けるダメージを25％減少。
+EN: 1.5x all stats for Attacker type; 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
+KR: 1.5x all stats for Attacker type; 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
+
+# 16860/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 1.5, 1.5, 0.0]
+Game: 
+JP: 攻撃タイプの全パラメータが1.5倍。
+EN: 1.5x all stats for Attacker type
+KR: 1.5x all stats for Attacker type
+
+# 16861/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 6.0, 1, 0.25]
+Game: 
+JP: を4個以上つなげて消すと攻撃力が6倍、受けるダメージを25％減少。
+EN: 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
+KR: 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
+
+# 16862/138 - 紫海霊の転術
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [1.5, 18.0, 1.5, 0.0]
+Game: 闇属性の全パラメータが1.5倍。 闇を7個以上つなげて消すと攻撃力が12倍、固定1ダメージ。
+JP: 闇属性の全パラメータが1.5倍。闇を7個以上つなげて消すと攻撃力が12倍。闇を7個以上つなげて消しと固定1ダメージ。
+EN: 1.5x all stats for Dark Att.; 12x ATK when matching 7 or more connected Dark orbs; 1 additional damage when matching 7 or more Dark orbs
+KR: 1.5x all stats for Dark Att.; 12x ATK when matching 7 or more connected Dark orbs; 1 additional damage when matching 7 or more Dark orbs
+
+# 16863/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 1.5, 1.5, 0.0]
+Game: 
+JP: 闇属性の全パラメータが1.5倍。
+EN: 1.5x all stats for Dark Att.
+KR: 1.5x all stats for Dark Att.
+
+# 16864/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 12.0, 1, 0]
+Game: 
+JP: 闇を7個以上つなげて消すと攻撃力が12倍。
+EN: 12x ATK when matching 7 or more connected Dark orbs
+KR: 12x ATK when matching 7 or more connected Dark orbs
+
+# 16865/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇を7個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 7 or more Dark orbs
+KR: 1 additional damage when matching 7 or more Dark orbs
 
 # 16884/199 - 
 Tags: ADDITIONAL_ATTACK
