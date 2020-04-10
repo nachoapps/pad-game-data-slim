@@ -1,0 +1,21 @@
+#502746 - 隻眼の獄幻魔・ズオー
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 502746
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16847:67) 手加減はせぬぞ
+ | Absorb damage when combos <= 5 for 5 turns
+ group:
+ | condition: 25% chance, at most 3 times
+ | (16845:68) ダークネスコール
+ | Jammer skyfall +15% for 3 turns
+ | condition: 50% chance
+ | (16844:89) カオティックバースト
+ | Delay active skills by 2 turns, Deal 110% damage
+ | (16846:15) カオススラッシュ
+ | Deal 100% damage

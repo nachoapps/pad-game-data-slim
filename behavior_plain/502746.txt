@@ -1,0 +1,30 @@
+#502746 - 隻眼の獄幻魔・ズオー
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESDeathCry(69:16843) -> ＿ズオー変身
+Condition: On death (ai:0 rnd:0)
+Show message: 白き悪魔よ|その心、試させてもらう
+
+#3: ESAbsorbCombo(67:16847) -> 手加減はせぬぞ
+Condition: One-time use (ai:100 rnd:0) (cost: 2)
+Absorb damage when combos <= 5 for 5 turns
+
+#4: ESSkyfall(68:16845) -> ダークネスコール
+Condition: One-time use (ai:25 rnd:0) (cost: 1)
+Jammer skyfall +15% for 3 turns
+
+#5: ESSkillDelay(89:16844) -> カオティックバースト
+Condition: 50% chance (ai:50 rnd:0)
+Delay active skills by 2 turns, Deal 110% damage
+
+#6: ESAttackMultihit(15:16846) -> カオススラッシュ
+Deal 100% damage
+
+#7: ESEndPath(36:26) -> ESEndPath
+end_turn

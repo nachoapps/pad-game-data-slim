@@ -1,0 +1,27 @@
+#500783 - 神秘の天体龍・アンティキティラ
+monster size: 5
+new AI: False
+start/max counter: 1
+counter increment: 0
+monster_id: 500783
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (468:20) 古代の英知
+ | Voids status ailments for 999 turns
+ group:
+ | group:
+   | condition: 25% chance
+   | (507:48) 恵みの水星
+   | Change a random attribute to Water orbs, Deal 80% damage
+   | condition: 50% chance
+   | (509:50) 厄災の凶星
+   | Player -50% HP
+   | condition: 75% chance
+   | (506:15) ギア・インパクト
+   | Deal 125% damage
+ | group:
+ | condition: hp <= 29
+   | (510:15) コンステレーションブラスト
+   | Deal 180% damage (12 hits, 15% each)

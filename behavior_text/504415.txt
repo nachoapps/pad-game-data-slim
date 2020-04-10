@@ -1,0 +1,12 @@
+#504415 - 岩拳の大魔女・ゼラ
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 504415
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16896:83) 私も応援してるから + 頑張ってねー！
+ | Water skyfall +5% for 5 turns + Reduce self HP to 0

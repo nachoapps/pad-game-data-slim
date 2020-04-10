@@ -1,0 +1,21 @@
+#502205 - 灼冥魔・スカーレット
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 502205
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16851:83) 貴方はズオー様の敵 + 立ち去りなさい
+ | Reduce damage from all sources by 99% for 3 turns + Change all Fire, Water, and Light orbs to Fire orbs, Deal 100% damage
+ group:
+ | condition: 25% chance, at most 3 times
+ | (16849:100) 魔獣の杖
+ | Seal the 1st row for 1 turn
+ | condition: 50% chance
+ | (16850:92) ローズフレア
+ | Spawn 3 random Fire orbs, Deal 90% damage
+ | (16848:15) メルトスイング
+ | Deal 100% damage (2 hits, 50% each)

@@ -1,0 +1,21 @@
+#502711 - 救翼の龍騎神・シェリアス
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 502711
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16865:74) 来るがいい
+ | Reduce damage from all sources by 99% for 3 turns
+ group:
+ | condition: 20% chance
+ | (16862:130) ドラゴンフェザー
+ | ATK -50% for 1 turn
+ | condition: 30% chance
+ | (16864:62) ブラックエレメント
+ | Blind all orbs on the board, Deal 90% damage
+ | (16863:15) ドラゴニッククロウ
+ | Deal 100% damage (2 hits, 50% each)

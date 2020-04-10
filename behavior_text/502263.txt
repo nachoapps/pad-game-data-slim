@@ -1,0 +1,18 @@
+#502263 - 刻薄の凍冥魔・インディゴ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 502263
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (16858:94) 逃がしはしないわ
+ | Lock 24 random orbs
+ group:
+ | condition: 30% chance
+ | (16856:74) フリーズソウル
+ | Reduce damage from all sources by 75% for 1 turn
+ | (16857:15) コールドニードル
+ | Deal 99% damage (3 hits, 33% each)
