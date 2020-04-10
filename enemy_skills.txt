@@ -10862,8 +10862,8 @@ KR: Delay active skills by 0~4 turns
 
 # 2167/92 - Divine Hellfire
 JP: 火と闇ドロップを4個生成
-EN: Spawn 4 random Fire or Dark orbs
-KR: Spawn 4 random Fire or Dark orbs
+EN: Spawn 4 random Fire and Dark orbs
+KR: Spawn 4 random Fire and Dark orbs
 
 # 2168/56 - Snake God's Venomous Fangs
 JP: 闇ドロップを毒ドロップに変化
@@ -14547,8 +14547,8 @@ KR: Deal 140% damage (2 hits, 70% each)
 
 # 2904/92 - Serpent Hate
 JP: お邪魔と猛毒ドロップを2個生成
-EN: Spawn 2 random Jammer or Mortal Poison orbs
-KR: Spawn 2 random Jammer or Mortal Poison orbs
+EN: Spawn 2 random Jammer and Mortal Poison orbs
+KR: Spawn 2 random Jammer and Mortal Poison orbs
 
 # 2905/15 - Overwhelming Force
 JP: 500%ダメージ
@@ -14777,8 +14777,8 @@ KR:
 
 # 2950/92 - Heat and Cold
 JP: 火と水ドロップを2個生成
-EN: Spawn 2 random Fire or Water orbs
-KR: Spawn 2 random Fire or Water orbs
+EN: Spawn 2 random Fire and Water orbs
+KR: Spawn 2 random Fire and Water orbs
 
 # 2951/92 - Hinder Alchemy
 JP: お邪魔ドロップを5個生成
@@ -17075,8 +17075,8 @@ KR: Deal 120% damage (2 hits, 60% each)
 
 # 3409/92 - Halloween's End
 JP: お邪魔と毒ドロップを6個生成
-EN: Spawn 6 random Jammer or Poison orbs
-KR: Spawn 6 random Jammer or Poison orbs
+EN: Spawn 6 random Jammer and Poison orbs
+KR: Spawn 6 random Jammer and Poison orbs
 
 # 3410/20 - Metal Body
 JP: 999ターンの間、状態異常無効化
@@ -17435,8 +17435,8 @@ KR: Do nothing
 
 # 3481/92 - Black Lightning Spears
 JP: 光と闇ドロップを8個生成
-EN: Spawn 8 random Light or Dark orbs
-KR: Spawn 8 random Light or Dark orbs
+EN: Spawn 8 random Light and Dark orbs
+KR: Spawn 8 random Light and Dark orbs
 
 # 3482/90 - Aladdin Jump
 JP: Branch on player_cards HAS [2472, 2473], target rnd None
@@ -17580,8 +17580,8 @@ KR: Branch on player_cards HAS [2464, 2465], target rnd None
 
 # 3510/92 - Storm and Lightning Tail
 JP: 木と光ドロップを4個生成
-EN: Spawn 4 random Wood or Light orbs
-KR: Spawn 4 random Wood or Light orbs
+EN: Spawn 4 random Wood and Light orbs
+KR: Spawn 4 random Wood and Light orbs
 
 # 3511/15 - Spear-Shaped Tail
 JP: 195%ダメージ (3連続攻撃、65%ごと)
@@ -18905,8 +18905,8 @@ KR: Deal 160% damage
 
 # 3775/92 - Magic Dragon Flame
 JP: 火と闇ドロップを3個生成
-EN: Spawn 3 random Fire or Dark orbs
-KR: Spawn 3 random Fire or Dark orbs
+EN: Spawn 3 random Fire and Dark orbs
+KR: Spawn 3 random Fire and Dark orbs
 
 # 3776/66 - Gazing in your direction
 JP: 何もしない
@@ -19430,8 +19430,8 @@ KR: Deal 70~140% damage (7~14 hits, 10% each)
 
 # 3880/92 - Full Moon
 JP: 回復と毒ドロップを3個生成
-EN: Spawn 3 random Heal or Poison orbs
-KR: Spawn 3 random Heal or Poison orbs
+EN: Spawn 3 random Heal and Poison orbs
+KR: Spawn 3 random Heal and Poison orbs
 
 # 3881/39 - Divine Song's Tuning
 JP: 5ターンの間、操作時間-1秒
@@ -23583,8 +23583,8 @@ KR:
 
 # 4710/92 - 7 Colors Ring
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orb
-KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orb
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orb
 
 # 4711/15 - Happy Bomb
 JP: 120%ダメージ
@@ -24318,43 +24318,43 @@ KR:
 
 # 4857/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4858/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4859/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4860/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4861/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4862/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4863/92 - Breath of the Scarlet Sun
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 4864/92 - Scarlet Sun-Destroying Sword
 JP: 火と光ドロップを9個生成
-EN: Spawn 9 random Fire or Light orbs
-KR: Spawn 9 random Fire or Light orbs
+EN: Spawn 9 random Fire and Light orbs
+KR: Spawn 9 random Fire and Light orbs
 
 # 4865/20 - Yamato Dragon's Protection
 JP: 999ターンの間、状態異常無効化
@@ -24473,8 +24473,8 @@ KR: Change the 2nd row to Wood and Heal orbs
 
 # 4888/92 - Justice Jamming
 JP: 回復、お邪魔、毒ドロップを3個生成
-EN: Spawn 3 random Heal, Jammer, or Poison orbs
-KR: Spawn 3 random Heal, Jammer, or Poison orbs
+EN: Spawn 3 random Heal, Jammer, and Poison orbs
+KR: Spawn 3 random Heal, Jammer, and Poison orbs
 
 # 4889/101 - Justice Road
 JP: ドロップ操作開始位置をランダムで固定される
@@ -24613,13 +24613,13 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer
 
 # 4916/92 - Blue Life Calm Waves
 JP: 水と回復ドロップを3個生成
-EN: Spawn 3 random Water or Heal orbs
-KR: Spawn 3 random Water or Heal orbs
+EN: Spawn 3 random Water and Heal orbs
+KR: Spawn 3 random Water and Heal orbs
 
 # 4917/92 - Blue Dust Raging Wave
 JP: 水とお邪魔ドロップを3個生成
-EN: Spawn 3 random Water or Jammer orbs
-KR: Spawn 3 random Water or Jammer orbs
+EN: Spawn 3 random Water and Jammer orbs
+KR: Spawn 3 random Water and Jammer orbs
 
 # 4918/15 - Sea Dragon God's Strike
 JP: 400%ダメージ
@@ -24753,8 +24753,8 @@ KR: Increase damage to 150% for the next 999 turns
 
 # 4944/92 - Destroying Claw
 JP: お邪魔と毒ドロップを4個生成
-EN: Spawn 4 random Jammer or Poison orbs
-KR: Spawn 4 random Jammer or Poison orbs
+EN: Spawn 4 random Jammer and Poison orbs
+KR: Spawn 4 random Jammer and Poison orbs
 
 # 4945/15 - Melting Claw
 JP: 160%ダメージ (4連続攻撃、40%ごと)
@@ -25523,8 +25523,8 @@ KR: Increase damage to 200% for the next 999 turns
 
 # 5098/92 - Destruction Claw
 JP: お邪魔と毒ドロップを4個生成
-EN: Spawn 4 random Jammer or Poison orbs
-KR: Spawn 4 random Jammer or Poison orbs
+EN: Spawn 4 random Jammer and Poison orbs
+KR: Spawn 4 random Jammer and Poison orbs
 
 # 5099/15 - Raiden Claw
 JP: 200%ダメージ (4連続攻撃、50%ごと)
@@ -25723,8 +25723,8 @@ KR: Change all orbs to Jammer
 
 # 5138/92 - Blue Wind of the Green Fate
 JP: 木と回復ドロップを3個生成
-EN: Spawn 3 random Wood or Heal orbs
-KR: Spawn 3 random Wood or Heal orbs
+EN: Spawn 3 random Wood and Heal orbs
+KR: Spawn 3 random Wood and Heal orbs
 
 # 5139/74 - Magatama of Yin and Yang
 JP: 1ターンの間、受けるダメージからの攻撃を75%減少
@@ -28041,33 +28041,33 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 5601/92 - Blue Flame Slash
 JP: 火と水ドロップを1個生成
-EN: Spawn 1 random Fire or Water orb
-KR: Spawn 1 random Fire or Water orb
+EN: Spawn 1 random Fire and Water orb
+KR: Spawn 1 random Fire and Water orb
 
 # 5602/92 - Red Ice Slash
 JP: 火と水ドロップを1個生成
-EN: Spawn 1 random Fire or Water orb
-KR: Spawn 1 random Fire or Water orb
+EN: Spawn 1 random Fire and Water orb
+KR: Spawn 1 random Fire and Water orb
 
 # 5603/92 - Red Earth Slash
 JP: 火と木ドロップを1個生成
-EN: Spawn 1 random Fire or Wood orb
-KR: Spawn 1 random Fire or Wood orb
+EN: Spawn 1 random Fire and Wood orb
+KR: Spawn 1 random Fire and Wood orb
 
 # 5604/92 - Green Flame Crush
 JP: 火と木ドロップを1個生成
-EN: Spawn 1 random Fire or Wood orb
-KR: Spawn 1 random Fire or Wood orb
+EN: Spawn 1 random Fire and Wood orb
+KR: Spawn 1 random Fire and Wood orb
 
 # 5605/92 - Blue Earth Crush
 JP: 水と木ドロップを1個生成
-EN: Spawn 1 random Water or Wood orb
-KR: Spawn 1 random Water or Wood orb
+EN: Spawn 1 random Water and Wood orb
+KR: Spawn 1 random Water and Wood orb
 
 # 5606/92 - Green Ice Crush
 JP: 水と木ドロップを1個生成
-EN: Spawn 1 random Water or Wood orb
-KR: Spawn 1 random Water or Wood orb
+EN: Spawn 1 random Water and Wood orb
+KR: Spawn 1 random Water and Wood orb
 
 # 5607/39 - Troll Dance
 JP: 1ターンの間、操作時間-1秒
@@ -34871,8 +34871,8 @@ KR: Spawn 3 random locked Bomb orbs
 
 # 6967/92 - Impurity
 JP: お邪魔と猛毒ドロップを3個生成
-EN: Spawn 3 random Jammer or Mortal Poison orbs
-KR: Spawn 3 random Jammer or Mortal Poison orbs
+EN: Spawn 3 random Jammer and Mortal Poison orbs
+KR: Spawn 3 random Jammer and Mortal Poison orbs
 
 # 6968/83 - Preemptive 3 times
 JP: 
@@ -35551,8 +35551,8 @@ KR: Change the 3rd row to Jammer orbs
 
 # 7103/92 - Surely you're not done yet?
 JP: 火、水、木、光、闇、回復ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 7104/83 - 4th turn
 JP: 
@@ -35581,8 +35581,8 @@ KR: Absorb damage when combos <= 8 for 1 turn
 
 # 7109/92 - The end is nigh...
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 7110/101 - Don't let up now!
 JP: ドロップ操作開始位置をランダムで固定される
@@ -35621,8 +35621,8 @@ KR: Player -1000% HP
 
 # 7117/92 - Let's see you get past this!
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 # 7118/83 - Dios Preemptive Set
 JP: 
@@ -35691,8 +35691,8 @@ KR: Change all orbs to Poison
 
 # 7131/92 - Path to the Underworld
 JP: 回復、お邪魔、猛毒ドロップを2個生成
-EN: Spawn 2 random Heal, Jammer, or Mortal Poison orbs
-KR: Spawn 2 random Heal, Jammer, or Mortal Poison orbs
+EN: Spawn 2 random Heal, Jammer, and Mortal Poison orbs
+KR: Spawn 2 random Heal, Jammer, and Mortal Poison orbs
 
 # 7132/17 - Dark Wolf Howl
 JP: 999ターンの間、攻撃力が1000%に上昇
@@ -35816,8 +35816,8 @@ KR: Reduce self HP to 0
 
 # 7156/92 - Blessings of the Trickster God
 JP: お邪魔と毒ドロップを3個生成
-EN: Spawn 3 random Jammer or Poison orbs
-KR: Spawn 3 random Jammer or Poison orbs
+EN: Spawn 3 random Jammer and Poison orbs
+KR: Spawn 3 random Jammer and Poison orbs
 
 # 7157/63 - Fake Spear Gungnir
 JP: 1ターンの間、ランダムで1体がバインド
@@ -36516,8 +36516,8 @@ KR:
 
 # 7296/92 - Dash Attack
 JP: 火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップを2個生成
-EN: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 7297/67 - Frontal Spin
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
@@ -38246,8 +38246,8 @@ KR: A 2×1 rectangle of clouds appears for 1 turn at a random location
 
 # 7642/92 - Lovely Macaron
 JP: 火、水、木、光、闇ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
-KR: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
+EN: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
+KR: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
 
 # 7643/90 - Persephone Jump
 JP: Branch on player_cards HAS [3791, 100], target rnd None
@@ -40801,8 +40801,8 @@ KR: Reduce damage from all sources by 99% for 1 turn
 
 # 8153/92 - Thick Miasmatic Fog
 JP: 毒と猛毒ドロップを4個生成
-EN: Spawn 4 random Poison or Mortal Poison orbs
-KR: Spawn 4 random Poison or Mortal Poison orbs
+EN: Spawn 4 random Poison and Mortal Poison orbs
+KR: Spawn 4 random Poison and Mortal Poison orbs
 
 # 8154/83 - After 7 turns 2 times
 JP: 
@@ -41631,8 +41631,8 @@ KR: Delay active skills by 5 turns
 
 # 8319/92 - Quinary Prism
 JP: 火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 8320/48 - Glitter Purge
 JP: 毒ドロップを回復ドロップに変化
@@ -45261,8 +45261,8 @@ KR: Player -99% HP
 
 # 9045/92 - I'm going to block you!
 JP: 木、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Wood, Jammer, or Poison orbs
-KR: Spawn 6 random Wood, Jammer, or Poison orbs
+EN: Spawn 6 random Wood, Jammer, and Poison orbs
+KR: Spawn 6 random Wood, Jammer, and Poison orbs
 
 # 9046/17 - Unforgivable!
 JP: 99ターンの間、攻撃力が200%に上昇
@@ -45316,8 +45316,8 @@ KR:
 
 # 9056/92 - You can do it, right?
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 9057/98 - Next...this...
 JP: 1ターンの間、特定のドロップが超暗闇にする
@@ -45956,8 +45956,8 @@ KR: Spawn 3 random Bomb orbs
 
 # 9184/92 - So fuuun ♪
 JP: お邪魔と毒ドロップを2個生成
-EN: Spawn 2 random Jammer or Poison orbs
-KR: Spawn 2 random Jammer or Poison orbs
+EN: Spawn 2 random Jammer and Poison orbs
+KR: Spawn 2 random Jammer and Poison orbs
 
 # 9185/76 - Have a blast ♪
 JP: 上から2列目のドロップがお邪魔と毒ドロップに変化。上から5列目のドロップがお邪魔と毒ドロップに変化
@@ -46456,8 +46456,8 @@ KR: Change the 1st column to Water orbs and the 6th column to Wood orbs
 
 # 9284/92 - Norn's Whim
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
-KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
 
 # 9285/83 - Skuld First Half A2 times
 JP: 
@@ -47849,8 +47849,8 @@ KR: A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column
 
 # 9562/92 - I'm not done yet!
 JP: 火、水、木、光ドロップを10個生成
-EN: Spawn 10 random Fire, Water, Wood, or Light orbs
-KR: Spawn 10 random Fire, Water, Wood, or Light orbs
+EN: Spawn 10 random Fire, Water, Wood, and Light orbs
+KR: Spawn 10 random Fire, Water, Wood, and Light orbs
 
 # 9563/67 - I wonder if you can make it to the end!
 JP: 1ターンの間、8コンボ以下の攻撃を吸収
@@ -47864,8 +47864,8 @@ KR:
 
 # 9565/92 - Thanks for everything up to now!
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 # 9566/67 - This is the end!
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
@@ -48054,8 +48054,8 @@ KR:
 
 # 9603/92 - Thanks for the encore!
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 # 9604/67 - This is really the end!
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
@@ -48399,13 +48399,13 @@ KR: Change the 2nd and 4th rows to Wood, Heal, and Poison orbs
 
 # 9672/92 - Alabaster Flame
 JP: 光、回復、お邪魔、毒、猛毒ドロップを3個生成
-EN: Spawn 3 random Light, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 3 random Light, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 3 random Light, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 3 random Light, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 9673/92 - Obsidian Flame
 JP: 闇と毒ドロップを6個生成
-EN: Spawn 6 random Dark or Poison orbs
-KR: Spawn 6 random Dark or Poison orbs
+EN: Spawn 6 random Dark and Poison orbs
+KR: Spawn 6 random Dark and Poison orbs
 
 # 9674/88 - Judgment Carving
 JP: 1ターンの間、覚醒スキル無効化
@@ -48759,8 +48759,8 @@ KR: Absorb damage when combos <= 7 for 10 turns
 
 # 9744/92 - How about this one?
 JP: 木、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Wood, Jammer, or Poison orbs
-KR: Spawn 6 random Wood, Jammer, or Poison orbs
+EN: Spawn 6 random Wood, Jammer, and Poison orbs
+KR: Spawn 6 random Wood, Jammer, and Poison orbs
 
 # 9745/83 - 1st time 5+ combos 2 times
 JP: 
@@ -48934,53 +48934,53 @@ KR:
 
 # 9779/92 - Cataclysm
 JP: 火、水、木、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Heal, Poison, and Mortal Poison orbs
 
 # 9780/92 - Cataclysm
 JP: 水、木、光、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Water, Wood, Light, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Water, Wood, Light, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Water, Wood, Light, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Water, Wood, Light, Heal, Poison, and Mortal Poison orbs
 
 # 9781/92 - Cataclysm
 JP: 水、木、闇、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Water, Wood, Dark, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Water, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Water, Wood, Dark, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Water, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 
 # 9782/92 - Cataclysm
 JP: 火、木、光、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Wood, Light, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Wood, Light, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Wood, Light, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Wood, Light, Heal, Poison, and Mortal Poison orbs
 
 # 9783/92 - Cataclysm
 JP: 火、木、闇、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Wood, Dark, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Wood, Dark, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 
 # 9784/92 - Cataclysm
 JP: 木、光、闇、回復、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
 
 # 9785/92 - Cataclysm
 JP: 火、水、木、光、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Poison, and Mortal Poison orbs
 
 # 9786/92 - Cataclysm
 JP: 火、水、木、闇、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Dark, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Dark, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Dark, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Dark, Poison, and Mortal Poison orbs
 
 # 9787/92 - Cataclysm
 JP: 水、木、光、闇、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
 
 # 9788/92 - Cataclysm
 JP: 火、木、光、闇、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Wood, Light, Dark, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Wood, Light, Dark, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Wood, Light, Dark, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Wood, Light, Dark, Poison, and Mortal Poison orbs
 
 # 9789/68 - Fallen Fruit
 JP: 3ターンの間、毒ドロップを+20%に落ちてくる
@@ -50804,8 +50804,8 @@ KR: Reduce damage from all sources by 50% for 1 turn
 
 # 10153/92 - Destruction Program
 JP: 火、木、回復、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Fire, Wood, Heal, Jammer, or Poison orbs
-KR: Spawn 6 random Fire, Wood, Heal, Jammer, or Poison orbs
+EN: Spawn 6 random Fire, Wood, Heal, Jammer, and Poison orbs
+KR: Spawn 6 random Fire, Wood, Heal, Jammer, and Poison orbs
 
 # 10154/79 - Raging Fire Iron Claw
 JP: 左から2列目のドロップが火ドロップに変化
@@ -50839,8 +50839,8 @@ KR: Deal 9000% damage (3 hits, 3000% each)
 
 # 10160/92 - Colorful Melody
 JP: 火、水、木、回復ドロップを8個生成
-EN: Spawn 8 random Fire, Water, Wood, or Heal orbs
-KR: Spawn 8 random Fire, Water, Wood, or Heal orbs
+EN: Spawn 8 random Fire, Water, Wood, and Heal orbs
+KR: Spawn 8 random Fire, Water, Wood, and Heal orbs
 
 # 10161/92 - Love of Fair Crimson
 JP: 回復ドロップを1個生成
@@ -50889,8 +50889,8 @@ KR: Reduce damage from all sources by 99% for 5 turns
 
 # 10170/92 - Show me your best combos!
 JP: 回復、お邪魔、毒、猛毒ドロップを9個生成
-EN: Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 10171/83 - Preemptive 4 times
 JP: 
@@ -50949,8 +50949,8 @@ KR: Reduce damage from all sources by 50% for 15 turns
 
 # 10182/92 - Show me your best combos!
 JP: 回復、お邪魔、毒、猛毒ドロップを9個生成
-EN: Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 10183/83 - 3 turns 2 times
 JP: 
@@ -50994,8 +50994,8 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 10191/92 - Colorful Loop
 JP: 火、水、木、光、闇、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orbs
 
 # 10192/102 - Dangerous Bomb
 JP: 爆弾ドロップを6個生成
@@ -52104,8 +52104,8 @@ KR: Change all orbs to Fire, Water, Dark, and Heal
 
 # 10413/92 - Accepting Spirit
 JP: 火と闇ドロップを4個生成
-EN: Spawn 4 random Fire or Dark orbs
-KR: Spawn 4 random Fire or Dark orbs
+EN: Spawn 4 random Fire and Dark orbs
+KR: Spawn 4 random Fire and Dark orbs
 
 # 10414/48 - Darkness Pillar
 JP: ランダム属性のドロップを闇ドロップに変化
@@ -52299,8 +52299,8 @@ KR: Voids status ailments for 999 turns
 
 # 10452/92 - Aim for at least 8 combos!
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 10453/97 - Darkness...
 JP: 1ターンの間、ランダムで4個のドロップを超暗闇にする
@@ -52314,8 +52314,8 @@ KR:
 
 # 10455/92 - The second one...
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 10456/104 - Some Clouds...
 JP: 1ターンの間、ランダムでの1×3マスの長方形を雲で隠す
@@ -52329,8 +52329,8 @@ KR:
 
 # 10458/92 - Aaaand the third one...
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 10459/109 - Orb change!
 JP: 1ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
@@ -52494,13 +52494,13 @@ KR: Lock 3 random orbs
 
 # 10491/92 - Eir Effect
 JP: 火、水、木、光、回復、お邪魔、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Heal, Jammer, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Heal, Jammer, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Heal, Jammer, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Heal, Jammer, and Mortal Poison orbs
 
 # 10492/92 - Eir Effect
 JP: 火、水、木、闇、回復、お邪魔、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Dark, Heal, Jammer, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Dark, Heal, Jammer, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Dark, Heal, Jammer, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Dark, Heal, Jammer, and Mortal Poison orbs
 
 # 10493/66 - You're in great condition!
 JP: 何もしない
@@ -52699,8 +52699,8 @@ KR: Change all Jammer orbs to Heal orbs
 
 # 10532/92 - Drómi Call
 JP: 火とお邪魔ドロップを4個生成
-EN: Spawn 4 random Fire or Jammer orbs
-KR: Spawn 4 random Fire or Jammer orbs
+EN: Spawn 4 random Fire and Jammer orbs
+KR: Spawn 4 random Fire and Jammer orbs
 
 # 10533/77 - Glær Svalinn
 JP: 上から2と5列目のドロップが火と水ドロップに変化
@@ -53509,8 +53509,8 @@ KR: Deal 100% damage
 
 # 10694/92 - Curse of the Tree
 JP: 木と猛毒ドロップを30個生成
-EN: Spawn 30 random Wood or Mortal Poison orbs
-KR: Spawn 30 random Wood or Mortal Poison orbs
+EN: Spawn 30 random Wood and Mortal Poison orbs
+KR: Spawn 30 random Wood and Mortal Poison orbs
 
 # 10695/89 - Relentless Bombardment
 JP: スキルターンを99ターン遅延
@@ -53524,8 +53524,8 @@ KR: Bind active skills for 1 turn
 
 # 10697/92 - Themis's Oracle
 JP: 光、回復、お邪魔、猛毒ドロップを10個生成
-EN: Spawn 10 random Light, Heal, Jammer, or Mortal Poison orbs
-KR: Spawn 10 random Light, Heal, Jammer, or Mortal Poison orbs
+EN: Spawn 10 random Light, Heal, Jammer, and Mortal Poison orbs
+KR: Spawn 10 random Light, Heal, Jammer, and Mortal Poison orbs
 
 # 10698/83 - Ran Dun Preemptive
 JP: 
@@ -54199,8 +54199,8 @@ KR:
 
 # 10832/92 - Fehde Gandr
 JP: 水と闇ドロップを3個生成
-EN: Spawn 3 random Water or Dark orbs
-KR: Spawn 3 random Water or Dark orbs
+EN: Spawn 3 random Water and Dark orbs
+KR: Spawn 3 random Water and Dark orbs
 
 # 10833/76 - Blót Gandr
 JP: 上から1列目のドロップが水ドロップに変化。上から6列目のドロップが闇ドロップに変化
@@ -54974,8 +54974,8 @@ KR: Specific orbs change every 1.0s for 4 turns
 
 # 10987/92 - Cauchemar Fragment
 JP: お邪魔と毒ドロップを2個生成
-EN: Spawn 2 random Jammer or Poison orbs
-KR: Spawn 2 random Jammer or Poison orbs
+EN: Spawn 2 random Jammer and Poison orbs
+KR: Spawn 2 random Jammer and Poison orbs
 
 # 10988/48 - Cauchemar Tempest
 JP: ランダム属性のドロップをお邪魔ドロップに変化
@@ -55874,8 +55874,8 @@ KR: RCV 50% for 10 turns
 
 # 11167/92 - B-Be careful!
 JP: 回復と猛毒ドロップを3個生成
-EN: Spawn 3 random Heal or Mortal Poison orbs
-KR: Spawn 3 random Heal or Mortal Poison orbs
+EN: Spawn 3 random Heal and Mortal Poison orbs
+KR: Spawn 3 random Heal and Mortal Poison orbs
 
 # 11168/108 - P-Please be patient!
 JP: 毒ドロップを回復ドロップに変化
@@ -56469,8 +56469,8 @@ KR: Branch on player_cards HAS [2508, 2509, 3770, 3771, 4813], target rnd None
 
 # 11286/92 - Small Glow
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 11287/67 - Miasma from Hell
 JP: 1ターンの間、7コンボ以下の攻撃を吸収
@@ -56779,8 +56779,8 @@ KR: Change all Heal orbs to Jammer orbs
 
 # 11348/92 - The End of Halloween
 JP: お邪魔と猛毒ドロップを6個生成
-EN: Spawn 6 random Jammer or Mortal Poison orbs
-KR: Spawn 6 random Jammer or Mortal Poison orbs
+EN: Spawn 6 random Jammer and Mortal Poison orbs
+KR: Spawn 6 random Jammer and Mortal Poison orbs
 
 # 11349/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
@@ -57049,8 +57049,8 @@ KR: Lock 10 random orbs
 
 # 11402/92 - Sweet Magic
 JP: お邪魔、毒、猛毒ドロップを3個生成
-EN: Spawn 3 random Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 3 random Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 3 random Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 3 random Jammer, Poison, and Mortal Poison orbs
 
 # 11403/87 - Sweet Pocket
 JP: 99ターンの間、1500万以上のダメージを吸収
@@ -57114,8 +57114,8 @@ KR: Bind 1 random sub for 2 turns
 
 # 11415/92 - Temptation of the 3 colored Dango
 JP: 火、木、回復ドロップを1個生成
-EN: Spawn 1 random Fire, Wood, or Heal orb
-KR: Spawn 1 random Fire, Wood, or Heal orb
+EN: Spawn 1 random Fire, Wood, and Heal orb
+KR: Spawn 1 random Fire, Wood, and Heal orb
 
 # 11416/48 - Super Sweet Dorayaki
 JP: ランダム属性のドロップをお邪魔ドロップに変化
@@ -57534,8 +57534,8 @@ KR: Change a random attribute to Light orbs
 
 # 11499/92 - Yaa!
 JP: 火と光ドロップを3個生成
-EN: Spawn 3 random Fire or Light orbs
-KR: Spawn 3 random Fire or Light orbs
+EN: Spawn 3 random Fire and Light orbs
+KR: Spawn 3 random Fire and Light orbs
 
 # 11500/15 - I know what skill to use.
 JP: 200%ダメージ (8連続攻撃、25%ごと)
@@ -57764,8 +57764,8 @@ KR: Voids status ailments for 999 turns
 
 # 11545/92 - Aurora Glass
 JP: 火、水、木、光、闇、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
 
 # 11546/83 - Preemptive 2 times
 JP: 
@@ -57959,8 +57959,8 @@ KR:
 
 # 11584/92 - Blazing Cyclone
 JP: 火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 11585/94 - Aero Feather
 JP: ランダムで15個ドロップをロック
@@ -58019,8 +58019,8 @@ KR: Change a random attribute to Wood orbs
 
 # 11596/92 - Fire Storm
 JP: 火と木ドロップを4個生成
-EN: Spawn 4 random Fire or Wood orbs
-KR: Spawn 4 random Fire or Wood orbs
+EN: Spawn 4 random Fire and Wood orbs
+KR: Spawn 4 random Fire and Wood orbs
 
 # 11597/15 - Climatic Gale
 JP: 105%ダメージ (3連続攻撃、35%ごと)
@@ -59449,8 +59449,8 @@ KR: Absorb damage when combos <= 9 for 999 turns
 
 # 11882/92 - Pandora's Box
 JP: 光、闇、回復、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Light, Dark, Heal, Jammer, or Poison orbs
-KR: Spawn 6 random Light, Dark, Heal, Jammer, or Poison orbs
+EN: Spawn 6 random Light, Dark, Heal, Jammer, and Poison orbs
+KR: Spawn 6 random Light, Dark, Heal, Jammer, and Poison orbs
 
 # 11883/83 - 10 combos or more 2 times
 JP: 
@@ -60419,8 +60419,8 @@ KR:
 
 # 12076/92 - Elemental Magic
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 12077/77 - Ice Rain
 JP: 上から6列目のドロップが水ドロップに変化
@@ -60624,8 +60624,8 @@ KR: Spawn 5 random locked Bomb orbs
 
 # 12117/92 - Impurity
 JP: お邪魔と猛毒ドロップを3個生成
-EN: Spawn 3 random Jammer or Mortal Poison orbs
-KR: Spawn 3 random Jammer or Mortal Poison orbs
+EN: Spawn 3 random Jammer and Mortal Poison orbs
+KR: Spawn 3 random Jammer and Mortal Poison orbs
 
 # 12118/83 - Preemptive 3 times
 JP: 
@@ -63859,8 +63859,8 @@ KR: Change the 1st column to Fire orbs and the 2nd column to Water orbs
 
 # 12764/92 - Sorry to keep you waiting!
 JP: 火、闇、回復、お邪魔ドロップを3個生成
-EN: Spawn 3 random Fire, Dark, Heal, or Jammer orbs
-KR: Spawn 3 random Fire, Dark, Heal, or Jammer orbs
+EN: Spawn 3 random Fire, Dark, Heal, and Jammer orbs
+KR: Spawn 3 random Fire, Dark, Heal, and Jammer orbs
 
 # 12765/104 - Have some piping hot food!
 JP: 1ターンの間、ランダムでの6×5マスの長方形を雲で隠す
@@ -65184,8 +65184,8 @@ KR: Change the 5th row to Dark orbs
 
 # 13029/92 - Mid-air Tail Strike
 JP: 水と闇ドロップを3個生成
-EN: Spawn 3 random Water or Dark orbs
-KR: Spawn 3 random Water or Dark orbs
+EN: Spawn 3 random Water and Dark orbs
+KR: Spawn 3 random Water and Dark orbs
 
 # 13030/109 - Compressing Air Bubble...
 JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
@@ -65659,8 +65659,8 @@ KR: Delay active skills by 5 turns
 
 # 13124/92 - I'll put it in the lunch box
 JP: 火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 13125/48 - I'll remake this one
 JP: 毒ドロップを回復ドロップに変化
@@ -65899,8 +65899,8 @@ KR: Blind all orbs on the board
 
 # 13172/92 - Take this!
 JP: 火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 13173/108 - Useless things go in the trash can!
 JP: 毒ドロップを闇ドロップに変化
@@ -66064,8 +66064,8 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
 # 13205/92 - 一緒に食べるとおいしいね♪
 JP: 火、水、木、光、闇ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
-KR: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
+EN: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
+KR: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
 
 # 13206/92 - これがお気に入り♪
 JP: 光ドロップを5個生成
@@ -66349,8 +66349,8 @@ KR: Absorb damage when combos <= 6 for 10 turns
 
 # 13262/92 - My mana burns with passion.
 JP: 木と闇ドロップを3個生成
-EN: Spawn 3 random Wood or Dark orbs
-KR: Spawn 3 random Wood or Dark orbs
+EN: Spawn 3 random Wood and Dark orbs
+KR: Spawn 3 random Wood and Dark orbs
 
 # 13263/48 - Wanna dance punk?
 JP: ランダム属性のドロップを闇ドロップに変化
@@ -66569,8 +66569,8 @@ KR: Deal 110% damage (2 hits, 55% each)
 
 # 13306/92 - I can't lose anymore.
 JP: 木と光ドロップを4個生成
-EN: Spawn 4 random Wood or Light orbs
-KR: Spawn 4 random Wood or Light orbs
+EN: Spawn 4 random Wood and Light orbs
+KR: Spawn 4 random Wood and Light orbs
 
 # 13307/83 - 2-turn action
 JP: 
@@ -66609,8 +66609,8 @@ KR: Deal 105% damage (3 hits, 35% each)
 
 # 13314/92 - I've already been to hell. Boring...
 JP: 火と闇ドロップを4個生成
-EN: Spawn 4 random Fire or Dark orbs
-KR: Spawn 4 random Fire or Dark orbs
+EN: Spawn 4 random Fire and Dark orbs
+KR: Spawn 4 random Fire and Dark orbs
 
 # 13315/50 - The rest of you can live a little longer.
 JP: 現HPの99%のダメージ
@@ -66799,8 +66799,8 @@ KR: No skyfall for 2 turns
 
 # 13352/92 - Do your best and make some combos
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 13353/83 - ＿Less than 50% 2 times
 JP: 
@@ -67344,8 +67344,8 @@ KR: Random 2 orbs change every 1.0s for 1 turn
 
 # 13461/92 - Marching Guide
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
-KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
 
 # 13462/17 - Musician's Bonds
 JP: 999ターンの間、攻撃力が150%に上昇
@@ -67489,8 +67489,8 @@ KR: Fix orb movement starting point to random position on the board
 
 # 13490/92 - Sporadic Incineration
 JP: お邪魔と毒ドロップを4個生成
-EN: Spawn 4 random Jammer or Poison orbs
-KR: Spawn 4 random Jammer or Poison orbs
+EN: Spawn 4 random Jammer and Poison orbs
+KR: Spawn 4 random Jammer and Poison orbs
 
 # 13491/63 - Cruel Dispute
 JP: 2ターンの間、ランダムでサブ3体がバインド
@@ -67554,8 +67554,8 @@ KR: Fix orb movement starting point to random position on the board
 
 # 13503/92 - Sporadic Incineration
 JP: お邪魔と毒ドロップを4個生成
-EN: Spawn 4 random Jammer or Poison orbs
-KR: Spawn 4 random Jammer or Poison orbs
+EN: Spawn 4 random Jammer and Poison orbs
+KR: Spawn 4 random Jammer and Poison orbs
 
 # 13504/63 - Cruel Dispute
 JP: 2ターンの間、ランダムでサブ3体がバインド
@@ -67664,8 +67664,8 @@ KR: Fix orb movement starting point to random position on the board
 
 # 13525/92 - Sporadic Incineration
 JP: お邪魔と毒ドロップを4個生成
-EN: Spawn 4 random Jammer or Poison orbs
-KR: Spawn 4 random Jammer or Poison orbs
+EN: Spawn 4 random Jammer and Poison orbs
+KR: Spawn 4 random Jammer and Poison orbs
 
 # 13526/63 - Cruel Dispute
 JP: 2ターンの間、ランダムでサブ3体がバインド
@@ -67729,8 +67729,8 @@ KR: Change player HP to 30000 for 15 turns
 
 # 13538/92 - Just go and have fun
 JP: お邪魔と毒ドロップを3個生成
-EN: Spawn 3 random Jammer or Poison orbs
-KR: Spawn 3 random Jammer or Poison orbs
+EN: Spawn 3 random Jammer and Poison orbs
+KR: Spawn 3 random Jammer and Poison orbs
 
 # 13539/15 - Oh! You can't go there
 JP: 100%ダメージ (4連続攻撃、25%ごと)
@@ -67804,8 +67804,8 @@ KR: No skyfall for 5 turns
 
 # 13553/92 - Brilliant Star Gem
 JP: 火、水、木、光、闇、回復ドロップを7個生成
-EN: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13554/77 - Ascension
 JP: 上から3列目のドロップが光ドロップに変化。上から4列目のドロップが光ドロップに変化
@@ -67819,8 +67819,8 @@ KR:
 
 # 13556/92 - Brilliant Star Gem
 JP: 火、水、木、光、闇、回復ドロップを7個生成
-EN: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13557/39 - Have you decided on your wish?
 JP: 5ターンの間、操作時間+120%
@@ -68129,8 +68129,8 @@ KR: Spawn 1 random Bomb orb
 
 # 13618/92 - Poison Assortment
 JP: 毒と猛毒ドロップを3個生成
-EN: Spawn 3 random Poison or Mortal Poison orbs
-KR: Spawn 3 random Poison or Mortal Poison orbs
+EN: Spawn 3 random Poison and Mortal Poison orbs
+KR: Spawn 3 random Poison and Mortal Poison orbs
 
 # 13619/15 - Curse Rod
 JP: 120%ダメージ (3連続攻撃、40%ごと)
@@ -68194,13 +68194,13 @@ KR: Survive attacks with 1 HP when HP > 50%
 
 # 13631/92 - Not just...lemon...
 JP: 光とお邪魔ドロップを4個生成
-EN: Spawn 4 random Light or Jammer orbs
-KR: Spawn 4 random Light or Jammer orbs
+EN: Spawn 4 random Light and Jammer orbs
+KR: Spawn 4 random Light and Jammer orbs
 
 # 13632/92 - Not just grapes... Eat everything!
 JP: 闇と毒ドロップを4個生成
-EN: Spawn 4 random Dark or Poison orbs
-KR: Spawn 4 random Dark or Poison orbs
+EN: Spawn 4 random Dark and Poison orbs
+KR: Spawn 4 random Dark and Poison orbs
 
 # 13633/102 - Double Bomb
 JP: 爆弾ドロップを2個生成
@@ -69129,8 +69129,8 @@ KR: Bind active skills for 1 turn
 
 # 13818/92 - You see those Poison Orbs?
 JP: 火、闇、猛毒ドロップを10個生成
-EN: Spawn 10 random Fire, Dark, or Mortal Poison orbs
-KR: Spawn 10 random Fire, Dark, or Mortal Poison orbs
+EN: Spawn 10 random Fire, Dark, and Mortal Poison orbs
+KR: Spawn 10 random Fire, Dark, and Mortal Poison orbs
 
 # 13819/109 - Make them disappear
 JP: 1ターンの間、ランダムで2箇所のマスがが0.5秒毎に変化する
@@ -69239,8 +69239,8 @@ KR: Reduce damage from all sources by 75% for 2 turns
 
 # 13840/92 - Multitude of Brilliance
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 13841/17 - Guidance of the Starry Night
 JP: 1ターンの間、攻撃力が500%に上昇
@@ -69719,8 +69719,8 @@ KR: Spawn 2 random Fire orbs
 
 # 13936/92 - Cerulean Flame Breath
 JP: 火と水ドロップを2個生成
-EN: Spawn 2 random Fire or Water orbs
-KR: Spawn 2 random Fire or Water orbs
+EN: Spawn 2 random Fire and Water orbs
+KR: Spawn 2 random Fire and Water orbs
 
 # 13937/94 - Well, show me your power!
 JP: ランダムで3個ドロップをロック
@@ -70094,8 +70094,8 @@ KR: Bind awoken skills for 3 turns
 
 # 14011/92 - Independent Action
 JP: お邪魔と毒ドロップを3個生成
-EN: Spawn 3 random Jammer or Poison orbs
-KR: Spawn 3 random Jammer or Poison orbs
+EN: Spawn 3 random Jammer and Poison orbs
+KR: Spawn 3 random Jammer and Poison orbs
 
 # 14012/94 - Law's Binding Spell
 JP: お邪魔と毒ドロップをロック
@@ -70289,8 +70289,8 @@ KR: Do nothing
 
 # 14050/92 - フェアじゃない
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 14051/15 - 転蓮華
 JP: 100%ダメージ
@@ -70859,8 +70859,8 @@ KR: Bind active skills for 5 turns
 
 # 14164/92 - Don't make any combos!!!
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 14165/83 - ＿1st time
 JP: 
@@ -70924,8 +70924,8 @@ KR: Spawn 6 random Bomb orbs
 
 # 14177/92 - And now, the final curtain!
 JP: 水、回復、お邪魔、毒ドロップを6個生成
-EN: Spawn 6 random Water, Heal, Jammer, or Poison orbs
-KR: Spawn 6 random Water, Heal, Jammer, or Poison orbs
+EN: Spawn 6 random Water, Heal, Jammer, and Poison orbs
+KR: Spawn 6 random Water, Heal, Jammer, and Poison orbs
 
 # 14178/66 - I've saved the best for last!
 JP: 何もしない
@@ -71379,8 +71379,8 @@ KR: Bind awoken skills for 2 turns
 
 # 14268/92 - Let's Ride the Heat Wave!
 JP: 火と水ドロップを22個生成
-EN: Spawn 22 random Fire or Water orbs
-KR: Spawn 22 random Fire or Water orbs
+EN: Spawn 22 random Fire and Water orbs
+KR: Spawn 22 random Fire and Water orbs
 
 # 14269/67 - Aerial
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
@@ -72504,8 +72504,8 @@ KR: Deal 800% damage (10 hits, 80% each)
 
 # 14493/92 - Staff of Destiny
 JP: 火、水、木、光、闇、回復、猛毒ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Mortal Poison orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Mortal Poison orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Mortal Poison orbs
 
 # 14494/20 - I'm scared...
 JP: 999ターンの間、状態異常無効化
@@ -72554,8 +72554,8 @@ KR: Increase damage to 150% for the next 3 turns
 
 # 14503/92 - Ferociously Soaring Scarlet Flames
 JP: 火とお邪魔ドロップを5個生成
-EN: Spawn 5 random Fire or Jammer orbs
-KR: Spawn 5 random Fire or Jammer orbs
+EN: Spawn 5 random Fire and Jammer orbs
+KR: Spawn 5 random Fire and Jammer orbs
 
 # 14504/79 - Mischievous Gust of Wind
 JP: 左から2列目のドロップが木ドロップに変化
@@ -72719,8 +72719,8 @@ KR: Change all Poison orbs to Heal orbs
 
 # 14536/92 - Scattering Scales
 JP: 回復と毒ドロップを5個生成
-EN: Spawn 5 random Heal or Poison orbs
-KR: Spawn 5 random Heal or Poison orbs
+EN: Spawn 5 random Heal and Poison orbs
+KR: Spawn 5 random Heal and Poison orbs
 
 # 14537/85 - Flamboyant Flower Flourish
 JP: 全ドロップを火、水、木、光、闇、回復、毒に変化
@@ -72989,13 +72989,13 @@ KR: Reduce damage from all sources by 80% for 5 turns
 
 # 14590/92 - Purgatory
 JP: 火とお邪魔ドロップを2個生成
-EN: Spawn 2 random Fire or Jammer orbs
-KR: Spawn 2 random Fire or Jammer orbs
+EN: Spawn 2 random Fire and Jammer orbs
+KR: Spawn 2 random Fire and Jammer orbs
 
 # 14591/92 - Divine Sun
 JP: 火、水、木、光、闇、回復ドロップを7個生成
-EN: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14592/71 - Here I come!
 JP: 3ターンの間、50000000以上のダメージを無効化
@@ -73094,8 +73094,8 @@ KR: Leader changes to random sub for 1 turn
 
 # 14611/92 - Five Flash Rip
 JP: 火、水、木、光、闇ドロップを2個生成
-EN: Spawn 2 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 2 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 2 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 2 random Fire, Water, Wood, Light, and Dark orbs
 
 # 14612/85 - Reverse Five Flash Rip
 JP: 全ドロップを火、水、木、光、闇に変化
@@ -73209,8 +73209,8 @@ KR: Random 1 orbs change every 1.0s for 1 turn
 
 # 14634/92 - 6 Swallow Flash
 JP: 火と水ドロップを3個生成
-EN: Spawn 3 random Fire or Water orbs
-KR: Spawn 3 random Fire or Water orbs
+EN: Spawn 3 random Fire and Water orbs
+KR: Spawn 3 random Fire and Water orbs
 
 # 14635/15 - Eightfold Path of Gloom
 JP: 250%ダメージ (10連続攻撃、25%ごと)
@@ -73389,8 +73389,8 @@ KR: Leader changes to random sub for 1 turn
 
 # 14670/92 - Splash Gradation
 JP: 水と木ドロップを4個生成
-EN: Spawn 4 random Water or Wood orbs
-KR: Spawn 4 random Water or Wood orbs
+EN: Spawn 4 random Water and Wood orbs
+KR: Spawn 4 random Water and Wood orbs
 
 # 14671/15 - La Danse De La Rose
 JP: 245%ダメージ (7連続攻撃、35%ごと)
@@ -73719,8 +73719,8 @@ KR: Void damage >= 8000000 for 10 turns
 
 # 14736/92 - Hydro Blast
 JP: 水と猛毒ドロップを5個生成
-EN: Spawn 5 random Water or Mortal Poison orbs
-KR: Spawn 5 random Water or Mortal Poison orbs
+EN: Spawn 5 random Water and Mortal Poison orbs
+KR: Spawn 5 random Water and Mortal Poison orbs
 
 # 14737/15 - Double Crunch
 JP: 300%ダメージ (2連続攻撃、150%ごと)
@@ -74014,8 +74014,8 @@ KR: Delay active skills by 99 turns
 
 # 14795/92 - Here you go♪
 JP: 回復と猛毒ドロップを15個生成
-EN: Spawn 15 random Heal or Mortal Poison orbs
-KR: Spawn 15 random Heal or Mortal Poison orbs
+EN: Spawn 15 random Heal and Mortal Poison orbs
+KR: Spawn 15 random Heal and Mortal Poison orbs
 
 # 14796/83 - ＿1st time
 JP: 
@@ -74049,8 +74049,8 @@ KR: Change player HP to 100000 for 1 turn
 
 # 14802/92 - Tougher than expected?
 JP: 回復、お邪魔、毒ドロップを10個生成
-EN: Spawn 10 random Heal, Jammer, or Poison orbs
-KR: Spawn 10 random Heal, Jammer, or Poison orbs
+EN: Spawn 10 random Heal, Jammer, and Poison orbs
+KR: Spawn 10 random Heal, Jammer, and Poison orbs
 
 # 14803/105 - This'll make you better
 JP: 1ターンの間、回復力を500%になる
@@ -74119,8 +74119,8 @@ KR: No skyfall for 5 turns
 
 # 14816/92 - Cheery Candy!
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14817/83 - Preemptive 3 Times
 JP: 
@@ -74134,8 +74134,8 @@ KR: Do nothing
 
 # 14819/92 - You'll show me your worth now, right!
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14820/66 - Make 1 combo with each color♪
 JP: 何もしない
@@ -74144,8 +74144,8 @@ KR: Do nothing
 
 # 14821/92 - Take your time!
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14822/66 - Great! You did it!♪
 JP: 何もしない
@@ -74179,8 +74179,8 @@ KR: Movetime 500% for 99 turns
 
 # 14828/92 - Don't give up!
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14829/83 - After 5 turns
 JP: 
@@ -75164,8 +75164,8 @@ KR: Blind random 2 orbs for 1 turn
 
 # 15025/92 - Color Drop
 JP: 火、水、木、光、闇、回復ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 15026/39 - Time Eater
 JP: 1ターンの間、操作時間-1秒
@@ -75179,8 +75179,8 @@ KR: Enemy ally recover 100% HP
 
 # 15028/92 - Curse of the Sea God
 JP: 火、水、木、光、回復ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
 
 # 15029/83 - ＿Preemptive 2 times
 JP: 
@@ -75194,8 +75194,8 @@ KR: Absorb damage when combos <= 7 for 999 turns
 
 # 15031/92 - Curse of the Sea God
 JP: 火、水、木、光、回復ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
 
 # 15032/68 - Wake Up!
 JP: 1ターンの間、火、水、木、光、闇ドロップを+100%に落ちてくる
@@ -75309,8 +75309,8 @@ KR: Movetime 240% for 2 turns
 
 # 15054/92 - 40 combos in 4 turns!
 JP: 火、水、木、光、闇、回復、お邪魔ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 # 15055/78 - Well, very pretty, right?
 JP: 左から1と5列目のドロップが火ドロップに変化。左から2と4列目のドロップが水ドロップに変化
@@ -75559,8 +75559,8 @@ KR: Unable to match Jammer orbs for 4 turns
 
 # 15104/92 - Just right for a drink snack
 JP: 火、水、木、光、お邪魔ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Jammer orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Jammer orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Jammer orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Jammer orbs
 
 # 15105/39 - Well, let's try your best
 JP: 4ターンの間、操作時間+200%
@@ -75584,8 +75584,8 @@ KR: Unable to match Water orbs for 1 turn
 
 # 15109/92 - How about the next turn?
 JP: 火、水、木、光、闇ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
 
 # 15110/83 - ＿2nd Time
 JP: 
@@ -75604,8 +75604,8 @@ KR: Unable to match Wood orbs for 1 turn
 
 # 15113/92 - Isn't this a struggle?
 JP: 火、水、木、光、闇ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
 
 # 15114/5 - I forgot the bonus
 JP: 全ドロップを真っ暗にする
@@ -75624,8 +75624,8 @@ KR: Fix orb movement starting point to random position on the board
 
 # 15117/92 - I'm surprised you made it this far
 JP: 火、水、木、光、闇、回復、毒、猛毒ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
 
 # 15118/107 - Well, how about this?
 JP: 1ターンの間、闇ドロップを消せなくなる
@@ -75689,8 +75689,8 @@ KR:
 
 # 15130/92 - How about this?
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 15131/84 - Let me have some more fun
 JP: 全ドロップを火、水、木、光、闇、回復に変化
@@ -75744,8 +75744,8 @@ KR: Change all orbs to Light
 
 # 15141/92 - I'll be impressed if you can do it
 JP: 回復、お邪魔、毒ドロップを9個生成
-EN: Spawn 9 random Heal, Jammer, or Poison orbs
-KR: Spawn 9 random Heal, Jammer, or Poison orbs
+EN: Spawn 9 random Heal, Jammer, and Poison orbs
+KR: Spawn 9 random Heal, Jammer, and Poison orbs
 
 # 15142/97 - Yoooo!
 JP: 1ターンの間、全ドロップが超暗闇になる
@@ -75769,8 +75769,8 @@ KR: Spawn Bomb orbs in the specified positions
 
 # 15146/92 - This is my last shot!
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 
 # 15147/67 - Don't mess this up!!
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
@@ -78069,8 +78069,8 @@ KR:
 
 # 15606/92 - Rain of Colors
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを2個生成
-EN: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
-KR: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+EN: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
+KR: Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 
 # 15607/94 - Restraint Attack
 JP: ランダムで15個ドロップをロック
@@ -78364,8 +78364,8 @@ KR: Absorb damage when combos <= 9 for 1 turn
 
 # 15665/92 - Pandora's Box
 JP: 闇、回復、お邪魔、毒、猛毒ドロップを6個生成
-EN: Spawn 6 random Dark, Heal, Jammer, Poison, or Mortal Poison orbs
-KR: Spawn 6 random Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+EN: Spawn 6 random Dark, Heal, Jammer, Poison, and Mortal Poison orbs
+KR: Spawn 6 random Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 # 15666/83 - ＿Over 10 Combo
 JP: 
@@ -78489,8 +78489,8 @@ KR: Lock 10 random orbs
 
 # 15690/92 - Starsea Glimmer
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
-KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
 
 # 15691/83 - ＿5 Turns
 JP: 
@@ -78804,8 +78804,8 @@ KR: Reduce damage from all sources by 75% for 3 turns
 
 # 15753/92 - Flash Flare Blast
 JP: 火と闇ドロップを5個生成
-EN: Spawn 5 random Fire or Dark orbs
-KR: Spawn 5 random Fire or Dark orbs
+EN: Spawn 5 random Fire and Dark orbs
+KR: Spawn 5 random Fire and Dark orbs
 
 # 15754/83 - ＿Ponkotsu Preemptive
 JP: 
@@ -78969,8 +78969,8 @@ KR: Deal 92% damage (2 hits, 46% each)
 
 # 15786/92 - Dark Burning Attack
 JP: 光と闇ドロップを3個生成
-EN: Spawn 3 random Light or Dark orbs
-KR: Spawn 3 random Light or Dark orbs
+EN: Spawn 3 random Light and Dark orbs
+KR: Spawn 3 random Light and Dark orbs
 
 # 15787/67 - Summon Dark Magician
 JP: 5ターンの間、5コンボ以下の攻撃を吸収
@@ -79694,8 +79694,8 @@ KR: No skyfall for 5 turns
 
 # 15931/92 - Sweet Word
 JP: 火と回復ドロップを3個生成
-EN: Spawn 3 random Fire or Heal orbs
-KR: Spawn 3 random Fire or Heal orbs
+EN: Spawn 3 random Fire and Heal orbs
+KR: Spawn 3 random Fire and Heal orbs
 
 # 15932/83 - ＿Gremory Preemptive
 JP: 
@@ -80019,8 +80019,8 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 15996/92 - Amenomina's 8 Seals of Creation
 JP: 火、水、木、光、闇、回復、お邪魔、毒ドロップを5個生成
-EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
-KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+EN: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
+KR: Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 
 # 15997/83 - ＿Preemptive 2 Times
 JP: 
@@ -80039,8 +80039,8 @@ KR: No skyfall for 10 turns
 
 # 16000/92 - The color of a Magic Flame
 JP: 火、水、木ドロップを4個生成
-EN: Spawn 4 random Fire, Water, or Wood orbs
-KR: Spawn 4 random Fire, Water, or Wood orbs
+EN: Spawn 4 random Fire, Water, and Wood orbs
+KR: Spawn 4 random Fire, Water, and Wood orbs
 
 # 16001/92 - Dark Nova
 JP: 闇ドロップを6個生成
@@ -80149,8 +80149,8 @@ KR: No skyfall for 8 turns
 
 # 16022/92 - Gimme everything you've got!!
 JP: 火、水、木、光、闇ドロップを4個生成
-EN: Spawn 4 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 4 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 4 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 4 random Fire, Water, Wood, Light, and Dark orbs
 
 # 16023/77 - Itsu-no-Ohabari's Breaking Thunder
 JP: 上から1、2、5、6列目のドロップがお邪魔ドロップに変化
@@ -80194,8 +80194,8 @@ KR: Deal 1000% damage
 
 # 16031/92 - Show me that you're ready
 JP: 水、木、光、闇、回復ドロップを6個生成
-EN: Spawn 6 random Water, Wood, Light, Dark, or Heal orbs
-KR: Spawn 6 random Water, Wood, Light, Dark, or Heal orbs
+EN: Spawn 6 random Water, Wood, Light, Dark, and Heal orbs
+KR: Spawn 6 random Water, Wood, Light, Dark, and Heal orbs
 
 # 16032/83 - ＿Preemptive 4 times
 JP: 
@@ -80609,8 +80609,8 @@ KR:
 
 # 16114/92 - Ehehe, it suits me right?
 JP: 火、水、木、光、闇ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
-KR: Spawn 1 random Fire, Water, Wood, Light, or Dark orb
+EN: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
+KR: Spawn 1 random Fire, Water, Wood, Light, and Dark orb
 
 # 16115/15 - Raaahhh!!
 JP: 100%ダメージ (2連続攻撃、50%ごと)
@@ -80744,8 +80744,8 @@ KR: Absorb Dark damage for 5 turns
 
 # 16141/92 - The feast ends here
 JP: お邪魔と毒ドロップを10個生成
-EN: Spawn 10 random Jammer or Poison orbs
-KR: Spawn 10 random Jammer or Poison orbs
+EN: Spawn 10 random Jammer and Poison orbs
+KR: Spawn 10 random Jammer and Poison orbs
 
 # 16142/92 - You can't afford to be distracted
 JP: 全ドロップを猛毒に変化
@@ -81114,8 +81114,8 @@ KR:
 
 # 16215/92 - Blessed Earth
 JP: 火、木、猛毒ドロップを15個生成
-EN: Spawn 15 random Fire, Wood, or Mortal Poison orbs
-KR: Spawn 15 random Fire, Wood, or Mortal Poison orbs
+EN: Spawn 15 random Fire, Wood, and Mortal Poison orbs
+KR: Spawn 15 random Fire, Wood, and Mortal Poison orbs
 
 # 16216/83 - ＿Preemptive
 JP: 
@@ -81169,8 +81169,8 @@ KR:
 
 # 16226/92 - I have a trial for you
 JP: 火、水、木、光、闇ドロップを6個生成
-EN: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
 # 16227/107 - Get rid of every Fire Orb
 JP: 1ターンの間、水、木、光、闇ドロップを消せなくなる
@@ -82494,8 +82494,8 @@ KR: Bind 2 random cards for 3 turns
 
 # 16491/92 - Spider Smash
 JP: 火と木ドロップを3個生成
-EN: Spawn 3 random Fire or Wood orbs
-KR: Spawn 3 random Fire or Wood orbs
+EN: Spawn 3 random Fire and Wood orbs
+KR: Spawn 3 random Fire and Wood orbs
 
 # 16492/15 - Lightning Slash
 JP: 99%ダメージ (3連続攻撃、33%ごと)
@@ -82739,8 +82739,8 @@ KR: Spawn 7 random Fire orbs
 
 # 16540/92 - Rainbow 77
 JP: 火、水、木、光、闇、お邪魔、毒ドロップを1個生成
-EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb
-KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb
+EN: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orb
+KR: Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orb
 
 # 16541/15 - 7th Impact
 JP: 315%ダメージ (7連続攻撃、45%ごと)
@@ -82984,8 +82984,8 @@ KR: Change the 1st row to Jammer orbs and the 3rd row to Jammer orbs
 
 # 16589/92 - Movement Deterrent
 JP: 火と毒ドロップを6個生成
-EN: Spawn 6 random Fire or Poison orbs
-KR: Spawn 6 random Fire or Poison orbs
+EN: Spawn 6 random Fire and Poison orbs
+KR: Spawn 6 random Fire and Poison orbs
 
 # 16590/62 - Light on an unlit street
 JP: 全ドロップを真っ暗にする
@@ -83759,8 +83759,8 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 16744/92 - アウシュニャ
 JP: 火、水、木、光、闇ドロップを3個生成
-EN: Spawn 3 random Fire, Water, Wood, Light, or Dark orbs
-KR: Spawn 3 random Fire, Water, Wood, Light, or Dark orbs
+EN: Spawn 3 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 3 random Fire, Water, Wood, Light, and Dark orbs
 
 # 16745/94 - アーカーシャ
 JP: 全ドロップをロック
@@ -83824,8 +83824,8 @@ KR: Deal 90% damage (3 hits, 30% each)
 
 # 16757/92 - アビステンタクル
 JP: 水、毒、猛毒ドロップを5個生成
-EN: Spawn 5 random Water, Poison, or Mortal Poison orbs
-KR: Spawn 5 random Water, Poison, or Mortal Poison orbs
+EN: Spawn 5 random Water, Poison, and Mortal Poison orbs
+KR: Spawn 5 random Water, Poison, and Mortal Poison orbs
 
 # 16758/39 - アースクエイク
 JP: 1ターンの間、操作時間+50%
@@ -84189,23 +84189,23 @@ KR: Reduce self HP to 0
 
 # 16830/92 - 最後はここかなー
 JP: 光、回復、お邪魔ドロップを11個生成
-EN: Spawn 11 random Light, Heal, or Jammer orbs
-KR: Spawn 11 random Light, Heal, or Jammer orbs
+EN: Spawn 11 random Light, Heal, and Jammer orbs
+KR: Spawn 11 random Light, Heal, and Jammer orbs
 
 # 16831/92 - こっちだったかなー
 JP: 光、回復、お邪魔ドロップを11個生成
-EN: Spawn 11 random Light, Heal, or Jammer orbs
-KR: Spawn 11 random Light, Heal, or Jammer orbs
+EN: Spawn 11 random Light, Heal, and Jammer orbs
+KR: Spawn 11 random Light, Heal, and Jammer orbs
 
 # 16832/92 - お次はここー
 JP: 光、回復、お邪魔ドロップを12個生成
-EN: Spawn 12 random Light, Heal, or Jammer orbs
-KR: Spawn 12 random Light, Heal, or Jammer orbs
+EN: Spawn 12 random Light, Heal, and Jammer orbs
+KR: Spawn 12 random Light, Heal, and Jammer orbs
 
 # 16833/92 - オッケー！次いこー
 JP: 光、回復、お邪魔ドロップを12個生成
-EN: Spawn 12 random Light, Heal, or Jammer orbs
-KR: Spawn 12 random Light, Heal, or Jammer orbs
+EN: Spawn 12 random Light, Heal, and Jammer orbs
+KR: Spawn 12 random Light, Heal, and Jammer orbs
 
 # 16834/48 - 残ってるよー
 JP: お邪魔ドロップを光ドロップに変化
@@ -84219,8 +84219,8 @@ KR:
 
 # 16836/92 - まずはここからー
 JP: 光、回復、お邪魔ドロップを12個生成
-EN: Spawn 12 random Light, Heal, or Jammer orbs
-KR: Spawn 12 random Light, Heal, or Jammer orbs
+EN: Spawn 12 random Light, Heal, and Jammer orbs
+KR: Spawn 12 random Light, Heal, and Jammer orbs
 
 # 16837/68 - 邪魔なものは片づけちゃって
 JP: 99ターンの間、光と回復ドロップを+100%に落ちてくる
@@ -84464,8 +84464,8 @@ KR: Show message: いいねぇ！
 
 # 16885/92 - もう少し必要かな
 JP: 火、水、回復ドロップを10個生成
-EN: Spawn 10 random Fire, Water, or Heal orbs
-KR: Spawn 10 random Fire, Water, or Heal orbs
+EN: Spawn 10 random Fire, Water, and Heal orbs
+KR: Spawn 10 random Fire, Water, and Heal orbs
 
 # 16886/83 - ＿3コンボ以上2回
 JP: 
@@ -84489,8 +84489,8 @@ KR:
 
 # 16890/92 - さぁ、僕に攻撃してみて
 JP: 火、水、回復ドロップを10個生成
-EN: Spawn 10 random Fire, Water, or Heal orbs
-KR: Spawn 10 random Fire, Water, or Heal orbs
+EN: Spawn 10 random Fire, Water, and Heal orbs
+KR: Spawn 10 random Fire, Water, and Heal orbs
 
 # 16891/87 - 準備はいいかな？
 JP: 99ターンの間、1以上のダメージを吸収
@@ -84634,8 +84634,8 @@ KR: Deal 102% damage (2 hits, 51% each)
 
 # 16919/92 - 今宵の月は決して沈まぬぞ
 JP: 光と闇ドロップを3個生成
-EN: Spawn 3 random Light or Dark orbs
-KR: Spawn 3 random Light or Dark orbs
+EN: Spawn 3 random Light and Dark orbs
+KR: Spawn 3 random Light and Dark orbs
 
 # 16920/83 - 先制
 JP: 
@@ -84789,8 +84789,8 @@ KR: Increase damage to 150% for the next 99 turns
 
 # 16950/92 - 主人公は
 JP: 水と光ドロップを3個生成
-EN: Spawn 3 random Water or Light orbs
-KR: Spawn 3 random Water or Light orbs
+EN: Spawn 3 random Water and Light orbs
+KR: Spawn 3 random Water and Light orbs
 
 # 16951/62 - 金時（オレ）に
 JP: 全ドロップを真っ暗にする
@@ -85049,8 +85049,8 @@ KR: Void damage >= 2000000 for 3 turns
 
 # 17002/92 - Chaos Inferno
 JP: 火と闇ドロップを3個生成
-EN: Spawn 3 random Fire or Dark orbs
-KR: Spawn 3 random Fire or Dark orbs
+EN: Spawn 3 random Fire and Dark orbs
+KR: Spawn 3 random Fire and Dark orbs
 
 # 17003/50 - Demon King's Might
 JP: 現HPの99%のダメージ
@@ -87159,8 +87159,8 @@ KR: Bind 1 random card for 5 turns
 
 # 17424/92 - 火遊紅姫　数珠繋
 JP: 火と木ドロップを4個生成
-EN: Spawn 4 random Fire or Wood orbs
-KR: Spawn 4 random Fire or Wood orbs
+EN: Spawn 4 random Fire and Wood orbs
+KR: Spawn 4 random Fire and Wood orbs
 
 # 17425/39 - 卍解・天鎖斬月
 JP: 6ターンの間、操作時間+50%
@@ -87419,8 +87419,8 @@ KR: Bind awoken skills for 1 turn
 
 # 17476/92 - 雷霆の槍
 JP: 光と闇ドロップを4個生成
-EN: Spawn 4 random Light or Dark orbs
-KR: Spawn 4 random Light or Dark orbs
+EN: Spawn 4 random Light and Dark orbs
+KR: Spawn 4 random Light and Dark orbs
 
 # 17477/67 - 尸魂界を攻め落とす
 JP: 5ターンの間、6コンボ以下の攻撃を吸収
