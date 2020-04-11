@@ -34,7 +34,7 @@ Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Deal 250% damage (10 hits, 25% each)
 
 #9: ESRandomSpawn(92:14634) -> 6 Swallow Flash
-Spawn 3 random Fire or Water orbs, Deal 220% damage
+Spawn 3 random Fire and Water orbs, Deal 220% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

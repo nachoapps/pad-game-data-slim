@@ -32,4 +32,4 @@ level: 1
  | group:
  | condition: hp <= 19
    | (11348:92) The End of Halloween
-   | Spawn 6 random Jammer or Mortal Poison orbs, Deal 150% damage
+   | Spawn 6 random Jammer and Mortal Poison orbs, Deal 150% damage

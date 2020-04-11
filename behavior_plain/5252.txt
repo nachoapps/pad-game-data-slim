@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRandomSpawn(92:13262) -> My mana burns with passion.
-Spawn 3 random Wood or Dark orbs
+Spawn 3 random Wood and Dark orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -97,14 +97,14 @@ end_turn
 #23: SkillSet:
 	Condition: One-time use (ai:50 rnd:0) (cost: 1)
 	[0] ESRandomSpawn(92:9672) -> Alabaster Flame
-	Spawn 3 random Light, Heal, Jammer, Poison, or Mortal Poison orbs
+	Spawn 3 random Light, Heal, Jammer, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9677) -> Judgment Carving
 	Player -75% HP
 
 #24: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRandomSpawn(92:9673) -> Obsidian Flame
-	Spawn 6 random Dark or Poison orbs
+	Spawn 6 random Dark and Poison orbs
 	[1] ESAttackMultihit(15:9678) -> Judgment Carving
 	Deal 105% damage (3 hits, 35% each)
 

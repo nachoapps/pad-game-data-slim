@@ -25,7 +25,7 @@ Branch on counter >= 2, target rnd 7
 
 #6: SkillSet:
 	[0] ESRandomSpawn(92:16114) -> Ehehe, it suits me right?
-	Spawn 1 random Fire, Water, Wood, Light, or Dark orb
+	Spawn 1 random Fire, Water, Wood, Light, and Dark orb
 	[1] ESAttackMultihit(15:16115) -> Raaahhh!!
 	Deal 100% damage (2 hits, 50% each)
 

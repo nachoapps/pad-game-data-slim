@@ -24,7 +24,7 @@ flag SET 0b1
 	[2] ESDamageShield(74:10169) -> First of all, this!
 	Reduce damage from all sources by 99% for 5 turns
 	[3] ESRandomSpawn(92:10170) -> Show me your best combos!
-	Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+	Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -124,7 +124,7 @@ Deal 90% damage (3 hits, 30% each)
 
 #30: ESRandomSpawn(92:10191) -> Colorful Loop
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orbs, Deal 81% damage
+Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orbs, Deal 81% damage
 
 #31: ESBombRandomSpawn(102:10192) -> Dangerous Bomb
 Condition: 34% chance (ai:0 rnd:34)
@@ -213,13 +213,13 @@ end_turn
 	[0] ESDamageShield(74:10181) -> Amuse me more!
 	Reduce damage from all sources by 50% for 15 turns
 	[1] ESRandomSpawn(92:10182) -> Show me your best combos!
-	Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+	Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
 
 #54: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #55: ESRandomSpawn(92:10182) -> Show me your best combos!
-Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
 
 #56: ESEndPath(36:26) -> ESEndPath
 end_turn

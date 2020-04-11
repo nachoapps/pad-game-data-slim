@@ -23,18 +23,18 @@ level: 1
    | condition: execute repeatedly, turn 1-4 of 5
      | condition: 20% chance
      | (7162:83) Blessings of the Trickster God + Fake Spear Gungnir
-     | Spawn 3 random Jammer or Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
      | condition: 25% chance
      | (7163:83) Blessings of the Trickster God + Fake Ring Draupnir
-     | Spawn 3 random Jammer or Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
      | condition: 34% chance
      | (7165:83) Blessings of the Trickster God + Fake Hammer Mjölnir
-     | Spawn 3 random Jammer or Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
      | condition: 50% chance
      | (7166:83) Blessings of the Trickster God + Fake Blade Lævateinn
-     | Spawn 3 random Jammer or Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
      | (7164:83) Blessings of the Trickster God + Fake Ship Skidbladnir
-     | Spawn 3 random Jammer or Poison orbs + Player -99% HP
+     | Spawn 3 random Jammer and Poison orbs + Player -99% HP
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | (7139:84) World Serpent's Coil
@@ -50,18 +50,18 @@ level: 1
      | Lock all Poison and Mortal Poison orbs, Deal 150% damage
      | condition: 20% chance
      | (7162:83) Blessings of the Trickster God + Fake Spear Gungnir
-     | Spawn 3 random Jammer or Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
      | condition: 25% chance
      | (7163:83) Blessings of the Trickster God + Fake Ring Draupnir
-     | Spawn 3 random Jammer or Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
      | condition: 34% chance
      | (7165:83) Blessings of the Trickster God + Fake Hammer Mjölnir
-     | Spawn 3 random Jammer or Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
      | condition: 50% chance
      | (7166:83) Blessings of the Trickster God + Fake Blade Lævateinn
-     | Spawn 3 random Jammer or Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
      | (7164:83) Blessings of the Trickster God + Fake Ship Skidbladnir
-     | Spawn 3 random Jammer or Poison orbs + Player -99% HP
+     | Spawn 3 random Jammer and Poison orbs + Player -99% HP
  | group:
  | condition: hp <= 49
    | group:
@@ -74,18 +74,18 @@ level: 1
      | Spawn 1 random Dark orb, Deal 150% damage
      | condition: 20% chance
      | (7162:83) Blessings of the Trickster God + Fake Spear Gungnir
-     | Spawn 3 random Jammer or Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind 1 random card for 1 turn, Deal 100% damage
      | condition: 25% chance
      | (7163:83) Blessings of the Trickster God + Fake Ring Draupnir
-     | Spawn 3 random Jammer or Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Bind awoken skills for 1 turn, Deal 100% damage
      | condition: 34% chance
      | (7165:83) Blessings of the Trickster God + Fake Hammer Mjölnir
-     | Spawn 3 random Jammer or Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
      | condition: 50% chance
      | (7166:83) Blessings of the Trickster God + Fake Blade Lævateinn
-     | Spawn 3 random Jammer or Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
+     | Spawn 3 random Jammer and Poison orbs + Change the 5th row to Fire orbs, Deal 100% damage
      | (7164:83) Blessings of the Trickster God + Fake Ship Skidbladnir
-     | Spawn 3 random Jammer or Poison orbs + Player -99% HP
+     | Spawn 3 random Jammer and Poison orbs + Player -99% HP
  | group:
  | condition: hp <= 19
    | group:

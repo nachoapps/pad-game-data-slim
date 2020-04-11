@@ -29,7 +29,7 @@ level: 1
      | Increase damage to 150% for the next 99 turns
    | group:
      | (16953:83) 主人公は + 金時（オレ）に + 任せやがれェェェェ！！
-     | Spawn 3 random Water or Light orbs + Blind all orbs on the board + Deal 150% damage (5 hits, 30% each), Deal 10% damage
+     | Spawn 3 random Water and Light orbs + Blind all orbs on the board + Deal 150% damage (5 hits, 30% each), Deal 10% damage
 
 level: 4
  type: PREEMPT
@@ -53,4 +53,4 @@ level: 4
      | Increase damage to 150% for the next 99 turns
    | group:
      | (16953:83) 主人公は + 金時（オレ）に + 任せやがれェェェェ！！
-     | Spawn 3 random Water or Light orbs + Blind all orbs on the board + Deal 150% damage (5 hits, 30% each), Deal 10% damage
+     | Spawn 3 random Water and Light orbs + Blind all orbs on the board + Deal 150% damage (5 hits, 30% each), Deal 10% damage

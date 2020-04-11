@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRandomSpawn(92:13632) -> Not just grapes... Eat everything!
-Spawn 4 random Dark or Poison orbs
+Spawn 4 random Dark and Poison orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

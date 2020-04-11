@@ -71,7 +71,7 @@ Deal 20000% damage (2 hits, 10000% each)
 	[0] ESCloud(104:9561) -> Everyone's enthusiasm is great!
 	A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column
 	[1] ESRandomSpawn(92:9562) -> I'm not done yet!
-	Spawn 10 random Fire, Water, Wood, or Light orbs
+	Spawn 10 random Fire, Water, Wood, and Light orbs
 	[2] ESAbsorbCombo(67:9563) -> I wonder if you can make it to the end!
 	Absorb damage when combos <= 8 for 1 turn
 
@@ -92,7 +92,7 @@ Branch on combo >= 0, target rnd 50
 
 #24: SkillSet:
 	[0] ESRandomSpawn(92:9565) -> Thanks for everything up to now!
-	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 	[1] ESAbsorbCombo(67:9566) -> This is the end!
 	Absorb damage when combos <= 9 for 1 turn
 
@@ -116,7 +116,7 @@ Branch on counter >= 5, target rnd 33
 	[0] ESInactivity66(66:9573) -> I can hear voices from everywhere
 	Do nothing
 	[1] ESRandomSpawn(92:9603) -> Thanks for the encore!
-	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 	[2] ESAbsorbCombo(67:9604) -> This is really the end!
 	Absorb damage when combos <= 9 for 1 turn
 
@@ -156,7 +156,7 @@ counter + 1
 	[1] ESCloud(104:9561) -> Everyone's enthusiasm is great!
 	A 3×2 rectangle of clouds appears for 1 turn at 3rd row, 3rd column
 	[2] ESRandomSpawn(92:9562) -> I'm not done yet!
-	Spawn 10 random Fire, Water, Wood, or Light orbs
+	Spawn 10 random Fire, Water, Wood, and Light orbs
 	[3] ESAbsorbCombo(67:9563) -> I wonder if you can make it to the end!
 	Absorb damage when combos <= 8 for 1 turn
 
@@ -182,7 +182,7 @@ Branch on combo >= 18, target rnd 16
 	[0] ESInactivity66(66:9569) -> Good Soprano
 	Do nothing
 	[1] ESRandomSpawn(92:9565) -> Thanks for everything up to now!
-	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 	[2] ESAbsorbCombo(67:9566) -> This is the end!
 	Absorb damage when combos <= 9 for 1 turn
 

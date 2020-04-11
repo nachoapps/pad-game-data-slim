@@ -14,7 +14,7 @@ Enable preempt if level 1
 	[1] ESDebuffMovetime(39:15053) -> Hmm, is that so...
 	Movetime 240% for 2 turns
 	[2] ESRandomSpawn(92:15054) -> 40 combos in 4 turns!
-	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+	Spawn 6 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 #3: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 14, target rnd 18

@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (9184:92) So fuuun ♪
-   | Spawn 2 random Jammer or Poison orbs, Deal 70% damage
+   | Spawn 2 random Jammer and Poison orbs, Deal 70% damage
  | group:
  | condition: turn 1 while HP > 29, hp <= 74
    | (9185:76) Have a blast ♪

@@ -37,7 +37,7 @@ Deal 90% damage (3 hits, 30% each)
 
 #7: ESRandomSpawn(92:16744) -> アウシュニャ
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 3 random Fire, Water, Wood, Light, or Dark orbs, Deal 85% damage
+Spawn 3 random Fire, Water, Wood, Light, and Dark orbs, Deal 85% damage
 
 #8: ESOrbLock(94:16745) -> アーカーシャ
 Condition: 33% chance (ai:0 rnd:33)

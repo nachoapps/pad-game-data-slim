@@ -91,7 +91,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4944:92) Destroying Claw
-     | Spawn 4 random Jammer or Poison orbs, Deal 110% damage
+     | Spawn 4 random Jammer and Poison orbs, Deal 110% damage
  | group:
  | condition: hp <= 14
    | (4942:94) Explosive Skewer

@@ -10,7 +10,7 @@ Enable preempt if level 1
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRandomSpawn(92:16226) -> I have a trial for you
-	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 	[1] ESAttributeBlock(107:16227) -> Get rid of every Fire Orb
 	Unable to match Water, Wood, Light, and Dark orbs for 1 turn
 	[2] ESDebuffMovetime(39:16228) -> I won't forgive you if any are left behind

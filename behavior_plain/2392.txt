@@ -35,7 +35,7 @@ Change all Jammer orbs to Heal orbs, Deal 140% damage
 
 #9: ESRandomSpawn(92:10532) -> Drómi Call
 Condition: 50% chance (ai:0 rnd:50)
-Spawn 4 random Fire or Jammer orbs, Deal 100% damage
+Spawn 4 random Fire and Jammer orbs, Deal 100% damage
 
 #10: ESColumnSpawnMulti(77:10533) -> Glær Svalinn
 Condition: 50% chance (ai:0 rnd:50)

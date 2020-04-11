@@ -14,7 +14,7 @@ level: 4
  | group:
    | condition: 50% chance
    | (11415:92) Temptation of the 3 colored Dango
-   | Spawn 1 random Fire, Wood, or Heal orb, Deal 105% damage
+   | Spawn 1 random Fire, Wood, and Heal orb, Deal 105% damage
    | condition: 50% chance
    | (11416:48) Super Sweet Dorayaki
    | Change a random attribute to Jammer orbs, Deal 100% damage

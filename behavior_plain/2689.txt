@@ -37,7 +37,7 @@ Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 150% for the next 3 turns
 
 #11: ESRandomSpawn(92:17424) -> 火遊紅姫　数珠繋
-Spawn 4 random Fire or Wood orbs, Deal 100% damage
+Spawn 4 random Fire and Wood orbs, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

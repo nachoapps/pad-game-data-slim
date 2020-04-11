@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESSkillDelay(89:13123) -> I'm done!
 	Delay active skills by 5 turns
 	[1] ESRandomSpawn(92:13124) -> I'll put it in the lunch box
-	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

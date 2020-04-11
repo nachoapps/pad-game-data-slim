@@ -31,7 +31,7 @@ Deal 105% damage (3 hits, 35% each)
 
 #9: ESRandomSpawn(92:13314) -> I've already been to hell. Boring...
 Condition: 50% chance (ai:0 rnd:50)
-Spawn 4 random Fire or Dark orbs, Deal 95% damage
+Spawn 4 random Fire and Dark orbs, Deal 95% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn

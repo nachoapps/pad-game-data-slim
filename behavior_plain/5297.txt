@@ -69,7 +69,7 @@ end_turn
 	[1] ESBindSkill(14:13817) -> Let's start the experiment
 	Bind active skills for 1 turn
 	[2] ESRandomSpawn(92:13818) -> You see those Poison Orbs?
-	Spawn 10 random Fire, Dark, or Mortal Poison orbs
+	Spawn 10 random Fire, Dark, and Mortal Poison orbs
 	[3] ESSpinnersRandom(109:13819) -> Make them disappear
 	Random 2 orbs change every 0.5s for 1 turn
 

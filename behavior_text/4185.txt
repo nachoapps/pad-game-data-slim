@@ -20,7 +20,7 @@ level: 1
    | Spawn 1 random Bomb orb, Deal 105% damage
    | condition: 33% chance
    | (13618:92) Poison Assortment
-   | Spawn 3 random Poison or Mortal Poison orbs, Deal 100% damage
+   | Spawn 3 random Poison and Mortal Poison orbs, Deal 100% damage
    | condition: 34% chance
    | (13619:15) Curse Rod
    | Deal 120% damage (3 hits, 40% each)

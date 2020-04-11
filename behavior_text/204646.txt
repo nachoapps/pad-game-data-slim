@@ -20,7 +20,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10413:92) Accepting Spirit
-     | Spawn 4 random Fire or Dark orbs, Deal 100% damage
+     | Spawn 4 random Fire and Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
      | Change a random attribute to Dark orbs, Deal 105% damage
@@ -41,7 +41,7 @@ level: 4
    | condition: execute repeatedly, turn 2 of 3
      | condition: 33% chance
      | (10413:92) Accepting Spirit
-     | Spawn 4 random Fire or Dark orbs, Deal 100% damage
+     | Spawn 4 random Fire and Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
      | Change a random attribute to Dark orbs, Deal 105% damage
@@ -63,7 +63,7 @@ level: 4
    | condition: execute repeatedly, turn 1-2 of 3
      | condition: 33% chance
      | (10413:92) Accepting Spirit
-     | Spawn 4 random Fire or Dark orbs, Deal 100% damage
+     | Spawn 4 random Fire and Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
      | Change a random attribute to Dark orbs, Deal 105% damage
@@ -84,7 +84,7 @@ level: 4
    | condition: execute repeatedly, turn 2 of 3
      | condition: 33% chance
      | (10413:92) Accepting Spirit
-     | Spawn 4 random Fire or Dark orbs, Deal 100% damage
+     | Spawn 4 random Fire and Dark orbs, Deal 100% damage
      | condition: 33% chance
      | (10414:48) Darkness Pillar
      | Change a random attribute to Dark orbs, Deal 105% damage

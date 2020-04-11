@@ -12,7 +12,7 @@ level: 1
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
  | (10171:83) Ladies & Gentlemen! + Have fun today! + First of all, this! + Show me your best combos!
- | Voids status ailments for 999 turns + Void damage >= 10000000 for 5 turns + Reduce damage from all sources by 99% for 5 turns + Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+ | Voids status ailments for 999 turns + Void damage >= 10000000 for 5 turns + Reduce damage from all sources by 99% for 5 turns + Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
  group:
  | group:
    | group:
@@ -36,7 +36,7 @@ level: 1
    | group:
    | condition: turn 5
      | (10183:83) Amuse me more! + Show me your best combos!
-     | Reduce damage from all sources by 50% for 15 turns + Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+     | Reduce damage from all sources by 50% for 15 turns + Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
    | group:
    | condition: turn 6
      | condition: when 10 combos last turn
@@ -51,14 +51,14 @@ level: 1
      | Deal 90% damage (3 hits, 30% each)
      | condition: 33% chance
      | (10191:92) Colorful Loop
-     | Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orbs, Deal 81% damage
+     | Spawn 6 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orbs, Deal 81% damage
      | condition: 34% chance
      | (10192:102) Dangerous Bomb
      | Spawn 6 random Bomb orbs, Deal 81% damage
    | group:
    | condition: turn 10
      | (10182:92) Show me your best combos!
-     | Spawn 9 random Heal, Jammer, Poison, or Mortal Poison orbs
+     | Spawn 9 random Heal, Jammer, Poison, and Mortal Poison orbs
    | group:
    | condition: turn 11
      | condition: when 10 combos last turn

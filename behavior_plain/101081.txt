@@ -20,7 +20,7 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: ESRandomSpawn(92:13631) -> Not just...lemon...
-Spawn 4 random Light or Jammer orbs
+Spawn 4 random Light and Jammer orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

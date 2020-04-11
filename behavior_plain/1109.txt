@@ -13,7 +13,7 @@ Delay active skills by 2 turns, Deal 100% damage
 
 #3: ESRandomSpawn(92:3775) -> Magic Dragon Flame
 Condition: 80% chance when < 50% HP (ai:80 rnd:0)
-Spawn 3 random Fire or Dark orbs, Deal 190% damage
+Spawn 3 random Fire and Dark orbs, Deal 190% damage
 
 #4: ESAttackMultihit(15:3774) -> Corona Blow
 Deal 160% damage

@@ -78,7 +78,7 @@ counter = 0
 
 #17: SkillSet:
 	[0] ESRandomSpawn(92:16215) -> Blessed Earth
-	Spawn 15 random Fire, Wood, or Mortal Poison orbs
+	Spawn 15 random Fire, Wood, and Mortal Poison orbs
 	[1] ES7x6Change(126:16036) -> Boundless Infinity
 	Change board size to 7x6 for 5 turns
 

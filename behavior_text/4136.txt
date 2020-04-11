@@ -37,7 +37,7 @@ level: 4
      | Change the 5th row to Dark orbs, Deal 130% damage
      | condition: 34% chance
      | (13029:92) Mid-air Tail Strike
-     | Spawn 3 random Water or Dark orbs, Deal 130% damage
+     | Spawn 3 random Water and Dark orbs, Deal 130% damage
    | group:
    | condition: execute repeatedly, turn 4 of 6
      | (13030:109) Compressing Air Bubble...

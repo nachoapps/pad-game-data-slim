@@ -39,7 +39,7 @@ level: 2
  | group:
  | condition: turn 1 while HP > 79, hp <= 100
    | (13553:92) 彩星ノ宝珠
-   | Spawn 7 random Fire, Water, Wood, Light, Dark, or Heal orbs
+   | Spawn 7 random Fire, Water, Wood, Light, Dark, and Heal orbs
  | group:
  | condition: hp <= 79
    | condition: 20% chance

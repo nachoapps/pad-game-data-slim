@@ -25,31 +25,31 @@ level: 4
  | group:
  | condition: always turn 2
    | (4857:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 3
    | (4858:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 4
    | (4859:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 5
    | (4860:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 6
    | (4861:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 7
    | (4862:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 8
    | (4863:92) Breath of the Scarlet Sun
-   | Spawn 3 random Fire or Light orbs, Deal 100% damage
+   | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
    | group:
    | condition: turn 1 while HP > 49
@@ -60,7 +60,7 @@ level: 4
      | Voids status ailments for 999 turns + Reduce damage from all sources by 50% for 7 turns
    | group:
      | (4864:92) Scarlet Sun-Destroying Sword
-     | Spawn 9 random Fire or Light orbs, Deal 300% damage
+     | Spawn 9 random Fire and Light orbs, Deal 300% damage
  | group:
  | condition: turn 1, hp <= 49
    | condition: when 2141, 2142, 2970 on team

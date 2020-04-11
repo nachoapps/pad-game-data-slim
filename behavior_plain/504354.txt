@@ -23,7 +23,7 @@ Reduce damage from all sources by 99% for 1 turn
 	[0] ESAbsorbThreshold(87:16891) -> 準備はいいかな？
 	Absorb damage when damage >= 1 for 99 turns
 	[1] ESRandomSpawn(92:16890) -> さぁ、僕に攻撃してみて
-	Spawn 10 random Fire, Water, or Heal orbs
+	Spawn 10 random Fire, Water, and Heal orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -45,7 +45,7 @@ end_turn
 Branch on combo >= 3, target rnd 14
 
 #13: ESRandomSpawn(92:16885) -> もう少し必要かな
-Spawn 10 random Fire, Water, or Heal orbs
+Spawn 10 random Fire, Water, and Heal orbs
 
 #14: SkillSet:
 	[0] ESAttackUPRemainingEnemies(17:16888) -> うん、これぐらいで大丈夫かな

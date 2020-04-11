@@ -29,7 +29,7 @@ Spawn 1 random Bomb orb, Deal 105% damage
 
 #7: ESRandomSpawn(92:13618) -> Poison Assortment
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 3 random Poison or Mortal Poison orbs, Deal 100% damage
+Spawn 3 random Poison and Mortal Poison orbs, Deal 100% damage
 
 #8: ESAttackMultihit(15:13619) -> Curse Rod
 Condition: 34% chance (ai:0 rnd:34)

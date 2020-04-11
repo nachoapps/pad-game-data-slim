@@ -25,7 +25,7 @@ level: 1
      | Change all Poison orbs to Heal orbs, Deal 150% damage
      | condition: 50% chance
      | (11167:92) B-Be careful!
-     | Spawn 3 random Heal or Mortal Poison orbs
+     | Spawn 3 random Heal and Mortal Poison orbs
      | condition: 50% chance
      | (11123:15) S-Sorry!
      | Deal 100% damage
@@ -33,7 +33,7 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance
      | (11167:92) B-Be careful!
-     | Spawn 3 random Heal or Mortal Poison orbs
+     | Spawn 3 random Heal and Mortal Poison orbs
      | condition: 50% chance
      | (11123:15) S-Sorry!
      | Deal 100% damage

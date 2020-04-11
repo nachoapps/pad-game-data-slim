@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 1 of 3
    | (16113:83) Ehehe, it suits me right? + Raaahhh!!
-   | Spawn 1 random Fire, Water, Wood, Light, or Dark orb + Deal 100% damage (2 hits, 50% each), Deal 100% damage (2 hits, 50% each)
+   | Spawn 1 random Fire, Water, Wood, Light, and Dark orb + Deal 100% damage (2 hits, 50% each), Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: execute repeatedly, turn 2 of 3
    | (16116:83) I can see more can't I? + Raaahhh!!

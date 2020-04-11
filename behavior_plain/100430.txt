@@ -26,7 +26,7 @@ end_turn
 flag SET 0b0
 
 #8: ESRandomSpawn(92:15025) -> Color Drop
-Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs, Deal 100% damage
+Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs, Deal 100% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn

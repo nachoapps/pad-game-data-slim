@@ -23,7 +23,7 @@ Deal 110% damage (2 hits, 55% each)
 
 #6: ESRandomSpawn(92:13306) -> I can't lose anymore.
 Condition: 50% chance (ai:0 rnd:50)
-Spawn 4 random Wood or Light orbs, Deal 100% damage
+Spawn 4 random Wood and Light orbs, Deal 100% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -52,7 +52,7 @@ Change all Poison orbs to Heal orbs, Deal 150% damage
 
 #15: ESRandomSpawn(92:11167) -> B-Be careful!
 Condition: 50% chance (ai:0 rnd:50)
-Spawn 3 random Heal or Mortal Poison orbs
+Spawn 3 random Heal and Mortal Poison orbs
 
 #16: ESAttackMultihit(15:11123) -> S-Sorry!
 Condition: 50% chance (ai:0 rnd:50)

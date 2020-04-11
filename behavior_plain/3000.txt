@@ -88,34 +88,34 @@ Deal 160% damage
 
 #22: ESRandomSpawn(92:4857) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 64)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #23: ESRandomSpawn(92:4858) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 32)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #24: ESRandomSpawn(92:4859) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 16)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #25: ESRandomSpawn(92:4860) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #26: ESRandomSpawn(92:4861) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #27: ESRandomSpawn(92:4862) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #28: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b111
 
 #29: ESRandomSpawn(92:4863) -> Breath of the Scarlet Sun
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Spawn 3 random Fire or Light orbs, Deal 100% damage
+Spawn 3 random Fire and Light orbs, Deal 100% damage
 
 #30: ESRandomSpawn(92:4864) -> Scarlet Sun-Destroying Sword
-Spawn 9 random Fire or Light orbs, Deal 300% damage
+Spawn 9 random Fire and Light orbs, Deal 300% damage

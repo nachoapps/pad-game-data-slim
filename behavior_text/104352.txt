@@ -46,9 +46,9 @@ level: 4
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
      | (9682:83) Alabaster Flame + Judgment Carving
-     | Spawn 3 random Light, Heal, Jammer, Poison, or Mortal Poison orbs + Player -75% HP
+     | Spawn 3 random Light, Heal, Jammer, Poison, and Mortal Poison orbs + Player -75% HP
      | (9683:83) Obsidian Flame + Judgment Carving
-     | Spawn 6 random Dark or Poison orbs + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
+     | Spawn 6 random Dark and Poison orbs + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 33% chance

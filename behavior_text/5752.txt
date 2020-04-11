@@ -23,7 +23,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage
@@ -40,7 +40,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage
@@ -57,7 +57,7 @@ level: 1
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage
@@ -90,7 +90,7 @@ level: 6
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage
@@ -107,7 +107,7 @@ level: 6
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage
@@ -124,7 +124,7 @@ level: 6
    | condition: execute repeatedly, turn 2-3 of 3
      | condition: 33% chance
      | (15605:83) Rain of Colors + Restraint Attack
-     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Lock 15 random orbs, Deal 105% damage
+     | Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Lock 15 random orbs, Deal 105% damage
      | condition: 33% chance
      | (15608:83) Blind Out + Shield Blow
      | Blind random 5~10 orbs for 2 turns + Delay active skills by 1~2 turns, Deal 100% damage

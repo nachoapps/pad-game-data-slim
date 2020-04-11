@@ -77,4 +77,4 @@ level: 4
  | group:
  | condition: hp <= 19
    | (3481:92) Black Lightning Spears
-   | Spawn 8 random Light or Dark orbs, Deal 300% damage
+   | Spawn 8 random Light and Dark orbs, Deal 300% damage

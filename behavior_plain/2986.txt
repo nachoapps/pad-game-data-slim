@@ -31,7 +31,7 @@ flag SET 0b11
 
 #9: SkillSet:
 	[0] ESRandomSpawn(92:4888) -> Justice Jamming
-	Spawn 3 random Heal, Jammer, or Poison orbs
+	Spawn 3 random Heal, Jammer, and Poison orbs
 	[1] ESFixedStart(101:4889) -> Justice Road
 	Fix orb movement starting point to random position on the board
 

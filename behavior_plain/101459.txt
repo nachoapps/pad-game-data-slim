@@ -17,7 +17,7 @@ flag SET 0b1
 	[0] ESSkillDelay(89:8318) -> Echoing Howl
 	Delay active skills by 5 turns
 	[1] ESRandomSpawn(92:8319) -> Quinary Prism
-	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

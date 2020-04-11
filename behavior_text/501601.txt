@@ -20,7 +20,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 49
    | (14536:92) Scattering Scales
-   | Spawn 5 random Heal or Poison orbs
+   | Spawn 5 random Heal and Poison orbs
  | group:
  | condition: hp <= 9
    | condition: 50% chance

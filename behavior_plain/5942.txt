@@ -37,7 +37,7 @@ Deal 90% damage (3 hits, 30% each)
 
 #7: ESRandomSpawn(92:16757) -> アビステンタクル
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 5 random Water, Poison, or Mortal Poison orbs, Deal 80% damage
+Spawn 5 random Water, Poison, and Mortal Poison orbs, Deal 80% damage
 
 #8: ESDebuffMovetime(39:16758) -> アースクエイク
 Condition: 33% chance (ai:0 rnd:33)

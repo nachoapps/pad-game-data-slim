@@ -19,7 +19,7 @@ flag SET 0b1
 	[1] ESBombRandomSpawn(102:12116) -> Terror
 	Spawn 5 random locked Bomb orbs
 	[2] ESRandomSpawn(92:12117) -> Impurity
-	Spawn 3 random Jammer or Mortal Poison orbs
+	Spawn 3 random Jammer and Mortal Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

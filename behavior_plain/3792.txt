@@ -36,7 +36,7 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
 
 #11: ESRandomSpawn(92:7642) -> Lovely Macaron
-Spawn 1 random Fire, Water, Wood, Light, or Dark orb, Deal 100% damage
+Spawn 1 random Fire, Water, Wood, Light, and Dark orb, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath
 end_turn

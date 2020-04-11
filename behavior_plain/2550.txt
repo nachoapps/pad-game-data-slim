@@ -12,11 +12,11 @@ Enable preempt if level 1
 	[0] ESNoSkyfall(127:16021) -> Oi! Come at me!!
 	No skyfall for 8 turns
 	[1] ESRandomSpawn(92:16022) -> Gimme everything you've got!!
-	Spawn 4 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 4 random Fire, Water, Wood, Light, and Dark orbs
 
 #3: ESRandomSpawn(92:16022) -> Gimme everything you've got!!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Spawn 4 random Fire, Water, Wood, Light, or Dark orbs
+Spawn 4 random Fire, Water, Wood, Light, and Dark orbs
 
 #4: ESColumnSpawnMulti(77:16023) -> Itsu-no-Ohabari's Breaking Thunder
 Change the 1st, 2nd, 5th, and 6th columns to Jammer orbs, Deal 1000% damage

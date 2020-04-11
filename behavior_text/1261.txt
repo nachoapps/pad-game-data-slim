@@ -22,7 +22,7 @@ level: 1
  | condition: turn 2
    | condition: when 7 combos last turn
    | (9059:83) You can do it, right? + Next...this... + Can you do it?
-   | Spawn 6 random Fire, Water, Wood, Light, or Dark orbs + Blind orbs in specific positions for 1 turn + Absorb damage when combos <= 7 for 1 turn
+   | Spawn 6 random Fire, Water, Wood, Light, and Dark orbs + Blind orbs in specific positions for 1 turn + Absorb damage when combos <= 7 for 1 turn
    | (9064:15) Too bad
    | Deal 40000% damage (4 hits, 10000% each)
  | group:

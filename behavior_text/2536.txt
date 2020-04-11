@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (16141:92) The feast ends here
- | Spawn 10 random Jammer or Poison orbs
+ | Spawn 10 random Jammer and Poison orbs
  group:
  | group:
  | condition: turn 1

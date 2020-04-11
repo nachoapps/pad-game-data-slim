@@ -53,7 +53,7 @@ Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Deal 245% damage (7 hits, 35% each)
 
 #15: ESRandomSpawn(92:14670) -> Splash Gradation
-Spawn 4 random Water or Wood orbs, Deal 220% damage
+Spawn 4 random Water and Wood orbs, Deal 220% damage
 
 #16: ESEndPath(36:26) -> ESEndPath
 end_turn

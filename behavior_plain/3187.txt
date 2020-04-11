@@ -9,4 +9,4 @@ Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Movetime -1s for 1 turn
 
 #2: ESRandomSpawn(92:5605) -> Blue Earth Crush
-Spawn 1 random Water or Wood orb, Deal 80% damage
+Spawn 1 random Water and Wood orb, Deal 80% damage

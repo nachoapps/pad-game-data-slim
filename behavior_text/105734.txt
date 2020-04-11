@@ -33,7 +33,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | (16041:83) Blessed Earth + Boundless Infinity
-     | Spawn 15 random Fire, Wood, or Mortal Poison orbs + Change board size to 7x6 for 5 turns
+     | Spawn 15 random Fire, Wood, and Mortal Poison orbs + Change board size to 7x6 for 5 turns
  | group:
  | condition: hp <= 49
    | group:
@@ -59,7 +59,7 @@ level: 1
    | group:
    | condition: turn 6
      | (16041:83) Blessed Earth + Boundless Infinity
-     | Spawn 15 random Fire, Wood, or Mortal Poison orbs + Change board size to 7x6 for 5 turns
+     | Spawn 15 random Fire, Wood, and Mortal Poison orbs + Change board size to 7x6 for 5 turns
    | group:
    | condition: turn 7
      | (16223:83) Spirit Rune + Dance Kick - Five Howls
@@ -79,7 +79,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 4 of 6
      | (16041:83) Blessed Earth + Boundless Infinity
-     | Spawn 15 random Fire, Wood, or Mortal Poison orbs + Change board size to 7x6 for 5 turns
+     | Spawn 15 random Fire, Wood, and Mortal Poison orbs + Change board size to 7x6 for 5 turns
    | group:
    | condition: execute repeatedly, turn 5-6 of 6
      | (16053:83) Beat of the World + Spirit Rune + Dance Kick - One Hundred Pins

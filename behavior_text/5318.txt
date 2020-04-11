@@ -23,7 +23,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 200% damage
      | condition: 30% chance
      | (13485:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 190% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 190% damage
      | condition: 30% chance
      | (13486:83) Hateful Rush + Holding a Grudge
      | Deal 120% damage (3 hits, 40% each) + Delay active skills by 0~2 turns, Deal 120% damage (3 hits, 40% each)
@@ -43,7 +43,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 100% damage
      | condition: 30% chance
      | (13498:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 95% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 95% damage
      | condition: 30% chance
      | (13499:83) Hateful Rush + Holding a Grudge
      | Deal 60% damage (3 hits, 20% each) + Delay active skills by 0~2 turns, Deal 60% damage (3 hits, 20% each)
@@ -92,7 +92,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 125% damage
      | condition: 15% chance
      | (13520:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 120% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 120% damage
      | condition: 15% chance
      | (13521:83) Hateful Rush + Holding a Grudge
      | Deal 75% damage (3 hits, 25% each) + Delay active skills by 0~2 turns, Deal 75% damage (3 hits, 25% each)
@@ -144,7 +144,7 @@ level: 6
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 200% damage
      | condition: 30% chance
      | (13485:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 190% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 190% damage
      | condition: 30% chance
      | (13486:83) Hateful Rush + Holding a Grudge
      | Deal 120% damage (3 hits, 40% each) + Delay active skills by 0~2 turns, Deal 120% damage (3 hits, 40% each)
@@ -164,7 +164,7 @@ level: 6
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 100% damage
      | condition: 30% chance
      | (13498:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 95% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 95% damage
      | condition: 30% chance
      | (13499:83) Hateful Rush + Holding a Grudge
      | Deal 60% damage (3 hits, 20% each) + Delay active skills by 0~2 turns, Deal 60% damage (3 hits, 20% each)
@@ -213,7 +213,7 @@ level: 6
      | Spawn locked Bomb orbs in the specified positions + Fix orb movement starting point to random position on the board, Deal 125% damage
      | condition: 15% chance
      | (13520:83) Sporadic Incineration + Cruel Dispute
-     | Spawn 4 random Jammer or Poison orbs + Bind 3 random subs for 2 turns, Deal 120% damage
+     | Spawn 4 random Jammer and Poison orbs + Bind 3 random subs for 2 turns, Deal 120% damage
      | condition: 15% chance
      | (13521:83) Hateful Rush + Holding a Grudge
      | Deal 75% damage (3 hits, 25% each) + Delay active skills by 0~2 turns, Deal 75% damage (3 hits, 25% each)

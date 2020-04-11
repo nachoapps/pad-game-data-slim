@@ -17,7 +17,7 @@ level: 1
    | Deal 110% damage (2 hits, 55% each)
    | condition: 50% chance
    | (13306:92) I can't lose anymore.
-   | Spawn 4 random Wood or Light orbs, Deal 100% damage
+   | Spawn 4 random Wood and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (13307:83) I'm gonna use force. + Shamanic Oracle

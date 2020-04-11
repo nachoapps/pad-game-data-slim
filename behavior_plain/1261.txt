@@ -94,7 +94,7 @@ end_turn
 
 #27: SkillSet:
 	[0] ESRandomSpawn(92:9056) -> You can do it, right?
-	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 	[1] ESBlindStickyFixed(98:9057) -> Next...this...
 	Blind orbs in specific positions for 1 turn
 	[2] ESAbsorbCombo(67:9058) -> Can you do it?

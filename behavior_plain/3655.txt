@@ -31,7 +31,7 @@ end_turn
 
 #7: ESRandomSpawn(92:7296) -> Dash Attack
 Condition: 25% chance (ai:0 rnd:25)
-Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs, Deal 200% damage
+Spawn 2 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs, Deal 200% damage
 
 #8: ESAbsorbCombo(67:7297) -> Frontal Spin
 Condition: 25% chance (ai:0 rnd:25)

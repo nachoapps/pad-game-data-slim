@@ -17,7 +17,7 @@ level: 1
  | group:
  | condition: always turn 1, hp <= 79
    | (15129:83) How about this? + We're only getting started + I wonder, can you do it?
-   | Spawn 6 random Fire, Water, Wood, Light, or Dark orbs + Specific orbs change every 1.0s for 1 turn + Absorb damage when combos <= 6 for 1 turn
+   | Spawn 6 random Fire, Water, Wood, Light, and Dark orbs + Specific orbs change every 1.0s for 1 turn + Absorb damage when combos <= 6 for 1 turn
  | group:
  | condition: always turn 2, hp <= 61
    | (15134:83) Huh, pretty good + Don't back down now + Here, speed is important + Try to wrap this up smoothly + Here's a present
@@ -25,8 +25,8 @@ level: 1
  | group:
  | condition: always turn 3, hp <= 39
    | (15139:83) You can do it if you try! + I'll be impressed if you can do it + Yoooo! + You'd better look out!
-   | Change all orbs to Light + Spawn 9 random Heal, Jammer, or Poison orbs + Blind all orbs for 1 turn + Absorb damage when combos <= 8 for 1 turn
+   | Change all orbs to Light + Spawn 9 random Heal, Jammer, and Poison orbs + Blind all orbs for 1 turn + Absorb damage when combos <= 8 for 1 turn
  | group:
  | condition: hp <= 19
    | (15144:83) I didn't think you'd make it this far + This is my last shot! + Don't mess this up!!
-   | Spawn Bomb orbs in the specified positions + Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs + Absorb damage when combos <= 9 for 1 turn
+   | Spawn Bomb orbs in the specified positions + Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs + Absorb damage when combos <= 9 for 1 turn

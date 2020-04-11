@@ -23,7 +23,7 @@ level: 1
      | Change a random attribute to Light orbs, Deal 100% damage
      | condition: 50% chance
      | (11499:92) Yaa!
-     | Spawn 3 random Fire or Light orbs, Deal 100% damage
+     | Spawn 3 random Fire and Light orbs, Deal 100% damage
  | group:
  | condition: always turn 1, hp <= 49
    | (11496:14) Our plan worked!

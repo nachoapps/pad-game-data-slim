@@ -15,7 +15,7 @@ end_turn
 
 #4: ESRandomSpawn(92:10694) -> Curse of the Tree
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Spawn 30 random Wood or Mortal Poison orbs
+Spawn 30 random Wood and Mortal Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

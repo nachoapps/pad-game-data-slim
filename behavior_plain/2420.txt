@@ -89,7 +89,7 @@ counter + 1
 	[0] ESAbsorbCombo(67:9743) -> Great!
 	Absorb damage when combos <= 7 for 10 turns
 	[1] ESRandomSpawn(92:9744) -> How about this one?
-	Spawn 6 random Wood, Jammer, or Poison orbs
+	Spawn 6 random Wood, Jammer, and Poison orbs
 
 #26: ESEndPath(36:26) -> ESEndPath
 end_turn

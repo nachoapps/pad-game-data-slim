@@ -46,7 +46,7 @@ Specific orbs change every 1.0s for 2 turns, Deal 170% damage
 	[0] ESColumnSpawnMulti(77:9283) -> Bifröst Obligation
 	Change the 1st column to Water orbs and the 6th column to Wood orbs, Deal 155% damage
 	[1] ESRandomSpawn(92:9284) -> Norn's Whim
-	Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb
+	Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb
 
 #13: SkillSet:
 	[0] ESLeaderSwap(75:9286) -> Norn's Mischief

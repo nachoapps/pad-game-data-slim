@@ -16,7 +16,7 @@ Branch on hp < 10, target rnd 8
 
 #4: ESRandomSpawn(92:13205) -> 一緒に食べるとおいしいね♪
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 1 random Fire, Water, Wood, Light, or Dark orb, Deal 95% damage
+Spawn 1 random Fire, Water, Wood, Light, and Dark orb, Deal 95% damage
 
 #5: ESRandomSpawn(92:13206) -> これがお気に入り♪
 Condition: 33% chance (ai:0 rnd:33)

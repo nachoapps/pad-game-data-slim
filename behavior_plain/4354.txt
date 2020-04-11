@@ -57,42 +57,42 @@ Branch on combo >= 3, target rnd 21
 #14: SkillSet:
 	Condition: 16% chance (ai:0 rnd:16)
 	[0] ESRandomSpawn(92:9779) -> Cataclysm
-	Spawn 6 random Fire, Water, Wood, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Water, Wood, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
 #15: SkillSet:
 	Condition: 16% chance (ai:0 rnd:16)
 	[0] ESRandomSpawn(92:9780) -> Cataclysm
-	Spawn 6 random Water, Wood, Light, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Water, Wood, Light, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
 #16: SkillSet:
 	Condition: 17% chance (ai:0 rnd:17)
 	[0] ESRandomSpawn(92:9781) -> Cataclysm
-	Spawn 6 random Water, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Water, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
 #17: SkillSet:
 	Condition: 17% chance (ai:0 rnd:17)
 	[0] ESRandomSpawn(92:9782) -> Cataclysm
-	Spawn 6 random Fire, Wood, Light, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Wood, Light, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
 #18: SkillSet:
 	Condition: 17% chance (ai:0 rnd:17)
 	[0] ESRandomSpawn(92:9783) -> Cataclysm
-	Spawn 6 random Fire, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
 #19: SkillSet:
 	Condition: 17% chance (ai:0 rnd:17)
 	[0] ESRandomSpawn(92:9784) -> Cataclysm
-	Spawn 6 random Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESOrbLock(94:9777) -> Pure Lands
 	Lock all Poison and Mortal Poison orbs
 
@@ -102,70 +102,70 @@ end_turn
 #21: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9779) -> Cataclysm
-	Spawn 6 random Fire, Water, Wood, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Water, Wood, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #22: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9780) -> Cataclysm
-	Spawn 6 random Water, Wood, Light, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Water, Wood, Light, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #23: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9781) -> Cataclysm
-	Spawn 6 random Water, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Water, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #24: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9782) -> Cataclysm
-	Spawn 6 random Fire, Wood, Light, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Wood, Light, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #25: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9783) -> Cataclysm
-	Spawn 6 random Fire, Wood, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Wood, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #26: SkillSet:
 	Condition: 4% chance (ai:0 rnd:4)
 	[0] ESRandomSpawn(92:9784) -> Cataclysm
-	Spawn 6 random Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 6 random Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #27: SkillSet:
 	Condition: 19% chance (ai:0 rnd:19)
 	[0] ESRandomSpawn(92:9785) -> Cataclysm
-	Spawn 6 random Fire, Water, Wood, Light, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Water, Wood, Light, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #28: SkillSet:
 	Condition: 19% chance (ai:0 rnd:19)
 	[0] ESRandomSpawn(92:9786) -> Cataclysm
-	Spawn 6 random Fire, Water, Wood, Dark, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Water, Wood, Dark, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #29: SkillSet:
 	Condition: 19% chance (ai:0 rnd:19)
 	[0] ESRandomSpawn(92:9787) -> Cataclysm
-	Spawn 6 random Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
+	Spawn 6 random Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 
 #30: SkillSet:
 	Condition: 19% chance (ai:0 rnd:19)
 	[0] ESRandomSpawn(92:9788) -> Cataclysm
-	Spawn 6 random Fire, Wood, Light, Dark, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Wood, Light, Dark, Poison, and Mortal Poison orbs
 	[1] ESGravity(50:9790) -> Spoiled
 	Player -99% HP
 

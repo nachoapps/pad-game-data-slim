@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13323:83) Welcome to the new Era + My name is Reiwa + I would be happy if you remember it... + Do your best and make some combos
- | Voids status ailments for 999 turns + Immune to damage from all sources for 999 turns + No skyfall for 10 turns + Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+ | Voids status ailments for 999 turns + Immune to damage from all sources for 999 turns + No skyfall for 10 turns + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
  group:
  | group:
  | condition: always turn 1
@@ -225,7 +225,7 @@ level: 1
 level: 6
  type: PREEMPT
  | (13323:83) Welcome to the new Era + My name is Reiwa + I would be happy if you remember it... + Do your best and make some combos
- | Voids status ailments for 999 turns + Immune to damage from all sources for 999 turns + No skyfall for 10 turns + Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+ | Voids status ailments for 999 turns + Immune to damage from all sources for 999 turns + No skyfall for 10 turns + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
  group:
  | group:
  | condition: always turn 1

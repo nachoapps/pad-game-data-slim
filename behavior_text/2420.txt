@@ -23,7 +23,7 @@ level: 4
  | condition: always turn 1
    | condition: when 5 combos last turn
    | (9745:83) Great! + How about this one?
-   | Absorb damage when combos <= 7 for 10 turns + Spawn 6 random Wood, Jammer, or Poison orbs
+   | Absorb damage when combos <= 7 for 10 turns + Spawn 6 random Wood, Jammer, and Poison orbs
    | (9748:83) This is not good at all! + Try your best for the next one too!
    | Bind awoken skills for 1 turn + Blind all orbs on the board
  | group:

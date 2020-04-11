@@ -21,11 +21,11 @@ Increase damage to 150% for the next 3 turns
 
 #5: ESRandomSpawn(92:14503) -> Ferociously Soaring Scarlet Flames
 Condition: 80% chance when < 10% HP (ai:80 rnd:0)
-Spawn 5 random Fire or Jammer orbs, Deal 200% damage
+Spawn 5 random Fire and Jammer orbs, Deal 200% damage
 
 #6: ESRandomSpawn(92:14590) -> Purgatory
 Condition: 50% chance (ai:50 rnd:0)
-Spawn 2 random Fire or Jammer orbs, Deal 100% damage
+Spawn 2 random Fire and Jammer orbs, Deal 100% damage
 
 #7: ESAttackMultihit(15:14501) -> Scarlet Flame Dance
 Deal 120% damage (2 hits, 60% each)

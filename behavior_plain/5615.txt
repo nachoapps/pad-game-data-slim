@@ -15,7 +15,7 @@ Void damage >= 8000000 for 10 turns
 Branch on remaining enemies <= 1, target rnd 6
 
 #4: ESRandomSpawn(92:14736) -> Hydro Blast
-Spawn 5 random Water or Mortal Poison orbs, Deal 100% damage
+Spawn 5 random Water and Mortal Poison orbs, Deal 100% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -24,7 +24,7 @@ end_turn
 Branch on hp < 50, target rnd 8
 
 #7: ESRandomSpawn(92:14736) -> Hydro Blast
-Spawn 5 random Water or Mortal Poison orbs, Deal 100% damage
+Spawn 5 random Water and Mortal Poison orbs, Deal 100% damage
 
 #8: ESAttackMultihit(15:14737) -> Double Crunch
 Deal 300% damage (2 hits, 150% each)

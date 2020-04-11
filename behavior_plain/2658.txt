@@ -70,7 +70,7 @@ Lock 10 random orbs, Deal 100% damage
 
 #12: ESRandomSpawn(92:15690) -> Starsea Glimmer
 Condition: 50% chance (ai:0 rnd:50)
-Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 95% damage
+Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb, Deal 95% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

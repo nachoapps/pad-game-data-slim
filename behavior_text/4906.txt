@@ -19,7 +19,7 @@ level: 1
    | condition: turn 1 while HP > 49
      | condition: 33% chance
      | (11583:83) Blazing Cyclone + Aero Feather
-     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
+     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
      | condition: 34% chance
      | (11589:83) Whirling Tornado + Burst Wing
      | Bind 3 random cards for 1 turn + Deal 111% damage (3 hits, 37% each), Deal 111% damage (3 hits, 37% each)
@@ -27,7 +27,7 @@ level: 1
    | condition: execute repeatedly, turn 1 of 6
      | condition: 33% chance
      | (11583:83) Blazing Cyclone + Aero Feather
-     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
+     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
      | condition: 33% chance
      | (11586:83) Stormy Hurricane + Storm Blast
      | Bind awoken skills for 1 turn + Player -99% HP
@@ -45,7 +45,7 @@ level: 1
      | Change a random attribute to Wood orbs, Deal 100% damage
      | condition: 33% chance
      | (11596:92) Fire Storm
-     | Spawn 4 random Fire or Wood orbs, Deal 105% damage
+     | Spawn 4 random Fire and Wood orbs, Deal 105% damage
      | condition: 34% chance
      | (11597:15) Climatic Gale
      | Deal 105% damage (3 hits, 35% each)
@@ -57,7 +57,7 @@ level: 1
    | condition: execute repeatedly, turn 6 of 6
      | condition: 33% chance
      | (11583:83) Blazing Cyclone + Aero Feather
-     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
+     | Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs + Lock 15 random orbs, Deal 100% damage
      | condition: 33% chance
      | (11586:83) Stormy Hurricane + Storm Blast
      | Bind awoken skills for 1 turn + Player -99% HP

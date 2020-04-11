@@ -18,7 +18,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (2167:92) Divine Hellfire
-     | Spawn 4 random Fire or Dark orbs, Deal 100% damage
+     | Spawn 4 random Fire and Dark orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | condition: 50% chance

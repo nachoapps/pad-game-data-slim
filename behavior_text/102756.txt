@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (10162:83) Colorful Melody + Love of Fair Crimson
- | Spawn 8 random Fire, Water, Wood, or Heal orbs + Spawn 1 random Heal orb
+ | Spawn 8 random Fire, Water, Wood, and Heal orbs + Spawn 1 random Heal orb
  group:
  | group:
    | condition: 50% chance

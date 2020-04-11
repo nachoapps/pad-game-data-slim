@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13122:83) I'm done! + I'll put it in the lunch box
- | Delay active skills by 5 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+ | Delay active skills by 5 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
  group:
  | group:
    | group:

@@ -29,7 +29,7 @@ level: 5
    | Spawn 7 random Fire orbs, Deal 300% damage
    | condition: 33% chance
    | (16540:92) Rainbow 77
-   | Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb, Deal 280% damage
+   | Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orb, Deal 280% damage
    | condition: 34% chance
    | (16541:15) 7th Impact
    | Deal 315% damage (7 hits, 45% each)

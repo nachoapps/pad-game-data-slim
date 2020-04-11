@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13631:92) Not just...lemon...
- | Spawn 4 random Light or Jammer orbs
+ | Spawn 4 random Light and Jammer orbs
  group:
  | condition: when required attributes on board
  | (4253:92) It's tart, so just one...

@@ -23,7 +23,7 @@ flag SET 0b1
 	[0] ESStatusShield(20:11544) -> Fertile Guard
 	Voids status ailments for 999 turns
 	[1] ESRandomSpawn(92:11545) -> Aurora Glass
-	Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, or Mortal Poison orbs
+	Spawn 6 random Fire, Water, Wood, Light, Dark, Poison, and Mortal Poison orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

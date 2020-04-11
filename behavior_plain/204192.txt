@@ -33,7 +33,7 @@ Branch on hp < 75, target rnd 12
 
 #10: ESRandomSpawn(92:9184) -> So fuuun ♪
 Condition: 50% chance (ai:50 rnd:0)
-Spawn 2 random Jammer or Poison orbs, Deal 70% damage
+Spawn 2 random Jammer and Poison orbs, Deal 70% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

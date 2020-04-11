@@ -17,7 +17,7 @@ level: 1
    | Deal 105% damage (3 hits, 35% each)
    | condition: 50% chance
    | (13314:92) I've already been to hell. Boring...
-   | Spawn 4 random Fire or Dark orbs, Deal 95% damage
+   | Spawn 4 random Fire and Dark orbs, Deal 95% damage
  | group:
  | condition: turn 1 while HP > 14, hp <= 49
    | (13315:50) The rest of you can live a little longer.

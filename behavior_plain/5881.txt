@@ -162,7 +162,7 @@ end_turn
 
 #41: ESRandomSpawn(92:16589) -> Movement Deterrent
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 6 random Fire or Poison orbs, Deal 95% damage
+Spawn 6 random Fire and Poison orbs, Deal 95% damage
 
 #42: ESBlind62(62:16590) -> Light on an unlit street
 Condition: 33% chance (ai:0 rnd:33)

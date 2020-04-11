@@ -34,7 +34,7 @@ level: 1
      | Lock 10 random orbs, Deal 100% damage
      | condition: 50% chance
      | (15690:92) Starsea Glimmer
-     | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 95% damage
+     | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb, Deal 95% damage
    | group:
    | condition: turn 5 while HP > 9
      | (15691:83) You held out this long? + Not too shabby... + We're only getting started
@@ -45,7 +45,7 @@ level: 1
      | Lock 10 random orbs, Deal 100% damage
      | condition: 50% chance
      | (15690:92) Starsea Glimmer
-     | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orb, Deal 95% damage
+     | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orb, Deal 95% damage
  | group:
  | condition: hp <= 9
    | (15695:15) Starsea Halo

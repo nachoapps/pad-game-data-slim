@@ -47,7 +47,7 @@ end_turn
 
 #14: SkillSet:
 	[0] ESRandomSpawn(92:16950) -> 主人公は
-	Spawn 3 random Water or Light orbs
+	Spawn 3 random Water and Light orbs
 	[1] ESBlind62(62:16951) -> 金時（オレ）に
 	Blind all orbs on the board, Deal 10% damage
 	[2] ESAttackMultihit(15:16952) -> 任せやがれェェェェ！！

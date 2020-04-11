@@ -20,7 +20,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 8 of 9
    | (8154:83) Steel Serpent Scales + Thick Miasmatic Fog
-   | Reduce damage from all sources by 99% for 1 turn + Spawn 4 random Poison or Mortal Poison orbs
+   | Reduce damage from all sources by 99% for 1 turn + Spawn 4 random Poison and Mortal Poison orbs
  | group:
  | condition: execute repeatedly, turn 9 of 9
    | (8155:108) Great Demon Serpent of the Dusk

@@ -24,7 +24,7 @@ level: 4
      | (9043:79) How about this?
      | Change the 1st row to Wood and Jammer orbs and the 5th row to Wood and Poison orbs, Deal 70% damage
      | (9045:92) I'm going to block you!
-     | Spawn 6 random Wood, Jammer, or Poison orbs, Deal 100% damage
+     | Spawn 6 random Wood, Jammer, and Poison orbs, Deal 100% damage
  | group:
  | condition: turn 1 while HP > 29, hp <= 74
    | (9042:67) Okay, now it's playtime♪

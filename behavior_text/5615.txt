@@ -12,7 +12,7 @@ level: 1
  | Void damage >= 8000000 for 10 turns
  group:
  | (14736:92) Hydro Blast
- | Spawn 5 random Water or Mortal Poison orbs, Deal 100% damage
+ | Spawn 5 random Water and Mortal Poison orbs, Deal 100% damage
  type: REMAINING
  condition: when 1 enemies remain, hp <= 49
  | (14737:15) Double Crunch

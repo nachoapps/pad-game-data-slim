@@ -14,7 +14,7 @@ level: 1
  | group:
    | condition: 33% chance
    | (13205:92) 一緒に食べるとおいしいね♪
-   | Spawn 1 random Fire, Water, Wood, Light, or Dark orb, Deal 95% damage
+   | Spawn 1 random Fire, Water, Wood, Light, and Dark orb, Deal 95% damage
    | condition: 33% chance
    | (13206:92) これがお気に入り♪
    | Spawn 5 random Light orbs, Deal 90% damage

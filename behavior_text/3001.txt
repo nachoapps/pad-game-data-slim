@@ -26,13 +26,13 @@ level: 4
      | (4907:48) Sea Punishment
      | Change all Jammer orbs to Poison orbs, Deal 140% damage
      | (4916:92) Blue Life Calm Waves
-     | Spawn 3 random Water or Heal orbs, Deal 30% damage
+     | Spawn 3 random Water and Heal orbs, Deal 30% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (4907:48) Sea Punishment
      | Change all Jammer orbs to Poison orbs, Deal 140% damage
      | (4917:92) Blue Dust Raging Wave
-     | Spawn 3 random Water or Jammer orbs, Deal 160% damage
+     | Spawn 3 random Water and Jammer orbs, Deal 160% damage
  | group:
  | condition: always turn 1, hp <= 49
    | condition: when 2143, 2144, 2971 on team

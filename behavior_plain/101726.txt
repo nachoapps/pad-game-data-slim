@@ -30,7 +30,7 @@ Branch on hp < 30, target rnd 17
 
 #9: ESRandomSpawn(92:2167) -> Divine Hellfire
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Spawn 4 random Fire or Dark orbs, Deal 100% damage
+Spawn 4 random Fire and Dark orbs, Deal 100% damage
 
 #10: ESOrbChangeAttack(48:2169) -> Hell Bolt
 Condition: 50% chance (ai:0 rnd:50)

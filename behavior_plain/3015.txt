@@ -59,7 +59,7 @@ Increase damage to 150% for the next 999 turns
 
 #13: ESRandomSpawn(92:4944) -> Destroying Claw
 Condition: When < 30% HP (ai:100 rnd:0)
-Spawn 4 random Jammer or Poison orbs, Deal 110% damage
+Spawn 4 random Jammer and Poison orbs, Deal 110% damage
 
 #14: ESOrbChangeAttack(48:4936) -> Death Claw
 Condition: 50% chance (ai:50 rnd:0)

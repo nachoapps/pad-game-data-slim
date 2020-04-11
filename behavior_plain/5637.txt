@@ -33,7 +33,7 @@ end_turn
 	[0] ESAbsorbCombo(67:15030) -> Ocean Vestments
 	Absorb damage when combos <= 7 for 999 turns
 	[1] ESRandomSpawn(92:15031) -> Curse of the Sea God
-	Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
 
 #8: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 14
@@ -67,7 +67,7 @@ Absorb damage when combos <= 7 for 999 turns
 end_turn
 
 #18: ESRandomSpawn(92:15031) -> Curse of the Sea God
-Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

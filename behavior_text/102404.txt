@@ -19,4 +19,4 @@ level: 1
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
  | (11402:92) Sweet Magic
- | Spawn 3 random Jammer, Poison, or Mortal Poison orbs, Deal 100% damage
+ | Spawn 3 random Jammer, Poison, and Mortal Poison orbs, Deal 100% damage

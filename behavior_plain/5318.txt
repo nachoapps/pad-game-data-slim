@@ -65,7 +65,7 @@ Voids player buff effects, Deal 200% damage
 #17: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESRandomSpawn(92:13490) -> Sporadic Incineration
-	Spawn 4 random Jammer or Poison orbs
+	Spawn 4 random Jammer and Poison orbs
 	[1] ESBindAttack(63:13491) -> Cruel Dispute
 	Bind 3 random subs for 2 turns, Deal 190% damage
 
@@ -120,7 +120,7 @@ Voids player buff effects, Deal 100% damage
 #29: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESRandomSpawn(92:13503) -> Sporadic Incineration
-	Spawn 4 random Jammer or Poison orbs
+	Spawn 4 random Jammer and Poison orbs
 	[1] ESBindAttack(63:13504) -> Cruel Dispute
 	Bind 3 random subs for 2 turns, Deal 95% damage
 
@@ -170,7 +170,7 @@ Voids player buff effects, Deal 100% damage
 #40: SkillSet:
 	Condition: 30% chance (ai:0 rnd:30)
 	[0] ESRandomSpawn(92:13503) -> Sporadic Incineration
-	Spawn 4 random Jammer or Poison orbs
+	Spawn 4 random Jammer and Poison orbs
 	[1] ESBindAttack(63:13504) -> Cruel Dispute
 	Bind 3 random subs for 2 turns, Deal 95% damage
 
@@ -220,7 +220,7 @@ Voids player buff effects, Deal 125% damage
 #51: SkillSet:
 	Condition: 15% chance (ai:0 rnd:15)
 	[0] ESRandomSpawn(92:13525) -> Sporadic Incineration
-	Spawn 4 random Jammer or Poison orbs
+	Spawn 4 random Jammer and Poison orbs
 	[1] ESBindAttack(63:13526) -> Cruel Dispute
 	Bind 3 random subs for 2 turns, Deal 120% damage
 

@@ -28,4 +28,4 @@ level: 1
      | Enemy recover 50% HP
    | group:
      | (17476:92) 雷霆の槍
-     | Spawn 4 random Light or Dark orbs, Deal 130% damage
+     | Spawn 4 random Light and Dark orbs, Deal 130% damage

@@ -33,7 +33,7 @@ Increase damage to 1000% for the next 999 turns
 Branch on hp > 100, target rnd 12
 
 #10: ESRandomSpawn(92:7131) -> Path to the Underworld
-Spawn 2 random Heal, Jammer, or Mortal Poison orbs, Deal 100% damage
+Spawn 2 random Heal, Jammer, and Mortal Poison orbs, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

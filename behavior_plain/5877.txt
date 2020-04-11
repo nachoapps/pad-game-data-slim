@@ -38,7 +38,7 @@ Spawn 7 random Fire orbs, Deal 300% damage
 
 #10: ESRandomSpawn(92:16540) -> Rainbow 77
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, or Poison orb, Deal 280% damage
+Spawn 1 random Fire, Water, Wood, Light, Dark, Jammer, and Poison orb, Deal 280% damage
 
 #11: ESAttackMultihit(15:16541) -> 7th Impact
 Condition: 34% chance (ai:0 rnd:34)

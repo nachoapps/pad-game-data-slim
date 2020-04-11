@@ -25,7 +25,7 @@ flag SET 0b1
 	[1] ESBindSkill(14:10696) -> Seiren's Singing Voice
 	Bind active skills for 1 turn
 	[2] ESRandomSpawn(92:10697) -> Themis's Oracle
-	Spawn 10 random Light, Heal, Jammer, or Mortal Poison orbs
+	Spawn 10 random Light, Heal, Jammer, and Mortal Poison orbs
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn

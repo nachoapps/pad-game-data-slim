@@ -30,7 +30,7 @@ level: 4
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (5138:92) Blue Wind of the Green Fate
-     | Spawn 3 random Wood or Heal orbs, Deal 140% damage
+     | Spawn 3 random Wood and Heal orbs, Deal 140% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
      | (5143:94) Dimension-Miracle

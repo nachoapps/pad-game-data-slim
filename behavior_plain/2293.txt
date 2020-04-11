@@ -14,7 +14,7 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: ESRandomSpawn(92:10153) -> Destruction Program
-Spawn 6 random Fire, Wood, Heal, Jammer, or Poison orbs
+Spawn 6 random Fire, Wood, Heal, Jammer, and Poison orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn

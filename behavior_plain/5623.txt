@@ -19,7 +19,7 @@ flag SET 0b1
 	[1] ESNoSkyfall(127:14815) -> I'm counting on you for a good combo!
 	No skyfall for 5 turns
 	[2] ESRandomSpawn(92:14816) -> Cheery Candy!
-	Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #5: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -40,7 +40,7 @@ Branch on combo >= 5, target rnd 12
 	[0] ESInactivity66(66:14820) -> Make 1 combo with each color♪
 	Do nothing
 	[1] ESRandomSpawn(92:14821) -> Take your time!
-	Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -49,7 +49,7 @@ end_turn
 	[0] ESInactivity66(66:14818) -> Unlucky, just a bit more♪
 	Do nothing
 	[1] ESRandomSpawn(92:14819) -> You'll show me your worth now, right!
-	Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
@@ -73,7 +73,7 @@ counter + 1
 	[0] ESDebuffMovetime(39:14827) -> Fight♪
 	Movetime 500% for 99 turns
 	[1] ESRandomSpawn(92:14828) -> Don't give up!
-	Spawn 5 random Fire, Water, Wood, Light, Dark, or Heal orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn

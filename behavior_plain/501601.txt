@@ -43,7 +43,7 @@ Branch on flag & 2, target rnd 7
 flag SET 0b11
 
 #13: ESRandomSpawn(92:14536) -> Scattering Scales
-Spawn 5 random Heal or Poison orbs
+Spawn 5 random Heal and Poison orbs
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn

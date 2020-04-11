@@ -18,7 +18,7 @@ level: 1
  | group:
  | condition: hp <= 99
    | (7131:92) Path to the Underworld
-   | Spawn 2 random Heal, Jammer, or Mortal Poison orbs, Deal 100% damage
+   | Spawn 2 random Heal, Jammer, and Mortal Poison orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (7132:17) Dark Wolf Howl
@@ -36,7 +36,7 @@ level: 6
  | group:
  | condition: hp <= 99
    | (7131:92) Path to the Underworld
-   | Spawn 2 random Heal, Jammer, or Mortal Poison orbs, Deal 100% damage
+   | Spawn 2 random Heal, Jammer, and Mortal Poison orbs, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
    | (7132:17) Dark Wolf Howl

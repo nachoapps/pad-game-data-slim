@@ -11,7 +11,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (14270:83) Huge Wave + Let's Ride the Heat Wave! + Aerial
-   | Bind awoken skills for 2 turns + Spawn 22 random Fire or Water orbs + Absorb damage when combos <= 6 for 1 turn
+   | Bind awoken skills for 2 turns + Spawn 22 random Fire and Water orbs + Absorb damage when combos <= 6 for 1 turn
  | group:
    | condition: 50% chance
    | (14271:77) WAV Cut Back
@@ -32,7 +32,7 @@ level: 1
 level: 4
  type: PREEMPT
  | (14270:83) Huge Wave + Let's Ride the Heat Wave! + Aerial
- | Bind awoken skills for 2 turns + Spawn 22 random Fire or Water orbs + Absorb damage when combos <= 6 for 1 turn
+ | Bind awoken skills for 2 turns + Spawn 22 random Fire and Water orbs + Absorb damage when combos <= 6 for 1 turn
  group:
  | group:
    | condition: 50% chance

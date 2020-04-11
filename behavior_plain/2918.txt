@@ -32,7 +32,7 @@ Player -1000% HP
 
 #7: SkillSet:
 	[0] ESRandomSpawn(92:15130) -> How about this?
-	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 	[1] ESSpinnersFixed(110:15132) -> We're only getting started
 	Specific orbs change every 1.0s for 1 turn
 	[2] ESAbsorbCombo(67:15133) -> I wonder, can you do it?
@@ -84,7 +84,7 @@ Player -1000% HP
 	[0] ESBoardChange(84:15140) -> You can do it if you try!
 	Change all orbs to Light
 	[1] ESRandomSpawn(92:15141) -> I'll be impressed if you can do it
-	Spawn 9 random Heal, Jammer, or Poison orbs
+	Spawn 9 random Heal, Jammer, and Poison orbs
 	[2] ESBlindStickyRandom(97:15142) -> Yoooo!
 	Blind all orbs for 1 turn
 	[3] ESAbsorbCombo(67:15143) -> You'd better look out!
@@ -103,7 +103,7 @@ Player -1000% HP
 	[0] ESBombFixedSpawn(103:15145) -> I didn't think you'd make it this far
 	Spawn Bomb orbs in the specified positions
 	[1] ESRandomSpawn(92:15146) -> This is my last shot!
-	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 	[2] ESAbsorbCombo(67:15147) -> Don't mess this up!!
 	Absorb damage when combos <= 9 for 1 turn
 

@@ -18,7 +18,7 @@ level: 1
      | Change all Jammer orbs to Wood orbs, Deal 240% damage
      | condition: 33% chance
      | (10987:92) Cauchemar Fragment
-     | Spawn 2 random Jammer or Poison orbs, Deal 100% damage
+     | Spawn 2 random Jammer and Poison orbs, Deal 100% damage
      | condition: 33% chance
      | (10988:48) Cauchemar Tempest
      | Change a random attribute to Jammer orbs, Deal 100% damage
@@ -43,7 +43,7 @@ level: 1
      | Change all Jammer orbs to Wood orbs, Deal 240% damage
      | condition: 33% chance
      | (10987:92) Cauchemar Fragment
-     | Spawn 2 random Jammer or Poison orbs, Deal 100% damage
+     | Spawn 2 random Jammer and Poison orbs, Deal 100% damage
      | condition: 33% chance
      | (10988:48) Cauchemar Tempest
      | Change a random attribute to Jammer orbs, Deal 100% damage
@@ -62,7 +62,7 @@ level: 1
      | Change all Jammer orbs to Wood orbs, Deal 240% damage
      | condition: 33% chance
      | (10987:92) Cauchemar Fragment
-     | Spawn 2 random Jammer or Poison orbs, Deal 100% damage
+     | Spawn 2 random Jammer and Poison orbs, Deal 100% damage
      | condition: 33% chance
      | (10988:48) Cauchemar Tempest
      | Change a random attribute to Jammer orbs, Deal 100% damage

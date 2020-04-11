@@ -15,7 +15,7 @@ level: 1
  | Fire, Water, Light, and Dark skyfall +100% for 1 turn
  group:
  | (15029:83) Ocean Vestments + Curse of the Sea God
- | Absorb damage when combos <= 7 for 999 turns + Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+ | Absorb damage when combos <= 7 for 999 turns + Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
  type: UNKNOWN_USE
  | (15034:68) Wake Up!
  | Water, Wood, Light, and Dark skyfall +100% for 1 turn
@@ -27,7 +27,7 @@ level: 1
  | (15030:67) Ocean Vestments
  | Absorb damage when combos <= 7 for 999 turns
  | (15031:92) Curse of the Sea God
- | Spawn 6 random Fire, Water, Wood, Light, or Heal orbs
+ | Spawn 6 random Fire, Water, Wood, Light, and Heal orbs
  | (15033:83) Wake Up! + Into Darkness + Fire Orbs...
  | Water, Wood, Light, and Dark skyfall +100% for 1 turn + Blind all orbs on the board + Spawn 3 random Fire orbs
  | (15039:92) Water Orbs...

@@ -70,7 +70,7 @@ Condition: 50% chance (ai:50 rnd:0)
 Deal 140% damage (2 hits, 70% each)
 
 #20: ESRandomSpawn(92:2904) -> Serpent Hate
-Spawn 2 random Jammer or Mortal Poison orbs, Deal 130% damage
+Spawn 2 random Jammer and Mortal Poison orbs, Deal 130% damage
 
 #21: ESEndPath(36:26) -> ESEndPath
 end_turn

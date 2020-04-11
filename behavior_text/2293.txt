@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (10153:92) Destruction Program
- | Spawn 6 random Fire, Wood, Heal, Jammer, or Poison orbs
+ | Spawn 6 random Fire, Wood, Heal, Jammer, and Poison orbs
  group:
  | group:
    | condition: 50% chance

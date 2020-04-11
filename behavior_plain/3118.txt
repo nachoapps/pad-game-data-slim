@@ -12,7 +12,7 @@ Enable preempt if level 4
 	[0] ESBindAwoken(88:14267) -> Huge Wave
 	Bind awoken skills for 2 turns
 	[1] ESRandomSpawn(92:14268) -> Let's Ride the Heat Wave!
-	Spawn 22 random Fire or Water orbs
+	Spawn 22 random Fire and Water orbs
 	[2] ESAbsorbCombo(67:14269) -> Aerial
 	Absorb damage when combos <= 6 for 1 turn
 

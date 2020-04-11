@@ -88,34 +88,34 @@ Spawn 1 random Dark orb, Deal 150% damage
 #23: SkillSet:
 	Condition: 20% chance (ai:20 rnd:0)
 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[1] ESBindAttack(63:7157) -> Fake Spear Gungnir
 	Bind 1 random card for 1 turn, Deal 100% damage
 
 #24: SkillSet:
 	Condition: 25% chance (ai:25 rnd:0)
 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[1] ESBindAwoken(88:7158) -> Fake Ring Draupnir
 	Bind awoken skills for 1 turn, Deal 100% damage
 
 #25: SkillSet:
 	Condition: 34% chance (ai:34 rnd:0)
 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[1] ESOrbLock(94:7160) -> Fake Hammer Mjölnir
 	Lock 5 random Fire, Water, Wood, Light, and Dark orbs, Deal 100% damage
 
 #26: SkillSet:
 	Condition: 50% chance (ai:50 rnd:0)
 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[1] ESRowSpawnMulti(79:7161) -> Fake Blade Lævateinn
 	Change the 5th row to Fire orbs, Deal 100% damage
 
 #27: SkillSet:
 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[1] ESGravity(50:7159) -> Fake Ship Skidbladnir
 	Player -99% HP
 

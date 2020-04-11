@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Light attrs by 50%
  type: PREEMPT
  | (8317:83) Echoing Howl + Quinary Prism
- | Delay active skills by 5 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+ | Delay active skills by 5 turns + Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
  group:
  | group:
    | group:

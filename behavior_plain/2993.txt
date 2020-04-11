@@ -16,7 +16,7 @@ Enable preempt if level 1
 	[2] ESSkillDelay(89:14794) -> Hang in and survive!
 	Delay active skills by 99 turns
 	[3] ESRandomSpawn(92:14795) -> Here you go♪
-	Spawn 15 random Heal or Mortal Poison orbs
+	Spawn 15 random Heal and Mortal Poison orbs
 	[4] ESRandomSpawn(92:14813) -> This is a present♪
 	Spawn 3 random Fire orbs
 
@@ -39,7 +39,7 @@ Change all Jammer, Poison, and Mortal Poison orbs to Water orbs, Deal 100% damag
 	[1] ESMaxHPChange(111:14801) -> How about this?
 	Change player HP to 100000 for 1 turn
 	[2] ESRandomSpawn(92:14802) -> Tougher than expected?
-	Spawn 10 random Heal, Jammer, or Poison orbs
+	Spawn 10 random Heal, Jammer, and Poison orbs
 	[3] ESDebuffRCV(105:14803) -> This'll make you better
 	RCV 500% for 1 turn
 

@@ -12,7 +12,7 @@ level: 1
  | Reduce damage from Dark attrs by 50%
  type: PREEMPT
  | (6968:83) Abnormal Dimension + Terror + Impurity
- | Voids status ailments for 10 turns + Spawn 3 random locked Bomb orbs + Spawn 3 random Jammer or Mortal Poison orbs
+ | Voids status ailments for 10 turns + Spawn 3 random locked Bomb orbs + Spawn 3 random Jammer and Mortal Poison orbs
  group:
  | group:
  | condition: when hp is full

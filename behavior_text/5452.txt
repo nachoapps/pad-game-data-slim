@@ -25,7 +25,7 @@ level: 1
  | group:
  | condition: always turn 2, hp <= 49
    | (14048:83) こうまでリハーサル通りだと―― + フェアじゃない
-   | Do nothing + Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+   | Do nothing + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
  | group:
  | condition: hp <= 19
    | group:

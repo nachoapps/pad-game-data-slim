@@ -32,4 +32,4 @@ level: 4
  | group:
  | condition: hp <= 9
    | (3409:92) Halloween's End
-   | Spawn 6 random Jammer or Poison orbs, Deal 200% damage
+   | Spawn 6 random Jammer and Poison orbs, Deal 200% damage

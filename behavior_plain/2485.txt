@@ -71,7 +71,7 @@ end_turn
 
 #20: ESRandomSpawn(92:3510) -> Storm and Lightning Tail
 Condition: 50% chance (ai:50 rnd:0)
-Spawn 4 random Wood or Light orbs, Deal 190% damage
+Spawn 4 random Wood and Light orbs, Deal 190% damage
 
 #21: ESAttackMultihit(15:3511) -> Spear-Shaped Tail
 Deal 195% damage (3 hits, 65% each)

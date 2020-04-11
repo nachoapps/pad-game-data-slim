@@ -32,7 +32,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1 of 3
      | (2950:92) Heat and Cold
-     | Spawn 2 random Fire or Water orbs, Deal 160% damage
+     | Spawn 2 random Fire and Water orbs, Deal 160% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (2951:92) Hinder Alchemy
@@ -40,7 +40,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 3 of 3
      | (2950:92) Heat and Cold
-     | Spawn 2 random Fire or Water orbs, Deal 160% damage
+     | Spawn 2 random Fire and Water orbs, Deal 160% damage
  | group:
  | condition: hp <= 49
    | group:
@@ -59,7 +59,7 @@ level: 1
      | (2965:48) High Poison Alchemy
      | Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
      | (2950:92) Heat and Cold
-     | Spawn 2 random Fire or Water orbs, Deal 160% damage
+     | Spawn 2 random Fire and Water orbs, Deal 160% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
      | (2965:48) High Poison Alchemy
@@ -71,7 +71,7 @@ level: 1
      | (2965:48) High Poison Alchemy
      | Change all Jammer orbs to Mortal Poison orbs, Deal 200% damage
      | (2950:92) Heat and Cold
-     | Spawn 2 random Fire or Water orbs, Deal 160% damage
+     | Spawn 2 random Fire and Water orbs, Deal 160% damage
  | group:
  | condition: hp <= 24
    | (2962:85) Contraindication

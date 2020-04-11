@@ -59,7 +59,7 @@ Player -1000% HP
 	[1] ESRowSpawnMulti(78:7102) -> What's wrong? You're all sweaty...
 	Change the 3rd row to Jammer orbs
 	[2] ESRandomSpawn(92:7103) -> Surely you're not done yet?
-	Spawn 3 random Fire, Water, Wood, Light, Dark, or Heal orbs
+	Spawn 3 random Fire, Water, Wood, Light, Dark, and Heal orbs
 
 #12: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 7, target rnd 14
@@ -74,7 +74,7 @@ Player -1000% HP
 	[1] ESBombFixedSpawn(103:7106) -> But now it's do or die!
 	Spawn Bomb orbs in the specified positions
 	[2] ESRandomSpawn(92:7117) -> Let's see you get past this!
-	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orbs
+	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
 
 #15: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 8, target rnd 17
@@ -87,7 +87,7 @@ Player -1000% HP
 	[0] ESAbsorbCombo(67:7108) -> Hmph, impressive
 	Absorb damage when combos <= 8 for 1 turn
 	[1] ESRandomSpawn(92:7109) -> The end is nigh...
-	Spawn 6 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 	[2] ESFixedStart(101:7110) -> Don't let up now!
 	Fix orb movement starting point to random position on the board
 

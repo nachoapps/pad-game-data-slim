@@ -36,7 +36,7 @@ Deal 102% damage (2 hits, 51% each)
 end_turn
 
 #10: ESRandomSpawn(92:16919) -> 今宵の月は決して沈まぬぞ
-Spawn 3 random Light or Dark orbs, Deal 150% damage
+Spawn 3 random Light and Dark orbs, Deal 150% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

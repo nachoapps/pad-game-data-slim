@@ -46,7 +46,7 @@ Enemy recover 50% HP
 end_turn
 
 #14: ESRandomSpawn(92:17476) -> 雷霆の槍
-Spawn 4 random Light or Dark orbs, Deal 130% damage
+Spawn 4 random Light and Dark orbs, Deal 130% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
 end_turn

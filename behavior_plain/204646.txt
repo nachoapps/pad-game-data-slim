@@ -54,7 +54,7 @@ Branch on hp < 50, target rnd 25
 
 #17: ESRandomSpawn(92:10413) -> Accepting Spirit
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 4 random Fire or Dark orbs, Deal 100% damage
+Spawn 4 random Fire and Dark orbs, Deal 100% damage
 
 #18: ESOrbChangeAttack(48:10414) -> Darkness Pillar
 Condition: 33% chance (ai:0 rnd:33)
@@ -88,7 +88,7 @@ Spawn 8 random Poison orbs
 
 #26: ESRandomSpawn(92:10413) -> Accepting Spirit
 Condition: 33% chance (ai:0 rnd:33)
-Spawn 4 random Fire or Dark orbs, Deal 100% damage
+Spawn 4 random Fire and Dark orbs, Deal 100% damage
 
 #27: ESOrbChangeAttack(48:10414) -> Darkness Pillar
 Condition: 33% chance (ai:0 rnd:33)

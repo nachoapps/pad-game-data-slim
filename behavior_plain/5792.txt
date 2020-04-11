@@ -57,7 +57,7 @@ Reduce damage from all sources by 75% for 3 turns
 end_turn
 
 #17: ESRandomSpawn(92:15753) -> Flash Flare Blast
-Spawn 5 random Fire or Dark orbs, Deal 200% damage
+Spawn 5 random Fire and Dark orbs, Deal 200% damage
 
 #18: ESEndPath(36:26) -> ESEndPath
 end_turn

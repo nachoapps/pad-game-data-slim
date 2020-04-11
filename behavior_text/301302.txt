@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (12076:92) エレメントマジック
- | Spawn 6 random Fire, Water, Wood, Light, or Dark orbs, Deal 50% damage
+ | Spawn 6 random Fire, Water, Wood, Light, and Dark orbs, Deal 50% damage
  group:
  | group:
    | condition: 50% chance

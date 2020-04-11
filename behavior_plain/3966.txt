@@ -16,7 +16,7 @@ Enable preempt if level 1
 	[2] ESDebuffMovetime(39:15994) -> Buddha's Mercy
 	Movetime 300% for 10 turns
 	[3] ESRandomSpawn(92:15996) -> Amenomina's 8 Seals of Creation
-	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+	Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 
 #3: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 4, target rnd 7
@@ -25,7 +25,7 @@ Branch on counter >= 4, target rnd 7
 counter + 1
 
 #5: ESRandomSpawn(92:15996) -> Amenomina's 8 Seals of Creation
-Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, or Poison orbs
+Spawn 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, and Poison orbs
 
 #6: ESEndPath(36:26) -> ESEndPath
 end_turn

@@ -44,7 +44,7 @@ No skyfall for 5 turns
 end_turn
 
 #12: ESRandomSpawn(92:15931) -> Sweet Word
-Spawn 3 random Fire or Heal orbs, Deal 156% damage
+Spawn 3 random Fire and Heal orbs, Deal 156% damage
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn

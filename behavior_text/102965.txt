@@ -11,7 +11,7 @@ level: 4
  | group:
  | condition: execute repeatedly, turn 1 of 4
    | (4710:92) 7 Colors Ring
-   | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, or Jammer orb
+   | Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orb
  | group:
  | condition: execute repeatedly, turn 2-4 of 4
    | (4711:15) Happy Bomb

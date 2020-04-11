@@ -22,10 +22,10 @@ level: 1
 level: 2
  type: PREEMPT
  | (16889:83) 準備はいいかな？ + さぁ、僕に攻撃してみて
- | Absorb damage when damage >= 1 for 99 turns + Spawn 10 random Fire, Water, or Heal orbs
+ | Absorb damage when damage >= 1 for 99 turns + Spawn 10 random Fire, Water, and Heal orbs
  group:
  | condition: when 3 combos last turn
  | (16886:83) うん、これぐらいで大丈夫かな + それじゃあ打ち消すよ
  | Increase damage to 200% for the next 1 turn + Reduce self HP to 0
  | (16885:92) もう少し必要かな
- | Spawn 10 random Fire, Water, or Heal orbs
+ | Spawn 10 random Fire, Water, and Heal orbs

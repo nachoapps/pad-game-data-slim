@@ -31,7 +31,7 @@ level: 1
  | group:
  | condition: always turn 5
    | (13815:83) Hehehe, I'm done + Let's start the experiment + You see those Poison Orbs? + Make them disappear
-   | Bind awoken skills for 1 turn + Bind active skills for 1 turn + Spawn 10 random Fire, Dark, or Mortal Poison orbs + Random 2 orbs change every 0.5s for 1 turn
+   | Bind awoken skills for 1 turn + Bind active skills for 1 turn + Spawn 10 random Fire, Dark, and Mortal Poison orbs + Random 2 orbs change every 0.5s for 1 turn
  | group:
    | group:
    | condition: turn 6 while HP > 9

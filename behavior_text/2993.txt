@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (14791:83) He, he♪ + I'll make you cute! + Hang in and survive! + Here you go♪ + This is a present♪
- | Bind awoken skills for 1 turn + Change leader to [44] for 99 turns + Delay active skills by 99 turns + Spawn 15 random Heal or Mortal Poison orbs + Spawn 3 random Fire orbs
+ | Bind awoken skills for 1 turn + Change leader to [44] for 99 turns + Delay active skills by 99 turns + Spawn 15 random Heal and Mortal Poison orbs + Spawn 3 random Fire orbs
  group:
  | group:
  | condition: turn 1
@@ -22,7 +22,7 @@ level: 1
    | (14811:108) No good!
    | Change all Jammer, Poison, and Mortal Poison orbs to Water orbs, Deal 100% damage
    | (14800:83) He, he♪ + How about this? + Tougher than expected? + This'll make you better
-   | Bind awoken skills for 2 turns + Change player HP to 100000 for 1 turn + Spawn 10 random Heal, Jammer, or Poison orbs + RCV 500% for 1 turn
+   | Bind awoken skills for 2 turns + Change player HP to 100000 for 1 turn + Spawn 10 random Heal, Jammer, and Poison orbs + RCV 500% for 1 turn
  | group:
  | condition: turn 3
    | (14811:108) No good!

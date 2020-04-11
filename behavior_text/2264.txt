@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (16008:83) Do you really think you can defeat me? + Show me that you're ready
- | Absorb damage when combos <= 3 for 6 turns + Spawn 6 random Water, Wood, Light, Dark, or Heal orbs
+ | Absorb damage when combos <= 3 for 6 turns + Spawn 6 random Water, Wood, Light, Dark, and Heal orbs
  group:
  | group:
  | condition: turns 1-5

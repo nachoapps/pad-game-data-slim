@@ -12,7 +12,7 @@ Enable preempt if level 1
 	[0] ESBindAwoken(88:14010) -> Living Dragon's Miraculous Medicine
 	Bind awoken skills for 3 turns
 	[1] ESRandomSpawn(92:14011) -> Independent Action
-	Spawn 3 random Jammer or Poison orbs
+	Spawn 3 random Jammer and Poison orbs
 	[2] ESOrbLock(94:14012) -> Law's Binding Spell
 	Lock all Jammer and Poison orbs
 

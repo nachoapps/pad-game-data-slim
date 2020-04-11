@@ -31,7 +31,7 @@ counter + 1
 
 #8: ESRandomSpawn(92:17002) -> Chaos Inferno
 Condition: 50% chance (ai:50 rnd:0)
-Spawn 3 random Fire or Dark orbs, Deal 100% damage
+Spawn 3 random Fire and Dark orbs, Deal 100% damage
 
 #9: ESRowSpawnMulti(79:17006) -> Evil Star Flame
 Change the 1st row to Light orbs and the 5th row to Dark orbs, Deal 95% damage

@@ -15,4 +15,4 @@ level: 1
  | group:
  | condition: execute repeatedly, turn 2 of 2
    | (5606:92) Green Ice Crush
-   | Spawn 1 random Water or Wood orb, Deal 80% damage
+   | Spawn 1 random Water and Wood orb, Deal 80% damage

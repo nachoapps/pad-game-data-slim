@@ -78,7 +78,7 @@ Change the 5th row to Dark orbs, Deal 130% damage
 
 #21: ESRandomSpawn(92:13029) -> Mid-air Tail Strike
 Condition: 34% chance (ai:0 rnd:34)
-Spawn 3 random Water or Dark orbs, Deal 130% damage
+Spawn 3 random Water and Dark orbs, Deal 130% damage
 
 #22: ESEndPath(36:26) -> ESEndPath
 end_turn

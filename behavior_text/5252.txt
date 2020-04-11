@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (13262:92) My mana burns with passion.
- | Spawn 3 random Wood or Dark orbs
+ | Spawn 3 random Wood and Dark orbs
  group:
  | group:
    | condition: 25% chance

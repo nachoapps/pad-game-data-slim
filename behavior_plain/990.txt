@@ -33,7 +33,7 @@ Condition: When < 70% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Movetime -1s for 5 turns
 
 #10: ESRandomSpawn(92:3880) -> Full Moon
-Spawn 3 random Heal or Poison orbs, Deal 80% damage
+Spawn 3 random Heal and Poison orbs, Deal 80% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn

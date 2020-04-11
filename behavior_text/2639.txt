@@ -48,7 +48,7 @@ level: 1
      | (2903:15) Thorn Tail
      | Deal 140% damage (2 hits, 70% each)
      | (2904:92) Serpent Hate
-     | Spawn 2 random Jammer or Mortal Poison orbs, Deal 130% damage
+     | Spawn 2 random Jammer and Mortal Poison orbs, Deal 130% damage
  | group:
  | condition: turn 3 while HP > 14, hp <= 39
    | (2900:63) Snake's Deadening Fang

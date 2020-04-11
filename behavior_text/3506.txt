@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PREEMPT
  | (15661:83) You can do it, right? + Even now... + Now, grasp hold of hope... + Pandora's Box
- | Voids status ailments for 999 turns + Bind awoken skills for 5 turns + Absorb damage when combos <= 9 for 1 turn + Spawn 6 random Dark, Heal, Jammer, Poison, or Mortal Poison orbs
+ | Voids status ailments for 999 turns + Bind awoken skills for 5 turns + Absorb damage when combos <= 9 for 1 turn + Spawn 6 random Dark, Heal, Jammer, Poison, and Mortal Poison orbs
  group:
  | group:
  | condition: turn 1

@@ -12,7 +12,7 @@ Enable preempt if level 1
 	[0] ESSkyfall(68:15102) -> Entertain me!
 	Jammer skyfall +100% for 4 turns
 	[1] ESRandomSpawn(92:15104) -> Just right for a drink snack
-	Spawn 6 random Fire, Water, Wood, Light, or Jammer orbs
+	Spawn 6 random Fire, Water, Wood, Light, and Jammer orbs
 	[2] ESAttributeBlock(107:15103) -> Erase everything but Jammers
 	Unable to match Jammer orbs for 4 turns
 	[3] ESDebuffMovetime(39:15105) -> Well, let's try your best
@@ -35,7 +35,7 @@ Deal 1000% damage (5 hits, 200% each)
 
 #8: SkillSet:
 	[0] ESRandomSpawn(92:15109) -> How about the next turn?
-	Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
 	[1] ESFixedStart(101:15116) -> Here you go!
 	Fix orb movement starting point to random position on the board
 
@@ -59,7 +59,7 @@ Deal 1000% damage (5 hits, 200% each)
 
 #15: SkillSet:
 	[0] ESRandomSpawn(92:15113) -> Isn't this a struggle?
-	Spawn 5 random Fire, Water, Wood, Light, or Dark orbs
+	Spawn 5 random Fire, Water, Wood, Light, and Dark orbs
 	[1] ESBlind5(5:15114) -> I forgot the bonus
 	Blind all orbs on the board
 
@@ -77,7 +77,7 @@ Deal 1000% damage (5 hits, 200% each)
 
 #20: SkillSet:
 	[0] ESRandomSpawn(92:15117) -> I'm surprised you made it this far
-	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, or Mortal Poison orbs
+	Spawn 3 random Fire, Water, Wood, Light, Dark, Heal, Poison, and Mortal Poison orbs
 	[1] ESAbsorbCombo(67:15119) -> This is the last chance
 	Absorb damage when combos <= 7 for 999 turns
 

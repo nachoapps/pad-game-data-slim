@@ -14,7 +14,7 @@ level: 1
  | group:
  | condition: always turn 1
    | (4890:83) Justice Jamming + Justice Road
-   | Spawn 3 random Heal, Jammer, or Poison orbs + Fix orb movement starting point to random position on the board
+   | Spawn 3 random Heal, Jammer, and Poison orbs + Fix orb movement starting point to random position on the board
  | group:
    | condition: 50% chance
    | (4886:15) Justice Gatling

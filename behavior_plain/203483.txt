@@ -37,7 +37,7 @@ Branch on counter >= 5, target rnd 22
 #10: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)
 	[0] ESRandomSpawn(92:10832) -> Fehde Gandr
-	Spawn 3 random Water or Dark orbs
+	Spawn 3 random Water and Dark orbs
 	[1] ESAttackMultihit(15:10835) -> Yule Hörgr
 	Deal 100% damage (2 hits, 50% each)
 

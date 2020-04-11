@@ -33,7 +33,7 @@ Condition: One-time use (ai:50 rnd:0) (cost: 1)
 Deal 100% damage (4 hits, 25% each)
 
 #9: ESRandomSpawn(92:13538) -> Just go and have fun
-Spawn 3 random Jammer or Poison orbs
+Spawn 3 random Jammer and Poison orbs
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
