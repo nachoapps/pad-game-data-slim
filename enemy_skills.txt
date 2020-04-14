@@ -55787,7 +55787,7 @@ JP: 999ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 999 turns
 KR: Absorb damage when combos <= 6 for 999 turns
 
-# 11150/90 - スオウジャンプ
+# 11150/90 - Suou Jump
 JP: Branch on player_cards HAS [4796, 4797], target rnd None
 EN: Branch on player_cards HAS [4796, 4797], target rnd None
 KR: Branch on player_cards HAS [4796, 4797], target rnd None

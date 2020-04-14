@@ -67559,7 +67559,7 @@ JP: 木の2コンボ以上で固定1ダメージ。
 EN: 1 additional damage when matching 2 or more Wood combos
 KR: 1 additional damage when matching 2 or more Wood combos
 
-# 16022/138 - Mech Divine King's Will
+# 16022/138 - Divine Mech King's Will
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Stats: [2.0, 12.0, 1.0, 0]
 Game: 2x HP & ATK for Fire Att., Orb move time +2 seconds; 6x ATK with 5+ combos
@@ -67583,7 +67583,7 @@ JP: 5コンボ以上で攻撃力が6倍。
 EN: 6x ATK when 5 or more combos
 KR: 6x ATK when 5 or more combos
 
-# 16028/138 - Mech Divine Emperor's Scorching Fist
+# 16028/138 - Divine Mech Emperor's Scorching Fist
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 18.0, 1, 0.5]
 Game: 9x ATK & halves damage with 2+ Fire combos; 2x ATK & inflicts 50,000 damage with 6+ linked Fire Orbs
@@ -67759,7 +67759,7 @@ JP: 3色以上同時攻撃で攻撃力と回復力が3倍、最大5色で5倍。
 EN: 3x ATK & RCV when matching 3 or more colors up to 5x at 5 colors
 KR: 3x ATK & RCV when matching 3 or more colors up to 5x at 5 colors
 
-# 16089/138 - True Spirit of the Shining Angel
+# 16089/138 - True Spirit of the Radiant Archangel
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 36.0, 1.0, 0.5]
 Game: [No Skyfall Combos], 4x ATK & halves dmg when 4+ Att. attack at once; 9x ATK when 5 Orbs or less remain on the board
@@ -67815,7 +67815,7 @@ JP: 闇を5個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 5 or more Dark orbs
 KR: 1 additional damage when matching 5 or more Dark orbs
 
-# 16096/138 - True Spirit of the Flame Deity
+# 16096/138 - True Spirit of the Blazing Falcon God
 Tags: ENHANCED_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [1, 18.0, 3.0, 0]
 Game: 6x ATK when 4+ Att. attack at once, inflicts 1 damage with 5 Att.; 3x ATK & RCV when skills used
@@ -67847,7 +67847,7 @@ JP: スキル使用時、攻撃力と回復力が3倍。
 EN: 3x ATK & RCV on the turn a skill is used
 KR: 3x ATK & RCV on the turn a skill is used
 
-# 16100/138 - True Spirit of the Raging Storm God
+# 16100/138 - True Spirit of the Storm God
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 16.0, 2.0, 0.2]
 Game: Reduces damage, 2x ATK & RCV for Wood Att.; 5x ATK with 2 Wood combos, 8x ATK with 3+ combos
@@ -67871,7 +67871,7 @@ JP: 木の2コンボで攻撃力が5倍、最大3コンボで8倍。
 EN: 5x ATK when matching 2 Wood combos, up to 8x at 3 Wood combos
 KR: 5x ATK when matching 2 Wood combos, up to 8x at 3 Wood combos
 
-# 16103/138 - True Spirit of the Heavenly Dancing Goddess
+# 16103/138 - True Spirit of the Dancing Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1.0, 0.5]
 Game: 4x ATK & halves damage when HP is 80% or more; 4x ATK when recovering 100,000+ HP with Heal Orbs
@@ -67954,7 +67954,7 @@ KR: 3x ATK & RCV when matching Light and Water
 # 16113/138 - Spirit of the Destroyer God Dragon
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 18.0, 3.0, 0.0]
-Game: 6x ATK when all sub-monsters are Reincarnated or Super Reincarnated monsters, 3x ATK & RCV for Fire Att.
+Game: 6x ATK when all monsters in team are Reincarnated or Super Reincarnated; 3x ATK & RCV for Fire Att.
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力が6倍。火属性の攻撃力と回復力が3倍。
 EN: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
 KR: 6x ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 3x ATK & RCV for Fire Att.
@@ -68026,7 +68026,7 @@ KR: 3.5x ATK for each cross of 5 Wood or Dark orbs
 # 16122/138 - Spirit of the Sun God Dragon
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 22.0, 2.0, 0]
-Game: 2x all stats when all sub-monsters are Reinc. or Super Reinc.; ATK inc. when 4 Att. (3+Heal) attack, up to 11x
+Game: 2x all stats when all monsters are Reinc. or Super Reinc.; ATK inc. when 4 Att. (3+Heal) attack, up to 11x
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが2倍。4色(3色+回復)以上同時攻撃で攻撃力が8倍、最大5色+回復で11倍。
 EN: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
 KR: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
@@ -68050,7 +68050,7 @@ KR: 8x ATK when matching 4 or more colors (3+heal) up to 11x at 5 colors+heal
 # 16125/138 - Spirit of the Night God Dragon
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 20.0, 5.0, 0]
-Game: 5x ATK & RCV when all sub-monsters are Reinc. or Super Reinc.; 4x ATK for Att. erasing 5 Orbs including enhanced
+Game: 5x ATK & RCV when all monsters are Reinc. or Super Reinc.; 4x ATK for Att. erasing 5 Orbs including enhanced
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が5倍。強化ドロップを含めてを5個消した属性の攻撃力が4倍。
 EN: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 KR: 5x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
@@ -68074,7 +68074,7 @@ KR: 4x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 # 16150/138 - Arriving Dragon's Decorum
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 16.0, 1.0, 0]
-Game: 2x HP & 4x ATK when all sub-monsters are Pixel Evo; 4x ATK & adds 2 combos with 9+ linked Fire Orbs
+Game: 2x HP & 4x ATK when all monsters in team are Pixel Evo; 4x ATK & adds 2 combos with 9+ linked Fire Orbs
 JP: ドット進化キャラのみでチームを組むと、攻撃力が4倍、HPが2倍。火を9個以上つなげて消しと攻撃力が4倍、2コンボ加算。
 EN: 4x ATK and 2x HP when all cards are Pixel Evolutions; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
 KR: 4x ATK and 2x HP when all cards are Pixel Evolutions; 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs at once
@@ -68098,7 +68098,7 @@ KR: 4x ATK and increase combo by 2 when matching 9 or more connected Fire orbs a
 # 16156/138 - Eight Heavenly Trigrams
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0.0]
-Game: 2x HP & ATK when all sub-monsters are Pixel Evo; 9x ATK when HP is full, 6x when HP is 99% or less
+Game: 2x HP & ATK when all monsters in team are Pixel Evo; 9x ATK when HP is full, 6x when HP is 99% or less
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。HPが満タン時攻撃力が9倍。HPが99%以下で攻撃力が6倍。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK when HP is full; 6x ATK when below 99% HP
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 9x ATK when HP is full; 6x ATK when below 99% HP
@@ -68122,7 +68122,7 @@ KR: 9x ATK when HP is full; 6x ATK when below 99% HP
 # 16162/138 - Red-Blue Secret Clock
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 1.5, 0.25]
-Game: 1.5x to all stats when all sub-monsters are Pixel Evo; 10x ATK & reduces dmg when Fire & Water attack at once
+Game: 1.5x all stats when all monsters in team are Pixel Evo; 10x ATK & reduces dmg when Fire & Water attack at once
 JP: ドット進化キャラのみでチームを組むと、全パラメータが1.5倍。火、水の同時攻撃で攻撃力が10倍、受けるダメージを25％減少。
 EN: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Fire and Water
 KR: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Fire and Water
@@ -68146,7 +68146,7 @@ KR: 10x ATK and reduce damage taken by 25% when matching Fire and Water
 # 16168/138 - Green-Red Secret Clock
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 1.5, 0.25]
-Game: 1.5x to all stats when all sub-monsters are Pixel Evo; 10x ATK & reduces dmg when Wood & Fire attack at once
+Game: 1.5x all stats when all monsters in team are Pixel Evo; 10x ATK & reduces dmg when Wood & Fire attack at once
 JP: ドット進化キャラのみでチームを組むと、全パラメータが1.5倍。木、火の同時攻撃で攻撃力が10倍、受けるダメージを25％減少。
 EN: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire
 KR: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire
@@ -68170,7 +68170,7 @@ KR: 10x ATK and reduce damage taken by 25% when matching Wood and Fire
 # 16174/138 - Eternal Dragon Contract - Fragrem
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 14.0, 2.0, 0]
-Game: 2x to all stats when all sub-monsters are Pixel Evo; 7x ATK for Light Attribute when skills used
+Game: 2x all stats when all monsters in team are Pixel Evo; 7x ATK for Light Attribute when skills used
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。スキル使用時、光属性の攻撃力が7倍。
 EN: 2x all stats when all cards are Pixel Evolutions; 7x ATK for Light Att. on the turn a skill is used
 KR: 2x all stats when all cards are Pixel Evolutions; 7x ATK for Light Att. on the turn a skill is used
@@ -68194,7 +68194,7 @@ KR: 7x ATK for Light Att. on the turn a skill is used
 # 16180/138 - Elemental Peace
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 20.0, 1.0, 0]
-Game: 2x HP & 5x ATK when all sub-monsters are Pixel Evo; ATK increases when 2+ Att. attack at once, up to 4x
+Game: 2x HP & 5x ATK when all monsters in team are Pixel Evo; ATK increases when 2+ Att. attack at once, up to 4x
 JP: ドット進化キャラのみでチームを組むと、攻撃力が5倍、HPが2倍。2色以上同時攻撃で攻撃力が2.5倍、最大5色で4倍。
 EN: 5x ATK and 2x HP when all cards are Pixel Evolutions; 2.5x ATK when matching 2 or more colors up to 4x at 5 colors
 KR: 5x ATK and 2x HP when all cards are Pixel Evolutions; 2.5x ATK when matching 2 or more colors up to 4x at 5 colors
@@ -68218,7 +68218,7 @@ KR: 2.5x ATK when matching 2 or more colors up to 4x at 5 colors
 # 16186/138 - Double-Stop Reverberation
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 1.0, 0.5]
-Game: 5x ATK when all sub-monsters are Pixel Evo; halves damage  with a cross of 5 Heal Orbs, 4x ATK when 3+ Att. attack
+Game: 5x ATK when all monsters are Pixel Evo; halves damage with a cross of 5 Heal Orbs, 4x ATK when 3+ Att. Attack
 JP: ドット進化キャラのみでチームを組むと、攻撃力が5倍。回復の5個十字消しで受けるダメージを50％減少。3色以上同時攻撃で攻撃力が4倍。
 EN: 5x ATK when all cards are Pixel Evolutions; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK when matching 3 or more colors
 KR: 5x ATK when all cards are Pixel Evolutions; Reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 4x ATK when matching 3 or more colors
@@ -68847,7 +68847,7 @@ JP: 4色以上同時攻撃で攻撃力が6倍、受けるダメージを25％減
 EN: 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 KR: 6x ATK and reduce damage taken by 25% when matching 4 or more colors
 
-# 16376/129 - 8th Anniversary Exchange Monster
+# 16376/129 - Exchange Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for special monsters through [Monster Exchange]

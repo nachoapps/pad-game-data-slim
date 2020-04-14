@@ -1,4 +1,4 @@
-#5909 ドット・時女神・ヴェルダンディ
+#5909 Pixel The Norn Verdandi
 HP: 4255 ATK: 1617 RCV: 482 LB: 15
 AWK: 10,10,21,21,28,29,29,29,48
 SAWK: 48,29,70
@@ -13,7 +13,7 @@ KR: Change all orbs to Fire, Wood, and Heal orbs; For 3 turns, 2x RCV
 # 16168/138 - Green-Red Secret Clock
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 1.5, 0.25]
-Game: 1.5x to all stats when all sub-monsters are Pixel Evo; 10x ATK & reduces dmg when Wood & Fire attack at once
+Game: 1.5x all stats when all monsters in team are Pixel Evo; 10x ATK & reduces dmg when Wood & Fire attack at once
 JP: ドット進化キャラのみでチームを組むと、全パラメータが1.5倍。木、火の同時攻撃で攻撃力が10倍、受けるダメージを25％減少。
 EN: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire
 KR: 1.5x all stats when all cards are Pixel Evolutions; 10x ATK and reduce damage taken by 25% when matching Wood and Fire

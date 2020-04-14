@@ -6811,7 +6811,7 @@ KR: Deal 50x ATK damage to an enemy and recover the same amount as HP; Create 5 
 
 # 1858/116 - Calming Mountain Wind
 Tags: ENHANCED_ORBS,GUARD_STANCE,ORB_CONVERT,REMOVE_LOCK
-Game: Removes Orb locks & changes Water Orbs to Heal Orbs; Wood & Heal Orbs enhanced
+Game: Removes Orb locks; changes Water Orbs to Heal Orbs, Wood & Heal Orbs enhanced
 JP: 全ドロップのロック状態を解除。水ドロップを回復ドロップに変化。木と回復ドロップを強化
 EN: Unlock all orbs; Change Water orbs to Heal orbs; Enhance all Wood and Heal orbs
 KR: Unlock all orbs; Change Water orbs to Heal orbs; Enhance all Wood and Heal orbs
@@ -10843,7 +10843,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 3355/116 - Divine Illumination
 Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Recovers 40% of max HP, reduces bind status by 4 turns; other allies' skills charged by 1 turn
+Game: Recovers 40% of max HP, reduces bind status (inc. Awkn) by 4 turns; other allies' skills charged by 1 turn
 JP: 最大HP40％分回復。バインドと覚醒無効を4ターン回復。自分以外の味方スキルが1ターンの溜まる
 EN: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
 KR: Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns; Charge all allies' skills by 1 turn
@@ -14833,7 +14833,7 @@ KR: Enhance all Dark and Heal orbs
 
 # 5154/116 - Heaven-Shaking Lightning Wall
 Tags: REDUCE_DAMAGE,ENHANCED_HEAL,REDUCE_SKILL_TURN
-Game: Vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
+Game: 2x RCV & vastly reduces damage for 2 turns; other allies' skills charged by 1 turn
 JP: 2ターンの間、回復力が2倍。2ターンの間、受けるダメージを75％減少。自分以外の味方スキルが1ターンの溜まる
 EN: For 2 turns, 2x RCV; For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
 KR: For 2 turns, 2x RCV; For 2 turns, reduce damage taken by 75%; Charge all allies' skills by 1 turn
@@ -43199,7 +43199,7 @@ KR: For 10 turns, Wood orbs appear locked
 
 # 16018/116 - Overflame
 Tags: REDUCE_DAMAGE
-Game: Vastly reduces damage for 3 turns; changes to Bright Crimson Mech Divine King, Grandis
+Game: Vastly reduces damage for 3 turns; changes to Bright Crimson Divine Mech King, Grandis
 JP: 3ターンの間、受けるダメージを75％減少。[5955]に変身する
 EN: For 3 turns, reduce damage taken by 75%; Changes to [5955] for the duration of the dungeon
 KR: For 3 turns, reduce damage taken by 75%; Changes to [5955] for the duration of the dungeon
@@ -43225,7 +43225,7 @@ JP: 最下段を火ドロップに変化
 EN: Change the bottom row to Fire orbs
 KR: Change the bottom row to Fire orbs
 
-# 16025/116 - Lava Glance
+# 16025/116 - Lava Glanz
 Tags: ORB_CONVERT,ORB_LOCK
 Game: Changes Light & Dark Orbs to Fire Orbs, Fire Orbs locked; Fire Orbs locked as they appear for 10 turns
 JP: 光と闇ドロップを火ドロップに変化。全火ドロップをロック。10ターンの間、火ドロップがロック状態で落ちてくる
