@@ -45759,6 +45759,146 @@ JP: 2ターンの間、1コンボ加算される
 EN: For 2 turns, increase combo count by 1
 KR: For 2 turns, increase combo count by 1
 
+# 16813/116 - 魔印解放・グゥム
+Tags: REDUCE_DAMAGE
+Game: 1ターンの間、受けるダメージを半減。 森衣の大魔女・アルジェに変身。
+JP: 1ターンの間、受けるダメージを50％減少。[6159]に変身する
+EN: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
+KR: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
+
+# 16814/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 1ターンの間、受けるダメージを50％減少
+EN: For 1 turn, reduce damage taken by 50%
+KR: For 1 turn, reduce damage taken by 50%
+
+# 16815/202 - 
+Tags: 
+Game: 
+JP: [6159]に変身する
+EN: Changes to [6159] for the duration of the dungeon
+KR: Changes to [6159] for the duration of the dungeon
+
+# 16817/116 - グリーンウィスパー
+Tags: ALL_ORBS_CONVERT
+Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
+JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
+EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16818/191 - 
+Tags: 
+Game: 
+JP: 1ターンの間、ダメージ無効を貫通する
+EN: For 1 turn, bypass void damage shield effects
+KR: For 1 turn, bypass void damage shield effects
+
+# 16819/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、闇ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16824/116 - 魔印解放・メズレイ
+Tags: ALL_ORBS_CONVERT
+Game: 全ドロップを水と回復ドロップに変化。 溟怪の大魔女・ノルザに変身。
+JP: 全ドロップを水と回復ドロップに変化。[6156]に変身する
+EN: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
+KR: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
+
+# 16825/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを水と回復ドロップに変化
+EN: Change all orbs to Water and Heal orbs
+KR: Change all orbs to Water and Heal orbs
+
+# 16826/202 - 
+Tags: 
+Game: 
+JP: [6156]に変身する
+EN: Changes to [6156] for the duration of the dungeon
+KR: Changes to [6156] for the duration of the dungeon
+
+# 16828/116 - ブルーボルテックス
+Tags: ENHANCED_HEAL,EXTENDS_TIME
+Game: 1ターンの間、ドロップ操作時間と回復力が1.5倍。 ランダムで水と回復ドロップを3個ずつ生成。
+JP: 1ターンの間、ドロップ操作時間が1.5倍。1ターンの間、回復力が1.5倍。ランダムで水と回復を3個ずつ生成
+EN: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Heal orbs
+KR: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Heal orbs
+
+# 16829/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が1.5倍
+EN: For 1 turn, 1.5x orb move time
+KR: For 1 turn, 1.5x orb move time
+
+# 16830/141 - 
+Tags: 
+Game: 
+JP: ランダムで水と回復を3個ずつ生成
+EN: Create 3 Water and Heal orbs
+KR: Create 3 Water and Heal orbs
+
+# 16835/116 - グゥムウィスパー
+Tags: ALL_ORBS_CONVERT
+Game: 3ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
+JP: 3ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
+EN: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16836/191 - 
+Tags: 
+Game: 
+JP: 3ターンの間、ダメージ無効を貫通する
+EN: For 3 turns, bypass void damage shield effects
+KR: For 3 turns, bypass void damage shield effects
+
+# 16837/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、闇ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16838/116 - メズレイボルテックス
+Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Game: 1ターンの間、2コンボ加算される。 全ドロップのロックを解除し、水と回復ドロップに変化。
+JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを水と回復ドロップに変化
+EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Heal orbs
+KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Heal orbs
+
+# 16839/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、2コンボ加算される
+EN: For 1 turn, increase combo count by 2
+KR: For 1 turn, increase combo count by 2
+
+# 16840/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを水と回復ドロップに変化
+EN: Change all orbs to Water and Heal orbs
+KR: Change all orbs to Water and Heal orbs
+
+# 16841/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が1.5倍
+EN: For 1 turn, 1.5x RCV
+KR: For 1 turn, 1.5x RCV
+
+# 16843/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
 # 16856/116 - ランベントオーロラ
 Tags: ENHANCED_ATTACK,EXTENDS_TIME
 Game: 1ターンの間、闇属性の攻撃力が1.5倍。 1ターンの間、ドロップ操作時間が1.5倍。

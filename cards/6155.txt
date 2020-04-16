@@ -1,0 +1,20 @@
+#6155 妖海の大魔女・ノルザ
+HP: 2354 ATK: 1421 RCV: 98 LB: 0
+AWK: 52,28,59
+SAWK: 
+
+# 16824/116 - 魔印解放・メズレイ
+Tags: ALL_ORBS_CONVERT
+Game: 全ドロップを水と回復ドロップに変化。 溟怪の大魔女・ノルザに変身。
+JP: 全ドロップを水と回復ドロップに変化。[6156]に変身する
+EN: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
+KR: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
+
+# 16827/182 - 古魚霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.5]
+Game: 回復を5個以上つなげて消すとダメージを半減、 攻撃力が4倍。
+JP: 回復を5個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+KR: 4x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+

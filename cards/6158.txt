@@ -1,0 +1,20 @@
+#6158 森奥の大魔女・アルジェ
+HP: 2480 ATK: 1064 RCV: 365 LB: 0
+AWK: 52,28,60
+SAWK: 
+
+# 16813/116 - 魔印解放・グゥム
+Tags: REDUCE_DAMAGE
+Game: 1ターンの間、受けるダメージを半減。 森衣の大魔女・アルジェに変身。
+JP: 1ターンの間、受けるダメージを50％減少。[6159]に変身する
+EN: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
+KR: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
+
+# 16816/193 - 古木霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1.0, 0.5]
+Game: ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+JP: ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+KR: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
+

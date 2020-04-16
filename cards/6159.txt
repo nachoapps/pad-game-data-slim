@@ -1,0 +1,20 @@
+#6159 森衣の大魔女・アルジェ
+HP: 5430 ATK: 2640 RCV: 1030 LB: 0
+AWK: 52,28,60,43,43,43,43,55,53
+SAWK: 
+
+# 16817/116 - グリーンウィスパー
+Tags: ALL_ORBS_CONVERT
+Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
+JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
+EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+
+# 16820/138 - 古木霊の導術
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 20.0, 1.0, 0.5]
+Game: 4色以上同時攻撃で攻撃力が5倍、固定100万ダメージ。 ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+JP: 4色以上同時攻撃、固定1000000ダメージ。ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。4色以上同時攻撃で攻撃力が5倍。
+EN: 1000000 additional damage when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape; 5x ATK when matching 4 or more colors
+KR: 1000000 additional damage when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape; 5x ATK when matching 4 or more colors
+
