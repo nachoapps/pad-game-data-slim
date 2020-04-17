@@ -11,7 +11,7 @@ EN: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change 
 KR: Delay enemies' next attack by 1 turn; Remove all awoken skill binds; Change the bottom row to Heal orbs
 
 # 4540/138 - Spacetime Phone
-Tags: EXTEND_TIME,ETC
+Tags: EXTEND_TIME,ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: Extends time to move Orbs by 5 seconds, plus a drumming sound is made when Orbs are moved
 JP: ドロップ操作時間を5秒延長。ドロップ操作時に太鼓の音がなる。

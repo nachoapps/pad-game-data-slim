@@ -1023,7 +1023,7 @@ EN: 2x ATK for Dragon and God type
 KR: 2x ATK for Dragon and God type
 
 # 294/33 - Taiko no Tatsujin!
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: A drumming sound is made when Orbs are moved
 JP: ドロップ操作時に太鼓の音がなる。
@@ -1951,7 +1951,7 @@ EN: 3x ATK when 5 or more combos
 KR: 3x ATK when 5 or more combos
 
 # 512/138 - Go-go Dance
-Tags: ENHANCED_ATK,ETC
+Tags: ENHANCED_ATK,ORB_SOUNDS
 Stats: [1, 2.0, 1, 0]
 Game: 2x ATK for Fire & Light Att., plus a drumming sound is made when Orbs are moved
 JP: 火と光属性の攻撃力が2倍。ドロップ操作時に太鼓の音がなる。
@@ -6527,7 +6527,7 @@ EN: 1.5x HP & ATK for Attacker type
 KR: 1.5x HP & ATK for Attacker type
 
 # 1791/138 - Don Double!
-Tags: ENHANCED_HP_ATK,ETC
+Tags: ENHANCED_HP_ATK,ORB_SOUNDS
 Stats: [2.0, 2.0, 1.0, 0]
 Game: 2x ATK & HP for Fire & Light Att., plus a drumming sound is made when Orbs are moved
 JP: 火と光属性のHPと攻撃力が2倍。ドロップ操作時に太鼓の音がなる。
@@ -12463,7 +12463,7 @@ EN: 2x ATK when matching 4 or more connected Dark orbs
 KR: 2x ATK when matching 4 or more connected Dark orbs
 
 # 3162/33 - 
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: 
 JP: ドロップ操作時に太鼓の音がなる。
@@ -12471,7 +12471,7 @@ EN: Turn orb sound effects into Taiko noises
 KR: Turn orb sound effects into Taiko noises
 
 # 3163/33 - _＿Don Double!
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: 
 JP: ドロップ操作時に太鼓の音がなる。
@@ -19199,7 +19199,7 @@ EN: 2.5x ATK and 2x HP for Dragon type
 KR: 2.5x ATK and 2x HP for Dragon type
 
 # 4534/138 - Mysterious Orbs
-Tags: ENHANCED_ATK,ETC
+Tags: ENHANCED_ATK,ORB_SOUNDS
 Stats: [1, 5.0, 1, 0]
 Game: ATK increases up to 5x with 3+ Att.; a drumming sound is made when Orbs are moved
 JP: 3色以上同時攻撃で攻撃力が3倍、最大5色で5倍。ドロップ操作時に太鼓の音がなる。
@@ -19215,7 +19215,7 @@ EN: 3x ATK when matching 3 or more colors up to 5x at 5 colors
 KR: 3x ATK when matching 3 or more colors up to 5x at 5 colors
 
 # 4536/33 - 
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: 
 JP: ドロップ操作時に太鼓の音がなる。
@@ -19223,7 +19223,7 @@ EN: Turn orb sound effects into Taiko noises
 KR: Turn orb sound effects into Taiko noises
 
 # 4537/138 - Donder Strength
-Tags: ENHANCED_ATK,ETC
+Tags: ENHANCED_ATK,ORB_SOUNDS
 Stats: [1, 2.5, 1, 0]
 Game: 2.5x ATK with 4+ combos, plus a drumming sound is made when Orbs are moved
 JP: 4コンボ以上で攻撃力が2.5倍。ドロップ操作時に太鼓の音がなる。
@@ -19239,7 +19239,7 @@ EN: 2.5x ATK when 4 or more combos
 KR: 2.5x ATK when 4 or more combos
 
 # 4539/33 - 
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: 
 JP: ドロップ操作時に太鼓の音がなる。
@@ -19247,7 +19247,7 @@ EN: Turn orb sound effects into Taiko noises
 KR: Turn orb sound effects into Taiko noises
 
 # 4540/138 - Spacetime Phone
-Tags: EXTEND_TIME,ETC
+Tags: EXTEND_TIME,ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: Extends time to move Orbs by 5 seconds, plus a drumming sound is made when Orbs are moved
 JP: ドロップ操作時間を5秒延長。ドロップ操作時に太鼓の音がなる。
@@ -19263,7 +19263,7 @@ EN: Increase orb movement time by 5 seconds
 KR: Increase orb movement time by 5 seconds
 
 # 4542/33 - 
-Tags: ETC
+Tags: ORB_SOUNDS
 Stats: [1, 1, 1, 0]
 Game: 
 JP: ドロップ操作時に太鼓の音がなる。
