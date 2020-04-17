@@ -16852,6 +16852,10 @@
         "file_name": "mons_4986.bc"
     },
     {
+        "compressed_size": 129028,
+        "file_name": "mons_4993.bc"
+    },
+    {
         "compressed_size": 112788,
         "file_name": "mons_4994.bc"
     },
@@ -20188,6 +20192,42 @@
         "file_name": "mons_6002.bc"
     },
     {
+        "compressed_size": 138785,
+        "file_name": "mons_6106.bc"
+    },
+    {
+        "compressed_size": 138693,
+        "file_name": "mons_6107.bc"
+    },
+    {
+        "compressed_size": 12464,
+        "file_name": "mons_6108.bc"
+    },
+    {
+        "compressed_size": 360177,
+        "file_name": "mons_6109.bc"
+    },
+    {
+        "compressed_size": 168654,
+        "file_name": "mons_6110.bc"
+    },
+    {
+        "compressed_size": 125388,
+        "file_name": "mons_6111.bc"
+    },
+    {
+        "compressed_size": 110271,
+        "file_name": "mons_6112.bc"
+    },
+    {
+        "compressed_size": 136179,
+        "file_name": "mons_6113.bc"
+    },
+    {
+        "compressed_size": 18845,
+        "file_name": "mons_6114.bc"
+    },
+    {
         "compressed_size": 708961,
         "file_name": "cards_001.bc"
     },
@@ -20384,7 +20424,7 @@
         "file_name": "cards_049.bc"
     },
     {
-        "compressed_size": 747859,
+        "compressed_size": 756417,
         "file_name": "cards_050.bc"
     },
     {
@@ -20430,5 +20470,9 @@
     {
         "compressed_size": 15843,
         "file_name": "cards_061.bc"
+    },
+    {
+        "compressed_size": 67954,
+        "file_name": "cards_062.bc"
     }
 ]
