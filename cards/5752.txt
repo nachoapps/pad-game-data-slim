@@ -11,8 +11,8 @@ EN: For 2 turns, reduce damage taken by 75%; For 1 turn, 4x ATK for Attacker typ
 KR: For 2 turns, reduce damage taken by 75%; For 1 turn, 4x ATK for Attacker type
 
 # 15366/138 - Artful Strike
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 16.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 16.0, 1.0, 0.0, +2]
 Game: 2x HP & ATK for Attacker Type, 8x ATK with 7+ combos; adds 2 combos when 5 Att. attack at once
 JP: 攻撃タイプのHPと攻撃力が2倍。7コンボ以上で攻撃力が8倍。5色以上同時攻撃で2コンボ加算。
 EN: 2x HP & ATK for Attacker type; 8x ATK when 7 or more combos; increase combo by 2 when matching 5 or more colors

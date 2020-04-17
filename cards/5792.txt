@@ -11,8 +11,8 @@ EN: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and ch
 KR: Deal 150x Fire damage to all enemies; Change the top row to Fire orbs and change the bottom row to Dark orbs
 
 # 15523/138 - I can't give up! Not while everyone is countin' on me!
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 18.0, 1.0, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 18.0, 1.0, 0.5, +1]
 Game: 3x ATK & halves damage with an L shape of 5 Fire Orbs; 6x ATK & adds 1 combo when attacking with 4+ Att.
 JP: 火の5個L字消しで攻撃力が3倍、受けるダメージを50％減少。4色以上同時攻撃で攻撃力が6倍、1コンボ加算。
 EN: 3x ATK and reduce damage taken by 50% when matching 5 Fire orbs in an L shape; 6x ATK and increase combo by 1 when matching 4 or more colors

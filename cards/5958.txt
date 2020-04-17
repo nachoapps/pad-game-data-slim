@@ -11,8 +11,8 @@ EN: Create 2 Heal orbs over non Water orbs; For 2 turns, Heal orbs appear locked
 KR: Create 2 Heal orbs over non Water orbs; For 2 turns, Heal orbs appear locked
 
 # 16042/138 - Starflower's Shine
-Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Stats: [1, 18.0, 3.0, 0.5]
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 18.0, 3.0, 0.5, +2]
 Game: 3x ATK & RCV and adds 2 combos when 3+ Att. attack at once; 6x ATK & halves damage with 6+ linked Heal Orbs
 JP: 3色以上同時攻撃で攻撃力と回復力が3倍。3色以上同時攻撃で2コンボ加算。回復を6個以上つなげて消すと攻撃力が6倍、受けるダメージを50％減少。
 EN: 3x ATK & RCV when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 6x ATK and reduce damage taken by 50% when matching 6 or more connected Heal orbs

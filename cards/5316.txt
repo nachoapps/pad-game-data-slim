@@ -11,8 +11,8 @@ EN: Change all orbs to Fire, Water, Wood, and Light orbs; For 2 turns, reduce da
 KR: Change all orbs to Fire, Water, Wood, and Light orbs; For 2 turns, reduce damage taken by 50%
 
 # 13717/138 - Victory is Mine-nya!
-Tags: ENHANCED_ATK
-Stats: [1, 2916.0, 1, 0]
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 2916.0, 1, 0, +2]
 Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 3x ATK for each cross of 5 Orbs of any Attribute
 JP: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。火か水か木の5個十字消し1個につき攻撃力が3倍。光か闇の5個十字消し1個につき攻撃力が3倍。
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 3x ATK for each cross of 5 Fire, Water, or Wood orbs; 3x ATK for each cross of 5 Light or Dark orbs

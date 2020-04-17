@@ -11,8 +11,8 @@ EN: For 2 turns, bypass damage absorb shield effects; For 2 turns, 2x orb move t
 KR: For 2 turns, bypass damage absorb shield effects; For 2 turns, 2x orb move time
 
 # 15808/138 - Let's defeat the next boss together!
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 16.5, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 16.5, 1.0, 0.0, +1]
 Game: 2x HP for all Att., 5.5x ATK with 8+ combos; 3x ATK & adds 1 combo when 4+ Att. attack at once
 JP: HPが2倍。8コンボ以上で攻撃力が5.5倍。4色以上同時攻撃で攻撃力が3倍、1コンボ加算。
 EN: 2x HP; 5.5x ATK when 8 or more combos; 3x ATK and increase combo by 1 when matching 4 or more colors

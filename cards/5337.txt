@@ -11,8 +11,8 @@ EN: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark
 KR: Reduce unable to match orbs effect by 5 turns; Change the bottom row to Dark orbs
 
 # 13554/138 - Eternal Dragon Echo - Cormier
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 16.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 16.0, 1.0, 0.0, +1]
 Game: 2x HP & ATK for Dark Att., adds 1 combo when 3+ Att. attack at once; up to 8x ATK with 4+ linked Dark Orbs
 JP: 闇属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。闇を4個以上つなげて消すと攻撃力が4倍、最大8個で8倍。
 EN: 2x HP & ATK for Dark Att.; increase combo by 1 when matching 3 or more colors; 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs

@@ -11,8 +11,8 @@ EN: Unlock all orbs; Change all orbs to Water, Light, and Dark orbs; For 1 turn,
 KR: Unlock all orbs; Change all orbs to Water, Light, and Dark orbs; For 1 turn, increase combo count by 2
 
 # 14271/138 - I'm going to end this once and for all.
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1.0, 12.0, 1.0, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.0, 12.0, 1.0, 0.5, +1]
 Game: 3x ATK for Dragon Type; halves damage with 7+ combos; 4x ATK & adds 1 combo when Wt, Lt & Dk attack at once
 JP: ドラゴンタイプの攻撃力が3倍。7コンボ以上で受けるダメージを50％減少。水、光、闇同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 3x ATK for Dragon type; Reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Water, Light, and Dark at once

@@ -11,8 +11,8 @@ EN: Deal 77777 fixed damage to all enemies; For 1 turn, increase orb move time b
 KR: Deal 77777 fixed damage to all enemies; For 1 turn, increase orb move time by 3 seconds
 
 # 13041/138 - True Spirit of the Sun God
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 21.0, 1, 0.25]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 21.0, 1, 0.25, +1]
 Game: 7x ATK & adds 1 combo when 5 Att. attack at once; 3x ATK & reduces damage with 6+ combos
 JP: 6コンボ以上で攻撃力が3倍、受けるダメージを25％減少。5色以上同時攻撃で攻撃力が7倍、1コンボ加算。
 EN: 3x ATK and reduce damage taken by 25% when 6 or more combos; 7x ATK and increase combo by 1 when matching 5 or more colors

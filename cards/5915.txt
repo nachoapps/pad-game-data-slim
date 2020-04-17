@@ -11,8 +11,8 @@ EN: Change the far left column to Light orbs; For 3 turns, Light orbs are more l
 KR: Change the far left column to Light orbs; For 3 turns, Light orbs are more likely to appear by 15%
 
 # 15913/138 - Divine Great Yo-kai
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 16.0, 1.0, 0.44]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 16.0, 1.0, 0.44, +1]
 Game: 4x ATK & reduces dmg with an L shape of 5 Lt or Dk Orbs; 4x ATK, reduces dmg & adds 1 combo when 3+ Att. attack
 JP: 光か闇の5個L字消しで攻撃力が4倍、受けるダメージを25％減少。3色以上同時攻撃で攻撃力が4倍、受けるダメージを25％減少。3色以上同時攻撃で1コンボ加算。
 EN: 4x ATK and reduce damage taken by 25% when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 25% when matching 3 or more colors; increase combo by 1 when matching 3 or more colors

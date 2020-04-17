@@ -11,8 +11,8 @@ EN: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 KR: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 
 # 16591/138 - Equip Magical Mech, Mechanical Goemon
-Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
-Stats: [1, 16.0, 1, 0.35]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
+Stats: [1, 16.0, 1, 0.35, +2]
 Game: Adds 2 combos & reduces dmg when Fr & Wd attack at once; 16x ATK with 2+ Fire combos, 1 damage with 3+ combos
 JP: 火、木同時攻撃で受けるダメージを35％減少。火、木同時攻撃で2コンボ加算。火の2コンボ以上で攻撃力が16倍。火の3コンボ以上で固定1ダメージ。
 EN: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos

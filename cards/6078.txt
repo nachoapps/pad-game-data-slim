@@ -11,8 +11,8 @@ EN: Lock all orbs
 KR: Lock all orbs
 
 # 16578/138 - Magical Mechanical Engineering
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 16.0, 1.0, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 16.0, 1.0, 0.5, +2]
 Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 4x ATK & halves damage with an L shape of 5 Orbs
 JP: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape

@@ -11,8 +11,8 @@ EN: For 1 turn, increase combo count by 2; Change the far left column and the 2n
 KR: For 1 turn, increase combo count by 2; Change the far left column and the 2nd column from the left to Water orbs and change the 2nd column from the right and the far right column to Light orbs
 
 # 15552/138 - White Dragon
-Tags: ENHANCED_HP_ATK
-Stats: [1.5, 15.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [1.5, 15.0, 1.0, 0.0, +1]
 Game: 1.5x HP & 5x ATK for Dragon Type; 3x ATK & adds 1 combo when Water & Light attack at once
 JP: ドラゴンタイプの攻撃力が5倍、HPが1.5倍。水、光同時攻撃で攻撃力が3倍、1コンボ加算。
 EN: 5x ATK and 1.5x HP for Dragon type; 3x ATK and increase combo by 1 when matching Water and Light at once

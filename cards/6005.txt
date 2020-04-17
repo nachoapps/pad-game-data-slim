@@ -11,8 +11,8 @@ EN: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all
 KR: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all binds and awoken skill binds
 
 # 16384/138 - Fantastic Celebration
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [2.0, 16.0, 2.0, 0]
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 16.0, 2.0, 0, +2]
 Game: [Orb move time: 8 sec], 2x all stats for all Attributes; 8x ATK & adds 1 combo when 3+ Att. attack at once
 JP: 【操作時間8秒固定】全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍、2コンボ加算。
 EN: [Fixed 8 second movetime] 2x all stats; 8x ATK and increase combo by 2 when matching 3 or more colors

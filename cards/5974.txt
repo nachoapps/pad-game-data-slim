@@ -11,8 +11,8 @@ EN: Change all orbs to Light and Dark orbs; Changes to [5975] for the duration o
 KR: Change all orbs to Light and Dark orbs; Changes to [5975] for the duration of the dungeon
 
 # 16243/138 - Abyssal Discord
-Tags: ENHANCED_HP_ATK,EXTEND_TIME
-Stats: [2.0, 16.0, 1.0, 0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME,EXTRA_COMBOS
+Stats: [2.0, 16.0, 1.0, 0, +1]
 Game: 2x HP & ATK for Dark Att., Orb move time +4 seconds; 8x ATK & adds 1 combo when Light & Dark attack at once
 JP: 闇属性のHPと攻撃力が2倍。ドロップ操作時間を4秒延長。光、闇同時攻撃で攻撃力が8倍、1コンボ加算。
 EN: 2x HP & ATK for Dark Att.; Increase orb movement time by 4 seconds; 8x ATK and increase combo by 1 when matching Light and Dark at once

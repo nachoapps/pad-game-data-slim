@@ -11,8 +11,8 @@ EN: For 1 turn, increase combo count by 1; Unlock all orbs; Create 15 Fire and D
 KR: For 1 turn, increase combo count by 1; Unlock all orbs; Create 15 Fire and Dark orbs over any orbs
 
 # 14943/138 - Ragna Blade
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 21.0, 1.5, 0.0]
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [1.5, 21.0, 1.5, 0.0, +1]
 Game: 1.5x to all stats for Fr Att., adds 1 combo when Fr & Dk attack; ATK increases with 4+ linked Fr Orbs, up to 14x
 JP: 火属性の全パラメータが1.5倍。火、闇同時攻撃で1コンボ加算。火を4個以上つなげて消すと攻撃力が4倍、最大9個で14倍。
 EN: 1.5x all stats for Fire Att.; increase combo by 1 when matching Fire and Dark at once; 4x ATK when matching 4 or more connected Fire orbs up to 14x at 9 orbs

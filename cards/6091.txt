@@ -11,8 +11,8 @@ EN: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change
 KR: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
 # 16626/138 - Dragonspines of Black Smoke
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1.0, 20.0, 1.0, 0.25]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.0, 20.0, 1.0, 0.25, +2]
 Game: [Orb move time: 4 sec], reduces dmg with an L of 5 Orbs;  20x ATK when 4+ Att. attack, adds 2 combos for 5 Att.
 JP: 【操作時間4秒固定】ドロップの5個L字消しで受けるダメージを25％減少。4色以上同時攻撃で攻撃力が20倍。5色以上同時攻撃で2コンボ加算。
 EN: [Fixed 4 second movetime] reduce damage taken by 25% when matching 5 orbs in an L shape; 20x ATK when matching 4 or more colors; increase combo by 2 when matching 5 or more colors
