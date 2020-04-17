@@ -3,17 +3,17 @@ HP: 6084 ATK: 2913 RCV: 49 LB: 15
 AWK: 10,10,28,56,53,27,27,27,27
 SAWK: 48,58,43,60,27
 
-# 16571/116 - メノアゲート-大見得三七三四
+# 16571/116 - Menoa Gate -POSE3734-
 Tags: ALL_ORBS_CONVERT,SUICIDE
-Game: HPが50％減少。 全ドロップを火、木、回復ドロップに変化。
+Game: Halves HP; changes all Orbs to Fire, Wood, and Heal Orbs
 JP: HPが50％減少。全ドロップを火、木、回復ドロップに変化
 EN: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 KR: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 
-# 16591/138 - 魔導機装・からくり五右衛門
+# 16591/138 - Equip Magical Mech, Mechanical Goemon
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 16.0, 1, 0.35]
-Game: 火木の同時攻撃でダメージを軽減、2コンボ加算。 火の2コンボ以上で攻撃力が16倍、3コンボ以上で固定1ダメージ。
+Game: Adds 2 combos & reduces dmg when Fr & Wd attack at once; 16x ATK with 2+ Fire combos, 1 damage with 3+ combos
 JP: 火、木同時攻撃で受けるダメージを35％減少。火、木同時攻撃で2コンボ加算。火の2コンボ以上で攻撃力が16倍。火の3コンボ以上で固定1ダメージ。
 EN: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos
 KR: Reduce damage taken by 35% when matching Fire and Wood at once; increase combo by 2 when matching Fire and Wood at once; 16x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos

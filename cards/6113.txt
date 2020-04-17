@@ -1,19 +1,19 @@
-#6113 寝坊の雲龍喚士・エリカ
+#6113 Oversleeping Cloud Dragon Caller, Erika
 HP: 4065 ATK: 1921 RCV: 409 LB: 30
 AWK: 21,21,21,28,43,43,60,31,35
 SAWK: 52,48,43
 
-# 16779/116 - 転界逢龍陣・降星
+# 16779/116 - Dimension Formation - Falling Stars
 Tags: MENACE
-Game: 敵の行動を2ターン遅らせる。 10ターンの間、ドロップがロック状態で落ちてくる。
+Game: Delays enemies' next move for 2 turns; Orbs locked as they appear for 10 turns
 JP: 敵の行動を2ターン遅らせる。10ターンの間、ドロップがロック状態で落ちてくる
 EN: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
 KR: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
 
-# 16782/138 - 大丈夫！絶対間に合うんだからっ！
+# 16782/138 - It's OK! I'll definitely make it on time!!
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0]
-Game: 【操作時間8秒】ドラゴンタイプの全パラメータが2倍。 木を6個以上つなげて消すと攻撃力が8倍、2コンボ加算。
+Game: [Orb move time: 8 sec], 2x all stats for Dragon Type; 8x ATK & adds 2 combos with 6+ linked Wood Orbs
 JP: 【操作時間8秒固定】ドラゴンタイプの全パラメータが2倍。木を6個以上つなげて消しと攻撃力が8倍、2コンボ加算。
 EN: [Fixed 8 second movetime] 2x all stats for Dragon type; 8x ATK and increase combo by 2 when matching 6 or more connected Wood orbs at once
 KR: [Fixed 8 second movetime] 2x all stats for Dragon type; 8x ATK and increase combo by 2 when matching 6 or more connected Wood orbs at once

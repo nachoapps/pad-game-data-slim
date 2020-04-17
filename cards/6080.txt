@@ -3,17 +3,17 @@ HP: 4825 ATK: 3221 RCV: 223 LB: 15
 AWK: 10,10,28,56,53,43,43,32,32
 SAWK: 48,58,43,60,27
 
-# 16570/116 - メノアゲート-DPH3598
+# 16570/116 - Menoa Gate -DPH3598-
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
-Game: 1ターンの間、闇ドロップが少し落ちやすくなる。 上から2列目横1列を闇ドロップに変化。
+Game: Dark Orbs more likely to appear for 1 turn;  changes the 2nd row from the top to Dark Orbs
 JP: 1ターンの間、闇ドロップが15％落ちやすくなる。上から2行目を闇ドロップに変化
 EN: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 KR: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 
-# 16586/138 - 魔導機装・デスファリオン
+# 16586/138 - Equip Magical Mech, Despharion
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 15.0, 1, 0.35]
-Game: 闇の2コンボ以上でダメージを軽減、攻撃力が15倍。 闇を6個以上つなげて消すと2コンボ加算、固定1ダメージ。
+Game: 15x ATK & reduces damage with 2+ Dark combos; adds 2 combos & inflicts 1 dmg with 6+ linked Dark Orbs
 JP: 闇の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。闇を6個以上つなげて消しと、2コンボ加算。闇を6個以上つなげて消しと固定1ダメージ。
 EN: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos; Increase combo by 2 when matching 6 or more connected Dark orbs at once; 1 additional damage when matching 6 or more Dark orbs
 KR: 15x ATK and reduce damage taken by 35% when matching 2+ Dark combos; Increase combo by 2 when matching 6 or more connected Dark orbs at once; 1 additional damage when matching 6 or more Dark orbs

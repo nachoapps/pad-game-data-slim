@@ -3,17 +3,17 @@ HP: 3028 ATK: 2438 RCV: 514 LB: 15
 AWK: 52,56,21,28,53,43,43,30,30
 SAWK: 53,45,60
 
-# 16486/116 - マジック・オブ・ファンタジー
+# 16486/116 - Magic of Fantasy
 Tags: ENHANCED_ORBS,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 全ドロップを強化。 バインド状態と覚醒無効状態を2ターン回復。
+Game: All Orbs enhanced; reduces bind status (incl. Awoken) by 2 turns
 JP: 全ドロップを強化。バインドと覚醒無効を2ターン回復
 EN: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
 KR: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
 
-# 16487/138 - マジカル・セレブレーション
+# 16487/138 - Magical Celebration
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0]
-Game: 「ミッキー＆フレンズ」のキャラクターのみでチームを組むと、 全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍。
+Game: 2x to all stats when all monsters are Mickey & Friends characters; 8x ATK when 3+ Att. attack at once
 JP: ミッキー＆フレンズキャラのみでチームを組むと、全パラメータが2倍。3色以上同時攻撃で攻撃力が8倍。
 EN: 2x all stats when all cards are from Mickey Mouse & Friends; 8x ATK when matching 3 or more colors
 KR: 2x all stats when all cards are from Mickey Mouse & Friends; 8x ATK when matching 3 or more colors

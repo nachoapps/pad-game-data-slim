@@ -1,19 +1,19 @@
-#6111 競合の龍契士・リクウ＆ディステル
+#6111 Rival Dragonbounds, Rikuu & Distel
 HP: 4513 ATK: 2018 RCV: 437 LB: 30
 AWK: 10,10,21,21,28,53,54,61,60
 SAWK: 56,43,45
 
-# 16763/116 - 龍活の追究
+# 16763/116 - Investigating the Lives of Dragons
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ALL_ORBS_CONVERT
-Game: 1ターンの間、回復力とドラゴンタイプの攻撃力が1.5倍。 全ドロップを火、水、木、光、回復ドロップに変化。
+Game: 1.5x ATK for Dragon Type & 1.5x RCV for 1 turn;  changes all Orbs to Fire, Water, Wood, Light & Heal Orbs
 JP: 1ターンの間、ドラゴンタイプの攻撃力が1.5倍。1ターンの間、回復力が1.5倍。全ドロップを火、水、木、光、回復ドロップに変化
 EN: For 1 turn, 1.5x ATK for Dragon type; For 1 turn, 1.5x RCV; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 KR: For 1 turn, 1.5x ATK for Dragon type; For 1 turn, 1.5x RCV; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 
-# 16768/138 - 不器用な友情
+# 16768/138 - Awkward Friendship
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 18.0, 1, 0.25]
-Game: 回復を5個以上つなげて消すとダメージを軽減、2コンボ加算。 5色（4色＋回復）以上同時攻撃で攻撃力が18倍。
+Game: Adds 2 combos & reduces damage with 5+ linked Heal Orbs; 18x ATK when 5+ Att. (4+Heal) attack at once
 JP: 回復を5個以上つなげて消しと、2コンボ加算。回復を5個以上つなげて消すと受けるダメージを25％減少。5色(4色+回復)以上同時攻撃で攻撃力が18倍。
 EN: Increase combo by 2 when matching 5 or more connected Heal orbs at once; Reduce damage taken by 25% when matching 5 or more connected Heal orbs; 18x ATK when matching 5 or more colors (4+heal)
 KR: Increase combo by 2 when matching 5 or more connected Heal orbs at once; Reduce damage taken by 25% when matching 5 or more connected Heal orbs; 18x ATK when matching 5 or more colors (4+heal)

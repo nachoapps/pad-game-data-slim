@@ -3,9 +3,9 @@ HP: 4025 ATK: 1813 RCV: 426 LB: 0
 AWK: 49,52,58,1
 SAWK: 
 
-# 16546/116 - 金が出張るしかねーよな
+# 16546/116 - I can't help but stand out.
 Tags: REDUCE_DAMAGE,VOID_ATT_ABSORBS
-Game: 8ターンの間、受けるダメージを軽減。 2ターンの間、属性吸収を無効化する。
+Game: Reduces damage for 8 turns; voids Attribute absorption for 2 turns
 JP: 8ターンの間、受けるダメージを30％減少。2ターンの間、属性吸収を無効化する
 EN: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects
 KR: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects

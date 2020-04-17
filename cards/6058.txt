@@ -1,19 +1,19 @@
-#6058 樹護の豊穣神・セレス
+#6058 Bountiful Fertility Deity Ceres
 HP: 4010 ATK: 1758 RCV: 465 LB: 20
 AWK: 10,10,21,21,53,28,33,33,33
 SAWK: 54,55,48
 
-# 16055/116 - ソウルメディケーション
+# 16055/116 - Medicine for the Soul
 Tags: AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ状態と覚醒無効状態を3ターン回復。
+Game: Reduces unmatchable Orb status & Awoken Skill bind status by 3 turns
 JP: 消せないドロップ状態を3ターン回復。覚醒無効を3ターン回復
 EN: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
 KR: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
 
-# 16058/138 - 豊稔の舞
+# 16058/138 - Dance for a Bountiful Harvest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 30.0, 1, 0.25]
-Game: 木の2コンボ以上で攻撃力が上昇、最大10倍。 回復を6個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+Game: ATK increases with 2+ Wood combos, up to 10x; 3x ATK & reduces damage with 6+ linked Heal Orbs
 JP: 木の2コンボで攻撃力が4倍、最大5コンボで10倍。回復を6個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
 EN: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos; 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs
 KR: 4x ATK when matching 2 Wood combos, up to 10x at 5 Wood combos; 3x ATK and reduce damage taken by 25% when matching 6 or more connected Heal orbs

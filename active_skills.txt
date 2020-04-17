@@ -2079,7 +2079,7 @@ KR: Becomes Team leader; changes back when used again
 
 # 646/116 - Glitter of Aegis
 Tags: ENHANCED_ORBS,AWOKEN_INVALID_RECOVERY
-Game: Wood & Light Orbs enhanced
+Game: Wood & Light Orbs enhanced; reduces Awoken Skill bind status by 4 turns
 JP: 木と光ドロップを強化。覚醒無効を4ターン回復
 EN: Enhance all Wood and Light orbs; Reduce awoken skill binds by 4 turns
 KR: Enhance all Wood and Light orbs; Reduce awoken skill binds by 4 turns
@@ -26089,9 +26089,9 @@ JP: 1ターンの間、ダメージ吸収を無効化する
 EN: For 1 turn, bypass damage absorb shield effects
 KR: For 1 turn, bypass damage absorb shield effects
 
-# 10722/116 - ハン！バー！！グー！！！
+# 10722/116 - Ham!! Bur!! Ger!!
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
-Game: 木ドロップを火に、回復ドロップを木に変化。 1ターンの間、火と木属性の攻撃力が2倍。
+Game: Changes Wood Orbs to Fire Orbs & Heal Orbs to Wood Orbs; 2x ATK for Fire & Wood Att. for 1 turn
 JP: 木ドロップを火ドロップに、回復ドロップを木ドロップに変化。1ターンの間、火と木属性の攻撃力が2倍
 EN: Change Wood orbs to Fire orbs; Change Heal orbs to Wood orbs; For 1 turn, 2x ATK for Fire and Wood Att.
 KR: Change Wood orbs to Fire orbs; Change Heal orbs to Wood orbs; For 1 turn, 2x ATK for Fire and Wood Att.
@@ -28100,7 +28100,7 @@ KR: Change all orbs to Wood and Dark orbs
 
 # 11416/116 - I'm gonna purge all
 Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
-Game: 3x ATK for Light & Dark Att. for 2 turns; other allies' skills charged by 1 turn
+Game: 4x ATK for Light & Dark Att. for 2 turns; other allies' skills charged by 1 turn
 JP: 2ターンの間、光と闇属性の攻撃力が4倍。自分以外の味方スキルが1ターンの溜まる
 EN: For 2 turns, 4x ATK for Light and Dark Att.; Charge all allies' skills by 1 turn
 KR: For 2 turns, 4x ATK for Light and Dark Att.; Charge all allies' skills by 1 turn
@@ -28184,7 +28184,7 @@ KR: For 3 turns, 2.5x RCV
 
 # 11447/116 - Heeeey!!
 Tags: LINE_ORBS_CONVERTER,ORB_LOCK
-Game: Changes the second row from the bottom to Wood & the bottom row to Light Orbs; Wood & Light Orbs locked
+Game: Changes the 2nd row from the bottom to Wood Orbs & the bottom row to Light Orbs; Wood & Light Orbs locked
 JP: 下から2行目を木に、最下段を光ドロップに変化。全木と光ドロップをロック
 EN: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock all Wood and Light orbs
 KR: Change the 2nd row from the bottom to Wood orbs and change the bottom row to Light orbs; Lock all Wood and Light orbs
@@ -28289,7 +28289,7 @@ KR: Change the far left column to Bomb orbs and change the far right column to W
 
 # 11475/179 - I'm a pleasure pirate
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Recovers 30% of max HP for 3 turns; reduces bind status (incl. Awoken) by 4 turns
+Game: Recovers 30% of max HP for 3 turns; reduces bind status (incl. Awoken) by 7 turns
 JP: 3ターンの間、最大HPの30％分回復。バインドと覚醒無効を7ターン回復
 EN: For 3 turns, recover 30% of max HP; Reduce binds and awoken skill binds by 7 turns
 KR: For 3 turns, recover 30% of max HP; Reduce binds and awoken skill binds by 7 turns
@@ -43351,9 +43351,9 @@ JP: 8ターンの間、最大HPの8％分回復
 EN: For 8 turns, recover 8% of max HP
 KR: For 8 turns, recover 8% of max HP
 
-# 16055/116 - ソウルメディケーション
+# 16055/116 - Medicine for the Soul
 Tags: AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ状態と覚醒無効状態を3ターン回復。
+Game: Reduces unmatchable Orb status & Awoken Skill bind status by 3 turns
 JP: 消せないドロップ状態を3ターン回復。覚醒無効を3ターン回復
 EN: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
 KR: Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
@@ -44478,9 +44478,9 @@ JP: 2ターンの間、回復力が2倍
 EN: For 2 turns, 2x RCV
 KR: For 2 turns, 2x RCV
 
-# 16378/116 - ドリーム・オブ・セレブレーション
+# 16378/116 - Dream of Celebration
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ、バインド、覚醒無効状態と HPを全回復。
+Game: Fully recovers HP, bind status (incl. Awoken) & unmatchable Orb status
 JP: 消せないドロップ状態を9999ターン回復。HPを全回復。バインドと覚醒無効を全回復
 EN: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all binds and awoken skill binds
 KR: Reduce unable to match orbs effect by 9999 turns; Recover all HP; Remove all binds and awoken skill binds
@@ -44499,9 +44499,9 @@ JP: HPを全回復。バインドと覚醒無効を全回復
 EN: Recover all HP; Remove all binds and awoken skill binds
 KR: Recover all HP; Remove all binds and awoken skill binds
 
-# 16387/116 - ドリーム・オブ・ハピネス
+# 16387/116 - Dream of Happiness
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
-Game: 全ドロップを5属性＋回復ドロップに変化。 4ターンの間、回復力が2倍。
+Game: Changes all Orbs to all Attributes & Heal; 2x RCV for 4 turns
 JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。4ターンの間、回復力が2倍
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 2x RCV
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 2x RCV
@@ -44520,9 +44520,9 @@ JP: 4ターンの間、回復力が2倍
 EN: For 4 turns, 2x RCV
 KR: For 4 turns, 2x RCV
 
-# 16396/116 - ドリーム・オブ・ファンタジー
+# 16396/116 - Dream of Fantasy
 Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
-Game: 2ターンの間、属性吸収を無効化する。 全ドロップを火、水、光、回復ドロップに変化。
+Game: Voids Attribute absorption for 2 turns; changes all Orbs to Fire, Water, Light & Heal Orbs
 JP: 2ターンの間、属性吸収を無効化する。全ドロップを火、水、光、回復ドロップに変化
 EN: For 2 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Heal orbs
 KR: For 2 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Heal orbs
@@ -44541,9 +44541,9 @@ JP: 全ドロップを火、水、光、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Light, and Heal orbs
 KR: Change all orbs to Fire, Water, Light, and Heal orbs
 
-# 16402/116 - ドリーム・オブ・バディ
+# 16402/116 - Dream of Buddies
 Tags: VOID_DAMAGE_ABSORBS,ORB_LOCK
-Game: 2ターンの間、ダメージ吸収を無効化する。 全ドロップをロック。
+Game: Voids damage absorption for 2 turns; all Orbs locked
 JP: 2ターンの間、ダメージ吸収を無効化する。全ドロップをロック
 EN: For 2 turns, bypass damage absorb shield effects; Lock all orbs
 KR: For 2 turns, bypass damage absorb shield effects; Lock all orbs
@@ -44562,9 +44562,9 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 16408/116 - ドリーム・オブ・アドベンチャー
+# 16408/116 - Dream of Adventures
 Tags: ALL_ORBS_CONVERT
-Game: 2ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、光、闇、回復ドロップに変化。
+Game: Pierce through enemy's damage void for 1 turn; changes all Orbs to Fire, Water, Light, Dark & Heal Orbs
 JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
 EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
@@ -44583,9 +44583,9 @@ JP: 全ドロップを火、水、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 
-# 16414/116 - ドリーム・オブ・パーティー
+# 16414/116 - Dream of Parties
 Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
-Game: 3ターンの間、属性吸収を無効化する。 全ドロップを火、水、光、闇ドロップに変化。
+Game: Voids Attribute absorption for 3 turns; changes all Orbs to Fire, Water, Light & Dark Orbs
 JP: 3ターンの間、属性吸収を無効化する。全ドロップを火、水、光、闇ドロップに変化
 EN: For 3 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Dark orbs
 KR: For 3 turns, bypass att. absorb shield effects; Change all orbs to Fire, Water, Light, and Dark orbs
@@ -44604,9 +44604,9 @@ JP: 全ドロップを火、水、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Light, and Dark orbs
 
-# 16420/116 - ドリーム・オブ・ドリーム
+# 16420/116 - Dream of Dreams
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
-Game: 最上段横1列を回復ドロップに変化。 7ターンの間、受けるダメージを軽減。
+Game: Changes the top row to Heal Orbs; reduces damage for 6 turns
 JP: 最上段を回復ドロップに変化。7ターンの間、受けるダメージを30％減少
 EN: Change the top row to Heal orbs; For 7 turns, reduce damage taken by 30%
 KR: Change the top row to Heal orbs; For 7 turns, reduce damage taken by 30%
@@ -44625,9 +44625,9 @@ JP: 7ターンの間、受けるダメージを30％減少
 EN: For 7 turns, reduce damage taken by 30%
 KR: For 7 turns, reduce damage taken by 30%
 
-# 16432/116 - ドリーム・オブ・エナジー
+# 16432/116 - Dream of Energy
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
-Game: 1ターンの間、攻撃タイプの攻撃力が3倍。 最上段横1列を水ドロップに変化。
+Game: 2.5x ATK for Attacker Type for 1 turn; changes the top row to Water Orbs
 JP: 1ターンの間、攻撃タイプの攻撃力が3倍。最上段を水ドロップに変化
 EN: For 1 turn, 3x ATK for Attacker type; Change the top row to Water orbs
 KR: For 1 turn, 3x ATK for Attacker type; Change the top row to Water orbs
@@ -44646,9 +44646,9 @@ JP: 最上段を水ドロップに変化
 EN: Change the top row to Water orbs
 KR: Change the top row to Water orbs
 
-# 16444/116 - ドリーム・オブ・ディライト
+# 16444/116 - Dream of Delight
 Tags: MENACE,LINE_ORBS_CONVERTER
-Game: 敵の行動を2ターン遅らせる。 最下段横1列を木ドロップに変化。
+Game: Delays enemies' next move for 2 turns; changes the bottom row to Wood Orbs
 JP: 敵の行動を2ターン遅らせる。最下段を木ドロップに変化
 EN: Delay enemies' next attack by 2 turns; Change the bottom row to Wood orbs
 KR: Delay enemies' next attack by 2 turns; Change the bottom row to Wood orbs
@@ -44674,9 +44674,9 @@ JP: 自分以外の味方スキルが1ターンの溜まる
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
-# 16452/116 - ドリーム・オブ・ワンダー
+# 16452/116 - Dream of Wonder
 Tags: ADD_COMBO
-Game: 1ターンの間、1コンボ加算される。 ランダムで5属性ドロップを6個ずつ生成。
+Game: Adds 1 combo for 1 turn; creates 6 Orbs of each Attribute at random
 JP: 1ターンの間、1コンボ加算される。ランダムで火、水、木、光、闇を6個ずつ生成
 EN: For 1 turn, increase combo count by 1; Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
 KR: For 1 turn, increase combo count by 1; Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
@@ -44695,9 +44695,9 @@ JP: ランダムで火、水、木、光、闇を6個ずつ生成
 EN: Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
 KR: Create 6 Fire, Water, Wood, Light, and Dark orbs over any orbs
 
-# 16461/116 - ドリーム・オブ・ビューティー
+# 16461/116 - Dream of Beauty
 Tags: REDUCE_DAMAGE,MASSIVE_ATTACK,FIXED_DAMAGE
-Game: 敵全体に30万の固定ダメージ。 1ターンの間、受けるダメージを激減。
+Game: Inflicts 300,000 damage on all enemies; vastly reduces damage for 1 turn
 JP: 敵全体に30万の固定ダメージ。1ターンの間、受けるダメージを75％減少
 EN: Deal 300000 fixed damage to all enemies; For 1 turn, reduce damage taken by 75%
 KR: Deal 300000 fixed damage to all enemies; For 1 turn, reduce damage taken by 75%
@@ -44716,9 +44716,9 @@ JP: 1ターンの間、受けるダメージを75％減少
 EN: For 1 turn, reduce damage taken by 75%
 KR: For 1 turn, reduce damage taken by 75%
 
-# 16468/116 - ドリーム・オブ・ジョイ
+# 16468/116 - Dream of Joy
 Tags: EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を全回復。 3ターンの間、ドロップ操作時間が2倍。
+Game: Fully recovers Awoken Skill bind status; 2x Orb move time for 3 turns
 JP: 覚醒無効を全回復。3ターンの間、ドロップ操作時間が2倍
 EN: Remove all awoken skill binds; For 3 turns, 2x orb move time
 KR: Remove all awoken skill binds; For 3 turns, 2x orb move time
@@ -44737,9 +44737,9 @@ JP: 3ターンの間、ドロップ操作時間が2倍
 EN: For 3 turns, 2x orb move time
 KR: For 3 turns, 2x orb move time
 
-# 16477/116 - ドリーム・オブ・インテリジェンス
+# 16477/116 - Dream of Intelligence
 Tags: HEAL,REMOVE_LOCK
-Game: 4ターンの間、最大HP40％分回復。 ドロップのロック状態を解除。
+Game: Recovers 40% of max HP for 4 turns; removes Orb locks
 JP: 4ターンの間、最大HPの40％分回復。全ドロップのロック状態を解除
 EN: For 4 turns, recover 40% of max HP; Unlock all orbs
 KR: For 4 turns, recover 40% of max HP; Unlock all orbs
@@ -44758,58 +44758,58 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 16486/116 - マジック・オブ・ファンタジー
+# 16486/116 - Magic of Fantasy
 Tags: ENHANCED_ORBS,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 全ドロップを強化。 バインド状態と覚醒無効状態を2ターン回復。
+Game: All Orbs enhanced; reduces bind status (incl. Awoken) by 2 turns
 JP: 全ドロップを強化。バインドと覚醒無効を2ターン回復
 EN: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
 KR: Enhance all orbs; Reduce binds and awoken skill binds by 2 turns
 
-# 16490/154 - マジック・オブ・ハピネス
+# 16490/154 - Magic of Happiness
 Tags: ORB_CONVERT
-Game: 闇ドロップを火ドロップに変化。
+Game: Changes Dark Orbs to Fire Orbs
 JP: 闇ドロップを火ドロップに変化
 EN: Change Dark orbs to Fire orbs
 KR: Change Dark orbs to Fire orbs
 
-# 16492/154 - マジック・オブ・ドリーム
+# 16492/154 - Magic of Dreams
 Tags: ORB_CONVERT
-Game: 火ドロップを闇ドロップに変化。
+Game: Changes Fire Orbs to Dark Orbs
 JP: 火ドロップを闇ドロップに変化
 EN: Change Fire orbs to Dark orbs
 KR: Change Fire orbs to Dark orbs
 
-# 16494/154 - マジック・オブ・エナジー
+# 16494/154 - Magic of Energy
 Tags: ORB_CONVERT
-Game: 木ドロップを水ドロップに変化。
+Game: Changes Wood Orbs to Water Orbs
 JP: 木ドロップを水ドロップに変化
 EN: Change Wood orbs to Water orbs
 KR: Change Wood orbs to Water orbs
 
-# 16496/154 - マジック・オブ・ディライト
+# 16496/154 - Magic of Delight
 Tags: ORB_CONVERT
-Game: 水ドロップを木ドロップに変化。
+Game: Changes Water Orbs to Wood Orbs
 JP: 水ドロップを木ドロップに変化
 EN: Change Water orbs to Wood orbs
 KR: Change Water orbs to Wood orbs
 
-# 16498/127 - マジック・オブ・ワンダー
+# 16498/127 - Magic of Wonder
 Tags: LINE_ORBS_CONVERTER
-Game: 右端縦1列を回復ドロップに変化。
+Game: Changes the rightmost column to Heal Orbs
 JP: 最右端を回復ドロップに変化
 EN: Change the far right column to Heal orbs
 KR: Change the far right column to Heal orbs
 
-# 16500/128 - マジック・オブ・ビューティー
+# 16500/128 - Magic of Beauty
 Tags: LINE_ORBS_CONVERTER
-Game: 最下段横1列を回復ドロップに変化。
+Game: Changes the bottom row to Heal Orbs
 JP: 最下段を回復ドロップに変化
 EN: Change the bottom row to Heal orbs
 KR: Change the bottom row to Heal orbs
 
-# 16502/116 - 救世主
+# 16502/116 - Savior of the World
 Tags: ATTACK_STANCE,ORB_CONVERT,ORB_LOCK
-Game: 回復、お邪魔、毒ドロップを光ドロップに変化。 光ドロップをロック。
+Game: Changes Jammers, Heal & Poison Orbs to Light Orbs; Light Orbs locked
 JP: 回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
 EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
@@ -44842,9 +44842,9 @@ JP: バインドと覚醒無効を2ターン回復
 EN: Reduce binds and awoken skill binds by 2 turns
 KR: Reduce binds and awoken skill binds by 2 turns
 
-# 16510/116 - 蒼龍剣
+# 16510/116 - Azure Dragon Sword
 Tags: ATTACK_STANCE,ORB_CONVERT,ORB_LOCK
-Game: 闇、回復、お邪魔、毒ドロップを光ドロップに変化。 光ドロップをロック。
+Game: Changes Jammers, Dark, Heal & Poison Orbs to Light Orbs; Light Orbs locked
 JP: 闇、回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。全光ドロップをロック
 EN: Change Dark, Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
 KR: Change Dark, Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; Lock all Light orbs
@@ -44863,9 +44863,9 @@ JP: 全光ドロップをロック
 EN: Lock all Light orbs
 KR: Lock all Light orbs
 
-# 16513/116 - 最後まで美しく生きようじゃねーか
+# 16513/116 - Live beautifully until the very end.
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を全回復。 上から2列目横1列を水ドロップに変化。
+Game: Fully recovers Awoken Skill bind status; changes the 2nd row from the top to Water Orbs
 JP: 覚醒無効を全回復。上から2行目を水ドロップに変化
 EN: Remove all awoken skill binds; Change the 2nd row from the top to Water orbs
 KR: Remove all awoken skill binds; Change the 2nd row from the top to Water orbs
@@ -44884,9 +44884,9 @@ JP: 上から2行目を水ドロップに変化
 EN: Change the 2nd row from the top to Water orbs
 KR: Change the 2nd row from the top to Water orbs
 
-# 16520/116 - 畳み掛けるなら今だぜ
+# 16520/116 - If we're going to press them, now's the time.
 Tags: ALL_ORBS_CONVERT,SUICIDE
-Game: HPが50％減少。1ターンの間、ダメージ無効を貫通する。 全ドロップを5属性＋回復ドロップに変化。
+Game: Halves HP, pierce through enemy's damage void for  1 turn; changes all Orbs to all Attributes & Heal
 JP: HPが50％減少。1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -44912,9 +44912,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 16529/116 - 俺が殺るまでは誰も死なせない
+# 16529/116 - Don't let yourself die until I kill you.
 Tags: ALL_ORBS_CONVERT
-Game: 2ターンの間、回復力が半減。 全ドロップを火、木、光、闇ドロップに変化。
+Game: Halves RCV for 2 turns; changes all Orbs to Fire, Wood, Light & Dark Orbs
 JP: 2ターンの間、回復力が0.5倍。全ドロップを火、木、光、闇ドロップに変化
 EN: For 2 turns, 0.5x RCV; Change all orbs to Fire, Wood, Light, and Dark orbs
 KR: For 2 turns, 0.5x RCV; Change all orbs to Fire, Wood, Light, and Dark orbs
@@ -44933,9 +44933,9 @@ JP: 全ドロップを火、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Wood, Light, and Dark orbs
 
-# 16536/116 - 将軍家は代々もっさりブリーフ派だ
+# 16536/116 - The Imperial Family has always worn white briefs.
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
-Game: 敵全体に30万の固定ダメージ。 全ドロップを木、光、回復ドロップに変化。
+Game: Inflicts 300,000 damage on all enemies; changes all Orbs to Wood, Light & Heal Orbs
 JP: 敵全体に30万の固定ダメージ。全ドロップを木、光、回復ドロップに変化
 EN: Deal 300000 fixed damage to all enemies; Change all orbs to Wood, Light, and Heal orbs
 KR: Deal 300000 fixed damage to all enemies; Change all orbs to Wood, Light, and Heal orbs
@@ -44961,9 +44961,9 @@ JP: 全ドロップを木、光、回復ドロップに変化
 EN: Change all orbs to Wood, Light, and Heal orbs
 KR: Change all orbs to Wood, Light, and Heal orbs
 
-# 16546/116 - 金が出張るしかねーよな
+# 16546/116 - I can't help but stand out.
 Tags: REDUCE_DAMAGE,VOID_ATT_ABSORBS
-Game: 8ターンの間、受けるダメージを軽減。 2ターンの間、属性吸収を無効化する。
+Game: Reduces damage for 8 turns; voids Attribute absorption for 2 turns
 JP: 8ターンの間、受けるダメージを30％減少。2ターンの間、属性吸収を無効化する
 EN: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects
 KR: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects
@@ -44982,9 +44982,9 @@ JP: 2ターンの間、属性吸収を無効化する
 EN: For 2 turns, bypass att. absorb shield effects
 KR: For 2 turns, bypass att. absorb shield effects
 
-# 16558/116 - 今宵の月は決して沈まぬぞ
+# 16558/116 - The moon will never set on tonight.
 Tags: ADD_COMBO
-Game: ランダムで光と闇ドロップを3個ずつ生成。 1ターンの間、1コンボ加算される。
+Game: Creates 3 Light and Dark Orbs each at random; adds 1 combo for 1 turn
 JP: ランダムで光と闇を3個ずつ生成。1ターンの間、1コンボ加算される
 EN: Create 3 Light and Dark orbs; For 1 turn, increase combo count by 1
 KR: Create 3 Light and Dark orbs; For 1 turn, increase combo count by 1
@@ -45003,16 +45003,16 @@ JP: ランダムで光と闇を3個ずつ生成
 EN: Create 3 Light and Dark orbs
 KR: Create 3 Light and Dark orbs
 
-# 16566/152 - テリトリーロック
+# 16566/152 - Territory Lock
 Tags: ORB_LOCK
-Game: 全ドロップをロック。
+Game: Locks all Orbs
 JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 16567/116 - メノアゲート-OPH2891
+# 16567/116 - Menoa Gate -OPH2891-
 Tags: ALL_ORBS_CONVERT,DROP_CHANCE
-Game: 1ターンの間、お邪魔ドロップが少し落ちやすくなる。 全ドロップを5属性＋回復ドロップに変化。
+Game: Jammers more likely to appear for 1 turn; changes all Orbs to all Attributes & Heal
 JP: 1ターンの間、お邪魔が10％の確率で落ちてくる。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -45031,16 +45031,16 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 16570/116 - メノアゲート-DPH3598
+# 16570/116 - Menoa Gate -DPH3598-
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
-Game: 1ターンの間、闇ドロップが少し落ちやすくなる。 上から2列目横1列を闇ドロップに変化。
+Game: Dark Orbs more likely to appear for 1 turn;  changes the 2nd row from the top to Dark Orbs
 JP: 1ターンの間、闇ドロップが15％落ちやすくなる。上から2行目を闇ドロップに変化
 EN: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 KR: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 
-# 16571/116 - メノアゲート-大見得三七三四
+# 16571/116 - Menoa Gate -POSE3734-
 Tags: ALL_ORBS_CONVERT,SUICIDE
-Game: HPが50％減少。 全ドロップを火、木、回復ドロップに変化。
+Game: Halves HP; changes all Orbs to Fire, Wood, and Heal Orbs
 JP: HPが50％減少。全ドロップを火、木、回復ドロップに変化
 EN: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 KR: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
@@ -45059,9 +45059,9 @@ JP: 全ドロップを火、木、回復ドロップに変化
 EN: Change all orbs to Fire, Wood, and Heal orbs
 KR: Change all orbs to Fire, Wood, and Heal orbs
 
-# 16574/116 - メノアゲート-AMN4794
+# 16574/116 - Menoa Gate -AMN4794-
 Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
-Game: 全ドロップを水、木、光ドロップに変化。 左端縦1列を水ドロップに変化。
+Game: Changes all Orbs to Water, Wood and Light Orbs; changes the leftmost column to Water Orbs
 JP: 全ドロップを水、木、光ドロップに変化。最左端を水ドロップに変化
 EN: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
 KR: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
@@ -45080,9 +45080,9 @@ JP: 最左端を水ドロップに変化
 EN: Change the far left column to Water orbs
 KR: Change the far left column to Water orbs
 
-# 16577/141 - メノアゲート-AMA3074
+# 16577/141 - Menoa Gate -AMA3074-
 Tags: 
-Game: ランダムで木と回復ドロップを15個ずつ生成。
+Game: Creates 15 Wood & Heal Orbs each at random
 JP: ランダムで木と回復を15個ずつ生成
 EN: Create 15 Wood and Heal orbs over any orbs
 KR: Create 15 Wood and Heal orbs over any orbs
@@ -45101,9 +45101,9 @@ JP: 上から2行目を闇ドロップに変化
 EN: Change the 2nd row from the top to Dark orbs
 KR: Change the 2nd row from the top to Dark orbs
 
-# 16613/116 - バブルシェル
+# 16613/116 - Bubble Shell
 Tags: REDUCE_DAMAGE
-Game: ランダムで水ドロップを3個生成。 2ターンの間、受けるダメージを軽減。
+Game: Creates 3 Water Orbs at random; reduces damage for 2 turns
 JP: 水ドロップを3個生成。2ターンの間、受けるダメージを30％減少
 EN: Create 3 Water orbs; For 2 turns, reduce damage taken by 30%
 KR: Create 3 Water orbs; For 2 turns, reduce damage taken by 30%
@@ -45122,9 +45122,9 @@ JP: 2ターンの間、受けるダメージを30％減少
 EN: For 2 turns, reduce damage taken by 30%
 KR: For 2 turns, reduce damage taken by 30%
 
-# 16616/116 - セイクリッドブルー
+# 16616/116 - Sacred Blue
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
-Game: 最下段横1列を水ドロップに変化。 3ターンの間、受けるダメージを半減。
+Game: Changes the bottom row to Water Orbs; halves damage for 3 turns
 JP: 最下段を水ドロップに変化。3ターンの間、受けるダメージを50％減少
 EN: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
 KR: Change the bottom row to Water orbs; For 3 turns, reduce damage taken by 50%
@@ -45143,9 +45143,9 @@ JP: 3ターンの間、受けるダメージを50％減少
 EN: For 3 turns, reduce damage taken by 50%
 KR: For 3 turns, reduce damage taken by 50%
 
-# 16623/116 - ポイズンスチーム
+# 16623/116 - Poison Steam
 Tags: ORB_CONVERT,DROP_CHANCE
-Game: 2ターンの間、お邪魔と毒ドロップが少し落ちやすくなる。 お邪魔と毒ドロップを闇ドロップに変化。
+Game: Poison Orbs & Jammers more likely to appear for 2 turns; changes Poison Orbs & Jammers to Dark Orbs
 JP: 2ターンの間、お邪魔と毒が10％の確率で落ちてくる。お邪魔、毒、猛毒ドロップを闇ドロップに変化
 EN: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
@@ -45304,9 +45304,9 @@ JP: 1ターンの間、属性吸収を無効化する
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
-# 16670/116 - 進化には恐怖が必要だ
+# 16670/116 - Fear is necessary for evolution.
 Tags: ADD_COMBO
-Game: ランダムで水ドロップを9個生成。 1ターンの間、2コンボ加算される。
+Game: Creates 9 Water Orbs at random; adds 2 combos for 1 turn
 JP: 水ドロップを9個生成。1ターンの間、2コンボ加算される
 EN: Create 9 Water orbs; For 1 turn, increase combo count by 2
 KR: Create 9 Water orbs; For 1 turn, increase combo count by 2
@@ -45325,9 +45325,9 @@ JP: 1ターンの間、2コンボ加算される
 EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
-# 16678/116 - 心を取り込み具現化する能力
+# 16678/116 - The power to actualise one's deepest desires.
 Tags: ATTACK_STANCE,ORB_CONVERT,ADD_COMBO
-Game: 光、回復、お邪魔、毒ドロップを水ドロップに変化。 1ターンの間、3コンボ加算される。
+Game: Changes Light, Heal, Poison & Jammers to Water Orbs; adds 3 combos for 1 turn
 JP: 光、回復、お邪魔、毒、猛毒ドロップを水ドロップに変化。1ターンの間、3コンボ加算される
 EN: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, increase combo count by 3
 KR: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, increase combo count by 3
@@ -45346,9 +45346,9 @@ JP: 1ターンの間、3コンボ加算される
 EN: For 1 turn, increase combo count by 3
 KR: For 1 turn, increase combo count by 3
 
-# 16681/116 - 視覚防壁
+# 16681/116 - Visibility Barrier
 Tags: VOID_DAMAGE,ENHANCED_HEAL
-Game: 2ターンの間、受けるダメージを無効化。 2ターンの間、回復力が3倍。
+Game: Voids damage for 2 turns; 3x RCV for 2 turns
 JP: 2ターンの間、受けるダメージを100％減少。2ターンの間、回復力が3倍
 EN: For 2 turns, reduce damage taken by 100%; For 2 turns, 3x RCV
 KR: For 2 turns, reduce damage taken by 100%; For 2 turns, 3x RCV
@@ -45367,9 +45367,9 @@ JP: 2ターンの間、回復力が3倍
 EN: For 2 turns, 3x RCV
 KR: For 2 turns, 3x RCV
 
-# 16684/116 - 死神だけが扱える蝶
+# 16684/116 - A butterfly that can only be handled by a Soul Reaper.
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ状態を全回復。 全ドロップのロックを解除し、水、光、闇ドロップに変化。
+Game: Fully recovers unmatchable Orb status; removes  Orb locks, changes all Orbs to Water, Light & Dark Orbs
 JP: 消せないドロップ状態を9999ターン回復。全ドロップのロック状態を解除。全ドロップを水、光、闇ドロップに変化
 EN: Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Water, Light, and Dark orbs
 KR: Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Water, Light, and Dark orbs
@@ -45395,9 +45395,9 @@ JP: 全ドロップを水、光、闇ドロップに変化
 EN: Change all orbs to Water, Light, and Dark orbs
 KR: Change all orbs to Water, Light, and Dark orbs
 
-# 16688/116 - 隊長の羽織
+# 16688/116 - White Coat of Captains
 Tags: ENHANCED_ATTACK,VOID_ATT_ABSORBS
-Game: 4ターンの間、属性吸収を無効化する。 4ターンの間、火属性の攻撃力が1.5倍。
+Game: Voids Attribute absorption for 4 turns; 1.5x ATK for Fire Att. for 4 turns
 JP: 4ターンの間、属性吸収を無効化する。4ターンの間、火属性の攻撃力が1.5倍
 EN: For 4 turns, bypass att. absorb shield effects; For 4 turns, 1.5x ATK for Fire Att.
 KR: For 4 turns, bypass att. absorb shield effects; For 4 turns, 1.5x ATK for Fire Att.
@@ -45416,9 +45416,9 @@ JP: 4ターンの間、火属性の攻撃力が1.5倍
 EN: For 4 turns, 1.5x ATK for Fire Att.
 KR: For 4 turns, 1.5x ATK for Fire Att.
 
-# 16691/116 - 終いにしようや
+# 16691/116 - Let's put an end to this.
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 1ターンの間、悪魔タイプの攻撃力が1.5倍。 バインド状態と覚醒無効状態を5ターン回復。
+Game: 1.5x ATK for Devil Type for 1 turn; reduces bind status (incl. Awoken) by 5 turns
 JP: 1ターンの間、悪魔タイプの攻撃力が1.5倍。バインドと覚醒無効を5ターン回復
 EN: For 1 turn, 1.5x ATK for Devil type; Reduce binds and awoken skill binds by 5 turns
 KR: For 1 turn, 1.5x ATK for Devil type; Reduce binds and awoken skill binds by 5 turns
@@ -45437,9 +45437,9 @@ JP: バインドと覚醒無効を5ターン回復
 EN: Reduce binds and awoken skill binds by 5 turns
 KR: Reduce binds and awoken skill binds by 5 turns
 
-# 16701/116 - 死神の虚化
+# 16701/116 - Soul Reaper Hollowfication
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 3ターンの間、悪魔タイプの攻撃力が3倍。 バインド状態と覚醒無効状態を全回復。
+Game: 3x ATK for Devil Type for 3 turns; fully recovers bind status (incl. Awoken)
 JP: 3ターンの間、悪魔タイプの攻撃力が3倍。バインドと覚醒無効を全回復
 EN: For 3 turns, 3x ATK for Devil type; Remove all binds and awoken skill binds
 KR: For 3 turns, 3x ATK for Devil type; Remove all binds and awoken skill binds
@@ -45458,9 +45458,9 @@ JP: バインドと覚醒無効を全回復
 EN: Remove all binds and awoken skill binds
 KR: Remove all binds and awoken skill binds
 
-# 16704/116 - ビビんな言うてるやろ
+# 16704/116 - I told ya not to be such a wuss!
 Tags: 
-Game: 1ターンの間、回復力が0になる。 ランダムで火と木ドロップを4個ずつ生成。
+Game: Voids RCV for 1 turn; creates 4 Fire & Wood Orbs each at random
 JP: 1ターンの間、回復力が0倍。ランダムで火と木を4個ずつ生成
 EN: For 1 turn, 0x RCV; Create 4 Fire and Wood orbs
 KR: For 1 turn, 0x RCV; Create 4 Fire and Wood orbs
@@ -45479,16 +45479,16 @@ JP: ランダムで火と木を4個ずつ生成
 EN: Create 4 Fire and Wood orbs
 KR: Create 4 Fire and Wood orbs
 
-# 16710/179 - 一晩で治してみせます
+# 16710/179 - 
 Tags: HEAL
-Game: 2ターンの間、HPを全回復。
+Game: 
 JP: 2ターンの間、最大HPの100％分回復
 EN: For 2 turns, recover 100% of max HP
 KR: For 2 turns, recover 100% of max HP
 
-# 16730/116 - 五色の秘光
+# 16730/116 - Five Colored Light
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: バインド状態と覚醒無効状態を全回復。 全ドロップを火、水、木、光、闇ドロップに変化。
+Game: Fully recovers bind status (incl. Awoken); changes Orbs to all Attributes
 JP: バインドと覚醒無効を全回復。全ドロップを火、水、木、光、闇ドロップに変化
 EN: Remove all binds and awoken skill binds; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Remove all binds and awoken skill binds; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -45507,9 +45507,9 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 16736/116 - スターロック・ランド
+# 16736/116 - Star Lock - Land
 Tags: ATTACK_STANCE,ORB_CONVERT
-Game: 光、回復、お邪魔、毒ドロップを木ドロップに変化。 10ターンの間、木ドロップがロック状態で落ちてくる。
+Game: Changes Light, Heal, Poison & Jammers to Wood Orbs; Wood Orbs locked as they appear for 10 turns
 JP: 光、回復、お邪魔、毒、猛毒ドロップを木ドロップに変化。10ターンの間、木ドロップがロック状態で落ちてくる
 EN: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; For 10 turns, Wood orbs appear locked
 KR: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Wood orbs; For 10 turns, Wood orbs appear locked
@@ -45528,9 +45528,9 @@ JP: 10ターンの間、木ドロップがロック状態で落ちてくる
 EN: For 10 turns, Wood orbs appear locked
 KR: For 10 turns, Wood orbs appear locked
 
-# 16743/116 - 震天の叫声
+# 16743/116 - Trembling Sky Scream
 Tags: DROP_CHANCE
-Game: ランダムで闇とお邪魔ドロップを15個ずつ生成。 1ターンの間、お邪魔ドロップが少し落ちやすくなる。
+Game: Creates 15 Jammers & Dark Orbs each at random; Jammers more likely to appear for 1 turn
 JP: ランダムで闇とお邪魔を15個ずつ生成。1ターンの間、お邪魔が20％の確率で落ちてくる
 EN: Create 15 Dark and Jammer orbs over any orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
 KR: Create 15 Dark and Jammer orbs over any orbs; For 1 turn, Jammer orbs are more likely to appear by 20%
@@ -45549,9 +45549,9 @@ JP: 1ターンの間、お邪魔が20％の確率で落ちてくる
 EN: For 1 turn, Jammer orbs are more likely to appear by 20%
 KR: For 1 turn, Jammer orbs are more likely to appear by 20%
 
-# 16750/116 - カオティックエッジ
+# 16750/116 - Chaotic Edge
 Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
-Game: 全ドロップを火、木、闇ドロップに変化。 右端縦1列を闇ドロップに変化。
+Game: Changes all Orbs to Fire, Wood & Dark Orbs; changes the rightmost column to Dark Orbs
 JP: 全ドロップを火、木、闇ドロップに変化。最右端を闇ドロップに変化
 EN: Change all orbs to Fire, Wood, and Dark orbs; Change the far right column to Dark orbs
 KR: Change all orbs to Fire, Wood, and Dark orbs; Change the far right column to Dark orbs
@@ -45570,9 +45570,9 @@ JP: 最右端を闇ドロップに変化
 EN: Change the far right column to Dark orbs
 KR: Change the far right column to Dark orbs
 
-# 16756/116 - リフレッシュトーク
+# 16756/116 - Refreshing Talk
 Tags: ENHANCED_HEAL,EXTENDS_TIME,ORB_REFRESH
-Game: 3ターンの間、ドロップ操作時間と回復力が2倍。 ランダムでドロップを入れ替える。
+Game: 2x RCV & 2x Orb move time for 3 turns; replaces all Orbs
 JP: 3ターンの間、ドロップ操作時間が2倍。3ターンの間、回復力が2倍。ランダムでドロップを入れ替える
 EN: For 3 turns, 2x orb move time; For 3 turns, 2x RCV; Replace all orbs
 KR: For 3 turns, 2x orb move time; For 3 turns, 2x RCV; Replace all orbs
@@ -45598,9 +45598,9 @@ JP: ランダムでドロップを入れ替える
 EN: Replace all orbs
 KR: Replace all orbs
 
-# 16763/116 - 龍活の追究
+# 16763/116 - Investigating the Lives of Dragons
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ALL_ORBS_CONVERT
-Game: 1ターンの間、回復力とドラゴンタイプの攻撃力が1.5倍。 全ドロップを火、水、木、光、回復ドロップに変化。
+Game: 1.5x ATK for Dragon Type & 1.5x RCV for 1 turn;  changes all Orbs to Fire, Water, Wood, Light & Heal Orbs
 JP: 1ターンの間、ドラゴンタイプの攻撃力が1.5倍。1ターンの間、回復力が1.5倍。全ドロップを火、水、木、光、回復ドロップに変化
 EN: For 1 turn, 1.5x ATK for Dragon type; For 1 turn, 1.5x RCV; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 KR: For 1 turn, 1.5x ATK for Dragon type; For 1 turn, 1.5x RCV; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
@@ -45633,9 +45633,9 @@ JP: 全ドロップを火、水、木、光、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 
-# 16772/116 - サンライトショット
+# 16772/116 - Sunlight Shot
 Tags: ALL_ORBS_CONVERT,VOID_ATT_ABSORBS
-Game: 1ターンの間、属性吸収を無効化する。 全ドロップを水、木、光ドロップに変化。
+Game: Voids Attribute absorption for 1 turn; changes all Orbs to Water, Wood & Light Orbs
 JP: 1ターンの間、属性吸収を無効化する。全ドロップを水、木、光ドロップに変化
 EN: For 1 turn, bypass att. absorb shield effects; Change all orbs to Water, Wood, and Light orbs
 KR: For 1 turn, bypass att. absorb shield effects; Change all orbs to Water, Wood, and Light orbs
@@ -45654,9 +45654,9 @@ JP: 全ドロップを水、木、光ドロップに変化
 EN: Change all orbs to Water, Wood, and Light orbs
 KR: Change all orbs to Water, Wood, and Light orbs
 
-# 16779/116 - 転界逢龍陣・降星
+# 16779/116 - Dimension Formation - Falling Stars
 Tags: MENACE
-Game: 敵の行動を2ターン遅らせる。 10ターンの間、ドロップがロック状態で落ちてくる。
+Game: Delays enemies' next move for 2 turns; Orbs locked as they appear for 10 turns
 JP: 敵の行動を2ターン遅らせる。10ターンの間、ドロップがロック状態で落ちてくる
 EN: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
 KR: Delay enemies' next attack by 2 turns; For 10 turns, all orbs appear locked
@@ -45675,9 +45675,9 @@ JP: 10ターンの間、ドロップがロック状態で落ちてくる
 EN: For 10 turns, all orbs appear locked
 KR: For 10 turns, all orbs appear locked
 
-# 16785/116 - 誰かの秘密
+# 16785/116 - Somebody's Secrets
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER
-Game: 1ターンの間、悪魔タイプの攻撃力が半減。 上から2列目と下から2列目の横1列を光ドロップに変化。
+Game: Halves ATK for Devil Type for 1 turn; changes the 2nd rows from the top & bottom to Light Orbs
 JP: 1ターンの間、悪魔タイプの攻撃力が0.5倍。上から2行目と下から2行目を光ドロップに変化
 EN: For 1 turn, 0.5x ATK for Devil type; Change the 2nd row from the top and the 2nd row from the bottom to Light orbs
 KR: For 1 turn, 0.5x ATK for Devil type; Change the 2nd row from the top and the 2nd row from the bottom to Light orbs
@@ -45696,9 +45696,9 @@ JP: 上から2行目と下から2行目を光ドロップに変化
 EN: Change the 2nd row from the top and the 2nd row from the bottom to Light orbs
 KR: Change the 2nd row from the top and the 2nd row from the bottom to Light orbs
 
-# 16791/116 - 咲き誇る桜花
+# 16791/116 - Blooming Cherry Blossoms
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
-Game: 1ターンの間、2コンボ加算される。 全ドロップのロックを解除し、火と木ドロップに変化。
+Game: Adds 2 combos for 1 turn, removes Orb locks; changes all Orbs to Fire & Wood Orbs
 JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを火と木ドロップに変化
 EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs
 KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs

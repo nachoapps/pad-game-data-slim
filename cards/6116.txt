@@ -10,10 +10,10 @@ JP: 全ドロップのロック状態を解除。最左端を水ドロップに�
 EN: Unlock all orbs; Change the far left column to Water orbs; For 1 turn, increase orb move time by 1 second
 KR: Unlock all orbs; Change the far left column to Water orbs; For 1 turn, increase orb move time by 1 second
 
-# 16718/138 - 星雲神の魂
+# 16718/138 - Spirit of the Galaxy Goddess
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 18.0, 1.5, 0.25]
-Game: 水属性の全パラメータが1.5倍。HP満タン時に攻撃力が4倍。 5コンボ以上でダメージを軽減、攻撃力が3倍。
+Game: 1.5x to all stats for Water Att., 4x ATK when HP full; 3x ATK & reduces damage with 5+ combos
 JP: 水属性の全パラメータが1.5倍。HPが満タン時攻撃力が4倍。5コンボ以上で攻撃力が3倍、受けるダメージを25％減少。
 EN: 1.5x all stats for Water Att.; 4x ATK when HP is full; 3x ATK and reduce damage taken by 25% when 5 or more combos
 KR: 1.5x all stats for Water Att.; 4x ATK when HP is full; 3x ATK and reduce damage taken by 25% when 5 or more combos

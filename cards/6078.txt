@@ -3,17 +3,17 @@ HP: 4021 ATK: 2306 RCV: 425 LB: 15
 AWK: 10,10,28,56,53,43,43,60,60
 SAWK: 48,58,43,60,27
 
-# 16566/152 - テリトリーロック
+# 16566/152 - Territory Lock
 Tags: ORB_LOCK
-Game: 全ドロップをロック。
+Game: Locks all Orbs
 JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 16578/138 - 魔導機工学
+# 16578/138 - Magical Mechanical Engineering
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1.0, 0.5]
-Game: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。 ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+Game: 4x ATK & adds 2 combos when 4+ Att. attack at once; 4x ATK & halves damage with an L shape of 5 Orbs
 JP: 4色以上同時攻撃で攻撃力が4倍、2コンボ加算。ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and increase combo by 2 when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
 KR: 4x ATK and increase combo by 2 when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape

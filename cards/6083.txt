@@ -3,17 +3,17 @@ HP: 4035 ATK: 3951 RCV: 20 LB: 15
 AWK: 10,10,28,56,56,53,48,48,50
 SAWK: 48,58,43,60,27
 
-# 16577/141 - メノアゲート-AMA3074
+# 16577/141 - Menoa Gate -AMA3074-
 Tags: 
-Game: ランダムで木と回復ドロップを15個ずつ生成。
+Game: Creates 15 Wood & Heal Orbs each at random
 JP: ランダムで木と回復を15個ずつ生成
 EN: Create 15 Wood and Heal orbs over any orbs
 KR: Create 15 Wood and Heal orbs over any orbs
 
-# 16601/138 - 魔導機装・マシンアテナ
+# 16601/138 - Equip Magical Mech, Machine Athena
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 16.0, 1, 0.35]
-Game: 木回復の同時攻撃でダメージを軽減、2コンボ加算。 木を6個以上つなげて消すと攻撃力16倍、9個以上で固定1ダメージ。
+Game: Adds 2 combos & reduces dmg when Wd & Heal attack; 16x ATK with 6+ linked Wood Orbs, 1 dmg with 9+ Orbs
 JP: 木、回復の同時攻撃で受けるダメージを35％減少。木と回復を3個以上同時につなげて消しと、2コンボ加算。木を6個以上つなげて消すと攻撃力が16倍。木を9個以上つなげて消しと固定1ダメージ。
 EN: Reduce damage taken by 35% when matching Wood and Heal; Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once; 16x ATK when matching 6 or more connected Wood orbs; 1 additional damage when matching 9 or more Wood orbs
 KR: Reduce damage taken by 35% when matching Wood and Heal; Increase combo by 2 when matching 3 or more connected Wood and Heal orbs at once; 16x ATK when matching 6 or more connected Wood orbs; 1 additional damage when matching 9 or more Wood orbs
