@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESAbsorbThreshold(87:17315) -> 光の理
+	[0] ESAbsorbThreshold(87:17315) -> The Way of Light
 	Absorb damage when damage >= 1,500,000 for 999 turns
-	[1] ESDebuffATK(130:17316) -> 減力の導玉
+	[1] ESDebuffATK(130:17316) -> Depowering Orb of Guidance
 	ATK -99% for 5 turns
 
 #3: ESSetCounter(26:16) -> ESSetCounter
@@ -20,7 +20,7 @@ counter + 1
 #4: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 6, target rnd 7
 
-#5: ESAttackMultihit(15:17319) -> 陽槍ブリューナク
+#5: ESAttackMultihit(15:17319) -> Spear of Light, Brionac
 Deal 100% damage (5 hits, 20% each)
 
 #6: ESEndPath(36:26) -> ESEndPath
@@ -30,9 +30,9 @@ end_turn
 counter = 0
 
 #8: SkillSet:
-	[0] ESDebuffATK(130:17316) -> 減力の導玉
+	[0] ESDebuffATK(130:17316) -> Depowering Orb of Guidance
 	ATK -99% for 5 turns
-	[1] ESAttackUPRemainingEnemies(17:17318) -> 増力の導玉
+	[1] ESAttackUPRemainingEnemies(17:17318) -> Empowering Orb of Guidance
 	Increase damage to 300% for the next 999 turns
 
 #9: ESEndPath(36:26) -> ESEndPath

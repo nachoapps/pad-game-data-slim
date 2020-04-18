@@ -1,4 +1,4 @@
-#100075 - 裏ホワイトナイト
+#100075 - Alt. White Knight
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -14,11 +14,11 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESNoSkyfall(127:16532) -> 白騎士の試練
+	[0] ESNoSkyfall(127:16532) -> Trial of the White Knight
 	No skyfall for 99 turns
-	[1] ESSpinnersFixed(110:16533) -> いくぞ！
+	[1] ESSpinnersFixed(110:16533) -> Here I go!
 	Specific orbs change every 1.0s for 99 turns
-	[2] ESAbsorbCombo(67:16534) -> パラディンシールド
+	[2] ESAbsorbCombo(67:16534) -> Paladin Shield
 	Absorb damage when combos <= 6 for 99 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -30,11 +30,11 @@ Branch on counter >= 2, target rnd 11
 #7: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#8: ESGravity(50:16535) -> ガードブレイク
+#8: ESGravity(50:16535) -> Guard Break
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Player -99% HP
 
-#9: ESAttackMultihit(15:16536) -> ホワイトブレード
+#9: ESAttackMultihit(15:16536) -> White Blade
 Deal 400~600% damage (4~6 hits, 100% each)
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -46,7 +46,7 @@ Branch on counter >= 3, target rnd 8
 #12: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#13: ESBlind5(5:16513) -> まだまだいくぞ！！
+#13: ESBlind5(5:16513) -> There's still much more to come!
 Blind all orbs on the board
 
 #14: ESEndPath(36:26) -> ESEndPath

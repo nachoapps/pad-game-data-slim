@@ -8,28 +8,28 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (16677:106) 敵の行動ターンが変化した
+ | (16677:106) Enemy's turn changed
  | Enemy turn counter change to 3 when HP <= 50%
  type: PREEMPT
- | (16679:75) 我が策に対処できるか？
+ | (16679:75) Allow me to measure your strength.
  | Leader changes to random sub for 3 turns
  group:
  | group:
    | group:
    | condition: turn 1 while HP > 89
-     | (16681:83) この程度とは… + その身を亡ぼすがいい
+     | (16681:83) Such a weak attack... + Destroy that body!
      | Void damage >= 10000000 for 999 turns + RCV 25% for 5 turns
    | group:
-     | (16687:15) 忠臣の剣戟
+     | (16687:15) Loyal Swordsmen Join the Fray
      | Deal 200% damage (4 hits, 50% each)
  | group:
  | condition: turn 1 while HP > 49, hp <= 89
-   | (16684:83) なかなかやるではないか + もっと実力を見せてみろ
+   | (16684:83) Not bad, are you... + Try to show more of your true power.
    | Absorb damage when combos <= 7 for 999 turns + No skyfall for 5 turns
  | group:
  | condition: turn 1, hp <= 49
-   | (16688:83) これで終わらせる + しばし時をやろう
+   | (16688:83) Now end it. + I shall not give you long.
    | Increase damage to 1000% for the next 999 turns + Reduce damage from all sources by 99% for 3 turns
  type: UNKNOWN_USE
- | (16678:83) 貴様、真の頭首ではないな！ + 散るがいい！
+ | (16678:83) Are you capable of dealing with this? + Scatter!
  | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each), Deal 1000% damage (4 hits, 250% each)

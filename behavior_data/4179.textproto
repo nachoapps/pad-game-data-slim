@@ -27,6 +27,19 @@
           enemy_skill_id: 16512
         }
       }
+      children {
+        behavior {
+          condition {
+            use_chance: 20
+          }
+          enemy_skill_id: 16513
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16514
+        }
+      }
     }
     groups {
       group_type: STANDARD
@@ -47,6 +60,11 @@
           condition {
           }
           enemy_skill_id: 16508
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16535
         }
       }
     }

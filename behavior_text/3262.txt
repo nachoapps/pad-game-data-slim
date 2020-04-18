@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16371:83) 滅世の炎 + 鍛煉の試練
+ | (16371:83) World Destroying Flames + Trial of Forging
  | Movetime 50% for 2 turns + Fix orb movement starting point to random position on the board
  group:
- | (16374:15) ルドラークシャ
+ | (16374:15) Rudraksha
  | Deal 100% damage (2 hits, 50% each)

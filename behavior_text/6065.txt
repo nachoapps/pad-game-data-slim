@@ -10,43 +10,43 @@ level: 1
  group:
  | group:
  | condition: always turn 1
-   | (16921:89) 武器をおさめよ
+   | (16921:89) Give me a weapon
    | Delay active skills by 2 turns
  | group:
    | condition: 30% chance
-   | (16922:1) くだらん争いはこれまでだ
+   | (16922:1) This worthless conflict ends here
    | Bind 2 random cards for 3 turns, Deal 95% damage
-   | (16923:15) 道を開けよ
+   | (16923:15) Get out of the way
    | Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (16924:17) 将軍の名の下に命令をくだす
+     | (16924:17) I order you, in the name of the Shogun
      | Increase damage to 200% for the next 1 turn
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (16925:15) 賊を討て
+     | (16925:15) Shoot the thieves
      | Deal 150% damage
 
 level: 4
  type: PREEMPT
- | (16921:89) 武器をおさめよ
+ | (16921:89) Give me a weapon
  | Delay active skills by 2 turns
  group:
  | group:
    | condition: 30% chance
-   | (16922:1) くだらん争いはこれまでだ
+   | (16922:1) This worthless conflict ends here
    | Bind 2 random cards for 3 turns, Deal 95% damage
-   | (16923:15) 道を開けよ
+   | (16923:15) Get out of the way
    | Deal 100% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (16924:17) 将軍の名の下に命令をくだす
+     | (16924:17) I order you, in the name of the Shogun
      | Increase damage to 200% for the next 1 turn
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (16925:15) 賊を討て
+     | (16925:15) Shoot the thieves
      | Deal 150% damage

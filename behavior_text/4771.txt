@@ -10,41 +10,41 @@ level: 1
  group:
  | group:
  | condition: always turn 1
-   | (16900:15) ヅラじゃない桂だァァ！！
+   | (16900:15) It's not Zura. It's Katsura!
    | Deal 50% damage (2 hits, 25% each)
  | group:
    | condition: 50% chance
-   | (16902:15) 今度は俺の番さ
+   | (16902:15) It's my turn now
    | Deal 101% damage
-   | (16901:92) ゆくぞエリザベス
+   | (16901:92) Let's go Elizabeth
    | Spawn 3 random Water orbs, Deal 95% damage
  | group:
  | condition: hp <= 29
    | group:
    | condition: turn 2
-     | (16903:74) 俺はもうどこにも逃げんぞ
+     | (16903:74) I have nowhere to run to
      | Reduce damage from all sources by 30% for 3 turns
    | group:
-     | (16904:15) 桂じゃない ヅラだァァァァァ
+     | (16904:15) It's not Katsura. It's Zuraaaaaa!
      | Deal 120% damage (3 hits, 40% each)
 
 level: 4
  type: PREEMPT
- | (16900:15) ヅラじゃない桂だァァ！！
+ | (16900:15) It's not Zura. It's Katsura!
  | Deal 50% damage (2 hits, 25% each)
  group:
  | group:
    | condition: 50% chance
-   | (16902:15) 今度は俺の番さ
+   | (16902:15) It's my turn now
    | Deal 101% damage
-   | (16901:92) ゆくぞエリザベス
+   | (16901:92) Let's go Elizabeth
    | Spawn 3 random Water orbs, Deal 95% damage
  | group:
  | condition: hp <= 29
    | group:
    | condition: turn 1
-     | (16903:74) 俺はもうどこにも逃げんぞ
+     | (16903:74) I have nowhere to run to
      | Reduce damage from all sources by 30% for 3 turns
    | group:
-     | (16904:15) 桂じゃない ヅラだァァァァァ
+     | (16904:15) It's not Katsura. It's Zuraaaaaa!
      | Deal 120% damage (3 hits, 40% each)

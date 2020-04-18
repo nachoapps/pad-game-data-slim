@@ -10,51 +10,51 @@ level: 1
  group:
  | group:
  | condition: always turn 1
-   | (16941:15) オイぃぃぃ！！何やってんだ
+   | (16941:15) Oiiii! What're you doing?
    | Deal 100% damage (2 hits, 50% each)
  | group:
    | group:
    | condition: turn 2 while HP > 49
-     | (16942:53) 作戦にはまりましたね
+     | (16942:53) They fell for it, didn't they
      | Absorb Fire damage for 4 turns
    | group:
      | condition: 50% chance
-     | (16943:1) うるせェェ！！
+     | (16943:1) Shuuut up!!
      | Bind 1 random card for 3 turns, Deal 95% damage
-     | (16941:15) オイぃぃぃ！！何やってんだ
+     | (16941:15) Oiiii! What're you doing?
      | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 2
-     | (16944:17) アナタだけは許さない
+     | (16944:17) You're the only one I won't forgive
      | Increase damage to 150% for the next 5 turns
    | group:
-     | (16945:15) ふざけんのも大概にしろォォ！！
+     | (16945:15) This has gone faaar enough!!
      | Deal 96% damage (3 hits, 32% each)
 
 level: 4
  type: PREEMPT
- | (16941:15) オイぃぃぃ！！何やってんだ
+ | (16941:15) Oiiii! What're you doing?
  | Deal 100% damage (2 hits, 50% each)
  group:
  | group:
    | group:
    | condition: turn 1 while HP > 49
-     | (16942:53) 作戦にはまりましたね
+     | (16942:53) They fell for it, didn't they
      | Absorb Fire damage for 4 turns
    | group:
      | condition: 50% chance
-     | (16943:1) うるせェェ！！
+     | (16943:1) Shuuut up!!
      | Bind 1 random card for 3 turns, Deal 95% damage
-     | (16941:15) オイぃぃぃ！！何やってんだ
+     | (16941:15) Oiiii! What're you doing?
      | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (16944:17) アナタだけは許さない
+     | (16944:17) You're the only one I won't forgive
      | Increase damage to 150% for the next 5 turns
    | group:
-     | (16945:15) ふざけんのも大概にしろォォ！！
+     | (16945:15) This has gone faaar enough!!
      | Deal 96% damage (3 hits, 32% each)

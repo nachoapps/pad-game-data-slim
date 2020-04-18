@@ -34,12 +34,50 @@
             group {
               condition {
                 trigger_turn: 2
-                trigger_turn_end: 5
                 always_trigger_above: 9
               }
               children {
                 behavior {
                   enemy_skill_id: 17336
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 3
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 17339
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 4
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 17336
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 5
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 17339
                 }
               }
             }
@@ -80,16 +118,6 @@
               enemy_skill_id: 17342
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 17339
         }
       }
     }

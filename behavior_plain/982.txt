@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSkyfall(68:16380) -> 漆黒に舞う羽
+#2: ESSkyfall(68:16380) -> Jet-Black Dancing Feathers
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Jammer and Poison skyfall +15% for 5 turns
 
-#3: ESAttackMultihit(15:16381) -> 運命の刻み
+#3: ESAttackMultihit(15:16381) -> Mark of Destiny
 Deal 100% damage
 
 #4: ESEndPath(36:26) -> ESEndPath

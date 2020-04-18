@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17540:74) 輝龍の盾
+ | (17540:74) Shining Dragon's Shield
  | Reduce damage from all sources by 75% for 1 turn
  group:
- | (17541:77) シャインブレード
+ | (17541:77) Shining Blade
  | Change the 1st column to Light orbs, Deal 150% damage

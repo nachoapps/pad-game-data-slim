@@ -12,11 +12,16 @@ level: 1
  | (16510:79) Bunny Beam
  | Change the 3rd row to Water orbs, Deal 100% damage
  | condition: 20% chance
- | (16511:66) 8周年ありがとたまぁ～！
+ | (16511:66) Thank you for 8 years TAMA!
  | Do nothing
  | condition: 20% chance
- | (16512:66) 今後ともよろしくたまぁ～！
+ | (16512:66) We hope you keep playing TAMA!
  | Do nothing
+ | condition: 20% chance
+ | (16513:5) There's still much more to come!
+ | Blind all orbs on the board
+ | (16514:15) A game before we get started
+ | Deal 145% damage
  group:
  condition: turn 1, hp <= 98
  | (16509:17) It's pretty important!
@@ -24,3 +29,5 @@ level: 1
  type: UNKNOWN_USE
  | (16508:57) Enraged
  | Change a random attribute to Poison orbs
+ | (16535:50) Guard Break
+ | Player -99% HP

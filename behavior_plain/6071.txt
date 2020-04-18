@@ -14,9 +14,9 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESDamageShield(74:16915) -> 日輪（たいよう）が番人月詠 
+	[0] ESDamageShield(74:16915) -> Tsukuyo, Guardian of the Sun
 	Reduce damage from all sources by 30% for 5 turns
-	[1] ESAttackMultihit(15:16916) -> 参る
+	[1] ESAttackMultihit(15:16916) -> Coming
 	Deal 100% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -25,17 +25,17 @@ end_turn
 #6: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 30, target rnd 10
 
-#7: ESFixedStart(101:16917) -> 覚悟はできていような
+#7: ESFixedStart(101:16917) -> It appears that you're ready
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Fix orb movement starting point to random position on the board
 
-#8: ESAttackMultihit(15:16918) -> 吉原が法 死神太夫が許さぬ
+#8: ESAttackMultihit(15:16918) -> Yoshiwara is law, the Courtesan of Death won't forgive you
 Deal 102% damage (2 hits, 51% each)
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#10: ESRandomSpawn(92:16919) -> 今宵の月は決して沈まぬぞ
+#10: ESRandomSpawn(92:16919) -> The moon will never set on tonight
 Spawn 3 random Light and Dark orbs, Deal 150% damage
 
 #11: ESEndPath(36:26) -> ESEndPath

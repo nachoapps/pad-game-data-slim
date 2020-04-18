@@ -1,4 +1,4 @@
-#204349 - 騎士道の鑑・レオール
+#204349 - Model of Chivalry, Leor
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -19,25 +19,25 @@ Branch on flag & 1, target rnd 8
 #5: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#6: ESInactivity66(66:9649) -> 来たか…
+#6: ESInactivity66(66:9649) -> You came...
 Do nothing
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#8: ESAbsorbCombo(67:9627) -> 喧嘩なら負けないぜ
+#8: ESAbsorbCombo(67:9627) -> If it's a battle, I won't lose!
 Condition: When < 2% HP , one-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 1 turn
 
-#9: ESAttackMultihit(15:9629) -> スクールコンボ
+#9: ESAttackMultihit(15:9629) -> School Combo
 Condition: When < 20% HP (ai:100 rnd:0)
 Deal 135% damage (3 hits, 45% each)
 
-#10: ESAttackMultihit(15:9628) -> スクールアックス
+#10: ESAttackMultihit(15:9628) -> School Axe
 Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#12: ESResolve(73:9648) -> 犬根性
+#12: ESResolve(73:9648) -> Dog Resolve
 Survive attacks with 1 HP when HP > 50%

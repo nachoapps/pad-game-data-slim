@@ -1,4 +1,4 @@
-#401006 - 裏ノエルドラゴン・ノワール
+#401006 - Alt. Snow Globe Dragon Noir
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16785:130) カインドスノー
+ | (16785:130) Kind Snow
  | ATK -99% for 3 turns
  group:
- | (16786:15) ギフトブレス
+ | (16786:15) Gift Breath
  | Deal 100% damage

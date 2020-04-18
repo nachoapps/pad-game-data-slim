@@ -1,4 +1,4 @@
-#301264 - 守護命の青龍・カリン
+#301264 - Life Protector Seiryuu, Karin
 monster size: 5
 new AI: False
 start/max counter: 0
@@ -8,23 +8,23 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (1522:20) いっちょやりますかっ！
+ | (1522:20) Let's do this!
  | Voids status ailments for 3 turns
  group:
  | group:
  | condition: turn 1
-   | (1523:66) 三手終劇っ！
+   | (1523:66) I'll finish you in three moves!
    | Do nothing
  | group:
  | condition: turn 2
-   | (1524:15) 七花八裂
+   | (1524:15) Shichika Hachiretsu
    | Deal 140% damage (7 hits, 20% each)
  | group:
  | condition: turn 3
-   | (1525:48) 生生流転
+   | (1525:48) Seisei Ruten
    | Change a random attribute to Heal orbs, Deal 100% damage
  | group:
-   | (1526:48) 画龍点睛
+   | (1526:48) Garyou Tensei
    | Change all Heal orbs to Wood orbs, Deal 5000% damage
-   | (1527:66) 画龍…あ、あれっ？
+   | (1527:66) Garyou...huh?
    | Do nothing

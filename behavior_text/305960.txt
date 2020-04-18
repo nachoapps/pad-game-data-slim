@@ -8,14 +8,14 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16511:66) 8周年ありがとたまぁ～！
+ | (16511:66) Thank you for 8 years TAMA!
  | Do nothing
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 2
-   | (16512:66) 今後ともよろしくたまぁ～！
+   | (16512:66) We hope you keep playing TAMA!
    | Do nothing
  | group:
  | condition: execute repeatedly, turn 2 of 2
-   | (16511:66) 8周年ありがとたまぁ～！
+   | (16511:66) Thank you for 8 years TAMA!
    | Do nothing

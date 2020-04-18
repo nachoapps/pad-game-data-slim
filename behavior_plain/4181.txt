@@ -14,11 +14,11 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESAttackMultihit(15:16514) -> 先ずは小手調べだ
+	[0] ESAttackMultihit(15:16514) -> A game before we get started
 	Deal 145% damage
-	[1] ESDamageShield(74:16515) -> …よく耐えたな
+	[1] ESDamageShield(74:16515) -> You managed to hold on huh...
 	Reduce damage from all sources by 50% for 99 turns
-	[2] ESAbsorbCombo(67:16516) -> ここからが本番だ
+	[2] ESAbsorbCombo(67:16516) -> Now it's the real deal...
 	Absorb damage when combos <= 11 for 99 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -32,29 +32,29 @@ Branch on hp < 50, target rnd 14
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESStatusShield(20:16525) -> 豊穣の大釜
+	[0] ESStatusShield(20:16525) -> Large pot's bountiful harvest
 	Voids status ailments for 999 turns
-	[1] ESBindRandom(1:16524) -> 竪琴・揺籃奏
+	[1] ESBindRandom(1:16524) -> Harp - Lullaby
 	Bind 2 random cards for 10 turns
 
-#9: ESAttackMultihit(15:16522) -> 竪琴・悲哀奏
+#9: ESAttackMultihit(15:16522) -> Harp - Tragedy
 Condition: 20% chance (ai:20 rnd:0)
 Deal 110% damage
 
-#10: ESBoardChangeAttackBits(85:16523) -> 竪琴・喜遊奏
+#10: ESBoardChangeAttackBits(85:16523) -> Harp - Comedy
 Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 82% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #12: SkillSet:
-	[0] ESRecoverEnemy86(86:16531) -> 再生棍
+	[0] ESRecoverEnemy86(86:16531) -> Rod of Reincarnation
 	Enemy recover 50% HP
-	[1] ESDispel(6:16519) -> 破壊棍
+	[1] ESDispel(6:16519) -> Rod of Destruction
 	Voids player buff effects
-	[2] ESBindAwoken(88:16520) -> これで終わりだ…
+	[2] ESBindAwoken(88:16520) -> It's over...
 	Bind awoken skills for 1 turn
-	[3] ESAttackMultihit(15:16521) -> 旋風爆鎚棍！！
+	[3] ESAttackMultihit(15:16521) -> Explosive Whirlwind Mace Attack!!
 	Deal 1010% damage (10 hits, 101% each)
 
 #13: ESEndPath(36:26) -> ESEndPath
@@ -67,23 +67,23 @@ Branch on flag & 2, target rnd 18
 flag SET 0b11
 
 #16: SkillSet:
-	[0] ESDebuffMovetime(39:16517) -> 少しはやるようだな
+	[0] ESDebuffMovetime(39:16517) -> Not too bad
 	Movetime -2s for 10 turns
-	[1] ESAttackUPRemainingEnemies(17:16518) -> オレをもっと楽しませろ
+	[1] ESAttackUPRemainingEnemies(17:16518) -> Entertain me
 	Increase damage to 150% for the next 99 turns
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#18: ESBoardChangeAttackBits(85:16523) -> 竪琴・喜遊奏
+#18: ESBoardChangeAttackBits(85:16523) -> Harp - Comedy
 Condition: 20% chance (ai:20 rnd:0)
 Change all orbs to Fire, Water, Wood, Light, Dark, and Heal, Deal 82% damage
 
-#19: ESAttackMultihit(15:16522) -> 竪琴・悲哀奏
+#19: ESAttackMultihit(15:16522) -> Harp - Tragedy
 Deal 110% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#21: ESResolve(73:16530) -> 根性
+#21: ESResolve(73:16530) -> Resolve
 Survive attacks with 1 HP when HP > 30%

@@ -1,4 +1,4 @@
-#301273 - 蒼の機神将・マールミズガルズ
+#301273 - Blue Mech General, Mar Midgard
 monster size: 5
 new AI: False
 start/max counter: 0
@@ -8,25 +8,25 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (1433:68) 防衛システム起動
+ | (1433:68) Defense System Activated
  | Water skyfall +15% for 10 turns
  group:
  | group:
  | condition: turn 1
-   | (1434:66) 敵影ヲ捕捉
+   | (1434:66) Target Apprehended
    | Do nothing
  | group:
  | condition: turn 2
-   | (1435:15) 牽制射撃
+   | (1435:15) Diversionary Attack
    | Deal 100% damage
  | group:
  | condition: turn 3
-   | (1436:65) 敵ノ行動ヲ制限
+   | (1436:65) Restrict the enemy's actions
    | Bind 1 random sub for 2~3 turns
  | group:
  | condition: turn 4
-   | (1437:66) ロックオン
+   | (1437:66) Lock On
    | Do nothing
  | group:
-   | (1438:15) ヘイルストームシュート
+   | (1438:15) Hailstorm Shot
    | Deal 500% damage (5 hits, 100% each)

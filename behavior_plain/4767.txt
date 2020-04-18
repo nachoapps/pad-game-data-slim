@@ -9,9 +9,9 @@ Enable preempt if level 4
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESStatusShield(20:16931) -> ひれ伏しなさい…
+	[0] ESStatusShield(20:16931) -> Get on your knees...
 	Voids status ailments for 4 turns
-	[1] ESAbsorbCombo(67:16932) -> 私が かぶき町の女王よ
+	[1] ESAbsorbCombo(67:16932) -> I am the Queen of the Kabuki District
 	Absorb damage when combos <= 4 for 4 turns
 
 #3: ESBranchCounter(32:22) -> ESBranchCounter
@@ -20,7 +20,7 @@ Branch on counter >= 1, target rnd 7
 #4: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#5: ESDamageShield(74:16933) -> まとめてかかってきなさいよ
+#5: ESDamageShield(74:16933) -> I'll take you all on at once
 Reduce damage from all sources by 50% for 1 turn, Deal 95% damage
 
 #6: ESEndPath(36:26) -> ESEndPath
@@ -32,7 +32,7 @@ Branch on counter >= 2, target rnd 11
 #8: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#9: ESSkillDelay(89:16934) -> 遊び気分なら帰りなさい
+#9: ESSkillDelay(89:16934) -> Go home if you're just playing around
 Delay active skills by 1 turn
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -41,7 +41,7 @@ end_turn
 #11: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#12: ESAttackMultihit(15:16935) -> 女をなめるんじゃねェェェェ！！
+#12: ESAttackMultihit(15:16935) -> Don't underestimate women!
 Deal 120% damage (2 hits, 60% each)
 
 #13: ESEndPath(36:26) -> ESEndPath

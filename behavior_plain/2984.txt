@@ -9,16 +9,16 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESStatusShield(20:17550) -> 生命を司る神
+	[0] ESStatusShield(20:17550) -> The God Ruling Over Life
 	Voids status ailments for 999 turns
-	[1] ESVoidShield(71:17551) -> 創造の超神効
+	[1] ESVoidShield(71:17551) -> Godly Efficiency of Genesis
 	Void damage >= 15000000 for 999 turns
-	[2] ESSpinnersFixed(110:17552) -> 天沼矛
+	[2] ESSpinnersFixed(110:17552) -> Amenonuhoko
 	Specific orbs change every 1.5s for 99 turns
-	[3] ESAbsorbAttribute(53:17554) -> 天界の曙光
+	[3] ESAbsorbAttribute(53:17554) -> Dawn of the Celestial Realm
 	Absorb Water, Wood, Light, and Dark damage for 1 turn
 
-#3: ESAttackUPRemainingEnemies(17:17560) -> 天地神槍
+#3: ESAttackUPRemainingEnemies(17:17560) -> Almighty Divine Lance
 Condition: When < 50% HP, when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 200% for the next 999 turns
 
@@ -29,9 +29,9 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESAbsorbAttribute(53:17555) -> 天界の曙光
+	[0] ESAbsorbAttribute(53:17555) -> Dawn of the Celestial Realm
 	Absorb Fire, Wood, Light, and Dark damage for 1 turn
-	[1] ESDispel(6:17559) -> 黄泉比良坂
+	[1] ESDispel(6:17559) -> The Slope to the Realm of the Dead
 	Voids player buff effects
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -44,9 +44,9 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #10: SkillSet:
-	[0] ESAbsorbAttribute(53:17556) -> 天界の曙光
+	[0] ESAbsorbAttribute(53:17556) -> Dawn of the Celestial Realm
 	Absorb Fire, Water, Light, and Dark damage for 1 turn
-	[1] ESDispel(6:17559) -> 黄泉比良坂
+	[1] ESDispel(6:17559) -> The Slope to the Realm of the Dead
 	Voids player buff effects
 
 #11: ESEndPath(36:26) -> ESEndPath
@@ -59,9 +59,9 @@ Branch on flag & 4, target rnd 16
 flag SET 0b111
 
 #14: SkillSet:
-	[0] ESAbsorbAttribute(53:17557) -> 天界の曙光
+	[0] ESAbsorbAttribute(53:17557) -> Dawn of the Celestial Realm
 	Absorb Fire, Water, Wood, and Dark damage for 1 turn
-	[1] ESDispel(6:17559) -> 黄泉比良坂
+	[1] ESDispel(6:17559) -> The Slope to the Realm of the Dead
 	Voids player buff effects
 
 #15: ESEndPath(36:26) -> ESEndPath
@@ -74,9 +74,9 @@ Branch on flag & 8, target rnd 20
 flag SET 0b1111
 
 #18: SkillSet:
-	[0] ESAbsorbAttribute(53:17558) -> 天界の曙光
+	[0] ESAbsorbAttribute(53:17558) -> Dawn of the Celestial Realm
 	Absorb Fire, Water, Wood, and Light damage for 1 turn
-	[1] ESDispel(6:17559) -> 黄泉比良坂
+	[1] ESDispel(6:17559) -> The Slope to the Realm of the Dead
 	Voids player buff effects
 
 #19: ESEndPath(36:26) -> ESEndPath
@@ -86,9 +86,9 @@ end_turn
 flag UNSET 0b1111
 
 #21: SkillSet:
-	[0] ESAbsorbAttribute(53:17554) -> 天界の曙光
+	[0] ESAbsorbAttribute(53:17554) -> Dawn of the Celestial Realm
 	Absorb Water, Wood, Light, and Dark damage for 1 turn
-	[1] ESDispel(6:17559) -> 黄泉比良坂
+	[1] ESDispel(6:17559) -> The Slope to the Realm of the Dead
 	Voids player buff effects
 
 #22: ESEndPath(36:26) -> ESEndPath

@@ -1,4 +1,4 @@
-#103323 - 裏潜在たまドラ☆攻撃キラー
+#103323 - Alt. Latent TAMADRA (Attacker Killer)
 monster size: 4
 new AI: True
 start/max counter: 0
@@ -8,8 +8,8 @@ approved: False
 
 level: 5
  type: PREEMPT
- | (16784:74) 守るたまぁ～☆
+ | (16784:74) Protection TAMA!
  | Reduce damage from all sources by 99% for 99 turns
  group:
- | (16783:15) たまぁ～☆
+ | (16783:15) TAMA!
  | Deal 100% damage

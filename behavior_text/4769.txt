@@ -10,33 +10,33 @@ level: 1
  group:
  | group:
  | condition: turn 1
-   | (16926:68) 好きにやらせてもらうぜ
+   | (16926:68) I'll do what I want
    | Light skyfall +10% for 4 turns
  | group:
  | condition: turn 2
-   | (16927:92) 一筋縄ではいかん連中だな
+   | (16927:92) You lot are troublesome
    | Spawn 4 random Light orbs, Deal 90% damage
  | group:
  | condition: turn 3
-   | (16928:20) 手加減はしねェ
+   | (16928:20) I won't go easy on you
    | Voids status ailments for 2 turns
  | group:
-   | (16929:15) 決着つけさせてもらうぜ
+   | (16929:15) Let's end this
    | Deal 110% damage
 
 level: 4
  type: PREEMPT
- | (16926:68) 好きにやらせてもらうぜ
+ | (16926:68) I'll do what I want
  | Light skyfall +10% for 4 turns
  group:
  | group:
  | condition: turn 1
-   | (16927:92) 一筋縄ではいかん連中だな
+   | (16927:92) You lot are troublesome
    | Spawn 4 random Light orbs, Deal 90% damage
  | group:
  | condition: turn 2
-   | (16928:20) 手加減はしねェ
+   | (16928:20) I won't go easy on you
    | Voids status ailments for 2 turns
  | group:
-   | (16929:15) 決着つけさせてもらうぜ
+   | (16929:15) Let's end this
    | Deal 110% damage

@@ -7,19 +7,19 @@ counter increment: 0
 #1: ESPreemptive(49:3402) -> ESPreemptive
 Enable preempt if level 4
 
-#2: ESSkyfall(68:16926) -> 好きにやらせてもらうぜ
+#2: ESSkyfall(68:16926) -> I'll do what I want
 Condition: One-time use (ai:100 rnd:0) (cost: 4)
 Light skyfall +10% for 4 turns
 
-#3: ESRandomSpawn(92:16927) -> 一筋縄ではいかん連中だな
+#3: ESRandomSpawn(92:16927) -> You lot are troublesome
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Spawn 4 random Light orbs, Deal 90% damage
 
-#4: ESStatusShield(20:16928) -> 手加減はしねェ
+#4: ESStatusShield(20:16928) -> I won't go easy on you
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Voids status ailments for 2 turns
 
-#5: ESAttackMultihit(15:16929) -> 決着つけさせてもらうぜ
+#5: ESAttackMultihit(15:16929) -> Let's end this
 Deal 110% damage
 
 #6: ESEndPath(36:26) -> ESEndPath

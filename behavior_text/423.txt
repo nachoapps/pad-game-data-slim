@@ -8,10 +8,10 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17538:108) ダブル防御態勢・光
+ | (17538:108) Double Guard Stance-Light
  | Change all Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs
- | (17539:15) ひっかき攻撃
+ | (17539:15) Scratch Attack
  | Deal 200% damage (2 hits, 100% each)
  group:
- | (17539:15) ひっかき攻撃
+ | (17539:15) Scratch Attack
  | Deal 200% damage (2 hits, 100% each)
