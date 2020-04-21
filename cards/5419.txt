@@ -1,14 +1,14 @@
 #5419 Crimson Dracoblader of the Flame Twist, Akine
 HP: 5658 ATK: 2399 RCV: 479 LB: 15
-AWK: 52,21,28,45,51
+AWK: 52,21,28,45,51,51
 SAWK: 68,69,70
 
 # 14151/116 - Snake Princess's Dragon Roar
 Tags: ALL_ORBS_CONVERT
 Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes & Heal
-JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
-EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14157/138 - Flame Sword Spiral Strike
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME

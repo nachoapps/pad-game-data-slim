@@ -25959,9 +25959,9 @@ KR: For 3 turns, Light and Jammer orbs are more likely to appear by 15%
 # 10617/116 - Fragile Aurora​
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
-JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 10618/172 - 
 Tags: REMOVE_LOCK
@@ -25980,9 +25980,9 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 # 10620/173 - 
 Tags: VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: 
-JP: 1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 2ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: For 2 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 10636/116 - Mantra Reckoning
 Tags: ENHANCED_ATTACK
@@ -36774,16 +36774,16 @@ KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 # 14151/116 - Snake Princess's Dragon Roar
 Tags: ALL_ORBS_CONVERT
 Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes & Heal
-JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
-EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14152/191 - 
 Tags: 
 Game: 
-JP: 1ターンの間、ダメージ無効を貫通する
-EN: For 1 turn, bypass void damage shield effects
-KR: For 1 turn, bypass void damage shield effects
+JP: 2ターンの間、ダメージ無効を貫通する
+EN: For 2 turns, bypass void damage shield effects
+KR: For 2 turns, bypass void damage shield effects
 
 # 14153/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -43421,6 +43421,34 @@ JP: 1ターンの間、ドロップ操作時間が2倍
 EN: For 1 turn, 2x orb move time
 KR: For 1 turn, 2x orb move time
 
+# 16075/116 - あまねく光る心星
+Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
+Game: 全ドロップを水、光、闇ドロップに変化。 3ターンの間、受けるダメージを軽減。
+JP: 全ドロップを水、光、闇ドロップに変化。3ターンの間、受けるダメージを35％減少
+EN: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
+KR: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
+
+# 16076/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 16077/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを水、光、闇ドロップに変化
+EN: Change all orbs to Water, Light, and Dark orbs
+KR: Change all orbs to Water, Light, and Dark orbs
+
+# 16078/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 3ターンの間、受けるダメージを35％減少
+EN: For 3 turns, reduce damage taken by 35%
+KR: For 3 turns, reduce damage taken by 35%
+
 # 16129/116 - True Rudraksha
 Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
 Game: Changes the leftmost column to Fire Orbs; other allies' skills charged by 2 turns
@@ -45919,6 +45947,48 @@ Game:
 JP: 1ターンの間、ドロップ操作時間が1.5倍
 EN: For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x orb move time
+
+# 16866/116 - レイジングヒート
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を全回復。 8ターンの間、火と水ドロップがロック状態で落ちてくる。
+JP: 覚醒無効を全回復。8ターンの間、火と水ドロップがロック状態で落ちてくる
+EN: Remove all awoken skill binds; For 8 turns, Fire and Water orbs appear locked
+KR: Remove all awoken skill binds; For 8 turns, Fire and Water orbs appear locked
+
+# 16867/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を全回復
+EN: Remove all awoken skill binds
+KR: Remove all awoken skill binds
+
+# 16868/205 - 
+Tags: 
+Game: 
+JP: 8ターンの間、火と水ドロップがロック状態で落ちてくる
+EN: For 8 turns, Fire and Water orbs appear locked
+KR: For 8 turns, Fire and Water orbs appear locked
+
+# 16873/116 - フレイムスプリント
+Tags: REDUCE_SKILL_TURN,VOID_ATT_ABSORBS
+Game: 1ターンの間、属性吸収を無効化する。 自分以外の味方スキルが2ターン溜まる。
+JP: 1ターンの間、属性吸収を無効化する。自分以外の味方スキルが2ターンの溜まる
+EN: For 1 turn, bypass att. absorb shield effects; Charge all allies' skills by 2 turns
+KR: For 1 turn, bypass att. absorb shield effects; Charge all allies' skills by 2 turns
+
+# 16874/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 1ターンの間、属性吸収を無効化する
+EN: For 1 turn, bypass att. absorb shield effects
+KR: For 1 turn, bypass att. absorb shield effects
+
+# 16875/146 - 
+Tags: REDUCE_SKILL_TURN
+Game: 
+JP: 自分以外の味方スキルが2ターンの溜まる
+EN: Charge all allies' skills by 2 turns
+KR: Charge all allies' skills by 2 turns
 
 # 16881/116 - メタモルマジック
 Tags: LINE_ORBS_CONVERTER

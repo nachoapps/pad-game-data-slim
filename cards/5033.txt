@@ -6,9 +6,9 @@ SAWK: 54,55,46,47,21
 # 10617/116 - Fragile Aurora​
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
-JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 12202/138 - Peculiar Dark Spirit's Whirling Technique
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME

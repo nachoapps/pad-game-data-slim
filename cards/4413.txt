@@ -1,14 +1,14 @@
 #4413 Great Witch of the Ice Flowers, Reeche
 HP: 4395 ATK: 2450 RCV: 510 LB: 15
-AWK: 10,10,51,51,21,28,19,43,43
+AWK: 10,10,51,51,56,28,19,43,43
 SAWK: 54,55,46,47,21
 
 # 10617/116 - Fragile Aurora​
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
-JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 
 # 10624/138 - Ancient Water Spirit's Whirling Technique
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
