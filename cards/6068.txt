@@ -1,16 +1,16 @@
-#6068 坂田金時
+#6068 Kintoki Sakata
 HP: 4025 ATK: 1813 RCV: 426 LB: 25
 AWK: 10,10,56,28,19,19,48,58,58
 SAWK: 68,58,56
 
-# 16546/116 - I can't help but stand out.
+# 16546/116 - Gold will have to pick up the slack.
 Tags: REDUCE_DAMAGE,VOID_ATT_ABSORBS
 Game: Reduces damage for 8 turns; voids Attribute absorption for 2 turns
 JP: 8ターンの間、受けるダメージを30％減少。2ターンの間、属性吸収を無効化する
 EN: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects
 KR: For 8 turns, reduce damage taken by 30%; For 2 turns, bypass att. absorb shield effects
 
-# 16549/138 - I'll look after half the world for you!
+# 16549/138 - I'll take care of half the world. 
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 16.0, 1.0, 0.25]
 Game: 1.5x HP for Light Att., reduces damage when HP is 80% or less; ATK increases with 4+ combos, up to 16x

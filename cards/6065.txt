@@ -1,16 +1,16 @@
-#6065 徳川茂茂
+#6065 Shigeshige Tokugawa
 HP: 4223 ATK: 1793 RCV: 381 LB: 25
 AWK: 10,10,21,21,28,53,48,43,43
 SAWK: 48,43,54
 
-# 16536/116 - The Imperial Family has always worn white briefs.
+# 16536/116 - The Shogun family traditionally wears manly briefs.
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 300,000 damage on all enemies; changes all Orbs to Wood, Light & Heal Orbs
 JP: 敵全体に30万の固定ダメージ。全ドロップを木、光、回復ドロップに変化
 EN: Deal 300000 fixed damage to all enemies; Change all orbs to Wood, Light, and Heal orbs
 KR: Deal 300000 fixed damage to all enemies; Change all orbs to Wood, Light, and Heal orbs
 
-# 16540/138 - I'm the man that will protect this country where my friends live.
+# 16540/138 - The man who protects this country where my friends live!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 15.0, 1, 0.44]
 Game: 5x ATK & reduces damage with 2+ Wood combos; 3x ATK & reduces damage with 4+ linked Heal Orbs

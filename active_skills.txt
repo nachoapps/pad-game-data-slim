@@ -28035,7 +28035,7 @@ JP: 自分以外の味方スキルが1ターンの溜まる
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
-# 11395/116 - Don't make fun of Yorozuyaaa!
+# 11395/116 - Odd Jobs ain't to be underestimated!
 Tags: REDUCE_DAMAGE,ADD_COMBO
 Game: Adds 2 combos for 1 turn; vastly reduces damage for 2 turns
 JP: 1ターンの間、2コンボ加算される。2ターンの間、受けるダメージを75％減少
@@ -28056,7 +28056,7 @@ JP: 2ターンの間、受けるダメージを75％減少
 EN: For 2 turns, reduce damage taken by 75%
 KR: For 2 turns, reduce damage taken by 75%
 
-# 11401/116 - Gin's special move, activate!
+# 11401/116 - Gin-san's super-ultimate skill, activate!
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes all Orbs to Water & Light Orbs
 JP: 1ターンの間、1コンボ加算される。全ドロップを水と光ドロップに変化
@@ -28077,7 +28077,7 @@ JP: 全ドロップを水と光ドロップに変化
 EN: Change all orbs to Water and Light orbs
 KR: Change all orbs to Water and Light orbs
 
-# 11407/116 - Not enough Mayonnaise!
+# 11407/116 - We've run out of mayonnaise!!
 Tags: ALL_ORBS_CONVERT,VOID_SKYFALLS
 Game: No Skyfall Combos for 1 turn; changes all Orbs to Wood & Dark Orbs
 JP: 1ターンの間、落ちコンしなくなる。全ドロップを木と闇ドロップに変化
@@ -28098,7 +28098,7 @@ JP: 全ドロップを木と闇ドロップに変化
 EN: Change all orbs to Wood and Dark orbs
 KR: Change all orbs to Wood and Dark orbs
 
-# 11416/116 - I'm gonna purge all
+# 11416/116 - I'll take down all of you.
 Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
 Game: 4x ATK for Light & Dark Att. for 2 turns; other allies' skills charged by 1 turn
 JP: 2ターンの間、光と闇属性の攻撃力が4倍。自分以外の味方スキルが1ターンの溜まる
@@ -28119,7 +28119,7 @@ JP: 自分以外の味方スキルが1ターンの溜まる
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
-# 11425/116 - I just break stuff
+# 11425/116 - I will destroy this rotten world.
 Tags: REDUCE_DEFENSE,ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Voids enemies' DEF for 1 turn; removes Orb locks, changes Orbs to all Attributes
 JP: 1ターンの間、敵の防御力が100％下がる。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇ドロップに変化
@@ -28147,7 +28147,7 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 11435/116 - I'm gonna kill you
+# 11435/116 - I kill you
 Tags: VOID_DAMAGE_ABSORBS
 Game: Halves RCV for 2 turns; voids damage absorption for 2 turns
 JP: 2ターンの間、回復力が0.5倍。2ターンの間、ダメージ吸収を無効化する
@@ -28203,9 +28203,9 @@ JP: 全木と光ドロップをロック
 EN: Lock all Wood and Light orbs
 KR: Lock all Wood and Light orbs
 
-# 11453/116 - This is my sukonbuuuuuu!!
+# 11453/116 - That's my pickled seaweed!
 Tags: ORB_CONVERT,REMOVE_LOCK
-Game: Removes all Orb locks; changes Dark & Poison Orbs to Fire Orbs
+Game: Removes Orb locks; changes Dark & Poison Orbs to Fire Orbs
 JP: 全ドロップのロック状態を解除。闇、毒、猛毒ドロップを火ドロップに変化
 EN: Unlock all orbs; Change Dark, Poison, and Mortal Poison orbs to Fire orbs
 KR: Unlock all orbs; Change Dark, Poison, and Mortal Poison orbs to Fire orbs
@@ -28224,7 +28224,7 @@ JP: 闇、毒、猛毒ドロップを火ドロップに変化
 EN: Change Dark, Poison, and Mortal Poison orbs to Fire orbs
 KR: Change Dark, Poison, and Mortal Poison orbs to Fire orbs
 
-# 11459/116 - Here, Tamagoyaki
+# 11459/116 - Omelet.
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE
 Game: Inflicts 100x ATK Light Att. attack on 1 enemy, but halves HP; changes all Orbs to Wood, Light & Jammers
 JP: HPが50％減少。敵1体に攻撃力ｘ100倍の光属性攻撃。全ドロップを木、光、お邪魔ドロップに変化
@@ -28245,7 +28245,7 @@ JP: 全ドロップを木、光、お邪魔ドロップに変化
 EN: Change all orbs to Wood, Light, and Jammer orbs
 KR: Change all orbs to Wood, Light, and Jammer orbs
 
-# 11465/116 - I'm a hunter, a love hunter
+# 11465/116 - I'm a hunter...of love.
 Tags: HEAL
 Game: Recovers 50% of max HP; creates 6 Light Orbs at random
 JP: 最大HP50％分回復。光ドロップを6個生成
@@ -28266,7 +28266,7 @@ JP: 光ドロップを6個生成
 EN: Create 6 Light orbs
 KR: Create 6 Light orbs
 
-# 11469/116 - My name isn't Wig, it's Katsura!!
+# 11469/116 - It's not Zura. It's Katsura! 
 Tags: LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Removes Orb locks; changes the leftmost column to Bombs & the rightmost to Water Orbs
 JP: 全ドロップのロック状態を解除。最左端を爆弾に、最右端を水ドロップに変化
@@ -28287,14 +28287,14 @@ JP: 最左端を爆弾に、最右端を水ドロップに変化
 EN: Change the far left column to Bomb orbs and change the far right column to Water orbs
 KR: Change the far left column to Bomb orbs and change the far right column to Water orbs
 
-# 11475/179 - I'm a pleasure pirate
+# 11475/179 - We're Kai-rates!
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 30% of max HP for 3 turns; reduces bind status (incl. Awoken) by 7 turns
 JP: 3ターンの間、最大HPの30％分回復。バインドと覚醒無効を7ターン回復
 EN: For 3 turns, recover 30% of max HP; Reduce binds and awoken skill binds by 7 turns
 KR: For 3 turns, recover 30% of max HP; Reduce binds and awoken skill binds by 7 turns
 
-# 11479/116 - I'll protect you!
+# 11479/116 - I'll protect you, I promise.
 Tags: REDUCE_DAMAGE,ORB_REFRESH
 Game: Reduces damage for 3 turns; replaces all Orbs
 JP: 3ターンの間、受けるダメージを35％減少。ランダムでドロップを入れ替える
@@ -28315,7 +28315,7 @@ JP: ランダムでドロップを入れ替える
 EN: Replace all orbs
 KR: Replace all orbs
 
-# 11485/116 - Hey!!
+# 11485/116 - Haaa!!
 Tags: RECOVER_BIND,EXTENDS_TIME
 Game: Reduces bind status by 5 turns; Orb move time +5 seconds for 5 turns
 JP: バインドを5ターン回復。5ターンの間、ドロップ操作時間が5秒に延長
@@ -28338,12 +28338,12 @@ KR: For 5 turns, increase orb move time by 5 seconds
 
 # 11491/71 - Woof
 Tags: ALL_ORBS_CONVERT
-Game: Changes all Orbs to Fire, Wood & Jammers
+Game: Changes all Orbs to Jammers, Fire & Wood Orbs
 JP: 全ドロップを火、木、お邪魔ドロップに変化
 EN: Change all orbs to Fire, Wood, and Jammer orbs
 KR: Change all orbs to Fire, Wood, and Jammer orbs
 
-# 11495/116 - No more, no less!
+# 11495/116 - Nothing more, nothing less.
 Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: Inflicts 49 damage on 1 enemy; creates 3 Bombs at random
 JP: 敵1体に49の固定ダメージ。爆弾ドロップを3個生成
@@ -28364,9 +28364,9 @@ JP: 爆弾ドロップを3個生成
 EN: Create 3 Bomb orbs
 KR: Create 3 Bomb orbs
 
-# 11498/116 - Sacred Lotus PAD Crew
+# 11498/116 - Renho Army PAD Squadron
 Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
-Game: Inflicts 20 damage on 1 enemy five times; changes Orbs to all Attributes
+Game: Inflicts 20 damage on 1 enemy five times; changes all Orbs to all Attributes
 JP: 敵1体に20ダメージｘ5回。全ドロップを火、水、木、光、闇ドロップに変化
 EN: Deal 20 damage to an enemy 5 times; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Deal 20 damage to an enemy 5 times; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -28385,7 +28385,7 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 11504/116 - What does sukombu taste like?
+# 11504/116 - I wonder what pickled seaweed tastes like.
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire, Light & Heal Orbs; 1.5x RCV for 1 turn
 JP: 全ドロップを火、光、回復ドロップに変化。1ターンの間、回復力が1.5倍
@@ -28406,7 +28406,7 @@ JP: 1ターンの間、回復力が1.5倍
 EN: For 1 turn, 1.5x RCV
 KR: For 1 turn, 1.5x RCV
 
-# 11510/116 - Those shades are a part of me
+# 11510/116 - These sunglasses are a part of my face.
 Tags: VOID_DAMAGE,ORB_LOCK
 Game: Voids Light Att. damage for 1 turn; locks Orbs of all Attributes & Heal
 JP: 1ターンの間、光属性の攻撃を無効化。全火、水、木、光、闇、回復ドロップをロック
@@ -44891,7 +44891,7 @@ JP: 全光ドロップをロック
 EN: Lock all Light orbs
 KR: Lock all Light orbs
 
-# 16513/116 - Live beautifully until the very end.
+# 16513/116 - Why don't you live your life beautifully to the end?
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
 Game: Fully recovers Awoken Skill bind status; changes the 2nd row from the top to Water Orbs
 JP: 覚醒無効を全回復。上から2行目を水ドロップに変化
@@ -44912,7 +44912,7 @@ JP: 上から2行目を水ドロップに変化
 EN: Change the 2nd row from the top to Water orbs
 KR: Change the 2nd row from the top to Water orbs
 
-# 16520/116 - If we're going to press them, now's the time.
+# 16520/116 - Now's the time for an all-out attack.
 Tags: ALL_ORBS_CONVERT,SUICIDE
 Game: Halves HP, pierce through enemy's damage void for  1 turn; changes all Orbs to all Attributes & Heal
 JP: HPが50％減少。1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
@@ -44940,7 +44940,7 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 16529/116 - Don't let yourself die until I kill you.
+# 16529/116 - I won't let any of you die until I kill you!
 Tags: ALL_ORBS_CONVERT
 Game: Halves RCV for 2 turns; changes all Orbs to Fire, Wood, Light & Dark Orbs
 JP: 2ターンの間、回復力が0.5倍。全ドロップを火、木、光、闇ドロップに変化
@@ -44961,7 +44961,7 @@ JP: 全ドロップを火、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Wood, Light, and Dark orbs
 
-# 16536/116 - The Imperial Family has always worn white briefs.
+# 16536/116 - The Shogun family traditionally wears manly briefs.
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
 Game: Inflicts 300,000 damage on all enemies; changes all Orbs to Wood, Light & Heal Orbs
 JP: 敵全体に30万の固定ダメージ。全ドロップを木、光、回復ドロップに変化
@@ -44989,7 +44989,7 @@ JP: 全ドロップを木、光、回復ドロップに変化
 EN: Change all orbs to Wood, Light, and Heal orbs
 KR: Change all orbs to Wood, Light, and Heal orbs
 
-# 16546/116 - I can't help but stand out.
+# 16546/116 - Gold will have to pick up the slack.
 Tags: REDUCE_DAMAGE,VOID_ATT_ABSORBS
 Game: Reduces damage for 8 turns; voids Attribute absorption for 2 turns
 JP: 8ターンの間、受けるダメージを30％減少。2ターンの間、属性吸収を無効化する
@@ -45010,7 +45010,7 @@ JP: 2ターンの間、属性吸収を無効化する
 EN: For 2 turns, bypass att. absorb shield effects
 KR: For 2 turns, bypass att. absorb shield effects
 
-# 16558/116 - The moon will never set on tonight.
+# 16558/116 - This moon will never fall.
 Tags: ADD_COMBO
 Game: Creates 3 Light and Dark Orbs each at random; adds 1 combo for 1 turn
 JP: ランダムで光と闇を3個ずつ生成。1ターンの間、1コンボ加算される

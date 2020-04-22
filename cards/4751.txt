@@ -1,16 +1,16 @@
-#4751 土方十四郎
+#4751 Toushirou Hijikata
 HP: 4213 ATK: 2400 RCV: 13 LB: 25
 AWK: 10,10,21,28,19,53,43,46,46
 SAWK: 43,21,54
 
-# 11407/116 - Not enough Mayonnaise!
+# 11407/116 - We've run out of mayonnaise!!
 Tags: ALL_ORBS_CONVERT,VOID_SKYFALLS
 Game: No Skyfall Combos for 1 turn; changes all Orbs to Wood & Dark Orbs
 JP: 1ターンの間、落ちコンしなくなる。全ドロップを木と闇ドロップに変化
 EN: For 1 turn, no skyfall; Change all orbs to Wood and Dark orbs
 KR: For 1 turn, no skyfall; Change all orbs to Wood and Dark orbs
 
-# 11410/138 - It's the Shisengumiiiii!!
+# 11410/138 - Our name is the Shinsengumi!!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 32.0, 1.0, 0.25]
 Game: [No Skyfall Combos], 4x ATK & reduces dmg when Wd & Dk attack; up to 8x ATK when 8 Orbs or less remain on board

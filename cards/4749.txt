@@ -1,16 +1,16 @@
-#4749 坂田銀時＆アメノミナカヌシ衣装
+#4749 Gintoki Sakata in Amenominakanushi Costume
 HP: 3878 ATK: 2333 RCV: 150 LB: 25
 AWK: 52,56,56,28,19,25,25,48,63
 SAWK: 48,44,55
 
-# 11401/116 - Gin's special move, activate!
+# 11401/116 - Gin-san's super-ultimate skill, activate!
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Adds 1 combo for 1 turn; changes all Orbs to Water & Light Orbs
 JP: 1ターンの間、1コンボ加算される。全ドロップを水と光ドロップに変化
 EN: For 1 turn, increase combo count by 1; Change all orbs to Water and Light orbs
 KR: For 1 turn, increase combo count by 1; Change all orbs to Water and Light orbs
 
-# 11404/138 - Drop deeeead!!
+# 11404/138 - Go to hell!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0.0]
 Game: 2x HP & 4.5x ATK for Water & Light Att.; 4x ATK with 5+ linked Water or Light Orbs

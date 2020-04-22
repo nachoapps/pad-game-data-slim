@@ -1,16 +1,16 @@
-#4781 橙龍契士・サリア＆神楽衣装
+#4781 Orange Dragonbound, Saria in Kagura Costume
 HP: 3240 ATK: 1363 RCV: 336 LB: 30
 AWK: 10,10,25,25,25,25,21,28,50
 SAWK: 70,56,48
 
-# 11504/116 - What does sukombu taste like?
+# 11504/116 - I wonder what pickled seaweed tastes like.
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT
 Game: Changes all Orbs to Fire, Light & Heal Orbs; 1.5x RCV for 1 turn
 JP: 全ドロップを火、光、回復ドロップに変化。1ターンの間、回復力が1.5倍
 EN: Change all orbs to Fire, Light, and Heal orbs; For 1 turn, 1.5x RCV
 KR: Change all orbs to Fire, Light, and Heal orbs; For 1 turn, 1.5x RCV
 
-# 11507/138 - I'm part of the Yorozuya! Kinda...
+# 11507/138 - Odd Jobs Saria, reporting in... teehee!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 8.0, 1.0, 0.0]
 Game: 2x HP & ATK for Light Att.; 4x ATK with 6+ linked Light Orbs

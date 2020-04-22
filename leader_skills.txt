@@ -48054,7 +48054,7 @@ JP: ドロップ操作時間を2秒延長。
 EN: Increase orb movement time by 2 seconds
 KR: Increase orb movement time by 2 seconds
 
-# 11398/138 - What I protect won't change even once!
+# 11398/138 - What I protect has never changed!
 Tags: ENHANCED_ATK_RCV
 Stats: [1, 30.0, 3.0, 0]
 Game: ATK increases with 8+ combos, up to 10x; 3x ATK & RCV when skills used
@@ -48078,7 +48078,7 @@ JP: スキル使用時、攻撃力と回復力が3倍。
 EN: 3x ATK & RCV on the turn a skill is used
 KR: 3x ATK & RCV on the turn a skill is used
 
-# 11404/138 - Drop deeeead!!
+# 11404/138 - Go to hell!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 18.0, 1.0, 0.0]
 Game: 2x HP & 4.5x ATK for Water & Light Att.; 4x ATK with 5+ linked Water or Light Orbs
@@ -48102,7 +48102,7 @@ JP: 水か光を5個以上つなげて消すと攻撃力が4倍。
 EN: 4x ATK when matching 5 or more connected Water or Light orbs
 KR: 4x ATK when matching 5 or more connected Water or Light orbs
 
-# 11410/138 - It's the Shisengumiiiii!!
+# 11410/138 - Our name is the Shinsengumi!!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 32.0, 1.0, 0.25]
 Game: [No Skyfall Combos], 4x ATK & reduces dmg when Wd & Dk attack; up to 8x ATK when 8 Orbs or less remain on board
@@ -48126,7 +48126,7 @@ JP: 木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％�
 EN: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 KR: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
-# 11413/138 - I'll show you a real fight
+# 11413/138 - I'll show you what real fighting is.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1, 0.44]
 Game: 4x ATK & reduces damage with 6+ linked Wood Orbs; 4x ATK & reduces damage when Wood & Dark attack at once
@@ -48150,7 +48150,7 @@ JP: 木、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％�
 EN: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 KR: 4x ATK and reduce damage taken by 25% when matching Wood and Dark
 
-# 11419/138 - Just die already
+# 11419/138 - Die.
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 14.0, 2.0, 0]
 Game: 2x to all stats, but unable to erase 4 Orbs or less; 7x ATK & adds 3 combos with 6+ linked Light Orbs
@@ -48174,7 +48174,7 @@ JP: 光を6個以上つなげて消しと攻撃力が7倍、3コンボ加算。
 EN: 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
 KR: 7x ATK and increase combo by 3 when matching 6 or more connected Light orbs at once
 
-# 11422/138 - I only treat Hijakata with contempt!
+# 11422/138 - I'm treating you with contempt, Hijikata!
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 16.0, 4.0, 0.25]
 Game: 1.5x HP and 4x ATK & RCV for Attacker & Devil Types; 4x ATK & reduces damage when Light & Dark attack at once
@@ -48198,7 +48198,7 @@ JP: 光、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％�
 EN: 4x ATK and reduce damage taken by 25% when matching Light and Dark
 KR: 4x ATK and reduce damage taken by 25% when matching Light and Dark
 
-# 11429/138 - I'll be the one to pass judgment
+# 11429/138 - You will be judged by me.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 24.0, 1, 0.25]
 Game: 4x ATK & reduces damage when 4+ Att. attack at once; 6x ATK with 4+ linked Orbs
@@ -48222,10 +48222,10 @@ JP: を4個以上つなげて消すと攻撃力が6倍。
 EN: 6x ATK when matching 4 or more connected orbs
 KR: 6x ATK when matching 4 or more connected orbs
 
-# 11432/138 - Sleep tight in hell
+# 11432/138 - Have a nice nap in hell.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 10.0, 1.0, 0.5]
-Game: ATK increases with 4+ combos, up to 10x; halves Fire, Light & Dark Att. Damage
+Game: ATK increases with 4+ combos, up to 10x; halves Fire, Light & Dark Att. damage
 JP: 4コンボ以上で攻撃力が5倍、最大9コンボで10倍。火、光、闇属性の敵からのダメージを50％減少。
 EN: 5x ATK when 4 or more combos up to 10x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
 KR: 5x ATK when 4 or more combos up to 10x at 9 combos; Reduce damage taken from Fire, Light, and Dark Att. by 50%
@@ -48246,7 +48246,7 @@ JP: 火、光、闇属性の敵からのダメージを50％減少。
 EN: Reduce damage taken from Fire, Light, and Dark Att. by 50%
 KR: Reduce damage taken from Fire, Light, and Dark Att. by 50%
 
-# 11438/138 - No one interferes with my hobby
+# 11438/138 - I won't let anyone ruin my fun.
 Tags: ENHANCED_ATK,EXTRA_COMBOS
 Stats: [1.0, 21.0, 1.0, 0.0, +1]
 Game: 6x ATK for Fire Att., adds 1 combo when Fr & Dk attack;  2.5x ATK with 2 Fire combos, 3.5x ATK with 3+ combos
@@ -48270,7 +48270,7 @@ JP: 火の2コンボで攻撃力が2.5倍、最大3コンボで3.5倍。
 EN: 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
 KR: 2.5x ATK when matching 2 Fire combos, up to 3.5x at 3 Fire combos
 
-# 11441/138 - I pay my respects with a smile when killing
+# 11441/138 - I pay my respects with a smile when killing.
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [1.5, 21.0, 1.5, 0.0, +1]
 Game: 1.5x to all stats for Fire Att., 4x ATK with 7+ combos; 3.5x ATK & adds 1 combo when 5+ Att. (4+Heal) attack
@@ -48302,7 +48302,7 @@ JP: 5色(4色+回復)以上同時攻撃で攻撃力が3.5倍、1コンボ加算�
 EN: 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
 KR: 3.5x ATK and increase combo by 1 when matching 5 or more colors (4+heal)
 
-# 11450/138 - I'm Shinpachi Shimura of the Yorozuya
+# 11450/138 - I am Odd Jobs' Shimura Shinpachi.
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 6.0, 1.5, 0.0]
 Game: 3x ATK & 1.5x RCV for Wood & Light Att.; 2x ATK with 6+ linked Wood or Light Orbs
@@ -48326,7 +48326,7 @@ JP: 木か光を6個以上つなげて消すと攻撃力が2倍。
 EN: 2x ATK when matching 6 or more connected Wood or Light orbs
 KR: 2x ATK when matching 6 or more connected Wood or Light orbs
 
-# 11456/138 - I'm Kagura, born on this Earth!
+# 11456/138 - I'm the Kagura who was born on this planet.
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 5.25, 1.0, 0.0]
 Game: 2x HP & 3.5x ATK for Fire & Light Att.; 1.5x ATK with 2+ Fire combos
@@ -48350,7 +48350,7 @@ JP: 火の2コンボ以上で攻撃力が1.5倍。
 EN: 1.5x ATK when matching 2+ Fire combos
 KR: 1.5x ATK when matching 2+ Fire combos
 
-# 11462/138 - This is our town
+# 11462/138 - You're in our town.
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 6.0, 2.0, 0.0]
 Game: 2x HP & RCV for Light Att.; 3x ATK with 1 Jammer combo, 6x ATK with 2+ combos
@@ -48374,7 +48374,7 @@ JP: お邪魔の1コンボで攻撃力が3倍、最大2コンボで6倍。
 EN: 3x ATK when matching 1 Jammer combos, up to 6x at 2 Jammer combos
 KR: 3x ATK when matching 1 Jammer combos, up to 6x at 2 Jammer combos
 
-# 11468/129 - Follow your own path
+# 11468/129 - Choose your own true path and push forward!
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 1.5, 1.5, 0.5]
 Game: 1.5x to all stats for Light & Dark Att.; halves non-Light Att. damage
@@ -48382,7 +48382,7 @@ JP: 光と闇属性の全パラメータが1.5倍。火、水、木、闇属性�
 EN: 1.5x all stats for Light and Dark Att.; Reduce damage taken from Fire, Water, Wood, and Dark Att. by 50%
 KR: 1.5x all stats for Light and Dark Att.; Reduce damage taken from Fire, Water, Wood, and Dark Att. by 50%
 
-# 11472/138 - The friends you're looking for...are right here
+# 11472/138 - He has a friend right here!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 6.0, 1.0, 0.0]
 Game: 2x HP & ATK for Water & Wood Att.; 3x ATK for Att. erasing 5 Orbs including enhanced
@@ -48406,10 +48406,10 @@ JP: 強化ドロップを含めてを5個消した属性の攻撃力が3倍。
 EN: 3x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 KR: 3x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
-# 11476/138 - Moving people military or ideologically is profitable
+# 11476/138 - It's not military might and ideology that motivates people...it's profit!
 Tags: ENHANCED_ATK,COIN
 Stats: [1.0, 2.0, 1.0, 0.0]
-Game: 2.5x Coins when entering a dungeon as a Leader; 2x ATK for Balanced Type
+Game: 2.5x coins when entering a dungeon as a Leader; 2x ATK for Balanced Type
 JP: 入手コインｘ2.5倍。バランスタイプの攻撃力が2倍。
 EN: 2.5x Coin Drop rate; 2x ATK for Balanced type
 KR: 2.5x Coin Drop rate; 2x ATK for Balanced type
@@ -48430,7 +48430,7 @@ JP: バランスタイプの攻撃力が2倍。
 EN: 2x ATK for Balanced type
 KR: 2x ATK for Balanced type
 
-# 11482/138 - I swore on my lost left eye
+# 11482/138 - I made a vow on this left eye I lost...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 7.5, 1.0, 0.25]
 Game: 2.5x ATK for Dark & Light Att.; 3x ATK & reduces damage when 3+ Att. attack at once
@@ -48454,10 +48454,10 @@ JP: 3色以上同時攻撃で攻撃力が3倍、受けるダメージを25％減
 EN: 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 KR: 3x ATK and reduce damage taken by 25% when matching 3 or more colors
 
-# 11488/138 - Those are combos, Katsura
+# 11488/138 - Make some Combos, Katsura-san.
 Tags: ENHANCED_ATK,BOARD_CHANGE_7X6
 Stats: [1, 5.0, 1, 0]
-Game: [7x6 board]; ATK increases with 5+ combos, up to 3x
+Game: [7x6 board]; ATK increases with 3+ combos, up to 5x
 JP: 【7×6マス】3コンボ以上で攻撃力が1.5倍、最大10コンボで5倍。
 EN: [Board becomes 7x6] 1.5x ATK when 3 or more combos up to 5x at 10 combos
 KR: [Board becomes 7x6] 1.5x ATK when 3 or more combos up to 5x at 10 combos
@@ -48478,7 +48478,7 @@ JP: 3コンボ以上で攻撃力が1.5倍、最大10コンボで5倍。
 EN: 1.5x ATK when 3 or more combos up to 5x at 10 combos
 KR: 1.5x ATK when 3 or more combos up to 5x at 10 combos
 
-# 11492/138 - Yorozuya's Watchdog
+# 11492/138 - Odd Jobs' Watchdog
 Tags: ENHANCED_ATK,ADDITIONAL_ATTACK
 Stats: [1, 4.0, 1, 0]
 Game: 4x ATK with 5+ linked Wood Orbs or Jammers; bonus attack equal to 30x ATK when matching Orbs
@@ -48502,7 +48502,7 @@ JP: ドロップ消した時、攻撃力ｘ30倍の追い打ち。
 EN: 30x ATK additional damage when matching orbs
 KR: 30x ATK additional damage when matching orbs
 
-# 11501/138 - Mercenary Tribe of the Phantom
+# 11501/138 - Legendary mercenary tribe
 Tags: ENHANCED_ATK
 Stats: [1, 16.0, 1, 0]
 Game: 4x ATK with 5+ linked Orbs; 4x ATK when 5 Att. attack at once
@@ -48526,7 +48526,7 @@ JP: 5色以上同時攻撃で攻撃力が4倍。
 EN: 4x ATK when matching 5 or more colors
 KR: 4x ATK when matching 5 or more colors
 
-# 11507/138 - I'm part of the Yorozuya! Kinda...
+# 11507/138 - Odd Jobs Saria, reporting in... teehee!
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 8.0, 1.0, 0.0]
 Game: 2x HP & ATK for Light Att.; 4x ATK with 6+ linked Light Orbs
@@ -48550,7 +48550,7 @@ JP: 光を6個以上つなげて消すと攻撃力が4倍。
 EN: 4x ATK when matching 6 or more connected Light orbs
 KR: 4x ATK when matching 6 or more connected Light orbs
 
-# 11513/138 - I'm already bored...
+# 11513/138 - I'm starting to feel dissatisfied again.
 Tags: ENHANCED_ATK,RESOLVE
 Stats: [0.5, 4.5, 1, 0]
 Game: 4.5x ATK, but halves overall HP; may survive when HP is reduced to 0
@@ -48574,21 +48574,21 @@ JP: HPが0になる攻撃を受けてもふんばることがある(HPが50%以�
 EN: May survive when HP is reduced to 0 (HP>50%)
 KR: May survive when HP is reduced to 0 (HP>50%)
 
-# 11516/129 - Gintama Collab Exchangeable Monster
+# 11516/129 - Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for various other monsters through [Monster Exchange]
 JP: モンスター交換所で色々なモンスターと交換できる。
 EN: You can exchange this monster for various other monsters through [Monster Exchange]
-KR: You can exchange this monster for various other monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 여러가지 몬스터와 교환 가능
 
-# 11517/129 - Gintama Collab Exchangeable Monster
+# 11517/129 - Collab Exchangeable Monster
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
 Game: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
 JP: モンスター交換所で 【銀魂コラボ】モンスターと交換できる。
 EN: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
-KR: You can exchange this monster for Gintama Collab monsters through [Monster Exchange]
+KR: 몬스터 교환소에서 [은혼 콜라보] 몬스터와 교환 가능
 
 # 11521/138 - Ancient Shadow Spirit's Magic Seal
 Tags: ENHANCED_ATK,EGG
@@ -69527,7 +69527,7 @@ JP: 3色以上同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and increase combo by 1 when matching 3 or more colors
 KR: 4x ATK and increase combo by 1 when matching 3 or more colors
 
-# 16516/138 - We just do our own thing and fight our own war.
+# 16516/138 - You fight your war. We'll fight ours.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 15.0, 1, 0.35]
 Game: 15x ATK & reduces damage with 2+ Water combos; adds 2 combos & inflicts 1 dmg with 6+ linked Water Orbs
@@ -69567,7 +69567,7 @@ JP: 3色以上同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching 3 or more colors
 KR: increase combo by 1 when matching 3 or more colors
 
-# 16525/138 - Some things you have to be a deadbeat to understand.
+# 16525/138 - There are some things only good-for-nothings can understand.
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 18.0, 1.0, 0.25]
 Game: 2x HP for Dark Att., 9x ATK when HP is 50% or less; 2x ATK & reduces damage when 4+ Att. attack at once
@@ -69599,7 +69599,7 @@ JP: 4色以上同時攻撃で攻撃力が2倍、受けるダメージを25％減
 EN: 2x ATK and reduce damage taken by 25% when matching 4 or more colors
 KR: 2x ATK and reduce damage taken by 25% when matching 4 or more colors
 
-# 16532/138 - I'll show you what a real member of the Yato Tribe looks like!
+# 16532/138 - Let us show you what a real Yato is like!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1.0, 16.0, 1.0, 0.35]
 Game: 8x ATK for Fire Att., reduces damage when HP is 50% or more; 2x ATK & adds 1 combo with 4+ linked Fire Orbs
@@ -69631,7 +69631,7 @@ JP: 火を4個以上つなげて消しと攻撃力が2倍、1コンボ加算。
 EN: 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
 KR: 2x ATK and increase combo by 1 when matching 4 or more connected Fire orbs at once
 
-# 16540/138 - I'm the man that will protect this country where my friends live.
+# 16540/138 - The man who protects this country where my friends live!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 15.0, 1, 0.44]
 Game: 5x ATK & reduces damage with 2+ Wood combos; 3x ATK & reduces damage with 4+ linked Heal Orbs
@@ -69655,7 +69655,7 @@ JP: 回復を4個以上つなげて消すと攻撃力が3倍、受けるダメ�
 EN: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
 KR: 3x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
 
-# 16543/138 - Thats what friends are for.
+# 16543/138 - Is that not what "buddies" are?
 Tags: ENHANCED_ATK,EXP
 Stats: [1, 16.0, 1, 0]
 Game: 1.8x Rank EXP when entering a dungeon as a Leader;  12x ATK with 2 Wood combos, 16x ATK with 3+ combos
@@ -69679,7 +69679,7 @@ JP: 木の2コンボで攻撃力が12倍、最大3コンボで16倍。
 EN: 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
 KR: 12x ATK when matching 2 Wood combos, up to 16x at 3 Wood combos
 
-# 16549/138 - I'll look after half the world for you!
+# 16549/138 - I'll take care of half the world. 
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 16.0, 1.0, 0.25]
 Game: 1.5x HP for Light Att., reduces damage when HP is 80% or less; ATK increases with 4+ combos, up to 16x
@@ -69711,7 +69711,7 @@ JP: 4コンボ以上で攻撃力が10倍、最大7コンボで16倍。
 EN: 10x ATK when 4 or more combos up to 16x at 7 combos
 KR: 10x ATK when 4 or more combos up to 16x at 7 combos
 
-# 16553/138 - I'm your friendly Yorozuya that'll do anything.
+# 16553/138 - Odd Jobs Kin-chan will do anything.
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 18.0, 2.0, 0.0]
 Game: 2x to all stats for Light Att., 3x ATK when skills used; 3x ATK with 6+ linked Lt Orbs, adds 2 combos with 9+ Orbs
@@ -69751,7 +69751,7 @@ JP: 光を9個以上つなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 9 or more connected Light orbs at once
 KR: Increase combo by 2 when matching 9 or more connected Light orbs at once
 
-# 16561/138 - Tsukuyo, Guardian of the Sun is here.
+# 16561/138 - The sun's guardian, Tsukuyo, is your opponent
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 2.0, 0.5]
 Game: [Orb move time: 8 sec], halves dmg when Lt & Dk attack; 9x ATK with 7+ combos, 2x ATK & RCV for Lt & Dk Att.

@@ -1,16 +1,16 @@
-#6071 月詠
+#6071 Tsukuyo
 HP: 2645 ATK: 2058 RCV: 628 LB: 30
 AWK: 21,21,28,46,46,46,43,43,60
 SAWK: 48,43,52
 
-# 16558/116 - The moon will never set on tonight.
+# 16558/116 - This moon will never fall.
 Tags: ADD_COMBO
 Game: Creates 3 Light and Dark Orbs each at random; adds 1 combo for 1 turn
 JP: ランダムで光と闇を3個ずつ生成。1ターンの間、1コンボ加算される
 EN: Create 3 Light and Dark orbs; For 1 turn, increase combo count by 1
 KR: Create 3 Light and Dark orbs; For 1 turn, increase combo count by 1
 
-# 16561/138 - Tsukuyo, Guardian of the Sun is here.
+# 16561/138 - The sun's guardian, Tsukuyo, is your opponent
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 2.0, 0.5]
 Game: [Orb move time: 8 sec], halves dmg when Lt & Dk attack; 9x ATK with 7+ combos, 2x ATK & RCV for Lt & Dk Att.

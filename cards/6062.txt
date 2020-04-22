@@ -1,16 +1,16 @@
-#6062 白夜叉・坂田銀時
+#6062 White Yaksha, Gintoki Sakata
 HP: 3378 ATK: 2833 RCV: 0 LB: 25
 AWK: 52,56,21,28,43,43,43,60,63
 SAWK: 48,44,55
 
-# 16513/116 - Live beautifully until the very end.
+# 16513/116 - Why don't you live your life beautifully to the end?
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY
 Game: Fully recovers Awoken Skill bind status; changes the 2nd row from the top to Water Orbs
 JP: 覚醒無効を全回復。上から2行目を水ドロップに変化
 EN: Remove all awoken skill binds; Change the 2nd row from the top to Water orbs
 KR: Remove all awoken skill binds; Change the 2nd row from the top to Water orbs
 
-# 16516/138 - We just do our own thing and fight our own war.
+# 16516/138 - You fight your war. We'll fight ours.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 15.0, 1, 0.35]
 Game: 15x ATK & reduces damage with 2+ Water combos; adds 2 combos & inflicts 1 dmg with 6+ linked Water Orbs
