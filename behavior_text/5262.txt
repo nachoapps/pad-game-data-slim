@@ -8,8 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (13282:20) You will face me.
- | Voids status ailments for 5 turns
+unknown ES
  group:
  | group:
    | condition: 33% chance

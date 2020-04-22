@@ -1,0 +1,24 @@
+#6145 - ブラムガー
+monster size: 4
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 6145
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17397:89) 炎龍の雄叫び
+ | Delay active skills by 6 turns
+ group:
+ | group:
+ | condition: turns 1-5
+   | (17398:15) 飛炎爪牙
+   | Deal 80% damage (4 hits, 20% each)
+ | group:
+ | condition: turn 6
+   | (17399:19) 激しく炎が燃え上がった
+   | Increase damage to 300% for the next 999 turns
+ | group:
+   | (17398:15) 飛炎爪牙
+   | Deal 80% damage (4 hits, 20% each)

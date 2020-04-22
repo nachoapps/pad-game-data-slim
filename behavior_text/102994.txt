@@ -1,0 +1,29 @@
+#102994 - 裏魔伯爵・ロノウェ
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+monster_id: 102994
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (16633:118) 悪魔半減
+ | Reduce damage from Devil types by 50%
+ | (17111:73) 根性
+ | Survive attacks with 1 HP when HP > 75%
+ type: PREEMPT
+ | (17104:83) 騒曲のメロディー + 悪魔の契約
+ | Change all orbs to Wood, Heal, and Mortal Poison + Lock all orbs
+ group:
+ | group:
+ | condition: turn 1
+   | (16620:83) 授かりし富と名声 + 輝かしき人生
+   | Movetime 150% for 2 turns + Locked random skyfall +100% for 2 turns
+ | group:
+ | condition: turn 2
+   | (16623:105) 失われた余命
+   | RCV 0% for 1 turn
+ | group:
+   | (16624:15) 契約の終わり
+   | Deal 800% damage (8 hits, 100% each)

@@ -1,0 +1,44 @@
+#101660 - 裏焦炎神・セト
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 101660
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (17161:83) アルド・アル・マラド・ディファー + カフル・マタル + ハジュマ・ムアーキサ・イクティラーフ
+ | Voids status ailments for 999 turns + Locked random skyfall +25% for 99 turns + Absorb damage when combos <= 10 for 1 turn
+ group:
+ | group:
+ | condition: when hp is full
+   | group:
+   | condition: turn 1 while HP > 49
+     | (9759:39) タフゼィール・ワクト
+     | Movetime -4s for 4 turns
+   | group:
+     | (9769:15) アーセファ・ハムサ・セイフ
+     | Deal 500% damage (5 hits, 100% each)
+ | group:
+ | condition: hp <= 99
+   | condition: 25% chance
+   | (9763:83) イトネーン・ナール・セイフ + クンバラ・インフィジャール
+   | Change the 2nd and 5th columns to Fire orbs + Spawn 5 random Bomb orbs, Deal 100% damage
+   | condition: 25% chance
+   | (9764:108) ヤフタレク・ラマード
+   | Change all Heal orbs to Jammer orbs, Deal 80% damage
+   | condition: 25% chance
+   | (9767:83) ジャーディビーヤ・ホジューム + イクティラーフ・ガダブ
+   | Player -75% HP + Increase damage to 150% for the next 1 turn
+   | condition: 25% chance
+   | (9768:15) ショーラ・サラーサ・ハジュマ
+   | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: always turn 1, hp <= 49
+   | (9760:87) タフゼィール・ディファー
+   | Absorb damage when damage >= 5,000,000 for 4 turns
+ | group:
+ | condition: hp <= 4
+   | (9769:15) アーセファ・ハムサ・セイフ
+   | Deal 500% damage (5 hits, 100% each)

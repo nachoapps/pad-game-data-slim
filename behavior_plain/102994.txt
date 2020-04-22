@@ -1,0 +1,38 @@
+#102994 - 裏魔伯爵・ロノウェ
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 4)
+	[0] ESBoardChange(84:17105) -> 騒曲のメロディー
+	Change all orbs to Wood, Heal, and Mortal Poison
+	[1] ESOrbLock(94:17106) -> 悪魔の契約
+	Lock all orbs
+
+#3: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESDebuffMovetime(39:16621) -> 授かりし富と名声
+	Movetime 150% for 2 turns
+	[1] ESSkyfallLocked(96:16622) -> 輝かしき人生
+	Locked random skyfall +100% for 2 turns
+
+#4: ESDebuffRCV(105:16623) -> 失われた余命
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+RCV 0% for 1 turn
+
+#5: ESAttackMultihit(15:16624) -> 契約の終わり
+Deal 800% damage (8 hits, 100% each)
+
+#6: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#7: ESTypeResist(118:16633) -> 悪魔半減
+Reduce damage from Devil types by 50%
+
+#8: ESResolve(73:17111) -> 根性
+Survive attacks with 1 HP when HP > 75%

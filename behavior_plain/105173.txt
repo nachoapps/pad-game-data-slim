@@ -1,0 +1,125 @@
+#105173 - 裏静夜の語り手・シェヘラザード
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESStatusShield(20:17231) -> 聞いていただけますか？
+	Voids status ailments for 999 turns
+	[1] ESVoidShield(71:17232) -> 私の紡いだ物語
+	Void damage >= 60000000 for 999 turns
+	[2] ESSpinnersFixed(110:17233) -> あなたを不思議に誘います
+	Specific orbs change every 1.0s for 99 turns
+	[3] ESAbsorbCombo(67:17234) -> どうぞお楽しみ下さい
+	Absorb damage when combos <= 7 for 99 turns
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 1, target rnd 26
+
+#4: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 8, target rnd 21
+
+#5: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#6: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 8, target rnd 20
+
+#7: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 7, target rnd 19
+
+#8: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 6, target rnd 18
+
+#9: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 5, target rnd 17
+
+#10: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 4, target rnd 16
+
+#11: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 3, target rnd 15
+
+#12: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 2, target rnd 14
+
+#13: SkillSet:
+	[0] ESCloud(104:12703) -> 始まりは一つの思い
+	A 2×2 square of clouds appears for 3 turns at a random location
+	[1] ESDebuffMovetime(39:12704) -> 誰もが忘れるほど昔の事でした
+	Movetime -3s for 3 turns, Deal 100% damage
+
+#14: SkillSet:
+	[0] ESSkyfallLocked(96:12706) -> 小さないくつもの海が重なり
+	Locked random skyfall +50% for 5 turns
+	[1] ESAttackMultihit(15:12707) -> 世界が生まれました
+	Deal 120% damage (3 hits, 40% each)
+
+#15: SkillSet:
+	[0] ESBindRandomSub(65:12709) -> 永い時の中で強き者が残り
+	Bind 4 random subs for 5 turns
+	[1] ESSkillDelay(89:12710) -> 私たちは地獄に落とされます
+	Delay active skills by 4~6 turns, Deal 110% damage
+
+#16: SkillSet:
+	[0] ESAbsorbAttribute(53:12712) -> 複雑に入り組んだ檻の中は
+	Absorb Light and Dark damage for 3 turns
+	[1] ESSpinnersFixed(110:12713) -> 色鮮やかな嘘で真実を隠しました
+	Specific orbs change every 1.0s for 1 turn, Deal 60% damage
+
+#17: SkillSet:
+	[0] ESAttackUPRemainingEnemies(17:12715) -> そして私たちは人になりました
+	Increase damage to 150% for the next 3 turns
+	[1] ESBindSkill(14:12716) -> まるで始めからそうだったかのように
+	Bind active skills for 5 turns, Deal 100% damage
+
+#18: SkillSet:
+	[0] ESDamageShield(74:12718) -> また時が流れて
+	Reduce damage from all sources by 50% for 5 turns
+	[1] ESOrbChangeAttack(48:12719) -> 夢を見るようになりました
+	Change a random attribute to Jammer orbs, Deal 100% damage
+
+#19: SkillSet:
+	[0] ESAbsorbCombo(67:12721) -> 広い広い檻の外に想いをはせ
+	Absorb damage when combos <= 6 for 5 turns
+	[1] ESChangeAttribute(46:12722) -> 目に見える真実を追い求めました
+	Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 100% damage
+
+#20: SkillSet:
+	[0] ESSkyfall(68:12724) -> 多くの智識は瞳を濁らせて
+	Poison skyfall +15% for 5 turns
+	[1] ESOrbLock(94:12725) -> 今日も見えない鎖は外れません･･･
+	Lock 15 random orbs, Deal 120% damage
+
+#21: ESSetCounter(25:15) -> ESSetCounter
+counter = 0
+
+#22: ESOrbSealRow(100:12726) -> もう１度聞きたいのですか？
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Seal the 1st and 5th rows for 1 turn
+
+#23: ESSetCounter(25:15) -> ESSetCounter
+counter = 8
+
+#24: SkillSet:
+	[0] ESBindAwoken(88:12729) -> 夜が明けますね、今夜はここまで
+	Bind awoken skills for 1 turn
+	[1] ESAttackMultihit(15:12730) -> 続きはまた明日
+	Deal 1500% damage (5 hits, 300% each)
+
+#25: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#26: ESRecoverEnemy86(86:12762) -> 千一夜の物語り
+Enemy recover 100% HP
+
+#27: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#28: ESResolve(73:12727) -> シェヘラ根性
+Survive attacks with 1 HP when HP > 90%

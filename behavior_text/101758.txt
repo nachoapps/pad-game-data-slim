@@ -1,0 +1,32 @@
+#101758 - 裏闇翔の魔導姫・ゴエティア
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 101758
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (17237:73) ゴエ根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (14337:83) 魔導結界 + 妾に挑むか + ひれ伏すがよい
+ | Voids status ailments for 999 turns + Reduce damage from all sources by 75% for 10 turns + RCV 0% for 3 turns
+ group:
+ | group:
+   | group:
+   | condition: turns 1-9 while HP > 49
+     | (14341:83) 魔力変転 + 悪しき束縛
+     | Change a random attribute to Dark orbs + Lock 15 random orbs, Deal 50% damage
+   | group:
+   | condition: turn 10 while HP > 9
+     | (14347:83) 悪魔の拘束 + 封印されし悪魔の解放
+     | Bind 6 random cards for 1 turn + Deal 1400% damage (7 hits, 200% each), Deal 1400% damage (7 hits, 200% each)
+   | group:
+     | (14349:15) 封印されし悪魔の解放
+     | Deal 1400% damage (7 hits, 200% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (14344:83) ソロモンの霊術 + 魔の導き
+   | Voids player buff effects + Increase damage to 200% for the next 999 turns

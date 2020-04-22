@@ -1,0 +1,32 @@
+#103753 - 裏覚醒アストレア
+monster size: 5
+new AI: True
+start/max counter: 31
+counter increment: 0
+monster_id: 103753
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17150:83) 正義の提唱 + 人類の洞察 + 静観する覚悟
+ | Voids status ailments for 5 turns + RCV 25% for 5 turns + Void damage >= 20000000 for 5 turns
+ group:
+ | group:
+ | condition: turn 1
+   | (15630:50) 剥がれ落ちた黄金
+   | Player -99% HP
+ | group:
+ | condition: turn 2
+   | (15631:110) 移りゆく時代の流れ
+   | Specific orbs change every 1.0s for 3 turns
+ | group:
+ | condition: turn 3
+   | (15632:102) 善悪の天秤
+   | Spawn 10 random Bomb orbs, Deal 100% damage
+ | group:
+ | condition: turn 4
+   | (15633:88) 堕落する人類への失望
+   | Bind awoken skills for 1 turn
+ | group:
+   | (15634:15) 欺瞞に満ちた世界との見切り
+   | Deal 750% damage (5 hits, 150% each)

@@ -1,0 +1,92 @@
+#105173 - 裏静夜の語り手・シェヘラザード
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 105173
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (12727:73) シェヘラ根性
+ | Survive attacks with 1 HP when HP > 90%
+ type: PREEMPT
+ | (17230:83) 聞いていただけますか？ + 私の紡いだ物語 + あなたを不思議に誘います + どうぞお楽しみ下さい
+ | Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns + Specific orbs change every 1.0s for 99 turns + Absorb damage when combos <= 7 for 99 turns
+ group:
+ | group:
+   | group:
+   | condition: turn 1
+     | (12702:83) 始まりは一つの思い + 誰もが忘れるほど昔の事でした
+     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -3s for 3 turns, Deal 100% damage
+   | group:
+   | condition: turn 2
+     | (12705:83) 小さないくつもの海が重なり + 世界が生まれました
+     | Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each), Deal 120% damage (3 hits, 40% each)
+   | group:
+   | condition: turn 3
+     | (12708:83) 永い時の中で強き者が残り + 私たちは地獄に落とされます
+     | Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+   | group:
+   | condition: turn 4
+     | (12711:83) 複雑に入り組んだ檻の中は + 色鮮やかな嘘で真実を隠しました
+     | Absorb Light and Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turn, Deal 60% damage
+   | group:
+   | condition: turn 5
+     | (12714:83) そして私たちは人になりました + まるで始めからそうだったかのように
+     | Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+   | group:
+   | condition: turn 6
+     | (12717:83) また時が流れて + 夢を見るようになりました
+     | Reduce damage from all sources by 50% for 5 turns + Change a random attribute to Jammer orbs, Deal 100% damage
+   | group:
+   | condition: turn 7
+     | (12720:83) 広い広い檻の外に想いをはせ + 目に見える真実を追い求めました
+     | Absorb damage when combos <= 6 for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 100% damage
+   | group:
+   | condition: turn 8
+     | (12723:83) 多くの智識は瞳を濁らせて + 今日も見えない鎖は外れません･･･
+     | Poison skyfall +15% for 5 turns + Lock 15 random orbs, Deal 120% damage
+   | group:
+   | condition: turn 9
+     | (12726:100) もう１度聞きたいのですか？
+     | Seal the 1st and 5th rows for 1 turn
+   | group:
+   | condition: turn 10
+     | (12702:83) 始まりは一つの思い + 誰もが忘れるほど昔の事でした
+     | A 2×2 square of clouds appears for 3 turns at a random location + Movetime -3s for 3 turns, Deal 100% damage
+   | group:
+   | condition: turn 11
+     | (12705:83) 小さないくつもの海が重なり + 世界が生まれました
+     | Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each), Deal 120% damage (3 hits, 40% each)
+   | group:
+   | condition: turn 12
+     | (12708:83) 永い時の中で強き者が残り + 私たちは地獄に落とされます
+     | Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+   | group:
+   | condition: turn 13
+     | (12711:83) 複雑に入り組んだ檻の中は + 色鮮やかな嘘で真実を隠しました
+     | Absorb Light and Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turn, Deal 60% damage
+   | group:
+   | condition: turn 14
+     | (12714:83) そして私たちは人になりました + まるで始めからそうだったかのように
+     | Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+   | group:
+   | condition: turn 15
+     | (12717:83) また時が流れて + 夢を見るようになりました
+     | Reduce damage from all sources by 50% for 5 turns + Change a random attribute to Jammer orbs, Deal 100% damage
+   | group:
+   | condition: turn 16
+     | (12720:83) 広い広い檻の外に想いをはせ + 目に見える真実を追い求めました
+     | Absorb damage when combos <= 6 for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 100% damage
+   | group:
+   | condition: turn 17
+     | (12723:83) 多くの智識は瞳を濁らせて + 今日も見えない鎖は外れません･･･
+     | Poison skyfall +15% for 5 turns + Lock 15 random orbs, Deal 120% damage
+   | group:
+     | (12728:83) 夜が明けますね、今夜はここまで + 続きはまた明日
+     | Bind awoken skills for 1 turn + Deal 1500% damage (5 hits, 300% each), Deal 1500% damage (5 hits, 300% each)
+ | group:
+ | condition: hp <= 1
+   | (12762:86) 千一夜の物語り
+   | Enemy recover 100% HP

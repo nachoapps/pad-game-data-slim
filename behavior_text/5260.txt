@@ -8,8 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (13274:67) I'm pleased to make your acquaintance.
- | Absorb damage when combos <= 3 for 3 turns
+unknown ES
  group:
  | group:
    | condition: 33% chance
@@ -27,5 +26,4 @@ level: 1
    | Increase damage to 150% for the next 5 turns
  | group:
  | condition: hp <= 15
-   | (13279:83) Take this!! + Big Ben Wire Frame!!!
-   | Lock 10 random orbs + Deal 200% damage (5 hits, 40% each), Deal 200% damage (5 hits, 40% each)
+unknown ES

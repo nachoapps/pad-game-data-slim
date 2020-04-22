@@ -1,0 +1,25 @@
+#103267 - 裏アテン
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 103267
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (16670:129) 10%超根性
+ | When reduced from HP > 10% to 0 HP, revive at 10% HP
+ | (16671:106) 敵の行動ターンが変化した
+ | Enemy turn counter change to 1 when HP <= 10%
+ type: PREEMPT
+ | (17174:83) 輝きを失った大地 + スーリャ・アクシャ
+ | Blind all orbs for 5 turns + Random 1 orbs change every 1.0s for 5 turns
+ group:
+ | group:
+   | (16676:15) 光射す道標
+   | Deal 3000% damage (6 hits, 500% each)
+ | group:
+ | condition: turn 1, hp <= 9
+   | (16673:83) 太陽光の輝き + 慈愛と絶望の光 + アルッダアスゥ
+   | Voids status ailments for 999 turns + Movetime 25% for 1 turn + RCV 50% for 5 turns
