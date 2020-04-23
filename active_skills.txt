@@ -33664,14 +33664,14 @@ EN: Change Water and Dark orbs to Wood orbs
 KR: Change Water and Dark orbs to Wood orbs
 
 # 13203/116 - Check this out.
-Tags: REDUCE_SKILL_TURN
+Tags: REDUCE_SKILL_TURN,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 2 turns; other allies' skills charged by 2 turns
 JP: 2ターンの間、ダメージ無効を貫通する。自分以外の味方スキルが2ターンの溜まる
 EN: For 2 turns, bypass void damage shield effects; Charge all allies' skills by 2 turns
 KR: For 2 turns, bypass void damage shield effects; Charge all allies' skills by 2 turns
 
 # 13204/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 2ターンの間、ダメージ無効を貫通する
 EN: For 2 turns, bypass void damage shield effects
@@ -33888,14 +33888,14 @@ EN: For 1 turn, only Water, Light, Dark, and Heal orbs will appear
 KR: For 1 turn, only Water, Light, Dark, and Heal orbs will appear
 
 # 13268/116 - Weaklings.
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes
 JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 13269/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -36772,14 +36772,14 @@ EN: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 
 # 14151/116 - Snake Princess's Dragon Roar
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes & Heal
 JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 14152/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 2ターンの間、ダメージ無効を貫通する
 EN: For 2 turns, bypass void damage shield effects
@@ -38634,7 +38634,7 @@ EN: Changes to [5631] for the duration of the dungeon
 KR: Changes to [5631] for the duration of the dungeon
 
 # 14729/191 - Twin Ultimate Dragon Roaring Palm
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 2 turns
 JP: 2ターンの間、ダメージ無効を貫通する
 EN: For 2 turns, bypass void damage shield effects
@@ -40209,14 +40209,14 @@ EN: For 1 turn, reduce damage taken by 100%
 KR: For 1 turn, reduce damage taken by 100%
 
 # 15208/116 - 出発進行！
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: 全ドロップを火、水、木、光、回復ドロップに変化。 1ターンの間、ダメージ無効を貫通する。
 JP: 全ドロップを火、水、木、光、回復ドロップに変化。1ターンの間、ダメージ無効を貫通する
 EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs; For 1 turn, bypass void damage shield effects
 KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs; For 1 turn, bypass void damage shield effects
 
 # 15209/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -40230,14 +40230,14 @@ EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 
 # 15211/116 - シンカリオン Ｅ５はやぶさ
-Tags: ENHANCED_ORBS,ALL_ORBS_CONVERT
+Tags: ENHANCED_ORBS,ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: 全ドロップを火、水、木、光、回復ドロップに変化。 1ターンの間、ダメージ無効を貫通する。全ドロップを強化。
 JP: 全ドロップを火、水、木、光、回復ドロップに変化。1ターンの間、ダメージ無効を貫通する。全ドロップを強化
 EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs; For 1 turn, bypass void damage shield effects; Enhance all orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs; For 1 turn, bypass void damage shield effects; Enhance all orbs
 
 # 15212/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -40874,14 +40874,14 @@ EN: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 KR: Change Water, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
 
 # 15381/116 - Check.
-Tags: REDUCE_SKILL_TURN
+Tags: REDUCE_SKILL_TURN,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 3 turns; other allies' skills charged by 3 turns
 JP: 3ターンの間、ダメージ無効を貫通する。自分以外の味方スキルが3ターンの溜まる
 EN: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
 KR: For 3 turns, bypass void damage shield effects; Charge all allies' skills by 3 turns
 
 # 15382/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 3ターンの間、ダメージ無効を貫通する
 EN: For 3 turns, bypass void damage shield effects
@@ -42337,14 +42337,14 @@ EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
 # 15798/116 - Let's give it all we've got!
-Tags: ENHANCED_ATTACK
+Tags: ENHANCED_ATTACK,PIERCE_DAMAGE_VOID
 Game: Pierces enemy's damage void and increases ATK by the number of [Skill Charge] Awoken Skills in team for 1 turn
 JP: 1ターンの間、ダメージ無効を貫通する。チーム内のスキルチャージの覚醒数1つにつき攻撃力が30％上がる
 EN: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
 KR: For 1 turn, bypass void damage shield effects; For 1 turn, increase ATK by 30% for each Skill Charge awakening skill on the team
 
 # 15799/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -43772,14 +43772,14 @@ EN: Changes to [5967] for the duration of the dungeon
 KR: Changes to [5967] for the duration of the dungeon
 
 # 16198/116 - Gigantic Slash
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; changes all Orbs to Fire, Wood & Heal Orbs
 JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、木、回復ドロップに変化
 EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Wood, and Heal orbs
 KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Wood, and Heal orbs
 
 # 16199/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -43884,14 +43884,14 @@ EN: Changes to [5973] for the duration of the dungeon
 KR: Changes to [5973] for the duration of the dungeon
 
 # 16229/116 - Shining Bravely
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; halves damage for 1 turn
 JP: 1ターンの間、ダメージ無効を貫通する。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, bypass void damage shield effects; For 1 turn, reduce damage taken by 50%
 KR: For 1 turn, bypass void damage shield effects; For 1 turn, reduce damage taken by 50%
 
 # 16230/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -44591,14 +44591,14 @@ EN: Lock all orbs
 KR: Lock all orbs
 
 # 16408/116 - Dream of Adventures
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; changes all Orbs to Fire, Water, Light, Dark & Heal Orbs
 JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
 EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 
 # 16409/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 2ターンの間、ダメージ無効を貫通する
 EN: For 2 turns, bypass void damage shield effects
@@ -44913,7 +44913,7 @@ EN: Change the 2nd row from the top to Water orbs
 KR: Change the 2nd row from the top to Water orbs
 
 # 16520/116 - Now's the time for an all-out attack.
-Tags: ALL_ORBS_CONVERT,SUICIDE
+Tags: ALL_ORBS_CONVERT,SUICIDE,PIERCE_DAMAGE_VOID
 Game: Halves HP, pierce through enemy's damage void for  1 turn; changes all Orbs to all Attributes & Heal
 JP: HPが50％減少。1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -44927,7 +44927,7 @@ EN: Reduce HP by 50%
 KR: Reduce HP by 50%
 
 # 16522/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -45809,14 +45809,14 @@ EN: Changes to [6159] for the duration of the dungeon
 KR: Changes to [6159] for the duration of the dungeon
 
 # 16817/116 - グリーンウィスパー
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
 JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 16818/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 1ターンの間、ダメージ無効を貫通する
 EN: For 1 turn, bypass void damage shield effects
@@ -45872,14 +45872,14 @@ EN: Create 3 Water and Heal orbs
 KR: Create 3 Water and Heal orbs
 
 # 16835/116 - グゥムウィスパー
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: 3ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
 JP: 3ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 16836/191 - 
-Tags: 
+Tags: PIERCE_DAMAGE_VOID
 Game: 
 JP: 3ターンの間、ダメージ無効を貫通する
 EN: For 3 turns, bypass void damage shield effects

@@ -4,7 +4,7 @@ AWK: 52,21,28,19,43,57,57,51,63
 SAWK: 43,56,54
 
 # 15208/116 - 出発進行！
-Tags: ALL_ORBS_CONVERT
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
 Game: 全ドロップを火、水、木、光、回復ドロップに変化。 1ターンの間、ダメージ無効を貫通する。
 JP: 全ドロップを火、水、木、光、回復ドロップに変化。1ターンの間、ダメージ無効を貫通する
 EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs; For 1 turn, bypass void damage shield effects

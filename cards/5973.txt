@@ -4,7 +4,7 @@ AWK: 28,53,46,46,44,61,43,43,52
 SAWK: 
 
 # 16229/116 - Shining Bravely
-Tags: REDUCE_DAMAGE
+Tags: REDUCE_DAMAGE,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 1 turn; halves damage for 1 turn
 JP: 1ターンの間、ダメージ無効を貫通する。1ターンの間、受けるダメージを50％減少
 EN: For 1 turn, bypass void damage shield effects; For 1 turn, reduce damage taken by 50%

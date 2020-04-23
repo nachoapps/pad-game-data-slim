@@ -4,7 +4,7 @@ AWK: 10,10,21,28,53,51,58,58,58
 SAWK: 32,48,55
 
 # 16520/116 - Now's the time for an all-out attack.
-Tags: ALL_ORBS_CONVERT,SUICIDE
+Tags: ALL_ORBS_CONVERT,SUICIDE,PIERCE_DAMAGE_VOID
 Game: Halves HP, pierce through enemy's damage void for  1 turn; changes all Orbs to all Attributes & Heal
 JP: HPが50％減少。1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Reduce HP by 50%; For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs

@@ -4,7 +4,7 @@ AWK: 52,21,28,45,43,43,51,51,63
 SAWK: 43,54,48
 
 # 13203/116 - Check this out.
-Tags: REDUCE_SKILL_TURN
+Tags: REDUCE_SKILL_TURN,PIERCE_DAMAGE_VOID
 Game: Pierce through enemy's damage void for 2 turns; other allies' skills charged by 2 turns
 JP: 2ターンの間、ダメージ無効を貫通する。自分以外の味方スキルが2ターンの溜まる
 EN: For 2 turns, bypass void damage shield effects; Charge all allies' skills by 2 turns
