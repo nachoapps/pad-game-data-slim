@@ -110,7 +110,7 @@ level: 1
      | Deal 4000% damage (8 hits, 500% each)
  | group:
  | condition: hp <= 1
-   | (14227:83) Kanaka Anda + Jungle Oasis + Uttarlotaarla Abeebhan
+   | (14227:83) Kanaka Anda + Jargal Ojas + Uttarlotaarla Abeebhan
    | Enemy recover 50% HP + Increase damage to 200% for the next 999 turns + Deal 60% damage (4 hits, 15% each), Deal 60% damage (4 hits, 15% each)
  type: UNKNOWN_USE
  | condition: 50% chance
@@ -221,7 +221,7 @@ level: 6
      | Deal 4000% damage (8 hits, 500% each)
  | group:
  | condition: hp <= 1
-   | (14227:83) Kanaka Anda + Jungle Oasis + Uttarlotaarla Abeebhan
+   | (14227:83) Kanaka Anda + Jargal Ojas + Uttarlotaarla Abeebhan
    | Enemy recover 50% HP + Increase damage to 200% for the next 999 turns + Deal 60% damage (4 hits, 15% each), Deal 60% damage (4 hits, 15% each)
  type: UNKNOWN_USE
  | condition: 50% chance

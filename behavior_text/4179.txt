@@ -18,9 +18,9 @@ level: 1
  | (16512:66) We hope you keep playing TAMA!
  | Do nothing
  | condition: 20% chance
- | (16513:5) There's still much more to come!
+ | (16513:5) I'm only just getting started!
  | Blind all orbs on the board
- | (16514:15) A game before we get started
+ | (16514:15) A test before we begin
  | Deal 145% damage
  group:
  condition: turn 1, hp <= 98

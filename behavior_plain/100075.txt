@@ -16,7 +16,7 @@ flag SET 0b1
 #4: SkillSet:
 	[0] ESNoSkyfall(127:16532) -> Trial of the White Knight
 	No skyfall for 99 turns
-	[1] ESSpinnersFixed(110:16533) -> Here I go!
+	[1] ESSpinnersFixed(110:16533) -> Here I come!
 	Specific orbs change every 1.0s for 99 turns
 	[2] ESAbsorbCombo(67:16534) -> Paladin Shield
 	Absorb damage when combos <= 6 for 99 turns
@@ -46,7 +46,7 @@ Branch on counter >= 3, target rnd 8
 #12: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#13: ESBlind5(5:16513) -> There's still much more to come!
+#13: ESBlind5(5:16513) -> I'm only just getting started!
 Blind all orbs on the board
 
 #14: ESEndPath(36:26) -> ESEndPath

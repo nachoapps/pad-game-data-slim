@@ -1,4 +1,4 @@
-#4769 - 近藤勲
+#4769 - Isao Kondou
 monster size: 5
 new AI: True
 start/max counter: 7
@@ -10,33 +10,33 @@ level: 1
  group:
  | group:
  | condition: turn 1
-   | (16926:68) I'll do what I want
+   | (16926:68) I'm gonna do as I please.
    | Light skyfall +10% for 4 turns
  | group:
  | condition: turn 2
-   | (16927:92) You lot are troublesome
+   | (16927:92) Just as I thought, you're tough.
    | Spawn 4 random Light orbs, Deal 90% damage
  | group:
  | condition: turn 3
-   | (16928:20) I won't go easy on you
+   | (16928:20) But I won't go easy on you.
    | Voids status ailments for 2 turns
  | group:
-   | (16929:15) Let's end this
+   | (16929:15) Let's settle this like men.
    | Deal 110% damage
 
 level: 4
  type: PREEMPT
- | (16926:68) I'll do what I want
+ | (16926:68) I'm gonna do as I please.
  | Light skyfall +10% for 4 turns
  group:
  | group:
  | condition: turn 1
-   | (16927:92) You lot are troublesome
+   | (16927:92) Just as I thought, you're tough.
    | Spawn 4 random Light orbs, Deal 90% damage
  | group:
  | condition: turn 2
-   | (16928:20) I won't go easy on you
+   | (16928:20) But I won't go easy on you.
    | Voids status ailments for 2 turns
  | group:
-   | (16929:15) Let's end this
+   | (16929:15) Let's settle this like men.
    | Deal 110% damage

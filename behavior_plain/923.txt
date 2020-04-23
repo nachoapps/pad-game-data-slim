@@ -11,7 +11,7 @@ Enable preempt if level 1
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESOrbLock(94:10238) -> Announcement of Fate
 	Lock all orbs
-	[1] ESSkyfallLocked(96:10239) -> End of the Omen
+	[1] ESSkyfallLocked(96:10239) -> Omen of the End
 	Locked random skyfall +100% for 3 turns
 
 #3: ESSetCounterIf(38:177) -> ESSetCounterIf

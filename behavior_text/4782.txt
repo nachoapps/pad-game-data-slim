@@ -1,4 +1,4 @@
-#4782 - 長谷川泰三
+#4782 - Taizou Hasegawa
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,29 +8,29 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (11032:108) This time! This time, I will grasp happiness!
+ | (11032:108) This time, I'm gonna find happiness for sure.
  | Change all Light orbs to Jammer orbs
- | (11061:92) NOW! NOW I will grasp happiness!
+ | (11061:92) This time, I'm gonna find happiness for sure.
  | Spawn 4 random Jammer orbs
  group:
  | group:
    | condition: 50% chance
-   | (11034:63) The spiral staircase of pain keeps going!
+   | (11034:63) I'll have to keep climbing a tortuous spiral staircase.
    | Bind 1 random sub for 1 turn, Deal 120% damage
-   | (11033:109) Life is like gambling
+   | (11033:109) Life is a gamble.
    | Random 2 orbs change every 1.0s for 1 turn, Deal 80% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (11036:68) This sucks already...
+     | (11036:68) I'm starting to feel dissatisfied again.
      | Poison skyfall +10% for 3 turns
    | group:
      | condition: 30% chance
-     | (11035:15) I'll end this for you!!
+     | (11035:15) Just end it all for me.
      | Deal 150% damage
      | condition: 50% chance
-     | (11034:63) The spiral staircase of pain keeps going!
+     | (11034:63) I'll have to keep climbing a tortuous spiral staircase.
      | Bind 1 random sub for 1 turn, Deal 120% damage
-     | (11033:109) Life is like gambling
+     | (11033:109) Life is a gamble.
      | Random 2 orbs change every 1.0s for 1 turn, Deal 80% damage

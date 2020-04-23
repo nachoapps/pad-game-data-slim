@@ -27,7 +27,7 @@ Branch on hp > 96, target rnd 5
 #5: SkillSet:
 	[0] ESDebuffRCV(105:16638) -> Kenjaku Rope Snare
 	RCV 25% for 1 turn
-	[1] ESOrbChangeAttackBits(108:16639) -> Demon Slaying Three-Pronged Vajra Sword
+	[1] ESOrbChangeAttackBits(108:16639) -> Demon Slaying Vajra Sword
 	Change all Poison orbs to Wood orbs, Deal 400% damage
 
 #6: ESEndPath(36:26) -> ESEndPath

@@ -140,7 +140,7 @@ end_turn
 #29: SkillSet:
 	[0] ESChangeAttribute(46:15615) -> The Wind's Direction Changed
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:15616) -> Desctructive Function
+	[1] ESAttackMultihit(15:15616) -> Destructive Function
 	Deal 1000% damage (10 hits, 100% each)
 
 #30: ESEndPath(36:26) -> ESEndPath

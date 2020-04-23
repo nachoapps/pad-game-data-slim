@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (15627:83) Justice Advocation + Human Perception
+ | (15627:83) Advocate Justice + Perception of Humanity
  | Voids status ailments for 5 turns + RCV 25% for 5 turns
  group:
  | group:
@@ -17,16 +17,16 @@ level: 1
    | Player -99% HP
  | group:
  | condition: turn 2
-   | (15631:110) Moving Era Flow
+   | (15631:110) The Flow of Changing Times
    | Specific orbs change every 1.0s for 3 turns
  | group:
  | condition: turn 3
-   | (15632:102) Balance between Good & Evil
+   | (15632:102) The Scales of Good & Evil
    | Spawn 10 random Bomb orbs, Deal 100% damage
  | group:
  | condition: turn 4
-   | (15633:88) Depraved Human Helplessness
+   | (15633:88) Despair Humanity's Depravity
    | Bind awoken skills for 1 turn
  | group:
-   | (15634:15) Forsaken World of Despair
+   | (15634:15) Forsake the Deceitful World
    | Deal 750% damage (5 hits, 150% each)

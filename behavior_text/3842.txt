@@ -11,7 +11,7 @@ level: 1
  | (16677:106) Enemy's turn changed
  | Enemy turn counter change to 3 when HP <= 50%
  type: PREEMPT
- | (16679:75) Allow me to measure your strength.
+ | (16679:75) Are you capable of stopping me?
  | Leader changes to random sub for 3 turns
  group:
  | group:
@@ -20,7 +20,7 @@ level: 1
      | (16681:83) Such a weak attack... + Destroy that body!
      | Void damage >= 10000000 for 999 turns + RCV 25% for 5 turns
    | group:
-     | (16687:15) Loyal Swordsmen Join the Fray
+     | (16687:15) Loyal Retainers' Swords
      | Deal 200% damage (4 hits, 50% each)
  | group:
  | condition: turn 1 while HP > 49, hp <= 89
@@ -28,8 +28,8 @@ level: 1
    | Absorb damage when combos <= 7 for 999 turns + No skyfall for 5 turns
  | group:
  | condition: turn 1, hp <= 49
-   | (16688:83) Now end it. + I shall not give you long.
+   | (16688:83) This will end it. + I shall not give you long.
    | Increase damage to 1000% for the next 999 turns + Reduce damage from all sources by 99% for 3 turns
  type: UNKNOWN_USE
- | (16678:83) Are you capable of dealing with this? + Scatter!
+ | (16678:83) You are not the true leader! + Scatter!
  | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each), Deal 1000% damage (4 hits, 250% each)

@@ -13,7 +13,7 @@ level: 1
  | (16734:118) God & Devil Halved
  | Reduce damage from God and Devil types by 50%
  type: PREEMPT
- | (16735:83) Destroyer God's Barrier + Third Eye's Light + Underworld's Divine Blaze + Resurrection's Loss
+ | (16735:83) Destroyer God's Barrier + Underworld's Divine Blaze + Resurrection Lost + Underworld's Purification
  | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Reduce damage from all sources by 75% for 5 turns + ATK -50% for 99 turns
  group:
  | group:
@@ -28,7 +28,7 @@ level: 1
    | Lock all orbs, Deal 80% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 50
-   | (16740:83) Underworld's Purification + Destruction for Rebirth's Sake
+   | (16740:83) Destruction for Rebirth's Sake + Third Eye Beam
    | Increase damage to 200% for the next 999 turns + Delay active skills by 10 turns
  | group:
  | condition: hp <= 9

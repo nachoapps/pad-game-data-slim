@@ -33,7 +33,7 @@ level: 1
      | Player recover 25% HP + Spawn 12 random locked Bomb orbs
    | group:
    | condition: turn 5 while HP > 49
-     | (16775:88) Bring about Ragnarök
+     | (16775:88) Bring about Ragnarok
      | Bind awoken skills for 99 turns
      | (16776:83) Prophecy of Demise + World's Collapse
      | Bind 4 random subs for 6 turns + Increase damage to 200% for the next 999 turns

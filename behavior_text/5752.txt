@@ -66,7 +66,7 @@ level: 1
      | Player -25% HP + Deal 100% damage (5 hits, 20% each), Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: hp <= 9
-   | (15614:83) The Wind's Direction Changed + Desctructive Function
+   | (15614:83) The Wind's Direction Changed + Destructive Function
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)
  | group:
  | condition: hp <= 1
@@ -133,7 +133,7 @@ level: 6
      | Player -25% HP + Deal 100% damage (5 hits, 20% each), Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: hp <= 9
-   | (15614:83) The Wind's Direction Changed + Desctructive Function
+   | (15614:83) The Wind's Direction Changed + Destructive Function
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)
  | group:
  | condition: hp <= 1

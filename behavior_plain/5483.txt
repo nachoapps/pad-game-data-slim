@@ -214,7 +214,7 @@ end_turn
 #49: SkillSet:
 	[0] ESRecoverEnemy86(86:14228) -> Kanaka Anda
 	Enemy recover 50% HP
-	[1] ESAttackUPRemainingEnemies(17:14229) -> Jungle Oasis
+	[1] ESAttackUPRemainingEnemies(17:14229) -> Jargal Ojas
 	Increase damage to 200% for the next 999 turns
 	[2] ESAttackMultihit(15:14212) -> Uttarlotaarla Abeebhan
 	Deal 60% damage (4 hits, 15% each)
