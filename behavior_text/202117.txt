@@ -1,0 +1,24 @@
+#202117 - 誘水姫・ピアニース
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 202117
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (17687:71) 水流の呪法
+ | Void damage >= 1000000 for 3 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (17689:48) 水撃
+   | Change a random attribute to Water orbs, Deal 100% damage
+   | condition: 50% chance
+   | (17690:109) 渦巻
+   | Random 2 orbs change every 1.0s for 1 turn, Deal 90% damage
+ | group:
+ | condition: turn 1, hp <= 50
+   | (17688:17) ボルテックスカウンター
+   | Increase damage to 200% for the next 999 turns
