@@ -4,17 +4,17 @@ AWK: 10,10,21,21,21,28,54,46,46
 SAWK: 46,21,57
 
 # 11226/116 - Twin Cannon - Full Burst
-Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER,NEW_GRAVITY
 Game: Inflicts damage equal to 5% of enemies' max HP; creates a cross of Water Orbs
-JP: 敵の最大HPの5％分のダメージ。上から3行目を水ドロップに変化。右から3列目を水ドロップに変化
-EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
-KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
+JP: 敵の最大HPの5％分のダメージ。上から3行目を水ドロップに変化。右から3列目を水ドロップに変化。1ターンの間、水属性の攻撃力が1.5倍
+EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.
+KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.
 
 # 11230/138 - Wisdom of the Twin Cannon
-Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 18.0, 1.0, 0.0]
+Tags: ENHANCED_ATK,ADDITIONAL_ATTACK,NO_SKYFALL_COMBOS
+Stats: [1.0, 20.0, 1.0, 0.0]
 Game: [No Skyfall Combos], 2x ATK with 6+ linked Water Orbs; 6x ATK for Water Att., 1.5x ATK with 2+ Water combos
-JP: 【落ちコンなし】水属性の攻撃力が6倍。水の2コンボ以上で攻撃力が1.5倍。水を6個以上つなげて消すと攻撃力が2倍。
-EN: [No skyfall] 6x ATK for Water Att.; 1.5x ATK when matching 2+ Water combos; 2x ATK when matching 6 or more connected Water orbs
-KR: [No skyfall] 6x ATK for Water Att.; 1.5x ATK when matching 2+ Water combos; 2x ATK when matching 6 or more connected Water orbs
+JP: 【落ちコンなし】水属性の攻撃力が10倍。水の2コンボ以上で固定1ダメージ。水を6個以上つなげて消すと攻撃力が2倍。
+EN: [No skyfall] 10x ATK for Water Att.; 1 additional damage when matching 2 or more Water combos; 2x ATK when matching 6 or more connected Water orbs
+KR: [No skyfall] 10x ATK for Water Att.; 1 additional damage when matching 2 or more Water combos; 2x ATK when matching 6 or more connected Water orbs
 

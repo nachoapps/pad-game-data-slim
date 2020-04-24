@@ -40949,15 +40949,15 @@ JP: 全ドロップを火、光、回復に変化
 EN: Change all orbs to Fire, Light, and Heal
 KR: Change all orbs to Fire, Light, and Heal
 
-# 8183/0 - Protection of the Gods
-JP: nothing
-EN: nothing
-KR: nothing
+# 8183/20 - Protection of the Gods
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 8184/0 - Royal Sword
-JP: nothing
-EN: nothing
-KR: nothing
+# 8184/15 - Royal Sword
+JP: 60〜100%ダメージ (6〜10連続攻撃、10%ごと)
+EN: Deal 60~100% damage (6~10 hits, 10% each)
+KR: Deal 60~100% damage (6~10 hits, 10% each)
 
 # 8185/0 - なし
 JP: nothing
@@ -88412,140 +88412,140 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 17675/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17675/83 - 闇先制
+JP: 
+EN: 
+KR: 
 
-# 17676/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17676/67 - 暗黒の殻
+JP: 2ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 2 turns
+KR: Absorb damage when combos <= 7 for 2 turns
 
-# 17677/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17677/74 - タマゴロン
+JP: 1ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 1 turn
+KR: Reduce damage from all sources by 50% for 1 turn
 
-# 17678/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17678/68 - 火の恵み
+JP: 10ターンの間、火ドロップを+15%に落ちてくる
+EN: Fire skyfall +15% for 10 turns
+KR: Fire skyfall +15% for 10 turns
 
-# 17679/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17679/71 - エッグシールド
+JP: 99ターンの間、1000000以上のダメージを無効化
+EN: Void damage >= 1000000 for 99 turns
+KR: Void damage >= 1000000 for 99 turns
 
-# 17680/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17680/74 - 九尾狐の守り
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
 
-# 17681/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17681/92 - 傾国神炎
+JP: 火ドロップを5個生成
+EN: Spawn 5 random Fire orbs
+KR: Spawn 5 random Fire orbs
 
-# 17682/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17682/79 - 狐火
+JP: 左から3列目のドロップが火ドロップに変化
+EN: Change the 3rd row to Fire orbs
+KR: Change the 3rd row to Fire orbs
 
-# 17683/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17683/130 - 太古の鎖蔓
+JP: 2ターンの間、攻撃力が50%減少
+EN: ATK -50% for 2 turns
+KR: ATK -50% for 2 turns
 
-# 17684/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17684/86 - 大樹の癒やし
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 17685/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17685/17 - 木牛の覚醒
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
 
-# 17686/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17686/15 - ブルホーン
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
 
-# 17687/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17687/71 - 水流の呪法
+JP: 3ターンの間、1000000以上のダメージを無効化
+EN: Void damage >= 1000000 for 3 turns
+KR: Void damage >= 1000000 for 3 turns
 
-# 17688/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17688/17 - ボルテックスカウンター
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 17689/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17689/48 - 水撃
+JP: ランダム属性のドロップを水ドロップに変化
+EN: Change a random attribute to Water orbs
+KR: Change a random attribute to Water orbs
 
-# 17690/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17690/109 - 渦巻
+JP: 1ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
+EN: Random 2 orbs change every 1.0s for 1 turn
+KR: Random 2 orbs change every 1.0s for 1 turn
 
-# 17691/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17691/74 - 七星の加護
+JP: 999ターンの間、受けるダメージからの攻撃を90%減少
+EN: Reduce damage from all sources by 90% for 999 turns
+KR: Reduce damage from all sources by 90% for 999 turns
 
-# 17692/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17692/15 - 光剣乱撃
+JP: 100%ダメージ (5連続攻撃、20%ごと)
+EN: Deal 100% damage (5 hits, 20% each)
+KR: Deal 100% damage (5 hits, 20% each)
 
-# 17693/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17693/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 17694/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17694/20 - 七星の導き
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 17695/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17695/66 - 刃翼が開いた
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17696/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17696/83 - ＿2回行動
+JP: 
+EN: 
+KR: 
 
-# 17697/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17697/46 - 七星の輝き
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 17698/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17698/15 - 斬刀豪乱撃
+JP: 2100%ダメージ (7連続攻撃、300%ごと)
+EN: Deal 2100% damage (7 hits, 300% each)
+KR: Deal 2100% damage (7 hits, 300% each)
 
-# 17699/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17699/83 - ＿20％以下
+JP: 
+EN: 
+KR: 
 
-# 17700/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17700/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
 
-# 17701/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17701/68 - 黒の雨
+JP: 15ターンの間、お邪魔ドロップを+20%に落ちてくる
+EN: Jammer skyfall +20% for 15 turns
+KR: Jammer skyfall +20% for 15 turns
 
 # 17702/0 - なし
 JP: nothing

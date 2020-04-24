@@ -6852,11 +6852,11 @@ EN: Change all orbs to Fire and Light orbs
 KR: Change all orbs to Fire and Light orbs
 
 # 1864/116 - Chaotic Call
-Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Changes Orbs to Fire, Wood, and Dark Orbs
-JP: 全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が1.5倍
-EN: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
-KR: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
+JP: 全ドロップのロック状態を解除。全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が2倍
+EN: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
+KR: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
 
 # 1865/5 - IT'S A SHOW TIME! 
 Tags: STOP_TIME
@@ -16815,23 +16815,23 @@ KR: For 1 turn, 2.5x ATK for Dragon and Machine types
 # 6267/116 - Starry Road - Flare
 Tags: ORB_CONVERT,DROP_CHANCE
 Game: Changes Wood & Light Orbs to Fire Orbs; Heal Orbs slightly more likely to appear for 2 turns
-JP: 木と光ドロップを火ドロップに変化。2ターンの間、回復ドロップが15％落ちやすくなる
-EN: Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%
-KR: Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%
+JP: 木、光、お邪魔、爆弾ドロップを火ドロップに変化。3ターンの間、回復ドロップが15％落ちやすくなる
+EN: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
+KR: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
 
 # 6268/154 - 
 Tags: ORB_CONVERT
 Game: 
-JP: 木と光ドロップを火ドロップに変化
-EN: Change Wood and Light orbs to Fire orbs
-KR: Change Wood and Light orbs to Fire orbs
+JP: 木、光、お邪魔、爆弾ドロップを火ドロップに変化
+EN: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs
+KR: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs
 
 # 6269/126 - 
 Tags: DROP_CHANCE
 Game: 
-JP: 2ターンの間、回復ドロップが15％落ちやすくなる
-EN: For 2 turns, Heal orbs are more likely to appear by 15%
-KR: For 2 turns, Heal orbs are more likely to appear by 15%
+JP: 3ターンの間、回復ドロップが15％落ちやすくなる
+EN: For 3 turns, Heal orbs are more likely to appear by 15%
+KR: For 3 turns, Heal orbs are more likely to appear by 15%
 
 # 6273/127 - Healing Cut
 Tags: LINE_ORBS_CONVERTER
@@ -17928,9 +17928,9 @@ KR: For 5 turns, Fire and Dark orbs are more likely to appear by 10%
 # 7149/118 - Heroine Power
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,MASSIVE_ATTACK,ORB_CONVERT,ALL_ORBS_CONVERT,DROP_CHANCE,FIXED_DAMAGE,LINE_ORBS_CONVERTER,ADD_COMBO,ETC
 Game: Activates a random skill from a set pool
-JP: 下からスキルをランダムて発動：１、敵全体に30万の固定ダメージ。全ドロップを火と光ドロップに変化；２、木、回復、お邪魔、毒、猛毒ドロップを火ドロップに変化。4ターンの間、火ドロップが15％落ちやすくなる；３、闇と回復ドロップを水ドロップに変化。1ターンの間、2コンボ加算される；４、全ドロップを火と闇ドロップに変化。1ターンの間、ドラゴンとマシンタイプの攻撃力が2.5倍；５、木と光ドロップを火ドロップに変化。2ターンの間、回復ドロップが15％落ちやすくなる；６、右から2列目を回復ドロップに変化；７、全ドロップを木、光、回復ドロップに変化；８、全ドロップを光と闇ドロップに変化
-EN: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
-KR: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood and Light orbs to Fire orbs; For 2 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
+JP: 下からスキルをランダムて発動：１、敵全体に30万の固定ダメージ。全ドロップを火と光ドロップに変化；２、木、回復、お邪魔、毒、猛毒ドロップを火ドロップに変化。4ターンの間、火ドロップが15％落ちやすくなる；３、闇と回復ドロップを水ドロップに変化。1ターンの間、2コンボ加算される；４、全ドロップを火と闇ドロップに変化。1ターンの間、ドラゴンとマシンタイプの攻撃力が2.5倍；５、木、光、お邪魔、爆弾ドロップを火ドロップに変化。3ターンの間、回復ドロップが15％落ちやすくなる；６、右から2列目を回復ドロップに変化；７、全ドロップを木、光、回復ドロップに変化；８、全ドロップを光と闇ドロップに変化
+EN: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
+KR: Activate a random skill from the list: 1) Deal 300000 fixed damage to all enemies; Change all orbs to Fire and Light orbs, 2) Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Fire orbs; For 4 turns, Fire orbs are more likely to appear by 15%, 3) Change Dark and Heal orbs to Water orbs; For 1 turn, increase combo count by 2, 4) Change all orbs to Fire and Dark orbs; For 1 turn, 2.5x ATK for Dragon and Machine types, 5) Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%, 6) Change the 2nd column from the right to Heal orbs, 7) Change all orbs to Wood, Light, and Heal orbs, and 8) Change all orbs to Light and Dark orbs
 
 # 7150/118 - Rare Power
 Tags: GRAVITY,MENACE,REDUCE_DAMAGE,HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,ETC
@@ -24543,18 +24543,18 @@ EN: Change all orbs to Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Wood, Light, Dark, and Heal orbs
 
 # 10091/116 - Hurricane Jail
-Tags: ORB_CONVERT,EXTENDS_TIME
+Tags: ORB_CONVERT,ENHANCED_HEAL,EXTENDS_TIME
 Game: Changes Fire & Light Orbs to Wood Orbs; 1.5x Orb move time for 1 turn
-JP: 火と光ドロップを木ドロップに変化。1ターンの間、ドロップ操作時間が1.5倍
-EN: Change Fire and Light orbs to Wood orbs; For 1 turn, 1.5x orb move time
-KR: Change Fire and Light orbs to Wood orbs; For 1 turn, 1.5x orb move time
+JP: 火、光、毒、猛毒ドロップを木ドロップに変化。1ターンの間、回復力が1.5倍。1ターンの間、ドロップ操作時間が1.5倍
+EN: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
+KR: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
 
 # 10092/154 - 
 Tags: ORB_CONVERT
 Game: 
-JP: 火と光ドロップを木ドロップに変化
-EN: Change Fire and Light orbs to Wood orbs
-KR: Change Fire and Light orbs to Wood orbs
+JP: 火、光、毒、猛毒ドロップを木ドロップに変化
+EN: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs
+KR: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs
 
 # 10093/132 - 
 Tags: EXTENDS_TIME
@@ -26720,11 +26720,11 @@ EN: Create 6 Light orbs
 KR: Create 6 Light orbs
 
 # 10938/116 - From the Depths...
-Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT
+Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,ENHANCED_HEAL
 Game: Changes Jammers, Heal & Poison Orbs to Water Orbs; 3x ATK for Water Att. for 1 turn
-JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化。1ターンの間、水属性の攻撃力が3倍
-EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x ATK for Water Att.
-KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x ATK for Water Att.
+JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化。1ターンの間、回復力が3倍。1ターンの間、水と闇属性の攻撃力が3倍
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Dark Att.
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Dark Att.
 
 # 10939/154 - 
 Tags: ATTACK_STANCE,ORB_CONVERT
@@ -26740,12 +26740,12 @@ JP: HPを全回復
 EN: Recover all HP
 KR: Recover all HP
 
-# 10941/50 - 
+# 10941/90 - 
 Tags: ENHANCED_ATTACK
 Game: 
-JP: 1ターンの間、水属性の攻撃力が3倍
-EN: For 1 turn, 3x ATK for Water Att.
-KR: For 1 turn, 3x ATK for Water Att.
+JP: 1ターンの間、水と闇属性の攻撃力が3倍
+EN: For 1 turn, 3x ATK for Water and Dark Att.
+KR: For 1 turn, 3x ATK for Water and Dark Att.
 
 # 10947/116 - Pulsar 67
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER
@@ -27464,16 +27464,16 @@ KR: Create 3 Wood and Light orbs
 # 11212/116 - Queen Marionette
 Tags: ENHANCED_ORBS,MENACE
 Game: Creates 4 Dark Orbs at random, Dark Orbs enhanced; delays enemies' next move for 1 turn
-JP: 闇ドロップを4個生成。闇ドロップを強化。敵の行動を1ターン遅らせる
-EN: Create 4 Dark orbs; Enhance all Dark orbs; Delay enemies' next attack by 1 turn
-KR: Create 4 Dark orbs; Enhance all Dark orbs; Delay enemies' next attack by 1 turn
+JP: 闇ドロップを6個生成。闇ドロップを強化。敵の行動を1ターン遅らせる
+EN: Create 6 Dark orbs; Enhance all Dark orbs; Delay enemies' next attack by 1 turn
+KR: Create 6 Dark orbs; Enhance all Dark orbs; Delay enemies' next attack by 1 turn
 
 # 11213/141 - 
 Tags: 
 Game: 
-JP: 闇ドロップを4個生成
-EN: Create 4 Dark orbs
-KR: Create 4 Dark orbs
+JP: 闇ドロップを6個生成
+EN: Create 6 Dark orbs
+KR: Create 6 Dark orbs
 
 # 11214/18 - 
 Tags: MENACE
@@ -27485,16 +27485,16 @@ KR: Delay enemies' next attack by 1 turn
 # 11219/116 - Dozen Flares
 Tags: MASSIVE_ATTACK,LINE_ORBS_CONVERTER,REMOVE_LOCK
 Game: Fire attack of 20x team's Fr & Dk ATK on all enemies; removes Orb locks and changes the top row to Fire Orbs
-JP: 敵全体にチームの火と闇属性の総攻撃力ｘ20倍の火属性攻撃。全ドロップのロック状態を解除。最上段を火ドロップに変化
-EN: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
-KR: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
+JP: 敵全体にチームの火と闇属性の総攻撃力ｘ25倍の火属性攻撃。全ドロップのロック状態を解除。最上段を火ドロップに変化
+EN: Deal Fire damage equal to 25x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
+KR: Deal Fire damage equal to 25x of team's total Fire and Dark ATK to all enemies; Unlock all orbs; Change the top row to Fire orbs
 
 # 11220/144 - 
 Tags: MASSIVE_ATTACK
 Game: 
-JP: 敵全体にチームの火と闇属性の総攻撃力ｘ20倍の火属性攻撃
-EN: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies
-KR: Deal Fire damage equal to 20x of team's total Fire and Dark ATK to all enemies
+JP: 敵全体にチームの火と闇属性の総攻撃力ｘ25倍の火属性攻撃
+EN: Deal Fire damage equal to 25x of team's total Fire and Dark ATK to all enemies
+KR: Deal Fire damage equal to 25x of team's total Fire and Dark ATK to all enemies
 
 # 11221/172 - 
 Tags: REMOVE_LOCK
@@ -27511,11 +27511,11 @@ EN: Change the top row to Fire orbs
 KR: Change the top row to Fire orbs
 
 # 11226/116 - Twin Cannon - Full Burst
-Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER,NEW_GRAVITY
 Game: Inflicts damage equal to 5% of enemies' max HP; creates a cross of Water Orbs
-JP: 敵の最大HPの5％分のダメージ。上から3行目を水ドロップに変化。右から3列目を水ドロップに変化
-EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
-KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs
+JP: 敵の最大HPの5％分のダメージ。上から3行目を水ドロップに変化。右から3列目を水ドロップに変化。1ターンの間、水属性の攻撃力が1.5倍
+EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.
+KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.
 
 # 11227/161 - 
 Tags: NEW_GRAVITY
@@ -27693,11 +27693,11 @@ EN: Lock all Dark orbs
 KR: Lock all Dark orbs
 
 # 11277/116 - Heart of the Warrior
-Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT
+Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,ENHANCED_HEAL
 Game: 3x ATK for Water & Light Att. for 1 turn; changes Jammers, Poison & Heal Orbs to Light Orbs
-JP: 1ターンの間、水と光属性の攻撃力が3倍。回復、お邪魔、毒、猛毒ドロップを光ドロップに変化
-EN: For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
-KR: For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
+JP: 1ターンの間、回復力が3倍。1ターンの間、水と光属性の攻撃力が3倍。回復、お邪魔、毒、猛毒ドロップを光ドロップに変化
+EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
+KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 
 # 11278/90 - 
 Tags: ENHANCED_ATTACK
@@ -27721,11 +27721,11 @@ EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 
 # 11284/116 - Draconic Pact
-Tags: ORB_CONVERT,ADD_COMBO
+Tags: ORB_CONVERT,EXTENDS_TIME,ADD_COMBO
 Game: Adds 2 combos for 1 turn; changes Jammers, Light & Poison Orbs to Water Orbs
-JP: 1ターンの間、2コンボ加算される。光、お邪魔、毒、猛毒ドロップを水ドロップに変化
-EN: For 1 turn, increase combo count by 2; Change Light, Jammer, Poison, and Mortal Poison orbs to Water orbs
-KR: For 1 turn, increase combo count by 2; Change Light, Jammer, Poison, and Mortal Poison orbs to Water orbs
+JP: 1ターンの間、2コンボ加算される。1ターンの間、ドロップ操作時間が2秒に延長。光、お邪魔、毒、猛毒ドロップを水ドロップに変化
+EN: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds; Change Light, Jammer, Poison, and Mortal Poison orbs to Water orbs
+KR: For 1 turn, increase combo count by 2; For 1 turn, increase orb move time by 2 seconds; Change Light, Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 11285/154 - 
 Tags: ORB_CONVERT
@@ -27744,9 +27744,9 @@ KR: For 1 turn, increase combo count by 2
 # 11290/116 - Wake Up
 Tags: ALL_ORBS_CONVERT,DROP_CHANCE,REMOVE_LOCK
 Game: Removes Orb locks, changes Orbs to Fire & Light Orbs; Fire Orbs slightly more likely to appear for 4 turns
-JP: 全ドロップのロック状態を解除。全ドロップを火と光ドロップに変化。4ターンの間、火ドロップが15％落ちやすくなる
-EN: Unlock all orbs; Change all orbs to Fire and Light orbs; For 4 turns, Fire orbs are more likely to appear by 15%
-KR: Unlock all orbs; Change all orbs to Fire and Light orbs; For 4 turns, Fire orbs are more likely to appear by 15%
+JP: 全ドロップのロック状態を解除。全ドロップを火と光ドロップに変化。8ターンの間、火ドロップが15％落ちやすくなる
+EN: Unlock all orbs; Change all orbs to Fire and Light orbs; For 8 turns, Fire orbs are more likely to appear by 15%
+KR: Unlock all orbs; Change all orbs to Fire and Light orbs; For 8 turns, Fire orbs are more likely to appear by 15%
 
 # 11291/172 - 
 Tags: REMOVE_LOCK
@@ -27758,16 +27758,16 @@ KR: Unlock all orbs
 # 11292/126 - 
 Tags: DROP_CHANCE
 Game: 
-JP: 4ターンの間、火ドロップが15％落ちやすくなる
-EN: For 4 turns, Fire orbs are more likely to appear by 15%
-KR: For 4 turns, Fire orbs are more likely to appear by 15%
+JP: 8ターンの間、火ドロップが15％落ちやすくなる
+EN: For 8 turns, Fire orbs are more likely to appear by 15%
+KR: For 8 turns, Fire orbs are more likely to appear by 15%
 
 # 11296/116 - Savage Fang
 Tags: SINGLE_TARGET_ATTACK,ORB_CONVERT,SUICIDE
 Game: Inflicts 100x ATK Wood Att. attack on 1 enemy, but halves HP; changes Fr, Dk, Poison Orbs & Jammers to Wd
-JP: HPが50％減少。敵1体に攻撃力ｘ100倍の木属性攻撃。火、闇、お邪魔、毒、猛毒ドロップを木ドロップに変化
-EN: Reduce HP by 50%; Deal 100x Wood damage to an enemy; Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
-KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy; Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+JP: HPが50％減少。敵1体に攻撃力ｘ100倍の木属性攻撃。火、闇、お邪魔、毒、猛毒、爆弾ドロップを木ドロップに変化
+EN: Reduce HP by 50%; Deal 100x Wood damage to an enemy; Change Fire, Dark, Jammer, Poison, Mortal Poison, and Bomb orbs to Wood orbs
+KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy; Change Fire, Dark, Jammer, Poison, Mortal Poison, and Bomb orbs to Wood orbs
 
 # 11297/84 - 
 Tags: SINGLE_TARGET_ATTACK,SUICIDE
@@ -27779,9 +27779,9 @@ KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy
 # 11298/154 - 
 Tags: ORB_CONVERT
 Game: 
-JP: 火、闇、お邪魔、毒、猛毒ドロップを木ドロップに変化
-EN: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
-KR: Change Fire, Dark, Jammer, Poison, and Mortal Poison orbs to Wood orbs
+JP: 火、闇、お邪魔、毒、猛毒、爆弾ドロップを木ドロップに変化
+EN: Change Fire, Dark, Jammer, Poison, Mortal Poison, and Bomb orbs to Wood orbs
+KR: Change Fire, Dark, Jammer, Poison, Mortal Poison, and Bomb orbs to Wood orbs
 
 # 11302/116 - Tsukuyomi's Dance
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,EXTENDS_TIME
@@ -30416,11 +30416,11 @@ EN: For 1 turn, all attacks become mass attack
 KR: For 1 turn, all attacks become mass attack
 
 # 12171/116 - Blue Aurora Barrier
-Tags: ATTACK_STANCE,ORB_CONVERT,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Tags: ATTACK_STANCE,ORB_CONVERT,AWOKEN_INVALID_RECOVERY,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Changes Heal Orbs to Fire Orbs; voids damage absorption & Att. absorption for 1 turn
-JP: 回復ドロップを火ドロップに変化。1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: Change Heal orbs to Fire orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: Change Heal orbs to Fire orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 回復ドロップを火ドロップに変化。覚醒無効を全回復。1ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+KR: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 
 # 12172/154 - 
 Tags: ATTACK_STANCE,ORB_CONVERT
@@ -37352,12 +37352,12 @@ JP: 全ドロップを水、回復、お邪魔ドロップに変化
 EN: Change all orbs to Water, Heal, and Jammer orbs
 KR: Change all orbs to Water, Heal, and Jammer orbs
 
-# 14344/154 - Token Hunter
-Tags: GUARD_STANCE,ORB_CONVERT
+# 14344/116 - Token Hunter
+Tags: GUARD_STANCE,ORB_CONVERT,EXTENDS_TIME
 Game: Changes Jammers, Bombs & Poison Orbs to Heal Orbs
-JP: お邪魔、毒、猛毒、爆弾ドロップを回復ドロップに変化
-EN: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs
-KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs
+JP: お邪魔、毒、猛毒、爆弾ドロップを回復ドロップに変化。1ターンの間、ドロップ操作時間が1秒に延長
+EN: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs; For 1 turn, increase orb move time by 1 second
+KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs; For 1 turn, increase orb move time by 1 second
 
 # 14345/141 - 
 Tags: 
@@ -45221,11 +45221,11 @@ EN: Reduce awoken skill binds by 5 turns
 KR: Reduce awoken skill binds by 5 turns
 
 # 16642/116 - トゥインクルダーク
-Tags: ADD_COMBO
-Game: 1ターンの間、回復力が激減。 1ターンの間、3コンボ加算される。
-JP: 1ターンの間、回復力が0.25倍。1ターンの間、3コンボ加算される
-EN: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
-KR: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
+Tags: ENHANCED_ATTACK,ADD_COMBO
+Game: 1ターンの間、回復力が激減、光属性の攻撃力が1.5倍。 1ターンの間、3コンボ加算される。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、光属性の攻撃力が1.5倍。1ターンの間、3コンボ加算される
+EN: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
+KR: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
 
 # 16643/50 - 
 Tags: 
@@ -46035,7 +46035,455 @@ KR: Change all orbs to Fire, Wood, and Dark orbs
 # 16888/88 - 
 Tags: ENHANCED_ATTACK
 Game: 
-JP: 1ターンの間、悪魔タイプの攻撃力が1.5倍
-EN: For 1 turn, 1.5x ATK for Devil type
-KR: For 1 turn, 1.5x ATK for Devil type
+JP: 1ターンの間、悪魔タイプの攻撃力が2倍
+EN: For 1 turn, 2x ATK for Devil type
+KR: For 1 turn, 2x ATK for Devil type
+
+# 16889/116 - 輝け、満月
+Tags: LINE_ORBS_CONVERTER,VOID_SKYFALLS
+Game: 1ターンの間、落ちコンしなくなる。 左端縦1列を回復に、右端縦1列を水ドロップに変化。
+JP: 1ターンの間、落ちコンしなくなる。最左端を回復に、最右端を水ドロップに変化
+EN: For 1 turn, no skyfall; Change the far left column to Heal orbs and change the far right column to Water orbs
+KR: For 1 turn, no skyfall; Change the far left column to Heal orbs and change the far right column to Water orbs
+
+# 16890/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 1ターンの間、落ちコンしなくなる
+EN: For 1 turn, no skyfall
+KR: For 1 turn, no skyfall
+
+# 16891/127 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最左端を回復に、最右端を水ドロップに変化
+EN: Change the far left column to Heal orbs and change the far right column to Water orbs
+KR: Change the far left column to Heal orbs and change the far right column to Water orbs
+
+# 16897/116 - 屠れ、新月
+Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
+Game: 1ターンの間、回復力が0になり、ドロップ操作が2秒短縮。 最上段横1列を水ドロップに変化。
+JP: 1ターンの間、回復力が0倍。1ターンの間、ドロップ操作時間が-2秒に延長。最上段を水ドロップに変化
+EN: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Water orbs
+KR: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Water orbs
+
+# 16898/50 - 
+Tags: 
+Game: 
+JP: 1ターンの間、回復力が0倍
+EN: For 1 turn, 0x RCV
+KR: For 1 turn, 0x RCV
+
+# 16899/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最上段を水ドロップに変化
+EN: Change the top row to Water orbs
+KR: Change the top row to Water orbs
+
+# 16900/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が-2秒に延長
+EN: For 1 turn, increase orb move time by -2 seconds
+KR: For 1 turn, increase orb move time by -2 seconds
+
+# 16904/116 - 癒しの光を！
+Tags: REDUCE_DAMAGE,HEAL
+Game: HPを全回復。 1ターンの間、受けるダメージを激減。
+JP: HPを全回復。1ターンの間、受けるダメージを75％減少
+EN: Recover all HP; For 1 turn, reduce damage taken by 75%
+KR: Recover all HP; For 1 turn, reduce damage taken by 75%
+
+# 16905/117 - 
+Tags: HEAL
+Game: 
+JP: HPを全回復
+EN: Recover all HP
+KR: Recover all HP
+
+# 16906/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 1ターンの間、受けるダメージを75％減少
+EN: For 1 turn, reduce damage taken by 75%
+KR: For 1 turn, reduce damage taken by 75%
+
+# 16910/116 - これがボクのスペシャルアタック！
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
+Game: 1ターンの間、木属性の攻撃力が1.5倍。 全ドロップを木、闇、回復ドロップに変化。
+JP: 1ターンの間、木属性の攻撃力が1.5倍。全ドロップを木、闇、回復ドロップに変化
+EN: For 1 turn, 1.5x ATK for Wood Att.; Change all orbs to Wood, Dark, and Heal orbs
+KR: For 1 turn, 1.5x ATK for Wood Att.; Change all orbs to Wood, Dark, and Heal orbs
+
+# 16911/50 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、木属性の攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Wood Att.
+KR: For 1 turn, 1.5x ATK for Wood Att.
+
+# 16912/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを木、闇、回復ドロップに変化
+EN: Change all orbs to Wood, Dark, and Heal orbs
+KR: Change all orbs to Wood, Dark, and Heal orbs
+
+# 16916/116 - やらせませんよ
+Tags: DROP_CHANCE,AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: 3ターンの間、闇ドロップが少し落ちやすくなる。 消せないドロップと覚醒無効状態を3ターン回復。
+JP: 3ターンの間、闇ドロップが15％落ちやすくなる。消せないドロップ状態を3ターン回復。覚醒無効を3ターン回復
+EN: For 3 turns, Dark orbs are more likely to appear by 15%; Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
+KR: For 3 turns, Dark orbs are more likely to appear by 15%; Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
+
+# 16917/126 - 
+Tags: DROP_CHANCE
+Game: 
+JP: 3ターンの間、闇ドロップが15％落ちやすくなる
+EN: For 3 turns, Dark orbs are more likely to appear by 15%
+KR: For 3 turns, Dark orbs are more likely to appear by 15%
+
+# 16918/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を3ターン回復
+EN: Reduce unable to match orbs effect by 3 turns
+KR: Reduce unable to match orbs effect by 3 turns
+
+# 16919/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を3ターン回復
+EN: Reduce awoken skill binds by 3 turns
+KR: Reduce awoken skill binds by 3 turns
+
+# 16925/141 - これで決めます！
+Tags: 
+Game: ランダムで闇ドロップを4個生成。
+JP: 闇ドロップを4個生成
+EN: Create 4 Dark orbs
+KR: Create 4 Dark orbs
+
+# 16926/3 - 
+Tags: REDUCE_DAMAGE
+Game: 
+JP: 6ターンの間、受けるダメージを30％減少
+EN: For 6 turns, reduce damage taken by 30%
+KR: For 6 turns, reduce damage taken by 30%
+
+# 16927/18 - 
+Tags: MENACE
+Game: 
+JP: 敵の行動を1ターン遅らせる
+EN: Delay enemies' next attack by 1 turn
+KR: Delay enemies' next attack by 1 turn
+
+# 16931/116 - 過去の束縛
+Tags: MASSIVE_ATTACK,SUICIDE,FIXED_DAMAGE
+Game: HPが50％減るが、敵全体に10万の固定ダメージ。 ランダムで火ドロップを6個生成。
+JP: HPが50％減少。敵全体に10万の固定ダメージ。火ドロップを6個生成
+EN: Reduce HP by 50%; Deal 100000 fixed damage to all enemies; Create 6 Fire orbs
+KR: Reduce HP by 50%; Deal 100000 fixed damage to all enemies; Create 6 Fire orbs
+
+# 16932/195 - 
+Tags: SUICIDE
+Game: 
+JP: HPが50％減少
+EN: Reduce HP by 50%
+KR: Reduce HP by 50%
+
+# 16933/56 - 
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 
+JP: 敵全体に10万の固定ダメージ
+EN: Deal 100000 fixed damage to all enemies
+KR: Deal 100000 fixed damage to all enemies
+
+# 16937/141 - 
+Tags: 
+Game: 
+JP: 火ドロップを6個生成
+EN: Create 6 Fire orbs
+KR: Create 6 Fire orbs
+
+# 16938/116 - 現在の繁栄
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO
+Game: 下から2列目横1列を回復ドロップに変化。 1ターンの間、2コンボ加算される。
+JP: 下から2行目を回復ドロップに変化。1ターンの間、2コンボ加算される
+EN: Change the 2nd row from the bottom to Heal orbs; For 1 turn, increase combo count by 2
+KR: Change the 2nd row from the bottom to Heal orbs; For 1 turn, increase combo count by 2
+
+# 16939/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 下から2行目を回復ドロップに変化
+EN: Change the 2nd row from the bottom to Heal orbs
+KR: Change the 2nd row from the bottom to Heal orbs
+
+# 16940/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、2コンボ加算される
+EN: For 1 turn, increase combo count by 2
+KR: For 1 turn, increase combo count by 2
+
+# 16945/156 - 未来の創造
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、チーム内の封印耐性の覚醒数に応じて 攻撃力が上昇。
+JP: チーム内の封印耐性の覚醒数1つにつき攻撃力が20％上がる
+EN: For 1 turn, increase ATK by 20% for each Resistance-Skill Bind awakening skill on the team
+KR: For 1 turn, increase ATK by 20% for each Resistance-Skill Bind awakening skill on the team
+
+# 16946/117 - 
+Tags: HEAL
+Game: 
+JP: 最大HP30％分回復
+EN: Recover 30% of max HP
+KR: Recover 30% of max HP
+
+# 16947/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が1秒に延長
+EN: For 1 turn, increase orb move time by 1 second
+KR: For 1 turn, increase orb move time by 1 second
+
+# 17011/116 - 朱雀七星守
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,ADD_COMBO
+Game: 1ターンの間、3コンボ加算、操作時間を3秒延長。 全ドロップを火、木、光ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。1ターンの間、ドロップ操作時間が3秒に延長。全ドロップを火、木、光ドロップに変化
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Wood, and Light orbs
+KR: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Wood, and Light orbs
+
+# 17012/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 17013/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3秒に延長
+EN: For 1 turn, increase orb move time by 3 seconds
+KR: For 1 turn, increase orb move time by 3 seconds
+
+# 17014/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、木、光ドロップに変化
+EN: Change all orbs to Fire, Wood, and Light orbs
+KR: Change all orbs to Fire, Wood, and Light orbs
+
+# 17015/116 - 青龍七星守
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,ADD_COMBO
+Game: 1ターンの間、3コンボ加算、操作時間を3秒延長。 全ドロップを水、木、闇ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。1ターンの間、ドロップ操作時間が3秒に延長。全ドロップを水、木、闇ドロップに変化
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Water, Wood, and Dark orbs
+KR: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Water, Wood, and Dark orbs
+
+# 17016/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 17017/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3秒に延長
+EN: For 1 turn, increase orb move time by 3 seconds
+KR: For 1 turn, increase orb move time by 3 seconds
+
+# 17018/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを水、木、闇ドロップに変化
+EN: Change all orbs to Water, Wood, and Dark orbs
+KR: Change all orbs to Water, Wood, and Dark orbs
+
+# 17019/116 - 玄武七星守
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,ADD_COMBO
+Game: 1ターンの間、3コンボ加算、操作時間を3秒延長。 全ドロップを木、光、闇ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。1ターンの間、ドロップ操作時間が3秒に延長。全ドロップを木、光、闇ドロップに変化
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Wood, Light, and Dark orbs
+KR: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Wood, Light, and Dark orbs
+
+# 17020/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 17021/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3秒に延長
+EN: For 1 turn, increase orb move time by 3 seconds
+KR: For 1 turn, increase orb move time by 3 seconds
+
+# 17022/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを木、光、闇ドロップに変化
+EN: Change all orbs to Wood, Light, and Dark orbs
+KR: Change all orbs to Wood, Light, and Dark orbs
+
+# 17023/116 - 麒麟四源守
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,ADD_COMBO
+Game: 1ターンの間、3コンボ加算、操作時間を3秒延長。 全ドロップを火、水、木、光、回復ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。1ターンの間、ドロップ操作時間が3秒に延長。全ドロップを火、水、木、光、回復ドロップに変化
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
+KR: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Water, Wood, Light, and Heal orbs
+
+# 17024/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 17025/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3秒に延長
+EN: For 1 turn, increase orb move time by 3 seconds
+KR: For 1 turn, increase orb move time by 3 seconds
+
+# 17026/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、回復ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
+KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
+
+# 17027/116 - 白虎七星守
+Tags: ALL_ORBS_CONVERT,EXTENDS_TIME,ADD_COMBO
+Game: 1ターンの間、3コンボ加算、操作時間を3秒延長。 全ドロップを火、水、闇ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。1ターンの間、ドロップ操作時間が3秒に延長。全ドロップを火、水、闇ドロップに変化
+EN: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Water, and Dark orbs
+KR: For 1 turn, increase combo count by 3; For 1 turn, increase orb move time by 3 seconds; Change all orbs to Fire, Water, and Dark orbs
+
+# 17028/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、3コンボ加算される
+EN: For 1 turn, increase combo count by 3
+KR: For 1 turn, increase combo count by 3
+
+# 17029/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が3秒に延長
+EN: For 1 turn, increase orb move time by 3 seconds
+KR: For 1 turn, increase orb move time by 3 seconds
+
+# 17030/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、闇ドロップに変化
+EN: Change all orbs to Fire, Water, and Dark orbs
+KR: Change all orbs to Fire, Water, and Dark orbs
+
+# 17040/116 - 四神蒼聖剣
+Tags: LINE_ORBS_CONVERTER,VOID_DAMAGE_ABSORBS
+Game: 2ターンの間、ダメージ吸収を無効化する。 左端縦1列を水ドロップに、右端縦1列を光ドロップに変化。
+JP: 2ターンの間、ダメージ吸収を無効化する。最左端を水に、最右端を光ドロップに変化
+EN: For 2 turns, bypass damage absorb shield effects; Change the far left column to Water orbs and change the far right column to Light orbs
+KR: For 2 turns, bypass damage absorb shield effects; Change the far left column to Water orbs and change the far right column to Light orbs
+
+# 17041/173 - 
+Tags: VOID_DAMAGE_ABSORBS
+Game: 
+JP: 2ターンの間、ダメージ吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield effects
+KR: For 2 turns, bypass damage absorb shield effects
+
+# 17042/127 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最左端を水に、最右端を光ドロップに変化
+EN: Change the far left column to Water orbs and change the far right column to Light orbs
+KR: Change the far left column to Water orbs and change the far right column to Light orbs
+
+# 17050/56 - 3000日記念たまぁ！
+Tags: MASSIVE_ATTACK,FIXED_DAMAGE
+Game: 敵全体に3000の固定ダメージ。
+JP: 敵全体に3000の固定ダメージ
+EN: Deal 3000 fixed damage to all enemies
+KR: Deal 3000 fixed damage to all enemies
+
+# 17051/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が3倍
+EN: For 1 turn, 3x RCV
+KR: For 1 turn, 3x RCV
+
+# 17052/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が3倍
+EN: For 1 turn, 3x RCV
+KR: For 1 turn, 3x RCV
+
+# 17053/50 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、水属性の攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Water Att.
+KR: For 1 turn, 1.5x ATK for Water Att.
+
+# 17054/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が2秒に延長
+EN: For 1 turn, increase orb move time by 2 seconds
+KR: For 1 turn, increase orb move time by 2 seconds
+
+# 17055/154 - 
+Tags: GUARD_STANCE,ORB_CONVERT
+Game: 
+JP: お邪魔、毒、猛毒、爆弾ドロップを回復ドロップに変化
+EN: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs
+KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Heal orbs
+
+# 17056/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が1秒に延長
+EN: For 1 turn, increase orb move time by 1 second
+KR: For 1 turn, increase orb move time by 1 second
+
+# 17059/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が1.5倍
+EN: For 1 turn, 1.5x RCV
+KR: For 1 turn, 1.5x RCV
+
+# 17060/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 17061/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を全回復
+EN: Remove all awoken skill binds
+KR: Remove all awoken skill binds
+
+# 17062/50 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、光属性の攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Light Att.
+KR: For 1 turn, 1.5x ATK for Light Att.
 

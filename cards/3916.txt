@@ -4,9 +4,9 @@ AWK: 49,26,26,26,2,1
 SAWK: 
 
 # 1864/116 - Chaotic Call
-Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Changes Orbs to Fire, Wood, and Dark Orbs
-JP: 全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が1.5倍
-EN: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
-KR: Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 1.5x ATK for Devil type
+JP: 全ドロップのロック状態を解除。全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が2倍
+EN: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
+KR: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
 

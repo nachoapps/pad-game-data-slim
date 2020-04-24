@@ -1,0 +1,20 @@
+#6165 癒しの大天使・ラファエル【ダークカラー】
+HP: 4687 ATK: 2298 RCV: 228 LB: 25
+AWK: 52,21,21,28,19,16,16,16,16
+SAWK: 57,43,33
+
+# 16910/116 - これがボクのスペシャルアタック！
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
+Game: 1ターンの間、木属性の攻撃力が1.5倍。 全ドロップを木、闇、回復ドロップに変化。
+JP: 1ターンの間、木属性の攻撃力が1.5倍。全ドロップを木、闇、回復ドロップに変化
+EN: For 1 turn, 1.5x ATK for Wood Att.; Change all orbs to Wood, Dark, and Heal orbs
+KR: For 1 turn, 1.5x ATK for Wood Att.; Change all orbs to Wood, Dark, and Heal orbs
+
+# 16913/138 - ボクのダンスを見せてあげる！
+Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
+Stats: [1.5, 12.0, 3.0, 0]
+Game: 【7×6マス】木属性のHPが1.5倍、攻撃力は4倍。 木の2コンボ以上で攻撃力と回復力が3倍。
+JP: 【7×6マス】木属性の攻撃力が4倍、HPが1.5倍。木の2コンボ以上で攻撃力と回復力が3倍。
+EN: [Board becomes 7x6] 4x ATK and 1.5x HP for Wood Att.; 3x ATK & RCV when matching 2+ Wood combos
+KR: [Board becomes 7x6] 4x ATK and 1.5x HP for Wood Att.; 3x ATK & RCV when matching 2+ Wood combos
+

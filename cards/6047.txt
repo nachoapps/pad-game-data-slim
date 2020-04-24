@@ -1,14 +1,14 @@
 #6047 大魔女の弟子・ドーナ
-HP: 7223 ATK: 2631 RCV: 177 LB: 30
-AWK: 52,48,48,21,21,25,25,25,25
+HP: 7423 ATK: 2781 RCV: 177 LB: 30
+AWK: 52,48,48,62,56,25,25,25,25
 SAWK: 48,43,60
 
 # 16642/116 - トゥインクルダーク
-Tags: ADD_COMBO
-Game: 1ターンの間、回復力が激減。 1ターンの間、3コンボ加算される。
-JP: 1ターンの間、回復力が0.25倍。1ターンの間、3コンボ加算される
-EN: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
-KR: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
+Tags: ENHANCED_ATTACK,ADD_COMBO
+Game: 1ターンの間、回復力が激減、光属性の攻撃力が1.5倍。 1ターンの間、3コンボ加算される。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、光属性の攻撃力が1.5倍。1ターンの間、3コンボ加算される
+EN: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
+KR: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
 
 # 16645/138 - 黄光霊の魔印
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK

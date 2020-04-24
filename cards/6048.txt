@@ -1,14 +1,14 @@
 #6048 輝命の魔女・ドーナ
-HP: 6123 ATK: 2531 RCV: 567 LB: 30
-AWK: 52,21,21,28,53,48,43,43,70
+HP: 6223 ATK: 2631 RCV: 627 LB: 30
+AWK: 52,56,56,28,53,48,43,43,70
 SAWK: 48,43,60
 
 # 16642/116 - トゥインクルダーク
-Tags: ADD_COMBO
-Game: 1ターンの間、回復力が激減。 1ターンの間、3コンボ加算される。
-JP: 1ターンの間、回復力が0.25倍。1ターンの間、3コンボ加算される
-EN: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
-KR: For 1 turn, 0.25x RCV; For 1 turn, increase combo count by 3
+Tags: ENHANCED_ATTACK,ADD_COMBO
+Game: 1ターンの間、回復力が激減、光属性の攻撃力が1.5倍。 1ターンの間、3コンボ加算される。
+JP: 1ターンの間、回復力が0.25倍。1ターンの間、光属性の攻撃力が1.5倍。1ターンの間、3コンボ加算される
+EN: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
+KR: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
 
 # 16649/177 - 黄光霊の操術
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS

@@ -4,11 +4,11 @@ AWK: 10,10,21,21,28,19,51,32,33
 SAWK: 
 
 # 10938/116 - From the Depths...
-Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT
+Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,ENHANCED_HEAL
 Game: Changes Jammers, Heal & Poison Orbs to Water Orbs; 3x ATK for Water Att. for 1 turn
-JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化。1ターンの間、水属性の攻撃力が3倍
-EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x ATK for Water Att.
-KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x ATK for Water Att.
+JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化。1ターンの間、回復力が3倍。1ターンの間、水と闇属性の攻撃力が3倍
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Dark Att.
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs; For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Dark Att.
 
 # 10942/138 - Let's end this, OK?
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

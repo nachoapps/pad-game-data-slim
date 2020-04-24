@@ -4,9 +4,9 @@ AWK: 16,60
 SAWK: 
 
 # 10091/116 - Hurricane Jail
-Tags: ORB_CONVERT,EXTENDS_TIME
+Tags: ORB_CONVERT,ENHANCED_HEAL,EXTENDS_TIME
 Game: Changes Fire & Light Orbs to Wood Orbs; 1.5x Orb move time for 1 turn
-JP: 火と光ドロップを木ドロップに変化。1ターンの間、ドロップ操作時間が1.5倍
-EN: Change Fire and Light orbs to Wood orbs; For 1 turn, 1.5x orb move time
-KR: Change Fire and Light orbs to Wood orbs; For 1 turn, 1.5x orb move time
+JP: 火、光、毒、猛毒ドロップを木ドロップに変化。1ターンの間、回復力が1.5倍。1ターンの間、ドロップ操作時間が1.5倍
+EN: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
+KR: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
 

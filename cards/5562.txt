@@ -1,12 +1,12 @@
 #5562 Burning Flowers Grimoire
-HP: 5108 ATK: 2064 RCV: 530 LB: 0
-AWK: 49,52,11,12,3
+HP: 5208 ATK: 2164 RCV: 590 LB: 0
+AWK: 49,52,11,11,12,3
 SAWK: 
 
 # 12171/116 - Blue Aurora Barrier
-Tags: ATTACK_STANCE,ORB_CONVERT,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Tags: ATTACK_STANCE,ORB_CONVERT,AWOKEN_INVALID_RECOVERY,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Changes Heal Orbs to Fire Orbs; voids damage absorption & Att. absorption for 1 turn
-JP: 回復ドロップを火ドロップに変化。1ターンの間、ダメージ吸収と属性吸収を無効化する
-EN: Change Heal orbs to Fire orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
-KR: Change Heal orbs to Fire orbs; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+JP: 回復ドロップを火ドロップに変化。覚醒無効を全回復。1ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
+KR: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 
