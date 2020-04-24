@@ -29,3 +29,51 @@ level: 5
  condition: when 2 enemies remain, turn 1, hp <= 100
  | (17385:19) 聖獣の怒り
  | Increase damage to 300% for the next 999 turns
+
+level: 6
+ type: PREEMPT
+ | (17386:107) 宝果の輝き
+ | Unable to match Heal orbs for 1 turn
+ group:
+ | (17388:15) 尻尾ビンタ
+ | Deal 100% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17385:19) 聖獣の怒り
+ | Increase damage to 300% for the next 999 turns
+
+level: 8
+ type: PREEMPT
+ | (17387:92) 宝果の輝き
+ | Spawn 6 random Heal orbs
+ group:
+ | (17388:15) 尻尾ビンタ
+ | Deal 100% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17385:19) 聖獣の怒り
+ | Increase damage to 300% for the next 999 turns
+
+level: 9
+ type: PREEMPT
+ | (17386:107) 宝果の輝き
+ | Unable to match Heal orbs for 1 turn
+ group:
+ | (17388:15) 尻尾ビンタ
+ | Deal 100% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17385:19) 聖獣の怒り
+ | Increase damage to 300% for the next 999 turns
+
+level: 10
+ type: PREEMPT
+ | (17387:92) 宝果の輝き
+ | Spawn 6 random Heal orbs
+ group:
+ | (17388:15) 尻尾ビンタ
+ | Deal 100% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17385:19) 聖獣の怒り
+ | Increase damage to 300% for the next 999 turns

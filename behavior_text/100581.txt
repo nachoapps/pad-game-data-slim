@@ -29,3 +29,51 @@ level: 5
  condition: when 2 enemies remain, turn 1, hp <= 100
  | (17348:19) Rage of the Phantom Beast
  | Increase damage to 300% for the next 999 turns
+
+level: 6
+ type: PREEMPT
+ | (17345:94) Cry of the Water Horse
+ | Lock all orbs
+ group:
+ | (17347:94) Wail of the Water Horse
+ | Lock 20 random orbs, Deal 90% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17348:19) Rage of the Phantom Beast
+ | Increase damage to 300% for the next 999 turns
+
+level: 8
+ type: PREEMPT
+ | (17346:14) Cry of the Water Horse
+ | Bind active skills for 10 turns
+ group:
+ | (17347:94) Wail of the Water Horse
+ | Lock 20 random orbs, Deal 90% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17348:19) Rage of the Phantom Beast
+ | Increase damage to 300% for the next 999 turns
+
+level: 9
+ type: PREEMPT
+ | (17345:94) Cry of the Water Horse
+ | Lock all orbs
+ group:
+ | (17347:94) Wail of the Water Horse
+ | Lock 20 random orbs, Deal 90% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17348:19) Rage of the Phantom Beast
+ | Increase damage to 300% for the next 999 turns
+
+level: 10
+ type: PREEMPT
+ | (17346:14) Cry of the Water Horse
+ | Bind active skills for 10 turns
+ group:
+ | (17347:94) Wail of the Water Horse
+ | Lock 20 random orbs, Deal 90% damage
+ type: REMAINING
+ condition: when 2 enemies remain, turn 1, hp <= 100
+ | (17348:19) Rage of the Phantom Beast
+ | Increase damage to 300% for the next 999 turns
