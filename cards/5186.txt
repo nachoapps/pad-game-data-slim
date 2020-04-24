@@ -11,8 +11,8 @@ EN: For 1 turn, no skyfall; Change all orbs to Wood and Light orbs
 KR: For 1 turn, no skyfall; Change all orbs to Wood and Light orbs
 
 # 13089/138 - Floating Mountain Dragon
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 24.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 24.0, 1.0, 0.0, +2]
 Game: 4x ATK & adds 2 combos with 6+ linked Wood & Light Orbs each; 2x HP & 6x ATK for Wood Att.
 JP: 木と光を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。木属性の攻撃力が6倍、HPが2倍。
 EN: 4x ATK and increase combo by 2 when matching 6 or more connected Wood and Light orbs at once; 6x ATK and 2x HP for Wood Att.

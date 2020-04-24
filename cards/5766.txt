@@ -11,8 +11,8 @@ EN: For 1 turn, reduce damage taken by 3% for each Skill Boost awakening skill o
 KR: For 1 turn, reduce damage taken by 3% for each Skill Boost awakening skill on the team; For 1 turn, increase ATK by 10% for each Skill Boost awakening skill on the team
 
 # 15432/138 - Zero-One Buster Bomber
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 18.0, 1.0, 0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 18.0, 1.0, 0, +2]
 Game: [Orb move time: 5 sec], 2x HP & 3x ATK for Light & Dark Att.; 6x ATK & adds 2 combos with 6+ linked Light Orbs
 JP: 【操作時間5秒固定】光と闇属性の攻撃力が3倍、HPが2倍。光を6個以上つなげて消しと攻撃力が6倍、2コンボ加算。
 EN: [Fixed 5 second movetime] 3x ATK and 2x HP for Light and Dark Att.; 6x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once

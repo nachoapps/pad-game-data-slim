@@ -11,8 +11,8 @@ EN: Change all enemies to Fire Att.; Create 6 Water orbs
 KR: Change all enemies to Fire Att.; Create 6 Water orbs
 
 # 14566/138 - These feelings of mine... will never die.
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 15.0, 1, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 15.0, 1, 0.5, +1]
 Game: 3x ATK & adds 1 combo with 6+ linked Water Orbs; 5x ATK & halves damage with 8+ combos
 JP: 水を6個以上つなげて消しと攻撃力が3倍、1コンボ加算。8コンボ以上で攻撃力が5倍、受けるダメージを50％減少。
 EN: 3x ATK and increase combo by 1 when matching 6 or more connected Water orbs at once; 5x ATK and reduce damage taken by 50% when 8 or more combos

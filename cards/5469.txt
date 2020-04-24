@@ -11,8 +11,8 @@ EN: Change the top row to Fire orbs and change the bottom row to Water orbs; For
 KR: Change the top row to Fire orbs and change the bottom row to Water orbs; For 4 turns, Fire orbs are more likely to appear by 15%
 
 # 14114/138 - 海賊は奪い合い殺し合いが本業！
-Tags: ENHANCED_HP_ATK
-Stats: [1.5, 6.0, 1.0, 0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [1.5, 6.0, 1.0, 0, +1]
 Game: 火属性の攻撃力が6倍、水属性のHPが1.5倍。 火と水を同時に6個以上つなげて消すと、1コンボ加算。
 JP: 火属性の攻撃力が6倍。水属性のHPが1.5倍。火と水を6個以上同時につなげて消しと、1コンボ加算。
 EN: 6x ATK for Fire Att.; 1.5x HP for Water Att.; Increase combo by 1 when matching 6 or more connected Fire and Water orbs at once

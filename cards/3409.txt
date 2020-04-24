@@ -11,8 +11,8 @@ EN: Change the far left column and the far right column to Dark orbs; Charge all
 KR: Change the far left column and the far right column to Dark orbs; Charge all allies' skills by 1 turn
 
 # 6917/138 - Anryu Tenha
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 18.0, 1.5, 0.0]
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [1.5, 18.0, 1.5, 0.0, +2]
 Game: 1.5x to all stats for Dark Att., 4x ATK with 5+ combos; 3x ATK & adds 2 combos with 9+ linked Dark Orbs
 JP: 闇属性の全パラメータが1.5倍。5コンボ以上で攻撃力が4倍。闇を9個以上つなげて消しと攻撃力が3倍、2コンボ加算。
 EN: 1.5x all stats for Dark Att.; 4x ATK when 5 or more combos; 3x ATK and increase combo by 2 when matching 9 or more connected Dark orbs at once

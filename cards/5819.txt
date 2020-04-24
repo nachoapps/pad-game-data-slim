@@ -11,8 +11,8 @@ EN: For 1 turn, increase combo count by 1; Lock all orbs
 KR: For 1 turn, increase combo count by 1; Lock all orbs
 
 # 15658/138 - The wind speaks. It tells me...to fight!
-Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
-Stats: [1.5, 20.0, 1.0, 0.25]
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 20.0, 1.0, 0.25, +1]
 Game: 1.5x HP for Wd Att., ATK increases with 4+ combos, up to 20x; adds 1 combo & reduces dmg with 6+ linked Wood Orbs
 JP: 木属性のHPが1.5倍。4コンボ以上で攻撃力が8倍、最大10コンボで20倍。木を6個以上つなげて消しと、1コンボ加算。木を6個以上つなげて消すと受けるダメージを25％減少。
 EN: 1.5x HP for Wood Att.; 8x ATK when 4 or more combos up to 20x at 10 combos; Increase combo by 1 when matching 6 or more connected Wood orbs at once; Reduce damage taken by 25% when matching 6 or more connected Wood orbs

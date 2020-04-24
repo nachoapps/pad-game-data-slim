@@ -11,8 +11,8 @@ EN: For 3 turns, Dark orbs are more likely to appear by 15%; Reduce unable to ma
 KR: For 3 turns, Dark orbs are more likely to appear by 15%; Reduce unable to match orbs effect by 3 turns; Reduce awoken skill binds by 3 turns
 
 # 16920/138 - 私がお相手しますね
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 14.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 14.0, 1.0, 0.0, +3]
 Game: 悪魔タイプのHPが2倍。スキル使用時、攻撃力が7倍。 闇の2コンボ以上で攻撃力が2倍、3コンボ加算。
 JP: 悪魔タイプのHPが2倍。スキル使用時、攻撃力が7倍。闇の2コンボ以上で攻撃力が2倍。Increase combo by 3 when matching 2 or more Dark combos
 EN: 2x HP for Devil type; 7x ATK on the turn a skill is used; 2x ATK when matching 2+ Dark combos; Increase combo by 3 when matching 2 or more Dark combos

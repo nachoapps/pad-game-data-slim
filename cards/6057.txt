@@ -11,8 +11,8 @@ EN: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark o
 KR: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark orbs
 
 # 16664/138 - 魔導の知識
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 14.0, 1, 0.25]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 14.0, 1, 0.25, +2]
 Game: 闇光の同時攻撃でダメージを軽減、攻撃力が14倍。 光と闇を同時に5個以上つなげて消すと、2コンボ加算。
 JP: 闇、光の同時攻撃で攻撃力が14倍、受けるダメージを25％減少。光と闇を5個以上同時につなげて消しと、2コンボ加算。
 EN: 14x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once

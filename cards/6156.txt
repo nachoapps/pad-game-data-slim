@@ -11,8 +11,8 @@ EN: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Hea
 KR: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Heal orbs
 
 # 16831/138 - 古魚霊の泳術
-Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
-Stats: [1.0, 20.0, 5.0, 0.35]
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.0, 20.0, 5.0, 0.35, +3]
 Game: 水属性の攻撃力と回復力が5倍。スキル使用時、攻撃力が4倍。 回復を5個以上つなげて消すとダメージを軽減、3コンボ加算。
 JP: 水属性の攻撃力と回復力が5倍。スキル使用時、攻撃力が4倍。回復を5個以上つなげて消しと、3コンボ加算。回復を5個以上つなげて消すと受けるダメージを35％減少。
 EN: 5x ATK & RCV for Water Att.; 4x ATK on the turn a skill is used; Increase combo by 3 when matching 5 or more connected Heal orbs at once; Reduce damage taken by 35% when matching 5 or more connected Heal orbs

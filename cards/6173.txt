@@ -11,8 +11,8 @@ EN: Change the 2nd row from the bottom to Heal orbs; For 1 turn, increase combo 
 KR: Change the 2nd row from the bottom to Heal orbs; For 1 turn, increase combo count by 2
 
 # 16941/138 - 神流の覚醒
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [2.0, 18.0, 2.0, 0]
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 18.0, 2.0, 0, +1]
 Game: 転生、超転生進化のみでチームを組むと、全パラメータが2倍。 回復を5個以上つなげて消すと攻撃力が9倍、1コンボ加算。
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが2倍。回復を5個以上つなげて消しと攻撃力が9倍、1コンボ加算。
 EN: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK and increase combo by 1 when matching 5 or more connected Heal orbs at once

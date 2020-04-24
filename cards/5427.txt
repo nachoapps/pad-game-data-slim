@@ -11,8 +11,8 @@ EN: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage tak
 KR: Recover all HP; Remove all awoken skill binds; For 1 turn, reduce damage taken by 100%
 
 # 13950/138 - Precise Mechanism Draco Summoning Seal
-Tags: ENHANCED_HP_ATK
-Stats: [2.0, 25.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 25.0, 1.0, 0.0, +2]
 Game: 25x ATK & adds 2 combos with 6+ linked Fire & Water Orbs each; 2x HP for Fire Att.
 JP: 火と水を6個以上同時につなげて消しと攻撃力が25倍、2コンボ加算。火属性のHPが2倍。
 EN: 25x ATK and increase combo by 2 when matching 6 or more connected Fire and Water orbs at once; 2x HP for Fire Att.

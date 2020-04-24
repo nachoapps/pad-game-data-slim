@@ -11,8 +11,8 @@ EN: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Water orbs; Charge all allies' skills by 1 turn
 
 # 4478/138 - Bankai - Daiguren Hyorinmaru
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 15.0, 1.5, 0.0]
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [1.5, 15.0, 1.5, 0.0, +2]
 Game: ATK increases erasing 5+ linked Water Orbs, up to 5x
 JP: 水属性の全パラメータが1.5倍。水を5個以上つなげて消しと攻撃力が10倍、2コンボ加算。
 EN: 1.5x all stats for Water Att.; 10x ATK and increase combo by 2 when matching 5 or more connected Water orbs at once
