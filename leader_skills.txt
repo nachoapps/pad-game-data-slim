@@ -71059,7 +71059,7 @@ KR: 1 additional damage when matching Water, Wood, and Dark at once
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,EXTRA_COMBOS
 Stats: [2.0, 15.0, 1.0, 0, +2]
 Game: 水属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 水の2コンボ以上で攻撃力が7.5倍、2コンボ加算。
-JP: 水属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。水の2コンボ以上で攻撃力が7.5倍。Increase combo by 2 when matching 2 or more Water combos
+JP: 水属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。水の2コンボ以上で攻撃力が7.5倍。2コンボ以上で2コンボ加算
 EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7.5x ATK when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
 KR: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7.5x ATK when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
 
@@ -71083,7 +71083,7 @@ KR: 7.5x ATK when matching 2+ Water combos
 Tags: EXTRA_COMBOS
 Stats: [1, 1, 1, 0, +2]
 Game: 
-JP: Increase combo by 2 when matching 2 or more Water combos
+JP: 2コンボ以上で2コンボ加算
 EN: Increase combo by 2 when matching 2 or more Water combos
 KR: Increase combo by 2 when matching 2 or more Water combos
 
@@ -71339,7 +71339,7 @@ KR: 3x ATK & RCV when matching 2+ Wood combos
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 14.0, 1.0, 0.0, +3]
 Game: 悪魔タイプのHPが2倍。スキル使用時、攻撃力が7倍。 闇の2コンボ以上で攻撃力が2倍、3コンボ加算。
-JP: 悪魔タイプのHPが2倍。スキル使用時、攻撃力が7倍。闇の2コンボ以上で攻撃力が2倍。Increase combo by 3 when matching 2 or more Dark combos
+JP: 悪魔タイプのHPが2倍。スキル使用時、攻撃力が7倍。闇の2コンボ以上で攻撃力が2倍。2コンボ以上で3コンボ加算
 EN: 2x HP for Devil type; 7x ATK on the turn a skill is used; 2x ATK when matching 2+ Dark combos; Increase combo by 3 when matching 2 or more Dark combos
 KR: 2x HP for Devil type; 7x ATK on the turn a skill is used; 2x ATK when matching 2+ Dark combos; Increase combo by 3 when matching 2 or more Dark combos
 
@@ -71371,7 +71371,7 @@ KR: 2x ATK when matching 2+ Dark combos
 Tags: EXTRA_COMBOS
 Stats: [1, 1, 1, 0, +3]
 Game: 
-JP: Increase combo by 3 when matching 2 or more Dark combos
+JP: 2コンボ以上で3コンボ加算
 EN: Increase combo by 3 when matching 2 or more Dark combos
 KR: Increase combo by 3 when matching 2 or more Dark combos
 
