@@ -5880,7 +5880,7 @@ KR: Change Heal orbs to Fire orbs; Reduce binds by 5 turns
 
 # 1609/116 - Dragon Strike Stance - Water
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
-Game: Changes Heal Orbs to Water Orbs, plus bind status is reduced by 3 turns
+Game: Changes Heal Orbs to Water Orbs; reduces bind status by 5 turns
 JP: 回復ドロップを水ドロップに変化。バインドを5ターン回復
 EN: Change Heal orbs to Water orbs; Reduce binds by 5 turns
 KR: Change Heal orbs to Water orbs; Reduce binds by 5 turns
@@ -6720,7 +6720,7 @@ KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Fire orbs; Recover 3
 
 # 1844/116 - Dragon Strike Stance - Wood
 Tags: ATTACK_STANCE,ORB_CONVERT,RECOVER_BIND
-Game: Changes Heal Orbs to Wood Orbs, plus bind status is reduced by 3 turns
+Game: Changes Heal Orbs to Wood Orbs; reduces bind status by 5 turns
 JP: 回復ドロップを木ドロップに変化。バインドを5ターン回復
 EN: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
 KR: Change Heal orbs to Wood orbs; Reduce binds by 5 turns
@@ -45173,7 +45173,7 @@ KR: For 3 turns, reduce damage taken by 50%
 
 # 16623/116 - Poison Steam
 Tags: ORB_CONVERT,DROP_CHANCE
-Game: Poison Orbs & Jammers more likely to appear for 2 turns; changes Poison Orbs & Jammers to Dark Orbs
+Game: Jammers & Poison Orbs more likely to appear for 2 turns; changes Jammers & Poison Orbs to Dark Orbs
 JP: 2ターンの間、お邪魔と毒が10％の確率で落ちてくる。お邪魔、毒、猛毒ドロップを闇ドロップに変化
 EN: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: For 2 turns, Jammer and Poison orbs are more likely to appear by 10%; Change Jammer, Poison, and Mortal Poison orbs to Dark orbs

@@ -44769,7 +44769,7 @@ KR: 2x ATK & RCV when matching Dark and Water
 # 10679/138 - Chief Spirit of the Firedragon
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 14.0, 2.0, 0]
-Game: 2x ATK & RCV for Fire Att., Orb move time +3 seconds; ATK increases when attacking with 3+ Att., up to 7x
+Game: 2x ATK & RCV for Fire Att., Orb move time +3 seconds; 7x ATK when 2+ Att. attack at once
 JP: 火属性の攻撃力と回復力が2倍。ドロップ操作時間を3秒延長。2色以上同時攻撃で攻撃力が7倍。
 EN: 2x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds; 7x ATK when matching 2 or more colors
 KR: 2x ATK & RCV for Fire Att.; Increase orb movement time by 3 seconds; 7x ATK when matching 2 or more colors
@@ -44793,7 +44793,7 @@ KR: 7x ATK when matching 2 or more colors
 # 10682/138 - Chief Spirit of the Icedragon
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 14.0, 2.0, 0]
-Game: 2x ATK & RCV for Water Att., Orb move time +3 seconds; 5x ATK for Att. erasing 5 Orbs including enhanced
+Game: 2x ATK & RCV for Water Att., Orb move time +3 seconds; 7x ATK with 4+ linked Water Orbs
 JP: 水属性の攻撃力と回復力が2倍。ドロップ操作時間を3秒延長。水を4個以上つなげて消すと攻撃力が7倍。
 EN: 2x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds; 7x ATK when matching 4 or more connected Water orbs
 KR: 2x ATK & RCV for Water Att.; Increase orb movement time by 3 seconds; 7x ATK when matching 4 or more connected Water orbs
@@ -44817,7 +44817,7 @@ KR: 7x ATK when matching 4 or more connected Water orbs
 # 10685/138 - Chief Spirit of the Flowerdragon
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 14.0, 2.0, 0]
-Game: 2x ATK & RCV for Wood Att., Orb move time +3 seconds; ATK increases with 5+ combos, up to 6x
+Game: 2x ATK & RCV for Wood Att., Orb move time +3 seconds; 7x ATK with 4+ combos
 JP: 木属性の攻撃力と回復力が2倍。ドロップ操作時間を3秒延長。4コンボ以上で攻撃力が7倍。
 EN: 2x ATK & RCV for Wood Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
 KR: 2x ATK & RCV for Wood Att.; Increase orb movement time by 3 seconds; 7x ATK when 4 or more combos
@@ -53817,7 +53817,7 @@ KR: 4x ATK when 4 or more combos
 # 12721/138 - True Spirit of the Byakko
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 17.5, 1.0, 0.25]
-Game: 1.5x HP for Dark Att., 5x ATK when HP is 50% or more; 3x ATK & reduces damage when Fr, Wt & Dk attack at once
+Game: 1.5x HP for Dark Att., 5x ATK when HP is 50% or more; 3.5x ATK & reduces damage when Fr, Wt & Dk attack at once
 JP: 闇属性のHPが1.5倍。HPが50%以上で攻撃力が5倍。火、水、闇の同時攻撃で攻撃力が3.5倍、受けるダメージを25％減少。
 EN: 1.5x HP for Dark Att.; 5x ATK when above 50% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark
 KR: 1.5x HP for Dark Att.; 5x ATK when above 50% HP; 3.5x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark
