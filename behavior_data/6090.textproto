@@ -22,6 +22,11 @@
               enemy_skill_id: 17350
             }
           }
+          children {
+            behavior {
+              enemy_skill_id: 17351
+            }
+          }
         }
       }
       children {
@@ -51,16 +56,6 @@
               }
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 17351
         }
       }
     }

@@ -16,6 +16,11 @@
           enemy_skill_id: 16679
         }
       }
+      children {
+        behavior {
+          enemy_skill_id: 16678
+        }
+      }
     }
     groups {
       group_type: STANDARD
@@ -76,16 +81,6 @@
               enemy_skill_id: 16688
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 16678
         }
       }
     }
@@ -181,4 +176,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

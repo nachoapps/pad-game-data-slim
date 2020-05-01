@@ -23,6 +23,8 @@ level: 1
    | condition: execute repeatedly, turn 2 of 2
      | (6104:75) Hypno Pursuit
      | Leader changes to random sub for 1 turn, Deal 90% damage
+     | (6092:88) Helpless Suggestion
+     | Bind awoken skills for 1 turn, Deal 90% damage
  | group:
  | condition: turn 1 while HP > 24, hp <= 49
    | (6107:83) Mournful Meteor + Forbidden Area
@@ -39,5 +41,3 @@ level: 1
  | condition: at most 3 times
  | (6110:83) Glitter Force + Remedy
  | Increase damage to 200% for the next 999 turns + Enemy recover 20% HP
- | (6092:88) Helpless Suggestion
- | Bind awoken skills for 1 turn, Deal 90% damage

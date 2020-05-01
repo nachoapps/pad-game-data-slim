@@ -13,6 +13,8 @@ level: 1
  type: PREEMPT
  | (16679:75) Are you capable of stopping me?
  | Leader changes to random sub for 3 turns
+ | (16678:83) You are not the true leader! + Scatter!
+ | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each), Deal 1000% damage (4 hits, 250% each)
  group:
  | group:
    | group:
@@ -30,6 +32,3 @@ level: 1
  | condition: turn 1, hp <= 49
    | (16688:83) This will end it. + I shall not give you long.
    | Increase damage to 1000% for the next 999 turns + Reduce damage from all sources by 99% for 3 turns
- type: UNKNOWN_USE
- | (16678:83) You are not the true leader! + Scatter!
- | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each), Deal 1000% damage (4 hits, 250% each)

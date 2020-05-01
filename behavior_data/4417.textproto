@@ -265,18 +265,16 @@
               enemy_skill_id: 9850
             }
           }
+          children {
+            behavior {
+              enemy_skill_id: 9886
+            }
+          }
         }
       }
     }
     groups {
       group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 9886
-        }
-      }
       children {
         behavior {
           condition {

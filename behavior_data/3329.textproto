@@ -49,6 +49,11 @@
                   enemy_skill_id: 6104
                 }
               }
+              children {
+                behavior {
+                  enemy_skill_id: 6092
+                }
+              }
             }
           }
         }
@@ -105,13 +110,6 @@
             limited_execution: 3
           }
           enemy_skill_id: 6110
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 6092
         }
       }
     }

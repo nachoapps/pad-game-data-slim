@@ -91,9 +91,9 @@ level: 1
  | condition: hp <= 19
    | (9850:75) Forceful Throw
    | Leader changes to random sub for 5 turns
+   | (9886:15) Raging Rebellious Attack
+   | Deal 320% damage (8 hits, 40% each)
  type: UNKNOWN_USE
- | (9886:15) Raging Rebellious Attack
- | Deal 320% damage (8 hits, 40% each)
  | (9880:83) Rage + Risky Attack
  | Increase damage to 240% for the next 2 turns + Reduce damage from all sources by 30% for 3 turns, Deal 110% damage
  | (9881:83) Rage + Risky Attack

@@ -14,6 +14,8 @@ level: 1
  | group:
    | (17350:75) Harmful Prank
    | Leader changes to random sub for 1 turn, Deal 100% damage
+   | (17351:88) Dissolving Mucus
+   | Bind awoken skills for 1 turn, Deal 100% damage
  | group:
  | condition: hp <= 9
    | group:
@@ -23,6 +25,3 @@ level: 1
    | group:
      | (17352:15) Devour
      | Deal 1000% damage (5 hits, 200% each)
- type: UNKNOWN_USE
- | (17351:88) Dissolving Mucus
- | Bind awoken skills for 1 turn, Deal 100% damage

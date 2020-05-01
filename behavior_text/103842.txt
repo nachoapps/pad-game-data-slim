@@ -13,6 +13,8 @@ level: 1
  type: PREEMPT
  | (16679:75) 我が策に対処できるか？
  | Leader changes to random sub for 3 turns
+ | (17200:83) 貴様、真の頭首ではないな！ + 散るがいい！ + まだ耐えるというのか…
+ | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each) + Voids status ailments for 999 turns, Deal 1000% damage (4 hits, 250% each)
  group:
  | group:
    | group:
@@ -30,6 +32,3 @@ level: 1
  | condition: turn 1, hp <= 49
    | (16688:83) これで終わらせる + しばし時をやろう
    | Increase damage to 1000% for the next 999 turns + Reduce damage from all sources by 99% for 3 turns
- type: UNKNOWN_USE
- | (17200:83) 貴様、真の頭首ではないな！ + 散るがいい！ + まだ耐えるというのか…
- | Delay active skills by 3~6 turns + Deal 1000% damage (4 hits, 250% each) + Voids status ailments for 999 turns, Deal 1000% damage (4 hits, 250% each)
