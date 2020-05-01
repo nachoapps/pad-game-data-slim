@@ -20,7 +20,7 @@ counter + 1
 #4: ESBranchCounter(32:22) -> ESBranchCounter
 Branch on counter >= 6, target rnd 7
 
-#5: ESAttackMultihit(15:17319) -> Spear of Light, Brionac
+#5: ESAttackMultihit(15:17319) -> Spear of Sunlight Brionac
 Deal 100% damage (5 hits, 20% each)
 
 #6: ESEndPath(36:26) -> ESEndPath

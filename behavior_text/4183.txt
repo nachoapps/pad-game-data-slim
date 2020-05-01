@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
  | condition: execute repeatedly, turn 1-5 of 6
-   | (17319:15) Spear of Light, Brionac
+   | (17319:15) Spear of Sunlight Brionac
    | Deal 100% damage (5 hits, 20% each)
  | group:
  | condition: execute repeatedly, turn 6 of 6

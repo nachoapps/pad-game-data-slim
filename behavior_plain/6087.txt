@@ -9,11 +9,11 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:17287) -> Spirit Water Robe
+	[0] ESStatusShield(20:17287) -> Spirit Water Vestments
 	Voids status ailments for 999 turns
 	[1] ESDebuffMovetime(39:17288) -> Entrust with the Sealed Sword
 	Movetime 50% for 20 turns
-	[2] ESDamageShield(74:17289) -> Wreathed Carapace
+	[2] ESDamageShield(74:17289) -> Fitted Carapace
 	Reduce damage from all sources by 99% for 1 turn
 	[3] ESBlindStickySkyfall(128:17290) -> Dark Lake Bottom
 	For 4 turns, 25% chance for skyfall orbs to be blinded for turn
@@ -30,7 +30,7 @@ Branch on level >= 6, target rnd 6
 	Absorb damage when combos <= 6 for 999 turns
 	[1] ESSkyfallLocked(96:17293) -> Constrict in the Lake
 	Locked random skyfall +50% for 99 turns
-	[2] ESAttackMultihit(15:17309) -> Blade Scizor
+	[2] ESAttackMultihit(15:17309) -> Blade Scissor
 	Deal 60% damage (4 hits, 15% each)
 
 #6: SkillSet:
@@ -39,7 +39,7 @@ Branch on level >= 6, target rnd 6
 	Absorb damage when combos <= 7 for 999 turns
 	[1] ESSkyfallLocked(96:17293) -> Constrict in the Lake
 	Locked random skyfall +50% for 99 turns
-	[2] ESAttackMultihit(15:17309) -> Blade Scizor
+	[2] ESAttackMultihit(15:17309) -> Blade Scissor
 	Deal 60% damage (4 hits, 15% each)
 
 #7: ESBranchFlag(43:10) -> ESBranchFlag
@@ -75,7 +75,7 @@ Branch on combo >= 3, target rnd 14
 
 #15: SkillSet:
 	Condition: 50% chance (ai:0 rnd:50)
-	[0] ESAttackMultihit(15:17309) -> Blade Scizor
+	[0] ESAttackMultihit(15:17309) -> Blade Scissor
 	Deal 60% damage (4 hits, 15% each)
 	[1] ESSpinnersFixed(110:17310) -> Recurring Fear
 	Specific orbs change every 2.0s for 1 turn, Deal 40% damage
@@ -119,7 +119,7 @@ end_turn
 #26: SkillSet:
 	[0] ES7x6Change(126:17295) -> Mysteries of the Lake Bottom
 	Change board size to 7x6 for 2 turns
-	[1] ESDamageShield(74:17296) -> Wreathed Carapace
+	[1] ESDamageShield(74:17296) -> Fitted Carapace
 	Reduce damage from all sources by 90% for 2 turns
 
 #27: ESEndPath(36:26) -> ESEndPath

@@ -13,18 +13,18 @@ level: 1
  | (17284:118) Healer Physical Attacker Halved
  | Reduce damage from Physical, Healer, and Attacker types by 50%
  type: PREEMPT
- | (17286:83) Spirit Water Robe + Entrust with the Sealed Sword + Wreathed Carapace + Dark Lake Bottom
+ | (17286:83) Spirit Water Vestments + Entrust with the Sealed Sword + Fitted Carapace + Dark Lake Bottom
  | Voids status ailments for 999 turns + Movetime 50% for 20 turns + Reduce damage from all sources by 99% for 1 turn + For 4 turns, 25% chance for skyfall orbs to be blinded for turn
  group:
  | group:
  | condition: always turn 1
-   | (17282:83) Gilded Carapace + Constrict in the Lake + Blade Scizor
+   | (17282:83) Gilded Carapace + Constrict in the Lake + Blade Scissor
    | Absorb damage when combos <= 6 for 999 turns + Locked random skyfall +50% for 99 turns + Deal 60% damage (4 hits, 15% each), Deal 60% damage (4 hits, 15% each)
  | group:
    | group:
    | condition: turns 2-3 while HP > 9
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -33,7 +33,7 @@ level: 1
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 4 while HP > 9
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: turn 5 while HP > 9
@@ -42,7 +42,7 @@ level: 1
    | group:
    | condition: turns 6-8 while HP > 9
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -51,7 +51,7 @@ level: 1
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 9 while HP > 9
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: turn 10 while HP > 9
@@ -64,7 +64,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 1-2 of 5
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -73,7 +73,7 @@ level: 1
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: execute repeatedly, turn 3 of 5
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: execute repeatedly, turn 4 of 5
@@ -82,7 +82,7 @@ level: 1
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -106,18 +106,18 @@ level: 6
  | (17284:118) Healer Physical Attacker Halved
  | Reduce damage from Physical, Healer, and Attacker types by 50%
  type: PREEMPT
- | (17286:83) Spirit Water Robe + Entrust with the Sealed Sword + Wreathed Carapace + Dark Lake Bottom
+ | (17286:83) Spirit Water Vestments + Entrust with the Sealed Sword + Fitted Carapace + Dark Lake Bottom
  | Voids status ailments for 999 turns + Movetime 50% for 20 turns + Reduce damage from all sources by 99% for 1 turn + For 4 turns, 25% chance for skyfall orbs to be blinded for turn
  group:
  | group:
  | condition: always turn 1
-   | (17291:83) Gilded Carapace + Constrict in the Lake + Blade Scizor
+   | (17291:83) Gilded Carapace + Constrict in the Lake + Blade Scissor
    | Absorb damage when combos <= 7 for 999 turns + Locked random skyfall +50% for 99 turns + Deal 60% damage (4 hits, 15% each), Deal 60% damage (4 hits, 15% each)
  | group:
    | group:
    | condition: turns 2-3 while HP > 9
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -126,7 +126,7 @@ level: 6
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 4 while HP > 9
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: turn 5 while HP > 9
@@ -135,7 +135,7 @@ level: 6
    | group:
    | condition: turns 6-8 while HP > 9
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -144,7 +144,7 @@ level: 6
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: turn 9 while HP > 9
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: turn 10 while HP > 9
@@ -157,7 +157,7 @@ level: 6
    | group:
    | condition: execute repeatedly, turn 1-2 of 5
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
@@ -166,7 +166,7 @@ level: 6
      | Leader changes to random sub for 1 turn + Increase damage to 150% for the next 999 turns
    | group:
    | condition: execute repeatedly, turn 3 of 5
-     | (17294:83) Mysteries of the Lake Bottom + Wreathed Carapace
+     | (17294:83) Mysteries of the Lake Bottom + Fitted Carapace
      | Change board size to 7x6 for 2 turns + Reduce damage from all sources by 90% for 2 turns
    | group:
    | condition: execute repeatedly, turn 4 of 5
@@ -175,7 +175,7 @@ level: 6
    | group:
    | condition: execute repeatedly, turn 5 of 5
      | condition: 50% chance, when 3 combos last turn
-     | (17308:83) Blade Scizor + Recurring Fear
+     | (17308:83) Blade Scissor + Recurring Fear
      | Deal 60% damage (4 hits, 15% each) + Specific orbs change every 2.0s for 1 turn, Deal 60% damage (4 hits, 15% each)
      | condition: 50% chance, when 3 combos last turn
      | (17305:83) Crisis Restriction + Lake of the Mind
