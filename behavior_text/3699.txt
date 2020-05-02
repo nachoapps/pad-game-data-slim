@@ -10,6 +10,8 @@ level: 1
  type: PREEMPT
  | (16643:126) I'll do something nice for you.
  | Change board size to 7x6 for 3 turns
+ | (16644:83) It looks like there are lots of Orbs + If that's so easy for you... + Please forgive me for this
+ | Delay active skills by 15 turns + Bind awoken skills for 5 turns + Seal the 1st column for 10 turns
  group:
  | group:
  | condition: always turn 1
@@ -54,6 +56,3 @@ level: 1
    | group:
      | (16669:15) You've entertained me.
      | Deal 600% damage (4 hits, 150% each)
- type: UNKNOWN_USE
- | (16644:83) It looks like there are lots of Orbs + If that's so easy for you... + Please forgive me for this
- | Delay active skills by 15 turns + Bind awoken skills for 5 turns + Seal the 1st column for 10 turns

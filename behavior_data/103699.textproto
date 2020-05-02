@@ -8,6 +8,11 @@
           enemy_skill_id: 16643
         }
       }
+      children {
+        behavior {
+          enemy_skill_id: 17170
+        }
+      }
     }
     groups {
       group_type: STANDARD
@@ -147,16 +152,6 @@
               }
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 17170
         }
       }
     }

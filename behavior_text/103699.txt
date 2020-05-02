@@ -10,6 +10,8 @@ level: 1
  type: PREEMPT
  | (16643:126) いいことしてあげるわ
  | Change board size to 7x6 for 3 turns
+ | (17170:83) ドロップの数が多いようね + それだけ余裕があれば + これも許してくれるかしら？ + まだ物足りないかしら？ + 黒死の蝶
+ | Delay active skills by 15 turns + Bind awoken skills for 5 turns + Seal the 1st column for 10 turns + A 1×6 rectangle of clouds appears for 10 turns at 1st row, 6th column + For 20 turns, 10% chance for skyfall orbs to be blinded for turn
  group:
  | group:
  | condition: always turn 1
@@ -54,6 +56,3 @@ level: 1
    | group:
      | (16669:15) 楽しませてもらったわ
      | Deal 600% damage (4 hits, 150% each)
- type: UNKNOWN_USE
- | (17170:83) ドロップの数が多いようね + それだけ余裕があれば + これも許してくれるかしら？ + まだ物足りないかしら？ + 黒死の蝶
- | Delay active skills by 15 turns + Bind awoken skills for 5 turns + Seal the 1st column for 10 turns + A 1×6 rectangle of clouds appears for 10 turns at 1st row, 6th column + For 20 turns, 10% chance for skyfall orbs to be blinded for turn
