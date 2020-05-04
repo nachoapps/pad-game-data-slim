@@ -22,13 +22,15 @@
       group_type: STANDARD
       condition {
         hp_threshold: 100
-        use_chance: 20
       }
       children {
         behavior {
+          condition {
+            use_chance: 28
+          }
           enemy_skill_id: 42
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

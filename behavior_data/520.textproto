@@ -38,14 +38,6 @@
   level_overrides {
     level: 1
     groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 8947
-        }
-      }
-    }
-    groups {
       group_type: STANDARD
       condition {
         hp_threshold: 100
@@ -79,4 +71,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

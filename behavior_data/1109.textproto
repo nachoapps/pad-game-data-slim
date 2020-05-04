@@ -128,6 +128,7 @@
             group {
               condition {
                 trigger_turn: 1
+                always_trigger_above: 1
               }
               children {
                 behavior {
@@ -157,7 +158,6 @@
             behavior {
               condition {
                 use_chance: 80
-                if_attributes_available: true
               }
               enemy_skill_id: 3775
             }
@@ -171,4 +171,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

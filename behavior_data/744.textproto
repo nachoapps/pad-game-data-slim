@@ -94,16 +94,6 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
-          children {
-            behavior {
-              enemy_skill_id: 268
-            }
-          }
-        }
-      }
-      children {
-        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
@@ -112,6 +102,7 @@
             group {
               condition {
                 trigger_turn: 1
+                always_trigger_above: 49
               }
               children {
                 behavior {
@@ -122,6 +113,11 @@
           }
           children {
             group {
+              children {
+                behavior {
+                  enemy_skill_id: 268
+                }
+              }
               children {
                 behavior {
                   enemy_skill_id: 393
@@ -136,11 +132,27 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
-            trigger_turn: 1
           }
           children {
-            behavior {
-              enemy_skill_id: 394
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 394
+                }
+              }
+            }
+          }
+          children {
+            group {
+              children {
+                behavior {
+                  enemy_skill_id: 268
+                }
+              }
             }
           }
         }
@@ -153,6 +165,11 @@
           }
           children {
             behavior {
+              enemy_skill_id: 268
+            }
+          }
+          children {
+            behavior {
               enemy_skill_id: 154
             }
           }
@@ -160,4 +177,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
