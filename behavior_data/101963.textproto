@@ -62,11 +62,9 @@
       }
       children {
         behavior {
-          condition {
-          }
           enemy_skill_id: 10246
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

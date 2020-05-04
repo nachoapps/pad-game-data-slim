@@ -38,3 +38,43 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 16842
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+            limited_execution: 3
+          }
+          enemy_skill_id: 16840
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 30
+          }
+          enemy_skill_id: 16839
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16841
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS
