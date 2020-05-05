@@ -70,8 +70,29 @@
         hp_threshold: 100
       }
       children {
-        behavior {
-          enemy_skill_id: 15026
+        group {
+          condition {
+            repeats_every: 2
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 15026
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 2
+            trigger_turn: 2
+          }
+          children {
+            behavior {
+              enemy_skill_id: 15024
+            }
+          }
         }
       }
     }
@@ -88,4 +109,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

@@ -175,4 +175,92 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  level_overrides {
+    level: 7
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 16090
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16092
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 8
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 16091
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16092
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 9
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 16090
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16092
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 10
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 16091
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 16092
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS
