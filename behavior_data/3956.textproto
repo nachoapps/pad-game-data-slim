@@ -55,9 +55,6 @@
       group_type: PREEMPT
       children {
         behavior {
-          condition {
-            if_attributes_available: true
-          }
           enemy_skill_id: 8285
         }
       }
@@ -102,4 +99,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

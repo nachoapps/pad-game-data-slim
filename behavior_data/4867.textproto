@@ -157,6 +157,7 @@
       children {
         group {
           condition {
+            repeats_every: 5
             trigger_turn: 1
           }
           children {
@@ -169,6 +170,7 @@
       children {
         group {
           condition {
+            repeats_every: 5
             trigger_turn: 2
           }
           children {
@@ -181,6 +183,7 @@
       children {
         group {
           condition {
+            repeats_every: 5
             trigger_turn: 3
           }
           children {
@@ -193,6 +196,7 @@
       children {
         group {
           condition {
+            repeats_every: 5
             trigger_turn: 4
           }
           children {
@@ -204,6 +208,10 @@
       }
       children {
         group {
+          condition {
+            repeats_every: 5
+            trigger_turn: 5
+          }
           children {
             behavior {
               enemy_skill_id: 11445
@@ -213,4 +221,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

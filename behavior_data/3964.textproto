@@ -57,7 +57,6 @@
             behavior {
               condition {
                 use_chance: 30
-                if_attributes_available: true
               }
               enemy_skill_id: 8273
             }
@@ -88,4 +87,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
