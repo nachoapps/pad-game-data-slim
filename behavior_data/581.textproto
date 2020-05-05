@@ -26,12 +26,9 @@
       }
       children {
         behavior {
-          condition {
-            trigger_enemies_remaining: 1
-          }
           enemy_skill_id: 237
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
