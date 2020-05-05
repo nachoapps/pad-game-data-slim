@@ -129,6 +129,7 @@
           condition {
             hp_threshold: 99
             trigger_turn: 1
+            always_trigger_above: 1
           }
           children {
             behavior {
@@ -167,11 +168,10 @@
             group {
               condition {
                 trigger_turn: 1
+                always_trigger_above: 1
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 390
                 }
               }
@@ -181,12 +181,10 @@
             group {
               condition {
                 trigger_turn: 2
+                always_trigger_above: 49
               }
               children {
                 behavior {
-                  condition {
-                    trigger_enemies_remaining: 1
-                  }
                   enemy_skill_id: 270
                 }
               }
@@ -203,16 +201,11 @@
           }
           children {
             behavior {
-              condition {
-              }
               enemy_skill_id: 388
             }
           }
           children {
             behavior {
-              condition {
-                trigger_enemies_remaining: 1
-              }
               enemy_skill_id: 270
             }
           }
@@ -220,4 +213,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

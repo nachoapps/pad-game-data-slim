@@ -86,18 +86,15 @@
     groups {
       group_type: REMAINING
       condition {
-        hp_threshold: 100
         trigger_enemies_remaining: 1
         trigger_turn: 1
+        always_trigger_above: 1
       }
       children {
         behavior {
-          condition {
-            trigger_enemies_remaining: 1
-          }
           enemy_skill_id: 270
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

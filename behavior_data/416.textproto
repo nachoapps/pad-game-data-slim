@@ -40,19 +40,32 @@
     level: 1
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           condition {
+            if_attributes_available: true
             trigger_turn: 1
-            always_trigger_above: 1
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 245
             }
           }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 2
+          }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 246
             }
           }
@@ -66,6 +79,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 247
             }
           }
@@ -73,4 +88,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
