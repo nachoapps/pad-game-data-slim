@@ -117,14 +117,20 @@
     level: 5
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 205
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -141,6 +147,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 1013
             }
           }
@@ -152,23 +160,13 @@
           condition {
             hp_threshold: 74
             trigger_turn: 1
-          }
-          children {
-            behavior {
-              enemy_skill_id: 1009
-            }
+            always_trigger_above: 1
           }
           children {
             behavior {
               condition {
-                use_chance: 40
               }
-              enemy_skill_id: 1010
-            }
-          }
-          children {
-            behavior {
-              enemy_skill_id: 1013
+              enemy_skill_id: 1009
             }
           }
         }
@@ -182,29 +180,14 @@
           children {
             group {
               condition {
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1009
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1011
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
                 repeats_every: 2
                 trigger_turn: 1
               }
               children {
                 behavior {
-                  enemy_skill_id: 1012
+                  condition {
+                  }
+                  enemy_skill_id: 1011
                 }
               }
             }
@@ -217,7 +200,9 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 1011
+                  condition {
+                  }
+                  enemy_skill_id: 1012
                 }
               }
             }
@@ -226,4 +211,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES

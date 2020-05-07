@@ -80,14 +80,20 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 1540
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -102,6 +108,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1544
                 }
               }
@@ -109,8 +117,12 @@
           }
           children {
             group {
+              condition {
+              }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1543
                 }
               }
@@ -124,19 +136,17 @@
           condition {
             hp_threshold: 29
             trigger_turn: 1
+            always_trigger_above: 1
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 1541
-            }
-          }
-          children {
-            behavior {
-              enemy_skill_id: 1544
             }
           }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES

@@ -74,8 +74,12 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 2308
         }
       }
@@ -119,28 +123,13 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 2311
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 50
-                if_attributes_available: true
-              }
-              enemy_skill_id: 2309
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 50
-              }
-              enemy_skill_id: 2310
             }
           }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
