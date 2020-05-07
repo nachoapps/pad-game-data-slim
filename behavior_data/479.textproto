@@ -58,7 +58,7 @@
           children {
             behavior {
               condition {
-                use_chance: 30
+                use_chance: 37
               }
               enemy_skill_id: 44
             }
@@ -82,7 +82,7 @@
           children {
             behavior {
               condition {
-                use_chance: 30
+                use_chance: 37
               }
               enemy_skill_id: 44
             }
@@ -91,4 +91,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

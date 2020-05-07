@@ -56,15 +56,20 @@
     level: 5
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
           condition {
             hp_threshold: 74
             trigger_turn: 1
+            always_trigger_above: 1
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 337
             }
           }
@@ -77,31 +82,14 @@
             hp_threshold: 29
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 1
               }
-              children {
-                behavior {
-                  enemy_skill_id: 337
-                }
-              }
-            }
-          }
-          children {
-            group {
-              children {
-                behavior {
-                  condition {
-                    use_chance: 70
-                  }
-                  enemy_skill_id: 336
-                }
-              }
+              enemy_skill_id: 336
             }
           }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES

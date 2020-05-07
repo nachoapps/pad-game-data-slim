@@ -20,7 +20,6 @@
       group_type: STANDARD
       condition {
         hp_threshold: 24
-        use_chance: 100
         trigger_turn: 1
       }
       children {
@@ -30,4 +29,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

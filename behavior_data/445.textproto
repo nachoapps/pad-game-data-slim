@@ -60,6 +60,8 @@
     level: 1
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -69,6 +71,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 205
             }
           }
@@ -99,19 +103,13 @@
           }
           children {
             behavior {
-              enemy_skill_id: 39
-            }
-          }
-          children {
-            behavior {
               condition {
-                use_chance: 75
               }
-              enemy_skill_id: 204
+              enemy_skill_id: 39
             }
           }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
