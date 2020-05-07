@@ -57,25 +57,54 @@
     level: 1
     groups {
       group_type: STANDARD
-      condition {
-        hp_threshold: 74
-      }
       children {
-        behavior {
+        group {
+          group_type: STANDARD
           condition {
-            use_chance: 40
+            hp_threshold: 100
           }
-          enemy_skill_id: 101
+          children {
+            behavior {
+              condition {
+                use_chance: 10
+              }
+              enemy_skill_id: 101
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 10
+              }
+              enemy_skill_id: 32
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
+          group_type: STANDARD
           condition {
-            use_chance: 40
+            hp_threshold: 74
           }
-          enemy_skill_id: 32
+          children {
+            behavior {
+              condition {
+                use_chance: 46
+              }
+              enemy_skill_id: 101
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 46
+              }
+              enemy_skill_id: 32
+            }
+          }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
