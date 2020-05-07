@@ -52,10 +52,9 @@
       group_type: STANDARD
       children {
         group {
-          group_type: STANDARD
           condition {
-            hp_threshold: 100
             trigger_turn: 1
+            always_trigger_above: 1
           }
           children {
             behavior {
@@ -70,6 +69,7 @@
           condition {
             hp_threshold: 69
             trigger_turn: 2
+            always_trigger_above: 1
           }
           children {
             behavior {
@@ -93,4 +93,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
