@@ -158,33 +158,29 @@
       group_type: STANDARD
       children {
         group {
+          condition {
+            trigger_turn: 1
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 661
+            }
+          }
+        }
+      }
+      children {
+        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 1
+                use_chance: 70
               }
-              children {
-                behavior {
-                  enemy_skill_id: 661
-                }
-              }
-            }
-          }
-          children {
-            group {
-              children {
-                behavior {
-                  condition {
-                    use_chance: 70
-                  }
-                  enemy_skill_id: 658
-                }
-              }
+              enemy_skill_id: 658
             }
           }
         }
@@ -309,4 +305,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
