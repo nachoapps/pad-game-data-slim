@@ -121,7 +121,7 @@
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 11943
+          enemy_skill_id: 11944
         }
       }
     }
@@ -143,25 +143,25 @@
               children {
                 behavior {
                   condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 11954
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 11950
+                }
+              }
+              children {
+                behavior {
+                  condition {
                     use_chance: 34
                   }
-                  enemy_skill_id: 11946
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 11947
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 11948
+                  enemy_skill_id: 11952
                 }
               }
             }
@@ -187,7 +187,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 11943
+                  enemy_skill_id: 11944
                 }
               }
             }
@@ -222,7 +222,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 11943
+                  enemy_skill_id: 11944
                 }
               }
             }
@@ -231,4 +231,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS

@@ -30,11 +30,6 @@
           enemy_skill_id: 1047
         }
       }
-      children {
-        behavior {
-          enemy_skill_id: 1043
-        }
-      }
     }
     groups {
       group_type: STANDARD
@@ -48,4 +43,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
