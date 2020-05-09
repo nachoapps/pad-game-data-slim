@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (17523:73) 根性
+ | (17523:73) Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (17513:71) ははっ！
+ | (17513:71) HA HA!
  | Void damage >= 6000000 for 5 turns
  group:
  | group:
  | condition: turns 1-4
-   | (17514:92) …バカが…
+   | (17514:92) Fool.
    | Spawn 4 random Dark orbs, Deal 94% damage
  | group:
  | condition: execute repeatedly, turn 1 of 2
-   | (17522:83) 情け無え奴だ + 見せてやるぜ
+   | (17522:83) Pathetic! + But I'll... show you...
    | Bind awoken skills for 1 turn + Increase damage to 1000% for the next 1 turn
  | group:
  | condition: execute repeatedly, turn 2 of 2
-   | (17517:77) 月牙
+   | (17517:77) Getsuga
    | Change the 3rd column to Dark orbs and the 4th column to Dark orbs, Deal 100% damage

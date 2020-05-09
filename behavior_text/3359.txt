@@ -8,28 +8,28 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17477:67) 尸魂界を攻め落とす
+ | (17477:67) We will bring down the Soul Society.
  | Absorb damage when combos <= 6 for 5 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (17480:39) 容易い
+     | (17480:39) It was simple, really.
      | Movetime 50% for 1 turn, Deal 80% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (17479:15) ―――隙だらけだ
+     | (17479:15) Vulnerabilities everywhere.
      | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (17478:5) …面白いね
+     | (17478:5) Interesting.
      | Blind all orbs on the board
    | group:
    | condition: turn 2
-     | (17481:17) 私の剣で止めを刺そう
+     | (17481:17) I will finish you with my own sword.
      | Increase damage to 200% for the next 5 turns
    | group:
-     | (17482:79) さらばだ
+     | (17482:79) Goodbye
      | Change the 4th row to Dark orbs, Deal 120% damage

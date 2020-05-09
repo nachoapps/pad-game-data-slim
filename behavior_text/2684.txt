@@ -8,17 +8,17 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17520:83) …通してもらうぞ + 先を急ぐんだ
+ | (17520:83) I'm just passing through. + I'm in a hurry.
  | Voids status ailments for 999 turns + Movetime -2s for 7 turns
  group:
  | group:
  | condition: turn 1
-   | (17485:15) …スキだらけだぞ
+   | (17485:15) Your defense was full of holes.
    | Deal 100% damage
  | group:
  | condition: turn 2
-   | (17486:74) 退くわけにはいかない
+   | (17486:74) I can't give up.
    | Reduce damage from all sources by 30% for 5 turns
  | group:
-   | (17487:15) 俺は　こいつを倒す
+   | (17487:15) I will... beat him.
    | Deal 120% damage (2 hits, 60% each)

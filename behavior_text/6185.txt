@@ -1,0 +1,28 @@
+#6185 - 武神魚翅・道蓮
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 6185
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17644:50) この場で全員叩きのめす
+ | Player -99% HP
+ group:
+ | group:
+   | condition: 50% chance
+   | (17647:1) …痺れてみるか？
+   | Bind 2 random cards for 10 turns, Deal 80% damage
+   | (17645:77) 雷法
+   | Change the 4th column to Light orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (17646:105) 命を粗末にするな
+     | RCV 25% for 7 turns
+   | group:
+     | (17648:77) 九天応元雷声普化天尊
+     | Change the 3rd column to Light orbs and the 4th column to Light orbs, Deal 150% damage

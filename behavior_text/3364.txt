@@ -24,7 +24,7 @@ level: 4
    | Reduce damage from all sources by 50% for 1 turn
  | group:
  | condition: turn 3
-   | (6149:83) This is my Zanpakuto. + Shoot to kill, Shinso..
+   | (6149:83) This is my Zanpakuto. + Shoot 'em Dead! Shinso.
    | Do nothing + Player -99% HP
  | group:
    | (6150:40) Bye-bye, now!

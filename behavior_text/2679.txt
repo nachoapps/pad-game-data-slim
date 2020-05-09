@@ -8,22 +8,22 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17446:53) 舞え『袖白雪』
+ | (17446:53) Dance, Sodenoshirayuki
  | Absorb Water damage for 5 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 4
-   | (17447:92) 破道の三十三『蒼火墜』
+   | (17447:92) Hado Number 33: Sokatsui
    | Spawn 3 random Water orbs, Deal 75% damage
  | group:
  | condition: execute repeatedly, turn 2 of 4
-   | (17448:1) 縛道の六十一『六杖光牢』
+   | (17448:1) Bakudo Number 61: Rikujokoro
    | Bind 1 random card for 6 turns
  | group:
  | condition: execute repeatedly, turn 3 of 4
-   | (17449:92) 破道の七十三『双蓮蒼火墜』
+   | (17449:92) Hado Number 73: Soren Sokatsui
    | Spawn 6 random Water orbs, Deal 85% damage
  | group:
  | condition: execute repeatedly, turn 4 of 4
-   | (17450:79) 初の舞『月白』
+   | (17450:79) Somenomai Tsukishiro
    | Change the 5th row to Water orbs, Deal 130% damage

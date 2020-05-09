@@ -19,7 +19,7 @@ level: 4
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (2794:77) Hado Thirty-Three... Soukatsui.
+     | (2794:77) Hado Number 33: Sokatsui
      | Change the 3rd column to Water orbs and the 4th column to Fire orbs, Deal 90% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
@@ -36,7 +36,7 @@ level: 4
      | Do nothing + Increase damage to 200% for the next 999 turns
    | group:
      | condition: 30% chance
-     | (2797:50) Hado Four... Byakurai.
+     | (2797:50) Hado Number 4: Byakurai
      | Player -99% HP
      | (2805:15) Slash
      | Deal 110% damage

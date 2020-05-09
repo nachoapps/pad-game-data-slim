@@ -13,7 +13,7 @@ Branch on flag & 1, target rnd 6
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: ESAbsorbAttribute(53:17446) -> 舞え『袖白雪』
+#4: ESAbsorbAttribute(53:17446) -> Dance, Sodenoshirayuki
 Absorb Water damage for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -25,7 +25,7 @@ Branch on counter >= 1, target rnd 10
 #7: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#8: ESRandomSpawn(92:17447) -> 破道の三十三『蒼火墜』
+#8: ESRandomSpawn(92:17447) -> Hado Number 33: Sokatsui
 Spawn 3 random Water orbs, Deal 75% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -37,7 +37,7 @@ Branch on counter >= 2, target rnd 14
 #11: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#12: ESBindRandom(1:17448) -> 縛道の六十一『六杖光牢』
+#12: ESBindRandom(1:17448) -> Bakudo Number 61: Rikujokoro
 Bind 1 random card for 6 turns
 
 #13: ESEndPath(36:26) -> ESEndPath
@@ -49,7 +49,7 @@ Branch on counter >= 3, target rnd 18
 #15: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#16: ESRandomSpawn(92:17449) -> 破道の七十三『双蓮蒼火墜』
+#16: ESRandomSpawn(92:17449) -> Hado Number 73: Soren Sokatsui
 Spawn 6 random Water orbs, Deal 85% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
@@ -58,7 +58,7 @@ end_turn
 #18: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#19: ESRowSpawnMulti(79:17450) -> 初の舞『月白』
+#19: ESRowSpawnMulti(79:17450) -> Somenomai Tsukishiro
 Change the 5th row to Water orbs, Deal 130% damage
 
 #20: ESEndPath(36:26) -> ESEndPath

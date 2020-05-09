@@ -18,7 +18,7 @@ level: 1
  | group:
    | group:
    | condition: turn 1 while HP > 49
-     | (2781:63) Claw out! Ashisogijizo.
+     | (2781:63) Tear him up! Ashisogi Jizo.
      | Bind 1 random sub for 3 turns, Deal 90% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2

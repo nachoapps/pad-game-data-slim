@@ -8,28 +8,28 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17493:127) 僕と戦うといい
+ | (17493:127) Then fight me.
  | No skyfall for 5 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 3
-     | (17494:92) …少しは後悔できてるかい？
+     | (17494:92) Are you feeling a little regret now?
      | Spawn 6 random Light orbs, Deal 85% damage
    | group:
    | condition: execute repeatedly, turn 2 of 3
-     | (17495:39) 後悔させる時間すら惜しい
+     | (17495:39) Allowing you time for regret would be a waste.
      | Movetime 25% for 1 turn
    | group:
    | condition: execute repeatedly, turn 3 of 3
-     | (17497:85) さようなら
+     | (17497:85) Goodbye.
      | Change all orbs to Fire, Water, Light, and Poison, Deal 125% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (17496:67) お見事
+     | (17496:67) Impressive.
      | Absorb damage when combos <= 5 for 4 turns
    | group:
-     | (17497:85) さようなら
+     | (17497:85) Goodbye.
      | Change all orbs to Fire, Water, Light, and Poison, Deal 125% damage

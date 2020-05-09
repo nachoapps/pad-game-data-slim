@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17528:83) I'm the Captain of Squad 12, Mayuri Kurotsuchi. + because soon you will no longer know anything.
+ | (17528:83) I'm the Captain of Squad 12, Mayuri Kurotsuchi. + ...Soon you will no longer know anything.
  | RCV 50% for 5 turns + Delay active skills by 4 turns
  type: DEATH
  condition: when defeated
@@ -18,7 +18,7 @@ level: 1
  | group:
    | group:
    | condition: turn 1 while HP > 49
-     | (2781:63) Claw out! Ashisogijizo.
+     | (2781:63) Tear him up! Ashisogi Jizo.
      | Bind 1 random sub for 3 turns, Deal 90% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2

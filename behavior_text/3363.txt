@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17467:50) 軋れ『豹王』
+ | (17467:50) Grind! Pantera
  | Player -50% HP
  group:
  | group:
  | condition: turn 1
-   | (17468:15) 一人残らず叩き潰す！！！
+   | (17468:15) I will crush anybody!
    | Deal 90% damage (3 hits, 30% each)
  | group:
  | condition: turn 2
-   | (17469:105) …しぶといな
+   | (17469:105) You're a tough kid.
    | RCV 50% for 1 turn, Deal 80% damage
  | group:
  | condition: turn 3
-   | (17470:17) …いくぜ
+   | (17470:17) Ready?
    | Increase damage to 150% for the next 5 turns
  | group:
-   | (17471:15) 『豹王の爪』
+   | (17471:15) Desgarrón
    | Deal 80% damage (10 hits, 8% each)

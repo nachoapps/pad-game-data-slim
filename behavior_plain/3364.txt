@@ -39,7 +39,7 @@ Reduce damage from all sources by 50% for 1 turn
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESInactivity66(66:6147) -> This is my Zanpakuto.
 	Do nothing
-	[1] ESGravity(50:6148) -> Shoot to kill, Shinso..
+	[1] ESGravity(50:6148) -> Shoot 'em Dead! Shinso.
 	Player -99% HP
 
 #10: ESEndBattle(40:6150) -> Bye-bye, now!

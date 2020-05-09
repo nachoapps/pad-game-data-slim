@@ -1,0 +1,71 @@
+#205256 - ホロホロ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 205256
+approved: False
+
+level: 1
+ group:
+ | group:
+ | condition: always turn 1
+   | (17634:96) やるぜコロロォ!!
+   | Locked random skyfall +100% for 10 turns
+ | group:
+   | condition: 50% chance
+   | (17635:104) させるかよ
+   | A 1×6 rectangle of clouds appears for 1 turn at a random location, Deal 80% damage
+   | (17636:92) …やべぇな
+   | Spawn 4 random Water orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 2
+     | (17637:74) 巫門遁甲
+     | Reduce damage from all sources by 50% for 5 turns
+   | group:
+     | (17638:15) うオオオオオオオオ!!!
+     | Deal 125% damage (5 hits, 25% each)
+
+level: 4
+ type: PREEMPT
+ | (17666:96) やるぜコロロォ!!
+ | Locked random skyfall +100% for 5 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (17667:104) させるかよ
+   | A 1×3 rectangle of clouds appears for 1 turn at a random location, Deal 80% damage
+   | (17636:92) …やべぇな
+   | Spawn 4 random Water orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (17637:74) 巫門遁甲
+     | Reduce damage from all sources by 50% for 5 turns
+   | group:
+     | (17638:15) うオオオオオオオオ!!!
+     | Deal 125% damage (5 hits, 25% each)
+
+level: 5
+ type: PREEMPT
+ | (17634:96) やるぜコロロォ!!
+ | Locked random skyfall +100% for 10 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (17635:104) させるかよ
+   | A 1×6 rectangle of clouds appears for 1 turn at a random location, Deal 80% damage
+   | (17636:92) …やべぇな
+   | Spawn 4 random Water orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (17637:74) 巫門遁甲
+     | Reduce damage from all sources by 50% for 5 turns
+   | group:
+     | (17638:15) うオオオオオオオオ!!!
+     | Deal 125% damage (5 hits, 25% each)

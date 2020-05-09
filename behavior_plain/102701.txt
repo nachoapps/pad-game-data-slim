@@ -16,7 +16,7 @@ flag SET 0b1
 #4: SkillSet:
 	[0] ESDebuffRCV(105:17526) -> I'm the Captain of Squad 12, Mayuri Kurotsuchi.
 	RCV 50% for 5 turns
-	[1] ESSkillDelay(89:17527) -> because soon you will no longer know anything.
+	[1] ESSkillDelay(89:17527) -> ...Soon you will no longer know anything.
 	Delay active skills by 4 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -31,7 +31,7 @@ Branch on flag & 2, target rnd 10
 #8: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#9: ESBindAttack(63:2781) -> Claw out! Ashisogijizo.
+#9: ESBindAttack(63:2781) -> Tear him up! Ashisogi Jizo.
 Bind 1 random sub for 3 turns, Deal 90% damage
 
 #10: ESAttackMultihit(15:2782) -> Here!

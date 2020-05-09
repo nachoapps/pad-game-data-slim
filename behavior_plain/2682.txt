@@ -13,7 +13,7 @@ Branch on flag & 1, target rnd 6
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: ESNoSkyfall(127:17493) -> 僕と戦うといい
+#4: ESNoSkyfall(127:17493) -> Then fight me.
 No skyfall for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -28,7 +28,7 @@ Branch on counter >= 1, target rnd 11
 #8: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#9: ESRandomSpawn(92:17494) -> …少しは後悔できてるかい？
+#9: ESRandomSpawn(92:17494) -> Are you feeling a little regret now?
 Spawn 6 random Light orbs, Deal 85% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -40,7 +40,7 @@ Branch on counter >= 2, target rnd 15
 #12: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#13: ESDebuffMovetime(39:17495) -> 後悔させる時間すら惜しい
+#13: ESDebuffMovetime(39:17495) -> Allowing you time for regret would be a waste.
 Movetime 25% for 1 turn
 
 #14: ESEndPath(36:26) -> ESEndPath
@@ -49,13 +49,13 @@ end_turn
 #15: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#16: ESBoardChangeAttackBits(85:17497) -> さようなら
+#16: ESBoardChangeAttackBits(85:17497) -> Goodbye.
 Change all orbs to Fire, Water, Light, and Poison, Deal 125% damage
 
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#18: ESAbsorbCombo(67:17496) -> お見事
+#18: ESAbsorbCombo(67:17496) -> Impressive.
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 5 for 4 turns
 
