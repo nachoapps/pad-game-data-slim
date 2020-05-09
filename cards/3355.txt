@@ -5,7 +5,7 @@ SAWK: 52,43,48
 
 # 3875/116 - Then get stronger.
 Tags: ENHANCED_ORBS,LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
-Game: Changes the leftmost column into Water Orbs; other allies' skills charged by 1 turn
+Game: Changes the leftmost column to Water Orbs, Water Orbs enhanced; other allies' skills charged by 1 turn
 JP: 最左端を水ドロップに変化。水ドロップを強化。自分以外の味方スキルが1ターンの溜まる
 EN: Change the far left column to Water orbs; Enhance all Water orbs; Charge all allies' skills by 1 turn
 KR: Change the far left column to Water orbs; Enhance all Water orbs; Charge all allies' skills by 1 turn
@@ -13,7 +13,7 @@ KR: Change the far left column to Water orbs; Enhance all Water orbs; Charge all
 # 6423/138 - I was entrusted with his heart!
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 24.0, 3.0, 0.0]
-Game: 2x ATK & RCV for Water Att.;  ATK increases with 5+ combos, up to 5x
+Game: 3x ATK & RCV for Water Att., 4x ATK with 5+ combos; 2x ATK with 2+ Water combos
 JP: 水属性の攻撃力と回復力が3倍。5コンボ以上で攻撃力が4倍。水の2コンボ以上で攻撃力が2倍。
 EN: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos; 2x ATK when matching 2+ Water combos
 KR: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos; 2x ATK when matching 2+ Water combos

@@ -1,0 +1,20 @@
+#6184 白鵠・麻倉葉
+HP: 5208 ATK: 2718 RCV: 108 LB: 25
+AWK: 10,10,56,56,28,48,48,48,50
+SAWK: 21,53,62
+
+# 16952/116 - 手合わせ願うぞ
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
+Game: 1ターンの間、3コンボ加算される。 闇と火ドロップを木に、水ドロップを回復に変化。
+JP: 1ターンの間、3コンボ加算される。火と闇ドロップを木ドロップに変化。水ドロップを回復ドロップに変化
+EN: For 1 turn, increase combo count by 3; Change Fire and Dark orbs to Wood orbs; Change Water orbs to Heal orbs
+KR: For 1 turn, increase combo count by 3; Change Fire and Dark orbs to Wood orbs; Change Water orbs to Heal orbs
+
+# 16956/138 - 阿弥陀流無無明亦無
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 16.0, 1, 0.5, +1]
+Game: 木を6個以上つなげて消すと攻撃力が4倍、1コンボ加算。 木以外を5個以上つなげて消すとダメージを半減、攻撃力が4倍。
+JP: 木を6個以上つなげて消しと攻撃力が4倍、1コンボ加算。木以外を5個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once; 4x ATK and reduce damage taken by 50% when matching 5 or more connected non Wood orbs
+KR: 4x ATK and increase combo by 1 when matching 6 or more connected Wood orbs at once; 4x ATK and reduce damage taken by 50% when matching 5 or more connected non Wood orbs
+

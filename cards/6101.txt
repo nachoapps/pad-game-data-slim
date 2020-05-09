@@ -1,16 +1,16 @@
-#6101 山田花太郎
+#6101 Hanataro Yamada
 HP: 2645 ATK: 1289 RCV: 704 LB: 30
 AWK: 10,10,21,28,60,59,47,47,55
 SAWK: 47,57,53
 
-# 16710/179 - 
+# 16710/179 - I'll heal him... in one night.
 Tags: HEAL
-Game: 
+Game: Fully recovers HP for 2 turns
 JP: 2ターンの間、最大HPの100％分回復
 EN: For 2 turns, recover 100% of max HP
 KR: For 2 turns, recover 100% of max HP
 
-# 16711/138 - Healing Spiritual Power
+# 16711/138 - Healing Ability
 Tags: ENHANCED_HP_ATK
 Stats: [1.5, 13.5, 1.0, 0.0]
 Game: 1.5x HP & ATK for God Type, 9x ATK when HP is 50%+; Awkn Skill bind -5 turns when rcv 20,000+ HP with Orbs
