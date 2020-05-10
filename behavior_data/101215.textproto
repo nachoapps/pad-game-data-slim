@@ -194,14 +194,20 @@
     level: 1
     groups {
       group_type: PASSIVE
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 8250
         }
       }
     }
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
           condition {
@@ -212,12 +218,16 @@
       }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 1424
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -228,90 +238,20 @@
             group {
               condition {
                 trigger_turn: 1
-                always_trigger_above: 29
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1425
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1427
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1428
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 1425
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 4
-                trigger_turn: 4
               }
               children {
                 behavior {
                   condition {
-                    use_chance: 50
+                    always_trigger_above: 29
                   }
-                  enemy_skill_id: 1423
+                  enemy_skill_id: 1425
                 }
               }
               children {
                 behavior {
-                  enemy_skill_id: 1424
-                }
-              }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 29
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 1
-              }
-              children {
-                behavior {
+                  condition {
+                    hp_threshold: 29
+                  }
                   enemy_skill_id: 1426
                 }
               }
@@ -325,6 +265,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1427
                 }
               }
@@ -338,6 +280,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1428
                 }
               }
@@ -351,6 +295,16 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 1425
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    hp_threshold: 29
+                  }
                   enemy_skill_id: 1426
                 }
               }
@@ -372,6 +326,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 1424
                 }
               }
@@ -381,4 +337,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
