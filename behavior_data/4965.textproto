@@ -129,22 +129,6 @@
           enemy_skill_id: 11964
         }
       }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 11965
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 11966
-        }
-      }
     }
     groups {
       group_type: STANDARD
@@ -257,4 +241,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
