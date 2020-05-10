@@ -100,19 +100,29 @@
     level: 4
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 3466
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: DISPEL_PLAYER
+          condition {
+          }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 3473
             }
           }
@@ -168,6 +178,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 3471
             }
           }
@@ -181,6 +193,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 3470
             }
           }
@@ -188,4 +202,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES

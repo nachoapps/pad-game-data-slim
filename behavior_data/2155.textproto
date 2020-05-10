@@ -62,11 +62,17 @@
     level: 5
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: DISPEL_PLAYER
+          condition {
+          }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 2483
             }
           }
@@ -97,6 +103,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 2481
             }
           }
@@ -104,4 +112,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
