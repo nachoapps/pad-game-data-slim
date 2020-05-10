@@ -122,19 +122,14 @@
       group_type: STANDARD
       children {
         group {
-          group_type: DISPEL_PLAYER
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
           children {
             behavior {
               enemy_skill_id: 12735
             }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 100
           }
           children {
             behavior {
@@ -168,6 +163,7 @@
           condition {
             hp_threshold: 49
             trigger_turn: 1
+            always_trigger_above: 9
           }
           children {
             behavior {
@@ -205,4 +201,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
