@@ -587,14 +587,20 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 7719
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -604,68 +610,13 @@
           children {
             group {
               condition {
-                trigger_turn: 1
-                trigger_turn_end: 4
-                always_trigger_above: 49
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7722
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7723
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7724
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7725
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7726
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 1
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
                 trigger_turn: 5
                 always_trigger_above: 49
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7727
                 }
               }
@@ -688,6 +639,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7730
                 }
               }
@@ -701,64 +654,9 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7728
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 9
-                trigger_turn_end: 12
-                always_trigger_above: 49
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7722
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7723
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7724
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7725
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7726
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 1
                 }
               }
             }
@@ -771,6 +669,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7728
                 }
               }
@@ -793,6 +693,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7730
                 }
               }
@@ -806,6 +708,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7728
                 }
               }
@@ -813,6 +717,8 @@
           }
           children {
             group {
+              condition {
+              }
               children {
                 behavior {
                   condition {
@@ -879,213 +785,9 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7721
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 5
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7722
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7723
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7724
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7725
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7726
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 1
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 6
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7727
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 8
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 7729
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7730
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 9
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7728
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 13
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7722
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7723
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 15
-                  }
-                  enemy_skill_id: 7724
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7725
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7726
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 1
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 14
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7728
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 16
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 10
-                  }
-                  enemy_skill_id: 7729
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7730
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 17
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7728
                 }
               }
             }
@@ -1105,6 +807,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7720
                 }
               }
@@ -1117,6 +821,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7721
                 }
               }
@@ -1129,6 +835,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7727
                 }
               }
@@ -1141,6 +849,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7731
                 }
               }
@@ -1148,6 +858,8 @@
           }
           children {
             group {
+              condition {
+              }
               children {
                 behavior {
                   condition {
@@ -1158,6 +870,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7732
                 }
               }
@@ -1167,4 +881,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
