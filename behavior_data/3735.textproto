@@ -90,17 +90,6 @@
       }
     }
     groups {
-      group_type: DEATH
-      condition {
-        if_defeated: true
-      }
-      children {
-        behavior {
-          enemy_skill_id: 7415
-        }
-      }
-    }
-    groups {
       group_type: STANDARD
       children {
         group {
@@ -154,4 +143,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
