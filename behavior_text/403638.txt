@@ -26,7 +26,7 @@ level: 1
      | (13763:67) Doomsday Sanctuary
      | Absorb damage when combos <= 7 for 999 turns
    | group:
-   | condition: turns 3-11 while HP > 9
+   | condition: turn 3 while HP > 9
      | condition: 25% chance
      | (6792:92) Ruler of the One and Only Ocean
      | Spawn 9 random Water orbs, Deal 340% damage
@@ -40,10 +40,7 @@ level: 1
      | (6796:94) Dreaded Celestial
      | Lock 15 random orbs, Deal 380% damage
    | group:
-   | condition: turn 12 while HP > 9
-     | (6790:68) Nature's Encroaching Nightmare
-     | Mortal Poison skyfall +15% for 15 turns, Deal 550% damage
-   | group:
+   | condition: execute repeatedly, turn 1-6 of 6
      | condition: 25% chance
      | (6792:92) Ruler of the One and Only Ocean
      | Spawn 9 random Water orbs, Deal 340% damage
