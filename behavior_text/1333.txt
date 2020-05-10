@@ -38,6 +38,8 @@ level: 1
    | condition: turn 1
      | (11873:88) Disappearing Mist
      | Bind awoken skills for 1 turn
+     | (11874:65) Torrential Downpour
+     | Bind 4 random subs for 1 turn
    | group:
      | (11875:85) Muddy Stream
      | Change all orbs to Water, Deal 300% damage
@@ -45,6 +47,3 @@ level: 1
  | condition: hp <= 1
    | (11876:83) Spring of Life + Arrested
    | Enemy recover 100% HP + Lock all orbs, Deal 100% damage
- type: UNKNOWN_USE
- | (11874:65) Torrential Downpour
- | Bind 4 random subs for 1 turn
