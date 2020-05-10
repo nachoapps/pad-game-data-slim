@@ -308,6 +308,7 @@
             group {
               condition {
                 trigger_turn: 3
+                always_trigger_above: 9
               }
               children {
                 behavior {
@@ -320,6 +321,7 @@
             group {
               condition {
                 trigger_turn: 4
+                always_trigger_above: 9
               }
               children {
                 behavior {
@@ -332,6 +334,7 @@
             group {
               condition {
                 trigger_turn: 5
+                always_trigger_above: 9
               }
               children {
                 behavior {
@@ -386,4 +389,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
