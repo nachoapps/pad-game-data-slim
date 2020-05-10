@@ -7,18 +7,30 @@
         hp_threshold: 100
       }
       children {
-        behavior {
-          enemy_skill_id: 10441
+        group {
+          condition {
+            repeats_every: 5
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 10441
+            }
+          }
         }
       }
-    }
-    groups {
-      group_type: UNKNOWN_USE
       children {
-        behavior {
+        group {
           condition {
+            repeats_every: 5
+            trigger_turn: 2
+            trigger_turn_end: 5
           }
-          enemy_skill_id: 10440
+          children {
+            behavior {
+              enemy_skill_id: 10440
+            }
+          }
         }
       }
     }

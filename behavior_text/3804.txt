@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | group:
-   | condition: execute repeatedly, turn 1-4 of 8
+   | condition: turns 1-4 while HP > 49
      | condition: 20% chance
      | (7722:15) Rake
      | Deal 180% damage
@@ -33,24 +33,150 @@ level: 1
      | (1:82) Disable Skill
      | Deal 100% damage
    | group:
-   | condition: execute repeatedly, turn 5 of 8
+   | condition: turn 5 while HP > 49
      | (7727:68) Cyclone
      | Poison skyfall +5% for 99 turns, Deal 240% damage
    | group:
-   | condition: execute repeatedly, turn 6-7 of 8
+   | condition: turns 6-7 while HP > 49
      | condition: 10% chance
      | (7729:15) Death Strike
      | Deal 700% damage
      | (7730:15) Combo Attack
      | Deal 350~450% damage (7~9 hits, 50% each)
    | group:
-   | condition: execute repeatedly, turn 8 of 8
+   | condition: turn 8 while HP > 49
      | (7728:15) Cyclone
      | Deal 240% damage
+   | group:
+   | condition: turns 9-12 while HP > 49
+     | condition: 20% chance
+     | (7722:15) Rake
+     | Deal 180% damage
+     | condition: 15% chance
+     | (7723:88) White Breath
+     | Bind awoken skills for 1 turn, Deal 240% damage
+     | condition: 15% chance
+     | (7724:63) Stone Breath
+     | Bind 1 random card for 3~5 turns, Deal 210% damage
+     | condition: 20% chance
+     | (7725:15) Combo Attack
+     | Deal 200% damage (2 hits, 100% each)
+     | condition: 20% chance
+     | (7726:15) Combo Attack
+     | Deal 300% damage (3 hits, 100% each)
+     | condition: 10% chance
+     | (1:82) Disable Skill
+     | Deal 100% damage
+   | group:
+   | condition: turn 13 while HP > 49
+     | (7728:15) Cyclone
+     | Deal 240% damage
+   | group:
+   | condition: turns 14-15 while HP > 49
+     | condition: 10% chance
+     | (7729:15) Death Strike
+     | Deal 700% damage
+     | (7730:15) Combo Attack
+     | Deal 350~450% damage (7~9 hits, 50% each)
+   | group:
+   | condition: turn 16 while HP > 49
+     | (7728:15) Cyclone
+     | Deal 240% damage
+   | group:
+     | condition: 20% chance
+     | (7722:15) Rake
+     | Deal 180% damage
+     | condition: 15% chance
+     | (7723:88) White Breath
+     | Bind awoken skills for 1 turn, Deal 240% damage
+     | condition: 15% chance
+     | (7724:63) Stone Breath
+     | Bind 1 random card for 3~5 turns, Deal 210% damage
+     | condition: 20% chance
+     | (7725:15) Combo Attack
+     | Deal 200% damage (2 hits, 100% each)
+     | condition: 20% chance
+     | (7726:15) Combo Attack
+     | Deal 300% damage (3 hits, 100% each)
+     | condition: 10% chance
+     | (1:82) Disable Skill
+     | Deal 100% damage
  | group:
- | condition: turn 1 while HP > 9, hp <= 49
-   | (7721:74) Protect
-   | Reduce damage from all sources by 50% for 20 turns
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1 while HP > 9
+     | (7721:74) Protect
+     | Reduce damage from all sources by 50% for 20 turns
+   | group:
+   | condition: turn 5 while HP > 9
+     | condition: 20% chance
+     | (7722:15) Rake
+     | Deal 180% damage
+     | condition: 15% chance
+     | (7723:88) White Breath
+     | Bind awoken skills for 1 turn, Deal 240% damage
+     | condition: 15% chance
+     | (7724:63) Stone Breath
+     | Bind 1 random card for 3~5 turns, Deal 210% damage
+     | condition: 20% chance
+     | (7725:15) Combo Attack
+     | Deal 200% damage (2 hits, 100% each)
+     | condition: 20% chance
+     | (7726:15) Combo Attack
+     | Deal 300% damage (3 hits, 100% each)
+     | condition: 10% chance
+     | (1:82) Disable Skill
+     | Deal 100% damage
+   | group:
+   | condition: turn 6 while HP > 9
+     | (7727:68) Cyclone
+     | Poison skyfall +5% for 99 turns, Deal 240% damage
+   | group:
+   | condition: turn 8 while HP > 9
+     | condition: 10% chance
+     | (7729:15) Death Strike
+     | Deal 700% damage
+     | (7730:15) Combo Attack
+     | Deal 350~450% damage (7~9 hits, 50% each)
+   | group:
+   | condition: turn 9 while HP > 9
+     | (7728:15) Cyclone
+     | Deal 240% damage
+   | group:
+   | condition: turn 13 while HP > 9
+     | condition: 20% chance
+     | (7722:15) Rake
+     | Deal 180% damage
+     | condition: 15% chance
+     | (7723:88) White Breath
+     | Bind awoken skills for 1 turn, Deal 240% damage
+     | condition: 15% chance
+     | (7724:63) Stone Breath
+     | Bind 1 random card for 3~5 turns, Deal 210% damage
+     | condition: 20% chance
+     | (7725:15) Combo Attack
+     | Deal 200% damage (2 hits, 100% each)
+     | condition: 20% chance
+     | (7726:15) Combo Attack
+     | Deal 300% damage (3 hits, 100% each)
+     | condition: 10% chance
+     | (1:82) Disable Skill
+     | Deal 100% damage
+   | group:
+   | condition: turn 14 while HP > 9
+     | (7728:15) Cyclone
+     | Deal 240% damage
+   | group:
+   | condition: turn 16 while HP > 9
+     | condition: 10% chance
+     | (7729:15) Death Strike
+     | Deal 700% damage
+     | (7730:15) Combo Attack
+     | Deal 350~450% damage (7~9 hits, 50% each)
+   | group:
+   | condition: turn 17 while HP > 9
+     | (7728:15) Cyclone
+     | Deal 240% damage
  | group:
  | condition: hp <= 9
    | group:
@@ -62,10 +188,16 @@ level: 1
      | (7721:74) Protect
      | Reduce damage from all sources by 50% for 20 turns
    | group:
+   | condition: turn 3
      | (7727:68) Cyclone
      | Poison skyfall +5% for 99 turns, Deal 240% damage
- type: UNKNOWN_USE
- | (7731:15) Cyclone
- | Deal 240% damage
- | (7732:15) Combo Attack
- | Deal 350~600% damage (7~12 hits, 50% each)
+   | group:
+   | condition: turn 4
+     | (7731:15) Cyclone
+     | Deal 240% damage
+   | group:
+     | condition: 20% chance
+     | (7729:15) Death Strike
+     | Deal 700% damage
+     | (7732:15) Combo Attack
+     | Deal 350~600% damage (7~12 hits, 50% each)

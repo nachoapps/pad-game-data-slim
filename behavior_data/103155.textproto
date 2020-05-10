@@ -75,13 +75,259 @@
           group_type: STANDARD
           condition {
             hp_threshold: 69
-            trigger_turn: 1
-            trigger_turn_end: 3
-            always_trigger_above: 49
           }
           children {
-            behavior {
-              enemy_skill_id: 5373
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5373
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 2
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 3
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 4
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 5
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 6
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 7
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 8
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 9
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 10
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 11
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5373
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
             }
           }
         }
@@ -91,12 +337,61 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
-            trigger_turn: 1
-            always_trigger_above: 1
           }
           children {
-            behavior {
-              enemy_skill_id: 5372
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5372
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5366
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5367
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    if_attributes_available: true
+                  }
+                  enemy_skill_id: 5368
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5371
+                }
+              }
             }
           }
         }
