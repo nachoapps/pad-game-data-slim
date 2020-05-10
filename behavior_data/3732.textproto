@@ -366,127 +366,65 @@
     level: 1
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 7521
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
           condition {
-            hp_threshold: 101
+            hp_threshold: 65
+            global_one_time: true
+            trigger_turn: 1
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 3
-                trigger_turn_end: 9
               }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7525
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7526
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7527
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7528
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7529
-                }
-              }
+              enemy_skill_id: 7534
             }
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 10
               }
-              children {
-                behavior {
-                  enemy_skill_id: 7524
-                }
+              enemy_skill_id: 7535
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 30
+            global_one_time: true
+            trigger_turn: 2
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 50
               }
+              enemy_skill_id: 7536
             }
           }
           children {
-            group {
+            behavior {
               condition {
-                repeats_every: 3
-                trigger_turn: 1
-                trigger_turn_end: 3
               }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7525
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7526
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7527
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7528
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7529
-                }
-              }
+              enemy_skill_id: 7537
             }
           }
         }
@@ -554,123 +492,15 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 7524
                 }
               }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 65
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 7534
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7535
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 2
-                trigger_turn_end: 9
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7525
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7526
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7527
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7528
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 7529
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 10
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 7524
-                }
-              }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 30
-            trigger_turn: 2
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 50
-              }
-              enemy_skill_id: 7536
-            }
-          }
-          children {
-            behavior {
-              enemy_skill_id: 7537
             }
           }
         }
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
