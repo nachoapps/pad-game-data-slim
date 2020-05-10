@@ -171,27 +171,39 @@
     level: 1
     groups {
       group_type: PASSIVE
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 6799
         }
       }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 13762
         }
       }
     }
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 6789
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -201,11 +213,14 @@
           children {
             group {
               condition {
+                repeats_every: 15
                 trigger_turn: 1
                 always_trigger_above: 9
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 6790
                 }
               }
@@ -219,6 +234,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 13763
                 }
               }
@@ -227,59 +244,7 @@
           children {
             group {
               condition {
-                trigger_turn: 3
-                trigger_turn_end: 11
-                always_trigger_above: 9
               }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 6792
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 6793
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 6795
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 6796
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 12
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 6790
-                }
-              }
-            }
-          }
-          children {
-            group {
               children {
                 behavior {
                   condition {
@@ -324,6 +289,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 6794
             }
           }
@@ -337,6 +304,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 6798
             }
           }
@@ -344,4 +313,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_WITH_CHANGES
