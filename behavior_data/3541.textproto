@@ -160,88 +160,84 @@
       }
       children {
         group {
+          condition {
+            trigger_turn: 1
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 6620
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 2
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 6621
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 3
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 6624
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 4
+            always_trigger_above: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 6627
+            }
+          }
+        }
+      }
+      children {
+        group {
           group_type: STANDARD
           condition {
             hp_threshold: 100
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 1
+                use_chance: 20
               }
-              children {
-                behavior {
-                  enemy_skill_id: 6620
-                }
-              }
+              enemy_skill_id: 6629
             }
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 2
-                always_trigger_above: 1
+                use_chance: 20
               }
-              children {
-                behavior {
-                  enemy_skill_id: 6621
-                }
-              }
+              enemy_skill_id: 6630
             }
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 3
-                always_trigger_above: 1
+                use_chance: 60
               }
-              children {
-                behavior {
-                  enemy_skill_id: 6624
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 4
-                always_trigger_above: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 6627
-                }
-              }
-            }
-          }
-          children {
-            group {
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 6629
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 6630
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 60
-                  }
-                  enemy_skill_id: 6631
-                }
-              }
+              enemy_skill_id: 6631
             }
           }
         }
@@ -261,4 +257,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
