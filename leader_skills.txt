@@ -69818,7 +69818,7 @@ KR: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
 # 16581/138 - Equip Magical Mech, Orpharion
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
 Stats: [1, 18.0, 1, 0.35, +2]
-Game: Adds 2 combos & reduces dmg when Wd & Lt attack; 18x ATK when 4+ Att. attack, 50,000 damage with 5 Att.
+Game: Adds 2 combos & reduces dmg when Wd & Lt attack at once; 18x ATK when 4+ Att. attack, 50,000 damage with 5 Att.
 JP: 木、光の同時攻撃で受けるダメージを35％減少。木と光を3個以上同時につなげて消しと、2コンボ加算。4色以上同時攻撃で攻撃力が18倍。5色以上同時攻撃、固定50000ダメージ。
 EN: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
 KR: Reduce damage taken by 35% when matching Wood and Light; Increase combo by 2 when matching 3 or more connected Wood and Light orbs at once; 18x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
@@ -69938,7 +69938,7 @@ KR: 1 additional damage when matching 3 or more Fire combos
 # 16596/138 - Equip Magical Mech, Machine Noah
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
 Stats: [1, 16.0, 1, 0.35, +2]
-Game: Adds 2 combos & reduces dmg when 3+ Att. attack; 16x ATK with 6+ linked Water Orbs, 1 dmg with 9+ Orbs
+Game: Adds 2 combos & reduces dmg when 3+ Att. attack at once; 16x ATK with 6+ linked Water Orbs, 1 dmg with 9+ Orbs
 JP: 3色以上同時攻撃で受けるダメージを35％減少。3色以上同時攻撃で2コンボ加算。水を6個以上つなげて消すと攻撃力が16倍。水を9個以上つなげて消しと固定1ダメージ。
 EN: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs
 KR: Reduce damage taken by 35% when matching 3 or more colors; increase combo by 2 when matching 3 or more colors; 16x ATK when matching 6 or more connected Water orbs; 1 additional damage when matching 9 or more Water orbs

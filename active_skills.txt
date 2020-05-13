@@ -45040,7 +45040,7 @@ KR: Lock all orbs
 
 # 16567/116 - Menoa Gate -OPH2891-
 Tags: ALL_ORBS_CONVERT,DROP_CHANCE
-Game: Jammers more likely to appear for 1 turn; changes all Orbs to all Attributes & Heal
+Game: Jammers slightly more likely to appear for 1 turn; changes all Orbs to all Attributes & Heal
 JP: 1ターンの間、お邪魔が10％の確率で落ちてくる。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 1 turn, Jammer orbs are more likely to appear by 10%; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -45061,14 +45061,14 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 16570/116 - Menoa Gate -DPH3598-
 Tags: DROP_CHANCE,LINE_ORBS_CONVERTER
-Game: Dark Orbs more likely to appear for 1 turn;  changes the 2nd row from the top to Dark Orbs
+Game: Dark Orbs slightly more likely to appear for 1 turn; changes the 2nd row from the top to Dark Orbs
 JP: 1ターンの間、闇ドロップが15％落ちやすくなる。上から2行目を闇ドロップに変化
 EN: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 KR: For 1 turn, Dark orbs are more likely to appear by 15%; Change the 2nd row from the top to Dark orbs
 
 # 16571/116 - Menoa Gate -POSE3734-
 Tags: ALL_ORBS_CONVERT,SUICIDE
-Game: Halves HP; changes all Orbs to Fire, Wood, and Heal Orbs
+Game: Halves HP; changes all Orbs to Fire, Wood & Heal Orbs
 JP: HPが50％減少。全ドロップを火、木、回復ドロップに変化
 EN: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
 KR: Reduce HP by 50%; Change all orbs to Fire, Wood, and Heal orbs
@@ -45089,7 +45089,7 @@ KR: Change all orbs to Fire, Wood, and Heal orbs
 
 # 16574/116 - Menoa Gate -AMN4794-
 Tags: ALL_ORBS_CONVERT,LINE_ORBS_CONVERTER
-Game: Changes all Orbs to Water, Wood and Light Orbs; changes the leftmost column to Water Orbs
+Game: Changes all Orbs to Water, Wood & Light Orbs; changes the leftmost column to Water Orbs
 JP: 全ドロップを水、木、光ドロップに変化。最左端を水ドロップに変化
 EN: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
 KR: Change all orbs to Water, Wood, and Light orbs; Change the far left column to Water orbs
