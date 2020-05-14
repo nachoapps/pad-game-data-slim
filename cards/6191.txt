@@ -1,6 +1,6 @@
 #6191 ゴーレム起動・ルドセブ＆セイラーム
-HP: 5328 ATK: 1783 RCV: 48 LB: 25
-AWK: 10,10,56,21,28,43,43,27,27
+HP: 5528 ATK: 1783 RCV: 48 LB: 25
+AWK: 52,56,21,28,43,43,27,27,27
 SAWK: 43,48,53
 
 # 16983/116 - 心を取り戻すんだ!!!
@@ -12,9 +12,9 @@ KR: Create 10 Fire, Wood, and Heal orbs over any orbs; Charge all allies' skills
 
 # 16989/138 - セフィロトブラスト
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
-Stats: [2.0, 18.0, 1.0, 0, +2]
-Game: 火と木を同時に4個以上つなげて消すと攻撃力が2倍、 2コンボ加算。木属性の攻撃力が9倍。火属性のHPが2倍。
-JP: 木属性の攻撃力が9倍。火属性のHPが2倍。火と木を4個以上同時につなげて消しと攻撃力が2倍、2コンボ加算。
-EN: 9x ATK for Wood Att.; 2x HP for Fire Att.; 2x ATK and increase combo by 2 when matching 4 or more connected Fire and Wood orbs at once
-KR: 9x ATK for Wood Att.; 2x HP for Fire Att.; 2x ATK and increase combo by 2 when matching 4 or more connected Fire and Wood orbs at once
+Stats: [2.0, 19.0, 1.0, 0, +2]
+Game: 火と木を同時に4個以上つなげて消すと攻撃力が2倍、 2コンボ加算。木属性の攻撃力が9.5倍。火属性のHPが2倍。
+JP: 木属性の攻撃力が9.5倍。火属性のHPが2倍。火と木を4個以上同時につなげて消しと攻撃力が2倍、2コンボ加算。
+EN: 9.5x ATK for Wood Att.; 2x HP for Fire Att.; 2x ATK and increase combo by 2 when matching 4 or more connected Fire and Wood orbs at once
+KR: 9.5x ATK for Wood Att.; 2x HP for Fire Att.; 2x ATK and increase combo by 2 when matching 4 or more connected Fire and Wood orbs at once
 

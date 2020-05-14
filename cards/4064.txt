@@ -4,11 +4,11 @@ AWK: 21,21,19,19,19,28,46,46,43
 SAWK: 52,48,43
 
 # 9533/116 - Grimoire Snow
-Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
+Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
 Game: Inflicts 100,000 damage on all enemies; changes all Orbs to Fire, Light & Heal Orbs
-JP: 敵全体に10万の固定ダメージ。全ドロップを火、光、回復ドロップに変化
-EN: Deal 100000 fixed damage to all enemies; Change all orbs to Fire, Light, and Heal orbs
-KR: Deal 100000 fixed damage to all enemies; Change all orbs to Fire, Light, and Heal orbs
+JP: 敵全体に30万の固定ダメージ。消せないドロップ状態を9999ターン回復。全ドロップのロック状態を解除。全ドロップを火、光、回復ドロップに変化
+EN: Deal 300000 fixed damage to all enemies; Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Fire, Light, and Heal orbs
+KR: Deal 300000 fixed damage to all enemies; Reduce unable to match orbs effect by 9999 turns; Unlock all orbs; Change all orbs to Fire, Light, and Heal orbs
 
 # 9536/138 - Merry... Christmas...
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6

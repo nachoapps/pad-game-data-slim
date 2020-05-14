@@ -4,11 +4,11 @@ AWK: 10,10,56,28,19,45,44,43,43
 SAWK: 43,54,33,56,53
 
 # 16140/116 - True Sunlight Crown
-Tags: EXTENDS_TIME,REDUCE_SKILL_TURN,ORB_LOCK
+Tags: EXTENDS_TIME,REDUCE_SKILL_TURN,ADD_COMBO,ORB_LOCK
 Game: Orb move time +5 seconds for 5 turns, all Orbs locked; other allies' skills charged by 2 turns
-JP: 5ターンの間、ドロップ操作時間が5秒に延長。全ドロップをロック。自分以外の味方スキルが2ターンの溜まる
-EN: For 5 turns, increase orb move time by 5 seconds; Lock all orbs; Charge all allies' skills by 2 turns
-KR: For 5 turns, increase orb move time by 5 seconds; Lock all orbs; Charge all allies' skills by 2 turns
+JP: 5ターンの間、ドロップ操作時間が5秒に延長。5ターンの間、1コンボ加算される。自分以外の味方スキルが2ターンの溜まる。全ドロップをロック
+EN: For 5 turns, increase orb move time by 5 seconds; For 5 turns, increase combo count by 1; Charge all allies' skills by 2 turns; Lock all orbs
+KR: For 5 turns, increase orb move time by 5 seconds; For 5 turns, increase combo count by 1; Charge all allies' skills by 2 turns; Lock all orbs
 
 # 16122/138 - Spirit of the Sun God Dragon
 Tags: ENHANCED_HP_ATK_RCV

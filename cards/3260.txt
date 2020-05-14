@@ -6,9 +6,9 @@ SAWK: 31,55,52
 # 2637/116 - Dimension Formation - Scarlet Sun
 Tags: REDUCE_SKILL_TURN
 Game: Creates 3 Fire and Light Orbs each at random; other allies' skills charged by 1 turn
-JP: ランダムで火と光を3個ずつ生成。自分以外の味方スキルが1ターンの溜まる
-EN: Create 3 Fire and Light orbs; Charge all allies' skills by 1 turn
-KR: Create 3 Fire and Light orbs; Charge all allies' skills by 1 turn
+JP: ランダムで火と光を5個ずつ生成。自分以外の味方スキルが1ターンの溜まる
+EN: Create 5 Fire and Light orbs; Charge all allies' skills by 1 turn
+KR: Create 5 Fire and Light orbs; Charge all allies' skills by 1 turn
 
 # 11528/138 - Emperor God's Talisman
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

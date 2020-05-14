@@ -4,11 +4,11 @@ AWK: 28,28,56,19,19,27,27,27,27
 SAWK: 27,52,31,56,53
 
 # 16129/116 - True Rudraksha
-Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN
+Tags: LINE_ORBS_CONVERTER,REDUCE_SKILL_TURN,AWOKEN_INVALID_RECOVERY
 Game: Changes the leftmost column to Fire Orbs; other allies' skills charged by 2 turns
-JP: 最左端を火ドロップに変化。自分以外の味方スキルが2ターンの溜まる
-EN: Change the far left column to Fire orbs; Charge all allies' skills by 2 turns
-KR: Change the far left column to Fire orbs; Charge all allies' skills by 2 turns
+JP: 最左端を火ドロップに変化。覚醒無効を全回復。自分以外の味方スキルが2ターンの溜まる
+EN: Change the far left column to Fire orbs; Remove all awoken skill binds; Charge all allies' skills by 2 turns
+KR: Change the far left column to Fire orbs; Remove all awoken skill binds; Charge all allies' skills by 2 turns
 
 # 16113/138 - Spirit of the Destroyer God Dragon
 Tags: ENHANCED_ATK_RCV

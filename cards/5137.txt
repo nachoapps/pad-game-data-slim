@@ -1,6 +1,6 @@
 #5137 Mega Awoken Great Duke of Hell, Dantalion
 HP: 4224 ATK: 2287 RCV: 666 LB: 20
-AWK: 21,21,21,28,19,43,43,10,10
+AWK: 52,21,21,21,21,28,53,43,43
 SAWK: 48,43,45
 
 # 12732/116 - Destiny Masks
@@ -11,10 +11,10 @@ EN: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 tu
 KR: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 turn, 2x orb move time
 
 # 12735/138 - Hellish Eye of Knowledge
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 14.0, 1, 0.44]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 16.0, 1, 0.5, +1]
 Game: 4x ATK & reduces damage with 7+ combos; 3.5x ATK & reduces damage with 2+ Heal combos
-JP: 7コンボ以上で攻撃力が4倍、受けるダメージを25％減少。回復の2コンボ以上で攻撃力が3.5倍、受けるダメージを25％減少。
-EN: 4x ATK and reduce damage taken by 25% when 7 or more combos; 3.5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
-KR: 4x ATK and reduce damage taken by 25% when 7 or more combos; 3.5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
+JP: 7コンボ以上で攻撃力が4倍、受けるダメージを50％減少。火、回復同時攻撃で攻撃力が4倍、1コンボ加算。
+EN: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
+KR: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
 

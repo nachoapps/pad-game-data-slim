@@ -1,6 +1,6 @@
 #4745 Mega Awoken Blade Mechdragon, Baldin
 HP: 5408 ATK: 2403 RCV: 248 LB: 20
-AWK: 21,21,28,10,10,32,31,48,48
+AWK: 52,21,21,28,48,48,32,31,33
 SAWK: 36,37,38
 
 # 11807/116 - Triple-Rage Mode
@@ -11,10 +11,10 @@ EN: For 1 turn, 3x ATK for Dragon and Machine types; Change Light and Jammer orb
 KR: For 1 turn, 3x ATK for Dragon and Machine types; Change Light and Jammer orbs to Fire orbs; Change Wood, Poison, and Mortal Poison orbs to Dark orbs
 
 # 11810/138 - Nightmarish Unity
-Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
-Stats: [1.5, 9.0, 1.5, 0.25]
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 15.0, 1.5, 0.25, +2]
 Game: 1.5x to all stats for Fire Att., 3x ATK with 6+ combos; 2x ATK & reduces dmg when Fire & Dark attack at once
-JP: 火属性の全パラメータが1.5倍。6コンボ以上で攻撃力が3倍。火、闇の同時攻撃で攻撃力が2倍、受けるダメージを25％減少。
-EN: 1.5x all stats for Fire Att.; 3x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching Fire and Dark
-KR: 1.5x all stats for Fire Att.; 3x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching Fire and Dark
+JP: 火属性の全パラメータが1.5倍。3コンボ以上で攻撃力が3倍、最大10コンボで10倍。火、闇の同時攻撃で受けるダメージを25％減少。火か闇の同時攻擊で2コンボ加算
+EN: 1.5x all stats for Fire Att.; 3x ATK when 3 or more combos up to 10x at 10 combos; Reduce damage taken by 25% when matching Fire and Dark; Increase combo by 2 when matching Fire and Dark
+KR: 1.5x all stats for Fire Att.; 3x ATK when 3 or more combos up to 10x at 10 combos; Reduce damage taken by 25% when matching Fire and Dark; Increase combo by 2 when matching Fire and Dark
 

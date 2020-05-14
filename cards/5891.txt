@@ -4,11 +4,11 @@ AWK: 52,28,56,45,48,48,48,33,34
 SAWK: 56,33,53
 
 # 12650/116 - Dragon Sweets-Fr & Dk
-Tags: ALL_ORBS_CONVERT,REMOVE_LOCK
+Tags: HEAL,ALL_ORBS_CONVERT,REMOVE_LOCK
 Game: Removes all Orb locks and changes Orbs to Fire & Dark Orbs; creates 3 Heal Orbs at random
-JP: 全ドロップのロック状態を解除。全ドロップを火と闇ドロップに変化。回復ドロップを3個生成
-EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs
-KR: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs
+JP: 全ドロップのロック状態を解除。全ドロップを火と闇ドロップに変化。回復ドロップを3個生成。HPを5万回復
+EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs; Recover 50000 HP
+KR: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs; Recover 50000 HP
 
 # 15880/138 - Won't you let me have a taste?
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE

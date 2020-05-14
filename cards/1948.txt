@@ -4,11 +4,11 @@ AWK:
 SAWK: 
 
 # 1862/116 - Sunset Zone
-Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
 Game: Changes Orbs to Fire, Water, Dark, and Heal Orbs; other allies' skills charged by 1 turn
-JP: 全ドロップを火、水、闇、回復ドロップに変化。自分以外の味方スキルが1ターンの溜まる
-EN: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
-KR: Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、闇、回復ドロップに変化。自分以外の味方スキルが1ターンの溜まる
+EN: Unlock all orbs; Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
+KR: Unlock all orbs; Change all orbs to Fire, Water, Dark, and Heal orbs; Charge all allies' skills by 1 turn
 
 # 2552/138 - Eternal Dragon Pact - Dorva
 Tags: ENHANCED_HP_ATK
