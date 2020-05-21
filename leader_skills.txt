@@ -30665,7 +30665,7 @@ KR: 2x ATK when matching 4 or more connected Light orbs up to 4x at 8 orbs
 # 7227/138 - Dance of the Dark Heavens
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1.5, 12.75, 1.0, 0.25]
-Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & reduces dmg when Fire, Water, Wood & Dark attack at once
 JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇同時攻撃で攻撃力が8.5倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
 KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
@@ -30857,7 +30857,7 @@ KR: 4x ATK when matching Dark and Fire
 # 7255/138 - Blazing Steel Star of Aquarius
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 20.0, 4.0, 0]
-Game: 3.5x ATK with 2 Fire combos, 5x ATK with 3+ combos; Orb move time +3 seconds
+Game: 4x ATK & RCV for Fire Att., Orb move time +4 seconds; 3x ATK with 2 Fire combos, 5x ATK with 3+ combos
 JP: 火の2コンボで攻撃力が3倍、最大3コンボで5倍。火属性の攻撃力と回復力が4倍。ドロップ操作時間を4秒延長。
 EN: 3x ATK when matching 2 Fire combos, up to 5x at 3 Fire combos; 4x ATK & RCV for Fire Att.; Increase orb movement time by 4 seconds
 KR: 3x ATK when matching 2 Fire combos, up to 5x at 3 Fire combos; 4x ATK & RCV for Fire Att.; Increase orb movement time by 4 seconds
@@ -31297,7 +31297,7 @@ KR: 3.5x ATK when matching Light and Fire
 # 7346/138 - Dark Meteor Dance
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
 Stats: [1.5, 12.75, 2.0, 0]
-Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & 2x RCV when Fr, Wt, Wd, Dk & Heal attack at once
+Game: [7x6 board], 1.5x HP & ATK for Dragon Type; 8.5x ATK & 2x RCV when Fr, Wt, Wd & Dk attack at once
 JP: 【7×6マス】ドラゴンタイプのHPと攻撃力が1.5倍。火、水、木、闇同時攻撃で攻撃力が8.5倍、回復力が2倍。
 EN: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
 KR: [Board becomes 7x6] 1.5x HP & ATK for Dragon type; 8.5x ATK and 2x RCV when matching Fire, Water, Wood, and Dark at once
@@ -41785,7 +41785,7 @@ KR: 2.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 # 10097/138 - Evil Aroma Conjuration
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 17.0, 1.0, 0.0]
-Game: 2x HP & ATK for Devil & Dragon Types; 2.5x ATK for Att. erasing 5 Orbs including enhanced
+Game: 2x HP & ATK for Devil & Dragon Types; 8.5x ATK for Att. erasing 5 Orbs including enhanced
 JP: ドラゴンと悪魔タイプのHPと攻撃力が2倍。強化ドロップを含めてを5個消した属性の攻撃力が8.5倍。
 EN: 2x HP & ATK for Dragon and Devil type; 8.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 KR: 2x HP & ATK for Dragon and Devil type; 8.5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
@@ -70127,10 +70127,10 @@ JP: 5色以上同時攻撃で2コンボ加算。
 EN: increase combo by 2 when matching 5 or more colors
 KR: increase combo by 2 when matching 5 or more colors
 
-# 16634/138 - 緑樹霊の魔印
+# 16634/138 - Verdant Wood Spirit's Magic Seal
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 18.0, 1.0, 0, +2]
-Game: 【操作時間9秒】木属性のHPが2倍、攻撃力は4倍。 木回復の同時攻撃で攻撃力が4.5倍、2コンボ加算。
+Game: [Orb move time: 9 sec], 2x HP & 4x ATK for Wood Att.; 4.5x ATK & adds 2 combos when Wd & Heal attack at once
 JP: 【操作時間9秒固定】木属性の攻撃力が4倍、HPが2倍。木、回復同時攻撃で攻撃力が4.5倍、2コンボ加算。
 EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.; 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
 KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Wood Att.; 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
@@ -70151,10 +70151,10 @@ JP: 木、回復同時攻撃で攻撃力が4.5倍、2コンボ加算。
 EN: 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
 KR: 4.5x ATK and increase combo by 2 when matching Wood and Heal at once
 
-# 16638/138 - 緑樹霊の変術
+# 16638/138 - Verdant Wood Spirit's Alteration Technique
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [2.0, 18.0, 2.0, 0, +2]
-Game: 【操作時間9秒】木属性の全パラメータが2倍。 木を6個以上つなげて消すと攻撃力が9倍、9個以上で2コンボ加算。
+Game: [Orb move time: 9 sec], 2x to all stats for Wood Att.;  9x ATK with 6+ linked Wd Orbs, adds 2 combos with 9+ Orbs
 JP: 【操作時間9秒固定】木属性の全パラメータが2倍。木を6個以上つなげて消すと攻撃力が9倍。木を9個以上つなげて消しと、2コンボ加算。
 EN: [Fixed 9 second movetime] 2x all stats for Wood Att.; 9x ATK when matching 6 or more connected Wood orbs; Increase combo by 2 when matching 9 or more connected Wood orbs at once
 KR: [Fixed 9 second movetime] 2x all stats for Wood Att.; 9x ATK when matching 6 or more connected Wood orbs; Increase combo by 2 when matching 9 or more connected Wood orbs at once
@@ -70183,10 +70183,10 @@ JP: 木を9個以上つなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 9 or more connected Wood orbs at once
 KR: Increase combo by 2 when matching 9 or more connected Wood orbs at once
 
-# 16645/138 - 黄光霊の魔印
+# 16645/138 - Golden Light Spirit's Magic Seal
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 1.0, 0.0]
-Game: 悪魔と神タイプのHPと攻撃力が2倍。 光を6個以上つなげて消すと攻撃力が8倍、固定50万ダメージ。
+Game: 2x HP & ATK for Devil & God Types; 8x ATK & inflicts 500,000 dmg with 6+ linked Light Orbs
 JP: 神と悪魔タイプのHPと攻撃力が2倍。光を6個以上つなげて消すと攻撃力が8倍。光を6個以上つなげて消しと固定500000ダメージ。
 EN: 2x HP & ATK for God and Devil type; 8x ATK when matching 6 or more connected Light orbs; 500000 additional damage when matching 6 or more Light orbs
 KR: 2x HP & ATK for God and Devil type; 8x ATK when matching 6 or more connected Light orbs; 500000 additional damage when matching 6 or more Light orbs
@@ -70215,18 +70215,18 @@ JP: 光を6個以上つなげて消しと固定500000ダメージ。
 EN: 500000 additional damage when matching 6 or more Light orbs
 KR: 500000 additional damage when matching 6 or more Light orbs
 
-# 16649/177 - 黄光霊の操術
+# 16649/177 - Golden Light Spirit's Guiding Technique
 Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
 Stats: [2.0, 32.0, 1.0, 0]
-Game: 【落ちコンなし】バランスタイプのHPと攻撃力が2倍。 パズル後の残りドロップ数が8個以下で攻撃力が上昇、最大16倍。
+Game: [No Skyfall Combos], 2x HP & ATK for Balanced Type; up to 16x ATK when 8 Orbs or less remain on the board
 JP: 【落ちコンなし】バランスタイプのHPと攻撃力が2倍。パズル後の残りドロップ数が8個で攻撃力8倍、0個のところまで16倍。
 EN: [No skyfall] 2x HP & ATK for Balanced type; 8x ATK when there are 8 or fewer orbs remaining up to 16x ATK when 0 orbs left
 KR: [No skyfall] 2x HP & ATK for Balanced type; 8x ATK when there are 8 or fewer orbs remaining up to 16x ATK when 0 orbs left
 
-# 16655/138 - 親和の魔導
+# 16655/138 - Magic of Friendship
 Tags: ENHANCED_HP_ATK_RCV,BOARD_CHANGE_7X6
 Stats: [1.5, 12.0, 2.0, 0]
-Game: 【7×6マス】悪魔タイプのHPと攻撃力が1.5倍。 火光の同時攻撃で攻撃力が8倍、回復力は2倍。
+Game: [7x6 board], 1.5x HP & ATK for Devil Type; 8x ATK & 2x RCV when Fire & Light attack at once
 JP: 【7×6マス】悪魔タイプのHPと攻撃力が1.5倍。火、光の同時攻撃で攻撃力が8倍、回復力が2倍。
 EN: [Board becomes 7x6] 1.5x HP & ATK for Devil type; 8x ATK and 2x RCV when matching Fire and Light
 KR: [Board becomes 7x6] 1.5x HP & ATK for Devil type; 8x ATK and 2x RCV when matching Fire and Light
@@ -70247,10 +70247,10 @@ JP: 火、光の同時攻撃で攻撃力が8倍、回復力が2倍。
 EN: 8x ATK and 2x RCV when matching Fire and Light
 KR: 8x ATK and 2x RCV when matching Fire and Light
 
-# 16664/138 - 魔導の知識
+# 16664/138 - Knowledge of Sorcery
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 14.0, 1, 0.25, +2]
-Game: 闇光の同時攻撃でダメージを軽減、攻撃力が14倍。 光と闇を同時に5個以上つなげて消すと、2コンボ加算。
+Game: 14x ATK & reduces damage when Dark & Light attack at once; adds 2 combos with 5+ linked Lt & Dk Orbs each
 JP: 闇、光の同時攻撃で攻撃力が14倍、受けるダメージを25％減少。光と闇を5個以上同時につなげて消しと、2コンボ加算。
 EN: 14x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
 KR: 14x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 2 when matching 5 or more connected Light and Dark orbs at once
@@ -70903,18 +70903,18 @@ JP: 水の2コンボ以上で攻撃力が2倍。
 EN: 2x ATK when matching 2+ Water combos
 KR: 2x ATK when matching 2+ Water combos
 
-# 16816/193 - 古木霊の魔印
+# 16816/193 - Ancient Tree Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 4.0, 1.0, 0.5]
-Game: ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+Game: 5x ATK & reduces damage when Water & Heal attack at once
 JP: ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
 KR: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
 
-# 16820/138 - 古木霊の導術
+# 16820/138 - Ancient Tree Spirit's Leading Technique
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 20.0, 1.0, 0.5]
-Game: 4色以上同時攻撃で攻撃力が5倍、固定100万ダメージ。 ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+Game: 1.5x HP and 4x ATK & RCV for Wt Att., voids Poison dmg; 5x ATK & reduces damage when Wt & Heal attack at once
 JP: 4色以上同時攻撃、固定1000000ダメージ。ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。4色以上同時攻撃で攻撃力が5倍。
 EN: 1000000 additional damage when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape; 5x ATK when matching 4 or more colors
 KR: 1000000 additional damage when matching 4 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape; 5x ATK when matching 4 or more colors
@@ -70943,18 +70943,18 @@ JP: 4色以上同時攻撃で攻撃力が5倍。
 EN: 5x ATK when matching 4 or more colors
 KR: 5x ATK when matching 4 or more colors
 
-# 16827/182 - 古魚霊の魔印
+# 16827/182 - Ancient Fish Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 4.0, 1, 0.5]
-Game: 回復を5個以上つなげて消すとダメージを半減、 攻撃力が4倍。
+Game: 4x ATK & halves damage with 5+ linked Heal Orbs
 JP: 回復を5個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
 KR: 4x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
 
-# 16831/138 - 古魚霊の泳術
+# 16831/138 - Ancient Fish Spirit's Swimming Technique
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 20.0, 5.0, 0.35, +3]
-Game: 水属性の攻撃力と回復力が5倍。スキル使用時、攻撃力が4倍。 回復を5個以上つなげて消すとダメージを軽減、3コンボ加算。
+Game: 5x ATK & RCV for Water Att., 4x ATK when skills used; reduces damage & adds 3 combos with 5+ linked Heal Orbs
 JP: 水属性の攻撃力と回復力が5倍。スキル使用時、攻撃力が4倍。回復を5個以上つなげて消しと、3コンボ加算。回復を5個以上つなげて消すと受けるダメージを35％減少。
 EN: 5x ATK & RCV for Water Att.; 4x ATK on the turn a skill is used; Increase combo by 3 when matching 5 or more connected Heal orbs at once; Reduce damage taken by 35% when matching 5 or more connected Heal orbs
 KR: 5x ATK & RCV for Water Att.; 4x ATK on the turn a skill is used; Increase combo by 3 when matching 5 or more connected Heal orbs at once; Reduce damage taken by 35% when matching 5 or more connected Heal orbs
@@ -71087,10 +71087,10 @@ JP: 2コンボ以上で2コンボ加算
 EN: Increase combo by 2 when matching 2 or more Water combos
 KR: Increase combo by 2 when matching 2 or more Water combos
 
-# 16859/138 - Lスキルリーチェ弟子
+# 16859/138 - L Skill Reeche's Disciple
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 9.0, 1.5, 0.25]
-Game: 攻撃タイプの全パラメータが1.5倍。 ドロップを4個以上つなげて消すとダメージを軽減、攻撃力が6倍。
+Game: 1.5x to all stats for Attacker Type; 6x ATK & reduces damage with 4+ linked Orbs
 JP: 攻撃タイプの全パラメータが1.5倍。を4個以上つなげて消すと攻撃力が6倍、受けるダメージを25％減少。
 EN: 1.5x all stats for Attacker type; 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
 KR: 1.5x all stats for Attacker type; 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
@@ -71111,10 +71111,10 @@ JP: を4個以上つなげて消すと攻撃力が6倍、受けるダメージ�
 EN: 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
 KR: 6x ATK and reduce damage taken by 25% when matching 4 or more connected orbs
 
-# 16862/138 - 紫海霊の転術
+# 16862/138 - Purple Sea Spirit's Whirling Technique
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [1.5, 18.0, 1.5, 0.0]
-Game: 闇属性の全パラメータが1.5倍。 闇を7個以上つなげて消すと攻撃力が12倍、固定1ダメージ。
+Game: 1.5x to all stats for Dark Att.; 12x ATK & inflicts 1 damage with 7+ linked Dark Orbs
 JP: 闇属性の全パラメータが1.5倍。闇を7個以上つなげて消すと攻撃力が12倍。闇を7個以上つなげて消しと固定1ダメージ。
 EN: 1.5x all stats for Dark Att.; 12x ATK when matching 7 or more connected Dark orbs; 1 additional damage when matching 7 or more Dark orbs
 KR: 1.5x all stats for Dark Att.; 12x ATK when matching 7 or more connected Dark orbs; 1 additional damage when matching 7 or more Dark orbs

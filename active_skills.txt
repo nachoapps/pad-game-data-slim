@@ -6853,7 +6853,7 @@ KR: Change all orbs to Fire and Light orbs
 
 # 1864/116 - Chaotic Call
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,REMOVE_LOCK
-Game: Changes Orbs to Fire, Wood, and Dark Orbs
+Game: Removes Orb locks, changes all Orbs to Fire, Wood & Dark Orbs; 2x ATK for Devil Type for 1 turn
 JP: 全ドロップのロック状態を解除。全ドロップを火、木、闇ドロップに変化。1ターンの間、悪魔タイプの攻撃力が2倍
 EN: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
 KR: Unlock all orbs; Change all orbs to Fire, Wood, and Dark orbs; For 1 turn, 2x ATK for Devil type
@@ -16814,7 +16814,7 @@ KR: For 1 turn, 2.5x ATK for Dragon and Machine types
 
 # 6267/116 - Starry Road - Flare
 Tags: ORB_CONVERT,DROP_CHANCE
-Game: Changes Wood & Light Orbs to Fire Orbs; Heal Orbs slightly more likely to appear for 2 turns
+Game: Changes Wood, Light, Jammers & Bombs to Fire Orbs; Heal Orbs slightly more likely to appear for 3 turns
 JP: 木、光、お邪魔、爆弾ドロップを火ドロップに変化。3ターンの間、回復ドロップが15％落ちやすくなる
 EN: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
 KR: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
@@ -18032,7 +18032,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 7224/116 - Smiles All Around
 Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS
-Game: Changes Orbs to all Attributes & Heal; voids damage absorption for 1 turn
+Game: Changes Orbs to all Attributes & Heal; voids damage absorption for 2 turns
 JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収を無効化する
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
@@ -24500,7 +24500,7 @@ JP: 4ターンの間、回復力が1.5倍
 EN: For 4 turns, 1.5x RCV
 KR: For 4 turns, 1.5x RCV
 
-# 10073/116 - Space-Time Acceleration Circle-Fr, DK & Life
+# 10073/116 - Space-Time Acceleration Circle-Fr, Dk & Life
 Tags: ALL_ORBS_CONVERT,ADD_COMBO
 Game: Adds 3 combos for 1 turn; changes all Orbs to Fire, Dark & Heal Orbs
 JP: 1ターンの間、3コンボ加算される。全ドロップを火、闇、回復ドロップに変化
@@ -24544,7 +24544,7 @@ KR: Change all orbs to Wood, Light, Dark, and Heal orbs
 
 # 10091/116 - Hurricane Jail
 Tags: ORB_CONVERT,ENHANCED_HEAL,EXTENDS_TIME
-Game: Changes Fire & Light Orbs to Wood Orbs; 1.5x Orb move time for 1 turn
+Game: Changes Fire, Light & Poison Orbs to Wood Orbs; 1.5x RCV & 1.5x Orb move time for 1 turn
 JP: 火、光、毒、猛毒ドロップを木ドロップに変化。1ターンの間、回復力が1.5倍。1ターンの間、ドロップ操作時間が1.5倍
 EN: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
 KR: Change Fire, Light, Poison, and Mortal Poison orbs to Wood orbs; For 1 turn, 1.5x RCV; For 1 turn, 1.5x orb move time
@@ -30417,7 +30417,7 @@ KR: For 1 turn, all attacks become mass attack
 
 # 12171/116 - Blue Aurora Barrier
 Tags: ATTACK_STANCE,ORB_CONVERT,AWOKEN_INVALID_RECOVERY,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
-Game: Changes Heal Orbs to Fire Orbs; voids damage absorption & Att. absorption for 1 turn
+Game: Changes Heal to Fire, fully recovers Awoken Skill bind status; voids dmg absorption & Att. absorption for 1 turn
 JP: 回復ドロップを火ドロップに変化。覚醒無効を全回復。1ターンの間、ダメージ吸収と属性吸収を無効化する
 EN: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 KR: Change Heal orbs to Fire orbs; Remove all awoken skill binds; For 1 turn, bypass damage absorb shield and att. absorb shield effects
@@ -37732,7 +37732,7 @@ KR: Change all orbs to Fire and Light orbs
 
 # 14504/116 - All Drop Wink
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS
-Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption for 1 turn
+Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption for 2 turns
 JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収を無効化する
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
 KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield effects
@@ -45192,9 +45192,9 @@ JP: お邪魔、毒、猛毒ドロップを闇ドロップに変化
 EN: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 KR: Change Jammer, Poison, and Mortal Poison orbs to Dark orbs
 
-# 16631/116 - ワイルドブレイズ
+# 16631/116 - Wild Blaze
 Tags: MENACE,AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 敵の行動を2ターン遅らせる。 消せないドロップと覚醒無効状態を5ターン回復。
+Game: Delays enemies' next move for 2 turns; reduces Awoken Skill bind & unmatchable Orb status by 5 turns
 JP: 敵の行動を2ターン遅らせる。消せないドロップ状態を5ターン回復。覚醒無効を5ターン回復
 EN: Delay enemies' next attack by 2 turns; Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns
 KR: Delay enemies' next attack by 2 turns; Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns
@@ -45220,9 +45220,9 @@ JP: 覚醒無効を5ターン回復
 EN: Reduce awoken skill binds by 5 turns
 KR: Reduce awoken skill binds by 5 turns
 
-# 16642/116 - トゥインクルダーク
+# 16642/116 - Twinkling Dark
 Tags: ENHANCED_ATTACK,ADD_COMBO
-Game: 1ターンの間、回復力が激減、光属性の攻撃力が1.5倍。 1ターンの間、3コンボ加算される。
+Game: Vastly reduces RCV and 1.5x ATK for Light Att. for 1 turn; adds 3 combos for 1 turn
 JP: 1ターンの間、回復力が0.25倍。1ターンの間、光属性の攻撃力が1.5倍。1ターンの間、3コンボ加算される
 EN: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
 KR: For 1 turn, 0.25x RCV; For 1 turn, 1.5x ATK for Light Att.; For 1 turn, increase combo count by 3
@@ -45241,9 +45241,9 @@ JP: 1ターンの間、3コンボ加算される
 EN: For 1 turn, increase combo count by 3
 KR: For 1 turn, increase combo count by 3
 
-# 16650/116 - グリモワールウィル
+# 16650/116 - Grimoire Will
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE,REMOVE_LOCK
-Game: 敵全体に30万の固定ダメージ。 全ドロップのロックを解除し、火と光ドロップに変化。
+Game: Inflicts 300,000 damage on all enemies; removes  Orb locks, changes all Orbs to Fire & Light Orbs
 JP: 敵全体に30万の固定ダメージ。全ドロップのロック状態を解除。全ドロップを火と光ドロップに変化
 EN: Deal 300000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
 KR: Deal 300000 fixed damage to all enemies; Unlock all orbs; Change all orbs to Fire and Light orbs
@@ -45276,9 +45276,9 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 16658/116 - つながる想い
+# 16658/116 - Connected Memories
 Tags: ADD_COMBO,VOID_ATT_ABSORBS
-Game: 1ターンの間、2コンボ加算される。 1ターンの間、属性吸収を無効化する。
+Game: Adds 2 combos for 1 turn; voids Attribute absorption for 1 turn
 JP: 1ターンの間、2コンボ加算される。1ターンの間、属性吸収を無効化する
 EN: For 1 turn, increase combo count by 2; For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, increase combo count by 2; For 1 turn, bypass att. absorb shield effects
@@ -45297,9 +45297,9 @@ JP: 1ターンの間、属性吸収を無効化する
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
 
-# 16661/116 - グリモワールボイス
+# 16661/116 - Grimoire Voice
 Tags: MASSIVE_ATTACK,ALL_ORBS_CONVERT,FIXED_DAMAGE
-Game: 敵全体に30万の固定ダメージ。 全ドロップを光と闇ドロップに変化。
+Game: Inflicts 300,000 damage on all enemies; changes all Orbs to Light & Dark Orbs
 JP: 敵全体に30万の固定ダメージ。全ドロップを光と闇ドロップに変化
 EN: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark orbs
 KR: Deal 300000 fixed damage to all enemies; Change all orbs to Light and Dark orbs
@@ -45318,16 +45318,16 @@ JP: 全ドロップを光と闇ドロップに変化
 EN: Change all orbs to Light and Dark orbs
 KR: Change all orbs to Light and Dark orbs
 
-# 16668/160 - イルミナの思い出
+# 16668/160 - Ilmina's Memories
 Tags: ADD_COMBO
-Game: 1ターンの間、2コンボ加算される。
+Game: Adds 2 combos for 1 turn
 JP: 1ターンの間、2コンボ加算される
 EN: For 1 turn, increase combo count by 2
 KR: For 1 turn, increase combo count by 2
 
-# 16669/173 - ロミアの思い出
+# 16669/173 - Romia's Memories
 Tags: VOID_ATT_ABSORBS
-Game: 1ターンの間、属性吸収を無効化する。
+Game: Voids Attribute absorption for 1 turn
 JP: 1ターンの間、属性吸収を無効化する
 EN: For 1 turn, bypass att. absorb shield effects
 KR: For 1 turn, bypass att. absorb shield effects
@@ -45787,9 +45787,9 @@ JP: 2ターンの間、1コンボ加算される
 EN: For 2 turns, increase combo count by 1
 KR: For 2 turns, increase combo count by 1
 
-# 16813/116 - 魔印解放・グゥム
+# 16813/116 - Magic Seal Release - Ghum
 Tags: REDUCE_DAMAGE
-Game: 1ターンの間、受けるダメージを半減。 森衣の大魔女・アルジェに変身。
+Game: Halves damage for 1 turn; changes to Great Witch of the Forest Cloak, Aljae
 JP: 1ターンの間、受けるダメージを50％減少。[6159]に変身する
 EN: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
 KR: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
@@ -45808,9 +45808,9 @@ JP: [6159]に変身する
 EN: Changes to [6159] for the duration of the dungeon
 KR: Changes to [6159] for the duration of the dungeon
 
-# 16817/116 - グリーンウィスパー
+# 16817/116 - Green Whisper
 Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
-Game: 1ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
+Game: Changes the leftmost column to Heal Orbs; changes 3 non-Heal Orbs to Water Orbs
 JP: 1ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 1 turn, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -45829,9 +45829,9 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 16824/116 - 魔印解放・メズレイ
+# 16824/116 - Magic Seal Release - Mezray
 Tags: ALL_ORBS_CONVERT
-Game: 全ドロップを水と回復ドロップに変化。 溟怪の大魔女・ノルザに変身。
+Game: Changes all Orbs to Water & Heal Orbs; changes to Great Witch of the Mysterious Ocean, Norza
 JP: 全ドロップを水と回復ドロップに変化。[6156]に変身する
 EN: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
 KR: Change all orbs to Water and Heal orbs; Changes to [6156] for the duration of the dungeon
@@ -45850,9 +45850,9 @@ JP: [6156]に変身する
 EN: Changes to [6156] for the duration of the dungeon
 KR: Changes to [6156] for the duration of the dungeon
 
-# 16828/116 - ブルーボルテックス
+# 16828/116 - Blue Vortex
 Tags: ENHANCED_HEAL,EXTENDS_TIME
-Game: 1ターンの間、ドロップ操作時間と回復力が1.5倍。 ランダムで水と回復ドロップを3個ずつ生成。
+Game: 1.5x RCV & 1.5x Orb move time for 1 turn; creates 3 Water & Heal Orbs each at random
 JP: 1ターンの間、ドロップ操作時間が1.5倍。1ターンの間、回復力が1.5倍。ランダムで水と回復を3個ずつ生成
 EN: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Heal orbs
 KR: For 1 turn, 1.5x orb move time; For 1 turn, 1.5x RCV; Create 3 Water and Heal orbs
@@ -45871,9 +45871,9 @@ JP: ランダムで水と回復を3個ずつ生成
 EN: Create 3 Water and Heal orbs
 KR: Create 3 Water and Heal orbs
 
-# 16835/116 - グゥムウィスパー
+# 16835/116 - Ghum Whisper
 Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
-Game: 3ターンの間、ダメージ無効を貫通する。 全ドロップを火、水、木、光、闇ドロップに変化。
+Game: Pierce through enemy's damage void for 3 turns; changes Orbs to all Attributes
 JP: 3ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -45892,9 +45892,9 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 16838/116 - メズレイボルテックス
+# 16838/116 - Mezray Vortex
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
-Game: 1ターンの間、2コンボ加算される。 全ドロップのロックを解除し、水と回復ドロップに変化。
+Game: Adds 2 combos for 1 turn; removes Orb locks, changes all Orbs to Water & Heal Orbs
 JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを水と回復ドロップに変化
 EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Heal orbs
 KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Water and Heal orbs
@@ -45927,9 +45927,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 16856/116 - ランベントオーロラ
+# 16856/116 - Lambent Aurora
 Tags: ENHANCED_ATTACK,EXTENDS_TIME
-Game: 1ターンの間、闇属性の攻撃力が1.5倍。 1ターンの間、ドロップ操作時間が1.5倍。
+Game: 1.5x ATK for Dark Att. for 1 turn; 1.5x Orb move time for 1 turn
 JP: 1ターンの間、闇属性の攻撃力が1.5倍。1ターンの間、ドロップ操作時間が1.5倍
 EN: For 1 turn, 1.5x ATK for Dark Att.; For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x ATK for Dark Att.; For 1 turn, 1.5x orb move time
@@ -45990,9 +45990,9 @@ JP: 自分以外の味方スキルが2ターンの溜まる
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
-# 16881/116 - メタモルマジック
+# 16881/116 - Metamorph Magic
 Tags: LINE_ORBS_CONVERTER
-Game: 最上段横1列を闇ドロップに変化。 溟華の魔女・ポンノに変身。
+Game: Changes the top row to Dark Orbs; changes to Witch of the Dark Flowers, Ponno
 JP: 最上段を闇ドロップに変化。[6151]に変身する
 EN: Change the top row to Dark orbs; Changes to [6151] for the duration of the dungeon
 KR: Change the top row to Dark orbs; Changes to [6151] for the duration of the dungeon

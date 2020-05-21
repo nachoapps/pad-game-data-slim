@@ -3,17 +3,17 @@ HP: 2480 ATK: 1064 RCV: 365 LB: 0
 AWK: 52,28,60
 SAWK: 
 
-# 16813/116 - 魔印解放・グゥム
+# 16813/116 - Magic Seal Release - Ghum
 Tags: REDUCE_DAMAGE
-Game: 1ターンの間、受けるダメージを半減。 森衣の大魔女・アルジェに変身。
+Game: Halves damage for 1 turn; changes to Great Witch of the Forest Cloak, Aljae
 JP: 1ターンの間、受けるダメージを50％減少。[6159]に変身する
 EN: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
 KR: For 1 turn, reduce damage taken by 50%; Changes to [6159] for the duration of the dungeon
 
-# 16816/193 - 古木霊の魔印
+# 16816/193 - Ancient Tree Spirit's Magic Seal
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 4.0, 1.0, 0.5]
-Game: ドロップの5個L字消しでダメージを半減、攻撃力が4倍。
+Game: 5x ATK & reduces damage when Water & Heal attack at once
 JP: ドロップの5個L字消しで攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape
 KR: 4x ATK and reduce damage taken by 50% when matching 5 orbs in an L shape

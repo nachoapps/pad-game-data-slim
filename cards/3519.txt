@@ -5,7 +5,7 @@ SAWK: 47,59,27
 
 # 6267/116 - Starry Road - Flare
 Tags: ORB_CONVERT,DROP_CHANCE
-Game: Changes Wood & Light Orbs to Fire Orbs; Heal Orbs slightly more likely to appear for 2 turns
+Game: Changes Wood, Light, Jammers & Bombs to Fire Orbs; Heal Orbs slightly more likely to appear for 3 turns
 JP: 木、光、お邪魔、爆弾ドロップを火ドロップに変化。3ターンの間、回復ドロップが15％落ちやすくなる
 EN: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
 KR: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal orbs are more likely to appear by 15%
@@ -13,7 +13,7 @@ KR: Change Wood, Light, Jammer, and Bomb orbs to Fire orbs; For 3 turns, Heal or
 # 7255/138 - Blazing Steel Star of Aquarius
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME
 Stats: [1.0, 20.0, 4.0, 0]
-Game: 3.5x ATK with 2 Fire combos, 5x ATK with 3+ combos; Orb move time +3 seconds
+Game: 4x ATK & RCV for Fire Att., Orb move time +4 seconds; 3x ATK with 2 Fire combos, 5x ATK with 3+ combos
 JP: 火の2コンボで攻撃力が3倍、最大3コンボで5倍。火属性の攻撃力と回復力が4倍。ドロップ操作時間を4秒延長。
 EN: 3x ATK when matching 2 Fire combos, up to 5x at 3 Fire combos; 4x ATK & RCV for Fire Att.; Increase orb movement time by 4 seconds
 KR: 3x ATK when matching 2 Fire combos, up to 5x at 3 Fire combos; 4x ATK & RCV for Fire Att.; Increase orb movement time by 4 seconds
