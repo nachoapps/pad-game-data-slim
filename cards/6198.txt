@@ -1,0 +1,20 @@
+#6198 真魔人ダンテ
+HP: 4836 ATK: 3120 RCV: 276 LB: 0
+AWK: 53,33,33,33,43,43,43,69,52
+SAWK: 
+
+# 17080/116 - ザ ルーチェ
+Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインドと覚醒無効状態を全回復。 ランダムで火ドロップを5個生成。
+JP: バインドと覚醒無効を全回復。火ドロップを5個生成
+EN: Remove all binds and awoken skill binds; Create 5 Fire orbs
+KR: Remove all binds and awoken skill binds; Create 5 Fire orbs
+
+# 17083/138 - おいおい、もう終わりか？
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 19.5, 1.5, 0.25, +2]
+Game: 火属性の全パラメータが1.5倍。7コンボ以上で攻撃力が13倍。 火を6個以上つなげて消すとダメージを軽減、2コンボ加算。
+JP: 火属性の全パラメータが1.5倍。7コンボ以上で攻撃力が13倍。火を6個以上つなげて消しと、2コンボ加算。火を6個以上つなげて消すと受けるダメージを25％減少。
+EN: 1.5x all stats for Fire Att.; 13x ATK when 7 or more combos; Increase combo by 2 when matching 6 or more connected Fire orbs at once; Reduce damage taken by 25% when matching 6 or more connected Fire orbs
+KR: 1.5x all stats for Fire Att.; 13x ATK when 7 or more combos; Increase combo by 2 when matching 6 or more connected Fire orbs at once; Reduce damage taken by 25% when matching 6 or more connected Fire orbs
+

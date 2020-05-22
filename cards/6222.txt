@@ -1,0 +1,20 @@
+#6222 魔界の反逆王・ユリゼン
+HP: 4156 ATK: 2201 RCV: 72 LB: 30
+AWK: 10,10,21,21,28,57,7,7,71
+SAWK: 71,57,53
+
+# 17184/116 - アシッドレイン
+Tags: REDUCE_DAMAGE
+Game: 3ターンの間、受けるダメージを軽減。 ランダムで闇とお邪魔ドロップを6個ずつ生成。
+JP: 3ターンの間、受けるダメージを30％減少。ランダムで闇とお邪魔を6個ずつ生成
+EN: For 3 turns, reduce damage taken by 30%; Create 6 Dark and Jammer orbs
+KR: For 3 turns, reduce damage taken by 30%; Create 6 Dark and Jammer orbs
+
+# 17187/138 - “力”だ…俺が求めるのは ただそれだけ
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [1.5, 16.0, 1.0, 0.0]
+Game: 悪魔タイプのHPが1.5倍、攻撃力は4倍。 お邪魔の2コンボ以上で攻撃力が4倍、固定1ダメージ。
+JP: 悪魔タイプの攻撃力が4倍、HPが1.5倍。お邪魔の2コンボ以上で攻撃力が4倍。お邪魔の2コンボ以上で固定1ダメージ。
+EN: 4x ATK and 1.5x HP for Devil type; 4x ATK when matching 2+ Jammer combos; 1 additional damage when matching 2 or more Jammer combos
+KR: 4x ATK and 1.5x HP for Devil type; 4x ATK when matching 2+ Jammer combos; 1 additional damage when matching 2 or more Jammer combos
+

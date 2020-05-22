@@ -1,0 +1,20 @@
+#6200 バージル
+HP: 3370 ATK: 2249 RCV: 215 LB: 0
+AWK: 21,21
+SAWK: 
+
+# 17091/116 - 決着だ
+Tags: LINE_ORBS_CONVERTER
+Game: 左端縦1列を水に、右端縦1列を闇ドロップに変化。 魔人バージルに変身。
+JP: 最左端を水に、最右端を闇ドロップに変化。[6201]に変身する
+EN: Change the far left column to Water orbs and change the far right column to Dark orbs; Changes to [6201] for the duration of the dungeon
+KR: Change the far left column to Water orbs and change the far right column to Dark orbs; Changes to [6201] for the duration of the dungeon
+
+# 17094/124 - 欲しければ奪えばいいだろう…いつもの事だ
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 水闇の同時攻撃で攻撃力が4倍。
+JP: 水、闇の同時攻撃で攻撃力が4倍。
+EN: 4x ATK when matching Water and Dark
+KR: 4x ATK when matching Water and Dark
+

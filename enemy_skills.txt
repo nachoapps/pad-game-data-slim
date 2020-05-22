@@ -81957,15 +81957,15 @@ JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 16384/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16384/68 - 進月の緑光
+JP: 3ターンの間、木ドロップを+15%に落ちてくる
+EN: Wood skyfall +15% for 3 turns
+KR: Wood skyfall +15% for 3 turns
 
-# 16385/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16385/15 - ムーンリーフ
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
 # 16386/0 - なし
 JP: nothing
@@ -85157,80 +85157,80 @@ JP: 2ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 2 turns
 KR: Reduce damage from all sources by 50% for 2 turns
 
-# 17024/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17024/66 - ようこそー！
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17025/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17025/119 - さぁ、コンボチャレンジだ！
+JP: 999ターンの間、受けるダメージを無効化する
+EN: Immune to damage from all sources for 999 turns
+KR: Immune to damage from all sources for 999 turns
 
-# 17026/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17026/127 - たくさんコンボすれば楽になるよ！
+JP: 1ターンの間、落ちコンしなくなる
+EN: No skyfall for 1 turn
+KR: No skyfall for 1 turn
 
-# 17027/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17027/92 - はりきっていってみよー！
+JP: 火、水、木、光、闇ドロップを6個生成
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
-# 17028/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17028/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 17029/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17029/15 - 残念でしたー！
+JP: 3500000%ダメージ (5連続攻撃、700000%ごと)
+EN: Deal 3500000% damage (5 hits, 700000% each)
+KR: Deal 3500000% damage (5 hits, 700000% each)
 
-# 17030/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17030/121 - パチパチパチ～
+JP: ダメージを与えられるようになる
+EN: Remove damage immunity effect
+KR: Remove damage immunity effect
 
-# 17031/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17031/74 - いいコンボだったね！
+JP: 99ターンの間、受けるダメージからの攻撃を90%減少
+EN: Reduce damage from all sources by 90% for 99 turns
+KR: Reduce damage from all sources by 90% for 99 turns
 
-# 17032/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17032/74 - とってもいいコンボだったね！
+JP: 99ターンの間、受けるダメージからの攻撃を90%減少
+EN: Reduce damage from all sources by 90% for 99 turns
+KR: Reduce damage from all sources by 90% for 99 turns
 
-# 17033/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17033/92 - 素敵なコンボをありがとう！
+JP: 火、水、木、光、闇ドロップを6個生成
+EN: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+KR: Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
 
-# 17034/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17034/71 - パステルシールド
+JP: 99ターンの間、100000000以上のダメージを無効化
+EN: Void damage >= 100000000 for 99 turns
+KR: Void damage >= 100000000 for 99 turns
 
-# 17035/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17035/83 - ＿7コンボ以下
+JP: 
+EN: 
+KR: 
 
-# 17036/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17036/83 - ＿9コンボ以下
+JP: 
+EN: 
+KR: 
 
-# 17037/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17037/83 - ＿10コンボ
+JP: 
+EN: 
+KR: 
 
-# 17038/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17038/15 - 星風のフープ
+JP: 200%ダメージ (2連続攻撃、100%ごと)
+EN: Deal 200% damage (2 hits, 100% each)
+KR: Deal 200% damage (2 hits, 100% each)
 
 # 17039/0 - なし
 JP: nothing
@@ -88547,172 +88547,1022 @@ JP: 15ターンの間、お邪魔ドロップを+20%に落ちてくる
 EN: Jammer skyfall +20% for 15 turns
 KR: Jammer skyfall +20% for 15 turns
 
-# 17702/0 - なし
+# 17702/39 - これから忙しくなりそうね
+JP: 5ターンの間、操作時間+50%
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
+
+# 17703/96 - 覚悟はいいわね
+JP: 99ターンの間、ロックされたランダム属性のドロップを+100%に落ちてくる
+EN: Locked random skyfall +100% for 99 turns
+KR: Locked random skyfall +100% for 99 turns
+
+# 17704/130 - 迷い子よ…家へと帰れ
+JP: 10ターンの間、攻撃力が50%減少
+EN: ATK -50% for 10 turns
+KR: ATK -50% for 10 turns
+
+# 17705/105 - ハッハッハ…ガッツあるな
+JP: 5ターンの間、回復力を25%になる
+EN: RCV 25% for 5 turns
+KR: RCV 25% for 5 turns
+
+# 17706/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 17707/71 - 俺には無意味だ
+JP: 10ターンの間、5000000以上のダメージを無効化
+EN: Void damage >= 5000000 for 10 turns
+KR: Void damage >= 5000000 for 10 turns
+
+# 17708/39 - これから忙しくなりそうね
+JP: 5ターンの間、操作時間-2秒
+EN: Movetime -2s for 5 turns
+KR: Movetime -2s for 5 turns
+
+# 17709/15 - ラッシュ・アワー
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
+
+# 17710/67 - グラウンド・ゼロ
+JP: 1ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 1 turn
+KR: Absorb damage when combos <= 4 for 1 turn
+
+# 17711/48 - ダブル・バレルズ
+JP: ランダム属性のドロップを水ドロップに変化
+EN: Change a random attribute to Water orbs
+KR: Change a random attribute to Water orbs
+
+# 17712/92 - ヒステリック
+JP: 水ドロップを6個生成
+EN: Spawn 6 random Water orbs
+KR: Spawn 6 random Water orbs
+
+# 17713/15 - ハイ・エクスプローシブ
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
+
+# 17714/101 - マルチプル
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
+
+# 17715/102 - バーストアタック
+JP: 爆弾ドロップを3個生成
+EN: Spawn 3 random Bomb orbs
+KR: Spawn 3 random Bomb orbs
+
+# 17716/96 - 覚悟はいいわね
+JP: 5ターンの間、ロックされたランダム属性のドロップを+50%に落ちてくる
+EN: Locked random skyfall +50% for 5 turns
+KR: Locked random skyfall +50% for 5 turns
+
+# 17717/63 - Vディバイダー
+JP: 2〜3ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 2~3 turns
+KR: Bind 1 random card for 2~3 turns
+
+# 17718/110 - ラウンドトリップ
+JP: 2.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 2 turns
+KR: Specific orbs change every 1.0s for 2 turns
+
+# 17719/83 - ＿2回攻撃A
+JP: 
+EN: 
+KR: 
+
+# 17720/83 - ＿2回攻撃B
+JP: 
+EN: 
+KR: 
+
+# 17721/15 - ベアナックル
+JP: 45%ダメージ (3連続攻撃、15%ごと)
+EN: Deal 45% damage (3 hits, 15% each)
+KR: Deal 45% damage (3 hits, 15% each)
+
+# 17722/15 - マキシマムオーバードライブ
+JP: 70%ダメージ (7連続攻撃、10%ごと)
+EN: Deal 70% damage (7 hits, 10% each)
+KR: Deal 70% damage (7 hits, 10% each)
+
+# 17723/109 - エレクトリカルダンス
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
+EN: Random 1 orbs change every 1.0s for 1 turn
+KR: Random 1 orbs change every 1.0s for 1 turn
+
+# 17724/92 - コレダー
+JP: 火、水、木ドロップを8個生成
+EN: Spawn 8 random Fire, Water, and Wood orbs
+KR: Spawn 8 random Fire, Water, and Wood orbs
+
+# 17725/77 - ローリングサンダー
+JP: 上から4列目のドロップが光ドロップに変化
+EN: Change the 4th column to Light orbs
+KR: Change the 4th column to Light orbs
+
+# 17726/83 - ＿発狂
+JP: 
+EN: 
+KR: 
+
+# 17727/15 - サンダーブロウ
+JP: 250%ダメージ
+EN: Deal 250% damage
+KR: Deal 250% damage
+
+# 17728/130 - 迷い子よ…家へと帰れ
+JP: 3ターンの間、攻撃力が50%減少
+EN: ATK -50% for 3 turns
+KR: ATK -50% for 3 turns
+
+# 17729/83 - ＿通常A１
+JP: 
+EN: 
+KR: 
+
+# 17730/83 - ＿通常A2
+JP: 
+EN: 
+KR: 
+
+# 17731/83 - ＿通常B1
+JP: 
+EN: 
+KR: 
+
+# 17732/83 - ＿通常B2
+JP: 
+EN: 
+KR: 
+
+# 17733/15 - シャドウコンボ
+JP: 60%ダメージ (3連続攻撃、20%ごと)
+EN: Deal 60% damage (3 hits, 20% each)
+KR: Deal 60% damage (3 hits, 20% each)
+
+# 17734/77 - ブロッケイド
+JP: 上から2と5列目のドロップが闇ドロップに変化
+EN: Change the 2nd and 5th columns to Dark orbs
+KR: Change the 2nd and 5th columns to Dark orbs
+
+# 17735/15 - アービター
+JP: 40%ダメージ
+EN: Deal 40% damage
+KR: Deal 40% damage
+
+# 17736/79 - ダブルチェック
+JP: 左から2と4列目のドロップが闇ドロップに変化
+EN: Change the 2nd and 4th rows to Dark orbs
+KR: Change the 2nd and 4th rows to Dark orbs
+
+# 17737/62 - ヘッジホッグ
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
+
+# 17738/48 - ラウンドロビン
+JP: ランダム属性のドロップを闇ドロップに変化
+EN: Change a random attribute to Dark orbs
+KR: Change a random attribute to Dark orbs
+
+# 17739/48 - バヨネット
+JP: ランダム属性のドロップをお邪魔ドロップに変化
+EN: Change a random attribute to Jammer orbs
+KR: Change a random attribute to Jammer orbs
+
+# 17740/15 - バレット
+JP: 60%ダメージ (4連続攻撃、15%ごと)
+EN: Deal 60% damage (4 hits, 15% each)
+KR: Deal 60% damage (4 hits, 15% each)
+
+# 17741/15 - ロイヤルフォーク
+JP: 160%ダメージ (4連続攻撃、40%ごと)
+EN: Deal 160% damage (4 hits, 40% each)
+KR: Deal 160% damage (4 hits, 40% each)
+
+# 17742/15 - チェックメイト
+JP: 250%ダメージ
+EN: Deal 250% damage
+KR: Deal 250% damage
+
+# 17743/105 - ハッハッハ…ガッツあるな
+JP: 3ターンの間、回復力を50%になる
+EN: RCV 50% for 3 turns
+KR: RCV 50% for 3 turns
+
+# 17744/83 - ＿初回、3ターンA
+JP: 
+EN: 
+KR: 
+
+# 17745/74 - ソードマスター
+JP: 3ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 3 turns
+KR: Reduce damage from all sources by 50% for 3 turns
+
+# 17746/15 - エリアルレイブ
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
+
+# 17747/110 - ラウンドトリップ
+JP: 1.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 1 turn
+KR: Specific orbs change every 1.0s for 1 turn
+
+# 17748/15 - ダンスマカブル
+JP: 200%ダメージ (10連続攻撃、20%ごと)
+EN: Deal 200% damage (10 hits, 20% each)
+KR: Deal 200% damage (10 hits, 20% each)
+
+# 17749/83 - ＿初回、3ターンB１
+JP: 
+EN: 
+KR: 
+
+# 17750/83 - ＿初回、3ターンB２
+JP: 
+EN: 
+KR: 
+
+# 17751/67 - ガンスリンガー
+JP: 3ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 3 turns
+KR: Absorb damage when combos <= 4 for 3 turns
+
+# 17752/50 - エボニーショット
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
+
+# 17753/15 - アイボリーショット
+JP: 90%ダメージ (3連続攻撃、30%ごと)
+EN: Deal 90% damage (3 hits, 30% each)
+KR: Deal 90% damage (3 hits, 30% each)
+
+# 17754/77 - レインストーム
+JP: 上から3と4列目のドロップが火ドロップに変化
+EN: Change the 3rd and 4th columns to Fire orbs
+KR: Change the 3rd and 4th columns to Fire orbs
+
+# 17755/15 - ハニカムファイア
+JP: 200%ダメージ (10連続攻撃、20%ごと)
+EN: Deal 200% damage (10 hits, 20% each)
+KR: Deal 200% damage (10 hits, 20% each)
+
+# 17756/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 17757/89 - 力なき者が何を吠えようと…
+JP: スキルターンを2〜5ターン遅延
+EN: Delay active skills by 2~5 turns
+KR: Delay active skills by 2~5 turns
+
+# 17758/71 - 俺には無意味だ
+JP: 3ターンの間、1000000以上のダメージを無効化
+EN: Void damage >= 1000000 for 3 turns
+KR: Void damage >= 1000000 for 3 turns
+
+# 17759/15 - 憎悪
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 17760/92 - アシッドレイン
+JP: 闇ドロップを7個生成
+EN: Spawn 7 random Dark orbs
+KR: Spawn 7 random Dark orbs
+
+# 17761/77 - 審判
+JP: 上から2と5列目のドロップがお邪魔ドロップに変化
+EN: Change the 2nd and 5th columns to Jammer orbs
+KR: Change the 2nd and 5th columns to Jammer orbs
+
+# 17762/39 - ゴリアテ
+JP: 1ターンの間、操作時間+50%
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
+
+# 17763/15 - ミラージュソード
+JP: 110%ダメージ (5連続攻撃、22%ごと)
+EN: Deal 110% damage (5 hits, 22% each)
+KR: Deal 110% damage (5 hits, 22% each)
+
+# 17764/79 - アルテミス
+JP: 左から2と4列目のドロップが闇ドロップに変化
+EN: Change the 2nd and 4th rows to Dark orbs
+KR: Change the 2nd and 4th rows to Dark orbs
+
+# 17765/15 - 憤怒
+JP: 120%ダメージ
+EN: Deal 120% damage
+KR: Deal 120% damage
+
+# 17766/83 - ＿2回行動
+JP: 
+EN: 
+KR: 
+
+# 17767/50 - 供犠
+JP: 現HPの50%のダメージ
+EN: Player -50% HP
+KR: Player -50% HP
+
+# 17768/83 - ＿ラスト3回
+JP: 
+EN: 
+KR: 
+
+# 17769/64 - 永遠の苦患
+JP: ランダムで10個のドロップを毒ドロップに変化
+EN: Change 10 random orbs to Poison orbs
+KR: Change 10 random orbs to Poison orbs
+
+# 17770/50 - 裏切りの槌
+JP: 現HPの50%のダメージ
+EN: Player -50% HP
+KR: Player -50% HP
+
+# 17771/15 - 嘆きの川
+JP: 150%ダメージ
+EN: Deal 150% damage
+KR: Deal 150% damage
+
+# 17772/88 - ホイールキック
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
+
+# 17773/83 - ＿2回攻撃
+JP: 
+EN: 
+KR: 
+
+# 17774/15 - スカイハイ
+JP: 70%ダメージ
+EN: Deal 70% damage
+KR: Deal 70% damage
+
+# 17775/50 - アクスキック
+JP: 現HPの50%のダメージ
+EN: Player -50% HP
+KR: Player -50% HP
+
+# 17776/15 - ラピッドファイア
+JP: 120%ダメージ (3連続攻撃、40%ごと)
+EN: Deal 120% damage (3 hits, 40% each)
+KR: Deal 120% damage (3 hits, 40% each)
+
+# 17777/15 - 連続攻撃
+JP: 110%ダメージ (2連続攻撃、55%ごと)
+EN: Deal 110% damage (2 hits, 55% each)
+KR: Deal 110% damage (2 hits, 55% each)
+
+# 17778/109 - ラッシュ
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
+EN: Random 1 orbs change every 1.0s for 1 turn
+KR: Random 1 orbs change every 1.0s for 1 turn
+
+# 17779/48 - セラフィックソアー
+JP: ランダム属性のドロップを闇ドロップに変化
+EN: Change a random attribute to Dark orbs
+KR: Change a random attribute to Dark orbs
+
+# 17780/77 - ディバインアンガー
+JP: 上から1、3、5列目のドロップが火と闇ドロップに変化
+EN: Change the 1st, 3rd, and 5th columns to Fire and Dark orbs
+KR: Change the 1st, 3rd, and 5th columns to Fire and Dark orbs
+
+# 17781/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 17782/54 - デュアルスナッチ
+JP: 10ターンの間、リーダーとフレンがバインド
+EN: Bind both leaders for 10 turns
+KR: Bind both leaders for 10 turns
+
+# 17783/74 - デュアルホールド
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
+
+# 17784/50 - デビルバスター
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 17785/109 - 幻影刀
+JP: 1ターンの間、ランダムで6箇所のマスがが1.0秒毎に変化する
+EN: Random 6 orbs change every 1.0s for 1 turn
+KR: Random 6 orbs change every 1.0s for 1 turn
+
+# 17786/15 - ブリンガークロ―
+JP: 100%ダメージ (5連続攻撃、20%ごと)
+EN: Deal 100% damage (5 hits, 20% each)
+KR: Deal 100% damage (5 hits, 20% each)
+
+# 17787/92 - ダブルブリンガーナックル
+JP: 水と木ドロップを4個生成
+EN: Spawn 4 random Water and Wood orbs
+KR: Spawn 4 random Water and Wood orbs
+
+# 17788/79 - マキシマムベット
+JP: 左から4と5列目のドロップが水と木ドロップに変化
+EN: Change the 4th and 5th rows to Water and Wood orbs
+KR: Change the 4th and 5th rows to Water and Wood orbs
+
+# 17789/15 - ショウダウン
+JP: 250%ダメージ (5連続攻撃、50%ごと)
+EN: Deal 250% damage (5 hits, 50% each)
+KR: Deal 250% damage (5 hits, 50% each)
+
+# 17790/109 - 円陣幻影剣
+JP: 1ターンの間、ランダムで8箇所のマスがが1.0秒毎に変化する
+EN: Random 8 orbs change every 1.0s for 1 turn
+KR: Random 8 orbs change every 1.0s for 1 turn
+
+# 17791/83 - ＿2回攻撃
+JP: 
+EN: 
+KR: 
+
+# 17792/77 - 斬り上げ
+JP: 上から4列目のドロップが水ドロップに変化
+EN: Change the 4th column to Water orbs
+KR: Change the 4th column to Water orbs
+
+# 17793/15 - 兜割
+JP: 70%ダメージ
+EN: Deal 70% damage
+KR: Deal 70% damage
+
+# 17794/79 - 疾走居合
+JP: 左から3列目のドロップが水ドロップに変化
+EN: Change the 3rd row to Water orbs
+KR: Change the 3rd row to Water orbs
+
+# 17795/109 - 幻影剣
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
+EN: Random 1 orbs change every 1.0s for 1 turn
+KR: Random 1 orbs change every 1.0s for 1 turn
+
+# 17796/110 - 急襲幻影剣
+JP: 1.0ターンの間、特定の位置のマスが0.5秒毎に変化する
+EN: Specific orbs change every 0.5s for 1 turn
+KR: Specific orbs change every 0.5s for 1 turn
+
+# 17797/110 - 烈風幻影剣
+JP: 1.0ターンの間、特定の位置のマスが2.0秒毎に変化する
+EN: Specific orbs change every 2.0s for 1 turn
+KR: Specific orbs change every 2.0s for 1 turn
+
+# 17798/15 - 次元斬
+JP: 125%ダメージ (5連続攻撃、25%ごと)
+EN: Deal 125% damage (5 hits, 25% each)
+KR: Deal 125% damage (5 hits, 25% each)
+
+# 17799/15 - 次元斬・絶
+JP: 150%ダメージ (5連続攻撃、30%ごと)
+EN: Deal 150% damage (5 hits, 30% each)
+KR: Deal 150% damage (5 hits, 30% each)
+
+# 17800/79 - 疾走居合 螺旋天昇
+JP: 左から1、3、5列目のドロップが水と闇ドロップに変化
+EN: Change the 1st, 3rd, and 5th rows to Water and Dark orbs
+KR: Change the 1st, 3rd, and 5th rows to Water and Dark orbs
+
+# 17801/110 - 五月雨幻影剣
+JP: 1.0ターンの間、特定の位置のマスが2.0秒毎に変化する
+EN: Specific orbs change every 2.0s for 1 turn
+KR: Specific orbs change every 2.0s for 1 turn
+
+# 17802/83 - ＿先制2回
+JP: 
+EN: 
+KR: 
+
+# 17803/71 - エアレイド
+JP: 10ターンの間、10000000以上のダメージを無効化
+EN: Void damage >= 10000000 for 10 turns
+KR: Void damage >= 10000000 for 10 turns
+
+# 17804/67 - アドベント
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 17805/15 - 真魔人コンボ
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
+
+# 17806/79 - ジ オンブラ
+JP: 左から3列目のドロップが火ドロップに変化
+EN: Change the 3rd row to Fire orbs
+KR: Change the 3rd row to Fire orbs
+
+# 17807/79 - 真インフェルノ
+JP: 左から5列目のドロップが火ドロップに変化
+EN: Change the 5th row to Fire orbs
+KR: Change the 5th row to Fire orbs
+
+# 17808/15 - 真スティンガー
+JP: 130%ダメージ (10連続攻撃、13%ごと)
+EN: Deal 130% damage (10 hits, 13% each)
+KR: Deal 130% damage (10 hits, 13% each)
+
+# 17809/50 - デモリション
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 17810/92 - ザ ルーチェ
+JP: 火ドロップを8個生成
+EN: Spawn 8 random Fire orbs
+KR: Spawn 8 random Fire orbs
+
+# 17811/85 - ジャッジメント
+JP: 全ドロップを火に変化
+EN: Change all orbs to Fire
+KR: Change all orbs to Fire
+
+# 17812/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 17813/67 - ご注文は？
+JP: 5ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 5 turns
+KR: Absorb damage when combos <= 4 for 5 turns
+
+# 17814/15 - アホタレ！
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 17815/48 - 一流の仕事には対価がいるのさ
+JP: ランダム属性のドロップをお邪魔ドロップに変化
+EN: Change a random attribute to Jammer orbs
+KR: Change a random attribute to Jammer orbs
+
+# 17816/92 - 私が作れば何でも芸術だ
+JP: 毒ドロップを4個生成
+EN: Spawn 4 random Poison orbs
+KR: Spawn 4 random Poison orbs
+
+# 17817/83 - ＿発狂前
+JP: 
+EN: 
+KR: 
+
+# 17818/99 - 天才の仕事
+JP: 3ターンの間、上から6列目のドロップが操作不可
+EN: Seal the 6th column for 3 turns
+KR: Seal the 6th column for 3 turns
+
+# 17819/17 - 私を舐めるなよ
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 17820/92 - このポンコツめ！
+JP: 毒ドロップを10個生成
+EN: Spawn 10 random Poison orbs
+KR: Spawn 10 random Poison orbs
+
+# 17821/53 - なぜ こんな事を…
+JP: 5ターンの間、光属性のダメージを吸収
+EN: Absorb Light damage for 5 turns
+KR: Absorb Light damage for 5 turns
+
+# 17822/14 - 魔剣祭の唱歌
+JP: 4ターンの間、スキル使用不可
+EN: Bind active skills for 4 turns
+KR: Bind active skills for 4 turns
+
+# 17823/74 - 信心深い心
+JP: 3ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 3 turns
+KR: Reduce damage from all sources by 50% for 3 turns
+
+# 17824/104 - 敬虔なる祈り
+JP: 2ターンの間、ランダムでの2×2マスの正方形を雲で隠す
+EN: A 2×2 square of clouds appears for 2 turns at a random location
+KR: A 2×2 square of clouds appears for 2 turns at a random location
+
+# 17825/88 - 歌姫の願い
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
+
+# 17826/92 - 慈愛の光
+JP: 回復ドロップを10個生成
+EN: Spawn 10 random Heal orbs
+KR: Spawn 10 random Heal orbs
+
+# 17827/68 - ほお　来たかい
+JP: 3ターンの間、お邪魔ドロップを+15%に落ちてくる
+EN: Jammer skyfall +15% for 3 turns
+KR: Jammer skyfall +15% for 3 turns
+
+# 17828/89 - やれやれ…
+JP: スキルターンを1〜2ターン遅延
+EN: Delay active skills by 1~2 turns
+KR: Delay active skills by 1~2 turns
+
+# 17829/62 - 迷う事は何もないよ
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
+
+# 17830/63 - どうしたんだい？
+JP: 2〜3ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 2~3 turns
+KR: Bind 1 random card for 2~3 turns
+
+# 17831/83 - ＿2回行動
+JP: 
+EN: 
+KR: 
+
+# 17832/127 - 戦いの経験
+JP: 5ターンの間、落ちコンしなくなる
+EN: No skyfall for 5 turns
+KR: No skyfall for 5 turns
+
+# 17833/74 - 護り手の力
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
+
+# 17834/92 - さあ、お行き
+JP: 木ドロップを10個生成
+EN: Spawn 10 random Wood orbs
+KR: Spawn 10 random Wood orbs
+
+# 17835/63 - ワイヤーショット
+JP: 1ターンの間、ランダムで1体がバインド
+EN: Bind 1 random card for 1 turn
+KR: Bind 1 random card for 1 turn
+
+# 17836/102 - スキャッター
+JP: 爆弾ドロップを3個生成
+EN: Spawn 3 random Bomb orbs
+KR: Spawn 3 random Bomb orbs
+
+# 17837/92 - バヨネットスイープ
+JP: 水ドロップを6個生成
+EN: Spawn 6 random Water orbs
+KR: Spawn 6 random Water orbs
+
+# 17838/15 - シュレッダーショット
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
+
+# 17839/15 - マキシマム・バースト
+JP: 240%ダメージ (4連続攻撃、60%ごと)
+EN: Deal 240% damage (4 hits, 60% each)
+KR: Deal 240% damage (4 hits, 60% each)
+
+# 17840/15 - エリアルレイブ
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
+
+# 17841/67 - ハイタイム
+JP: 1ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 1 turn
+KR: Absorb damage when combos <= 4 for 1 turn
+
+# 17842/48 - ハイボルテージ
+JP: ランダム属性のドロップを光ドロップに変化
+EN: Change a random attribute to Light orbs
+KR: Change a random attribute to Light orbs
+
+# 17843/15 - フランクアタック
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
+
+# 17844/97 - ブレイクスルー
+JP: 1ターンの間、ランダムで3〜5個のドロップを超暗闇にする
+EN: Blind random 3~5 orbs for 1 turn
+KR: Blind random 3~5 orbs for 1 turn
+
+# 17845/99 - スキュワー
+JP: 1ターンの間、上から1列目のドロップが操作不可
+EN: Seal the 1st column for 1 turn
+KR: Seal the 1st column for 1 turn
+
+# 17846/15 - ガンビット
+JP: 250%ダメージ
+EN: Deal 250% damage
+KR: Deal 250% damage
+
+# 17847/110 - ラウンドトリップ
+JP: 2.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 2 turns
+KR: Specific orbs change every 1.0s for 2 turns
+
+# 17848/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17703/0 - なし
+# 17849/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17704/0 - なし
+# 17850/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17705/0 - なし
+# 17851/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17706/0 - なし
+# 17852/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17707/0 - なし
+# 17853/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17708/0 - なし
+# 17854/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17709/0 - なし
+# 17855/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17710/0 - なし
+# 17856/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17711/0 - なし
+# 17857/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17712/0 - なし
+# 17858/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17713/0 - なし
+# 17859/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17714/0 - なし
+# 17860/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17715/0 - なし
+# 17861/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17716/0 - なし
+# 17862/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17717/0 - なし
+# 17863/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17718/0 - なし
+# 17864/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17719/0 - なし
+# 17865/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17720/0 - なし
+# 17866/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17721/0 - なし
+# 17867/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17722/0 - なし
+# 17868/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17723/0 - なし
+# 17869/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17724/0 - なし
+# 17870/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17725/0 - なし
+# 17871/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17726/0 - なし
+# 17872/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17727/0 - なし
+# 17873/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17728/0 - なし
+# 17874/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17729/0 - なし
+# 17875/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17730/0 - なし
+# 17876/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17731/0 - なし
+# 17877/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17732/0 - なし
+# 17878/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17733/0 - なし
+# 17879/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17734/0 - なし
+# 17880/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 17735/0 - なし
+# 17881/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17882/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17883/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17884/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17885/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17886/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17887/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17888/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17889/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17890/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17891/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17892/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17893/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17894/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17895/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17896/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17897/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17898/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17899/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17900/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17901/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17902/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17903/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17904/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 17905/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing

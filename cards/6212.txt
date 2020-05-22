@@ -1,0 +1,20 @@
+#6212 トリッシュ
+HP: 2703 ATK: 2061 RCV: 62 LB: 30
+AWK: 46,28,28,21,32,32,7,6
+SAWK: 43,52,56
+
+# 17151/116 - ラウンドトリップ
+Tags: REDUCE_DAMAGE,ORB_CONVERT,AWOKEN_INVALID_RECOVERY
+Game: 2ターンの間、受けるダメージを軽減。 覚醒無効状態を2ターン回復。火ドロップを光ドロップに変化。
+JP: 2ターンの間、受けるダメージを30％減少。覚醒無効を2ターン回復。火ドロップを光ドロップに変化
+EN: For 2 turns, reduce damage taken by 30%; Reduce awoken skill binds by 2 turns; Change Fire orbs to Light orbs
+KR: For 2 turns, reduce damage taken by 30%; Reduce awoken skill binds by 2 turns; Change Fire orbs to Light orbs
+
+# 17154/138 - “合言葉”の客よ ヤバそうね
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 12.5, 2.5, 0.0]
+Game: 悪魔タイプのHPが2倍、攻撃力は5倍。 5コンボ以上で攻撃力と回復力が2.5倍。
+JP: 悪魔タイプの攻撃力が5倍、HPが2倍。5コンボ以上で攻撃力と回復力が2.5倍、最大0コンボで2.5倍。
+EN: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
+KR: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
+
