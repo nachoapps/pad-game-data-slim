@@ -1,4 +1,4 @@
-#506057 - 書庫の幻魔・イルミナ
+#506057 - Ash Phantom Demon of the Library, Ilmina
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -11,13 +11,13 @@ Enable preempt if level 1
 Branch on level >= 2, target rnd 4
 
 #3: SkillSet:
-	[0] ESAttackUPRemainingEnemies(17:16861) -> グリモワール、
+	[0] ESAttackUPRemainingEnemies(17:16861) -> Grimoire...
 	Increase damage to 200% for the next 1 turn
-	[1] ESEndBattle(40:16860) -> …？
+	[1] ESEndBattle(40:16860) -> ...?
 	Reduce self HP to 0
 
 #4: SkillSet:
-	[0] ESChangeAttribute(46:16792) -> ちょっと待ってて…
+	[0] ESChangeAttribute(46:16792) -> Wait a second...
 	Change own attribute to Fire
-	[1] ESEndBattle(40:16791) -> できた
+	[1] ESEndBattle(40:16791) -> Done
 	Reduce self HP to 0

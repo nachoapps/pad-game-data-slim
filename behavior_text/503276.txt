@@ -1,4 +1,4 @@
-#503276 - 討弓の鋼星神・メリディオナリス
+#503276 - Conquest Bow Steel Star Goddess, Meridionalis
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,13 +8,13 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16877:67) いきますよー！
+ | (16877:67) Ok, watch this!
  | Absorb damage when combos <= 4 for 2 turns
  group:
  | group:
  | condition: turn 1
-   | (16875:74) 素敵な弓でしょう？
+   | (16875:74) It's a beautiful bow, isn't it?
    | Reduce damage from all sources by 99% for 1 turn
  | group:
-   | (16876:77) ブルーアロー
+   | (16876:77) Blue Arrow
    | Change the 3rd column to Water orbs, Deal 100% damage

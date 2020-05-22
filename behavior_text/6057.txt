@@ -1,4 +1,4 @@
-#6057 - 書庫の幻魔・イルミナ
+#6057 - Ash Phantom Demon of the Library, Ilmina
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,37 +8,37 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16407:83) 今、読書中 + 戦う気はないから + 白の呪縛 + 魔力で時空が歪んだ + そんなに遊びたいなら + コンボして遊んでて
+ | (16407:83) I'm reading right now + I don't feel like fighting + White Binding Curse + The magical power warped space-time + If you want to play so badly... + Make combos and amuse yourself
  | Immune to damage from all sources for 999 turns + Bind awoken skills for 5 turns + Bind active skills for 5 turns + Change board size to 7x6 for 5 turns + No skyfall for 5 turns + Absorb damage when combos <= 4 for 1 turn
  group:
  | group:
  | condition: turn 1
    | condition: when 5 combos last turn
-   | (16406:83) はい + 次はこれ + がんばって
+   | (16406:83) Okay + This is next + Good luck
    | Absorb damage when combos <= 5 for 1 turn + Change all orbs to Fire, Water, Wood, Light, Dark, and Heal + Lock all orbs
-   | (16399:15) もう帰って
+   | (16399:15) Go home already
    | Deal 100000000% damage
  | group:
  | condition: turn 2
    | condition: when 6 combos last turn
-   | (16405:83) はい + 次はこれ + がんばって
+   | (16405:83) Okay + This is next + Good luck
    | Absorb damage when combos <= 6 for 1 turn + Change all orbs to Fire, Water, Wood, Light, Dark, and Heal + Lock all orbs
-   | (16399:15) もう帰って
+   | (16399:15) Go home already
    | Deal 100000000% damage
  | group:
  | condition: turn 3
    | condition: when 7 combos last turn
-   | (16402:83) 次で最後だから + 準備していいよ
+   | (16402:83) Next is the last one + Get ready
    | Change all orbs to Fire, Water, Wood, Light, Dark, and Heal + Lock all orbs
-   | (16399:15) もう帰って
+   | (16399:15) Go home already
    | Deal 100000000% damage
  | group:
  | condition: turn 4
-   | (16401:83) はい + これで最後
+   | (16401:83) Okay + This is the last one
    | No skyfall for 1 turn + Absorb damage when combos <= 9 for 1 turn
  | group:
    | condition: when 10 combos last turn
-   | (16400:40) 凄いんだね
+   | (16400:40) Great work
    | Reduce self HP to 0
-   | (16399:15) もう帰って
+   | (16399:15) Go home already
    | Deal 100000000% damage

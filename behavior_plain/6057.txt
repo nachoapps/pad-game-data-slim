@@ -1,4 +1,4 @@
-#6057 - 書庫の幻魔・イルミナ
+#6057 - Ash Phantom Demon of the Library, Ilmina
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -9,17 +9,17 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESInvulnerableOn(119:16413) -> 今、読書中
+	[0] ESInvulnerableOn(119:16413) -> I'm reading right now
 	Immune to damage from all sources for 999 turns
-	[1] ESBindAwoken(88:16412) -> 戦う気はないから
+	[1] ESBindAwoken(88:16412) -> I don't feel like fighting
 	Bind awoken skills for 5 turns
-	[2] ESBindSkill(14:16411) -> 白の呪縛
+	[2] ESBindSkill(14:16411) -> White Binding Curse
 	Bind active skills for 5 turns
-	[3] ES7x6Change(126:16410) -> 魔力で時空が歪んだ
+	[3] ES7x6Change(126:16410) -> The magical power warped space-time
 	Change board size to 7x6 for 5 turns
-	[4] ESNoSkyfall(127:16409) -> そんなに遊びたいなら
+	[4] ESNoSkyfall(127:16409) -> If you want to play so badly...
 	No skyfall for 5 turns
-	[5] ESAbsorbCombo(67:16408) -> コンボして遊んでて
+	[5] ESAbsorbCombo(67:16408) -> Make combos and amuse yourself
 	Absorb damage when combos <= 4 for 1 turn
 
 #3: ESBranchFlag(43:10) -> ESBranchFlag
@@ -31,15 +31,15 @@ flag SET 0b1
 #5: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 5, target rnd 7
 
-#6: ESAttackMultihit(15:16399) -> もう帰って
+#6: ESAttackMultihit(15:16399) -> Go home already
 Deal 100000000% damage
 
 #7: SkillSet:
-	[0] ESAbsorbCombo(67:16398) -> はい
+	[0] ESAbsorbCombo(67:16398) -> Okay
 	Absorb damage when combos <= 5 for 1 turn
-	[1] ESBoardChange(84:16396) -> 次はこれ
+	[1] ESBoardChange(84:16396) -> This is next
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
-	[2] ESOrbLock(94:16395) -> がんばって
+	[2] ESOrbLock(94:16395) -> Good luck
 	Lock all orbs
 
 #8: ESEndPath(36:26) -> ESEndPath
@@ -54,15 +54,15 @@ flag SET 0b11
 #11: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 6, target rnd 13
 
-#12: ESAttackMultihit(15:16399) -> もう帰って
+#12: ESAttackMultihit(15:16399) -> Go home already
 Deal 100000000% damage
 
 #13: SkillSet:
-	[0] ESAbsorbCombo(67:16397) -> はい
+	[0] ESAbsorbCombo(67:16397) -> Okay
 	Absorb damage when combos <= 6 for 1 turn
-	[1] ESBoardChange(84:16396) -> 次はこれ
+	[1] ESBoardChange(84:16396) -> This is next
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
-	[2] ESOrbLock(94:16395) -> がんばって
+	[2] ESOrbLock(94:16395) -> Good luck
 	Lock all orbs
 
 #14: ESEndPath(36:26) -> ESEndPath
@@ -77,13 +77,13 @@ flag SET 0b111
 #17: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 7, target rnd 19
 
-#18: ESAttackMultihit(15:16399) -> もう帰って
+#18: ESAttackMultihit(15:16399) -> Go home already
 Deal 100000000% damage
 
 #19: SkillSet:
-	[0] ESBoardChange(84:16404) -> 次で最後だから
+	[0] ESBoardChange(84:16404) -> Next is the last one
 	Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
-	[1] ESOrbLock(94:16403) -> 準備していいよ
+	[1] ESOrbLock(94:16403) -> Get ready
 	Lock all orbs
 
 #20: ESEndPath(36:26) -> ESEndPath
@@ -91,18 +91,18 @@ end_turn
 
 #21: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESNoSkyfall(127:16394) -> はい
+	[0] ESNoSkyfall(127:16394) -> Okay
 	No skyfall for 1 turn
-	[1] ESAbsorbCombo(67:16393) -> これで最後
+	[1] ESAbsorbCombo(67:16393) -> This is the last one
 	Absorb damage when combos <= 9 for 1 turn
 
 #22: ESBranchCombo(113:6528) -> ESBranchCombo
 Branch on combo >= 10, target rnd 24
 
-#23: ESAttackMultihit(15:16399) -> もう帰って
+#23: ESAttackMultihit(15:16399) -> Go home already
 Deal 100000000% damage
 
-#24: ESEndBattle(40:16400) -> 凄いんだね
+#24: ESEndBattle(40:16400) -> Great work
 Reduce self HP to 0
 
 #25: ESEndPath(36:26) -> ESEndPath

@@ -1,4 +1,4 @@
-#503787 - 獄眼の黒幻魔・ズオー
+#503787 - Hellseye Black Phantom, Zuoh
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,14 +8,14 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (16842:74) 幻魔の覇気
+ | (16842:74) Will of the Phantom Demon
  | Reduce damage from all sources by 99% for 3 turns
  group:
  | condition: 25% chance, at most 3 times
- | (16840:68) デスコール
+ | (16840:68) Death Call
  | Poison skyfall +15% for 3 turns
  | condition: 30% chance
- | (16839:97) 暗黒刃
+ | (16839:97) Darkness Blade
  | Blind random 3 orbs for 1 turn, Deal 110% damage
- | (16841:15) 黒斬
+ | (16841:15) Black Slash
  | Deal 100% damage

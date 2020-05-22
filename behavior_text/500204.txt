@@ -1,4 +1,4 @@
-#500204 - 天空の使徒・エンジェル
+#500204 - Messenger of God, Archangel
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -8,5 +8,5 @@ approved: False
 
 level: 1
  group:
- | (16899:15) ホーリーライト
+ | (16899:15) Holy Light
  | Deal 100% damage (2 hits, 50% each)
