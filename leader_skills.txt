@@ -72099,9 +72099,9 @@ KR: 10x ATK and increase combo by 3 when matching 4 or more colors
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 12.5, 2.5, 0.0]
 Game: 悪魔タイプのHPが2倍、攻撃力は5倍。 5コンボ以上で攻撃力と回復力が2.5倍。
-JP: 悪魔タイプの攻撃力が5倍、HPが2倍。5コンボ以上で攻撃力と回復力が2.5倍、最大0コンボで2.5倍。
-EN: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
-KR: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
+JP: 悪魔タイプの攻撃力が5倍、HPが2倍。5コンボ以上で攻撃力と回復力が2.5倍。
+EN: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos
+KR: 5x ATK and 2x HP for Devil type; 2.5x ATK & RCV when 5 or more combos
 
 # 17155/129 - 
 Tags: ENHANCED_HP_ATK
@@ -72115,9 +72115,9 @@ KR: 5x ATK and 2x HP for Devil type
 Tags: ENHANCED_ATK_RCV
 Stats: [1, 2.5, 2.5, 0]
 Game: 
-JP: 5コンボ以上で攻撃力と回復力が2.5倍、最大0コンボで2.5倍。
-EN: 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
-KR: 2.5x ATK & RCV when 5 or more combos up to 2.5x at 0 combos
+JP: 5コンボ以上で攻撃力と回復力が2.5倍。
+EN: 2.5x ATK & RCV when 5 or more combos
+KR: 2.5x ATK & RCV when 5 or more combos
 
 # 17160/138 - 赤の他人は引っ込んでて
 Tags: ENHANCED_ATK_RCV,EXTRA_COMBOS
