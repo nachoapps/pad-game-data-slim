@@ -167,11 +167,11 @@
           group_type: STANDARD
           condition {
             hp_threshold: 49
+            global_one_time: true
           }
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 1
               }
               enemy_skill_id: 8060
@@ -180,7 +180,6 @@
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 2
               }
               enemy_skill_id: 8061
@@ -189,7 +188,6 @@
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 3
               }
               enemy_skill_id: 8062
@@ -198,7 +196,6 @@
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 4
               }
               enemy_skill_id: 8063
@@ -207,7 +204,6 @@
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 5
               }
               enemy_skill_id: 8064
@@ -216,11 +212,18 @@
           children {
             behavior {
               condition {
-                global_one_time: true
                 trigger_turn: 6
               }
               enemy_skill_id: 8065
             }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
           }
           children {
             behavior {
@@ -236,13 +239,12 @@
           group_type: STANDARD
           condition {
             hp_threshold: 9
-            trigger_turn: 2
+            global_one_time: true
           }
           children {
             behavior {
               condition {
-                global_one_time: true
-                trigger_turn: 1
+                trigger_turn: 2
               }
               enemy_skill_id: 8068
             }
@@ -250,11 +252,18 @@
           children {
             behavior {
               condition {
-                global_one_time: true
-                trigger_turn: 2
+                trigger_turn: 3
               }
               enemy_skill_id: 8069
             }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 9
           }
           children {
             behavior {
