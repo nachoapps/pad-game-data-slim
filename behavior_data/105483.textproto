@@ -683,3 +683,492 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 14194
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17235
+        }
+      }
+    }
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 14195
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 14196
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 1
+                trigger_turn_end: 3
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 14213
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 14214
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14206
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14204
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14207
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14205
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 4
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14255
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 5
+                trigger_turn_end: 7
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14205
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14207
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 8
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14218
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14219
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14220
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 9
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14223
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14226
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 14227
+            }
+          }
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 6
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 14194
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17235
+        }
+      }
+    }
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 14195
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 14196
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 1
+                trigger_turn_end: 3
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 14213
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 14214
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14206
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14204
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14207
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14205
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 4
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14215
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 5
+                trigger_turn_end: 7
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14205
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14207
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 8
+                trigger_turn: 8
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 14218
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14219
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 9
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14220
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 9
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14223
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 14226
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 14227
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
