@@ -1,0 +1,25 @@
+#4420 - Panera
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 4420
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17028:83) ようこそー！ + さぁ、コンボチャレンジだ！ + たくさんコンボすれば楽になるよ！ + はりきっていってみよー！
+ | Do nothing + Immune to damage from all sources for 999 turns + No skyfall for 1 turn + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+ group:
+ | condition: when 4 combos last turn
+ | (17035:83) パチパチパチ～ + いいコンボだったね！ + パステルシールド
+ | Remove damage immunity effect + Reduce damage from all sources by 90% for 99 turns + Void damage >= 100000000 for 99 turns
+ | (17029:15) 残念でしたー！
+ | Deal 3500000% damage (5 hits, 700000% each)
+ type: UNKNOWN_USE
+ | (17036:83) パチパチパチ～ + とってもいいコンボだったね！
+ | Remove damage immunity effect + Reduce damage from all sources by 90% for 99 turns
+ | (17037:83) パチパチパチ～ + 素敵なコンボをありがとう！
+ | Remove damage immunity effect + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
+ | (17038:15) 星風のフープ
+ | Deal 200% damage (2 hits, 100% each)

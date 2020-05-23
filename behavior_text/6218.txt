@@ -1,0 +1,43 @@
+#6218 - マティエ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 6218
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17827:68) ほお　来たかい
+ | Jammer skyfall +15% for 3 turns
+ group:
+ | group:
+   | condition: 34% chance
+   | (17828:89) やれやれ…
+   | Delay active skills by 1~2 turns, Deal 100% damage
+   | condition: 33% chance
+   | (17829:62) 迷う事は何もないよ
+   | Blind all orbs on the board, Deal 95% damage
+   | condition: 33% chance
+   | (17830:63) どうしたんだい？
+   | Bind 1 random card for 2~3 turns, Deal 90% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1
+     | (17831:83) 戦いの経験 + 護り手の力
+     | No skyfall for 5 turns + Reduce damage from all sources by 50% for 5 turns
+   | group:
+   | condition: turns 2-5
+     | condition: 34% chance
+     | (17828:89) やれやれ…
+     | Delay active skills by 1~2 turns, Deal 100% damage
+     | condition: 33% chance
+     | (17829:62) 迷う事は何もないよ
+     | Blind all orbs on the board, Deal 95% damage
+     | condition: 33% chance
+     | (17830:63) どうしたんだい？
+     | Bind 1 random card for 2~3 turns, Deal 90% damage
+   | group:
+     | (17834:92) さあ、お行き
+     | Spawn 10 random Wood orbs, Deal 250% damage

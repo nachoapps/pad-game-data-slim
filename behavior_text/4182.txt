@@ -1,0 +1,15 @@
+#4182 - Lugh
+monster size: 5
+new AI: True
+start/max counter: 19
+counter increment: 0
+monster_id: 4182
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17847:110) ラウンドトリップ
+ | Specific orbs change every 1.0s for 2 turns
+ group:
+ | (17847:110) ラウンドトリップ
+ | Specific orbs change every 1.0s for 2 turns

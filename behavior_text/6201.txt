@@ -1,0 +1,49 @@
+#6201 - 魔人バージル
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 6201
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (17812:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (17790:109) 円陣幻影剣
+ | Random 8 orbs change every 1.0s for 1 turn, Deal 120% damage
+ group:
+ | group:
+   | condition: 25% chance
+   | (17791:83) 斬り上げ + 兜割
+   | Change the 4th column to Water orbs + Deal 70% damage, Deal 50% damage
+   | condition: 25% chance
+   | (17794:79) 疾走居合
+   | Change the 3rd row to Water orbs, Deal 95% damage
+   | condition: 25% chance
+   | (17795:109) 幻影剣
+   | Random 1 orbs change every 1.0s for 1 turn, Deal 100% damage
+   | condition: 25% chance
+   | (17798:15) 次元斬
+   | Deal 125% damage (5 hits, 25% each)
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: always turn 1
+     | (17800:79) 疾走居合 螺旋天昇
+     | Change the 1st, 3rd, and 5th rows to Water and Dark orbs, Deal 140% damage
+   | group:
+     | condition: 25% chance
+     | (17796:110) 急襲幻影剣
+     | Specific orbs change every 0.5s for 1 turn, Deal 130% damage
+     | condition: 25% chance
+     | (17797:110) 烈風幻影剣
+     | Specific orbs change every 2.0s for 1 turn, Deal 110% damage
+     | condition: 50% chance
+     | (17799:15) 次元斬・絶
+     | Deal 150% damage (5 hits, 30% each)
+ | group:
+ | condition: hp <= 19
+   | (17801:110) 五月雨幻影剣
+   | Specific orbs change every 2.0s for 1 turn, Deal 250% damage

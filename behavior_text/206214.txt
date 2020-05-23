@@ -1,0 +1,31 @@
+#206214 - レディ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 206214
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (17708:39) これから忙しくなりそうね
+ | Movetime -2s for 5 turns
+ group:
+ | group:
+   | condition: 33% chance
+   | (17835:63) ワイヤーショット
+   | Bind 1 random card for 1 turn, Deal 95% damage
+   | condition: 33% chance
+   | (17837:92) バヨネットスイープ
+   | Spawn 6 random Water orbs, Deal 105% damage
+   | condition: 34% chance
+   | (17838:15) シュレッダーショット
+   | Deal 100% damage (4 hits, 25% each)
+ | group:
+ | condition: turn 1 while HP > 9, hp <= 49
+   | (17836:102) スキャッター
+   | Spawn 3 random Bomb orbs, Deal 90% damage
+ | group:
+ | condition: hp <= 9
+   | (17839:15) マキシマム・バースト
+   | Deal 240% damage (4 hits, 60% each)

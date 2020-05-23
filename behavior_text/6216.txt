@@ -1,0 +1,32 @@
+#6216 - ニコ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 6216
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17813:67) ご注文は？
+ | Absorb damage when combos <= 4 for 5 turns
+ group:
+ | group:
+   | condition: 34% chance
+   | (17814:15) アホタレ！
+   | Deal 100% damage
+   | condition: 33% chance
+   | (17815:48) 一流の仕事には対価がいるのさ
+   | Change a random attribute to Jammer orbs, Deal 95% damage
+   | condition: 33% chance
+   | (17816:92) 私が作れば何でも芸術だ
+   | Spawn 4 random Poison orbs, Deal 90% damage
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 1
+     | (17817:83) 天才の仕事 + 私を舐めるなよ
+     | Seal the 6th column for 3 turns + Increase damage to 150% for the next 999 turns
+   | group:
+     | (17820:92) このポンコツめ！
+     | Spawn 10 random Poison orbs, Deal 200% damage
