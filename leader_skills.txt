@@ -27634,17 +27634,17 @@ KR: 3x ATK and 1.5x RCV on the turn a skill is used
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1, 8.0, 3.0, 0.8]
 Game: Vastly reduces damage when HP is full; Orb move time +4 seconds; 8x ATK & 3x RCV with 4+ linked Wood Orbs
-JP: HPが99%以下受けるダメージを80％減少。木を4個以上つなげて消すと攻撃力が8倍、回復力が3倍。ドロップ操作時間を4秒延長。
-EN: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
-KR: Reduce damage taken by 80% when HP is not full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
+JP: HPが満タン時受けるダメージを80％減少。木を4個以上つなげて消すと攻撃力が8倍、回復力が3倍。ドロップ操作時間を4秒延長。
+EN: Reduce damage taken by 80% when HP is full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
+KR: Reduce damage taken by 80% when HP is full; 8x ATK and 3x RCV when matching 4 or more connected Wood orbs; Increase orb movement time by 4 seconds
 
 # 6490/38 - 
 Tags: REDUCE_DAMAGE
 Stats: [1, 1, 1, 0.8]
 Game: 
-JP: HPが99%以下受けるダメージを80％減少。
-EN: Reduce damage taken by 80% when HP is not full
-KR: Reduce damage taken by 80% when HP is not full
+JP: HPが満タン時受けるダメージを80％減少。
+EN: Reduce damage taken by 80% when HP is full
+KR: Reduce damage taken by 80% when HP is full
 
 # 6491/167 - 
 Tags: ENHANCED_ATK_RCV
