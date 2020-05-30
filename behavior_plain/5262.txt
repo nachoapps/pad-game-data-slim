@@ -7,9 +7,8 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESStatusShield(20:13282) -> You will face me.
-Condition: One-time use (ai:100 rnd:0) (cost: 1)
-Voids status ailments for 5 turns
+#2: ESNone(0:17665) -> ESNone
+nothing
 
 #3: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 51, target rnd 5

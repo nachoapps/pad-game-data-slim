@@ -1,4 +1,4 @@
-#101515 - 裏幽幻の猫又・クロネ
+#101515 - Alt. Cryptic Feline, Kurone
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -14,11 +14,11 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #4: SkillSet:
-	[0] ESDamageShield(74:17205) -> 一緒に遊んでほしいな
+	[0] ESDamageShield(74:17205) -> I wanna play with you
 	Reduce damage from all sources by 80% for 5 turns
-	[1] ESBindAwoken(88:17206) -> 痛くしないでね
+	[1] ESBindAwoken(88:17206) -> Oh don't hurt me
 	Bind awoken skills for 1 turn
-	[2] ESStatusShield(20:17207) -> 絶対だよ
+	[2] ESStatusShield(20:17207) -> Don't ever!
 	Voids status ailments for 999 turns, Deal 130% damage
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -33,13 +33,13 @@ flag SET 0b11
 #8: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 80, target rnd 10
 
-#9: ESSpinnersRandom(109:16077) -> はい、あげる
+#9: ESSpinnersRandom(109:16077) -> Here, have this
 Random 3 orbs change every 2.0s for 5 turns
 
 #10: SkillSet:
-	[0] ESBindAwoken(88:16079) -> 痛いなぁ
+	[0] ESBindAwoken(88:16079) -> Oh that hurt
 	Bind awoken skills for 1 turn
-	[1] ESBindRandomSub(65:16080) -> 悪い子にはお仕置きだよ
+	[1] ESBindRandomSub(65:16080) -> Bad children get punished
 	Bind 4 random subs for 5 turns
 
 #11: ESEndPath(36:26) -> ESEndPath
@@ -51,7 +51,7 @@ Branch on flag & 4, target rnd 16
 #13: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b111
 
-#14: ESBindSkill(14:16081) -> もっと遊ぼうよ
+#14: ESBindSkill(14:16081) -> I wanna play more
 Bind active skills for 5 turns, Deal 150% damage
 
 #15: ESEndPath(36:26) -> ESEndPath
@@ -60,22 +60,22 @@ end_turn
 #16: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 21
 
-#17: ESGravity(50:16082) -> ぎゅーん
+#17: ESGravity(50:16082) -> Squeeze
 Condition: One-time use (ai:0 rnd:33) (cost: 1)
 Player -99% HP
 
-#18: ESBombRandomSpawn(102:16083) -> どっかーん
+#18: ESBombRandomSpawn(102:16083) -> Boom!
 Condition: 33% chance (ai:0 rnd:33)
 Spawn 7 random locked Bomb orbs, Deal 100% damage
 
-#19: ESBlindStickyRandom(97:16084) -> 消えちゃえ
+#19: ESBlindStickyRandom(97:16084) -> Get lost
 Condition: 34% chance (ai:0 rnd:34)
 Blind random 5~10 orbs for 2 turns, Deal 110% damage
 
 #20: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#21: ESAttackMultihit(15:16085) -> あー、楽しかった
+#21: ESAttackMultihit(15:16085) -> Ah, that was fun
 Deal 400% damage
 
 #22: ESEndPath(36:26) -> ESEndPath

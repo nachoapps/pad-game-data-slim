@@ -9,7 +9,7 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:14430) -> Sorcery's Aftermath
+	[0] ESStatusShield(20:14430) -> Sorcerous Barrier
 	Voids status ailments for 999 turns
 	[1] ESDamageShield(74:14431) -> You're hoping to battle aren't you?
 	Reduce damage from all sources by 75% for 10 turns

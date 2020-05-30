@@ -1,4 +1,4 @@
-#102281 - 裏双天の皇祖神・イザナギ
+#102281 - Alt. Creator God of Twin Skies, Izanagi
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -9,77 +9,77 @@ approved: False
 level: 1
  type: PREEMPT
  | condition: 16% chance
- | (17211:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17211:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Fire and Light damage for 3 turns
  | condition: 20% chance
- | (17212:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17212:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Water and Light damage for 3 turns
  | condition: 25% chance
- | (17213:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17213:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Wood and Light damage for 3 turns
  | condition: 33% chance
- | (17214:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17214:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Fire and Dark damage for 3 turns
  | condition: 50% chance
- | (17215:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17215:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Water and Dark damage for 3 turns
- | (17216:83) 皇祖の守り + 天の陰り + 天地万物の意志
+ | (17216:83) Progenitor's Protection + Shadow Across Heaven + The Will of Heaven and Earth
  | Voids status ailments for 999 turns + Blind orbs in specific positions for 3 turns + Absorb Wood and Dark damage for 3 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 6
-     | (16705:83) 幻惑する時流 + 双天槍突
+     | (16705:83) Bewitching Flow of Time + Pierce the Heavens
      | Random 2 orbs change every 1.0s for 3 turns + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
    | group:
    | condition: execute repeatedly, turn 2 of 6
      | condition: 50% chance
-     | (16708:83) 光闇の交槍 + 時の剥奪
+     | (16708:83) Spears of Light and Dark + Deprived of Time
      | Change the 2nd row to Light and Dark orbs + Movetime 50% for 1 turn, Deal 50% damage
      | condition: 50% chance
-     | (16711:83) 光闇の交槍 + 癒しの剥奪
+     | (16711:83) Spears of Light and Dark + Deprived of Comfort
      | Change the 4th row to Light and Dark orbs + RCV 50% for 1 turn, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 3 of 6
-     | (16704:87) 栄枯盛衰の大地
+     | (16704:87) Land of Feast and Famine
      | Absorb damage when damage >= 10,000,000 for 3 turns
    | group:
    | condition: execute repeatedly, turn 4 of 6
-     | (16705:83) 幻惑する時流 + 双天槍突
+     | (16705:83) Bewitching Flow of Time + Pierce the Heavens
      | Random 2 orbs change every 1.0s for 3 turns + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
    | group:
    | condition: execute repeatedly, turn 5 of 6
      | condition: 50% chance
-     | (16708:83) 光闇の交槍 + 時の剥奪
+     | (16708:83) Spears of Light and Dark + Deprived of Time
      | Change the 2nd row to Light and Dark orbs + Movetime 50% for 1 turn, Deal 50% damage
      | condition: 50% chance
-     | (16711:83) 光闇の交槍 + 癒しの剥奪
+     | (16711:83) Spears of Light and Dark + Deprived of Comfort
      | Change the 4th row to Light and Dark orbs + RCV 50% for 1 turn, Deal 50% damage
    | group:
    | condition: execute repeatedly, turn 6 of 6
      | condition: 16% chance
-     | (16698:53) 天地万物の意志
+     | (16698:53) The Will of Heaven and Earth
      | Absorb Fire and Light damage for 3 turns
      | condition: 20% chance
-     | (16699:53) 天地万物の意志
+     | (16699:53) The Will of Heaven and Earth
      | Absorb Water and Light damage for 3 turns
      | condition: 25% chance
-     | (16700:53) 天地万物の意志
+     | (16700:53) The Will of Heaven and Earth
      | Absorb Wood and Light damage for 3 turns
      | condition: 33% chance
-     | (16701:53) 天地万物の意志
+     | (16701:53) The Will of Heaven and Earth
      | Absorb Fire and Dark damage for 3 turns
      | condition: 50% chance
-     | (16702:53) 天地万物の意志
+     | (16702:53) The Will of Heaven and Earth
      | Absorb Water and Dark damage for 3 turns
-     | (16703:53) 天地万物の意志
+     | (16703:53) The Will of Heaven and Earth
      | Absorb Wood and Dark damage for 3 turns
  | group:
  | condition: hp <= 9
    | group:
    | condition: turn 1
-     | (16714:83) 自然の巡り + 黄泉への誘い
+     | (16714:83) Cycle of Nature + Invitation to Hell
      | Change all orbs to Fire, Water, Wood, Light, and Dark + Blind all orbs for 3 turns
    | group:
-     | (16717:15) 天地無槍
+     | (16717:15) Impale the World
      | Deal 1000% damage (5 hits, 200% each)

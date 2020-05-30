@@ -31,7 +31,7 @@ level: 1
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (14313:83) Plunged into Darkness + Time Split
+     | (14313:83) Plunged into Darkness + Time Rift
      | Blind random 15~20 orbs for 5 turns + Movetime 50% for 5 turns
    | group:
    | condition: turns 2-5

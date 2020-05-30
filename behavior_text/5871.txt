@@ -1,0 +1,26 @@
+#5871 - Pixel Incarnation of Kirin, Sakuya
+monster size: 4
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 5871
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17884:87) 麒麟の舞
+ | Absorb damage when damage >= 10,000,000 for 5 turns
+ group:
+ | condition: 33% chance
+ | (17885:63) 護光撃
+ | Bind 1 random card for 2~3 turns, Deal 100% damage
+ | condition: 33% chance
+ | (17886:48) 烈閃灰
+ | Change a random attribute to Jammer orbs, Deal 90% damage
+ | condition: 34% chance
+ | (17887:15) 四源の舞
+ | Deal 120% damage (3 hits, 40% each)
+ type: REMAINING
+ condition: when 1 enemies remain, turn 1, hp <= 100
+ | (17869:83) ドットエンハ + ドットオーラ
+ | Increase damage to 200% for the next 999 turns + Bind awoken skills for 3 turns

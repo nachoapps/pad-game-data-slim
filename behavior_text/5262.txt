@@ -8,7 +8,15 @@ approved: False
 
 level: 1
  type: PREEMPT
-unknown ES
+ | condition: 33% chance
+ | (13283:89) I am the most serious now.
+ | Delay active skills by 0~2 turns, Deal 100% damage
+ | condition: 33% chance
+ | (13284:48) Witness my justice!!!
+ | Change a random attribute to Light orbs, Deal 90% damage
+ | condition: 34% chance
+ | (13285:79) I'm not finished yet!
+ | Change the 2nd row to Light orbs, Deal 95% damage
  group:
  | group:
    | condition: 33% chance

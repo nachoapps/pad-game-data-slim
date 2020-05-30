@@ -1,4 +1,4 @@
-#103267 - 裏アテン
+#103267 - Alt. Aten
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -9,34 +9,34 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESBlindStickyRandom(97:17175) -> 輝きを失った大地
+	[0] ESBlindStickyRandom(97:17175) -> Lightless Land
 	Blind all orbs for 5 turns
-	[1] ESSpinnersRandom(109:17176) -> スーリャ・アクシャ
+	[1] ESSpinnersRandom(109:17176) -> Surya Aksha
 	Random 1 orbs change every 1.0s for 5 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 5
 
-#4: ESAttackMultihit(15:16676) -> 光射す道標
+#4: ESAttackMultihit(15:16676) -> Shining Signpost
 Deal 3000% damage (6 hits, 500% each)
 
 #5: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESStatusShield(20:16674) -> 太陽光の輝き
+	[0] ESStatusShield(20:16674) -> Sunshine
 	Voids status ailments for 999 turns
-	[1] ESDebuffMovetime(39:16675) -> 慈愛と絶望の光
+	[1] ESDebuffMovetime(39:16675) -> Light of Love and Despair
 	Movetime 25% for 1 turn
-	[2] ESDebuffRCV(105:16788) -> アルッダアスゥ
+	[2] ESDebuffRCV(105:16788) -> Allu Daasu
 	RCV 50% for 5 turns
 
-#6: ESAttackMultihit(15:16676) -> 光射す道標
+#6: ESAttackMultihit(15:16676) -> Shining Signpost
 Deal 3000% damage (6 hits, 500% each)
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#8: ESSuperResolve(129:16670) -> 10%超根性
+#8: ESSuperResolve(129:16670) -> 10% Super Resolve
 When reduced from HP > 10% to 0 HP, revive at 10% HP
 
-#9: ESTurnChangePassive(106:16671) -> 敵の行動ターンが変化した
+#9: ESTurnChangePassive(106:16671) -> Enemy's turn changed
 Enemy turn counter change to 1 when HP <= 10%

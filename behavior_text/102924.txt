@@ -1,4 +1,4 @@
-#102924 - 裏反乱の天魔・織田信長
+#102924 - Alt. Rebellious Demon, Oda Nobunaga
 monster size: 5
 new AI: True
 start/max counter: 15
@@ -8,29 +8,29 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (16718:73) 根性
+ | (16718:73) Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (17225:83) 天魔の求心力 + 龍鱗の甲冑 + 滅びへの刻限 + 天候が荒れてきた
+ | (17225:83) Demon's Unifying Force + Dragon Scale Armor + The Hour of Destruction + The weather turned bad
  | Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns + Movetime 25% for 4 turns + A 6×2 rectangle of clouds appears for 2 turns at 1st row, 1st column
  group:
  | group:
    | group:
    | condition: turn 1
-     | (16723:94) 銃口の龍に光が灯った
+     | (16723:94) One Gunpoint Dragon lit up
      | Lock 10 random orbs
    | group:
    | condition: turn 2
-     | (16724:94) 別の銃口の龍に光が灯った
+     | (16724:94) Another Gunpoint Dragon lit up
      | Lock 20 random orbs
    | group:
    | condition: turn 3
-     | (16725:83) 全ての銃口の龍に光が灯った + 大きな力を纏っている
+     | (16725:83) Every Gunpoint Dragon lit up + Great power is being built up
      | Lock all orbs + Increase damage to 300% for the next 999 turns
    | group:
-     | (16728:83) 魔龍解放 + 龍撃天魔弾
+     | (16728:83) Demon Dragon Release + Dragons' Magic Bullets
      | Delay active skills by 6 turns + Deal 300% damage (6 hits, 50% each), Deal 300% damage (6 hits, 50% each)
  | group:
  | condition: hp <= 1
-   | (16731:83) 天下布武 + 龍翼の守り
+   | (16731:83) Unify the World Through Force + Dragon Wings' Protection
    | Enemy recover 50% HP + Reduce damage from all sources by 50% for 99 turns

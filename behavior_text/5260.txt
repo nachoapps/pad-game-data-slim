@@ -8,7 +8,15 @@ approved: False
 
 level: 1
  type: PREEMPT
-unknown ES
+ | condition: 33% chance
+ | (13275:101) Homing Pendulum
+ | Fix orb movement starting point to random position on the board, Deal 100% damage
+ | condition: 33% chance
+ | (13276:109) I have to put them to the test.
+ | Random 1 orbs change every 2.0s for 1 turn, Deal 90% damage
+ | condition: 34% chance
+ | (13278:15) You'll have to fight me whether you want to or not!
+ | Deal 105% damage (3 hits, 35% each)
  group:
  | group:
    | condition: 33% chance
@@ -21,9 +29,6 @@ unknown ES
    | (13278:15) You'll have to fight me whether you want to or not!
    | Deal 105% damage (3 hits, 35% each)
  | group:
- | condition: always turn 1, hp <= 49
+ | condition: turn 1, hp <= 49
    | (13277:17) Now I'm going to get serious!
    | Increase damage to 150% for the next 5 turns
- | group:
- | condition: hp <= 15
-unknown ES

@@ -7,8 +7,6 @@ monster_id: 5250
 approved: False
 
 level: 1
- type: PREEMPT
-unknown ES
  group:
  | group:
    | condition: 50% chance

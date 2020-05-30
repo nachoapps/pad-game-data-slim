@@ -7,12 +7,8 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: SkillSet:
-	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESBoardChange(84:13288) -> RRMMB
-	Change all orbs to Fire
-	[1] ESBindAwoken(88:13289) -> Let there be peace on earth.
-	Bind awoken skills for 3 turns
+#2: ESNone(0:17664) -> ESNone
+nothing
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 7

@@ -1,4 +1,4 @@
-#101662 - 裏星雲神・ヌト
+#101662 - Alt. Goddess of the Starry Sky, Nut
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -20,11 +20,11 @@ Branch on flag & 1, target rnd 8
 flag SET 0b1
 
 #6: SkillSet:
-	[0] ESDebuffMovetime(39:17162) -> 黒く渦巻く心情
+	[0] ESDebuffMovetime(39:17162) -> Swirling Black Emotions
 	Movetime 25% for 10 turns
-	[1] ESOrbChangeAttack(48:17163) -> 除かれし脅威
+	[1] ESOrbChangeAttack(48:17163) -> Threat Removal
 	Change all Heal orbs to Jammer orbs, Deal 150% damage
-	[2] ESStatusShield(20:17164) -> クッワトダーフィアアーセファ
+	[2] ESStatusShield(20:17164) -> Quat Dafiea Easifah
 	Voids status ailments for 999 turns
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -37,9 +37,9 @@ Branch on flag & 2, target rnd 12
 flag SET 0b11
 
 #10: SkillSet:
-	[0] ESBombFixedSpawn(103:10110) -> 魔導爆裂
+	[0] ESBombFixedSpawn(103:10110) -> Exploding Heresy
 	Spawn locked Bomb orbs in the specified positions
-	[1] ESDebuffRCV(105:10111) -> 偽悪の眼差し
+	[1] ESDebuffRCV(105:10111) -> Look of False Evil
 	RCV 50% for 10 turns, Deal 100% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
@@ -48,15 +48,15 @@ end_turn
 #12: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 17
 
-#13: ESBombRandomSpawn(102:10113) -> クンバラログズ
+#13: ESBombRandomSpawn(102:10113) -> Khunbala Rogzu
 Condition: 33% chance (ai:0 rnd:33)
 Spawn 5 random locked Bomb orbs, Deal 100% damage
 
-#14: ESRandomSpawn(92:10114) -> ノクタマハジュール
+#14: ESRandomSpawn(92:10114) -> Nuqta Mahjur
 Condition: 33% chance (ai:0 rnd:33)
 Spawn 8 random Jammer orbs, Deal 110% damage
 
-#15: ESAttackMultihit(15:10115) -> ギーラアーセファ
+#15: ESAttackMultihit(15:10115) -> Geela Ahsefah
 Condition: 34% chance (ai:0 rnd:34)
 Deal 120% damage (4 hits, 30% each)
 
@@ -66,7 +66,7 @@ end_turn
 #17: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 1, target rnd 20
 
-#18: ESAttackMultihit(15:10119) -> 魔力の奔流
+#18: ESAttackMultihit(15:10119) -> Torrent of Magical Powers
 Deal 400% damage (4 hits, 100% each)
 
 #19: ESEndPath(36:26) -> ESEndPath
@@ -79,13 +79,13 @@ Branch on flag & 4, target rnd 18
 flag SET 0b111
 
 #22: SkillSet:
-	[0] ESBindAwoken(88:10116) -> 砕かれし路程
+	[0] ESBindAwoken(88:10116) -> Breaking Distance
 	Bind awoken skills for 2 turns
-	[1] ESBindSkill(14:10117) -> 惑いし疑心
+	[1] ESBindSkill(14:10117) -> Delusion and Doubt
 	Bind active skills for 2 turns
 
 #23: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#24: ESResolve(73:10105) -> 根性
+#24: ESResolve(73:10105) -> Resolve
 Survive attacks with 1 HP when HP > 50%

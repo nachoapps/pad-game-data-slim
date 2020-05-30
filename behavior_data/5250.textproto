@@ -2,14 +2,6 @@
   levels {
     level: 1
     groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 13243
-        }
-      }
-    }
-    groups {
       group_type: STANDARD
       children {
         group {
@@ -131,4 +123,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

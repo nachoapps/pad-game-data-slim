@@ -1,0 +1,106 @@
+#5903 - ドット・戦乙女・プリンセスヴァルキリー
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESStatusShield(20:17852) -> 戦乙女の白盾
+	Voids status ailments for 999 turns
+	[1] ESVoidShield(71:17853) -> フィルギャの毛皮
+	Void damage >= 100000000 for 999 turns
+	[2] ESDebuffRCV(105:17854) -> 選別の命枷
+	RCV 50% for 10 turns
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 10, target rnd 21
+
+#4: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 50, target rnd 15
+
+#5: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 2, target rnd 11
+
+#6: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#7: ESOrbLock(94:17859) -> ディシジョン
+Condition: 33% chance (ai:0 rnd:33)
+Lock 10 random orbs, Deal 105% damage
+
+#8: ESCloud(104:17860) -> セイントディシジョン
+Condition: 33% chance (ai:0 rnd:33)
+A 2×2 square of clouds appears for 1 turn at a random location, Deal 100% damage
+
+#9: ESAttackMultihit(15:17861) -> ダブルスラッシュ
+Condition: 34% chance (ai:0 rnd:34)
+Deal 110% damage (2 hits, 55% each)
+
+#10: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#11: ESSetCounter(25:15) -> ESSetCounter
+counter = 0
+
+#12: SkillSet:
+	Condition: 50% chance (ai:0 rnd:50)
+	[0] ESDamageShield(74:17857) -> 戦乙女の神鎧
+	Reduce damage from all sources by 50% for 3 turns
+	[1] ESGravity(50:17864) -> マイティバッシュ
+	Player -99% HP
+
+#13: SkillSet:
+	Condition: 50% chance (ai:0 rnd:50)
+	[0] ESNoSkyfall(127:17858) -> 聖域の加護
+	No skyfall for 3 turns
+	[1] ESGravity(50:17864) -> マイティバッシュ
+	Player -99% HP
+
+#14: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#15: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 1, target rnd 19
+
+#16: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1
+
+#17: SkillSet:
+	[0] ESChangeAttribute(46:17863) -> 精霊の廻衣
+	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+	[1] ESGravity(50:17864) -> マイティバッシュ
+	Player -99% HP
+	[2] ESSkillDelay(89:17865) -> 戦乙女の風格
+	Delay active skills by 10 turns
+
+#18: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#19: SkillSet:
+	[0] ESGravity(50:17849) -> バッシュ
+	Player -50% HP
+	[1] ESAttackMultihit(15:17861) -> ダブルスラッシュ
+	Deal 110% damage (2 hits, 55% each)
+
+#20: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#21: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 1)
+	[0] ESChangeAttribute(46:17863) -> 精霊の廻衣
+	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+	[1] ESBindAwoken(88:17867) -> セイントオーラ
+	Bind awoken skills for 5 turns
+
+#22: ESAttackMultihit(15:17868) -> ヴァルキュリアブレイド
+Deal 1500% damage (5 hits, 300% each)
+
+#23: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#24: ESSuperResolve(129:17850) -> 超根性
+When reduced from HP > 50% to 0 HP, revive at 50% HP

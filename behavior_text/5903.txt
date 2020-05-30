@@ -1,0 +1,54 @@
+#5903 - ドット・戦乙女・プリンセスヴァルキリー
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 5903
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (17850:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (17851:83) 戦乙女の白盾 + フィルギャの毛皮 + 選別の命枷
+ | Voids status ailments for 999 turns + Void damage >= 100000000 for 999 turns + RCV 50% for 10 turns
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1-2 of 3
+     | condition: 33% chance
+     | (17859:94) ディシジョン
+     | Lock 10 random orbs, Deal 105% damage
+     | condition: 33% chance
+     | (17860:104) セイントディシジョン
+     | A 2×2 square of clouds appears for 1 turn at a random location, Deal 100% damage
+     | condition: 34% chance
+     | (17861:15) ダブルスラッシュ
+     | Deal 110% damage (2 hits, 55% each)
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | condition: 50% chance
+     | (17855:83) 戦乙女の神鎧 + マイティバッシュ
+     | Reduce damage from all sources by 50% for 3 turns + Player -99% HP
+     | condition: 50% chance
+     | (17856:83) 聖域の加護 + マイティバッシュ
+     | No skyfall for 3 turns + Player -99% HP
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1 while HP > 9
+     | (17862:83) 精霊の廻衣 + マイティバッシュ + 戦乙女の風格
+     | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Player -99% HP + Delay active skills by 10 turns
+   | group:
+     | (17848:83) バッシュ + ダブルスラッシュ
+     | Player -50% HP + Deal 110% damage (2 hits, 55% each), Deal 110% damage (2 hits, 55% each)
+ | group:
+ | condition: hp <= 9
+   | group:
+   | condition: turn 1
+     | (17866:83) 精霊の廻衣 + セイントオーラ
+     | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Bind awoken skills for 5 turns
+   | group:
+     | (17868:15) ヴァルキュリアブレイド
+     | Deal 1500% damage (5 hits, 300% each)
