@@ -1,0 +1,20 @@
+#6252 不敵の花嫁・妖龍契士クーリア
+HP: 4420 ATK: 2055 RCV: 210 LB: 30
+AWK: 10,10,21,28,60,48,31,31,31
+SAWK: 54,56,43
+
+# 17335/156 - コンフュージョンアイ
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、チーム内のドラゴンキラーの覚醒数に応じて 攻撃力が上昇。
+JP: チーム内のドラゴンキラーの覚醒数1つにつき攻撃力が15％上がる
+EN: For 1 turn, increase ATK by 15% for each Dragon Killer awakening skill on the team
+KR: For 1 turn, increase ATK by 15% for each Dragon Killer awakening skill on the team
+
+# 17338/138 - ねぇ、それでいいと思ってるの？
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 1.0, 0]
+Game: 光属性の攻撃力が8倍。闇属性のHPが2倍。 光闇の同時攻撃で攻撃力が2倍、固定50万ダメージ。
+JP: 光属性の攻撃力が8倍。闇属性のHPが2倍。光、闇の同時攻撃で攻撃力が2倍。光闇同時攻撃で固定500000ダメージ。
+EN: 8x ATK for Light Att.; 2x HP for Dark Att.; 2x ATK when matching Light and Dark; 500000 additional damage when matching Light and Dark
+KR: 8x ATK for Light Att.; 2x HP for Dark Att.; 2x ATK when matching Light and Dark; 500000 additional damage when matching Light and Dark
+

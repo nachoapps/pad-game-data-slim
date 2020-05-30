@@ -1,0 +1,20 @@
+#6235 超転生トール
+HP: 5932 ATK: 2742 RCV: 199 LB: 15
+AWK: 10,10,56,21,28,48,48,62,33
+SAWK: 55,48,56,33,64
+
+# 3534/116 - Rune Enhance - Light & Water
+Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
+Game: 2.5x ATK for Light & Water Att. for 3 turns;  other allies' skills charged by 1 turn
+JP: 3ターンの間、光と水属性の攻撃力が2.5倍。3ターンの間、回復力が2.5倍。自分以外の味方スキルが1ターンの溜まる
+EN: For 3 turns, 2.5x ATK for Light and Water Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
+KR: For 3 turns, 2.5x ATK for Light and Water Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
+
+# 17284/138 - 雷戦神の真魂
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 12.0, 4.0, 0.25]
+Game: 光属性のHPが1.5倍、攻撃力と回復力は4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+JP: 光属性の攻撃力と回復力が4倍、HPが1.5倍。光を5個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 4x ATK & RCV and 1.5x HP for Light Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+KR: 4x ATK & RCV and 1.5x HP for Light Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
+

@@ -1,14 +1,14 @@
 #5381 Golden Bride, Parvati
 HP: 3878 ATK: 1795 RCV: 542 LB: 30
-AWK: 10,10,21,53,43,43,13,13,13
+AWK: 52,21,21,53,43,43,13,13,13
 SAWK: 48,64,45
 
 # 13731/116 - Mountain Wind of Joyous Longevity
-Tags: GUARD_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Tags: GUARD_STANCE,ORB_CONVERT,EXTENDS_TIME,VOID_SKYFALLS
 Game: No Skyfall Combos for 2 turns; changes Water Orbs to Heal Orbs
-JP: 2ターンの間、落ちコンしなくなる。水ドロップを回復ドロップに変化
-EN: For 2 turns, no skyfall; Change Water orbs to Heal orbs
-KR: For 2 turns, no skyfall; Change Water orbs to Heal orbs
+JP: 2ターンの間、落ちコンしなくなる。2ターンの間、ドロップ操作時間が1秒に延長。水ドロップを回復ドロップに変化
+EN: For 2 turns, no skyfall; For 2 turns, increase orb move time by 1 second; Change Water orbs to Heal orbs
+KR: For 2 turns, no skyfall; For 2 turns, increase orb move time by 1 second; Change Water orbs to Heal orbs
 
 # 13734/138 - Let's support each other
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE

@@ -1,14 +1,14 @@
 #3791 Starry Night Bride, Persephone
 HP: 2639 ATK: 1707 RCV: 630 LB: 30
-AWK: 19,27,27,28,21,47,47,10,10
+AWK: 19,27,27,28,21,56,47,47,52
 SAWK: 47,27,48
 
 # 8347/116 - Engagement Feathers - Luna
 Tags: ATTACK_STANCE,ORB_CONVERT,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; changes Fire & Heal Orbs to Dark Orbs
-JP: 1ターンの間、属性吸収を無効化する。火と回復ドロップを闇ドロップに変化
-EN: For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Dark orbs
-KR: For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Dark orbs
+JP: 2ターンの間、属性吸収を無効化する。火と回復ドロップを闇ドロップに変化
+EN: For 2 turns, bypass att. absorb shield effects; Change Fire and Heal orbs to Dark orbs
+KR: For 2 turns, bypass att. absorb shield effects; Change Fire and Heal orbs to Dark orbs
 
 # 8350/138 - Please stop looking at me like that...
 Tags: ENHANCED_HP_ATK_RCV

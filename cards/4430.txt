@@ -1,6 +1,6 @@
 #4430 Mega Awoken War Deity, Odin
 HP: 6041 ATK: 2201 RCV: 168 LB: 20
-AWK: 10,10,21,21,21,28,19,48,48
+AWK: 52,46,46,56,21,28,19,48,48
 SAWK: 48,43,33
 
 # 10906/116 - Pure Heart of the Magic Spear
@@ -11,10 +11,10 @@ EN: Change Light and Heal orbs to Water orbs; For 1 turn, increase combo count b
 KR: Change Light and Heal orbs to Water orbs; For 1 turn, increase combo count by 2
 
 # 10909/138 - Force of Mimir
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 12.5, 1, 0.25]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 12.5, 1, 0.5, +2]
 Game: 5x ATK & reduces damage with 6+ combos; 2.5x ATK with 4+ linked Water Orbs
-JP: 6コンボ以上で攻撃力が5倍、受けるダメージを25％減少。水を4個以上つなげて消すと攻撃力が2.5倍。
-EN: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Water orbs
-KR: 5x ATK and reduce damage taken by 25% when 6 or more combos; 2.5x ATK when matching 4 or more connected Water orbs
+JP: 6コンボ以上で攻撃力が5倍、受けるダメージを50％減少。水を4個以上つなげて消しと攻撃力が2.5倍、2コンボ加算。
+EN: 5x ATK and reduce damage taken by 50% when 6 or more combos; 2.5x ATK and increase combo by 2 when matching 4 or more connected Water orbs at once
+KR: 5x ATK and reduce damage taken by 50% when 6 or more combos; 2.5x ATK and increase combo by 2 when matching 4 or more connected Water orbs at once
 

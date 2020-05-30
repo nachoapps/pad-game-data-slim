@@ -3,10 +3,10 @@ HP: 6002 ATK: 2302 RCV: 120 LB: 0
 AWK: 49,21,50,2,2
 SAWK: 
 
-# 13738/116 - Blissful Storm
+# 17351/116 - グレイスフルストーム
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
-Game: Adds 2 combos for 1 turn; removes Orb locks and changes all Orbs to Light & Heal Orbs
-JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを光と回復ドロップに変化
-EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Light and Heal orbs
-KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Light and Heal orbs
+Game: 1ターンの間、3コンボ加算される。 全ドロップのロックを解除し、光と回復ドロップに変化。
+JP: 1ターンの間、3コンボ加算される。全ドロップのロック状態を解除。全ドロップを光と回復ドロップに変化
+EN: For 1 turn, increase combo count by 3; Unlock all orbs; Change all orbs to Light and Heal orbs
+KR: For 1 turn, increase combo count by 3; Unlock all orbs; Change all orbs to Light and Heal orbs
 

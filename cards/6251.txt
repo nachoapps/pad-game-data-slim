@@ -1,0 +1,20 @@
+#6251 曙光の新郎・イザナギ
+HP: 4163 ATK: 1842 RCV: 420 LB: 30
+AWK: 21,21,21,28,53,58,58,58,33
+SAWK: 52,48,64
+
+# 17327/116 - 幸福の息吹
+Tags: ENHANCED_ATTACK,SUICIDE,LINE_ORBS_CONVERTER
+Game: HPが50％減少。右端縦1列を光ドロップに変化。 1ターンの間、神タイプの攻撃力が1.5倍。
+JP: HPが50％減少。最右端を光ドロップに変化。1ターンの間、神タイプの攻撃力が1.5倍
+EN: Reduce HP by 50%; Change the far right column to Light orbs; For 1 turn, 1.5x ATK for God type
+KR: Reduce HP by 50%; Change the far right column to Light orbs; For 1 turn, 1.5x ATK for God type
+
+# 17331/138 - ああ、これからも幸せにしようぞ！
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 18.0, 1.0, 0.0, +1]
+Game: 神タイプのHPと攻撃力が2倍。HP50％以下で攻撃力が3倍。 光を5個以上つなげて消すと攻撃力が3倍、1コンボ加算。
+JP: 神タイプのHPと攻撃力が2倍。HPが50%以下で攻撃力が3倍。光を5個以上つなげて消しと攻撃力が3倍、1コンボ加算。
+EN: 2x HP & ATK for God type; 3x ATK when below 50% HP; 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
+KR: 2x HP & ATK for God type; 3x ATK when below 50% HP; 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
+

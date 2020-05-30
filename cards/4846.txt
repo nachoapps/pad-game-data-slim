@@ -4,11 +4,11 @@ AWK: 21,21,28,19,46,46,46,45,52
 SAWK: 
 
 # 11750/116 - Furinkazan Stance
-Tags: ALL_ORBS_CONVERT,ORB_LOCK
+Tags: ENHANCED_ORBS,ALL_ORBS_CONVERT,ORB_LOCK
 Game: Changes all Orbs to Fire, Wood & Heal Orbs; Fire, Wood & Heal Orbs locked
-JP: 全ドロップを火、木、回復ドロップに変化。全火、木、回復ドロップをロック
-EN: Change all orbs to Fire, Wood, and Heal orbs; Lock all Fire, Wood, and Heal orbs
-KR: Change all orbs to Fire, Wood, and Heal orbs; Lock all Fire, Wood, and Heal orbs
+JP: 全ドロップを火、木、回復ドロップに変化。全ドロップを強化。全ドロップをロック
+EN: Change all orbs to Fire, Wood, and Heal orbs; Enhance all orbs; Lock all orbs
+KR: Change all orbs to Fire, Wood, and Heal orbs; Enhance all orbs; Lock all orbs
 
 # 11753/138 - Takeda Diamond Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXP

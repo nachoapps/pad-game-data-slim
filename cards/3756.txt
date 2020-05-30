@@ -6,15 +6,15 @@ SAWK:
 # 8147/116 - All Orbs Cure
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes Orbs to all Attributes & Heal
-JP: 最大HP30％分回復。バインドを2ターン回復。全ドロップを火、水、木、光、闇、回復ドロップに変化
-EN: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
-KR: Recover 30% of max HP; Reduce binds by 2 turns; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+JP: 最大HP80％分回復。バインドを全回復。全ドロップを火、水、木、光、闇、回復ドロップに変化
+EN: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
+KR: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 8150/175 - Draco Summoning Law
-Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 12.0, 3.0, 0]
+# 8150/138 - Draco Summoning Law
+Tags: ENHANCED_ATK_RCV,EXTRA_COMBOS
+Stats: [1.0, 16.0, 3.0, 0, +2]
 Game: 12x ATK & 3x RCV when all sub-monsters are  non-collab Dragonbounds or Dragon Callers
-JP: 龍契士&龍喚士キャラのみでチームを組むと、攻撃力が12倍、回復力が3倍。
-EN: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
-KR: 12x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller
+JP: 龍契士&龍喚士キャラのみでチームを組むと、攻撃力が16倍、回復力が3倍。3色以上同時攻撃で2コンボ加算。
+EN: 16x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller; increase combo by 2 when matching 3 or more colors
+KR: 16x ATK and 3x RCV when all cards are from Dragonbound & Dragoncaller; increase combo by 2 when matching 3 or more colors
 

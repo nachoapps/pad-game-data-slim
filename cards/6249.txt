@@ -1,0 +1,20 @@
+#6249 輝鋏の花嫁・断龍喚士ロシェ
+HP: 5085 ATK: 3021 RCV: 266 LB: 30
+AWK: 52,56,53,28,28,27,27,27,27
+SAWK: 43,48,27,56,55
+
+# 17318/116 - カッティングブライト
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、チーム内の2体攻撃の覚醒数に応じて 攻撃力が上昇。ランダムで木ドロップを4個生成。
+JP: チーム内の2体攻撃の覚醒数1つにつき攻撃力が15％上がる。木ドロップを4個生成
+EN: For 1 turn, increase ATK by 15% for each Two-Pronged Attack awakening skill on the team; Create 4 Wood orbs
+KR: For 1 turn, increase ATK by 15% for each Two-Pronged Attack awakening skill on the team; Create 4 Wood orbs
+
+# 17319/138 - アタシが…ハッピーに…してあげる
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 14.0, 1.0, 0.0, +1]
+Game: 木属性のHPと攻撃力が2倍。毒ダメージを無効化。 木を4個以上つなげて消すと攻撃力が7倍、1コンボ加算。
+JP: 【毒ダメージを無効化】木属性のHPと攻撃力が2倍。木を4個以上つなげて消しと攻撃力が7倍、1コンボ加算。
+EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Wood Att.; 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
+KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Wood Att.; 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
+

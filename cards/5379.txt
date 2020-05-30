@@ -1,14 +1,14 @@
 #5379 Devoted Bride, Rushana
 HP: 5067 ATK: 1928 RCV: 632 LB: 30
-AWK: 56,21,53,28,10,10,48,48,43
+AWK: 52,56,21,53,28,48,48,43,36
 SAWK: 48,43,46
 
 # 10757/116 - Divine Touch of Beauty
 Tags: HEAL,LINE_ORBS_CONVERTER
 Game: Recovers 40% of max HP; changes the top row to Wood Orbs
-JP: 最大HP40％分回復。最上段を木ドロップに変化
-EN: Recover 40% of max HP; Change the top row to Wood orbs
-KR: Recover 40% of max HP; Change the top row to Wood orbs
+JP: 最大HP50％分回復。最上段を木ドロップに変化
+EN: Recover 50% of max HP; Change the top row to Wood orbs
+KR: Recover 50% of max HP; Change the top row to Wood orbs
 
 # 13745/138 - Now, cheer up
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,BOARD_CHANGE_7X6

@@ -89567,58 +89567,58 @@ JP: 敵のHPが50％回復
 EN: Enemy recover 50% HP
 KR: Enemy recover 50% HP
 
-# 17906/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17906/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 17907/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17907/20 - 我を打ち破れるか？
+JP: 10ターンの間、状態異常無効化
+EN: Voids status ailments for 10 turns
+KR: Voids status ailments for 10 turns
 
-# 17908/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17908/71 - 腕に覚えがあるようだな…
+JP: 999ターンの間、20000000以上のダメージを無効化
+EN: Void damage >= 20000000 for 999 turns
+KR: Void damage >= 20000000 for 999 turns
 
-# 17909/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17909/130 - これで戦って見せろ
+JP: 10ターンの間、攻撃力が99%減少
+EN: ATK -99% for 10 turns
+KR: ATK -99% for 10 turns
 
-# 17910/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17910/89 - その力を変えることは許さんぞ
+JP: スキルターンを99ターン遅延
+EN: Delay active skills by 99 turns
+KR: Delay active skills by 99 turns
 
-# 17911/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17911/130 - 小賢しい！
+JP: 10ターンの間、攻撃力が99%減少
+EN: ATK -99% for 10 turns
+KR: ATK -99% for 10 turns
 
-# 17912/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17912/66 - …
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 17913/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17913/15 - 精進するがいい
+JP: 10000%ダメージ (10連続攻撃、1000%ごと)
+EN: Deal 10000% damage (10 hits, 1000% each)
+KR: Deal 10000% damage (10 hits, 1000% each)
 
-# 17914/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17914/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 17915/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17915/83 - ＿11回目以降
+JP: 
+EN: 
+KR: 
 
-# 17916/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 17916/46 - 転換の法衣
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
