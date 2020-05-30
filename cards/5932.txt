@@ -1,19 +1,19 @@
-#5932 極醒の天央神・アメノミナカヌシ
+#5932 Mega Awoken Primordial Divinity, Amenominakanushi
 HP: 6862 ATK: 2031 RCV: 46 LB: 20
 AWK: 10,10,56,28,48,48,31,33,34
 SAWK: 54,56,43
 
-# 16075/116 - あまねく光る心星
+# 16075/116 - Stellar Incandescence
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
-Game: 全ドロップを水、光、闇ドロップに変化。 3ターンの間、受けるダメージを軽減。
+Game: Changes all Orbs to Water, Light & Dark Orbs; reduces damage for 3 turns
 JP: 全ドロップを水、光、闇ドロップに変化。3ターンの間、受けるダメージを35％減少
 EN: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
 KR: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
 
-# 16079/138 - 明浄の天象
+# 16079/138 - Purification of Celestial Phenomena
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 20.0, 1.0, 0.0, +1]
-Game: 水属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。 水を6個以上つなげて消すと攻撃力が上昇、最大10倍。
+Game: 2x HP & ATK for Water Att., adds 1 combo when 3+ Att. attack; up to 10x ATK with 6+ linked Water Orbs
 JP: 水属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。水を6個以上つなげて消すと攻撃力が8倍、最大8個で10倍。
 EN: 2x HP & ATK for Water Att.; increase combo by 1 when matching 3 or more colors; 8x ATK when matching 6 or more connected Water orbs up to 10x at 8 orbs
 KR: 2x HP & ATK for Water Att.; increase combo by 1 when matching 3 or more colors; 8x ATK when matching 6 or more connected Water orbs up to 10x at 8 orbs

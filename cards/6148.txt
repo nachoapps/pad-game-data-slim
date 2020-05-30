@@ -1,4 +1,4 @@
-#6148 超転生カリン
+#6148 Super Reincarnated Karin
 HP: 4886 ATK: 3042 RCV: 335 LB: 15
 AWK: 21,21,21,21,28,13,13,48,48
 SAWK: 52,48,43,53,64
@@ -10,10 +10,10 @@ JP: 全ドロップを水、木、闇ドロップに変化。自分以外の味�
 EN: Change all orbs to Water, Wood, and Dark orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Water, Wood, and Dark orbs; Charge all allies' skills by 1 turn
 
-# 16848/138 - 青龍神の真魂
+# 16848/138 - True Spirit of the Seiryuu
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 17.5, 1.0, 0.35]
-Game: HP50％以上でダメージを軽減、攻撃力が5倍。 水木闇の同時攻撃で攻撃力が3.5倍、固定1ダメージ。
+Game: 5x ATK & reduces damage when HP is 50% or more; 3.5x ATK & 1 dmg when Water, Wood & Dark attack at once
 JP: HPが50%以上で攻撃力が5倍、受けるダメージを35％減少。水、木、闇同時攻撃で攻撃力が3.5倍。水、木、闇同時攻撃、固定1ダメージ。
 EN: 5x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching Water, Wood, and Dark at once; 1 additional damage when matching Water, Wood, and Dark at once
 KR: 5x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching Water, Wood, and Dark at once; 1 additional damage when matching Water, Wood, and Dark at once

@@ -1,0 +1,20 @@
+#5902 ドット・ボルケーノドラゴン
+HP: 4175 ATK: 2080 RCV: 206 LB: 15
+AWK: 10,10,21,21,28,19,43,43,48
+SAWK: 60,43,48
+
+# 17213/116 - メテオゾーン
+Tags: ORB_CONVERT,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を全回復。闇ドロップを火ドロップに変化。 1ターンの間、ドロップ操作を2秒延長。
+JP: 覚醒無効を全回復。闇ドロップを火ドロップに変化。1ターンの間、ドロップ操作時間が2秒に延長
+EN: Remove all awoken skill binds; Change Dark orbs to Fire orbs; For 1 turn, increase orb move time by 2 seconds
+KR: Remove all awoken skill binds; Change Dark orbs to Fire orbs; For 1 turn, increase orb move time by 2 seconds
+
+# 17216/138 - 火山龍の先達
+Tags: ENHANCED_HP_ATK,EXP
+Stats: [2.0, 10.0, 1.0, 0]
+Game: ドット進化のみでチームを組むと、HPが2倍、攻撃力は10倍。 ダンジョン潜入時リーダーの時にランク経験値が1.5倍。
+JP: ドット進化キャラのみでチームを組むと、攻撃力が10倍、HPが2倍。ランク経験値ｘ1.5倍。
+EN: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
+KR: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
+

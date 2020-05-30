@@ -6,9 +6,9 @@ SAWK:
 # 167/42 - Dark Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Dark damage attack on Light Att. enemies
-JP: 光属性の敵に闇属性の35000ダメージ
-EN: Deal 35000 Dark damage to all Light Att. enemies
-KR: Deal 35000 Dark damage to all Light Att. enemies
+JP: 光属性の敵に闇属性の100000ダメージ
+EN: Deal 100000 Dark damage to all Light Att. enemies
+KR: Deal 100000 Dark damage to all Light Att. enemies
 
 # 510/48 - Dark Oath
 Tags: ENHANCED_HP

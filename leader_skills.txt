@@ -27176,19 +27176,19 @@ KR: 8x ATK and increase combo by 2 when matching 6 or more connected Dark orbs a
 
 # 6420/138 - I will... ...protect her. 
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [2.0, 20.0, 4.0, 0.0]
-Game: ATK increases when 3+ Att. (2+Heal) attack, up to 20x; 4x RCV when skills used, 2x HP for Dark Att.
-JP: 3色(2色+回復)以上同時攻撃で攻撃力が14倍、最大5色+回復で20倍。スキル使用時、回復力が4倍。闇属性のHPが2倍。
-EN: 14x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal; 4x RCV on the turn a skill is used; 2x HP for Dark Att.
-KR: 14x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal; 4x RCV on the turn a skill is used; 2x HP for Dark Att.
+Stats: [2.0, 22.0, 4.0, 0.0]
+Game: ATK increases when 3+ Att. (2+Heal) attack, up to 22x; 4x RCV when skills used, 2x HP for Dark Att.
+JP: 3色(2色+回復)以上同時攻撃で攻撃力が16倍、最大5色+回復で22倍。スキル使用時、回復力が4倍。闇属性のHPが2倍。
+EN: 16x ATK when matching 3 or more colors (2+heal) up to 22x at 5 colors+heal; 4x RCV on the turn a skill is used; 2x HP for Dark Att.
+KR: 16x ATK when matching 3 or more colors (2+heal) up to 22x at 5 colors+heal; 4x RCV on the turn a skill is used; 2x HP for Dark Att.
 
 # 6421/61 - 
 Tags: ENHANCED_ATK
-Stats: [1, 20.0, 1, 0]
+Stats: [1, 22.0, 1, 0]
 Game: 
-JP: 3色(2色+回復)以上同時攻撃で攻撃力が14倍、最大5色+回復で20倍。
-EN: 14x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
-KR: 14x ATK when matching 3 or more colors (2+heal) up to 20x at 5 colors+heal
+JP: 3色(2色+回復)以上同時攻撃で攻撃力が16倍、最大5色+回復で22倍。
+EN: 16x ATK when matching 3 or more colors (2+heal) up to 22x at 5 colors+heal
+KR: 16x ATK when matching 3 or more colors (2+heal) up to 22x at 5 colors+heal
 
 # 6422/133 - 
 Tags: ENHANCED_RCV
@@ -27199,12 +27199,12 @@ EN: 4x RCV on the turn a skill is used
 KR: 4x RCV on the turn a skill is used
 
 # 6423/138 - I was entrusted with his heart!
-Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 24.0, 3.0, 0.0]
-Game: 3x ATK & RCV for Water Att., 4x ATK with 5+ combos; 2x ATK with 2+ Water combos
-JP: 水属性の攻撃力と回復力が3倍。5コンボ以上で攻撃力が4倍。水の2コンボ以上で攻撃力が2倍。
-EN: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos; 2x ATK when matching 2+ Water combos
-KR: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos; 2x ATK when matching 2+ Water combos
+Tags: ENHANCED_ATK_RCV,EXTRA_COMBOS
+Stats: [1.0, 27.0, 3.0, 0.0, +1]
+Game: 3x ATK & RCV for Water Att., up to 4.5x ATK with 5+ combos; 2x ATK & adds 1 combo with 2+ Water combos
+JP: 水属性の攻撃力と回復力が3倍。5コンボ以上で攻撃力が4倍、最大7コンボで4.5倍。水の2コンボ以上で攻撃力が2倍。2コンボ以上で1コンボ加算
+EN: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos up to 4.5x at 7 combos; 2x ATK when matching 2+ Water combos; Increase combo by 1 when matching 2 or more Water combos
+KR: 3x ATK & RCV for Water Att.; 4x ATK when 5 or more combos up to 4.5x at 7 combos; 2x ATK when matching 2+ Water combos; Increase combo by 1 when matching 2 or more Water combos
 
 # 6424/129 - 
 Tags: ENHANCED_ATK_RCV
@@ -27214,13 +27214,13 @@ JP: 水属性の攻撃力と回復力が3倍。
 EN: 3x ATK & RCV for Water Att.
 KR: 3x ATK & RCV for Water Att.
 
-# 6425/66 - 
+# 6425/98 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 4.5, 1, 0]
 Game: 
-JP: 5コンボ以上で攻撃力が4倍。
-EN: 4x ATK when 5 or more combos
-KR: 4x ATK when 5 or more combos
+JP: 5コンボ以上で攻撃力が4倍、最大7コンボで4.5倍。
+EN: 4x ATK when 5 or more combos up to 4.5x at 7 combos
+KR: 4x ATK when 5 or more combos up to 4.5x at 7 combos
 
 # 6429/138 - I am deeply disappointed.
 Tags: ENHANCED_ATK
@@ -27247,12 +27247,12 @@ EN: 2x ATK when matching 6 or more connected Fire orbs
 KR: 2x ATK when matching 6 or more connected Fire orbs
 
 # 6432/138 - All things in the universe turn to ash! Ryujinjakka!
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1.0, 20.0, 1.0, 0.25]
-Game: 10x ATK for Fire Att.; 2x ATK & reduces damage with 6+ linked Fire Orbs
-JP: 火属性の攻撃力が10倍。火を6個以上つなげて消すと攻撃力が2倍、受けるダメージを25％減少。
-EN: 10x ATK for Fire Att.; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
-KR: 10x ATK for Fire Att.; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs
+Game: 10x ATK for Fire Att., inflicts 100,000 dmg with 2+ Fire combos; 2x ATK & reduces dmg with 6+ linked Fire Orbs
+JP: 火属性の攻撃力が10倍。火を6個以上つなげて消すと攻撃力が2倍、受けるダメージを25％減少。火の2コンボ以上で固定100000ダメージ。
+EN: 10x ATK for Fire Att.; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs; 100000 additional damage when matching 2 or more Fire combos
+KR: 10x ATK for Fire Att.; 2x ATK and reduce damage taken by 25% when matching 6 or more connected Fire orbs; 100000 additional damage when matching 2 or more Fire combos
 
 # 6433/129 - 
 Tags: ENHANCED_ATK
@@ -46289,7 +46289,7 @@ KR: 4x ATK when below 50% HP
 # 11011/138 - Ancient Light Spirit's Magic Seal
 Tags: ENHANCED_ATK,EXP
 Stats: [1.0, 4.0, 1.0, 0.0]
-Game: 1.8x Rank EXP when entering a dungeon as a Leader; 2x ATK for Light Att.
+Game: 1.8x Rank EXP when entering a dungeon as a Leader; 4x ATK for Light Att.
 JP: 光属性の攻撃力が4倍。ランク経験値ｘ1.8倍。
 EN: 4x ATK for Light Att.; 1.8x Rank EXP
 KR: 4x ATK for Light Att.; 1.8x Rank EXP
@@ -46321,7 +46321,7 @@ KR: 0x Rank EXP
 # 11015/138 - Ancient Light Spirit's Navigation Technique
 Tags: ENHANCED_ATK,EXTEND_TIME
 Stats: [1, 24.0, 1, 0]
-Game: ATK increases with 3+ linked Light Orbs, up to 18x; Orb move time +2 seconds
+Game: ATK increases with 3+ linked Light Orbs, up to 24x; Orb move time +2 seconds
 JP: 光を3個以上つなげて消すと攻撃力が6倍、最大15個で24倍。ドロップ操作時間を2秒延長。
 EN: 6x ATK when matching 3 or more connected Light orbs up to 24x at 15 orbs; Increase orb movement time by 2 seconds
 KR: 6x ATK when matching 3 or more connected Light orbs up to 24x at 15 orbs; Increase orb movement time by 2 seconds
@@ -48617,7 +48617,7 @@ KR: 5x ATK when 5 or more combos
 # 11524/138 - Ancient Shadow Spirit's Guiding Technique
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,NO_SKYFALL_COMBOS
 Stats: [1.0, 21.0, 3.0, 0.25]
-Game: [No Skyfall Combos], 3x ATK & RCV with 5+ combos; 6x ATK & reduces damage with 6+ linked Dark Orbs
+Game: [No Skyfall Combos], 3x ATK & RCV with 5+ combos; 7x ATK & reduces damage with 6+ linked Dark Orbs
 JP: 【落ちコンなし】5コンボ以上で攻撃力と回復力が3倍。闇を6個以上つなげて消すと攻撃力が7倍、受けるダメージを25％減少。
 EN: [No skyfall] 3x ATK & RCV when 5 or more combos; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
 KR: [No skyfall] 3x ATK & RCV when 5 or more combos; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
@@ -67759,10 +67759,10 @@ JP: 3色以上同時攻撃で攻撃力と回復力が3倍、最大5色で5倍。
 EN: 3x ATK & RCV when matching 3 or more colors up to 5x at 5 colors
 KR: 3x ATK & RCV when matching 3 or more colors up to 5x at 5 colors
 
-# 16079/138 - 明浄の天象
+# 16079/138 - Purification of Celestial Phenomena
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 20.0, 1.0, 0.0, +1]
-Game: 水属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。 水を6個以上つなげて消すと攻撃力が上昇、最大10倍。
+Game: 2x HP & ATK for Water Att., adds 1 combo when 3+ Att. attack; up to 10x ATK with 6+ linked Water Orbs
 JP: 水属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。水を6個以上つなげて消すと攻撃力が8倍、最大8個で10倍。
 EN: 2x HP & ATK for Water Att.; increase combo by 1 when matching 3 or more colors; 8x ATK when matching 6 or more connected Water orbs up to 10x at 8 orbs
 KR: 2x HP & ATK for Water Att.; increase combo by 1 when matching 3 or more colors; 8x ATK when matching 6 or more connected Water orbs up to 10x at 8 orbs
@@ -70015,45 +70015,45 @@ JP: 木を9個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 9 or more Wood orbs
 KR: 1 additional damage when matching 9 or more Wood orbs
 
-# 16608/129 - 潜在覚醒！【リーダーチェンジ耐性】
+# 16608/129 - Latent Awakening! (Leader Change Resist.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると、リーダーチェンジ耐性の 潜在覚醒スキルを付与。※6枠使用
+Game: Causes a Leader Change Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
 JP: 合成素材にすると、リーダーチェンジ耐性の 潜在覚醒スキルを付与。※6枠使用
-EN: 合成素材にすると、リーダーチェンジ耐性の 潜在覚醒スキルを付与。※6枠使用
-KR: 合成素材にすると、リーダーチェンジ耐性の 潜在覚醒スキルを付与。※6枠使用
+EN: Causes a Leader Change Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
+KR: 강화합성 소재로 사용 시 리더 체인지 내성의 잠재 각성 스킬 부여 ※6칸 사용
 
-# 16609/129 - 潜在覚醒！【お邪魔目覚め耐性】
+# 16609/129 - Latent Awakening! (Jammer Surge Resist.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると、お邪魔目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
+Game: Causes a Jammer Surge Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
 JP: 合成素材にすると、お邪魔目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
-EN: 合成素材にすると、お邪魔目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
-KR: 合成素材にすると、お邪魔目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
+EN: Causes a Jammer Surge Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
+KR: 강화합성 소재로 사용 시 방해 각성 내성의 잠재 각성 스킬 부여 ※6칸 사용
 
-# 16610/129 - 潜在覚醒！【毒目覚め耐性】
+# 16610/129 - Latent Awakening! (Poison Surge Resist.)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると、毒目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
+Game: Causes a Poison Surge Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
 JP: 合成素材にすると、毒目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
-EN: 合成素材にすると、毒目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
-KR: 合成素材にすると、毒目覚め耐性の 潜在覚醒スキルを付与。※6枠使用
+EN: Causes a Poison Surge Resistance Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
+KR: 강화합성 소재로 사용 시 독 각성 내성의 잠재 각성 스킬 부여 ※6칸 사용
 
-# 16611/129 - 潜在覚醒！【ダメージ無効貫通】
+# 16611/129 - Latent Awakening! (Damage Void Piercer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると、ダメージ無効貫通の 潜在覚醒スキルを付与。※6枠使用
+Game: Causes a Damage Void Piercer Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
 JP: 合成素材にすると、ダメージ無効貫通の 潜在覚醒スキルを付与。※6枠使用
-EN: 合成素材にすると、ダメージ無効貫通の 潜在覚醒スキルを付与。※6枠使用
-KR: 合成素材にすると、ダメージ無効貫通の 潜在覚醒スキルを付与。※6枠使用
+EN: Causes a Damage Void Piercer Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
+KR: 강화합성 소재로 사용 시 대미지 무효 관통의 잠재 각성 스킬 부여 ※6칸 사용
 
-# 16612/129 - 潜在覚醒！【属性吸収貫通】
+# 16612/129 - Latent Awakening! (Att. Absorption Piercer)
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると、属性吸収貫通の 潜在覚醒スキルを付与。※6枠使用
+Game: Causes an Att. Absorption Piercer Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
 JP: 合成素材にすると、属性吸収貫通の 潜在覚醒スキルを付与。※6枠使用
-EN: 合成素材にすると、属性吸収貫通の 潜在覚醒スキルを付与。※6枠使用
-KR: 合成素材にすると、属性吸収貫通の 潜在覚醒スキルを付与。※6枠使用
+EN: Causes an Att. Absorption Piercer Latent Awakening upon fusion with an eligible base monster (uses 6 slots)
+KR: 강화합성 소재로 사용 시 속성 흡수 관통의 잠재 각성 스킬 부여 ※6칸 사용
 
 # 16619/138 - Treasure of the Holy Lake
 Tags: ENHANCED_HP_ATK_RCV
@@ -70289,11 +70289,11 @@ KR: increase combo by 3 when matching Fire and Wood at once
 
 # 16674/138 - Hado 90 - Kuro Hitsugi
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
-Stats: [1.0, 21.0, 1.0, 0.25]
-Game: 6x ATK for Water Att., inflicts 1,000,000 damage with 3+ Water combos; 3.5x ATK & reduces damage with 5+ combos
-JP: 水属性の攻撃力が6倍。水の3コンボ以上で固定1000000ダメージ。5コンボ以上で攻撃力が3.5倍、受けるダメージを25％減少。
-EN: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
-KR: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 3.5x ATK and reduce damage taken by 25% when 5 or more combos
+Stats: [1.0, 24.0, 1.0, 0.25]
+Game: 6x ATK for Water Att., inflicts 1,000,000 damage with 3+ Water combos; 4x ATK & reduces damage with 5+ combos
+JP: 水属性の攻撃力が6倍。水の3コンボ以上で固定1000000ダメージ。5コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
+EN: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 4x ATK and reduce damage taken by 25% when 5 or more combos
+KR: 6x ATK for Water Att.; 1000000 additional damage when matching 3 or more Water combos; 4x ATK and reduce damage taken by 25% when 5 or more combos
 
 # 16675/129 - 
 Tags: ENHANCED_ATK
@@ -70313,11 +70313,11 @@ KR: 1000000 additional damage when matching 3 or more Water combos
 
 # 16677/169 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 3.5, 1, 0.25]
+Stats: [1, 4.0, 1, 0.25]
 Game: 
-JP: 5コンボ以上で攻撃力が3.5倍、受けるダメージを25％減少。
-EN: 3.5x ATK and reduce damage taken by 25% when 5 or more combos
-KR: 3.5x ATK and reduce damage taken by 25% when 5 or more combos
+JP: 5コンボ以上で攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and reduce damage taken by 25% when 5 or more combos
+KR: 4x ATK and reduce damage taken by 25% when 5 or more combos
 
 # 16694/138 - ...So I won't hold back.
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME,EXTRA_COMBOS
@@ -70991,10 +70991,10 @@ JP: 回復を5個以上つなげて消すと受けるダメージを35％減少�
 EN: Reduce damage taken by 35% when matching 5 or more connected Heal orbs
 KR: Reduce damage taken by 35% when matching 5 or more connected Heal orbs
 
-# 16844/138 - 予見魔の真魂
+# 16844/138 - True Spirit of the Archdemon
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 18.0, 2.0, 0]
-Game: 転生、超転生進化のみでチームを組むと、全パラメータが2倍。 木か闇を6個以上つなげて消すと攻撃力が9倍、固定1ダメージ。
+Game: 2x to all stats when all monsters are Reinc. or Super Reinc.; 9x ATK & 1 dmg with 6+ linked Wood or Dark Orbs
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが2倍。木か闇を6個以上つなげて消すと攻撃力が9倍。木か闇を6個以上つなげて消しと固定1ダメージ。
 EN: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK when matching 6 or more connected Wood or Dark orbs; 1 additional damage when matching 6 or more Wood or Dark orbs
 KR: 2x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK when matching 6 or more connected Wood or Dark orbs; 1 additional damage when matching 6 or more Wood or Dark orbs
@@ -71023,10 +71023,10 @@ JP: 木か闇を6個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 6 or more Wood or Dark orbs
 KR: 1 additional damage when matching 6 or more Wood or Dark orbs
 
-# 16848/138 - 青龍神の真魂
+# 16848/138 - True Spirit of the Seiryuu
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [1, 17.5, 1.0, 0.35]
-Game: HP50％以上でダメージを軽減、攻撃力が5倍。 水木闇の同時攻撃で攻撃力が3.5倍、固定1ダメージ。
+Game: 5x ATK & reduces damage when HP is 50% or more; 3.5x ATK & 1 dmg when Water, Wood & Dark attack at once
 JP: HPが50%以上で攻撃力が5倍、受けるダメージを35％減少。水、木、闇同時攻撃で攻撃力が3.5倍。水、木、闇同時攻撃、固定1ダメージ。
 EN: 5x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching Water, Wood, and Dark at once; 1 additional damage when matching Water, Wood, and Dark at once
 KR: 5x ATK and reduce damage taken by 35% when above 50% HP; 3.5x ATK when matching Water, Wood, and Dark at once; 1 additional damage when matching Water, Wood, and Dark at once
@@ -71055,10 +71055,10 @@ JP: 水、木、闇同時攻撃、固定1ダメージ。
 EN: 1 additional damage when matching Water, Wood, and Dark at once
 KR: 1 additional damage when matching Water, Wood, and Dark at once
 
-# 16852/138 - 商業神の真魂
+# 16852/138 - True Spirit of the Commerce Deity
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,EXTRA_COMBOS
 Stats: [2.0, 15.0, 1.0, 0, +2]
-Game: 水属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 水の2コンボ以上で攻撃力が7.5倍、2コンボ加算。
+Game: 2x HP & ATK for Water Att., Orb move time +2 seconds; 7.5x ATK & adds 2 combos with 2+ Water combos
 JP: 水属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。水の2コンボ以上で攻撃力が7.5倍。2コンボ以上で2コンボ加算
 EN: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7.5x ATK when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
 KR: 2x HP & ATK for Water Att.; Increase orb movement time by 2 seconds; 7.5x ATK when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
@@ -71143,10 +71143,10 @@ JP: 闇を7個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 7 or more Dark orbs
 KR: 1 additional damage when matching 7 or more Dark orbs
 
-# 16869/138 - 冷血の炎眼
+# 16869/138 - Cold-Blooded Eyes of Flame
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 15.0, 1.0, 0.0]
-Game: 悪魔タイプのHPが2倍、攻撃力は5倍。 火の2コンボ以上で攻撃力が3倍、3コンボ以上で固定1ダメージ。
+Game: 2x HP & 5x ATK for Devil Type; 3x ATK with 2+ Fire combos, inflicts 1 damage with 3+ combos
 JP: 悪魔タイプの攻撃力が5倍、HPが2倍。火の2コンボ以上で攻撃力が3倍。火の3コンボ以上で固定1ダメージ。
 EN: 5x ATK and 2x HP for Devil type; 3x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos
 KR: 5x ATK and 2x HP for Devil type; 3x ATK when matching 2+ Fire combos; 1 additional damage when matching 3 or more Fire combos
@@ -71175,10 +71175,10 @@ JP: 火の3コンボ以上で固定1ダメージ。
 EN: 1 additional damage when matching 3 or more Fire combos
 KR: 1 additional damage when matching 3 or more Fire combos
 
-# 16876/138 - 赤炎の龍牙
+# 16876/138 - Dragonfangs of Red Flame
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,BOARD_CHANGE_7X6,NO_SKYFALL_COMBOS
 Stats: [1.0, 20.0, 1.0, 0.25]
-Game: 【7×6マス／落ちコンなし】8コンボ以上でダメージを軽減。 火水木光を同時に4個以上つなげて消すと、攻撃力が20倍。
+Game: [7x6 board, No Skyfall Combos], reduces dmg with 8+ combos; 20x ATK with 4+ linked Fr, Wt, Wd & Lt Orbs at once
 JP: 【7×6マス】【落ちコンなし】8コンボ以上で受けるダメージを25％減少。火、水、木、光を4個以上同時につなげて消しと攻撃力が20倍、0コンボ加算。
 EN: [Board becomes 7x6][No skyfall] Reduce damage taken by 25% when 8 or more combos; 20x ATK and increase combo by 0 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once
 KR: [Board becomes 7x6][No skyfall] Reduce damage taken by 25% when 8 or more combos; 20x ATK and increase combo by 0 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once
@@ -72270,4 +72270,252 @@ Game:
 JP: 木を5個以上つなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 5 or more connected Wood orbs at once
 KR: Increase combo by 2 when matching 5 or more connected Wood orbs at once
+
+# 17203/138 - 赤氷鬼の根性
+Tags: ENHANCED_ATK,RESOLVE
+Stats: [1.0, 9.0, 1.0, 0]
+Game: ドット進化のみでチームを組むと、攻撃力が9倍。 HPが0になる攻撃を受けてもふんばることがある。
+JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
+EN: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
+KR: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
+
+# 17204/203 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 9.0, 1.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。
+EN: 9x ATK when all cards are Pixel Evolutions
+KR: 9x ATK when all cards are Pixel Evolutions
+
+# 17205/14 - 
+Tags: RESOLVE
+Stats: [1, 1, 1, 0]
+Game: 
+JP: HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
+EN: May survive when HP is reduced to 0 (HP>50%)
+KR: May survive when HP is reduced to 0 (HP>50%)
+
+# 17210/138 - 緑炎鬼の根性
+Tags: ENHANCED_ATK,RESOLVE
+Stats: [1.0, 9.0, 1.0, 0]
+Game: ドット進化のみでチームを組むと、攻撃力が9倍。 HPが0になる攻撃を受けてもふんばることがある。
+JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
+EN: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
+KR: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
+
+# 17211/203 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 9.0, 1.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。
+EN: 9x ATK when all cards are Pixel Evolutions
+KR: 9x ATK when all cards are Pixel Evolutions
+
+# 17212/14 - 
+Tags: RESOLVE
+Stats: [1, 1, 1, 0]
+Game: 
+JP: HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
+EN: May survive when HP is reduced to 0 (HP>50%)
+KR: May survive when HP is reduced to 0 (HP>50%)
+
+# 17216/138 - 火山龍の先達
+Tags: ENHANCED_HP_ATK,EXP
+Stats: [2.0, 10.0, 1.0, 0]
+Game: ドット進化のみでチームを組むと、HPが2倍、攻撃力は10倍。 ダンジョン潜入時リーダーの時にランク経験値が1.5倍。
+JP: ドット進化キャラのみでチームを組むと、攻撃力が10倍、HPが2倍。ランク経験値ｘ1.5倍。
+EN: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
+KR: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
+
+# 17217/203 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 10.0, 1.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、攻撃力が10倍、HPが2倍。
+EN: 10x ATK and 2x HP when all cards are Pixel Evolutions
+KR: 10x ATK and 2x HP when all cards are Pixel Evolutions
+
+# 17218/148 - 
+Tags: EXP
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ランク経験値ｘ1.5倍。
+EN: 1.5x Rank EXP
+KR: 1.5x Rank EXP
+
+# 17223/138 - 薔薇の使命
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 16.0, 2.0, 0.0, +1]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 回復タイプの攻撃力が8倍。3色以上同時攻撃で1コンボ加算。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。回復タイプの攻撃力が8倍。3色以上同時攻撃で1コンボ加算。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK for Healer type; increase combo by 1 when matching 3 or more colors
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK for Healer type; increase combo by 1 when matching 3 or more colors
+
+# 17224/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 17225/129 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 8.0, 1.0, 0.0]
+Game: 
+JP: 回復タイプの攻撃力が8倍。
+EN: 8x ATK for Healer type
+KR: 8x ATK for Healer type
+
+# 17226/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 3色以上同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching 3 or more colors
+KR: increase combo by 1 when matching 3 or more colors
+
+# 17231/138 - 蒼翔の使命
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 水の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。水の2コンボ以上で攻撃力が8倍。水の2コンボ以上で固定500000ダメージ。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
+
+# 17232/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 17233/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 水の2コンボ以上で攻撃力が8倍。
+EN: 8x ATK when matching 2+ Water combos
+KR: 8x ATK when matching 2+ Water combos
+
+# 17234/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 水の2コンボ以上で固定500000ダメージ。
+EN: 500000 additional damage when matching 2 or more Water combos
+KR: 500000 additional damage when matching 2 or more Water combos
+
+# 17239/138 - 黒翼の使命
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 闇の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。闇の2コンボ以上で攻撃力が8倍。闇の2コンボ以上で固定500000ダメージ。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Dark combos; 500000 additional damage when matching 2 or more Dark combos
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Dark combos; 500000 additional damage when matching 2 or more Dark combos
+
+# 17240/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 17241/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が8倍。
+EN: 8x ATK when matching 2+ Dark combos
+KR: 8x ATK when matching 2+ Dark combos
+
+# 17242/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で固定500000ダメージ。
+EN: 500000 additional damage when matching 2 or more Dark combos
+KR: 500000 additional damage when matching 2 or more Dark combos
+
+# 17247/138 - 凰華の使命
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 火の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。火の2コンボ以上で攻撃力が8倍。火の2コンボ以上で固定500000ダメージ。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Fire combos; 500000 additional damage when matching 2 or more Fire combos
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Fire combos; 500000 additional damage when matching 2 or more Fire combos
+
+# 17248/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 17249/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 火の2コンボ以上で攻撃力が8倍。
+EN: 8x ATK when matching 2+ Fire combos
+KR: 8x ATK when matching 2+ Fire combos
+
+# 17250/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火の2コンボ以上で固定500000ダメージ。
+EN: 500000 additional damage when matching 2 or more Fire combos
+KR: 500000 additional damage when matching 2 or more Fire combos
+
+# 17255/138 - 茨戒の使命
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 木の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。木の2コンボ以上で攻撃力が8倍。木の2コンボ以上で固定500000ダメージ。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Wood combos; 500000 additional damage when matching 2 or more Wood combos
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Wood combos; 500000 additional damage when matching 2 or more Wood combos
+
+# 17256/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 17257/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 木の2コンボ以上で攻撃力が8倍。
+EN: 8x ATK when matching 2+ Wood combos
+KR: 8x ATK when matching 2+ Wood combos
+
+# 17258/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 木の2コンボ以上で固定500000ダメージ。
+EN: 500000 additional damage when matching 2 or more Wood combos
+KR: 500000 additional damage when matching 2 or more Wood combos
+
+# 17348/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Water combos
+KR: Increase combo by 1 when matching 2 or more Water combos
+
+# 17349/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火の2コンボ以上で固定100000ダメージ。
+EN: 100000 additional damage when matching 2 or more Fire combos
+KR: 100000 additional damage when matching 2 or more Fire combos
 

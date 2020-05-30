@@ -1,0 +1,20 @@
+#6229 ドット・麗乙女・プリンセスヴァルキリー
+HP: 3208 ATK: 1439 RCV: 886 LB: 15
+AWK: 52,21,28,53,48,43,36,36,36
+SAWK: 53,68,56
+
+# 17227/116 - ブレイブフェザー・水
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを水ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを水ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Water orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Water orbs
+
+# 17231/138 - 蒼翔の使命
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 水の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。水の2コンボ以上で攻撃力が8倍。水の2コンボ以上で固定500000ダメージ。
+EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
+KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
+

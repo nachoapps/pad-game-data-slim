@@ -820,37 +820,37 @@ KR: Change Light orbs to Heal orbs
 # 163/42 - Flame Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Fire damage attack on Wood Att. enemies
-JP: 木属性の敵に火属性の35000ダメージ
-EN: Deal 35000 Fire damage to all Wood Att. enemies
-KR: Deal 35000 Fire damage to all Wood Att. enemies
+JP: 木属性の敵に火属性の100000ダメージ
+EN: Deal 100000 Fire damage to all Wood Att. enemies
+KR: Deal 100000 Fire damage to all Wood Att. enemies
 
 # 164/42 - Freeze Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Water damage attack on Fire Att. enemies
-JP: 火属性の敵に水属性の35000ダメージ
-EN: Deal 35000 Water damage to all Fire Att. enemies
-KR: Deal 35000 Water damage to all Fire Att. enemies
+JP: 火属性の敵に水属性の100000ダメージ
+EN: Deal 100000 Water damage to all Fire Att. enemies
+KR: Deal 100000 Water damage to all Fire Att. enemies
 
 # 165/42 - Rock Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Wood damage attack on Water Att. enemies
-JP: 水属性の敵に木属性の35000ダメージ
-EN: Deal 35000 Wood damage to all Water Att. enemies
-KR: Deal 35000 Wood damage to all Water Att. enemies
+JP: 水属性の敵に木属性の100000ダメージ
+EN: Deal 100000 Wood damage to all Water Att. enemies
+KR: Deal 100000 Wood damage to all Water Att. enemies
 
 # 166/42 - Thunder Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Light damage attack on Dark Att. enemies
-JP: 闇属性の敵に光属性の35000ダメージ
-EN: Deal 35000 Light damage to all Dark Att. enemies
-KR: Deal 35000 Light damage to all Dark Att. enemies
+JP: 闇属性の敵に光属性の100000ダメージ
+EN: Deal 100000 Light damage to all Dark Att. enemies
+KR: Deal 100000 Light damage to all Dark Att. enemies
 
 # 167/42 - Dark Strike
 Tags: ATTRIBUTE_ATTACK
 Game: Inflicts 35,000 Dark damage attack on Light Att. enemies
-JP: 光属性の敵に闇属性の35000ダメージ
-EN: Deal 35000 Dark damage to all Light Att. enemies
-KR: Deal 35000 Dark damage to all Light Att. enemies
+JP: 光属性の敵に闇属性の100000ダメージ
+EN: Deal 100000 Dark damage to all Light Att. enemies
+KR: Deal 100000 Dark damage to all Light Att. enemies
 
 # 168/116 - Gungnir
 Tags: SINGLE_TARGET_ATTACK,ATTACK_AND_HEAL,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -25958,7 +25958,7 @@ KR: For 3 turns, Light and Jammer orbs are more likely to appear by 15%
 
 # 10617/116 - Fragile Aurora​
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
-Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 1 turn
+Game: Removes Orb locks, changes Orbs to all Attributes & Heal; voids damage absorption & Attribute absorption for 2 turns
 JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。2ターンの間、ダメージ吸収と属性吸収を無効化する
 EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
 KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 2 turns, bypass damage absorb shield and att. absorb shield effects
@@ -36773,7 +36773,7 @@ KR: Change Jammer, Poison, Mortal Poison, and Bomb orbs to Light orbs
 
 # 14151/116 - Snake Princess's Dragon Roar
 Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
-Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes & Heal
+Game: Pierce through enemy's damage void for 2 turns; changes Orbs to all Attributes & Heal
 JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -43421,14 +43421,14 @@ JP: 1ターンの間、ドロップ操作時間が2倍
 EN: For 1 turn, 2x orb move time
 KR: For 1 turn, 2x orb move time
 
-# 16075/116 - あまねく光る心星
+# 16075/116 - Stellar Incandescence
 Tags: REDUCE_DAMAGE,ALL_ORBS_CONVERT
-Game: 全ドロップを水、光、闇ドロップに変化。 3ターンの間、受けるダメージを軽減。
+Game: Changes all Orbs to Water, Light & Dark Orbs; reduces damage for 3 turns
 JP: 全ドロップを水、光、闇ドロップに変化。3ターンの間、受けるダメージを35％減少
 EN: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
 KR: Change all orbs to Water, Light, and Dark orbs; For 3 turns, reduce damage taken by 35%
 
-# 16076/172 - 
+# 16076/172 - Purification of Celestial Phenomena
 Tags: REMOVE_LOCK
 Game: 
 JP: 全ドロップのロック状態を解除
@@ -45948,9 +45948,9 @@ JP: 1ターンの間、ドロップ操作時間が1.5倍
 EN: For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x orb move time
 
-# 16866/116 - レイジングヒート
+# 16866/116 - Raging Heat
 Tags: AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を全回復。 8ターンの間、火と水ドロップがロック状態で落ちてくる。
+Game: Fully recovers Awoken Skill bind status; Fire & Water Orbs locked as they appear for 8 turns
 JP: 覚醒無効を全回復。8ターンの間、火と水ドロップがロック状態で落ちてくる
 EN: Remove all awoken skill binds; For 8 turns, Fire and Water orbs appear locked
 KR: Remove all awoken skill binds; For 8 turns, Fire and Water orbs appear locked
@@ -45969,9 +45969,9 @@ JP: 8ターンの間、火と水ドロップがロック状態で落ちてくる
 EN: For 8 turns, Fire and Water orbs appear locked
 KR: For 8 turns, Fire and Water orbs appear locked
 
-# 16873/116 - フレイムスプリント
+# 16873/116 - Flame Sprint
 Tags: REDUCE_SKILL_TURN,VOID_ATT_ABSORBS
-Game: 1ターンの間、属性吸収を無効化する。 自分以外の味方スキルが2ターン溜まる。
+Game: Voids Attribute absorption for 1 turn; other allies' skills charged by 2 turns
 JP: 1ターンの間、属性吸収を無効化する。自分以外の味方スキルが2ターンの溜まる
 EN: For 1 turn, bypass att. absorb shield effects; Charge all allies' skills by 2 turns
 KR: For 1 turn, bypass att. absorb shield effects; Charge all allies' skills by 2 turns
@@ -47298,4 +47298,172 @@ Game:
 JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
+
+# 17213/116 - メテオゾーン
+Tags: ORB_CONVERT,EXTENDS_TIME,AWOKEN_INVALID_RECOVERY
+Game: 覚醒無効状態を全回復。闇ドロップを火ドロップに変化。 1ターンの間、ドロップ操作を2秒延長。
+JP: 覚醒無効を全回復。闇ドロップを火ドロップに変化。1ターンの間、ドロップ操作時間が2秒に延長
+EN: Remove all awoken skill binds; Change Dark orbs to Fire orbs; For 1 turn, increase orb move time by 2 seconds
+KR: Remove all awoken skill binds; Change Dark orbs to Fire orbs; For 1 turn, increase orb move time by 2 seconds
+
+# 17214/117 - 
+Tags: AWOKEN_INVALID_RECOVERY
+Game: 
+JP: 覚醒無効を全回復
+EN: Remove all awoken skill binds
+KR: Remove all awoken skill binds
+
+# 17215/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が2秒に延長
+EN: For 1 turn, increase orb move time by 2 seconds
+KR: For 1 turn, increase orb move time by 2 seconds
+
+# 17219/116 - ブレイブフェザー・光
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを光ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを光ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Light orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Light orbs
+
+# 17220/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 17221/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17222/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 回復ドロップを光ドロップに変化
+EN: Change Heal orbs to Light orbs
+KR: Change Heal orbs to Light orbs
+
+# 17227/116 - ブレイブフェザー・水
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを水ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを水ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Water orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Water orbs
+
+# 17228/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 17229/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17230/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 回復ドロップを水ドロップに変化
+EN: Change Heal orbs to Water orbs
+KR: Change Heal orbs to Water orbs
+
+# 17235/116 - ブレイブフェザー・闇
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを闇ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを闇ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Dark orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Dark orbs
+
+# 17236/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 17237/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17238/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 回復ドロップを闇ドロップに変化
+EN: Change Heal orbs to Dark orbs
+KR: Change Heal orbs to Dark orbs
+
+# 17243/116 - ブレイブフェザー・火
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを火ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを火ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Fire orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Fire orbs
+
+# 17244/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 17245/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17246/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 回復ドロップを火ドロップに変化
+EN: Change Heal orbs to Fire orbs
+KR: Change Heal orbs to Fire orbs
+
+# 17251/116 - ブレイブフェザー・木
+Tags: ATTACK_STANCE,ORB_CONVERT,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンしなくなる。 回復ドロップを木ドロップに変化。
+JP: 2ターンの間、落ちコンしなくなる。回復ドロップを木ドロップに変化
+EN: For 2 turns, no skyfall; Change Heal orbs to Wood orbs
+KR: For 2 turns, no skyfall; Change Heal orbs to Wood orbs
+
+# 17252/160 - 
+Tags: ADD_COMBO
+Game: 
+JP: 1ターンの間、1コンボ加算される
+EN: For 1 turn, increase combo count by 1
+KR: For 1 turn, increase combo count by 1
+
+# 17253/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17254/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 回復ドロップを木ドロップに変化
+EN: Change Heal orbs to Wood orbs
+KR: Change Heal orbs to Wood orbs
+
+# 17350/154 - 
+Tags: ORB_CONVERT
+Game: 
+JP: 闇ドロップを火ドロップに変化
+EN: Change Dark orbs to Fire orbs
+KR: Change Dark orbs to Fire orbs
 
