@@ -2539,9 +2539,9 @@ EN: Change a random attribute to Water orbs
 KR: Change a random attribute to Water orbs
 
 # 508/55 - Benevolent Star of Happiness
-JP: プレイヤーのHPが50％回復
-EN: Player recover 50% HP
-KR: Player recover 50% HP
+JP: 50%HP以下でプレイヤーのHPが50％回復
+EN: Player recover 50% HP when below 50% HP
+KR: Player recover 50% HP when below 50% HP
 
 # 509/50 - Malevolent Star of Disaster
 JP: 現HPの50%のダメージ
@@ -83908,9 +83908,9 @@ EN: Spawn 12 random locked Bomb orbs
 KR: Spawn 12 random locked Bomb orbs
 
 # 16774/55 - Oski
-JP: プレイヤーのHPが25％回復
-EN: Player recover 25% HP
-KR: Player recover 25% HP
+JP: 25%HP以下でプレイヤーのHPが25％回復
+EN: Player recover 25% HP when below 25% HP
+KR: Player recover 25% HP when below 25% HP
 
 # 16775/88 - Bring about Ragnarok
 JP: 99ターンの間、覚醒スキル無効化
