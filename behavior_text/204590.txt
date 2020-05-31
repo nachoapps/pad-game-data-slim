@@ -1,0 +1,21 @@
+#204590 - 式典の巫女・サファイアカーバンクル
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 204590
+approved: False
+
+level: 4
+ type: PREEMPT
+ | condition: 50% chance
+ | (10445:76) 参進の儀
+ | Change the 4th column to Water and Heal orbs
+ | (10444:76) 参進の儀
+ | Change the 3rd column to Water and Heal orbs
+ group:
+ | condition: 50% chance
+ | (10443:39) 神酔の酒
+ | Movetime -2s for 1 turn
+ | (10442:92) 水呼
+ | Spawn 1 random Water orb, Deal 100% damage

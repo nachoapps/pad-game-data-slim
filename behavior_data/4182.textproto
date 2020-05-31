@@ -2,10 +2,18 @@
   levels {
     level: 1
     groups {
+      group_type: PASSIVE
+      children {
+        behavior {
+          enemy_skill_id: 17914
+        }
+      }
+    }
+    groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 17847
+          enemy_skill_id: 17906
         }
       }
     }
@@ -15,8 +23,47 @@
         hp_threshold: 100
       }
       children {
+        group {
+          condition {
+            trigger_turn: 1
+            trigger_turn_end: 9
+          }
+          children {
+            behavior {
+              enemy_skill_id: 17911
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 10
+          }
+          children {
+            behavior {
+              enemy_skill_id: 17913
+            }
+          }
+        }
+      }
+      children {
+        group {
+          children {
+            behavior {
+              enemy_skill_id: 17915
+            }
+          }
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
         behavior {
-          enemy_skill_id: 17847
+          condition {
+          }
+          enemy_skill_id: 17912
         }
       }
     }

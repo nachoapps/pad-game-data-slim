@@ -1,0 +1,18 @@
+#204591 - 祝福のゲスト・風の小鬼
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 204591
+approved: False
+
+level: 4
+ group:
+ | group:
+ | condition: execute repeatedly, turn 1 of 5
+   | (10441:68) フラワーシャワー
+   | Wood and Heal skyfall +20% for 5 turns
+ | group:
+ | condition: execute repeatedly, turn 2-5 of 5
+   | (10440:15) 小鬼パンチ
+   | Deal 120% damage (2 hits, 60% each)

@@ -7,9 +7,24 @@ monster_id: 4182
 approved: False
 
 level: 1
+ type: PASSIVE
+ | (17914:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (17847:110) ラウンドトリップ
- | Specific orbs change every 1.0s for 2 turns
+ | (17906:83) 我を打ち破れるか？ + 腕に覚えがあるようだな… + これで戦って見せろ + その力を変えることは許さんぞ
+ | Voids status ailments for 10 turns + Void damage >= 20000000 for 999 turns + ATK -99% for 10 turns + Delay active skills by 99 turns
  group:
- | (17847:110) ラウンドトリップ
- | Specific orbs change every 1.0s for 2 turns
+ | group:
+ | condition: turns 1-9
+   | (17911:130) 小賢しい！
+   | ATK -99% for 10 turns, Deal 10000% damage
+ | group:
+ | condition: turn 10
+   | (17913:15) 精進するがいい
+   | Deal 10000% damage (10 hits, 1000% each)
+ | group:
+   | (17915:83) 転換の法衣 + 精進するがいい
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 10000% damage (10 hits, 1000% each), Deal 10000% damage (10 hits, 1000% each)
+ type: UNKNOWN_USE
+ | (17912:66) …
+ | Do nothing
