@@ -30,28 +30,28 @@ Branch on counter >= 1, target rnd 18
 #6: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 8)
 	[0] ESRecoverPlayer(55:16774) -> Oski
-	Player recover 25% HP
+	Player recover 25% HP when below 25% HP
 	[1] ESBlindStickyRandom(97:16770) -> Blindr
 	Blind random 15 orbs for 4 turns, Deal 80% damage
 
 #7: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 4)
 	[0] ESRecoverPlayer(55:16774) -> Oski
-	Player recover 25% HP
+	Player recover 25% HP when below 25% HP
 	[1] ESCloud(104:16771) -> Fjolnir
 	A row of clouds appears for 3 turns at 3rd row, 1st column, Deal 70% damage
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
 	[0] ESRecoverPlayer(55:16774) -> Oski
-	Player recover 25% HP
+	Player recover 25% HP when below 25% HP
 	[1] ESOrbSealColumn(99:16772) -> Bileyg
 	Seal the 6th column for 2 turns, Deal 80% damage
 
 #9: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
 	[0] ESRecoverPlayer(55:16774) -> Oski
-	Player recover 25% HP
+	Player recover 25% HP when below 25% HP
 	[1] ESBombRandomSpawn(102:16773) -> Baleyg
 	Spawn 12 random locked Bomb orbs
 

@@ -18,19 +18,19 @@ level: 1
    | group:
    | condition: turn 1 while HP > 49
      | (16766:83) Oski + Blindr
-     | Player recover 25% HP + Blind random 15 orbs for 4 turns, Deal 80% damage
+     | Player recover 25% HP when below 25% HP + Blind random 15 orbs for 4 turns, Deal 80% damage
    | group:
    | condition: turn 2 while HP > 49
      | (16767:83) Oski + Fjolnir
-     | Player recover 25% HP + A row of clouds appears for 3 turns at 3rd row, 1st column, Deal 70% damage
+     | Player recover 25% HP when below 25% HP + A row of clouds appears for 3 turns at 3rd row, 1st column, Deal 70% damage
    | group:
    | condition: turn 3 while HP > 49
      | (16768:83) Oski + Bileyg
-     | Player recover 25% HP + Seal the 6th column for 2 turns, Deal 80% damage
+     | Player recover 25% HP when below 25% HP + Seal the 6th column for 2 turns, Deal 80% damage
    | group:
    | condition: turn 4 while HP > 49
      | (16769:83) Oski + Baleyg
-     | Player recover 25% HP + Spawn 12 random locked Bomb orbs
+     | Player recover 25% HP when below 25% HP + Spawn 12 random locked Bomb orbs
    | group:
    | condition: turn 5 while HP > 49
      | (16775:88) Bring about Ragnarok
