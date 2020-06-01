@@ -35,3 +35,40 @@
       }
     }
   }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 4
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 4710
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 4
+            trigger_turn: 2
+            trigger_turn_end: 4
+          }
+          children {
+            behavior {
+              enemy_skill_id: 4711
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS
