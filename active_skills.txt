@@ -47677,3 +47677,24 @@ JP: 2ターンの間、ドロップ操作時間が1秒に延長
 EN: For 2 turns, increase orb move time by 1 second
 KR: For 2 turns, increase orb move time by 1 second
 
+# 17402/116 - オイラもまぜてもらおっと！
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_MATCH_RESTRICTION
+Game: 闇ドロップを木に、光ドロップを火に変化。 消せないドロップ状態を5ターン回復。
+JP: 闇ドロップを木ドロップに、光ドロップを火ドロップに変化。消せないドロップ状態を5ターン回復
+EN: Change Dark orbs to Wood orbs; Change Light orbs to Fire orbs; Reduce unable to match orbs effect by 5 turns
+KR: Change Dark orbs to Wood orbs; Change Light orbs to Fire orbs; Reduce unable to match orbs effect by 5 turns
+
+# 17403/20 - 
+Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: 
+JP: 闇ドロップを木ドロップに、光ドロップを火ドロップに変化
+EN: Change Dark orbs to Wood orbs; Change Light orbs to Fire orbs
+KR: Change Dark orbs to Wood orbs; Change Light orbs to Fire orbs
+
+# 17404/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を5ターン回復
+EN: Reduce unable to match orbs effect by 5 turns
+KR: Reduce unable to match orbs effect by 5 turns
+

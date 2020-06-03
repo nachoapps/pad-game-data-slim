@@ -73015,3 +73015,35 @@ JP: 木か闇の同時攻擊で2コンボ加算
 EN: Increase combo by 2 when matching Wood and Dark
 KR: Increase combo by 2 when matching Wood and Dark
 
+# 17405/138 - タヤスじゃなくて田増ですよ
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 15.0, 1.0, 0.0]
+Game: 火と木属性のHPが2倍、攻撃力は5倍。 木火の同時攻撃で攻撃力が3倍、固定1ダメージ。
+JP: 火と木属性の攻撃力が5倍、HPが2倍。木、火の同時攻撃で攻撃力が3倍。火木同時攻撃で固定1ダメージ。
+EN: 5x ATK and 2x HP for Fire and Wood Att.; 3x ATK when matching Wood and Fire; 1 additional damage when matching Fire and Wood
+KR: 5x ATK and 2x HP for Fire and Wood Att.; 3x ATK when matching Wood and Fire; 1 additional damage when matching Fire and Wood
+
+# 17406/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 5.0, 1.0, 0.0]
+Game: 
+JP: 火と木属性の攻撃力が5倍、HPが2倍。
+EN: 5x ATK and 2x HP for Fire and Wood Att.
+KR: 5x ATK and 2x HP for Fire and Wood Att.
+
+# 17407/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: 木、火の同時攻撃で攻撃力が3倍。
+EN: 3x ATK when matching Wood and Fire
+KR: 3x ATK when matching Wood and Fire
+
+# 17408/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火木同時攻撃で固定1ダメージ。
+EN: 1 additional damage when matching Fire and Wood
+KR: 1 additional damage when matching Fire and Wood
+
