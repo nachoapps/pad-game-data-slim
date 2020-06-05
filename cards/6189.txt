@@ -5,7 +5,7 @@ SAWK:
 
 # 16980/116 - ぶつよ
 Tags: ADD_COMBO
-Game: 1ターンの間、2コンボ加算される。3×3の正方形に 光ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
+Game: 1ターンの間、2コンボ加算。3×3の正方形に 光ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
 JP: 1ターンの間、2コンボ加算される。下から2行目と左から2列目の中心に正方形の光ドロップを1つ生成
 EN: For 1 turn, increase combo count by 2; Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 KR: For 1 turn, increase combo count by 2; Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
