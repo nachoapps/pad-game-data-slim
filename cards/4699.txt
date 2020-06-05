@@ -5,7 +5,7 @@ SAWK: 43,48,21
 
 # 11277/116 - Heart of the Warrior
 Tags: ENHANCED_ATTACK,ATTACK_STANCE,ORB_CONVERT,ENHANCED_HEAL
-Game: 3x ATK for Water & Light Att. for 1 turn; changes Jammers, Poison & Heal Orbs to Light Orbs
+Game: 3x ATK for Water & Light Att. and 3x RCV for 1 turn; changes Jammers, Poison & Heal Orbs to Light Orbs
 JP: 1ターンの間、回復力が3倍。1ターンの間、水と光属性の攻撃力が3倍。回復、お邪魔、毒、猛毒ドロップを光ドロップに変化
 EN: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Light Att.; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
@@ -13,7 +13,7 @@ KR: For 1 turn, 3x RCV; For 1 turn, 3x ATK for Water and Light Att.; Change Heal
 # 11281/138 - You're no match for me.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 16.0, 1, 0.5]
-Game: 2x ATK & reduces damage when attacking with 4+ Att.; ATK increases with 4+ combos, up to 8x
+Game: 2x ATK & halves damage when 4+ Att. attack at once; ATK increases with 4+ combos, up to 8x
 JP: 4コンボ以上で攻撃力が4倍、最大8コンボで8倍。4色以上同時攻撃で攻撃力が2倍、受けるダメージを50％減少。
 EN: 4x ATK when 4 or more combos up to 8x at 8 combos; 2x ATK and reduce damage taken by 50% when matching 4 or more colors
 KR: 4x ATK when 4 or more combos up to 8x at 8 combos; 2x ATK and reduce damage taken by 50% when matching 4 or more colors

@@ -1,19 +1,19 @@
-#6163 幻惑の獣神・ツクヨミ【ダークカラー】
+#6163 Dazzling Beast Goddess, Tsukuyomi (Dark Color)
 HP: 3908 ATK: 2780 RCV: 187 LB: 25
 AWK: 52,56,23,23,23,62,48,48,48
 SAWK: 43,53,60
 
-# 16897/116 - 屠れ、新月
+# 16897/116 - It's a Killing Moon
 Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
-Game: 1ターンの間、回復力が0になり、ドロップ操作が2秒短縮。 最上段横1列を水ドロップに変化。
+Game: Voids RCV & Orb move time -2 seconds for 1 turn; changes the top row to Water Orbs
 JP: 1ターンの間、回復力が0倍。1ターンの間、ドロップ操作時間が-2秒に延長。最上段を水ドロップに変化
 EN: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Water orbs
 KR: For 1 turn, 0x RCV; For 1 turn, increase orb move time by -2 seconds; Change the top row to Water orbs
 
-# 16901/138 - 散るがよい
+# 16901/138 - Vanish.
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 20.0, 2.0, 0.0]
-Game: 水属性の全パラメータが2倍。 水を6個以上つなげて消すと攻撃力が上昇、最大10倍。
+Game: 2x to all stats for Water Att.; ATK increases with 6+ linked Water Orbs, up to 10x
 JP: 水属性の全パラメータが2倍。水を6個以上つなげて消すと攻撃力が7倍、最大9個で10倍。
 EN: 2x all stats for Water Att.; 7x ATK when matching 6 or more connected Water orbs up to 10x at 9 orbs
 KR: 2x all stats for Water Att.; 7x ATK when matching 6 or more connected Water orbs up to 10x at 9 orbs
