@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17545:130) スコーピオンレジスト
+ | (17545:130) Scorpion Resistance
  | ATK -50% for 5 turns
  group:
- | (17544:74) 護隼の大盾
+ | (17544:74) Falcon Guardian's Shield
  | Reduce damage from all sources by 20% for 1 turn, Deal 100% damage

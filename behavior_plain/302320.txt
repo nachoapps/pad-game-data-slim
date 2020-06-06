@@ -1,4 +1,4 @@
-#302320 - 覚醒ヨルズ
+#302320 - Awoken Jord
 monster size: 5
 new AI: True
 start/max counter: 5
@@ -13,7 +13,7 @@ Branch on flag & 1, target rnd 6
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: ESSkillDelay(89:3183) -> アース神族の誇り
+#4: ESSkillDelay(89:3183) -> Pride of the Aesir
 Condition: One-time use (ai:100 rnd:0) (cost: 5)
 Delay active skills by 2 turns
 
@@ -29,26 +29,26 @@ Branch on player_cards HAS [1347], target rnd 24
 #8: ESBranchCard(90:3190) -> ESBranchCard
 Branch on player_cards HAS [374, 375, 655], target rnd 20
 
-#9: ESAttackMultihit(15:3189) -> 大地神の怒り
+#9: ESAttackMultihit(15:3189) -> Earth God's Rage
 Condition: One-time use (ai:100 rnd:0) (cost: 5)
 Deal 300% damage (2 hits, 150% each)
 
 #10: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 28
 
-#11: ESOrbLock(94:3184) -> 地砕の雷槌
+#11: ESOrbLock(94:3184) -> Earth-Shattering Thunder Hammer
 Condition: 10% chance (ai:0 rnd:10)
 Lock all Light orbs, Deal 90% damage
 
-#12: ESRandomSpawn(92:3185) -> ライトニングパンチ
+#12: ESRandomSpawn(92:3185) -> Lightning Punch
 Condition: 30% chance (ai:0 rnd:30)
 Spawn 1 random Light orb, Deal 100% damage
 
-#13: ESRowSpawnMulti(79:3186) -> ボルトインパクト
+#13: ESRowSpawnMulti(79:3186) -> Bolt Impact
 Condition: 30% chance (ai:0 rnd:30)
 Change the 4th and 5th rows to Wood and Light orbs, Deal 120% damage
 
-#14: ESColumnSpawnMulti(77:3188) -> ブロウスイング
+#14: ESColumnSpawnMulti(77:3188) -> Swing
 Condition: 30% chance (ai:0 rnd:30)
 Change the 2nd and 3rd columns to Wood and Jammer orbs, Deal 150% damage
 
@@ -61,7 +61,7 @@ Branch on flag & 2, target rnd 8
 #17: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11
 
-#18: ESRandomSpawn(92:3195) -> どこへも行かないでください
+#18: ESRandomSpawn(92:3195) -> Don't go anywhere!
 Spawn 1 random Water orb
 
 #19: ESEndPath(36:26) -> ESEndPath
@@ -73,7 +73,7 @@ Branch on flag & 4, target rnd 9
 #21: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b111
 
-#22: ESBindRandom(1:3191) -> 暴れてばかりいてはダメよ
+#22: ESBindRandom(1:3191) -> Enough struggling!
 Bind 6 random cards for 1 turn
 
 #23: ESEndPath(36:26) -> ESEndPath
@@ -85,7 +85,7 @@ Branch on flag & 8, target rnd 9
 #25: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1111
 
-#26: ESRecoverPlayer(55:3193) -> あら、意外と似合うじゃない
+#26: ESRecoverPlayer(55:3193) -> That look suits you!
 Player recover 100% HP
 
 #27: ESEndPath(36:26) -> ESEndPath
@@ -97,7 +97,7 @@ Branch on flag & 16, target rnd 11
 #29: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11111
 
-#30: ESDamageShield(74:3187) -> ヴィーンゴールヴの聖域
+#30: ESDamageShield(74:3187) -> Sacred Realm of Vingolf
 Reduce damage from all sources by 75% for 1 turn
 
 #31: ESEndPath(36:26) -> ESEndPath

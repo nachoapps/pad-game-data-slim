@@ -8,13 +8,5 @@ approved: False
 
 level: 1
  group:
- | (8951:66) Have a Wonderful Day!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (8951:66) Have a Wonderful Day!
- | Do nothing
- group:
- | (8951:66) Have a Wonderful Day!
+ | (7961:66) Here's to many more days...
  | Do nothing

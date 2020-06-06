@@ -8,13 +8,5 @@ approved: False
 
 level: 1
  group:
- | (8947:66) Everyone be happy!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (8947:66) Everyone be happy!
- | Do nothing
- group:
- | (8947:66) Everyone be happy!
+ | (7957:66) It's looking at you
  | Do nothing

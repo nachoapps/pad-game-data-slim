@@ -8,13 +8,5 @@ approved: False
 
 level: 1
  group:
- | (8948:66) Have a splendid Lucky Day!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (8948:66) Have a splendid Lucky Day!
- | Do nothing
- group:
- | (8948:66) Have a splendid Lucky Day!
+ | (7958:66) Thanks for playing!
  | Do nothing

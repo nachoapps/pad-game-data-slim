@@ -8,13 +8,5 @@ approved: False
 
 level: 1
  group:
- | (8950:66) It's a Special Day!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (8950:66) It's a Special Day!
- | Do nothing
- group:
- | (8950:66) It's a Special Day!
+ | (7960:66) We are so grateful!
  | Do nothing

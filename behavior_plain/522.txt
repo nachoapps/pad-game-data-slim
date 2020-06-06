@@ -4,11 +4,8 @@ new AI: True
 start/max counter: 0
 counter increment: 0
 
-#1: ESPreemptive(49:355) -> ESPreemptive
-Enable preempt if level 5
-
-#2: ESInactivity66(66:8949) -> I hope you like this!
+#1: ESInactivity66(66:7959) -> Celebration time!
 Do nothing
 
-#3: ESEndPath(36:26) -> ESEndPath
+#2: ESEndPath(36:26) -> ESEndPath
 end_turn

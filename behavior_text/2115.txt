@@ -8,22 +8,22 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17683:130) 太古の鎖蔓
+ | (17683:130) Ancient Chain Vine
  | ATK -50% for 2 turns
  group:
  | group:
  | condition: always turn 2
-   | (17685:17) 木牛の覚醒
+   | (17685:17) Wooden Cow's Awakening
    | Increase damage to 150% for the next 999 turns
  | group:
    | group:
    | condition: turn 1 while HP > 50
-     | (17686:15) ブルホーン
+     | (17686:15) Bull Horn
      | Deal 100% damage
    | group:
-     | (17686:15) ブルホーン
+     | (17686:15) Bull Horn
      | Deal 100% damage
  | group:
  | condition: turn 1, hp <= 50
-   | (17684:86) 大樹の癒やし
+   | (17684:86) Soothing Large Tree
    | Enemy recover 50% HP

@@ -8,29 +8,7 @@
       }
       children {
         behavior {
-          enemy_skill_id: 8949
-        }
-      }
-    }
-  }
-  levels {
-    level: 5
-    groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 8949
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
-      condition {
-        hp_threshold: 100
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8949
+          enemy_skill_id: 7959
         }
       }
     }
@@ -71,4 +49,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

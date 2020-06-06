@@ -8,13 +8,5 @@ approved: False
 
 level: 1
  group:
- | (8949:66) I hope you like this!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (8949:66) I hope you like this!
- | Do nothing
- group:
- | (8949:66) I hope you like this!
+ | (7959:66) Celebration time!
  | Do nothing

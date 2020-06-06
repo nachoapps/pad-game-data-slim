@@ -1,4 +1,4 @@
-#305119 - 避邪の武身・チィリン
+#305119 - Righteous Warblade, Qilin
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -13,7 +13,7 @@ Branch on flag & 1, target rnd 6
 #3: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#4: ESInvulnerableOn(119:12352) -> よーし、いってみよー！
+#4: ESInvulnerableOn(119:12352) -> Okay, let's go!
 Immune to damage from all sources for 999 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -34,19 +34,19 @@ Branch on hp < 75, target rnd 30
 #10: ESBranchCounter(31:21) -> ESBranchCounter
 Branch on counter = 0, target rnd 12
 
-#11: ESDamageShield(74:12356) -> 防護衝撃
+#11: ESDamageShield(74:12356) -> Protective Impact
 Condition: 50% chance (ai:50 rnd:0)
 Reduce damage from all sources by 50% for 1 turn, Deal 65% damage
 
-#12: ESAttackMultihit(15:12353) -> 光剣舞撃
+#12: ESAttackMultihit(15:12353) -> Light Sword Dance Strike
 Condition: 33% chance (ai:0 rnd:33)
 Deal 68% damage (4 hits, 17% each)
 
-#13: ESGravity(50:12354) -> おりゃー！
+#13: ESGravity(50:12354) -> Hah!!
 Condition: 33% chance (ai:0 rnd:33)
 Player -77% HP
 
-#14: ESSkillDelay(89:12355) -> 剣振両断
+#14: ESSkillDelay(89:12355) -> Double Sword Wave
 Condition: 34% chance (ai:0 rnd:34)
 Delay active skills by 0~2 turns, Deal 60% damage
 
@@ -63,11 +63,11 @@ flag SET 0b11
 counter + 1
 
 #19: SkillSet:
-	[0] ESInvulnerableOff(121:12358) -> よーし、暴れまくるぞ！
+	[0] ESInvulnerableOff(121:12358) -> Okay, get ready to rumble!
 	Remove damage immunity effect
-	[1] ESStatusShield(20:12359) -> 本気だしちゃうよー！
+	[1] ESStatusShield(20:12359) -> Now I'm serious!
 	Voids status ailments for 999 turns
-	[2] ESVoidShield(71:12360) -> 覚悟はいい？
+	[2] ESVoidShield(71:12360) -> Are you ready?
 	Void damage >= 25000000 for 999 turns
 
 #20: ESEndPath(36:26) -> ESEndPath
@@ -90,23 +90,23 @@ Branch on hp < 75, target rnd 48
 
 #26: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)
-	[0] ESAttackMultihit(15:12353) -> 光剣舞撃
+	[0] ESAttackMultihit(15:12353) -> Light Sword Dance Strike
 	Deal 68% damage (4 hits, 17% each)
-	[1] ESOrbLock(94:12367) -> 不動の一閃
+	[1] ESOrbLock(94:12367) -> Immovable Flash
 	Lock 12 random orbs, Deal 40% damage
 
 #27: SkillSet:
 	Condition: 33% chance (ai:0 rnd:33)
-	[0] ESAttackMultihit(15:12353) -> 光剣舞撃
+	[0] ESAttackMultihit(15:12353) -> Light Sword Dance Strike
 	Deal 68% damage (4 hits, 17% each)
-	[1] ESBlindStickyRandom(97:12368) -> 暗黒の一撃
+	[1] ESBlindStickyRandom(97:12368) -> Dark Strike
 	Blind random 7 orbs for 1 turn, Deal 36% damage
 
 #28: SkillSet:
 	Condition: 34% chance (ai:0 rnd:34)
-	[0] ESAttackMultihit(15:12353) -> 光剣舞撃
+	[0] ESAttackMultihit(15:12353) -> Light Sword Dance Strike
 	Deal 68% damage (4 hits, 17% each)
-	[1] ESSpinnersRandom(109:12369) -> 狂乱の一刀
+	[1] ESSpinnersRandom(109:12369) -> Furious Cut
 	Random 2 orbs change every 1.0s for 1 turn, Deal 38% damage
 
 #29: ESEndPath(36:26) -> ESEndPath
@@ -118,7 +118,7 @@ Branch on flag & 4, target rnd 10
 #31: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b111
 
-#32: ESDebuffRCV(105:12371) -> ガンガンいくよ！
+#32: ESDebuffRCV(105:12371) -> Here I come!
 RCV 50% for 10 turns
 
 #33: ESEndPath(36:26) -> ESEndPath
@@ -130,7 +130,7 @@ Branch on flag & 8, target rnd 10
 #35: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1111
 
-#36: ESDebuffMovetime(39:12373) -> お腹すいたぁ
+#36: ESDebuffMovetime(39:12373) -> I'm hungry...
 Movetime 50% for 5 turns
 
 #37: ESEndPath(36:26) -> ESEndPath
@@ -142,7 +142,7 @@ Branch on flag & 16, target rnd 42
 #39: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b11111
 
-#40: ESSkillDelay(89:12376) -> もう許さないからね！
+#40: ESSkillDelay(89:12376) -> I won't forgive you anymore!
 Delay active skills by 12 turns
 
 #41: ESEndPath(36:26) -> ESEndPath
@@ -151,7 +151,7 @@ end_turn
 #42: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 11, target rnd 11
 
-#43: ESAttackMultihit(15:12379) -> 斬刀豪乱舞
+#43: ESAttackMultihit(15:12379) -> Strong Blade Boisterous Dance
 Deal 1000% damage (10 hits, 100% each)
 
 #44: ESEndPath(36:26) -> ESEndPath
@@ -161,9 +161,9 @@ end_turn
 counter = 1
 
 #46: SkillSet:
-	[0] ESBindAwoken(88:12362) -> 戦意崩失
+	[0] ESBindAwoken(88:12362) -> Destructive Fighting Spririt
 	Bind awoken skills for 5 turns
-	[1] ESRecoverEnemyAlly(52:12363) -> 七星再生
+	[1] ESRecoverEnemyAlly(52:12363) -> Seven-Star Regeneration
 	Enemy ally recover 100% HP
 
 #47: ESEndPath(36:26) -> ESEndPath
@@ -176,9 +176,9 @@ Branch on flag & 4, target rnd 26
 flag SET 0b111
 
 #50: SkillSet:
-	[0] ESDebuffRCV(105:12371) -> ガンガンいくよ！
+	[0] ESDebuffRCV(105:12371) -> Here I come!
 	RCV 50% for 10 turns
-	[1] ESGravity(50:12354) -> おりゃー！
+	[1] ESGravity(50:12354) -> Hah!!
 	Player -77% HP
 
 #51: ESEndPath(36:26) -> ESEndPath
@@ -191,9 +191,9 @@ Branch on flag & 8, target rnd 26
 flag SET 0b1111
 
 #54: SkillSet:
-	[0] ESDebuffMovetime(39:12373) -> お腹すいたぁ
+	[0] ESDebuffMovetime(39:12373) -> I'm hungry...
 	Movetime 50% for 5 turns
-	[1] ESDispel(6:12374) -> はむっ！
+	[1] ESDispel(6:12374) -> Chomp!
 	Voids player buff effects
 
 #55: ESEndPath(36:26) -> ESEndPath
@@ -206,9 +206,9 @@ Branch on flag & 16, target rnd 60
 flag SET 0b11111
 
 #58: SkillSet:
-	[0] ESSkillDelay(89:12376) -> もう許さないからね！
+	[0] ESSkillDelay(89:12376) -> I won't forgive you anymore!
 	Delay active skills by 12 turns
-	[1] ESDispel(6:12374) -> はむっ！
+	[1] ESDispel(6:12374) -> Chomp!
 	Voids player buff effects
 
 #59: ESEndPath(36:26) -> ESEndPath
@@ -218,9 +218,9 @@ end_turn
 Branch on hp > 11, target rnd 22
 
 #61: SkillSet:
-	[0] ESChangeAttribute(46:12378) -> 纏鎧変更
+	[0] ESChangeAttribute(46:12378) -> Changing Armor
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:12379) -> 斬刀豪乱舞
+	[1] ESAttackMultihit(15:12379) -> Strong Blade Boisterous Dance
 	Deal 1000% damage (10 hits, 100% each)
 
 #62: ESEndPath(36:26) -> ESEndPath

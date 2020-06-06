@@ -1,0 +1,44 @@
+#2255 - Sea Deity, Neptune Dragon
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESNone(0:18200) -> ESNone
+nothing
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 10, target rnd 10
+
+#4: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 51, target rnd 6
+
+#5: ESNone(0:18205) -> ESNone
+nothing
+
+#6: ESNone(0:18210) -> ESNone
+nothing
+
+#7: ESNone(0:18209) -> ESNone
+nothing
+
+#8: ESNone(0:18208) -> ESNone
+nothing
+
+#9: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#10: ESNone(0:18211) -> ESNone
+nothing
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#12: ESNone(0:18212) -> ESNone
+nothing
+
+#13: ESTypeResist(118:16734) -> 神悪魔半減
+Reduce damage from God and Devil types by 50%

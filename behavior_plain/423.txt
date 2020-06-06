@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESOrbChangeAttackBits(108:17538) -> Double Guard Stance-Light
+#2: ESOrbChangeAttackBits(108:17538) -> Double Light Guard
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Change all Wood, Dark, Poison, and Mortal Poison orbs to Heal orbs
 

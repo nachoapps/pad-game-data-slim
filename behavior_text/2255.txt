@@ -1,0 +1,12 @@
+#2255 - Sea Deity, Neptune Dragon
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 2255
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (16734:118) 神悪魔半減
+ | Reduce damage from God and Devil types by 50%

@@ -8,17 +8,17 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17687:71) 水流の呪法
+ | (17687:71) Torrent Incantation
  | Void damage >= 1000000 for 3 turns
  group:
  | group:
    | condition: 50% chance
-   | (17689:48) 水撃
+   | (17689:48) Water Hammer
    | Change a random attribute to Water orbs, Deal 100% damage
    | condition: 50% chance
-   | (17690:109) 渦巻
+   | (17690:109) Whirlpool
    | Random 2 orbs change every 1.0s for 1 turn, Deal 90% damage
  | group:
  | condition: turn 1, hp <= 50
-   | (17688:17) ボルテックスカウンター
+   | (17688:17) Vortex Counter
    | Increase damage to 200% for the next 999 turns
