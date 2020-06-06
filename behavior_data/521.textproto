@@ -22,31 +22,9 @@
       }
       children {
         behavior {
-          enemy_skill_id: 8948
+          enemy_skill_id: 7958
         }
       }
     }
   }
-  level_overrides {
-    level: 5
-    groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 8948
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
-      condition {
-        hp_threshold: 100
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8948
-        }
-      }
-    }
-  }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
