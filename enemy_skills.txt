@@ -28764,7 +28764,7 @@ JP: 10ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 10 turns
 KR: Reduce damage from all sources by 50% for 10 turns
 
-# 5746/15 - A Pounding in the Night
+# 5746/15 - Drumming in the Night
 JP: 180%ダメージ (3連続攻撃、60%ごと)
 EN: Deal 180% damage (3 hits, 60% each)
 KR: Deal 180% damage (3 hits, 60% each)
@@ -28914,7 +28914,7 @@ JP: 10ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 10 turns
 KR: Reduce damage from all sources by 75% for 10 turns
 
-# 5776/15 - A Pounding in the Night
+# 5776/15 - Drumming in the Night
 JP: 180%ダメージ (3連続攻撃、60%ごと)
 EN: Deal 180% damage (3 hits, 60% each)
 KR: Deal 180% damage (3 hits, 60% each)
@@ -29379,7 +29379,7 @@ JP: 「天空よりパーツが現れた|セラフィスとパーツが合体し
 EN: Show message: 天空よりパーツが現れた|セラフィスとパーツが合体していく
 KR: Show message: 天空よりパーツが現れた|セラフィスとパーツが合体していく
 
-# 5869/0 - In a pinch, enemies' turn changed
+# 5869/0 - In a pinch, enemy's next turn changed
 JP: nothing
 EN: nothing
 KR: nothing
@@ -30789,7 +30789,7 @@ JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0
 
-# 6151/0 - In a pinch, enemies' turn changed
+# 6151/0 - In a pinch, enemy's next turn changed
 JP: nothing
 EN: nothing
 KR: nothing
@@ -30824,7 +30824,7 @@ JP: 1000%ダメージ
 EN: Deal 1000% damage
 KR: Deal 1000% damage
 
-# 6158/106 - Enemies' turn changed in anger
+# 6158/106 - Enemy's next turn changed in anger
 JP: 50%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 50%
 KR: Enemy turn counter change to 1 when HP <= 50%
@@ -31924,7 +31924,7 @@ JP: 999ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 999 turns
 KR: Absorb damage when combos <= 6 for 999 turns
 
-# 6378/106 - Enemies' next move changed in anger
+# 6378/106 - Enemy's next turn changed in anger
 JP: 50%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 50%
 KR: Enemy turn counter change to 1 when HP <= 50%
@@ -47627,7 +47627,7 @@ JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 9518/106 - Enemies' turn changed in anger
+# 9518/106 - Enemy's next turn changed in anger
 JP: 20%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 20%
 KR: Enemy turn counter change to 1 when HP <= 20%
@@ -48067,7 +48067,7 @@ JP: 99ターンの間、攻撃ターゲットを自身に固定する
 EN: Forces attacks to hit this enemy for 99 turns
 KR: Forces attacks to hit this enemy for 99 turns
 
-# 9606/122 - In a pinch, enemies' turn changed
+# 9606/122 - In a pinch, enemy's next turn changed
 JP: 行動ターンが1に変わる
 EN: Enemy turn counter change to 1
 KR: Enemy turn counter change to 1
@@ -57612,7 +57612,7 @@ JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 11515/106 - Enemies' turn changed in anger
+# 11515/106 - Enemy's next turn changed in anger
 JP: 50%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 50%
 KR: Enemy turn counter change to 1 when HP <= 50%
@@ -68872,7 +68872,7 @@ JP: 光と闇属性からの攻撃からの攻撃を50%減少
 EN: Reduce damage from Light and Dark attrs by 50%
 KR: Reduce damage from Light and Dark attrs by 50%
 
-# 13767/106 - Enemies' turn changed in anger
+# 13767/106 - Enemy's next turn changed in anger
 JP: 90%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 90%
 KR: Enemy turn counter change to 1 when HP <= 90%
@@ -78317,7 +78317,7 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 15656/0 - Enemies' turn changed in anger
+# 15656/0 - Enemy's next turn changed in anger
 JP: nothing
 EN: nothing
 KR: nothing
@@ -81082,7 +81082,7 @@ JP: HP75%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 75%
 KR: Survive attacks with 1 HP when HP > 75%
 
-# 16209/106 - Enemies' turn changed in anger
+# 16209/106 - Enemy's next turn changed in anger
 JP: 75%HP以下で行動ターンが1に変わる
 EN: Enemy turn counter change to 1 when HP <= 75%
 KR: Enemy turn counter change to 1 when HP <= 75%
