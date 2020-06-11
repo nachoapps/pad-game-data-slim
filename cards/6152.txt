@@ -1,0 +1,20 @@
+#6152 寝床の大魔女・レムゥ
+HP: 2865 ATK: 1221 RCV: 175 LB: 0
+AWK: 52,28,48
+SAWK: 
+
+# 17259/116 - 魔印解放・ルリーク
+Tags: ALL_ORBS_CONVERT
+Game: 全ドロップを火と回復ドロップに変化。 夢獣の大魔女・レムゥに変身。
+JP: 全ドロップを火と回復ドロップに変化。[6153]に変身する
+EN: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
+KR: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
+
+# 17262/182 - 古夢霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.5]
+Game: 火を6個以上つなげて消すとダメージを半減、 攻撃力が4倍。
+JP: 火を6個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+KR: 4x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+

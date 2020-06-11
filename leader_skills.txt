@@ -72503,6 +72503,54 @@ JP: 木の2コンボ以上で固定500000ダメージ。
 EN: 500000 additional damage when matching 2 or more Wood combos
 KR: 500000 additional damage when matching 2 or more Wood combos
 
+# 17262/182 - 古夢霊の魔印
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.5]
+Game: 火を6個以上つなげて消すとダメージを半減、 攻撃力が4倍。
+JP: 火を6個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+KR: 4x ATK and reduce damage taken by 50% when matching 6 or more connected Fire orbs
+
+# 17266/138 - 古夢霊の眠術
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 20.0, 1.0, 0.25]
+Game: 火属性のHPと攻撃力が2倍。6コンボ以上でダメージを軽減。 火を6個以上つなげて消すと攻撃力が10倍、固定100万ダメージ。
+JP: 火属性のHPと攻撃力が2倍。6コンボ以上で受けるダメージを25％減少。火を6個以上つなげて消すと攻撃力が10倍。火を6個以上つなげて消しと固定1000000ダメージ。
+EN: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
+KR: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
+
+# 17267/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Fire Att.
+KR: 2x HP & ATK for Fire Att.
+
+# 17268/169 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.25]
+Game: 
+JP: 6コンボ以上で受けるダメージを25％減少。
+EN: Reduce damage taken by 25% when 6 or more combos
+KR: Reduce damage taken by 25% when 6 or more combos
+
+# 17269/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 10.0, 1, 0]
+Game: 
+JP: 火を6個以上つなげて消すと攻撃力が10倍。
+EN: 10x ATK when matching 6 or more connected Fire orbs
+KR: 10x ATK when matching 6 or more connected Fire orbs
+
+# 17270/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火を6個以上つなげて消しと固定1000000ダメージ。
+EN: 1000000 additional damage when matching 6 or more Fire orbs
+KR: 1000000 additional damage when matching 6 or more Fire orbs
+
 # 17275/138 - 夜月神の真魂
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 15.0, 1.5, 0.25, +1]

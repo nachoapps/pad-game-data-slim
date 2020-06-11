@@ -2989,7 +2989,7 @@ KR: Delay enemies' next attack by 2 turns; Reduce HP to 1; Deal 80x Wood damage 
 
 # 977/116 - どどん波
 Tags: VOID_DAMAGE,SINGLE_TARGET_ATTACK
-Game: 2ターンの間、光属性のダメージを無効化。 敵1体に攻撃力×50倍の攻撃。
+Game: 2ターンの間、光属性ダメージを無効化。 敵1体に攻撃力×50倍の攻撃。
 JP: 2ターンの間、光属性の攻撃を無効化。敵1体に攻撃力ｘ50倍攻撃
 EN: For 2 turns, void all Light damage; Deal 50x ATK damage to an enemy
 KR: For 2 turns, void all Light damage; Deal 50x ATK damage to an enemy
@@ -6055,7 +6055,7 @@ KR: Deal 80x Dark damage to an enemy
 
 # 1634/21 - 光吸収
 Tags: VOID_DAMAGE
-Game: 1ターンの間、光属性のダメージを無効化。
+Game: 1ターンの間、光属性ダメージを無効化。
 JP: 1ターンの間、光属性の攻撃を無効化
 EN: For 1 turn, void all Light damage
 KR: For 1 turn, void all Light damage
@@ -47460,6 +47460,69 @@ JP: 回復ドロップを木ドロップに変化
 EN: Change Heal orbs to Wood orbs
 KR: Change Heal orbs to Wood orbs
 
+# 17259/116 - 魔印解放・ルリーク
+Tags: ALL_ORBS_CONVERT
+Game: 全ドロップを火と回復ドロップに変化。 夢獣の大魔女・レムゥに変身。
+JP: 全ドロップを火と回復ドロップに変化。[6153]に変身する
+EN: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
+KR: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
+
+# 17260/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火と回復ドロップに変化
+EN: Change all orbs to Fire and Heal orbs
+KR: Change all orbs to Fire and Heal orbs
+
+# 17261/202 - 
+Tags: 
+Game: 
+JP: [6153]に変身する
+EN: Changes to [6153] for the duration of the dungeon
+KR: Changes to [6153] for the duration of the dungeon
+
+# 17263/116 - レッドドリーム
+Tags: EXTENDS_TIME
+Game: 1ターンの間、ランダムでルーレットを1個生成。 1ターンの間、ドロップ操作を5秒延長。
+JP: 1ターンの間、ドロップ操作時間が5秒に延長
+EN: For 1 turn, increase orb move time by 5 seconds
+KR: For 1 turn, increase orb move time by 5 seconds
+
+# 17265/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 1ターンの間、ドロップ操作時間が5秒に延長
+EN: For 1 turn, increase orb move time by 5 seconds
+KR: For 1 turn, increase orb move time by 5 seconds
+
+# 17271/116 - ルリークドリーム
+Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
+Game: 2ターンの間、属性吸収を無効化。 左端縦2列を火ドロップに、右端縦2列を回復ドロップに変化。
+JP: 2ターンの間、属性吸収を無効化する。最左端と左から2列目を火に、右から2列目と最右端を回復ドロップに変化
+EN: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
+KR: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
+
+# 17272/173 - 
+Tags: VOID_ATT_ABSORBS
+Game: 
+JP: 2ターンの間、属性吸収を無効化する
+EN: For 2 turns, bypass att. absorb shield effects
+KR: For 2 turns, bypass att. absorb shield effects
+
+# 17273/127 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最左端と左から2列目を火に、右から2列目と最右端を回復ドロップに変化
+EN: Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
+KR: Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
+
+# 17274/132 - 
+Tags: EXTENDS_TIME
+Game: 
+JP: 5ターンの間、ドロップ操作時間が2倍
+EN: For 5 turns, 2x orb move time
+KR: For 5 turns, 2x orb move time
+
 # 17309/116 - プロミスベール・ライト
 Tags: ATTACK_STANCE,ORB_CONVERT,VOID_DAMAGE_ABSORBS
 Game: 木、回復、お邪魔、毒ドロップを光ドロップに変化。 1ターンの間、ダメージ吸収を無効化。
@@ -47676,6 +47739,27 @@ Game:
 JP: 2ターンの間、ドロップ操作時間が1秒に延長
 EN: For 2 turns, increase orb move time by 1 second
 KR: For 2 turns, increase orb move time by 1 second
+
+# 17392/116 - 街で最強の男の物語
+Tags: HEAL,LINE_ORBS_CONVERTER
+Game: 最大HP50％分のHP回復。 最上段横1列を火ドロップに変化。
+JP: 最大HP50％分回復。最上段を火ドロップに変化
+EN: Recover 50% of max HP; Change the top row to Fire orbs
+KR: Recover 50% of max HP; Change the top row to Fire orbs
+
+# 17393/117 - 
+Tags: HEAL
+Game: 
+JP: 最大HP50％分回復
+EN: Recover 50% of max HP
+KR: Recover 50% of max HP
+
+# 17394/128 - 
+Tags: LINE_ORBS_CONVERTER
+Game: 
+JP: 最上段を火ドロップに変化
+EN: Change the top row to Fire orbs
+KR: Change the top row to Fire orbs
 
 # 17402/116 - オイラもまぜてもらおっと！
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,REDUCE_MATCH_RESTRICTION
