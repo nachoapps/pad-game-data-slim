@@ -90,5 +90,5 @@ Increase damage to 300% for the next 999 turns
 #17: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#18: ESTurnChangePassive(106:6158) -> Enemies' turn changed in anger
+#18: ESTurnChangePassive(106:6158) -> Enemy's next turn changed in anger
 Enemy turn counter change to 1 when HP <= 50%

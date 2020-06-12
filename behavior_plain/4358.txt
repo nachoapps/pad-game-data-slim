@@ -76,5 +76,5 @@ end_turn
 #17: ESResolve(73:9517) -> Resolve
 Survive attacks with 1 HP when HP > 50%
 
-#18: ESTurnChangePassive(106:9518) -> Enemies' turn changed in anger
+#18: ESTurnChangePassive(106:9518) -> Enemy's next turn changed in anger
 Enemy turn counter change to 1 when HP <= 20%

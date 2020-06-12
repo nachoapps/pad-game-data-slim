@@ -36,6 +36,6 @@ Change 2 random orb types to Jammer orbs
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#11: ESTurnChangeRemainingEnemies(122:9606) -> In a pinch, enemies' turn changed
+#11: ESTurnChangeRemainingEnemies(122:9606) -> In a pinch, enemy's next turn changed
 Condition: when <= 1 enemies remain (ai:0 rnd:0)
 Enemy turn counter change to 1

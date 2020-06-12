@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (13767:106) Enemies' turn changed in anger
+ | (13767:106) Enemy's next turn changed in anger
  | Enemy turn counter change to 1 when HP <= 90%
  | (13766:72) Light & Dark damage halved
  | Reduce damage from Light and Dark attrs by 50%

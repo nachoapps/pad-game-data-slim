@@ -69,5 +69,5 @@ Player -300% HP
 	[2] ESOrbChangeAttack(48:6383) -> Ruined Harvest Mudslide
 	Change all Heal orbs to Jammer orbs, Deal 100% damage
 
-#14: ESTurnChangePassive(106:6378) -> Enemies' next move changed in anger
+#14: ESTurnChangePassive(106:6378) -> Enemy's next turn changed in anger
 Enemy turn counter change to 1 when HP <= 50%

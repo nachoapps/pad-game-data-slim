@@ -40,7 +40,7 @@ level: 1
      | Bind 1 random card for 1 turn, Deal 110% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
-     | (5746:15) A Pounding in the Night
+     | (5746:15) Drumming in the Night
      | Deal 180% damage (3 hits, 60% each)
  | group:
  | condition: hp <= 29

@@ -85,7 +85,7 @@ end_turn
 #23: ESFlagOperation(24:14) -> ESFlagOperation
 flag UNSET 0b1100
 
-#24: ESAttackMultihit(15:5746) -> A Pounding in the Night
+#24: ESAttackMultihit(15:5746) -> Drumming in the Night
 Deal 180% damage (3 hits, 60% each)
 
 #25: ESEndPath(36:26) -> ESEndPath

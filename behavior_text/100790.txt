@@ -9,7 +9,7 @@ approved: False
 level: 1
  type: PASSIVE
  | condition: when 1 enemies remain
- | (9606:122) In a pinch, enemies' turn changed
+ | (9606:122) In a pinch, enemy's next turn changed
  | Enemy turn counter change to 1
  group:
  | (503:13) Chaos Eye
@@ -18,7 +18,7 @@ level: 1
 level: 5
  type: PASSIVE
  | condition: when 1 enemies remain
- | (9606:122) In a pinch, enemies' turn changed
+ | (9606:122) In a pinch, enemy's next turn changed
  | Enemy turn counter change to 1
  type: PREEMPT
  | (9605:112) Charming Demon Eye

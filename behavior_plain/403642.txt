@@ -58,7 +58,7 @@ Deal 100% damage
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#15: ESTurnChangePassive(106:13767) -> Enemies' turn changed in anger
+#15: ESTurnChangePassive(106:13767) -> Enemy's next turn changed in anger
 Enemy turn counter change to 1 when HP <= 90%
 
 #16: ESAttributeResist(72:13766) -> Light & Dark damage halved

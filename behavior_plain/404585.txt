@@ -73,7 +73,7 @@ Absorb Fire and Wood damage for 5 turns
 #19: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#20: ESTurnChangePassive(106:11515) -> Enemies' turn changed in anger
+#20: ESTurnChangePassive(106:11515) -> Enemy's next turn changed in anger
 Enemy turn counter change to 1 when HP <= 50%
 
 #21: ESAttributeResist(72:13770) -> Light & Dark damage halved
