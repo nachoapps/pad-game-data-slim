@@ -39981,8 +39981,8 @@ KR: For 6 turns, 3x RCV
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL
 Game: Recovers HP & ATK increases by the number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
 JP: チーム内の2体攻撃の覚醒数1つにつき回復力ｘ5.0倍をHP回復。チーム内の2体攻撃の覚醒数1つにつき攻撃力が5％上がる
-EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
-KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
 
 # 15122/156 - 
 Tags: ENHANCED_HEAL
@@ -39995,8 +39995,8 @@ KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team
 Tags: ENHANCED_ATTACK
 Game: 
 JP: チーム内の2体攻撃の覚醒数1つにつき攻撃力が5％上がる
-EN: For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
-KR: For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+EN: For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+KR: For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
 
 # 15124/152 - 
 Tags: ORB_LOCK
@@ -47739,6 +47739,83 @@ Game:
 JP: 2ターンの間、ドロップ操作時間が1秒に延長
 EN: For 2 turns, increase orb move time by 1 second
 KR: For 2 turns, increase orb move time by 1 second
+
+# 17370/116 - 爽風の勘所
+Tags: HEAL
+Game: 2ターンの間、HPを全回復。 風雅の糸龍楽士・アズハに変身。
+JP: 2ターンの間、最大HPの100％分回復。[6272]に変身する
+EN: For 2 turns, recover 100% of max HP; Changes to [6272] for the duration of the dungeon
+KR: For 2 turns, recover 100% of max HP; Changes to [6272] for the duration of the dungeon
+
+# 17371/179 - 
+Tags: HEAL
+Game: 
+JP: 2ターンの間、最大HPの100％分回復
+EN: For 2 turns, recover 100% of max HP
+KR: For 2 turns, recover 100% of max HP
+
+# 17372/202 - 
+Tags: 
+Game: 
+JP: [6272]に変身する
+EN: Changes to [6272] for the duration of the dungeon
+KR: Changes to [6272] for the duration of the dungeon
+
+# 17374/156 - 清嵐の勘所
+Tags: ENHANCED_ATTACK
+Game: 1ターンの間、チーム内のコンボ強化の覚醒数に応じて 攻撃力が上昇。
+JP: チーム内のコンボ強化の覚醒数1つにつき攻撃力が10％上がる
+EN: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
+KR: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
+
+# 17375/156 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: チーム内のコンボ強化の覚醒数1つにつき攻撃力が10％上がる
+EN: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
+KR: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
+
+# 17380/116 - シャドウビート
+Tags: ALL_ORBS_CONVERT
+Game: 全ドロップを火と闇ドロップに変化。 豪快の拍龍楽士・ディロッドに変身。
+JP: 全ドロップを火と闇ドロップに変化。[6274]に変身する
+EN: Change all orbs to Fire and Dark orbs; Changes to [6274] for the duration of the dungeon
+KR: Change all orbs to Fire and Dark orbs; Changes to [6274] for the duration of the dungeon
+
+# 17381/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火と闇ドロップに変化
+EN: Change all orbs to Fire and Dark orbs
+KR: Change all orbs to Fire and Dark orbs
+
+# 17382/202 - 
+Tags: 
+Game: 
+JP: [6274]に変身する
+EN: Changes to [6274] for the duration of the dungeon
+KR: Changes to [6274] for the duration of the dungeon
+
+# 17383/116 - デビルズビート
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 消せないドロップ状態を3ターン回復。 ランダムで闇ドロップを3個生成。
+JP: 消せないドロップ状態を3ターン回復。闇ドロップを3個生成
+EN: Reduce unable to match orbs effect by 3 turns; Create 3 Dark orbs
+KR: Reduce unable to match orbs effect by 3 turns; Create 3 Dark orbs
+
+# 17389/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を3ターン回復
+EN: Reduce unable to match orbs effect by 3 turns
+KR: Reduce unable to match orbs effect by 3 turns
+
+# 17390/141 - 
+Tags: 
+Game: 
+JP: 闇ドロップを3個生成
+EN: Create 3 Dark orbs
+KR: Create 3 Dark orbs
 
 # 17392/116 - 街で最強の男の物語
 Tags: HEAL,LINE_ORBS_CONVERTER

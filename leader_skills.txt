@@ -57248,11 +57248,11 @@ KR: You can exchange this monster for Kinnikuman Collab monsters through [Monste
 
 # 13513/138 - Eternal Dragon Player - Arco
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.0, 16.0, 1.0, 0.25]
+Stats: [1.0, 16.0, 1.0, 0.5]
 Game: 4x ATK for Fire Att., Orb move time +2 seconds; 4x ATK & reduces damage when Fire & Dark attack at once
-JP: 火属性の攻撃力が4倍。ドロップ操作時間を2秒延長。火、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
-EN: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching Fire and Dark
-KR: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 25% when matching Fire and Dark
+JP: 火属性の攻撃力が4倍。ドロップ操作時間を2秒延長。火、闇の同時攻撃で攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching Fire and Dark
+KR: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching Fire and Dark
 
 # 13514/185 - 
 Tags: ENHANCED_ATK,EXTEND_TIME
@@ -57264,11 +57264,11 @@ KR: 4x ATK for Fire Att.; Increase orb movement time by 2 seconds
 
 # 13515/171 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 4.0, 1, 0.25]
+Stats: [1, 4.0, 1, 0.5]
 Game: 
-JP: 火、闇の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
-EN: 4x ATK and reduce damage taken by 25% when matching Fire and Dark
-KR: 4x ATK and reduce damage taken by 25% when matching Fire and Dark
+JP: 火、闇の同時攻撃で攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching Fire and Dark
+KR: 4x ATK and reduce damage taken by 50% when matching Fire and Dark
 
 # 13516/138 - Eternal Dragon Echo - Arco
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -57375,20 +57375,20 @@ EN: 5x ATK and reduce damage taken by 25% when matching 4 or more colors
 KR: 5x ATK and reduce damage taken by 25% when matching 4 or more colors
 
 # 13535/138 - Eternal Dragon Echo - Soa
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 18.0, 1, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 18.0, 1, 0.5, +2]
 Game: 6x ATK when 5+ Att. (4+Heal) attack at once; 3x ATK & halves damage with 5+ linked Heal Orbs
-JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍。回復を5個以上つなげて消すと攻撃力が3倍、受けるダメージを50％減少。
-EN: 6x ATK when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
-KR: 6x ATK when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍、2コンボ加算。回復を5個以上つなげて消すと攻撃力が3倍、受けるダメージを50％減少。
+EN: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+KR: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
 
-# 13536/61 - 
-Tags: ENHANCED_ATK
-Stats: [1, 6.0, 1, 0]
+# 13536/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 6.0, 1, 0, +2]
 Game: 
-JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍。
-EN: 6x ATK when matching 5 or more colors (4+heal)
-KR: 6x ATK when matching 5 or more colors (4+heal)
+JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍、2コンボ加算。
+EN: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal)
+KR: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal)
 
 # 13537/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -57400,11 +57400,11 @@ KR: 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal
 
 # 13541/138 - Eternal Dragon Player - Rende
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.5, 10.5, 1.5, 0.25]
+Stats: [1.5, 12.0, 1.5, 0.5]
 Game: 1.5x to all stats for Light Att., Orb move time +2 sec; 7x ATK & reduces damage with 6+ combos
-JP: 光属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。6コンボ以上で攻撃力が7倍、受けるダメージを25％減少。
-EN: 1.5x all stats for Light Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when 6 or more combos
-KR: 1.5x all stats for Light Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when 6 or more combos
+JP: 光属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。6コンボ以上で攻撃力が8倍、受けるダメージを50％減少。
+EN: 1.5x all stats for Light Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when 6 or more combos
+KR: 1.5x all stats for Light Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when 6 or more combos
 
 # 13542/185 - 
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -57416,11 +57416,11 @@ KR: 1.5x all stats for Light Att.; Increase orb movement time by 2 seconds
 
 # 13543/169 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 7.0, 1, 0.25]
+Stats: [1, 8.0, 1, 0.5]
 Game: 
-JP: 6コンボ以上で攻撃力が7倍、受けるダメージを25％減少。
-EN: 7x ATK and reduce damage taken by 25% when 6 or more combos
-KR: 7x ATK and reduce damage taken by 25% when 6 or more combos
+JP: 6コンボ以上で攻撃力が8倍、受けるダメージを50％減少。
+EN: 8x ATK and reduce damage taken by 50% when 6 or more combos
+KR: 8x ATK and reduce damage taken by 50% when 6 or more combos
 
 # 13544/138 - Eternal Dragon Echo - Rende
 Tags: ENHANCED_HP_ATK
@@ -57456,11 +57456,11 @@ KR: 5x ATK when matching 5 or more connected non Light or Water orbs
 
 # 13551/138 - Eternal Dragon Player - Cormier
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.5, 10.5, 1.5, 0.25]
+Stats: [1.5, 12.0, 1.5, 0.5]
 Game: 1.5x to all stats for Dark Att., Orb move time +2 sec; 7x ATK & reduces damage with 6+ linked Dark Orbs
-JP: 闇属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。闇を6個以上つなげて消すと攻撃力が7倍、受けるダメージを25％減少。
-EN: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
-KR: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+JP: 闇属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。闇を6個以上つなげて消すと攻撃力が8倍、受けるダメージを50％減少。
+EN: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching 6 or more connected Dark orbs
+KR: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching 6 or more connected Dark orbs
 
 # 13552/185 - 
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -57472,19 +57472,19 @@ KR: 1.5x all stats for Dark Att.; Increase orb movement time by 2 seconds
 
 # 13553/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 7.0, 1, 0.25]
+Stats: [1, 8.0, 1, 0.5]
 Game: 
-JP: 闇を6個以上つなげて消すと攻撃力が7倍、受けるダメージを25％減少。
-EN: 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
-KR: 7x ATK and reduce damage taken by 25% when matching 6 or more connected Dark orbs
+JP: 闇を6個以上つなげて消すと攻撃力が8倍、受けるダメージを50％減少。
+EN: 8x ATK and reduce damage taken by 50% when matching 6 or more connected Dark orbs
+KR: 8x ATK and reduce damage taken by 50% when matching 6 or more connected Dark orbs
 
 # 13554/138 - Eternal Dragon Echo - Cormier
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
-Stats: [2.0, 16.0, 1.0, 0.0, +1]
+Stats: [2.0, 16.0, 1.0, 0.0, +2]
 Game: 2x HP & ATK for Dark Att., adds 1 combo when 3+ Att. attack at once; up to 8x ATK with 4+ linked Dark Orbs
-JP: 闇属性のHPと攻撃力が2倍。3色以上同時攻撃で1コンボ加算。闇を4個以上つなげて消すと攻撃力が4倍、最大8個で8倍。
-EN: 2x HP & ATK for Dark Att.; increase combo by 1 when matching 3 or more colors; 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs
-KR: 2x HP & ATK for Dark Att.; increase combo by 1 when matching 3 or more colors; 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs
+JP: 闇属性のHPと攻撃力が2倍。3色以上同時攻撃で2コンボ加算。闇を4個以上つなげて消すと攻撃力が4倍、最大8個で8倍。
+EN: 2x HP & ATK for Dark Att.; increase combo by 2 when matching 3 or more colors; 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs
+KR: 2x HP & ATK for Dark Att.; increase combo by 2 when matching 3 or more colors; 4x ATK when matching 4 or more connected Dark orbs up to 8x at 8 orbs
 
 # 13555/129 - 
 Tags: ENHANCED_HP_ATK
@@ -57496,11 +57496,11 @@ KR: 2x HP & ATK for Dark Att.
 
 # 13556/194 - 
 Tags: EXTRA_COMBOS
-Stats: [1, 1.0, 1, 0, +1]
+Stats: [1, 1.0, 1, 0, +2]
 Game: 
-JP: 3色以上同時攻撃で1コンボ加算。
-EN: increase combo by 1 when matching 3 or more colors
-KR: increase combo by 1 when matching 3 or more colors
+JP: 3色以上同時攻撃で2コンボ加算。
+EN: increase combo by 2 when matching 3 or more colors
+KR: increase combo by 2 when matching 3 or more colors
 
 # 13557/159 - 
 Tags: ENHANCED_ATK
@@ -64145,19 +64145,19 @@ KR: 4x ATK and reduce damage taken by 25% when matching 5 orbs in an L shape
 
 # 15143/138 - Eternal Dragon Player - Karyukt
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
-Stats: [1, 12.0, 1.0, 0.35, +2]
+Stats: [1, 12.0, 1.0, 0.35, +3]
 Game: 4x ATK & adds 2 combos with 6+ linked Fr & Dk Orbs each; 3x ATK & reduces damage when HP is 50% or more
-JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。
-EN: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
-KR: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
+JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、3コンボ加算。HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。
+EN: 4x ATK and increase combo by 3 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
+KR: 4x ATK and increase combo by 3 when matching 6 or more connected Fire and Dark orbs at once; 3x ATK and reduce damage taken by 35% when above 50% HP
 
 # 15144/192 - 
 Tags: ENHANCED_ATK,EXTRA_COMBOS
-Stats: [1, 4.0, 1, 0, +2]
+Stats: [1, 4.0, 1, 0, +3]
 Game: 
-JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、2コンボ加算。
-EN: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once
-KR: 4x ATK and increase combo by 2 when matching 6 or more connected Fire and Dark orbs at once
+JP: 火と闇を6個以上同時につなげて消しと攻撃力が4倍、3コンボ加算。
+EN: 4x ATK and increase combo by 3 when matching 6 or more connected Fire and Dark orbs at once
+KR: 4x ATK and increase combo by 3 when matching 6 or more connected Fire and Dark orbs at once
 
 # 15145/183 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -73062,6 +73062,94 @@ Game:
 JP: 木か闇の同時攻擊で2コンボ加算
 EN: Increase combo by 2 when matching Wood and Dark
 KR: Increase combo by 2 when matching Wood and Dark
+
+# 17373/124 - 継界龍奏・センシン
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 木光の同時攻撃で攻撃力が6倍。
+JP: 木、光の同時攻撃で攻撃力が6倍。
+EN: 6x ATK when matching Wood and Light
+KR: 6x ATK when matching Wood and Light
+
+# 17376/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: 木、光の同時攻撃で攻撃力が3倍。
+EN: 3x ATK when matching Wood and Light
+KR: 3x ATK when matching Wood and Light
+
+# 17377/138 - 継界龍響・センシン
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 18.0, 1.0, 0, +1]
+Game: 木属性のHPが2倍。光属性の攻撃力が6倍。 木光の同時攻撃で攻撃力が3倍、1コンボ加算。
+JP: 木属性のHPが2倍。光属性の攻撃力が6倍。木か光の同時攻擊で1コンボ加算木、光の同時攻撃で攻撃力が3倍。
+EN: 2x HP for Wood Att.; 6x ATK for Light Att.; Increase combo by 1 when matching Wood and Light; 3x ATK when matching Wood and Light
+KR: 2x HP for Wood Att.; 6x ATK for Light Att.; Increase combo by 1 when matching Wood and Light; 3x ATK when matching Wood and Light
+
+# 17378/136 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 6.0, 1.0, 0]
+Game: 
+JP: 木属性のHPが2倍。光属性の攻撃力が6倍。
+EN: 2x HP for Wood Att.; 6x ATK for Light Att.
+KR: 2x HP for Wood Att.; 6x ATK for Light Att.
+
+# 17379/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 木か光の同時攻擊で1コンボ加算
+EN: Increase combo by 1 when matching Wood and Light
+KR: Increase combo by 1 when matching Wood and Light
+
+# 17384/138 - 継界龍響・ネスラ
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 15.0, 1.0, 0.0, +2]
+Game: 闇属性のHPが2倍。6コンボ以上で攻撃力が6倍。 闇の2コンボ以上で攻撃力が2.5倍、2コンボ加算。
+JP: 闇属性のHPが2倍。6コンボ以上で攻撃力が6倍。2コンボ以上で2コンボ加算闇の2コンボ以上で攻撃力が2.5倍。
+EN: 2x HP for Dark Att.; 6x ATK when 6 or more combos; Increase combo by 2 when matching 2 or more Dark combos; 2.5x ATK when matching 2+ Dark combos
+KR: 2x HP for Dark Att.; 6x ATK when 6 or more combos; Increase combo by 2 when matching 2 or more Dark combos; 2.5x ATK when matching 2+ Dark combos
+
+# 17385/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 闇属性のHPが2倍。
+EN: 2x HP for Dark Att.
+KR: 2x HP for Dark Att.
+
+# 17386/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 
+JP: 6コンボ以上で攻撃力が6倍。
+EN: 6x ATK when 6 or more combos
+KR: 6x ATK when 6 or more combos
+
+# 17387/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +2]
+Game: 
+JP: 2コンボ以上で2コンボ加算
+EN: Increase combo by 2 when matching 2 or more Dark combos
+KR: Increase combo by 2 when matching 2 or more Dark combos
+
+# 17388/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.5, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が2.5倍。
+EN: 2.5x ATK when matching 2+ Dark combos
+KR: 2.5x ATK when matching 2+ Dark combos
+
+# 17391/66 - 継界龍奏・ネスラ
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 6コンボ以上で攻撃力が6倍。
+JP: 6コンボ以上で攻撃力が6倍。
+EN: 6x ATK when 6 or more combos
+KR: 6x ATK when 6 or more combos
 
 # 17405/138 - タヤスじゃなくて田増ですよ
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK

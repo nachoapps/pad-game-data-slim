@@ -1,14 +1,14 @@
 #5683 Shocking Draconic Songster on Electric Guitar, Marthis
 HP: 6750 ATK: 2640 RCV: 297 LB: 15
-AWK: 10,10,56,56,28,48,27,27,27
+AWK: 52,56,56,28,48,27,27,27,27
 SAWK: 27,55,21
 
 # 15121/116 - Thunder Cutting
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL
 Game: Recovers HP & ATK increases by the number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
 JP: チーム内の2体攻撃の覚醒数1つにつき回復力ｘ5.0倍をHP回復。チーム内の2体攻撃の覚醒数1つにつき攻撃力が5％上がる
-EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
-KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 1 turn, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
+KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
 
 # 15127/138 - Eternal Dragon Echo - Give & Gave
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS

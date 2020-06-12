@@ -11,10 +11,10 @@ EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs;
 KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Change the far right column to Heal orbs
 
 # 13535/138 - Eternal Dragon Echo - Soa
-Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 18.0, 1, 0.5]
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 18.0, 1, 0.5, +2]
 Game: 6x ATK when 5+ Att. (4+Heal) attack at once; 3x ATK & halves damage with 5+ linked Heal Orbs
-JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍。回復を5個以上つなげて消すと攻撃力が3倍、受けるダメージを50％減少。
-EN: 6x ATK when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
-KR: 6x ATK when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+JP: 5色(4色+回復)以上同時攻撃で攻撃力が6倍、2コンボ加算。回復を5個以上つなげて消すと攻撃力が3倍、受けるダメージを50％減少。
+EN: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
+KR: 6x ATK and increase combo by 2 when matching 5 or more colors (4+heal); 3x ATK and reduce damage taken by 50% when matching 5 or more connected Heal orbs
 
