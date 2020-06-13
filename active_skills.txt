@@ -47484,9 +47484,16 @@ KR: Changes to [6153] for the duration of the dungeon
 # 17263/116 - レッドドリーム
 Tags: EXTENDS_TIME
 Game: 1ターンの間、ランダムでルーレットを1個生成。 1ターンの間、ドロップ操作を5秒延長。
-JP: 1ターンの間、ドロップ操作時間が5秒に延長
-EN: For 1 turn, increase orb move time by 5 seconds
-KR: For 1 turn, increase orb move time by 5 seconds
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する。1ターンの間、ドロップ操作時間が5秒に延長
+EN: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
+KR: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
+
+# 17264/207 - 
+Tags: 
+Game: 
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する
+EN: Random 1 orbs change every 1.0s for 1 turn
+KR: Random 1 orbs change every 1.0s for 1 turn
 
 # 17265/132 - 
 Tags: EXTENDS_TIME

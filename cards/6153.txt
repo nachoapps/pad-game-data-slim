@@ -6,9 +6,9 @@ SAWK:
 # 17263/116 - レッドドリーム
 Tags: EXTENDS_TIME
 Game: 1ターンの間、ランダムでルーレットを1個生成。 1ターンの間、ドロップ操作を5秒延長。
-JP: 1ターンの間、ドロップ操作時間が5秒に延長
-EN: For 1 turn, increase orb move time by 5 seconds
-KR: For 1 turn, increase orb move time by 5 seconds
+JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する。1ターンの間、ドロップ操作時間が5秒に延長
+EN: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
+KR: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
 
 # 17266/138 - 古夢霊の眠術
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
