@@ -90782,260 +90782,260 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 18149/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18149/106 - 敵の行動ターンが変化した
+JP: 50%HP以下で行動ターンが1に変わる
+EN: Enemy turn counter change to 1 when HP <= 50%
+KR: Enemy turn counter change to 1 when HP <= 50%
 
-# 18150/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18150/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 18151/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18151/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18152/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18152/71 - 硬質な外殻
+JP: 999ターンの間、10000000以上のダメージを無効化
+EN: Void damage >= 10000000 for 999 turns
+KR: Void damage >= 10000000 for 999 turns
 
-# 18153/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18153/110 - 蔓の悪戯
+JP: 10.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 10 turns
+KR: Specific orbs change every 1.0s for 10 turns
 
-# 18154/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18154/83 - ＿1%
+JP: 
+EN: 
+KR: 
 
-# 18155/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18155/86 - 癒しの蜜
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 18156/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18156/88 - 潜力消化液
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
 
-# 18157/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18157/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
 
-# 18158/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18158/89 - 強酸性樹液
+JP: スキルターンを0〜2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
-# 18159/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18159/15 - 蔓の棘鞭
+JP: 112%ダメージ (4連続攻撃、28%ごと)
+EN: Deal 112% damage (4 hits, 28% each)
+KR: Deal 112% damage (4 hits, 28% each)
 
-# 18160/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18160/15 - 棘鞭大乱打
+JP: 600%ダメージ (6連続攻撃、100%ごと)
+EN: Deal 600% damage (6 hits, 100% each)
+KR: Deal 600% damage (6 hits, 100% each)
 
-# 18161/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18161/69 - 変身
+JP: 「ゼレンバスの外殻が開花していく|真の姿を現した！」を表示
+EN: Show message: ゼレンバスの外殻が開花していく|真の姿を現した！
+KR: Show message: ゼレンバスの外殻が開花していく|真の姿を現した！
 
-# 18162/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18162/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18163/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18163/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18164/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18164/20 - 防植壁
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 18165/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18165/67 - 軟質外殻
+JP: 999ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 999 turns
+KR: Absorb damage when combos <= 7 for 999 turns
 
-# 18166/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18166/130 - 抜力蜜
+JP: 10ターンの間、攻撃力が75%減少
+EN: ATK -75% for 10 turns
+KR: ATK -75% for 10 turns
 
-# 18167/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18167/94 - 氷結の大地
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
 
-# 18168/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18168/89 - 強酸性樹液
+JP: スキルターンを0〜2ターン遅延
+EN: Delay active skills by 0~2 turns
+KR: Delay active skills by 0~2 turns
 
-# 18169/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18169/15 - 蔓の棘鞭
+JP: 112%ダメージ (4連続攻撃、28%ごと)
+EN: Deal 112% damage (4 hits, 28% each)
+KR: Deal 112% damage (4 hits, 28% each)
 
-# 18170/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18170/83 - ＿50％
+JP: 
+EN: 
+KR: 
 
 # 18171/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 18172/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18172/105 - 癒抑粉
+JP: 10ターンの間、回復力を50%になる
+EN: RCV 50% for 10 turns
+KR: RCV 50% for 10 turns
 
 # 18173/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing
 
-# 18174/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18174/83 - ＿50%以下通常Ａ
+JP: 
+EN: 
+KR: 
 
-# 18175/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18175/83 - ＿50%以下通常Ｂ
+JP: 
+EN: 
+KR: 
 
-# 18176/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18176/50 - 口腔噛砕
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
 
-# 18177/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18177/83 - ＿20％
+JP: 
+EN: 
+KR: 
 
-# 18178/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18178/88 - 潜力消化液
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
 
-# 18179/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18179/89 - 酸性樹液
+JP: スキルターンを5ターン遅延
+EN: Delay active skills by 5 turns
+KR: Delay active skills by 5 turns
 
-# 18180/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18180/83 - ＿発狂
+JP: 
+EN: 
+KR: 
 
-# 18181/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18181/46 - 擬態
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 18182/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18182/15 - 噛棘鞭狂乱打
+JP: 700%ダメージ (7連続攻撃、100%ごと)
+EN: Deal 700% damage (7 hits, 100% each)
+KR: Deal 700% damage (7 hits, 100% each)
 
-# 18183/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18183/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18184/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18184/88 - 騎士の決闘
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
 
-# 18185/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18185/102 - バーンフレイム
+JP: 爆弾ドロップを5個生成
+EN: Spawn 5 random Bomb orbs
+KR: Spawn 5 random Bomb orbs
 
-# 18186/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18186/96 - 閉ざされし退路
+JP: 10ターンの間、ロックされたランダム属性のドロップを+25%に落ちてくる
+EN: Locked random skyfall +25% for 10 turns
+KR: Locked random skyfall +25% for 10 turns
 
-# 18187/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18187/63 - ナイトスレイブ
+JP: 2〜3ターンの間、ランダムでサブ1体がバインド
+EN: Bind 1 random sub for 2~3 turns
+KR: Bind 1 random sub for 2~3 turns
 
-# 18188/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18188/50 - グラビトンブレイク
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
 
-# 18189/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18189/48 - ファストポリューション
+JP: ランダム属性のドロップを猛毒ドロップに変化
+EN: Change a random attribute to Mortal Poison orbs
+KR: Change a random attribute to Mortal Poison orbs
 
-# 18190/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18190/15 - オーバーブレイク
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
 
-# 18191/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18191/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18192/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18192/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18193/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18193/127 - 不落の神意
+JP: 10ターンの間、落ちコンしなくなる
+EN: No skyfall for 10 turns
+KR: No skyfall for 10 turns
 
-# 18194/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18194/39 - 氷天使の審判
+JP: 10ターンの間、操作時間50%
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
-# 18195/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18195/17 - 久遠の軌跡
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
 
-# 18196/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18196/48 - 聖氷の審判
+JP: ランダム属性のドロップを水ドロップに変化
+EN: Change a random attribute to Water orbs
+KR: Change a random attribute to Water orbs
 
-# 18197/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18197/46 - 天よりの裁き
+JP: 自分の属性が{}のうちいずれかに変化する火と水
+EN: Change own attribute to random one of Fire or Water
+KR: Change own attribute to random one of Fire or Water
 
-# 18198/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18198/84 - 氷結の世界
+JP: 全ドロップを水に変化
+EN: Change all orbs to Water
+KR: Change all orbs to Water
 
-# 18199/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18199/15 - 命の破砕
+JP: 2000%ダメージ (5連続攻撃、400%ごと)
+EN: Deal 2000% damage (5 hits, 400% each)
+KR: Deal 2000% damage (5 hits, 400% each)
 
 # 18200/0 - なし
 JP: nothing
@@ -91787,40 +91787,40 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 18350/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18350/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18351/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18351/108 - この先は行かせねぇ
+JP: 火と水ドロップを光ドロップに変化
+EN: Change all Fire and Water orbs to Light orbs
+KR: Change all Fire and Water orbs to Light orbs
 
-# 18352/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18352/108 - 行かせるかよ
+JP: 木と闇ドロップを光ドロップに変化
+EN: Change all Wood and Dark orbs to Light orbs
+KR: Change all Wood and Dark orbs to Light orbs
 
-# 18353/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18353/15 - 微塵切り
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
 
-# 18354/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18354/68 - 絶対通さねえ
+JP: 1ターンの間、お邪魔ドロップを+20%に落ちてくる
+EN: Jammer skyfall +20% for 1 turn
+KR: Jammer skyfall +20% for 1 turn
 
-# 18355/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18355/68 - 通さねぇって言ってるだろ
+JP: 1ターンの間、毒ドロップを+20%に落ちてくる
+EN: Poison skyfall +20% for 1 turn
+KR: Poison skyfall +20% for 1 turn
 
-# 18356/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18356/15 - ぶった切り
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
 
 # 18357/0 - なし
 JP: nothing

@@ -73183,3 +73183,35 @@ JP: 火木同時攻撃で固定1ダメージ。
 EN: 1 additional damage when matching Fire and Wood
 KR: 1 additional damage when matching Fire and Wood
 
+# 17499/138 - 葉鱗の妖香
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [2.0, 14.0, 1.0, 0.25, +1]
+Game: 木属性のHPと攻撃力が2倍。木回復の同時攻撃で1コンボ加算。 回復ドロップで6万以上回復するとダメージを軽減、攻撃力が7倍。
+JP: 木属性のHPと攻撃力が2倍。回復ドロップで60000以上回復すると攻撃力が7倍、受けるダメージを25％減少。木か回復の同時攻擊で1コンボ加算
+EN: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; Increase combo by 1 when matching Wood and Heal
+KR: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; Increase combo by 1 when matching Wood and Heal
+
+# 17500/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 木属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Wood Att.
+KR: 2x HP & ATK for Wood Att.
+
+# 17501/198 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 7.0, 1, 0.25]
+Game: 
+JP: 回復ドロップで60000以上回復すると攻撃力が7倍、受けるダメージを25％減少。
+EN: 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs
+KR: 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs
+
+# 17502/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 木か回復の同時攻擊で1コンボ加算
+EN: Increase combo by 1 when matching Wood and Heal
+KR: Increase combo by 1 when matching Wood and Heal
+

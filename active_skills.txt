@@ -47887,3 +47887,31 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
+# 17496/116 - キャプチャーブレス
+Tags: ENHANCED_HEAL,DROP_CHANCE,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンなし、回復力が1.5倍。 2ターンの間、水、木、回復ドロップが少し落ちやすくなる。
+JP: 2ターンの間、落ちコンしなくなる。2ターンの間、回復力が1.5倍。2ターンの間、水、木、回復ドロップが10％落ちやすくなる
+EN: For 2 turns, no skyfall; For 2 turns, 1.5x RCV; For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%
+KR: For 2 turns, no skyfall; For 2 turns, 1.5x RCV; For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%
+
+# 17497/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 2ターンの間、落ちコンしなくなる
+EN: For 2 turns, no skyfall
+KR: For 2 turns, no skyfall
+
+# 17498/126 - 
+Tags: DROP_CHANCE
+Game: 
+JP: 2ターンの間、水、木、回復ドロップが10％落ちやすくなる
+EN: For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%
+KR: For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%
+
+# 17503/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 2ターンの間、回復力が1.5倍
+EN: For 2 turns, 1.5x RCV
+KR: For 2 turns, 1.5x RCV
+
