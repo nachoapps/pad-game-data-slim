@@ -1,0 +1,15 @@
+#200077 - ブラックナイト
+monster size: 2
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 200077
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18183:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ group:
+ | (18190:15) オーバーブレイク
+ | Deal 100% damage (4 hits, 25% each)

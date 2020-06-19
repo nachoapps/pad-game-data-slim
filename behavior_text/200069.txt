@@ -1,0 +1,18 @@
+#200069 - フレイムナイト
+monster size: 2
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 200069
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18183:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18184:88) 騎士の決闘
+ | Bind awoken skills for 1 turn
+ group:
+ | (18185:102) バーンフレイム
+ | Spawn 5 random Bomb orbs, Deal 100% damage

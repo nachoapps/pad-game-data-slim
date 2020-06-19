@@ -1,0 +1,18 @@
+#200071 - アクアナイト
+monster size: 2
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 200071
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18183:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18186:96) 閉ざされし退路
+ | Locked random skyfall +25% for 10 turns
+ group:
+ | (18187:63) ナイトスレイブ
+ | Bind 1 random sub for 2~3 turns, Deal 100% damage

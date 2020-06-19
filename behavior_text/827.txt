@@ -1,0 +1,25 @@
+#827 - Shugen Demon, Shouki
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 827
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18350:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18351:108) この先は行かせねぇ
+ | Change all Fire and Water orbs to Light orbs, Deal 80% damage
+ | (18353:15) 微塵切り
+ | Deal 100% damage (4 hits, 25% each)
+ group:
+ | group:
+   | (18353:15) 微塵切り
+   | Deal 100% damage (4 hits, 25% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (18352:108) 行かせるかよ
+   | Change all Wood and Dark orbs to Light orbs, Deal 100% damage
