@@ -73187,9 +73187,9 @@ KR: 1 additional damage when matching Fire and Wood
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [2.0, 14.0, 1.0, 0.25, +1]
 Game: 木属性のHPと攻撃力が2倍。木回復の同時攻撃で1コンボ加算。 回復ドロップで6万以上回復するとダメージを軽減、攻撃力が7倍。
-JP: 木属性のHPと攻撃力が2倍。回復ドロップで60000以上回復すると攻撃力が7倍、受けるダメージを25％減少。木か回復の同時攻擊で1コンボ加算
-EN: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; Increase combo by 1 when matching Wood and Heal
-KR: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; Increase combo by 1 when matching Wood and Heal
+JP: 木属性のHPと攻撃力が2倍。回復ドロップで60000以上回復すると攻撃力が7倍、受けるダメージを25％減少。木、回復同時攻撃で1コンボ加算。
+EN: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; increase combo by 1 when matching Wood and Heal at once
+KR: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; increase combo by 1 when matching Wood and Heal at once
 
 # 17500/129 - 
 Tags: ENHANCED_HP_ATK
@@ -73207,11 +73207,11 @@ JP: 回復ドロップで60000以上回復すると攻撃力が7倍、受ける�
 EN: 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs
 KR: 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs
 
-# 17502/206 - 
+# 17502/194 - 
 Tags: EXTRA_COMBOS
-Stats: [1, 1, 1, 0, +1]
+Stats: [1, 1.0, 1, 0, +1]
 Game: 
-JP: 木か回復の同時攻擊で1コンボ加算
-EN: Increase combo by 1 when matching Wood and Heal
-KR: Increase combo by 1 when matching Wood and Heal
+JP: 木、回復同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Wood and Heal at once
+KR: increase combo by 1 when matching Wood and Heal at once
 
