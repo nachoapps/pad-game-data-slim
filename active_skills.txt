@@ -33889,7 +33889,7 @@ KR: For 1 turn, only Water, Light, Dark, and Heal orbs will appear
 
 # 13268/116 - Weaklings.
 Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
-Game: Pierce through enemy's damage void for 1 turn; changes Orbs to all Attributes
+Game: Pierce through enemy's damage void for 3 turns; changes Orbs to all Attributes
 JP: 3ターンの間、ダメージ無効を貫通する。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 3 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -33973,7 +33973,7 @@ KR: Change all orbs to Fire, Wood, Dark, and Heal orbs
 
 # 13289/116 - Until the surgery is complete.
 Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Reduces bind status (incl. Awoken) by 6 turns; 3x ATK for Dark Att. for 1 turn
+Game: Reduces bind status (incl. Awoken) by 10 turns; 3x ATK for Dark Att. for 1 turn
 JP: バインドと覚醒無効を10ターン回復。1ターンの間、闇属性の攻撃力が3倍
 EN: Reduce binds and awoken skill binds by 10 turns; For 1 turn, 3x ATK for Dark Att.
 KR: Reduce binds and awoken skill binds by 10 turns; For 1 turn, 3x ATK for Dark Att.
@@ -34085,7 +34085,7 @@ KR: For 5 turns, 1.5x ATK for Attacker type
 
 # 13314/116 - You can't save anyone by being nice.
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Changes Water & Jammers to Wood and Dark & Poison to Fire Orbs; reduces bind status (incl. Awoken) by 3 turns
+Game: Changes Water & Jammers to Wood and Dark & Poison to Fire Orbs; reduces bind status (incl. Awoken) by 5 turns
 JP: 水とお邪魔ドロップを木ドロップに変化。闇、毒、猛毒ドロップを火ドロップに変化。バインドと覚醒無効を5ターン回復
 EN: Change Water and Jammer orbs to Wood orbs; Change Dark, Poison, and Mortal Poison orbs to Fire orbs; Reduce binds and awoken skill binds by 5 turns
 KR: Change Water and Jammer orbs to Wood orbs; Change Dark, Poison, and Mortal Poison orbs to Fire orbs; Reduce binds and awoken skill binds by 5 turns
@@ -46249,9 +46249,9 @@ JP: 1ターンの間、ドロップ操作時間が1秒に延長
 EN: For 1 turn, increase orb move time by 1 second
 KR: For 1 turn, increase orb move time by 1 second
 
-# 16952/116 - 手合わせ願うぞ
+# 16952/116 - Let's go for another bout.
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,ADD_COMBO
-Game: 1ターンの間、3コンボ加算。 闇と火ドロップを木に、水ドロップを回復に変化。
+Game: Adds 3 combos for 1 turn; changes Dark & Fire Orbs to Wood and Water Orbs to Heal
 JP: 1ターンの間、3コンボ加算される。火と闇ドロップを木ドロップに変化。水ドロップを回復ドロップに変化
 EN: For 1 turn, increase combo count by 3; Change Fire and Dark orbs to Wood orbs; Change Water orbs to Heal orbs
 KR: For 1 turn, increase combo count by 3; Change Fire and Dark orbs to Wood orbs; Change Water orbs to Heal orbs
@@ -46277,9 +46277,9 @@ JP: 水ドロップを回復ドロップに変化
 EN: Change Water orbs to Heal orbs
 KR: Change Water orbs to Heal orbs
 
-# 16960/116 - オレの本気を喰らえ
+# 16960/116 - This is my all out attack.
 Tags: ENHANCED_ATTACK
-Game: ランダムで光と闇ドロップを1個ずつ生成。 1ターンの間、闇属性の攻撃力が1.2倍。
+Game: Creates 1 Light Orb & 1 Dark Orb at random; 1.2x ATK for Dark Att. for 1 turn
 JP: ランダムで光と闇を1個ずつ生成。1ターンの間、闇属性の攻撃力が1.2倍
 EN: Create 1 Light and Dark orb; For 1 turn, 1.2x ATK for Dark Att.
 KR: Create 1 Light and Dark orb; For 1 turn, 1.2x ATK for Dark Att.
@@ -46291,9 +46291,9 @@ JP: 全ドロップを火、水、木、光、闇ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
-# 16965/116 - 僕は全ての人間を超越した！
+# 16965/116 - I've transcended all mankind!
 Tags: ALL_ORBS_CONVERT,REMOVE_LOCK,PIERCE_DAMAGE_VOID
-Game: 3ターンの間、ダメージ無効を貫通。 全ドロップのロックを解除し、5属性ドロップに変化。
+Game: Pierce through enemy's damage void for 3 turns; removes Orb locks, changes Orbs to all Attributes
 JP: 3ターンの間、ダメージ無効を貫通する。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇ドロップに変化
 EN: For 3 turns, bypass void damage shield effects; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: For 3 turns, bypass void damage shield effects; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
@@ -46312,9 +46312,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 16971/116 - ぶつわよ
+# 16971/116 - I'm going to hit you.
 Tags: VOID_ATT_ABSORBS
-Game: 2ターンの間、属性吸収を無効化。 ランダムで光ドロップを6個生成。
+Game: Voids Attribute absorption for 2 turns; creates 6 Light Orbs at random
 JP: 2ターンの間、属性吸収を無効化する。光ドロップを6個生成
 EN: For 2 turns, bypass att. absorb shield effects; Create 6 Light orbs
 KR: For 2 turns, bypass att. absorb shield effects; Create 6 Light orbs
@@ -46333,9 +46333,9 @@ JP: 光ドロップを6個生成
 EN: Create 6 Light orbs
 KR: Create 6 Light orbs
 
-# 16980/116 - ぶつよ
+# 16980/116 - I'll hit you.
 Tags: ADD_COMBO
-Game: 1ターンの間、2コンボ加算。3×3の正方形に 光ドロップを1つ生成。（7×6マスの場合は3×4の長方形）
+Game: Adds 2 combos for 1 turn; creates a square of 3x3 Light Orbs, creates a rectangle of 3x4 Orbs when board is 7x6
 JP: 1ターンの間、2コンボ加算される。下から2行目と左から2列目の中心に正方形の光ドロップを1つ生成
 EN: For 1 turn, increase combo count by 2; Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 KR: For 1 turn, increase combo count by 2; Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
@@ -46354,9 +46354,9 @@ JP: 下から2行目と左から2列目の中心に正方形の光ドロップ�
 EN: Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 KR: Create a square of Light orbs with its center at the 2nd row from the bottom and the 2nd column from the left
 
-# 16983/116 - 心を取り戻すんだ!!!
+# 16983/116 - Fat chance!
 Tags: REDUCE_SKILL_TURN
-Game: ランダムで火、木、回復ドロップを10個ずつ生成。 自分以外の味方スキルが2ターン溜まる。
+Game: Creates 10 Fire, Wood & Heal Orbs each at random; other allies' skills charged by 2 turns
 JP: ランダムで火、木、回復を10個ずつ生成。自分以外の味方スキルが2ターンの溜まる
 EN: Create 10 Fire, Wood, and Heal orbs over any orbs; Charge all allies' skills by 2 turns
 KR: Create 10 Fire, Wood, and Heal orbs over any orbs; Charge all allies' skills by 2 turns
@@ -46375,9 +46375,9 @@ JP: 自分以外の味方スキルが2ターンの溜まる
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
-# 16992/116 - 内蔵巫力
+# 16992/116 - Internal Mana Drive
 Tags: REDUCE_SKILL_TURN,VOID_DAMAGE_ABSORBS
-Game: 1ターンの間、ダメージ吸収を無効化。 自分以外の味方スキルが3ターン溜まる。
+Game: Voids damage absorption for 1 turn; other allies' skills charged by 3 turns
 JP: 1ターンの間、ダメージ吸収を無効化する。自分以外の味方スキルが3ターンの溜まる
 EN: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 3 turns
 KR: For 1 turn, bypass damage absorb shield effects; Charge all allies' skills by 3 turns
@@ -46396,9 +46396,9 @@ JP: 自分以外の味方スキルが3ターンの溜まる
 EN: Charge all allies' skills by 3 turns
 KR: Charge all allies' skills by 3 turns
 
-# 16995/116 - 壊滅だよ
+# 16995/116 - Annihilation.
 Tags: EXTENDS_TIME
-Game: 1ターンの間、ドロップ操作を1秒延長。 ランダムで光と闇ドロップを3個ずつ生成。
+Game: Orb move time +1 second for 1 turn; creates 3 Light & Dark Orbs each at random
 JP: 1ターンの間、ドロップ操作時間が1秒に延長。ランダムで光と闇を3個ずつ生成
 EN: For 1 turn, increase orb move time by 1 second; Create 3 Light and Dark orbs
 KR: For 1 turn, increase orb move time by 1 second; Create 3 Light and Dark orbs
@@ -46417,9 +46417,9 @@ JP: ランダムで光と闇を3個ずつ生成
 EN: Create 3 Light and Dark orbs
 KR: Create 3 Light and Dark orbs
 
-# 17002/116 - 魂を砕く力
+# 17002/116 - Power to Crush Souls
 Tags: ENHANCED_ATTACK,NEW_GRAVITY
-Game: 敵の最大HP20％分のダメージ。 1ターンの間、闇属性の攻撃力が4倍。
+Game: Inflicts damage equal to 20% of enemies' max HP; 4x ATK for Dark Att. for 1 turn
 JP: 敵の最大HPの20％分のダメージ。1ターンの間、闇属性の攻撃力が4倍
 EN: Deal damage equal to 20% of enemies' max HP; For 1 turn, 4x ATK for Dark Att.
 KR: Deal damage equal to 20% of enemies' max HP; For 1 turn, 4x ATK for Dark Att.
@@ -46438,9 +46438,9 @@ JP: 1ターンの間、闇属性の攻撃力が4倍
 EN: For 1 turn, 4x ATK for Dark Att.
 KR: For 1 turn, 4x ATK for Dark Att.
 
-# 17005/116 - オイラだってシャーマンなんだぜ
+# 17005/116 - I'm a Shaman, too! 
 Tags: ALL_ORBS_CONVERT,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ状態を全回復。 全ドロップを火、水、木、光、闇ドロップに変化。
+Game: Fully recovers unmatchable Orb status; changes Orbs to all Attributes
 JP: 消せないドロップ状態を9999ターン回復。全ドロップを火、水、木、光、闇ドロップに変化
 EN: Reduce unable to match orbs effect by 9999 turns; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 KR: Reduce unable to match orbs effect by 9999 turns; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
