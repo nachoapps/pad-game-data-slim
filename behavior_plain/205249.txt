@@ -1,4 +1,4 @@
-#205249 - ハオ
+#205249 - Hao
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -13,22 +13,22 @@ Branch on level >= 4, target rnd 4
 #3: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#4: ESDamageShield(74:13242) -> さっそく始めようか
+#4: ESDamageShield(74:13242) -> All right.
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 5 turns
 
 #5: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 10
 
-#6: ESBindAttack(63:13244) -> 本当にバカな連中だね
+#6: ESBindAttack(63:13244) -> Fools. I told you to fight me all at once.
 Condition: 33% chance (ai:0 rnd:33)
 Bind 1 random sub for 5 turns, Deal 95% damage
 
-#7: ESSkillDelay(89:13245) -> どうせ僕には勝てないんだよ？
+#7: ESSkillDelay(89:13245) -> Your sacrifices will all be in vain.
 Condition: 33% chance (ai:0 rnd:33)
 Delay active skills by 0~2 turns, Deal 100% damage
 
-#8: ESRandomSpawn(92:13246) -> 口の利き方には気を付けた方がいい
+#8: ESRandomSpawn(92:13246) -> Be careful how you speak.
 Condition: 34% chance (ai:0 rnd:34)
 Spawn 8 random Jammer orbs, Deal 90% damage
 
@@ -41,7 +41,7 @@ Branch on flag & 1, target rnd 14
 #11: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#12: ESAbsorbCombo(67:13243) -> ちっちぇえな
+#12: ESAbsorbCombo(67:13243) -> Weaklings.
 Absorb damage when combos <= 5 for 10 turns
 
 #13: ESEndPath(36:26) -> ESEndPath
@@ -50,7 +50,7 @@ end_turn
 #14: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 21, target rnd 6
 
-#15: ESAttackMultihit(15:13247) -> ちょっぴり痛かったかな…
+#15: ESAttackMultihit(15:13247) -> I didn't mean to upset you.
 Deal 240% damage (8 hits, 30% each)
 
 #16: ESEndPath(36:26) -> ESEndPath

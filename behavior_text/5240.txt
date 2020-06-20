@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17572:94) かかってきなさいよ
+ | (17572:94) Bring it on.
  | Lock 8 random orbs
  group:
  | group:
    | condition: 50% chance
-   | (17574:92) ユルシ道具「1080」
+   | (17574:92) Itako Tool, the 1080
    | Spawn 3 random Fire orbs, Deal 80% damage
-   | (17575:15) 甘えてんじゃないわよ
+   | (17575:15) Don't be a big baby.
    | Deal 100% damage
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
-     | (17573:17) イタコ式憑依術クチヨセ
+     | (17573:17) Itako-style integration! Spirit channeling!
      | Increase damage to 150% for the next 4 turns
    | group:
-     | (17576:77) 幻の左!!!
+     | (17576:77) The Left Hand of Doom!!
      | Change the 2nd column to Fire orbs, Deal 120% damage

@@ -5,26 +5,7 @@
       group_type: PREEMPT
       children {
         behavior {
-          condition {
-            use_chance: 33
-          }
-          enemy_skill_id: 13283
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 33
-          }
-          enemy_skill_id: 13284
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 34
-          }
-          enemy_skill_id: 13285
+          enemy_skill_id: 17665
         }
       }
     }
@@ -209,4 +190,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

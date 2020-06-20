@@ -7,6 +7,9 @@ monster_id: 5250
 approved: False
 
 level: 1
+ type: PREEMPT
+ | (17661:67) Weaklings.
+ | Absorb damage when combos <= 6 for 6 turns
  group:
  | group:
    | condition: 50% chance

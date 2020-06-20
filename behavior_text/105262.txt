@@ -1,4 +1,4 @@
-#105262 - マルコ
+#105262 - Marco
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17619:1) 悪に死の裁きを
+ | (17619:1) Deal death to evil.
  | Bind 3 random cards for 5 turns
  group:
  | group:
    | condition: 50% chance
-   | (17620:105) 逃げては敵は落とせんぞ!!!
+   | (17620:105) You can't defeat an enemy by running away!
    | RCV 50% for 1 turn, Deal 80% damage
-   | (17621:92) 他愛ない
+   | (17621:92) Not a problem.
    | Spawn 6 random Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 29
    | group:
    | condition: turn 1
-     | (17622:1) 君はまだ甘いのだ
+     | (17622:1) You're still too soft-hearted.
      | Bind 1 random card for 10 turns
    | group:
-     | (17623:77) 死刑
+     | (17623:77) Death penalty!!!
      | Change the 1st column to Light orbs and the 2nd column to Light orbs, Deal 110% damage

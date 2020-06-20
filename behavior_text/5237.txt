@@ -8,19 +8,19 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17566:83) 行くぞ！ + 憑依合体!!
+ | (17566:83) Here we go! + Integrate!!!
  | Blind all orbs on the board + Voids status ailments for 5 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-2 of 3
-     | (17569:77) 阿弥陀流後光刃！
+     | (17569:77) Amida-ryu Halo Blade!!!!!
      | Change the 1st column to Light orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
-     | (17570:39) いいかげんにしとけ
+     | (17570:39) That's enough.
      | Movetime -2s for 1 turn, Deal 80% damage
  | group:
  | condition: hp <= 19
-   | (17571:79) 阿弥陀流真空仏陀切り！
+   | (17571:79) Amida-ryu Shockwave Buddha-giri!!!!!!
    | Change the 5th row to Wood orbs, Deal 110% damage

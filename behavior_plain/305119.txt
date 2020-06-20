@@ -161,7 +161,7 @@ end_turn
 counter = 1
 
 #46: SkillSet:
-	[0] ESBindAwoken(88:12362) -> Destructive Fighting Spririt
+	[0] ESBindAwoken(88:12362) -> Destructive Fighting Spirit
 	Bind awoken skills for 5 turns
 	[1] ESRecoverEnemyAlly(52:12363) -> Seven-Star Regeneration
 	Enemy ally recover 100% HP
