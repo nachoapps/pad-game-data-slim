@@ -20105,9 +20105,9 @@ KR: For 3 turns, 1.5x orb move time
 # 8065/116 - Holy Fire's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs to Fire & Dark Orbs to Heal; recovers 30% of max HP
-JP: 光ドロップを火ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復
-EN: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
-KR: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+JP: 光ドロップを火ドロップに、闇ドロップを回復ドロップに変化。最大HP50％分回復
+EN: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
+KR: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 
 # 8066/20 - 
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -20119,16 +20119,16 @@ KR: Change Light orbs to Fire orbs; Change Dark orbs to Heal orbs
 # 8067/117 - 
 Tags: HEAL
 Game: 
-JP: 最大HP30％分回復
-EN: Recover 30% of max HP
-KR: Recover 30% of max HP
+JP: 最大HP50％分回復
+EN: Recover 50% of max HP
+KR: Recover 50% of max HP
 
 # 8071/116 - Holy Water's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs to Water & Dark Orbs to Heal; recovers 30% of max HP
-JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復
-EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
-KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップに変化。最大HP50％分回復
+EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
+KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 
 # 8072/20 - 
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -20140,16 +20140,16 @@ KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs
 # 8073/117 - 
 Tags: HEAL
 Game: 
-JP: 最大HP30％分回復
-EN: Recover 30% of max HP
-KR: Recover 30% of max HP
+JP: 最大HP50％分回復
+EN: Recover 50% of max HP
+KR: Recover 50% of max HP
 
 # 8077/116 - Holy Wood's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs to Wood & Dark Orbs to Heal; recovers 30% of max HP
-JP: 光ドロップを木ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復
-EN: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
-KR: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+JP: 光ドロップを木ドロップに、闇ドロップを回復ドロップに変化。最大HP50％分回復
+EN: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
+KR: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 
 # 8078/20 - 
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -20161,9 +20161,9 @@ KR: Change Light orbs to Wood orbs; Change Dark orbs to Heal orbs
 # 8079/117 - 
 Tags: HEAL
 Game: 
-JP: 最大HP30％分回復
-EN: Recover 30% of max HP
-KR: Recover 30% of max HP
+JP: 最大HP50％分回復
+EN: Recover 50% of max HP
+KR: Recover 50% of max HP
 
 # 8083/116 - Divine Lifeforce Barrier
 Tags: VOID_DAMAGE,HEAL
@@ -47886,6 +47886,34 @@ Game:
 JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
+
+# 17464/116 - サンセットモーメント
+Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,VOID_SKYFALLS
+Game: 全ドロップを5属性＋回復＋お邪魔ドロップに変化。 1ターンの間、落ちコンなし、神タイプの攻撃力が1.5倍。
+JP: 全ドロップを火、水、木、光、闇、回復、お邪魔ドロップに変化。1ターンの間、落ちコンしなくなる。1ターンの間、神タイプの攻撃力が1.5倍
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for God type
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for God type
+
+# 17465/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを火、水、木、光、闇、回復、お邪魔ドロップに変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs
+
+# 17466/88 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、神タイプの攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for God type
+KR: For 1 turn, 1.5x ATK for God type
+
+# 17485/184 - 
+Tags: VOID_SKYFALLS
+Game: 
+JP: 1ターンの間、落ちコンしなくなる
+EN: For 1 turn, no skyfall
+KR: For 1 turn, no skyfall
 
 # 17496/116 - キャプチャーブレス
 Tags: ENHANCED_HEAL,DROP_CHANCE,VOID_SKYFALLS

@@ -6,9 +6,9 @@ SAWK: 43,59,52
 # 8071/116 - Holy Water's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Light Orbs to Water & Dark Orbs to Heal; recovers 30% of max HP
-JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復
-EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
-KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップに変化。最大HP50％分回復
+EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
+KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 
 # 10654/138 - Spirit of the Ice Archangel
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
