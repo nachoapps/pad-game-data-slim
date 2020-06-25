@@ -1,0 +1,12 @@
+#6367 メタトロンのアバたま
+HP: 4850 ATK: 2640 RCV: 263 LB: 0
+AWK: 49,58,12,12
+SAWK: 
+
+# 11374/116 - Divine Punishment of Calamity
+Tags: SINGLE_TARGET_ATTACK,ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
+Game: Inflicts 100x ATK Dark Att. attack on 1 enemy, but HP -20%; removes Orb locks, changes Orbs to Light & Dark
+JP: HPが20％減少。敵1体に攻撃力ｘ100倍の闇属性攻撃。全ドロップのロック状態を解除。全ドロップを光と闇ドロップに変化
+EN: Reduce HP by 20%; Deal 100x Dark damage to an enemy; Unlock all orbs; Change all orbs to Light and Dark orbs
+KR: Reduce HP by 20%; Deal 100x Dark damage to an enemy; Unlock all orbs; Change all orbs to Light and Dark orbs
+
