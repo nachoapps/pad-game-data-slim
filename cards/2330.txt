@@ -6,7 +6,15 @@ SAWK:
 # 620/5 - What are you, stupid?
 Tags: STOP_TIME
 Game: Move Orbs freely for 7 seconds
-JP: 7秒間、時を止めてドロップを動かせる
-EN: Freely move orbs for 7 seconds
-KR: Freely move orbs for 7 seconds
+JP: 10秒間、時を止めてドロップを動かせる
+EN: Freely move orbs for 10 seconds
+KR: Freely move orbs for 10 seconds
+
+# 1260/138 - Code 777
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 9.0, 1.0, 0.0]
+Game: 2.5x ATK and 2x HP for Attacker Type
+JP: 攻撃タイプの攻撃力が3倍、HPが2倍。5コンボ以上で攻撃力が3倍。
+EN: 3x ATK and 2x HP for Attacker type; 3x ATK when 5 or more combos
+KR: 3x ATK and 2x HP for Attacker type; 3x ATK when 5 or more combos
 

@@ -10,3 +10,11 @@ JP: 木ドロップを火ドロップに、闇ドロップを回復ドロップ�
 EN: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; For 1 turn, increase orb move time by 5 seconds
 KR: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; For 1 turn, increase orb move time by 5 seconds
 
+# 6807/138 - Yamato Takeru's Providence
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 10.0, 2.0, 0.0]
+Game: 2x HP & ATK for Attacker Type;  2.5x ATK when erasing 6+ linked Fire Orbs
+JP: 攻撃タイプの全パラメータが2倍。火を6個以上つなげて消すと攻撃力が5倍。
+EN: 2x all stats for Attacker type; 5x ATK when matching 6 or more connected Fire orbs
+KR: 2x all stats for Attacker type; 5x ATK when matching 6 or more connected Fire orbs
+

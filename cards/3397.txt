@@ -1,7 +1,7 @@
 #3397 Scheat Regalia, Shinji
-HP: 3155 ATK: 1801 RCV: 312 LB: 0
-AWK: 27,27,27,21,28,19
-SAWK: 
+HP: 3155 ATK: 2151 RCV: 312 LB: 30
+AWK: 27,27,27,27,27,56,28,19,43
+SAWK: 52,27,21
 
 # 6810/116 - What am I supposed to do now?
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,DROP_CHANCE
@@ -11,10 +11,10 @@ EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs; For 4 turns, 
 KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs; For 4 turns, Water orbs are more likely to appear by 15%
 
 # 6813/138 - Scheat's Providence
-Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 3.75, 1.5, 0.0]
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 13.5, 1.5, 0.25]
 Game: 1.5x to all stats for Attacker Type; 2x ATK with 2 Water combos, 2.5x with 3+ combos
-JP: 攻撃タイプの全パラメータが1.5倍。水の2コンボで攻撃力が2倍、最大3コンボで2.5倍。
-EN: 1.5x all stats for Attacker type; 2x ATK when matching 2 Water combos, up to 2.5x at 3 Water combos
-KR: 1.5x all stats for Attacker type; 2x ATK when matching 2 Water combos, up to 2.5x at 3 Water combos
+JP: 攻撃タイプの全パラメータが1.5倍。水の2コンボ以上で攻撃力が9倍、受けるダメージを25％減少。
+EN: 1.5x all stats for Attacker type; 9x ATK and reduce damage taken by 25% when matching 2+ Water combos
+KR: 1.5x all stats for Attacker type; 9x ATK and reduce damage taken by 25% when matching 2+ Water combos
 

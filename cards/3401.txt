@@ -10,3 +10,11 @@ JP: 光以外回復ドロップを7個生成。1ターンの間、ドロップ�
 EN: Create 7 Heal orbs over non Light orbs; For 1 turn, increase orb move time by 7 seconds
 KR: Create 7 Heal orbs over non Light orbs; For 1 turn, increase orb move time by 7 seconds
 
+# 6789/138 - Myr's Providence
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 21.0, 1.0, 0.5, +2]
+Game: 3x ATK when attacking with 4 Att. (6x ATK for 5 Att.); 3x ATK & halves dmg with a cross of 5 Heal Orbs
+JP: 3色以上同時攻撃で攻撃力が6倍。回復の5個十字消しで攻撃力が3.5倍、受けるダメージを50％減少。4色以上同時攻撃で2コンボ加算。
+EN: 6x ATK when matching 3 or more colors; 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; increase combo by 2 when matching 4 or more colors
+KR: 6x ATK when matching 3 or more colors; 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; increase combo by 2 when matching 4 or more colors
+

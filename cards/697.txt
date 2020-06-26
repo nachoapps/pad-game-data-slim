@@ -10,11 +10,11 @@ JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップ�
 EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 
-# 547/65 - NERV Specifications
+# 547/138 - NERV Specifications
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 1.5, 1.5, 0]
+Stats: [1.5, 9.0, 1.5, 0.0]
 Game: 1.5x to all stats for Attacker Type
-JP: 攻撃タイプの全パラメータが1.5倍。
-EN: 1.5x all stats for Attacker type
-KR: 1.5x all stats for Attacker type
+JP: 攻撃タイプの全パラメータが1.5倍。水、闇の同時攻撃で攻撃力が6倍。
+EN: 1.5x all stats for Attacker type; 6x ATK when matching Water and Dark
+KR: 1.5x all stats for Attacker type; 6x ATK when matching Water and Dark
 
