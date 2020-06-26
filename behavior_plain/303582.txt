@@ -1,0 +1,46 @@
+#303582 - 滅棒の星機神・デネボラ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESStatusShield(20:17981) -> 獅子の機打星
+	Voids status ailments for 999 turns
+	[1] ESAbsorbAttribute(53:17982) -> 星機神の導き
+	Absorb Fire and Wood damage for 10 turns
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 20, target rnd 9
+
+#4: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 95, target rnd 7
+
+#5: ESGravity(50:17983) -> 獅子の谷落とし
+Player -150% HP
+
+#6: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#7: ESRandomSpawn(92:17984) -> スターダストフレア
+Spawn 4 random Fire and Jammer orbs, Deal 100% damage
+
+#8: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#9: ESBindAwoken(88:17985) -> 滅亡へのスターロード
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Bind awoken skills for 2 turns
+
+#10: ESAttackMultihit(15:17986) -> ぼこぼこにする
+Deal 1000% damage (4 hits, 250% each)
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#12: ESSuperResolve(129:17979) -> 超根性
+When reduced from HP > 95% to 0 HP, revive at 95% HP

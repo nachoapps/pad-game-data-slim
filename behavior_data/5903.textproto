@@ -19,128 +19,83 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
       children {
-        group {
-          group_type: STANDARD
+        behavior {
+          enemy_skill_id: 17851
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
           condition {
-            hp_threshold: 100
+            use_chance: 33
           }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 1
-                trigger_turn_end: 2
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 17859
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 17860
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 34
-                  }
-                  enemy_skill_id: 17861
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 17855
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 17856
-                }
-              }
-            }
-          }
+          enemy_skill_id: 17859
         }
       }
       children {
-        group {
-          group_type: STANDARD
+        behavior {
           condition {
-            hp_threshold: 49
+            use_chance: 33
           }
-          children {
-            group {
-              condition {
-                trigger_turn: 1
-                always_trigger_above: 9
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17862
-                }
-              }
-            }
-          }
-          children {
-            group {
-              children {
-                behavior {
-                  enemy_skill_id: 17848
-                }
-              }
-            }
-          }
+          enemy_skill_id: 17860
         }
       }
       children {
-        group {
-          group_type: STANDARD
+        behavior {
           condition {
-            hp_threshold: 9
+            use_chance: 34
           }
-          children {
-            group {
-              condition {
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17866
-                }
-              }
-            }
+          enemy_skill_id: 17861
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
           }
-          children {
-            group {
-              children {
-                behavior {
-                  enemy_skill_id: 17868
-                }
-              }
-            }
+          enemy_skill_id: 17855
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
           }
+          enemy_skill_id: 17856
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17862
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17848
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17866
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17868
         }
       }
     }
@@ -291,4 +246,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

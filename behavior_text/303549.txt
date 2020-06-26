@@ -1,0 +1,32 @@
+#303549 - 麗湖剣の勇士・アロンダイト
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 303549
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (17995:83) 麗湖の名剣術 + アロンダイトの光
+ | Voids status ailments for 999 turns + Unable to match Wood orbs for 3 turns
+ group:
+ | group:
+ | condition: turns 1-2
+   | condition: 50% chance
+   | (17998:92) 氷幻剣
+   | Spawn 5 random Water orbs, Deal 95% damage
+   | condition: 50% chance
+   | (17999:15) 激流斬刃
+   | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: turn 3
+   | (18000:68) 麗湖への祈り
+   | Jammer skyfall +20% for 10 turns
+ | group:
+   | condition: 50% chance
+   | (17998:92) 氷幻剣
+   | Spawn 5 random Water orbs, Deal 95% damage
+   | condition: 50% chance
+   | (17999:15) 激流斬刃
+   | Deal 105% damage (3 hits, 35% each)

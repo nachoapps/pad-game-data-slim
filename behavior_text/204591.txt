@@ -1,4 +1,4 @@
-#204591 - 祝福のゲスト・風の小鬼
+#204591 - Celebrating Guest, Wind Imp
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -10,9 +10,9 @@ level: 4
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 5
-   | (10441:68) フラワーシャワー
+   | (10441:68) Flower Shower
    | Wood and Heal skyfall +20% for 5 turns
  | group:
  | condition: execute repeatedly, turn 2-5 of 5
-   | (10440:15) 小鬼パンチ
+   | (10440:15) Imp Punch
    | Deal 120% damage (2 hits, 60% each)

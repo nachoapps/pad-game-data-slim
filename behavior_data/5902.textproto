@@ -15,27 +15,80 @@
         hp_threshold: 100
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 33
+            trigger_turn: 1
           }
-          enemy_skill_id: 17900
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 17900
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 17901
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 34
+              }
+              enemy_skill_id: 17902
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 33
+            repeats_every: 5
+            trigger_turn: 1
+            trigger_turn_end: 4
           }
-          enemy_skill_id: 17901
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 17900
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 17901
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 34
+              }
+              enemy_skill_id: 17902
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 34
+            repeats_every: 5
+            trigger_turn: 5
           }
-          enemy_skill_id: 17902
+          children {
+            behavior {
+              enemy_skill_id: 17899
+            }
+          }
         }
       }
     }
@@ -107,4 +160,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

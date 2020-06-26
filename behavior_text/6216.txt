@@ -8,25 +8,25 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17813:67) ご注文は？
+ | (17813:67) What do you need?
  | Absorb damage when combos <= 4 for 5 turns
  group:
  | group:
    | condition: 34% chance
-   | (17814:15) アホタレ！
+   | (17814:15) Dumbass!
    | Deal 100% damage
    | condition: 33% chance
-   | (17815:48) 一流の仕事には対価がいるのさ
+   | (17815:48) My brilliant, badass work is worth every dime, you know it!
    | Change a random attribute to Jammer orbs, Deal 95% damage
    | condition: 33% chance
-   | (17816:92) 私が作れば何でも芸術だ
+   | (17816:92) Everything I create is art.
    | Spawn 4 random Poison orbs, Deal 90% damage
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
-     | (17817:83) 天才の仕事 + 私を舐めるなよ
+     | (17817:83) Behold my genius. + Who do you think you're talking to?
      | Seal the 6th column for 3 turns + Increase damage to 150% for the next 999 turns
    | group:
-     | (17820:92) このポンコツめ！
+     | (17820:92) Piece of junk!
      | Spawn 10 random Poison orbs, Deal 200% damage

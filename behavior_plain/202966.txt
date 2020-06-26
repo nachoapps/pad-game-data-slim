@@ -1,4 +1,4 @@
-#202966 - 寡黙なウェイター・ヤミシバマル
+#202966 - Shy Waiter, Dark Shibamaru
 monster size: 3
 new AI: True
 start/max counter: 2
@@ -19,13 +19,13 @@ Branch on flag & 1, target rnd 8
 #5: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#6: ESGravity(50:4712) -> クゥン！
+#6: ESGravity(50:4712) -> Yip!
 Player -30% HP
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#8: ESDebuffMovetime(39:4713) -> 誓約の巻物
+#8: ESDebuffMovetime(39:4713) -> Covenant Scroll
 Condition: One-time use (ai:30 rnd:0) (cost: 2)
 Movetime -1s for 1 turn
 

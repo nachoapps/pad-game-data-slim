@@ -7,22 +7,22 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESAbsorbCombo(67:17813) -> ご注文は？
+#2: ESAbsorbCombo(67:17813) -> What do you need?
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Absorb damage when combos <= 4 for 5 turns
 
 #3: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 20, target rnd 8
 
-#4: ESAttackMultihit(15:17814) -> アホタレ！
+#4: ESAttackMultihit(15:17814) -> Dumbass!
 Condition: 34% chance (ai:0 rnd:34)
 Deal 100% damage
 
-#5: ESOrbChangeAttack(48:17815) -> 一流の仕事には対価がいるのさ
+#5: ESOrbChangeAttack(48:17815) -> My brilliant, badass work is worth every dime, you know it!
 Condition: 33% chance (ai:0 rnd:33)
 Change a random attribute to Jammer orbs, Deal 95% damage
 
-#6: ESRandomSpawn(92:17816) -> 私が作れば何でも芸術だ
+#6: ESRandomSpawn(92:17816) -> Everything I create is art.
 Condition: 33% chance (ai:0 rnd:33)
 Spawn 4 random Poison orbs, Deal 90% damage
 
@@ -31,12 +31,12 @@ end_turn
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESOrbSealColumn(99:17818) -> 天才の仕事
+	[0] ESOrbSealColumn(99:17818) -> Behold my genius.
 	Seal the 6th column for 3 turns
-	[1] ESAttackUPRemainingEnemies(17:17819) -> 私を舐めるなよ
+	[1] ESAttackUPRemainingEnemies(17:17819) -> Who do you think you're talking to?
 	Increase damage to 150% for the next 999 turns
 
-#9: ESRandomSpawn(92:17820) -> このポンコツめ！
+#9: ESRandomSpawn(92:17820) -> Piece of junk!
 Spawn 10 random Poison orbs, Deal 200% damage
 
 #10: ESEndPath(36:26) -> ESEndPath

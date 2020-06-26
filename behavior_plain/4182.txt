@@ -9,20 +9,20 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 10)
-	[0] ESStatusShield(20:17907) -> 我を打ち破れるか？
+	[0] ESStatusShield(20:17907) -> You think you can best me?
 	Voids status ailments for 10 turns
-	[1] ESVoidShield(71:17908) -> 腕に覚えがあるようだな…
+	[1] ESVoidShield(71:17908) -> You're skilled...
 	Void damage >= 20000000 for 999 turns
-	[2] ESDebuffATK(130:17909) -> これで戦って見せろ
+	[2] ESDebuffATK(130:17909) -> Let's see how you fight now
 	ATK -99% for 10 turns
-	[3] ESSkillDelay(89:17910) -> その力を変えることは許さんぞ
+	[3] ESSkillDelay(89:17910) -> I won't forgive you for breaking my hold
 	Delay active skills by 99 turns
 
-#3: ESDebuffATK(130:17911) -> 小賢しい！
+#3: ESDebuffATK(130:17911) -> Insolence!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 ATK -99% for 10 turns, Deal 10000% damage
 
-#4: ESInactivity66(66:17912) -> …
+#4: ESInactivity66(66:17912) -> ...
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Do nothing
 
@@ -32,20 +32,20 @@ Branch on flag & 1, target rnd 9
 #6: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#7: ESAttackMultihit(15:17913) -> 精進するがいい
+#7: ESAttackMultihit(15:17913) -> Find devotion
 Deal 10000% damage (10 hits, 1000% each)
 
 #8: ESEndPath(36:26) -> ESEndPath
 end_turn
 
 #9: SkillSet:
-	[0] ESChangeAttribute(46:17916) -> 転換の法衣
+	[0] ESChangeAttribute(46:17916) -> Robes of Conversion
 	Change own attribute to random one of Fire, Water, Wood, Light, or Dark
-	[1] ESAttackMultihit(15:17913) -> 精進するがいい
+	[1] ESAttackMultihit(15:17913) -> Find devotion
 	Deal 10000% damage (10 hits, 1000% each)
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#11: ESSuperResolve(129:17914) -> 超根性
+#11: ESSuperResolve(129:17914) -> Super Resolve
 When reduced from HP > 50% to 0 HP, revive at 50% HP

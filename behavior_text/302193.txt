@@ -1,0 +1,27 @@
+#302193 - 閃爪機導獣・レオニス
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 302193
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18009:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (17948:83) エネルギーシールド + プラズマカノン
+ | Voids status ailments for 999 turns + Player -99% HP
+ group:
+ | group:
+   | condition: 50% chance
+   | (17951:92) プラズマコンバータ
+   | Spawn 5 random Light orbs, Deal 100% damage
+   | condition: 50% chance
+   | (17952:102) ライトニングブラスター
+   | Spawn 5 random Bomb orbs, Deal 90% damage
+ | group:
+ | condition: hp <= 29
+   | (17947:15) オーバーダイブ
+   | Deal 2000% damage

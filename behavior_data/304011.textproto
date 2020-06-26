@@ -1,0 +1,47 @@
+  monster_id: 304011
+  levels {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 18107
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 18083
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18112
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18111
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18110
+        }
+      }
+    }
+  }

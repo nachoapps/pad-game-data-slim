@@ -8,23 +8,23 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (17914:129) 超根性
+ | (17914:129) Super Resolve
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (17906:83) 我を打ち破れるか？ + 腕に覚えがあるようだな… + これで戦って見せろ + その力を変えることは許さんぞ
+ | (17906:83) You think you can best me? + You're skilled... + Let's see how you fight now + I won't forgive you for breaking my hold
  | Voids status ailments for 10 turns + Void damage >= 20000000 for 999 turns + ATK -99% for 10 turns + Delay active skills by 99 turns
  group:
  | group:
  | condition: turns 1-9
-   | (17911:130) 小賢しい！
+   | (17911:130) Insolence!
    | ATK -99% for 10 turns, Deal 10000% damage
  | group:
  | condition: turn 10
-   | (17913:15) 精進するがいい
+   | (17913:15) Find devotion
    | Deal 10000% damage (10 hits, 1000% each)
  | group:
-   | (17915:83) 転換の法衣 + 精進するがいい
+   | (17915:83) Robes of Conversion + Find devotion
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 10000% damage (10 hits, 1000% each), Deal 10000% damage (10 hits, 1000% each)
  type: UNKNOWN_USE
- | (17912:66) …
+ | (17912:66) ...
  | Do nothing

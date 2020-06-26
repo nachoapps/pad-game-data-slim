@@ -1,0 +1,35 @@
+#304008 - 春紅蘭の君子・シャンメイ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 1
+monster_id: 304008
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18093:83) 君子の慎み + 優雅の至芸
+ | Voids status ailments for 999 turns + Unable to match Fire, Water, Wood, Light, and Dark orbs for 1 turn
+ group:
+ | (18080:46) 紅蘭の色彩
+ | Change own attribute to Fire, Deal 150% damage
+ type: UNKNOWN_USE
+ | (18112:19) 君子の美技
+ | Increase damage to 1000% for the next 999 turns
+ | (18101:107) 消の時節
+ | Unable to match Heal orbs for 1 turn, Deal 100% damage
+ | condition: 20% chance
+ | (18096:107) 消の時節
+ | Unable to match Fire orbs for 1 turn, Deal 100% damage
+ | condition: 20% chance
+ | (18097:107) 消の時節
+ | Unable to match Water orbs for 1 turn, Deal 100% damage
+ | condition: 20% chance
+ | (18098:107) 消の時節
+ | Unable to match Wood orbs for 1 turn, Deal 100% damage
+ | condition: 20% chance
+ | (18099:107) 消の時節
+ | Unable to match Light orbs for 1 turn, Deal 100% damage
+ | condition: 20% chance
+ | (18100:107) 消の時節
+ | Unable to match Dark orbs for 1 turn, Deal 100% damage

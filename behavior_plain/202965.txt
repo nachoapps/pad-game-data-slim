@@ -1,4 +1,4 @@
-#202965 - 幸福の運び手・クアトン
+#202965 - Bringer of Happiness, Cuaton
 monster size: 3
 new AI: True
 start/max counter: 3
@@ -10,9 +10,9 @@ Branch on level >= 4, target rnd 3
 #2: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#3: ESRandomSpawn(92:4710) -> 七色リング
+#3: ESRandomSpawn(92:4710) -> 7 Colors Ring
 Condition: One-time use (ai:100 rnd:0) (cost: 3)
 Spawn 1 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orb
 
-#4: ESAttackMultihit(15:4711) -> ハッピーボム
+#4: ESAttackMultihit(15:4711) -> Happy Bomb
 Deal 120% damage

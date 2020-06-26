@@ -8,20 +8,20 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17728:130) 迷い子よ…家へと帰れ
+ | (17728:130) Little wanderer, "hie thee home"!
  | ATK -50% for 3 turns, Deal 90% damage
  group:
  | group:
    | condition: 33% chance
-   | (17843:15) フランクアタック
+   | (17843:15) Flank Attack
    | Deal 100% damage
    | condition: 33% chance
-   | (17844:97) ブレイクスルー
+   | (17844:97) Break Through
    | Blind random 3~5 orbs for 1 turn, Deal 90% damage
    | condition: 34% chance
-   | (17845:99) スキュワー
+   | (17845:99) Skewer
    | Seal the 1st column for 1 turn, Deal 95% damage
  | group:
  | condition: hp <= 9
-   | (17846:15) ガンビット
+   | (17846:15) Gambit
    | Deal 250% damage

@@ -8,46 +8,46 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17716:96) 覚悟はいいわね
+ | (17716:96) Your resolve is strong.
  | Locked random skyfall +50% for 5 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | condition: 50% chance
-     | (17717:63) Vディバイダー
+     | (17717:63) V Divider
      | Bind 1 random card for 2~3 turns, Deal 100% damage
-     | (17718:110) ラウンドトリップ
+     | (17718:110) Round Trip
      | Specific orbs change every 1.0s for 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (17724:92) コレダー
+     | (17724:92) Collider
      | Spawn 8 random Fire, Water, and Wood orbs, Deal 110% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
-   | (17725:77) ローリングサンダー
+   | (17725:77) Rolling Thunder
    | Change the 4th column to Light orbs, Deal 100% damage
  | group:
  | condition: hp <= 9
    | group:
    | condition: turn 1
-     | (17726:83) ラウンドトリップ + サンダーブロウ
+     | (17726:83) Round Trip + Thunder Blow
      | Specific orbs change every 1.0s for 2 turns + Deal 250% damage, Deal 250% damage
    | group:
    | condition: turn 2
-     | (17725:77) ローリングサンダー
+     | (17725:77) Rolling Thunder
      | Change the 4th column to Light orbs, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (17724:92) コレダー
+     | (17724:92) Collider
      | Spawn 8 random Fire, Water, and Wood orbs, Deal 110% damage
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (17726:83) ラウンドトリップ + サンダーブロウ
+     | (17726:83) Round Trip + Thunder Blow
      | Specific orbs change every 1.0s for 2 turns + Deal 250% damage, Deal 250% damage
  type: UNKNOWN_USE
  | condition: 50% chance
- | (17719:83) ベアナックル + マキシマムオーバードライブ
+ | (17719:83) Bare Knuckle + Maximum Overdrive
  | Deal 45% damage (3 hits, 15% each) + Deal 70% damage (7 hits, 10% each), Deal 45% damage (3 hits, 15% each)
- | (17720:83) ベアナックル + エレクトリカルダンス
+ | (17720:83) Bare Knuckle + Electrical Dance
  | Deal 45% damage (3 hits, 15% each) + Random 1 orbs change every 1.0s for 1 turn, Deal 45% damage (3 hits, 15% each)

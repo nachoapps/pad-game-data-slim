@@ -1,0 +1,32 @@
+#304244 - 覚醒スピカ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 304244
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18022:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ | (18022:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18023:71) 従属の守り
+ | Void damage >= 80000000 for 999 turns
+ group:
+ | group:
+   | (18025:108) 悪食
+   | Change all Poison and Mortal Poison orbs to Wood orbs, Deal 400% damage
+   | (18024:92) 大食いの捕食
+   | Spawn 5 random Poison orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 9
+   | group:
+   | condition: turn 1
+     | (18026:88) 腐乱葉樹
+     | Bind awoken skills for 1 turn
+   | group:
+     | (18027:15) 散乱葉真珠連撃
+     | Deal 1000% damage (5 hits, 200% each)

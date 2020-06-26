@@ -8,20 +8,20 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17716:96) 覚悟はいいわね
+ | (17716:96) Your resolve is strong.
  | Locked random skyfall +50% for 5 turns
  group:
  | group:
    | condition: 33% chance
-   | (17840:15) エリアルレイブ
+   | (17840:15) Aerial Rave
    | Deal 120% damage (4 hits, 30% each)
    | condition: 33% chance
-   | (17841:67) ハイタイム
+   | (17841:67) High Time
    | Absorb damage when combos <= 4 for 1 turn, Deal 90% damage
    | condition: 34% chance
-   | (17842:48) ハイボルテージ
+   | (17842:48) High Voltage
    | Change a random attribute to Light orbs, Deal 95% damage
  | group:
  | condition: hp <= 9
-   | (17726:83) ラウンドトリップ + サンダーブロウ
+   | (17726:83) Round Trip + Thunder Blow
    | Specific orbs change every 1.0s for 2 turns + Deal 250% damage, Deal 250% damage

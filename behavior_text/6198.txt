@@ -8,33 +8,33 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17802:83) エアレイド + アドベント
+ | (17802:83) Air Raid + Advent
  | Void damage >= 10000000 for 10 turns + Absorb damage when combos <= 6 for 999 turns
  group:
  | group:
    | condition: 34% chance
-   | (17805:15) 真魔人コンボ
+   | (17805:15) Sin Devil Trigger Combo
    | Deal 105% damage (3 hits, 35% each)
    | condition: 33% chance
-   | (17806:79) ジ オンブラ
+   | (17806:79) The Ombra
    | Change the 3rd row to Fire orbs, Deal 95% damage
    | condition: 33% chance
-   | (17810:92) ザ ルーチェ
+   | (17810:92) The Luce
    | Spawn 8 random Fire orbs, Deal 110% damage
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 19
-     | (17809:50) デモリション
+     | (17809:50) Demolition
      | Player -99% HP
    | group:
      | condition: 50% chance
-     | (17807:79) 真インフェルノ
+     | (17807:79) Sin Inferno
      | Change the 5th row to Fire orbs, Deal 120% damage
      | condition: 50% chance
-     | (17808:15) 真スティンガー
+     | (17808:15) Sin Stinger
      | Deal 130% damage (10 hits, 13% each)
  | group:
  | condition: hp <= 19
-   | (17811:85) ジャッジメント
+   | (17811:85) Judgement
    | Change all orbs to Fire, Deal 250% damage

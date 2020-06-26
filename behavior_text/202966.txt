@@ -1,4 +1,4 @@
-#202966 - 寡黙なウェイター・ヤミシバマル
+#202966 - Shy Waiter, Dark Shibamaru
 monster size: 3
 new AI: True
 start/max counter: 2
@@ -8,9 +8,9 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (4712:50) クゥン！
+ | (4712:50) Yip!
  | Player -30% HP
  group:
  | condition: 30% chance
- | (4713:39) 誓約の巻物
+ | (4713:39) Covenant Scroll
  | Movetime -1s for 1 turn

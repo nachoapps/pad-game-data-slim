@@ -1,0 +1,57 @@
+#304009 - 夏蒼竹の君子・ヨウユウ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ES7x6Change(126:18103) -> 折り重なる時節
+	Change board size to 7x6 for 1 turn
+	[1] ESDamageShield(74:18104) -> 節度の至芸
+	Reduce damage from all sources by 90% for 5 turns
+
+#3: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#4: ESChangeAttribute(46:18081) -> 蒼竹の色彩
+Change own attribute to Water, Deal 150% damage
+
+#5: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 5, target rnd 11
+
+#6: ESBranchHP(29:19) -> ESBranchHP
+Branch on hp > 50, target rnd 8
+
+#7: ESAbsorbCombo(67:18085) -> 時節の廻り合わせ
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Absorb damage when combos <= 7 for 999 turns
+
+#8: ESAttackMultihit(15:18105) -> 交の時節
+Condition: 50% chance (ai:0 rnd:50)
+Deal 110% damage (2 hits, 55% each)
+
+#9: ESSkyfall(68:18106) -> 怨の時節
+Condition: 50% chance (ai:0 rnd:50)
+Poison skyfall +20% for 1 turn, Deal 100% damage
+
+#10: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#11: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 1, target rnd 8
+
+#12: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1
+
+#13: SkillSet:
+	[0] ESAbsorbCombo(67:18085) -> 時節の廻り合わせ
+	Absorb damage when combos <= 7 for 999 turns
+	[1] ESAttackUPRemainingEnemies(17:18086) -> 君子の美技
+	Increase damage to 1000% for the next 999 turns
+
+#14: ESEndPath(36:26) -> ESEndPath
+end_turn

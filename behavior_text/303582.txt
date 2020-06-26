@@ -1,0 +1,32 @@
+#303582 - 滅棒の星機神・デネボラ
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 303582
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (17979:129) 超根性
+ | When reduced from HP > 95% to 0 HP, revive at 95% HP
+ type: PREEMPT
+ | (17980:83) 獅子の機打星 + 星機神の導き
+ | Voids status ailments for 999 turns + Absorb Fire and Wood damage for 10 turns
+ group:
+ | group:
+   | (17983:50) 獅子の谷落とし
+   | Player -150% HP
+ | group:
+ | condition: hp <= 94
+   | (17984:92) スターダストフレア
+   | Spawn 4 random Fire and Jammer orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 1
+     | (17985:88) 滅亡へのスターロード
+     | Bind awoken skills for 2 turns
+   | group:
+     | (17986:15) ぼこぼこにする
+     | Deal 1000% damage (4 hits, 250% each)

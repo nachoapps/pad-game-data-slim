@@ -1,0 +1,91 @@
+#301216 - 反逆の熾天使・ルシファー
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 1, target rnd 6
+
+#3: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1
+
+#4: SkillSet:
+	[0] ESBindAwoken(88:17927) -> ここを通りたくば、試練を乗り越えろ
+	Bind awoken skills for 3 turns
+	[1] ESBindSkill(14:17928) -> パズルで道を切り開くがいい
+	Bind active skills for 3 turns
+	[2] ESNoSkyfall(127:17929) -> まずは様子見だ
+	No skyfall for 3 turns
+	[3] ESRandomSpawn(92:17930) -> 全ての毒を消してみるがいい
+	Spawn 4 random Poison orbs
+	[4] ESDebuffMovetime(39:17931) -> 出来なければ…分かるな？
+	Movetime 50% for 1 turn
+
+#5: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#6: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 2, target rnd 11
+
+#7: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b11
+
+#8: ESOrbChangeAttackBits(108:17938) -> 出直してこい
+Change all Poison orbs to Dark orbs, Deal 1000000% damage
+
+#9: ESBoardChange(84:17933) -> 次はコンボ禁止だ
+Change all orbs to Fire, Water, Wood, and Dark
+
+#10: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#11: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 4, target rnd 17
+
+#12: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b111
+
+#13: ESBranchCombo(113:6528) -> ESBranchCombo
+Branch on combo >= 1, target rnd 15
+
+#14: SkillSet:
+	[0] ESNoSkyfall(127:16959) -> 無空
+	No skyfall for 1 turn
+	[1] ESSkyfall(68:17935) -> いいだろう、これで最後だ
+	Dark skyfall +100% for 1 turn
+	[2] ESDebuffMovetime(39:17932) -> この時間の中で
+	Movetime 150% for 1 turn
+	[3] ESBoardChange(84:17936) -> 火、水、木を全て消すがいい
+	Change all orbs to Fire, Water, and Wood
+
+#15: ESAttackMultihit(15:17939) -> 出直してこい
+Deal 1000000% damage (10 hits, 100000% each)
+
+#16: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#17: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 8, target rnd 22
+
+#18: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1111
+
+#19: ESOrbChangeAttackBits(108:17940) -> 出直してこい
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Change all Fire, Water, and Wood orbs to Heal orbs, Deal 1000000% damage
+
+#20: ESEndBattle(40:17937) -> いいだろう、通るがいい
+Reduce self HP to 0
+
+#21: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#22: ESAttackMultihit(15:17939) -> 出直してこい
+Deal 1000000% damage (10 hits, 100000% each)
+
+#23: ESEndPath(36:26) -> ESEndPath
+end_turn

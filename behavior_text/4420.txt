@@ -8,18 +8,18 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17028:83) ようこそー！ + さぁ、コンボチャレンジだ！ + たくさんコンボすれば楽になるよ！ + はりきっていってみよー！
+ | (17028:83) Welcome! + It's a Combo Challenge! + It'll be easy if you make lots of combos! + Give it your best shot!
  | Do nothing + Immune to damage from all sources for 999 turns + No skyfall for 1 turn + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
  group:
  | condition: when 4 combos last turn
- | (17035:83) パチパチパチ～ + いいコンボだったね！ + パステルシールド
+ | (17035:83) *Clap, clap, clap* + They were some nice combos! + Pastel Shield
  | Remove damage immunity effect + Reduce damage from all sources by 90% for 99 turns + Void damage >= 100000000 for 99 turns
- | (17029:15) 残念でしたー！
+ | (17029:15) Tough break!
  | Deal 3500000% damage (5 hits, 700000% each)
  type: UNKNOWN_USE
- | (17036:83) パチパチパチ～ + とってもいいコンボだったね！
+ | (17036:83) *Clap, clap, clap* + They were some really nice combos!
  | Remove damage immunity effect + Reduce damage from all sources by 90% for 99 turns
- | (17037:83) パチパチパチ～ + 素敵なコンボをありがとう！
+ | (17037:83) *Clap, clap, clap* + Thanks for showing me such wonderful combos!
  | Remove damage immunity effect + Spawn 6 random Fire, Water, Wood, Light, and Dark orbs
- | (17038:15) 星風のフープ
+ | (17038:15) Starbreeze Hoop
  | Deal 200% damage (2 hits, 100% each)

@@ -1,4 +1,4 @@
-#203792 - 幸福のパティシエール・ダークレディ
+#203792 - Jubilant Patissiere, Dark Lady
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -22,20 +22,20 @@ flag SET 0b1
 #6: ESBranchCard(90:7643) -> ESBranchCard
 Branch on player_cards HAS [3791, 100], target rnd 8
 
-#7: ESDebuffMovetime(39:7639) -> スウィートデコレーション
+#7: ESDebuffMovetime(39:7639) -> Sweet Decoration
 Movetime -1s for 2 turns
 
-#8: ESDebuffMovetime(39:7640) -> ペルセポネ様とってもお綺麗です♪
+#8: ESDebuffMovetime(39:7640) -> Persephone is so beautiful♪
 Movetime 150% for 2 turns
 
 #9: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#10: ESCloud(104:7641) -> 生クリームペイント
+#10: ESCloud(104:7641) -> Fresh Cream Paint
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 A 2×1 rectangle of clouds appears for 1 turn at a random location, Deal 100% damage
 
-#11: ESRandomSpawn(92:7642) -> ラブリーマカロン
+#11: ESRandomSpawn(92:7642) -> Lovely Macaron
 Spawn 1 random Fire, Water, Wood, Light, and Dark orb, Deal 100% damage
 
 #12: ESEndPath(36:26) -> ESEndPath

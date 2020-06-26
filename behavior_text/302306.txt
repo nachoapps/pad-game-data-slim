@@ -1,0 +1,15 @@
+#302306 - 裏河童
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 302306
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18007:92) どいたどいたぁ！
+ | Spawn 15 random Jammer orbs
+ group:
+ | (18008:48) シャケナブレード
+ | Change a random attribute to Water orbs, Deal 100% damage
