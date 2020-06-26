@@ -10,10 +10,10 @@ JP: HPが1になる。敵1体に攻撃力ｘ200倍の水属性攻撃。1ター�
 EN: Reduce HP to 1; Deal 200x Water damage to an enemy; For 1 turn, bypass damage absorb shield effects
 KR: Reduce HP to 1; Deal 200x Water damage to an enemy; For 1 turn, bypass damage absorb shield effects
 
-# 17290/138 - 龍将神の魂
+# 17290/138 - Spirit of the Dragon God
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 24.0, 6.0, 0.25]
-Game: 転生、超転生進化のみでチームを組むと、攻撃力と回復力が6倍。 水を4個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+Game: 6x ATK & RCV when all monsters Reinc. or Super Reinc.; 4x ATK & reduces dmg with 4+ linked Water Orbs
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が6倍。水を4個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
 EN: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs
 KR: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs

@@ -1,4 +1,4 @@
-#6248 粋美の新婦・月龍喚士サツキ
+#6248 Stylish Newlywed, Moon Dragon Caller Satsuki
 HP: 4505 ATK: 2303 RCV: 146 LB: 30
 AWK: 52,28,21,27,27,27,46,46,48
 SAWK: 27,46,48
@@ -10,10 +10,10 @@ JP: 水、お邪魔、毒、猛毒ドロップを光ドロップに変化。自�
 EN: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 KR: Change Water, Jammer, Poison, and Mortal Poison orbs to Light orbs; Charge all allies' skills by 1 turn
 
-# 17315/138 - ほら、綺麗でしょ？
+# 17315/138 - See, isn't it pretty?
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 4.0, 0.35]
-Game: ドラゴンと攻撃タイプの攻撃力と回復力が4倍。 HP50％以上でダメージを軽減、攻撃力が4.5倍。
+Game: 4x ATK & RCV for Dragon & Attacker Types;  4.5x ATK & reduces damage when HP is 50% or more
 JP: ドラゴンと攻撃タイプの攻撃力と回復力が4倍。HPが50%以上で攻撃力が4.5倍、受けるダメージを35％減少。
 EN: 4x ATK & RCV for Dragon and Attacker type; 4.5x ATK and reduce damage taken by 35% when above 50% HP
 KR: 4x ATK & RCV for Dragon and Attacker type; 4.5x ATK and reduce damage taken by 35% when above 50% HP

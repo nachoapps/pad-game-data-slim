@@ -58153,7 +58153,7 @@ KR: 3x ATK for each cross of 5 Light or Dark orbs
 # 13728/138 - Let's live happily!
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 4.0, 0]
-Game: [Orb move time: 5 sec], 2x HP & ATK for Balanced Type; 8x ATK & 2x RCV when 4+ Att. attack at once
+Game: [Orb move time: 8 sec], 2x all stats for Balanced Type; 8x ATK & 2x RCV when 4+ Att. attack at once
 JP: 【操作時間8秒固定】バランスタイプの全パラメータが2倍。4色以上同時攻撃で攻撃力が8倍、回復力が2倍。
 EN: [Fixed 8 second movetime] 2x all stats for Balanced type; 8x ATK and 2x RCV when matching 4 or more colors
 KR: [Fixed 8 second movetime] 2x all stats for Balanced type; 8x ATK and 2x RCV when matching 4 or more colors
@@ -58209,7 +58209,7 @@ KR: 5x ATK and reduce damage taken by 25% when matching 2+ Heal combos
 # 13742/138 - Wah, I'm so happy!
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 13.5, 1.5, 0.5]
-Game: 1.5x to all stats for Light Att., Orb move time +4 sec; 8x ATK & reduces damage with 2+ Light combos
+Game: 1.5x to all stats for Light Att., Orb move time +4 sec; 9x ATK & halves damage with 2+ Light combos
 JP: 光属性の全パラメータが1.5倍。ドロップ操作時間を4秒延長。光の2コンボ以上で攻撃力が9倍、受けるダメージを50％減少。
 EN: 1.5x all stats for Light Att.; Increase orb movement time by 4 seconds; 9x ATK and reduce damage taken by 50% when matching 2+ Light combos
 KR: 1.5x all stats for Light Att.; Increase orb movement time by 4 seconds; 9x ATK and reduce damage taken by 50% when matching 2+ Light combos
@@ -71943,7 +71943,7 @@ JP: 水、闇の同時攻撃で攻撃力が13倍、受けるダメージを25％
 EN: 13x ATK and reduce damage taken by 25% when matching Water and Dark
 KR: 13x ATK and reduce damage taken by 25% when matching Water and Dark
 
-# 17102/124 - 保留
+# 17102/124 - *Placeholder
 Tags: ENHANCED_ATK
 Stats: [1, 10.0, 1, 0]
 Game: 
@@ -72271,10 +72271,10 @@ JP: 木を5個以上つなげて消しと、2コンボ加算。
 EN: Increase combo by 2 when matching 5 or more connected Wood orbs at once
 KR: Increase combo by 2 when matching 5 or more connected Wood orbs at once
 
-# 17203/138 - 赤氷鬼の根性
+# 17203/138 - Red Ice Ogre's Resolve
 Tags: ENHANCED_ATK,RESOLVE
 Stats: [1.0, 9.0, 1.0, 0]
-Game: ドット進化のみでチームを組むと、攻撃力が9倍。 HPが0になる攻撃を受けてもふんばることがある。
+Game: 9x ATK when all monsters in team are Pixel Evo; may survive when HP is reduced to 0
 JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
 EN: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
 KR: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
@@ -72295,10 +72295,10 @@ JP: HPが0になる攻撃を受けてもふんばることがある(HPが50%以�
 EN: May survive when HP is reduced to 0 (HP>50%)
 KR: May survive when HP is reduced to 0 (HP>50%)
 
-# 17210/138 - 緑炎鬼の根性
+# 17210/138 - Green Flame Ogre's Resolve
 Tags: ENHANCED_ATK,RESOLVE
 Stats: [1.0, 9.0, 1.0, 0]
-Game: ドット進化のみでチームを組むと、攻撃力が9倍。 HPが0になる攻撃を受けてもふんばることがある。
+Game: 9x ATK when all monsters in team are Pixel Evo; may survive when HP is reduced to 0
 JP: ドット進化キャラのみでチームを組むと、攻撃力が9倍。HPが0になる攻撃を受けてもふんばることがある(HPが50%以上)。
 EN: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
 KR: 9x ATK when all cards are Pixel Evolutions; May survive when HP is reduced to 0 (HP>50%)
@@ -72319,10 +72319,10 @@ JP: HPが0になる攻撃を受けてもふんばることがある(HPが50%以�
 EN: May survive when HP is reduced to 0 (HP>50%)
 KR: May survive when HP is reduced to 0 (HP>50%)
 
-# 17216/138 - 火山龍の先達
+# 17216/138 - Trailblazing Fire Dragon
 Tags: ENHANCED_HP_ATK,EXP
 Stats: [2.0, 10.0, 1.0, 0]
-Game: ドット進化のみでチームを組むと、HPが2倍、攻撃力は10倍。 ダンジョン潜入時リーダーの時にランク経験値が1.5倍。
+Game: 2x HP & 10x ATK when all monsters in team are Pixel Evo; 1.5x Rank EXP when entering a dungeon as a Leader
 JP: ドット進化キャラのみでチームを組むと、攻撃力が10倍、HPが2倍。ランク経験値ｘ1.5倍。
 EN: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
 KR: 10x ATK and 2x HP when all cards are Pixel Evolutions; 1.5x Rank EXP
@@ -72343,10 +72343,10 @@ JP: ランク経験値ｘ1.5倍。
 EN: 1.5x Rank EXP
 KR: 1.5x Rank EXP
 
-# 17223/138 - 薔薇の使命
+# 17223/138 - Rose Warrior's Mission
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [2.0, 16.0, 2.0, 0.0, +1]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 回復タイプの攻撃力が8倍。3色以上同時攻撃で1コンボ加算。
+Game: 2x to all stats when all monsters in team are Pixel Evo; 8x ATK for Healer Type, adds 1 combo when 3+ Att. attack
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。回復タイプの攻撃力が8倍。3色以上同時攻撃で1コンボ加算。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK for Healer type; increase combo by 1 when matching 3 or more colors
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK for Healer type; increase combo by 1 when matching 3 or more colors
@@ -72375,10 +72375,10 @@ JP: 3色以上同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching 3 or more colors
 KR: increase combo by 1 when matching 3 or more colors
 
-# 17231/138 - 蒼翔の使命
+# 17231/138 - Azure Maiden's Mission
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 2.0, 0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 水の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+Game: 2x to all stats when all monsters in team are Pixel Evo; 8x ATK & inflicts 500,000 damage with 2+ Water combos
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。水の2コンボ以上で攻撃力が8倍。水の2コンボ以上で固定500000ダメージ。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Water combos; 500000 additional damage when matching 2 or more Water combos
@@ -72407,10 +72407,10 @@ JP: 水の2コンボ以上で固定500000ダメージ。
 EN: 500000 additional damage when matching 2 or more Water combos
 KR: 500000 additional damage when matching 2 or more Water combos
 
-# 17239/138 - 黒翼の使命
+# 17239/138 - Black Wing's Mission
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 2.0, 0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 闇の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+Game: 2x to all stats when all monsters in team are Pixel Evo; 8x ATK & inflicts 500,000 damage with 2+ Dark combos
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。闇の2コンボ以上で攻撃力が8倍。闇の2コンボ以上で固定500000ダメージ。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Dark combos; 500000 additional damage when matching 2 or more Dark combos
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Dark combos; 500000 additional damage when matching 2 or more Dark combos
@@ -72439,10 +72439,10 @@ JP: 闇の2コンボ以上で固定500000ダメージ。
 EN: 500000 additional damage when matching 2 or more Dark combos
 KR: 500000 additional damage when matching 2 or more Dark combos
 
-# 17247/138 - 凰華の使命
+# 17247/138 - Phoenix Blossom's Mission
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 2.0, 0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 火の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+Game: 2x to all stats when all monsters in team are Pixel Evo; 8x ATK & inflicts 500,000 damage with 2+ Fire combos
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。火の2コンボ以上で攻撃力が8倍。火の2コンボ以上で固定500000ダメージ。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Fire combos; 500000 additional damage when matching 2 or more Fire combos
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Fire combos; 500000 additional damage when matching 2 or more Fire combos
@@ -72471,10 +72471,10 @@ JP: 火の2コンボ以上で固定500000ダメージ。
 EN: 500000 additional damage when matching 2 or more Fire combos
 KR: 500000 additional damage when matching 2 or more Fire combos
 
-# 17255/138 - 茨戒の使命
+# 17255/138 - Thorned Guardian's Mission
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 2.0, 0]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 木の2コンボ以上で攻撃力が8倍、固定50万ダメージ。
+Game: 2x to all stats when all monsters in team are Pixel Evo; 8x ATK & inflicts 500,000 damage with 2+ Wood combos
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。木の2コンボ以上で攻撃力が8倍。木の2コンボ以上で固定500000ダメージ。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Wood combos; 500000 additional damage when matching 2 or more Wood combos
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK when matching 2+ Wood combos; 500000 additional damage when matching 2 or more Wood combos
@@ -72551,10 +72551,10 @@ JP: 火を6個以上つなげて消しと固定1000000ダメージ。
 EN: 1000000 additional damage when matching 6 or more Fire orbs
 KR: 1000000 additional damage when matching 6 or more Fire orbs
 
-# 17275/138 - 夜月神の真魂
+# 17275/138 - True Spirit of the Moonlight Princess
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 15.0, 1.5, 0.25, +1]
-Game: 神タイプの全パラメータが1.5倍。闇光の同時攻撃で1コンボ加算。 7コンボ以上でダメージを軽減、攻撃力が10倍。
+Game: 1.5x to all stats for God Type, adds 1 combo when Light & Dark attack; 10x ATK & reduces damage with 7+ combos
 JP: 神タイプの全パラメータが1.5倍。7コンボ以上で攻撃力が10倍、受けるダメージを25％減少。光か闇の同時攻擊で1コンボ加算
 EN: 1.5x all stats for God type; 10x ATK and reduce damage taken by 25% when 7 or more combos; Increase combo by 1 when matching Light and Dark
 KR: 1.5x all stats for God type; 10x ATK and reduce damage taken by 25% when 7 or more combos; Increase combo by 1 when matching Light and Dark
@@ -72567,7 +72567,7 @@ JP: 神タイプの全パラメータが1.5倍。
 EN: 1.5x all stats for God type
 KR: 1.5x all stats for God type
 
-# 17277/150 - _＿夜月神の真魂
+# 17277/150 - _＿True Spirit of the Moonlight Princess
 Tags: ENHANCED_ATK
 Stats: [1, 4.0, 1, 0]
 Game: 
@@ -72591,10 +72591,10 @@ JP: 光か闇の同時攻擊で1コンボ加算
 EN: Increase combo by 1 when matching Light and Dark
 KR: Increase combo by 1 when matching Light and Dark
 
-# 17280/138 - 暗黒龍の真魂
+# 17280/138 - True Soul of the Darkdragon
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 12.0, 1.0, 0.0]
-Game: ドラゴンと悪魔タイプのHPと攻撃力が2倍。毒ダメージを無効化。 闇を6個以上つなげて消すと、攻撃力が6倍。
+Game: 2x HP & ATK for Dragon & Devil Types; voids Poison damage, 6x ATK with 6+ linked Dark Orbs
 JP: 【毒ダメージを無効化】ドラゴンと悪魔タイプのHPと攻撃力が2倍。闇を6個以上つなげて消すと攻撃力が6倍。
 EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Dragon and Devil type; 6x ATK when matching 6 or more connected Dark orbs
 KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Dragon and Devil type; 6x ATK when matching 6 or more connected Dark orbs
@@ -72623,10 +72623,10 @@ JP: 闇を6個以上つなげて消すと攻撃力が6倍。
 EN: 6x ATK when matching 6 or more connected Dark orbs
 KR: 6x ATK when matching 6 or more connected Dark orbs
 
-# 17284/138 - 雷戦神の真魂
+# 17284/138 - True Spirit of the Thunder God
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 12.0, 4.0, 0.25]
-Game: 光属性のHPが1.5倍、攻撃力と回復力は4倍。 光を5個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+Game: 1.5x HP and 4x ATK & RCV for Light Att.; 3x ATK & reduces damage with 5+ linked Light Orbs
 JP: 光属性の攻撃力と回復力が4倍、HPが1.5倍。光を5個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
 EN: 4x ATK & RCV and 1.5x HP for Light Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 KR: 4x ATK & RCV and 1.5x HP for Light Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
@@ -72647,10 +72647,10 @@ JP: 光を5個以上つなげて消すと攻撃力が3倍、受けるダメー�
 EN: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 KR: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Light orbs
 
-# 17287/138 - 虎将神の魂
+# 17287/138 - Spirit of the Tiger God
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 24.0, 6.0, 0.25]
-Game: 転生、超転生進化のみでチームを組むと、攻撃力と回復力が6倍。 火を4個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+Game: 6x ATK & RCV when all monsters Reinc. or Super Reinc.; 4x ATK & reduces damage with 4+ linked Fire Orbs
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が6倍。火を4個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
 EN: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
 KR: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
@@ -72671,10 +72671,10 @@ JP: 火を4個以上つなげて消すと攻撃力が4倍、受けるダメー�
 EN: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
 KR: 4x ATK and reduce damage taken by 25% when matching 4 or more connected Fire orbs
 
-# 17290/138 - 龍将神の魂
+# 17290/138 - Spirit of the Dragon God
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 24.0, 6.0, 0.25]
-Game: 転生、超転生進化のみでチームを組むと、攻撃力と回復力が6倍。 水を4個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+Game: 6x ATK & RCV when all monsters Reinc. or Super Reinc.; 4x ATK & reduces dmg with 4+ linked Water Orbs
 JP: 転生と超転生進化のみキャラのみでチームを組むと、攻撃力と回復力が6倍。水を4個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
 EN: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs
 KR: 6x ATK & RCV when all cards are Reincarnated or Super Reincarnated Evolutions; 4x ATK and reduce damage taken by 25% when matching 4 or more connected Water orbs
@@ -72703,10 +72703,10 @@ JP: 2コンボ以上で1コンボ加算
 EN: Increase combo by 1 when matching 2 or more Wood combos
 KR: Increase combo by 1 when matching 2 or more Wood combos
 
-# 17294/138 - 独眼神の魂
+# 17294/138 - Spirit of the One-Eyed God
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 24.0, 1.0, 0.0, +1]
-Game: 転生、超転生進化のみでチームを組むと、HPと攻撃力が2倍。 HP50％以下で攻撃力が12倍。木の2コンボ以上で1コンボ加算。
+Game: 2x HP & ATK when all monsters Reinc. or Super Reinc.; 12x ATK when HP 50% or less, +1 combo with 2+ Wd combos
 JP: 転生と超転生進化のみキャラのみでチームを組むと、HPと攻撃力が2倍。HPが50%以下で攻撃力が12倍。2コンボ以上で1コンボ加算
 EN: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 12x ATK when below 50% HP; Increase combo by 1 when matching 2 or more Wood combos
 KR: 2x HP & ATK when all cards are Reincarnated or Super Reincarnated Evolutions; 12x ATK when below 50% HP; Increase combo by 1 when matching 2 or more Wood combos
@@ -72735,10 +72735,10 @@ JP: 水を4個以上つなげて消しと固定500000ダメージ。
 EN: 500000 additional damage when matching 4 or more Water orbs
 KR: 500000 additional damage when matching 4 or more Water orbs
 
-# 17298/138 - 天下神の魂
+# 17298/138 - Spirit of the Unifier God
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 13.5, 1.5, 0.25, +3]
-Game: 転生、超転生進化のみでチームを組むと、全パラメータが1.5倍。 光水の同時攻撃でダメージを軽減、攻撃力が9倍、3コンボ加算。
+Game: 1.5x all stats when all monsters Reinc. or Super Reinc.; 9x ATK, reduces dmg & add 3 combos when Lt & Wt attack
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが1.5倍。光、水の同時攻撃で攻撃力が9倍、受けるダメージを25％減少。水か光の同時攻擊で3コンボ加算
 EN: 1.5x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK and reduce damage taken by 25% when matching Light and Water; Increase combo by 3 when matching Water and Light
 KR: 1.5x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK and reduce damage taken by 25% when matching Light and Water; Increase combo by 3 when matching Water and Light
@@ -72767,10 +72767,10 @@ JP: 水か光の同時攻擊で3コンボ加算
 EN: Increase combo by 3 when matching Water and Light
 KR: Increase combo by 3 when matching Water and Light
 
-# 17302/138 - 大将神の魂
+# 17302/138 - Spirit of the General God
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 13.5, 1.5, 0.25, +3]
-Game: 転生、超転生進化のみでチームを組むと、全パラメータが1.5倍。 闇光の同時攻撃でダメージを軽減、攻撃力が9倍、3コンボ加算。
+Game: 1.5x all stats when all monsters Reinc. or Super Reinc.; 9x ATK, reduces dmg & add 3 combos when Lt & Dk attack
 JP: 転生と超転生進化のみキャラのみでチームを組むと、全パラメータが1.5倍。闇、光の同時攻撃で攻撃力が9倍、受けるダメージを25％減少。光か闇の同時攻擊で3コンボ加算
 EN: 1.5x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 3 when matching Light and Dark
 KR: 1.5x all stats when all cards are Reincarnated or Super Reincarnated Evolutions; 9x ATK and reduce damage taken by 25% when matching Dark and Light; Increase combo by 3 when matching Light and Dark
@@ -72791,10 +72791,10 @@ JP: 闇、光の同時攻撃で攻撃力が9倍、受けるダメージを25％�
 EN: 9x ATK and reduce damage taken by 25% when matching Dark and Light
 KR: 9x ATK and reduce damage taken by 25% when matching Dark and Light
 
-# 17305/138 - 幸せな気持ちをこめてっ…
+# 17305/138 - With all my joy...
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 18.0, 1.0, 0.0]
-Game: 神とマシンタイプのHPが2倍、攻撃力は6倍。 光の2コンボ以上で攻撃力が3倍、3コンボ以上で固定100万ダメージ。
+Game: 2x HP & 6x ATK for God & Machine Types; 3x ATK with 2+ Light combos, inflicts 1,000,000 dmg with 3+ combos
 JP: 神とマシンタイプの攻撃力が6倍、HPが2倍。光の2コンボ以上で攻撃力が3倍。光の3コンボ以上で固定1000000ダメージ。
 EN: 6x ATK and 2x HP for God and Machine type; 3x ATK when matching 2+ Light combos; 1000000 additional damage when matching 3 or more Light combos
 KR: 6x ATK and 2x HP for God and Machine type; 3x ATK when matching 2+ Light combos; 1000000 additional damage when matching 3 or more Light combos
@@ -72823,10 +72823,10 @@ JP: 光の3コンボ以上で固定1000000ダメージ。
 EN: 1000000 additional damage when matching 3 or more Light combos
 KR: 1000000 additional damage when matching 3 or more Light combos
 
-# 17312/138 - お傍においてくださいね
+# 17312/138 - I'll always be by your side
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [2.0, 16.0, 2.0, 0, +2]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 光を5個以上つなげて消すと攻撃力が8倍、2コンボ加算。
+Game: 2x all stats when all monsters in team are Pixel Evo; 8x ATK & adds 2 combos with 5+ linked Light Orbs
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。光を5個以上つなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
@@ -72847,10 +72847,10 @@ JP: 光を5個以上つなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
 KR: 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
 
-# 17315/138 - ほら、綺麗でしょ？
+# 17315/138 - See, isn't it pretty?
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 4.0, 0.35]
-Game: ドラゴンと攻撃タイプの攻撃力と回復力が4倍。 HP50％以上でダメージを軽減、攻撃力が4.5倍。
+Game: 4x ATK & RCV for Dragon & Attacker Types;  4.5x ATK & reduces damage when HP is 50% or more
 JP: ドラゴンと攻撃タイプの攻撃力と回復力が4倍。HPが50%以上で攻撃力が4.5倍、受けるダメージを35％減少。
 EN: 4x ATK & RCV for Dragon and Attacker type; 4.5x ATK and reduce damage taken by 35% when above 50% HP
 KR: 4x ATK & RCV for Dragon and Attacker type; 4.5x ATK and reduce damage taken by 35% when above 50% HP
@@ -72871,10 +72871,10 @@ JP: HPが50%以上で攻撃力が4.5倍、受けるダメージを35％減少。
 EN: 4.5x ATK and reduce damage taken by 35% when above 50% HP
 KR: 4.5x ATK and reduce damage taken by 35% when above 50% HP
 
-# 17319/138 - アタシが…ハッピーに…してあげる
+# 17319/138 - I want to...make you...happy
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 14.0, 1.0, 0.0, +1]
-Game: 木属性のHPと攻撃力が2倍。毒ダメージを無効化。 木を4個以上つなげて消すと攻撃力が7倍、1コンボ加算。
+Game: 2x HP & ATK for Wood Att., voids Poison damage; 7x ATK & adds 1 combo with 4+ linked Wood Orbs
 JP: 【毒ダメージを無効化】木属性のHPと攻撃力が2倍。木を4個以上つなげて消しと攻撃力が7倍、1コンボ加算。
 EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Wood Att.; 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
 KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Wood Att.; 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
@@ -72903,10 +72903,10 @@ JP: 木を4個以上つなげて消しと攻撃力が7倍、1コンボ加算。
 EN: 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
 KR: 7x ATK and increase combo by 1 when matching 4 or more connected Wood orbs at once
 
-# 17331/138 - ああ、これからも幸せにしようぞ！
+# 17331/138 - Ahh, let's try to always be this happy!
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 18.0, 1.0, 0.0, +1]
-Game: 神タイプのHPと攻撃力が2倍。HP50％以下で攻撃力が3倍。 光を5個以上つなげて消すと攻撃力が3倍、1コンボ加算。
+Game: 2x HP & ATK for God Type, 3x ATK when HP is 50% or less; 3x ATK & adds 1 combo with 5+ linked Light Orbs
 JP: 神タイプのHPと攻撃力が2倍。HPが50%以下で攻撃力が3倍。光を5個以上つなげて消しと攻撃力が3倍、1コンボ加算。
 EN: 2x HP & ATK for God type; 3x ATK when below 50% HP; 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
 KR: 2x HP & ATK for God type; 3x ATK when below 50% HP; 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
@@ -72935,10 +72935,10 @@ JP: 光を5個以上つなげて消しと攻撃力が3倍、1コンボ加算。
 EN: 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
 KR: 3x ATK and increase combo by 1 when matching 5 or more connected Light orbs at once
 
-# 17338/138 - ねぇ、それでいいと思ってるの？
+# 17338/138 - Do you really think that's acceptable?
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 16.0, 1.0, 0]
-Game: 光属性の攻撃力が8倍。闇属性のHPが2倍。 光闇の同時攻撃で攻撃力が2倍、固定50万ダメージ。
+Game: 8x ATK for Light Att., 2x HP for Dark Att.; 2x ATK & inflicts 500,000 dmg when Light & Dark attack at once
 JP: 光属性の攻撃力が8倍。闇属性のHPが2倍。光、闇の同時攻撃で攻撃力が2倍。光闇同時攻撃で固定500000ダメージ。
 EN: 8x ATK for Light Att.; 2x HP for Dark Att.; 2x ATK when matching Light and Dark; 500000 additional damage when matching Light and Dark
 KR: 8x ATK for Light Att.; 2x HP for Dark Att.; 2x ATK when matching Light and Dark; 500000 additional damage when matching Light and Dark

@@ -1,19 +1,19 @@
-#6247 ドット・聖鐘の花嫁・エスカマリ
+#6247 Pixel Saintly Bell Bride, Eschamali
 HP: 4405 ATK: 2205 RCV: 353 LB: 30
 AWK: 17,17,17,17,17,28,56,48,48
 SAWK: 52,48,60
 
-# 17309/116 - プロミスベール・ライト
+# 17309/116 - Promise Veil - Light
 Tags: ATTACK_STANCE,ORB_CONVERT,VOID_DAMAGE_ABSORBS
-Game: 木、回復、お邪魔、毒ドロップを光ドロップに変化。 1ターンの間、ダメージ吸収を無効化。
+Game: Changes Wood, Heal, Poison & Jammers to Light Orbs; voids damage absorption for 1 turn
 JP: 木、回復、お邪魔、毒、猛毒ドロップを光ドロップに変化。1ターンの間、ダメージ吸収を無効化する
 EN: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 1 turn, bypass damage absorb shield effects
 KR: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs; For 1 turn, bypass damage absorb shield effects
 
-# 17312/138 - お傍においてくださいね
+# 17312/138 - I'll always be by your side
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [2.0, 16.0, 2.0, 0, +2]
-Game: ドット進化のみでチームを組むと、全パラメータが2倍。 光を5個以上つなげて消すと攻撃力が8倍、2コンボ加算。
+Game: 2x all stats when all monsters in team are Pixel Evo; 8x ATK & adds 2 combos with 5+ linked Light Orbs
 JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。光を5個以上つなげて消しと攻撃力が8倍、2コンボ加算。
 EN: 2x all stats when all cards are Pixel Evolutions; 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
 KR: 2x all stats when all cards are Pixel Evolutions; 8x ATK and increase combo by 2 when matching 5 or more connected Light orbs at once
