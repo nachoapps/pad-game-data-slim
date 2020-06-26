@@ -19936,6 +19936,22 @@
         "file_name": "mons_5899.bc"
     },
     {
+        "compressed_size": 11572,
+        "file_name": "mons_5900.bc"
+    },
+    {
+        "compressed_size": 9704,
+        "file_name": "mons_5901.bc"
+    },
+    {
+        "compressed_size": 10099,
+        "file_name": "mons_5902.bc"
+    },
+    {
+        "compressed_size": 14490,
+        "file_name": "mons_5903.bc"
+    },
+    {
         "compressed_size": 14238,
         "file_name": "mons_5906.bc"
     },
@@ -20984,6 +21000,62 @@
         "file_name": "mons_6195.bc"
     },
     {
+        "compressed_size": 41773,
+        "file_name": "mons_6228.bc"
+    },
+    {
+        "compressed_size": 15128,
+        "file_name": "mons_6229.bc"
+    },
+    {
+        "compressed_size": 14617,
+        "file_name": "mons_6230.bc"
+    },
+    {
+        "compressed_size": 15195,
+        "file_name": "mons_6231.bc"
+    },
+    {
+        "compressed_size": 14609,
+        "file_name": "mons_6232.bc"
+    },
+    {
+        "compressed_size": 139158,
+        "file_name": "mons_6246.bc"
+    },
+    {
+        "compressed_size": 14052,
+        "file_name": "mons_6247.bc"
+    },
+    {
+        "compressed_size": 153066,
+        "file_name": "mons_6248.bc"
+    },
+    {
+        "compressed_size": 511825,
+        "file_name": "mons_6249.bc"
+    },
+    {
+        "compressed_size": 262832,
+        "file_name": "mons_6250.bc"
+    },
+    {
+        "compressed_size": 145099,
+        "file_name": "mons_6251.bc"
+    },
+    {
+        "compressed_size": 125649,
+        "file_name": "mons_6252.bc"
+    },
+    {
+        "compressed_size": 47924,
+        "file_name": "mons_6253.bc"
+    },
+    {
+        "compressed_size": 41912,
+        "file_name": "mons_6254.bc"
+    },
+    {
         "compressed_size": 708961,
         "file_name": "cards_001.bc"
     },
@@ -21216,11 +21288,11 @@
         "file_name": "cards_058.bc"
     },
     {
-        "compressed_size": 763378,
+        "compressed_size": 770691,
         "file_name": "cards_059.bc"
     },
     {
-        "compressed_size": 805597,
+        "compressed_size": 825643,
         "file_name": "cards_060.bc"
     },
     {
@@ -21230,5 +21302,9 @@
     {
         "compressed_size": 647183,
         "file_name": "cards_062.bc"
+    },
+    {
+        "compressed_size": 139303,
+        "file_name": "cards_063.bc"
     }
 ]
