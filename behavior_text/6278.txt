@@ -1,0 +1,26 @@
+#6278 - 碇ゲンドウ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 6278
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18245:50) 付き合っている暇はない
+ | Player -75% HP
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (18247:17) システム解放
+     | Increase damage to 150% for the next 1 turn
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (18248:15) 攻撃開始
+     | Deal 74% damage (2 hits, 37% each)
+ | group:
+ | condition: hp <= 49
+   | (18246:108) 全てはゼーレのシナリオ通りに
+   | Change all Fire and Water orbs to Dark orbs, Deal 135% damage

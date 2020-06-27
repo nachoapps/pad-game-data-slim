@@ -1,13 +1,20 @@
 #1204 - The Ninth Angel
 monster size: 5
-new AI: False
-start/max counter: 1
+new AI: True
+start/max counter: 0
 counter increment: 0
 monster_id: 1204
 approved: False
 
-level: 5
+level: 4
+ type: PREEMPT
+ | (18312:62) 侵食
+ | Blind all orbs on the board, Deal 100% damage
  group:
- condition: turn 1, hp <= 49
- | (937:54) Intrude
- | Bind player leader for 3 turns
+ | group:
+   | (18312:62) 侵食
+   | Blind all orbs on the board, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | (18311:97) 侵食
+   | Blind random 4~6 orbs for 1 turn, Deal 120% damage

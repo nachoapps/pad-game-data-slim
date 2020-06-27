@@ -1,0 +1,12 @@
+#200709 - 第6の使徒
+monster size: 3
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 200709
+approved: False
+
+level: 4
+ group:
+ | (348:15) 迎撃
+ | Deal 100% damage (2 hits, 50% each)

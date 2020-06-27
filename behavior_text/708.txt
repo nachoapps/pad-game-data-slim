@@ -1,22 +1,15 @@
 #708 - The Fifth Angel - Assault Mode
 monster size: 4
-new AI: False
+new AI: True
 start/max counter: 1
 counter increment: 0
 monster_id: 708
 approved: False
 
-level: 5
+level: 4
+ type: PREEMPT
+ | (18324:1) 触手
+ | Bind 1 random card for 5 turns, Deal 80% damage
  group:
- | group:
- | condition: hp <= 74
-   | condition: 70% chance
-   | (347:15) Cut Down
-   | Deal 90~150% damage (3~5 hits, 30% each)
- | group:
- | condition: turn 1, hp <= 49
-   | (346:3) Tentacles
-   | Bind God cards for 2~4 turns
-   | condition: 70% chance
-   | (347:15) Cut Down
-   | Deal 90~150% damage (3~5 hits, 30% each)
+ | (18333:15) なぎ払う
+ | Deal 90~150% damage (3~5 hits, 30% each)

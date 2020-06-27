@@ -1,0 +1,17 @@
+#202329 - 初号機たまドラ
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 202329
+approved: False
+
+level: 4
+ group:
+ | group:
+ | condition: turn 1
+   | (18331:88) 逃げちゃダメたまぁ！
+   | Bind awoken skills for 1 turn
+ | group:
+   | (18334:15) プログレッシブナイフたまぁ！
+   | Deal 100% damage

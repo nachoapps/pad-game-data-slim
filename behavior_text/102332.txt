@@ -1,0 +1,15 @@
+#102332 - ミサトたまドラ
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 102332
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18317:50) 緊急発進たまぁ！
+ | Player -99% HP
+ group:
+ | (2572:15) 撃てたまぁ！
+ | Deal 100% damage

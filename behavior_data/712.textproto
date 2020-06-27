@@ -1,11 +1,11 @@
   monster_id: 712
   levels {
-    level: 1
+    level: 4
     groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 350
+          enemy_skill_id: 18329
         }
       }
     }
@@ -21,7 +21,7 @@
           }
           children {
             behavior {
-              enemy_skill_id: 354
+              enemy_skill_id: 18330
             }
           }
         }

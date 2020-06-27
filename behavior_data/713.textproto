@@ -1,17 +1,22 @@
   monster_id: 713
   levels {
-    level: 5
+    level: 4
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 18326
+        }
+      }
+    }
     groups {
       group_type: STANDARD
       condition {
-        hp_threshold: 74
+        hp_threshold: 100
       }
       children {
         behavior {
-          condition {
-            use_chance: 70
-          }
-          enemy_skill_id: 352
+          enemy_skill_id: 18326
         }
       }
     }

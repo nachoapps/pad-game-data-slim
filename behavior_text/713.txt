@@ -1,14 +1,15 @@
 #713 - The Fourth Angel
 monster size: 2
-new AI: False
+new AI: True
 start/max counter: 0
 counter increment: 0
 monster_id: 713
 approved: False
 
-level: 5
+level: 4
+ type: PREEMPT
+ | (18326:92) 光線
+ | Spawn 2 random Light orbs, Deal 80% damage
  group:
- condition: hp <= 74
- | condition: 70% chance
- | (352:15) Light Ray
- | Deal 140% damage (2 hits, 70% each)
+ | (18326:92) 光線
+ | Spawn 2 random Light orbs, Deal 80% damage

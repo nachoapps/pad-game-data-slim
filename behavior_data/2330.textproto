@@ -1,6 +1,6 @@
   monster_id: 2330
   levels {
-    level: 5
+    level: 4
     groups {
       group_type: STANDARD
       condition {
@@ -13,7 +13,7 @@
           }
           children {
             behavior {
-              enemy_skill_id: 2570
+              enemy_skill_id: 18332
             }
           }
         }
@@ -22,7 +22,7 @@
         group {
           children {
             behavior {
-              enemy_skill_id: 2569
+              enemy_skill_id: 18334
             }
           }
         }

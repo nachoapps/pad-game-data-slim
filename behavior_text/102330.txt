@@ -1,0 +1,15 @@
+#102330 - 2号機たまドラ
+monster size: 3
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 102330
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18319:75) あんたたまぁ？
+ | Leader changes to random sub for 3 turns
+ group:
+ | (18334:15) プログレッシブナイフたまぁ！
+ | Deal 100% damage

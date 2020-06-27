@@ -1,0 +1,23 @@
+#701 - Rei&Eva Unit-00
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 701
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18219:74) 耐熱光波防御盾
+ | Reduce damage from all sources by 30% for 5 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (18218:15) 私が守るもの
+   | Deal 100% damage
+   | (18220:92) スナイパーライフル
+   | Spawn 3 random Light orbs, Deal 80% damage
+ | group:
+ | condition: turn 1, hp <= 19
+   | (18217:5) Ａ.Ｔ.フィールド展開
+   | Blind all orbs on the board

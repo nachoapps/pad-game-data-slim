@@ -6,12 +6,12 @@ counter increment: 0
 monster_id: 2330
 approved: False
 
-level: 5
+level: 4
  group:
  | group:
  | condition: turn 1
-   | (2570:39) What are you, TAMA?
-   | Movetime -1s for 1 turn
+   | (18332:75) あんたたまぁ？
+   | Leader changes to random sub for 1 turn, Deal 50% damage
  | group:
-   | (2569:15) Progressive Knife TAMA!
+   | (18334:15) プログレッシブナイフたまぁ！
    | Deal 100% damage

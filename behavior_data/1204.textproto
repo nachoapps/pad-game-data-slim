@@ -1,15 +1,40 @@
   monster_id: 1204
   levels {
-    level: 5
+    level: 4
     groups {
-      group_type: STANDARD
-      condition {
-        hp_threshold: 49
-        trigger_turn: 1
-      }
+      group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 937
+          enemy_skill_id: 18312
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18312
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18311
+            }
+          }
         }
       }
     }

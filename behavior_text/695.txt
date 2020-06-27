@@ -1,0 +1,23 @@
+#695 - Asuka&Eva Unit-02
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 695
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18221:94) Ａ.Ｔ.フィールド展開
+ | Lock 7 random orbs
+ group:
+ | group:
+   | (18222:39) あんたバカぁ？
+   | Movetime -2s for 1 turn, Deal 80% damage
+ | group:
+ | condition: hp <= 29
+   | (18224:15) 超電磁洋弓銃
+   | Deal 110% damage (5 hits, 22% each)
+ type: UNKNOWN_USE
+ | (18223:15) 私一人で殲滅できるもん
+ | Deal 100% damage

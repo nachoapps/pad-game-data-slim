@@ -1,0 +1,15 @@
+#200714 - 第4の使徒・戦闘形態
+monster size: 4
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 200714
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (18325:67) 光のパイル
+ | Absorb damage when combos <= 4 for 3 turns
+ group:
+ | (18316:92) 光線
+ | Spawn 5 random Light orbs, Deal 120% damage

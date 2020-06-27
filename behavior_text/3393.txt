@@ -1,0 +1,26 @@
+#3393 - Myr Regalia, Rei
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 3393
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18270:107) 私には他になにもないもの
+ | Unable to match Light orbs for 3 turns
+ group:
+ | group:
+   | group:
+   | condition: execute repeatedly, turn 1-2 of 3
+     | (18272:79) ムーンフェイズ
+     | Change the 3rd row to Heal and Jammer orbs, Deal 100% damage
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | (18271:71) ミルの加護
+     | Void damage >= 1000000 for 3 turns
+ | group:
+ | condition: hp <= 29
+   | (18273:108) 継界龍合・トルヴィオ
+   | Change all Water and Dark orbs to Light orbs, Deal 130% damage

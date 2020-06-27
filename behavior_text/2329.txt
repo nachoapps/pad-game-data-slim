@@ -6,12 +6,12 @@ counter increment: 0
 monster_id: 2329
 approved: False
 
-level: 5
+level: 4
  group:
  | group:
-   | (2569:15) Progressive Knife TAMA!
-   | Deal 100% damage
+ | condition: turn 1
+   | (18331:88) 逃げちゃダメたまぁ！
+   | Bind awoken skills for 1 turn
  | group:
- | condition: turn 1, hp <= 49
-   | (2568:1) I mustn't run away TAMA!
-   | Bind 1 random card for 3 turns
+   | (18334:15) プログレッシブナイフたまぁ！
+   | Deal 100% damage

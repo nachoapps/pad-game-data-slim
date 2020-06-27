@@ -1,8 +1,31 @@
 #702 - Rei&Eva Unit-00, Suicide ATK Mode
 monster size: 5
-new AI: False
-start/max counter: 0
+new AI: True
+start/max counter: 1
 counter increment: 0
 
-#1: ESOrbChangeAttack(48:49) -> Curing Breath
-Change all Poison orbs to Heal orbs, Deal 120% damage
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESSkyfallLocked(96:18279) -> Ａ.Ｔ.フィールド展開
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Locked random skyfall +30% for 7 turns
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 20, target rnd 7
+
+#4: ESBlind62(62:18281) -> Ａ.Ｔ.フィールド全開
+Condition: 50% chance (ai:50 rnd:0)
+Blind all orbs on the board, Deal 80% damage
+
+#5: ESRandomSpawn(92:18280) -> 私は繋がっているだけ
+Spawn 6 random Light orbs, Deal 100% damage
+
+#6: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#7: ESBombFixedSpawn(103:18282) -> N2爆弾
+Spawn Bomb orbs in the specified positions, Deal 110% damage
+
+#8: ESEndPath(36:26) -> ESEndPath
+end_turn

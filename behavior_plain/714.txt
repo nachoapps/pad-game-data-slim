@@ -1,12 +1,24 @@
 #714 - The Fourth Angel - Assault Mode
 monster size: 4
-new AI: False
+new AI: True
 start/max counter: 1
 counter increment: 0
 
-#1: ESAttackPreemptive(47:353) -> Pillar of Light
-Deal 50% damage
+#1: ESPreemptive(49:3402) -> ESPreemptive
+Enable preempt if level 4
 
-#2: ESAttackMultihit(15:352) -> Light Ray
-Condition: 70% chance when < 75% HP (ai:70 rnd:0)
-Deal 140% damage (2 hits, 70% each)
+#2: ESBranchLevel(35:25) -> ESBranchLevel
+Branch on level >= 4, target rnd 4
+
+#3: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#4: ESAbsorbCombo(67:18325) -> 光のパイル
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Absorb damage when combos <= 4 for 3 turns
+
+#5: ESRandomSpawn(92:18326) -> 光線
+Spawn 2 random Light orbs, Deal 80% damage
+
+#6: ESEndPath(36:26) -> ESEndPath
+end_turn
