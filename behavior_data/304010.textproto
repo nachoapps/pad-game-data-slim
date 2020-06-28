@@ -103,3 +103,83 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18087
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        group {
+          condition {
+            trigger_turn: 5
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 18082
+            }
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 18112
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 18082
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 18090
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 34
+              }
+              enemy_skill_id: 18091
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 18092
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
