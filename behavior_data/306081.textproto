@@ -165,3 +165,104 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PASSIVE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18113
+        }
+      }
+    }
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 18135
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 5
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 18121
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 18137
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 18138
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 18125
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 1
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 18122
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
