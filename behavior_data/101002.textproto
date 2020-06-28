@@ -40,3 +40,45 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 18365
+        }
+      }
+    }
+  }
+  level_overrides {
+    level: 10
+    groups {
+      group_type: PREEMPT
+      children {
+        behavior {
+          enemy_skill_id: 18364
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 18365
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 18365
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS
