@@ -15,65 +15,229 @@
         hp_threshold: 100
       }
       children {
-        behavior {
-          enemy_skill_id: 18080
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
+        group {
           condition {
+            trigger_turn: 1
           }
-          enemy_skill_id: 18112
-        }
-      }
-      children {
-        behavior {
-          condition {
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
           }
-          enemy_skill_id: 18101
+          children {
+            behavior {
+              enemy_skill_id: 18101
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 20
+            trigger_turn: 2
           }
-          enemy_skill_id: 18096
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18096
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18097
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18098
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18099
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18100
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 20
+            trigger_turn: 3
           }
-          enemy_skill_id: 18097
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18101
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 20
+            trigger_turn: 4
           }
-          enemy_skill_id: 18098
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18096
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18097
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18098
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18099
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18100
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 20
+            trigger_turn: 5
           }
-          enemy_skill_id: 18099
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18112
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
-            use_chance: 20
+            repeats_every: 2
+            trigger_turn: 1
           }
-          enemy_skill_id: 18100
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18101
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 2
+            trigger_turn: 2
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18080
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18096
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18097
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18098
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18099
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 20
+              }
+              enemy_skill_id: 18100
+            }
+          }
         }
       }
     }
