@@ -13,3 +13,18 @@
       }
     }
   }
+  level_overrides {
+    level: 5
+    groups {
+      group_type: STANDARD
+      condition {
+        hp_threshold: 100
+      }
+      children {
+        behavior {
+          enemy_skill_id: 1627
+        }
+      }
+    }
+  }
+  status: APPROVED_AS_IS
