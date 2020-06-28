@@ -19,46 +19,59 @@
     }
     groups {
       group_type: STANDARD
-      condition {
-        hp_threshold: 100
-      }
       children {
-        behavior {
-          enemy_skill_id: 18115
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18115
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 18116
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 33
+              }
+              enemy_skill_id: 18117
+            }
+          }
+          children {
+            behavior {
+              condition {
+                use_chance: 34
+              }
+              enemy_skill_id: 18118
+            }
+          }
         }
       }
-    }
-    groups {
-      group_type: UNKNOWN_USE
       children {
-        behavior {
+        group {
+          group_type: STANDARD
           condition {
-            use_chance: 33
+            hp_threshold: 9
           }
-          enemy_skill_id: 18116
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 33
+          children {
+            behavior {
+              enemy_skill_id: 18115
+            }
           }
-          enemy_skill_id: 18117
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 34
+          children {
+            behavior {
+              enemy_skill_id: 18119
+            }
           }
-          enemy_skill_id: 18118
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 18119
         }
       }
     }

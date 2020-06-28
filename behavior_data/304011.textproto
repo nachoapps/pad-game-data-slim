@@ -15,32 +15,141 @@
         hp_threshold: 100
       }
       children {
-        behavior {
-          enemy_skill_id: 18083
+        group {
+          condition {
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18111
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
         }
       }
-    }
-    groups {
-      group_type: UNKNOWN_USE
       children {
-        behavior {
+        group {
           condition {
+            trigger_turn: 2
+            trigger_turn_end: 3
           }
-          enemy_skill_id: 18112
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
+            trigger_turn: 4
           }
-          enemy_skill_id: 18111
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18111
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
         }
       }
       children {
-        behavior {
+        group {
           condition {
+            trigger_turn: 5
           }
-          enemy_skill_id: 18110
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18112
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 3
+            trigger_turn: 1
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 3
+            trigger_turn: 2
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18111
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
+        }
+      }
+      children {
+        group {
+          condition {
+            repeats_every: 3
+            trigger_turn: 3
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18083
+            }
+          }
+          children {
+            behavior {
+              enemy_skill_id: 18110
+            }
+          }
         }
       }
     }

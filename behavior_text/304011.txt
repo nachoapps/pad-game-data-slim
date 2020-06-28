@@ -11,12 +11,51 @@ level: 1
  | (18107:83) 君子の慎み + 高潔の至芸
  | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
  group:
- | (18083:46) 紫梅の色彩
- | Change own attribute to Dark, Deal 150% damage
- type: UNKNOWN_USE
- | (18112:19) 君子の美技
- | Increase damage to 1000% for the next 999 turns
- | (18111:88) 無の時節
- | Bind awoken skills for 2 turns, Deal 90% damage
- | (18110:97) 暗の時節
- | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: turn 1
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18111:88) 無の時節
+   | Bind awoken skills for 2 turns, Deal 90% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: turns 2-3
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: turn 4
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18111:88) 無の時節
+   | Bind awoken skills for 2 turns, Deal 90% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: turn 5
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18112:19) 君子の美技
+   | Increase damage to 1000% for the next 999 turns
+ | group:
+ | condition: execute repeatedly, turn 1 of 3
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: execute repeatedly, turn 2 of 3
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18111:88) 無の時節
+   | Bind awoken skills for 2 turns, Deal 90% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage
+ | group:
+ | condition: execute repeatedly, turn 3 of 3
+   | (18083:46) 紫梅の色彩
+   | Change own attribute to Dark, Deal 150% damage
+   | (18110:97) 暗の時節
+   | Blind random 10 orbs for 3 turns, Deal 100% damage

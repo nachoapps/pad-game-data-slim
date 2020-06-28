@@ -14,17 +14,21 @@ level: 1
  | (18114:74) 機工障壁
  | Reduce damage from all sources by 90% for 999 turns
  group:
- | (18115:46) エレメントシフト
- | Change own attribute to Wood, Deal 150% damage
- type: UNKNOWN_USE
- | condition: 33% chance
- | (18116:39) クイックタイム
- | Movetime -3s for 1 turn, Deal 95% damage
- | condition: 33% chance
- | (18117:127) テリトリードロップ
- | No skyfall for 1 turn
- | condition: 34% chance
- | (18118:130) パワーブレイク
- | ATK -25% for 1 turn, Deal 100% damage
- | (18119:15) 魔導バースト
- | Deal 1000% damage (10 hits, 100% each)
+ | group:
+   | (18115:46) エレメントシフト
+   | Change own attribute to Wood, Deal 150% damage
+   | condition: 33% chance
+   | (18116:39) クイックタイム
+   | Movetime -3s for 1 turn, Deal 95% damage
+   | condition: 33% chance
+   | (18117:127) テリトリードロップ
+   | No skyfall for 1 turn
+   | condition: 34% chance
+   | (18118:130) パワーブレイク
+   | ATK -25% for 1 turn, Deal 100% damage
+ | group:
+ | condition: hp <= 9
+   | (18115:46) エレメントシフト
+   | Change own attribute to Wood, Deal 150% damage
+   | (18119:15) 魔導バースト
+   | Deal 1000% damage (10 hits, 100% each)

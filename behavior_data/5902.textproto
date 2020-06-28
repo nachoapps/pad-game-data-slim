@@ -15,80 +15,27 @@
         hp_threshold: 100
       }
       children {
-        group {
+        behavior {
           condition {
-            trigger_turn: 1
+            use_chance: 33
           }
-          children {
-            behavior {
-              condition {
-                use_chance: 33
-              }
-              enemy_skill_id: 17900
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 33
-              }
-              enemy_skill_id: 17901
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 34
-              }
-              enemy_skill_id: 17902
-            }
-          }
+          enemy_skill_id: 17900
         }
       }
       children {
-        group {
+        behavior {
           condition {
-            repeats_every: 5
-            trigger_turn: 1
-            trigger_turn_end: 4
+            use_chance: 33
           }
-          children {
-            behavior {
-              condition {
-                use_chance: 33
-              }
-              enemy_skill_id: 17900
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 33
-              }
-              enemy_skill_id: 17901
-            }
-          }
-          children {
-            behavior {
-              condition {
-                use_chance: 34
-              }
-              enemy_skill_id: 17902
-            }
-          }
+          enemy_skill_id: 17901
         }
       }
       children {
-        group {
+        behavior {
           condition {
-            repeats_every: 5
-            trigger_turn: 5
+            use_chance: 34
           }
-          children {
-            behavior {
-              enemy_skill_id: 17899
-            }
-          }
+          enemy_skill_id: 17902
         }
       }
     }

@@ -24,36 +24,48 @@
     }
     groups {
       group_type: STANDARD
-      condition {
-        hp_threshold: 100
-      }
       children {
-        behavior {
-          enemy_skill_id: 17893
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 17894
+                }
+              }
+            }
+          }
+          children {
+            group {
+              children {
+                behavior {
+                  enemy_skill_id: 17895
+                }
+              }
+            }
+          }
         }
       }
-    }
-    groups {
-      group_type: UNKNOWN_USE
       children {
-        behavior {
+        group {
+          group_type: STANDARD
           condition {
+            hp_threshold: 1
+            trigger_turn: 1
           }
-          enemy_skill_id: 17894
-        }
-      }
-      children {
-        behavior {
-          condition {
+          children {
+            behavior {
+              enemy_skill_id: 17905
+            }
           }
-          enemy_skill_id: 17895
-        }
-      }
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 17905
         }
       }
     }

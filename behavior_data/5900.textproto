@@ -45,74 +45,9 @@
           }
           children {
             group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 1
-                trigger_turn_end: 4
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17897
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 5
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17896
-                }
-              }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 49
-          }
-          children {
-            group {
-              condition {
-                trigger_turn: 1
-              }
               children {
                 behavior {
                   enemy_skill_id: 17898
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 1
-                trigger_turn_end: 4
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17898
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 5
-                trigger_turn: 5
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 17896
                 }
               }
             }
