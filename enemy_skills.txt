@@ -81972,15 +81972,15 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 16387/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16387/39 - 継界龍呼・トルヴィオ＝オフ
+JP: 1ターンの間、操作時間50%
+EN: Movetime 50% for 1 turn
+KR: Movetime 50% for 1 turn
 
-# 16388/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 16388/15 - 針撃
+JP: 180%ダメージ (2連続攻撃、90%ごと)
+EN: Deal 180% damage (2 hits, 90% each)
+KR: Deal 180% damage (2 hits, 90% each)
 
 # 16389/0 - なし
 JP: nothing
@@ -91037,70 +91037,70 @@ JP: 2000%ダメージ (5連続攻撃、400%ごと)
 EN: Deal 2000% damage (5 hits, 400% each)
 KR: Deal 2000% damage (5 hits, 400% each)
 
-# 18200/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18200/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18201/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18201/20 - 海王神の結界
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 18202/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18202/68 - 冥界の黒海月
+JP: 10ターンの間、猛毒ドロップを+15%に落ちてくる
+EN: Mortal Poison skyfall +15% for 10 turns
+KR: Mortal Poison skyfall +15% for 10 turns
 
-# 18203/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18203/87 - 深海への誘い
+JP: 999ターンの間、2000万以上のダメージを吸収
+EN: Absorb damage when damage >= 20,000,000 for 999 turns
+KR: Absorb damage when damage >= 20,000,000 for 999 turns
 
-# 18204/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18204/130 - 光の届かぬ暗海
+JP: 99ターンの間、攻撃力が75%減少
+EN: ATK -75% for 99 turns
+KR: ATK -75% for 99 turns
 
-# 18205/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18205/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
 
-# 18206/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18206/17 - 海王神の憤怒
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 18207/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18207/85 - 毒海の渦潮
+JP: 全ドロップを猛毒に変化
+EN: Change all orbs to Mortal Poison
+KR: Change all orbs to Mortal Poison
 
-# 18208/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18208/15 - ハイドロウェイブ
+JP: 99%ダメージ (3連続攻撃、33%ごと)
+EN: Deal 99% damage (3 hits, 33% each)
+KR: Deal 99% damage (3 hits, 33% each)
 
-# 18209/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18209/48 - ヒュドラホーン
+JP: 回復ドロップを猛毒ドロップに変化
+EN: Change all Heal orbs to Mortal Poison orbs
+KR: Change all Heal orbs to Mortal Poison orbs
 
-# 18210/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18210/110 - 渦巻く海流
+JP: 1.0ターンの間、特定の位置のマスが1.5秒毎に変化する
+EN: Specific orbs change every 1.5s for 1 turn
+KR: Specific orbs change every 1.5s for 1 turn
 
-# 18211/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18211/15 - アビスメイルシュトリーム
+JP: 3000%ダメージ (10連続攻撃、300%ごと)
+EN: Deal 3000% damage (10 hits, 300% each)
+KR: Deal 3000% damage (10 hits, 300% each)
 
-# 18212/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18212/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
 # 18213/20 - Ａ.Ｔ.フィールド展開
 JP: 5ターンの間、状態異常無効化
@@ -91712,30 +91712,30 @@ JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 18335/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18335/87 - 光を纏っている
+JP: 10ターンの間、50万以上のダメージを吸収
+EN: Absorb damage when damage >= 500,000 for 10 turns
+KR: Absorb damage when damage >= 500,000 for 10 turns
 
-# 18336/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18336/66 - グルルル・・・
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 18337/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18337/66 - グルルル・・・
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 18338/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18338/39 - 暴れだした！
+JP: 99ターンの間、操作時間50%
+EN: Movetime 50% for 99 turns
+KR: Movetime 50% for 99 turns
 
-# 18339/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18339/15 - ドラコスターブラスト
+JP: 2000%ダメージ (10連続攻撃、200%ごと)
+EN: Deal 2000% damage (10 hits, 200% each)
+KR: Deal 2000% damage (10 hits, 200% each)
 
 # 18340/0 - なし
 JP: nothing
