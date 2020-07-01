@@ -12,12 +12,15 @@ level: 1
  | Lock 7 random orbs
  group:
  | group:
-   | (18222:39) あんたバカぁ？
-   | Movetime -2s for 1 turn, Deal 80% damage
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (18222:39) あんたバカぁ？
+     | Movetime -2s for 1 turn, Deal 80% damage
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (18223:15) 私一人で殲滅できるもん
+     | Deal 100% damage
  | group:
  | condition: hp <= 29
    | (18224:15) 超電磁洋弓銃
    | Deal 110% damage (5 hits, 22% each)
- type: UNKNOWN_USE
- | (18223:15) 私一人で殲滅できるもん
- | Deal 100% damage

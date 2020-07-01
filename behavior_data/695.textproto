@@ -18,8 +18,29 @@
             hp_threshold: 100
           }
           children {
-            behavior {
-              enemy_skill_id: 18222
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 1
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 18222
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 2
+                trigger_turn: 2
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 18223
+                }
+              }
             }
           }
         }
@@ -35,16 +56,6 @@
               enemy_skill_id: 18224
             }
           }
-        }
-      }
-    }
-    groups {
-      group_type: UNKNOWN_USE
-      children {
-        behavior {
-          condition {
-          }
-          enemy_skill_id: 18223
         }
       }
     }
