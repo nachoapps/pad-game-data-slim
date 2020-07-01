@@ -56,41 +56,15 @@ level: 1
  | group:
  | condition: hp <= 24
    | group:
-   | condition: execute repeatedly, turn 1 of 9
+   | condition: execute repeatedly, turn 1 of 4
      | (15916:39) Blazing Banquet
      | Movetime -2s for 3 turns, Deal 155% damage
    | group:
-   | condition: execute repeatedly, turn 2 of 9
+   | condition: execute repeatedly, turn 2 of 4
      | (15910:83) Heat! + Christmas!
      | Change the 2nd column to Fire orbs + Change the 2nd row to Wood orbs, Deal 60% damage
    | group:
-   | condition: execute repeatedly, turn 3 of 9
-     | condition: 50% chance
-     | (15912:48) Green Fire Transformation
-     | Change all Wood orbs to Fire orbs, Deal 85% damage
-     | (15911:15) Flame Dragon Sword
-     | Deal 90% damage
-   | group:
-   | condition: execute repeatedly, turn 4 of 9
-     | (15916:39) Blazing Banquet
-     | Movetime -2s for 3 turns, Deal 155% damage
-   | group:
-   | condition: execute repeatedly, turn 5 of 9
-     | condition: 50% chance
-     | (15912:48) Green Fire Transformation
-     | Change all Wood orbs to Fire orbs, Deal 85% damage
-     | (15911:15) Flame Dragon Sword
-     | Deal 90% damage
-   | group:
-   | condition: execute repeatedly, turn 6 of 9
-     | (15910:83) Heat! + Christmas!
-     | Change the 2nd column to Fire orbs + Change the 2nd row to Wood orbs, Deal 60% damage
-   | group:
-   | condition: execute repeatedly, turn 7 of 9
-     | (15916:39) Blazing Banquet
-     | Movetime -2s for 3 turns, Deal 155% damage
-   | group:
-   | condition: execute repeatedly, turn 8-9 of 9
+   | condition: execute repeatedly, turn 3-4 of 4
      | condition: 50% chance
      | (15912:48) Green Fire Transformation
      | Change all Wood orbs to Fire orbs, Deal 85% damage

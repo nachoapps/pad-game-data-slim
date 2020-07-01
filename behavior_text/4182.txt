@@ -15,9 +15,13 @@ level: 1
  | Voids status ailments for 10 turns + Void damage >= 20000000 for 999 turns + ATK -99% for 10 turns + Delay active skills by 99 turns
  group:
  | group:
- | condition: turns 1-9
+ | condition: turn 1
    | (17911:130) Insolence!
    | ATK -99% for 10 turns, Deal 10000% damage
+ | group:
+ | condition: turns 2-9
+   | (17912:66) ...
+   | Do nothing
  | group:
  | condition: turn 10
    | (17913:15) Find devotion
@@ -25,6 +29,3 @@ level: 1
  | group:
    | (17915:83) Robes of Conversion + Find devotion
    | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 10000% damage (10 hits, 1000% each), Deal 10000% damage (10 hits, 1000% each)
- type: UNKNOWN_USE
- | (17912:66) ...
- | Do nothing

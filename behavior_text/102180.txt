@@ -65,22 +65,28 @@ level: 1
      | Change 11 random orbs (excluding hearts) to Poison orbs + Lock all orbs
    | group:
    | condition: turn 11 while HP > 49
-     | (6459:39) Malicious Laughter
-     | Movetime 50% for 10 turns
-   | group:
-   | condition: execute repeatedly, turn 1 of 3
-     | (6465:83) The Feathered Garment of Yomi + Last Embrace
-     | Reduce damage from all sources by 50% for 3 turns + Player -100% HP
-   | group:
-   | condition: execute repeatedly, turn 2 of 3
-     | (6460:83) An Invitation to Death & Decay + Curse of the Eternal Land
-     | Change 11 random orbs (excluding hearts) to Poison orbs + Lock all orbs
-   | group:
-   | condition: execute repeatedly, turn 3 of 3
      | (6463:48) Anguished Wailing
      | Change all Heal orbs to Jammer orbs, Deal 100% damage
      | (6464:15) Fires of Deicide
      | Deal 150% damage (5 hits, 30% each)
+   | group:
+   | condition: turn 12 while HP > 49
+     | (6459:39) Malicious Laughter
+     | Movetime 50% for 10 turns
+   | group:
+   | condition: execute repeatedly, turn 1 of 3
+     | (6460:83) An Invitation to Death & Decay + Curse of the Eternal Land
+     | Change 11 random orbs (excluding hearts) to Poison orbs + Lock all orbs
+   | group:
+   | condition: execute repeatedly, turn 2 of 3
+     | (6463:48) Anguished Wailing
+     | Change all Heal orbs to Jammer orbs, Deal 100% damage
+     | (6464:15) Fires of Deicide
+     | Deal 150% damage (5 hits, 30% each)
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | (6465:83) The Feathered Garment of Yomi + Last Embrace
+     | Reduce damage from all sources by 50% for 3 turns + Player -100% HP
  | group:
  | condition: hp <= 49
    | group:
@@ -135,6 +141,12 @@ level: 1
      | Change 11 random orbs (excluding hearts) to Poison orbs + Lock all orbs
    | group:
    | condition: turn 12 while HP > 4
+     | (6463:48) Anguished Wailing
+     | Change all Heal orbs to Jammer orbs, Deal 100% damage
+     | (6464:15) Fires of Deicide
+     | Deal 150% damage (5 hits, 30% each)
+   | group:
+   | condition: turn 13 while HP > 4
      | (6459:39) Malicious Laughter
      | Movetime 50% for 10 turns
  | group:

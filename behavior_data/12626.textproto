@@ -14,7 +14,7 @@
       children {
         group {
           condition {
-            trigger_turn: 4
+            trigger_turn: 5
             always_trigger_above: 1
           }
           children {
@@ -34,7 +34,7 @@
             group {
               condition {
                 trigger_turn: 1
-                trigger_turn_end: 3
+                trigger_turn_end: 4
                 always_trigger_above: 19
               }
               children {

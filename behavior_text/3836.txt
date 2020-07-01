@@ -35,5 +35,11 @@ level: 4
    | Reduce damage from all sources by 75% for 1 turn + Deal 90% damage (3 hits, 30% each), Deal 90% damage (3 hits, 30% each)
  | group:
  | condition: hp <= 9
-   | (7918:39) Open Ocean
-   | Movetime 25% for 1 turn, Deal 250% damage
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | (7918:39) Open Ocean
+     | Movetime 25% for 1 turn, Deal 250% damage
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | (7917:83) Ripple + Copious Dragon Fangs
+     | Reduce damage from all sources by 75% for 1 turn + Deal 90% damage (3 hits, 30% each), Deal 90% damage (3 hits, 30% each)

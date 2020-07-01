@@ -183,6 +183,24 @@
               }
               children {
                 behavior {
+                  enemy_skill_id: 6463
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 6464
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 12
+                always_trigger_above: 49
+              }
+              children {
+                behavior {
                   enemy_skill_id: 6459
                 }
               }
@@ -196,7 +214,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 6465
+                  enemy_skill_id: 6460
                 }
               }
             }
@@ -209,7 +227,12 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 6460
+                  enemy_skill_id: 6463
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 6464
                 }
               }
             }
@@ -222,12 +245,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 6463
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 6464
+                  enemy_skill_id: 6465
                 }
               }
             }
@@ -401,6 +419,24 @@
             group {
               condition {
                 trigger_turn: 12
+                always_trigger_above: 4
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 6463
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 6464
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 13
                 always_trigger_above: 4
               }
               children {

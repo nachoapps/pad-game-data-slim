@@ -19,11 +19,20 @@ level: 1
    | (8091:63) Bolt Arrow
    | Bind 1 random sub for 10 turns, Deal 400% damage
  | group:
-   | condition: 60% chance
-   | (8093:48) Shine Blast
-   | Change all Dark orbs to Light orbs, Deal 280% damage
-   | (8094:39) Resting Pulse
-   | Movetime -1s for 1 turn, Deal 280% damage
+   | group:
+   | condition: execute repeatedly, turn 1 of 2
+     | condition: 60% chance
+     | (8093:48) Shine Blast
+     | Change all Dark orbs to Light orbs, Deal 280% damage
+     | (8094:39) Resting Pulse
+     | Movetime -1s for 1 turn, Deal 280% damage
+   | group:
+   | condition: execute repeatedly, turn 2 of 2
+     | condition: 60% chance
+     | (8093:48) Shine Blast
+     | Change all Dark orbs to Light orbs, Deal 280% damage
+     | (8095:15) Shine Wave
+     | Deal 300% damage (2 hits, 150% each)
  | group:
  | condition: hp <= 49
    | group:
@@ -40,5 +49,3 @@ level: 1
  type: UNKNOWN_USE
  | (8092:63) Bolt Arrow
  | Bind both leaders for 10 turns, Deal 400% damage
- | (8095:15) Shine Wave
- | Deal 300% damage (2 hits, 150% each)
