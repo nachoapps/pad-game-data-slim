@@ -22,8 +22,6 @@ level: 1
  | condition: turn 2
    | (18306:88) そんな顔をしないで
    | Bind awoken skills for 2 turns, Deal 100% damage
-   | (18307:79) ロンギヌスの槍
-   | Change the 1st row to Water orbs and the 5th row to Dark orbs, Deal 10000% damage
  | group:
    | (18307:79) ロンギヌスの槍
    | Change the 1st row to Water orbs and the 5th row to Dark orbs, Deal 10000% damage
