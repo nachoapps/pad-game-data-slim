@@ -1902,26 +1902,26 @@ JP: リーダーと入れ替わる；もう一度使うとサブに戻る
 EN: Becomes Team leader; changes back when used again
 KR: Becomes Team leader; changes back when used again
 
-# 620/5 - What are you, stupid?
-Tags: STOP_TIME
+# 620/116 - What are you, stupid?
+Tags: ENHANCED_ATTACK,STOP_TIME
 Game: Move Orbs freely for 7 seconds
-JP: 10秒間、時を止めてドロップを動かせる
-EN: Freely move orbs for 10 seconds
-KR: Freely move orbs for 10 seconds
+JP: 1ターンの間、火属性の攻撃力が1.5倍。10秒間、時を止めてドロップを動かせる
+EN: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
+KR: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
 
-# 621/20 - I mustn't run away
-Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+# 621/116 - I mustn't run away
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
 Game: Changes Wood Orbs to Water Orbs & Heal Orbs to Dark Orbs
-JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
-EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
-KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
+JP: 全ドロップのロック状態を解除。木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
+EN: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
+KR: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 
 # 622/116 - All right, understood!
-Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK
+Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: Inflicts 30x ATK attack on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
-JP: 敵1体に攻撃力ｘ30倍攻撃。2ターンの間、攻撃とマシンタイプの攻撃力が1.5倍
-EN: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
-KR: Deal 30x ATK damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
+JP: 敵1体に10万の固定ダメージ。2ターンの間、攻撃とマシンタイプの攻撃力が1.5倍
+EN: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
+KR: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
 
 # 623/3 - I will protect you
 Tags: REDUCE_DAMAGE
@@ -5038,12 +5038,12 @@ JP: 敵1体に攻撃力ｘ100倍攻撃
 EN: Deal 100x ATK damage to an enemy
 KR: Deal 100x ATK damage to an enemy
 
-# 1388/2 - 
-Tags: SINGLE_TARGET_ATTACK
+# 1388/55 - 
+Tags: SINGLE_TARGET_ATTACK,FIXED_DAMAGE
 Game: 
-JP: 敵1体に攻撃力ｘ30倍攻撃
-EN: Deal 30x ATK damage to an enemy
-KR: Deal 30x ATK damage to an enemy
+JP: 敵1体に10万の固定ダメージ
+EN: Deal 100000 fixed damage to an enemy
+KR: Deal 100000 fixed damage to an enemy
 
 # 1389/88 - 
 Tags: ENHANCED_ATTACK
@@ -17452,9 +17452,9 @@ KR: For 4 turns, Water orbs are more likely to appear by 15%
 # 6816/116 - Let's see what this bad boy can do!
 Tags: ENHANCED_ATTACK,HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Recovers 30% of max HP, reduces bind status by 3 turns; 1.5x ATK for Attacker & Devil Types for 1 turn
-JP: 最大HP30％分回復。バインドと覚醒無効を全回復。1ターンの間、攻撃と悪魔タイプの攻撃力が1.5倍
-EN: Recover 30% of max HP; Remove all binds and awoken skill binds; For 1 turn, 1.5x ATK for Attacker and Devil types
-KR: Recover 30% of max HP; Remove all binds and awoken skill binds; For 1 turn, 1.5x ATK for Attacker and Devil types
+JP: 最大HP30％分回復。バインドと覚醒無効を全回復。2ターンの間、攻撃と悪魔タイプの攻撃力が1.5倍
+EN: Recover 30% of max HP; Remove all binds and awoken skill binds; For 2 turns, 1.5x ATK for Attacker and Devil types
+KR: Recover 30% of max HP; Remove all binds and awoken skill binds; For 2 turns, 1.5x ATK for Attacker and Devil types
 
 # 6817/117 - 
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -17466,9 +17466,9 @@ KR: Recover 30% of max HP; Remove all binds and awoken skill binds
 # 6818/92 - 
 Tags: ENHANCED_ATTACK
 Game: 
-JP: 1ターンの間、攻撃と悪魔タイプの攻撃力が1.5倍
-EN: For 1 turn, 1.5x ATK for Attacker and Devil types
-KR: For 1 turn, 1.5x ATK for Attacker and Devil types
+JP: 2ターンの間、攻撃と悪魔タイプの攻撃力が1.5倍
+EN: For 2 turns, 1.5x ATK for Attacker and Devil types
+KR: For 2 turns, 1.5x ATK for Attacker and Devil types
 
 # 6839/116 - What would Rei Ayanami do?
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
@@ -48264,4 +48264,32 @@ Game:
 JP: 3ターンの間、回復力が3倍
 EN: For 3 turns, 3x RCV
 KR: For 3 turns, 3x RCV
+
+# 17794/50 - 
+Tags: ENHANCED_ATTACK
+Game: 
+JP: 1ターンの間、火属性の攻撃力が1.5倍
+EN: For 1 turn, 1.5x ATK for Fire Att.
+KR: For 1 turn, 1.5x ATK for Fire Att.
+
+# 17795/5 - 
+Tags: STOP_TIME
+Game: 
+JP: 10秒間、時を止めてドロップを動かせる
+EN: Freely move orbs for 10 seconds
+KR: Freely move orbs for 10 seconds
+
+# 17796/172 - 
+Tags: REMOVE_LOCK
+Game: 
+JP: 全ドロップのロック状態を解除
+EN: Unlock all orbs
+KR: Unlock all orbs
+
+# 17797/20 - 
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: 
+JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
+EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
+KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 

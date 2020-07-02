@@ -3,12 +3,12 @@ HP: 2098 ATK: 1823 RCV: 218 LB: 0
 AWK: 23,15,9
 SAWK: 
 
-# 621/20 - I mustn't run away
-Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+# 621/116 - I mustn't run away
+Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
 Game: Changes Wood Orbs to Water Orbs & Heal Orbs to Dark Orbs
-JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
-EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
-KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
+JP: 全ドロップのロック状態を解除。木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
+EN: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
+KR: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 
 # 547/138 - NERV Specifications
 Tags: ENHANCED_HP_ATK_RCV

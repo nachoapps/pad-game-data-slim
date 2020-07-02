@@ -3,12 +3,12 @@ HP: 181 ATK: 171 RCV: 41 LB: 0
 AWK: 
 SAWK: 
 
-# 620/5 - What are you, stupid?
-Tags: STOP_TIME
+# 620/116 - What are you, stupid?
+Tags: ENHANCED_ATTACK,STOP_TIME
 Game: Move Orbs freely for 7 seconds
-JP: 10秒間、時を止めてドロップを動かせる
-EN: Freely move orbs for 10 seconds
-KR: Freely move orbs for 10 seconds
+JP: 1ターンの間、火属性の攻撃力が1.5倍。10秒間、時を止めてドロップを動かせる
+EN: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
+KR: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
 
 # 1260/138 - Code 777
 Tags: ENHANCED_HP_ATK

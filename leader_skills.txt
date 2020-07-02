@@ -28520,27 +28520,27 @@ KR: 6x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross f
 
 # 6789/138 - Myr's Providence
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
-Stats: [1, 21.0, 1.0, 0.5, +2]
+Stats: [1, 24.0, 1.0, 0.5, +2]
 Game: 3x ATK when attacking with 4 Att. (6x ATK for 5 Att.); 3x ATK & halves dmg with a cross of 5 Heal Orbs
-JP: 3色以上同時攻撃で攻撃力が6倍。回復の5個十字消しで攻撃力が3.5倍、受けるダメージを50％減少。4色以上同時攻撃で2コンボ加算。
-EN: 6x ATK when matching 3 or more colors; 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; increase combo by 2 when matching 4 or more colors
-KR: 6x ATK when matching 3 or more colors; 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; increase combo by 2 when matching 4 or more colors
+JP: 3色以上同時攻撃で攻撃力が6倍、2コンボ加算。回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。
+EN: 6x ATK and increase combo by 2 when matching 3 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 6x ATK and increase combo by 2 when matching 3 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 
-# 6790/61 - 
-Tags: ENHANCED_ATK
-Stats: [1, 6.0, 1, 0]
+# 6790/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 6.0, 1, 0, +2]
 Game: 
-JP: 3色以上同時攻撃で攻撃力が6倍。
-EN: 6x ATK when matching 3 or more colors
-KR: 6x ATK when matching 3 or more colors
+JP: 3色以上同時攻撃で攻撃力が6倍、2コンボ加算。
+EN: 6x ATK and increase combo by 2 when matching 3 or more colors
+KR: 6x ATK and increase combo by 2 when matching 3 or more colors
 
 # 6791/151 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 3.5, 1.0, 0.5]
+Stats: [1, 4.0, 1.0, 0.5]
 Game: 
-JP: 回復の5個十字消しで攻撃力が3.5倍、受けるダメージを50％減少。
-EN: 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
-KR: 3.5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+JP: 回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。
+EN: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
+KR: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 
 # 6795/138 - Kali's Providence
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
@@ -73241,43 +73241,43 @@ KR: 4x ATK when matching 5 or more connected Dark orbs
 
 # 17429/138 - 人類補完計画
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
-Stats: [2.0, 16.0, 1.0, 0]
-Game: 【操作時間8秒】バランスタイプのHPが2倍、攻撃力は4倍。 闇を5個以上つなげて消すと攻撃力が4倍、固定5万ダメージ。
-JP: 【操作時間8秒固定】バランスタイプの攻撃力が4倍、HPが2倍。闇を5個以上つなげて消しと固定50000ダメージ。闇を5個以上つなげて消すと攻撃力が4倍。
-EN: [Fixed 8 second movetime] 4x ATK and 2x HP for Balanced type; 50000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
-KR: [Fixed 8 second movetime] 4x ATK and 2x HP for Balanced type; 50000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
+Stats: [2.0, 18.0, 1.0, 0]
+Game: 【操作時間8秒】バランスタイプのHPが2倍、攻撃力は4.5倍。 闇を5個以上つなげて消すと攻撃力が4倍、固定10万ダメージ。
+JP: 【操作時間8秒固定】バランスタイプの攻撃力が4.5倍、HPが2倍。闇を5個以上つなげて消しと固定100000ダメージ。闇を5個以上つなげて消すと攻撃力が4倍。
+EN: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type; 100000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
+KR: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type; 100000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
 
 # 17430/178 - 
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 4.0, 1.0, 0]
+Stats: [2.0, 4.5, 1.0, 0]
 Game: 
-JP: 【操作時間8秒固定】バランスタイプの攻撃力が4倍、HPが2倍。
-EN: [Fixed 8 second movetime] 4x ATK and 2x HP for Balanced type
-KR: [Fixed 8 second movetime] 4x ATK and 2x HP for Balanced type
+JP: 【操作時間8秒固定】バランスタイプの攻撃力が4.5倍、HPが2倍。
+EN: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type
+KR: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type
 
 # 17431/200 - 
 Tags: ADDITIONAL_ATTACK
 Stats: [1, 1, 1, 0]
 Game: 
-JP: 闇を5個以上つなげて消しと固定50000ダメージ。
-EN: 50000 additional damage when matching 5 or more Dark orbs
-KR: 50000 additional damage when matching 5 or more Dark orbs
+JP: 闇を5個以上つなげて消しと固定100000ダメージ。
+EN: 100000 additional damage when matching 5 or more Dark orbs
+KR: 100000 additional damage when matching 5 or more Dark orbs
 
 # 17461/138 - EVA-01 TEST TYPE
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
-Stats: [1, 16.0, 1, 0.5, +2]
-Game: 闇を6個以上つなげて消すと攻撃力が16倍、1コンボ加算。 3色以上同時攻撃でダメージを半減、1コンボ加算。
-JP: 闇を6個以上つなげて消しと攻撃力が16倍、1コンボ加算。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で受けるダメージを50％減少。
-EN: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
-KR: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
+Stats: [1, 18.5, 1, 0.5, +2]
+Game: 闇を6個以上つなげて消すと攻撃力が18.5倍、1コンボ加算。 3色以上同時攻撃でダメージを半減、1コンボ加算。
+JP: 闇を6個以上つなげて消しと攻撃力が18.5倍、1コンボ加算。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で受けるダメージを50％減少。
+EN: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
+KR: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
 
 # 17462/192 - 
 Tags: ENHANCED_ATK,EXTRA_COMBOS
-Stats: [1, 16.0, 1, 0, +1]
+Stats: [1, 18.5, 1, 0, +1]
 Game: 
-JP: 闇を6個以上つなげて消しと攻撃力が16倍、1コンボ加算。
-EN: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once
-KR: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once
+JP: 闇を6個以上つなげて消しと攻撃力が18.5倍、1コンボ加算。
+EN: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once
+KR: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once
 
 # 17463/194 - 
 Tags: EXTRA_COMBOS

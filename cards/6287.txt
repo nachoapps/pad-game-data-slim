@@ -1,6 +1,6 @@
 #6287 エヴァ初号機
-HP: 3595 ATK: 2433 RCV: 468 LB: 30
-AWK: 52,56,28,19,48,48,43,43,32
+HP: 4095 ATK: 2433 RCV: 468 LB: 30
+AWK: 52,56,28,53,48,48,43,43,32
 SAWK: 56,45,60
 
 # 17458/116 - プログレッシブ・ナイフ
@@ -12,9 +12,9 @@ KR: Reduce awoken skill binds by 2 turns; Create 2 Water and Dark orbs
 
 # 17461/138 - EVA-01 TEST TYPE
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
-Stats: [1, 16.0, 1, 0.5, +2]
-Game: 闇を6個以上つなげて消すと攻撃力が16倍、1コンボ加算。 3色以上同時攻撃でダメージを半減、1コンボ加算。
-JP: 闇を6個以上つなげて消しと攻撃力が16倍、1コンボ加算。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で受けるダメージを50％減少。
-EN: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
-KR: 16x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
+Stats: [1, 18.5, 1, 0.5, +2]
+Game: 闇を6個以上つなげて消すと攻撃力が18.5倍、1コンボ加算。 3色以上同時攻撃でダメージを半減、1コンボ加算。
+JP: 闇を6個以上つなげて消しと攻撃力が18.5倍、1コンボ加算。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で受けるダメージを50％減少。
+EN: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
+KR: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
 
