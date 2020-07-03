@@ -1,14 +1,14 @@
 #5997 Floating Jester, Cherney
 HP: 2013 ATK: 1155 RCV: 228 LB: 0
-AWK: 19,19,32,18
+AWK: 19,19,32,18,21,21
 SAWK: 
 
 # 16341/116 - Imbue with Sacred Relic, Deig
 Tags: DROP_CHANCE
 Game: Dark Orbs more likely to appear for 10 turns; changes to Mischievous Silver Dragon Jester, Cherney
-JP: 10ターンの間、闇ドロップが15％落ちやすくなる。[5998]に変身する
-EN: For 10 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
-KR: For 10 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
+JP: 15ターンの間、闇ドロップが15％落ちやすくなる。[5998]に変身する
+EN: For 15 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
+KR: For 15 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
 
 # 16292/150 - Pure Heart of Spellbound Silver
 Tags: ENHANCED_ATK

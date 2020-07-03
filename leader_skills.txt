@@ -68513,19 +68513,19 @@ KR: 3x ATK when matching 4 or more colors
 
 # 16265/138 - Graeol's Empathy
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,NO_SKYFALL_COMBOS
-Stats: [1.0, 20.0, 1.0, 0.5]
+Stats: [1.0, 22.0, 1.0, 0.5]
 Game: [No Skyfall Combos], halves dmg & inflicts 1 dmg when 4+ Att. attack at once; 20x ATK when 6 Orbs or less remain
-JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が20倍。4色以上同時攻撃で受けるダメージを50％減少。4色以上同時攻撃、固定1ダメージ。
-EN: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
-KR: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
+JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が22倍。4色以上同時攻撃で受けるダメージを50％減少。4色以上同時攻撃、固定1ダメージ。
+EN: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
+KR: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
 
 # 16266/177 - 
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
-Stats: [1.0, 20.0, 1.0, 0]
+Stats: [1.0, 22.0, 1.0, 0]
 Game: 
-JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が20倍。
-EN: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining
-KR: [No skyfall] 20x ATK when there are 6 or fewer orbs remaining
+JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が22倍。
+EN: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining
+KR: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining
 
 # 16267/170 - 
 Tags: REDUCE_DAMAGE
@@ -73518,6 +73518,46 @@ Game:
 JP: 木、回復同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching Wood and Heal at once
 KR: increase combo by 1 when matching Wood and Heal at once
+
+# 17716/136 - 正邪の相克
+Tags: ENHANCED_ATK
+Stats: [1.0, 15.0, 1.0, 0]
+Game: 総HPが半減、光と闇属性の攻撃力が15倍。
+JP: HPが0.5倍。光と闇属性の攻撃力が15倍。
+EN: 0.5x HP; 15x ATK for Light and Dark Att.
+KR: 0.5x HP; 15x ATK for Light and Dark Att.
+
+# 17717/138 - スミヅノの共感
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1.0, 21.0, 1.0, 0.75]
+Game: 総HPが半減、光と闇属性の攻撃力が21倍。 光闇の同時攻撃でダメージを激減、固定10万ダメージ。
+JP: HPが0.5倍。光と闇属性の攻撃力が21倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。
+EN: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
+KR: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
+
+# 17718/136 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 21.0, 1.0, 0]
+Game: 
+JP: HPが0.5倍。光と闇属性の攻撃力が21倍。
+EN: 0.5x HP; 21x ATK for Light and Dark Att.
+KR: 0.5x HP; 21x ATK for Light and Dark Att.
+
+# 17719/170 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.75]
+Game: 
+JP: 光、闇同時攻撃で受けるダメージを75％減少。
+EN: Reduce damage taken by 75% when matching Light and Dark at once
+KR: Reduce damage taken by 75% when matching Light and Dark at once
+
+# 17720/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 光、闇同時攻撃、固定100000ダメージ。
+EN: 100000 additional damage when matching Light and Dark at once
+KR: 100000 additional damage when matching Light and Dark at once
 
 # 17721/129 - 
 Tags: ENHANCED_HP_ATK_RCV

@@ -1,0 +1,20 @@
+#6346 夜煌龍の侍・トウヤ
+HP: 2037 ATK: 5516 RCV: 0 LB: 0
+AWK: 52,28,48,48,48,27,27,27,27
+SAWK: 
+
+# 17713/116 - 十六夜の白焔
+Tags: REDUCE_DEFENSE,EXTENDS_TIME,REMOVE_LOCK
+Game: ドロップのロック状態を解除。 1ターンの間、ドロップ操作を2秒延長、敵の防御力が激減。
+JP: 全ドロップのロック状態を解除。1ターンの間、ドロップ操作時間が2秒に延長。1ターンの間、敵の防御力が75％下がる
+EN: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds; For 1 turn, reduce enemies' defense by 75%
+KR: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds; For 1 turn, reduce enemies' defense by 75%
+
+# 17717/138 - スミヅノの共感
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1.0, 21.0, 1.0, 0.75]
+Game: 総HPが半減、光と闇属性の攻撃力が21倍。 光闇の同時攻撃でダメージを激減、固定10万ダメージ。
+JP: HPが0.5倍。光と闇属性の攻撃力が21倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。
+EN: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
+KR: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
+

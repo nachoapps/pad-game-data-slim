@@ -4,11 +4,11 @@ AWK: 28,48,48,53,60,43,43,52,33
 SAWK: 
 
 # 16210/116 - Splash Step
-Tags: ORB_LOCK
+Tags: ENHANCED_ATTACK,ORB_LOCK
 Game: Creates 3 Water Orbs at random; all Orbs locked
-JP: 水ドロップを3個生成。全ドロップをロック
-EN: Create 3 Water orbs; Lock all orbs
-KR: Create 3 Water orbs; Lock all orbs
+JP: 水ドロップを3個生成。全ドロップをロック。1ターンの間、水属性の攻撃力が1.2倍
+EN: Create 3 Water orbs; Lock all orbs; For 1 turn, 1.2x ATK for Water Att.
+KR: Create 3 Water orbs; Lock all orbs; For 1 turn, 1.2x ATK for Water Att.
 
 # 16211/138 - Jind's Empathy
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
