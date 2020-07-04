@@ -12,7 +12,7 @@ KR: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds; For 1 turn
 
 # 17717/138 - スミヅノの共感
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
-Stats: [1.0, 21.0, 1.0, 0.75]
+Stats: [0.5, 21.0, 1.0, 0.75]
 Game: 総HPが半減、光と闇属性の攻撃力が21倍。 光闇の同時攻撃でダメージを激減、固定10万ダメージ。
 JP: HPが0.5倍。光と闇属性の攻撃力が21倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。
 EN: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
