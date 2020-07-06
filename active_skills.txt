@@ -2478,7 +2478,7 @@ KR: Deal 10000 fixed damage to all enemies; Delay enemies' next attack by 1 turn
 
 # 903/116 - 律する小指の鎖
 Tags: GRAVITY,MENACE
-Game: 敵の行動を4ターン遅らせる。 敵のHPが10％減少。
+Game: 敵の行動を4ターン遅らせる。 敵の残りHPが10％減少。
 JP: 敵の行動を4ターン遅らせる。敵の現HPの10％分のダメージ
 EN: Delay enemies' next attack by 4 turns; Reduce enemies' HP by 10%
 KR: Delay enemies' next attack by 4 turns; Reduce enemies' HP by 10%
@@ -2870,7 +2870,7 @@ KR: Delay enemies' next attack by 1 turn; Enhance all Water orbs
 
 # 960/6 - デスボール
 Tags: GRAVITY
-Game: 敵のHPを25％減らす。
+Game: 敵の残りHPが25％減少。
 JP: 敵の現HPの25％分のダメージ
 EN: Reduce enemies' HP by 25%
 KR: Reduce enemies' HP by 25%
@@ -3066,14 +3066,14 @@ KR: Deal 10000 fixed damage to an enemy; For 2 turns, 2x ATK for Healer type
 
 # 988/116 - 鳳翼天翔
 Tags: MASSIVE_ATTACK,HEAL,RECOVER_BIND,FIXED_DAMAGE,HEAL_BIND_RECOVERY
-Game: 敵全体に10000の固定ダメージ。 最大HP50％分のHP回復、バインド状態を5ターン回復。
+Game: 敵全体に10000の固定ダメージ。 HPを50％回復、バインド状態を5ターン回復。
 JP: 敵全体に1万の固定ダメージ。最大HP50％分回復。バインドを5ターン回復
 EN: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 KR: Deal 10000 fixed damage to all enemies; Recover 50% of max HP; Reduce binds by 5 turns
 
 # 989/116 - 黄金の杖
 Tags: ATTACK_STANCE,GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
-Game: 回復ドロップを光に、闇ドロップを回復に変化。 最大HP30％分のHP回復、覚醒無効状態を3ターン回復。
+Game: 回復ドロップを光に、闇ドロップを回復に変化。 HPを30％回復、覚醒無効状態を3ターン回復。
 JP: 回復ドロップを光ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復。覚醒無効を3ターン回復
 EN: Change Heal orbs to Light orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP; Reduce awoken skill binds by 3 turns
 KR: Change Heal orbs to Light orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP; Reduce awoken skill binds by 3 turns
@@ -5978,7 +5978,7 @@ KR: Deal 200x Fire damage to an enemy; For 2 turns, 3x ATK for Devil type
 
 # 1623/116 - ヒレフセーッ！
 Tags: GRAVITY,HEAL
-Game: 敵のHPが30％減少。 HPを7000回復。
+Game: 敵の残りHPが30％減少。 HPを7000回復。
 JP: 敵の現HPの30％分のダメージ。HPを7000回復
 EN: Reduce enemies' HP by 30%; Recover 7000 HP
 KR: Reduce enemies' HP by 30%; Recover 7000 HP
@@ -6426,7 +6426,7 @@ KR: Reduce enemies' HP by 25%
 
 # 1801/116 - サンダークロウ
 Tags: ALL_ORBS_CONVERT,NEW_GRAVITY
-Game: 全ドロップを水、木、光、回復ドロップに変化。 敵の最大HP5％分のダメージ。
+Game: 全ドロップを水、木、光、回復ドロップに変化。 敵のHP5％分のダメージ。
 JP: 全ドロップを水、木、光、回復ドロップに変化。敵の最大HPの5％分のダメージ
 EN: Change all orbs to Water, Wood, Light, and Heal orbs; Deal damage equal to 5% of enemies' max HP
 KR: Change all orbs to Water, Wood, Light, and Heal orbs; Deal damage equal to 5% of enemies' max HP
@@ -6552,7 +6552,7 @@ KR: Create 2 Fire and Water orbs; Enhance all Fire and Water orbs
 
 # 1819/117 - 治癒能力
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: 最大HPの50％分HPを回復。 バインド状態を2ターン回復。
+Game: HPを50％回復、バインド状態を2ターン回復。
 JP: 最大HP50％分回復。バインドを2ターン回復
 EN: Recover 50% of max HP; Reduce binds by 2 turns
 KR: Recover 50% of max HP; Reduce binds by 2 turns
@@ -32881,7 +32881,7 @@ KR: For 3 turns, Light and Dark orbs are more likely to appear by 10%
 
 # 12939/116 - シュワッとジンジャーエール
 Tags: STOP_TIME,HEAL
-Game: 最大HPの10％分HPを回復。 10秒間、時を止めてドロップを動かせる。
+Game: HPを10％回復。 10秒間、時を止めてドロップを動かせる。
 JP: 最大HP10％分回復。10秒間、時を止めてドロップを動かせる
 EN: Recover 10% of max HP; Freely move orbs for 10 seconds
 KR: Recover 10% of max HP; Freely move orbs for 10 seconds
@@ -40252,7 +40252,7 @@ KR: Change all orbs to Fire, Water, Wood, Light, and Heal orbs
 
 # 15221/116 - 話は読めた！
 Tags: HEAL,ADD_COMBO
-Game: 3ターンの間、1コンボ加算。 3ターンの間、最大HPの30％分回復。
+Game: 3ターンの間、1コンボ加算。 3ターンの間、HPを30％回復。
 JP: 3ターンの間、1コンボ加算される。3ターンの間、最大HPの30％分回復
 EN: For 3 turns, increase combo count by 1; For 3 turns, recover 30% of max HP
 KR: For 3 turns, increase combo count by 1; For 3 turns, recover 30% of max HP
@@ -40273,7 +40273,7 @@ KR: For 3 turns, recover 30% of max HP
 
 # 15224/116 - シンカリオン Ｅ６こまち
 Tags: HEAL,ADD_COMBO
-Game: 3ターンの間、1コンボ加算。 3ターンの間、最大HPの50％分回復。
+Game: 3ターンの間、1コンボ加算。 3ターンの間、HPを50％回復。
 JP: 3ターンの間、1コンボ加算される。3ターンの間、最大HPの50％分回復
 EN: For 3 turns, increase combo count by 1; For 3 turns, recover 50% of max HP
 KR: For 3 turns, increase combo count by 1; For 3 turns, recover 50% of max HP
@@ -47028,7 +47028,7 @@ KR: Deal 300000 fixed damage to all enemies
 
 # 17134/116 - ロイヤルフォーク
 Tags: HEAL,REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが2ターン溜まる。 3ターンの間、最大HP50％分回復。
+Game: 自分以外の味方スキルが2ターン溜まる。 3ターンの間、HPを50％回復。
 JP: 自分以外の味方スキルが2ターンの溜まる。3ターンの間、最大HPの50％分回復
 EN: Charge all allies' skills by 2 turns; For 3 turns, recover 50% of max HP
 KR: Charge all allies' skills by 2 turns; For 3 turns, recover 50% of max HP
@@ -47833,7 +47833,7 @@ KR: Create 3 Dark orbs
 
 # 17392/116 - 街で最強の男の物語
 Tags: HEAL,LINE_ORBS_CONVERTER
-Game: 最大HP50％分のHP回復。 最上段横1列を火ドロップに変化。
+Game: HPを50％回復。 最上段横1列を火ドロップに変化。
 JP: 最大HP50％分回復。最上段を火ドロップに変化
 EN: Recover 50% of max HP; Change the top row to Fire orbs
 KR: Recover 50% of max HP; Change the top row to Fire orbs
@@ -48127,7 +48127,7 @@ KR: For 1 turn, bypass damage absorb shield and att. absorb shield effects
 
 # 17455/116 - ミサトの助力
 Tags: HEAL,LINE_ORBS_CONVERTER
-Game: 最上段横1列を火ドロップに変化。 3ターンの間、最大HP50％分回復。
+Game: 最上段横1列を火ドロップに変化。 3ターンの間、HPを50％回復。
 JP: 最上段を火ドロップに変化。3ターンの間、最大HPの50％分回復
 EN: Change the top row to Fire orbs; For 3 turns, recover 50% of max HP
 KR: Change the top row to Fire orbs; For 3 turns, recover 50% of max HP

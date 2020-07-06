@@ -5,7 +5,7 @@ SAWK:
 
 # 1819/117 - 治癒能力
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: 最大HPの50％分HPを回復。 バインド状態を2ターン回復。
+Game: HPを50％回復、バインド状態を2ターン回復。
 JP: 最大HP50％分回復。バインドを2ターン回復
 EN: Recover 50% of max HP; Reduce binds by 2 turns
 KR: Recover 50% of max HP; Reduce binds by 2 turns

@@ -5,7 +5,7 @@ SAWK: 27,55,48
 
 # 15221/116 - 話は読めた！
 Tags: HEAL,ADD_COMBO
-Game: 3ターンの間、1コンボ加算。 3ターンの間、最大HPの30％分回復。
+Game: 3ターンの間、1コンボ加算。 3ターンの間、HPを30％回復。
 JP: 3ターンの間、1コンボ加算される。3ターンの間、最大HPの30％分回復
 EN: For 3 turns, increase combo count by 1; For 3 turns, recover 30% of max HP
 KR: For 3 turns, increase combo count by 1; For 3 turns, recover 30% of max HP
