@@ -73679,6 +73679,38 @@ JP: 合成素材にすると5000万モンスター経験値が手に入る。
 EN: 合成素材にすると5000万モンスター経験値が手に入る。 
 KR: 合成素材にすると5000万モンスター経験値が手に入る。 
 
+# 17789/138 - 暁光の祝福
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 12.0, 1.0, 0.25]
+Game: 火属性のHPが2倍。火を6個以上つなげて消すとダメージを軽減。 HP50％以上で攻撃力が12倍、49％以下で4倍。
+JP: 火属性のHPが2倍。火を6個以上つなげて消すと受けるダメージを25％減少。HPが50%以上で攻撃力が12倍。HPが49%以下で攻撃力が4倍。
+EN: 2x HP for Fire Att.; Reduce damage taken by 25% when matching 6 or more connected Fire orbs; 12x ATK when above 50% HP; 4x ATK when below 49% HP
+KR: 2x HP for Fire Att.; Reduce damage taken by 25% when matching 6 or more connected Fire orbs; 12x ATK when above 50% HP; 4x ATK when below 49% HP
+
+# 17790/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPが2倍。
+EN: 2x HP for Fire Att.
+KR: 2x HP for Fire Att.
+
+# 17791/182 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.25]
+Game: 
+JP: 火を6個以上つなげて消すと受けるダメージを25％減少。
+EN: Reduce damage taken by 25% when matching 6 or more connected Fire orbs
+KR: Reduce damage taken by 25% when matching 6 or more connected Fire orbs
+
+# 17792/139 - 
+Tags: ENHANCED_ATK
+Stats: [1, 12.0, 1, 0]
+Game: 
+JP: HPが50%以上で攻撃力が12倍。HPが49%以下で攻撃力が4倍。
+EN: 12x ATK when above 50% HP; 4x ATK when below 49% HP
+KR: 12x ATK when above 50% HP; 4x ATK when below 49% HP
+
 # 17842/129 - 
 Tags: ENHANCED_ATK
 Stats: [1.0, 21.0, 1.0, 0.0]
