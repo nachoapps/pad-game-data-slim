@@ -73642,30 +73642,30 @@ JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 14721/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 14721/83 - ＿メノア通常1
+JP: 
+EN: 
+KR: 
 
-# 14722/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 14722/83 - ＿メノア通常2
+JP: 
+EN: 
+KR: 
 
-# 14723/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 14723/83 - ＿メノア通常3
+JP: 
+EN: 
+KR: 
 
-# 14724/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 14724/83 - ＿メノア発狂
+JP: 
+EN: 
+KR: 
 
-# 14725/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 14725/46 - エレメントシフト
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
 # 14726/0 - なし
 JP: nothing
@@ -91777,15 +91777,15 @@ JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 18348/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18348/46 - オーロラフラッシュ
+JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
+EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
+KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 18349/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18349/17 - 希石の奇跡
+JP: 999ターンの間、攻撃力が1000%に上昇
+EN: Increase damage to 1000% for the next 999 turns
+KR: Increase damage to 1000% for the next 999 turns
 
 # 18350/129 - 超根性
 JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
@@ -91867,25 +91867,25 @@ JP: 1ターンの間、ランダムで1体がバインド
 EN: Bind 1 random card for 1 turn
 KR: Bind 1 random card for 1 turn
 
-# 18366/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18366/92 - カオスフラッシュ
+JP: 毒ドロップを19個生成
+EN: Spawn 19 random Poison orbs
+KR: Spawn 19 random Poison orbs
 
-# 18367/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18367/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18368/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18368/20 - 神秘の輝石
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 18369/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18369/89 - 神秘の輝石
+JP: スキルターンを3ターン遅延
+EN: Delay active skills by 3 turns
+KR: Delay active skills by 3 turns
 
 # 18370/0 - なし
 JP: nothing
@@ -92693,6 +92693,1026 @@ EN: nothing
 KR: nothing
 
 # 18531/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18532/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18533/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18534/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18535/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18536/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18537/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18538/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18539/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18540/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18541/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18542/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18543/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18544/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18545/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18546/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18547/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18548/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18549/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18550/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18551/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18552/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18553/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18554/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18555/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18556/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18557/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18558/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18559/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18560/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18561/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18562/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18563/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18564/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18565/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18566/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18567/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18568/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18569/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18570/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18571/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18572/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18573/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18574/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18575/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18576/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18577/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18578/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18579/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18580/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18581/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18582/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18583/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18584/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18585/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18586/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18587/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18588/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18589/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18590/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18591/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18592/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18593/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18594/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18595/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18596/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18597/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18598/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18599/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18600/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18601/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18602/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18603/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18604/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18605/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18606/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18607/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18608/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18609/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18610/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18611/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18612/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18613/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18614/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18615/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18616/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18617/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18618/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18619/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18620/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18621/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18622/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18623/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18624/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18625/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18626/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18627/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18628/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18629/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18630/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18631/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18632/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18633/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18634/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18635/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18636/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18637/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18638/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18639/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18640/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18641/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18642/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18643/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18644/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18645/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18646/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18647/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18648/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18649/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18650/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18651/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18652/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18653/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18654/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18655/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18656/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18657/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18658/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18659/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18660/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18661/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18662/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18663/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18664/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18665/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18666/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18667/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18668/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18669/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18670/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18671/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18672/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18673/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18674/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18675/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18676/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18677/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18678/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18679/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18680/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18681/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18682/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18683/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18684/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18685/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18686/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18687/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18688/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18689/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18690/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18691/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18692/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18693/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18694/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18695/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18696/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18697/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18698/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18699/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18700/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18701/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18702/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18703/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18704/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18705/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18706/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18707/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18708/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18709/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18710/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18711/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18712/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18713/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18714/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18715/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18716/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18717/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18718/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18719/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18720/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18721/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18722/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18723/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18724/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18725/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18726/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18727/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18728/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18729/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18730/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18731/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18732/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18733/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18734/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18735/0 - なし
 JP: nothing
 EN: nothing
 KR: nothing

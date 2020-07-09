@@ -6966,13 +6966,13 @@ JP: 受けるダメージを20％減少。
 EN: Reduce damage taken by 20%
 KR: Reduce damage taken by 20%
 
-# 1946/138 - Abomination
+# 1946/108 - Abomination
 Tags: ENHANCED_ATK
-Stats: [0.5, 3.0, 1.0, 0.0]
+Stats: [0.5, 3.0, 1, 0]
 Game: 3x ATK for Attacker Type, but halves overall HP
-JP: HPが0.5倍。攻撃タイプの攻撃力が3倍。
-EN: 0.5x HP; 3x ATK for Attacker type
-KR: 0.5x HP; 3x ATK for Attacker type
+JP: 総HPが50%減少するが、攻撃タイプの攻撃力が3倍。
+EN: Reduce total HP by 50%; 3x ATK for Attacker type
+KR: Reduce total HP by 50%; 3x ATK for Attacker type
 
 # 1947/129 - Harvest
 Tags: ENHANCED_ATK
@@ -7046,13 +7046,13 @@ JP: HPが50%以上でドラゴンタイプの攻撃力が2.5倍、回復力が1.
 EN: 2.5x ATK and 1.5x RCV for Dragon type when above 50% HP
 KR: 2.5x ATK and 1.5x RCV for Dragon type when above 50% HP
 
-# 1960/138 - Samurai Dragon King's Wrath
+# 1960/108 - Samurai Dragon King's Wrath
 Tags: ENHANCED_ATK
-Stats: [0.5, 4.0, 1.0, 0.0]
+Stats: [0.5, 4.0, 1, 0]
 Game: 4x ATK for Dragon Type, but halves overall HP
-JP: HPが0.5倍。ドラゴンタイプの攻撃力が4倍。
-EN: 0.5x HP; 4x ATK for Dragon type
-KR: 0.5x HP; 4x ATK for Dragon type
+JP: 総HPが50%減少するが、ドラゴンタイプの攻撃力が4倍。
+EN: Reduce total HP by 50%; 4x ATK for Dragon type
+KR: Reduce total HP by 50%; 4x ATK for Dragon type
 
 # 1961/129 - Frozen Flame Draconic Protection
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -7470,13 +7470,13 @@ JP: 火属性のHPが1.25倍。
 EN: 1.25x HP for Fire Att.
 KR: 1.25x HP for Fire Att.
 
-# 2215/129 - 
-Tags: 
-Stats: [0.5, 1.0, 1.0, 0.0]
+# 2215/108 - 
+Tags: ENHANCED_ATK
+Stats: [0.5, 3.0, 1, 0]
 Game: 
-JP: HPが0.5倍。
-EN: 0.5x HP
-KR: 0.5x HP
+JP: 総HPが50%減少するが、攻撃タイプの攻撃力が3倍。
+EN: Reduce total HP by 50%; 3x ATK for Attacker type
+KR: Reduce total HP by 50%; 3x ATK for Attacker type
 
 # 2216/121 - 
 Tags: ENHANCED_ATK
@@ -7494,13 +7494,13 @@ JP: 火属性の攻撃力と回復力が2倍。
 EN: 2x ATK & RCV for Fire Att.
 KR: 2x ATK & RCV for Fire Att.
 
-# 2218/129 - 
-Tags: 
-Stats: [0.5, 1.0, 1.0, 0.0]
+# 2218/108 - 
+Tags: ENHANCED_ATK
+Stats: [0.5, 4.0, 1, 0]
 Game: 
-JP: HPが0.5倍。
-EN: 0.5x HP
-KR: 0.5x HP
+JP: 総HPが50%減少するが、ドラゴンタイプの攻撃力が4倍。
+EN: Reduce total HP by 50%; 4x ATK for Dragon type
+KR: Reduce total HP by 50%; 4x ATK for Dragon type
 
 # 2219/129 - 
 Tags: ENHANCED_RCV
@@ -73519,9 +73519,9 @@ JP: 木、回復同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching Wood and Heal at once
 KR: increase combo by 1 when matching Wood and Heal at once
 
-# 17716/136 - 正邪の相克
+# 17716/138 - 正邪の相克
 Tags: ENHANCED_ATK
-Stats: [0.5, 15.0, 1.0, 0]
+Stats: [0.5, 15.0, 1.0, 0.0]
 Game: 総HPが半減、光と闇属性の攻撃力が15倍。
 JP: HPが0.5倍。光と闇属性の攻撃力が15倍。
 EN: 0.5x HP; 15x ATK for Light and Dark Att.
@@ -73531,17 +73531,17 @@ KR: 0.5x HP; 15x ATK for Light and Dark Att.
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [0.5, 21.0, 1.0, 0.75]
 Game: 総HPが半減、光と闇属性の攻撃力が21倍。 光闇の同時攻撃でダメージを激減、固定10万ダメージ。
-JP: HPが0.5倍。光と闇属性の攻撃力が21倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。
-EN: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
-KR: 0.5x HP; 21x ATK for Light and Dark Att.; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once
+JP: HPが0.5倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。光と闇属性の攻撃力が21倍。
+EN: 0.5x HP; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once; 21x ATK for Light and Dark Att.
+KR: 0.5x HP; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once; 21x ATK for Light and Dark Att.
 
-# 17718/136 - 
-Tags: ENHANCED_ATK
-Stats: [0.5, 21.0, 1.0, 0]
+# 17718/107 - 
+Tags: 
+Stats: [0.5, 1, 1, 0]
 Game: 
-JP: HPが0.5倍。光と闇属性の攻撃力が21倍。
-EN: 0.5x HP; 21x ATK for Light and Dark Att.
-KR: 0.5x HP; 21x ATK for Light and Dark Att.
+JP: HPが0.5倍。
+EN: 0.5x HP
+KR: 0.5x HP
 
 # 17719/170 - 
 Tags: REDUCE_DAMAGE
@@ -73678,4 +73678,20 @@ Game: 合成素材にすると5000万モンスター経験値が手に入る。
 JP: 合成素材にすると5000万モンスター経験値が手に入る。 
 EN: 合成素材にすると5000万モンスター経験値が手に入る。 
 KR: 合成素材にすると5000万モンスター経験値が手に入る。 
+
+# 17842/129 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 21.0, 1.0, 0.0]
+Game: 
+JP: 光と闇属性の攻撃力が21倍。
+EN: 21x ATK for Light and Dark Att.
+KR: 21x ATK for Light and Dark Att.
+
+# 17843/129 - 
+Tags: ENHANCED_ATK
+Stats: [1.0, 15.0, 1.0, 0.0]
+Game: 
+JP: 光と闇属性の攻撃力が15倍。
+EN: 15x ATK for Light and Dark Att.
+KR: 15x ATK for Light and Dark Att.
 

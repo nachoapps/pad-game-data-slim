@@ -10,11 +10,11 @@ JP: 敵の現HPの15％分のダメージ。火ドロップを強化
 EN: Reduce enemies' HP by 15%; Enhance all Fire orbs
 KR: Reduce enemies' HP by 15%; Enhance all Fire orbs
 
-# 1960/138 - Samurai Dragon King's Wrath
+# 1960/108 - Samurai Dragon King's Wrath
 Tags: ENHANCED_ATK
-Stats: [0.5, 4.0, 1.0, 0.0]
+Stats: [0.5, 4.0, 1, 0]
 Game: 4x ATK for Dragon Type, but halves overall HP
-JP: HPが0.5倍。ドラゴンタイプの攻撃力が4倍。
-EN: 0.5x HP; 4x ATK for Dragon type
-KR: 0.5x HP; 4x ATK for Dragon type
+JP: 総HPが50%減少するが、ドラゴンタイプの攻撃力が4倍。
+EN: Reduce total HP by 50%; 4x ATK for Dragon type
+KR: Reduce total HP by 50%; 4x ATK for Dragon type
 
