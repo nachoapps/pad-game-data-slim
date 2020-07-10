@@ -4,11 +4,11 @@ AWK: 10,10,28,28,21,21,21,19
 SAWK: 
 
 # 7691/116 - Virtuous Compassion
-Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: Reduces bind status (incl. Awoken) by 3 turns; changes all Orbs to Wood, Dark & Heal Orbs
-JP: バインドと覚醒無効を3ターン回復。全ドロップを木、闇、回復ドロップに変化
-EN: Reduce binds and awoken skill binds by 3 turns; Change all orbs to Wood, Dark, and Heal orbs
-KR: Reduce binds and awoken skill binds by 3 turns; Change all orbs to Wood, Dark, and Heal orbs
+JP: 消せないドロップ状態を5ターン回復。バインドと覚醒無効を5ターン回復。全ドロップを木、闇、回復ドロップに変化
+EN: Reduce unable to match orbs effect by 5 turns; Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Dark, and Heal orbs
+KR: Reduce unable to match orbs effect by 5 turns; Reduce binds and awoken skill binds by 5 turns; Change all orbs to Wood, Dark, and Heal orbs
 
 # 7925/138 - Quince Protective Crest
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

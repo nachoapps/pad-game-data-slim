@@ -1,0 +1,20 @@
+#6299 「ワン・フォー・オール」緑谷出久
+HP: 5878 ATK: 2300 RCV: 468 LB: 0
+AWK: 28,53,60,48,43,43,43,52,63
+SAWK: 
+
+# 17538/116 - その未来を捻じ曲げる！
+Tags: ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
+Game: HPが20％減少。ドロップのロック状態を解除。 全ドロップを火、水、木、光ドロップに変化。
+JP: HPが20％減少。全ドロップのロック状態を解除。全ドロップを火、水、木、光ドロップに変化
+EN: Reduce HP by 20%; Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs
+KR: Reduce HP by 20%; Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs
+
+# 17545/138 - セントルイススマッシュ
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 17.0, 1.0, 0.25]
+Game: 木属性のHPと攻撃力が2倍。6コンボ以上で攻撃力が8.5倍。 木を5個以上つなげて消すとダメージを軽減、固定50万ダメージ。
+JP: 木属性のHPと攻撃力が2倍。6コンボ以上で攻撃力が8.5倍。木を5個以上つなげて消すと受けるダメージを25％減少。木を5個以上つなげて消しと固定500000ダメージ。
+EN: 2x HP & ATK for Wood Att.; 8.5x ATK when 6 or more combos; Reduce damage taken by 25% when matching 5 or more connected Wood orbs; 500000 additional damage when matching 5 or more Wood orbs
+KR: 2x HP & ATK for Wood Att.; 8.5x ATK when 6 or more combos; Reduce damage taken by 25% when matching 5 or more connected Wood orbs; 500000 additional damage when matching 5 or more Wood orbs
+

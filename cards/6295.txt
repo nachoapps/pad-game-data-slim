@@ -1,0 +1,20 @@
+#6295 エンデヴァー
+HP: 3820 ATK: 2510 RCV: 51 LB: 0
+AWK: 4,4,53,63
+SAWK: 
+
+# 17520/116 - No.1を見せてやる
+Tags: DROP_CHANCE
+Game: 2ターンの間、火ドロップが落ちやすくなる。 「ヘルフレイム」エンデヴァーに変身。
+JP: 2ターンの間、火ドロップが25％落ちやすくなる。[6296]に変身する
+EN: For 2 turns, Fire orbs are more likely to appear by 25%; Changes to [6296] for the duration of the dungeon
+KR: For 2 turns, Fire orbs are more likely to appear by 25%; Changes to [6296] for the duration of the dungeon
+
+# 17529/119 - 新たなるNo.1
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 火を5個以上つなげて消すと、攻撃力が6倍。
+JP: 火を5個以上つなげて消すと攻撃力が6倍。
+EN: 6x ATK when matching 5 or more connected Fire orbs
+KR: 6x ATK when matching 5 or more connected Fire orbs
+

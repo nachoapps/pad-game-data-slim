@@ -1,0 +1,20 @@
+#6321 トガヒミコ
+HP: 3654 ATK: 2610 RCV: 47 LB: 0
+AWK: 21,21,21,21,28,53,43,69,63
+SAWK: 
+
+# 17660/116 - カァイイねえ
+Tags: REDUCE_DAMAGE
+Game: 9ターンの間、受けるダメージを軽減。 「変身」麗日お茶子に変身。
+JP: 9ターンの間、受けるダメージを30％減少。[6362]に変身する
+EN: For 9 turns, reduce damage taken by 30%; Changes to [6362] for the duration of the dungeon
+KR: For 9 turns, reduce damage taken by 30%; Changes to [6362] for the duration of the dungeon
+
+# 17663/138 - 潜み紛れる
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [1.5, 16.0, 1.0, 0.25]
+Game: 攻撃タイプのHPが1.5倍、攻撃力は4倍。 闇光の同時攻撃でダメージを軽減、攻撃力が4倍。
+JP: 攻撃タイプの攻撃力が4倍、HPが1.5倍。闇、光の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when matching Dark and Light
+KR: 4x ATK and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when matching Dark and Light
+

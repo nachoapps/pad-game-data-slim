@@ -1,0 +1,20 @@
+#6355 玲瓏の裁定神・シャマシュ
+HP: 4753 ATK: 1935 RCV: 423 LB: 10
+AWK: 10,10,28,53,56,51,44,69,60
+SAWK: 54,55,56
+
+# 10310/116 - Sun of Judgment
+Tags: GRAVITY,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: Reduces enemies' HP by 30%; reduces bind status (incl. Awoken) by 3 turns
+JP: 敵の現HPの30％分のダメージ。消せないドロップ状態を9999ターン回復。バインドと覚醒無効を全回復
+EN: Reduce enemies' HP by 30%; Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds
+KR: Reduce enemies' HP by 30%; Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds
+
+# 17756/138 - 白天の光波
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 24.0, 1.0, 0.0]
+Game: 神タイプのHPが2倍、攻撃力は4倍。 4色同時攻撃で攻撃力が4倍、5色で6倍。
+JP: 神タイプの攻撃力が4倍、HPが2倍。4色以上同時攻撃で攻撃力が4倍、最大5色で6倍。
+EN: 4x ATK and 2x HP for God type; 4x ATK when matching 4 or more colors up to 6x at 5 colors
+KR: 4x ATK and 2x HP for God type; 4x ATK when matching 4 or more colors up to 6x at 5 colors
+

@@ -1,0 +1,20 @@
+#6310 相澤消太
+HP: 4033 ATK: 1540 RCV: 578 LB: 0
+AWK: 21,21,28,28,63
+SAWK: 
+
+# 17596/116 - 合理的にいこう
+Tags: REDUCE_DEFENSE
+Game: 5ターンの間、敵の防御力が0になる。 「抹消」相澤消太に変身。
+JP: 5ターンの間、敵の防御力が100％下がる。[6311]に変身する
+EN: For 5 turns, reduce enemies' defense by 100%; Changes to [6311] for the duration of the dungeon
+KR: For 5 turns, reduce enemies' defense by 100%; Changes to [6311] for the duration of the dungeon
+
+# 17606/138 - アングラ系ヒーロー
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [0.5, 4.0, 1, 0.75]
+Game: 総HPが半減、闇属性の攻撃力が4倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すとダメージを激減、攻撃力が4倍。
+JP: HPが0.5倍。闇を6個以上つなげて消すと攻撃力が4倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
+EN: 0.5x HP; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+KR: 0.5x HP; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+

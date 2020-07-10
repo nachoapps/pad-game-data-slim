@@ -6,9 +6,9 @@ SAWK:
 # 10302/116 - Wild Senses
 Tags: ENHANCED_HEAL,DROP_CHANCE
 Game: Creates 4 Wood Orbs at random; 1.5x RCV & Wood Orbs slightly more likely to appear for 4 turns
-JP: 木ドロップを4個生成。4ターンの間、木ドロップが15％落ちやすくなる。4ターンの間、回復力が1.5倍
-EN: Create 4 Wood orbs; For 4 turns, Wood orbs are more likely to appear by 15%; For 4 turns, 1.5x RCV
-KR: Create 4 Wood orbs; For 4 turns, Wood orbs are more likely to appear by 15%; For 4 turns, 1.5x RCV
+JP: 木ドロップを4個生成。4ターンの間、木ドロップが15％落ちやすくなる。4ターンの間、回復力が2倍
+EN: Create 4 Wood orbs; For 4 turns, Wood orbs are more likely to appear by 15%; For 4 turns, 2x RCV
+KR: Create 4 Wood orbs; For 4 turns, Wood orbs are more likely to appear by 15%; For 4 turns, 2x RCV
 
 # 10306/138 - Beast's Divinity
 Tags: AUTO_HEAL,ENHANCED_HP_ATK

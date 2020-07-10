@@ -1,0 +1,20 @@
+#6351 極醒の裁秤神・エスカマリ
+HP: 4805 ATK: 1805 RCV: 793 LB: 20
+AWK: 52,56,53,28,43,43,43,36,36
+SAWK: 62,54,48
+
+# 17739/116 - スターブルーム・ダーク
+Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
+Game: 木、回復、お邪魔、毒ドロップを闇ドロップに変化。 99ターンの間、闇ドロップがほんの少し落ちやすくなる。
+JP: 木、回復、お邪魔、毒、猛毒ドロップを闇ドロップに変化。99ターンの間、闇ドロップが7％落ちやすくなる
+EN: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 99 turns, Dark orbs are more likely to appear by 7%
+KR: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 99 turns, Dark orbs are more likely to appear by 7%
+
+# 17742/138 - 裁秤の鋼神星
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.0, 18.0, 1.0, 0.6, +2]
+Game: マシンと神タイプの攻撃力が6倍。6コンボ以上で攻撃力が3倍。 闇の3コンボ以上でダメージを60％軽減、2コンボ加算。
+JP: 神とマシンタイプの攻撃力が6倍。6コンボ以上で攻撃力が3倍。闇の3コンボ以上で受けるダメージを60％減少。3コンボ以上で2コンボ加算
+EN: 6x ATK for God and Machine type; 3x ATK when 6 or more combos; Reduce damage taken by 60% when matching 3+ Dark combos; Increase combo by 2 when matching 3 or more Dark combos
+KR: 6x ATK for God and Machine type; 3x ATK when 6 or more combos; Reduce damage taken by 60% when matching 3+ Dark combos; Increase combo by 2 when matching 3 or more Dark combos
+
