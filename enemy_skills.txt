@@ -88547,22 +88547,22 @@ JP: 15ターンの間、お邪魔ドロップを+20%に落ちてくる
 EN: Jammer skyfall +20% for 15 turns
 KR: Jammer skyfall +20% for 15 turns
 
-# 17702/39 - Looks like, we're gonna be busy for awhile.
+# 17702/39 - Looks like we're gonna be busy for a while.
 JP: 5ターンの間、操作時間50%
 EN: Movetime 50% for 5 turns
 KR: Movetime 50% for 5 turns
 
-# 17703/96 - Are you ready for this?
+# 17703/96 - You should be used to this sort of thing. 
 JP: 99ターンの間、ロックされたランダム属性のドロップを+100%に落ちてくる
 EN: Locked random skyfall +100% for 99 turns
 KR: Locked random skyfall +100% for 99 turns
 
-# 17704/130 - Little wanderer, "hie thee home"!
+# 17704/130 - Little wanderer, hie thee home.
 JP: 10ターンの間、攻撃力が50%減少
 EN: ATK -50% for 10 turns
 KR: ATK -50% for 10 turns
 
-# 17705/105 - Hah... Guts and honor.
+# 17705/105 - Hahaha... Guts and honor!
 JP: 5ターンの間、回復力を25%になる
 EN: RCV 25% for 5 turns
 KR: RCV 25% for 5 turns
@@ -88572,12 +88572,12 @@ JP:
 EN: 
 KR: 
 
-# 17707/71 - That is nothing.
+# 17707/71 - ...of those without strength.
 JP: 10ターンの間、5000000以上のダメージを無効化
 EN: Void damage >= 5000000 for 10 turns
 KR: Void damage >= 5000000 for 10 turns
 
-# 17708/39 - Looks like, we're gonna be busy for awhile.
+# 17708/39 - Looks like we're gonna be busy for a while.
 JP: 5ターンの間、操作時間-2秒
 EN: Movetime -2s for 5 turns
 KR: Movetime -2s for 5 turns
@@ -88617,7 +88617,7 @@ JP: 爆弾ドロップを3個生成
 EN: Spawn 3 random Bomb orbs
 KR: Spawn 3 random Bomb orbs
 
-# 17716/96 - Your resolve is strong.
+# 17716/96 - You should be used to this sort of thing. 
 JP: 5ターンの間、ロックされたランダム属性のドロップを+50%に落ちてくる
 EN: Locked random skyfall +50% for 5 turns
 KR: Locked random skyfall +50% for 5 turns
@@ -88647,7 +88647,7 @@ JP: 45%ダメージ (3連続攻撃、15%ごと)
 EN: Deal 45% damage (3 hits, 15% each)
 KR: Deal 45% damage (3 hits, 15% each)
 
-# 17722/15 - Maximum Overdrive
+# 17722/15 - Maximum Over Drive
 JP: 70%ダメージ (7連続攻撃、10%ごと)
 EN: Deal 70% damage (7 hits, 10% each)
 KR: Deal 70% damage (7 hits, 10% each)
@@ -88677,7 +88677,7 @@ JP: 250%ダメージ
 EN: Deal 250% damage
 KR: Deal 250% damage
 
-# 17728/130 - Little wanderer, "hie thee home"!
+# 17728/130 - Little wanderer, hie thee home.
 JP: 3ターンの間、攻撃力が50%減少
 EN: ATK -50% for 3 turns
 KR: ATK -50% for 3 turns
@@ -88752,7 +88752,7 @@ JP: 250%ダメージ
 EN: Deal 250% damage
 KR: Deal 250% damage
 
-# 17743/105 - Hah... Guts and honor.
+# 17743/105 - Hahaha... Guts and honor!
 JP: 3ターンの間、回復力を50%になる
 EN: RCV 50% for 3 turns
 KR: RCV 50% for 3 turns
@@ -88807,7 +88807,7 @@ JP: 90%ダメージ (3連続攻撃、30%ごと)
 EN: Deal 90% damage (3 hits, 30% each)
 KR: Deal 90% damage (3 hits, 30% each)
 
-# 17754/77 - Rain Storm
+# 17754/77 - Rainstorm
 JP: 上から3と4列目のドロップが火ドロップに変化
 EN: Change the 3rd and 4th columns to Fire orbs
 KR: Change the 3rd and 4th columns to Fire orbs
@@ -88822,12 +88822,12 @@ JP:
 EN: 
 KR: 
 
-# 17757/89 - Pitiful cries of those without strength...
+# 17757/89 - That is nothing but the pitiful cries...
 JP: スキルターンを2〜5ターン遅延
 EN: Delay active skills by 2~5 turns
 KR: Delay active skills by 2~5 turns
 
-# 17758/71 - That is nothing.
+# 17758/71 - ...of those without strength.
 JP: 3ターンの間、1000000以上のダメージを無効化
 EN: Void damage >= 1000000 for 3 turns
 KR: Void damage >= 1000000 for 3 turns
@@ -88862,7 +88862,7 @@ JP: 左から2と4列目のドロップが闇ドロップに変化
 EN: Change the 2nd and 4th rows to Dark orbs
 KR: Change the 2nd and 4th rows to Dark orbs
 
-# 17765/15 - Rage
+# 17765/15 - Wrath
 JP: 120%ダメージ
 EN: Deal 120% damage
 KR: Deal 120% damage
@@ -88882,17 +88882,17 @@ JP:
 EN: 
 KR: 
 
-# 17769/64 - Eternal Suffering
+# 17769/64 - Eternal Pain
 JP: ランダムで10個のドロップを毒ドロップに変化
 EN: Change 10 random orbs to Poison orbs
 KR: Change 10 random orbs to Poison orbs
 
-# 17770/50 - Usurper's Hammer
+# 17770/50 - Hammer of Betrayal
 JP: 現HPの50%のダメージ
 EN: Player -50% HP
 KR: Player -50% HP
 
-# 17771/15 - River of Grief
+# 17771/15 - River of Wailing
 JP: 150%ダメージ
 EN: Deal 150% damage
 KR: Deal 150% damage
@@ -88912,7 +88912,7 @@ JP: 70%ダメージ
 EN: Deal 70% damage
 KR: Deal 70% damage
 
-# 17775/50 - Ax Kick
+# 17775/50 - Axe Kick
 JP: 現HPの50%のダメージ
 EN: Player -50% HP
 KR: Player -50% HP
@@ -89002,7 +89002,7 @@ JP: 上から4列目のドロップが水ドロップに変化
 EN: Change the 4th column to Water orbs
 KR: Change the 4th column to Water orbs
 
-# 17793/15 - Helmet Breaker
+# 17793/15 - Helm Breaker
 JP: 70%ダメージ
 EN: Deal 70% damage
 KR: Deal 70% damage
@@ -89037,7 +89037,7 @@ JP: 150%ダメージ (5連続攻撃、30%ごと)
 EN: Deal 150% damage (5 hits, 30% each)
 KR: Deal 150% damage (5 hits, 30% each)
 
-# 17800/79 - Rapid Slash Rising Star
+# 17800/79 - Rapid Slash Ascending Spiral 
 JP: 左から1、3、5列目のドロップが水と闇ドロップに変化
 EN: Change the 1st, 3rd, and 5th rows to Water and Dark orbs
 KR: Change the 1st, 3rd, and 5th rows to Water and Dark orbs
@@ -89062,7 +89062,7 @@ JP: 999ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 999 turns
 KR: Absorb damage when combos <= 6 for 999 turns
 
-# 17805/15 - Sin Devil Trigger Combo
+# 17805/15 - SDT Combo
 JP: 105%ダメージ (3連続攻撃、35%ごと)
 EN: Deal 105% damage (3 hits, 35% each)
 KR: Deal 105% damage (3 hits, 35% each)
@@ -89102,17 +89102,17 @@ JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 17813/67 - What do you need?
+# 17813/67 - Need assistance?
 JP: 5ターンの間、4コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 4 for 5 turns
 KR: Absorb damage when combos <= 4 for 5 turns
 
-# 17814/15 - Dumbass!
+# 17814/15 - Hey, psycho!
 JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 17815/48 - My brilliant, badass work is worth every dime, you know it!
+# 17815/48 - My brilliant, badass work is worth every dime.
 JP: ランダム属性のドロップをお邪魔ドロップに変化
 EN: Change a random attribute to Jammer orbs
 KR: Change a random attribute to Jammer orbs
@@ -89127,22 +89127,22 @@ JP:
 EN: 
 KR: 
 
-# 17818/99 - Behold my genius.
+# 17818/99 - Behold my genius!
 JP: 3ターンの間、上から6列目のドロップが操作不可
 EN: Seal the 6th column for 3 turns
 KR: Seal the 6th column for 3 turns
 
-# 17819/17 - Who do you think you're talking to?
+# 17819/17 - It's a prototype.
 JP: 999ターンの間、攻撃力が150%に上昇
 EN: Increase damage to 150% for the next 999 turns
 KR: Increase damage to 150% for the next 999 turns
 
-# 17820/92 - Piece of junk!
+# 17820/92 - You'll get fixed as soon as we get back!
 JP: 毒ドロップを10個生成
 EN: Spawn 10 random Poison orbs
 KR: Spawn 10 random Poison orbs
 
-# 17821/53 - Why did you do this...?
+# 17821/53 - Why...? Why did you do this...?
 JP: 5ターンの間、光属性のダメージを吸収
 EN: Absorb Light damage for 5 turns
 KR: Absorb Light damage for 5 turns
@@ -89152,27 +89152,27 @@ JP: 4ターンの間、スキル使用不可
 EN: Bind active skills for 4 turns
 KR: Bind active skills for 4 turns
 
-# 17823/74 - Devout Heart
+# 17823/74 - Faithful Heart
 JP: 3ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 3 turns
 KR: Reduce damage from all sources by 50% for 3 turns
 
-# 17824/104 - Pious Prayer
+# 17824/104 - Devout Prayer
 JP: 2ターンの間、ランダムでの2×2マスの正方形を雲で隠す
 EN: A 2×2 square of clouds appears for 2 turns at a random location
 KR: A 2×2 square of clouds appears for 2 turns at a random location
 
-# 17825/88 - Songstress' Wish
+# 17825/88 - Songstress's Wish
 JP: 1ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 1 turn
 KR: Bind awoken skills for 1 turn
 
-# 17826/92 - Light of Grace
+# 17826/92 - Light of Love
 JP: 回復ドロップを10個生成
 EN: Spawn 10 random Heal orbs
 KR: Spawn 10 random Heal orbs
 
-# 17827/68 - You have arrived?
+# 17827/68 - Oh? You have arrived.
 JP: 3ターンの間、お邪魔ドロップを+15%に落ちてくる
 EN: Jammer skyfall +15% for 3 turns
 KR: Jammer skyfall +15% for 3 turns
@@ -89182,12 +89182,12 @@ JP: スキルターンを1〜2ターン遅延
 EN: Delay active skills by 1~2 turns
 KR: Delay active skills by 1~2 turns
 
-# 17829/62 - There's no need to worry.
+# 17829/62 - Everything I know, I have passed on to you.
 JP: 全ドロップを真っ暗にする
 EN: Blind all orbs on the board
 KR: Blind all orbs on the board
 
-# 17830/63 - What is it?
+# 17830/63 - What is it, my dear?
 JP: 2〜3ターンの間、ランダムで1体がバインド
 EN: Bind 1 random card for 2~3 turns
 KR: Bind 1 random card for 2~3 turns
@@ -89197,12 +89197,12 @@ JP:
 EN: 
 KR: 
 
-# 17832/127 - Battle Experience
+# 17832/127 - Seasoned Veteran
 JP: 5ターンの間、落ちコンしなくなる
 EN: No skyfall for 5 turns
 KR: No skyfall for 5 turns
 
-# 17833/74 - Power of the Guardian
+# 17833/74 - Protector's Power
 JP: 5ターンの間、受けるダメージからの攻撃を50%減少
 EN: Reduce damage from all sources by 50% for 5 turns
 KR: Reduce damage from all sources by 50% for 5 turns
@@ -89257,7 +89257,7 @@ JP: 100%ダメージ
 EN: Deal 100% damage
 KR: Deal 100% damage
 
-# 17844/97 - Break Through
+# 17844/97 - Breakthrough
 JP: 1ターンの間、ランダムで3〜5個のドロップを超暗闇にする
 EN: Blind random 3~5 orbs for 1 turn
 KR: Blind random 3~5 orbs for 1 turn
