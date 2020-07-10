@@ -1,0 +1,25 @@
+#305122 - 裏避邪の武身・チィリンの希石
+monster size: 4
+new AI: True
+start/max counter: 1
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: ESSkillDelay(89:18369) -> 神秘の輝石
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Delay active skills by 3 turns
+
+#3: ESAttackUPRemainingEnemies(17:18349) -> 希石の奇跡
+Condition: when <= 1 enemies remain (ai:100 rnd:0)
+Increase damage to 1000% for the next 999 turns
+
+#4: ESChangeAttribute(46:18348) -> オーロラフラッシュ
+Change own attribute to random one of Fire, Water, Wood, Light, or Dark, Deal 100% damage
+
+#5: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#6: ESSuperResolve(129:18367) -> 超根性
+When reduced from HP > 50% to 0 HP, revive at 50% HP

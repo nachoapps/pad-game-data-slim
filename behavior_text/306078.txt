@@ -1,4 +1,4 @@
-#306078 - 魔導機士・メノア
+#306078 - 裏魔導機士・メノア
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -15,20 +15,16 @@ level: 1
  | Reduce damage from all sources by 90% for 999 turns
  group:
  | group:
-   | (18115:46) エレメントシフト
-   | Change own attribute to Wood, Deal 150% damage
    | condition: 33% chance
-   | (18116:39) クイックタイム
-   | Movetime -3s for 1 turn, Deal 95% damage
+   | (14721:83) エレメントシフト + クイックタイム
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Movetime -3s for 1 turn, Deal 95% damage
    | condition: 33% chance
-   | (18117:127) テリトリードロップ
-   | No skyfall for 1 turn
+   | (14722:83) エレメントシフト + テリトリードロップ
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + No skyfall for 1 turn
    | condition: 34% chance
-   | (18118:130) パワーブレイク
-   | ATK -25% for 1 turn, Deal 100% damage
+   | (14723:83) エレメントシフト + パワーブレイク
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + ATK -25% for 1 turn, Deal 100% damage
  | group:
  | condition: hp <= 9
-   | (18115:46) エレメントシフト
-   | Change own attribute to Wood, Deal 150% damage
-   | (18119:15) 魔導バースト
-   | Deal 1000% damage (10 hits, 100% each)
+   | (14724:83) エレメントシフト + 魔導バースト
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)
