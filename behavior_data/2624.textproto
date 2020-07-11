@@ -197,6 +197,8 @@
       }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 2671
         }
       }
@@ -206,8 +208,12 @@
     level: 4
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 2664
         }
       }
@@ -219,12 +225,16 @@
       }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 2671
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -235,7 +245,7 @@
             group {
               condition {
                 trigger_turn: 1
-                always_trigger_above: 89
+                always_trigger_above: 1
               }
               children {
                 behavior {
@@ -244,16 +254,6 @@
                     trigger_monsters: 2602
                   }
                   enemy_skill_id: 2673
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2665
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2666
                 }
               }
             }
@@ -266,7 +266,16 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 2667
+                  condition {
+                  }
+                  enemy_skill_id: 2665
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 2666
                 }
               }
             }
@@ -279,12 +288,9 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: 2665
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2666
+                  condition {
+                  }
+                  enemy_skill_id: 2667
                 }
               }
             }
@@ -296,58 +302,14 @@
           group_type: STANDARD
           condition {
             hp_threshold: 89
+            trigger_turn: 1
+            always_trigger_above: 29
           }
           children {
-            group {
+            behavior {
               condition {
-                trigger_turn: 1
-                always_trigger_above: 29
               }
-              children {
-                behavior {
-                  condition {
-                    trigger_monsters: 2601
-                    trigger_monsters: 2602
-                  }
-                  enemy_skill_id: 2673
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2668
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 2
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2665
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2666
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 2
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 2667
-                }
-              }
+              enemy_skill_id: 2668
             }
           }
         }
@@ -362,14 +324,7 @@
           children {
             behavior {
               condition {
-                trigger_monsters: 2601
-                trigger_monsters: 2602
               }
-              enemy_skill_id: 2673
-            }
-          }
-          children {
-            behavior {
               enemy_skill_id: 2669
             }
           }
@@ -377,4 +332,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
