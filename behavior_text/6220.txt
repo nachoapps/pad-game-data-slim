@@ -1,4 +1,4 @@
-#6220 - キリエ
+#6220 - Kyrie
 monster size: 5
 new AI: True
 start/max counter: 31
@@ -8,7 +8,7 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17821:53) Why did you do this...?
+ | (17821:53) Why...? Why did you do this...?
  | Absorb Light damage for 5 turns
  group:
  | group:
@@ -17,16 +17,16 @@ level: 1
    | Bind active skills for 4 turns
  | group:
  | condition: turn 2
-   | (17823:74) Devout Heart
+   | (17823:74) Faithful Heart
    | Reduce damage from all sources by 50% for 3 turns
  | group:
  | condition: turn 3
-   | (17824:104) Pious Prayer
+   | (17824:104) Devout Prayer
    | A 2×2 square of clouds appears for 2 turns at a random location
  | group:
  | condition: turn 4
-   | (17825:88) Songstress' Wish
+   | (17825:88) Songstress's Wish
    | Bind awoken skills for 1 turn
  | group:
-   | (17826:92) Light of Grace
+   | (17826:92) Light of Love
    | Spawn 10 random Heal orbs, Deal 250% damage

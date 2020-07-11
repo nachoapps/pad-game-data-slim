@@ -1,0 +1,30 @@
+#2558 - Alcyone
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 2558
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18610:83) 夜空に浮かぶ… + 光り輝くお星さま… + 眩しいから消して…
+ | Blind all orbs on the board + Spawn 6 random Light orbs + Lock all Light orbs
+ group:
+ | group:
+ | condition: turn 1
+   | (18621:108) もぅ！眩しい！！
+   | Change all Light orbs to Heal orbs, Deal 10000% damage
+   | (18614:83) うーん… + 眩しい…むにゃむにゃ + ぐぅー
+   | Spawn 10 random Water, Light, and Dark orbs + Lock all Light orbs + Blind all orbs on the board
+ | group:
+ | condition: turn 2
+   | (18621:108) もぅ！眩しい！！
+   | Change all Light orbs to Heal orbs, Deal 10000% damage
+   | (18617:83) んー… + あとちょっと… + 眩しい…むにゃむにゃ + ぐぅー
+   | Spawn 15 random Light and Jammer orbs + Movetime -1s for 1 turn + Lock all Light orbs + Blind all orbs on the board
+ | group:
+   | (18621:108) もぅ！眩しい！！
+   | Change all Light orbs to Heal orbs, Deal 10000% damage
+   | (18620:40) ふわぁーよく寝た…
+   | Reduce self HP to 0

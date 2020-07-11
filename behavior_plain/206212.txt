@@ -1,4 +1,4 @@
-#206212 - トリッシュ
+#206212 - Trish
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -13,7 +13,7 @@ Branch on level >= 4, target rnd 4
 #3: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#4: ESSkyfallLocked(96:17716) -> Your resolve is strong.
+#4: ESSkyfallLocked(96:17716) -> You should be used to this sort of thing. 
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Locked random skyfall +50% for 5 turns
 

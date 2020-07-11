@@ -1,0 +1,41 @@
+#6326 - オーバーホール
+monster size: 5
+new AI: True
+start/max counter: 2
+counter increment: 1
+monster_id: 6326
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18509:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18497:83) 俺が次の支配者になる + 俺には計画がある + 先に手を出したのはおまえらだ
+ | Bind awoken skills for 1 turn + Bind active skills for 5 turns + Jammer and Poison skyfall +15% for 5 turns
+ group:
+ | group:
+   | condition: 20% chance
+   | (18507:109) 触るな
+   | Random 2 orbs change every 1.0s for 2 turns, Deal 90% damage
+   | (18501:48) 分解
+   | Change a random attribute to Jammer orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1 while HP > 19
+     | (18504:83) 修復 + 融合
+     | Enemy recover 100% HP + Increase damage to 150% for the next 999 turns
+   | group:
+   | condition: turn 2 while HP > 19
+     | (18505:74) ああ汚いな……！！
+     | Reduce damage from all sources by 75% for 4 turns
+ | group:
+ | condition: hp <= 19
+   | group:
+   | condition: turn 1
+     | (18506:88) これだから嫌だ
+     | Bind awoken skills for 1 turn
+   | group:
+     | (18508:15) 全て無駄だ！！
+     | Deal 10000% damage (10 hits, 1000% each)

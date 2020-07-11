@@ -1,4 +1,4 @@
-#106197 - ダンテ
+#106197 - Dante
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -8,7 +8,7 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17705:105) Hah... Guts and honor.
+ | (17705:105) Hahaha... Guts and honor!
  | RCV 25% for 5 turns
  group:
  | group:
@@ -30,7 +30,7 @@ level: 4
    | (17748:15) Dance Macabre
    | Deal 200% damage (10 hits, 20% each)
  type: UNKNOWN_USE
- | (17754:77) Rain Storm
+ | (17754:77) Rainstorm
  | Change the 3rd and 4th columns to Fire orbs, Deal 120% damage
  | (17755:15) Honeycomb Fire
  | Deal 200% damage (10 hits, 20% each)

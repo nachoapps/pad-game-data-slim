@@ -1,0 +1,45 @@
+#2496 - Gleaming Axe Star Angel, Ariel
+monster size: 5
+new AI: True
+start/max counter: 3
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESDebuffRCV(105:18634) -> 覚悟はいいな？
+	RCV 50% for 10 turns
+	[1] ESAbsorbCombo(67:18635) -> 星よ我がもとに集え
+	Absorb damage when combos <= 7 for 999 turns
+
+#3: ESBranchCounter(32:22) -> ESBranchCounter
+Branch on counter >= 1, target rnd 10
+
+#4: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 50, target rnd 8
+
+#5: ESColumnSpawnMulti(77:18636) -> スラッシュスター
+Condition: 50% chance (ai:0 rnd:50)
+Change the 4th column to Light orbs, Deal 100% damage
+
+#6: ESRowSpawnMulti(79:18637) -> スイングスター
+Condition: 50% chance (ai:0 rnd:50)
+Change the 3rd row to Light orbs, Deal 100% damage
+
+#7: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#8: ESSetCounter(26:16) -> ESSetCounter
+counter + 1
+
+#9: ESDebuffMovetime(39:18638) -> 次で終わらせよう
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Movetime 50% for 10 turns
+
+#10: ESAttackMultihit(15:18639) -> ジャッジメントスター
+Deal 300% damage (3 hits, 100% each)
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn

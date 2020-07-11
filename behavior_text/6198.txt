@@ -1,4 +1,4 @@
-#6198 - 真魔人ダンテ
+#6198 - S.D.T. Dante
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | condition: 34% chance
-   | (17805:15) Sin Devil Trigger Combo
+   | (17805:15) SDT Combo
    | Deal 105% damage (3 hits, 35% each)
    | condition: 33% chance
    | (17806:79) The Ombra

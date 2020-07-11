@@ -1,4 +1,4 @@
-#106214 - レディ
+#106214 - Lady
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -13,7 +13,7 @@ Branch on level >= 4, target rnd 4
 #3: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#4: ESDebuffMovetime(39:17702) -> Looks like, we're gonna be busy for awhile.
+#4: ESDebuffMovetime(39:17702) -> Looks like we're gonna be busy for a while.
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Movetime 50% for 5 turns
 

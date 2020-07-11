@@ -1,4 +1,4 @@
-#6218 - マティエ
+#6218 - Matier
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSkyfall(68:17827) -> You have arrived?
+#2: ESSkyfall(68:17827) -> Oh? You have arrived.
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Jammer skyfall +15% for 3 turns
 
@@ -18,11 +18,11 @@ Branch on hp < 50, target rnd 8
 Condition: 34% chance (ai:0 rnd:34)
 Delay active skills by 1~2 turns, Deal 100% damage
 
-#5: ESBlind62(62:17829) -> There's no need to worry.
+#5: ESBlind62(62:17829) -> Everything I know, I have passed on to you.
 Condition: 33% chance (ai:0 rnd:33)
 Blind all orbs on the board, Deal 95% damage
 
-#6: ESBindAttack(63:17830) -> What is it?
+#6: ESBindAttack(63:17830) -> What is it, my dear?
 Condition: 33% chance (ai:0 rnd:33)
 Bind 1 random card for 2~3 turns, Deal 90% damage
 
@@ -31,9 +31,9 @@ end_turn
 
 #8: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESNoSkyfall(127:17832) -> Battle Experience
+	[0] ESNoSkyfall(127:17832) -> Seasoned Veteran
 	No skyfall for 5 turns
-	[1] ESDamageShield(74:17833) -> Power of the Guardian
+	[1] ESDamageShield(74:17833) -> Protector's Power
 	Reduce damage from all sources by 50% for 5 turns
 
 #9: ESSetCounter(26:16) -> ESSetCounter

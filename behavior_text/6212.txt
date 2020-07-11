@@ -1,4 +1,4 @@
-#6212 - トリッシュ
+#6212 - Trish
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -8,7 +8,7 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17716:96) Your resolve is strong.
+ | (17716:96) You should be used to this sort of thing. 
  | Locked random skyfall +50% for 5 turns
  group:
  | group:
@@ -47,7 +47,7 @@ level: 4
      | Specific orbs change every 1.0s for 2 turns + Deal 250% damage, Deal 250% damage
  type: UNKNOWN_USE
  | condition: 50% chance
- | (17719:83) Bare Knuckle + Maximum Overdrive
+ | (17719:83) Bare Knuckle + Maximum Over Drive
  | Deal 45% damage (3 hits, 15% each) + Deal 70% damage (7 hits, 10% each), Deal 45% damage (3 hits, 15% each)
  | (17720:83) Bare Knuckle + Electrical Dance
  | Deal 45% damage (3 hits, 15% each) + Random 1 orbs change every 1.0s for 1 turn, Deal 45% damage (3 hits, 15% each)

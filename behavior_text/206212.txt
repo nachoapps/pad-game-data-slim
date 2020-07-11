@@ -1,4 +1,4 @@
-#206212 - トリッシュ
+#206212 - Trish
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -8,7 +8,7 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (17716:96) Your resolve is strong.
+ | (17716:96) You should be used to this sort of thing. 
  | Locked random skyfall +50% for 5 turns
  group:
  | group:

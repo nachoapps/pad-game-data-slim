@@ -1,4 +1,4 @@
-#6201 - 魔人バージル
+#6201 - D.T. Vergil
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -16,7 +16,7 @@ level: 1
  group:
  | group:
    | condition: 25% chance
-   | (17791:83) Upper Slash + Helmet Breaker
+   | (17791:83) Upper Slash + Helm Breaker
    | Change the 4th column to Water orbs + Deal 70% damage, Deal 50% damage
    | condition: 25% chance
    | (17794:79) Rapid Slash
@@ -31,7 +31,7 @@ level: 1
  | condition: hp <= 49
    | group:
    | condition: always turn 1
-     | (17800:79) Rapid Slash Rising Star
+     | (17800:79) Rapid Slash Ascending Spiral 
      | Change the 1st, 3rd, and 5th rows to Water and Dark orbs, Deal 140% damage
    | group:
      | condition: 25% chance
