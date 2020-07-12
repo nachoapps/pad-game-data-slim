@@ -11528,7 +11528,7 @@ KR: 1.3x ATK & RCV for Balanced and Machine type
 
 # 3038/107 - 
 Tags: 
-Stats: [0.75, 1, 1, 0]
+Stats: [0.75, 1.0, 1, 0]
 Game: 
 JP: HPが0.75倍。
 EN: 0.75x HP
@@ -18136,7 +18136,7 @@ KR: 0.75x HP; 4x ATK for Balanced and God type
 
 # 4400/107 - 
 Tags: 
-Stats: [0.75, 1, 1, 0]
+Stats: [0.75, 1.0, 1, 0]
 Game: 
 JP: HPが0.75倍。
 EN: 0.75x HP
@@ -73817,19 +73817,19 @@ KR: 6x ATK when matching 4 or more colors
 
 # 17606/138 - アングラ系ヒーロー
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [0.5, 4.0, 1, 0.75]
+Stats: [0.5, 16.0, 1, 0.75]
 Game: 総HPが半減、闇属性の攻撃力が4倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すとダメージを激減、攻撃力が4倍。
-JP: HPが0.5倍。闇を6個以上つなげて消すと攻撃力が4倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
-EN: 0.5x HP; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
-KR: 0.5x HP; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+JP: HPが0.5倍、闇属性の攻撃力が4倍。闇を6個以上つなげて消すと攻撃力が4倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
+EN: 0.5x HP; 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+KR: 0.5x HP; 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
 
 # 17607/107 - 
-Tags: 
-Stats: [0.5, 1, 1, 0]
+Tags: ENHANCED_ATK
+Stats: [0.5, 4.0, 1, 0]
 Game: 
-JP: HPが0.5倍。
-EN: 0.5x HP
-KR: 0.5x HP
+JP: HPが0.5倍、闇属性の攻撃力が4倍。
+EN: 0.5x HP; 4x ATK for Dark Att.
+KR: 0.5x HP; 4x ATK for Dark Att.
 
 # 17608/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -73841,19 +73841,19 @@ KR: 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark
 
 # 17609/138 - 操縛布
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [0.5, 5.0, 1, 0.75]
+Stats: [0.5, 20.0, 1, 0.75]
 Game: 総HPが半減、闇属性の攻撃力が4倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すとダメージを激減、攻撃力が5倍。
-JP: HPが0.5倍。闇を6個以上つなげて消すと攻撃力が5倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
-EN: 0.5x HP; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
-KR: 0.5x HP; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+JP: HPが0.5倍、闇属性の攻撃力が4倍。闇を6個以上つなげて消すと攻撃力が5倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
+EN: 0.5x HP; 4x ATK for Dark Att.; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
+KR: 0.5x HP; 4x ATK for Dark Att.; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
 
 # 17610/107 - 
-Tags: 
-Stats: [0.5, 1, 1, 0]
+Tags: ENHANCED_ATK
+Stats: [0.5, 4.0, 1, 0]
 Game: 
-JP: HPが0.5倍。
-EN: 0.5x HP
-KR: 0.5x HP
+JP: HPが0.5倍、闇属性の攻撃力が4倍。
+EN: 0.5x HP; 4x ATK for Dark Att.
+KR: 0.5x HP; 4x ATK for Dark Att.
 
 # 17611/182 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -74249,7 +74249,7 @@ KR: 0.5x HP; Reduce damage taken by 75% when matching Light and Dark at once; 10
 
 # 17718/107 - 
 Tags: 
-Stats: [0.5, 1, 1, 0]
+Stats: [0.5, 1.0, 1, 0]
 Game: 
 JP: HPが0.5倍。
 EN: 0.5x HP
