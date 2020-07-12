@@ -88,3 +88,73 @@
       }
     }
   }
+  level_overrides {
+    level: 4
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17705
+        }
+      }
+    }
+    groups {
+      group_type: UNKNOWN_USE
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17749
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17750
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17744
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17747
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17748
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17754
+        }
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 17755
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
