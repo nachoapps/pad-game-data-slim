@@ -46,12 +46,8 @@
     level: 4
     groups {
       group_type: PREEMPT
-      condition {
-      }
       children {
         behavior {
-          condition {
-          }
           enemy_skill_id: 3557
         }
       }
@@ -69,8 +65,6 @@
           }
           children {
             behavior {
-              condition {
-              }
               enemy_skill_id: 3558
             }
           }
@@ -84,8 +78,6 @@
           }
           children {
             behavior {
-              condition {
-              }
               enemy_skill_id: 3557
             }
           }
@@ -93,4 +85,4 @@
       }
     }
   }
-  status: APPROVED_WITH_CHANGES
+  status: APPROVED_AS_IS

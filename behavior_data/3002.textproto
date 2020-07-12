@@ -161,30 +161,24 @@
     level: 4
     groups {
       group_type: PREEMPT
-      condition {
-      }
       children {
         behavior {
-          condition {
-          }
           enemy_skill_id: 5129
         }
       }
     }
     groups {
       group_type: STANDARD
-      condition {
-      }
       children {
         group {
           group_type: STANDARD
           condition {
-            trigger_turn: 1
+            hp_threshold: 100
           }
           children {
             group {
               condition {
-                hp_threshold: 100
+                trigger_turn: 1
                 always_trigger_above: 49
               }
               children {
@@ -199,44 +193,10 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5130
                 }
               }
             }
-          }
-          children {
-            group {
-              condition {
-                hp_threshold: 49
-              }
-              children {
-                behavior {
-                  condition {
-                    trigger_monsters: 2145
-                    trigger_monsters: 2146
-                    trigger_monsters: 2972
-                  }
-                  enemy_skill_id: 5133
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                  }
-                  enemy_skill_id: 5132
-                }
-              }
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
-            hp_threshold: 100
           }
           children {
             group {
@@ -246,8 +206,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5138
                 }
               }
@@ -261,15 +219,11 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5143
                 }
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5142
                 }
               }
@@ -283,8 +237,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5137
                 }
               }
@@ -301,13 +253,33 @@
           children {
             group {
               condition {
-                repeats_every: 3
                 trigger_turn: 1
               }
               children {
                 behavior {
                   condition {
+                    trigger_monsters: 2145
+                    trigger_monsters: 2146
+                    trigger_monsters: 2972
                   }
+                  enemy_skill_id: 5133
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 5132
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 1
+              }
+              children {
+                behavior {
                   enemy_skill_id: 5140
                 }
               }
@@ -321,8 +293,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5141
                 }
               }
@@ -336,8 +306,6 @@
               }
               children {
                 behavior {
-                  condition {
-                  }
                   enemy_skill_id: 5139
                 }
               }
@@ -347,4 +315,4 @@
       }
     }
   }
-  status: APPROVED_WITH_CHANGES
+  status: APPROVED_AS_IS

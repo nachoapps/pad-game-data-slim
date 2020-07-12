@@ -308,22 +308,32 @@
     level: 1
     groups {
       group_type: PASSIVE
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 4928
         }
       }
     }
     groups {
       group_type: PREEMPT
+      condition {
+      }
       children {
         behavior {
+          condition {
+          }
           enemy_skill_id: 5082
         }
       }
     }
     groups {
       group_type: STANDARD
+      condition {
+      }
       children {
         group {
           group_type: STANDARD
@@ -338,6 +348,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5084
                 }
               }
@@ -351,6 +363,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5088
                 }
               }
@@ -372,6 +386,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5091
                 }
               }
@@ -393,6 +409,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5092
                 }
               }
@@ -414,6 +432,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5095
                 }
               }
@@ -435,6 +455,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5087
                 }
               }
@@ -448,6 +470,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5089
                 }
               }
@@ -469,70 +493,9 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5097
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 1
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 5093
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 5092
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 2
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 5094
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 5095
-                }
-              }
-            }
-          }
-          children {
-            group {
-              condition {
-                repeats_every: 3
-                trigger_turn: 3
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 5090
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 5091
                 }
               }
             }
@@ -561,6 +524,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5092
                 }
               }
@@ -574,6 +539,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5099
                 }
               }
@@ -587,6 +554,8 @@
               }
               children {
                 behavior {
+                  condition {
+                  }
                   enemy_skill_id: 5098
                 }
               }
@@ -602,6 +571,8 @@
           }
           children {
             behavior {
+              condition {
+              }
               enemy_skill_id: 5096
             }
           }
@@ -609,4 +580,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: APPROVED_WITH_CHANGES
