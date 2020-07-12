@@ -54,7 +54,7 @@
           children {
             group {
               condition {
-                repeats_every: 2
+                repeats_every: 3
                 trigger_turn: 1
               }
               children {
@@ -75,7 +75,7 @@
           children {
             group {
               condition {
-                repeats_every: 2
+                repeats_every: 3
                 trigger_turn: 2
               }
               children {
@@ -90,6 +90,14 @@
                 behavior {
                   enemy_skill_id: 4938
                 }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 3
               }
               children {
                 behavior {
@@ -164,7 +172,7 @@
           children {
             group {
               condition {
-                repeats_every: 2
+                repeats_every: 3
                 trigger_turn: 1
               }
               children {
@@ -179,6 +187,14 @@
                 behavior {
                   enemy_skill_id: 4938
                 }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 2
               }
               children {
                 behavior {
@@ -198,8 +214,8 @@
           children {
             group {
               condition {
-                repeats_every: 2
-                trigger_turn: 2
+                repeats_every: 3
+                trigger_turn: 3
               }
               children {
                 behavior {
@@ -227,7 +243,7 @@
           children {
             group {
               condition {
-                repeats_every: 2
+                repeats_every: 3
                 trigger_turn: 1
               }
               children {
@@ -243,6 +259,14 @@
                   enemy_skill_id: 4938
                 }
               }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 2
+              }
               children {
                 behavior {
                   enemy_skill_id: 4945
@@ -253,8 +277,8 @@
           children {
             group {
               condition {
-                repeats_every: 2
-                trigger_turn: 2
+                repeats_every: 3
+                trigger_turn: 3
               }
               children {
                 behavior {

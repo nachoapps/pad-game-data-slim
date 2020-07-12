@@ -13,7 +13,7 @@ level: 1
  group:
  | group:
    | group:
-   | condition: execute repeatedly, turn 1 of 3
+   | condition: execute repeatedly, turn 1 of 2
      | (3645:6) Rudolph's Steely Gaze
      | Voids player buff effects
      | condition: 34% chance
@@ -26,7 +26,7 @@ level: 1
      | (3641:50) Present Box
      | Player -80% HP
    | group:
-   | condition: execute repeatedly, turn 2 of 3
+   | condition: execute repeatedly, turn 2 of 2
      | (3645:6) Rudolph's Steely Gaze
      | Voids player buff effects
      | condition: 50% chance
@@ -34,19 +34,6 @@ level: 1
      | Deal 160% damage (2 hits, 80% each)
      | (3644:94) Rudolph Antler Lock
      | Lock 5 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs, Deal 140% damage
-     | (3646:89) Rudolph Tackle
-     | Delay active skills by 2 turns, Deal 160% damage
-   | group:
-   | condition: execute repeatedly, turn 3 of 3
-     | (3645:6) Rudolph's Steely Gaze
-     | Voids player buff effects
-     | condition: 50% chance
-     | (3642:15) Rudolph Attack
-     | Deal 160% damage (2 hits, 80% each)
-     | (3644:94) Rudolph Antler Lock
-     | Lock 5 random Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs, Deal 140% damage
-     | (3647:15) Chicken Barrel
-     | Deal 600% damage (6 hits, 100% each)
  | group:
  | condition: turn 1 while HP > 19, hp <= 69
    | (3643:1) Lullaby

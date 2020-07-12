@@ -28,15 +28,17 @@ level: 4
      | (5130:83) Mountain Dragon God's Protection + Sacred Grounds of the Green Earth
      | Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60% damage
    | group:
-   | condition: execute repeatedly, turn 1 of 2
+   | condition: execute repeatedly, turn 1 of 3
      | (5138:92) Blue Wind of the Green Fate
      | Spawn 3 random Wood and Heal orbs, Deal 140% damage
    | group:
-   | condition: execute repeatedly, turn 2 of 2
+   | condition: execute repeatedly, turn 2 of 3
      | (5143:94) Dimension-Miracle
      | Lock all Wood and Heal orbs, Deal 80% damage
      | (5142:94) Dimension-Miracle
      | Lock 6 random Fire, Water, Wood, Light, and Dark orbs, Deal 80% damage
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
      | (5137:85) Sacred Grounds of the Green Earth
      | Change all orbs to Jammer, Deal 60% damage
  | group:

@@ -25,11 +25,6 @@
               enemy_skill_id: 3558
             }
           }
-          children {
-            behavior {
-              enemy_skill_id: 3557
-            }
-          }
         }
       }
       children {
