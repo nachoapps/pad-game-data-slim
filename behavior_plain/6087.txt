@@ -117,7 +117,7 @@ Deal 1800% damage (6 hits, 300% each)
 end_turn
 
 #26: SkillSet:
-	[0] ES7x6Change(126:17295) -> Mysteries of the Lake Bottom
+	[0] ESBoardSizeChange(126:17295) -> Mysteries of the Lake Bottom
 	Change board size to 7x6 for 2 turns
 	[1] ESDamageShield(74:17296) -> Fitted Carapace
 	Reduce damage from all sources by 90% for 2 turns

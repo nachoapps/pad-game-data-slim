@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Bind awoken skills for 5 turns
 	[2] ESBindSkill(14:16411) -> White Binding Curse
 	Bind active skills for 5 turns
-	[3] ES7x6Change(126:16410) -> The magical power warped space-time
+	[3] ESBoardSizeChange(126:16410) -> The magical power warped space-time
 	Change board size to 7x6 for 5 turns
 	[4] ESNoSkyfall(127:16409) -> If you want to play so badly...
 	No skyfall for 5 turns

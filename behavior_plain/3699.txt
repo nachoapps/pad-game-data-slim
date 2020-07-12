@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ES7x6Change(126:16643) -> I'll do something nice for you.
+#2: ESBoardSizeChange(126:16643) -> I'll do something nice for you.
 Condition: One-time use (ai:100 rnd:0) (cost: 8)
 Change board size to 7x6 for 3 turns
 

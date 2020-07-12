@@ -15,7 +15,7 @@ Enable preempt if level 1
 	Bind awoken skills for 3 turns
 	[2] ESBindSkill(14:17357) -> First I will test you...
 	Bind active skills for 3 turns
-	[3] ES7x6Change(126:17358) -> Open Borders
+	[3] ESBoardSizeChange(126:17358) -> Open Borders
 	Change board size to 7x6 for 3 turns
 	[4] ESRandomSpawn(92:17359) -> Show me that you can unite them
 	Spawn 7 random Fire, Water, Wood, Heal, Jammer, and Poison orbs

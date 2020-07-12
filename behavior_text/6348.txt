@@ -12,7 +12,7 @@ level: 1
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
  | (18650:83) 不屈の闘志 + 忠義の誓い + 円卓の戦歌 + 滅域
- | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Absorb damage when combos <= 11 for 1 turn + Change board size to 7x6 for 15 turns
+ | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Absorb damage when combos <= 11 for 1 turn + Change board size to 6x5 for 15 turns
  group:
  | group:
    | condition: 25% chance
@@ -62,7 +62,7 @@ level: 6
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
  | (18531:83) 不屈の闘志 + 忠義の誓い + 円卓の戦歌 + 滅域
- | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Absorb damage when combos <= 13 for 1 turn + Change board size to 7x6 for 15 turns
+ | Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns + Absorb damage when combos <= 13 for 1 turn + Change board size to 6x5 for 15 turns
  group:
  | group:
    | condition: 25% chance

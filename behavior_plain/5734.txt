@@ -20,7 +20,7 @@ flag SET 0b1
 	Reduce damage from all sources by 90% for 99 turns
 	[2] ESAbsorbCombo(67:16035) -> Divine Warrior Stance
 	Absorb damage when combos <= 7 for 99 turns
-	[3] ES7x6Change(126:16036) -> Boundless Infinity
+	[3] ESBoardSizeChange(126:16036) -> Boundless Infinity
 	Change board size to 7x6 for 5 turns
 
 #5: ESEndPath(36:26) -> ESEndPath
@@ -79,7 +79,7 @@ counter = 0
 #17: SkillSet:
 	[0] ESRandomSpawn(92:16215) -> Blessed Earth
 	Spawn 15 random Fire, Wood, and Mortal Poison orbs
-	[1] ES7x6Change(126:16036) -> Boundless Infinity
+	[1] ESBoardSizeChange(126:16036) -> Boundless Infinity
 	Change board size to 7x6 for 5 turns
 
 #18: ESEndPath(36:26) -> ESEndPath
