@@ -258,3 +258,127 @@
       }
     }
   }
+  level_overrides {
+    level: 1
+    groups {
+      group_type: PREEMPT
+      condition {
+      }
+      children {
+        behavior {
+          condition {
+          }
+          enemy_skill_id: 12589
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 100
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 10
+                trigger_turn: 1
+                trigger_turn_end: 9
+              }
+              children {
+                behavior {
+                  condition {
+                    hp_threshold: 49
+                    use_chance: 25
+                  }
+                  enemy_skill_id: 12454
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12449
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12448
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12453
+                }
+              }
+            }
+          }
+          children {
+            group {
+              condition {
+                repeats_every: 10
+                trigger_turn: 10
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 12459
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 49
+          }
+          children {
+            group {
+              condition {
+                trigger_turn: 1
+                always_trigger_above: 1
+              }
+              children {
+                behavior {
+                  condition {
+                  }
+                  enemy_skill_id: 12455
+                }
+              }
+            }
+          }
+        }
+      }
+      children {
+        group {
+          group_type: STANDARD
+          condition {
+            hp_threshold: 10
+          }
+          children {
+            behavior {
+              condition {
+              }
+              enemy_skill_id: 12607
+            }
+          }
+        }
+      }
+    }
+  }
+  status: APPROVED_WITH_CHANGES
