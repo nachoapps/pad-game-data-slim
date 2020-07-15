@@ -19,110 +19,6 @@
     }
     groups {
       group_type: STANDARD
-      condition {
-        skill_set: 1
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 8873
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8876
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
-      condition {
-        skill_set: 2
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 8881
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8885
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
-      condition {
-        skill_set: 3
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8889
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8890
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 33
-          }
-          enemy_skill_id: 8886
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 8887
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8888
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
-      condition {
-        skill_set: 4
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8889
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8890
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 50
-          }
-          enemy_skill_id: 8877
-        }
-      }
-      children {
-        behavior {
-          enemy_skill_id: 8878
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
       children {
         group {
           condition {
@@ -163,7 +59,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -176,7 +80,25 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -13
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8877
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8878
                 }
               }
             }
@@ -189,7 +111,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -202,7 +132,25 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -13
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8877
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8878
                 }
               }
             }
@@ -215,7 +163,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -228,7 +184,25 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -13
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8877
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8878
                 }
               }
             }
@@ -241,7 +215,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -254,7 +236,25 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -13
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8877
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8878
                 }
               }
             }
@@ -267,7 +267,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -280,7 +288,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8873
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8876
                 }
               }
             }
@@ -293,7 +309,25 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -13
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8877
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8878
                 }
               }
             }
@@ -314,7 +348,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -327,7 +369,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }
@@ -340,7 +408,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -353,7 +429,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }
@@ -366,7 +468,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -379,7 +489,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }
@@ -392,7 +528,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -405,7 +549,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }
@@ -418,7 +588,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -431,7 +609,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }
@@ -444,7 +648,15 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8881
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8885
                 }
               }
             }
@@ -457,7 +669,33 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -12
+                  enemy_skill_id: 8889
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8890
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 8886
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 50
+                  }
+                  enemy_skill_id: 8887
+                }
+              }
+              children {
+                behavior {
+                  enemy_skill_id: 8888
                 }
               }
             }

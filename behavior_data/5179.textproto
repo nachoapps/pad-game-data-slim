@@ -19,36 +19,6 @@
     }
     groups {
       group_type: STANDARD
-      condition {
-        skill_set: 1
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 33
-          }
-          enemy_skill_id: 12877
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 33
-          }
-          enemy_skill_id: 12878
-        }
-      }
-      children {
-        behavior {
-          condition {
-            use_chance: 34
-          }
-          enemy_skill_id: 12879
-        }
-      }
-    }
-    groups {
-      group_type: STANDARD
       children {
         group {
           group_type: STANDARD
@@ -63,7 +33,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -89,7 +78,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -115,7 +123,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -141,7 +168,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -180,7 +226,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -206,7 +271,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
@@ -232,7 +316,26 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -10
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12877
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 33
+                  }
+                  enemy_skill_id: 12878
+                }
+              }
+              children {
+                behavior {
+                  condition {
+                    use_chance: 34
+                  }
+                  enemy_skill_id: 12879
                 }
               }
             }
