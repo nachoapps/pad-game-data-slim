@@ -21,17 +21,17 @@ level: 4
  group:
  condition: SkillSet 1
  | condition: 50% chance
- | (8881:83) Double Saber + X Field + Hyah!!!
- | Blind orbs in specific positions for 1 turn + Lock all orbs + Deal 100% damage, Deal 100% damage
- | (8885:83) Protective Wall + Cross Saber + Burst Out
- | Seal the 1st row for 1 turn + Blind orbs in specific positions for 1 turn + Spawn Bomb orbs in the specified positions
- group:
- condition: SkillSet 2
- | condition: 50% chance
  | (8873:83) Protective Wall + Burst Out + Hyah!!!
  | Seal the 6th column for 1 turn + Spawn Bomb orbs in the specified positions + Deal 100% damage, Deal 100% damage
  | (8876:83) Protective Wall + Cross Saber + Hyah!!!
  | Seal the 1st column for 1 turn + Blind orbs in specific positions for 1 turn + Deal 100% damage, Deal 100% damage
+ group:
+ condition: SkillSet 2
+ | condition: 50% chance
+ | (8881:83) Double Saber + X Field + Hyah!!!
+ | Blind orbs in specific positions for 1 turn + Lock all orbs + Deal 100% damage, Deal 100% damage
+ | (8885:83) Protective Wall + Cross Saber + Burst Out
+ | Seal the 1st row for 1 turn + Blind orbs in specific positions for 1 turn + Spawn Bomb orbs in the specified positions
  group:
  condition: SkillSet 3
  | (8889:48) Sacrifice Saber
@@ -69,97 +69,97 @@ level: 4
      | Change the 1st column to Poison orbs and the 6th column to Jammer orbs + Unable to match Jammer and Poison orbs for 1 turn, Deal 120% damage
    | group:
    | condition: turn 2 while HP > 49
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: turn 3 while HP > 49
-     | (-14:-3) Use Skill Set
+     | (-13:-3) Use Skill Set
      | Use skill set #4
    | group:
    | condition: turn 4 while HP > 49
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: turn 5 while HP > 49
-     | (-14:-3) Use Skill Set
+     | (-13:-3) Use Skill Set
      | Use skill set #4
    | group:
    | condition: turn 6 while HP > 49
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: turn 7 while HP > 49
-     | (-14:-3) Use Skill Set
+     | (-13:-3) Use Skill Set
      | Use skill set #4
    | group:
    | condition: turn 8 while HP > 49
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: turn 9 while HP > 49
-     | (-14:-3) Use Skill Set
+     | (-13:-3) Use Skill Set
      | Use skill set #4
    | group:
    | condition: turn 10 while HP > 49
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (-12:-3) Use Skill Set
-     | Use skill set #2
+     | (-10:-3) Use Skill Set
+     | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (-14:-3) Use Skill Set
+     | (-13:-3) Use Skill Set
      | Use skill set #4
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 19
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: turn 2 while HP > 19
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
    | group:
    | condition: turn 3 while HP > 19
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: turn 4 while HP > 19
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
    | group:
    | condition: turn 5 while HP > 19
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: turn 6 while HP > 19
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
    | group:
    | condition: turn 7 while HP > 19
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: turn 8 while HP > 19
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
    | group:
    | condition: turn 9 while HP > 19
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: turn 10 while HP > 19
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
    | group:
    | condition: execute repeatedly, turn 1 of 2
      | (-11:-3) Use Skill Set
-     | Use skill set #1
+     | Use skill set #2
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (-13:-3) Use Skill Set
+     | (-12:-3) Use Skill Set
      | Use skill set #3
  | group:
  | condition: hp <= 19
