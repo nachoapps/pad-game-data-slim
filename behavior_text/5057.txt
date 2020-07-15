@@ -39,7 +39,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 3-4 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 5 while HP > 49
@@ -47,7 +47,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 6-7 while HP > 4
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 8 while HP > 49
@@ -55,7 +55,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 9-10 while HP > 4
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 11 while HP > 94
@@ -67,7 +67,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 94
@@ -89,7 +89,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turns 13-14 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 15 while HP > 49
@@ -101,14 +101,14 @@ level: 1
      | Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
    | group:
    | condition: turn 17 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 18 while HP > 49
      | (12274:83) Value of Freedom + Independent Assembly
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 49
@@ -126,7 +126,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 5 while HP > 4
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 7 while HP > 4
@@ -134,7 +134,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 8 while HP > 4
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 10 while HP > 4
@@ -142,7 +142,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: turn 11 while HP > 4
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 12 while HP > 4
@@ -154,7 +154,7 @@ level: 1
      | Movetime 25% for 1 turn + Spawn 10 random Bomb orbs
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 4

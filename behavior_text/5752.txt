@@ -32,7 +32,7 @@ level: 1
      | RCV 50% for 3 turns + Absorb damage when combos <= 6 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 74
@@ -42,7 +42,7 @@ level: 1
      | No skyfall for 3 turns + Absorb damage when combos <= 5 for 3 turns + Increase damage to 150% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 49
@@ -52,7 +52,7 @@ level: 1
      | Movetime 50% for 3 turns + Absorb damage when combos <= 4 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 9
@@ -89,7 +89,7 @@ level: 6
      | RCV 50% for 3 turns + Absorb damage when combos <= 7 for 3 turns + Increase damage to 120% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 74
@@ -99,7 +99,7 @@ level: 6
      | No skyfall for 3 turns + Absorb damage when combos <= 6 for 3 turns + Increase damage to 150% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 49
@@ -109,7 +109,7 @@ level: 6
      | Movetime 50% for 3 turns + Absorb damage when combos <= 5 for 3 turns + Increase damage to 200% for the next 2 turns, Deal 100% damage
    | group:
    | condition: execute repeatedly, turn 2-3 of 3
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
  | group:
  | condition: hp <= 9

@@ -68,7 +68,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -94,7 +94,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -120,7 +120,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -146,7 +146,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -185,7 +185,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -211,7 +211,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -237,7 +237,7 @@
               }
               children {
                 behavior {
-                  enemy_skill_id: -11
+                  enemy_skill_id: -10
                 }
               }
             }

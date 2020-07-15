@@ -30,7 +30,7 @@ level: 1
  | group:
    | group:
    | condition: turn 1 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 2 while HP > 49
@@ -38,7 +38,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: turn 3 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 4 while HP > 49
@@ -46,7 +46,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: turn 5 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: turn 6 while HP > 49
@@ -54,7 +54,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: turn 7 while HP > 49
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 1 of 8
@@ -66,7 +66,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: execute repeatedly, turn 3 of 8
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 4 of 8
@@ -74,7 +74,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: execute repeatedly, turn 5 of 8
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 6 of 8
@@ -82,7 +82,7 @@ level: 1
      | Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000 for 999 turns + Leader changes to random sub for 8 turns
    | group:
    | condition: execute repeatedly, turn 7 of 8
-     | (-11:-3) Use Skill Set
+     | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
    | condition: execute repeatedly, turn 8 of 8
