@@ -11,6 +11,71 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        skill_set: 1
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 20
+          }
+          enemy_skill_id: 13327
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 13328
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 33
+          }
+          enemy_skill_id: 13329
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13330
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 13331
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        skill_set: 2
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13345
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13346
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
       children {
         group {
           condition {
@@ -67,39 +132,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -113,18 +146,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -137,39 +159,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -183,18 +173,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -207,39 +186,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -253,18 +200,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -277,39 +213,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -357,39 +261,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -402,18 +274,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -426,39 +287,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -471,18 +300,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -495,39 +313,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -553,39 +339,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -648,6 +402,71 @@
     }
     groups {
       group_type: STANDARD
+      condition {
+        skill_set: 1
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 20
+          }
+          enemy_skill_id: 13327
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 25
+          }
+          enemy_skill_id: 13328
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 33
+          }
+          enemy_skill_id: 13329
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13330
+        }
+      }
+      children {
+        behavior {
+          enemy_skill_id: 13331
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
+      condition {
+        skill_set: 2
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13345
+        }
+      }
+      children {
+        behavior {
+          condition {
+            use_chance: 50
+          }
+          enemy_skill_id: 13346
+        }
+      }
+    }
+    groups {
+      group_type: STANDARD
       children {
         group {
           condition {
@@ -704,39 +523,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -750,18 +537,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -774,39 +550,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -820,18 +564,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -844,39 +577,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -890,18 +591,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -914,39 +604,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -994,39 +652,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -1039,18 +665,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -1063,39 +678,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -1108,18 +691,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13345
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13346
+                  enemy_skill_id: -11
                 }
               }
             }
@@ -1132,39 +704,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
@@ -1190,39 +730,7 @@
               }
               children {
                 behavior {
-                  condition {
-                    use_chance: 20
-                  }
-                  enemy_skill_id: 13327
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 25
-                  }
-                  enemy_skill_id: 13328
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 33
-                  }
-                  enemy_skill_id: 13329
-                }
-              }
-              children {
-                behavior {
-                  condition {
-                    use_chance: 50
-                  }
-                  enemy_skill_id: 13330
-                }
-              }
-              children {
-                behavior {
-                  enemy_skill_id: 13331
+                  enemy_skill_id: -10
                 }
               }
             }
