@@ -71,15 +71,19 @@ level: 1
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: turns 9-10 while HP > 49
+   | condition: turn 9 while HP > 49
      | (-11:-3) Use Skill Set
      | Use skill set #2
    | group:
    | condition: execute repeatedly, turn 1 of 3
+     | (-11:-3) Use Skill Set
+     | Use skill set #2
+   | group:
+   | condition: execute repeatedly, turn 2 of 3
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 2-3 of 3
+   | condition: execute repeatedly, turn 3 of 3
      | (13351:127) There
      | No skyfall for 2 turns
  | group:
@@ -109,17 +113,29 @@ level: 1
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 1 of 3
+   | condition: turn 10 while HP > 14
+     | (-11:-3) Use Skill Set
+     | Use skill set #2
+   | group:
+   | condition: turn 11 while HP > 14
      | (13351:127) There
      | No skyfall for 2 turns
    | group:
-   | condition: execute repeatedly, turn 2 of 3
+   | condition: execute repeatedly, turn 1 of 3
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 3 of 3
+   | condition: execute repeatedly, turn 2 of 3
      | (13351:127) There
      | No skyfall for 2 turns
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | condition: 33% chance
+     | (13345:83) Black Satisfaction + Time-Robbing
+     | Blind all orbs on the board + Movetime -3s for 2 turns, Deal 95% damage
+     | condition: 33% chance
+     | (13346:83) Ripple Lock + Blade Dance
+     | Lock 10 random orbs + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: hp <= 14
    | group:
@@ -195,15 +211,19 @@ level: 6
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: turns 9-10 while HP > 49
+   | condition: turn 9 while HP > 49
      | (-11:-3) Use Skill Set
      | Use skill set #2
    | group:
    | condition: execute repeatedly, turn 1 of 3
+     | (-11:-3) Use Skill Set
+     | Use skill set #2
+   | group:
+   | condition: execute repeatedly, turn 2 of 3
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 2-3 of 3
+   | condition: execute repeatedly, turn 3 of 3
      | (13351:127) There
      | No skyfall for 2 turns
  | group:
@@ -233,17 +253,29 @@ level: 6
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 1 of 3
+   | condition: turn 10 while HP > 14
+     | (-11:-3) Use Skill Set
+     | Use skill set #2
+   | group:
+   | condition: turn 11 while HP > 14
      | (13351:127) There
      | No skyfall for 2 turns
    | group:
-   | condition: execute repeatedly, turn 2 of 3
+   | condition: execute repeatedly, turn 1 of 3
      | (-10:-3) Use Skill Set
      | Use skill set #1
    | group:
-   | condition: execute repeatedly, turn 3 of 3
+   | condition: execute repeatedly, turn 2 of 3
      | (13351:127) There
      | No skyfall for 2 turns
+   | group:
+   | condition: execute repeatedly, turn 3 of 3
+     | condition: 33% chance
+     | (13345:83) Black Satisfaction + Time-Robbing
+     | Blind all orbs on the board + Movetime -3s for 2 turns, Deal 95% damage
+     | condition: 33% chance
+     | (13346:83) Ripple Lock + Blade Dance
+     | Lock 10 random orbs + Deal 105% damage (3 hits, 35% each), Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: hp <= 14
    | group:
