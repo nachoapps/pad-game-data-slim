@@ -49905,7 +49905,7 @@ KR: 3x ATK when matching 2 Wood combos, up to 7.5x at 5 Wood combos
 # 11810/138 - Nightmarish Unity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 15.0, 1.5, 0.25, +2]
-Game: 1.5x to all stats for Fire Att., 3x ATK with 6+ combos; 2x ATK & reduces dmg when Fire & Dark attack at once
+Game: 1.5x all stats for Fr Att., up to 10x ATK with 3+ combos; adds 2 combos & reduces dmg when Fire & Dark attack
 JP: 火属性の全パラメータが1.5倍。3コンボ以上で攻撃力が3倍、最大10コンボで10倍。火、闇の同時攻撃で受けるダメージを25％減少。火か闇の同時攻擊で2コンボ加算
 EN: 1.5x all stats for Fire Att.; 3x ATK when 3 or more combos up to 10x at 10 combos; Reduce damage taken by 25% when matching Fire and Dark; Increase combo by 2 when matching Fire and Dark
 KR: 1.5x all stats for Fire Att.; 3x ATK when 3 or more combos up to 10x at 10 combos; Reduce damage taken by 25% when matching Fire and Dark; Increase combo by 2 when matching Fire and Dark
@@ -49969,7 +49969,7 @@ KR: 4x ATK when matching 4 or more colors
 # 11824/138 - Treasure Hunting Demonic Innocence
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 20.0, 4.0, 0.5]
-Game: 2x ATK & RCV for Devil Type, 2x ATK when skills used; 5x ATK & halves damage with a cross of 5 Heal Orbs
+Game: 4x ATK & RCV for Devil Type; 5x ATK & halves damage with a cross of 5 Heal Orbs
 JP: 悪魔タイプの攻撃力と回復力が4倍。回復の5個十字消しで攻撃力が5倍、受けるダメージを50％減少。
 EN: 4x ATK & RCV for Devil type; 5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 KR: 4x ATK & RCV for Devil type; 5x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
@@ -53857,7 +53857,7 @@ KR: 3.5x ATK and reduce damage taken by 25% when matching Fire, Water, and Dark
 # 12728/138 - Grimoire Aggregation
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: 2x HP for Devil Type, 6x ATK when skills used; 2x ATK & reduces damage with 4+ linked Light Orbs
+Game: 2x HP & ATK for Devil Type, 4x ATK when skills used; 2x ATK & reduces damage with 4+ linked Light Orbs
 JP: 悪魔タイプのHPと攻撃力が2倍。スキル使用時、攻撃力が4倍。光を4個以上つなげて消すと攻撃力が2倍、受けるダメージを25％減少。
 EN: 2x HP & ATK for Devil type; 4x ATK on the turn a skill is used; 2x ATK and reduce damage taken by 25% when matching 4 or more connected Light orbs
 KR: 2x HP & ATK for Devil type; 4x ATK on the turn a skill is used; 2x ATK and reduce damage taken by 25% when matching 4 or more connected Light orbs
@@ -53889,7 +53889,7 @@ KR: 2x ATK and reduce damage taken by 25% when matching 4 or more connected Ligh
 # 12735/138 - Hellish Eye of Knowledge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 16.0, 1, 0.5, +1]
-Game: 4x ATK & reduces damage with 7+ combos; 3.5x ATK & reduces damage with 2+ Heal combos
+Game: 4x ATK & halves damage with 7+ combos; 4x ATK & adds 1 combo when Fire & Heal attack at once
 JP: 7コンボ以上で攻撃力が4倍、受けるダメージを50％減少。火、回復同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
 KR: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
@@ -53913,7 +53913,7 @@ KR: 4x ATK and increase combo by 1 when matching Fire and Heal at once
 # 12741/138 - Maniac Demon Crown of Hellven
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
 Stats: [1, 171.52, 1.0, 0.5]
-Game: 4x ATK & reduces damage when HP is 50% or more; 3.5x ATK for each cross of 5 Light or Dark Orbs
+Game: 4x ATK & halves damage when HP is 50% or more; 3.5x ATK for each cross of 5 Light or Dark Orbs
 JP: HPが50%以上で攻撃力が4倍、受けるダメージを50％減少。光か闇の5個十字消し1個につき攻撃力が3.5倍。
 EN: 4x ATK and reduce damage taken by 50% when above 50% HP; 3.5x ATK for each cross of 5 Light or Dark orbs
 KR: 4x ATK and reduce damage taken by 50% when above 50% HP; 3.5x ATK for each cross of 5 Light or Dark orbs
@@ -53945,7 +53945,7 @@ KR: 3.5x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross
 # 12748/138 - Eternal Dragon Body - Dorva
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: 2x HP for Dragon Type, 6x ATK with 6+ combos; 2x ATK & reduces damage with 4+ linked Heal Orbs
+Game: 2x HP & ATK for Dragon Type, 4x ATK with 6+ combos; 2x ATK & reduces damage with 4+ linked Heal Orbs
 JP: ドラゴンタイプのHPと攻撃力が2倍。6コンボ以上で攻撃力が4倍。回復を4個以上つなげて消すと攻撃力が2倍、受けるダメージを25％減少。
 EN: 2x HP & ATK for Dragon type; 4x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
 KR: 2x HP & ATK for Dragon type; 4x ATK when 6 or more combos; 2x ATK and reduce damage taken by 25% when matching 4 or more connected Heal orbs
@@ -57041,7 +57041,7 @@ KR: 7x ATK when matching 5 or more colors
 # 13457/138 - Splendor of Dawn
 Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
 Stats: [2.0, 16.0, 2.0, 0.0, +3]
-Game: 8x ATK & adds 2 combos with 4+ linked Fr, Wt, Wd & Lt Orbs each; 2x to all stats for Fire & Wood Att.
+Game: 8x ATK & adds 3 combos with 4+ linked Fr, Wt, Wd & Lt Orbs each; 2x to all stats for Fire & Wood Att.
 JP: 火、水、木、光を4個以上同時につなげて消しと攻撃力が8倍、3コンボ加算。火と木属性の全パラメータが2倍。
 EN: 8x ATK and increase combo by 3 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once; 2x all stats for Fire and Wood Att.
 KR: 8x ATK and increase combo by 3 when matching 4 or more connected Fire, Water, Wood, and Light orbs at once; 2x all stats for Fire and Wood Att.

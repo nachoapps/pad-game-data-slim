@@ -5,7 +5,7 @@ SAWK: 56,33,53
 
 # 12650/116 - Dragon Sweets-Fr & Dk
 Tags: HEAL,ALL_ORBS_CONVERT,REMOVE_LOCK
-Game: Removes all Orb locks and changes Orbs to Fire & Dark Orbs; creates 3 Heal Orbs at random
+Game: Removes Orb locks and changes all Orbs to Fire & Dark; creates 3 Heal Orbs at random, recovers 50,000 HP
 JP: 全ドロップのロック状態を解除。全ドロップを火と闇ドロップに変化。回復ドロップを3個生成。HPを5万回復
 EN: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs; Recover 50000 HP
 KR: Unlock all orbs; Change all orbs to Fire and Dark orbs; Create 3 Heal orbs; Recover 50000 HP

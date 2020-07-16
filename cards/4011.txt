@@ -5,7 +5,7 @@ SAWK: 52,37,43
 
 # 5011/116 - Purple Season
 Tags: REDUCE_SKILL_TURN,REMOVE_LOCK
-Game: Creates 3 Dark & Heal Orbs each at random; other allies' skills charged by 1 turn
+Game: Removes Orb locks, creates 3 Dark & Heal Orbs each at random; other allies' skills charged by 1 turn
 JP: 全ドロップのロック状態を解除。ランダムで闇と回復を3個ずつ生成。自分以外の味方スキルが1ターンの溜まる
 EN: Unlock all orbs; Create 3 Dark and Heal orbs; Charge all allies' skills by 1 turn
 KR: Unlock all orbs; Create 3 Dark and Heal orbs; Charge all allies' skills by 1 turn

@@ -13,7 +13,7 @@ KR: Create 3 Fire and Heal orbs; For 1 turn, increase combo count by 1; For 1 tu
 # 12735/138 - Hellish Eye of Knowledge
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 16.0, 1, 0.5, +1]
-Game: 4x ATK & reduces damage with 7+ combos; 3.5x ATK & reduces damage with 2+ Heal combos
+Game: 4x ATK & halves damage with 7+ combos; 4x ATK & adds 1 combo when Fire & Heal attack at once
 JP: 7コンボ以上で攻撃力が4倍、受けるダメージを50％減少。火、回復同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
 KR: 4x ATK and reduce damage taken by 50% when 7 or more combos; 4x ATK and increase combo by 1 when matching Fire and Heal at once
