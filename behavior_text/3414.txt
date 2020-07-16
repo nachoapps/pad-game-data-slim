@@ -47,6 +47,7 @@ level: 1
      | (10908:92) Sana Azlak
      | Spawn 6 random Water orbs, Deal 100% damage
    | group:
+   | condition: execute repeatedly, turn 1 of 3
      | (10910:105) Shifa'a
      | RCV 50% for 3 turns
  | group:

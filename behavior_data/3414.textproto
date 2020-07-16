@@ -122,6 +122,10 @@
           }
           children {
             group {
+              condition {
+                repeats_every: 3
+                trigger_turn: 1
+              }
               children {
                 behavior {
                   enemy_skill_id: 10910
