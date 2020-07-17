@@ -12,6 +12,7 @@
     groups {
       group_type: STANDARD
       condition {
+        skill_set: 1
       }
       children {
         behavior {
@@ -54,6 +55,7 @@
     groups {
       group_type: STANDARD
       condition {
+        skill_set: 2
       }
       children {
         behavior {
@@ -449,6 +451,7 @@
     groups {
       group_type: STANDARD
       condition {
+        skill_set: 1
       }
       children {
         behavior {
@@ -491,6 +494,7 @@
     groups {
       group_type: STANDARD
       condition {
+        skill_set: 2
       }
       children {
         behavior {
