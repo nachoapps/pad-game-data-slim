@@ -3190,13 +3190,13 @@ JP: HPが0になる攻撃を受けてもふんばることがある(HPが70%以�
 EN: May survive when HP is reduced to 0 (HP>70%)
 KR: May survive when HP is reduced to 0 (HP>70%)
 
-# 767/13 - Amitan's Protection
-Tags: AUTO_HEAL
+# 767/138 - Amitan's Protection
+Tags: AUTO_HEAL,COIN,EXP
 Stats: [1, 1, 1, 0]
 Game: Heals HP equal to 3x RCV when matching Orbs
-JP: ドロップ消した時、回復力ｘ3倍のHPを回復。
-EN: 3x RCV additional heal when matching orbs
-KR: 3x RCV additional heal when matching orbs
+JP: ドロップ消した時、回復力ｘ3倍のHPを回復。ランク経験値ｘ1.3倍。入手コインｘ1.3倍。
+EN: 3x RCV additional heal when matching orbs; 1.3x Rank EXP; 1.3x Coin Drop rate
+KR: 3x RCV additional heal when matching orbs; 1.3x Rank EXP; 1.3x Coin Drop rate
 
 # 768/17 - Dark Resistance Enhance <Mid>
 Tags: REDUCE_DAMAGE
@@ -55719,20 +55719,20 @@ EN: 2x ATK when 4 or more combos up to 5x at 7 combos
 KR: 2x ATK when 4 or more combos up to 5x at 7 combos
 
 # 13141/138 - Toyama Bay's Treasure - Severe Winter
-Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
-Stats: [1.5, 12.0, 1.5, 0]
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
+Stats: [1.5, 12.0, 1.5, 0.5]
 Game: 1.5x to all stats for Physical Type, Orb move time +2 sec; 8x ATK when Fire, Water & Light attack at once
-JP: 火、水、光同時攻撃で攻撃力が8倍。体力タイプの全パラメータが1.5倍。ドロップ操作時間を2秒延長。
-EN: 8x ATK when matching Fire, Water, and Light at once; 1.5x all stats for Physical type; Increase orb movement time by 2 seconds
-KR: 8x ATK when matching Fire, Water, and Light at once; 1.5x all stats for Physical type; Increase orb movement time by 2 seconds
+JP: 火、水、光同時攻撃で攻撃力が8倍、受けるダメージを50％減少。体力タイプの全パラメータが1.5倍。ドロップ操作時間を2秒延長。
+EN: 8x ATK and reduce damage taken by 50% when matching Fire, Water, and Light at once; 1.5x all stats for Physical type; Increase orb movement time by 2 seconds
+KR: 8x ATK and reduce damage taken by 50% when matching Fire, Water, and Light at once; 1.5x all stats for Physical type; Increase orb movement time by 2 seconds
 
-# 13142/61 - 
-Tags: ENHANCED_ATK
-Stats: [1, 8.0, 1, 0]
+# 13142/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 8.0, 1, 0.5]
 Game: 
-JP: 火、水、光同時攻撃で攻撃力が8倍。
-EN: 8x ATK when matching Fire, Water, and Light at once
-KR: 8x ATK when matching Fire, Water, and Light at once
+JP: 火、水、光同時攻撃で攻撃力が8倍、受けるダメージを50％減少。
+EN: 8x ATK and reduce damage taken by 50% when matching Fire, Water, and Light at once
+KR: 8x ATK and reduce damage taken by 50% when matching Fire, Water, and Light at once
 
 # 13143/185 - 
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -74790,4 +74790,28 @@ Game:
 JP: 光と闇属性の攻撃力が15倍。
 EN: 15x ATK for Light and Dark Att.
 KR: 15x ATK for Light and Dark Att.
+
+# 17893/13 - 
+Tags: AUTO_HEAL
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ドロップ消した時、回復力ｘ3倍のHPを回復。
+EN: 3x RCV additional heal when matching orbs
+KR: 3x RCV additional heal when matching orbs
+
+# 17894/148 - 
+Tags: EXP
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ランク経験値ｘ1.3倍。
+EN: 1.3x Rank EXP
+KR: 1.3x Rank EXP
+
+# 17895/54 - 
+Tags: COIN
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 入手コインｘ1.3倍。
+EN: 1.3x Coin Drop rate
+KR: 1.3x Coin Drop rate
 

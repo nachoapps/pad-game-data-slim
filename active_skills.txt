@@ -2168,12 +2168,12 @@ JP: 闇ドロップを水ドロップに、木ドロップを回復ドロップ�
 EN: Change Dark orbs to Water orbs; Change Wood orbs to Heal orbs
 KR: Change Dark orbs to Water orbs; Change Wood orbs to Heal orbs
 
-# 659/20 - Smiling Palm
-Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+# 659/116 - Smiling Palm
+Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Fire Orbs to Wood Orbs & Dark Orbs to Heal Orbs
-JP: 火ドロップを木ドロップに、闇ドロップを回復ドロップに変化
-EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
-KR: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
+JP: 火ドロップを木ドロップに、闇ドロップを回復ドロップに変化。最大HP30％分回復
+EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
+KR: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs; Recover 30% of max HP
 
 # 660/116 - Hellfire Breath
 Tags: ENHANCED_ATTACK,MASSIVE_ATTACK
@@ -49251,4 +49251,18 @@ Game:
 JP: 消せないドロップ状態を9999ターン回復
 EN: Reduce unable to match orbs effect by 9999 turns
 KR: Reduce unable to match orbs effect by 9999 turns
+
+# 17891/20 - 
+Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
+Game: 
+JP: 火ドロップを木ドロップに、闇ドロップを回復ドロップに変化
+EN: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
+KR: Change Fire orbs to Wood orbs; Change Dark orbs to Heal orbs
+
+# 17892/117 - 
+Tags: HEAL
+Game: 
+JP: 最大HP30％分回復
+EN: Recover 30% of max HP
+KR: Recover 30% of max HP
 
