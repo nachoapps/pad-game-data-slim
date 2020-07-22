@@ -39979,7 +39979,7 @@ KR: For 6 turns, 3x RCV
 
 # 15121/116 - Thunder Cutting
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL
-Game: Recovers HP & ATK increases by the number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
+Game: Increases ATK for 3 turns & recovers HP by the number of [Two-Pronged Attack] Awoken Skills in team
 JP: チーム内の2体攻撃の覚醒数1つにつき回復力ｘ5.0倍をHP回復。チーム内の2体攻撃の覚醒数1つにつき攻撃力が5％上がる
 EN: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
 KR: Heal 5x RCV for each Two-Pronged Attack awakening skill on the team; For 3 turns, increase ATK by 5% for each Two-Pronged Attack awakening skill on the team
@@ -47467,9 +47467,9 @@ JP: 回復ドロップを木ドロップに変化
 EN: Change Heal orbs to Wood orbs
 KR: Change Heal orbs to Wood orbs
 
-# 17259/116 - 魔印解放・ルリーク
+# 17259/116 - Magic Seal Release - Lurik
 Tags: ALL_ORBS_CONVERT
-Game: 全ドロップを火と回復ドロップに変化。 夢獣の大魔女・レムゥに変身。
+Game: Changes all Orbs to Fire & Heal Orbs; changes to Great Witch of the Dream Beasts, Remu
 JP: 全ドロップを火と回復ドロップに変化。[6153]に変身する
 EN: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
 KR: Change all orbs to Fire and Heal orbs; Changes to [6153] for the duration of the dungeon
@@ -47488,9 +47488,9 @@ JP: [6153]に変身する
 EN: Changes to [6153] for the duration of the dungeon
 KR: Changes to [6153] for the duration of the dungeon
 
-# 17263/116 - レッドドリーム
+# 17263/116 - Red Dream
 Tags: EXTENDS_TIME
-Game: 1ターンの間、ランダムでルーレットを1個生成。 1ターンの間、ドロップ操作を5秒延長。
+Game: Creates 1 Roulette Orb at random for 1 turn; Orb move time +5 seconds for 1 turn
 JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する。1ターンの間、ドロップ操作時間が5秒に延長
 EN: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
 KR: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
@@ -47509,9 +47509,9 @@ JP: 1ターンの間、ドロップ操作時間が5秒に延長
 EN: For 1 turn, increase orb move time by 5 seconds
 KR: For 1 turn, increase orb move time by 5 seconds
 
-# 17271/116 - ルリークドリーム
+# 17271/116 - Lurik Dream
 Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
-Game: 2ターンの間、属性吸収を無効化。 左端縦2列を火ドロップに、右端縦2列を回復ドロップに変化。
+Game: Voids Att. absorption for 2 turns; changes the 2 leftmost columns to Fire Orbs & 2 rightmost columns to Light Orbs
 JP: 2ターンの間、属性吸収を無効化する。最左端と左から2列目を火に、右から2列目と最右端を回復ドロップに変化
 EN: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
 KR: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
@@ -47754,9 +47754,9 @@ JP: 2ターンの間、ドロップ操作時間が1秒に延長
 EN: For 2 turns, increase orb move time by 1 second
 KR: For 2 turns, increase orb move time by 1 second
 
-# 17370/116 - 爽風の勘所
+# 17370/116 - Refreshing Pluck
 Tags: HEAL
-Game: 2ターンの間、HPを全回復。 風雅の糸龍楽士・アズハに変身。
+Game: Fully recovers HP for 2 turns; changes to Sophisticated Draconic Songstress on Shamisen, Azuha
 JP: 2ターンの間、最大HPの100％分回復。[6272]に変身する
 EN: For 2 turns, recover 100% of max HP; Changes to [6272] for the duration of the dungeon
 KR: For 2 turns, recover 100% of max HP; Changes to [6272] for the duration of the dungeon
@@ -47775,9 +47775,9 @@ JP: [6272]に変身する
 EN: Changes to [6272] for the duration of the dungeon
 KR: Changes to [6272] for the duration of the dungeon
 
-# 17374/156 - 清嵐の勘所
+# 17374/156 - Purifying Pluck
 Tags: ENHANCED_ATTACK
-Game: 1ターンの間、チーム内のコンボ強化の覚醒数に応じて 攻撃力が上昇。
+Game: ATK increases by the number of [Enhanced Combos] Awoken Skills in team for 1 turn
 JP: チーム内のコンボ強化の覚醒数1つにつき攻撃力が10％上がる
 EN: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
 KR: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
@@ -47789,9 +47789,9 @@ JP: チーム内のコンボ強化の覚醒数1つにつき攻撃力が10％上�
 EN: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
 KR: For 1 turn, increase ATK by 10% for each Enhanced Combos awakening skill on the team
 
-# 17380/116 - シャドウビート
+# 17380/116 - Shadow Beat
 Tags: ALL_ORBS_CONVERT
-Game: 全ドロップを火と闇ドロップに変化。 豪快の拍龍楽士・ディロッドに変身。
+Game: Changes all Orbs to Fire & Dark Orbs; changes to Rousing Draconic Songster on Drums, Derod
 JP: 全ドロップを火と闇ドロップに変化。[6274]に変身する
 EN: Change all orbs to Fire and Dark orbs; Changes to [6274] for the duration of the dungeon
 KR: Change all orbs to Fire and Dark orbs; Changes to [6274] for the duration of the dungeon
@@ -47810,9 +47810,9 @@ JP: [6274]に変身する
 EN: Changes to [6274] for the duration of the dungeon
 KR: Changes to [6274] for the duration of the dungeon
 
-# 17383/116 - デビルズビート
+# 17383/116 - Devilish Beat
 Tags: REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ状態を3ターン回復。 ランダムで闇ドロップを3個生成。
+Game: Reduces unmatchable Orb status by 3 turns; creates 3 Dark Orbs at random
 JP: 消せないドロップ状態を3ターン回復。闇ドロップを3個生成
 EN: Reduce unable to match orbs effect by 3 turns; Create 3 Dark orbs
 KR: Reduce unable to match orbs effect by 3 turns; Create 3 Dark orbs
@@ -47831,9 +47831,9 @@ JP: 闇ドロップを3個生成
 EN: Create 3 Dark orbs
 KR: Create 3 Dark orbs
 
-# 17392/116 - 街で最強の男の物語
+# 17392/116 - The Tale of the Strongest Man in Town
 Tags: HEAL,LINE_ORBS_CONVERTER
-Game: HPを50％回復。 最上段横1列を火ドロップに変化。
+Game: Recovers 50% of max HP; changes the top row to Fire Orbs
 JP: 最大HP50％分回復。最上段を火ドロップに変化
 EN: Recover 50% of max HP; Change the top row to Fire orbs
 KR: Recover 50% of max HP; Change the top row to Fire orbs

@@ -3,17 +3,17 @@ HP: 6385 ATK: 2577 RCV: 779 LB: 0
 AWK: 52,28,48,48,48,48,50,53,53
 SAWK: 
 
-# 17263/116 - レッドドリーム
+# 17263/116 - Red Dream
 Tags: EXTENDS_TIME
-Game: 1ターンの間、ランダムでルーレットを1個生成。 1ターンの間、ドロップ操作を5秒延長。
+Game: Creates 1 Roulette Orb at random for 1 turn; Orb move time +5 seconds for 1 turn
 JP: 1ターンの間、ランダムで1箇所のマスがが1.0秒毎に変化する。1ターンの間、ドロップ操作時間が5秒に延長
 EN: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
 KR: Random 1 orbs change every 1.0s for 1 turn; For 1 turn, increase orb move time by 5 seconds
 
-# 17266/138 - 古夢霊の眠術
+# 17266/138 - Ancient Dream Spirit's Sleep Technique
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 1.0, 0.25]
-Game: 火属性のHPと攻撃力が2倍。6コンボ以上でダメージを軽減。 火を6個以上つなげて消すと攻撃力が10倍、固定100万ダメージ。
+Game: 2x HP & ATK for Fire Att., reduces dmg with 6+ combos; 10x ATK & inflicts 1,000,000 dmg with 6+ linked Fr Orbs
 JP: 火属性のHPと攻撃力が2倍。6コンボ以上で受けるダメージを25％減少。火を6個以上つなげて消すと攻撃力が10倍。火を6個以上つなげて消しと固定1000000ダメージ。
 EN: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
 KR: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
