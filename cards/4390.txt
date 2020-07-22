@@ -1,7 +1,7 @@
 #4390 Twin Wardens, Justine & Caroline
 HP: 3845 ATK: 1383 RCV: 283 LB: 30
-AWK: 27,27,21,28,11,11,46,47,30
-SAWK: 
+AWK: 27,27,56,28,11,11,46,47,30
+SAWK: 52,56,55
 
 # 10473/116 - Demonic Decree
 Tags: GRAVITY,ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,ALL_ORBS_CONVERT
@@ -12,9 +12,9 @@ KR: Reduce enemies' HP by 20%; Change all orbs to Fire, Water, Wood, Light, Dark
 
 # 10477/138 - Now... let's get started, Inmate!
 Tags: ENHANCED_HP_ATK_RCV
-Stats: [1.5, 6.0, 2.0, 0.0]
+Stats: [1.5, 12.0, 4.0, 0.0]
 Game: 1.5x HP & 3x ATK for Dark Att.; 2x ATK & RCV when skills used
-JP: 闇属性の攻撃力が3倍、HPが1.5倍。スキル使用時、攻撃力と回復力が2倍。
-EN: 3x ATK and 1.5x HP for Dark Att.; 2x ATK & RCV on the turn a skill is used
-KR: 3x ATK and 1.5x HP for Dark Att.; 2x ATK & RCV on the turn a skill is used
+JP: 闇属性の攻撃力が3倍、HPが1.5倍。スキル使用時、攻撃力と回復力が4倍。
+EN: 3x ATK and 1.5x HP for Dark Att.; 4x ATK & RCV on the turn a skill is used
+KR: 3x ATK and 1.5x HP for Dark Att.; 4x ATK & RCV on the turn a skill is used
 

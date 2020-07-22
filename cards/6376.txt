@@ -1,0 +1,20 @@
+#6376 汐見 琴音
+HP: 3981 ATK: 1903 RCV: 321 LB: 0
+AWK: 21,21,28,29,29
+SAWK: 
+
+# 17883/116 - ペルソナ召喚
+Tags: MENACE
+Game: 敵の行動を2ターン遅らせる。 汐見 琴音＆オルフェウスに変身。
+JP: 敵の行動を2ターン遅らせる。[6377]に変身する
+EN: Delay enemies' next attack by 2 turns; Changes to [6377] for the duration of the dungeon
+KR: Delay enemies' next attack by 2 turns; Changes to [6377] for the duration of the dungeon
+
+# 17805/138 - 月光館学園転入生
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1.0, 12.0, 2.0, 0.5]
+Game: 火属性の攻撃力と回復力が2倍。HP80％以上でダメージを半減。 火を5個以上つなげて消すと攻撃力が6倍、固定1ダメージ。
+JP: 火属性の攻撃力と回復力が2倍。HPが80%以上で受けるダメージを50％減少。火を5個以上つなげて消しと固定1ダメージ。火を5個以上つなげて消すと攻撃力が6倍。
+EN: 2x ATK & RCV for Fire Att.; Reduce damage taken by 50% when above 80% HP; 1 additional damage when matching 5 or more Fire orbs; 6x ATK when matching 5 or more connected Fire orbs
+KR: 2x ATK & RCV for Fire Att.; Reduce damage taken by 50% when above 80% HP; 1 additional damage when matching 5 or more Fire orbs; 6x ATK when matching 5 or more connected Fire orbs
+

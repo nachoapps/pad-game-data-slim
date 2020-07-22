@@ -79927,45 +79927,45 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 15978/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15978/83 - 通常2回
+JP: 
+EN: 
+KR: 
 
-# 15979/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15979/15 - ブレイドシザー
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
 
-# 15980/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15980/128 - 水の帳
+JP: 1ターンの間、25%の確率を超暗闇ドロップNoneターンが発生
+EN: For 1 turn, 25% chance for skyfall orbs to be blinded for turn
+KR: For 1 turn, 25% chance for skyfall orbs to be blinded for turn
 
-# 15981/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15981/83 - 先制2回
+JP: 
+EN: 
+KR: 
 
-# 15982/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15982/84 - 湖底の財宝
+JP: 全ドロップを火、水、木、光、闇、お邪魔に変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Jammer
 
-# 15983/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15983/74 - 纏甲殻
+JP: 3ターンの間、受けるダメージからの攻撃を99%減少
+EN: Reduce damage from all sources by 99% for 3 turns
+KR: Reduce damage from all sources by 99% for 3 turns
 
-# 15984/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15984/85 - ルタ・シャブダ
+JP: 全ドロップを火、水、木、光、闇、回復に変化
+EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
+KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal
 
-# 15985/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 15985/87 - 聖流の守護
+JP: 3ターンの間、1000万以上のダメージを吸収
+EN: Absorb damage when damage >= 10,000,000 for 3 turns
+KR: Absorb damage when damage >= 10,000,000 for 3 turns
 
 # 15986/83 - ＿2 times
 JP: 
@@ -93537,183 +93537,303 @@ JP: nothing
 EN: nothing
 KR: nothing
 
-# 18700/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18700/96 - 我が決意の証を見よ！
+JP: 7ターンの間、ロックされたランダム属性のドロップを+50%に落ちてくる
+EN: Locked random skyfall +50% for 7 turns
+KR: Locked random skyfall +50% for 7 turns
 
-# 18701/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18701/89 - ガルーラ
+JP: スキルターンを2〜3ターン遅延
+EN: Delay active skills by 2~3 turns
+KR: Delay active skills by 2~3 turns
 
-# 18702/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18702/86 - ディア
+JP: 敵のHPが40％回復
+EN: Enemy recover 40% HP
+KR: Enemy recover 40% HP
 
-# 18703/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18703/109 - ミラクルパンチ
+JP: 1ターンの間、ランダムで1箇所のマスがが0.5秒毎に変化する
+EN: Random 1 orbs change every 0.5s for 1 turn
+KR: Random 1 orbs change every 0.5s for 1 turn
 
-# 18704/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18704/53 - 疾風ブースタ
+JP: 10ターンの間、木属性のダメージを吸収
+EN: Absorb Wood damage for 10 turns
+KR: Absorb Wood damage for 10 turns
 
-# 18705/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18705/15 - 斬り刻む
+JP: 99%ダメージ (3連続攻撃、33%ごと)
+EN: Deal 99% damage (3 hits, 33% each)
+KR: Deal 99% damage (3 hits, 33% each)
 
-# 18706/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18706/89 - ガルダイン
+JP: スキルターンを3〜4ターン遅延
+EN: Delay active skills by 3~4 turns
+KR: Delay active skills by 3~4 turns
 
-# 18707/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18707/130 - ゴー！キントキドウジ！
+JP: 5ターンの間、攻撃力が50%減少
+EN: ATK -50% for 5 turns
+KR: ATK -50% for 5 turns
 
-# 18708/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18708/94 - マハブフーラ
+JP: ランダムで10個ドロップをロック
+EN: Lock 10 random orbs
+KR: Lock 10 random orbs
 
-# 18709/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18709/14 - トラエスト
+JP: 5ターンの間、スキル使用不可
+EN: Bind active skills for 5 turns
+KR: Bind active skills for 5 turns
 
-# 18710/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18710/86 - ディアラハン
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 18711/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18711/15 - ほいや！クマクマー！
+JP: 100%ダメージ (2連続攻撃、50%ごと)
+EN: Deal 100% damage (2 hits, 50% each)
+KR: Deal 100% damage (2 hits, 50% each)
 
-# 18712/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18712/92 - 氷結ブースタ
+JP: 水ドロップを12個生成
+EN: Spawn 12 random Water orbs
+KR: Spawn 12 random Water orbs
 
-# 18713/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18713/94 - マハブフダイン
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
 
-# 18714/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18714/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18715/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18715/97 - 今が召喚の時であります！
+JP: 4ターンの間、ランダムで4〜6個のドロップを超暗闇にする
+EN: Blind random 4~6 orbs for 4 turns
+KR: Blind random 4~6 orbs for 4 turns
 
-# 18716/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18716/104 - スクカジャ
+JP: 1ターンの間、ランダムでの2×2マスの正方形を雲で隠す
+EN: A 2×2 square of clouds appears for 1 turn at a random location
+KR: A 2×2 square of clouds appears for 1 turn at a random location
 
-# 18717/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18717/15 - キルラッシュ
+JP: 102%ダメージ (3連続攻撃、34%ごと)
+EN: Deal 102% damage (3 hits, 34% each)
+KR: Deal 102% damage (3 hits, 34% each)
 
-# 18718/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18718/86 - ディアラハン
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 18719/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18719/6 - デクンダ
+JP: こちらにかかっている状態変化を解除
+EN: Voids player buff effects
+KR: Voids player buff effects
 
-# 18720/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18720/74 - オルギア、発動！！
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
 
-# 18721/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18721/79 - ヒートウェイブ
+JP: 左から1列目のドロップが火ドロップに変化。左から5列目のドロップが火ドロップに変化
+EN: Change the 1st row to Fire orbs and the 5th row to Fire orbs
+KR: Change the 1st row to Fire orbs and the 5th row to Fire orbs
 
-# 18722/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18722/107 - 奪え！
+JP: 2ターンの間、回復ドロップを消せなくなる
+EN: Unable to match Heal orbs for 2 turns
+KR: Unable to match Heal orbs for 2 turns
 
-# 18723/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18723/62 - 漆黒の蛇
+JP: 全ドロップを真っ暗にする
+EN: Blind all orbs on the board
+KR: Blind all orbs on the board
 
-# 18724/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18724/48 - マハエイガオン
+JP: ランダム属性のドロップを闇ドロップに変化
+EN: Change a random attribute to Dark orbs
+KR: Change a random attribute to Dark orbs
 
-# 18725/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18725/75 - 生還トリック
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
 
-# 18726/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18726/83 - ＿連続
+JP: 
+EN: 
+KR: 
 
-# 18727/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18727/17 - 魔王の境地
+JP: 5ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 5 turns
+KR: Increase damage to 150% for the next 5 turns
 
-# 18728/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18728/65 - 失せろ！
+JP: 6ターンの間、ランダムでサブ4体がバインド
+EN: Bind 4 random subs for 6 turns
+KR: Bind 4 random subs for 6 turns
 
-# 18729/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18729/15 - 至高の魔弾
+JP: 76%ダメージ (4連続攻撃、19%ごと)
+EN: Deal 76% damage (4 hits, 19% each)
+KR: Deal 76% damage (4 hits, 19% each)
 
-# 18730/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18730/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18731/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18731/50 - ペルソナ！
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
 
-# 18732/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18732/15 - メギドラオン
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
 
-# 18733/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18733/1 - ジオダイン
+JP: 10ターンの間、ランダムで2体がバインド
+EN: Bind 2 random cards for 10 turns
+KR: Bind 2 random cards for 10 turns
 
-# 18734/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18734/74 - 大天使の加護
+JP: 5ターンの間、受けるダメージからの攻撃を50%減少
+EN: Reduce damage from all sources by 50% for 5 turns
+KR: Reduce damage from all sources by 50% for 5 turns
 
-# 18735/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18735/85 - 電撃ハイブースタ
+JP: 全ドロップを光に変化
+EN: Change all orbs to Light
+KR: Change all orbs to Light
+
+# 18736/17 - コンセントレイト
+JP: 1ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 1 turn
+KR: Increase damage to 200% for the next 1 turn
+
+# 18737/15 - 幾万の真言
+JP: 60%ダメージ (3連続攻撃、20%ごと)
+EN: Deal 60% damage (3 hits, 20% each)
+KR: Deal 60% damage (3 hits, 20% each)
+
+# 18738/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18739/105 - ぺ…ル…ソ…ナッ！
+JP: 5ターンの間、回復力を50%になる
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
+
+# 18740/87 - 貫通吸収
+JP: 5ターンの間、500万以上のダメージを吸収
+EN: Absorb damage when damage >= 5,000,000 for 5 turns
+KR: Absorb damage when damage >= 5,000,000 for 5 turns
+
+# 18741/77 - ゴッドハンド
+JP: 上から3列目のドロップが水ドロップに変化。上から4列目のドロップが光ドロップに変化
+EN: Change the 3rd column to Water orbs and the 4th column to Light orbs
+KR: Change the 3rd column to Water orbs and the 4th column to Light orbs
+
+# 18742/86 - メシアライザー
+JP: 敵のHPが100％回復
+EN: Enemy recover 100% HP
+KR: Enemy recover 100% HP
+
+# 18743/74 - 不屈の闘志
+JP: 4ターンの間、受けるダメージからの攻撃を75%減少
+EN: Reduce damage from all sources by 75% for 4 turns
+KR: Reduce damage from all sources by 75% for 4 turns
+
+# 18744/86 - 気功･大
+JP: 敵のHPが20％回復
+EN: Enemy recover 20% HP
+KR: Enemy recover 20% HP
+
+# 18745/15 - メギドラオン
+JP: 120%ダメージ
+EN: Deal 120% damage
+KR: Deal 120% damage
+
+# 18746/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18747/71 - 参ります
+JP: 5ターンの間、10000000以上のダメージを無効化
+EN: Void damage >= 10000000 for 5 turns
+KR: Void damage >= 10000000 for 5 turns
+
+# 18748/67 - ドロー、ペルソナカード
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 18749/79 - マハラギダイン
+JP: 左から1と2列目のドロップが火ドロップに変化
+EN: Change the 1st and 2nd rows to Fire orbs
+KR: Change the 1st and 2nd rows to Fire orbs
+
+# 18750/20 - マハンマオン
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
+
+# 18751/130 - くらえでございます
+JP: 4ターンの間、攻撃力が75%減少
+EN: ATK -75% for 4 turns
+KR: ATK -75% for 4 turns
+
+# 18752/48 - マハムドオン
+JP: ランダム属性のドロップを闇ドロップに変化
+EN: Change a random attribute to Dark orbs
+KR: Change a random attribute to Dark orbs
+
+# 18753/83 - ＿連続
+JP: 
+EN: 
+KR: 
+
+# 18754/88 - デビルスマイル
+JP: 3ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 3 turns
+KR: Bind awoken skills for 3 turns
+
+# 18755/86 - ディアラハン
+JP: 敵のHPが100％回復
+EN: Enemy recover 100% HP
+KR: Enemy recover 100% HP
+
+# 18756/15 - メギドラオンでございます
+JP: 10000%ダメージ
+EN: Deal 10000% damage
+KR: Deal 10000% damage
+
+# 18757/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
+
+# 18758/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 18759/15 - 幾万の真言
+JP: 195%ダメージ (3連続攻撃、65%ごと)
+EN: Deal 195% damage (3 hits, 65% each)
+KR: Deal 195% damage (3 hits, 65% each)
 

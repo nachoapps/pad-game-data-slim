@@ -1,0 +1,12 @@
+#6450 琴音のイヤホン
+HP: 3000 ATK: 1500 RCV: 100 LB: 0
+AWK: 49,11,12,13
+SAWK: 
+
+# 17886/116 - 赤い旋律
+Tags: EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
+Game: 5ターンの間、ドロップ操作時間が2倍。 消せないドロップ状態を5ターン回復。
+JP: 5ターンの間、ドロップ操作時間が2倍。消せないドロップ状態を5ターン回復
+EN: For 5 turns, 2x orb move time; Reduce unable to match orbs effect by 5 turns
+KR: For 5 turns, 2x orb move time; Reduce unable to match orbs effect by 5 turns
+

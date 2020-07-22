@@ -1,5 +1,5 @@
 #6314 「崩壊」死柄木弔
-HP: 4763 ATK: 3483 RCV: 95 LB: 0
+HP: 4963 ATK: 3603 RCV: 255 LB: 0
 AWK: 28,43,48,48,36,36,34,34,63
 SAWK: 
 
@@ -12,9 +12,9 @@ KR: Deal damage equal to 5% of enemies' max HP; Change the bottom row to Dark or
 
 # 17622/138 - 凶“個性”
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
-Stats: [2.0, 18.0, 1.0, 0.0, +2]
-Game: 水と闇属性のHPと攻撃力が2倍。毒ダメージを無効化。 水闇の同時攻撃で攻撃力が9倍、2コンボ加算。
-JP: 【毒ダメージを無効化】水と闇属性のHPと攻撃力が2倍。水、闇同時攻撃で攻撃力が9倍、2コンボ加算。
-EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9x ATK and increase combo by 2 when matching Water and Dark at once
-KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9x ATK and increase combo by 2 when matching Water and Dark at once
+Stats: [2.0, 19.0, 1.0, 0.0, +2]
+Game: 水と闇属性のHPと攻撃力が2倍。毒ダメージを無効化。 水闇の同時攻撃で攻撃力が9.5倍、2コンボ加算。
+JP: 【毒ダメージを無効化】水と闇属性のHPと攻撃力が2倍。水、闇同時攻撃で攻撃力が9.5倍、2コンボ加算。
+EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9.5x ATK and increase combo by 2 when matching Water and Dark at once
+KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9.5x ATK and increase combo by 2 when matching Water and Dark at once
 
