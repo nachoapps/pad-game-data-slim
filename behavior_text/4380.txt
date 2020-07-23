@@ -1,0 +1,41 @@
+#4380 - One Who Presides Over Power, Elizabeth
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+monster_id: 4380
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18757:129) 超根性
+ | When reduced from HP > 50% to 0 HP, revive at 50% HP
+ type: PREEMPT
+ | (18746:83) 参ります + ドロー、ペルソナカード + マハンマオン
+ | Void damage >= 10000000 for 5 turns + Absorb damage when combos <= 6 for 999 turns + Voids status ailments for 999 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (18752:48) マハムドオン
+   | Change a random attribute to Dark orbs, Deal 90% damage
+   | (18749:79) マハラギダイン
+   | Change the 1st and 2nd rows to Fire orbs, Deal 90% damage
+ | group:
+ | condition: hp <= 49
+   | group:
+   | condition: turn 1 while HP > 19
+     | (18753:83) ディアラハン + くらえでございます
+     | Enemy recover 100% HP + ATK -75% for 4 turns
+   | group:
+   | condition: turn 2 while HP > 19
+     | (18754:88) デビルスマイル
+     | Bind awoken skills for 3 turns
+     | condition: 50% chance
+     | (18752:48) マハムドオン
+     | Change a random attribute to Dark orbs, Deal 90% damage
+     | (18749:79) マハラギダイン
+     | Change the 1st and 2nd rows to Fire orbs, Deal 90% damage
+ | group:
+ | condition: hp <= 19
+   | (18756:15) メギドラオンでございます
+   | Deal 10000% damage

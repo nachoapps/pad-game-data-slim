@@ -1,0 +1,63 @@
+#4380 - One Who Presides Over Power, Elizabeth
+monster size: 5
+new AI: True
+start/max counter: 7
+counter increment: 0
+
+#1: ESPreemptive(49:318) -> ESPreemptive
+Enable preempt if level 1
+
+#2: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 4)
+	[0] ESVoidShield(71:18747) -> 参ります
+	Void damage >= 10000000 for 5 turns
+	[1] ESAbsorbCombo(67:18748) -> ドロー、ペルソナカード
+	Absorb damage when combos <= 6 for 999 turns
+	[2] ESStatusShield(20:18750) -> マハンマオン
+	Voids status ailments for 999 turns
+
+#3: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 20, target rnd 13
+
+#4: ESBranchHP(28:18) -> ESBranchHP
+Branch on hp < 50, target rnd 8
+
+#5: ESOrbChangeAttack(48:18752) -> マハムドオン
+Condition: 50% chance (ai:50 rnd:0)
+Change a random attribute to Dark orbs, Deal 90% damage
+
+#6: ESRowSpawnMulti(79:18749) -> マハラギダイン
+Change the 1st and 2nd rows to Fire orbs, Deal 90% damage
+
+#7: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#8: SkillSet:
+	Condition: One-time use (ai:100 rnd:0) (cost: 2)
+	[0] ESRecoverEnemy86(86:18755) -> ディアラハン
+	Enemy recover 100% HP
+	[1] ESDebuffATK(130:18751) -> くらえでございます
+	ATK -75% for 4 turns
+
+#9: ESBindAwoken(88:18754) -> デビルスマイル
+Condition: One-time use (ai:100 rnd:0) (cost: 1)
+Bind awoken skills for 3 turns
+
+#10: ESOrbChangeAttack(48:18752) -> マハムドオン
+Condition: 50% chance (ai:50 rnd:0)
+Change a random attribute to Dark orbs, Deal 90% damage
+
+#11: ESRowSpawnMulti(79:18749) -> マハラギダイン
+Change the 1st and 2nd rows to Fire orbs, Deal 90% damage
+
+#12: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#13: ESAttackMultihit(15:18756) -> メギドラオンでございます
+Deal 10000% damage
+
+#14: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#15: ESSuperResolve(129:18757) -> 超根性
+When reduced from HP > 50% to 0 HP, revive at 50% HP
