@@ -8,5 +8,27 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (16734:118) God & Devil Halved
+ | (18212:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ | (16734:118) 神悪魔半減
  | Reduce damage from God and Devil types by 50%
+ type: PREEMPT
+ | (18200:83) 海王神の結界 + 冥界の黒海月 + 深海への誘い + 光の届かぬ暗海
+ | Voids status ailments for 999 turns + Mortal Poison skyfall +15% for 10 turns + Absorb damage when damage >= 20,000,000 for 999 turns + ATK -75% for 99 turns
+ group:
+ | group:
+   | (18209:48) ヒュドラホーン
+   | Change all Heal orbs to Mortal Poison orbs, Deal 100% damage
+   | condition: 50% chance
+   | (18210:110) 渦巻く海流
+   | Specific orbs change every 1.5s for 1 turn, Deal 90% damage
+   | (18208:15) ハイドロウェイブ
+   | Deal 99% damage (3 hits, 33% each)
+ | group:
+ | condition: turn 1 while HP > 9, hp <= 49
+   | (18205:83) 海王神の憤怒 + 毒海の渦潮
+   | Increase damage to 200% for the next 999 turns + Change all orbs to Mortal Poison, Deal 100% damage
+ | group:
+ | condition: hp <= 9
+   | (18211:15) アビスメイルシュトリーム
+   | Deal 3000% damage (10 hits, 300% each)
