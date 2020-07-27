@@ -475,23 +475,6 @@
         group {
           group_type: STANDARD
           condition {
-            hp_threshold: 69
-            trigger_turn: 2
-            always_trigger_above: 34
-          }
-          children {
-            behavior {
-              condition {
-              }
-              enemy_skill_id: 6545
-            }
-          }
-        }
-      }
-      children {
-        group {
-          group_type: STANDARD
-          condition {
             hp_threshold: 49
             trigger_turn: 4
             always_trigger_above: 34
