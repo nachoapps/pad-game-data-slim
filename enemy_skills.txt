@@ -92597,95 +92597,95 @@ JP: 火ドロップを10個生成
 EN: Spawn 10 random Fire orbs
 KR: Spawn 10 random Fire orbs
 
-# 18512/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18512/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18513/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18513/20 - ふあぁ～…
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 18514/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18514/39 - あと五分…
+JP: 5ターンの間、操作時間50%
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
 
-# 18515/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18515/15 - 眠る時間かな？
+JP: 200%ダメージ (2連続攻撃、100%ごと)
+EN: Deal 200% damage (2 hits, 100% each)
+KR: Deal 200% damage (2 hits, 100% each)
 
-# 18516/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18516/83 - ＿1％行動
+JP: 
+EN: 
+KR: 
 
-# 18517/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18517/74 - うぅ～ん
+JP: 1ターンの間、受けるダメージからの攻撃を90%減少
+EN: Reduce damage from all sources by 90% for 1 turn
+KR: Reduce damage from all sources by 90% for 1 turn
 
-# 18518/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18518/130 - まだ眠たい…
+JP: 1ターンの間、攻撃力が90%減少
+EN: ATK -90% for 1 turn
+KR: ATK -90% for 1 turn
 
-# 18519/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18519/15 - おやすみなさい…
+JP: 800%ダメージ (4連続攻撃、200%ごと)
+EN: Deal 800% damage (4 hits, 200% each)
+KR: Deal 800% damage (4 hits, 200% each)
 
-# 18520/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18520/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18521/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18521/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18522/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18522/50 - 爆ぜよ
+JP: 現HPの140%のダメージ
+EN: Player -140% HP
+KR: Player -140% HP
 
-# 18523/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18523/67 - 神癒の護光
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
 
-# 18524/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18524/83 - ＿2回行動
+JP: 
+EN: 
+KR: 
 
-# 18525/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18525/6 - 無に帰せよ
+JP: こちらにかかっている状態変化を解除
+EN: Voids player buff effects
+KR: Voids player buff effects
 
-# 18526/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18526/15 - 天罰の雷
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
 
-# 18527/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18527/15 - 極滅の天雷
+JP: 1500%ダメージ (5連続攻撃、300%ごと)
+EN: Deal 1500% damage (5 hits, 300% each)
+KR: Deal 1500% damage (5 hits, 300% each)
 
-# 18528/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18528/20 - 輝天使の守翼
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
 
-# 18529/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18529/129 - 超根性
+JP: HP1%以上のとき、大ダメージを受けてもHP1%で耐える
+EN: When reduced from HP > 1% to 0 HP, revive at 1% HP
+KR: When reduced from HP > 1% to 0 HP, revive at 1% HP
 
 # 18530/129 - 超根性
 JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
@@ -93402,45 +93402,45 @@ JP: 1000%ダメージ
 EN: Deal 1000% damage
 KR: Deal 1000% damage
 
-# 18673/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18673/84 - これが夏の大花火よ！
+JP: 全ドロップを火に変化
+EN: Change all orbs to Fire
+KR: Change all orbs to Fire
 
-# 18674/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18674/84 - これが夏の大花火よ！
+JP: 全ドロップを水に変化
+EN: Change all orbs to Water
+KR: Change all orbs to Water
 
-# 18675/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18675/84 - これが夏の大花火よ！
+JP: 全ドロップを木に変化
+EN: Change all orbs to Wood
+KR: Change all orbs to Wood
 
-# 18676/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18676/84 - これが夏の大花火よ！
+JP: 全ドロップを光に変化
+EN: Change all orbs to Light
+KR: Change all orbs to Light
 
-# 18677/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18677/84 - これが夏の大花火よ！
+JP: 全ドロップを闇に変化
+EN: Change all orbs to Dark
+KR: Change all orbs to Dark
 
-# 18678/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18678/66 - てやんでぇ！
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 18679/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18679/95 - ＿五右衛門死亡
+JP: 
+EN: 
+KR: 
 
-# 18680/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18680/101 - いよぉ～！
+JP: ドロップ操作開始位置をランダムで固定される
+EN: Fix orb movement starting point to random position on the board
+KR: Fix orb movement starting point to random position on the board
 
 # 18681/0 - なし
 JP: nothing
