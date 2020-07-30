@@ -1036,7 +1036,7 @@ KR: Change Fire, Light, Poison, and Mortal Poison orbs to Heal orbs; Reduce bind
 
 # 194/116 - Destroying Lance, Gungnir
 Tags: MASSIVE_ATTACK,POISON
-Game: Inflicts 50x ATK Dark Att. attack on all enemies, plus all enemies mortally poisoned
+Game: Inflicts 100x ATK Dark Att. attack on all enemies; all enemies mortally poisoned
 JP: 敵全体に攻撃力ｘ100倍の闇属性攻撃。敵全体を毒にする（攻撃力ｘ100倍）
 EN: Deal 100x ATK Dark damage to all enemies; Poison all enemies (100x ATK)
 KR: Deal 100x ATK Dark damage to all enemies; Poison all enemies (100x ATK)
@@ -1393,7 +1393,7 @@ KR: Deal 30x ATK Wood damage to an enemy
 
 # 445/116 - Diabolic Lance, Gungnir
 Tags: ENHANCED_ORBS,SINGLE_TARGET_ATTACK,ATTACK_AND_HEAL
-Game: Inflicts 50x ATK Dark Att. on 1 enemy, some HP is recovered; Water & Dark Orbs enhanced
+Game: Inflicts 100x ATK Dark Att. attack on 1 enemy, recovers some HP; Water & Dark Orbs enhanced
 JP: 敵1体に攻撃力ｘ100倍の闇属性攻撃し、ダメージの15％分のHP回復。水と闇ドロップを強化
 EN: Deal 100x ATK Dark damage to an enemy and recover 15% of the damage as HP; Enhance all Water and Dark orbs
 KR: Deal 100x ATK Dark damage to an enemy and recover 15% of the damage as HP; Enhance all Water and Dark orbs
@@ -11382,7 +11382,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 3534/116 - Rune Enhance - Light & Water
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
-Game: 2.5x ATK for Light & Water Att. for 3 turns;  other allies' skills charged by 1 turn
+Game: 2.5x ATK for Light & Water Att. and 2.5x RCV for 3 turns; other allies' skills charged by 1 turn
 JP: 3ターンの間、光と水属性の攻撃力が2.5倍。3ターンの間、回復力が2.5倍。自分以外の味方スキルが1ターンの溜まる
 EN: For 3 turns, 2.5x ATK for Light and Water Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
 KR: For 3 turns, 2.5x ATK for Light and Water Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
@@ -20314,7 +20314,7 @@ KR: Create 2 Water and Wood orbs
 
 # 8147/116 - All Orbs Cure
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes Orbs to all Attributes & Heal
+Game: Recovers 80% of max HP, fully recovers bind status; changes Orbs to all Attributes & Heal
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -20335,7 +20335,7 @@ KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
 # 8153/116 - Draco Nesting Circle - Dark, Fire & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Fire, Dark & Heal Orbs
+Game: Recovers 80% of max HP, fully recovers bind status; changes all Orbs to Fire, Dark & Heal Orbs
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを火、闇、回復ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Dark, and Heal orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Fire, Dark, and Heal orbs
@@ -20356,7 +20356,7 @@ KR: Change all orbs to Fire, Dark, and Heal orbs
 
 # 8159/116 - Draco Nesting Circle - Dark, Water & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Water, Dark & Heal Orbs
+Game: Recovers 80% of max HP, fully recovers bind status; changes all Orbs to Water, Dark & Heal Orbs
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを水、闇、回復ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Water, Dark, and Heal orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Water, Dark, and Heal orbs
@@ -20377,7 +20377,7 @@ KR: Change all orbs to Water, Dark, and Heal orbs
 
 # 8165/116 - Draco Nesting Circle - Dark, Wood & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Wood, Dark & Heal Orbs
+Game: Recovers 80% of max HP, fully recovers bind status; changes all Orbs to Wood, Dark & Heal Orbs
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを木、闇、回復ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Wood, Dark, and Heal orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Wood, Dark, and Heal orbs
@@ -20398,7 +20398,7 @@ KR: Change all orbs to Wood, Dark, and Heal orbs
 
 # 8171/116 - Draco Nesting Circle - Dark, Light & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 2 turns; changes all Orbs to Light, Dark & Heal Orbs
+Game: Recovers 80% of max HP, fully recovers bind status; changes all Orbs to Light, Dark & Heal Orbs
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを光、闇、回復ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Light, Dark, and Heal orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Light, Dark, and Heal orbs
@@ -20419,7 +20419,7 @@ KR: Change all orbs to Light, Dark, and Heal orbs
 
 # 8177/116 - Draco Nesting Circle - Dark, Demon & Life
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of max HP, fully recovers bind status; changes all Orbs to Dark Orbs, Heal Orbs & Jammers
+Game: Recovers 80% of max HP, fully recovers bind status; changes all Orbs to Jammers, Dark & Heal Orbs
 JP: 最大HP80％分回復。バインドを全回復。全ドロップを闇、回復、お邪魔ドロップに変化
 EN: Recover 80% of max HP; Remove all binds; Change all orbs to Dark, Heal, and Jammer orbs
 KR: Recover 80% of max HP; Remove all binds; Change all orbs to Dark, Heal, and Jammer orbs
@@ -24362,7 +24362,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 10032/116 - Guardian Star Summoning Circle - Water & Dark
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
-Game: Reduces bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wt & Dk
+Game: Reduces unmatchable & bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wt & Dk
 JP: 消せないドロップ状態を3ターン回復。バインドと覚醒無効を3ターン回復。全ドロップのロック状態を解除。全ドロップを水と闇ドロップに変化
 EN: Reduce unable to match orbs effect by 3 turns; Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
 KR: Reduce unable to match orbs effect by 3 turns; Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Water and Dark orbs
@@ -24390,7 +24390,7 @@ KR: Change all orbs to Water and Dark orbs
 
 # 10039/116 - Guardian Star Summoning Circle - Wood & Dark
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
-Game: Reduces bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wood & Dark
+Game: Reduces unmatchable & bind status (incl. Awoken) by 3 turns; removes Orb locks, changes all Orbs to Wd & Dk
 JP: 消せないドロップ状態を3ターン回復。バインドと覚醒無効を3ターン回復。全ドロップのロック状態を解除。全ドロップを木と闇ドロップに変化
 EN: Reduce unable to match orbs effect by 3 turns; Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Wood and Dark orbs
 KR: Reduce unable to match orbs effect by 3 turns; Reduce binds and awoken skill binds by 3 turns; Unlock all orbs; Change all orbs to Wood and Dark orbs
@@ -29115,7 +29115,7 @@ KR: Change all orbs to Water, Wood, and Light orbs
 
 # 11750/116 - Furinkazan Stance
 Tags: ENHANCED_ORBS,ALL_ORBS_CONVERT,ORB_LOCK
-Game: Changes all Orbs to Fire, Wood & Heal Orbs; Fire, Wood & Heal Orbs locked
+Game: Changes all Orbs to Fire, Wood & Heal Orbs; all Orbs enhanced, all Orbs locked
 JP: 全ドロップを火、木、回復ドロップに変化。全ドロップを強化。全ドロップをロック
 EN: Change all orbs to Fire, Wood, and Heal orbs; Enhance all orbs; Lock all orbs
 KR: Change all orbs to Fire, Wood, and Heal orbs; Enhance all orbs; Lock all orbs
@@ -29136,7 +29136,7 @@ KR: Lock all orbs
 
 # 11756/116 - Merciless Strike
 Tags: SINGLE_TARGET_ATTACK,SUICIDE,VOID_DAMAGE_ABSORBS
-Game: Inflicts 200x ATK Water Att. attack on 1 enemy but HP falls to 1; voids damage absorption for 1 turn
+Game: Inflicts 200x ATK Water Att. attack on 1 enemy, but HP falls to 1; voids damage absorption for 1 turn
 JP: HPが1になる。敵1体に攻撃力ｘ200倍の水属性攻撃。1ターンの間、ダメージ吸収を無効化する
 EN: Reduce HP to 1; Deal 200x Water damage to an enemy; For 1 turn, bypass damage absorb shield effects
 KR: Reduce HP to 1; Deal 200x Water damage to an enemy; For 1 turn, bypass damage absorb shield effects
@@ -29157,7 +29157,7 @@ KR: For 1 turn, bypass damage absorb shield effects
 
 # 11762/116 - Sacrificing Sword Stroke
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,SUICIDE,ADD_COMBO
-Game: Inflicts 100x ATK Wood Att. attack on 1 enemy, but halves HP; adds 2 combos for 1 turn
+Game: Inflicts 100x ATK Wd Att. attack on 1 enemy, but halves HP; adds 2 combos & 2x ATK for Wood Att. for 1 turn
 JP: HPが50％減少。敵1体に攻撃力ｘ100倍の木属性攻撃。1ターンの間、2コンボ加算される。1ターンの間、木属性の攻撃力が2倍
 EN: Reduce HP by 50%; Deal 100x Wood damage to an enemy; For 1 turn, increase combo count by 2; For 1 turn, 2x ATK for Wood Att.
 KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy; For 1 turn, increase combo count by 2; For 1 turn, 2x ATK for Wood Att.
@@ -29178,7 +29178,7 @@ KR: For 1 turn, increase combo count by 2
 
 # 11768/116 - Mysterious Changing Orbs
 Tags: ENHANCED_ORBS,ALL_ORBS_CONVERT,ORB_LOCK
-Game: Changes all Orbs to Water & Light Orbs; Water & Light Orbs locked
+Game: Changes all Orbs to Water & Light Orbs; all Orbs enhanced, all Orbs locked
 JP: 全ドロップを水と光ドロップに変化。全ドロップを強化。全ドロップをロック
 EN: Change all orbs to Water and Light orbs; Enhance all orbs; Lock all orbs
 KR: Change all orbs to Water and Light orbs; Enhance all orbs; Lock all orbs
@@ -37578,7 +37578,7 @@ KR: Change the top row and the 2nd row from the top to Fire orbs and change the 
 
 # 14455/116 - Draco Oath Circle - Fire & Dark
 Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
-Game: Adds 1 combo for 1 turn; removes Orb locks and changes all Orbs to Fire & Dark Orbs
+Game: Adds 1 combo for 1 turn; removes Orb locks, changes all Orbs to Fire & Dark Orbs
 JP: 1ターンの間、1コンボ加算される。全ドロップのロック状態を解除。全ドロップを火と闇ドロップに変化
 EN: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Fire and Dark orbs
 KR: For 1 turn, increase combo count by 1; Unlock all orbs; Change all orbs to Fire and Dark orbs
