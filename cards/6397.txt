@@ -1,0 +1,20 @@
+#6397 蒼氷鍵の勇者・メニット
+HP: 3855 ATK: 3873 RCV: 1322 LB: 0
+AWK: 43,43,43,60,53,53,53,28,52
+SAWK: 
+
+# 17916/116 - フローズンインパクト
+Tags: LINE_ORBS_CONVERTER,ADD_COMBO,ORB_LOCK
+Game: 右端縦1列を回復ドロップに変化。水と回復ドロップをロック。 1ターンの間、1コンボ加算。
+JP: 最右端を回復ドロップに変化。全水と回復ドロップをロック。1ターンの間、1コンボ加算される
+EN: Change the far right column to Heal orbs; Lock all Water and Heal orbs; For 1 turn, increase combo count by 1
+KR: Change the far right column to Heal orbs; Lock all Water and Heal orbs; For 1 turn, increase combo count by 1
+
+# 17923/138 - 銀嶺の氷槌
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
+Stats: [1, 24.0, 1.0, 0.6, +1]
+Game: 3色以上同時攻撃で1コンボ加算、固定100万ダメージ。 回復の5個十字消しでダメージを60％軽減、攻撃力が24倍。
+JP: 3色以上同時攻撃で1コンボ加算。3色以上同時攻撃、固定1000000ダメージ。回復の5個十字消しで攻撃力が24倍、受けるダメージを60％減少。
+EN: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+

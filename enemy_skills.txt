@@ -93442,50 +93442,50 @@ JP: ドロップ操作開始位置をランダムで固定される
 EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
 
-# 18681/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18681/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18682/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18682/130 - 深海からの裁き
+JP: 10ターンの間、攻撃力が50%減少
+EN: ATK -50% for 10 turns
+KR: ATK -50% for 10 turns
 
-# 18683/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18683/39 - 海淵への導き
+JP: 10ターンの間、操作時間50%
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
 
-# 18684/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18684/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
 
-# 18685/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18685/17 - 海王神の怒り
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 18686/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18686/92 - 冥海の荒波
+JP: 水と毒ドロップを10個生成
+EN: Spawn 10 random Water and Poison orbs
+KR: Spawn 10 random Water and Poison orbs
 
-# 18687/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18687/92 - アビステンタクル
+JP: 毒ドロップを4個生成
+EN: Spawn 4 random Poison orbs
+KR: Spawn 4 random Poison orbs
 
-# 18688/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18688/94 - デルタロック
+JP: ランダムで9個ドロップをロック
+EN: Lock 9 random orbs
+KR: Lock 9 random orbs
 
-# 18689/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18689/15 - トライバースト
+JP: 105%ダメージ (3連続攻撃、35%ごと)
+EN: Deal 105% damage (3 hits, 35% each)
+KR: Deal 105% damage (3 hits, 35% each)
 
 # 18690/0 - なし
 JP: nothing
@@ -93836,4 +93836,1124 @@ KR: Survive attacks with 1 HP when HP > 50%
 JP: 195%ダメージ (3連続攻撃、65%ごと)
 EN: Deal 195% damage (3 hits, 65% each)
 KR: Deal 195% damage (3 hits, 65% each)
+
+# 18760/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18761/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18762/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18763/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18764/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18765/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18766/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18767/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18768/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18769/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18770/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18771/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18772/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18773/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18774/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18775/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18776/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18777/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18778/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18779/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18780/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18781/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18782/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18783/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18784/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18785/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18786/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18787/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18788/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18789/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18790/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18791/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18792/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18793/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18794/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18795/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18796/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18797/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18798/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18799/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18800/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18801/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18802/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18803/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18804/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18805/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18806/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18807/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18808/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18809/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18810/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18811/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18812/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18813/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18814/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18815/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18816/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18817/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18818/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18819/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18820/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18821/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18822/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18823/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18824/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18825/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18826/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18827/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18828/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18829/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18830/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18831/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18832/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18833/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18834/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18835/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18836/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18837/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18838/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18839/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18840/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18841/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18842/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18843/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18844/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18845/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18846/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18847/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18848/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18849/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18850/67 - 愉悦の蔑み
+JP: 3ターンの間、4コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 4 for 3 turns
+KR: Absorb damage when combos <= 4 for 3 turns
+
+# 18851/77 - リリーフペイン
+JP: 上から5列目のドロップが光ドロップに変化
+EN: Change the 5th column to Light orbs
+KR: Change the 5th column to Light orbs
+
+# 18852/15 - ディライトクロー
+JP: 120%ダメージ (2連続攻撃、60%ごと)
+EN: Deal 120% damage (2 hits, 60% each)
+KR: Deal 120% damage (2 hits, 60% each)
+
+# 18853/39 - 食汚
+JP: 3ターンの間、操作時間-1秒
+EN: Movetime -1s for 3 turns
+KR: Movetime -1s for 3 turns
+
+# 18854/48 - レフトオーバーブレス
+JP: ランダム属性のドロップを闇ドロップに変化
+EN: Change a random attribute to Dark orbs
+KR: Change a random attribute to Dark orbs
+
+# 18855/15 - ワイルドバイト
+JP: 120%ダメージ
+EN: Deal 120% damage
+KR: Deal 120% damage
+
+# 18856/109 - デリュージョンシンドローム
+JP: 3ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
+EN: Random 2 orbs change every 1.0s for 3 turns
+KR: Random 2 orbs change every 1.0s for 3 turns
+
+# 18857/108 - ファシネイションフレア
+JP: 回復ドロップを火ドロップに変化
+EN: Change all Heal orbs to Fire orbs
+KR: Change all Heal orbs to Fire orbs
+
+# 18858/15 - アーデントラッシュ
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
+
+# 18859/88 - 欲深き魂胆
+JP: 3ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 3 turns
+KR: Bind awoken skills for 3 turns
+
+# 18860/92 - ディスセミネイトライト
+JP: 光ドロップを5個生成
+EN: Spawn 5 random Light orbs
+KR: Spawn 5 random Light orbs
+
+# 18861/15 - トレジャーブロー
+JP: 120%ダメージ (4連続攻撃、30%ごと)
+EN: Deal 120% damage (4 hits, 30% each)
+KR: Deal 120% damage (4 hits, 30% each)
+
+# 18862/89 - クレイジーレイジー
+JP: スキルターンを2〜3ターン遅延
+EN: Delay active skills by 2~3 turns
+KR: Delay active skills by 2~3 turns
+
+# 18863/15 - スロウスリベレーション
+JP: 500%ダメージ
+EN: Deal 500% damage
+KR: Deal 500% damage
+
+# 18864/50 - 嫉視の咆哮
+JP: 現HPの75%のダメージ
+EN: Player -75% HP
+KR: Player -75% HP
+
+# 18865/79 - スクリームジェラス
+JP: 左から3列目のドロップが水ドロップに変化
+EN: Change the 3rd row to Water orbs
+KR: Change the 3rd row to Water orbs
+
+# 18866/15 - 八つ当たり
+JP: 120%ダメージ (3連続攻撃、40%ごと)
+EN: Deal 120% damage (3 hits, 40% each)
+KR: Deal 120% damage (3 hits, 40% each)
+
+# 18867/67 - 愉悦の蔑み
+JP: 5ターンの間、5コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 5 for 5 turns
+KR: Absorb damage when combos <= 5 for 5 turns
+
+# 18868/83 - ＿50%以下
+JP: 
+EN: 
+KR: 
+
+# 18869/100 - 必死の抵抗
+JP: 5ターンの間、左から1列目のドロップが操作不可
+EN: Seal the 1st row for 5 turns
+KR: Seal the 1st row for 5 turns
+
+# 18870/130 - 大胆不敵の活劇
+JP: 5ターンの間、攻撃力が50%減少
+EN: ATK -50% for 5 turns
+KR: ATK -50% for 5 turns
+
+# 18871/15 - プライドリベレーション
+JP: 200%ダメージ (4連続攻撃、50%ごと)
+EN: Deal 200% damage (4 hits, 50% each)
+KR: Deal 200% damage (4 hits, 50% each)
+
+# 18872/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 18873/39 - 食汚
+JP: 5ターンの間、操作時間-2秒
+EN: Movetime -2s for 5 turns
+KR: Movetime -2s for 5 turns
+
+# 18874/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
+
+# 18875/50 - インヘイルミール
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 18876/94 - バープブラスト
+JP: 全ドロップをロック
+EN: Lock all orbs
+KR: Lock all orbs
+
+# 18877/83 - ＿1％以下
+JP: 
+EN: 
+KR: 
+
+# 18878/86 - 貪食
+JP: 敵のHPが10％回復
+EN: Enemy recover 10% HP
+KR: Enemy recover 10% HP
+
+# 18879/92 - 尾籠
+JP: お邪魔ドロップを15個生成
+EN: Spawn 15 random Jammer orbs
+KR: Spawn 15 random Jammer orbs
+
+# 18880/85 - グラトニーリベレーション
+JP: 全ドロップをお邪魔に変化
+EN: Change all orbs to Jammer
+KR: Change all orbs to Jammer
+
+# 18881/110 - デリュージョンシンドローム
+JP: 5.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 5 turns
+KR: Specific orbs change every 1.0s for 5 turns
+
+# 18882/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
+
+# 18883/96 - 魅惑の雨
+JP: 10ターンの間、ロックされたランダム属性のドロップを+25%に落ちてくる
+EN: Locked random skyfall +25% for 10 turns
+KR: Locked random skyfall +25% for 10 turns
+
+# 18884/127 - 晴天の咆哮
+JP: 10ターンの間、落ちコンしなくなる
+EN: No skyfall for 10 turns
+KR: No skyfall for 10 turns
+
+# 18885/92 - ラストリベレーション
+JP: 火と木ドロップを15個生成
+EN: Spawn 15 random Fire and Wood orbs
+KR: Spawn 15 random Fire and Wood orbs
+
+# 18886/88 - 欲深き魂胆
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
+
+# 18887/92 - デンジャートラップ
+JP: 毒ドロップを10個生成
+EN: Spawn 10 random Poison orbs
+KR: Spawn 10 random Poison orbs
+
+# 18888/97 - トレジャートラップ
+JP: 3ターンの間、ランダムで15個のドロップを超暗闇にする
+EN: Blind random 15 orbs for 3 turns
+KR: Blind random 15 orbs for 3 turns
+
+# 18889/92 - デンジャートラップ
+JP: 猛毒ドロップを10個生成
+EN: Spawn 10 random Mortal Poison orbs
+KR: Spawn 10 random Mortal Poison orbs
+
+# 18890/104 - トレジャートラップ
+JP: 1ターンの間、上から1列目の横1列を雲で隠す
+EN: A row of clouds appears for 1 turn at 1st row, 1st column
+KR: A row of clouds appears for 1 turn at 1st row, 1st column
+
+# 18891/15 - グリードリベレーション
+JP: 280%ダメージ (4連続攻撃、70%ごと)
+EN: Deal 280% damage (4 hits, 70% each)
+KR: Deal 280% damage (4 hits, 70% each)
+
+# 18892/106 - 敵の行動ターンが変化した
+JP: 50%HP以下で行動ターンが2に変わる
+EN: Enemy turn counter change to 2 when HP <= 50%
+KR: Enemy turn counter change to 2 when HP <= 50%
+
+# 18893/89 - クレイジーレイジー
+JP: スキルターンを3〜5ターン遅延
+EN: Delay active skills by 3~5 turns
+KR: Delay active skills by 3~5 turns
+
+# 18894/74 - 偸安
+JP: 999ターンの間、受けるダメージからの攻撃を75%減少
+EN: Reduce damage from all sources by 75% for 999 turns
+KR: Reduce damage from all sources by 75% for 999 turns
+
+# 18895/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
+
+# 18896/50 - 嫉視の咆哮
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 18897/83 - ＿50％以下
+JP: 
+EN: 
+KR: 
+
+# 18898/53 - 嫉妬深き怒り
+JP: 5ターンの間、水と光属性のダメージを吸収
+EN: Absorb Water and Light damage for 5 turns
+KR: Absorb Water and Light damage for 5 turns
+
+# 18899/83 - ＿1％以下
+JP: 
+EN: 
+KR: 
+
+# 18900/105 - 妬みの報復
+JP: 5ターンの間、回復力を50%になる
+EN: RCV 50% for 5 turns
+KR: RCV 50% for 5 turns
+
+# 18901/15 - エンヴィーリベレーション
+JP: 300%ダメージ (3連続攻撃、100%ごと)
+EN: Deal 300% damage (3 hits, 100% each)
+KR: Deal 300% damage (3 hits, 100% each)
+
+# 18902/128 - 悲憤の黒煙
+JP: 5ターンの間、15%の確率を超暗闇ドロップ2ターンが発生
+EN: For 5 turns, 15% chance for skyfall orbs to be blinded for 2 turns
+KR: For 5 turns, 15% chance for skyfall orbs to be blinded for 2 turns
+
+# 18903/15 - ジェノサイドルースレス
+JP: 100%ダメージ (5連続攻撃、20%ごと)
+EN: Deal 100% damage (5 hits, 20% each)
+KR: Deal 100% damage (5 hits, 20% each)
+
+# 18904/75 - フィアーオブデス
+JP: 1ターンの間、リーダーを交代
+EN: Leader changes to random sub for 1 turn
+KR: Leader changes to random sub for 1 turn
+
+# 18905/85 - ラースリベレーション
+JP: 全ドロップを闇に変化
+EN: Change all orbs to Dark
+KR: Change all orbs to Dark
+
+# 18906/69 - 変身
+JP: 「炎が燃え上がった|黒煙より姿を現した！」を表示
+EN: Show message: 炎が燃え上がった|黒煙より姿を現した！
+KR: Show message: 炎が燃え上がった|黒煙より姿を現した！
+
+# 18907/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18908/71 - 憤然の焔
+JP: 6ターンの間、1000000以上のダメージを無効化
+EN: Void damage >= 1000000 for 6 turns
+KR: Void damage >= 1000000 for 6 turns
+
+# 18909/17 - 逆上インフェルノ
+JP: 1ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 1 turn
+KR: Increase damage to 200% for the next 1 turn
+
+# 18910/17 - 逆上インフェルノ
+JP: 1ターンの間、攻撃力が250%に上昇
+EN: Increase damage to 250% for the next 1 turn
+KR: Increase damage to 250% for the next 1 turn
+
+# 18911/17 - 逆上インフェルノ
+JP: 1ターンの間、攻撃力が300%に上昇
+EN: Increase damage to 300% for the next 1 turn
+KR: Increase damage to 300% for the next 1 turn
+
+# 18912/17 - 逆上インフェルノ
+JP: 999ターンの間、攻撃力が500%に上昇
+EN: Increase damage to 500% for the next 999 turns
+KR: Increase damage to 500% for the next 999 turns
+
+# 18913/66 - …覚エテロ
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18914/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18915/66 - 喰イ…足リナイ…
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18916/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18917/66 - マダ…終ワラナイ
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18918/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18919/66 - 財宝ハ誰ニモ渡サン
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18920/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18921/66 - 少シ疲レタワイ
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18922/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18923/66 - 許サン…許サンゾ…
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
+
+# 18924/95 - 死に際
+JP: 
+EN: 
+KR: 
+
+# 18925/67 - 愉悦の蔑み
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 18926/83 - ＿暴食先制
+JP: 
+EN: 
+KR: 
+
+# 18927/39 - 食汚
+JP: 5ターンの間、操作時間50%
+EN: Movetime 50% for 5 turns
+KR: Movetime 50% for 5 turns
+
+# 18928/83 - ＿色欲先制
+JP: 
+EN: 
+KR: 
+
+# 18929/110 - 幻惑シンドローム
+JP: 5.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 5 turns
+KR: Specific orbs change every 1.0s for 5 turns
+
+# 18930/103 - 爆裂クライシス
+JP: 特定の位置に爆弾ドロップを生成
+EN: Spawn Bomb orbs in the specified positions
+KR: Spawn Bomb orbs in the specified positions
+
+# 18931/83 - ＿強欲先制
+JP: 
+EN: 
+KR: 
+
+# 18932/88 - 欲深き魂胆
+JP: 5ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 5 turns
+KR: Bind awoken skills for 5 turns
+
+# 18933/108 - 滅癒の光
+JP: 回復ドロップを光ドロップに変化
+EN: Change all Heal orbs to Light orbs
+KR: Change all Heal orbs to Light orbs
+
+# 18934/83 - ＿怠惰先制
+JP: 
+EN: 
+KR: 
+
+# 18935/20 - 凝然
+JP: 4ターンの間、状態異常無効化
+EN: Voids status ailments for 4 turns
+KR: Voids status ailments for 4 turns
+
+# 18936/89 - クレイジーレイジー
+JP: スキルターンを3〜5ターン遅延
+EN: Delay active skills by 3~5 turns
+KR: Delay active skills by 3~5 turns
+
+# 18937/83 - ＿嫉妬先制
+JP: 
+EN: 
+KR: 
+
+# 18938/50 - 嫉視の咆哮
+JP: 現HPの99%のダメージ
+EN: Player -99% HP
+KR: Player -99% HP
+
+# 18939/83 - ＿憤怒先制
+JP: 
+EN: 
+KR: 
+
+# 18940/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18941/71 - 憤然の焔
+JP: 999ターンの間、10000000以上のダメージを無効化
+EN: Void damage >= 10000000 for 999 turns
+KR: Void damage >= 10000000 for 999 turns
+
+# 18942/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18943/53 - 罪ノ色
+JP: 7ターンの間、水と闇属性のダメージを吸収
+EN: Absorb Water and Dark damage for 7 turns
+KR: Absorb Water and Dark damage for 7 turns
+
+# 18944/71 - Sin ラースリベレーション
+JP: 7ターンの間、50000000以上のダメージを無効化
+EN: Void damage >= 50000000 for 7 turns
+KR: Void damage >= 50000000 for 7 turns
+
+# 18945/67 - Sin プライドリベレーション
+JP: 1ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 1 turn
+KR: Absorb damage when combos <= 7 for 1 turn
+
+# 18946/39 - Sin グラトニーリベレーション
+JP: 1ターンの間、操作時間25%
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
+
+# 18947/110 - Sin ラストリベレーション
+JP: 1.0ターンの間、特定の位置のマスが0.5秒毎に変化する
+EN: Specific orbs change every 0.5s for 1 turn
+KR: Specific orbs change every 0.5s for 1 turn
+
+# 18948/88 - Sin グリードリベレーション
+JP: 1ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 1 turn
+KR: Bind awoken skills for 1 turn
+
+# 18949/89 - Sin スロウスリベレーション
+JP: スキルターンを3〜5ターン遅延
+EN: Delay active skills by 3~5 turns
+KR: Delay active skills by 3~5 turns
+
+# 18950/50 - Sin エンヴィーリベレーション
+JP: 現HPの150%のダメージ
+EN: Player -150% HP
+KR: Player -150% HP
+
+# 18951/15 - セブンクライシス
+JP: 4900%ダメージ (7連続攻撃、700%ごと)
+EN: Deal 4900% damage (7 hits, 700% each)
+KR: Deal 4900% damage (7 hits, 700% each)
+
+# 18952/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18953/53 - 罪ノ色
+JP: 7ターンの間、木と光属性のダメージを吸収
+EN: Absorb Wood and Light damage for 7 turns
+KR: Absorb Wood and Light damage for 7 turns
+
+# 18954/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
+
+# 18955/74 - インカーネーション
+JP: 7ターンの間、受けるダメージからの攻撃を77%減少
+EN: Reduce damage from all sources by 77% for 7 turns
+KR: Reduce damage from all sources by 77% for 7 turns
+
+# 18956/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18957/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18958/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18959/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18960/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18961/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18962/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18963/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18964/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18965/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18966/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18967/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18968/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18969/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18970/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18971/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18972/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18973/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18974/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18975/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18976/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18977/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18978/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18979/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18980/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18981/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18982/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
+
+# 18983/0 - なし
+JP: nothing
+EN: nothing
+KR: nothing
 

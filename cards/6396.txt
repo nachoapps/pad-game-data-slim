@@ -1,0 +1,20 @@
+#6396 氷の鍵の継承者・メニット
+HP: 3065 ATK: 3003 RCV: 602 LB: 0
+AWK: 21,21,21,60,53,53,28
+SAWK: 
+
+# 17913/116 - 装具解錠・シラード
+Tags: VOID_DAMAGE_ABSORBS,PIERCE_DAMAGE_VOID
+Game: 3ターンの間、ダメージ吸収を無効化、ダメージ無効を貫通。 蒼氷鍵の勇者・メニットに変身。
+JP: 3ターンの間、ダメージ吸収を無効化する。3ターンの間、ダメージ無効を貫通する。[6397]に変身する
+EN: For 3 turns, bypass damage absorb shield effects; For 3 turns, bypass void damage shield effects; Changes to [6397] for the duration of the dungeon
+KR: For 3 turns, bypass damage absorb shield effects; For 3 turns, bypass void damage shield effects; Changes to [6397] for the duration of the dungeon
+
+# 17919/138 - 蒼氷鍵の追想
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
+Stats: [1, 15.0, 1.0, 0.6, +1]
+Game: 3色以上同時攻撃で1コンボ加算、固定100万ダメージ。 回復の5個十字消しでダメージを60％軽減、攻撃力が15倍。
+JP: 3色以上同時攻撃で1コンボ加算。3色以上同時攻撃、固定1000000ダメージ。回復の5個十字消しで攻撃力が15倍、受けるダメージを60％減少。
+EN: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+

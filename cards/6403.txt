@@ -1,0 +1,20 @@
+#6403 暗月鍵の勇者・ユークス
+HP: 8555 ATK: 2965 RCV: 452 LB: 0
+AWK: 58,58,58,58,48,48,46,28,52
+SAWK: 
+
+# 17958/116 - ミラージュクロウ
+Tags: REDUCE_DAMAGE
+Game: ランダムで闇ドロップを6個生成。 1ターンの間、受けるダメージを軽減。
+JP: 闇ドロップを6個生成。1ターンの間、受けるダメージを35％減少
+EN: Create 6 Dark orbs; For 1 turn, reduce damage taken by 35%
+KR: Create 6 Dark orbs; For 1 turn, reduce damage taken by 35%
+
+# 17967/138 - 夜風の鉤爪
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 25.0, 1.0, 0.35]
+Game: 闇属性のHPが2倍。HP50％以下でダメージを軽減、攻撃力が5倍。 闇の2コンボ以上で攻撃力が5倍、固定100万ダメージ。
+JP: 闇属性のHPが2倍。HPが50%以下で攻撃力が5倍、受けるダメージを35％減少。闇の2コンボ以上で攻撃力が5倍。闇の2コンボ以上で固定1000000ダメージ。
+EN: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 5x ATK when matching 2+ Dark combos; 1000000 additional damage when matching 2 or more Dark combos
+KR: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 5x ATK when matching 2+ Dark combos; 1000000 additional damage when matching 2 or more Dark combos
+

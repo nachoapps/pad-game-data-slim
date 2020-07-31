@@ -1,0 +1,20 @@
+#6401 煌星鍵の勇者・フェルル
+HP: 8095 ATK: 3598 RCV: 236 LB: 0
+AWK: 43,43,48,48,50,50,53,28,52
+SAWK: 
+
+# 17942/116 - トゥインクルスタンス
+Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER,ORB_LOCK
+Game: 1ターンの間、光属性の攻撃力が3倍。 最下段横1列を光ドロップに変化。光ドロップをロック。
+JP: 1ターンの間、光属性の攻撃力が3倍。最下段を光ドロップに変化。全光ドロップをロック
+EN: For 1 turn, 3x ATK for Light Att.; Change the bottom row to Light orbs; Lock all Light orbs
+KR: For 1 turn, 3x ATK for Light Att.; Change the bottom row to Light orbs; Lock all Light orbs
+
+# 17950/138 - 輝空の双剣
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 20.0, 2.0, 0.0, +2]
+Game: 光属性の全パラメータが2倍。毒ダメージを無効化。 光を6個以上つなげて消すと攻撃力が10倍、2コンボ加算。
+JP: 【毒ダメージを無効化】光属性の全パラメータが2倍。光を6個以上つなげて消しと攻撃力が10倍、2コンボ加算。
+EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+

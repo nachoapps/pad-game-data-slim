@@ -1,0 +1,20 @@
+#6405 嫉妬の大罪龍・ジヴィ
+HP: 4220 ATK: 2933 RCV: 276 LB: 10
+AWK: 21,21,21,28,19,43,43,43,36
+SAWK: 
+
+# 17972/116 - インサニティエンヴィ
+Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
+Game: 2ターンの間、ダメージ無効を貫通。 全ドロップを水、光、闇、回復ドロップに変化。
+JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを水、光、闇、回復ドロップに変化
+EN: For 2 turns, bypass void damage shield effects; Change all orbs to Water, Light, Dark, and Heal orbs
+KR: For 2 turns, bypass void damage shield effects; Change all orbs to Water, Light, Dark, and Heal orbs
+
+# 17975/138 - 嫉妬の凶兆
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 12.0, 1.0, 0, +1]
+Game: 【操作時間9秒】ドラゴンタイプのHPが2倍、攻撃力は4倍。 4色（3色＋回復）以上同時攻撃で攻撃力が3倍、1コンボ加算。
+JP: 【操作時間9秒固定】ドラゴンタイプの攻撃力が4倍、HPが2倍。4色(3色+回復)以上同時攻撃で攻撃力が3倍、1コンボ加算。
+EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+

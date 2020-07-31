@@ -1,0 +1,20 @@
+#6414 憤怒の大罪龍・バルディターン
+HP: 4468 ATK: 3170 RCV: 62 LB: 10
+AWK: 52,21,21,28,48,48,43,43,60
+SAWK: 
+
+# 18005/116 - フェイタルラース
+Tags: ENHANCED_ATTACK,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: バインドと覚醒無効状態を全回復。 3ターンの間、火と闇属性の攻撃力が3倍。
+JP: バインドと覚醒無効を全回復。3ターンの間、火と闇属性の攻撃力が3倍
+EN: Remove all binds and awoken skill binds; For 3 turns, 3x ATK for Fire and Dark Att.
+KR: Remove all binds and awoken skill binds; For 3 turns, 3x ATK for Fire and Dark Att.
+
+# 18008/138 - 憤怒の凶兆
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 12.0, 1.0, 0.0]
+Game: 悪魔タイプのHPが2倍。HP80％以下で攻撃力が3倍。 ドロップを5個以上つなげて消すと攻撃力が4倍、固定1ダメージ。
+JP: 悪魔タイプのHPが2倍。HPが80%以下で攻撃力が3倍。ドロップを5個以上つなげて消しと固定1ダメージ。を5個以上つなげて消すと攻撃力が4倍。
+EN: 2x HP for Devil type; 3x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+KR: 2x HP for Devil type; 3x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+

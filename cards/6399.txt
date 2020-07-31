@@ -1,0 +1,20 @@
+#6399 恵風鍵の勇者・アムリ＆リネア
+HP: 4053 ATK: 3803 RCV: 1306 LB: 0
+AWK: 61,43,44,53,53,53,53,28,52
+SAWK: 
+
+# 17930/207 - スプリットウィンド
+Tags: 
+Game: 2ターンの間、ランダムでルーレットを2個生成。
+JP: 2ターンの間、ランダムで2箇所のマスがが1.0秒毎に変化する
+EN: Random 2 orbs change every 1.0s for 2 turns
+KR: Random 2 orbs change every 1.0s for 2 turns
+
+# 17935/138 - 樹石の剣盾
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 25.0, 1.5, 0.5, +3]
+Game: 攻撃と回復タイプのHPと回復力が1.5倍、攻撃力は5倍。 5色同時攻撃でダメージを半減、攻撃力が5倍、3コンボ加算。
+JP: 回復と攻撃タイプの攻撃力が5倍、HPと回復力が1.5倍。5色以上同時攻撃で攻撃力が5倍、受けるダメージを50％減少。5色以上同時攻撃で3コンボ加算。
+EN: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 5x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 3 when matching 5 or more colors
+KR: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 5x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 3 when matching 5 or more colors
+

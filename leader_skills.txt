@@ -31383,124 +31383,124 @@ EN: Perseverance pays off! Just wait till you get its evolved form!
 KR: 키우는 건 힘들지만 진화 시키면…
 
 # 7357/138 - Wildfire Sorcery
-Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 5x ATK for Fire Att.; Orb move time +2 seconds
-JP: 火属性の攻撃力が5倍。ドロップ操作時間を2秒延長。
-EN: 5x ATK for Fire Att.; Increase orb movement time by 2 seconds
-KR: 5x ATK for Fire Att.; Increase orb movement time by 2 seconds
+JP: 火属性の攻撃力が15倍、HPが2倍。ドロップ操作時間を5秒延長。
+EN: 15x ATK and 2x HP for Fire Att.; Increase orb movement time by 5 seconds
+KR: 15x ATK and 2x HP for Fire Att.; Increase orb movement time by 5 seconds
 
 # 7358/129 - 
-Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 
-JP: 火属性の攻撃力が5倍。
-EN: 5x ATK for Fire Att.
-KR: 5x ATK for Fire Att.
+JP: 火属性の攻撃力が15倍、HPが2倍。
+EN: 15x ATK and 2x HP for Fire Att.
+KR: 15x ATK and 2x HP for Fire Att.
 
 # 7359/15 - 
 Tags: EXTEND_TIME
 Stats: [1, 1, 1, 0]
 Game: 
-JP: ドロップ操作時間を2秒延長。
-EN: Increase orb movement time by 2 seconds
-KR: Increase orb movement time by 2 seconds
+JP: ドロップ操作時間を5秒延長。
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
 
 # 7361/138 - Glacial Sorcery
-Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 5x ATK for Water Att.;  Orb move time +2 seconds
-JP: 水属性の攻撃力が5倍。ドロップ操作時間を2秒延長。
-EN: 5x ATK for Water Att.; Increase orb movement time by 2 seconds
-KR: 5x ATK for Water Att.; Increase orb movement time by 2 seconds
+JP: 水属性の攻撃力が15倍、HPが2倍。ドロップ操作時間を5秒延長。
+EN: 15x ATK and 2x HP for Water Att.; Increase orb movement time by 5 seconds
+KR: 15x ATK and 2x HP for Water Att.; Increase orb movement time by 5 seconds
 
 # 7362/129 - 
-Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 
-JP: 水属性の攻撃力が5倍。
-EN: 5x ATK for Water Att.
-KR: 5x ATK for Water Att.
+JP: 水属性の攻撃力が15倍、HPが2倍。
+EN: 15x ATK and 2x HP for Water Att.
+KR: 15x ATK and 2x HP for Water Att.
 
 # 7363/15 - 
 Tags: EXTEND_TIME
 Stats: [1, 1, 1, 0]
 Game: 
-JP: ドロップ操作時間を2秒延長。
-EN: Increase orb movement time by 2 seconds
-KR: Increase orb movement time by 2 seconds
+JP: ドロップ操作時間を5秒延長。
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
 
 # 7365/138 - Sacred Mountain Sorcery
-Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 5x ATK for Wood Att.; Orb move time +2 seconds
-JP: 木属性の攻撃力が5倍。ドロップ操作時間を2秒延長。
-EN: 5x ATK for Wood Att.; Increase orb movement time by 2 seconds
-KR: 5x ATK for Wood Att.; Increase orb movement time by 2 seconds
+JP: 木属性の攻撃力が15倍、HPが2倍。ドロップ操作時間を5秒延長。
+EN: 15x ATK and 2x HP for Wood Att.; Increase orb movement time by 5 seconds
+KR: 15x ATK and 2x HP for Wood Att.; Increase orb movement time by 5 seconds
 
 # 7366/129 - 
-Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 
-JP: 木属性の攻撃力が5倍。
-EN: 5x ATK for Wood Att.
-KR: 5x ATK for Wood Att.
+JP: 木属性の攻撃力が15倍、HPが2倍。
+EN: 15x ATK and 2x HP for Wood Att.
+KR: 15x ATK and 2x HP for Wood Att.
 
 # 7367/15 - 
 Tags: EXTEND_TIME
 Stats: [1, 1, 1, 0]
 Game: 
-JP: ドロップ操作時間を2秒延長。
-EN: Increase orb movement time by 2 seconds
-KR: Increase orb movement time by 2 seconds
+JP: ドロップ操作時間を5秒延長。
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
 
 # 7369/138 - Sunlight Sorcery
-Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 5x ATK for Light Att.; Orb move time +2 seconds
-JP: 光属性の攻撃力が5倍。ドロップ操作時間を2秒延長。
-EN: 5x ATK for Light Att.; Increase orb movement time by 2 seconds
-KR: 5x ATK for Light Att.; Increase orb movement time by 2 seconds
+JP: 光属性の攻撃力が15倍、HPが2倍。ドロップ操作時間を5秒延長。
+EN: 15x ATK and 2x HP for Light Att.; Increase orb movement time by 5 seconds
+KR: 15x ATK and 2x HP for Light Att.; Increase orb movement time by 5 seconds
 
 # 7370/129 - 
-Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 
-JP: 光属性の攻撃力が5倍。
-EN: 5x ATK for Light Att.
-KR: 5x ATK for Light Att.
+JP: 光属性の攻撃力が15倍、HPが2倍。
+EN: 15x ATK and 2x HP for Light Att.
+KR: 15x ATK and 2x HP for Light Att.
 
 # 7371/15 - 
 Tags: EXTEND_TIME
 Stats: [1, 1, 1, 0]
 Game: 
-JP: ドロップ操作時間を2秒延長。
-EN: Increase orb movement time by 2 seconds
-KR: Increase orb movement time by 2 seconds
+JP: ドロップ操作時間を5秒延長。
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
 
 # 7373/138 - Moonlight Sorcery
-Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTEND_TIME
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 5x ATK for Dark Att.; Orb move time +2 seconds
-JP: 闇属性の攻撃力が5倍。ドロップ操作時間を2秒延長。
-EN: 5x ATK for Dark Att.; Increase orb movement time by 2 seconds
-KR: 5x ATK for Dark Att.; Increase orb movement time by 2 seconds
+JP: 闇属性の攻撃力が15倍、HPが2倍。ドロップ操作時間を5秒延長。
+EN: 15x ATK and 2x HP for Dark Att.; Increase orb movement time by 5 seconds
+KR: 15x ATK and 2x HP for Dark Att.; Increase orb movement time by 5 seconds
 
 # 7374/129 - 
-Tags: ENHANCED_ATK
-Stats: [1.0, 5.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 15.0, 1.0, 0.0]
 Game: 
-JP: 闇属性の攻撃力が5倍。
-EN: 5x ATK for Dark Att.
-KR: 5x ATK for Dark Att.
+JP: 闇属性の攻撃力が15倍、HPが2倍。
+EN: 15x ATK and 2x HP for Dark Att.
+KR: 15x ATK and 2x HP for Dark Att.
 
 # 7375/15 - 
 Tags: EXTEND_TIME
 Stats: [1, 1, 1, 0]
 Game: 
-JP: ドロップ操作時間を2秒延長。
-EN: Increase orb movement time by 2 seconds
-KR: Increase orb movement time by 2 seconds
+JP: ドロップ操作時間を5秒延長。
+EN: Increase orb movement time by 5 seconds
+KR: Increase orb movement time by 5 seconds
 
 # 7379/138 - Firelight Swordplay
 Tags: ENHANCED_HP_ATK
@@ -42048,11 +42048,11 @@ KR: 3x ATK and reduce damage taken by 25% when matching Fire and Water at once
 
 # 10137/138 - I'll leave some claw-marks!
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
-Stats: [2.0, 8.0, 2.0, 0]
+Stats: [2.0, 12.0, 2.0, 0]
 Game: 2x to all stats for Dragon Type; 4x ATK with 2+ Att., Orb move time +4 seconds
-JP: ドラゴンタイプの全パラメータが2倍。ドロップ操作時間を4秒延長。2色以上同時攻撃で攻撃力が4倍。
-EN: 2x all stats for Dragon type; Increase orb movement time by 4 seconds; 4x ATK when matching 2 or more colors
-KR: 2x all stats for Dragon type; Increase orb movement time by 4 seconds; 4x ATK when matching 2 or more colors
+JP: ドラゴンタイプの全パラメータが2倍。ドロップ操作時間を4秒延長。2色以上同時攻撃で攻撃力が6倍。
+EN: 2x all stats for Dragon type; Increase orb movement time by 4 seconds; 6x ATK when matching 2 or more colors
+KR: 2x all stats for Dragon type; Increase orb movement time by 4 seconds; 6x ATK when matching 2 or more colors
 
 # 10138/185 - 
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
@@ -42064,11 +42064,11 @@ KR: 2x all stats for Dragon type; Increase orb movement time by 4 seconds
 
 # 10139/61 - 
 Tags: ENHANCED_ATK
-Stats: [1, 4.0, 1, 0]
+Stats: [1, 6.0, 1, 0]
 Game: 
-JP: 2色以上同時攻撃で攻撃力が4倍。
-EN: 4x ATK when matching 2 or more colors
-KR: 4x ATK when matching 2 or more colors
+JP: 2色以上同時攻撃で攻撃力が6倍。
+EN: 6x ATK when matching 2 or more colors
+KR: 6x ATK when matching 2 or more colors
 
 # 10143/138 - Dark Sun Thunderclap
 Tags: ENHANCED_HP_ATK_RCV
@@ -75063,6 +75063,758 @@ JP: 入手コインｘ1.3倍。
 EN: 1.3x Coin Drop rate
 KR: 1.3x Coin Drop rate
 
+# 17905/138 - 灼魔鍵の追想
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 12.0, 1.0, 0.35]
+Game: 火属性のHPと攻撃力が2倍。HP50％以上でダメージを軽減。 5コンボ以上で攻撃力が上昇、最大6倍。
+JP: 火属性のHPと攻撃力が2倍。HPが50%以上で受けるダメージを35％減少。5コンボ以上で攻撃力が3倍、最大8コンボで6倍。
+EN: 2x HP & ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 3x ATK when 5 or more combos up to 6x at 8 combos
+KR: 2x HP & ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 3x ATK when 5 or more combos up to 6x at 8 combos
+
+# 17906/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Fire Att.
+KR: 2x HP & ATK for Fire Att.
+
+# 17907/183 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when above 50% HP
+KR: Reduce damage taken by 35% when above 50% HP
+
+# 17908/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 
+JP: 5コンボ以上で攻撃力が3倍、最大8コンボで6倍。
+EN: 3x ATK when 5 or more combos up to 6x at 8 combos
+KR: 3x ATK when 5 or more combos up to 6x at 8 combos
+
+# 17909/138 - 灼火の魔法書
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 22.0, 1.0, 0.35]
+Game: 火属性のHPと攻撃力が2倍。HP50％以上でダメージを軽減。 5コンボ以上で攻撃力が上昇、最大11倍。
+JP: 火属性のHPと攻撃力が2倍。HPが50%以上で受けるダメージを35％減少。5コンボ以上で攻撃力が8倍、最大8コンボで11倍。
+EN: 2x HP & ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 8x ATK when 5 or more combos up to 11x at 8 combos
+KR: 2x HP & ATK for Fire Att.; Reduce damage taken by 35% when above 50% HP; 8x ATK when 5 or more combos up to 11x at 8 combos
+
+# 17910/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Fire Att.
+KR: 2x HP & ATK for Fire Att.
+
+# 17911/183 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で受けるダメージを35％減少。
+EN: Reduce damage taken by 35% when above 50% HP
+KR: Reduce damage taken by 35% when above 50% HP
+
+# 17912/98 - 
+Tags: ENHANCED_ATK
+Stats: [1, 11.0, 1, 0]
+Game: 
+JP: 5コンボ以上で攻撃力が8倍、最大8コンボで11倍。
+EN: 8x ATK when 5 or more combos up to 11x at 8 combos
+KR: 8x ATK when 5 or more combos up to 11x at 8 combos
+
+# 17919/138 - 蒼氷鍵の追想
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
+Stats: [1, 15.0, 1.0, 0.6, +1]
+Game: 3色以上同時攻撃で1コンボ加算、固定100万ダメージ。 回復の5個十字消しでダメージを60％軽減、攻撃力が15倍。
+JP: 3色以上同時攻撃で1コンボ加算。3色以上同時攻撃、固定1000000ダメージ。回復の5個十字消しで攻撃力が15倍、受けるダメージを60％減少。
+EN: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+
+# 17920/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 3色以上同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching 3 or more colors
+KR: increase combo by 1 when matching 3 or more colors
+
+# 17921/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 3色以上同時攻撃、固定1000000ダメージ。
+EN: 1000000 additional damage when matching 3 or more colors
+KR: 1000000 additional damage when matching 3 or more colors
+
+# 17922/151 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 15.0, 1.0, 0.6]
+Game: 
+JP: 回復の5個十字消しで攻撃力が15倍、受けるダメージを60％減少。
+EN: 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: 15x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+
+# 17923/138 - 銀嶺の氷槌
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
+Stats: [1, 24.0, 1.0, 0.6, +1]
+Game: 3色以上同時攻撃で1コンボ加算、固定100万ダメージ。 回復の5個十字消しでダメージを60％軽減、攻撃力が24倍。
+JP: 3色以上同時攻撃で1コンボ加算。3色以上同時攻撃、固定1000000ダメージ。回復の5個十字消しで攻撃力が24倍、受けるダメージを60％減少。
+EN: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: increase combo by 1 when matching 3 or more colors; 1000000 additional damage when matching 3 or more colors; 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+
+# 17924/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 3色以上同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching 3 or more colors
+KR: increase combo by 1 when matching 3 or more colors
+
+# 17925/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 3色以上同時攻撃、固定1000000ダメージ。
+EN: 1000000 additional damage when matching 3 or more colors
+KR: 1000000 additional damage when matching 3 or more colors
+
+# 17926/151 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 24.0, 1.0, 0.6]
+Game: 
+JP: 回復の5個十字消しで攻撃力が24倍、受けるダメージを60％減少。
+EN: 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+KR: 24x ATK and reduce damage taken by 60% when matching 5 Heal orbs in a cross formation
+
+# 17931/138 - 恵風鍵の追想
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 15.0, 1.5, 0.5, +2]
+Game: 攻撃と回復タイプのHPと回復力が1.5倍、攻撃力は5倍。 5色同時攻撃でダメージを半減、攻撃力が3倍、2コンボ加算。
+JP: 回復と攻撃タイプの攻撃力が5倍、HPと回復力が1.5倍。5色以上同時攻撃で攻撃力が3倍、受けるダメージを50％減少。5色以上同時攻撃で2コンボ加算。
+EN: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 3x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 2 when matching 5 or more colors
+KR: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 3x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 2 when matching 5 or more colors
+
+# 17932/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 5.0, 1.5, 0.0]
+Game: 
+JP: 回復と攻撃タイプの攻撃力が5倍、HPと回復力が1.5倍。
+EN: 5x ATK and 1.5x HP & RCV for Healer and Attacker type
+KR: 5x ATK and 1.5x HP & RCV for Healer and Attacker type
+
+# 17933/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1, 0.5]
+Game: 
+JP: 5色以上同時攻撃で攻撃力が3倍、受けるダメージを50％減少。
+EN: 3x ATK and reduce damage taken by 50% when matching 5 or more colors
+KR: 3x ATK and reduce damage taken by 50% when matching 5 or more colors
+
+# 17934/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +2]
+Game: 
+JP: 5色以上同時攻撃で2コンボ加算。
+EN: increase combo by 2 when matching 5 or more colors
+KR: increase combo by 2 when matching 5 or more colors
+
+# 17935/138 - 樹石の剣盾
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1.5, 25.0, 1.5, 0.5, +3]
+Game: 攻撃と回復タイプのHPと回復力が1.5倍、攻撃力は5倍。 5色同時攻撃でダメージを半減、攻撃力が5倍、3コンボ加算。
+JP: 回復と攻撃タイプの攻撃力が5倍、HPと回復力が1.5倍。5色以上同時攻撃で攻撃力が5倍、受けるダメージを50％減少。5色以上同時攻撃で3コンボ加算。
+EN: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 5x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 3 when matching 5 or more colors
+KR: 5x ATK and 1.5x HP & RCV for Healer and Attacker type; 5x ATK and reduce damage taken by 50% when matching 5 or more colors; increase combo by 3 when matching 5 or more colors
+
+# 17936/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 5.0, 1.5, 0.0]
+Game: 
+JP: 回復と攻撃タイプの攻撃力が5倍、HPと回復力が1.5倍。
+EN: 5x ATK and 1.5x HP & RCV for Healer and Attacker type
+KR: 5x ATK and 1.5x HP & RCV for Healer and Attacker type
+
+# 17937/170 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.5]
+Game: 
+JP: 5色以上同時攻撃で攻撃力が5倍、受けるダメージを50％減少。
+EN: 5x ATK and reduce damage taken by 50% when matching 5 or more colors
+KR: 5x ATK and reduce damage taken by 50% when matching 5 or more colors
+
+# 17938/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +3]
+Game: 
+JP: 5色以上同時攻撃で3コンボ加算。
+EN: increase combo by 3 when matching 5 or more colors
+KR: increase combo by 3 when matching 5 or more colors
+
+# 17945/138 - 煌星鍵の追想
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 12.0, 2.0, 0.0, +1]
+Game: 光属性の全パラメータが2倍。毒ダメージを無効化。 光を6個以上つなげて消すと攻撃力が6倍、1コンボ加算。
+JP: 【毒ダメージを無効化】光属性の全パラメータが2倍。光を6個以上つなげて消しと攻撃力が6倍、1コンボ加算。
+EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 6x ATK and increase combo by 1 when matching 6 or more connected Light orbs at once
+KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 6x ATK and increase combo by 1 when matching 6 or more connected Light orbs at once
+
+# 17946/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0.0]
+Game: 
+JP: 光属性の全パラメータが2倍。
+EN: 2x all stats for Light Att.
+KR: 2x all stats for Light Att.
+
+# 17947/197 - 
+Tags: 
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 【毒ダメージを無効化】
+EN: [Disable Poison & Mortal Poison orb effects]
+KR: [Disable Poison & Mortal Poison orb effects]
+
+# 17948/192 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 6.0, 1, 0, +1]
+Game: 
+JP: 光を6個以上つなげて消しと攻撃力が6倍、1コンボ加算。
+EN: 6x ATK and increase combo by 1 when matching 6 or more connected Light orbs at once
+KR: 6x ATK and increase combo by 1 when matching 6 or more connected Light orbs at once
+
+# 17950/138 - 輝空の双剣
+Tags: ENHANCED_HP_ATK_RCV,EXTRA_COMBOS
+Stats: [2.0, 20.0, 2.0, 0.0, +2]
+Game: 光属性の全パラメータが2倍。毒ダメージを無効化。 光を6個以上つなげて消すと攻撃力が10倍、2コンボ加算。
+JP: 【毒ダメージを無効化】光属性の全パラメータが2倍。光を6個以上つなげて消しと攻撃力が10倍、2コンボ加算。
+EN: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+KR: [Disable Poison & Mortal Poison orb effects] 2x all stats for Light Att.; 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+
+# 17951/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0.0]
+Game: 
+JP: 光属性の全パラメータが2倍。
+EN: 2x all stats for Light Att.
+KR: 2x all stats for Light Att.
+
+# 17952/197 - 
+Tags: 
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 【毒ダメージを無効化】
+EN: [Disable Poison & Mortal Poison orb effects]
+KR: [Disable Poison & Mortal Poison orb effects]
+
+# 17953/192 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 10.0, 1, 0, +2]
+Game: 
+JP: 光を6個以上つなげて消しと攻撃力が10倍、2コンボ加算。
+EN: 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+KR: 10x ATK and increase combo by 2 when matching 6 or more connected Light orbs at once
+
+# 17962/138 - 暗月鍵の追想
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 15.0, 1.0, 0.35]
+Game: 闇属性のHPが2倍。HP50％以下でダメージを軽減、攻撃力が5倍。 闇の2コンボ以上で攻撃力が3倍、固定1ダメージ。
+JP: 闇属性のHPが2倍。HPが50%以下で攻撃力が5倍、受けるダメージを35％減少。闇の2コンボ以上で攻撃力が3倍。闇の2コンボ以上で固定1ダメージ。
+EN: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 3x ATK when matching 2+ Dark combos; 1 additional damage when matching 2 or more Dark combos
+KR: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 3x ATK when matching 2+ Dark combos; 1 additional damage when matching 2 or more Dark combos
+
+# 17963/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 闇属性のHPが2倍。
+EN: 2x HP for Dark Att.
+KR: 2x HP for Dark Att.
+
+# 17964/130 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以下で攻撃力が5倍、受けるダメージを35％減少。
+EN: 5x ATK and reduce damage taken by 35% when below 50% HP
+KR: 5x ATK and reduce damage taken by 35% when below 50% HP
+
+# 17965/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が3倍。
+EN: 3x ATK when matching 2+ Dark combos
+KR: 3x ATK when matching 2+ Dark combos
+
+# 17966/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で固定1ダメージ。
+EN: 1 additional damage when matching 2 or more Dark combos
+KR: 1 additional damage when matching 2 or more Dark combos
+
+# 17967/138 - 夜風の鉤爪
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 25.0, 1.0, 0.35]
+Game: 闇属性のHPが2倍。HP50％以下でダメージを軽減、攻撃力が5倍。 闇の2コンボ以上で攻撃力が5倍、固定100万ダメージ。
+JP: 闇属性のHPが2倍。HPが50%以下で攻撃力が5倍、受けるダメージを35％減少。闇の2コンボ以上で攻撃力が5倍。闇の2コンボ以上で固定1000000ダメージ。
+EN: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 5x ATK when matching 2+ Dark combos; 1000000 additional damage when matching 2 or more Dark combos
+KR: 2x HP for Dark Att.; 5x ATK and reduce damage taken by 35% when below 50% HP; 5x ATK when matching 2+ Dark combos; 1000000 additional damage when matching 2 or more Dark combos
+
+# 17968/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 闇属性のHPが2倍。
+EN: 2x HP for Dark Att.
+KR: 2x HP for Dark Att.
+
+# 17969/130 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以下で攻撃力が5倍、受けるダメージを35％減少。
+EN: 5x ATK and reduce damage taken by 35% when below 50% HP
+KR: 5x ATK and reduce damage taken by 35% when below 50% HP
+
+# 17970/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 5.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が5倍。
+EN: 5x ATK when matching 2+ Dark combos
+KR: 5x ATK when matching 2+ Dark combos
+
+# 17971/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で固定1000000ダメージ。
+EN: 1000000 additional damage when matching 2 or more Dark combos
+KR: 1000000 additional damage when matching 2 or more Dark combos
+
+# 17975/138 - 嫉妬の凶兆
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 12.0, 1.0, 0, +1]
+Game: 【操作時間9秒】ドラゴンタイプのHPが2倍、攻撃力は4倍。 4色（3色＋回復）以上同時攻撃で攻撃力が3倍、1コンボ加算。
+JP: 【操作時間9秒固定】ドラゴンタイプの攻撃力が4倍、HPが2倍。4色(3色+回復)以上同時攻撃で攻撃力が3倍、1コンボ加算。
+EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+
+# 17976/178 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 4.0, 1.0, 0]
+Game: 
+JP: 【操作時間9秒固定】ドラゴンタイプの攻撃力が4倍、HPが2倍。
+EN: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type
+KR: [Fixed 9 second movetime] 4x ATK and 2x HP for Dragon type
+
+# 17977/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 3.0, 1, 0, +1]
+Game: 
+JP: 4色(3色+回復)以上同時攻撃で攻撃力が3倍、1コンボ加算。
+EN: 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+KR: 3x ATK and increase combo by 1 when matching 4 or more colors (3+heal)
+
+# 17978/138 - 嫉妬の氾濫
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 15.0, 1.0, 0, +2]
+Game: 【操作時間9秒】ドラゴンタイプのHPが2倍、攻撃力は5倍。 4色（3色＋回復）以上同時攻撃で攻撃力が3倍、2コンボ加算。
+JP: 【操作時間9秒固定】ドラゴンタイプの攻撃力が5倍、HPが2倍。4色(3色+回復)以上同時攻撃で攻撃力が3倍、2コンボ加算。
+EN: [Fixed 9 second movetime] 5x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 2 when matching 4 or more colors (3+heal)
+KR: [Fixed 9 second movetime] 5x ATK and 2x HP for Dragon type; 3x ATK and increase combo by 2 when matching 4 or more colors (3+heal)
+
+# 17979/178 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 5.0, 1.0, 0]
+Game: 
+JP: 【操作時間9秒固定】ドラゴンタイプの攻撃力が5倍、HPが2倍。
+EN: [Fixed 9 second movetime] 5x ATK and 2x HP for Dragon type
+KR: [Fixed 9 second movetime] 5x ATK and 2x HP for Dragon type
+
+# 17980/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 3.0, 1, 0, +2]
+Game: 
+JP: 4色(3色+回復)以上同時攻撃で攻撃力が3倍、2コンボ加算。
+EN: 3x ATK and increase combo by 2 when matching 4 or more colors (3+heal)
+KR: 3x ATK and increase combo by 2 when matching 4 or more colors (3+heal)
+
+# 17986/138 - 怠惰の凶兆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 12.0, 1.0, 0.35]
+Game: HP50％以上でダメージを軽減、攻撃力が3倍。 4色以上同時攻撃で攻撃力が4倍、5色で固定1万ダメージ。
+JP: HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。4色以上同時攻撃で攻撃力が4倍。5色以上同時攻撃、固定10000ダメージ。
+EN: 3x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 10000 additional damage when matching 5 or more colors
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 10000 additional damage when matching 5 or more colors
+
+# 17987/183 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で攻撃力が3倍、受けるダメージを35％減少。
+EN: 3x ATK and reduce damage taken by 35% when above 50% HP
+KR: 3x ATK and reduce damage taken by 35% when above 50% HP
+
+# 17988/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が4倍。
+EN: 4x ATK when matching 4 or more colors
+KR: 4x ATK when matching 4 or more colors
+
+# 17989/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 5色以上同時攻撃、固定10000ダメージ。
+EN: 10000 additional damage when matching 5 or more colors
+KR: 10000 additional damage when matching 5 or more colors
+
+# 17990/138 - 怠惰の氾濫
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1.0, 0.35]
+Game: HP50％以上でダメージを軽減、攻撃力が4倍。 4色以上同時攻撃で攻撃力が4倍、5色で固定5万ダメージ。
+JP: HPが50%以上で攻撃力が4倍、受けるダメージを35％減少。4色以上同時攻撃で攻撃力が4倍。5色以上同時攻撃、固定50000ダメージ。
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+KR: 4x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+
+# 17991/183 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1.0, 0.35]
+Game: 
+JP: HPが50%以上で攻撃力が4倍、受けるダメージを35％減少。
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP
+KR: 4x ATK and reduce damage taken by 35% when above 50% HP
+
+# 17992/61 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 4色以上同時攻撃で攻撃力が4倍。
+EN: 4x ATK when matching 4 or more colors
+KR: 4x ATK when matching 4 or more colors
+
+# 17993/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 5色以上同時攻撃、固定50000ダメージ。
+EN: 50000 additional damage when matching 5 or more colors
+KR: 50000 additional damage when matching 5 or more colors
+
+# 17997/138 - 強欲の凶兆
+Tags: ENHANCED_ATK,EXTEND_TIME,NO_SKYFALL_COMBOS
+Stats: [1.0, 16.0, 1.0, 0.0]
+Game: 【落ちコンなし】ドラゴンタイプの攻撃力が8倍。 HP50％以上で攻撃力が2倍。ドロップ操作を3秒延長。
+JP: 【落ちコンなし】ドラゴンタイプの攻撃力が8倍。HPが50%以上で攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: [No skyfall] 8x ATK for Dragon type; 2x ATK when above 50% HP; Increase orb movement time by 3 seconds
+KR: [No skyfall] 8x ATK for Dragon type; 2x ATK when above 50% HP; Increase orb movement time by 3 seconds
+
+# 17998/163 - 
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Stats: [1.0, 8.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】ドラゴンタイプの攻撃力が8倍。
+EN: [No skyfall] 8x ATK for Dragon type
+KR: [No skyfall] 8x ATK for Dragon type
+
+# 17999/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1.0, 0.0]
+Game: 
+JP: HPが50%以上で攻撃力が2倍。
+EN: 2x ATK when above 50% HP
+KR: 2x ATK when above 50% HP
+
+# 18000/15 - 
+Tags: EXTEND_TIME
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ドロップ操作時間を3秒延長。
+EN: Increase orb movement time by 3 seconds
+KR: Increase orb movement time by 3 seconds
+
+# 18001/138 - 強欲の氾濫
+Tags: ENHANCED_HP_ATK,EXTEND_TIME,NO_SKYFALL_COMBOS
+Stats: [2.0, 16.0, 1.0, 0.0]
+Game: 【落ちコンなし】ドラゴンタイプのHPが2倍、攻撃力は8倍。 HP50％以上で攻撃力が2倍。ドロップ操作を3秒延長。
+JP: 【落ちコンなし】ドラゴンタイプの攻撃力が8倍、HPが2倍。HPが50%以上で攻撃力が2倍。ドロップ操作時間を3秒延長。
+EN: [No skyfall] 8x ATK and 2x HP for Dragon type; 2x ATK when above 50% HP; Increase orb movement time by 3 seconds
+KR: [No skyfall] 8x ATK and 2x HP for Dragon type; 2x ATK when above 50% HP; Increase orb movement time by 3 seconds
+
+# 18002/163 - 
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Stats: [2.0, 8.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】ドラゴンタイプの攻撃力が8倍、HPが2倍。
+EN: [No skyfall] 8x ATK and 2x HP for Dragon type
+KR: [No skyfall] 8x ATK and 2x HP for Dragon type
+
+# 18003/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1.0, 0.0]
+Game: 
+JP: HPが50%以上で攻撃力が2倍。
+EN: 2x ATK when above 50% HP
+KR: 2x ATK when above 50% HP
+
+# 18004/15 - 
+Tags: EXTEND_TIME
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ドロップ操作時間を3秒延長。
+EN: Increase orb movement time by 3 seconds
+KR: Increase orb movement time by 3 seconds
+
+# 18008/138 - 憤怒の凶兆
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 12.0, 1.0, 0.0]
+Game: 悪魔タイプのHPが2倍。HP80％以下で攻撃力が3倍。 ドロップを5個以上つなげて消すと攻撃力が4倍、固定1ダメージ。
+JP: 悪魔タイプのHPが2倍。HPが80%以下で攻撃力が3倍。ドロップを5個以上つなげて消しと固定1ダメージ。を5個以上つなげて消すと攻撃力が4倍。
+EN: 2x HP for Devil type; 3x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+KR: 2x HP for Devil type; 3x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+
+# 18009/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 悪魔タイプのHPが2倍。
+EN: 2x HP for Devil type
+KR: 2x HP for Devil type
+
+# 18010/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 3.0, 1.0, 0.0]
+Game: 
+JP: HPが80%以下で攻撃力が3倍。
+EN: 3x ATK when below 80% HP
+KR: 3x ATK when below 80% HP
+
+# 18011/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ドロップを5個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 5 or more orbs
+KR: 1 additional damage when matching 5 or more orbs
+
+# 18012/138 - 憤怒の氾濫
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 1.0, 0.0]
+Game: 悪魔タイプのHPが2倍。HP80％以下で攻撃力が4倍。 ドロップを5個以上つなげて消すと攻撃力が4倍、固定1ダメージ。
+JP: 悪魔タイプのHPが2倍。HPが80%以下で攻撃力が4倍。ドロップを5個以上つなげて消しと固定1ダメージ。を5個以上つなげて消すと攻撃力が4倍。
+EN: 2x HP for Devil type; 4x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+KR: 2x HP for Devil type; 4x ATK when below 80% HP; 1 additional damage when matching 5 or more orbs; 4x ATK when matching 5 or more connected orbs
+
+# 18013/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: を5個以上つなげて消すと攻撃力が4倍。
+EN: 4x ATK when matching 5 or more connected orbs
+KR: 4x ATK when matching 5 or more connected orbs
+
+# 18014/183 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1.0, 0.0]
+Game: 
+JP: HPが80%以下で攻撃力が4倍。
+EN: 4x ATK when below 80% HP
+KR: 4x ATK when below 80% HP
+
+# 18015/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: ドロップを5個以上つなげて消しと固定1ダメージ。
+EN: 1 additional damage when matching 5 or more orbs
+KR: 1 additional damage when matching 5 or more orbs
+
+# 18020/138 - 色欲の凶兆
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 12.0, 1.0, 0.0, +1]
+Game: 火属性のHPと攻撃力が2倍。火木の同時攻撃で1コンボ加算。 火を5個以上つなげて消すと、攻撃力が6倍。
+JP: 火属性のHPと攻撃力が2倍。火、木同時攻撃で1コンボ加算。火を5個以上つなげて消すと攻撃力が6倍。
+EN: 2x HP & ATK for Fire Att.; increase combo by 1 when matching Fire and Wood at once; 6x ATK when matching 5 or more connected Fire orbs
+KR: 2x HP & ATK for Fire Att.; increase combo by 1 when matching Fire and Wood at once; 6x ATK when matching 5 or more connected Fire orbs
+
+# 18021/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Fire Att.
+KR: 2x HP & ATK for Fire Att.
+
+# 18022/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 火、木同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Fire and Wood at once
+KR: increase combo by 1 when matching Fire and Wood at once
+
+# 18023/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 6.0, 1, 0]
+Game: 
+JP: 火を5個以上つなげて消すと攻撃力が6倍。
+EN: 6x ATK when matching 5 or more connected Fire orbs
+KR: 6x ATK when matching 5 or more connected Fire orbs
+
+# 18024/138 - 色欲の氾濫
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 14.0, 1.0, 0.0, +1]
+Game: 火属性のHPと攻撃力が2倍。火木の同時攻撃で1コンボ加算。 火を5個以上つなげて消すと、攻撃力が7倍。
+JP: 火属性のHPと攻撃力が2倍。火、木同時攻撃で1コンボ加算。火を5個以上つなげて消すと攻撃力が7倍。
+EN: 2x HP & ATK for Fire Att.; increase combo by 1 when matching Fire and Wood at once; 7x ATK when matching 5 or more connected Fire orbs
+KR: 2x HP & ATK for Fire Att.; increase combo by 1 when matching Fire and Wood at once; 7x ATK when matching 5 or more connected Fire orbs
+
+# 18025/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 2.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPと攻撃力が2倍。
+EN: 2x HP & ATK for Fire Att.
+KR: 2x HP & ATK for Fire Att.
+
+# 18026/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 火、木同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Fire and Wood at once
+KR: increase combo by 1 when matching Fire and Wood at once
+
+# 18027/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 7.0, 1, 0]
+Game: 
+JP: 火を5個以上つなげて消すと攻撃力が7倍。
+EN: 7x ATK when matching 5 or more connected Fire orbs
+KR: 7x ATK when matching 5 or more connected Fire orbs
+
+# 18031/138 - 傲慢の凶兆
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS,EXTRA_COMBOS
+Stats: [2.0, 10.0, 1.0, 0.0, +1]
+Game: 【落ちコンなし】悪魔タイプのHPが2倍、攻撃力は5倍。 光回復の同時攻撃で攻撃力が2倍、1コンボ加算。
+JP: 【落ちコンなし】悪魔タイプの攻撃力が5倍、HPが2倍。光、回復同時攻撃で攻撃力が2倍、1コンボ加算。
+EN: [No skyfall] 5x ATK and 2x HP for Devil type; 2x ATK and increase combo by 1 when matching Light and Heal at once
+KR: [No skyfall] 5x ATK and 2x HP for Devil type; 2x ATK and increase combo by 1 when matching Light and Heal at once
+
+# 18032/163 - 
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Stats: [2.0, 5.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】悪魔タイプの攻撃力が5倍、HPが2倍。
+EN: [No skyfall] 5x ATK and 2x HP for Devil type
+KR: [No skyfall] 5x ATK and 2x HP for Devil type
+
+# 18033/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 2.0, 1, 0, +1]
+Game: 
+JP: 光、回復同時攻撃で攻撃力が2倍、1コンボ加算。
+EN: 2x ATK and increase combo by 1 when matching Light and Heal at once
+KR: 2x ATK and increase combo by 1 when matching Light and Heal at once
+
+# 18035/138 - 傲慢の氾濫
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS,EXTRA_COMBOS
+Stats: [2.0, 12.0, 1.0, 0.0, +1]
+Game: 【落ちコンなし】悪魔タイプのHPが2倍、攻撃力は6倍。 光回復の同時攻撃で攻撃力が2倍、1コンボ加算。
+JP: 【落ちコンなし】悪魔タイプの攻撃力が6倍、HPが2倍。光、回復同時攻撃で攻撃力が2倍、1コンボ加算。
+EN: [No skyfall] 6x ATK and 2x HP for Devil type; 2x ATK and increase combo by 1 when matching Light and Heal at once
+KR: [No skyfall] 6x ATK and 2x HP for Devil type; 2x ATK and increase combo by 1 when matching Light and Heal at once
+
+# 18036/163 - 
+Tags: ENHANCED_HP_ATK,NO_SKYFALL_COMBOS
+Stats: [2.0, 6.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】悪魔タイプの攻撃力が6倍、HPが2倍。
+EN: [No skyfall] 6x ATK and 2x HP for Devil type
+KR: [No skyfall] 6x ATK and 2x HP for Devil type
+
+# 18037/194 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 2.0, 1, 0, +1]
+Game: 
+JP: 光、回復同時攻撃で攻撃力が2倍、1コンボ加算。
+EN: 2x ATK and increase combo by 1 when matching Light and Heal at once
+KR: 2x ATK and increase combo by 1 when matching Light and Heal at once
+
+# 18042/138 - 暴食の凶兆
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 12.0, 1.0, 0.5, +1]
+Game: HP50％以下でダメージを半減、攻撃力が6倍。 闇の2コンボ以上で攻撃力が2倍、1コンボ加算。
+JP: HPが50%以下で攻撃力が6倍、受けるダメージを50％減少。闇の2コンボ以上で攻撃力が2倍。2コンボ以上で1コンボ加算
+EN: 6x ATK and reduce damage taken by 50% when below 50% HP; 2x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+KR: 6x ATK and reduce damage taken by 50% when below 50% HP; 2x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+
+# 18043/130 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 6.0, 1.0, 0.5]
+Game: 
+JP: HPが50%以下で攻撃力が6倍、受けるダメージを50％減少。
+EN: 6x ATK and reduce damage taken by 50% when below 50% HP
+KR: 6x ATK and reduce damage taken by 50% when below 50% HP
+
+# 18044/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が2倍。
+EN: 2x ATK when matching 2+ Dark combos
+KR: 2x ATK when matching 2+ Dark combos
+
+# 18045/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Dark combos
+KR: Increase combo by 1 when matching 2 or more Dark combos
+
+# 18046/138 - 暴食の氾濫
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 14.0, 1.0, 0.5, +1]
+Game: HP50％以下でダメージを半減、攻撃力が7倍。 闇の2コンボ以上で攻撃力が2倍、1コンボ加算。
+JP: HPが50%以下で攻撃力が7倍、受けるダメージを50％減少。闇の2コンボ以上で攻撃力が2倍。2コンボ以上で1コンボ加算
+EN: 7x ATK and reduce damage taken by 50% when below 50% HP; 2x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+KR: 7x ATK and reduce damage taken by 50% when below 50% HP; 2x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+
+# 18047/130 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 7.0, 1.0, 0.5]
+Game: 
+JP: HPが50%以下で攻撃力が7倍、受けるダメージを50％減少。
+EN: 7x ATK and reduce damage taken by 50% when below 50% HP
+KR: 7x ATK and reduce damage taken by 50% when below 50% HP
+
+# 18048/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が2倍。
+EN: 2x ATK when matching 2+ Dark combos
+KR: 2x ATK when matching 2+ Dark combos
+
+# 18049/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Dark combos
+KR: Increase combo by 1 when matching 2 or more Dark combos
+
 # 18050/138 - 凍結率UP
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 9.0, 1.5, 0.25]
@@ -75086,4 +75838,68 @@ Game:
 JP: 水の5個L字消しで攻撃力が6倍、受けるダメージを25％減少。
 EN: 6x ATK and reduce damage taken by 25% when matching 5 Water orbs in an L shape
 KR: 6x ATK and reduce damage taken by 25% when matching 5 Water orbs in an L shape
+
+# 18057/138 - 悪徳の息吹
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Stats: [0.5, 26.0, 1.0, 0.0]
+Game: 【落ちコンなし】7コンボちょうどで攻撃力が2倍。 総HPが半減、闇属性の攻撃力が13倍。
+JP: 【落ちコンなし】7コンボちょっとで攻撃力が2倍。HPが0.5倍、闇属性の攻撃力が13倍。
+EN: [No skyfall] 2x ATK when exactly 7 combos; 0.5x HP; 13x ATK for Dark Att.
+KR: [No skyfall] 2x ATK when exactly 7 combos; 0.5x HP; 13x ATK for Dark Att.
+
+# 18058/101 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 7コンボちょっとで攻撃力が2倍。
+EN: 2x ATK when exactly 7 combos
+KR: 2x ATK when exactly 7 combos
+
+# 18059/107 - 
+Tags: ENHANCED_ATK
+Stats: [0.5, 13.0, 1, 0]
+Game: 
+JP: HPが0.5倍、闇属性の攻撃力が13倍。
+EN: 0.5x HP; 13x ATK for Dark Att.
+KR: 0.5x HP; 13x ATK for Dark Att.
+
+# 18060/163 - 
+Tags: NO_SKYFALL_COMBOS
+Stats: [1.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】
+EN: [No skyfall]
+KR: [No skyfall]
+
+# 18065/138 - 悪徳の連鎖
+Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS
+Stats: [0.5, 24.0, 1.0, 0.0]
+Game: 【落ちコンなし】7コンボちょうどで攻撃力が2倍。 総HPが半減、光属性の攻撃力が12倍。
+JP: 【落ちコンなし】7コンボちょっとで攻撃力が2倍。HPが0.5倍、光属性の攻撃力が12倍。
+EN: [No skyfall] 2x ATK when exactly 7 combos; 0.5x HP; 12x ATK for Light Att.
+KR: [No skyfall] 2x ATK when exactly 7 combos; 0.5x HP; 12x ATK for Light Att.
+
+# 18066/101 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 7コンボちょっとで攻撃力が2倍。
+EN: 2x ATK when exactly 7 combos
+KR: 2x ATK when exactly 7 combos
+
+# 18067/107 - 
+Tags: ENHANCED_ATK
+Stats: [0.5, 12.0, 1, 0]
+Game: 
+JP: HPが0.5倍、光属性の攻撃力が12倍。
+EN: 0.5x HP; 12x ATK for Light Att.
+KR: 0.5x HP; 12x ATK for Light Att.
+
+# 18068/163 - 
+Tags: NO_SKYFALL_COMBOS
+Stats: [1.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 【落ちコンなし】
+EN: [No skyfall]
+KR: [No skyfall]
 

@@ -1,0 +1,20 @@
+#6409 怠惰の大罪龍王・フェゴラン
+HP: 4044 ATK: 1971 RCV: 1219 LB: 10
+AWK: 56,56,28,28,51,53,19,61,45
+SAWK: 52,43,69
+
+# 17981/116 - ベアリングスロウス
+Tags: ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK,REDUCE_MATCH_RESTRICTION
+Game: 全ドロップのロックを解除し、5属性＋回復ドロップに変化。 覚醒無効と消せないドロップ状態を全回復。
+JP: 全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化。覚醒無効を全回復。消せないドロップ状態を9999ターン回復
+EN: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Remove all awoken skill binds; Reduce unable to match orbs effect by 9999 turns
+KR: Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; Remove all awoken skill binds; Reduce unable to match orbs effect by 9999 turns
+
+# 17990/138 - 怠惰の氾濫
+Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1, 16.0, 1.0, 0.35]
+Game: HP50％以上でダメージを軽減、攻撃力が4倍。 4色以上同時攻撃で攻撃力が4倍、5色で固定5万ダメージ。
+JP: HPが50%以上で攻撃力が4倍、受けるダメージを35％減少。4色以上同時攻撃で攻撃力が4倍。5色以上同時攻撃、固定50000ダメージ。
+EN: 4x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+KR: 4x ATK and reduce damage taken by 35% when above 50% HP; 4x ATK when matching 4 or more colors; 50000 additional damage when matching 5 or more colors
+
