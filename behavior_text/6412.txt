@@ -1,0 +1,59 @@
+#6412 - 強欲の大罪龍王・ラマモア
+monster size: 5
+new AI: True
+start/max counter: 31
+counter increment: 0
+monster_id: 6412
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18886:88) 欲深き魂胆
+ | Bind awoken skills for 5 turns
+ | (18931:83) 欲深き魂胆 + 滅癒の光
+ | Bind awoken skills for 5 turns + Change all Heal orbs to Light orbs, Deal 80% damage
+ group:
+ | group:
+ | condition: turn 1
+   | (18887:92) デンジャートラップ
+   | Spawn 10 random Poison orbs
+ | group:
+ | condition: turn 2
+   | (18888:97) トレジャートラップ
+   | Blind random 15 orbs for 3 turns
+ | group:
+ | condition: turn 3
+   | (18889:92) デンジャートラップ
+   | Spawn 10 random Mortal Poison orbs
+ | group:
+ | condition: turn 4
+   | (18890:104) トレジャートラップ
+   | A row of clouds appears for 1 turn at 1st row, 1st column
+ | group:
+   | (18891:15) グリードリベレーション
+   | Deal 280% damage (4 hits, 70% each)
+
+level: 6
+ type: PREEMPT
+ | (18931:83) 欲深き魂胆 + 滅癒の光
+ | Bind awoken skills for 5 turns + Change all Heal orbs to Light orbs, Deal 80% damage
+ group:
+ | group:
+ | condition: turn 1
+   | (18887:92) デンジャートラップ
+   | Spawn 10 random Poison orbs
+ | group:
+ | condition: turn 2
+   | (18888:97) トレジャートラップ
+   | Blind random 15 orbs for 3 turns
+ | group:
+ | condition: turn 3
+   | (18889:92) デンジャートラップ
+   | Spawn 10 random Mortal Poison orbs
+ | group:
+ | condition: turn 4
+   | (18890:104) トレジャートラップ
+   | A row of clouds appears for 1 turn at 1st row, 1st column
+ | group:
+   | (18891:15) グリードリベレーション
+   | Deal 280% damage (4 hits, 70% each)

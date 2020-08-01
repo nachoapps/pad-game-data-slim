@@ -1,0 +1,49 @@
+#6418 - 色欲の大罪龍王・バリアス
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 6418
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18881:110) デリュージョンシンドローム
+ | Specific orbs change every 1.0s for 5 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (18857:108) ファシネイションフレア
+   | Change all Heal orbs to Fire orbs, Deal 100% damage
+   | condition: 50% chance
+   | (18858:15) アーデントラッシュ
+   | Deal 120% damage (4 hits, 30% each)
+ | group:
+ | condition: always turn 1, hp <= 49
+   | (18882:83) 魅惑の雨 + 晴天の咆哮
+   | Locked random skyfall +25% for 10 turns + No skyfall for 10 turns
+ | group:
+ | condition: hp <= 10
+   | (18885:92) ラストリベレーション
+   | Spawn 15 random Fire and Wood orbs, Deal 300% damage
+
+level: 6
+ type: PREEMPT
+ | (18928:83) 幻惑シンドローム + 爆裂クライシス
+ | Specific orbs change every 1.0s for 5 turns + Spawn Bomb orbs in the specified positions
+ group:
+ | group:
+   | condition: 50% chance
+   | (18857:108) ファシネイションフレア
+   | Change all Heal orbs to Fire orbs, Deal 100% damage
+   | condition: 50% chance
+   | (18858:15) アーデントラッシュ
+   | Deal 120% damage (4 hits, 30% each)
+ | group:
+ | condition: always turn 1, hp <= 49
+   | (18882:83) 魅惑の雨 + 晴天の咆哮
+   | Locked random skyfall +25% for 10 turns + No skyfall for 10 turns
+ | group:
+ | condition: hp <= 10
+   | (18885:92) ラストリベレーション
+   | Spawn 15 random Fire and Wood orbs, Deal 300% damage

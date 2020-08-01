@@ -1,0 +1,63 @@
+#6406 - 嫉妬の大罪龍王・ジヴィ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 6406
+approved: False
+
+level: 1
+ type: PASSIVE
+ | (18895:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (18896:50) 嫉視の咆哮
+ | Player -99% HP
+ group:
+ | group:
+   | condition: 50% chance
+   | (18865:79) スクリームジェラス
+   | Change the 3rd row to Water orbs, Deal 100% damage
+   | condition: 50% chance
+   | (18866:15) 八つ当たり
+   | Deal 120% damage (3 hits, 40% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (18897:83) 嫉視の咆哮 + 嫉妬深き怒り
+   | Player -99% HP + Absorb Water and Light damage for 5 turns
+ | group:
+ | condition: hp <= 10
+   | (18901:15) エンヴィーリベレーション
+   | Deal 300% damage (3 hits, 100% each)
+ | group:
+ | condition: turn 1, hp <= 1
+   | (18899:83) 嫉視の咆哮 + 妬みの報復
+   | Player -99% HP + RCV 50% for 5 turns
+
+level: 6
+ type: PASSIVE
+ | (18895:73) 根性
+ | Survive attacks with 1 HP when HP > 50%
+ type: PREEMPT
+ | (18937:83) 嫉視の咆哮 + 妬みの報復
+ | Player -99% HP + RCV 50% for 5 turns
+ group:
+ | group:
+   | condition: 50% chance
+   | (18865:79) スクリームジェラス
+   | Change the 3rd row to Water orbs, Deal 100% damage
+   | condition: 50% chance
+   | (18866:15) 八つ当たり
+   | Deal 120% damage (3 hits, 40% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (18897:83) 嫉視の咆哮 + 嫉妬深き怒り
+   | Player -99% HP + Absorb Water and Light damage for 5 turns
+ | group:
+ | condition: hp <= 10
+   | (18901:15) エンヴィーリベレーション
+   | Deal 300% damage (3 hits, 100% each)
+ | group:
+ | condition: turn 1, hp <= 1
+   | (18899:83) 嫉視の咆哮 + 妬みの報復
+   | Player -99% HP + RCV 50% for 5 turns

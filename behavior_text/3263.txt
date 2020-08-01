@@ -1,0 +1,27 @@
+#3263 - White Rainbow Ark, Neptune Dragon
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 3263
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18681:83) 深海からの裁き + 海淵への導き
+ | ATK -50% for 10 turns + Movetime 50% for 10 turns
+ group:
+ | group:
+   | condition: 33% chance
+   | (18687:92) アビステンタクル
+   | Spawn 4 random Poison orbs, Deal 95% damage
+   | condition: 33% chance
+   | (18688:94) デルタロック
+   | Lock 9 random orbs, Deal 100% damage
+   | condition: 34% chance
+   | (18689:15) トライバースト
+   | Deal 105% damage (3 hits, 35% each)
+ | group:
+ | condition: turn 1, hp <= 49
+   | (18684:83) 海王神の怒り + 冥海の荒波
+   | Increase damage to 200% for the next 999 turns + Spawn 10 random Water and Poison orbs

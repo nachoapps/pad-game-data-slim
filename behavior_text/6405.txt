@@ -1,0 +1,19 @@
+#6405 - 嫉妬の大罪龍・ジヴィ
+monster size: 5
+new AI: True
+start/max counter: 1
+counter increment: 0
+monster_id: 6405
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18864:50) 嫉視の咆哮
+ | Player -75% HP
+ group:
+ | condition: 50% chance
+ | (18865:79) スクリームジェラス
+ | Change the 3rd row to Water orbs, Deal 100% damage
+ | condition: 50% chance
+ | (18866:15) 八つ当たり
+ | Deal 120% damage (3 hits, 40% each)
