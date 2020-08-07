@@ -10,10 +10,10 @@ JP: 光ドロップを回復ドロップに変化。1ターンの間、1コン�
 EN: Change Light orbs to Heal orbs; For 1 turn, increase combo count by 1
 KR: Change Light orbs to Heal orbs; For 1 turn, increase combo count by 1
 
-# 17482/138 - 紅天使の魂
+# 17482/138 - Spirit of the Red Angel
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 12.0, 1.0, 0.5]
-Game: 火属性のHPが1.5倍、攻撃力は3倍。ドロップ操作を2秒延長。 回復の2コンボ以上でダメージを半減、攻撃力が4倍。
+Game: 1.5x HP & 3x ATK for Fire Att., Orb move time +2 sec; 4x ATK & halves damage with 2+ Heal combos
 JP: 火属性の攻撃力が3倍、HPが1.5倍。ドロップ操作時間を2秒延長。回復の2コンボ以上で攻撃力が4倍、受けるダメージを50％減少。
 EN: 3x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos
 KR: 3x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos

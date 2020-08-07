@@ -1904,21 +1904,21 @@ KR: Becomes Team leader; changes back when used again
 
 # 620/116 - What are you, stupid?
 Tags: ENHANCED_ATTACK,STOP_TIME
-Game: Move Orbs freely for 7 seconds
+Game: 1.5x ATK for Fire Att. for 1 turn; move Orbs freely for 10 seconds
 JP: 1ターンの間、火属性の攻撃力が1.5倍。10秒間、時を止めてドロップを動かせる
 EN: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
 KR: For 1 turn, 1.5x ATK for Fire Att.; Freely move orbs for 10 seconds
 
 # 621/116 - I mustn't run away
 Tags: ATTACK_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,REMOVE_LOCK
-Game: Changes Wood Orbs to Water Orbs & Heal Orbs to Dark Orbs
+Game: Removes Orb locks; changes Wood Orbs to Water & Heal Orbs to Dark
 JP: 全ドロップのロック状態を解除。木ドロップを水ドロップに、回復ドロップを闇ドロップに変化
 EN: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 KR: Unlock all orbs; Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 
 # 622/116 - All right, understood!
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
-Game: Inflicts 30x ATK attack on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
+Game: Inflicts 100,000 damage on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
 JP: 敵1体に10万の固定ダメージ。2ターンの間、攻撃とマシンタイプの攻撃力が1.5倍
 EN: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
 KR: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
@@ -1932,14 +1932,14 @@ KR: For 2 turns, reduce damage taken by 50%
 
 # 624/116 - The promised time has come
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,ATTACK_AND_HEAL
-Game: 10x ATK attack on 1 enemy, recovers the damage as HP; 1.5x ATK for Attacker & Machine Types for 4 turns
+Game: 10x ATK attack on 1 enemy & recovers the damage as HP; 2x ATK for Attacker & Machine Types for 4 turns
 JP: 敵1体に攻撃力ｘ10倍で攻撃し、ダメージ分のHP回復。4ターンの間、攻撃とマシンタイプの攻撃力が2倍
 EN: Deal 10x ATK damage to an enemy and recover the same amount as HP; For 4 turns, 2x ATK for Attacker and Machine types
 KR: Deal 10x ATK damage to an enemy and recover the same amount as HP; For 4 turns, 2x ATK for Attacker and Machine types
 
 # 625/116 - Time has come...
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,ENHANCED_HEAL,SUICIDE
-Game: Critical Water attack on 1 enemy, but HP falls to 1;  3x ATK for Attacker & Machine Types for 2 turns
+Game: 1,000,000 Water dmg attack on 1 enemy, but HP falls to 1; 3x ATK for Attacker & Machine Types & 3x RCV for 3 turns
 JP: HPが1になる。敵1体に水属性の100万ダメージ。3ターンの間、回復力が3倍。3ターンの間、攻撃とマシンタイプの攻撃力が3倍
 EN: Reduce HP to 1; Deal 1000000 Water damage to an enemy; For 3 turns, 3x RCV; For 3 turns, 3x ATK for Attacker and Machine types
 KR: Reduce HP to 1; Deal 1000000 Water damage to an enemy; For 3 turns, 3x RCV; For 3 turns, 3x ATK for Attacker and Machine types
@@ -17367,7 +17367,7 @@ KR: For 1 turn, increase orb move time by 7 seconds
 
 # 6792/116 - The ties that bind you will show you the way.
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT
-Game: Changes Orbs to all Attributes & Heal; 1.5x ATK for God & Attacker Types for 1 turn
+Game: Changes Orbs to all Attributes & Heal; 1.5x ATK for God & Attacker Types for 4 turns
 JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。4ターンの間、神と攻撃タイプの攻撃力が1.5倍
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 1.5x ATK for God and Attacker types
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 4 turns, 1.5x ATK for God and Attacker types
@@ -17451,7 +17451,7 @@ KR: For 4 turns, Water orbs are more likely to appear by 15%
 
 # 6816/116 - Let's see what this bad boy can do!
 Tags: ENHANCED_ATTACK,HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: Recovers 30% of max HP, reduces bind status by 3 turns; 1.5x ATK for Attacker & Devil Types for 1 turn
+Game: Recovers 30% of max HP, fully rcv bind (incl. Awoken); 1.5x ATK for Attacker & Devil Types for 2 turns
 JP: 最大HP30％分回復。バインドと覚醒無効を全回復。2ターンの間、攻撃と悪魔タイプの攻撃力が1.5倍
 EN: Recover 30% of max HP; Remove all binds and awoken skill binds; For 2 turns, 1.5x ATK for Attacker and Devil types
 KR: Recover 30% of max HP; Remove all binds and awoken skill binds; For 2 turns, 1.5x ATK for Attacker and Devil types
@@ -17472,7 +17472,7 @@ KR: For 2 turns, 1.5x ATK for Attacker and Devil types
 
 # 6839/116 - What would Rei Ayanami do?
 Tags: REDUCE_DAMAGE,LINE_ORBS_CONVERTER
-Game: Changes the top row to Dark Orbs; halves damage for 1 turn
+Game: Changes the top row to Dark Orbs; halves damage for 2 turns
 JP: 最上段を闇ドロップに変化。2ターンの間、受けるダメージを50％減少
 EN: Change the top row to Dark orbs; For 2 turns, reduce damage taken by 50%
 KR: Change the top row to Dark orbs; For 2 turns, reduce damage taken by 50%
@@ -47894,9 +47894,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 17412/116 - 笑えばいいと思うよ
+# 17412/116 - Smiling would be a start
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,VOID_SKYFALLS
-Game: 全ドロップを5属性＋回復ドロップに変化。 1ターンの間、落ちコンなし、水属性の攻撃力が1.5倍。
+Game: Changes all Orbs to all Attributes & Heal; no Skyfall Combos for 1 turn, 1.5x ATK for Water Att.
 JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化。1ターンの間、落ちコンしなくなる。1ターンの間、水属性の攻撃力が1.5倍
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for Water Att.
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for Water Att.
@@ -47922,9 +47922,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 17416/116 - シンジ&レイの助力
+# 17416/116 - Shinji&Rei's Support
 Tags: HEAL,REDUCE_SKILL_TURN,REDUCE_MATCH_RESTRICTION
-Game: HPと消せないドロップ状態を全回復。 自分以外の味方スキルが2ターン溜まる。
+Game: Fully recovers HP & unmatchable Orb status; other allies' skills charged by 2 turns
 JP: HPを全回復。消せないドロップ状態を9999ターン回復。自分以外の味方スキルが2ターンの溜まる
 EN: Recover all HP; Reduce unable to match orbs effect by 9999 turns; Charge all allies' skills by 2 turns
 KR: Recover all HP; Reduce unable to match orbs effect by 9999 turns; Charge all allies' skills by 2 turns
@@ -47943,9 +47943,9 @@ JP: 自分以外の味方スキルが2ターンの溜まる
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
-# 17425/116 - 今はこれでいい
+# 17425/116 - That's enough for now.
 Tags: LINE_ORBS_CONVERTER,EXTENDS_TIME
-Game: 1ターンの間、ドロップ操作が1秒短縮。 右端縦1列を闇ドロップに変化。
+Game: Orb move time -1 second for 1 turn; changes the rightmost column to Dark Orbs
 JP: 1ターンの間、ドロップ操作時間が-1秒に延長。最右端を闇ドロップに変化
 EN: For 1 turn, increase orb move time by -1 seconds; Change the far right column to Dark orbs
 KR: For 1 turn, increase orb move time by -1 seconds; Change the far right column to Dark orbs
@@ -47964,9 +47964,9 @@ JP: 最右端を闇ドロップに変化
 EN: Change the far right column to Dark orbs
 KR: Change the far right column to Dark orbs
 
-# 17432/116 - ミルの助力
+# 17432/116 - Myr's Support
 Tags: LINE_ORBS_CONVERTER,AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 左端縦1列を回復ドロップに変化。 消せないドロップと覚醒無効状態を全回復。
+Game: Changes the leftmost column to Heal Orbs; fully rcv Awoken Skill bind & unmatchable Orb status
 JP: 最左端を回復ドロップに変化。消せないドロップ状態を9999ターン回復。覚醒無効を全回復
 EN: Change the far left column to Heal orbs; Reduce unable to match orbs effect by 9999 turns; Remove all awoken skill binds
 KR: Change the far left column to Heal orbs; Reduce unable to match orbs effect by 9999 turns; Remove all awoken skill binds
@@ -47992,9 +47992,9 @@ JP: 覚醒無効を全回復
 EN: Remove all awoken skill binds
 KR: Remove all awoken skill binds
 
-# 17436/116 - カーリーの助力
+# 17436/116 - Kali's Support
 Tags: ENHANCED_HEAL,ALL_ORBS_CONVERT,REMOVE_LOCK
-Game: 1ターンの間、回復力が3倍。 全ドロップのロックを解除し、5属性＋回復ドロップに変化。
+Game: 3x RCV for 1 turn; removes Orb locks, changes Orbs to all Attributes & Heal
 JP: 1ターンの間、回復力が3倍。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 1 turn, 3x RCV; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 1 turn, 3x RCV; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -48013,9 +48013,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 17439/116 - シェアトの助力
+# 17439/116 - Scheat's Support
 Tags: ATTACK_STANCE,REDUCE_DAMAGE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
-Game: 木ドロップを水に、回復ドロップを闇に変化。 4ターンの間、受けるダメージを半減。
+Game: Changes Wood Orbs to Water & Heal Orbs to Dark; halves damage for 4 turns
 JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップに変化。4ターンの間、受けるダメージを50％減少
 EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs; For 4 turns, reduce damage taken by 50%
 KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs; For 4 turns, reduce damage taken by 50%
@@ -48034,9 +48034,9 @@ JP: 4ターンの間、受けるダメージを50％減少
 EN: For 4 turns, reduce damage taken by 50%
 KR: For 4 turns, reduce damage taken by 50%
 
-# 17442/116 - ヤマトタケルの助力
+# 17442/116 - Yamato Takeru's Support
 Tags: GUARD_STANCE,REDUCE_DAMAGE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
-Game: 木ドロップを火に、闇ドロップを回復に変化。 4ターンの間、受けるダメージを半減。
+Game: Changes Wood Orbs to Fire & Dark Orbs to Heal; halves damage for 4 turns
 JP: 木ドロップを火ドロップに、闇ドロップを回復ドロップに変化。4ターンの間、受けるダメージを50％減少
 EN: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; For 4 turns, reduce damage taken by 50%
 KR: Change Wood orbs to Fire orbs; Change Dark orbs to Heal orbs; For 4 turns, reduce damage taken by 50%
@@ -48055,9 +48055,9 @@ JP: 1ターンの間、3コンボ加算される
 EN: For 1 turn, increase combo count by 3
 KR: For 1 turn, increase combo count by 3
 
-# 17445/116 - セレスの助力
+# 17445/116 - Ceres's Support
 Tags: REDUCE_DAMAGE,AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップと覚醒無効状態を5ターン回復。 4ターンの間、受けるダメージを半減。
+Game: Reduces Awoken Skill bind & unmatchable Orb status by 5 turns; halves damage for 4 turns
 JP: 消せないドロップ状態を5ターン回復。覚醒無効を5ターン回復。4ターンの間、受けるダメージを50％減少
 EN: Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns; For 4 turns, reduce damage taken by 50%
 KR: Reduce unable to match orbs effect by 5 turns; Reduce awoken skill binds by 5 turns; For 4 turns, reduce damage taken by 50%
@@ -48083,9 +48083,9 @@ JP: HPを全回復
 EN: Recover all HP
 KR: Recover all HP
 
-# 17449/116 - レイランの助力
+# 17449/116 - Leilan's Support
 Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN,REMOVE_LOCK
-Game: 全ドロップのロックを解除し、火、木、光、回復ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+Game: Removes Orb locks, changes Orbs to Fire, Wood, Light & Heal Orbs; other allies' skills charged by 1 turn
 JP: 全ドロップのロック状態を解除。全ドロップを火、木、光、回復ドロップに変化。自分以外の味方スキルが1ターンの溜まる
 EN: Unlock all orbs; Change all orbs to Fire, Wood, Light, and Heal orbs; Charge all allies' skills by 1 turn
 KR: Unlock all orbs; Change all orbs to Fire, Wood, Light, and Heal orbs; Charge all allies' skills by 1 turn
@@ -48104,9 +48104,9 @@ JP: 自分以外の味方スキルが1ターンの溜まる
 EN: Charge all allies' skills by 1 turn
 KR: Charge all allies' skills by 1 turn
 
-# 17452/116 - シンジ&カヲルの助力
+# 17452/116 - Shinji&Kaworu's Support
 Tags: ENHANCED_ATTACK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
-Game: 1ターンの間、攻撃とマシンタイプの攻撃力が4倍。 1ターンの間、ダメージ吸収と属性吸収を無効化。
+Game: 4x ATK for Attacker & Machine Types for 1 turn; voids dmg absorption & Attribute absorption for 1 turn
 JP: 1ターンの間、攻撃とマシンタイプの攻撃力が4倍。1ターンの間、ダメージ吸収と属性吸収を無効化する
 EN: For 1 turn, 4x ATK for Attacker and Machine types; For 1 turn, bypass damage absorb shield and att. absorb shield effects
 KR: For 1 turn, 4x ATK for Attacker and Machine types; For 1 turn, bypass damage absorb shield and att. absorb shield effects
@@ -48125,9 +48125,9 @@ JP: 1ターンの間、ダメージ吸収と属性吸収を無効化する
 EN: For 1 turn, bypass damage absorb shield and att. absorb shield effects
 KR: For 1 turn, bypass damage absorb shield and att. absorb shield effects
 
-# 17455/116 - ミサトの助力
+# 17455/116 - Misato's Support
 Tags: HEAL,LINE_ORBS_CONVERTER
-Game: 最上段横1列を火ドロップに変化。 3ターンの間、HPを50％回復。
+Game: Changes the top row to Fire Orbs; recovers 50% of max HP for 3 turns
 JP: 最上段を火ドロップに変化。3ターンの間、最大HPの50％分回復
 EN: Change the top row to Fire orbs; For 3 turns, recover 50% of max HP
 KR: Change the top row to Fire orbs; For 3 turns, recover 50% of max HP
@@ -48146,9 +48146,9 @@ JP: 3ターンの間、最大HPの50％分回復
 EN: For 3 turns, recover 50% of max HP
 KR: For 3 turns, recover 50% of max HP
 
-# 17458/116 - プログレッシブ・ナイフ
+# 17458/116 - Progressive Knife
 Tags: AWOKEN_INVALID_RECOVERY
-Game: 覚醒無効状態を2ターン回復。 ランダムで水と闇ドロップを2個ずつ生成。
+Game: Reduces Awoken Skill bind status by 2 turns; creates 2 Water & Dark Orbs each at random
 JP: 覚醒無効を2ターン回復。ランダムで水と闇を2個ずつ生成
 EN: Reduce awoken skill binds by 2 turns; Create 2 Water and Dark orbs
 KR: Reduce awoken skill binds by 2 turns; Create 2 Water and Dark orbs
@@ -48167,9 +48167,9 @@ JP: ランダムで水と闇を2個ずつ生成
 EN: Create 2 Water and Dark orbs
 KR: Create 2 Water and Dark orbs
 
-# 17464/116 - サンセットモーメント
+# 17464/116 - Sunset Moment
 Tags: ENHANCED_ATTACK,ALL_ORBS_CONVERT,VOID_SKYFALLS
-Game: 全ドロップを5属性＋回復＋お邪魔ドロップに変化。 1ターンの間、落ちコンなし、神タイプの攻撃力が1.5倍。
+Game: Changes Orbs to all Attributes, Heal & Jammers; no Skyfall Combos & 1.5x ATK for God Type for 1 turn
 JP: 全ドロップを火、水、木、光、闇、回復、お邪魔ドロップに変化。1ターンの間、落ちコンしなくなる。1ターンの間、神タイプの攻撃力が1.5倍
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for God type
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer orbs; For 1 turn, no skyfall; For 1 turn, 1.5x ATK for God type
@@ -48195,9 +48195,9 @@ JP: 1ターンの間、落ちコンしなくなる
 EN: For 1 turn, no skyfall
 KR: For 1 turn, no skyfall
 
-# 17493/116 - エヴァ初号機の助力
+# 17493/116 - Eva Unit-01's Support
 Tags: ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY,REMOVE_LOCK
-Game: 覚醒無効状態を全回復。 全ドロップのロックを解除し、火、水、闇ドロップに変化。
+Game: Fully recovers Awoken Skill bind status; removes Orb locks, changes Orbs to Fire, Water & Dark Orbs
 JP: 覚醒無効を全回復。全ドロップのロック状態を解除。全ドロップを火、水、闇ドロップに変化
 EN: Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, and Dark orbs
 KR: Remove all awoken skill binds; Unlock all orbs; Change all orbs to Fire, Water, and Dark orbs
@@ -48216,9 +48216,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 17496/116 - キャプチャーブレス
+# 17496/116 - Ensnaring Breath
 Tags: ENHANCED_HEAL,DROP_CHANCE,VOID_SKYFALLS
-Game: 2ターンの間、落ちコンなし、回復力が1.5倍。 2ターンの間、水、木、回復ドロップが少し落ちやすくなる。
+Game: No Skyfall Combos & 1.5x RCV for 2 turns; Water, Wood & Heal Orbs slightly more likely to appear for 2 turns
 JP: 2ターンの間、落ちコンしなくなる。2ターンの間、回復力が1.5倍。2ターンの間、水、木、回復ドロップが10％落ちやすくなる
 EN: For 2 turns, no skyfall; For 2 turns, 1.5x RCV; For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%
 KR: For 2 turns, no skyfall; For 2 turns, 1.5x RCV; For 2 turns, Water, Wood, and Heal orbs are more likely to appear by 10%

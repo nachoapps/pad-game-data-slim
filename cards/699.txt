@@ -5,7 +5,7 @@ SAWK:
 
 # 622/116 - All right, understood!
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,FIXED_DAMAGE
-Game: Inflicts 30x ATK attack on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
+Game: Inflicts 100,000 damage on 1 enemy; 1.5x ATK for Attacker & Machine Types for 2 turns
 JP: 敵1体に10万の固定ダメージ。2ターンの間、攻撃とマシンタイプの攻撃力が1.5倍
 EN: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types
 KR: Deal 100000 fixed damage to an enemy; For 2 turns, 1.5x ATK for Attacker and Machine types

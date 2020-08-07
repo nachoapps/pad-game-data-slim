@@ -2233,7 +2233,7 @@ KR: 2x HP & ATK for Attacker type
 # 547/138 - NERV Specifications
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [1.5, 9.0, 1.5, 0.0]
-Game: 1.5x to all stats for Attacker Type
+Game: 1.5x to all stats for Attacker Type; 6x ATK when Water & Dark attack at once
 JP: 攻撃タイプの全パラメータが1.5倍。水、闇の同時攻撃で攻撃力が6倍。
 EN: 1.5x all stats for Attacker type; 6x ATK when matching Water and Dark
 KR: 1.5x all stats for Attacker type; 6x ATK when matching Water and Dark
@@ -2249,7 +2249,7 @@ KR: 2x ATK & RCV for Attacker type
 # 549/138 - Sacrament of SEELE
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 10.0, 2.0, 0.0]
-Game: 2x ATK & RCV for Attacker Type
+Game: 2x ATK & RCV for Attacker Type; 5x ATK when HP is full
 JP: 攻撃タイプの攻撃力と回復力が2倍。HPが満タン時攻撃力が5倍。
 EN: 2x ATK & RCV for Attacker type; 5x ATK when HP is full
 KR: 2x ATK & RCV for Attacker type; 5x ATK when HP is full
@@ -2649,7 +2649,7 @@ KR: 2.5x ATK when matching 5 or more connected Dark orbs up to 3x at 6 orbs
 # 599/138 - Retrofit Specifications
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 7.0, 2.0, 0.0]
-Game: 2x HP & RCV for Attacker Type
+Game: 2x HP & RCV for Attacker Type; 7x ATK when HP is 50% or more
 JP: 攻撃タイプのHPと回復力が2倍。HPが50%以上で攻撃力が7倍。
 EN: 2x HP & RCV for Attacker type; 7x ATK when above 50% HP
 KR: 2x HP & RCV for Attacker type; 7x ATK when above 50% HP
@@ -2657,7 +2657,7 @@ KR: 2x HP & RCV for Attacker type; 7x ATK when above 50% HP
 # 600/138 - WILLE Custom
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 9.0, 3.0, 0.0]
-Game: 2x ATK & RCV for Attacker Type
+Game: 3x ATK & RCV for Attacker Type; 3x ATK when skills used
 JP: 攻撃タイプの攻撃力と回復力が3倍。スキル使用時、攻撃力が3倍。
 EN: 3x ATK & RCV for Attacker type; 3x ATK on the turn a skill is used
 KR: 3x ATK & RCV for Attacker type; 3x ATK on the turn a skill is used
@@ -4737,7 +4737,7 @@ KR: 2.5x ATK for Dark Att. when 4 or more combos
 # 1260/138 - Code 777
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 9.0, 1.0, 0.0]
-Game: 2.5x ATK and 2x HP for Attacker Type
+Game: 3x ATK & 2x HP for Attacker Type; 3x ATK with 5+ combos
 JP: 攻撃タイプの攻撃力が3倍、HPが2倍。5コンボ以上で攻撃力が3倍。
 EN: 3x ATK and 2x HP for Attacker type; 3x ATK when 5 or more combos
 KR: 3x ATK and 2x HP for Attacker type; 3x ATK when 5 or more combos
@@ -28529,7 +28529,7 @@ KR: 6x ATK and reduce damage taken by 35% when matching 5 Heal orbs in a cross f
 # 6789/138 - Myr's Providence
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 24.0, 1.0, 0.5, +2]
-Game: 3x ATK when attacking with 4 Att. (6x ATK for 5 Att.); 3x ATK & halves dmg with a cross of 5 Heal Orbs
+Game: 6x ATK & adds 2 combos when 3+ Att. attack at once; 4x ATK & halves damage with a cross of 5 Heal Orbs
 JP: 3色以上同時攻撃で攻撃力が6倍、2コンボ加算。回復の5個十字消しで攻撃力が4倍、受けるダメージを50％減少。
 EN: 6x ATK and increase combo by 2 when matching 3 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
 KR: 6x ATK and increase combo by 2 when matching 3 or more colors; 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation
@@ -28553,7 +28553,7 @@ KR: 4x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross f
 # 6795/138 - Kali's Providence
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 15.0, 3.0, 0.5]
-Game: 2.5x ATK & RCV for Attacker & God Types; 5x ATK & reduces dmg when Fr, Wt, Wd, Dk & Heal attack at once
+Game: 1.5x HP and 3x ATK & RCV for Attacker & God Types; 5x ATK & halves dmg when Fr, Wt, Wd & Dk attack at once
 JP: 神と攻撃タイプの攻撃力と回復力が3倍、HPが1.5倍。火、水、木、闇同時攻撃で攻撃力が5倍、受けるダメージを50％減少。
 EN: 3x ATK & RCV and 1.5x HP for God and Attacker type; 5x ATK and reduce damage taken by 50% when matching Fire, Water, Wood, and Dark at once
 KR: 3x ATK & RCV and 1.5x HP for God and Attacker type; 5x ATK and reduce damage taken by 50% when matching Fire, Water, Wood, and Dark at once
@@ -28577,7 +28577,7 @@ KR: 5x ATK and reduce damage taken by 50% when matching Fire, Water, Wood, and D
 # 6801/138 - Leilan's Providence
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 16.0, 4.0, 0.0]
-Game: 1.5x ATK & RCV for Attacker Type; 3x ATK when erasing any 3 of these Orb types: Fire, Wood, Light, or Heal
+Game: 4x ATK & RCV for Attacker Type; 4x ATK when erasing 3+ of these Orb types: Fire, Wood, Light, or Heal
 JP: 攻撃タイプの攻撃力と回復力が4倍。火、木、光、回復を3個以上つなげてで攻撃力が4倍。
 EN: 4x ATK & RCV for Attacker type; 4x ATK when matching 3+ of Fire, Wood, Light, and Heal at once
 KR: 4x ATK & RCV for Attacker type; 4x ATK when matching 3+ of Fire, Wood, Light, and Heal at once
@@ -28601,7 +28601,7 @@ KR: 4x ATK when matching 3+ of Fire, Wood, Light, and Heal at once
 # 6807/138 - Yamato Takeru's Providence
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 10.0, 2.0, 0.0]
-Game: 2x HP & ATK for Attacker Type;  2.5x ATK when erasing 6+ linked Fire Orbs
+Game: 2x to all stats for Attacker Type;  5x ATK with 6+ linked Fire Orbs
 JP: 攻撃タイプの全パラメータが2倍。火を6個以上つなげて消すと攻撃力が5倍。
 EN: 2x all stats for Attacker type; 5x ATK when matching 6 or more connected Fire orbs
 KR: 2x all stats for Attacker type; 5x ATK when matching 6 or more connected Fire orbs
@@ -28625,7 +28625,7 @@ KR: 5x ATK when matching 6 or more connected Fire orbs
 # 6813/138 - Scheat's Providence
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 13.5, 1.5, 0.25]
-Game: 1.5x to all stats for Attacker Type; 2x ATK with 2 Water combos, 2.5x with 3+ combos
+Game: 1.5x to all stats for Attacker Type; 9x ATK & reduces damage with 2+ Water combos
 JP: 攻撃タイプの全パラメータが1.5倍。水の2コンボ以上で攻撃力が9倍、受けるダメージを25％減少。
 EN: 1.5x all stats for Attacker type; 9x ATK and reduce damage taken by 25% when matching 2+ Water combos
 KR: 1.5x all stats for Attacker type; 9x ATK and reduce damage taken by 25% when matching 2+ Water combos
@@ -28649,7 +28649,7 @@ KR: 9x ATK and reduce damage taken by 25% when matching 2+ Water combos
 # 6819/129 - Ceres's Providence
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 6.0, 2.0, 0.5]
-Game: 2x ATK & RCV for Attacker Type; halves Wood, Light & Dark Att. damage
+Game: 6x ATK & 2x RCV for Attacker Type; halves Wood, Light & Dark Att. damage
 JP: 攻撃タイプの攻撃力が6倍、回復力が2倍。木、光、闇属性の敵からのダメージを50％減少。
 EN: 6x ATK and 2x RCV for Attacker type; Reduce damage taken from Wood, Light, and Dark Att. by 50%
 KR: 6x ATK and 2x RCV for Attacker type; Reduce damage taken from Wood, Light, and Dark Att. by 50%
@@ -28657,7 +28657,7 @@ KR: 6x ATK and 2x RCV for Attacker type; Reduce damage taken from Wood, Light, a
 # 6842/138 - AAA Wunder's Original Master
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 10.0, 2.0, 0.0]
-Game: 2x HP & ATK for Healer & Machine Types
+Game: 2x HP & ATK for Healer & Machine Types; 5x ATK & 2x RCV with 6+ linked Dark Orbs
 JP: 回復とマシンタイプのHPと攻撃力が2倍。闇を6個以上つなげて消すと攻撃力が5倍、回復力が2倍。
 EN: 2x HP & ATK for Healer and Machine type; 5x ATK and 2x RCV when matching 6 or more connected Dark orbs
 KR: 2x HP & ATK for Healer and Machine type; 5x ATK and 2x RCV when matching 6 or more connected Dark orbs
@@ -28713,7 +28713,7 @@ KR: 3.5x ATK and reduce damage taken by 25% when matching 4 or more colors
 # 6901/138 - Pseudo-Evolution 3+ Phase (Est.)
 Tags: ENHANCED_ATK_RCV,EXTRA_COMBOS
 Stats: [1.0, 17.5, 3.5, 0.0, +1]
-Game: 3.5x ATK for Attacker & Machine Types; 2x ATK & RCV when attacking with 4+ Att.
+Game: 3.5x ATK & RCV for Attacker & Machine Types; 5x ATK & adds 1 combo when 4+ Att. attack at once
 JP: 攻撃とマシンタイプの攻撃力と回復力が3.5倍。4色以上同時攻撃で攻撃力が5倍、1コンボ加算。
 EN: 3.5x ATK & RCV for Attacker and Machine type; 5x ATK and increase combo by 1 when matching 4 or more colors
 KR: 3.5x ATK & RCV for Attacker and Machine type; 5x ATK and increase combo by 1 when matching 4 or more colors
@@ -28737,7 +28737,7 @@ KR: 5x ATK and increase combo by 1 when matching 4 or more colors
 # 6904/138 - The Power to Kill Gods
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 15.0, 2.0, 0.25]
-Game: 2.5x ATK & 2x RCV for Attacker & Machine Types; 1.5x ATK with 2 Fire combos, 2x ATK with 3+ combos
+Game: 2.5x ATK & 2x RCV for Attacker & Machine Types; 6x ATK & reduces damage with 2+ Fire combos
 JP: 攻撃とマシンタイプの攻撃力が2.5倍、回復力が2倍。火の2コンボ以上で攻撃力が6倍、受けるダメージを25％減少。
 EN: 2.5x ATK and 2x RCV for Attacker and Machine type; 6x ATK and reduce damage taken by 25% when matching 2+ Fire combos
 KR: 2.5x ATK and 2x RCV for Attacker and Machine type; 6x ATK and reduce damage taken by 25% when matching 2+ Fire combos
@@ -73191,10 +73191,10 @@ JP: 火木同時攻撃で固定1ダメージ。
 EN: 1 additional damage when matching Fire and Wood
 KR: 1 additional damage when matching Fire and Wood
 
-# 17419/138 - 第3の少年と第1の少女
+# 17419/138 - Third Children and First Children
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [2.0, 16.0, 1.0, 0.25]
-Game: 水と光属性のHPと攻撃力が2倍。ドロップ操作を2秒延長。 6コンボ以上でダメージを軽減、攻撃力が8倍。
+Game: 2x HP & ATK for Wt & Lt Att., Orb move time +2 sec; 8x ATK & reduces damage with 6+ combos
 JP: 水と光属性のHPと攻撃力が2倍。ドロップ操作時間を2秒延長。6コンボ以上で攻撃力が8倍、受けるダメージを25％減少。
 EN: 2x HP & ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 25% when 6 or more combos
 KR: 2x HP & ATK for Water and Light Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 25% when 6 or more combos
@@ -73215,10 +73215,10 @@ JP: 6コンボ以上で攻撃力が8倍、受けるダメージを25％減少。
 EN: 8x ATK and reduce damage taken by 25% when 6 or more combos
 KR: 8x ATK and reduce damage taken by 25% when 6 or more combos
 
-# 17422/138 - エヴァ初号機と零号機のパイロット
+# 17422/138 - Eva Unit-01 and Eva Unit-00 Pilots
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.5, 13.5, 1.5, 0.5]
-Game: 水属性の全パラメータが1.5倍。7コンボ以上で攻撃力が6倍。 3色以上同時攻撃でダメージを半減、攻撃力が1.5倍。
+Game: 1.5x to all stats for Water Att., 6x ATK with 7+ combos; 1.5x ATK & halves damage when 3+ Att. attack at once
 JP: 水属性の全パラメータが1.5倍。3色以上同時攻撃で攻撃力が1.5倍、受けるダメージを50％減少。7コンボ以上で攻撃力が6倍。
 EN: 1.5x all stats for Water Att.; 1.5x ATK and reduce damage taken by 50% when matching 3 or more colors; 6x ATK when 7 or more combos
 KR: 1.5x all stats for Water Att.; 1.5x ATK and reduce damage taken by 50% when matching 3 or more colors; 6x ATK when 7 or more combos
@@ -73247,10 +73247,10 @@ JP: 闇を5個以上つなげて消すと攻撃力が4倍。
 EN: 4x ATK when matching 5 or more connected Dark orbs
 KR: 4x ATK when matching 5 or more connected Dark orbs
 
-# 17429/138 - 人類補完計画
+# 17429/138 - The Human Instrumentality Project
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 18.0, 1.0, 0]
-Game: 【操作時間8秒】バランスタイプのHPが2倍、攻撃力は4.5倍。 闇を5個以上つなげて消すと攻撃力が4倍、固定10万ダメージ。
+Game: [Orb move time: 8 sec], 2x HP & 4.5x ATK for Balanced; 4x ATK & inflicts 100,000 dmg with 5+ linked Dark Orbs
 JP: 【操作時間8秒固定】バランスタイプの攻撃力が4.5倍、HPが2倍。闇を5個以上つなげて消しと固定100000ダメージ。闇を5個以上つなげて消すと攻撃力が4倍。
 EN: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type; 100000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
 KR: [Fixed 8 second movetime] 4.5x ATK and 2x HP for Balanced type; 100000 additional damage when matching 5 or more Dark orbs; 4x ATK when matching 5 or more connected Dark orbs
@@ -73274,7 +73274,7 @@ KR: 100000 additional damage when matching 5 or more Dark orbs
 # 17461/138 - EVA-01 TEST TYPE
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 18.5, 1, 0.5, +2]
-Game: 闇を6個以上つなげて消すと攻撃力が18.5倍、1コンボ加算。 3色以上同時攻撃でダメージを半減、1コンボ加算。
+Game: 18.5x ATK & adds 1 combo with 6+ linked Dark Orbs; halves dmg & adds 1 combo when 3+ Att. attack at once
 JP: 闇を6個以上つなげて消しと攻撃力が18.5倍、1コンボ加算。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で受けるダメージを50％減少。
 EN: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
 KR: 18.5x ATK and increase combo by 1 when matching 6 or more connected Dark orbs at once; increase combo by 1 when matching 3 or more colors; Reduce damage taken by 50% when matching 3 or more colors
@@ -73295,10 +73295,10 @@ JP: 3色以上同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching 3 or more colors
 KR: increase combo by 1 when matching 3 or more colors
 
-# 17467/138 - 天陽の風域
+# 17467/138 - Heavenly Sun's Windswept Domain
 Tags: ENHANCED_ATK_RCV,BOARD_CHANGE_7X6
 Stats: [1.0, 15.0, 3.0, 0]
-Game: 【7×6マス】ドット進化のみでチームを組むと、攻撃力が5倍。 3色以上同時攻撃で攻撃力と回復力が3倍。
+Game: [7x6 board], 5x ATK when all monsters in team are Pixel Evo; 3x ATK & RCV when 3+ Att. attack at once
 JP: 【7×6マス】ドット進化キャラのみでチームを組むと、攻撃力が5倍。3色以上同時攻撃で攻撃力と回復力が3倍。
 EN: [Board becomes 7x6] 5x ATK when all cards are Pixel Evolutions; 3x ATK & RCV when matching 3 or more colors
 KR: [Board becomes 7x6] 5x ATK when all cards are Pixel Evolutions; 3x ATK & RCV when matching 3 or more colors
@@ -73327,10 +73327,10 @@ JP: 3色以上同時攻撃で攻撃力と回復力が3倍。
 EN: 3x ATK & RCV when matching 3 or more colors
 KR: 3x ATK & RCV when matching 3 or more colors
 
-# 17471/138 - 霊葉の医術
+# 17471/138 - Spirit Leaf Healing
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [2.0, 16.0, 1.0, 0.25, +1]
-Game: ドット進化のみでチームを組むと、HPと攻撃力が2倍。 闇回復の同時攻撃でダメージを軽減、攻撃力が8倍、1コンボ加算。
+Game: 2x HP & ATK when all monsters in team are Pixel Evo;  8x ATK, +1 combo & reduces dmg when Dark & Heal attack
 JP: ドット進化キャラのみでチームを組むと、HPと攻撃力が2倍。闇、回復の同時攻撃で攻撃力が8倍、受けるダメージを25％減少。闇、回復同時攻撃で1コンボ加算。
 EN: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Dark and Heal; increase combo by 1 when matching Dark and Heal at once
 KR: 2x HP & ATK when all cards are Pixel Evolutions; 8x ATK and reduce damage taken by 25% when matching Dark and Heal; increase combo by 1 when matching Dark and Heal at once
@@ -73359,10 +73359,10 @@ JP: 闇、回復同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching Dark and Heal at once
 KR: increase combo by 1 when matching Dark and Heal at once
 
-# 17475/138 - 冥界神の真魂
+# 17475/138 - True Spirit of the Underlord
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 14.0, 1.0, 0.0]
-Game: 闇属性のHPと攻撃力が2倍。 闇を4個以上つなげて消すと攻撃力が7倍、固定50万ダメージ。
+Game: 2x HP & ATK for Dark Att.; 7x ATK & inflicts 500,000 dmg with 4+ linked Dark Orbs
 JP: 闇属性のHPと攻撃力が2倍。闇を4個以上つなげて消すと攻撃力が7倍。闇を4個以上つなげて消しと固定500000ダメージ。
 EN: 2x HP & ATK for Dark Att.; 7x ATK when matching 4 or more connected Dark orbs; 500000 additional damage when matching 4 or more Dark orbs
 KR: 2x HP & ATK for Dark Att.; 7x ATK when matching 4 or more connected Dark orbs; 500000 additional damage when matching 4 or more Dark orbs
@@ -73391,10 +73391,10 @@ JP: 闇を4個以上つなげて消しと固定500000ダメージ。
 EN: 500000 additional damage when matching 4 or more Dark orbs
 KR: 500000 additional damage when matching 4 or more Dark orbs
 
-# 17479/138 - 氷天使の真魂
+# 17479/138 - True Spirit of the Ice Archangel
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 16.5, 3.0, 0.5]
-Game: 神タイプの攻撃力と回復力が3倍。ドロップ操作を2秒延長。 水の2コンボ以上でダメージを半減、攻撃力が5.5倍。
+Game: 3x ATK & RCV for God Type, Orb move time +2 seconds; 5.5x ATK & halves damage with 2+ Water combos
 JP: 神タイプの攻撃力と回復力が3倍。ドロップ操作時間を2秒延長。水の2コンボ以上で攻撃力が5.5倍、受けるダメージを50％減少。
 EN: 3x ATK & RCV for God type; Increase orb movement time by 2 seconds; 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
 KR: 3x ATK & RCV for God type; Increase orb movement time by 2 seconds; 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
@@ -73415,10 +73415,10 @@ JP: 水の2コンボ以上で攻撃力が5.5倍、受けるダメージを50％�
 EN: 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
 KR: 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
 
-# 17482/138 - 紅天使の魂
+# 17482/138 - Spirit of the Red Angel
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 12.0, 1.0, 0.5]
-Game: 火属性のHPが1.5倍、攻撃力は3倍。ドロップ操作を2秒延長。 回復の2コンボ以上でダメージを半減、攻撃力が4倍。
+Game: 1.5x HP & 3x ATK for Fire Att., Orb move time +2 sec; 4x ATK & halves damage with 2+ Heal combos
 JP: 火属性の攻撃力が3倍、HPが1.5倍。ドロップ操作時間を2秒延長。回復の2コンボ以上で攻撃力が4倍、受けるダメージを50％減少。
 EN: 3x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos
 KR: 3x ATK and 1.5x HP for Fire Att.; Increase orb movement time by 2 seconds; 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos
@@ -73439,10 +73439,10 @@ JP: 回復の2コンボ以上で攻撃力が4倍、受けるダメージを50％
 EN: 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos
 KR: 4x ATK and reduce damage taken by 50% when matching 2+ Heal combos
 
-# 17486/138 - 蒼天使の魂
+# 17486/138 - Spirit of the Blue Angel
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 12.0, 3.0, 0.0]
-Game: 水属性のHPと攻撃力が2倍。4色以上同時攻撃で攻撃力が6倍。 水を4個以上つなげて消すと回復力が3倍、固定1ダメージ。
+Game: 2x HP & ATK for Water Att., 6x ATK when 4+ Att. attack at once; 3x RCV & inflicts 1 dmg with 4+ linked Wt Orbs
 JP: 水属性のHPと攻撃力が2倍。水を4個以上つなげて消すと回復力が3倍。4色以上同時攻撃で攻撃力が6倍。水を4個以上つなげて消しと固定1ダメージ。
 EN: 2x HP & ATK for Water Att.; 3x RCV when matching 4 or more connected Water orbs; 6x ATK when matching 4 or more colors; 1 additional damage when matching 4 or more Water orbs
 KR: 2x HP & ATK for Water Att.; 3x RCV when matching 4 or more connected Water orbs; 6x ATK when matching 4 or more colors; 1 additional damage when matching 4 or more Water orbs
@@ -73495,10 +73495,10 @@ JP: 7コンボ以上で攻撃力が6倍。
 EN: 6x ATK when 7 or more combos
 KR: 6x ATK when 7 or more combos
 
-# 17499/138 - 葉鱗の妖香
+# 17499/138 - Leafy Scales' Bewitching Scent
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [2.0, 14.0, 1.0, 0.25, +1]
-Game: 木属性のHPと攻撃力が2倍。木回復の同時攻撃で1コンボ加算。 回復ドロップで6万以上回復するとダメージを軽減、攻撃力が7倍。
+Game: 2x HP & ATK for Wd Att., +1 combo when Wd & Heal attack; 7x ATK & reduces dmg when rcv 60,000+ HP with Heal Orbs
 JP: 木属性のHPと攻撃力が2倍。回復ドロップで60000以上回復すると攻撃力が7倍、受けるダメージを25％減少。木、回復同時攻撃で1コンボ加算。
 EN: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; increase combo by 1 when matching Wood and Heal at once
 KR: 2x HP & ATK for Wood Att.; 7x ATK and reduce damage taken by 25% when recovering more than 60000 HP from Heal orbs; increase combo by 1 when matching Wood and Heal at once
@@ -74391,21 +74391,21 @@ JP: ドロップ操作時間を2秒延長。
 EN: Increase orb movement time by 2 seconds
 KR: Increase orb movement time by 2 seconds
 
-# 17737/129 - リッチゴールドの輝き
+# 17737/129 - Glitter of Rich Gold
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると2500万モンスター経験値が手に入る。 売却すると5000万コインが手に入る。
+Game: Grants 25,000,000 Monster EXP when used as Fusion Material; selling this monster grants 50,000,000 Coins
 JP: 合成素材にすると2500万モンスター経験値が手に入る。 売却すると5000万コインが手に入る。
-EN: 合成素材にすると2500万モンスター経験値が手に入る。 売却すると5000万コインが手に入る。
-KR: 合成素材にすると2500万モンスター経験値が手に入る。 売却すると5000万コインが手に入る。
+EN: Grants 25,000,000 Monster EXP when used as Fusion Material; selling this monster grants 50,000,000 Coins
+KR: Grants 25,000,000 Monster EXP when used as Fusion Material; selling this monster grants 50,000,000 Coins
 
-# 17738/129 - レインボーメタルの輝き
+# 17738/129 - Glitter of Rainbow Metal
 Tags: 
 Stats: [1.0, 1.0, 1.0, 0.0]
-Game: 合成素材にすると5000万モンスター経験値が手に入る。 
+Game: Grants 50,000,000 Monster EXP when used as Fusion Material
 JP: 合成素材にすると5000万モンスター経験値が手に入る。 
-EN: 合成素材にすると5000万モンスター経験値が手に入る。 
-KR: 合成素材にすると5000万モンスター経験値が手に入る。 
+EN: Grants 50,000,000 Monster EXP when used as Fusion Material
+KR: Grants 50,000,000 Monster EXP when used as Fusion Material
 
 # 17742/138 - 裁秤の鋼神星
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS

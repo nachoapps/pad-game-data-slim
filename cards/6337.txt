@@ -10,10 +10,10 @@ JP: 敵の現HPの25％分のダメージ。消せないドロップ状態を5�
 EN: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 KR: Reduce enemies' HP by 25%; Reduce unable to match orbs effect by 5 turns; For 5 turns, increase orb move time by 5 seconds
 
-# 17475/138 - 冥界神の真魂
+# 17475/138 - True Spirit of the Underlord
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
 Stats: [2.0, 14.0, 1.0, 0.0]
-Game: 闇属性のHPと攻撃力が2倍。 闇を4個以上つなげて消すと攻撃力が7倍、固定50万ダメージ。
+Game: 2x HP & ATK for Dark Att.; 7x ATK & inflicts 500,000 dmg with 4+ linked Dark Orbs
 JP: 闇属性のHPと攻撃力が2倍。闇を4個以上つなげて消すと攻撃力が7倍。闇を4個以上つなげて消しと固定500000ダメージ。
 EN: 2x HP & ATK for Dark Att.; 7x ATK when matching 4 or more connected Dark orbs; 500000 additional damage when matching 4 or more Dark orbs
 KR: 2x HP & ATK for Dark Att.; 7x ATK when matching 4 or more connected Dark orbs; 500000 additional damage when matching 4 or more Dark orbs

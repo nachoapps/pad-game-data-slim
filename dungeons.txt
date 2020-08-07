@@ -4665,7 +4665,7 @@
 #1166001 Dragonbound & Dragon Caller Tournament 2-★6 or lower -> 8:25 3.0,0.3,1.0
 
 # 1167 Untitled Beach Tournament
-#1167001 Untitled Beach Tournament -> 5:25 1.0,0.01,10.0
+#1167001 Summer Break Special Cup -> 5:25 1.0,0.01,10.0
 
 # 1168 5th REMDra Fever!-No Dark
 #1168001 5th REMDra Fever!-No Dark -> 1:30 1.0,1.0,1.0
@@ -4730,11 +4730,11 @@
 # 1188 June Bride Tournament
 #1188001 June Bride Tournament -> 5:25 2.0,0.01,6.0
 
-# 1189 絶地獄級杯2
-#1189001 絶地獄級杯2 -> 5:25 0.5,1.0,1.0
+# 1189 Super-Ultimate Ranking Rush 2
+#1189001 Super-Ultimate Ranking Rush 2 -> 5:25 0.5,1.0,1.0
 
-# 1190 ガチャドラフィーバーＷ
-#1190001 ガチャドラフィーバーＷ -> 1:30 1.0,1.0,1.0
+# 1190 REMDra Fever W
+#1190001 REMDra Fever W -> 1:30 1.0,1.0,1.0
 
 # 1191 ニムエ杯【No Skyfall Combos】
 #1191001 ニムエ杯【No Skyfall Combos】 -> 5:25 1.0,0.01,100.0
@@ -6720,8 +6720,8 @@
 # 1980 Earth Pillar God of the Traversing Moon, Khonsu Descended!
 #1980001 Earth Pillar God of the Traversing Moon -> 1:10 1.0,1.0,1.0
 
-# 1981 光刻の時龍契士・ミル 降臨！
-#1981001 光刻の時龍契士 -> 1:10 1.0,1.0,1.0
+# 1981 Light Time Dragonbound, Myr Descended!
+#1981001 Light Time Dragonbound -> 1:10 1.0,1.0,1.0
 
 # 1982 鍛煉神・シヴァ＝ドラゴン 降臨！
 #1982001 鍛煉神 -> 1:10 0.1,0.5,0.01
@@ -8895,10 +8895,10 @@
 #3438002 Pixel Princess-Mythical Plus -> 5:66 0.7,1.0,1.0
 #3438003 Pixel Princess-Annihilation -> 5:99 1.0,1.0,1.0
 
-# 3439 協力！ゼレンバス 降臨！
-#3439001 捕棘龍　超地獄級 -> 5:50 0.3,0.8,1.0
-#3439002 捕棘龍　超絶地獄級 -> 5:66 0.7,1.0,1.0
-#3439003 捕棘龍　壊滅級 -> 5:99 1.0,1.0,1.0
+# 3439 Zelenbus Descended!
+#3439001 Trapthorn Dragon-Mythical -> 5:50 0.3,0.8,1.0
+#3439002 Trapthorn Dragon-Mythical Plus -> 5:66 0.7,1.0,1.0
+#3439003 Trapthorn Dragon-Annihilation -> 5:99 1.0,1.0,1.0
 
 # 3440 協力！ガウェイン 降臨！
 #3440001 鷹騎士　超地獄級 -> 6:50 0.3,0.8,1.0
@@ -10015,16 +10015,16 @@
 #3707010 Fire Attribute Monsters 1 -> 6:50 0.001,0.1,0.0
 
 # 3708 Skill Leveling Dungeon Godfest
-#3708001 Dark Attribute Monsters 2 -> 7:50 0.001,0.1,0.0
-#3708002 Dark Attribute Monsters 1 -> 6:50 0.001,0.1,0.0
+#3708001 Dark Attribute Monsters 2 -> 6:50 0.001,0.1,0.0
+#3708002 Dark Attribute Monsters 1 -> 7:50 0.001,0.1,0.0
 #3708003 Light Attribute Monsters 2 -> 8:50 0.001,0.1,0.0
 #3708004 Light Attribute Monsters 1 -> 8:50 0.001,0.1,0.0
-#3708005 Wood Attribute Monsters 2 -> 7:50 0.001,0.1,0.0
+#3708005 Wood Attribute Monsters 2 -> 5:50 0.001,0.1,0.0
 #3708006 Wood Attribute Monsters 1 -> 6:50 0.001,0.1,0.0
 #3708007 Water Attribute Monsters 2 -> 6:50 0.001,0.1,0.0
-#3708008 Water Attribute Monsters 1 -> 5:50 0.001,0.1,0.0
-#3708009 Fire Attribute Monsters 2 -> 5:50 0.001,0.1,0.0
-#3708010 Fire Attribute Monsters 1 -> 5:50 0.001,0.1,0.0
+#3708008 Water Attribute Monsters 1 -> 6:50 0.001,0.1,0.0
+#3708009 Fire Attribute Monsters 2 -> 6:50 0.001,0.1,0.0
+#3708010 Fire Attribute Monsters 1 -> 6:50 0.001,0.1,0.0
 
 # 3709 Skill Leveling Dungeon Godfest
 #3709001 Dark Attribute Monsters 2 -> 6:50 0.001,0.1,0.0
@@ -11935,61 +11935,61 @@
 # 4355 Multiplayer! CROWS!
 #4355001 Nakazaki Factory-Annihilation -> 4:50 20.0,1.7,1.0
 
-# 4356 エヴァンゲリオン
-#4356001 使徒襲来　中級 -> 7:15 1.0,1.0,1.0
-#4356002 使徒襲来　上級 -> 7:25 1.0,1.0,1.0
-#4356003 使徒襲来　超級 -> 7:40 1.0,1.0,1.0
-#4356004 使徒襲来　地獄級 -> 7:45 1.0,1.0,1.0
-#4356005 使徒襲来　超地獄級 -> 7:50 1.0,1.0,1.0
-#4356006 パズドラコラボ衣装 -> 6:50 1.0,1.0,1.0
-#4356007 NERV or WILLE所属 -> 10:50 1.0,1.0,1.0
+# 4356 EVANGELION
+#4356001 Angels Invade-Int -> 7:15 1.0,1.0,1.0
+#4356002 Angels Invade-Expert -> 7:25 1.0,1.0,1.0
+#4356003 Angels Invade-Master -> 7:40 1.0,1.0,1.0
+#4356004 Angels Invade-Legend -> 7:45 1.0,1.0,1.0
+#4356005 Angels Invade-Mythical -> 7:50 1.0,1.0,1.0
+#4356006 PAD Collab Costumes -> 6:50 1.0,1.0,1.0
+#4356007 NERV or WILLE Affiliation -> 10:50 1.0,1.0,1.0
 
-# 4357 エヴァンゲリオンチャレンジ！
-#4357001 エヴァ戦闘訓練　絶地獄級 -> 7:50 1.0,1.0,1.0
+# 4357 EVANGELION Challenge!
+#4357001 Eva Combat Training-Legend Plus -> 7:50 1.0,1.0,1.0
 
-# 4358 協力！エヴァンゲリオン！
-#4358001 使徒襲来　壊滅級 -> 7:50 1.0,1.0,1.0
+# 4358 Multiplayer! EVANGELION!
+#4358001 Angels Invade-Annihilation -> 7:50 1.0,1.0,1.0
 
-# 4359 7月のクエスト 初級者向け
-#4359001 チャレンジLv1【Tricolor】 -> 3:10 0.1,0.2,0.0
-#4359002 チャレンジLv2 -> 3:20 0.2,0.5,0.0
-#4359003 チャレンジLv3 -> 3:30 1.0,1.0,0.0
-#4359004 チャレンジLv4 -> 3:40 0.4,0.8,1.0
-#4359005 チャレンジLv5【All Att. Req.】 -> 1:50 1.0,1.0,1.0
+# 4359 September Quest Dungeon-Novice
+#4359001 Challenge Lv1-Tricolor -> 3:10 0.1,0.2,0.0
+#4359002 Challenge Lv2 -> 3:20 0.2,0.5,0.0
+#4359003 Challenge Lv3 -> 3:30 1.0,1.0,0.0
+#4359004 Challenge Lv4 -> 3:40 0.4,0.8,1.0
+#4359005 Challenge Lv5-All Att. Req. -> 1:50 1.0,1.0,1.0
 
-# 4360 7月のクエスト 中級者向け
-#4360001 チャレンジLv6 -> 5:60 1.0,1.0,1.0
-#4360002 チャレンジLv7 -> 6:70 1.0,1.0,1.0
-#4360003 ヘラ・ウルズ 降臨！ -> 5:50 1.0,1.0,1.0
-#4360004 ゼウス・マーキュリー 降臨！ -> 10:50 1.0,1.0,1.0
-#4360005 ゼウス・ヴァルカン 降臨！ -> 10:50 1.0,1.0,1.0
-#4360006 メジェドラ 降臨！ -> 6:50 1.0,1.0,1.0
-#4360007 スフィンクス 降臨！ -> 5:50 1.0,1.0,1.0
-#4360008 周瑜 参上！【All Att. Req.】 -> 6:50 1.0,1.0,1.0
-#4360009 デウス＝エクス＝マキナ 降臨！ -> 7:50 1.0,1.0,1.0
-#4360010 ヘパイストス 降臨！ -> 7:50 1.0,1.0,1.0
-#4360011 グラン＝リバース 降臨！【ドラゴン強化】 -> 6:50 1.5,1.5,1.0
-#4360012 ヨルムンガンド 降臨！ -> 6:50 1.0,1.0,1.0
+# 4360 September Quest Dungeon-Int
+#4360001 Challenge Lv6 -> 5:60 1.0,1.0,1.0
+#4360002 Challenge Lv7 -> 6:70 1.0,1.0,1.0
+#4360003 Hera-Ur Descended! -> 5:50 1.0,1.0,1.0
+#4360004 Zeus Mercury Descended! -> 10:50 1.0,1.0,1.0
+#4360005 Zeus Vulcan Descended! -> 10:50 1.0,1.0,1.0
+#4360006 Medjedra Descended! -> 6:50 1.0,1.0,1.0
+#4360007 Sphinx Descended! -> 5:50 1.0,1.0,1.0
+#4360008 Zhou Yu!!-All Att. Req. -> 6:50 1.0,1.0,1.0
+#4360009 Deus ex Machina Descended! -> 7:50 1.0,1.0,1.0
+#4360010 Hephaestus Descended! -> 7:50 1.0,1.0,1.0
+#4360011 Gran Reverse Descended!-Dragon Enhanced -> 6:50 1.5,1.5,1.0
+#4360012 Jörmungandr Descended! -> 6:50 1.0,1.0,1.0
 
-# 4361 7月のクエスト 上級者向け
-#4361001 チャレンジLv8【Fixed Team】 -> 6:80 2.0,2.0,1.0
-#4361002 チャレンジLv9【No Skyfall Combos/No RCV】 -> 5:90 1.0,1.0,1.0
-#4361003 チャレンジLv10 -> 6:100 3.0,1.5,1.0
-#4361004 ガイノウト 降臨！【Special】 -> 9:50 1.0,1.0,1.0
-#4361005 コスモクルセイダー 降臨！【No RCV】 -> 6:50 1.0,1.0,1.0
-#4361006 ミオン 降臨！ -> 7:50 1.0,1.0,1.0
-#4361007 ティターニア 降臨！ -> 6:50 1.0,1.0,1.0
-#4361008 マンティコア 降臨！【悪魔強化】 -> 7:50 1.5,1.1,10.0
-#4361009 白鯨 降臨！【Orb move time 4 sec】 -> 7:50 1.0,1.0,1.0
-#4361010 極限ゴッドラッシュ！ -> 6:99 1.0,1.0,1.0
-#4361011 リントヴルム 降臨！ -> 6:99 1.0,1.0,5.0
-#4361012 シェヘラザード 降臨！ -> 6:99 1.0,1.0,1.0
-#4361013 ブラフマー 降臨！ -> 7:99 1.0,1.0,1.0
+# 4361 September Quest Dungeon-Expert
+#4361001 Challenge Lv8-Fixed Team -> 6:80 2.0,2.0,1.0
+#4361002 Challenge Lv9-No Skyfall Combos/No RCV -> 5:90 1.0,1.0,1.0
+#4361003 Challenge Lv10 -> 6:100 3.0,1.5,1.0
+#4361004 Gainaut Descended!-Special -> 9:50 1.0,1.0,1.0
+#4361005 Cosmo Crusader Descended!-No RCV -> 6:50 1.0,1.0,1.0
+#4361006 Mion Descended! -> 7:50 1.0,1.0,1.0
+#4361007 Titania Descended! -> 6:50 1.0,1.0,1.0
+#4361008 Manticore Descended!-Devil Enhanced -> 7:50 1.5,1.1,10.0
+#4361009 Moby Dick Descended!-Orb move time 4 sec -> 7:50 1.0,1.0,1.0
+#4361010 Ultimate God Rush! -> 6:99 1.0,1.0,1.0
+#4361011 Lindworm Descended! -> 6:99 1.0,1.0,5.0
+#4361012 Scheherazade Descended! -> 6:99 1.0,1.0,1.0
+#4361013 Brahma Descended! -> 7:99 1.0,1.0,1.0
 
-# 4362 ゼレンバス 降臨！
-#4362001 捕棘龍　超地獄級 -> 5:50 0.3,0.8,1.0
-#4362002 捕棘龍　超絶地獄級 -> 5:66 0.7,1.0,1.0
-#4362003 捕棘龍　壊滅級 -> 5:99 1.0,1.0,1.0
+# 4362 Zelenbus Descended!
+#4362001 Trapthorn Dragon-Mythical -> 5:50 0.3,0.8,1.0
+#4362002 Trapthorn Dragon-Mythical Plus -> 5:66 0.7,1.0,1.0
+#4362003 Trapthorn Dragon-Annihilation -> 5:99 1.0,1.0,1.0
 
 # 4363 ガウェイン 降臨！
 #4363001 鷹騎士　超地獄級 -> 6:50 0.3,0.8,1.0
@@ -11999,8 +11999,8 @@
 # 4364 七夕に願いを込めて
 #4364001 ひとときの天の川 -> 7:10 0.01,0.01,1.0
 
-# 4365 キングデビたまスコアチャレンジ！
-#4365001 Sランクを目指せ！ -> 9:50 1.0,0.5,5.0
+# 4365 King DeviTAMA Score Challenge!
+#4365001 Aim for S Rank! -> 9:50 1.0,0.5,5.0
 
 # 4366 僕のヒーローアカデミア
 #4366001 VSヴィラン連合　中級 -> 5:15 1.0,1.0,1.0

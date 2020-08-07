@@ -10,10 +10,10 @@ JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップ�
 EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 
-# 17479/138 - 氷天使の真魂
+# 17479/138 - True Spirit of the Ice Archangel
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.0, 16.5, 3.0, 0.5]
-Game: 神タイプの攻撃力と回復力が3倍。ドロップ操作を2秒延長。 水の2コンボ以上でダメージを半減、攻撃力が5.5倍。
+Game: 3x ATK & RCV for God Type, Orb move time +2 seconds; 5.5x ATK & halves damage with 2+ Water combos
 JP: 神タイプの攻撃力と回復力が3倍。ドロップ操作時間を2秒延長。水の2コンボ以上で攻撃力が5.5倍、受けるダメージを50％減少。
 EN: 3x ATK & RCV for God type; Increase orb movement time by 2 seconds; 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
 KR: 3x ATK & RCV for God type; Increase orb movement time by 2 seconds; 5.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
