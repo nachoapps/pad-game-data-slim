@@ -1,4 +1,4 @@
-#6342 - 蠱惑の捕棘龍・ゼレンバス
+#6342 - Captivating Trapthorn Dragon, Zelenbus
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,38 +8,38 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18162:129) 超根性
+ | (18162:129) Super Resolve
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (18163:83) 防植壁 + 軟質外殻 + 抜力蜜
+ | (18163:83) Defensive Plant Wall + Soft Shell + Draining Nectar
  | Voids status ailments for 999 turns + Absorb damage when combos <= 7 for 999 turns + ATK -75% for 10 turns, Deal 50% damage
  group:
  | group:
    | condition: 50% chance
-   | (18168:89) 強酸性樹液
+   | (18168:89) Acidic Sap
    | Delay active skills by 0~2 turns, Deal 100% damage
    | condition: 50% chance
-   | (18169:15) 蔓の棘鞭
+   | (18169:15) Vine Thorn Whip
    | Deal 112% damage (4 hits, 28% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1 while HP > 19
-     | (18170:83) 癒抑粉 + 蔓の棘鞭
+     | (18170:83) Recovery-Supressing Pollen + Vine Thorn Whip
      | RCV 50% for 10 turns + Deal 112% damage (4 hits, 28% each), Deal 112% damage (4 hits, 28% each)
    | group:
      | condition: 50% chance
-     | (18174:83) 口腔噛砕 + 強酸性樹液
+     | (18174:83) Crunching Jaws + Acidic Sap
      | Player -75% HP + Delay active skills by 0~2 turns, Deal 100% damage
      | condition: 50% chance
-     | (18175:83) 口腔噛砕 + 蔓の棘鞭
+     | (18175:83) Crunching Jaws + Vine Thorn Whip
      | Player -75% HP + Deal 112% damage (4 hits, 28% each), Deal 112% damage (4 hits, 28% each)
  | group:
  | condition: hp <= 19
    | group:
    | condition: turn 1
-     | (18177:83) 潜力消化液 + 酸性樹液
+     | (18177:83) Power-Dissolving Fluids + Acrid Sap
      | Bind awoken skills for 5 turns + Delay active skills by 5 turns
    | group:
-     | (18180:83) 擬態 + 噛棘鞭狂乱打
+     | (18180:83) Camouflage + Shredding Thorn Whip Fury
      | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 700% damage (7 hits, 100% each), Deal 700% damage (7 hits, 100% each)

@@ -1,4 +1,4 @@
-#301464 - 裏トト
+#301464 - Alt. Thoth
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -8,12 +8,12 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18030:89) ヒエログリフの創造
+ | (18030:89) Creation of the Hieroglyphs
  | Delay active skills by 5 turns
  group:
- | (18031:15) 創世の裁き
+ | (18031:15) Creation's Judgement
  | Deal 120% damage (3 hits, 40% each)
  type: REMAINING
  condition: when 1 enemies remain, hp <= 100
- | (18032:52) 復活の儀式
+ | (18032:52) Ceremony of Rebirth
  | Enemy ally recover 50% HP

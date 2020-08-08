@@ -8,21 +8,21 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18274:53) 縁が君を導くだろう 
+ | (18274:53) The ties that bind you will show you the way.
  | Absorb Dark damage for 10 turns
  group:
  | group:
    | condition: 50% chance
-   | (18276:85) オールドロップチェンジ
+   | (18276:85) Orb Transformation
    | Change all orbs to Fire, Water, Wood, Light, Dark, Heal, and Jammer, Deal 90% damage
-   | (18277:15) 黒天舞踏
+   | (18277:15) Maleficent Dance
    | Deal 99% damage (3 hits, 33% each)
  | group:
  | condition: hp <= 49
    | group:
    | condition: turn 1
-     | (18275:74) カーリーの加護
+     | (18275:74) Kali's Providence
      | Reduce damage from all sources by 75% for 5 turns
    | group:
-     | (18278:15) 魔天刻舞踏
+     | (18278:15) Demonic Ethereal Dance
      | Deal 210% damage (5 hits, 42% each)

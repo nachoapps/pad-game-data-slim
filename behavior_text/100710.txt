@@ -1,4 +1,4 @@
-#100710 - 第6の使徒・戦闘形態
+#100710 - The Sixth Angel - Assault Mode
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18320:130) Ａ.Ｔ.フィールド展開
+ | (18320:130) Deploy A.T. Field
  | ATK -75% for 99 turns
  group:
- | (349:15) 荷電粒子砲
+ | (349:15) Charged Particle Beam
  | Deal 300% damage

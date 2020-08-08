@@ -1,4 +1,4 @@
-#302195 - 裏フレイムギア
+#302195 - Alt. Flame Gear
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17953:97) 侵入者発見
+ | (17953:97) Intruders Detected
  | Blind all orbs for 4 turns
  group:
- | (17954:92) バーンパルス
+ | (17954:92) Burn Pulse
  | Spawn 1 random Fire orb, Deal 100% damage

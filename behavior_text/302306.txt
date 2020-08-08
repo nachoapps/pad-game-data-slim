@@ -1,4 +1,4 @@
-#302306 - 裏河童
+#302306 - Alt. Kappa
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18007:92) どいたどいたぁ！
+ | (18007:92) Out of the way!
  | Spawn 15 random Jammer orbs
  group:
- | (18008:48) シャケナブレード
+ | (18008:48) Salmon Blade
  | Change a random attribute to Water orbs, Deal 100% damage

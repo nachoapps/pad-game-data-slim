@@ -1,4 +1,4 @@
-#200713 - 第4の使徒
+#200713 - The Fourth Angel
 monster size: 2
 new AI: True
 start/max counter: 0
@@ -13,7 +13,7 @@ Branch on level >= 4, target rnd 4
 #3: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#4: ESRandomSpawn(92:18326) -> 光線
+#4: ESRandomSpawn(92:18326) -> Light Ray
 Spawn 2 random Light orbs, Deal 80% damage
 
 #5: ESEndPath(36:26) -> ESEndPath

@@ -6,15 +6,10 @@ counter increment: 0
 monster_id: 2332
 approved: False
 
-level: 1
+level: 4
  type: PREEMPT
- | (2571:66) Emergency Launch TAMA!
- | Do nothing
-
-level: 5
- type: PREEMPT
- | (2571:66) Emergency Launch TAMA!
- | Do nothing
+ | (18327:50) Emergency Launch TAMA!
+ | Player -50% HP
  group:
  | (2572:15) Fire TAMA!
  | Deal 100% damage

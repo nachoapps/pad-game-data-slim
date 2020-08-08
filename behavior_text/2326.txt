@@ -8,16 +8,16 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18283:105) 初号機・第1覚醒形態
+ | (18283:105) Unit-01 Initial Arousal Phase
  | RCV 50% for 6 turns
  group:
  | group:
    | condition: 50% chance
-   | (18284:76) 僕がどうなったっていい
+   | (18284:76) I don't care what happens to me.
    | Change the 1st and 6th columns to Water orbs
-   | (18285:109) 世界がどうなったっていい
+   | (18285:109) I don't care what happens to the world.
    | Random 3 orbs change every 1.0s for 1 turn, Deal 100% damage
  | group:
  | condition: hp <= 19
-   | (18286:85) 絶対助ける！
+   | (18286:85) I'm saving Ayanami, no matter what!
    | Change all orbs to Water, Dark, and Heal, Deal 110% damage

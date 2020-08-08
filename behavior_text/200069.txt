@@ -1,4 +1,4 @@
-#200069 - フレイムナイト
+#200069 - Flame Knight
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18183:129) 超根性
+ | (18183:129) Super Resolve
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (18184:88) 騎士の決闘
+ | (18184:88) Knight's Duel
  | Bind awoken skills for 1 turn
  group:
- | (18185:102) バーンフレイム
+ | (18185:102) Burning Flame
  | Spawn 5 random Bomb orbs, Deal 100% damage

@@ -8,16 +8,16 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18229:109) 真のエヴァンゲリオン
+ | (18229:109) The true Evangelion
  | Random 1 orbs change every 1.5s for 6 turns
  group:
  | group:
    | condition: 50% chance
-   | (18230:105) さぁ、約束の時だ
+   | (18230:105) The promised time has come
    | RCV 50% for 1 turn, Deal 85% damage
-   | (18231:15) 幸せにしてみせるよ
+   | (18231:15) I'll make you happy.
    | Deal 100% damage
  | group:
  | condition: hp <= 29
-   | (18232:77) カシウスの槍
+   | (18232:77) Spear of Cassius
    | Change the 2nd column to Dark orbs, Deal 120% damage

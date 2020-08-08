@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESOrbSealRow(100:18266) -> 僕はどうしたらいいの？
+#2: ESOrbSealRow(100:18266) -> What am I supposed to do now?
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Seal the 5th row for 5 turns
 
@@ -17,7 +17,7 @@ Branch on counter >= 1, target rnd 7
 #4: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#5: ESSkyfall(68:18268) -> スターウェイク・アクア
+#5: ESSkyfall(68:18268) -> Star Wake - Aqua
 Water skyfall +10% for 2 turns
 
 #6: ESEndPath(36:26) -> ESEndPath
@@ -29,7 +29,7 @@ Branch on counter >= 2, target rnd 11
 #8: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#9: ESCloud(104:18267) -> シェアトの加護
+#9: ESCloud(104:18267) -> Scheat's Providence
 A 1×3 rectangle of clouds appears for 1 turn at a random location, Deal 85% damage
 
 #10: ESEndPath(36:26) -> ESEndPath
@@ -38,7 +38,7 @@ end_turn
 #11: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#12: ESRandomSpawn(92:18269) -> 宝瓶の蒼鋼星
+#12: ESRandomSpawn(92:18269) -> Blue Steel Star of Aquarius
 Spawn 4 random Water and Light orbs, Deal 120% damage
 
 #13: ESEndPath(36:26) -> ESEndPath

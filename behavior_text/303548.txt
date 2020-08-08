@@ -1,4 +1,4 @@
-#303548 - 煌炎剣の勇士・クラウソラス
+#303548 - Heroic Firelight Sword, Claíomh Solais
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -8,25 +8,25 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17989:83) 煌炎の名剣術 + クラウソラスの光
+ | (17989:83) Firelight Swordplay + Celtic Light
  | Voids status ailments for 999 turns + Unable to match Water orbs for 3 turns
  group:
  | group:
  | condition: turns 1-2
    | condition: 50% chance
-   | (17992:92) 炎剣熱波
+   | (17992:92) Flaming Sword Heat Wave
    | Spawn 5 random Fire orbs, Deal 95% damage
    | condition: 50% chance
-   | (17993:15) 烈火剣撃
+   | (17993:15) Raging Fire Sword Strike
    | Deal 105% damage (3 hits, 35% each)
  | group:
  | condition: turn 3
-   | (17994:50) 炎渦突進
+   | (17994:50) Flame Vortex Charge
    | Player -120% HP
  | group:
    | condition: 50% chance
-   | (17992:92) 炎剣熱波
+   | (17992:92) Flaming Sword Heat Wave
    | Spawn 5 random Fire orbs, Deal 95% damage
    | condition: 50% chance
-   | (17993:15) 烈火剣撃
+   | (17993:15) Raging Fire Sword Strike
    | Deal 105% damage (3 hits, 35% each)

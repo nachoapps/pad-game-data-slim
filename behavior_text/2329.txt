@@ -10,8 +10,8 @@ level: 4
  group:
  | group:
  | condition: turn 1
-   | (18331:88) 逃げちゃダメたまぁ！
+   | (18331:88) I mustn't run away TAMA!
    | Bind awoken skills for 1 turn
  | group:
-   | (18334:15) プログレッシブナイフたまぁ！
+   | (18334:15) Progressive Knife TAMA!
    | Deal 100% damage

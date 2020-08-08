@@ -1,4 +1,4 @@
-#304244 - 覚醒スピカ
+#304244 - Awoken Spica
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -7,34 +7,34 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESSuperResolve(129:18022) -> 超根性
+#2: ESSuperResolve(129:18022) -> Super Resolve
 When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-#3: ESVoidShield(71:18023) -> 従属の守り
+#3: ESVoidShield(71:18023) -> Subordinates' Protection
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Void damage >= 80000000 for 999 turns
 
 #4: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 10, target rnd 8
 
-#5: ESOrbChangeAttackBits(108:18025) -> 悪食
+#5: ESOrbChangeAttackBits(108:18025) -> Foul Feeder
 Change all Poison and Mortal Poison orbs to Wood orbs, Deal 400% damage
 
-#6: ESRandomSpawn(92:18024) -> 大食いの捕食
+#6: ESRandomSpawn(92:18024) -> Gluttonous Predator
 Spawn 5 random Poison orbs, Deal 100% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#8: ESBindAwoken(88:18026) -> 腐乱葉樹
+#8: ESBindAwoken(88:18026) -> Decomposing Plants
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Bind awoken skills for 1 turn
 
-#9: ESAttackMultihit(15:18027) -> 散乱葉真珠連撃
+#9: ESAttackMultihit(15:18027) -> Leaf Pearl Multi-Attack
 Deal 1000% damage (5 hits, 200% each)
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#11: ESSuperResolve(129:18022) -> 超根性
+#11: ESSuperResolve(129:18022) -> Super Resolve
 When reduced from HP > 50% to 0 HP, revive at 50% HP

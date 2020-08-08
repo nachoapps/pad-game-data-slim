@@ -1,4 +1,4 @@
-#200073 - アースナイト
+#200073 - Earth Knight
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -8,11 +8,11 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18183:129) 超根性
+ | (18183:129) Super Resolve
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (18188:50) グラビトンブレイク
+ | (18188:50) Graviton Break
  | Player -99% HP
  group:
- | (18189:48) ファストポリューション
+ | (18189:48) Rampant Pollution
  | Change a random attribute to Mortal Poison orbs, Deal 100% damage

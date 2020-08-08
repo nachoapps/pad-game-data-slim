@@ -1,4 +1,4 @@
-#102329 - 初号機たまドラ
+#102329 - Eva Unit-01 TAMADRA
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,10 +8,10 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18318:88) 逃げちゃダメたまぁ！
+ | (18318:88) I mustn't run away TAMA!
  | Bind awoken skills for 3 turns
- | (18334:15) プログレッシブナイフたまぁ！
+ | (18334:15) Progressive Knife TAMA!
  | Deal 100% damage
  group:
- | (18334:15) プログレッシブナイフたまぁ！
+ | (18334:15) Progressive Knife TAMA!
  | Deal 100% damage

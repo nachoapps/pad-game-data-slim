@@ -8,18 +8,18 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18287:50) 全艦、緊急発進！ 
+ | (18287:50) Emergency Launch!
  | Player -75% HP
  group:
  | group:
  | condition: turn 1
-   | (18288:74) Ａ.Ｔ.フィールド全開
+   | (18288:74) A.T. field at maximum strength!
    | Reduce damage from all sources by 50% for 10 turns
  | group:
  | condition: execute repeatedly, turn 1 of 2
-   | (18289:17) 主砲斉射用意
+   | (18289:17) All main guns, ready salvo!
    | Increase damage to 150% for the next 1 turn
  | group:
  | condition: execute repeatedly, turn 2 of 2
-   | (18290:79) 行けぇ！
+   | (18290:79) Fire!
    | Change the 2nd row to Fire orbs and the 4th row to Fire orbs, Deal 90% damage

@@ -8,19 +8,19 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18295:109) モードチェンジ、コード777
+ | (18295:109) Change modes! Code Triple Seven.
  | Random 2 orbs change every 1.5s for 7 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1-2 of 3
-     | (18297:92) 時間もない
+     | (18297:92) I'm out of time...
      | Spawn 7 random Fire orbs, Deal 85% damage
    | group:
    | condition: execute repeatedly, turn 3 of 3
-     | (18298:107) ゴメン2号機！
+     | (18298:107) Sorry, Unit 02!
      | Unable to match Heal orbs for 1 turn, Deal 100% damage
  | group:
  | condition: turn 1, hp <= 49
-   | (18296:17) 獣化第4形態
+   | (18296:17) Bestial Fourth Form
    | Increase damage to 150% for the next 5 turns

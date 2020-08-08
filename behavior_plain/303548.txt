@@ -1,4 +1,4 @@
-#303548 - 煌炎剣の勇士・クラウソラス
+#303548 - Heroic Firelight Sword, Claíomh Solais
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:17990) -> 煌炎の名剣術
+	[0] ESStatusShield(20:17990) -> Firelight Swordplay
 	Voids status ailments for 999 turns
-	[1] ESAttributeBlock(107:17991) -> クラウソラスの光
+	[1] ESAttributeBlock(107:17991) -> Celtic Light
 	Unable to match Water orbs for 3 turns
 
 #3: ESBranchCounter(32:22) -> ESBranchCounter
@@ -20,11 +20,11 @@ Branch on counter >= 2, target rnd 8
 #4: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#5: ESRandomSpawn(92:17992) -> 炎剣熱波
+#5: ESRandomSpawn(92:17992) -> Flaming Sword Heat Wave
 Condition: 50% chance (ai:0 rnd:50)
 Spawn 5 random Fire orbs, Deal 95% damage
 
-#6: ESAttackMultihit(15:17993) -> 烈火剣撃
+#6: ESAttackMultihit(15:17993) -> Raging Fire Sword Strike
 Condition: 50% chance (ai:0 rnd:50)
 Deal 105% damage (3 hits, 35% each)
 
@@ -37,7 +37,7 @@ Branch on flag & 1, target rnd 5
 #9: ESFlagOperation(22:12) -> ESFlagOperation
 flag SET 0b1
 
-#10: ESGravity(50:17994) -> 炎渦突進
+#10: ESGravity(50:17994) -> Flame Vortex Charge
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Player -120% HP
 

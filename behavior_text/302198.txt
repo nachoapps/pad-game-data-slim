@@ -1,4 +1,4 @@
-#302198 - 裏サンダーギア
+#302198 - Alt. Thunder Gear
 monster size: 3
 new AI: True
 start/max counter: 0
@@ -8,5 +8,5 @@ approved: False
 
 level: 1
  group:
- | (17957:15) パルスインパクト
+ | (17957:15) Pulsing Impact
  | Deal 1000% damage (10 hits, 100% each)

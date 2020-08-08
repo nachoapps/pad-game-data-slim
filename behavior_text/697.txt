@@ -8,16 +8,16 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18213:20) Ａ.Ｔ.フィールド展開
+ | (18213:20) Deploy A.T. Field
  | Voids status ailments for 5 turns
  group:
  | group:
    | condition: 50% chance
-   | (18214:1) 逃げちゃダメだ
+   | (18214:1) I mustn't run away
    | Bind 1 random card for 1~3 turns, Deal 80% damage
-   | (18215:15) プログレッシブ・ナイフ
+   | (18215:15) Progressive Knife
    | Deal 100% damage
  | group:
  | condition: hp <= 19
-   | (18216:79) 陽電子砲
+   | (18216:79) Positron Rifle
    | Change the 1st row to Water orbs, Deal 110% damage

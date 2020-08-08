@@ -8,19 +8,19 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18291:127) ヘーイ！カモーン！
+ | (18291:127) Hey, c'mon!
  | No skyfall for 8 turns
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (18292:1) 的を狙えば外さないよ
+     | (18292:1) When I aim... I don't miss!
      | Bind 3 random cards for 10 turns
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (18293:15) ハンドガン
+     | (18293:15) Hand Gun
      | Deal 100% damage (2 hits, 50% each)
  | group:
  | condition: hp <= 49
-   | (18294:89) 足止めはさせてもらうにゃ
+   | (18294:89) I'm going to slow you down.
    | Delay active skills by 2~4 turns, Deal 130% damage

@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17921:130) ハングリーデイズ
+ | (17921:130) Hungry Days
  | ATK -99% for 3 turns
  group:
- | (17958:83) べろりんちょ + がぶりんちょ
+ | (17958:83) Lick! + Chomp!
  | Player -99% HP + Deal 100% damage, Deal 100% damage

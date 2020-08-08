@@ -1,22 +1,11 @@
   monster_id: 2332
   levels {
-    level: 1
+    level: 4
     groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 2571
-        }
-      }
-    }
-  }
-  levels {
-    level: 5
-    groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 2571
+          enemy_skill_id: 18327
         }
       }
     }
@@ -65,4 +54,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

@@ -8,29 +8,29 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18191:129) 超根性
+ | (18191:129) Super Resolve
  | When reduced from HP > 50% to 0 HP, revive at 50% HP
  type: PREEMPT
- | (18192:83) 不落の神意 + 氷天使の審判
+ | (18192:83) Impregnable Divine Will + Judgement of the Ice Archangel
  | No skyfall for 10 turns + Movetime 50% for 10 turns, Deal 420% damage
  group:
  | group:
    | condition: 50% chance
-   | (18196:48) 聖氷の審判
+   | (18196:48) Holy Water's Judgment
    | Change a random attribute to Water orbs, Deal 470% damage
    | condition: 50% chance
-   | (18197:46) 天よりの裁き
+   | (18197:46) Divine Punishment
    | Change own attribute to random one of Fire or Water, Deal 500% damage
  | group:
  | condition: turn 1 while HP > 9, hp <= 49
-   | (18157:83) 氷結の大地 + 久遠の軌跡
+   | (18157:83) Frozen Earth + Everlasting Traces
    | Lock all orbs + Increase damage to 150% for the next 999 turns, Deal 420% damage
  | group:
  | condition: hp <= 9
    | group:
    | condition: turn 1
-     | (18198:84) 氷結の世界
+     | (18198:84) Frozen World
      | Change all orbs to Water
    | group:
-     | (18199:15) 命の破砕
+     | (18199:15) Life Crusher
      | Deal 2000% damage (5 hits, 400% each)

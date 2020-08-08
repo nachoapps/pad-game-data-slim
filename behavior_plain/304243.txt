@@ -1,4 +1,4 @@
-#304243 - 覚醒アルレシャ
+#304243 - Awoken Alrescha
 monster size: 5
 new AI: True
 start/max counter: 3
@@ -9,23 +9,23 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESStatusShield(20:18017) -> 双魚の双璧
+	[0] ESStatusShield(20:18017) -> Twin Jewels of Pisces
 	Voids status ailments for 999 turns
-	[1] ESVoidShield(71:18018) -> アクアウォール
+	[1] ESVoidShield(71:18018) -> Aqua Wall
 	Void damage >= 30000000 for 999 turns
 
 #3: ESBranchHP(29:19) -> ESBranchHP
 Branch on hp > 50, target rnd 5
 
-#4: ESAttackUPRemainingEnemies(17:18021) -> コスモチャージ
+#4: ESAttackUPRemainingEnemies(17:18021) -> Cosmic Charge
 Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (cost: 1)
 Increase damage to 200% for the next 999 turns
 
-#5: ESDebuffRCV(105:18019) -> トゥインクル☆ブラスト
+#5: ESDebuffRCV(105:18019) -> Twinkle ☆ Blast
 Condition: 50% chance (ai:0 rnd:50)
 RCV 50% for 1 turn, Deal 90% damage
 
-#6: ESAttackMultihit(15:18020) -> ミラクル☆スター
+#6: ESAttackMultihit(15:18020) -> Miracle ☆ Star
 Condition: 50% chance (ai:0 rnd:50)
 Deal 100% damage (4 hits, 25% each)
 

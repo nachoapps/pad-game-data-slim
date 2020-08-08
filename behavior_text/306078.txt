@@ -1,4 +1,4 @@
-#306078 - 裏魔導機士・メノア
+#306078 - Magical Machinist, Menoa
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -8,23 +8,27 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18113:73) 根性
+ | (18113:73) Resolve
  | Survive attacks with 1 HP when HP > 50%
  type: PREEMPT
- | (18114:74) 機工障壁
+ | (18114:74) Mechanical Wall
  | Reduce damage from all sources by 90% for 999 turns
  group:
  | group:
+   | (18115:46) Elemental Shift
+   | Change own attribute to Wood, Deal 150% damage
    | condition: 33% chance
-   | (14721:83) エレメントシフト + クイックタイム
-   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Movetime -3s for 1 turn, Deal 95% damage
+   | (18116:39) Quick Time
+   | Movetime -3s for 1 turn, Deal 95% damage
    | condition: 33% chance
-   | (14722:83) エレメントシフト + テリトリードロップ
-   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + No skyfall for 1 turn
+   | (18117:127) Territory Drop
+   | No skyfall for 1 turn
    | condition: 34% chance
-   | (14723:83) エレメントシフト + パワーブレイク
-   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + ATK -25% for 1 turn, Deal 100% damage
+   | (18118:130) Power Break
+   | ATK -25% for 1 turn, Deal 100% damage
  | group:
  | condition: hp <= 9
-   | (14724:83) エレメントシフト + 魔導バースト
-   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)
+   | (18115:46) Elemental Shift
+   | Change own attribute to Wood, Deal 150% damage
+   | (18119:15) Magical Burst
+   | Deal 1000% damage (10 hits, 100% each)

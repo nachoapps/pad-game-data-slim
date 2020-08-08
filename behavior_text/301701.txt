@@ -1,4 +1,4 @@
-#301701 - 裏ちびドラ
+#301701 - Alt. ChibiDra
 monster size: 1
 new AI: True
 start/max counter: 1
@@ -8,10 +8,10 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17987:108) いたずらタックル
+ | (17987:108) Mischievous Tackle
  | Change all Light orbs to Dark orbs, Deal 100% damage
- | (17988:50) いたずらダイブ
+ | (17988:50) Mischievous Dive
  | Player -100% HP
  group:
- | (17988:50) いたずらダイブ
+ | (17988:50) Mischievous Dive
  | Player -100% HP

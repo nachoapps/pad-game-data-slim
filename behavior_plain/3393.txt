@@ -7,7 +7,7 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESAttributeBlock(107:18270) -> 私には他になにもないもの
+#2: ESAttributeBlock(107:18270) -> I have nothing else.
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Unable to match Light orbs for 3 turns
 
@@ -20,7 +20,7 @@ Branch on counter >= 2, target rnd 8
 #5: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#6: ESRowSpawnMulti(79:18272) -> ムーンフェイズ
+#6: ESRowSpawnMulti(79:18272) -> Moon Phase
 Change the 3rd row to Heal and Jammer orbs, Deal 100% damage
 
 #7: ESEndPath(36:26) -> ESEndPath
@@ -29,13 +29,13 @@ end_turn
 #8: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#9: ESVoidShield(71:18271) -> ミルの加護
+#9: ESVoidShield(71:18271) -> Myr's Providence
 Void damage >= 1000000 for 3 turns
 
 #10: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#11: ESOrbChangeAttackBits(108:18273) -> 継界龍合・トルヴィオ
+#11: ESOrbChangeAttackBits(108:18273) -> Eternal Dragon Pact - Torvio
 Change all Water and Dark orbs to Light orbs, Deal 130% damage
 
 #12: ESEndPath(36:26) -> ESEndPath

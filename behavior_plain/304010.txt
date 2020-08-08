@@ -1,4 +1,4 @@
-#304010 - 秋黄菊の君子・シュウミン
+#304010 - Fall Chrysanthemum Virtue, Xiu Min
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -9,26 +9,26 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESStatusShield(20:18088) -> 君子の慎み
+	[0] ESStatusShield(20:18088) -> Noble One's Modesty
 	Voids status ailments for 999 turns
-	[1] ESSpinnersFixed(110:18089) -> 無心の至芸
+	[1] ESSpinnersFixed(110:18089) -> Devotion to Innocence
 	Specific orbs change every 1.0s for 10 turns
 
-#3: ESChangeAttribute(46:18082) -> 黄菊の色彩
+#3: ESChangeAttribute(46:18082) -> Yellow Chrysanthemum
 Change own attribute to Light, Deal 150% damage
 
-#4: ESAttackUPCooldown(19:18112) -> 君子の美技
+#4: ESAttackUPCooldown(19:18112) -> Noble One's Mastery
 Increase damage to 1000% for the next 999 turns
 
-#5: ESSpinnersRandom(109:18090) -> 回の時節
+#5: ESSpinnersRandom(109:18090) -> Season of Transition
 Condition: 33% chance (ai:0 rnd:33)
 Random 2 orbs change every 0.5s for 1 turn, Deal 100% damage
 
-#6: ESSpinnersRandom(109:18091) -> 回の時節
+#6: ESSpinnersRandom(109:18091) -> Season of Transition
 Condition: 34% chance (ai:0 rnd:34)
 Random 4 orbs change every 1.0s for 1 turn, Deal 100% damage
 
-#7: ESSpinnersRandom(109:18092) -> 回の時節
+#7: ESSpinnersRandom(109:18092) -> Season of Transition
 Condition: 33% chance (ai:0 rnd:33)
 Random 6 orbs change every 2.0s for 1 turn, Deal 100% damage
 

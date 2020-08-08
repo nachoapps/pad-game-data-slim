@@ -9,9 +9,9 @@ Enable preempt if level 1
 
 #2: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESNoSkyfall(127:18193) -> 不落の神意
+	[0] ESNoSkyfall(127:18193) -> Impregnable Divine Will
 	No skyfall for 10 turns
-	[1] ESDebuffMovetime(39:18194) -> 氷天使の審判
+	[1] ESDebuffMovetime(39:18194) -> Judgement of the Ice Archangel
 	Movetime 50% for 10 turns, Deal 420% damage
 
 #3: ESBranchHP(28:18) -> ESBranchHP
@@ -20,11 +20,11 @@ Branch on hp < 10, target rnd 12
 #4: ESBranchHP(28:18) -> ESBranchHP
 Branch on hp < 50, target rnd 8
 
-#5: ESOrbChangeAttack(48:18196) -> 聖氷の審判
+#5: ESOrbChangeAttack(48:18196) -> Holy Water's Judgment
 Condition: 50% chance (ai:0 rnd:50)
 Change a random attribute to Water orbs, Deal 470% damage
 
-#6: ESChangeAttribute(46:18197) -> 天よりの裁き
+#6: ESChangeAttribute(46:18197) -> Divine Punishment
 Condition: 50% chance (ai:0 rnd:50)
 Change own attribute to random one of Fire or Water, Deal 500% damage
 
@@ -38,23 +38,23 @@ Branch on flag & 1, target rnd 5
 flag SET 0b1
 
 #10: SkillSet:
-	[0] ESOrbLock(94:18167) -> 氷結の大地
+	[0] ESOrbLock(94:18167) -> Frozen Earth
 	Lock all orbs
-	[1] ESAttackUPRemainingEnemies(17:18195) -> 久遠の軌跡
+	[1] ESAttackUPRemainingEnemies(17:18195) -> Everlasting Traces
 	Increase damage to 150% for the next 999 turns, Deal 420% damage
 
 #11: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#12: ESBoardChange(84:18198) -> 氷結の世界
+#12: ESBoardChange(84:18198) -> Frozen World
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Change all orbs to Water
 
-#13: ESAttackMultihit(15:18199) -> 命の破砕
+#13: ESAttackMultihit(15:18199) -> Life Crusher
 Deal 2000% damage (5 hits, 400% each)
 
 #14: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#15: ESSuperResolve(129:18191) -> 超根性
+#15: ESSuperResolve(129:18191) -> Super Resolve
 When reduced from HP > 50% to 0 HP, revive at 50% HP

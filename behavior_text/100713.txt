@@ -1,4 +1,4 @@
-#100713 - 第4の使徒
+#100713 - The Fourth Angel
 monster size: 2
 new AI: True
 start/max counter: 0
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18316:92) 光線
+ | (18316:92) Light Ray
  | Spawn 5 random Light orbs, Deal 120% damage
  group:
- | (18316:92) 光線
+ | (18316:92) Light Ray
  | Spawn 5 random Light orbs, Deal 120% damage

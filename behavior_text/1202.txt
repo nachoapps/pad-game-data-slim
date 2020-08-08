@@ -8,19 +8,19 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18237:104) ヴンダー発進！
+ | (18237:104) Wunder, launch!
  | A 2×2 square of clouds appears for 4 turns at a random location
  group:
  | group:
    | group:
    | condition: execute repeatedly, turn 1 of 2
-     | (18239:101) 主砲発射準備
+     | (18239:101) Main guns, ready fire!
      | Fix orb movement starting point to random position on the board
    | group:
    | condition: execute repeatedly, turn 2 of 2
-     | (18240:108) 撃てぇ！
+     | (18240:108) Fire!
      | Change all Water and Wood orbs to Fire orbs, Deal 100% damage
  | group:
  | condition: hp <= 19
-   | (18238:92) 今だ！
+   | (18238:92) Now!
    | Spawn 6 random Light orbs, Deal 120% damage

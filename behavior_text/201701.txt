@@ -1,4 +1,4 @@
-#201701 - ちびドラ
+#201701 - ChibiDra
 monster size: 1
 new AI: True
 start/max counter: 0
@@ -8,5 +8,5 @@ approved: False
 
 level: 5
  group:
- | (1627:48) いたずらアタック
+ | (1627:48) Mischievous Attack
  | Change a random attribute to Jammer orbs, Deal 100% damage

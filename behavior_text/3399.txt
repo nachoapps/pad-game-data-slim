@@ -8,18 +8,18 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18233:97) 私は…何？
+ | (18233:97) Then what am I?
  | Blind random 3~5 orbs for 5 turns
  group:
  | group:
  | condition: execute repeatedly, turn 1 of 3
-   | (18235:74) 命令を待ってる
+   | (18235:74) I wait for orders.
    | Reduce damage from all sources by 50% for 3 turns
  | group:
  | condition: execute repeatedly, turn 2 of 3
-   | (18234:99) 命令ならそうする
+   | (18234:99) If it's an order, I will.
    | Seal the 6th column for 2 turns, Deal 85% damage
  | group:
  | condition: execute repeatedly, turn 3 of 3
-   | (18236:15) これが命令
+   | (18236:15) This was in my orders.
    | Deal 120% damage (3 hits, 40% each)

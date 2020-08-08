@@ -8,13 +8,13 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (18312:62) 侵食
+ | (18312:62) Corrosion
  | Blind all orbs on the board, Deal 100% damage
  group:
  | group:
-   | (18312:62) 侵食
+   | (18312:62) Corrosion
    | Blind all orbs on the board, Deal 100% damage
  | group:
  | condition: hp <= 49
-   | (18311:97) 侵食
+   | (18311:97) Corrosion
    | Blind random 4~6 orbs for 1 turn, Deal 120% damage

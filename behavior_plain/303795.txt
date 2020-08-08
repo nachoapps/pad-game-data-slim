@@ -1,4 +1,4 @@
-#303795 - 古代の三神面
+#303795 - Ancient Tri-God Mask
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESLeaderSwap(75:18171) -> 三神面の眼光
+#2: ESLeaderSwap(75:18171) -> Ancient Tri-God Mask's Discernment
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Leader changes to random sub for 5 turns
 
-#3: ESAttackMultihit(15:18173) -> アイレーザー
+#3: ESAttackMultihit(15:18173) -> Ocular Laser
 Deal 100% damage
 
 #4: ESEndPath(36:26) -> ESEndPath

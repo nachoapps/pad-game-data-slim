@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESGravity(50:18287) -> 全艦、緊急発進！ 
+#2: ESGravity(50:18287) -> Emergency Launch!
 Condition: One-time use (ai:100 rnd:0) (cost: 2)
 Player -75% HP
 
-#3: ESDamageShield(74:18288) -> Ａ.Ｔ.フィールド全開
+#3: ESDamageShield(74:18288) -> A.T. field at maximum strength!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Reduce damage from all sources by 50% for 10 turns
 
@@ -21,7 +21,7 @@ Branch on counter >= 1, target rnd 8
 #5: ESSetCounter(26:16) -> ESSetCounter
 counter + 1
 
-#6: ESAttackUPRemainingEnemies(17:18289) -> 主砲斉射用意
+#6: ESAttackUPRemainingEnemies(17:18289) -> All main guns, ready salvo!
 Condition: when <= 1 enemies remain (ai:100 rnd:0)
 Increase damage to 150% for the next 1 turn
 
@@ -31,7 +31,7 @@ end_turn
 #8: ESSetCounter(25:15) -> ESSetCounter
 counter = 0
 
-#9: ESRowSpawnMulti(79:18290) -> 行けぇ！
+#9: ESRowSpawnMulti(79:18290) -> Fire!
 Change the 2nd row to Fire orbs and the 4th row to Fire orbs, Deal 90% damage
 
 #10: ESEndPath(36:26) -> ESEndPath

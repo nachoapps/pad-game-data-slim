@@ -1,4 +1,4 @@
-#302306 - 裏河童
+#302306 - Alt. Kappa
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESRandomSpawn(92:18007) -> どいたどいたぁ！
+#2: ESRandomSpawn(92:18007) -> Out of the way!
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Spawn 15 random Jammer orbs
 
-#3: ESOrbChangeAttack(48:18008) -> シャケナブレード
+#3: ESOrbChangeAttack(48:18008) -> Salmon Blade
 Change a random attribute to Water orbs, Deal 100% damage
 
 #4: ESEndPath(36:26) -> ESEndPath

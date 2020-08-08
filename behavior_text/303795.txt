@@ -1,4 +1,4 @@
-#303795 - 古代の三神面
+#303795 - Ancient Tri-God Mask
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18171:75) 三神面の眼光
+ | (18171:75) Ancient Tri-God Mask's Discernment
  | Leader changes to random sub for 5 turns
  group:
- | (18173:15) アイレーザー
+ | (18173:15) Ocular Laser
  | Deal 100% damage

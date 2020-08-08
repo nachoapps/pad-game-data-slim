@@ -1,4 +1,4 @@
-#100714 - 第4の使徒・戦闘形態
+#100714 - The Fourth Angel - Assault Mode
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESAbsorbCombo(67:18315) -> 光のパイル
+#2: ESAbsorbCombo(67:18315) -> Pillar of Light
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Absorb damage when combos <= 6 for 99 turns, Deal 100% damage
 
-#3: ESRandomSpawn(92:18316) -> 光線
+#3: ESRandomSpawn(92:18316) -> Light Ray
 Condition: 70% chance (ai:70 rnd:0)
 Spawn 5 random Light orbs, Deal 120% damage
 

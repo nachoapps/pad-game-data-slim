@@ -1,4 +1,4 @@
-#200707 - 第5の使徒
+#200707 - The Fifth Angel
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (18323:1) 触手
+ | (18323:1) Tentacles
  | Bind 1 random card for 1 turn, Deal 40% damage
  group:
- | (18323:1) 触手
+ | (18323:1) Tentacles
  | Bind 1 random card for 1 turn, Deal 40% damage

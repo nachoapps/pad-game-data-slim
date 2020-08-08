@@ -1,4 +1,4 @@
-#200069 - フレイムナイト
+#200069 - Flame Knight
 monster size: 2
 new AI: True
 start/max counter: 1
@@ -7,15 +7,15 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESBindAwoken(88:18184) -> 騎士の決闘
+#2: ESBindAwoken(88:18184) -> Knight's Duel
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Bind awoken skills for 1 turn
 
-#3: ESBombRandomSpawn(102:18185) -> バーンフレイム
+#3: ESBombRandomSpawn(102:18185) -> Burning Flame
 Spawn 5 random Bomb orbs, Deal 100% damage
 
 #4: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#5: ESSuperResolve(129:18183) -> 超根性
+#5: ESSuperResolve(129:18183) -> Super Resolve
 When reduced from HP > 50% to 0 HP, revive at 50% HP

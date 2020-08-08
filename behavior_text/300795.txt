@@ -1,4 +1,4 @@
-#300795 - 裏ダークレディ
+#300795 - Alt. Wicked Lady
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18003:92) ブラッディクロー
+ | (18003:92) Bloody Claw
  | Spawn 5 random Mortal Poison orbs
  group:
- | (18004:92) ダークネスネイル
+ | (18004:92) Dark Nail
  | Spawn 5 random Dark orbs, Deal 100% damage

@@ -1,4 +1,4 @@
-#302196 - 裏アクアギア
+#302196 - Alt. Aqua Gear
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (17955:109) 対象を排除する
+ | (17955:109) Eliminate Targets
  | Random 5 orbs change every 1.0s for 4 turns
  group:
- | (17956:92) フリーズパルス
+ | (17956:92) Freeze Pulse
  | Spawn 1 random Water orb, Deal 100% damage

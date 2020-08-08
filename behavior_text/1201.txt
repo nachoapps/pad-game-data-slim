@@ -8,20 +8,20 @@ approved: False
 
 level: 1
  type: PASSIVE
- | (18308:129) 超根性
+ | (18308:129) Super Resolve
  | When reduced from HP > 75% to 0 HP, revive at 75% HP
  type: PREEMPT
- | (18309:83) 疑似シン化第3+形態（推定） + はじまりの儀式
+ | (18309:83) Pseudo-Evolution 3+ Phase (Est.) + This is its opening rite.
  | Void damage >= 10000000 for 6 turns + ATK -50% for 6 turns
  group:
  | group:
  | condition: turn 1
-   | (18305:68) ごめん
+   | (18305:68) I'm sorry.
    | Jammer and Poison skyfall +15% for 4 turns, Deal 100% damage
  | group:
  | condition: turn 2
-   | (18306:88) そんな顔をしないで
+   | (18306:88) Don't look so sad.
    | Bind awoken skills for 2 turns, Deal 100% damage
  | group:
-   | (18307:79) ロンギヌスの槍
+   | (18307:79) Spear of Longinus
    | Change the 1st row to Water orbs and the 5th row to Dark orbs, Deal 10000% damage

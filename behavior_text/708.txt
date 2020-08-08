@@ -8,8 +8,8 @@ approved: False
 
 level: 4
  type: PREEMPT
- | (18324:1) 触手
+ | (18324:1) Tentacles
  | Bind 1 random card for 5 turns, Deal 80% damage
  group:
- | (18333:15) なぎ払う
+ | (18333:15) Cut Down
  | Deal 90~150% damage (3~5 hits, 30% each)

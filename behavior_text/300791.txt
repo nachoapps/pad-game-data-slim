@@ -1,4 +1,4 @@
-#300791 - 裏ケンタウロス
+#300791 - Alt. Centaur
 monster size: 3
 new AI: True
 start/max counter: 1
@@ -8,8 +8,8 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18001:67) 高速の槍舞
+ | (18001:67) Rapid Spear Dance
  | Absorb damage when combos <= 6 for 999 turns
  group:
- | (18002:15) 五月雨突き
+ | (18002:15) Rainfall Thrust
  | Deal 100% damage (2 hits, 50% each)

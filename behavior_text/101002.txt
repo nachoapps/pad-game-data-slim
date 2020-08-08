@@ -1,4 +1,4 @@
-#101002 - 裏たまドラベビー
+#101002 - Alt. Baby TAMADRA
 monster size: 1
 new AI: True
 start/max counter: 1
@@ -8,15 +8,15 @@ approved: False
 
 level: 1
  group:
- | (18365:63) ピュアタックル
+ | (18365:63) Pure Tackle
  | Bind 1 random card for 1 turn, Deal 100% damage
 
 level: 10
  type: PREEMPT
- | (18364:108) たまぁ～♪
+ | (18364:108) TAMA-♪
  | Change all Dark orbs to Light orbs
- | (18365:63) ピュアタックル
+ | (18365:63) Pure Tackle
  | Bind 1 random card for 1 turn, Deal 100% damage
  group:
- | (18365:63) ピュアタックル
+ | (18365:63) Pure Tackle
  | Bind 1 random card for 1 turn, Deal 100% damage

@@ -1,4 +1,4 @@
-#100708 - 第5の使徒・戦闘形態
+#100708 - The Fifth Angel - Assault Mode
 monster size: 4
 new AI: True
 start/max counter: 1
@@ -7,11 +7,11 @@ counter increment: 0
 #1: ESPreemptive(49:318) -> ESPreemptive
 Enable preempt if level 1
 
-#2: ESBindRandom(1:18314) -> 触手
+#2: ESBindRandom(1:18314) -> Tentacles
 Condition: One-time use (ai:100 rnd:0) (cost: 1)
 Bind 3 random cards for 10 turns, Deal 100% damage
 
-#3: ESAttackMultihit(15:18333) -> なぎ払う
+#3: ESAttackMultihit(15:18333) -> Cut Down
 Deal 90~150% damage (3~5 hits, 30% each)
 
 #4: ESEndPath(36:26) -> ESEndPath
