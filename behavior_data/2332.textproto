@@ -22,23 +22,12 @@
     }
   }
   level_overrides {
-    level: 1
+    level: 4
     groups {
       group_type: PREEMPT
       children {
         behavior {
-          enemy_skill_id: 2571
-        }
-      }
-    }
-  }
-  level_overrides {
-    level: 5
-    groups {
-      group_type: PREEMPT
-      children {
-        behavior {
-          enemy_skill_id: 2571
+          enemy_skill_id: 18327
         }
       }
     }
@@ -54,4 +43,4 @@
       }
     }
   }
-  status: NEEDS_REAPPROVAL
+  status: APPROVED_AS_IS
