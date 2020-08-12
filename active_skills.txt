@@ -775,12 +775,12 @@ JP: 5ターンの間、光属性の攻撃を無効化
 EN: For 5 turns, void all Light damage
 KR: For 5 turns, void all Light damage
 
-# 157/9 - Attack Stance - Water
+# 157/154 - Attack Stance - Water
 Tags: ATTACK_STANCE,ORB_CONVERT
 Game: Changes Heal Orbs to Water Orbs
-JP: 回復ドロップを水ドロップに変化
-EN: Change Heal orbs to Water orbs
-KR: Change Heal orbs to Water orbs
+JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 158/154 - Attack Stance - Wood
 Tags: ATTACK_STANCE,ORB_CONVERT

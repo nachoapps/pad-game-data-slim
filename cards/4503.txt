@@ -3,12 +3,12 @@ HP: 150 ATK: 150 RCV: 150 LB: 0
 AWK: 
 SAWK: 
 
-# 157/9 - Attack Stance - Water
+# 157/154 - Attack Stance - Water
 Tags: ATTACK_STANCE,ORB_CONVERT
 Game: Changes Heal Orbs to Water Orbs
-JP: 回復ドロップを水ドロップに変化
-EN: Change Heal orbs to Water orbs
-KR: Change Heal orbs to Water orbs
+JP: 回復、お邪魔、毒、猛毒ドロップを水ドロップに変化
+EN: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
+KR: Change Heal, Jammer, Poison, and Mortal Poison orbs to Water orbs
 
 # 10628/129 - Gem
 Tags: 
