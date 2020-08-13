@@ -94817,70 +94817,70 @@ JP: 7ターンの間、受けるダメージからの攻撃を77%減少
 EN: Reduce damage from all sources by 77% for 7 turns
 KR: Reduce damage from all sources by 77% for 7 turns
 
-# 18956/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18956/73 - 根性
+JP: HP75%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 75%
+KR: Survive attacks with 1 HP when HP > 75%
 
-# 18957/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18957/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18958/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18958/71 - 流壁の魔法陣
+JP: 999ターンの間、10000000以上のダメージを無効化
+EN: Void damage >= 10000000 for 999 turns
+KR: Void damage >= 10000000 for 999 turns
 
-# 18959/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18959/130 - 魅惑の魔水
+JP: 3ターンの間、攻撃力が90%減少
+EN: ATK -90% for 3 turns
+KR: ATK -90% for 3 turns
 
-# 18960/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18960/15 - フィアフルスプラッシュ
+JP: 1200%ダメージ (4連続攻撃、300%ごと)
+EN: Deal 1200% damage (4 hits, 300% each)
+KR: Deal 1200% damage (4 hits, 300% each)
 
-# 18961/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18961/15 - ウォータリングジェイル
+JP: 100%ダメージ (4連続攻撃、25%ごと)
+EN: Deal 100% damage (4 hits, 25% each)
+KR: Deal 100% damage (4 hits, 25% each)
 
-# 18962/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18962/17 - 嘆きの怒り
+JP: 999ターンの間、攻撃力が200%に上昇
+EN: Increase damage to 200% for the next 999 turns
+KR: Increase damage to 200% for the next 999 turns
 
-# 18963/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18963/83 - ＿1％行動
+JP: 
+EN: 
+KR: 
 
-# 18964/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18964/67 - 魔君主の誘惑
+JP: 1ターンの間、8コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 8 for 1 turn
+KR: Absorb damage when combos <= 8 for 1 turn
 
-# 18965/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18965/39 - 今際の劣情
+JP: 1ターンの間、操作時間25%
+EN: Movetime 25% for 1 turn
+KR: Movetime 25% for 1 turn
 
-# 18966/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18966/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18967/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18967/66 - お会いすることが出来ましたね
+JP: 何もしない
+EN: Do nothing
+KR: Do nothing
 
-# 18968/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18968/40 - この先も頑張ってくださいね
+JP: 自爆
+EN: Reduce self HP to 0
+KR: Reduce self HP to 0
 
 # 18969/0 - なし
 JP: nothing
