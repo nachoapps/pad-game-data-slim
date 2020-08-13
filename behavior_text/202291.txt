@@ -1,0 +1,12 @@
+#202291 - 夏色の旅行者・チェスター
+monster size: 5
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 202291
+approved: False
+
+level: 1
+ type: PREEMPT
+ | (18692:83) 日差しが気持ちいいですね + 一緒に夏を楽しみましょう
+ | Do nothing + Reduce self HP to 0
