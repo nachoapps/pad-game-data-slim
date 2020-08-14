@@ -138,10 +138,25 @@
         "file_name": "gatya_beach.btex"
     },
     {
+        "file_name": "gc_button26.btex"
+    },
+    {
         "file_name": "bgm_045.caf"
     },
     {
         "file_name": "bgm_046.caf"
+    },
+    {
+        "file_name": "titlebeach.btex"
+    },
+    {
+        "file_name": "title004_35.btex"
+    },
+    {
+        "file_name": "title004_40.btex"
+    },
+    {
+        "file_name": "title004_58.btex"
     },
     {
         "file_name": "dung089.btex"
@@ -1357,12 +1372,6 @@
     },
     {
         "file_name": "gc_button25.btex"
-    },
-    {
-        "file_name": "gc_button26.btex"
-    },
-    {
-        "file_name": "titlebeach.btex"
     },
     {
         "file_name": "dung113parts.btex"
@@ -4015,5 +4024,11 @@
     },
     {
         "file_name": "dung154.btex"
+    },
+    {
+        "file_name": "block052.btex"
+    },
+    {
+        "file_name": "block052cb.btex"
     }
 ]
