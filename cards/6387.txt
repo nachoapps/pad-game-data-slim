@@ -1,0 +1,20 @@
+#6387 砂浜の緑龍喚士・ソニア
+HP: 4238 ATK: 2419 RCV: 274 LB: 35
+AWK: 53,56,20,27,27,46,31,31,31
+SAWK: 52,46,48
+
+# 3340/116 - Sea Draco Summoning Circle-Wt & Wd
+Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
+Game: Changes all Orbs to Water & Wood Orbs; other allies' skills charged by 2 turns
+JP: 全ドロップを水と木ドロップに変化。自分以外の味方スキルが2ターンの溜まる
+EN: Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns
+KR: Change all orbs to Water and Wood orbs; Charge all allies' skills by 2 turns
+
+# 18153/138 - 私とサーフィンしないか？
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 15.0, 3.0, 0.5]
+Game: ドラゴンと攻撃タイプの攻撃力と回復力が3倍。 6コンボ以上でダメージを半減、攻撃力が5倍。
+JP: ドラゴンと攻撃タイプの攻撃力と回復力が3倍。6コンボ以上で攻撃力が5倍、受けるダメージを50％減少。
+EN: 3x ATK & RCV for Dragon and Attacker type; 5x ATK and reduce damage taken by 50% when 6 or more combos
+KR: 3x ATK & RCV for Dragon and Attacker type; 5x ATK and reduce damage taken by 50% when 6 or more combos
+

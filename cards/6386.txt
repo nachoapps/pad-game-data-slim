@@ -1,0 +1,20 @@
+#6386 暑夏なるもの・ヨグ＝ソトース
+HP: 7008 ATK: 2515 RCV: 333 LB: 15
+AWK: 52,53,28,56,30,48,43,43,45
+SAWK: 43,48,59
+
+# 11342/116 - Overflowing Summer Colors
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Changes all Orbs to Water & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
+JP: 全ドロップを水と回復ドロップに変化。最大HP40％分回復。バインドと覚醒無効を4ターン回復
+EN: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
+KR: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
+
+# 18150/138 - 夏雲の怪異
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1, 21.0, 3.0, 0.5]
+Game: HP80％以上で攻撃力が6倍、79％以下で攻撃力と回復力が3倍。 水の2コンボ以上でダメージを半減、攻撃力が3.5倍。
+JP: HPが80%以上で攻撃力が6倍。HPが79%以下で攻撃力と回復力が3倍。水の2コンボ以上で攻撃力が3.5倍、受けるダメージを50％減少。
+EN: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+KR: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+

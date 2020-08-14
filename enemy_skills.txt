@@ -94882,78 +94882,158 @@ JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0
 
-# 18969/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18969/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 18970/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18970/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18971/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18971/1 - 泳ぐ準備は出来ているか？
+JP: 3ターンの間、ランダムで6体がバインド
+EN: Bind 6 random cards for 3 turns
+KR: Bind 6 random cards for 3 turns
 
-# 18972/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18972/88 - よし！ついてこい！
+JP: 3ターンの間、覚醒スキル無効化
+EN: Bind awoken skills for 3 turns
+KR: Bind awoken skills for 3 turns
 
-# 18973/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18973/83 - ＿通常
+JP: 
+EN: 
+KR: 
 
-# 18974/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18974/50 - もっと早く泳ぐぞ！
+JP: 現HPの50%のダメージ
+EN: Player -50% HP
+KR: Player -50% HP
 
-# 18975/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18975/15 - てやっ！
+JP: 100%ダメージ
+EN: Deal 100% damage
+KR: Deal 100% damage
 
-# 18976/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18976/83 - ＿HP1％
+JP: 
+EN: 
+KR: 
 
-# 18977/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18977/7 - 今のは苦しかったな
+JP: 敵のHPが50％回復
+EN: Enemy recover 50% HP
+KR: Enemy recover 50% HP
 
-# 18978/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18978/71 - しかしまだこれからだ！
+JP: 999ターンの間、5000000以上のダメージを無効化
+EN: Void damage >= 5000000 for 999 turns
+KR: Void damage >= 5000000 for 999 turns
 
-# 18979/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18979/15 - 今日はここまでだ！
+JP: 300%ダメージ (3連続攻撃、100%ごと)
+EN: Deal 300% damage (3 hits, 100% each)
+KR: Deal 300% damage (3 hits, 100% each)
 
-# 18980/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18980/83 - ＿先制
+JP: 
+EN: 
+KR: 
 
-# 18981/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18981/107 - 一緒に遊びませんか？
+JP: 5ターンの間、火と木ドロップを消せなくなる
+EN: Unable to match Fire and Wood orbs for 5 turns
+KR: Unable to match Fire and Wood orbs for 5 turns
 
-# 18982/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18982/110 - ぐるぐるしよーよ
+JP: 5.0ターンの間、特定の位置のマスが1.0秒毎に変化する
+EN: Specific orbs change every 1.0s for 5 turns
+KR: Specific orbs change every 1.0s for 5 turns
 
-# 18983/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18983/83 - ＿通常
+JP: 
+EN: 
+KR: 
+
+# 18984/48 - いきますよ～！
+JP: ランダム属性のドロップを水ドロップに変化
+EN: Change a random attribute to Water orbs
+KR: Change a random attribute to Water orbs
+
+# 18985/15 - それ～い！
+JP: 60%ダメージ
+EN: Deal 60% damage
+KR: Deal 60% damage
+
+# 18986/83 - ＿5ターン
+JP: 
+EN: 
+KR: 
+
+# 18987/39 - もう時間のようですね
+JP: 10ターンの間、操作時間50%
+EN: Movetime 50% for 10 turns
+KR: Movetime 50% for 10 turns
+
+# 18988/67 - 帰りの準備しなきゃだね
+JP: 10ターンの間、7コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 7 for 10 turns
+KR: Absorb damage when combos <= 7 for 10 turns
+
+# 18989/15 - 楽しかったですね
+JP: 300%ダメージ (2連続攻撃、150%ごと)
+EN: Deal 300% damage (2 hits, 150% each)
+KR: Deal 300% damage (2 hits, 150% each)
+
+# 18990/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
+
+# 18991/83 - ＿先制
+JP: 
+EN: 
+KR: 
+
+# 18992/20 - 楽しむぞー！
+JP: 999ターンの間、状態異常無効化
+EN: Voids status ailments for 999 turns
+KR: Voids status ailments for 999 turns
+
+# 18993/71 - 祭りだ祭りだー！
+JP: 999ターンの間、15000000以上のダメージを無効化
+EN: Void damage >= 15000000 for 999 turns
+KR: Void damage >= 15000000 for 999 turns
+
+# 18994/83 - ＿50%以下
+JP: 
+EN: 
+KR: 
+
+# 18995/17 - 盛り上がって来たよー！
+JP: 999ターンの間、攻撃力が150%に上昇
+EN: Increase damage to 150% for the next 999 turns
+KR: Increase damage to 150% for the next 999 turns
+
+# 18996/67 - わーっしょいっ！
+JP: 999ターンの間、6コンボ以下の攻撃を吸収
+EN: Absorb damage when combos <= 6 for 999 turns
+KR: Absorb damage when combos <= 6 for 999 turns
+
+# 18997/15 - 水風船ヨーヨー
+JP: 120%ダメージ (2連続攻撃、60%ごと)
+EN: Deal 120% damage (2 hits, 60% each)
+KR: Deal 120% damage (2 hits, 60% each)
+
+# 18998/92 - 打ち上げ花火
+JP: 火ドロップを6個生成
+EN: Spawn 6 random Fire orbs
+KR: Spawn 6 random Fire orbs
+
+# 18999/85 - やぐら提灯スパーク
+JP: 全ドロップを火に変化
+EN: Change all orbs to Fire
+KR: Change all orbs to Fire
 

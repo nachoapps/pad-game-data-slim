@@ -13831,20 +13831,20 @@ EN: 3x ATK for Water Att.; 1.35x HP & RCV for Fire Att.
 KR: 3x ATK for Water Att.; 1.35x HP & RCV for Fire Att.
 
 # 3458/138 - Splitting Watermelons is Fun!
-Tags: ENHANCED_HP_ATK
-Stats: [1.5, 3.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 15.0, 1.0, 0.0, +1]
 Game: 3x ATK for Devil Type; 1.5x HP for Dark Att.
-JP: 闇属性のHPが1.5倍。悪魔タイプの攻撃力が3倍。
-EN: 1.5x HP for Dark Att.; 3x ATK for Devil type
-KR: 1.5x HP for Dark Att.; 3x ATK for Devil type
+JP: 闇属性のHPが2倍。悪魔タイプの攻撃力が3倍。闇の2コンボ以上で攻撃力が5倍。2コンボ以上で1コンボ加算
+EN: 2x HP for Dark Att.; 3x ATK for Devil type; 5x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+KR: 2x HP for Dark Att.; 3x ATK for Devil type; 5x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
 
 # 3459/48 - 
 Tags: ENHANCED_HP
-Stats: [1.5, 1, 1, 0]
+Stats: [2.0, 1, 1, 0]
 Game: 
-JP: 闇属性のHPが1.5倍。
-EN: 1.5x HP for Dark Att.
-KR: 1.5x HP for Dark Att.
+JP: 闇属性のHPが2倍。
+EN: 2x HP for Dark Att.
+KR: 2x HP for Dark Att.
 
 # 3460/129 - 
 Tags: ENHANCED_ATK
@@ -24512,11 +24512,11 @@ KR: 4x ATK on the turn a skill is used
 
 # 5775/138 - You can't escape from me!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.0, 15.4, 1.0, 0.5]
+Stats: [1.0, 23.1, 1.0, 0.5]
 Game: 7.7x ATK & halves damage with a cross of 5 Heal Orbs; 2x ATK for Water Att., Orb move time +3 seconds
-JP: 回復の5個十字消しで攻撃力が7.7倍、受けるダメージを50％減少。水属性の攻撃力が2倍。ドロップ操作時間を3秒延長。
-EN: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 2x ATK for Water Att.; Increase orb movement time by 3 seconds
-KR: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 2x ATK for Water Att.; Increase orb movement time by 3 seconds
+JP: 回復の5個十字消しで攻撃力が7.7倍、受けるダメージを50％減少。水属性の攻撃力が3倍。ドロップ操作時間を3秒延長。
+EN: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 3x ATK for Water Att.; Increase orb movement time by 3 seconds
+KR: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 3x ATK for Water Att.; Increase orb movement time by 3 seconds
 
 # 5776/151 - 
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
@@ -24528,11 +24528,11 @@ KR: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross
 
 # 5777/185 - 
 Tags: ENHANCED_ATK,EXTEND_TIME
-Stats: [1.0, 2.0, 1.0, 0]
+Stats: [1.0, 3.0, 1.0, 0]
 Game: 
-JP: 水属性の攻撃力が2倍。ドロップ操作時間を3秒延長。
-EN: 2x ATK for Water Att.; Increase orb movement time by 3 seconds
-KR: 2x ATK for Water Att.; Increase orb movement time by 3 seconds
+JP: 水属性の攻撃力が3倍。ドロップ操作時間を3秒延長。
+EN: 3x ATK for Water Att.; Increase orb movement time by 3 seconds
+KR: 3x ATK for Water Att.; Increase orb movement time by 3 seconds
 
 # 5778/138 - The sea breeze feels so good!
 Tags: ENHANCED_HP_ATK
@@ -36192,19 +36192,19 @@ KR: 3x ATK and 2x RCV when matching Fire and Light
 
 # 8760/138 - Let's make this a trip to remember!
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 17.5, 1.0, 0.0]
+Stats: [2.0, 20.0, 1.0, 0.0]
 Game: 2x HP & 3.5x ATK for God & Machine Types; 5x ATK for Att. erasing 5 Orbs including enhanced
-JP: 神とマシンタイプの攻撃力が3.5倍、HPが2倍。強化ドロップを含めてを5個消した属性の攻撃力が5倍。
-EN: 3.5x ATK and 2x HP for God and Machine type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
-KR: 3.5x ATK and 2x HP for God and Machine type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+JP: 神とマシンタイプの攻撃力が4倍、HPが2倍。強化ドロップを含めてを5個消した属性の攻撃力が5倍。
+EN: 4x ATK and 2x HP for God and Machine type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
+KR: 4x ATK and 2x HP for God and Machine type; 5x ATK for matched Att. when matching 5 Orbs with 1+ enhanced
 
 # 8761/129 - 
 Tags: ENHANCED_HP_ATK
-Stats: [2.0, 3.5, 1.0, 0.0]
+Stats: [2.0, 4.0, 1.0, 0.0]
 Game: 
-JP: 神とマシンタイプの攻撃力が3.5倍、HPが2倍。
-EN: 3.5x ATK and 2x HP for God and Machine type
-KR: 3.5x ATK and 2x HP for God and Machine type
+JP: 神とマシンタイプの攻撃力が4倍、HPが2倍。
+EN: 4x ATK and 2x HP for God and Machine type
+KR: 4x ATK and 2x HP for God and Machine type
 
 # 8762/150 - 
 Tags: ENHANCED_ATK
@@ -60343,12 +60343,12 @@ EN: 3x ATK and increase combo by 1 when matching Fire and Water at once
 KR: 3x ATK and increase combo by 1 when matching Fire and Water at once
 
 # 14210/138 - Secret Collaborative Plan
-Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
-Stats: [2.0, 16.0, 2.0, 0]
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME,EXTRA_COMBOS
+Stats: [2.0, 16.0, 2.0, 0, +1]
 Game: 2x HP & 4x ATK for Water & Fire Att., Orb move time +2 seconds; 4x ATK & 2x RCV when Wt & Fr attack at once
-JP: 火と水属性の攻撃力が4倍、HPが2倍。ドロップ操作時間を2秒延長。水、火の同時攻撃で攻撃力が4倍、回復力が2倍。
-EN: 4x ATK and 2x HP for Fire and Water Att.; Increase orb movement time by 2 seconds; 4x ATK and 2x RCV when matching Water and Fire
-KR: 4x ATK and 2x HP for Fire and Water Att.; Increase orb movement time by 2 seconds; 4x ATK and 2x RCV when matching Water and Fire
+JP: 火と水属性の攻撃力が4倍、HPが2倍。ドロップ操作時間を2秒延長。水、火の同時攻撃で攻撃力が4倍、回復力が2倍。火、水同時攻撃で1コンボ加算。
+EN: 4x ATK and 2x HP for Fire and Water Att.; Increase orb movement time by 2 seconds; 4x ATK and 2x RCV when matching Water and Fire; increase combo by 1 when matching Fire and Water at once
+KR: 4x ATK and 2x HP for Fire and Water Att.; Increase orb movement time by 2 seconds; 4x ATK and 2x RCV when matching Water and Fire; increase combo by 1 when matching Fire and Water at once
 
 # 14211/185 - 
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
@@ -75902,6 +75902,246 @@ Game:
 JP: 【落ちコンなし】
 EN: [No skyfall]
 KR: [No skyfall]
+
+# 18085/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 5.0, 1, 0]
+Game: 
+JP: 闇の2コンボ以上で攻撃力が5倍。
+EN: 5x ATK when matching 2+ Dark combos
+KR: 5x ATK when matching 2+ Dark combos
+
+# 18086/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Dark combos
+KR: Increase combo by 1 when matching 2 or more Dark combos
+
+# 18087/194 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1.0, 1, 0, +1]
+Game: 
+JP: 火、水同時攻撃で1コンボ加算。
+EN: increase combo by 1 when matching Fire and Water at once
+KR: increase combo by 1 when matching Fire and Water at once
+
+# 18150/138 - 夏雲の怪異
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1, 21.0, 3.0, 0.5]
+Game: HP80％以上で攻撃力が6倍、79％以下で攻撃力と回復力が3倍。 水の2コンボ以上でダメージを半減、攻撃力が3.5倍。
+JP: HPが80%以上で攻撃力が6倍。HPが79%以下で攻撃力と回復力が3倍。水の2コンボ以上で攻撃力が3.5倍、受けるダメージを50％減少。
+EN: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+KR: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP; 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+
+# 18151/183 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 6.0, 3.0, 0.0]
+Game: 
+JP: HPが80%以上で攻撃力が6倍。HPが79%以下で攻撃力と回復力が3倍。
+EN: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP
+KR: 6x ATK when above 80% HP; 3x ATK & RCV when below 79% HP
+
+# 18152/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.5, 1, 0.5]
+Game: 
+JP: 水の2コンボ以上で攻撃力が3.5倍、受けるダメージを50％減少。
+EN: 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+KR: 3.5x ATK and reduce damage taken by 50% when matching 2+ Water combos
+
+# 18153/138 - 私とサーフィンしないか？
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.0, 15.0, 3.0, 0.5]
+Game: ドラゴンと攻撃タイプの攻撃力と回復力が3倍。 6コンボ以上でダメージを半減、攻撃力が5倍。
+JP: ドラゴンと攻撃タイプの攻撃力と回復力が3倍。6コンボ以上で攻撃力が5倍、受けるダメージを50％減少。
+EN: 3x ATK & RCV for Dragon and Attacker type; 5x ATK and reduce damage taken by 50% when 6 or more combos
+KR: 3x ATK & RCV for Dragon and Attacker type; 5x ATK and reduce damage taken by 50% when 6 or more combos
+
+# 18154/129 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 3.0, 3.0, 0.0]
+Game: 
+JP: ドラゴンと攻撃タイプの攻撃力と回復力が3倍。
+EN: 3x ATK & RCV for Dragon and Attacker type
+KR: 3x ATK & RCV for Dragon and Attacker type
+
+# 18155/169 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.5]
+Game: 
+JP: 6コンボ以上で攻撃力が5倍、受けるダメージを50％減少。
+EN: 5x ATK and reduce damage taken by 50% when 6 or more combos
+KR: 5x ATK and reduce damage taken by 50% when 6 or more combos
+
+# 18159/138 - 少し…休む？
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
+Stats: [2.0, 16.0, 2.0, 0]
+Game: ドット進化のみでチームを組むと、全パラメータが2倍。 闇回復の同時攻撃で攻撃力が8倍、固定10万ダメージ。
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。闇、回復同時攻撃、固定100000ダメージ。闇、回復の同時攻撃で攻撃力が8倍。
+EN: 2x all stats when all cards are Pixel Evolutions; 100000 additional damage when matching Dark and Heal at once; 8x ATK when matching Dark and Heal
+KR: 2x all stats when all cards are Pixel Evolutions; 100000 additional damage when matching Dark and Heal at once; 8x ATK when matching Dark and Heal
+
+# 18160/203 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [2.0, 2.0, 2.0, 0]
+Game: 
+JP: ドット進化キャラのみでチームを組むと、全パラメータが2倍。
+EN: 2x all stats when all cards are Pixel Evolutions
+KR: 2x all stats when all cards are Pixel Evolutions
+
+# 18161/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 闇、回復同時攻撃、固定100000ダメージ。
+EN: 100000 additional damage when matching Dark and Heal at once
+KR: 100000 additional damage when matching Dark and Heal at once
+
+# 18162/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 8.0, 1, 0]
+Game: 
+JP: 闇、回復の同時攻撃で攻撃力が8倍。
+EN: 8x ATK when matching Dark and Heal
+KR: 8x ATK when matching Dark and Heal
+
+# 18167/138 - 一緒に踊りましょう♪
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 19.0, 1.0, 0.25]
+Game: 火属性のHPが2倍。7コンボ以上で攻撃力が19倍。 水火の同時攻撃でダメージを軽減、固定100万ダメージ。
+JP: 火属性のHPが2倍。7コンボ以上で攻撃力が19倍。火水同時攻撃で固定1000000ダメージ。水、火の同時攻撃で受けるダメージを25％減少。
+EN: 2x HP for Fire Att.; 19x ATK when 7 or more combos; 1000000 additional damage when matching Fire and Water; Reduce damage taken by 25% when matching Water and Fire
+KR: 2x HP for Fire Att.; 19x ATK when 7 or more combos; 1000000 additional damage when matching Fire and Water; Reduce damage taken by 25% when matching Water and Fire
+
+# 18168/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 火属性のHPが2倍。
+EN: 2x HP for Fire Att.
+KR: 2x HP for Fire Att.
+
+# 18169/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 19.0, 1, 0]
+Game: 
+JP: 7コンボ以上で攻撃力が19倍。
+EN: 19x ATK when 7 or more combos
+KR: 19x ATK when 7 or more combos
+
+# 18170/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火水同時攻撃で固定1000000ダメージ。
+EN: 1000000 additional damage when matching Fire and Water
+KR: 1000000 additional damage when matching Fire and Water
+
+# 18171/171 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.25]
+Game: 
+JP: 水、火の同時攻撃で受けるダメージを25％減少。
+EN: Reduce damage taken by 25% when matching Water and Fire
+KR: Reduce damage taken by 25% when matching Water and Fire
+
+# 18172/206 - 保留
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Water combos
+KR: Increase combo by 1 when matching 2 or more Water combos
+
+# 18176/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.25]
+Game: 
+JP: 水か光を5個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water or Light orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water or Light orbs
+
+# 18177/138 - 三伏の爽舞
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
+Stats: [1, 16.0, 4.0, 0.25, +2]
+Game: 水光の同時攻撃で攻撃力と回復力が4倍、2コンボ加算。 水か光を5個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+JP: 水か光の同時攻擊で2コンボ加算水、光の同時攻撃で攻撃力と回復力が4倍。水か光を5個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
+EN: Increase combo by 2 when matching Water and Light; 4x ATK & RCV when matching Water and Light; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water or Light orbs
+KR: Increase combo by 2 when matching Water and Light; 4x ATK & RCV when matching Water and Light; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Water or Light orbs
+
+# 18178/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +2]
+Game: 
+JP: 水か光の同時攻擊で2コンボ加算
+EN: Increase combo by 2 when matching Water and Light
+KR: Increase combo by 2 when matching Water and Light
+
+# 18179/164 - 
+Tags: ENHANCED_ATK_RCV
+Stats: [1, 4.0, 4.0, 0]
+Game: 
+JP: 水、光の同時攻撃で攻撃力と回復力が4倍。
+EN: 4x ATK & RCV when matching Water and Light
+KR: 4x ATK & RCV when matching Water and Light
+
+# 18183/138 - 気が済むまで付き合ってやるぜ！
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 18.0, 1.0, 0.0]
+Game: 水属性のHPが2倍。水を4個以上つなげて消すと、固定5万ダメージ。 スキル使用時、ドラゴンタイプの攻撃力が18倍。
+JP: 水属性のHPが2倍。水を4個以上つなげて消しと固定50000ダメージ。スキル使用時、ドラゴンタイプの攻撃力が18倍。
+EN: 2x HP for Water Att.; 50000 additional damage when matching 4 or more Water orbs; 18x ATK for Dragon type on the turn a skill is used
+KR: 2x HP for Water Att.; 50000 additional damage when matching 4 or more Water orbs; 18x ATK for Dragon type on the turn a skill is used
+
+# 18184/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 水属性のHPが2倍。
+EN: 2x HP for Water Att.
+KR: 2x HP for Water Att.
+
+# 18185/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 水を4個以上つなげて消しと固定50000ダメージ。
+EN: 50000 additional damage when matching 4 or more Water orbs
+KR: 50000 additional damage when matching 4 or more Water orbs
+
+# 18186/133 - 
+Tags: ENHANCED_ATK
+Stats: [1, 18.0, 1.0, 0]
+Game: 
+JP: スキル使用時、ドラゴンタイプの攻撃力が18倍。
+EN: 18x ATK for Dragon type on the turn a skill is used
+KR: 18x ATK for Dragon type on the turn a skill is used
+
+# 18187/138 - ああ、美しい海だ…
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 18.0, 1.0, 0.25]
+Game: 神と回復タイプのHPが2倍、攻撃力は6倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が3倍。
+JP: 回復と神タイプの攻撃力が6倍、HPが2倍。回復ドロップで50000以上回復すると攻撃力が3倍、受けるダメージを25％減少。
+EN: 6x ATK and 2x HP for Healer and God type; 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+KR: 6x ATK and 2x HP for Healer and God type; 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+
+# 18188/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 6.0, 1.0, 0.0]
+Game: 
+JP: 回復と神タイプの攻撃力が6倍、HPが2倍。
+EN: 6x ATK and 2x HP for Healer and God type
+KR: 6x ATK and 2x HP for Healer and God type
+
+# 18189/198 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1, 0.25]
+Game: 
+JP: 回復ドロップで50000以上回復すると攻撃力が3倍、受けるダメージを25％減少。
+EN: 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+KR: 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
 
 # 18193/129 - 
 Tags: ENHANCED_HP_ATK

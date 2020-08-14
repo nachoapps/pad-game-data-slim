@@ -1,0 +1,20 @@
+#6389 夏祭りの時女神・プレーナ
+HP: 6041 ATK: 2161 RCV: 514 LB: 30
+AWK: 52,56,56,53,28,48,43,43,60
+SAWK: 53,48,34,68,69
+
+# 18163/116 - 納涼！パズドラ音頭
+Tags: RECOVER_BIND,ADD_COMBO,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
+Game: 1ターンの間、3コンボ加算。 消せないドロップ、バインド、覚醒無効状態を全回復。
+JP: 1ターンの間、3コンボ加算される。消せないドロップ状態を9999ターン回復。バインドと覚醒無効を全回復
+EN: For 1 turn, increase combo count by 3; Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds
+KR: For 1 turn, increase combo count by 3; Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds
+
+# 18167/138 - 一緒に踊りましょう♪
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [2.0, 19.0, 1.0, 0.25]
+Game: 火属性のHPが2倍。7コンボ以上で攻撃力が19倍。 水火の同時攻撃でダメージを軽減、固定100万ダメージ。
+JP: 火属性のHPが2倍。7コンボ以上で攻撃力が19倍。火水同時攻撃で固定1000000ダメージ。水、火の同時攻撃で受けるダメージを25％減少。
+EN: 2x HP for Fire Att.; 19x ATK when 7 or more combos; 1000000 additional damage when matching Fire and Water; Reduce damage taken by 25% when matching Water and Fire
+KR: 2x HP for Fire Att.; 19x ATK when 7 or more combos; 1000000 additional damage when matching Fire and Water; Reduce damage taken by 25% when matching Water and Fire
+

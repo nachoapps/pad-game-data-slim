@@ -1,0 +1,20 @@
+#6385 楽園の観察者・メタトロン
+HP: 3447 ATK: 1648 RCV: 997 LB: 30
+AWK: 52,20,56,29,29,28,28,46,60
+SAWK: 45,44,29
+
+# 640/117 - Quick Cure
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
+Game: Recovers 8x your RCV in HP; reduces bind status (incl. Awoken) by 3 turns
+JP: 回復力ｘ8倍のHPを回復。バインドと覚醒無効を3ターン回復
+EN: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+KR: Recover 8x RCV as HP; Reduce binds and awoken skill binds by 3 turns
+
+# 18187/138 - ああ、美しい海だ…
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [2.0, 18.0, 1.0, 0.25]
+Game: 神と回復タイプのHPが2倍、攻撃力は6倍。 回復ドロップで5万以上回復するとダメージを軽減、攻撃力が3倍。
+JP: 回復と神タイプの攻撃力が6倍、HPが2倍。回復ドロップで50000以上回復すると攻撃力が3倍、受けるダメージを25％減少。
+EN: 6x ATK and 2x HP for Healer and God type; 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+KR: 6x ATK and 2x HP for Healer and God type; 3x ATK and reduce damage taken by 25% when recovering more than 50000 HP from Heal orbs
+

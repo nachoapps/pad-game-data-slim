@@ -1,6 +1,6 @@
 #3112 Abiding Sniper Dragonbound, Myr
 HP: 4580 ATK: 1710 RCV: 660 LB: 20
-AWK: 10,10,28,27,23,15,15,15,21
+AWK: 52,56,28,27,23,15,15,15,43
 SAWK: 55,43,45
 
 # 5316/116 - Sundial
@@ -12,9 +12,9 @@ KR: Create 7 Heal orbs over non Water orbs; Freely move orbs for 12 seconds
 
 # 5775/138 - You can't escape from me!
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.0, 15.4, 1.0, 0.5]
+Stats: [1.0, 23.1, 1.0, 0.5]
 Game: 7.7x ATK & halves damage with a cross of 5 Heal Orbs; 2x ATK for Water Att., Orb move time +3 seconds
-JP: 回復の5個十字消しで攻撃力が7.7倍、受けるダメージを50％減少。水属性の攻撃力が2倍。ドロップ操作時間を3秒延長。
-EN: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 2x ATK for Water Att.; Increase orb movement time by 3 seconds
-KR: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 2x ATK for Water Att.; Increase orb movement time by 3 seconds
+JP: 回復の5個十字消しで攻撃力が7.7倍、受けるダメージを50％減少。水属性の攻撃力が3倍。ドロップ操作時間を3秒延長。
+EN: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 3x ATK for Water Att.; Increase orb movement time by 3 seconds
+KR: 7.7x ATK and reduce damage taken by 50% when matching 5 Heal orbs in a cross formation; 3x ATK for Water Att.; Increase orb movement time by 3 seconds
 

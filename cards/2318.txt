@@ -1,6 +1,6 @@
 #2318 Bronzed Beauty, Valkyrie Claire
 HP: 2558 ATK: 1689 RCV: 656 LB: 30
-AWK: 27,26,26,21,27,28,34,36,37
+AWK: 56,26,26,27,27,28,34,36,37
 SAWK: 36,37,34
 
 # 45/9 - Attack Stance - Dark
@@ -11,10 +11,10 @@ EN: Change Heal orbs to Dark orbs
 KR: Change Heal orbs to Dark orbs
 
 # 3458/138 - Splitting Watermelons is Fun!
-Tags: ENHANCED_HP_ATK
-Stats: [1.5, 3.0, 1.0, 0.0]
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 15.0, 1.0, 0.0, +1]
 Game: 3x ATK for Devil Type; 1.5x HP for Dark Att.
-JP: 闇属性のHPが1.5倍。悪魔タイプの攻撃力が3倍。
-EN: 1.5x HP for Dark Att.; 3x ATK for Devil type
-KR: 1.5x HP for Dark Att.; 3x ATK for Devil type
+JP: 闇属性のHPが2倍。悪魔タイプの攻撃力が3倍。闇の2コンボ以上で攻撃力が5倍。2コンボ以上で1コンボ加算
+EN: 2x HP for Dark Att.; 3x ATK for Devil type; 5x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
+KR: 2x HP for Dark Att.; 3x ATK for Devil type; 5x ATK when matching 2+ Dark combos; Increase combo by 1 when matching 2 or more Dark combos
 

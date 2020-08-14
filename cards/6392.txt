@@ -1,0 +1,20 @@
+#6392 海人の蛮龍契士・ターディス
+HP: 4221 ATK: 2249 RCV: 157 LB: 30
+AWK: 21,28,44,27,27,27,27,27,43
+SAWK: 52,54,55
+
+# 18180/116 - エキサイティブスクリュー
+Tags: EXTENDS_TIME,REDUCE_MATCH_RESTRICTION
+Game: 1ターンの間、ドロップ操作を1秒延長。 消せないドロップ状態を2ターン回復。
+JP: 1ターンの間、ドロップ操作時間が1秒に延長。消せないドロップ状態を2ターン回復
+EN: For 1 turn, increase orb move time by 1 second; Reduce unable to match orbs effect by 2 turns
+KR: For 1 turn, increase orb move time by 1 second; Reduce unable to match orbs effect by 2 turns
+
+# 18183/138 - 気が済むまで付き合ってやるぜ！
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 18.0, 1.0, 0.0]
+Game: 水属性のHPが2倍。水を4個以上つなげて消すと、固定5万ダメージ。 スキル使用時、ドラゴンタイプの攻撃力が18倍。
+JP: 水属性のHPが2倍。水を4個以上つなげて消しと固定50000ダメージ。スキル使用時、ドラゴンタイプの攻撃力が18倍。
+EN: 2x HP for Water Att.; 50000 additional damage when matching 4 or more Water orbs; 18x ATK for Dragon type on the turn a skill is used
+KR: 2x HP for Water Att.; 50000 additional damage when matching 4 or more Water orbs; 18x ATK for Dragon type on the turn a skill is used
+

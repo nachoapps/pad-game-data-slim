@@ -4,11 +4,11 @@ AWK: 19,28,10,10,21,21,30,43,45
 SAWK: 43,48,59
 
 # 11342/116 - Overflowing Summer Colors
-Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes all Orbs to Water & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
-JP: 全ドロップを水と回復ドロップに変化。最大HP40％分回復。バインドを4ターン回復
-EN: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds by 4 turns
-KR: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds by 4 turns
+JP: 全ドロップを水と回復ドロップに変化。最大HP40％分回復。バインドと覚醒無効を4ターン回復
+EN: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
+KR: Change all orbs to Water and Heal orbs; Recover 40% of max HP; Reduce binds and awoken skill binds by 4 turns
 
 # 11345/138 - Mystery of the Blue Sky
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE

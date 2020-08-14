@@ -1,14 +1,14 @@
 #3848 Endless Summer's Hunting Deity, Artemis
 HP: 3440 ATK: 1905 RCV: 271 LB: 30
-AWK: 27,27,21,23,28,23,11,13,47
+AWK: 27,27,23,23,21,28,68,13,47
 SAWK: 52,47,27
 
 # 8769/116 - Lunatic Shot
 Tags: ATTACK_STANCE,ORB_CONVERT,VOID_ATT_ABSORBS
 Game: Voids Attribute absorption for 1 turn; changes Fire & Heal Orbs to Water Orbs
-JP: 1ターンの間、属性吸収を無効化する。火と回復ドロップを水ドロップに変化
-EN: For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
-KR: For 1 turn, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
+JP: 2ターンの間、属性吸収を無効化する。火と回復ドロップを水ドロップに変化
+EN: For 2 turns, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
+KR: For 2 turns, bypass att. absorb shield effects; Change Fire and Heal orbs to Water orbs
 
 # 8772/138 - I'm coming for you next!
 Tags: ENHANCED_HP_ATK
