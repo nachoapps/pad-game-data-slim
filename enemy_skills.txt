@@ -73642,27 +73642,27 @@ JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 14721/83 - ＿メノア通常1
+# 14721/83 - ＿Menoa Regular 1
 JP: 
 EN: 
 KR: 
 
-# 14722/83 - ＿メノア通常2
+# 14722/83 - ＿Menoa Regular 2
 JP: 
 EN: 
 KR: 
 
-# 14723/83 - ＿メノア通常3
+# 14723/83 - ＿Menoa Regular 3
 JP: 
 EN: 
 KR: 
 
-# 14724/83 - ＿メノア発狂
+# 14724/83 - ＿Menoa Frenzy
 JP: 
 EN: 
 KR: 
 
-# 14725/46 - エレメントシフト
+# 14725/46 - Element Shift
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
 EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
@@ -87767,12 +87767,12 @@ JP: 5ターンの間、攻撃力が50%減少
 EN: ATK -50% for 5 turns
 KR: ATK -50% for 5 turns
 
-# 17546/66 - おうちでエンジョイするたまぁ～
+# 17546/66 - Make a wish-TAMA!
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 17547/66 - 強くなるたまぁ～
+# 17547/66 - Growing stronger-TAMA!
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
@@ -91737,52 +91737,52 @@ JP: 2000%ダメージ (10連続攻撃、200%ごと)
 EN: Deal 2000% damage (10 hits, 200% each)
 KR: Deal 2000% damage (10 hits, 200% each)
 
-# 18340/68 - 願い事はされましたか？
+# 18340/68 - Did you make a wish?
 JP: 1ターンの間、光ドロップを+15%に落ちてくる
 EN: Light skyfall +15% for 1 turn
 KR: Light skyfall +15% for 1 turn
 
-# 18341/40 - あなたにも
+# 18341/40 - May the stars
 JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0
 
-# 18342/83 - アマテラス2回
+# 18342/83 - Amaterasu 2 times
 JP: 
 EN: 
 KR: 
 
-# 18343/68 - お待ちしておりました
+# 18343/68 - I've been waiting for you
 JP: 1ターンの間、回復ドロップを+7%に落ちてくる
 EN: Heal skyfall +7% for 1 turn
 KR: Heal skyfall +7% for 1 turn
 
-# 18344/66 - あなたに会えてうれしいです♪
+# 18344/66 - I'm so happy to have met you♪
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 18345/83 - 先制
+# 18345/83 - Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18346/40 - 今だけは…どうかお傍に
+# 18346/40 - Just for the moment... would you stay by my side?
 JP: 自爆
 EN: Reduce self HP to 0
 KR: Reduce self HP to 0
 
-# 18347/66 - キラキラ～☆
+# 18347/66 - Twinkle Twinkle ☆
 JP: 何もしない
 EN: Do nothing
 KR: Do nothing
 
-# 18348/46 - オーロラフラッシュ
+# 18348/46 - Aurora Flash
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
 EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 18349/17 - 希石の奇跡
+# 18349/17 - Gem's Miracle
 JP: 999ターンの間、攻撃力が1000%に上昇
 EN: Increase damage to 1000% for the next 999 turns
 KR: Increase damage to 1000% for the next 999 turns
@@ -91867,22 +91867,22 @@ JP: 1ターンの間、ランダムで1体がバインド
 EN: Bind 1 random card for 1 turn
 KR: Bind 1 random card for 1 turn
 
-# 18366/92 - カオスフラッシュ
+# 18366/92 - Chaos Flash
 JP: 毒ドロップを19個生成
 EN: Spawn 19 random Poison orbs
 KR: Spawn 19 random Poison orbs
 
-# 18367/129 - 超根性
+# 18367/129 - Super Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
 EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
 KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18368/20 - 神秘の輝石
+# 18368/20 - Mystic Gem
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 18369/89 - 神秘の輝石
+# 18369/89 - Mystic Gem
 JP: スキルターンを3ターン遅延
 EN: Delay active skills by 3 turns
 KR: Delay active skills by 3 turns
@@ -92687,347 +92687,347 @@ JP: HP1%以上のとき、大ダメージを受けてもHP1%で耐える
 EN: When reduced from HP > 1% to 0 HP, revive at 1% HP
 KR: When reduced from HP > 1% to 0 HP, revive at 1% HP
 
-# 18530/129 - 超根性
+# 18530/129 - Super Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
 EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
 KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18531/83 - ＿先制
+# 18531/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18532/20 - 不屈の闘志
+# 18532/20 - Indomitable Fighting Spirit
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 18533/71 - 忠義の誓い
+# 18533/71 - Oath of Loyalty
 JP: 999ターンの間、50000000以上のダメージを無効化
 EN: Void damage >= 50000000 for 999 turns
 KR: Void damage >= 50000000 for 999 turns
 
-# 18534/83 - ＿50%以下
+# 18534/83 - ＿50% or less
 JP: 
 EN: 
 KR: 
 
-# 18535/74 - 朝日が昇り始めた
+# 18535/74 - A new day dawns
 JP: 999ターンの間、受けるダメージからの攻撃を75%減少
 EN: Reduce damage from all sources by 75% for 999 turns
 KR: Reduce damage from all sources by 75% for 999 turns
 
-# 18536/17 - 太陽の加護
+# 18536/17 - Protection of the Sun
 JP: 999ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
-# 18537/39 - 円卓の誓い
+# 18537/39 - Oath of the Round Table
 JP: 99ターンの間、操作時間-3秒
 EN: Movetime -3s for 99 turns
 KR: Movetime -3s for 99 turns
 
-# 18538/83 - ＿通常Ａ
+# 18538/83 - ＿Regular A
 JP: 
 EN: 
 KR: 
 
-# 18539/83 - ＿通常Ｂ
+# 18539/83 - ＿Regular B
 JP: 
 EN: 
 KR: 
 
-# 18540/83 - ＿通常Ｃ
+# 18540/83 - ＿Regular C
 JP: 
 EN: 
 KR: 
 
-# 18541/83 - ＿通常Ｄ
+# 18541/83 - ＿Regular D
 JP: 
 EN: 
 KR: 
 
-# 18542/50 - インフェルノブレード
+# 18542/50 - Inferno Blade
 JP: 現HPの70%のダメージ
 EN: Player -70% HP
 KR: Player -70% HP
 
-# 18543/67 - クリムゾンクライシス
+# 18543/67 - Crimson Crisis
 JP: 1ターンの間、8コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 8 for 1 turn
 KR: Absorb damage when combos <= 8 for 1 turn
 
-# 18544/67 - クリムゾンクライシス
+# 18544/67 - Crimson Crisis
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 1 turn
 KR: Absorb damage when combos <= 9 for 1 turn
 
-# 18545/67 - クリムゾンクライシス
+# 18545/67 - Crimson Crisis
 JP: 1ターンの間、10コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 10 for 1 turn
 KR: Absorb damage when combos <= 10 for 1 turn
 
-# 18546/67 - クリムゾンクライシス
+# 18546/67 - Crimson Crisis
 JP: 1ターンの間、11コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 11 for 1 turn
 KR: Absorb damage when combos <= 11 for 1 turn
 
-# 18547/83 - ＿50％以下通常Ａ
+# 18547/83 - ＿50％ or less Regular A
 JP: 
 EN: 
 KR: 
 
-# 18548/83 - ＿50％以下通常Ｂ
+# 18548/83 - ＿50％ or less Regular B
 JP: 
 EN: 
 KR: 
 
-# 18549/83 - ＿HP25%以下
+# 18549/83 - ＿HP 25% or less
 JP: 
 EN: 
 KR: 
 
-# 18550/88 - 執拗な忠義
+# 18550/88 - Persisting Loyalty
 JP: 5ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 5 turns
 KR: Bind awoken skills for 5 turns
 
-# 18551/89 - 武力の鎮圧
+# 18551/89 - Subjugation by the Sword
 JP: スキルターンを5ターン遅延
 EN: Delay active skills by 5 turns
 KR: Delay active skills by 5 turns
 
-# 18552/83 - ＿発狂
+# 18552/83 - ＿Frenzy
 JP: 
 EN: 
 KR: 
 
-# 18553/46 - 急転直下
+# 18553/46 - Sudden Turn
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木、光、闇
 EN: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 KR: Change own attribute to random one of Fire, Water, Wood, Light, or Dark
 
-# 18554/15 - エンドオブリベリオン
+# 18554/15 - End of the Rebellion
 JP: 5000%ダメージ (5連続攻撃、1000%ごと)
 EN: Deal 5000% damage (5 hits, 1000% each)
 KR: Deal 5000% damage (5 hits, 1000% each)
 
-# 18555/83 - ＿先制
+# 18555/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18556/87 - 王の力
+# 18556/87 - King's Might
 JP: 10ターンの間、5000万以上のダメージを吸収
 EN: Absorb damage when damage >= 50,000,000 for 10 turns
 KR: Absorb damage when damage >= 50,000,000 for 10 turns
 
-# 18557/68 - 天の祝福
+# 18557/68 - Heaven's Blessing
 JP: 10ターンの間、お邪魔と毒ドロップを+15%に落ちてくる
 EN: Jammer and Poison skyfall +15% for 10 turns
 KR: Jammer and Poison skyfall +15% for 10 turns
 
-# 18558/83 - ＿10ターン後
+# 18558/83 - ＿After 10 turns
 JP: 
 EN: 
 KR: 
 
-# 18559/105 - 背水の陣
+# 18559/105 - Cut off the Retreat
 JP: 5ターンの間、回復力を25%になる
 EN: RCV 25% for 5 turns
 KR: RCV 25% for 5 turns
 
-# 18560/89 - 王の賛辞
+# 18560/89 - King's Praise
 JP: スキルターンを5〜10ターン遅延
 EN: Delay active skills by 5~10 turns
 KR: Delay active skills by 5~10 turns
 
-# 18561/108 - ライトアンドダーク
+# 18561/108 - Light and Dark
 JP: お邪魔と毒ドロップを光と闇ドロップに変化
 EN: Change all Jammer and Poison orbs to Light and Dark orbs
 KR: Change all Jammer and Poison orbs to Light and Dark orbs
 
-# 18562/94 - チェーンダイブ
+# 18562/94 - Chain Dive
 JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 18563/15 - デュアルソード
+# 18563/15 - Dual Swords
 JP: 300%ダメージ (2連続攻撃、150%ごと)
 EN: Deal 300% damage (2 hits, 150% each)
 KR: Deal 300% damage (2 hits, 150% each)
 
-# 18564/73 - 根性
+# 18564/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 18565/83 - ＿先制
+# 18565/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18566/67 - 蒼玉の騎士道
+# 18566/67 - Chivalry of the Blue Globe
 JP: 9ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 9 turns
 KR: Absorb damage when combos <= 9 for 9 turns
 
-# 18567/83 - ＿HP50%以下
+# 18567/83 - ＿HP50% or less
 JP: 
 EN: 
 KR: 
 
-# 18568/110 - 苦心惨憺
+# 18568/110 - Hard Fought
 JP: 10.0ターンの間、特定の位置のマスが2.0秒毎に変化する
 EN: Specific orbs change every 2.0s for 10 turns
 KR: Specific orbs change every 2.0s for 10 turns
 
-# 18569/50 - ブルーインパクト
+# 18569/50 - Blue Impact
 JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 18570/46 - アイスミラージュソード
+# 18570/46 - Ice Mirage Sword
 JP: 自分の属性が{}のうちいずれかに変化する火、水、木
 EN: Change own attribute to random one of Fire, Water, or Wood
 KR: Change own attribute to random one of Fire, Water, or Wood
 
-# 18571/83 - ＿HP1%
+# 18571/83 - ＿HP 1%
 JP: 
 EN: 
 KR: 
 
-# 18572/17 - ブルークレスト
+# 18572/17 - Blue Crest
 JP: 999ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
-# 18573/127 - 窮余の一策
+# 18573/127 - Last Resort
 JP: 99ターンの間、落ちコンしなくなる
 EN: No skyfall for 99 turns
 KR: No skyfall for 99 turns
 
-# 18574/88 - 鎧騎士の罪過
+# 18574/88 - Armored Knight's Sin
 JP: 5ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 5 turns
 KR: Bind awoken skills for 5 turns
 
-# 18575/83 - ＿先制
+# 18575/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18576/20 - 英雄の鎧
+# 18576/20 - Hero's Armor
 JP: 999ターンの間、状態異常無効化
 EN: Voids status ailments for 999 turns
 KR: Voids status ailments for 999 turns
 
-# 18577/71 - イグニスの加護
+# 18577/71 - Protection of Ignis
 JP: 999ターンの間、500000以上のダメージを無効化
 EN: Void damage >= 500000 for 999 turns
 KR: Void damage >= 500000 for 999 turns
 
-# 18578/50 - 紅蓮の皇刃
+# 18578/50 - Crimson Imperial Blade
 JP: 現HPの99%のダメージ
 EN: Player -99% HP
 KR: Player -99% HP
 
-# 18579/73 - 根性
+# 18579/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 18580/83 - ＿残り1体
+# 18580/83 - ＿1 monster remaining
 JP: 
 EN: 
 KR: 
 
-# 18581/67 - 龍撃態勢
+# 18581/67 - Dragon Strike Stance
 JP: 999ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 999 turns
 KR: Absorb damage when combos <= 7 for 999 turns
 
-# 18582/17 - 龍剣士の覚悟
+# 18582/17 - Dragon Swordsman's Resolve
 JP: 999ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
-# 18583/97 - 火龍の片鱗
+# 18583/97 - Fire Dragon's Scale
 JP: 3ターンの間、ランダムで10個のドロップを超暗闇にする
 EN: Blind random 10 orbs for 3 turns
 KR: Blind random 10 orbs for 3 turns
 
-# 18584/15 - 龍撃剣
+# 18584/15 - Dragon Strike Sword
 JP: 100%ダメージ (2連続攻撃、50%ごと)
 EN: Deal 100% damage (2 hits, 50% each)
 KR: Deal 100% damage (2 hits, 50% each)
 
-# 18585/50 - 龍撃火流剣
+# 18585/50 - Dragon Strike Fireblade
 JP: 現HPの150%のダメージ
 EN: Player -150% HP
 KR: Player -150% HP
 
-# 18586/104 - 水龍の片鱗
+# 18586/104 - Water Dragon's Scale
 JP: 3ターンの間、上から1列目の横1列を雲で隠す
 EN: A row of clouds appears for 3 turns at 1st row, 1st column
 KR: A row of clouds appears for 3 turns at 1st row, 1st column
 
-# 18587/15 - 龍撃剣
+# 18587/15 - Dragon Strike Sword
 JP: 100%ダメージ (4連続攻撃、25%ごと)
 EN: Deal 100% damage (4 hits, 25% each)
 KR: Deal 100% damage (4 hits, 25% each)
 
-# 18588/48 - 龍撃水流剣
+# 18588/48 - Dragon Strike Waterblade
 JP: ランダム属性のドロップを水ドロップに変化
 EN: Change a random attribute to Water orbs
 KR: Change a random attribute to Water orbs
 
-# 18589/83 - ＿50％以下
+# 18589/83 - ＿50％ or less
 JP: 
 EN: 
 KR: 
 
-# 18590/17 - 英雄の覚悟
+# 18590/17 - Hero's Resolve
 JP: 999ターンの間、攻撃力が200%に上昇
 EN: Increase damage to 200% for the next 999 turns
 KR: Increase damage to 200% for the next 999 turns
 
-# 18591/105 - 不治の傷痕
+# 18591/105 - Incurable Wounds
 JP: 2ターンの間、回復力を0%になる
 EN: RCV 0% for 2 turns
 KR: RCV 0% for 2 turns
 
-# 18592/88 - 滅びの伝承譚
+# 18592/88 - Tale of Destruction
 JP: 5ターンの間、覚醒スキル無効化
 EN: Bind awoken skills for 5 turns
 KR: Bind awoken skills for 5 turns
 
-# 18593/95 - 死亡時
+# 18593/95 - On death
 JP: 
 EN: 
 KR: 
 
-# 18594/83 - ＿50％以下通常Ｃ
+# 18594/83 - ＿50％ or less regular C
 JP: 
 EN: 
 KR: 
 
-# 18595/83 - ＿50％以下通常Ｄ
+# 18595/83 - ＿50％ or less regular D
 JP: 
 EN: 
 KR: 
 
-# 18596/101 - マニピュレイトブロー
+# 18596/101 - Manipulation Blow
 JP: ドロップ操作開始位置をランダムで固定される
 EN: Fix orb movement starting point to random position on the board
 KR: Fix orb movement starting point to random position on the board
 
-# 18597/67 - 円卓の戦歌
+# 18597/67 - Battle Song of the Round Table
 JP: 1ターンの間、13コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 13 for 1 turn
 KR: Absorb damage when combos <= 13 for 1 turn
 
-# 18598/72 - 火光半減
+# 18598/72 - Fire & Light Halved
 JP: 火と光属性からの攻撃からの攻撃を50%減少
 EN: Reduce damage from Fire and Light attrs by 50%
 KR: Reduce damage from Fire and Light attrs by 50%
@@ -93282,97 +93282,97 @@ JP: 999ターンの間、攻撃力が300%に上昇
 EN: Increase damage to 300% for the next 999 turns
 KR: Increase damage to 300% for the next 999 turns
 
-# 18649/73 - 根性
+# 18649/73 - Resolve
 JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
 EN: Survive attacks with 1 HP when HP > 50%
 KR: Survive attacks with 1 HP when HP > 50%
 
-# 18650/83 - ＿先制超地獄
+# 18650/83 - ＿Preemptive Mythical
 JP: 
 EN: 
 KR: 
 
-# 18651/67 - 円卓の戦歌
+# 18651/67 - Battle Song of the Round Table
 JP: 1ターンの間、11コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 11 for 1 turn
 KR: Absorb damage when combos <= 11 for 1 turn
 
-# 18652/83 - ＿通常Ａ超地獄
+# 18652/83 - ＿Regular A Mythical
 JP: 
 EN: 
 KR: 
 
-# 18653/83 - ＿通常Ｂ超地獄
+# 18653/83 - ＿Regular B Mythical
 JP: 
 EN: 
 KR: 
 
-# 18654/83 - ＿通常Ｃ超地獄
+# 18654/83 - ＿Regular C Mythical
 JP: 
 EN: 
 KR: 
 
-# 18655/83 - ＿通常Ｄ超地獄
+# 18655/83 - ＿Regular D Mythical
 JP: 
 EN: 
 KR: 
 
-# 18656/67 - クリムゾンクライシス
+# 18656/67 - Crimson Crisis
 JP: 1ターンの間、6コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 6 for 1 turn
 KR: Absorb damage when combos <= 6 for 1 turn
 
-# 18657/67 - クリムゾンクライシス
+# 18657/67 - Crimson Crisis
 JP: 1ターンの間、7コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 7 for 1 turn
 KR: Absorb damage when combos <= 7 for 1 turn
 
-# 18658/67 - クリムゾンクライシス
+# 18658/67 - Crimson Crisis
 JP: 1ターンの間、8コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 8 for 1 turn
 KR: Absorb damage when combos <= 8 for 1 turn
 
-# 18659/67 - クリムゾンクライシス
+# 18659/67 - Crimson Crisis
 JP: 1ターンの間、9コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 9 for 1 turn
 KR: Absorb damage when combos <= 9 for 1 turn
 
-# 18660/83 - ＿50%以下
+# 18660/83 - ＿50% or less
 JP: 
 EN: 
 KR: 
 
-# 18661/83 - ＿50％以下通常Ａ
+# 18661/83 - ＿50% or less Regular A
 JP: 
 EN: 
 KR: 
 
-# 18662/83 - ＿50％以下通常Ｂ
+# 18662/83 - ＿50% or less Regular B
 JP: 
 EN: 
 KR: 
 
-# 18663/83 - ＿50％以下通常Ｃ
+# 18663/83 - ＿50% or less Regular C
 JP: 
 EN: 
 KR: 
 
-# 18664/83 - ＿50％以下通常Ｄ
+# 18664/83 - ＿50% or less Regular D
 JP: 
 EN: 
 KR: 
 
-# 18665/126 - 滅域
+# 18665/126 - Dominion of Destruction
 JP: 15ターンの間、盤面が6ｘ5になる
 EN: Change board size to 6x5 for 15 turns
 KR: Change board size to 6x5 for 15 turns
 
-# 18666/83 - ＿先制
+# 18666/83 - ＿Preemptive
 JP: 
 EN: 
 KR: 
 
-# 18667/67 - 蒼玉の騎士道
+# 18667/67 - Chivalry of the Blue Globe
 JP: 8ターンの間、8コンボ以下の攻撃を吸収
 EN: Absorb damage when combos <= 8 for 8 turns
 KR: Absorb damage when combos <= 8 for 8 turns

@@ -68522,7 +68522,7 @@ KR: 3x ATK when matching 4 or more colors
 # 16265/138 - Graeol's Empathy
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,NO_SKYFALL_COMBOS
 Stats: [1.0, 22.0, 1.0, 0.5]
-Game: [No Skyfall Combos], halves dmg & inflicts 1 dmg when 4+ Att. attack at once; 20x ATK when 6 Orbs or less remain
+Game: [No Skyfall Combos], halves dmg & inflicts 1 dmg when 4+ Att. attack at once; 22x ATK when 6 Orbs or less remain
 JP: 【落ちコンなし】パズル後の残りドロップ数が6個以下で攻撃力が22倍。4色以上同時攻撃で受けるダメージを50％減少。4色以上同時攻撃、固定1ダメージ。
 EN: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
 KR: [No skyfall] 22x ATK when there are 6 or fewer orbs remaining; Reduce damage taken by 50% when matching 4 or more colors; 1 additional damage when matching 4 or more colors
@@ -74231,18 +74231,18 @@ JP: 火木同時攻撃で固定1ダメージ。
 EN: 1 additional damage when matching Fire and Wood
 KR: 1 additional damage when matching Fire and Wood
 
-# 17716/138 - 正邪の相克
+# 17716/138 - Struggle Between Good and Evil
 Tags: ENHANCED_ATK
 Stats: [0.5, 15.0, 1.0, 0.0]
-Game: 総HPが半減、光と闇属性の攻撃力が15倍。
+Game: 15x ATK for Light & Dark Att., but halves overall HP
 JP: HPが0.5倍。光と闇属性の攻撃力が15倍。
 EN: 0.5x HP; 15x ATK for Light and Dark Att.
 KR: 0.5x HP; 15x ATK for Light and Dark Att.
 
-# 17717/138 - スミヅノの共感
+# 17717/138 - Sumizuno's Empathy
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [0.5, 21.0, 1.0, 0.75]
-Game: 総HPが半減、光と闇属性の攻撃力が21倍。 光闇の同時攻撃でダメージを激減、固定10万ダメージ。
+Game: 21x ATK for Lt & Dk Att., but halves overall HP; vastly reduces dmg & inflicts 100,000 dmg when Lt & Dk attack
 JP: HPが0.5倍。光、闇同時攻撃で受けるダメージを75％減少。光、闇同時攻撃、固定100000ダメージ。光と闇属性の攻撃力が21倍。
 EN: 0.5x HP; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once; 21x ATK for Light and Dark Att.
 KR: 0.5x HP; Reduce damage taken by 75% when matching Light and Dark at once; 100000 additional damage when matching Light and Dark at once; 21x ATK for Light and Dark Att.

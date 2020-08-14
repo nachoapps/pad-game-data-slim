@@ -43752,7 +43752,7 @@ KR: For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening
 
 # 16194/116 - Imbue with Sacred Relic, Darion
 Tags: DROP_CHANCE
-Game: Fire & Wood Orbs more likely to appear for 10 turns; changes to Ferocious Flame Dragon Warrior, Grigory
+Game: Fr & Wd Orbs slightly more likely to appear for 15 turns; changes to Ferocious Flame Dragon Warrior, Grigory
 JP: 15ターンの間、火と木ドロップが15％落ちやすくなる。[5967]に変身する
 EN: For 15 turns, Fire and Wood orbs are more likely to appear by 15%; Changes to [5967] for the duration of the dungeon
 KR: For 15 turns, Fire and Wood orbs are more likely to appear by 15%; Changes to [5967] for the duration of the dungeon
@@ -43794,7 +43794,7 @@ KR: Change all orbs to Fire, Wood, and Heal orbs
 
 # 16206/116 - Imbue with Sacred Relic, Jind
 Tags: EXTENDS_TIME
-Game: Orb move time +1 second for 10 turns; changes to Cryomancer Dragon Martial Artist, Deena
+Game: Orb move time +1 second for 15 turns; changes to Cryomancer Dragon Martial Artist, Deena
 JP: 15ターンの間、ドロップ操作時間が1秒に延長。[5969]に変身する
 EN: For 15 turns, increase orb move time by 1 second; Changes to [5969] for the duration of the dungeon
 KR: For 15 turns, increase orb move time by 1 second; Changes to [5969] for the duration of the dungeon
@@ -43815,14 +43815,14 @@ KR: Changes to [5969] for the duration of the dungeon
 
 # 16210/116 - Splash Step
 Tags: ENHANCED_ATTACK,ORB_LOCK
-Game: Creates 3 Water Orbs at random; all Orbs locked
+Game: Creates 3 Water Orbs at random, all Orbs locked; 1.2x ATK for Water Att. for 1 turn
 JP: 水ドロップを3個生成。全ドロップをロック。1ターンの間、水属性の攻撃力が1.2倍
 EN: Create 3 Water orbs; Lock all orbs; For 1 turn, 1.2x ATK for Water Att.
 KR: Create 3 Water orbs; Lock all orbs; For 1 turn, 1.2x ATK for Water Att.
 
 # 16215/116 - Imbue with Sacred Relic, Muy
 Tags: HEAL
-Game: Recovers 40% of max HP for 6 turns; changes to Watchful Grove Dragon Healer, Alynna
+Game: Recovers 40% of max HP for 8 turns; changes to Watchful Grove Dragon Healer, Alynna
 JP: 8ターンの間、最大HPの40％分回復。[5971]に変身する
 EN: For 8 turns, recover 40% of max HP; Changes to [5971] for the duration of the dungeon
 KR: For 8 turns, recover 40% of max HP; Changes to [5971] for the duration of the dungeon
@@ -43864,7 +43864,7 @@ KR: Change the top row to Wood orbs
 
 # 16225/116 - Imbue with Sacred Relic, Arwill
 Tags: ADD_COMBO
-Game: Adds 1 combo for 10 turns; changes to Seraphic Dragon Hero, Dyer
+Game: Adds 1 combo for 15 turns; changes to Seraphic Dragon Hero, Dyer
 JP: 15ターンの間、1コンボ加算される。[5973]に変身する
 EN: For 15 turns, increase combo count by 1; Changes to [5973] for the duration of the dungeon
 KR: For 15 turns, increase combo count by 1; Changes to [5973] for the duration of the dungeon
@@ -44249,7 +44249,7 @@ KR: Changes to [5986] for the duration of the dungeon
 
 # 16315/116 - Imbue with Sacred Relic, Muffus
 Tags: REDUCE_DAMAGE
-Game: Reduces damage for 4 turns; changes to Swift-Aiding Dragon Apothecary, Lisheilla
+Game: Reduces damage for 6 turns; changes to Swift-Aiding Dragon Apothecary, Lisheilla
 JP: 6ターンの間、受けるダメージを35％減少。[5989]に変身する
 EN: For 6 turns, reduce damage taken by 35%; Changes to [5989] for the duration of the dungeon
 KR: For 6 turns, reduce damage taken by 35%; Changes to [5989] for the duration of the dungeon
@@ -44340,7 +44340,7 @@ KR: For 1 turn, increase combo count by 2
 
 # 16335/116 - Evil Star Flame
 Tags: MASSIVE_ATTACK,SUICIDE,VOID_ATT_ABSORBS
-Game: 200x ATK Dark Att. attack on all enemies but HP reduced to 1; voids Attribute absorption for 1 turn
+Game: Inflicts 200x ATK Dark Att. attack on all enemies, but HP falls to 1; voids Attribute absorption for 2 turns
 JP: HPが1になる。敵全体に攻撃力ｘ200倍の闇属性攻撃。2ターンの間、属性吸収を無効化する
 EN: Reduce HP to 1; Deal 200x Dark damage to all enemies; For 2 turns, bypass att. absorb shield effects
 KR: Reduce HP to 1; Deal 200x Dark damage to all enemies; For 2 turns, bypass att. absorb shield effects
@@ -44361,7 +44361,7 @@ KR: For 2 turns, bypass att. absorb shield effects
 
 # 16341/116 - Imbue with Sacred Relic, Deig
 Tags: DROP_CHANCE
-Game: Dark Orbs more likely to appear for 10 turns; changes to Mischievous Silver Dragon Jester, Cherney
+Game: Dark Orbs slightly more likely to appear for 15 turns; changes to Mischievous Silver Dragon Jester, Cherney
 JP: 15ターンの間、闇ドロップが15％落ちやすくなる。[5998]に変身する
 EN: For 15 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
 KR: For 15 turns, Dark orbs are more likely to appear by 15%; Changes to [5998] for the duration of the dungeon
@@ -49070,9 +49070,9 @@ JP: バインドと覚醒無効を5ターン回復
 EN: Reduce binds and awoken skill binds by 5 turns
 KR: Reduce binds and awoken skill binds by 5 turns
 
-# 17710/116 - 神器宿装・スミヅノ
+# 17710/116 - Imbue with Sacred Relic, Sumizuno
 Tags: REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが3ターン溜まる。 夜煌龍の侍・トウヤに変身。
+Game: Other allies' skills charged by 3 turns; changes to Twinkling Night Dragon Samurai, Touya
 JP: 自分以外の味方スキルが3ターンの溜まる。[6346]に変身する
 EN: Charge all allies' skills by 3 turns; Changes to [6346] for the duration of the dungeon
 KR: Charge all allies' skills by 3 turns; Changes to [6346] for the duration of the dungeon
@@ -49091,9 +49091,9 @@ JP: [6346]に変身する
 EN: Changes to [6346] for the duration of the dungeon
 KR: Changes to [6346] for the duration of the dungeon
 
-# 17713/116 - 十六夜の白焔
+# 17713/116 - White Flame of Izayoi
 Tags: REDUCE_DEFENSE,EXTENDS_TIME,REMOVE_LOCK
-Game: ドロップのロック状態を解除。 1ターンの間、ドロップ操作を2秒延長、敵の防御力が激減。
+Game: Removes Orb locks; Orb move time +2 seconds  & vastly reduces enemies' DEF for 1 turn
 JP: 全ドロップのロック状態を解除。1ターンの間、ドロップ操作時間が2秒に延長。1ターンの間、敵の防御力が75％下がる
 EN: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds; For 1 turn, reduce enemies' defense by 75%
 KR: Unlock all orbs; For 1 turn, increase orb move time by 2 seconds; For 1 turn, reduce enemies' defense by 75%
