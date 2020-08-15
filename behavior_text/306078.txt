@@ -1,4 +1,4 @@
-#306078 - Magical Machinist, Menoa
+#306078 - Alt. Magical Machinist, Menoa
 monster size: 5
 new AI: True
 start/max counter: 1
@@ -15,20 +15,16 @@ level: 1
  | Reduce damage from all sources by 90% for 999 turns
  group:
  | group:
-   | (18115:46) Elemental Shift
-   | Change own attribute to Wood, Deal 150% damage
    | condition: 33% chance
-   | (18116:39) Quick Time
-   | Movetime -3s for 1 turn, Deal 95% damage
+   | (14721:83) Element Shift + Quick Time
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Movetime -3s for 1 turn, Deal 95% damage
    | condition: 33% chance
-   | (18117:127) Territory Drop
-   | No skyfall for 1 turn
+   | (14722:83) Element Shift + Territory Drop
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + No skyfall for 1 turn
    | condition: 34% chance
-   | (18118:130) Power Break
-   | ATK -25% for 1 turn, Deal 100% damage
+   | (14723:83) Element Shift + Power Break
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + ATK -25% for 1 turn, Deal 100% damage
  | group:
  | condition: hp <= 9
-   | (18115:46) Elemental Shift
-   | Change own attribute to Wood, Deal 150% damage
-   | (18119:15) Magical Burst
-   | Deal 1000% damage (10 hits, 100% each)
+   | (14724:83) Element Shift + Magical Burst
+   | Change own attribute to random one of Fire, Water, Wood, Light, or Dark + Deal 1000% damage (10 hits, 100% each), Deal 1000% damage (10 hits, 100% each)

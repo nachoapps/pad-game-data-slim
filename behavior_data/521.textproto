@@ -8,7 +8,7 @@
       }
       children {
         behavior {
-          enemy_skill_id: 7958
+          enemy_skill_id: 18347
         }
       }
     }
@@ -27,4 +27,4 @@
       }
     }
   }
-  status: APPROVED_AS_IS
+  status: NEEDS_REAPPROVAL

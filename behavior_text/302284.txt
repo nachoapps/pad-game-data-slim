@@ -1,0 +1,29 @@
+#302284 - 夏氷の名人・フロストデーモン
+monster size: 4
+new AI: True
+start/max counter: 0
+counter increment: 0
+monster_id: 302284
+approved: False
+
+level: 5
+ type: PREEMPT
+ | (3132:68) 暑いのは嫌いだ
+ | Water skyfall +25% for 5 turns
+ group:
+ | group:
+ | condition: turn 1
+   | (3133:19) びっくりするじゃないか
+   | Increase damage to 200% for the next 999 turns
+ | group:
+ | condition: turn 2
+   | condition: when 475, 477, 478, 479 on team
+   | (3136:55) 来てたんだ、たまには休みなよ
+   | Player recover 100% HP
+   | condition: 50% chance
+   | (3134:15) サマースラッシュ
+   | Deal 120% damage (2 hits, 60% each)
+ | group:
+   | condition: 50% chance
+   | (3134:15) サマースラッシュ
+   | Deal 120% damage (2 hits, 60% each)

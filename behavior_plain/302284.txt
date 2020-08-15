@@ -1,0 +1,48 @@
+#302284 - 夏氷の名人・フロストデーモン
+monster size: 4
+new AI: True
+start/max counter: 0
+counter increment: 0
+
+#1: ESPreemptive(49:355) -> ESPreemptive
+Enable preempt if level 5
+
+#2: ESBranchLevel(35:25) -> ESBranchLevel
+Branch on level >= 5, target rnd 4
+
+#3: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#4: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 1, target rnd 8
+
+#5: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b1
+
+#6: ESSkyfall(68:3132) -> 暑いのは嫌いだ
+Water skyfall +25% for 5 turns
+
+#7: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#8: ESAttackUPCooldown(19:3133) -> びっくりするじゃないか
+Increase damage to 200% for the next 999 turns
+
+#9: ESBranchCard(90:3135) -> ESBranchCard
+Branch on player_cards HAS [475, 477, 478, 479], target rnd 12
+
+#10: ESAttackMultihit(15:3134) -> サマースラッシュ
+Condition: 50% chance (ai:50 rnd:0)
+Deal 120% damage (2 hits, 60% each)
+
+#11: ESEndPath(36:26) -> ESEndPath
+end_turn
+
+#12: ESBranchFlag(43:10) -> ESBranchFlag
+Branch on flag & 2, target rnd 10
+
+#13: ESFlagOperation(22:12) -> ESFlagOperation
+flag SET 0b11
+
+#14: ESRecoverPlayer(55:3136) -> 来てたんだ、たまには休みなよ
+Player recover 100% HP

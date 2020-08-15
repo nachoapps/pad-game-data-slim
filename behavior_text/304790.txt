@@ -1,0 +1,24 @@
+#304790 - 避暑の魔人・ワーウルフィ
+monster size: 4
+new AI: True
+start/max counter: 3
+counter increment: 0
+monster_id: 304790
+approved: False
+
+level: 4
+ type: PREEMPT
+ | (10864:48) お前も欲しいのか！
+ | Change a random attribute to Dark orbs, Deal 120% damage
+ group:
+ | group:
+ | condition: always turn 1
+   | (10865:92) 1つだけやるっ！
+   | Spawn 1 random Heal orb, Deal 100% damage
+ | group:
+   | (10866:92) もうやらねぇって！
+   | Spawn 3 random Jammer orbs, Deal 100% damage
+ | group:
+ | condition: hp <= 19
+   | (10867:15) ヤシの実スラッシュ
+   | Deal 120% damage (3 hits, 40% each)

@@ -12,16 +12,16 @@ Branch on level >= 6, target rnd 4
 
 #3: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESGravity(50:18569) -> ブルーインパクト
+	[0] ESGravity(50:18569) -> Blue Impact
 	Player -99% HP
-	[1] ESAbsorbCombo(67:18667) -> 蒼玉の騎士道
+	[1] ESAbsorbCombo(67:18667) -> Chivalry of the Blue Globe
 	Absorb damage when combos <= 8 for 8 turns
 
 #4: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 2)
-	[0] ESGravity(50:18569) -> ブルーインパクト
+	[0] ESGravity(50:18569) -> Blue Impact
 	Player -99% HP
-	[1] ESAbsorbCombo(67:18566) -> 蒼玉の騎士道
+	[1] ESAbsorbCombo(67:18566) -> Chivalry of the Blue Globe
 	Absorb damage when combos <= 9 for 9 turns
 
 #5: ESBranchHP(28:18) -> ESBranchHP
@@ -32,12 +32,12 @@ Branch on hp > 51, target rnd 8
 
 #7: SkillSet:
 	Condition: One-time use (ai:100 rnd:0) (cost: 1)
-	[0] ESSpinnersFixed(110:18568) -> 苦心惨憺
+	[0] ESSpinnersFixed(110:18568) -> Hard Fought
 	Specific orbs change every 2.0s for 10 turns
-	[1] ESGravity(50:18569) -> ブルーインパクト
+	[1] ESGravity(50:18569) -> Blue Impact
 	Player -99% HP
 
-#8: ESChangeAttribute(46:18570) -> アイスミラージュソード
+#8: ESChangeAttribute(46:18570) -> Ice Mirage Sword
 Change own attribute to random one of Fire, Water, or Wood, Deal 100% damage
 
 #9: ESEndPath(36:26) -> ESEndPath
@@ -50,15 +50,15 @@ Branch on flag & 1, target rnd 6
 flag SET 0b1
 
 #12: SkillSet:
-	[0] ESAttackUPRemainingEnemies(17:18572) -> ブルークレスト
+	[0] ESAttackUPRemainingEnemies(17:18572) -> Blue Crest
 	Increase damage to 200% for the next 999 turns
-	[1] ESNoSkyfall(127:18573) -> 窮余の一策
+	[1] ESNoSkyfall(127:18573) -> Last Resort
 	No skyfall for 99 turns
-	[2] ESBindAwoken(88:18574) -> 鎧騎士の罪過
+	[2] ESBindAwoken(88:18574) -> Armored Knight's Sin
 	Bind awoken skills for 5 turns
 
 #13: ESEndPath(36:26) -> ESEndPath
 end_turn
 
-#14: ESResolve(73:18564) -> 根性
+#14: ESResolve(73:18564) -> Resolve
 Survive attacks with 1 HP when HP > 50%

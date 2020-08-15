@@ -1,4 +1,4 @@
-#200988 - 光臨舞神・アマテラスオオカミ
+#200988 - Dancing Light, Amaterasu Ohkami
 monster size: 5
 new AI: True
 start/max counter: 0
@@ -8,5 +8,5 @@ approved: False
 
 level: 1
  type: PREEMPT
- | (18342:83) 願い事はされましたか？ + あなたにも
+ | (18342:83) Did you make a wish? + May the stars
  | Light skyfall +15% for 1 turn + Reduce self HP to 0
