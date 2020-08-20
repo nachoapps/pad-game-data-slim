@@ -238,7 +238,7 @@ KR: For 1 turn, 2.5x ATK for God type; Freely move orbs for 10 seconds
 
 # 35/6 - Ultra Gravity
 Tags: GRAVITY
-Game: Reduces enemies' HP by 30%
+Game: Reduces enemies' remaining HP by 30%
 JP: 敵の現HPの30％分のダメージ
 EN: Reduce enemies' HP by 30%
 KR: Reduce enemies' HP by 30%
@@ -819,35 +819,35 @@ KR: Change Light orbs to Heal orbs
 
 # 163/42 - Flame Strike
 Tags: ATTRIBUTE_ATTACK
-Game: Inflicts 35,000 Fire damage attack on Wood Att. enemies
+Game: Inflicts 100,000 Fire Att. damage on Wood Att. enemies
 JP: 木属性の敵に火属性の100000ダメージ
 EN: Deal 100000 Fire damage to all Wood Att. enemies
 KR: Deal 100000 Fire damage to all Wood Att. enemies
 
 # 164/42 - Freeze Strike
 Tags: ATTRIBUTE_ATTACK
-Game: Inflicts 35,000 Water damage attack on Fire Att. enemies
+Game: Inflicts 100,000 Water Att. damage on Fire Att. enemies
 JP: 火属性の敵に水属性の100000ダメージ
 EN: Deal 100000 Water damage to all Fire Att. enemies
 KR: Deal 100000 Water damage to all Fire Att. enemies
 
 # 165/42 - Rock Strike
 Tags: ATTRIBUTE_ATTACK
-Game: Inflicts 35,000 Wood damage attack on Water Att. enemies
+Game: Inflicts 100,000 Wood Att. damage on Water Att. enemies
 JP: 水属性の敵に木属性の100000ダメージ
 EN: Deal 100000 Wood damage to all Water Att. enemies
 KR: Deal 100000 Wood damage to all Water Att. enemies
 
 # 166/42 - Thunder Strike
 Tags: ATTRIBUTE_ATTACK
-Game: Inflicts 35,000 Light damage attack on Dark Att. enemies
+Game: Inflicts 100,000 Light Att. damage on Dark Att. enemies
 JP: 闇属性の敵に光属性の100000ダメージ
 EN: Deal 100000 Light damage to all Dark Att. enemies
 KR: Deal 100000 Light damage to all Dark Att. enemies
 
 # 167/42 - Dark Strike
 Tags: ATTRIBUTE_ATTACK
-Game: Inflicts 35,000 Dark damage attack on Light Att. enemies
+Game: Inflicts 100,000 Dark Att. damage on Light Att. enemies
 JP: 光属性の敵に闇属性の100000ダメージ
 EN: Deal 100000 Dark damage to all Light Att. enemies
 KR: Deal 100000 Dark damage to all Light Att. enemies
@@ -3017,7 +3017,7 @@ KR: Deal 10x ATK Water damage to all enemies; Poison all enemies (8x ATK)
 
 # 981/116 - Blessed Blade of the Hero
 Tags: REDUCE_DEFENSE,SINGLE_TARGET_ATTACK,ATTACK_AND_HEAL
-Game: Voids enemies' DEF for 1 turn; inflicts 20x ATK Wood Att.  attack on 1 enemy, recovers the damage as HP
+Game: Voids enemies' DEF for 1 turn; inflicts 20x ATK Wood Att. attack on 1 enemy, recovers the damage as HP
 JP: 1ターンの間、敵の防御力が100％下がる。敵1体に攻撃力ｘ20倍の木属性攻撃し、ダメージ分のHP回復
 EN: For 1 turn, reduce enemies' defense by 100%; Deal 20x ATK Wood damage to an enemy and recover the amount as HP
 KR: For 1 turn, reduce enemies' defense by 100%; Deal 20x ATK Wood damage to an enemy and recover the amount as HP
@@ -5922,7 +5922,7 @@ KR: For 1 turn, 2.5x ATK for Attacker and Devil types; Poison all enemies (10x A
 
 # 1615/117 - Soul Cure
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Recovers 30% of maximum HP, plus bind status is reduced by 3 turns
+Game: Recovers 30% HP, plus bind status is reduced by 3 turns
 JP: 最大HP30％分回復。バインドを3ターン回復
 EN: Recover 30% of max HP; Reduce binds by 3 turns
 KR: Recover 30% of max HP; Reduce binds by 3 turns
@@ -7077,7 +7077,7 @@ KR: Enhance all Fire orbs; Charge all allies' skills by 2 turns
 
 # 1897/116 - Rising Dark
 Tags: DROP_CHANCE,REDUCE_SKILL_TURN
-Game: Dark Orbs slightly more likely to appear for  3 turns; other allies' skills charged by 1 turn
+Game: Dark Orbs slightly more likely to appear for 3 turns; other allies' skills charged by 1 turn
 JP: 3ターンの間、闇ドロップが15％落ちやすくなる。自分以外の味方スキルが1ターンの溜まる
 EN: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
 KR: For 3 turns, Dark orbs are more likely to appear by 15%; Charge all allies' skills by 1 turn
@@ -10794,7 +10794,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 3346/116 - Earth Light Impact
 Tags: ORB_CONVERT,DOUBLE_ORBS_CONVERT,ORB_LOCK
-Game: Changes Dark Orbs to Wood & Fire Orbs to Light;  Wood and Light Orbs Locked
+Game: Changes Dark Orbs to Wood & Fire Orbs to Light; Wood and Light Orbs Locked
 JP: 闇ドロップを木ドロップに、火ドロップを光ドロップに変化。全木と光ドロップをロック
 EN: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock all Wood and Light orbs
 KR: Change Dark orbs to Wood orbs; Change Fire orbs to Light orbs; Lock all Wood and Light orbs
@@ -11151,7 +11151,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 3501/116 - Are you ok!?
 Tags: REDUCE_DAMAGE,HEAL
-Game: Recovers 5x team's RCV as HP;  halves damage for 1 turn
+Game: Recovers 5x team's RCV as HP; halves damage for 1 turn
 JP: チームの総回復力ｘ10倍のHPを回復。1ターンの間、受けるダメージを50％減少
 EN: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
 KR: Recover HP equal to 10x team's total RCV; For 1 turn, reduce damage taken by 50%
@@ -11361,7 +11361,7 @@ KR: Charge all allies' skills by 1 turn
 
 # 3531/116 - Rune Enhance - Wood & Dark
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,REDUCE_SKILL_TURN
-Game: 2.5x RCV & 2.5x ATK for Wood & Dark Att. for 3 turns;  other allies' skills charged by 1 turn
+Game: 2.5x RCV & 2.5x ATK for Wood & Dark Att. for 3 turns; other allies' skills charged by 1 turn
 JP: 3ターンの間、木と闇属性の攻撃力が2.5倍。3ターンの間、回復力が2.5倍。自分以外の味方スキルが1ターンの溜まる
 EN: For 3 turns, 2.5x ATK for Wood and Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
 KR: For 3 turns, 2.5x ATK for Wood and Dark Att.; For 3 turns, 2.5x RCV; Charge all allies' skills by 1 turn
@@ -21651,7 +21651,7 @@ KR: Change Wood orbs to Dark orbs; Change Light orbs to Heal orbs
 
 # 8927/161 - Stellar Gravity
 Tags: NEW_GRAVITY
-Game: Inflicts damage equal to 30% of enemies' max HP
+Game: Inflicts damage equal to 30% of enemies' HP
 JP: 敵の最大HPの30％分のダメージ
 EN: Deal damage equal to 30% of enemies' max HP
 KR: Deal damage equal to 30% of enemies' max HP
@@ -22353,7 +22353,7 @@ KR: Change the bottom row to Wood orbs
 
 # 9313/161 - Punishment of God
 Tags: NEW_GRAVITY
-Game: Inflicts damage equal to 35% of enemies' max HP
+Game: Inflicts damage equal to 35% of enemies' HP
 JP: 敵の最大HPの35％分のダメージ
 EN: Deal damage equal to 35% of enemies' max HP
 KR: Deal damage equal to 35% of enemies' max HP
@@ -29157,7 +29157,7 @@ KR: For 1 turn, bypass damage absorb shield effects
 
 # 11762/116 - Sacrificing Sword Stroke
 Tags: ENHANCED_ATTACK,SINGLE_TARGET_ATTACK,SUICIDE,ADD_COMBO
-Game: Inflicts 100x ATK Wd Att. attack on 1 enemy, but halves HP; adds 2 combos & 2x ATK for Wood Att. for 1 turn
+Game: Inflicts 100x ATK Wood attack on 1 enemy, but halves HP; 2x ATK for Wood Att. & adds 2 combos for 1 turn
 JP: HPが50％減少。敵1体に攻撃力ｘ100倍の木属性攻撃。1ターンの間、2コンボ加算される。1ターンの間、木属性の攻撃力が2倍
 EN: Reduce HP by 50%; Deal 100x Wood damage to an enemy; For 1 turn, increase combo count by 2; For 1 turn, 2x ATK for Wood Att.
 KR: Reduce HP by 50%; Deal 100x Wood damage to an enemy; For 1 turn, increase combo count by 2; For 1 turn, 2x ATK for Wood Att.
@@ -43346,7 +43346,7 @@ KR: For 1 turn, increase combo count by 1
 
 # 16054/179 - 8th Anniversary TAMA!
 Tags: HEAL
-Game: Recovers 8% of Max HP for 8 turns
+Game: Recovers 8% HP for 8 turns
 JP: 8ターンの間、最大HPの8％分回復
 EN: For 8 turns, recover 8% of max HP
 KR: For 8 turns, recover 8% of max HP
@@ -44592,7 +44592,7 @@ KR: Lock all orbs
 
 # 16408/116 - Dream of Adventures
 Tags: ALL_ORBS_CONVERT,PIERCE_DAMAGE_VOID
-Game: Pierce through enemy's damage void for 1 turn; changes all Orbs to Fire, Water, Light, Dark & Heal Orbs
+Game: Pierce through enemy's damage void for 2 turns; changes Orbs to Fire, Water, Light, Dark & Heal Orbs
 JP: 2ターンの間、ダメージ無効を貫通する。全ドロップを火、水、光、闇、回復ドロップに変化
 EN: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
 KR: For 2 turns, bypass void damage shield effects; Change all orbs to Fire, Water, Light, Dark, and Heal orbs
@@ -47511,7 +47511,7 @@ KR: For 1 turn, increase orb move time by 5 seconds
 
 # 17271/116 - Lurik Dream
 Tags: LINE_ORBS_CONVERTER,VOID_ATT_ABSORBS
-Game: Voids Att. absorption for 2 turns; changes the 2 leftmost columns to Fire Orbs & 2 rightmost columns to Light Orbs
+Game: Voids Att. absorption for 2 turns; changes the 2 leftmost columns to Fire Orbs & 2 rightmost columns to Heal Orbs
 JP: 2ターンの間、属性吸収を無効化する。最左端と左から2列目を火に、右から2列目と最右端を回復ドロップに変化
 EN: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
 KR: For 2 turns, bypass att. absorb shield effects; Change the far left column and the 2nd column from the left to Fire orbs and change the 2nd column from the right and the far right column to Heal orbs
@@ -48251,9 +48251,9 @@ JP: 全ドロップを火、水、闇ドロップに変化
 EN: Change all orbs to Fire, Water, and Dark orbs
 KR: Change all orbs to Fire, Water, and Dark orbs
 
-# 17505/116 - 君はヒーローになれる
+# 17505/116 - You can become a hero!
 Tags: ENHANCED_ATTACK
-Game: 2ターンの間、攻撃タイプの攻撃力が3倍。 「ワン・フォー・オール」オールマイトに変身。
+Game: 3x ATK for Attacker Type for 2 turns; changes to All Might, "One for All"
 JP: 2ターンの間、攻撃タイプの攻撃力が3倍。[6293]に変身する
 EN: For 2 turns, 3x ATK for Attacker type; Changes to [6293] for the duration of the dungeon
 KR: For 2 turns, 3x ATK for Attacker type; Changes to [6293] for the duration of the dungeon
@@ -48272,9 +48272,9 @@ JP: [6293]に変身する
 EN: Changes to [6293] for the duration of the dungeon
 KR: Changes to [6293] for the duration of the dungeon
 
-# 17508/116 - 私が来た！！
+# 17508/116 - I'm here!
 Tags: ENHANCED_ATTACK,REDUCE_DEFENSE
-Game: 1ターンの間、敵の防御力が0になる。 1ターンの間、攻撃タイプの攻撃力が2倍。
+Game: Voids enemies' DEF for 1 turn; 2x ATK for Attacker Type for 1 turn
 JP: 1ターンの間、敵の防御力が100％下がる。1ターンの間、攻撃タイプの攻撃力が2倍
 EN: For 1 turn, reduce enemies' defense by 100%; For 1 turn, 2x ATK for Attacker type
 KR: For 1 turn, reduce enemies' defense by 100%; For 1 turn, 2x ATK for Attacker type
@@ -48293,9 +48293,9 @@ JP: 1ターンの間、攻撃タイプの攻撃力が2倍
 EN: For 1 turn, 2x ATK for Attacker type
 KR: For 1 turn, 2x ATK for Attacker type
 
-# 17511/116 - プロはいつだって命がけ
+# 17511/116 - Pros are always risking their lives!
 Tags: ENHANCED_ATTACK,HEAL,REMOVE_LOCK
-Game: HPを全回復。ドロップのロック状態を解除。 1ターンの間、光属性の攻撃力が5倍。
+Game: Fully recovers HP, removes Orb locks; 5x ATK for Light Att. for 1 turn
 JP: HPを全回復。全ドロップのロック状態を解除。1ターンの間、光属性の攻撃力が5倍
 EN: Recover all HP; Unlock all orbs; For 1 turn, 5x ATK for Light Att.
 KR: Recover all HP; Unlock all orbs; For 1 turn, 5x ATK for Light Att.
@@ -48321,9 +48321,9 @@ JP: 1ターンの間、光属性の攻撃力が5倍
 EN: For 1 turn, 5x ATK for Light Att.
 KR: For 1 turn, 5x ATK for Light Att.
 
-# 17520/116 - No.1を見せてやる
+# 17520/116 - I'll show you what it means to be Number One!
 Tags: DROP_CHANCE
-Game: 2ターンの間、火ドロップが落ちやすくなる。 「ヘルフレイム」エンデヴァーに変身。
+Game: Fire Orbs more likely to appear for 2 turns; changes to Endeavor, "Hellflame"
 JP: 2ターンの間、火ドロップが25％落ちやすくなる。[6296]に変身する
 EN: For 2 turns, Fire orbs are more likely to appear by 25%; Changes to [6296] for the duration of the dungeon
 KR: For 2 turns, Fire orbs are more likely to appear by 25%; Changes to [6296] for the duration of the dungeon
@@ -48342,9 +48342,9 @@ JP: [6296]に変身する
 EN: Changes to [6296] for the duration of the dungeon
 KR: Changes to [6296] for the duration of the dungeon
 
-# 17523/116 - 俺を見ていてくれ
+# 17523/116 - Just watch me.
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,LINE_ORBS_CONVERTER
-Game: 右端縦1列を火ドロップに変化。 1ターンの間、回復力と火属性の攻撃力が2倍。
+Game: Changes the rightmost column to Fire Orbs; 2x ATK for Fire Att. & 2x RCV for 1 turn
 JP: 最右端を火ドロップに変化。1ターンの間、回復力が2倍。1ターンの間、火属性の攻撃力が2倍
 EN: Change the far right column to Fire orbs; For 1 turn, 2x RCV; For 1 turn, 2x ATK for Fire Att.
 KR: Change the far right column to Fire orbs; For 1 turn, 2x RCV; For 1 turn, 2x ATK for Fire Att.
@@ -48363,9 +48363,9 @@ JP: 1ターンの間、回復力が2倍。1ターンの間、火属性の攻撃�
 EN: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Fire Att.
 KR: For 1 turn, 2x RCV; For 1 turn, 2x ATK for Fire Att.
 
-# 17526/116 - 強く在る理由
+# 17526/116 - A Reason to be Strong
 Tags: HEAL,LINE_ORBS_CONVERTER,REDUCE_MATCH_RESTRICTION
-Game: HPと消せないドロップ状態を全回復。 両端の縦1列を火ドロップに変化。
+Game: Fully recovers HP & unmatchable Orb status; changes the outermost columns to Fire Orbs
 JP: HPを全回復。消せないドロップ状態を9999ターン回復。最左端と最右端を火ドロップに変化
 EN: Recover all HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column and the far right column to Fire orbs
 KR: Recover all HP; Reduce unable to match orbs effect by 9999 turns; Change the far left column and the far right column to Fire orbs
@@ -48391,9 +48391,9 @@ JP: HPを全回復
 EN: Recover all HP
 KR: Recover all HP
 
-# 17535/116 - 君を救ける！！
+# 17535/116 - I'll save you!!
 Tags: REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが2ターン溜まる。 「ワン・フォー・オール」緑谷出久に変身。
+Game: Other allies' skills charged by 2 turns; changes to Izuku Midoriya, "One for All"
 JP: 自分以外の味方スキルが2ターンの溜まる。[6299]に変身する
 EN: Charge all allies' skills by 2 turns; Changes to [6299] for the duration of the dungeon
 KR: Charge all allies' skills by 2 turns; Changes to [6299] for the duration of the dungeon
@@ -48412,9 +48412,9 @@ JP: [6299]に変身する
 EN: Changes to [6299] for the duration of the dungeon
 KR: Changes to [6299] for the duration of the dungeon
 
-# 17538/116 - その未来を捻じ曲げる！
+# 17538/116 - I'll change that future!
 Tags: ALL_ORBS_CONVERT,SUICIDE,REMOVE_LOCK
-Game: HPが20％減少。ドロップのロック状態を解除。 全ドロップを火、水、木、光ドロップに変化。
+Game: Reduces HP by 20%, removes Orb locks; changes all Orbs to Fire, Water, Wood & Light Orbs
 JP: HPが20％減少。全ドロップのロック状態を解除。全ドロップを火、水、木、光ドロップに変化
 EN: Reduce HP by 20%; Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs
 KR: Reduce HP by 20%; Unlock all orbs; Change all orbs to Fire, Water, Wood, and Light orbs
@@ -48433,9 +48433,9 @@ JP: 全ドロップを火、水、木、光ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, and Light orbs
 KR: Change all orbs to Fire, Water, Wood, and Light orbs
 
-# 17541/116 - シュートスタイル
+# 17541/116 - Shoot Style
 Tags: ENHANCED_ATTACK,REDUCE_SKILL_TURN
-Game: 1ターンの間、木属性の攻撃力が2.5倍。 自分以外の味方スキルが2ターン溜まる。
+Game: 2.5x ATK for Wood Att. for 1 turn; other allies' skills charged by 2 turns
 JP: 1ターンの間、木属性の攻撃力が2.5倍。自分以外の味方スキルが2ターンの溜まる
 EN: For 1 turn, 2.5x ATK for Wood Att.; Charge all allies' skills by 2 turns
 KR: For 1 turn, 2.5x ATK for Wood Att.; Charge all allies' skills by 2 turns
@@ -48454,9 +48454,9 @@ JP: 自分以外の味方スキルが2ターンの溜まる
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
-# 17550/116 - こっからが本番だ
+# 17550/116 - Time to get serious!
 Tags: REDUCE_SKILL_TURN
-Game: 自分以外の味方スキルが2ターン溜まる。 「爆破」爆豪勝己に変身。
+Game: Other allies' skills charged by 2 turns; changes to Katsuki Bakugo, "Explosion"
 JP: 自分以外の味方スキルが2ターンの溜まる。[6302]に変身する
 EN: Charge all allies' skills by 2 turns; Changes to [6302] for the duration of the dungeon
 KR: Charge all allies' skills by 2 turns; Changes to [6302] for the duration of the dungeon
@@ -48475,9 +48475,9 @@ JP: [6302]に変身する
 EN: Changes to [6302] for the duration of the dungeon
 KR: Changes to [6302] for the duration of the dungeon
 
-# 17553/116 - 勝つんだよ
+# 17553/116 - I'll win.
 Tags: ATTACK_STANCE,SINGLE_TARGET_ATTACK,ORB_CONVERT,FIXED_DAMAGE
-Game: 回復ドロップを火ドロップに変化。 敵1体に25万の固定ダメージ×5回。
+Game: Changes Heal Orbs to Fire Orbs; inflicts 250,000 damage on 1 enemy five times
 JP: 回復ドロップを火ドロップに変化。敵1体に250000ダメージｘ5回
 EN: Change Heal orbs to Fire orbs; Deal 250000 damage to an enemy 5 times
 KR: Change Heal orbs to Fire orbs; Deal 250000 damage to an enemy 5 times
@@ -48496,9 +48496,9 @@ JP: 敵1体に250000ダメージ
 EN: Deal 250000 damage to an enemy
 KR: Deal 250000 damage to an enemy
 
-# 17556/116 - 溜めを可能にする篭手
+# 17556/116 - Grenadier Bracers
 Tags: SINGLE_TARGET_ATTACK,SUICIDE
-Game: HPが50％減るが、敵1体に攻撃力×300倍の火属性攻撃。 ランダムで火ドロップを12個生成。
+Game: Inflicts 300x ATK Fire Att. attack on 1 enemy,  but halves HP; creates 12 Fire Orbs at random
 JP: HPが50％減少。敵1体に攻撃力ｘ300倍の火属性攻撃。火ドロップを12個生成
 EN: Reduce HP by 50%; Deal 300x Fire damage to an enemy; Create 12 Fire orbs
 KR: Reduce HP by 50%; Deal 300x Fire damage to an enemy; Create 12 Fire orbs
@@ -48517,9 +48517,9 @@ JP: 火ドロップを12個生成
 EN: Create 12 Fire orbs
 KR: Create 12 Fire orbs
 
-# 17567/116 - 俺だってヒーローに…！！
+# 17567/116 - I'll become a hero!
 Tags: MENACE
-Game: 敵の行動を2ターン遅らせる。 「半冷半燃」轟焦凍に変身。
+Game: Delays enemies' next move for 2 turns; changes to Shoto Todoroki, "Half-Cold Half-Hot"
 JP: 敵の行動を2ターン遅らせる。[6305]に変身する
 EN: Delay enemies' next attack by 2 turns; Changes to [6305] for the duration of the dungeon
 KR: Delay enemies' next attack by 2 turns; Changes to [6305] for the duration of the dungeon
@@ -48538,9 +48538,9 @@ JP: [6305]に変身する
 EN: Changes to [6305] for the duration of the dungeon
 KR: Changes to [6305] for the duration of the dungeon
 
-# 17570/116 - なりてえもんちゃんと見ろ！！
+# 17570/116 - Never forget who you want to be!
 Tags: ORB_LOCK
-Game: ランダムで火と水ドロップを3個ずつ生成。 全ドロップをロック。
+Game: Creates 3 Fire and Water Orbs each at random; locks all Orbs
 JP: ランダムで火と水を3個ずつ生成。全ドロップをロック
 EN: Create 3 Fire and Water orbs; Lock all orbs
 KR: Create 3 Fire and Water orbs; Lock all orbs
@@ -48559,16 +48559,16 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 17573/179 - タクティカルベスト
+# 17573/179 - Tactical Vest
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
-Game: 4ターンの間、HPを50％回復。 バインドと覚醒無効状態を全回復。
+Game: Recovers 50% of HP for 4 turns; fully recovers bind status (incl. Awoken)
 JP: 4ターンの間、最大HPの50％分回復。バインドと覚醒無効を全回復
 EN: For 4 turns, recover 50% of max HP; Remove all binds and awoken skill binds
 KR: For 4 turns, recover 50% of max HP; Remove all binds and awoken skill binds
 
-# 17580/116 - POWERR！
+# 17580/116 - POWERRR!
 Tags: VOID_DAMAGE
-Game: 2ターンの間、受けるダメージを無効化。 「透過」通形ミリオに変身。
+Game: Voids damage for 2 turns; changes to Mirio Togata, "Permeation"
 JP: 2ターンの間、受けるダメージを100％減少。[6308]に変身する
 EN: For 2 turns, reduce damage taken by 100%; Changes to [6308] for the duration of the dungeon
 KR: For 2 turns, reduce damage taken by 100%; Changes to [6308] for the duration of the dungeon
@@ -48587,9 +48587,9 @@ JP: [6308]に変身する
 EN: Changes to [6308] for the duration of the dungeon
 KR: Changes to [6308] for the duration of the dungeon
 
-# 17583/116 - 俺が君のヒーローになる！
+# 17583/116 - I'll be your hero!
 Tags: ENHANCED_ATTACK,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
-Game: 3ターンの間、ダメージ吸収と属性吸収を無効化。 3ターンの間、体力と攻撃タイプの攻撃力が1.5倍。
+Game: Voids damage absorption & Att. absorption for 3 turns; 1.5x ATK for Physical & Attacker Types for 3 turns
 JP: 3ターンの間、ダメージ吸収と属性吸収を無効化する。3ターンの間、体力と攻撃タイプの攻撃力が1.5倍
 EN: For 3 turns, bypass damage absorb shield and att. absorb shield effects; For 3 turns, 1.5x ATK for Physical and Attacker types
 KR: For 3 turns, bypass damage absorb shield and att. absorb shield effects; For 3 turns, 1.5x ATK for Physical and Attacker types
@@ -48608,9 +48608,9 @@ JP: 3ターンの間、体力と攻撃タイプの攻撃力が1.5倍
 EN: For 3 turns, 1.5x ATK for Physical and Attacker types
 KR: For 3 turns, 1.5x ATK for Physical and Attacker types
 
-# 17586/116 - ヒーローのマント
+# 17586/116 - A Hero's Cape
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,ALL_ORBS_CONVERT,REMOVE_LOCK
-Game: 1ターンの間、回復力と光属性の攻撃力が3.5倍。 全ドロップのロックを解除し、5属性＋回復ドロップに変化。
+Game: 3.5x ATK for Light Att. & 3.5x RCV for 1 turn;  removes Orb locks, changes Orbs to all Att. & Heal
 JP: 1ターンの間、回復力が3.5倍。1ターンの間、光属性の攻撃力が3.5倍。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: For 1 turn, 3.5x RCV; For 1 turn, 3.5x ATK for Light Att.; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: For 1 turn, 3.5x RCV; For 1 turn, 3.5x ATK for Light Att.; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -48636,9 +48636,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 17596/116 - 合理的にいこう
+# 17596/116 - Let's be logical.
 Tags: REDUCE_DEFENSE
-Game: 5ターンの間、敵の防御力が0になる。 「抹消」相澤消太に変身。
+Game: Voids enemies' DEF for 5 turns; changes to Shota Aizawa, "Erasure"
 JP: 5ターンの間、敵の防御力が100％下がる。[6311]に変身する
 EN: For 5 turns, reduce enemies' defense by 100%; Changes to [6311] for the duration of the dungeon
 KR: For 5 turns, reduce enemies' defense by 100%; Changes to [6311] for the duration of the dungeon
@@ -48657,9 +48657,9 @@ JP: [6311]に変身する
 EN: Changes to [6311] for the duration of the dungeon
 KR: Changes to [6311] for the duration of the dungeon
 
-# 17599/116 - 一芸だけじゃヒーローは務まらん
+# 17599/116 - No good hero is a one trick pony.
 Tags: MENACE,VOID_DAMAGE_ABSORBS
-Game: 敵の行動を1ターン遅らせる。 1ターンの間、ダメージ吸収を無効化。
+Game: Delays enemies' next move for 1 turn; voids damage absorption for 1 turn
 JP: 敵の行動を1ターン遅らせる。1ターンの間、ダメージ吸収を無効化する
 EN: Delay enemies' next attack by 1 turn; For 1 turn, bypass damage absorb shield effects
 KR: Delay enemies' next attack by 1 turn; For 1 turn, bypass damage absorb shield effects
@@ -48678,9 +48678,9 @@ JP: 1ターンの間、ダメージ吸収を無効化する
 EN: For 1 turn, bypass damage absorb shield effects
 KR: For 1 turn, bypass damage absorb shield effects
 
-# 17602/116 - 捕縛武器
+# 17602/116 - Capturing Weapon
 Tags: MENACE,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 消せないドロップ、バインド、覚醒無効状態を全回復。 敵の行動を1ターン遅らせる。
+Game: Fully recovers bind status (incl. Awoken) & unmatchable Orb status; delays enemies' next move for 1 turn
 JP: 消せないドロップ状態を9999ターン回復。バインドと覚醒無効を全回復。敵の行動を1ターン遅らせる
 EN: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Delay enemies' next attack by 1 turn
 KR: Reduce unable to match orbs effect by 9999 turns; Remove all binds and awoken skill binds; Delay enemies' next attack by 1 turn
@@ -48706,9 +48706,9 @@ JP: 敵の行動を1ターン遅らせる
 EN: Delay enemies' next attack by 1 turn
 KR: Delay enemies' next attack by 1 turn
 
-# 17612/116 - 社会のゴミめ
+# 17612/116 - Scum of Society
 Tags: DROP_CHANCE
-Game: 1ターンの間、火、水、闇、回復ドロップのみ落ちてくる。 「崩壊」死柄木弔に変身。
+Game: Only Fire, Water, Dark & Heal Orbs appear for 1 turn; changes to Tomura Shigaraki, "Decay"
 JP: 1ターンの間、火、水、闇、回復ドロップのみ落ちてくる。[6314]に変身する
 EN: For 1 turn, only Fire, Water, Dark, and Heal orbs will appear; Changes to [6314] for the duration of the dungeon
 KR: For 1 turn, only Fire, Water, Dark, and Heal orbs will appear; Changes to [6314] for the duration of the dungeon
@@ -48727,9 +48727,9 @@ JP: [6314]に変身する
 EN: Changes to [6314] for the duration of the dungeon
 KR: Changes to [6314] for the duration of the dungeon
 
-# 17615/116 - 次は俺たちだ
+# 17615/116 - We're next!
 Tags: LINE_ORBS_CONVERTER,NEW_GRAVITY
-Game: 敵のHP5％分のダメージ。 最下段横1列を闇ドロップに変化。
+Game: Reduces enemies' HP by 5%; changes the bottom row to Dark Orbs
 JP: 敵の最大HPの5％分のダメージ。最下段を闇ドロップに変化
 EN: Deal damage equal to 5% of enemies' max HP; Change the bottom row to Dark orbs
 KR: Deal damage equal to 5% of enemies' max HP; Change the bottom row to Dark orbs
@@ -48748,9 +48748,9 @@ JP: 最下段を闇ドロップに変化
 EN: Change the bottom row to Dark orbs
 KR: Change the bottom row to Dark orbs
 
-# 17618/116 - 死柄木のシンボル
+# 17618/116 - Shigaraki's Symbol
 Tags: POISON,DROP_CHANCE
-Game: 1ターンの間、回復とお邪魔ドロップが少し落ちやすくなる。 敵全体を超絶毒にする。
+Game: Heal Orbs & Jammers slightly more likely to appear for 1 turn; mortally poisons all enemies
 JP: 1ターンの間、回復とお邪魔が15％の確率で落ちてくる。敵全体を毒にする（攻撃力ｘ100倍）
 EN: For 1 turn, Heal and Jammer orbs are more likely to appear by 15%; Poison all enemies (100x ATK)
 KR: For 1 turn, Heal and Jammer orbs are more likely to appear by 15%; Poison all enemies (100x ATK)
@@ -48769,9 +48769,9 @@ JP: 敵全体を毒にする（攻撃力ｘ100倍）
 EN: Poison all enemies (100x ATK)
 KR: Poison all enemies (100x ATK)
 
-# 17627/116 - 未来なんて何かせなかわらんやろ！
+# 17627/116 - The future won't change if ya do nothing!
 Tags: ORB_REFRESH,VOID_ATT_ABSORBS
-Game: 1ターンの間、属性吸収を無効化。 ランダムでドロップを入れ替える。
+Game: Voids Attribute absorption for 1 turn; replaces all Orbs
 JP: 1ターンの間、属性吸収を無効化する。ランダムでドロップを入れ替える
 EN: For 1 turn, bypass att. absorb shield effects; Replace all orbs
 KR: For 1 turn, bypass att. absorb shield effects; Replace all orbs
@@ -48790,9 +48790,9 @@ JP: ランダムでドロップを入れ替える
 EN: Replace all orbs
 KR: Replace all orbs
 
-# 17633/116 - おまえを倒そう！
+# 17633/116 - I will defeat you!
 Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
-Game: 全ドロップを火、水、木、光、闇ドロップに変化。 自分以外の味方スキルが2ターン溜まる。
+Game: Changes Orbs to all Attributes; other allies' skills charged by 2 turns
 JP: 全ドロップを火、水、木、光、闇ドロップに変化。自分以外の味方スキルが2ターンの溜まる
 EN: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 2 turns
 KR: Change all orbs to Fire, Water, Wood, Light, and Dark orbs; Charge all allies' skills by 2 turns
@@ -48811,9 +48811,9 @@ JP: 自分以外の味方スキルが2ターンの溜まる
 EN: Charge all allies' skills by 2 turns
 KR: Charge all allies' skills by 2 turns
 
-# 17639/116 - 自分のペースでいいのよ
+# 17639/116 - Go at your own pace.
 Tags: ENHANCED_HEAL,EXTENDS_TIME,CHANGE_ATTRIBUTE
-Game: 1ターンの間、自分の属性が木属性に変化。 1ターンの間、回復力とドロップ操作時間が2倍。
+Game: This ally's Att. changes to Wood for 1 turn; 2x RCV & 2x Orb move time for 1 turn
 JP: 1ターンの間、自分の属性が木属性に変化。1ターンの間、回復力が2倍。1ターンの間、ドロップ操作時間が2倍
 EN: Change own Att. to Wood for 1 turns; For 1 turn, 2x RCV; For 1 turn, 2x orb move time
 KR: Change own Att. to Wood for 1 turns; For 1 turn, 2x RCV; For 1 turn, 2x orb move time
@@ -48832,9 +48832,9 @@ JP: 1ターンの間、回復力が2倍
 EN: For 1 turn, 2x RCV
 KR: For 1 turn, 2x RCV
 
-# 17645/116 - 絶対倒されねえ！！！
+# 17645/116 - I won't be beat, no matter what!!
 Tags: REDUCE_DAMAGE,ORB_LOCK
-Game: 3ターンの間、受けるダメージを半減。 全ドロップをロック。
+Game: Halves damage for 3 turns; locks all Orbs
 JP: 3ターンの間、受けるダメージを50％減少。全ドロップをロック
 EN: For 3 turns, reduce damage taken by 50%; Lock all orbs
 KR: For 3 turns, reduce damage taken by 50%; Lock all orbs
@@ -48853,9 +48853,9 @@ JP: 全ドロップをロック
 EN: Lock all orbs
 KR: Lock all orbs
 
-# 17651/116 - やっぱ好きにさせてもらうわ
+# 17651/116 - I'll do whatever I want.
 Tags: ENHANCED_ATTACK,ENHANCED_HEAL,EXTENDS_TIME
-Game: 2ターンの間、回復力とドロップ操作時間が2倍。 2ターンの間、木と闇属性の攻撃力が2倍。
+Game: 2x RCV & 2x Orb move time for 2 turns; 2x ATK for Wood & Dark Att. for 2 turns
 JP: 2ターンの間、回復力が2倍。2ターンの間、ドロップ操作時間が2倍。2ターンの間、木と闇属性の攻撃力が2倍
 EN: For 2 turns, 2x RCV; For 2 turns, 2x orb move time; For 2 turns, 2x ATK for Wood and Dark Att.
 KR: For 2 turns, 2x RCV; For 2 turns, 2x orb move time; For 2 turns, 2x ATK for Wood and Dark Att.
@@ -48881,9 +48881,9 @@ JP: 2ターンの間、木と闇属性の攻撃力が2倍
 EN: For 2 turns, 2x ATK for Wood and Dark Att.
 KR: For 2 turns, 2x ATK for Wood and Dark Att.
 
-# 17660/116 - カァイイねえ
+# 17660/116 - Ka-yuuute!
 Tags: REDUCE_DAMAGE
-Game: 9ターンの間、受けるダメージを軽減。 「変身」麗日お茶子に変身。
+Game: Reduces damage for 9 turns; changes to Ochaco Uraraka, "Transform"
 JP: 9ターンの間、受けるダメージを30％減少。[6362]に変身する
 EN: For 9 turns, reduce damage taken by 30%; Changes to [6362] for the duration of the dungeon
 KR: For 9 turns, reduce damage taken by 30%; Changes to [6362] for the duration of the dungeon
@@ -48902,9 +48902,9 @@ JP: [6362]に変身する
 EN: Changes to [6362] for the duration of the dungeon
 KR: Changes to [6362] for the duration of the dungeon
 
-# 17666/116 - 燃えて俺の薪となれ
+# 17666/116 - Burn and be kindling for my flames.
 Tags: ALL_ORBS_CONVERT,VOID_SKYFALLS
-Game: 2ターンの間、落ちコンなし。 全ドロップを火、闇、お邪魔ドロップに変化。
+Game: No Skyfall Combos for 2 turns; changes all Orbs to Jammers, Fire & Dark Orbs
 JP: 2ターンの間、落ちコンしなくなる。全ドロップを火、闇、お邪魔ドロップに変化
 EN: For 2 turns, no skyfall; Change all orbs to Fire, Dark, and Jammer orbs
 KR: For 2 turns, no skyfall; Change all orbs to Fire, Dark, and Jammer orbs
@@ -48923,9 +48923,9 @@ JP: 全ドロップを火、闇、お邪魔ドロップに変化
 EN: Change all orbs to Fire, Dark, and Jammer orbs
 KR: Change all orbs to Fire, Dark, and Jammer orbs
 
-# 17672/116 - 予測を立てて先手を打つ
+# 17672/116 - Predict the future and take the initiative.
 Tags: RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY,REDUCE_MATCH_RESTRICTION
-Game: 3ターンの間、ドロップがロック状態で落ちてくる。 消せないドロップ、バインド、覚醒無効状態を5ターン回復。
+Game: Orbs locked as they appear for 3 turns; reduces bind status (incl. Awkn) & unmatchable Orb status by 5 turns
 JP: 3ターンの間、ドロップがロック状態で落ちてくる。消せないドロップ状態を5ターン回復。バインドと覚醒無効を5ターン回復
 EN: For 3 turns, all orbs appear locked; Reduce unable to match orbs effect by 5 turns; Reduce binds and awoken skill binds by 5 turns
 KR: For 3 turns, all orbs appear locked; Reduce unable to match orbs effect by 5 turns; Reduce binds and awoken skill binds by 5 turns
@@ -48944,9 +48944,9 @@ JP: 消せないドロップ状態を5ターン回復
 EN: Reduce unable to match orbs effect by 5 turns
 KR: Reduce unable to match orbs effect by 5 turns
 
-# 17678/116 - 君が守ってきたものを奪う
+# 17678/116 - I will take from you all you have tried to protect.
 Tags: ENHANCED_ATTACK,REDUCE_DEFENSE
-Game: 2ターンの間、敵の防御力が0になる。 2ターンの間、闇属性の攻撃力が3倍。
+Game: Voids enemies' DEF for 2 turns; 3x ATK for Dark Att. for 2 turns
 JP: 2ターンの間、敵の防御力が100％下がる。2ターンの間、闇属性の攻撃力が3倍
 EN: For 2 turns, reduce enemies' defense by 100%; For 2 turns, 3x ATK for Dark Att.
 KR: For 2 turns, reduce enemies' defense by 100%; For 2 turns, 3x ATK for Dark Att.
@@ -48965,9 +48965,9 @@ JP: 2ターンの間、闇属性の攻撃力が3倍
 EN: For 2 turns, 3x ATK for Dark Att.
 KR: For 2 turns, 3x ATK for Dark Att.
 
-# 17685/116 - “僕の力”で君を超えるよ
+# 17685/116 - I'll surpass you with my own power!
 Tags: ALL_ORBS_CONVERT,EXTENDS_TIME
-Game: 1ターンの間、ドロップ操作を2秒延長。 全ドロップを火、水、木、光ドロップに変化。
+Game: Orb move time +2 seconds for 1 turn; changes all Orbs to Fire, Water, Wood & Light Orbs
 JP: 1ターンの間、ドロップ操作時間が2秒に延長。全ドロップを火、水、木、光ドロップに変化
 EN: For 1 turn, increase orb move time by 2 seconds; Change all orbs to Fire, Water, Wood, and Light orbs
 KR: For 1 turn, increase orb move time by 2 seconds; Change all orbs to Fire, Water, Wood, and Light orbs
@@ -48993,9 +48993,9 @@ JP: 全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 
-# 17692/116 - 先に手を出したのはおまえらだ
+# 17692/116 - You fired the first shot!
 Tags: HEAL,ALL_ORBS_CONVERT,REMOVE_LOCK
-Game: HPを全回復。ドロップのロック状態を解除。 全ドロップを5属性＋回復ドロップに変化。
+Game: Fully recovers HP, removes Orb locks; changes Orbs to all Attributes & Heal
 JP: HPを全回復。全ドロップのロック状態を解除。全ドロップを火、水、木、光、闇、回復ドロップに変化
 EN: Recover all HP; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
 KR: Recover all HP; Unlock all orbs; Change all orbs to Fire, Water, Wood, Light, Dark, and Heal orbs
@@ -49014,9 +49014,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 17698/116 - 巻き戻す“個性”
+# 17698/116 - Quirk: Rewind
 Tags: MENACE,ENHANCED_HEAL
-Game: 敵の行動を2ターン遅らせる。 3ターンの間、回復力が3倍。
+Game: Delays enemies' next move for 2 turns; 3x RCV for 3 turns
 JP: 敵の行動を2ターン遅らせる。3ターンの間、回復力が3倍
 EN: Delay enemies' next attack by 2 turns; For 3 turns, 3x RCV
 KR: Delay enemies' next attack by 2 turns; For 3 turns, 3x RCV
@@ -49035,9 +49035,9 @@ JP: 3ターンの間、回復力が3倍
 EN: For 3 turns, 3x RCV
 KR: For 3 turns, 3x RCV
 
-# 17701/116 - 背中押しますよ
+# 17701/116 - I'll push you forward.
 Tags: HEAL
-Game: HPを50％回復。 ランダムで火と木ドロップを9個ずつ生成。
+Game: Recovers HP by 50%; creates 9 Fire & Wood Orbs each at random
 JP: 最大HP50％分回復。ランダムで火と木を9個ずつ生成
 EN: Recover 50% of max HP; Create 9 Fire and Wood orbs
 KR: Recover 50% of max HP; Create 9 Fire and Wood orbs
@@ -49119,9 +49119,9 @@ JP: HPが20％減少
 EN: Reduce HP by 20%
 KR: Reduce HP by 20%
 
-# 17739/116 - スターブルーム・ダーク
+# 17739/116 - Star Brume - Dark
 Tags: ATTACK_STANCE,ORB_CONVERT,DROP_CHANCE
-Game: 木、回復、お邪魔、毒ドロップを闇ドロップに変化。 99ターンの間、闇ドロップがほんの少し落ちやすくなる。
+Game: Changes Jammers, Wood, Heal & Poison Orbs to Dark; Dark Orbs slightly more likely to appear for 99 turns
 JP: 木、回復、お邪魔、毒、猛毒ドロップを闇ドロップに変化。99ターンの間、闇ドロップが7％落ちやすくなる
 EN: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 99 turns, Dark orbs are more likely to appear by 7%
 KR: Change Wood, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; For 99 turns, Dark orbs are more likely to appear by 7%
@@ -49154,9 +49154,9 @@ JP: 全ドロップのロック状態を解除
 EN: Unlock all orbs
 KR: Unlock all orbs
 
-# 17785/116 - ナイト・オブ・マジェスティ
+# 17785/116 - Knight of Grandeur
 Tags: MENACE
-Game: 敵の行動を2ターン遅らせる。 ランダムで火ドロップを6個生成。
+Game: Delays enemies' next move for 2 turns; creates 6 Fire Orbs at random
 JP: 敵の行動を2ターン遅らせる。火ドロップを6個生成
 EN: Delay enemies' next attack by 2 turns; Create 6 Fire orbs
 KR: Delay enemies' next attack by 2 turns; Create 6 Fire orbs
@@ -49210,9 +49210,9 @@ JP: 木ドロップを水ドロップに、回復ドロップを闇ドロップ�
 EN: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 KR: Change Wood orbs to Water orbs; Change Heal orbs to Dark orbs
 
-# 17798/116 - 早く！！
+# 17798/116 - Hurry!!
 Tags: ALL_ORBS_CONVERT,REDUCE_SKILL_TURN
-Game: 全ドロップを水、木、光、闇ドロップに変化。 自分以外の味方スキルが1ターン溜まる。
+Game: Changes all Orbs to Water, Wood, Light & Dark Orbs; other allies' skills charged by 1 turn
 JP: 全ドロップを水、木、光、闇ドロップに変化。自分以外の味方スキルが1ターンの溜まる
 EN: Change all orbs to Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn
 KR: Change all orbs to Water, Wood, Light, and Dark orbs; Charge all allies' skills by 1 turn

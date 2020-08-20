@@ -10,10 +10,10 @@ JP: 1ターンの間、受けるダメージを15％減少。バインドと覚�
 EN: For 1 turn, reduce damage taken by 15%; Reduce binds and awoken skill binds by 3 turns
 KR: For 1 turn, reduce damage taken by 15%; Reduce binds and awoken skill binds by 3 turns
 
-# 17753/138 - 聖海神の真魂
+# 17753/138 - True Spirit of the Water Deity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [2.0, 12.0, 2.0, 0.2, +1]
-Game: 水属性の全パラメータが2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が6倍、1コンボ加算。
+Game: 2x to all stats for Water Att.; 6x ATK, adds 1 combo & reduces damage when 3+ Att. attack at once
 JP: 水属性の全パラメータが2倍。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で攻撃力が6倍、受けるダメージを20％減少。
 EN: 2x all stats for Water Att.; increase combo by 1 when matching 3 or more colors; 6x ATK and reduce damage taken by 20% when matching 3 or more colors
 KR: 2x all stats for Water Att.; increase combo by 1 when matching 3 or more colors; 6x ATK and reduce damage taken by 20% when matching 3 or more colors

@@ -10,10 +10,10 @@ JP: 1ターンの間、受けるダメージを75％減少。全ドロップを�
 EN: For 1 turn, reduce damage taken by 75%; Change all orbs to Fire, Water, Wood, Dark, and Heal orbs
 KR: For 1 turn, reduce damage taken by 75%; Change all orbs to Fire, Water, Wood, Dark, and Heal orbs
 
-# 17779/138 - 妖姫神の魂
+# 17779/138 - Spirit of the Alluring Goddess
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1.0, 12.0, 2.0, 0.25]
-Game: 【7×6マス】悪魔タイプの攻撃力と回復力が2倍。 火水木闇の同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: [7x6 board], 2x ATK & RCV for Devil Type; 6x ATK & reduces dmg when Fire, Water, Wood & Light attack at once
 JP: 【7×6マス】悪魔タイプの攻撃力と回復力が2倍。火、水、木、闇同時攻撃で攻撃力が6倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 2x ATK & RCV for Devil type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
 KR: [Board becomes 7x6] 2x ATK & RCV for Devil type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once

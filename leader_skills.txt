@@ -3825,7 +3825,7 @@ KR: Reduce damage taken by 25%
 # 846/138 - Divine Healing
 Tags: AUTO_HEAL,ENHANCED_ATK
 Stats: [1.0, 1.5, 1.0, 0]
-Game: Heals HP equal to 6x RCV when matching Orbs,  plus 1.5x ATK for God Type
+Game: Heals HP equal to 6x RCV when matching Orbs, plus 1.5x ATK for God Type
 JP: 神タイプの攻撃力が1.5倍。ドロップ消した時、回復力ｘ6倍のHPを回復。
 EN: 1.5x ATK for God type; 6x RCV additional heal when matching orbs
 KR: 1.5x ATK for God type; 6x RCV additional heal when matching orbs
@@ -7033,7 +7033,7 @@ KR: 2.5x ATK when matching 2 Dark combos, up to 3x at 4 Dark combos
 # 1957/124 - Blue Hail Glass
 Tags: ENHANCED_ATK
 Stats: [1, 3.5, 1, 0]
-Game: 3x ATK with 2+ Wt+Wt or Wt+Wd  combos; 3.5x ATK for 3+ Wt+Wt+Wd combos
+Game: 3x ATK with 2+ Wt+Wt or Wt+Wd combos; 3.5x ATK for 3+ Wt+Wt+Wd combos
 JP: 水、水(水と木)のコンボ消すと攻撃力が3倍の、最大水、水、木で3.5倍。
 EN: 3x ATK when matching Water and Water (or Water and Wood) up to 3.5x when matching Water, Water, and Wood
 KR: 3x ATK when matching Water and Water (or Water and Wood) up to 3.5x when matching Water, Water, and Wood
@@ -10833,7 +10833,7 @@ KR: 2x ATK for Dark Att.; 1.5x HP for Wood Att.; 1.5x ATK on the turn a skill is
 # 2949/138 - Brilliant Wit
 Tags: ENHANCED_HP_ATK
 Stats: [1.5, 3.0, 1.0, 0.0]
-Game: 3x ATK for Healer Type; 1.5x HP when Sacred  Divine Flower, Xiao Qiao is on your team
+Game: 3x ATK for Healer Type; 1.5x HP when Sacred Divine Flower, Xiao Qiao is on your team
 JP: 回復タイプの攻撃力が3倍。[1745]がチームにいるとHPが1.5倍。
 EN: 3x ATK for Healer type; 1.5x HP if [1745] is on the team
 KR: 3x ATK for Healer type; 1.5x HP if [1745] is on the team
@@ -10841,7 +10841,7 @@ KR: 3x ATK for Healer type; 1.5x HP if [1745] is on the team
 # 2950/138 - The Genius General's Advisor
 Tags: ENHANCED_HP_ATK
 Stats: [1.5, 3.0, 1.0, 0.0]
-Game: 3x ATK for Healer Type; 1.5x HP when Bold  Divine General, Sun Quan is on your team
+Game: 3x ATK for Healer Type; 1.5x HP when Bold Divine General, Sun Quan is on your team
 JP: 回復タイプの攻撃力が3倍。[1740]がチームにいるとHPが1.5倍。
 EN: 3x ATK for Healer type; 1.5x HP if [1740] is on the team
 KR: 3x ATK for Healer type; 1.5x HP if [1740] is on the team
@@ -13201,7 +13201,7 @@ KR: 1.5x ATK for Dark Att. on the turn a skill is used
 # 3271/119 - Bewitching Fire Snake
 Tags: ENHANCED_ATK
 Stats: [1, 5.0, 1, 0]
-Game: ATK increases when erasing 8+ linked  Fire Orbs, up to a maximum of 5x
+Game: ATK increases when erasing 8+ linked Fire Orbs, up to a maximum of 5x
 JP: 火を8個以上つなげて消すと攻撃力が4倍、最大10個で5倍。
 EN: 4x ATK when matching 8 or more connected Fire orbs up to 5x at 10 orbs
 KR: 4x ATK when matching 8 or more connected Fire orbs up to 5x at 10 orbs
@@ -14265,7 +14265,7 @@ KR: 2x Fire counterattack
 # 3612/138 - The Naked Emperor
 Tags: COUNTERATTACK,RESOLVE
 Stats: [1, 1, 1, 0]
-Game: Fire Counterattack;  may survive when HP is reduced to 0
+Game: Fire Counterattack; may survive when HP is reduced to 0
 JP: 攻撃力ｘ2倍の火属性で反撃。HPが0になる攻撃を受けてもふんばることがある(HPが70%以上)。
 EN: 2x Fire counterattack; May survive when HP is reduced to 0 (HP>70%)
 KR: 2x Fire counterattack; May survive when HP is reduced to 0 (HP>70%)
@@ -72522,7 +72522,7 @@ KR: 4x ATK and reduce damage taken by 50% when matching 6 or more connected Fire
 # 17266/138 - Ancient Dream Spirit's Sleep Technique
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [2.0, 20.0, 1.0, 0.25]
-Game: 2x HP & ATK for Fire Att., reduces dmg with 6+ combos; 10x ATK & inflicts 1,000,000 dmg with 6+ linked Fr Orbs
+Game: 2x HP & ATK for Fire Att., reduces dmg with 6+ combos; 10x ATK & inflicts 1,000,000 dmg with 6+ linked Fire Orbs
 JP: 火属性のHPと攻撃力が2倍。6コンボ以上で受けるダメージを25％減少。火を6個以上つなげて消すと攻撃力が10倍。火を6個以上つなげて消しと固定1000000ダメージ。
 EN: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
 KR: 2x HP & ATK for Fire Att.; Reduce damage taken by 25% when 6 or more combos; 10x ATK when matching 6 or more connected Fire orbs; 1000000 additional damage when matching 6 or more Fire orbs
@@ -73527,10 +73527,10 @@ JP: 木、回復同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching Wood and Heal at once
 KR: increase combo by 1 when matching Wood and Heal at once
 
-# 17515/129 - 平和の象徴
+# 17515/129 - Symbol of Peace
 Tags: ENHANCED_ATK
 Stats: [1.0, 6.0, 1.0, 0.0]
-Game: 攻撃タイプの攻撃力が6倍。
+Game: 6x ATK for Attacker Type
 JP: 攻撃タイプの攻撃力が6倍。
 EN: 6x ATK for Attacker type
 KR: 6x ATK for Attacker type
@@ -73538,7 +73538,7 @@ KR: 6x ATK for Attacker type
 # 17516/138 - TEXAS SMASH
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.5, 18.0, 1.5, 0.5, +1]
-Game: 攻撃タイプの全パラメータが1.5倍。7コンボ以上で攻撃力が上昇、 最大12倍。4色以上同時攻撃でダメージを半減、1コンボ加算。
+Game: 1.5x all stats for Attacker Type, up to 12x ATK with 7+ combos; halves dmg & adds 1 combo when 4+ Att. attack
 JP: 攻撃タイプの全パラメータが1.5倍。7コンボ以上で攻撃力が11倍、最大9コンボで12倍。4色以上同時攻撃で1コンボ加算。4色以上同時攻撃で受けるダメージを50％減少。
 EN: 1.5x all stats for Attacker type; 11x ATK when 7 or more combos up to 12x at 9 combos; increase combo by 1 when matching 4 or more colors; Reduce damage taken by 50% when matching 4 or more colors
 KR: 1.5x all stats for Attacker type; 11x ATK when 7 or more combos up to 12x at 9 combos; increase combo by 1 when matching 4 or more colors; Reduce damage taken by 50% when matching 4 or more colors
@@ -73567,18 +73567,18 @@ JP: 4色以上同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching 4 or more colors
 KR: increase combo by 1 when matching 4 or more colors
 
-# 17529/119 - 新たなるNo.1
+# 17529/119 - The New Number One
 Tags: ENHANCED_ATK
 Stats: [1, 6.0, 1, 0]
-Game: 火を5個以上つなげて消すと、攻撃力が6倍。
+Game: 6x ATK with 5+ linked Fire Orbs
 JP: 火を5個以上つなげて消すと攻撃力が6倍。
 EN: 6x ATK when matching 5 or more connected Fire orbs
 KR: 6x ATK when matching 5 or more connected Fire orbs
 
-# 17530/138 - 赫灼熱拳ジェットバーン
+# 17530/138 - Flashfire Fist - Jet Burn
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 20.0, 1.0, 0.5, +3]
-Game: HP50％以上でダメージを半減、火属性の攻撃力が10倍。 火を5個以上つなげて消すと攻撃力が2倍、9個以上で3コンボ加算。
+Game: 10x ATK for Fire Att. & halves dmg when HP 50% or more; 2x ATK with 5+ linked Fire Orbs, +3 combos with 9+ Orbs
 JP: HPが50%以上で火属性の攻撃力が10倍、受けるダメージを50％減少。火を5個以上つなげて消すと攻撃力が2倍。火を9個以上つなげて消しと、3コンボ加算。
 EN: 10x ATK for Fire Att. and reduce damage taken by 50% when above 50% HP; 2x ATK when matching 5 or more connected Fire orbs; Increase combo by 3 when matching 9 or more connected Fire orbs at once
 KR: 10x ATK for Fire Att. and reduce damage taken by 50% when above 50% HP; 2x ATK when matching 5 or more connected Fire orbs; Increase combo by 3 when matching 9 or more connected Fire orbs at once
@@ -73607,18 +73607,18 @@ JP: 火を9個以上つなげて消しと、3コンボ加算。
 EN: Increase combo by 3 when matching 9 or more connected Fire orbs at once
 KR: Increase combo by 3 when matching 9 or more connected Fire orbs at once
 
-# 17544/66 - 9代目継承者
+# 17544/66 - The 9th Successor
 Tags: ENHANCED_ATK
 Stats: [1, 6.0, 1, 0]
-Game: 6コンボ以上で攻撃力が6倍。
+Game: 6x ATK with 6+ combos
 JP: 6コンボ以上で攻撃力が6倍。
 EN: 6x ATK when 6 or more combos
 KR: 6x ATK when 6 or more combos
 
-# 17545/138 - セントルイススマッシュ
+# 17545/138 - St. Louis Smash
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK
 Stats: [2.0, 17.0, 1.0, 0.25]
-Game: 木属性のHPと攻撃力が2倍。6コンボ以上で攻撃力が8.5倍。 木を5個以上つなげて消すとダメージを軽減、固定50万ダメージ。
+Game: 2x HP & ATK for Wood Att., 8.5x ATK with 6+ combos; reduces dmg & inflicts 500,000 dmg with 5+ linked Wd Orbs
 JP: 木属性のHPと攻撃力が2倍。6コンボ以上で攻撃力が8.5倍。木を5個以上つなげて消すと受けるダメージを25％減少。木を5個以上つなげて消しと固定500000ダメージ。
 EN: 2x HP & ATK for Wood Att.; 8.5x ATK when 6 or more combos; Reduce damage taken by 25% when matching 5 or more connected Wood orbs; 500000 additional damage when matching 5 or more Wood orbs
 KR: 2x HP & ATK for Wood Att.; 8.5x ATK when 6 or more combos; Reduce damage taken by 25% when matching 5 or more connected Wood orbs; 500000 additional damage when matching 5 or more Wood orbs
@@ -73655,10 +73655,10 @@ JP: 木を5個以上つなげて消しと固定500000ダメージ。
 EN: 500000 additional damage when matching 5 or more Wood orbs
 KR: 500000 additional damage when matching 5 or more Wood orbs
 
-# 17559/138 - 爆裂豪快
+# 17559/138 - Spectacular Explosion
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
 Stats: [1, 15.0, 1, 0.35, +1]
-Game: 火の2コンボ以上でダメージを軽減、攻撃力が15倍。 火を6個以上つなげて消すと1コンボ加算、固定1ダメージ。
+Game: 15x ATK & reduces damage with 2+ Fire combos; adds 1 combo & inflicts 1 dmg with 6+ linked Fire Orbs
 JP: 火の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。火を6個以上つなげて消しと、1コンボ加算。火を6個以上つなげて消しと固定1ダメージ。
 EN: 15x ATK and reduce damage taken by 35% when matching 2+ Fire combos; Increase combo by 1 when matching 6 or more connected Fire orbs at once; 1 additional damage when matching 6 or more Fire orbs
 KR: 15x ATK and reduce damage taken by 35% when matching 2+ Fire combos; Increase combo by 1 when matching 6 or more connected Fire orbs at once; 1 additional damage when matching 6 or more Fire orbs
@@ -73687,10 +73687,10 @@ JP: 火を6個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 6 or more Fire orbs
 KR: 1 additional damage when matching 6 or more Fire orbs
 
-# 17563/138 - ハウザー インパクト
+# 17563/138 - Howitzer Impact
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,ADDITIONAL_ATTACK,EXTRA_COMBOS
 Stats: [1, 15.0, 1, 0.35, +2]
-Game: 火の2コンボ以上でダメージを軽減、攻撃力が15倍。 火を6個以上つなげて消すと2コンボ加算、固定1ダメージ。
+Game: 15x ATK & reduces damage with 2+ Fire combos, adds 2 combos & inflicts 1 dmg with 6+ linked Fire Orbs
 JP: 火の2コンボ以上で攻撃力が15倍、受けるダメージを35％減少。火を6個以上つなげて消しと、2コンボ加算。火を6個以上つなげて消しと固定1ダメージ。
 EN: 15x ATK and reduce damage taken by 35% when matching 2+ Fire combos; Increase combo by 2 when matching 6 or more connected Fire orbs at once; 1 additional damage when matching 6 or more Fire orbs
 KR: 15x ATK and reduce damage taken by 35% when matching 2+ Fire combos; Increase combo by 2 when matching 6 or more connected Fire orbs at once; 1 additional damage when matching 6 or more Fire orbs
@@ -73719,10 +73719,10 @@ JP: 火を6個以上つなげて消しと固定1ダメージ。
 EN: 1 additional damage when matching 6 or more Fire orbs
 KR: 1 additional damage when matching 6 or more Fire orbs
 
-# 17574/138 - 氷と炎
+# 17574/138 - Ice and Fire
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 12.0, 1.5, 0.5]
-Game: 水属性の全パラメータが1.5倍。ドロップ操作を2秒延長。 水火の同時攻撃でダメージを半減、攻撃力が8倍。
+Game: 1.5x to all stats for Water Att., Orb move time +2 sec; 8x ATK & halves damage when Water & Fire attack at once
 JP: 水属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。水、火の同時攻撃で攻撃力が8倍、受けるダメージを50％減少。
 EN: 1.5x all stats for Water Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching Water and Fire
 KR: 1.5x all stats for Water Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching Water and Fire
@@ -73743,10 +73743,10 @@ JP: 水、火の同時攻撃で攻撃力が8倍、受けるダメージを50％�
 EN: 8x ATK and reduce damage taken by 50% when matching Water and Fire
 KR: 8x ATK and reduce damage taken by 50% when matching Water and Fire
 
-# 17577/138 - 穿天氷壁
+# 17577/138 - Heaven-Piercing Ice Wall
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 12.0, 1.5, 0.5]
-Game: 火と水属性の全パラメータが1.5倍。ドロップ操作を2秒延長。 水火の同時攻撃でダメージを半減、攻撃力が8倍。
+Game: 1.5x all stats for Fr & Wt Att., Orb move time +2 sec; 8x ATK & halves damage when Water & Fire attack at once
 JP: 火と水属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。水、火の同時攻撃で攻撃力が8倍、受けるダメージを50％減少。
 EN: 1.5x all stats for Fire and Water Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching Water and Fire
 KR: 1.5x all stats for Fire and Water Att.; Increase orb movement time by 2 seconds; 8x ATK and reduce damage taken by 50% when matching Water and Fire
@@ -73767,10 +73767,10 @@ JP: 水、火の同時攻撃で攻撃力が8倍、受けるダメージを50％�
 EN: 8x ATK and reduce damage taken by 50% when matching Water and Fire
 KR: 8x ATK and reduce damage taken by 50% when matching Water and Fire
 
-# 17590/138 - 雄英BIG3
+# 17590/138 - The Big 3 of U.A.
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 10.0, 2.0, 0.0]
-Game: 体力と攻撃タイプの全パラメータが2倍。 4色以上同時攻撃で攻撃力が5倍、5色で固定10万ダメージ。
+Game: 2x to all stats for Physical & Attacker Types; 5x ATK when 4+ Att. attack, inflicts 100,000 dmg with 5 Att.
 JP: 体力と攻撃タイプの全パラメータが2倍。4色以上同時攻撃で攻撃力が5倍。5色以上同時攻撃、固定100000ダメージ。
 EN: 2x all stats for Physical and Attacker type; 5x ATK when matching 4 or more colors; 100000 additional damage when matching 5 or more colors
 KR: 2x all stats for Physical and Attacker type; 5x ATK when matching 4 or more colors; 100000 additional damage when matching 5 or more colors
@@ -73791,10 +73791,10 @@ JP: 4色以上同時攻撃で攻撃力が5倍。
 EN: 5x ATK when matching 4 or more colors
 KR: 5x ATK when matching 4 or more colors
 
-# 17593/138 - ファントム・メナス
+# 17593/138 - Phantom Menace
 Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK
 Stats: [2.0, 12.0, 2.0, 0.0]
-Game: 体力と攻撃タイプの全パラメータが2倍。 4色以上同時攻撃で攻撃力が6倍、5色で固定100万ダメージ。
+Game: 2x to all stats for Physical & Attacker Types; 6x ATK when 4+ Att. attack, inflicts 1,000,000 dmg with 5 Att.
 JP: 体力と攻撃タイプの全パラメータが2倍。4色以上同時攻撃で攻撃力が6倍。5色以上同時攻撃、固定1000000ダメージ。
 EN: 2x all stats for Physical and Attacker type; 6x ATK when matching 4 or more colors; 1000000 additional damage when matching 5 or more colors
 KR: 2x all stats for Physical and Attacker type; 6x ATK when matching 4 or more colors; 1000000 additional damage when matching 5 or more colors
@@ -73815,10 +73815,10 @@ JP: 4色以上同時攻撃で攻撃力が6倍。
 EN: 6x ATK when matching 4 or more colors
 KR: 6x ATK when matching 4 or more colors
 
-# 17606/138 - アングラ系ヒーロー
+# 17606/138 - Underground Hero
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [0.5, 16.0, 1, 0.75]
-Game: 総HPが半減、闇属性の攻撃力が4倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すとダメージを激減、攻撃力が4倍。
+Game: 4x ATK for Dk Att., but halves HP, Orb move time +2 sec; 4x ATK & vastly reduces damage with 6+ linked Dark Orbs
 JP: HPが0.5倍、闇属性の攻撃力が4倍。闇を6個以上つなげて消すと攻撃力が4倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
 EN: 0.5x HP; 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
 KR: 0.5x HP; 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
@@ -73839,10 +73839,10 @@ JP: 闇を6個以上つなげて消すと攻撃力が4倍、受けるダメー�
 EN: 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs
 KR: 4x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs
 
-# 17609/138 - 操縛布
+# 17609/138 - Binding Cloth
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [0.5, 20.0, 1, 0.75]
-Game: 総HPが半減、闇属性の攻撃力が4倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すとダメージを激減、攻撃力が5倍。
+Game: 4x ATK for Dk Att., but halves HP, Orb move time +2 sec; 5x ATK & vastly reduces damage with 6+ linked Dark Orbs
 JP: HPが0.5倍、闇属性の攻撃力が4倍。闇を6個以上つなげて消すと攻撃力が5倍、受けるダメージを75％減少。ドロップ操作時間を2秒延長。
 EN: 0.5x HP; 4x ATK for Dark Att.; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
 KR: 0.5x HP; 4x ATK for Dark Att.; 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs; Increase orb movement time by 2 seconds
@@ -73863,18 +73863,18 @@ JP: 闇を6個以上つなげて消すと攻撃力が5倍、受けるダメー�
 EN: 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs
 KR: 5x ATK and reduce damage taken by 75% when matching 6 or more connected Dark orbs
 
-# 17621/129 - 敵連合
+# 17621/129 - The League of Villains
 Tags: ENHANCED_ATK
 Stats: [1.0, 6.0, 1.0, 0.0]
-Game: 闇属性の攻撃力が6倍。
+Game: 6x ATK for Dark Att.
 JP: 闇属性の攻撃力が6倍。
 EN: 6x ATK for Dark Att.
 KR: 6x ATK for Dark Att.
 
-# 17622/138 - 凶“個性”
+# 17622/138 - Evil Quirk
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 19.0, 1.0, 0.0, +2]
-Game: 水と闇属性のHPと攻撃力が2倍。毒ダメージを無効化。 水闇の同時攻撃で攻撃力が9.5倍、2コンボ加算。
+Game: 2x HP & ATK for Water & Dark Att., voids Poison damage; 9.5x ATK & adds 2 combos when Water & Dark attack
 JP: 【毒ダメージを無効化】水と闇属性のHPと攻撃力が2倍。水、闇同時攻撃で攻撃力が9.5倍、2コンボ加算。
 EN: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9.5x ATK and increase combo by 2 when matching Water and Dark at once
 KR: [Disable Poison & Mortal Poison orb effects] 2x HP & ATK for Water and Dark Att.; 9.5x ATK and increase combo by 2 when matching Water and Dark at once
@@ -73911,10 +73911,10 @@ JP: 5色以上同時攻撃、固定100000ダメージ。
 EN: 100000 additional damage when matching 5 or more colors
 KR: 100000 additional damage when matching 5 or more colors
 
-# 17630/138 - 流星群
+# 17630/138 - Meteor Shower
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
 Stats: [2.0, 16.0, 1.0, 0.0, +1]
-Game: 攻撃タイプのHPが2倍、攻撃力は4倍。 4色以上同時攻撃で攻撃力が4倍、1コンボ加算。
+Game: 2x HP & 4x ATK for Attacker Type; 4x ATK & adds 1 combo when 4+ Att. attack at once
 JP: 攻撃タイプの攻撃力が4倍、HPが2倍。4色以上同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and 2x HP for Attacker type; 4x ATK and increase combo by 1 when matching 4 or more colors
 KR: 4x ATK and 2x HP for Attacker type; 4x ATK and increase combo by 1 when matching 4 or more colors
@@ -73935,10 +73935,10 @@ JP: 4色以上同時攻撃で攻撃力が4倍、1コンボ加算。
 EN: 4x ATK and increase combo by 1 when matching 4 or more colors
 KR: 4x ATK and increase combo by 1 when matching 4 or more colors
 
-# 17636/138 - レシプロバースト
+# 17636/138 - Recipro Burst
 Tags: ENHANCED_ATK_RCV
 Stats: [1.0, 18.0, 3.0, 0.0]
-Game: 攻撃タイプの攻撃力と回復力が3倍。 4色（3色＋回復）以上同時攻撃で攻撃力が上昇、最大6倍。
+Game: 3x ATK & RCV for Attacker Type; ATK increases with 4+ Att. (3+Heal), up to 6x
 JP: 攻撃タイプの攻撃力と回復力が3倍。4色(3色+回復)以上同時攻撃で攻撃力が4倍、最大5色+回復で6倍。
 EN: 3x ATK & RCV for Attacker type; 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
 KR: 3x ATK & RCV for Attacker type; 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
@@ -73959,10 +73959,10 @@ JP: 4色(3色+回復)以上同時攻撃で攻撃力が4倍、最大5色+回復�
 EN: 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
 KR: 4x ATK when matching 4 or more colors (3+heal) up to 6x at 5 colors+heal
 
-# 17642/138 - フロッピホッパー
+# 17642/138 - Froppy Hopper
 Tags: ENHANCED_HP_ATK_RCV
 Stats: [2.0, 16.0, 2.0, 0]
-Game: 木属性のHPと回復力が2倍。水属性の攻撃力が2倍。 水木の同時攻撃で攻撃力が8倍。
+Game: 2x HP & RCV for Wood Att., 2x ATK for Water Att.; 8x ATK when Water & Wood attack at once
 JP: 木属性のHPと回復力が2倍。水属性の攻撃力が2倍。水、木の同時攻撃で攻撃力が8倍。
 EN: 2x HP & RCV for Wood Att.; 2x ATK for Water Att.; 8x ATK when matching Water and Wood
 KR: 2x HP & RCV for Wood Att.; 2x ATK for Water Att.; 8x ATK when matching Water and Wood
@@ -73983,10 +73983,10 @@ JP: 水、木の同時攻撃で攻撃力が8倍。
 EN: 8x ATK when matching Water and Wood
 KR: 8x ATK when matching Water and Wood
 
-# 17648/138 - 烈怒頑斗裂屠
+# 17648/138 - Red Gauntlet
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
 Stats: [1.5, 10.5, 1.5, 0.25]
-Game: 木属性の全パラメータが1.5倍。ドロップ操作を2秒延長。 ドロップを5個以上つなげて消すとダメージを軽減、攻撃力が7倍。
+Game: 1.5x to all stats for Wood Att., Orb move time +2 sec; 7x ATK & reduces damage with 5+ linked Orbs
 JP: 木属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。を5個以上つなげて消すと攻撃力が7倍、受けるダメージを25％減少。
 EN: 1.5x all stats for Wood Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 KR: 1.5x all stats for Wood Att.; Increase orb movement time by 2 seconds; 7x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
@@ -74007,10 +74007,10 @@ JP: を5個以上つなげて消すと攻撃力が7倍、受けるダメージ�
 EN: 7x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 KR: 7x ATK and reduce damage taken by 25% when matching 5 or more connected orbs
 
-# 17655/138 - 増殖
+# 17655/138 - Duplicate
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 16.0, 1.0, 0.0]
-Game: 悪魔タイプのHPと攻撃力が2倍。HP50％以上で攻撃力が2倍。 2色以上同時攻撃で攻撃力が2倍。スキル使用時、攻撃力が2倍。
+Game: 2x HP & ATK for Devil Type, 2x ATK when HP 50% or more; 2x ATK when 2+ Att. attack, 2x ATK when skills used
 JP: 悪魔タイプのHPと攻撃力が2倍。HPが50%以上で攻撃力が2倍。2色以上同時攻撃で攻撃力が2倍。スキル使用時、攻撃力が2倍。
 EN: 2x HP & ATK for Devil type; 2x ATK when above 50% HP; 2x ATK when matching 2 or more colors; 2x ATK on the turn a skill is used
 KR: 2x HP & ATK for Devil type; 2x ATK when above 50% HP; 2x ATK when matching 2 or more colors; 2x ATK on the turn a skill is used
@@ -74047,10 +74047,10 @@ JP: スキル使用時、攻撃力が2倍。
 EN: 2x ATK on the turn a skill is used
 KR: 2x ATK on the turn a skill is used
 
-# 17663/138 - 潜み紛れる
+# 17663/138 - Lying in Wait
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [1.5, 16.0, 1.0, 0.25]
-Game: 攻撃タイプのHPが1.5倍、攻撃力は4倍。 闇光の同時攻撃でダメージを軽減、攻撃力が4倍。
+Game: 1.5x HP & 4x ATK for Attacker Type; 4x ATK & reduces dmg when Dark & Light attack at once
 JP: 攻撃タイプの攻撃力が4倍、HPが1.5倍。闇、光の同時攻撃で攻撃力が4倍、受けるダメージを25％減少。
 EN: 4x ATK and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when matching Dark and Light
 KR: 4x ATK and 1.5x HP for Attacker type; 4x ATK and reduce damage taken by 25% when matching Dark and Light
@@ -74071,10 +74071,10 @@ JP: 闇、光の同時攻撃で攻撃力が4倍、受けるダメージを25％�
 EN: 4x ATK and reduce damage taken by 25% when matching Dark and Light
 KR: 4x ATK and reduce damage taken by 25% when matching Dark and Light
 
-# 17669/138 - 蒼き炎
+# 17669/138 - Blueflame
 Tags: ENHANCED_HP_ATK,EXTEND_TIME
 Stats: [2.0, 15.0, 1.0, 0]
-Game: 闇属性のHPが2倍、攻撃力は5倍。ドロップ操作を2秒延長。 5コンボ以上で攻撃力が3倍。
+Game: 2x HP & 5x ATK for Dark Att., Orb move time +2 sec; 3x ATK with 5+ combos
 JP: 闇属性の攻撃力が5倍、HPが2倍。ドロップ操作時間を2秒延長。5コンボ以上で攻撃力が3倍。
 EN: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK when 5 or more combos
 KR: 5x ATK and 2x HP for Dark Att.; Increase orb movement time by 2 seconds; 3x ATK when 5 or more combos
@@ -74095,10 +74095,10 @@ JP: 5コンボ以上で攻撃力が3倍。
 EN: 3x ATK when 5 or more combos
 KR: 3x ATK when 5 or more combos
 
-# 17675/138 - 未来を見通す
+# 17675/138 - See the Future
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1, 16.0, 4.0, 0.5]
-Game: HP50％以上でダメージを半減、攻撃力が4倍。 光か闇の5個L字消しで、攻撃力と回復力が4倍。
+Game: 4x ATK & halves damage when HP is 50% or more; 4x ATK & RCV with an L shape of 5 Light or Dark Orbs
 JP: 光か闇の5個L字消しで攻撃力と回復力が4倍。HPが50%以上で攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK & RCV when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 50% when above 50% HP
 KR: 4x ATK & RCV when matching 5 Light or Dark orbs in an L shape; 4x ATK and reduce damage taken by 50% when above 50% HP
@@ -74119,10 +74119,10 @@ JP: HPが50%以上で攻撃力が4倍、受けるダメージを50％減少。
 EN: 4x ATK and reduce damage taken by 50% when above 50% HP
 KR: 4x ATK and reduce damage taken by 50% when above 50% HP
 
-# 17681/138 - 巨悪の根源
+# 17681/138 - The Root of All Evil
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 16.0, 1.0, 0.5, +1]
-Game: 闇属性の攻撃力が4倍。闇の2コンボ以上で1コンボ加算。 闇を5個以上つなげて消すとダメージを半減、攻撃力が4倍。
+Game: 4x ATK for Dark Att., adds 1 combo with 2+ Dark combos; 4x ATK & halves damage with 5+ linked Dark Orbs
 JP: 闇属性の攻撃力が4倍。闇を5個以上つなげて消すと攻撃力が4倍、受けるダメージを50％減少。2コンボ以上で1コンボ加算
 EN: 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 50% when matching 5 or more connected Dark orbs; Increase combo by 1 when matching 2 or more Dark combos
 KR: 4x ATK for Dark Att.; 4x ATK and reduce damage taken by 50% when matching 5 or more connected Dark orbs; Increase combo by 1 when matching 2 or more Dark combos
@@ -74151,10 +74151,10 @@ JP: 2コンボ以上で1コンボ加算
 EN: Increase combo by 1 when matching 2 or more Dark combos
 KR: Increase combo by 1 when matching 2 or more Dark combos
 
-# 17688/138 - デトロイトスマッシュ
+# 17688/138 - Detroit Smash
 Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME,EXTRA_COMBOS
 Stats: [1.5, 15.0, 1.5, 0, +1]
-Game: 攻撃タイプの全パラメータが1.5倍。ドロップ操作を2秒延長。 3色以上同時攻撃で攻撃力が10倍、1コンボ加算。
+Game: 1.5x all stats for Attacker Type, Orb move time +2 sec; 10x ATK & adds 1 combo when 3+ Att. attack at once
 JP: 攻撃タイプの全パラメータが1.5倍。ドロップ操作時間を2秒延長。3色以上同時攻撃で攻撃力が10倍、1コンボ加算。
 EN: 1.5x all stats for Attacker type; Increase orb movement time by 2 seconds; 10x ATK and increase combo by 1 when matching 3 or more colors
 KR: 1.5x all stats for Attacker type; Increase orb movement time by 2 seconds; 10x ATK and increase combo by 1 when matching 3 or more colors
@@ -74175,10 +74175,10 @@ JP: 3色以上同時攻撃で攻撃力が10倍、1コンボ加算。
 EN: 10x ATK and increase combo by 1 when matching 3 or more colors
 KR: 10x ATK and increase combo by 1 when matching 3 or more colors
 
-# 17695/138 - 分解・修復
+# 17695/138 - Disassembly & Reassembly
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1, 18.0, 1, 0.5, +1]
-Game: 4色以上同時攻撃で攻撃力が6倍、1コンボ加算。 8コンボ以上でダメージを半減、攻撃力が3倍。
+Game: 6x ATK & adds 1 combo when 4+ Att. attack at once; 3x ATK & halves damage with 8+ combos
 JP: 4色以上同時攻撃で攻撃力が6倍、1コンボ加算。8コンボ以上で攻撃力が3倍、受けるダメージを50％減少。
 EN: 6x ATK and increase combo by 1 when matching 4 or more colors; 3x ATK and reduce damage taken by 50% when 8 or more combos
 KR: 6x ATK and increase combo by 1 when matching 4 or more colors; 3x ATK and reduce damage taken by 50% when 8 or more combos
@@ -74199,10 +74199,10 @@ JP: 8コンボ以上で攻撃力が3倍、受けるダメージを50％減少。
 EN: 3x ATK and reduce damage taken by 50% when 8 or more combos
 KR: 3x ATK and reduce damage taken by 50% when 8 or more combos
 
-# 17704/138 - 空翔ける翼
+# 17704/138 - Soaring Wings
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK,EXTEND_TIME
 Stats: [2.0, 16.0, 1.0, 0]
-Game: 攻撃タイプのHPと攻撃力が2倍。ドロップ操作を2秒延長。 火木の同時攻撃で攻撃力が8倍、固定1ダメージ。
+Game: 2x HP & ATK for Attacker Type, Orb move time +2 sec; 8x ATK & inflicts 1 dmg when Fire & Wood attack at once
 JP: 攻撃タイプのHPと攻撃力が2倍。ドロップ操作時間を2秒延長。火、木の同時攻撃で攻撃力が8倍。火木同時攻撃で固定1ダメージ。
 EN: 2x HP & ATK for Attacker type; Increase orb movement time by 2 seconds; 8x ATK when matching Fire and Wood; 1 additional damage when matching Fire and Wood
 KR: 2x HP & ATK for Attacker type; Increase orb movement time by 2 seconds; 8x ATK when matching Fire and Wood; 1 additional damage when matching Fire and Wood
@@ -74407,10 +74407,10 @@ JP: 合成素材にすると5000万モンスター経験値が手に入る。
 EN: Grants 50,000,000 Monster EXP when used as Fusion Material
 KR: 강화합성 소재로 사용 시 5000만 몬스터 경험치를 획득
 
-# 17742/138 - 裁秤の鋼神星
+# 17742/138 - Steel Goddess Star of Libra
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 18.0, 1.0, 0.6, +2]
-Game: マシンと神タイプの攻撃力が6倍。6コンボ以上で攻撃力が3倍。 闇の3コンボ以上でダメージを60％軽減、2コンボ加算。
+Game: 6x ATK for Machine & God Types, 3x ATK with 6+ combos; reduces dmg by 60% & adds 2 combos with 3+ Dark combos
 JP: 神とマシンタイプの攻撃力が6倍。6コンボ以上で攻撃力が3倍。闇の3コンボ以上で受けるダメージを60％減少。3コンボ以上で2コンボ加算
 EN: 6x ATK for God and Machine type; 3x ATK when 6 or more combos; Reduce damage taken by 60% when matching 3+ Dark combos; Increase combo by 2 when matching 3 or more Dark combos
 KR: 6x ATK for God and Machine type; 3x ATK when 6 or more combos; Reduce damage taken by 60% when matching 3+ Dark combos; Increase combo by 2 when matching 3 or more Dark combos
@@ -74439,10 +74439,10 @@ JP: 闇の3コンボ以上で受けるダメージを60％減少。
 EN: Reduce damage taken by 60% when matching 3+ Dark combos
 KR: Reduce damage taken by 60% when matching 3+ Dark combos
 
-# 17746/138 - 冥夜神の真魂
+# 17746/138 - True Spirit of the Bleak Night Goddess
 Tags: ENHANCED_HP_ATK,EXTEND_TIME,EXTRA_COMBOS
 Stats: [2.0, 14.0, 1.0, 0, +2]
-Game: 悪魔タイプのHPと攻撃力が2倍。ドロップ操作を2秒延長。 闇を6個以上つなげて消すと攻撃力が7倍、2コンボ加算。
+Game: 2x HP & ATK for Devil Type, Orb move time +2 seconds; 7x ATK & adds 2 combos with 6+ linked Dark Orbs
 JP: 悪魔タイプのHPと攻撃力が2倍。ドロップ操作時間を2秒延長。闇を6個以上つなげて消しと攻撃力が7倍、2コンボ加算。
 EN: 2x HP & ATK for Devil type; Increase orb movement time by 2 seconds; 7x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
 KR: 2x HP & ATK for Devil type; Increase orb movement time by 2 seconds; 7x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
@@ -74463,10 +74463,10 @@ JP: 闇を6個以上つなげて消しと攻撃力が7倍、2コンボ加算。
 EN: 7x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
 KR: 7x ATK and increase combo by 2 when matching 6 or more connected Dark orbs at once
 
-# 17749/138 - 破壊神の真魂
+# 17749/138 - True Soul of the Destroyer
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1.0, 18.0, 3.0, 0.5]
-Game: 火属性の回復力が3倍。4コンボ以上で攻撃力が上昇、最大6倍。 火の2コンボ以上でダメージを半減、攻撃力が3倍。
+Game: 3x RCV for Fire Att., up to 6x ATK with 4+ combos; 3x ATK & halves damage with 2+ Fire combos
 JP: 火属性の回復力が3倍。4コンボ以上で攻撃力が4倍、最大6コンボで6倍。火の2コンボ以上で攻撃力が3倍、受けるダメージを50％減少。
 EN: 3x RCV for Fire Att.; 4x ATK when 4 or more combos up to 6x at 6 combos; 3x ATK and reduce damage taken by 50% when matching 2+ Fire combos
 KR: 3x RCV for Fire Att.; 4x ATK when 4 or more combos up to 6x at 6 combos; 3x ATK and reduce damage taken by 50% when matching 2+ Fire combos
@@ -74495,10 +74495,10 @@ JP: 火の2コンボ以上で攻撃力が3倍、受けるダメージを50％減
 EN: 3x ATK and reduce damage taken by 50% when matching 2+ Fire combos
 KR: 3x ATK and reduce damage taken by 50% when matching 2+ Fire combos
 
-# 17753/138 - 聖海神の真魂
+# 17753/138 - True Spirit of the Water Deity
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [2.0, 12.0, 2.0, 0.2, +1]
-Game: 水属性の全パラメータが2倍。 3色以上同時攻撃でダメージを軽減、攻撃力が6倍、1コンボ加算。
+Game: 2x to all stats for Water Att.; 6x ATK, adds 1 combo & reduces damage when 3+ Att. attack at once
 JP: 水属性の全パラメータが2倍。3色以上同時攻撃で1コンボ加算。3色以上同時攻撃で攻撃力が6倍、受けるダメージを20％減少。
 EN: 2x all stats for Water Att.; increase combo by 1 when matching 3 or more colors; 6x ATK and reduce damage taken by 20% when matching 3 or more colors
 KR: 2x all stats for Water Att.; increase combo by 1 when matching 3 or more colors; 6x ATK and reduce damage taken by 20% when matching 3 or more colors
@@ -74519,10 +74519,10 @@ JP: 3色以上同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching 3 or more colors
 KR: increase combo by 1 when matching 3 or more colors
 
-# 17756/138 - 白天の光波
+# 17756/138 - Heavenly Light Waves
 Tags: ENHANCED_HP_ATK
 Stats: [2.0, 24.0, 1.0, 0.0]
-Game: 神タイプのHPが2倍、攻撃力は4倍。 4色同時攻撃で攻撃力が4倍、5色で6倍。
+Game: 2x HP & 4x ATK for God Type; 4x ATK when 4 Att. attack at once, 6x ATK with 5 Att.
 JP: 神タイプの攻撃力が4倍、HPが2倍。4色以上同時攻撃で攻撃力が4倍、最大5色で6倍。
 EN: 4x ATK and 2x HP for God type; 4x ATK when matching 4 or more colors up to 6x at 5 colors
 KR: 4x ATK and 2x HP for God type; 4x ATK when matching 4 or more colors up to 6x at 5 colors
@@ -74551,10 +74551,10 @@ JP: 3色以上同時攻撃で攻撃力が6倍、受けるダメージを20％減
 EN: 6x ATK and reduce damage taken by 20% when matching 3 or more colors
 KR: 6x ATK and reduce damage taken by 20% when matching 3 or more colors
 
-# 17760/138 - 冥域の炎海
+# 17760/138 - Flame Seas of the Underworld
 Tags: ENHANCED_ATK_RCV,EXTEND_TIME,BOARD_CHANGE_7X6
 Stats: [1.0, 27.0, 3.0, 0]
-Game: 【7×6マス】闇属性の回復力が3倍。ドロップ操作を5秒延長。 火か水か闇の5個十字消し1個につき攻撃力が3倍。
+Game: [7x6 board], 3x RCV for Dark Att., Orb move time +5 sec; 3x ATK for each cross of 5 Fire, Water or Dark Orbs
 JP: 【7×6マス】闇属性の回復力が3倍。ドロップ操作時間を5秒延長。火か水か闇の5個十字消し1個につき攻撃力が3倍。
 EN: [Board becomes 7x6] 3x RCV for Dark Att.; Increase orb movement time by 5 seconds; 3x ATK for each cross of 5 Fire, Water, or Dark orbs
 KR: [Board becomes 7x6] 3x RCV for Dark Att.; Increase orb movement time by 5 seconds; 3x ATK for each cross of 5 Fire, Water, or Dark orbs
@@ -74583,10 +74583,10 @@ JP: 火か水か闇の5個十字消し1個につき攻撃力が3倍。
 EN: 3x ATK for each cross of 5 Fire, Water, or Dark orbs
 KR: 3x ATK for each cross of 5 Fire, Water, or Dark orbs
 
-# 17764/138 - 勇姫神の魂
+# 17764/138 - Spirit of the Resolute Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 20.0, 1.0, 0.5, +2]
-Game: ドロップを3個以下で消せないが、火属性の攻撃力が5倍。 火の2コンボ以上でダメージを半減、攻撃力が4倍、2コンボ加算。
+Game: 5x ATK for Fr Att., but unable to erase 3 Orbs or less; 4x ATK, adds 2 combos & halves dmg with 2+ Fire combos
 JP: 【ドロップを3個以下で消せない】火属性の攻撃力が5倍。火の2コンボ以上で攻撃力が4倍、受けるダメージを50％減少。2コンボ以上で2コンボ加算
 EN: [Unable to erase 3 orbs or less] 5x ATK for Fire Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Fire combos; Increase combo by 2 when matching 2 or more Fire combos
 KR: [Unable to erase 3 orbs or less] 5x ATK for Fire Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Fire combos; Increase combo by 2 when matching 2 or more Fire combos
@@ -74615,10 +74615,10 @@ JP: 2コンボ以上で2コンボ加算
 EN: Increase combo by 2 when matching 2 or more Fire combos
 KR: Increase combo by 2 when matching 2 or more Fire combos
 
-# 17768/138 - 仁姫神の魂
+# 17768/138 - Spirit of the Benevolent Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 20.0, 1.0, 0.5, +2]
-Game: ドロップを3個以下で消せないが、水属性の攻撃力が5倍。 水の2コンボ以上でダメージを半減、攻撃力が4倍、2コンボ加算。
+Game: 5x ATK for Wt Att., but unable to erase 3 Orbs or less; 4x ATK, adds 2 combos & halves dmg with 2+ Water combos
 JP: 【ドロップを3個以下で消せない】水属性の攻撃力が5倍。水の2コンボ以上で攻撃力が4倍、受けるダメージを50％減少。2コンボ以上で2コンボ加算
 EN: [Unable to erase 3 orbs or less] 5x ATK for Water Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
 KR: [Unable to erase 3 orbs or less] 5x ATK for Water Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Water combos; Increase combo by 2 when matching 2 or more Water combos
@@ -74647,10 +74647,10 @@ JP: 2コンボ以上で2コンボ加算
 EN: Increase combo by 2 when matching 2 or more Water combos
 KR: Increase combo by 2 when matching 2 or more Water combos
 
-# 17772/138 - 賢姫神の魂
+# 17772/138 - Spirit of the Virtuous Goddess
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTRA_COMBOS
 Stats: [1.0, 20.0, 1.0, 0.5, +2]
-Game: ドロップを3個以下で消せないが、木属性の攻撃力が5倍。 木の2コンボ以上でダメージを半減、攻撃力が4倍、2コンボ加算。
+Game: 5x ATK for Wd Att., but unable to erase 3 Orbs or less; 4x ATK, adds 2 combos & halves dmg with 2+ Wood combos
 JP: 【ドロップを3個以下で消せない】木属性の攻撃力が5倍。木の2コンボ以上で攻撃力が4倍、受けるダメージを50％減少。2コンボ以上で2コンボ加算
 EN: [Unable to erase 3 orbs or less] 5x ATK for Wood Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Wood combos; Increase combo by 2 when matching 2 or more Wood combos
 KR: [Unable to erase 3 orbs or less] 5x ATK for Wood Att.; 4x ATK and reduce damage taken by 50% when matching 2+ Wood combos; Increase combo by 2 when matching 2 or more Wood combos
@@ -74679,10 +74679,10 @@ JP: 2コンボ以上で2コンボ加算
 EN: Increase combo by 2 when matching 2 or more Wood combos
 KR: Increase combo by 2 when matching 2 or more Wood combos
 
-# 17776/138 - 雷姫神の魂
+# 17776/138 - Spirit of the Lightning Goddess
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1.0, 12.0, 2.0, 0.25]
-Game: 【7×6マス】攻撃タイプの攻撃力と回復力が2倍。 火水木光の同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: [7x6 board], 2x ATK & RCV for Attacker Type; 6x ATK & reduces dmg when Fire, Water, Wood & Light attack at once
 JP: 【7×6マス】攻撃タイプの攻撃力と回復力が2倍。火、水、木、光同時攻撃で攻撃力が6倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 2x ATK & RCV for Attacker type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 KR: [Board becomes 7x6] 2x ATK & RCV for Attacker type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
@@ -74703,10 +74703,10 @@ JP: 火、水、木、光同時攻撃で攻撃力が6倍、受けるダメージ
 EN: 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 KR: 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Light at once
 
-# 17779/138 - 妖姫神の魂
+# 17779/138 - Spirit of the Alluring Goddess
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,BOARD_CHANGE_7X6
 Stats: [1.0, 12.0, 2.0, 0.25]
-Game: 【7×6マス】悪魔タイプの攻撃力と回復力が2倍。 火水木闇の同時攻撃でダメージを軽減、攻撃力が6倍。
+Game: [7x6 board], 2x ATK & RCV for Devil Type; 6x ATK & reduces dmg when Fire, Water, Wood & Light attack at once
 JP: 【7×6マス】悪魔タイプの攻撃力と回復力が2倍。火、水、木、闇同時攻撃で攻撃力が6倍、受けるダメージを25％減少。
 EN: [Board becomes 7x6] 2x ATK & RCV for Devil type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
 KR: [Board becomes 7x6] 2x ATK & RCV for Devil type; 6x ATK and reduce damage taken by 25% when matching Fire, Water, Wood, and Dark at once
@@ -74743,10 +74743,10 @@ JP: 5色以上同時攻撃、固定1000000ダメージ。
 EN: 1000000 additional damage when matching 5 or more colors
 KR: 1000000 additional damage when matching 5 or more colors
 
-# 17789/138 - 暁光の祝福
+# 17789/138 - Grace of Dawn's Light
 Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
 Stats: [2.0, 12.0, 1.0, 0.25]
-Game: 火属性のHPが2倍。火を6個以上つなげて消すとダメージを軽減。 HP50％以上で攻撃力が12倍、49％以下で4倍。
+Game: 2x HP for Fire Att., reduces dmg with 6+ linked Fire Orbs; 12x ATK when HP is 50% or more, 4x ATK when 49% or less
 JP: 火属性のHPが2倍。火を6個以上つなげて消すと受けるダメージを25％減少。HPが50%以上で攻撃力が12倍。HPが49%以下で攻撃力が4倍。
 EN: 2x HP for Fire Att.; Reduce damage taken by 25% when matching 6 or more connected Fire orbs; 12x ATK when above 50% HP; 4x ATK when below 49% HP
 KR: 2x HP for Fire Att.; Reduce damage taken by 25% when matching 6 or more connected Fire orbs; 12x ATK when above 50% HP; 4x ATK when below 49% HP
