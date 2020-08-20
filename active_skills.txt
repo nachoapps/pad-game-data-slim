@@ -50211,6 +50211,27 @@ JP: 1ターンの間、ドロップ操作時間が1.5倍
 EN: For 1 turn, 1.5x orb move time
 KR: For 1 turn, 1.5x orb move time
 
+# 18147/146 - 
+Tags: REDUCE_SKILL_TURN
+Game: 
+JP: 自分以外の味方スキルが1ターンの溜まる
+EN: Charge all allies' skills by 1 turn
+KR: Charge all allies' skills by 1 turn
+
+# 18148/202 - 
+Tags: 
+Game: 
+JP: [6475]に変身する
+EN: Changes to [6475] for the duration of the dungeon
+KR: Changes to [6475] for the duration of the dungeon
+
+# 18149/116 - 予言の伝播
+Tags: REDUCE_SKILL_TURN
+Game: 自分以外の味方スキルが1ターン溜まる。 影嵐の武芸師・スカアハに変身。
+JP: 自分以外の味方スキルが1ターンの溜まる。[6475]に変身する
+EN: Charge all allies' skills by 1 turn; Changes to [6475] for the duration of the dungeon
+KR: Charge all allies' skills by 1 turn; Changes to [6475] for the duration of the dungeon
+
 # 18156/116 - 常夏の箱
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT,VOID_ATT_ABSORBS
 Game: 2ターンの間、属性吸収を無効化。 木ドロップを闇に、光ドロップを回復に変化。
@@ -50322,4 +50343,25 @@ Game:
 JP: 7ターンの間、水ドロップがロック状態で落ちてくる
 EN: For 7 turns, Water orbs appear locked
 KR: For 7 turns, Water orbs appear locked
+
+# 18206/116 - マジックウィンド
+Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Game: 2ターンの間、ダメージ吸収と属性吸収を無効化。 全ドロップを木、闇、回復ドロップに変化。
+JP: 2ターンの間、ダメージ吸収と属性吸収を無効化する。全ドロップを木、闇、回復ドロップに変化
+EN: For 2 turns, bypass damage absorb shield and att. absorb shield effects; Change all orbs to Wood, Dark, and Heal orbs
+KR: For 2 turns, bypass damage absorb shield and att. absorb shield effects; Change all orbs to Wood, Dark, and Heal orbs
+
+# 18207/173 - 
+Tags: VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
+Game: 
+JP: 2ターンの間、ダメージ吸収と属性吸収を無効化する
+EN: For 2 turns, bypass damage absorb shield and att. absorb shield effects
+KR: For 2 turns, bypass damage absorb shield and att. absorb shield effects
+
+# 18208/71 - 
+Tags: ALL_ORBS_CONVERT
+Game: 
+JP: 全ドロップを木、闇、回復ドロップに変化
+EN: Change all orbs to Wood, Dark, and Heal orbs
+KR: Change all orbs to Wood, Dark, and Heal orbs
 

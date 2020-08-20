@@ -75927,6 +75927,30 @@ JP: 火、水同時攻撃で1コンボ加算。
 EN: increase combo by 1 when matching Fire and Water at once
 KR: increase combo by 1 when matching Fire and Water at once
 
+# 18144/129 - 
+Tags: ENHANCED_RCV
+Stats: [1.0, 1.0, 3.0, 0.0]
+Game: 
+JP: バランスタイプの回復力が3倍。
+EN: 3x RCV for Balanced type
+KR: 3x RCV for Balanced type
+
+# 18145/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 15.0, 1, 0]
+Game: 
+JP: 木を4個以上つなげて消すと攻撃力が15倍。
+EN: 15x ATK when matching 4 or more connected Wood orbs
+KR: 15x ATK when matching 4 or more connected Wood orbs
+
+# 18146/138 - 模範の戦技
+Tags: ENHANCED_ATK_RCV
+Stats: [1.0, 15.0, 3.0, 0.0]
+Game: バランスタイプの回復力が3倍。 木を4個以上つなげて消すと、攻撃力が15倍。
+JP: バランスタイプの回復力が3倍。木を4個以上つなげて消すと攻撃力が15倍。
+EN: 3x RCV for Balanced type; 15x ATK when matching 4 or more connected Wood orbs
+KR: 3x RCV for Balanced type; 15x ATK when matching 4 or more connected Wood orbs
+
 # 18150/138 - 夏雲の怪異
 Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE
 Stats: [1, 21.0, 3.0, 0.5]
@@ -76246,4 +76270,44 @@ Game:
 JP: 体力タイプの攻撃力が5倍。
 EN: 5x ATK for Physical type
 KR: 5x ATK for Physical type
+
+# 18209/200 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 木を4個以上つなげて消しと固定100000ダメージ。
+EN: 100000 additional damage when matching 4 or more Wood orbs
+KR: 100000 additional damage when matching 4 or more Wood orbs
+
+# 18210/138 - 栄光の戦技
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,ADDITIONAL_ATTACK
+Stats: [1.0, 19.0, 3.0, 0.5]
+Game: バランスタイプの回復力が3倍。闇木の同時攻撃でダメージを半減。 木を4個以上つなげて消すと攻撃力が19倍、固定10万ダメージ。
+JP: バランスタイプの回復力が3倍。闇、木の同時攻撃で受けるダメージを50％減少。木を4個以上つなげて消すと攻撃力が19倍。木を4個以上つなげて消しと固定100000ダメージ。
+EN: 3x RCV for Balanced type; Reduce damage taken by 50% when matching Dark and Wood; 19x ATK when matching 4 or more connected Wood orbs; 100000 additional damage when matching 4 or more Wood orbs
+KR: 3x RCV for Balanced type; Reduce damage taken by 50% when matching Dark and Wood; 19x ATK when matching 4 or more connected Wood orbs; 100000 additional damage when matching 4 or more Wood orbs
+
+# 18211/129 - 
+Tags: ENHANCED_RCV
+Stats: [1.0, 1.0, 3.0, 0.0]
+Game: 
+JP: バランスタイプの回復力が3倍。
+EN: 3x RCV for Balanced type
+KR: 3x RCV for Balanced type
+
+# 18212/171 - 
+Tags: REDUCE_DAMAGE
+Stats: [1, 1.0, 1, 0.5]
+Game: 
+JP: 闇、木の同時攻撃で受けるダメージを50％減少。
+EN: Reduce damage taken by 50% when matching Dark and Wood
+KR: Reduce damage taken by 50% when matching Dark and Wood
+
+# 18213/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 19.0, 1, 0]
+Game: 
+JP: 木を4個以上つなげて消すと攻撃力が19倍。
+EN: 19x ATK when matching 4 or more connected Wood orbs
+KR: 19x ATK when matching 4 or more connected Wood orbs
 
