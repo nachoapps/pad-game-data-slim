@@ -93502,25 +93502,25 @@ JP:
 EN: 
 KR: 
 
-# 18693/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18693/129 - 超根性
+JP: HP50%以上のとき、大ダメージを受けてもHP50%で耐える
+EN: When reduced from HP > 50% to 0 HP, revive at 50% HP
+KR: When reduced from HP > 50% to 0 HP, revive at 50% HP
 
-# 18694/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18694/73 - 根性
+JP: HP50%以上のとき、大ダメージを受けてもHP1で耐える
+EN: Survive attacks with 1 HP when HP > 50%
+KR: Survive attacks with 1 HP when HP > 50%
 
-# 18695/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18695/15 - インフィニティフレイム
+JP: 2000%ダメージ (5連続攻撃、400%ごと)
+EN: Deal 2000% damage (5 hits, 400% each)
+KR: Deal 2000% damage (5 hits, 400% each)
 
-# 18696/0 - なし
-JP: nothing
-EN: nothing
-KR: nothing
+# 18696/50 - Sin エンヴィーリベレーション
+JP: 現HPの200%のダメージ
+EN: Player -200% HP
+KR: Player -200% HP
 
 # 18697/0 - なし
 JP: nothing
