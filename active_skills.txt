@@ -13938,9 +13938,9 @@ KR: Create 2 Light orbs
 # 5020/116 - Flawless Devotion
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
 Game: Changes Dark Orbs to Light, Fire to Heal, and Jammers & Poison to Water; recovers 10,000 HP
-JP: 闇ドロップを光ドロップに、火ドロップを回復ドロップに変化。お邪魔、毒、猛毒ドロップを水ドロップに変化。HPを1万回復
-EN: Change Dark orbs to Light orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Recover 10000 HP
-KR: Change Dark orbs to Light orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Recover 10000 HP
+JP: 闇ドロップを光ドロップに、火ドロップを回復ドロップに変化。お邪魔、毒、猛毒ドロップを水ドロップに変化。HPを3万回復
+EN: Change Dark orbs to Light orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Recover 30000 HP
+KR: Change Dark orbs to Light orbs; Change Fire orbs to Heal orbs; Change Jammer, Poison, and Mortal Poison orbs to Water orbs; Recover 30000 HP
 
 # 5021/20 - 
 Tags: GUARD_STANCE,ORB_CONVERT,DOUBLE_ORBS_CONVERT
@@ -14503,11 +14503,11 @@ EN: For 2 turns, 2.5x ATK for Water Att.
 KR: For 2 turns, 2.5x ATK for Water Att.
 
 # 5101/116 - Recovering Chance
-Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
+Tags: ATTACK_STANCE,HEAL,ORB_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,REDUCE_MATCH_RESTRICTION
 Game: Changes Dark & Heal Orbs to Wood Orbs; heals 20% of Max HP, reduces bind status by 2 turns
-JP: 闇と回復ドロップを木ドロップに変化。最大HP20％分回復。バインドを2ターン回復
-EN: Change Dark and Heal orbs to Wood orbs; Recover 20% of max HP; Reduce binds by 2 turns
-KR: Change Dark and Heal orbs to Wood orbs; Recover 20% of max HP; Reduce binds by 2 turns
+JP: 闇と回復ドロップを木ドロップに変化。消せないドロップ状態を9999ターン回復。最大HP20％分回復。バインドを全回復
+EN: Change Dark and Heal orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns; Recover 20% of max HP; Remove all binds
+KR: Change Dark and Heal orbs to Wood orbs; Reduce unable to match orbs effect by 9999 turns; Recover 20% of max HP; Remove all binds
 
 # 5102/154 - 
 Tags: ATTACK_STANCE,ORB_CONVERT
@@ -14519,9 +14519,9 @@ KR: Change Dark and Heal orbs to Wood orbs
 # 5103/117 - 
 Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY
 Game: 
-JP: 最大HP20％分回復。バインドを2ターン回復
-EN: Recover 20% of max HP; Reduce binds by 2 turns
-KR: Recover 20% of max HP; Reduce binds by 2 turns
+JP: 最大HP20％分回復。バインドを全回復
+EN: Recover 20% of max HP; Remove all binds
+KR: Recover 20% of max HP; Remove all binds
 
 # 5104/116 - Gleaming Gravity
 Tags: ENHANCED_ORBS,GRAVITY
@@ -14960,16 +14960,16 @@ KR: Charge all allies' skills by 1 turn
 # 5172/116 - Everlasting Stratagem
 Tags: MENACE,ORB_CONVERT
 Game: Delays enemies' next move for 1 turn; changes Water & Poison Orbs to Fire Orbs
-JP: 敵の行動を1ターン遅らせる。水、毒、猛毒ドロップを火ドロップに変化
-EN: Delay enemies' next attack by 1 turn; Change Water, Poison, and Mortal Poison orbs to Fire orbs
-KR: Delay enemies' next attack by 1 turn; Change Water, Poison, and Mortal Poison orbs to Fire orbs
+JP: 敵の行動を2ターン遅らせる。水、毒、猛毒ドロップを火ドロップに変化
+EN: Delay enemies' next attack by 2 turns; Change Water, Poison, and Mortal Poison orbs to Fire orbs
+KR: Delay enemies' next attack by 2 turns; Change Water, Poison, and Mortal Poison orbs to Fire orbs
 
 # 5173/18 - 
 Tags: MENACE
 Game: 
-JP: 敵の行動を1ターン遅らせる
-EN: Delay enemies' next attack by 1 turn
-KR: Delay enemies' next attack by 1 turn
+JP: 敵の行動を2ターン遅らせる
+EN: Delay enemies' next attack by 2 turns
+KR: Delay enemies' next attack by 2 turns
 
 # 5174/154 - 
 Tags: ORB_CONVERT
@@ -15691,6 +15691,13 @@ Game: 3x ATK for Machine Type for 1 turn
 JP: 1ターンの間、マシンタイプの攻撃力が3倍
 EN: For 1 turn, 3x ATK for Machine type
 KR: For 1 turn, 3x ATK for Machine type
+
+# 5311/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を9999ターン回復
+EN: Reduce unable to match orbs effect by 9999 turns
+KR: Reduce unable to match orbs effect by 9999 turns
 
 # 5312/116 - Gungnir X
 Tags: SINGLE_TARGET_ATTACK,ATTACK_AND_HEAL,RECOVER_BIND
@@ -23537,9 +23544,9 @@ KR: Deal 100000 damage to an enemy
 # 9739/117 - 
 Tags: HEAL
 Game: 
-JP: HPを1万回復
-EN: Recover 10000 HP
-KR: Recover 10000 HP
+JP: HPを3万回復
+EN: Recover 30000 HP
+KR: Recover 30000 HP
 
 # 9740/117 - 
 Tags: HEAL
@@ -50364,4 +50371,46 @@ Game:
 JP: 全ドロップを木、闇、回復ドロップに変化
 EN: Change all orbs to Wood, Dark, and Heal orbs
 KR: Change all orbs to Wood, Dark, and Heal orbs
+
+# 18267/116 - はてなく巡る優星
+Tags: ENHANCED_HEAL
+Game: 1ターンの間、回復力が1.5倍。 闇以外のドロップから回復ドロップを3個生成。
+JP: 1ターンの間、回復力が1.5倍。闇以外回復ドロップを3個生成
+EN: For 1 turn, 1.5x RCV; Create 3 Heal orbs over non Dark orbs
+KR: For 1 turn, 1.5x RCV; Create 3 Heal orbs over non Dark orbs
+
+# 18268/50 - 
+Tags: ENHANCED_HEAL
+Game: 
+JP: 1ターンの間、回復力が1.5倍
+EN: For 1 turn, 1.5x RCV
+KR: For 1 turn, 1.5x RCV
+
+# 18269/141 - 
+Tags: 
+Game: 
+JP: 闇以外回復ドロップを3個生成
+EN: Create 3 Heal orbs over non Dark orbs
+KR: Create 3 Heal orbs over non Dark orbs
+
+# 18275/116 - メテオドリーム・ダーク
+Tags: ATTACK_STANCE,ORB_CONVERT,REDUCE_MATCH_RESTRICTION
+Game: 光、回復、お邪魔、毒ドロップを闇ドロップに変化。 消せないドロップ状態を全回復。
+JP: 光、回復、お邪魔、毒、猛毒ドロップを闇ドロップに変化。消せないドロップ状態を9999ターン回復
+EN: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Reduce unable to match orbs effect by 9999 turns
+KR: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs; Reduce unable to match orbs effect by 9999 turns
+
+# 18276/154 - 
+Tags: ATTACK_STANCE,ORB_CONVERT
+Game: 
+JP: 光、回復、お邪魔、毒、猛毒ドロップを闇ドロップに変化
+EN: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+KR: Change Light, Heal, Jammer, Poison, and Mortal Poison orbs to Dark orbs
+
+# 18277/196 - 
+Tags: REDUCE_MATCH_RESTRICTION
+Game: 
+JP: 消せないドロップ状態を9999ターン回復
+EN: Reduce unable to match orbs effect by 9999 turns
+KR: Reduce unable to match orbs effect by 9999 turns
 

@@ -1,5 +1,20 @@
-#5933 Mega Awoken Primordial Divinity, Kamimusubi
-HP: 1 ATK: 1 RCV: 1 LB: 0
-AWK: 
-SAWK: 
+#5933 極醒の霊央神・カミムスビ
+HP: 3738 ATK: 1520 RCV: 1278 LB: 20
+AWK: 52,20,28,53,61,43,43,59,60
+SAWK: 21,45,69
+
+# 18267/116 - はてなく巡る優星
+Tags: ENHANCED_HEAL
+Game: 1ターンの間、回復力が1.5倍。 闇以外のドロップから回復ドロップを3個生成。
+JP: 1ターンの間、回復力が1.5倍。闇以外回復ドロップを3個生成
+EN: For 1 turn, 1.5x RCV; Create 3 Heal orbs over non Dark orbs
+KR: For 1 turn, 1.5x RCV; Create 3 Heal orbs over non Dark orbs
+
+# 18271/138 - 奇縁の霊力
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 18.0, 1.0, 0.0, +2]
+Game: 神タイプのHPが2倍。10コンボ以上で攻撃力が4.5倍。 回復を5個以上つなげて消すと攻撃力が4倍、2コンボ加算。
+JP: 神タイプのHPが2倍。10コンボ以上で攻撃力が4.5倍。回復を5個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+EN: 2x HP for God type; 4.5x ATK when 10 or more combos; 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
+KR: 2x HP for God type; 4.5x ATK when 10 or more combos; 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
 

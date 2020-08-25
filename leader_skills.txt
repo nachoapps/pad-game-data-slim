@@ -76311,3 +76311,123 @@ JP: 木を4個以上つなげて消すと攻撃力が19倍。
 EN: 19x ATK when matching 4 or more connected Wood orbs
 KR: 19x ATK when matching 4 or more connected Wood orbs
 
+# 18271/138 - 奇縁の霊力
+Tags: ENHANCED_HP_ATK,EXTRA_COMBOS
+Stats: [2.0, 18.0, 1.0, 0.0, +2]
+Game: 神タイプのHPが2倍。10コンボ以上で攻撃力が4.5倍。 回復を5個以上つなげて消すと攻撃力が4倍、2コンボ加算。
+JP: 神タイプのHPが2倍。10コンボ以上で攻撃力が4.5倍。回復を5個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+EN: 2x HP for God type; 4.5x ATK when 10 or more combos; 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
+KR: 2x HP for God type; 4.5x ATK when 10 or more combos; 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
+
+# 18272/129 - 
+Tags: ENHANCED_HP
+Stats: [2.0, 1.0, 1.0, 0.0]
+Game: 
+JP: 神タイプのHPが2倍。
+EN: 2x HP for God type
+KR: 2x HP for God type
+
+# 18273/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.5, 1, 0]
+Game: 
+JP: 10コンボ以上で攻撃力が4.5倍。
+EN: 4.5x ATK when 10 or more combos
+KR: 4.5x ATK when 10 or more combos
+
+# 18274/192 - 
+Tags: ENHANCED_ATK,EXTRA_COMBOS
+Stats: [1, 4.0, 1, 0, +2]
+Game: 
+JP: 回復を5個以上つなげて消しと攻撃力が4倍、2コンボ加算。
+EN: 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
+KR: 4x ATK and increase combo by 2 when matching 5 or more connected Heal orbs at once
+
+# 18279/138 - 白羊の切機星
+Tags: ENHANCED_HP_ATK,REDUCE_DAMAGE
+Stats: [1.5, 16.0, 1.0, 0.25]
+Game: 闇属性のHPが1.5倍。6コンボ以上で攻撃力が4倍。 闇を5個以上つなげて消すとダメージを軽減、攻撃力が4倍。
+JP: 闇属性のHPが1.5倍。6コンボ以上で攻撃力が4倍。闇を5個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
+EN: 1.5x HP for Dark Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
+KR: 1.5x HP for Dark Att.; 4x ATK when 6 or more combos; 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
+
+# 18280/129 - 
+Tags: ENHANCED_HP
+Stats: [1.5, 1.0, 1.0, 0.0]
+Game: 
+JP: 闇属性のHPが1.5倍。
+EN: 1.5x HP for Dark Att.
+KR: 1.5x HP for Dark Att.
+
+# 18281/66 - 
+Tags: ENHANCED_ATK
+Stats: [1, 4.0, 1, 0]
+Game: 
+JP: 6コンボ以上で攻撃力が4倍。
+EN: 4x ATK when 6 or more combos
+KR: 4x ATK when 6 or more combos
+
+# 18282/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 4.0, 1, 0.25]
+Game: 
+JP: 闇を5個以上つなげて消すと攻撃力が4倍、受けるダメージを25％減少。
+EN: 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
+KR: 4x ATK and reduce damage taken by 25% when matching 5 or more connected Dark orbs
+
+# 18283/138 - 戦軍神の真魂
+Tags: ENHANCED_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME,EXTRA_COMBOS
+Stats: [1.0, 15.0, 3.0, 0.25, +1]
+Game: 火属性の攻撃力と回復力が3倍。ドロップ操作を2秒延長。 火の2コンボ以上でダメージを軽減、攻撃力が5倍、1コンボ加算。
+JP: 火属性の攻撃力と回復力が3倍。ドロップ操作時間を2秒延長。火の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。2コンボ以上で1コンボ加算
+EN: 3x ATK & RCV for Fire Att.; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching 2+ Fire combos; Increase combo by 1 when matching 2 or more Fire combos
+KR: 3x ATK & RCV for Fire Att.; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching 2+ Fire combos; Increase combo by 1 when matching 2 or more Fire combos
+
+# 18284/185 - 
+Tags: ENHANCED_ATK_RCV,EXTEND_TIME
+Stats: [1.0, 3.0, 3.0, 0]
+Game: 
+JP: 火属性の攻撃力と回復力が3倍。ドロップ操作時間を2秒延長。
+EN: 3x ATK & RCV for Fire Att.; Increase orb movement time by 2 seconds
+KR: 3x ATK & RCV for Fire Att.; Increase orb movement time by 2 seconds
+
+# 18285/171 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 5.0, 1, 0.25]
+Game: 
+JP: 火の2コンボ以上で攻撃力が5倍、受けるダメージを25％減少。
+EN: 5x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+KR: 5x ATK and reduce damage taken by 25% when matching 2+ Fire combos
+
+# 18286/206 - 
+Tags: EXTRA_COMBOS
+Stats: [1, 1, 1, 0, +1]
+Game: 
+JP: 2コンボ以上で1コンボ加算
+EN: Increase combo by 1 when matching 2 or more Fire combos
+KR: Increase combo by 1 when matching 2 or more Fire combos
+
+# 18287/138 - 双星神の真魂
+Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE
+Stats: [1.5, 12.0, 4.0, 0.25]
+Game: 水属性のHPが1.5倍、攻撃力と回復力は4倍。 水を5個以上つなげて消すとダメージを軽減、攻撃力が3倍。
+JP: 水属性の攻撃力と回復力が4倍、HPが1.5倍。水を5個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 4x ATK & RCV and 1.5x HP for Water Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+KR: 4x ATK & RCV and 1.5x HP for Water Att.; 3x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+
+# 18288/129 - 
+Tags: ENHANCED_HP_ATK_RCV
+Stats: [1.5, 4.0, 4.0, 0.0]
+Game: 
+JP: 水属性の攻撃力と回復力が4倍、HPが1.5倍。
+EN: 4x ATK & RCV and 1.5x HP for Water Att.
+KR: 4x ATK & RCV and 1.5x HP for Water Att.
+
+# 18289/182 - 
+Tags: ENHANCED_ATK,REDUCE_DAMAGE
+Stats: [1, 3.0, 1, 0.25]
+Game: 
+JP: 水を5個以上つなげて消すと攻撃力が3倍、受けるダメージを25％減少。
+EN: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+KR: 3x ATK and reduce damage taken by 25% when matching 5 or more connected Water orbs
+
