@@ -32068,18 +32068,18 @@ EN: Create 3 Heal orbs
 KR: Create 3 Heal orbs
 
 # 12657/116 - Beautiful Memories
-Tags: REDUCE_DAMAGE,EXTENDS_TIME
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE,EXTENDS_TIME
 Game: 3x Orb move time & reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
-JP: 1ターンの間、ドロップ操作時間が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
-EN: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
-KR: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+JP: 1ターンの間、ドロップ操作時間が3倍。1ターンの間、光属性の攻撃力が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
+EN: For 1 turn, 3x orb move time; For 1 turn, 3x ATK for Light Att.; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+KR: For 1 turn, 3x orb move time; For 1 turn, 3x ATK for Light Att.; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 
-# 12658/18 - 
-Tags: MENACE
+# 12658/50 - 
+Tags: ENHANCED_ATTACK
 Game: 
-JP: 敵の行動を0ターン遅らせる
-EN: Delay enemies' next attack by 0 turns
-KR: Delay enemies' next attack by 0 turns
+JP: 1ターンの間、光属性の攻撃力が3倍
+EN: For 1 turn, 3x ATK for Light Att.
+KR: For 1 turn, 3x ATK for Light Att.
 
 # 12659/160 - 
 Tags: ADD_COMBO
@@ -33510,11 +33510,11 @@ EN: Create 5 Fire and Light orbs over non Heal orbs
 KR: Create 5 Fire and Light orbs over non Heal orbs
 
 # 13157/116 - Overflowing Cherry Blossoms
-Tags: HEAL,ALL_ORBS_CONVERT,AWOKEN_INVALID_RECOVERY
+Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Changes all Orbs to Fire & Wood Orbs; recovers 40% of max HP, reduces Awoken Skill bind status by 4 turns
-JP: 全ドロップを火と木ドロップに変化。最大HP40％分回復。覚醒無効を4ターン回復
-EN: Change all orbs to Fire and Wood orbs; Recover 40% of max HP; Reduce awoken skill binds by 4 turns
-KR: Change all orbs to Fire and Wood orbs; Recover 40% of max HP; Reduce awoken skill binds by 4 turns
+JP: 全ドロップを火と木ドロップに変化。HPを全回復。バインドと覚醒無効を全回復
+EN: Change all orbs to Fire and Wood orbs; Recover all HP; Remove all binds and awoken skill binds
+KR: Change all orbs to Fire and Wood orbs; Recover all HP; Remove all binds and awoken skill binds
 
 # 13158/71 - 
 Tags: ALL_ORBS_CONVERT
@@ -33524,11 +33524,11 @@ EN: Change all orbs to Fire and Wood orbs
 KR: Change all orbs to Fire and Wood orbs
 
 # 13159/117 - 
-Tags: HEAL,AWOKEN_INVALID_RECOVERY
+Tags: HEAL,RECOVER_BIND,HEAL_BIND_RECOVERY,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: 
-JP: 最大HP40％分回復。覚醒無効を4ターン回復
-EN: Recover 40% of max HP; Reduce awoken skill binds by 4 turns
-KR: Recover 40% of max HP; Reduce awoken skill binds by 4 turns
+JP: HPを全回復。バインドと覚醒無効を全回復
+EN: Recover all HP; Remove all binds and awoken skill binds
+KR: Recover all HP; Remove all binds and awoken skill binds
 
 # 13163/116 - Persistent Illumination
 Tags: ALL_ORBS_CONVERT,RECOVER_BIND,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
@@ -45732,18 +45732,18 @@ EN: Change the 2nd row from the top and the 2nd row from the bottom to Light orb
 KR: Change the 2nd row from the top and the 2nd row from the bottom to Light orbs
 
 # 16791/116 - Blooming Cherry Blossoms
-Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Tags: HEAL,ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Adds 2 combos for 1 turn, removes Orb locks; changes all Orbs to Fire & Wood Orbs
-JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを火と木ドロップに変化
-EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs
-KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs
+JP: 2ターンの間、2コンボ加算される。2ターンの間、最大HPの50％分回復。全ドロップのロック状態を解除。全ドロップを火と木ドロップに変化
+EN: For 2 turns, increase combo count by 2; For 2 turns, recover 50% of max HP; Unlock all orbs; Change all orbs to Fire and Wood orbs
+KR: For 2 turns, increase combo count by 2; For 2 turns, recover 50% of max HP; Unlock all orbs; Change all orbs to Fire and Wood orbs
 
 # 16792/160 - 
 Tags: ADD_COMBO
 Game: 
-JP: 1ターンの間、2コンボ加算される
-EN: For 1 turn, increase combo count by 2
-KR: For 1 turn, increase combo count by 2
+JP: 2ターンの間、2コンボ加算される
+EN: For 2 turns, increase combo count by 2
+KR: For 2 turns, increase combo count by 2
 
 # 16793/172 - 
 Tags: REMOVE_LOCK
@@ -50413,4 +50413,11 @@ Game:
 JP: 消せないドロップ状態を9999ターン回復
 EN: Reduce unable to match orbs effect by 9999 turns
 KR: Reduce unable to match orbs effect by 9999 turns
+
+# 18290/179 - 
+Tags: HEAL
+Game: 
+JP: 2ターンの間、最大HPの50％分回復
+EN: For 2 turns, recover 50% of max HP
+KR: For 2 turns, recover 50% of max HP
 

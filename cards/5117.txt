@@ -4,11 +4,11 @@ AWK: 27,27,28,21,53,43,43,44,64
 SAWK: 27,52,59
 
 # 12657/116 - Beautiful Memories
-Tags: REDUCE_DAMAGE,EXTENDS_TIME
+Tags: ENHANCED_ATTACK,REDUCE_DAMAGE,EXTENDS_TIME
 Game: 3x Orb move time & reduces damage with number of [Two-Pronged Attack] Awoken Skills in team for 1 turn
-JP: 1ターンの間、ドロップ操作時間が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
-EN: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
-KR: For 1 turn, 3x orb move time; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+JP: 1ターンの間、ドロップ操作時間が3倍。1ターンの間、光属性の攻撃力が3倍。チーム内の2体攻撃の覚醒数1つにつき受けるダメージを10％減少
+EN: For 1 turn, 3x orb move time; For 1 turn, 3x ATK for Light Att.; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
+KR: For 1 turn, 3x orb move time; For 1 turn, 3x ATK for Light Att.; For 1 turn, reduce damage taken by 10% for each Two-Pronged Attack awakening skill on the team
 
 # 12660/138 - May my love reach you
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

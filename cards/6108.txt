@@ -4,11 +4,11 @@ AWK: 10,10,56,21,28,48,48,32,33
 SAWK: 43,48,55
 
 # 16791/116 - Blooming Cherry Blossoms
-Tags: ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
+Tags: HEAL,ALL_ORBS_CONVERT,ADD_COMBO,REMOVE_LOCK
 Game: Adds 2 combos for 1 turn, removes Orb locks; changes all Orbs to Fire & Wood Orbs
-JP: 1ターンの間、2コンボ加算される。全ドロップのロック状態を解除。全ドロップを火と木ドロップに変化
-EN: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs
-KR: For 1 turn, increase combo count by 2; Unlock all orbs; Change all orbs to Fire and Wood orbs
+JP: 2ターンの間、2コンボ加算される。2ターンの間、最大HPの50％分回復。全ドロップのロック状態を解除。全ドロップを火と木ドロップに変化
+EN: For 2 turns, increase combo count by 2; For 2 turns, recover 50% of max HP; Unlock all orbs; Change all orbs to Fire and Wood orbs
+KR: For 2 turns, increase combo count by 2; For 2 turns, recover 50% of max HP; Unlock all orbs; Change all orbs to Fire and Wood orbs
 
 # 16795/138 - Mysterious Sakura Cloud
 Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
