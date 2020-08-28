@@ -1,6 +1,6 @@
 #5200 Male Hunter, Zeus - Giga Gear
 HP: 3010 ATK: 1960 RCV: 348 LB: 25
-AWK: 21,21,19,12,12,12,39,33,31
+AWK: 21,56,53,12,12,12,39,33,31
 SAWK: 40,41,52
 
 # 13118/116 - Spirit Reckoning
@@ -12,9 +12,9 @@ KR: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects
 
 # 13121/138 - Thunderblade Strike
 Tags: AUTO_HEAL,ENHANCED_ATK
-Stats: [1, 15.0, 1.0, 0.0]
+Stats: [1, 18.0, 1.0, 0.0]
 Game: 7.5x ATK when HP is full, 2x ATK with 2+ combos; recovers 10x RCV as HP when matching Orbs
-JP: HPが満タン時攻撃力が7.5倍。2コンボ以上で攻撃力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
-EN: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
-KR: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+JP: HPが満タン時攻撃力が9倍。2コンボ以上で攻撃力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
+EN: 9x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+KR: 9x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
 

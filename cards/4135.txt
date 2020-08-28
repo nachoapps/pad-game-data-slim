@@ -1,14 +1,14 @@
 #4135 Thunderlord Zinogre
 HP: 6507 ATK: 3155 RCV: 204 LB: 25
-AWK: 10,10,53,19,19,43,28,56,51
+AWK: 52,53,19,19,43,28,56,51,51
 SAWK: 43,61,56
 
 # 9789/116 - Thunderbolt Shock
-Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS
+Tags: ALL_ORBS_CONVERT,VOID_DAMAGE_ABSORBS,VOID_ATT_ABSORBS
 Game: Voids damage absorption for 1 turn; changes Orbs to all Attributes
-JP: 1ターンの間、ダメージ吸収を無効化する。全ドロップを火、水、木、光、闇ドロップに変化
-EN: For 1 turn, bypass damage absorb shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
-KR: For 1 turn, bypass damage absorb shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+JP: 1ターンの間、ダメージ吸収と属性吸収を無効化する。全ドロップを火、水、木、光、闇ドロップに変化
+EN: For 1 turn, bypass damage absorb shield and att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
+KR: For 1 turn, bypass damage absorb shield and att. absorb shield effects; Change all orbs to Fire, Water, Wood, Light, and Dark orbs
 
 # 9792/138 - True Awakening
 Tags: ENHANCED_ATK,REDUCE_DAMAGE

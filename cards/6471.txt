@@ -1,0 +1,12 @@
+#6471 真・黒龍棍【天帝】
+HP: 4300 ATK: 4000 RCV: 60 LB: 0
+AWK: 49,45,55,12,2
+SAWK: 
+
+# 18258/116 - 滅びの焦熱球
+Tags: DROP_CHANCE,ADD_COMBO,VOID_SKYFALLS
+Game: 2ターンの間、落ちコンなし、1コンボ加算。 2ターンの間、火、木、闇、回復ドロップのみ落ちてくる。
+JP: 2ターンの間、落ちコンしなくなる。2ターンの間、1コンボ加算される。2ターンの間、火、木、闇、回復ドロップのみ落ちてくる
+EN: For 2 turns, no skyfall; For 2 turns, increase combo count by 1; For 2 turns, only Fire, Wood, Dark, and Heal orbs will appear
+KR: For 2 turns, no skyfall; For 2 turns, increase combo count by 1; For 2 turns, only Fire, Wood, Dark, and Heal orbs will appear
+

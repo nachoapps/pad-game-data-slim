@@ -1,0 +1,20 @@
+#6458 ムフェト・ジーヴァ
+HP: 8095 ATK: 1994 RCV: 142 LB: 25
+AWK: 10,10,21,22,22,48,48,48,62
+SAWK: 48,62,28
+
+# 18214/116 - 王の雫
+Tags: LINE_ORBS_CONVERTER
+Game: 最上段横1列を火ドロップに変化。 左端縦1列を火ドロップに変化。
+JP: 最上段を火ドロップに変化。最左端を火ドロップに変化
+EN: Change the top row to Fire orbs; Change the far left column to Fire orbs
+KR: Change the top row to Fire orbs; Change the far left column to Fire orbs
+
+# 18218/138 - 赤龍
+Tags: ENHANCED_HP_ATK
+Stats: [2.5, 22.0, 0.25, 0.0]
+Game: 総回復力が激減するが、火属性のHPが2.5倍。 火を6個以上つなげて消すと攻撃力が上昇、最大22倍。
+JP: 火属性のHPが2.5倍。回復力が0.25倍。火を6個以上つなげて消すと攻撃力が16倍、最大12個で22倍。
+EN: 2.5x HP for Fire Att.; 0.25x RCV; 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+KR: 2.5x HP for Fire Att.; 0.25x RCV; 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+

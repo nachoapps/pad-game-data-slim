@@ -55632,19 +55632,19 @@ KR: 3x ATK and 1.5x HP when in multiplayer mode
 
 # 13121/138 - Thunderblade Strike
 Tags: AUTO_HEAL,ENHANCED_ATK
-Stats: [1, 15.0, 1.0, 0.0]
+Stats: [1, 18.0, 1.0, 0.0]
 Game: 7.5x ATK when HP is full, 2x ATK with 2+ combos; recovers 10x RCV as HP when matching Orbs
-JP: HPが満タン時攻撃力が7.5倍。2コンボ以上で攻撃力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
-EN: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
-KR: 7.5x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+JP: HPが満タン時攻撃力が9倍。2コンボ以上で攻撃力が2倍。ドロップ消した時、回復力ｘ10倍のHPを回復。
+EN: 9x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
+KR: 9x ATK when HP is full; 2x ATK when 2 or more combos; 10x RCV additional heal when matching orbs
 
 # 13122/183 - 
 Tags: ENHANCED_ATK
-Stats: [1, 7.5, 1.0, 0.0]
+Stats: [1, 9.0, 1.0, 0.0]
 Game: 
-JP: HPが満タン時攻撃力が7.5倍。
-EN: 7.5x ATK when HP is full
-KR: 7.5x ATK when HP is full
+JP: HPが満タン時攻撃力が9倍。
+EN: 9x ATK when HP is full
+KR: 9x ATK when HP is full
 
 # 13123/66 - 
 Tags: ENHANCED_ATK
@@ -55696,27 +55696,27 @@ KR: 1.5x all stats when in multiplayer mode
 
 # 13135/138 - Divine Wings of a White Swan
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 12.5, 2.5, 0.0]
+Stats: [1.0, 21.0, 3.0, 0.0]
 Game: 2.5x ATK & RCV for Healer Type; ATK increases with 4+ combos, up to 5x
-JP: 回復タイプの攻撃力と回復力が2.5倍。4コンボ以上で攻撃力が2倍、最大7コンボで5倍。
-EN: 2.5x ATK & RCV for Healer type; 2x ATK when 4 or more combos up to 5x at 7 combos
-KR: 2.5x ATK & RCV for Healer type; 2x ATK when 4 or more combos up to 5x at 7 combos
+JP: 回復タイプの攻撃力と回復力が3倍。4コンボ以上で攻撃力が2倍、最大9コンボで7倍。
+EN: 3x ATK & RCV for Healer type; 2x ATK when 4 or more combos up to 7x at 9 combos
+KR: 3x ATK & RCV for Healer type; 2x ATK when 4 or more combos up to 7x at 9 combos
 
 # 13136/129 - 
 Tags: ENHANCED_ATK_RCV
-Stats: [1.0, 2.5, 2.5, 0.0]
+Stats: [1.0, 3.0, 3.0, 0.0]
 Game: 
-JP: 回復タイプの攻撃力と回復力が2.5倍。
-EN: 2.5x ATK & RCV for Healer type
-KR: 2.5x ATK & RCV for Healer type
+JP: 回復タイプの攻撃力と回復力が3倍。
+EN: 3x ATK & RCV for Healer type
+KR: 3x ATK & RCV for Healer type
 
 # 13137/98 - 
 Tags: ENHANCED_ATK
-Stats: [1, 5.0, 1, 0]
+Stats: [1, 7.0, 1, 0]
 Game: 
-JP: 4コンボ以上で攻撃力が2倍、最大7コンボで5倍。
-EN: 2x ATK when 4 or more combos up to 5x at 7 combos
-KR: 2x ATK when 4 or more combos up to 5x at 7 combos
+JP: 4コンボ以上で攻撃力が2倍、最大9コンボで7倍。
+EN: 2x ATK when 4 or more combos up to 7x at 9 combos
+KR: 2x ATK when 4 or more combos up to 7x at 9 combos
 
 # 13141/138 - Toyama Bay's Treasure - Severe Winter
 Tags: ENHANCED_HP_ATK_RCV,REDUCE_DAMAGE,EXTEND_TIME
@@ -61248,11 +61248,11 @@ KR: 2x ATK when 6 or more combos up to 18x at 14 combos
 
 # 14417/138 - City of Gods' Spear Mastery
 Tags: ENHANCED_ATK,REDUCE_DAMAGE,EXTEND_TIME
-Stats: [1.0, 15.0, 1.0, 0.25]
+Stats: [1.0, 15.0, 1.0, 0.5]
 Game: 3x ATK for God Type, Orb move time +2 seconds; 5x ATK & reduces dmg when Light & Heal attack at once
-JP: 神タイプの攻撃力が3倍。ドロップ操作時間を2秒延長。光、回復の同時攻撃で攻撃力が5倍、受けるダメージを25％減少。
-EN: 3x ATK for God type; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching Light and Heal
-KR: 3x ATK for God type; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 25% when matching Light and Heal
+JP: 神タイプの攻撃力が3倍。ドロップ操作時間を2秒延長。光、回復の同時攻撃で攻撃力が5倍、受けるダメージを50％減少。
+EN: 3x ATK for God type; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 50% when matching Light and Heal
+KR: 3x ATK for God type; Increase orb movement time by 2 seconds; 5x ATK and reduce damage taken by 50% when matching Light and Heal
 
 # 14418/185 - _City of Gods' Spear Mastery
 Tags: ENHANCED_ATK,EXTEND_TIME
@@ -61264,11 +61264,11 @@ KR: 3x ATK for God type; Increase orb movement time by 2 seconds
 
 # 14419/171 - __City of Gods' Spear Mastery
 Tags: ENHANCED_ATK,REDUCE_DAMAGE
-Stats: [1, 5.0, 1, 0.25]
+Stats: [1, 5.0, 1, 0.5]
 Game: 
-JP: 光、回復の同時攻撃で攻撃力が5倍、受けるダメージを25％減少。
-EN: 5x ATK and reduce damage taken by 25% when matching Light and Heal
-KR: 5x ATK and reduce damage taken by 25% when matching Light and Heal
+JP: 光、回復の同時攻撃で攻撃力が5倍、受けるダメージを50％減少。
+EN: 5x ATK and reduce damage taken by 50% when matching Light and Heal
+KR: 5x ATK and reduce damage taken by 50% when matching Light and Heal
 
 # 14420/123 - 
 Tags: ENHANCED_ATK_RCV
@@ -76310,6 +76310,110 @@ Game:
 JP: 木を4個以上つなげて消すと攻撃力が19倍。
 EN: 19x ATK when matching 4 or more connected Wood orbs
 KR: 19x ATK when matching 4 or more connected Wood orbs
+
+# 18218/138 - 赤龍
+Tags: ENHANCED_HP_ATK
+Stats: [2.5, 22.0, 0.25, 0.0]
+Game: 総回復力が激減するが、火属性のHPが2.5倍。 火を6個以上つなげて消すと攻撃力が上昇、最大22倍。
+JP: 火属性のHPが2.5倍。回復力が0.25倍。火を6個以上つなげて消すと攻撃力が16倍、最大12個で22倍。
+EN: 2.5x HP for Fire Att.; 0.25x RCV; 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+KR: 2.5x HP for Fire Att.; 0.25x RCV; 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+
+# 18219/48 - 
+Tags: ENHANCED_HP
+Stats: [2.5, 1, 1, 0]
+Game: 
+JP: 火属性のHPが2.5倍。
+EN: 2.5x HP for Fire Att.
+KR: 2.5x HP for Fire Att.
+
+# 18220/129 - 
+Tags: 
+Stats: [1.0, 1.0, 0.25, 0.0]
+Game: 
+JP: 回復力が0.25倍。
+EN: 0.25x RCV
+KR: 0.25x RCV
+
+# 18221/119 - 
+Tags: ENHANCED_ATK
+Stats: [1, 22.0, 1, 0]
+Game: 
+JP: 火を6個以上つなげて消すと攻撃力が16倍、最大12個で22倍。
+EN: 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+KR: 16x ATK when matching 6 or more connected Fire orbs up to 22x at 12 orbs
+
+# 18222/199 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火、回復同時攻撃、固定1ダメージ。
+EN: 1 additional damage when matching Fire and Heal at once
+KR: 1 additional damage when matching Fire and Heal at once
+
+# 18223/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 9.0, 1, 0]
+Game: 
+JP: 火の2コンボ以上で攻撃力が9倍。
+EN: 9x ATK when matching 2+ Fire combos
+KR: 9x ATK when matching 2+ Fire combos
+
+# 18231/138 - 海竜
+Tags: ENHANCED_HP_ATK,ADDITIONAL_ATTACK
+Stats: [2.0, 18.0, 1.0, 0.0]
+Game: 水属性のHPが2倍、攻撃力は9倍。 光水の同時攻撃で攻撃力が2倍、固定30万ダメージ。
+JP: 水属性の攻撃力が9倍、HPが2倍。光、水の同時攻撃で攻撃力が2倍。水光同時攻撃で固定300000ダメージ。
+EN: 9x ATK and 2x HP for Water Att.; 2x ATK when matching Light and Water; 300000 additional damage when matching Water and Light
+KR: 9x ATK and 2x HP for Water Att.; 2x ATK when matching Light and Water; 300000 additional damage when matching Water and Light
+
+# 18232/129 - 
+Tags: ENHANCED_HP_ATK
+Stats: [2.0, 9.0, 1.0, 0.0]
+Game: 
+JP: 水属性の攻撃力が9倍、HPが2倍。
+EN: 9x ATK and 2x HP for Water Att.
+KR: 9x ATK and 2x HP for Water Att.
+
+# 18233/124 - 
+Tags: ENHANCED_ATK
+Stats: [1, 2.0, 1, 0]
+Game: 
+JP: 光、水の同時攻撃で攻撃力が2倍。
+EN: 2x ATK when matching Light and Water
+KR: 2x ATK when matching Light and Water
+
+# 18237/138 - 怪鳥
+Tags: ENHANCED_HP_ATK_RCV,ADDITIONAL_ATTACK,EXTEND_TIME
+Stats: [1.5, 13.5, 1.5, 0]
+Game: 火属性の全パラメータが1.5倍。ドロップ操作を2秒延長。 火の2コンボ以上で攻撃力が9倍、固定1ダメージ。
+JP: 火属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。火の2コンボ以上で固定1ダメージ。火の2コンボ以上で攻撃力が9倍。
+EN: 1.5x all stats for Fire Att.; Increase orb movement time by 2 seconds; 1 additional damage when matching 2 or more Fire combos; 9x ATK when matching 2+ Fire combos
+KR: 1.5x all stats for Fire Att.; Increase orb movement time by 2 seconds; 1 additional damage when matching 2 or more Fire combos; 9x ATK when matching 2+ Fire combos
+
+# 18238/185 - 
+Tags: ENHANCED_HP_ATK_RCV,EXTEND_TIME
+Stats: [1.5, 1.5, 1.5, 0]
+Game: 
+JP: 火属性の全パラメータが1.5倍。ドロップ操作時間を2秒延長。
+EN: 1.5x all stats for Fire Att.; Increase orb movement time by 2 seconds
+KR: 1.5x all stats for Fire Att.; Increase orb movement time by 2 seconds
+
+# 18239/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 火の2コンボ以上で固定1ダメージ。
+EN: 1 additional damage when matching 2 or more Fire combos
+KR: 1 additional damage when matching 2 or more Fire combos
+
+# 18270/201 - 
+Tags: ADDITIONAL_ATTACK
+Stats: [1, 1, 1, 0]
+Game: 
+JP: 水光同時攻撃で固定300000ダメージ。
+EN: 300000 additional damage when matching Water and Light
+KR: 300000 additional damage when matching Water and Light
 
 # 18271/138 - 奇縁の霊力
 Tags: ENHANCED_HP_ATK,EXTRA_COMBOS

@@ -1,14 +1,14 @@
 #4137 Legiana
 HP: 4003 ATK: 3006 RCV: 746 LB: 25
-AWK: 10,10,19,21,46,46,46,43
+AWK: 52,19,21,46,46,46,60,43,43
 SAWK: 43,54,44
 
 # 9801/116 - Mid-Air Frost Blast
-Tags: RECOVER_BIND,ORB_REFRESH
+Tags: RECOVER_BIND,ORB_REFRESH,AWOKEN_INVALID_RECOVERY,BIND_AWOKEN_INVALID_RECOVERY
 Game: Reduces bind status by 5 turns; replaces all Orbs
-JP: バインドを5ターン回復。ランダムでドロップを入れ替える
-EN: Reduce binds by 5 turns; Replace all orbs
-KR: Reduce binds by 5 turns; Replace all orbs
+JP: バインドと覚醒無効を5ターン回復。ランダムでドロップを入れ替える
+EN: Reduce binds and awoken skill binds by 5 turns; Replace all orbs
+KR: Reduce binds and awoken skill binds by 5 turns; Replace all orbs
 
 # 9804/138 - Legiana Power
 Tags: ENHANCED_ATK,NO_SKYFALL_COMBOS

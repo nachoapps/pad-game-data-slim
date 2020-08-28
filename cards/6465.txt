@@ -1,0 +1,12 @@
+#6465 氷臣ダルク
+HP: 4350 ATK: 3160 RCV: 550 LB: 0
+AWK: 49,52,62,15,15,2
+SAWK: 
+
+# 18240/116 - アブソリュート・ゼロ
+Tags: LINE_ORBS_CONVERTER
+Game: 1ターンの間、回復力が0になる。 左端縦2列と右端縦2列を水ドロップに変化。
+JP: 1ターンの間、回復力が0倍。最左端と左から2列目と右から2列目と最右端を水ドロップに変化
+EN: For 1 turn, 0x RCV; Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Water orbs
+KR: For 1 turn, 0x RCV; Change the far left column and the 2nd column from the left and the 2nd column from the right and the far right column to Water orbs
+
