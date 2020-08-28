@@ -5,7 +5,7 @@ SAWK: 52,56,55
 
 # 10473/116 - Demonic Decree
 Tags: GRAVITY,ATTACK_STANCE,GUARD_STANCE,ORB_CONVERT,ALL_ORBS_CONVERT
-Game: Reduces enemies' HP by 20%; changes Orbs to all Attributes, Heal, Jammers, Poison & Lethal Poison Orbs
+Game: Reduces enemies' remaining HP by 20%; changes Orbs to all Att., Heal, Poison, Lethal Poison Orbs & Jammers
 JP: 敵の現HPの20％分のダメージ。全ドロップを火、水、木、光、闇、回復、お邪魔、毒、猛毒ドロップに変化
 EN: Reduce enemies' HP by 20%; Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs
 KR: Reduce enemies' HP by 20%; Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, and Mortal Poison orbs

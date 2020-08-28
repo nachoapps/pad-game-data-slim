@@ -5,7 +5,7 @@ SAWK:
 
 # 13118/116 - Spirit Reckoning
 Tags: GRAVITY,VOID_ATT_ABSORBS
-Game: Reduces enemies' HP by 35%; voids Attribute absorption for 1 turn
+Game: Reduces enemies' remaining HP by 35%; voids Attribute absorption for 1 turn
 JP: 敵の現HPの35％分のダメージ。1ターンの間、属性吸収を無効化する
 EN: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects
 KR: Reduce enemies' HP by 35%; For 1 turn, bypass att. absorb shield effects

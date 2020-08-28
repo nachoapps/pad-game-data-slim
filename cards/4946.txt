@@ -5,7 +5,7 @@ SAWK: 43,48,59
 
 # 12217/116 - Overflowing Torch Flames
 Tags: HEAL,ALL_ORBS_CONVERT,RECOVER_BIND,HEAL_BIND_RECOVERY
-Game: Changes all Orbs to Fire & Heal Orbs; recovers 40% of max HP & reduces bind status by 4 turns
+Game: Changes all Orbs to Fire & Heal Orbs; recovers 40% HP & reduces bind status by 4 turns
 JP: 全ドロップを火と回復ドロップに変化。最大HP40％分回復。バインドを4ターン回復
 EN: Change all orbs to Fire and Heal orbs; Recover 40% of max HP; Reduce binds by 4 turns
 KR: Change all orbs to Fire and Heal orbs; Recover 40% of max HP; Reduce binds by 4 turns

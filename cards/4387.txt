@@ -5,7 +5,7 @@ SAWK: 52,48,58
 
 # 10461/116 - Kougaon
 Tags: ORB_CONVERT,NEW_GRAVITY
-Game: Inflicts damage equal to 5% of enemies' max HP; changes Water Orbs to Light Orbs
+Game: Inflicts damage equal to 5% of enemies' HP; changes Water Orbs to Light Orbs
 JP: 敵の最大HPの5％分のダメージ。水ドロップを光ドロップに変化
 EN: Deal damage equal to 5% of enemies' max HP; Change Water orbs to Light orbs
 KR: Deal damage equal to 5% of enemies' max HP; Change Water orbs to Light orbs

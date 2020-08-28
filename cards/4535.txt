@@ -5,7 +5,7 @@ SAWK:
 
 # 3866/116 - Wrath of Zeus
 Tags: GRAVITY,EXTENDS_TIME
-Game: Reduces enemies' HP by 35%; extends time to move Orbs 2x for 1 turn
+Game: Reduces enemies' remaining HP by 35%; 2x Orb move time for 1 turn
 JP: 敵の現HPの35％分のダメージ。1ターンの間、ドロップ操作時間が2倍
 EN: Reduce enemies' HP by 35%; For 1 turn, 2x orb move time
 KR: Reduce enemies' HP by 35%; For 1 turn, 2x orb move time

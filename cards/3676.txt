@@ -5,7 +5,7 @@ SAWK:
 
 # 8047/116 - Charge Shot
 Tags: GRAVITY,MENACE
-Game: Delays enemies' next move for 2 turns; reduces enemies' HP by 10%
+Game: Delays enemies' next move for 2 turns; reduces enemies' remaining HP by 10%
 JP: 敵の行動を2ターン遅らせる。敵の現HPの10％分のダメージ
 EN: Delay enemies' next attack by 2 turns; Reduce enemies' HP by 10%
 KR: Delay enemies' next attack by 2 turns; Reduce enemies' HP by 10%

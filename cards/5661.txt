@@ -5,7 +5,7 @@ SAWK: 33,43,54
 
 # 15040/116 - Feel the hammer of justice!
 Tags: ADD_COMBO,NEW_GRAVITY
-Game: Adds 1 combo for 1 turn; inflicts damage equal to 5% of enemies' max HP
+Game: Adds 1 combo for 1 turn; inflicts damage equal to 5% of enemies' HP
 JP: 1ターンの間、1コンボ加算される。敵の最大HPの5％分のダメージ
 EN: For 1 turn, increase combo count by 1; Deal damage equal to 5% of enemies' max HP
 KR: For 1 turn, increase combo count by 1; Deal damage equal to 5% of enemies' max HP

@@ -5,7 +5,7 @@ SAWK: 52,27,55
 
 # 1645/116 - Gravity Room
 Tags: GRAVITY,GUARD_STANCE,ORB_CONVERT,REDUCE_MATCH_RESTRICTION
-Game: Reduces enemies' HP by 10%, fully recovers unmatchable Orb status; changes Jammers & Poison Orbs to Heal Orbs
+Game: Reduces enemies' remaining HP by 10%, fully recovers  unmatchable Orb status; changes Jammers & Poison to Heal
 JP: 敵の現HPの10％分のダメージ。消せないドロップ状態を9999ターン回復。お邪魔と毒ドロップを回復ドロップに変化
 EN: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer and Poison orbs to Heal orbs
 KR: Reduce enemies' HP by 10%; Reduce unable to match orbs effect by 9999 turns; Change Jammer and Poison orbs to Heal orbs

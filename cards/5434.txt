@@ -5,7 +5,7 @@ SAWK: 60,53,55
 
 # 11640/116 - Heaven Flash
 Tags: GRAVITY,ATTACK_STANCE,ORB_CONVERT
-Game: Reduces enemies' HP by 10%; changes Jammers, Heal & Poison Orbs to Light Orbs
+Game: Reduces enemies' remaining HP by 10%; changes Jammers, Heal & Poison Orbs to Light Orbs
 JP: 敵の現HPの10％分のダメージ。回復、お邪魔、毒、猛毒ドロップを光ドロップに変化
 EN: Reduce enemies' HP by 10%; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs
 KR: Reduce enemies' HP by 10%; Change Heal, Jammer, Poison, and Mortal Poison orbs to Light orbs

@@ -1,11 +1,11 @@
-#6338 超転生ガブリエル
+#6338 Super Reincarnated Gabriel
 HP: 5646 ATK: 2843 RCV: 198 LB: 15
 AWK: 52,21,28,53,53,48,48,59,33
 SAWK: 48,43,54,38,64
 
 # 8071/116 - Holy Water's Judgment
 Tags: GUARD_STANCE,HEAL,ORB_CONVERT,DOUBLE_ORBS_CONVERT
-Game: Changes Light Orbs to Water & Dark Orbs to Heal; recovers 30% of max HP
+Game: Changes Light Orbs to Water & Dark Orbs to Heal; recovers 50% HP
 JP: 光ドロップを水ドロップに、闇ドロップを回復ドロップに変化。最大HP50％分回復
 EN: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP
 KR: Change Light orbs to Water orbs; Change Dark orbs to Heal orbs; Recover 50% of max HP

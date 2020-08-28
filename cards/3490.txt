@@ -5,7 +5,7 @@ SAWK: 60,43,46
 
 # 3516/116 - Kirin's Boisterous Dance
 Tags: GRAVITY,RECOVER_BIND,EXTENDS_TIME
-Game: Reduces enemies' HP by 20%, reduces bind status by 5 turns; 1.5x Orb move time for 1 turn
+Game: Reduces enemies' remaining HP by 20%, reduces  bind status by 5 turns; 1.5x Orb move time for 1 turn
 JP: 敵の現HPの20％分のダメージ。バインドを5ターン回復。1ターンの間、ドロップ操作時間が1.5倍
 EN: Reduce enemies' HP by 20%; Reduce binds by 5 turns; For 1 turn, 1.5x orb move time
 KR: Reduce enemies' HP by 20%; Reduce binds by 5 turns; For 1 turn, 1.5x orb move time

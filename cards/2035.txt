@@ -5,7 +5,7 @@ SAWK:
 
 # 2604/116 - Hey, again.
 Tags: HEAL,RECOVER_BIND,REDUCE_SKILL_TURN,HEAL_BIND_RECOVERY
-Game: Recovers 50% of max HP and fully recovers bind status; other allies' skills charged by 1 turn
+Game: Recovers 50% HP, fully recovers bind status; other allies' skills charged by 1 turn
 JP: 最大HP50％分回復。バインドを全回復。自分以外の味方スキルが1ターンの溜まる
 EN: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn
 KR: Recover 50% of max HP; Remove all binds; Charge all allies' skills by 1 turn

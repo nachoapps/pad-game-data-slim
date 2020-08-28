@@ -5,7 +5,7 @@ SAWK: 60,59,57
 
 # 5111/116 - Wrath of God X
 Tags: ENHANCED_ATTACK,GRAVITY
-Game: Reduces enemies' HP by 35%; 2x ATK for God Type for 1 turn
+Game: Reduces enemies' remaining HP by 35%; 2x ATK for God Type for 1 turn
 JP: 敵の現HPの35％分のダメージ。1ターンの間、神タイプの攻撃力が2倍
 EN: Reduce enemies' HP by 35%; For 1 turn, 2x ATK for God type
 KR: Reduce enemies' HP by 35%; For 1 turn, 2x ATK for God type

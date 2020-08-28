@@ -5,7 +5,7 @@ SAWK:
 
 # 500/116 - Gravity Breath
 Tags: REDUCE_DEFENSE,GRAVITY
-Game: Reduces enemies' HP by 35%; voids enemies' DEF for 1 turn
+Game: Reduces enemies' remaining HP by 35%; voids enemies' DEF for 1 turn
 JP: 敵の現HPの35％分のダメージ。1ターンの間、敵の防御力が100％下がる
 EN: Reduce enemies' HP by 35%; For 1 turn, reduce enemies' defense by 100%
 KR: Reduce enemies' HP by 35%; For 1 turn, reduce enemies' defense by 100%

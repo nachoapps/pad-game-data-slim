@@ -5,7 +5,7 @@ SAWK: 46,21,57
 
 # 11226/116 - Twin Cannon - Full Burst
 Tags: ENHANCED_ATTACK,LINE_ORBS_CONVERTER,NEW_GRAVITY
-Game: Inflicts damage equal to 5% of enemies' max HP; creates a cross of Water Orbs, 1.5x ATK for Water Att. for 1 turn
+Game: Inflicts damage equal to 5% of enemies' HP; creates a cross of Water Orbs, 1.5x ATK for Water Att. for 1 turn
 JP: 敵の最大HPの5％分のダメージ。上から3行目を水ドロップに変化。右から3列目を水ドロップに変化。1ターンの間、水属性の攻撃力が1.5倍
 EN: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.
 KR: Deal damage equal to 5% of enemies' max HP; Change the middle row to Water orbs; Change the 3rd column from the right to Water orbs; For 1 turn, 1.5x ATK for Water Att.

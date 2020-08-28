@@ -5,7 +5,7 @@ SAWK:
 
 # 15405/116 - Fight me, Dogma fiends! 
 Tags: VOID_DAMAGE,NEW_GRAVITY
-Game: Inflicts damage equal to 25% of enemies' max HP; voids damage for 2 turns
+Game: Inflicts damage equal to 25% of enemies' HP; voids damage for 2 turns
 JP: 敵の最大HPの25％分のダメージ。2ターンの間、受けるダメージを100％減少
 EN: Deal damage equal to 25% of enemies' max HP; For 2 turns, reduce damage taken by 100%
 KR: Deal damage equal to 25% of enemies' max HP; For 2 turns, reduce damage taken by 100%

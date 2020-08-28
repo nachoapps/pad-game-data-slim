@@ -5,7 +5,7 @@ SAWK: 52,54,57
 
 # 3964/116 - Implosion
 Tags: REDUCE_DEFENSE,GRAVITY
-Game: Reduces enemies' HP by 15%; voids enemies' DEF for 1 turn
+Game: Reduces enemies' remaining HP by 15%; voids enemies' DEF for 1 turn
 JP: 敵の現HPの15％分のダメージ。1ターンの間、敵の防御力が100％下がる
 EN: Reduce enemies' HP by 15%; For 1 turn, reduce enemies' defense by 100%
 KR: Reduce enemies' HP by 15%; For 1 turn, reduce enemies' defense by 100%
